@@ -31,3 +31,14 @@ For sentiment analysis, we could try not to get only happy/sad, but more differe
 If we are going to follow the narrative that they forgot stuff and they remember things by using the graph, we could try something like that.
 
 I'm talking about paths to see how far is someone from someone, communities from one node, or things that from one node, with it's neighbor can do something relevant.
+
+
+About the data:
+
+We could try to show, who is the most liked (more times an ally) and the most hated(more times enemy). Most team worker (in more teams), and the one that was in more teams a n d not anymore.
+
+Try to prove the enemy of my enemy is my friend.
+
+Try to connect character with same alias or codename, see popular code names or alias or nickname.
+
+Try to use some metadata to see, for example realities, whether the identity is secret or not, or place of birth, relation to other characters (marital status or affiliations) or we could even use the creators, to relate the characters
