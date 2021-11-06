@@ -1,0 +1,33 @@
+Now that we have a basic graph, we could try to spice it up.
+
+For now, we could start analyzing basic stats from that graph.
+
+First of all, we should get the gcc, because there are some nodes without links, and without degree.
+
+Then we could try some communities thing
+
+We could give more information to the graph, for example, in the links, saying if they are allies, enemies, belong to the same team, etc.
+
+Other thing we could do is try to create a graph using the teams data frame, and see how similar are one from the other.
+
+Using this other graph we could do some communities, and see how close are to the teams they belong to.
+
+We could use the quotes of each character to to sentiment analysis and try to get the sentiment of a team or something like that.
+
+We could try a cool visualization, but i don't know what we could use apart from the degree.
+
+Take a look at Week5 -> Part B: Advanced tools, it may be useful.
+
+For more nltk, we could find popular sentences either in the most popular characters, by community, in all characters, etc etc. Do stuff with nltk, which could be cool. (Word-clouds too of course). The dispersion plots could be cool too maybe, if we have relevant words or something we want to show. We could try to plot the usage of certain words in different characters I don't know. Lexical diversity and all that (Week 6 may be useful for this.)
+
+
+I haven't check this, but we could try to get gender, race and stuff like that from the characters to get word frequency distributions by this things.
+
+TF-IDF -> may be important/relevant.
+
+
+For sentiment analysis, we could try not to get only happy/sad, but more different feelings, that may indicate more things.
+
+If we are going to follow the narrative that they forgot stuff and they remember things by using the graph, we could try something like that.
+
+I'm talking about paths to see how far is someone from someone, communities from one node, or things that from one node, with it's neighbor can do something relevant.
