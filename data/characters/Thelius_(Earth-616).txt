@@ -1,0 +1,54 @@
+{{Marvel Database:Character Template
+| Image                   = Thelius (Earth-616) from FF Fifty Fantastic Years Vol 1 1 001.png 
+| Name                    = Thelius
+| CurrentAlias            = Crusader
+| Aliases                 = [[Bob Grayson]]
+
+| Affiliation             = [[Eternals (Race)|Eternals]]
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|FF: Fifty Fantastic Years #1}}
+| Gender                  = Male
+| Height                  = 5'10"
+| Weight                  = 170 lbs
+| Eyes                    = Blue
+| Hair                    = Blond
+| UnusualFeatures         = 
+
+| Origin                  = [[Eternals (Homo immortalis)|Eternal]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = Eternal colony, [[Uranus (Planet)|Uranus]]
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = Eternals of Uranus
+| Occupation              = Emissary
+| Education               = Graduate of Uranian educational system
+| BaseOfOperations        = [[Uranus (Planet)|Uranus]]
+
+| Creators                = Roy Thomas; George Pérez
+| First                   = Fantastic Four #164
+| Death                   = Fantastic Four #165
+
+| History                 = Thelius was one of the Uranian branch of the [[Eternals]] who physically resembled [[Robert Grayson (Earth-616)|Robert Grayson]] AKA Marvel Boy, formerly a guest of the Eternals. Unknown to Grayson and his father, the headband which the Eternals had given to Grayson was actually transmitting his memories into the mind of Thelius, whom the Eternals intended to use as a backup Marvel Boy if Grayson, their 'ambassador' to Earth, became lost or was killed. Following the destruction of the Uranian Eternals, Thelius went mad and, apparently believing himself to be Grayson, went to Earth as The Crusader in order to seek revenge on the humans he blamed for not saving his people. He fought the [[Fantastic Four (Earth-616)|Fantastic Four]], but was destroyed when his [[Quantum Bands]] overloaded.{{r|Fantastic Four #164|165}}
+
+A construct duplicate of Crusader was later created by the omnipotent Thanos using the [[Infinity Gauntlet]], using Eon's corpse as fuel for his creation. Calling himself the [[Thelius (Blue Marvel) (Earth-616)|Blue Marvel]], this insane being sought to destroy [[Wendell Vaughn (Earth-616)|Quasar]] and "reclaim" the [[Quantum Bands]].{{r|Quasar #26}}
+
+| Powers                  = 
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = * [[Quantum Bands]]
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Thelius]]

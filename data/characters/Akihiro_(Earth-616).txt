@@ -1,0 +1,489 @@
+{{Marvel Database:Character Template
+| Image                   = Akihiro (Earth-616) from X-Factor Vol 4 6 001.jpg
+| Name                    = [[Akihiro]]
+| NameRef                 = {{r|Wolverine: Origins #26}}{{r|Wolverine: Weapon X Files Vol 1 1}}
+| CurrentAlias            = [[Daken]]
+| EditorialNames          = Formerly [[Dark Wolverine]], [[Daken: Dark Wolverine Vol 1|Daken: Dark Wolverine]]
+| Aliases                 = Boy Wonder,{{r|X-Men: Original Sin Vol 1 1}} Daken Akihiro,{{r|Dark Avengers #1}}<ref group="note">(often referred to as this by other characters, despite Akihiro being his given name and Daken an alias){{citation}}</ref> [[Horsemen of Apocalypse (Earth-616)|Horseman of Death]],{{r|Uncanny Avengers Vol 1 10}} Kid-Wolverine,{{r|Uncanny X-Force #30}} Last of the Mohawkians,{{r|Wolverine: Origins Vol 1 24}} "Mongrel",{{r|Wolverine: Origins #26}}<ref>(English translation of name)</ref> [[Wolverine]]{{r|Dark Avengers #1}}
+
+| Affiliation             = {{m|X-Factor Investigations}}; formerly {{m|X-Men}}, {{m|Soteira (Asset Management Company)|Soteira}}, {{m|X-Men (Time-Displaced) (Earth-616)|X-Men (Blue Team)}}, {{m|Wolverines}}, {{m|Horsemen of Apocalypse}}, {{m|Brotherhood of Evil Mutants}}, {{m|Dark Avengers|Dark Avengers}} and {{m|X-Men (Osborn)|Dark X-Men}}, [[Romulus (Earth-616)|Romulus]]' organisation
+| Ancestors               = [[Mr. Howlett (Earth-616)|Mr. Howlett]] (step-paternal great grandfather, deceased)
+| Grandparents            = [[John Howlett, Sr. (Earth-616)|John Howlett, Sr.]] (step-paternal grandfather, deceased);<br>
+[[Thomas Logan (Earth-616)|Thomas Logan]] (paternal grandfather, deceased);<br>
+[[Elizabeth Hudson (Earth-616)|Elizabeth Howlett]] (paternal grandmother, deceased)
+| Parents                 = [[James Howlett (Earth-616)|Logan]] (father);<br> 
+[[Itsu (Earth-616)|Itsu]] (mother, deceased);<br>
+[[Akihira (Earth-616)|Akihira]] (adoptive father, deceased);<br>
+[[Natsumi (Earth-616)|Natsumi]] (adoptive mother, deceased)
+| Siblings                = [[Erista (Earth-616)|Erista]] (paternal half-brother);<br>
+[[Cannon Foot (Earth-616)|Cannon Foot]], [[Saw Fist (Earth-616)|Saw Fist]] & [[William Downing (Earth-616)|William Downing]] (paternal half-brothers, deceased);{{r|Wolverine Vol 4 14}}<br>
+[[Junichiro (Earth-616)|Junichiro]] (adoptive brother, deceased);<br>
+[[Laura Kinney (Earth-616)|Laura Kinney]] (paternal half-sister);<br>
+[[Gabrielle Kinney (Earth-616)|Gabby Kinney]] (clone of paternal half-sister / "paternal half-sister");<br>
+[[Fire Knives (Earth-616)|Fire Knives]] & [[Shadow S. (Earth-616)|Shadow S.]] (paternal half-sisters, deceased);{{r|Wolverine Vol 4 14}}<br>
+[[Raze Darkholme (Earth-616)|Raze Darkholme]] (paternal half-brother);<br>
+[[Amiko Kobayashi (Earth-616)|Amiko]] (foster sister)
+| Relatives               = 
+<small>'''Uncles and Grand-uncles:'''</small><br>
+[[Elias Hudson (Earth-616)|Elias Hudson]] & [[Frederick Hudson (Earth-616)|Frederick Hudson]] (grand-uncles, deceased);<br>
+[[Dog Logan (Earth-616)|Dog Logan]] (paternal uncle);<br>
+[[John Howlett, Jr. (Earth-616)|John Howlett, Jr.]] (paternal uncle, deceased)
+
+<small>'''Cousin:'''</small><br>
+[[Frederick Hudson II (Earth-616)|Frederick Hudson II]] (first cousin once removed);<br>
+[[Truett Hudson (Earth-616)|Truett Hudson]] (second cousin);<br>
+[[Victor Hudson (Earth-616)|Victor Hudson]] (second cousin);<br>
+[[James Hudson, Jr. (Earth-616)|James Hudson]] (second cousin)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Wolverine: Weapon X Files #1}}
+| Gender                  = Male
+| Height                  = 5'9"
+| Weight                  = 167 lbs
+| Eyes                    = Blue
+| Hair                    = Black
+| UnusualFeatures         = Large tribal tattoo extending from the center of his abdomen and covering most of his left pectoral muscle, trapezius, and arm all the way down to his hand;<br>Two retractable bone claws on the hand; one retractable bone claw on the undersides of his wrists
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Jasmine Falls]], [[Japan]]
+| PlaceOfDeath            = 
+| CauseOfDeath            = # Killed by his father, [[James Howlett (Earth-616)|Wolverine]]{{r|Uncanny X-Force Vol 1 34}} (revived using the [[Life Seed]] and [[Death Seed]]){{r|Uncanny Avengers Vol 1 9}}
+# Killed by [[Graydon Creed (Earth-616)|Graydon Creed]]{{r|Hunt for Wolverine: Claws of a Killer Vol 1 3}} (revived by [[Soteira (Asset Management Company) (Earth-616)|Soteira]]){{r|Return of Wolverine Vol 1 5}}
+# Killed by the [[Morrigan (Earth-616)|Morrigan]]{{r|X-Factor Vol 4 8}} (resurrected by “[[Five (Earth-616)|The Five]]”){{r|X-Factor Vol 4 8}}
+| KilledBy                = James Howlett (Earth-616); Graydon Creed (Earth-616); Morrigan (Earth-616)
+
+| Identity                = Secret
+| Citizenship             = Japanese, Krakoan
+| Occupation              = Member of [[X-Factor Investigations (Earth-616)|X-Factor]]; former assassin, criminal, Horseman of Death, government operative, adventurer
+| Education               = 
+| BaseOfOperations        = [[Boneyard (Krakoa)|Boneyard]], [[Krakoa (Earth-616)|Krakoa]], [[Pacific Ocean]]; formerly [[X-Mansion (Madripoor)|X-Mansion]], [[Hightown (Madripoor)|Hightown]], [[Madripoor]]; [[Los Angeles]], [[California (State)|California]]; [[Alcatraz Island]], [[San Francisco Bay]], [[California (State)|California]]; [[H.A.M.M.E.R. (Earth-616)|H.A.M.M.E.R.]] secret base
+
+| Creators                = Daniel Way; Steve Dillon
+| First                   = Wolverine: Origins Vol 1 5
+| First2                  = (cameo)<br>{{sld|Wolverine: Origins Vol 1 10}}(full appearance)
+
+| Quotation               = I never knew my father. I was raised... to be someone different than him. And now I'm supposed to '''be''' him. I never asked for that, but when the opportunity found me... I was curious. I wanted to know what it was like. To have people look at me and see... [[James Howlett (Earth-616)|my father]].
+| Speaker                 = [[Akihiro (Earth-616)|Daken]]
+| QuoteSource             = Dark Wolverine Vol 1 76
+
+| History                 = 
+===Early Years===
+====Origin====
+'''Akihiro''' was the son of [[James Howlett (Earth-616)|Wolverine]] and his Japanese wife, [[Itsu (Earth-616)|Itsu]]. In 1946, Itsu, while in the last stages of her pregnancy, was murdered by the [[James Buchanan Barnes (Earth-616)|Winter Soldier]] in an attempt to draw Wolverine out and return him to the custody of [[Madripoor]]. After Itsu's death, [[Romulus (Earth-616)|Romulus]] took the baby, cutting him from his mother's womb and leaving her body behind. The baby survived the incident, possibly due to his [[Homo superior|mutant]] healing factor, which he inherited from his father.{{r|Wolverine: Origins #5}}
+
+Romulus left the baby on the doorstep of [[Akihira (Earth-616)|Akihira]] and [[Natsumi (Earth-616)|Natsumi]], a wealthy, young and traditional Japanese couple. They took the child's arrival as an answer to their prayers and raised him as their own. Though he was named Akihiro by his father, the servants and other families of his town secretly referred to the boy as '''Daken''' (駄犬, "mongrel"), a slur on his obvious mixed heritage. As Akihiro grew up, he was often teased by the other children of the town. This harsh treatment and his adoptive mother's indifference toward him caused Akihiro to develop a very cold persona to all except his adoptive father.{{r|Wolverine: Origins #26}}
+
+One night, Natsumi confessed to Akihira that she didn't love their adopted son and that, after years of trying to conceive, she was pregnant. Akihiro overheard this and felt his position in the household to be threatened. In 1955, after the birth of the baby, [[Junichiro (Earth-616)|Junichiro]], Akihiro confronted his mother, telling her that he had killed her son. When Akihira found out he disowned Akihiro, taking him into the forest behind their home and telling him to leave and never return. Daken furiously responded that "Akihiro" was not his true name. Natsumi then appeared, running at Daken and trying to kill him with a rifle's bayonet. The attack caused Daken's claws to extend reflexively, and with a flail of his arm, he accidentally slashed Natsumi through the chest, killing her. Unable to force himself to harm his son, Akihira instead committed suicide with the discarded rifle. Romulus then appeared to the boy for the first time since infancy, saying that he was what Daken would someday become.{{r|Wolverine: Origins #26}}
+
+====Romulus====
+In 1959, Romulus sent Daken to a boot camp in [[Canada]] ruled by [[Frederick Hudson (Earth-616)|Frederick Hudson]], the same camp where Wolverine had first trained more than forty years earlier. Daken was also trained by the same man as his father, [[Silas Burr (Earth-616)|Silas Burr]]. Burr trained Daken for nine months before Daken disappeared one night. While two search parties were sent out to find him, Daken, at the behest of Romulus, reappeared in the camp and killed every man there before confronting Frederick Hudson and Silas Burr.{{r|Wolverine: Origins #27}}
+
+Daken killed Frederick Hudson with his claws and then confronted Burr, during their fight, Daken attacked with not only his claws but also his power to ramp up and manipulate his own pheromones, using the ability to make Burr so giddy that he started laughing, confusing him and allowing Daken to draw first blood. Burr, however, quickly recovered, punching Daken across the room with so much force that he believed for a moment to have killed him. Daken got back to his feet after Burr turned away, holding a revolver which had been dropped by the last man he'd killed. Daken fired three shots into Burr's back and then prepared to fire one into his head, but Romulus appeared and stopped him, telling Daken that he had plans for Burr. Romulus then decided to bond the indestructible metal called [[Adamantium|Adamantium]] to Burr's skin, Burr survived the surgery and became known as Cyber years later.{{r|Wolverine: Origins #27}}{{r|Wolverine: Origins #32}}
+
+In 1967 Akihiro met a man named [[Carl Valentino (Earth-616)|Carl Valentino]] in [[Toronto]],[[Ontario]]. He believed they lived an entire life together until he woke up and realized Carl's mutant dream powers allowed him to live a lifetime in one night. After the one night stand he never saw Carl again until his resurrection on Krakoa.{{r|Marvel's Voices: Pride Vol 1 1}}
+
+In 1977, Romulus revealed to Daken that his father was still alive, but lied at the same time, telling Daken that it was Wolverine who had killed Itsu in an attempt to prevent Daken from being born, because he feared what Daken would become. This lie sowed a seed of vengeance in Daken that Romulus continued to feed in the following decades.{{r|Wolverine: Origins #27}}
+
+====Joining The Red Right Hand and tracking the Mongrels====
+After this revelation, Daken discovered that [[Founder (Red Right Hand) (Earth-616)|a strange man]] wanted to have his revenge on Wolverine, after being wronged by him in the past. Daken decided to help this man and joined his criminal organization: [[Red Right Hand (Earth-616)|The Red Right Hand]]. It was also on this day that Daken saw his father possibly for the first time.{{r|Daken: Dark Wolverine Vol 1 1}}{{r|Wolverine Vol 4 11}} Daken then tracked his father’s children all around the world for years, turning them over to the the Red Right Hand and on his advice, the criminal organization trained them in order to use them as weapons against Wolverine. Daken knew that they wouldn't stand a chance against Wolverine but having his father killing them would hurt him in the worst way possible. Those children would later become collectively known as the [[Mongrels (Earth-616)|Mongrels]].{{r|Wolverine Vol 4 14}}
+
+===Modern Times===
+====Facing Wolverine====
+In modern times, Daken finally met Wolverine face to face for the first time, after Wolverine was captured by [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|the S.H.I.E.L.D.]], Daken disguised himself as a S.H.I.E.L.D. agent, he then stabbed a [[Timothy Dugan (Earth-616)|Dum Dum Dugan LMD]] before confronting his incarcerated father. He deemed him weak, he then slashed him across the stomach, killing him temporarily and leaving him to bleed on the floor, as his mother had been left many years before. Daken's action also "aided" his father in escaping from S.H.I.E.L.D., but not for benevolent reasons.{{r|Wolverine: Origins #10}}
+[[File: Wolverine Origins Vol 1 14 Textless.jpg|thumb|left|Daken vs. Wolverine]]
+
+Daken next arrived in [[Berlin]] at the home of a woman he had been been playing as a patsy. He led her to believe that he had been cheating on her with a man that he was actually just planning to kill for a passport. Knowing that she would drink an entire bottle of burgundy which they had purchased together, Daken secretly poisoned it with sleeping pills, making it appear that she had committed suicide as he stated that she was a footprint he was erasing.{{r|Wolverine: Origins #11}}
+
+While walking through the streets of Potsdam, [[Germany]], Daken was contacted by an anonymous messenger who reminded him of his displeased master's "ultimate goal". Daken dispatched the messenger in anger that he was being prevented from having the opportunity to confront his father on open ground as his master had promised him. Later he was on a train to [[Brussels]], watching his father in a nearby stolen car. He then received a phone call from an unknown "friend", who was actually Daken's former combat instructor Cyber. Cyber confirmed his father's destination. After "helping" him escaped from S.H.I.E.L.D., Daken lured his father into a bank vault in Brussels that contained a [[Carbonadium]] synthesizer, Daken engaged Wolverine in battle, with Daken demonstrating great fighting prowess similar to his father. The fight was interrupted however, by Cyber. He challenged Daken, his finest student, to combat in hopes Daken would take him to his supposed "master".{{r|Wolverine: Origins #13|14}}
+
+[[File: Wolverine Origins Vol 1 15 Textless.jpg|thumb|right|Daken facing Wolverine and Cyber]]
+Losing the fight due to Cyber's superior strength and being impervious to harm, Daken fled, leaving his father and his former instructor to deal with each other. Later, on a train through Eastern Europe, Daken was tortured by his cousin [[Victor Hudson (Earth-616)|Victor Hudson]] through continuous whipping with a gasoline soaked rope, while [[Kyle Gibney (Earth-616)|Wild Child]] delivered a warning from their master to avoid future confrontations with his father.{{r|Wolverine: Origins #15}}
+
+Despite the warning, Daken continued to monitor his father and when Logan secretly took a hit out on himself, Daken became outraged that somebody else should kill his father before Daken had the chance. Daken was lured into the open when [[Wade Wilson (Earth-616)|Deadpool]] attempted to kill his father, just as Logan had planned. Daken was then shot in the back of the head by the Winter Soldier, with bullet made from carbonadium which dramatically decreased the speed of an healing factor, incapacitating him. With Daken unconscious, Logan cradled his son in his arms and carried him out of the warehouse.{{r|Wolverine: Origins #25}}
+
+[[File: Wolverine Origins Vol 1 25 Textless.jpg|thumb|left|Deadpool is here!]]
+Daken regained consciousness after being brought to a cave somewhere in Japan that was filled with the disfigured remnants of men used in various [[Weapon X (Earth-616)|Weapon X]] experiments. When Daken awoke he apparently panicked and killed most of the men. When Logan arrived to find him standing amid the bodies, Daken faltered, attempting to explain that he'd killed the creatures because he felt threatened and asking who he was and what had happened, revealing that the head-wound seemed to have caused him to lose most of his memories, much like his father had in the past.{{r|Wolverine: Origins #26}}
+
+Logan identified himself only as 'a friend', promising to take Daken to someone who could help him. When Logan decided to steal a truck to get them back to [[San Francisco]], Daken helped unbidden, sneaking up on the driver and pulling him from the vehicle. Logan initially believed that Daken was going to kill the man, but when told that he didn't have to, Daken simply tossed the man to the ground, and Logan reflected that Daken didn't seem to have an ingrained bloodthirst, and wasn't too far gone like [[Victor Creed (Earth-616)|Sabertooth]].{{r|Wolverine: Origins #27}}
+
+====Learning the Truth and going after Romulus====
+[[File: X-Men Original Sin Vol 1 1 Textless.jpg|thumb|right|Original Sin]]
+While Wolverine was attempting to track down [[Charles Xavier (Earth-616)|Charles Xavier]] to aid in Daken's recovery,{{r|X-Men: Original Sin #1}} Daken was captured and recruited by [[Claudine Renko (Earth-616)|Miss Sinister]] and her partner [[Sebastian Shaw (Earth-616)|Sebastian Shaw]] who offered to help him regained his memories.{{r|Wolverine: Origins #29}} After they tricked Xavier into triggering the "psychic trap" implanted in Daken's mind, Miss Sinister attempted to manipulate Daken by implanting false memories of a shared childhood with her; however, the implanted memories failed to take root, and Daken thanked her for the beautiful story and then stabbed her with his claws.{{r|X-Men: Legacy #218}} As he turned his attentions to Xavier, he was stopped by his father, who refused to fight him. Xavier then used Wolverine's memories to show Daken the truth that Romulus was behind Itsu's death and Daken became enraged at having been manipulated. Against Xavier's protests, Logan then decided to take Daken with him to seek out revenge against Romulus.{{r|Wolverine: Origins #30}}
+
+[[File: Wolverine Origins Vol 1 31 Textless.jpg|thumb|left|Teaming up with his father]]
+The duo then planned to find what Cyber knew about Romulus, Logan instructed Daken to 'betray' him to Cyber in order to get close enough to double-cross and captured him, which Daken did before triple-crossing Logan and leaving with Cyber.{{r|Wolverine: Origins #30}} However, after learning all of the informations Cyber had on Romulus, Daken taunted him until Cyber's deteriorating health caused him to have a heart attack, and then revealed that he had pickpocketed Cyber's heart medication. Daken then taunted Cyber by telling him that the world belonged to him and he had no intention of sharing with anyone, he was going to work against Romulus on his own in order to usurp his empire. Daken then left Cyber to die and disappeared before Logan caught up to them.{{r|Wolverine: Origins #31|32}}
+
+===The Dark Wolverine===
+====Joining the Dark Avengers====
+[[File: Dark Avengers Vol 1 1 Second Printing Variant Textless.jpg|thumb|right|The Dark Avengers]]
+[[Norman Osborn (Earth-616)|Norman Osborn]] put together a new group of [[Dark Avengers (Earth-616)|"Avengers"]], and approached Daken to play the part of "Wolverine", and Daken agreed.{{r|Dark Avengers #1}} [[Nicholas Fury (Earth-616)|Nick Fury]] then found Logan and told him that he believed Daken was going after the [[Muramasa Blade]] that Wolverine had left in [[Scott Summers (Earth-616)|Cyclops]]' care. The sword has various mystical properties, including the ability to disable superhuman regenerative powers and cut through even [[Adamantium|adamantium]]. Fury believed that Daken intended to have the metal bonded to his bone claws by the Tinkerer who had last been spotted in [[New York City]].{{r|Wolverine: Origins #33}}
+
+====Facing the X-Men and recovering the Muramasa Blade====
+Cyclops, seeing Daken as be a liability, planned to kill him with the Muramasa Blade, because with Daken wearing his father's costume, the public wouldn't be able to differentiate them Cyclops believed that he was attempting to leverage this as a means to discredit the [[X-Men (Earth-616)|X-Men]]. However, [[Emma Frost (Earth-616)|Emma Frost]], believing that this would drive a wedge between the two X-Men and seeking to prevent Daken's death, warned both Logan and Norman Osborn before Cyclops lead a team against Daken.{{r|Wolverine: Origins #35}} Having had advanced warning, Daken prepared an ambush and managed to fight the team of X-Men to a draw using stealth and cunning. As he was about to kill Cyclops, Logan intervened and fought him but in the end, the Muramasa Blade was shattered, and Daken escaped with a shard of it.
+
+[[File: Wolverine Origins Vol 1 36 Textless.jpg|thumb|left|Daken getting his Muramasa claws]]
+Daken had the Tinkerer coat the inner-wrist claws on each hand with the metal of the Muramasa Blade. Although the blade was really made of a plasmic form disguised as metal, it could be treated as such. The Tinkerer had to anchor Daken’s claws to an [[Adamantium|adamantium]] sheath and even then they were not very durable since they couldn't be bonded to his skeleton like his father's. Wolverine was able to find him but it was too late, the bonding process was already over. Daken then revealed to his father that he intended to use his new claws to kill Romulus, he then stabbed Wolverine through the chest (but without using his new claws) and  escaped.{{r|Wolverine: Origins #36}}
+
+Daken then rejoined his Dark Avengers team, while he was with his teammates, he demonstrated a tendency to modify his behavior and 'character' depending on whom he was interacting with, displaying aggressive behavior and threats toward [[Robert Reynolds (Earth-616)|Sentry]], jeering and teasing toward [[Bullseye (Lester) (Earth-616)|Bullseye]], and instigating gossip toward [[Ares (Earth-616)|Ares]]. With [[Karla Sofen (Earth-616)|Moonstone]] he even preformed an about-face, originally presenting as being shyly smitten with her, but when she began stalking him, he convinced her that he was a particularly dangerous psychopath, scaring her off.{{r|Dark Wolverine #81}}
+
+When [[Peter Parker (Earth-616)|Spider-Man]] entered [[Avengers Tower]] pretending to be [[MacDonald Gargan (Earth-616)|Mac Gargan]], Daken ambushed him, stating that he knew he was not Mac by his scent.{{r|Amazing Spider-Man #596}} Initially Daken had the upper hand in the fight, as Spider-Man seemed to be especially vulnerable to pheromones, as he is with chemicals intoxicants, to the point that they entirely disoriented his senses; however, he eventually prevailed and threw Daken into an electric generator.{{r|Amazing Spider-Man #597}}
+
+Daken became a member of Osborn's [[X-Men (Osborn) (Earth-616)|team of X-Men]] briefly, before returning to the Dark Avengers following Emma Frost defecting from the Dark X-Men and taking half the team with her.{{r|Utopia (Event)}}
+
+====The End of the Dark Avengers====
+[[File: Dark Reign The List - Punisher Vol 1 1 Textless.jpg|thumb|right|Murdering the Punisher]]
+Following repeated failed attempts to kill the [[Frank Castle (Earth-616)|Punisher]], Norman Osborn sent Daken and a platoon of [[H.A.M.M.E.R. (Earth-616)|H.A.M.M.E.R.]] troops to complete this mission. After a bloody round of hand-to-hand combat, Daken dismembered and decapitated Castle before kicking his remains from a rooftop. Castle's body parts were collected and spirited away by [[Moloids]] seemingly operating under the protection of [[Theodore Sallis (Earth-616)|Man-Thing]]. Castle's body was put back together and revived as FrankenCastle.{{r|Dark Reign: The List - Punisher #1}}
+
+[[Bruce Banner (Earth-616)|Dr. Bruce Banner]] lured his alien son [[Skaar (Earth-616)|Skaar]] into a fight between him and Daken. Daken used his pheromones to calm Skaar down, reducing him to his human form. Skaar asked Daken to kill him as he was guilty of the destruction he had caused back home, but Wolverine and Banner intervened. The two father-son teams battled, but the fight was stopped when Banner said that Skaar had learned his lesson and Daken abruptly left Wolverine behind.{{r|Incredible Hulk #603}}
+
+Daken's loyalty to Osborn and true motives remained questionable.{{r|Dark Wolverine #75}} This put him at odds with Bullseye, who initially was the only member of the team to recognize that Daken was intelligent and manipulative. He secretly assisted the [[Fantastic Four (Earth-616)|Fantastic Four]] in breaking into Avengers Tower.{{r|Dark Wolverine #76}} They planned to steal incriminating evidence against Norman Osborn while trying to clear their own name, but they were foiled by Bullseye.{{r|Dark Wolverine #77}}
+
+[[File: Dark Wolverine Vol 1 75 Textless.jpg|thumb|left|The Dark Wolverine]]
+
+A tape showing Daken brutally disemboweling an armed robber was leaked onto the internet, and Osborn contrived a plan to fix Daken's public image by having him defeat an invented terrorist team.{{r|Dark Wolverine #78}} Osborn's plans backfired when Daken got overconfident and was beaten on camera by the "terrorists" led by [[Emmy Doolin (Earth-616)|Emmy Doolin]].{{r|Dark Wolverine #79}} When Daken was sent after the "terrorists" a second time, Osborn arranged for an explosion to destroy the residential building with both the "terrorists" and Daken inside of it. After the explosion, Daken emerged from the burning building carrying a baby girl whom he'd shielded from the blast with his own body, and then collapsed in front of live news cameras being declared a true hero.
+
+During Osborn's [[Siege (Event)|Siege]] of [[Asgard]], Daken had visions of killing Osborn forced upon him by the [[Norns (Fates) (Earth-616)|Norns]] who wished to bring about [[Ragnarok]] with Daken as the vessel.{{r|Dark Wolverine #82}} As the Dark Avengers were being arrested,{{r|Dark Wolverine #83}} Daken was the only one who managed to escape by killing and replacing an army soldier.{{r|Dark Wolverine #84}} 
+
+====The Reckoning====
+[[File: Dark Wolverine Vol 1 86 Textless.jpg|thumb|right|Daken betraying his father and teaming up with Romulus]]
+Daken was then contacted by his father for help in defeating Romulus, and Logan detailed a plan for luring him into the open. Before that plan can be enacted, however, Romulus surprised Daken in a hotel in [[Paris (France)|Paris]]. After Romulus briefly gaslit him, Daken related everything his father told him about his plan.{{r|Dark Wolverine #85}} When Logan later confronted Daken in [[Ankara (Turkey)|Ankara]], he told Daken that he had counted on Daken revealing everything to Romulus and that the plan he'd told Daken was false. He then stabbed Daken through the heart with a replica of the Muramasa Blade, making Romulus believe that Daken had been killed to lure him out of his hiding place.
+
+When Daken recovered from being stabbed, he helped Romulus to escape. However, once they were alone Daken attempted to kill Romulus. He said that he had an epiphany, realizing that Romulus had always been lying about his intention to make Daken his successor, and that Romulus had always intended it to be Logan instead. Out of anger and a need to prove himself better than his father, he slashed Romulus's chest open before Logan arrived with [[Tyrone Johnson (Earth-616)|Cloak]] to transport Romulus into the [[Dark Dimension]]. Daken and his father fought each other until Logan was able to break both of Daken's arms due to the Muramasa claws not being properly anchored. He then rendered Daken unconscious by stabbing him through the heart once again, then cut the Muramasa claws out of Daken's wrists and buried them, along with the remaining blade.{{r|Wolverine: Origins #48}}
+
+Daken stayed in [[Rome (Italy)|Rome]] for a time as he suffered an existential crisis following these incidents. He sank into depression and nihilism as he attempted to rationalize Romulus' teachings about power and control against both their defeat at Logan's hands. When a grifter attempted to rob him, he came to the conclusion that those who hurt or attempt to hurt him have done nothing wrong because the world lacks any meaning beyond survival.{{r|Dark Wolverine #87}}
+
+====Punishment====
+Eventually, he left to go to [[Tokyo]], where he was looking for the Muramasa blade. However, when he was there he encountered the newly revived Franken-Castle.{{r|Dark Wolverine #88}}
+[[File:Franken-Castle Vol 1 20 Textless.jpg|thumb|left|Daken facing Wolverine and the Punisher]]
+
+Castle's new form made him far more dangerous than ever before.{{r|Dark Wolverine #88}}{{r|Franken-Castle #19}} Wolverine interfered but Daken nearly killed both of them by using the [[Bloodstones|bloodstone]] to recreate the alien, Exo-Mind before having to abandon the bloodstone and the battle due to a negative interaction between the bloodstone and his healing factor.{{r|Franken-Castle #20}}
+
+He then went to [[Milan (Italy)|Milan]], where he had a fashion designer make him a new costume. When the suit was finished, he killed the designer to preserve his anonymity and moved to [[San Francisco]] where he proclaimed that his time had come, and to "beware the fury of a patient man". In San Francisco he observed two opposing groups protesting Mutant Rights and concluded it was a waste of time and decided he was on his own side.{{r|Dark Wolverine #90}}
+
+===The Rise and Fall of Daken===
+====The Red Right Hand's Revenge====
+[[File: Dark Wolverine Vol 1 90 Textless.jpg|thumb|right|Burning the world and his father's legacy]]
+Soon after, he ended up going to a fortune teller to see his future. The fortune teller revealed three cards to him: The Emperor, The Tower, and Death. Daken began stalking [[Melita Garner (Earth-616)|Melita]], his father's current love interest. He followed her all the way to a bar and touched the back of her neck. She quickly looked behind her only to find no one. Logan asked her if something was wrong as she was looking around nervously, and she replied it was just her nerves. Daken thought to himself how small his father's world was and how it had no vision or scope. Daken wanted something more.{{r|Dark Wolverine Vol 1 90}} 
+
+After finding Melita Garner, Daken helped the Red Right Hand in their plan to send Wolverine’s soul to hell, he then decided to tell Mystique that both he and the Red Right Hand intended to have Wolverine kill his own children after he escaped from Hell. Shocked by this revelation, Mystique betrayed the Red Right Hand afterwards.{{r|Daken: Dark Wolverine Vol 1 1}} 
+
+[[File: Daken Dark Wolverine Vol 1 1 page 22 Daken (Akihiro) (Earth-616).jpg|left|thumb|Daken and the Red Right Hand ready to destroy his father once and for all]]
+After sending several of his men after Daken in order to get his attention, the leader of the Red Right Hand angry about Daken’s actions asked him why he told Mystique their plan, to which Daken responded: “Because I want it all. And the only way to have it all is to make sure that no one else has anything.”{{r|Daken: Dark Wolverine Vol 1 1}} The leader of the Red Right Hand then told Daken to kill Mystique but instead he decided to use her for other purpose and invited her to dinner. During their dinner, they were attacked by [[Hellverine (Earth-616)|Hellverine]] who burned Daken alive while Mystique was able to escape believing Daken to be dead. But unknown to her it was all of a setup as Hellverine had other plans in mind for Daken and allowed him to live while Daken used this opportunity to disappear making the world believed he was dead while letting the Red Right Hand finished their revenge against his father.{{r|Daken: Dark Wolverine Vol 1 2}}{{r|Daken: Dark Wolverine Vol 1 3}}
+
+Despite Daken not being present to witness the success of both his revenge and the Red Right Hand's revenge against his father, Wolverine had a vision showing him how Daken had been involved in the Red Right Hand's horrific plot.{{r|Wolverine Vol 4 15}} 
+
+Now believed to be dead, Daken went to see the Fantastic Four where he obtained a glove from [[Reed Richards (Earth-616)|Reed Richards]] that made energy claws, so that he would be able to conceal his identity and continue to be "dead" to the rest of the world without his claws giving him away.{{r|Daken: Dark Wolverine #3}} While on a ferry in New York City, Daken learned from a newspaper story that [[James Buchanan Barnes (Earth-616)|Bucky Barnes]], the current [[Captain America]], had been the Winter Soldier.{{r|Daken: Dark Wolverine #4}}
+
+====Conquering Madripoor and meeting X-23====
+Daken then traveled to Madripoor where he confronted [[Jessán Hoan (Earth-616)|Tyger Tiger]], and he began to undermine and take control of the criminal underworld of Madripoor.{{r|Daken: Dark Wolverine #5}} When [[Laura Kinney (Earth-616)|X-23]], his father's clone and adopted daughter, arrived hunting a shadow from her past, she found herself facing off against Daken, the new king of Madripoor's criminal underworld.{{r|Daken: Dark Wolverine #7}} The two battled briefly but neither could gain the upper hand due to their shared healing factor but impressed by Laura's skill, Daken offered her a place at his side but she refused.{{r|X-23 Vol 3 8}}{{r|Daken: Dark Wolverine #8}}
+[[File:X-23 Vol 3 8 Textless.jpg|thumb|right|Daken vs. X-23]]
+
+Unknown to Laura, Daken was also working with [[Malcolm Colcord (Earth-616)|Malcolm Colcord]] and allowed him to run several experiments in Madripoor in order to imbue him with a power beyond Weapon X, but this alliance also resulted in the kidnapping and the deaths of several persons and most notably children.{{r|Daken: Dark Wolverine #7}}{{r|Daken: Dark Wolverine #8}} But knowing that Colcord was up to something else, Daken decided to use Laura to know more, and let Colcord captured her and used her as test subject.{{r|Daken: Dark Wolverine #8}}{{r|X-23 Vol 3 9}} With Laura now inside Colcord's laboratory, Daken decided to free her and gave her a Weapon X files containing several informations about her past, together they then faced several of Colcord's mutate experiments.{{r|Daken: Dark Wolverine #8}} The duo then found Colcord and they discovered that he planted a bomb that was about to go off. Daken and Laura then decided to have a discussion about the meaning of the notion of "power" especially the way the two perceived it until the bomb exploded engulfing both of them and Colcord in the blast. The two survived thanks to their healing factor and decided to part ways after this adventure. 
+
+Not long after, Daken went to a building somewhere in Madripoor to talk with a disfigured Malcolm Colcord handcuffed to a radiator. Daken knew that Colcord would survive the explosion thanks to an healing factor serum he created. In fact Colcord's whole plan since the start was to experiment on several subjects in order to perfect this healing factor serum for himself. But the serum wasn't perfected and Colcord was now in immense pain and begged Daken to end his suffering, but Daken refused saying there was no fun in that before leaving.{{r|Daken: Dark Wolverine #9}}
+
+When Deadpool decided to kill himself,{{r|Deadpool Vol 4 37}} and sought out Daken's help in finding the serum that could negate his healing factor.{{r|Deadpool Vol 4 49.1}} He asked that Daken shoot him with it on him once he found it.{{r|Deadpool Vol 4 50}} Daken believed this was too good to be true and turned him down, wishing him luck.{{r|Deadpool Vol 4 51}} Daken later spoke with [[Lonnie Lincoln (Earth-616)|Tombstone]] who originally ordered the hit on Deadpool as he tried to find out about the serum which negates mutant powers.{{r|Deadpool Vol 4 52}} Tombstone refused to speak about it.{{r|Deadpool Vol 4 54}} 
+
+[[File: Daken (Akihiro) (Earth-616) from Daken Dark Wolverine Vol 1 9.1.jpg|thumb|left|Daken facing Tan Kim Seng and about to become the indisputable ruler of Madripoor]]
+Daken kept consolidating his power in Madripoor by having the heads of the several criminal organizations remaining on the Island to recognize him as their leader, all agreed except one old man: Tan Kim Seng. After meeting him, Tan Kim Seng told Daken, that all he ever did was destroying, he was incapable of creating anything, he was just copying his father. After killing the old man and becoming the indisputable ruler of Madripoor, Daken was still shocked by the old man's words and decided to prove him wrong. To that end he decided to infiltrate the [[Stark Tower (Columbus Circle, Original)|Avengers tower]] in order to see his father. Daken then threatened his father with his claws before telling him goodbye as he wasn't going to see him for a while since he wanted to live his own life. Daken then left Madripoor and went to [[Los Angeles]] to build a new life for himself.{{r|Daken: Dark Wolverine #9.1}}
+
+Daken’s actions in Madripoor made the island fell into chaos and during his rule several criminal activities such as child prostitution, gun running, slavery, drugs ran rampant again on an unbelievable scale which would later force Tyger Tiger to allow ivory trade in order to put an end to those criminal activities.{{r|Savage Wolverine Vol 1 12}}
+
+====Los Angeles and the Heat====
+[[File: Daken Dark Wolverine Vol 1 10 Textless.jpg|thumb|right|Fresh start in the City of Angels]]
+Now in Los Angeles, Daken tried to take over the city's criminal underworld in the power vacuum left behind by the fall of the [[Pride (Earth-616)|Pride]] becoming an L.A. Kingpin. While attending a party at the home of prominent movie star [[Marcus Roston (Earth-616)|Marcus Roston]], Daken was given a drug called [[Heat Pills|Heat]], which he was very surprised to discover had an effect on him because no drug ever had before. He began a relationship with Roston, who turned out to be the distributor of Heat.{{r|Daken: Dark Wolverine #10}} Soon after, [[Donna Kiel (Earth-616)|Donna Kiel]], an FBI agent who was determined to arrest Daken, attempted to confront him at Roston's home, but Daken evaded her.
+
+[[File:Marcus Roston (Earth-616) and Akihiro (Earth-616) from Daken Dark Wolverine Vol 1 10 001.jpg|thumb|left|Daken planning to take over Los Angeles]]
+
+Daken became rapidly addicted to the Heat, and during his attempt to become the head of the criminal underworld by pulling off a more audacious than any in L.A.'s history, he failed due to hallucinations and a failing of his healing factor caused by the drug. While attempting to escape the scene of the botched heist, Daken was caught by Donna. Rather than alerting the other authorities, she began interrogating him regarding a string of grizzly homicides, and Daken discovered that somebody was deliberately framing him for a murder spree.{{r|Daken: Dark Wolverine #12}}
+
+[[File:  Daken from Daken Dark Wolverine Vol 1 14.jpg|thumb|right|Addicted to the Heat]]
+
+After being convinced that Daken wasn't behind the serial killings, Donna agreed to team up with him to solve them. The 'Claws' serial killer continued to cause carnage in the dark areas of the [[Hollywood Hills]] and the Heat's grip on Daken was growing daily, scarring his mind and body. Local superhero [[Marc Spector (Earth-616)|Moon Knight]] came after Daken also initially believing him to be the killer. During their fight, a combination of the effects of the Heat and taunting by Moon Knight caused Daken to become badly triggered believe that he was fighting his father.{{r|Daken: Dark Wolverine #14}}
+
+[[File: Akihiro and Donna Kiel (Earth-616) from Daken Dark Wolverine Vol 1 14 0001.jpg|thumb|left|Daken being shot by Donna Kiel]]
+
+The Claws was revealed to be Roston who had created the Heat, which he then force-fed to Donna to put her under his power.{{r|Daken: Dark Wolverine #15}} At Roston's direction, Donna reported to her superiors that Daken was the Claws Killer and made him the most wanted man in America and put the entire [[Los Angeles Police Department (Earth-616)|LAPD]] and the [[Federal Bureau of Investigation (Earth-616)|FBI]] on his trail, even calling in an air-strike on the house where he was living.{{r|Daken: Dark Wolverine #16}} 
+
+While seeking answers for how to defeat Roston, Daken stumbled into the home of the [[Runaways (Earth-616)|Runaways]].{{r|Daken: Dark Wolverine #17}} [[Chase Stein (Earth-616)]] Knew of Roston as a former agent of the Pride, and the Runaways made an alliance with Daken and together they took him down.{{r|Daken: Dark Wolverine #19}} Donna, who was left an emotional wreck after her experiences with Daken, Roston and the Heat, met Daken at a diner to discuss their future. Donna believed she was in love with him but was convinced he was a monster. Daken suggested she was the same and provided her with an opportunity to kill three men involved in human trafficking. She instead turned her gun on Daken who reacted because his healing factor was not working, slicing her hand off, and escaped.{{r|Daken: Dark Wolverine #20}}
+[[File: Daken Dark Wolverine Vol 1 21 Textless.jpg|thumb|right|Going out with a bang]]
+
+Dying, he returned to New York to "go out with a bang", drugging his father and taking him to watch his "show". He bombed the headquarters of the [[Avengers (Earth-616)|Avengers]] and the Fantastic Four, installed bombs around the city, and drugged and easily subdued Mr. Fantastic.{{r|Daken: Dark Wolverine #21}} After a long battle with the heroes of the city, and without a healing factor, he began to succumb to his illness. Confronted by his father, he hugged him and asked him to forgive him.{{r|Daken: Dark Wolverine #22}} Before Logan could say anything, Daken scornfully told him he had placed a bomb on a timer at the [[Xavier's School for Gifted Youngsters|Jean Grey School for Higher Learning]] and blew himself up, leaving no body to bury. Wolverine rushed to his school to find nothing but a little doll of him, as Daken's plan had been to leave Wolverine to wonder what his son's true intentions had been.{{r|Daken: Dark Wolverine #23}}
+
+Daken then somehow returned from the dead and was invited alongside several villains to Madripoor, Lowtown, where [[Sabretooth (Victor Creed)|Sabretooth]] held a party. But Wolverine heard about it and decided to crash this party, he then defeated Daken and the other villains present before wishing an "Happy Birthday" to Sabretooth as a revenge for what he did to him in the past.{{r|Wolverine Vol 2 304}}
+
+====Death====
+Daken then formed a new [[Brotherhood of Evil Mutants (Earth-616)|Brotherhood of Evil Mutants]] in secret alongside Sabretooth, Mystique, [[Harry Pizer (Earth-616)|the Skinless Man]], [[Frederick Dukes (Earth-295)|the Blob from the Age of Apocalypse]], [[Shadow King (Multiverse)|the Shadow King]] and [[Omega Clan (Earth-616)|the Omega Clan]].{{r|Uncanny X-Force #26|27}} He told [[X-Force (Strike Team) (Earth-616)|X-Force]] that they planned to reveal its existence to the world{{r|Uncanny X-Force #27|28}} and to turn [[Evan Sabahnur (Earth-616)|Evan Sabahnur]] into their own [[En Sabah Nur (Earth-616)|Apocalypse]].{{r|Uncanny X-Force #29|30}} 
+
+The goal of Daken and the Brotherhood was to torture Evan long enough for him to become the new Apocalypse, then to use the Shadow King to mess with his mind in order to force Evan to destroy the Jean Grey School, to kill all the students, to kill all of Logan's friends and then blamed X-Force for everything.{{r|Uncanny X-Force Vol 1 34}}
+
+To that end Daken and Sabretooth then decided to take Evan to the farm where he grew up but while Evan jumped out of the car and tried to warn his parents to get out but found them both killed by Sabretooth and Daken. Evan attacked them but refrained from killing them, refusing to become like them. They commended him on his control before revealing that they didn't really kill his parents because they never existed in the first place.{{r|Uncanny X-Force #31}}
+
+Due to the betrayal of [[Earth-295]]'s [[Kurt Darkholme (Earth-295)|Nightcrawler]], Wolverine was captured by Daken's new Brotherhood. Daken tied his father up and began taunting Logan with insults and telling a likely apocryphal account of his youth. Logan attempted a dialogue and apologized to his son for failing him, but Daken had no interest in hearing it. Daken then trapped him in a drowning chamber, as the only way to kill Wolverine is to deprive the brain of oxygen. He forced Evan to watch Wolverine drown at the same time he punched and screamed at Evan, trying to make him get angry.{{r|Uncanny X-Force #33}}
+
+Finally Evan had put on the Apocalypse armor. Wolverine was trapped underwater, forced to watch while drowning. Daken said the Shadow King would take control of Evan and use him to destroy Wolverine's school, his friends, and his world. Then the Brotherhood would spread the word that this was all due to Wolverine's black ops kill-squad, destroying his reputation. Daken said that he believed in the end, bad people did bad things simply because they were bad.
+
+[[File: Uncanny X-Force Vol 1 34 Textless.jpg|thumb|left|End of the line for Daken and Wolverine]]
+Wolverine lost consciousness, but Deadpool found him and resuscitated him. Wolverine immediately rushed to find Daken, but told Deadpool to find the rest of the team and get them out. He found Daken outside the base and the two men fought to the death. As the fight went on, Wolverine acknowledged to himself that he was holding back his animal side, as Daken deserved to be killed by a man in full control of his actions. Meanwhile, Daken was considering what he would say to his father, how he would explain that he had years of Romulus' tortures to imagine what his life would be with the love of a father and mother. 
+
+Knowing he had no choice after what [[James Howlett (Earth-12928)|his older self]] revealed to him when he was in the future,{{r|Uncanny X-Force Vol 1 35}} Wolverine managed to get the upper hand by slashing Daken, he then drowned him by holding his head down in a puddle a water in order to save the lives of his students. At the end of the fight, as Wolverine knelt over the drowned, beaten corpse of his son, he was approached by Sabretooth, who revealed that he had been behind the Brotherhood and staged the confrontation because he wanted to trick Logan into killing his own son, because it was the one wound he'd never heal from. An angry Evan almost killed Sabretooth as a result but Logan told him to let him go, revenge would only lead him to a path of destruction just like what happened here.{{r|Uncanny X-Force Vol 1 34}}
+
+Daken's body was later taken to Japan by Wolverine and he was buried in the village of Shirakawa-Go.{{r|Uncanny X-Force Vol 1 35}} 
+
+===Rebirth===
+====Becoming the Horseman of Death====
+[[File: Uncanny Avengers Vol 1 10 Textless.jpg|thumb|right|Daken as the new Horseman of Death]]
+Daken was later brought back to life by the [[Apocalypse Twins (Earth-616)|Apocalypse Twins]], using the [[Life Seed]] and made a [[Horsemen of Apocalypse (Earth-616)|Horseman of Death]] with the [[Death Seed]], in order to serve, alongside [[Sean Cassidy (Earth-616)|Banshee]], [[Eric Williams (Earth-616)|Grim Reaper]] and [[Robert Reynolds (Earth-616)|Sentry]].{{r|Uncanny Avengers #9}}
+
+But the Twins' plan to destroy Earth failed, after the [[Avengers Unity Division (Earth-616)|Avengers Unity Division]] traveled back in time from a [[Earth-13133|divergent universe]] where their plan would have succeeded.{{r|Uncanny Avengers Vol 1 20}} As a result their ark was destroyed by Sunfire, but Daken and the Grim Reaper managed to return to Earth along with the corpses of the Apocalypse Twins, and evaded capture.{{r|Uncanny Avengers #22}}
+
+====The Logan Legacy====
+After learning of his father's death, Daken went to an auction in Madripoor that was selling the remains of his father and was infuriated. He killed everybody that were in the auction except Viper, Mystique, and Agent Kim. Daken later went to Okinawa with a priest and buried his father's remains there.{{r|Death of Wolverine: The Logan Legacy #5}}
+
+Daken was then kidnapped with several other people including [[Raven Darkholme (Earth-616)|Mystique]] , Sabretooth, X-23, and [[Yuriko Oyama (Earth-616)|Lady Deathstrike]], and [[Joshua Foley (Earth-616)|Elixir]] by [[Sharp (Earth-616)|Shogun]] after his father's death.{{r|Death of Wolverine: The Logan Legacy #1}}
+
+====Joining the Wolverines====
+After successfully finding and kidnapping the “Wolverines”, Shogun threatened them with the hypnotic "control words" (that manipulate, sedate or even kill each of them), in order to force them into helping Shogun and his group of allies find the adamantium-petrified body of Wolverine in the burnt-down Paradise facility. Before they could leave on this mission however, they were attacked by [[Siphon (Earth-616)|Siphon]], who killed Elixir and drained Daken's healing factor to nonfunctional. They proceeded with the mission, and Daken and X-23 initially kept Daken's inability to heal a secret from their impromptu teammates. They encountered and fought the [[Wrecking Crew (Earth-616)|Wrecking Crew]], hired by [[Nathaniel Essex (Earth-616)|Mister Sinister]], who were also looking for Wolverine's body. When Daken and X-23 found the body, Mister Sinister appeared, took Wolverine's body, and also ripped an eye and arm from Daken{{r|Wolverines #1}}, and left bleeding out and not healing.{{r|Wolverines Vol 1 1}}
+[[File: Wolverines Vol 1 1 Howard Variant Textless.jpg|thumb|left|The Wolverines team]]
+
+On the [[Changeling (Plane)|Changeling]] ship, Sharp used a [[Regen Serum]] made by [[Abraham Cornelius (Earth-616)|Dr. Cornelius]] that he found in the wreckage to stabilize and save Daken, against [[Ogun (Ninja) (Earth-616)|Ogun]]'s wishes. Daken remained infirmed on the ship as the others made plans to continue their mission by stealing Wolverine's body back from Mister Sinister.{{r|Wolverines Vol 1 2}}
+
+But their mission was a failure and Wolverine's body was recovered by the X-Men,{{r|Wolverines Vol 1 5|6}} later [[Fang (Imperial Guard) (Earth-616)|Fang]], an Imperial Guard member thought to had been deceased, accused the group of having killed Logan. He then attacked Sabretooth and easily defeated Daken. The team, except for Daken, along with their allies tried to assault Fang, but he released an omnidirectional blast at them. Fang then asked Daken if he was scared, to which Daken replied that he was not and stabbed him in the head with his claws. Fang survived the attack and again demanded to know who killed Logan. X-23 says that nobody here killed Logan and stated that everybody wanted to be there when Logan died. Meanwhile, Mystique located Fang's weakness and everybody started attacking him again, while Junk used the Changeling's cannons against Fang, apparently killing him. However, Fang again survived the attack and took Daken to Jotunheim.{{r|Wolverines Vol 1 8}}
+
+In Jotunheim, Fang took Daken to face a Frost Giant, but Daken said that he lost his healing factor. Fang retorted that Logan's loss of his healing factor didn't seem to stop him and revealed that he had been seeing Logan every year. Daken then reminded him that he both had arms, while he didn't and again says that he didn't want to face the Frost Giant, but Fang didn't listen and issued a challenge against him. Fang then went over to the Frost Giant and told him that Daken was his father, which enraged it and as result it started attacking him. Later on, Daken was trapped within a cave and threatened to kill Fang. He then asked Fang why was he doing this if he knew that he didn't kill Logan, to which Fang replied that he already knew and told Daken to get himself out of the situation just like what Logan would've done. Daken then engaged the Frost Giant in combat and gained the upper hand against it and almost killed it, until Fang interfered and saved its life.
+
+[[File: Wolverines Vol 1 9 Textless.jpg|thumb|right|Daken's new look after losing his healing factor, arm and eye]]
+Fang then asked Daken why he wanted to kill the Frost Giant, to which Daken angrily replied that he was not his father. Fang handed him a beer and used his energy powers to temporarily restored Daken's lost arm and eye. But after talking with him, Fang decided once again to remove Daken's arm and eye as he didn't believe in Daken's redemption and intended to make Daken and the rest of the Wolverines' lives (except Laura's) a living hell for what they did to Logan in the past. He then sent Daken back to the Changeling.{{r|Wolverines Vol 1 9}}
+
+Afterwards the team was able to finally defeat Fang but he managed to escape,{{r|Wolverines Vol 1 12}} Daken was then manipulated by Mystique into going after Siphon as revenge for what it did to him, Laura decided to follow him for his safety. Along the way, the duo encountered [[Eric Brooks (Earth-616)|Blade]] who was fighting against Siphon and several vampires. After helping him and learning the truth about Siphon's powers, Daken decided to fight Siphon to the death. Siphon overpowered Daken and was about to kill him until Laura intervened and saved him. 
+
+Daken and Blade then worked together to defeat Siphon, but Laura convinced them not to kill him, since she knew Siphon was just a victim, who only wanted to find a way to get control of its body again. Siphon captured, Daken and Laura then regrouped with the rest of the team.{{r|Wolverines Vol 1 14|15}}
+
+[[File: Wolverines Vol 1 14 Textless.jpg|thumb|left|Teaming up with Laura against Siphon]]
+But not long after the team was betrayed by [[Meifeng (Earth-616)|Endo]], [[Harold Stanch (Earth-616)|Neuro]], and [[Skel (Simpson) (Earth-616)|Skel]] and had to face against Sinister and his army. In the midst of the battle, [[Daniel Silva (Earth-616)|Junk]] was killed by a feral Sabretooth and Mystique manipulated Daken into turning Siphon loose. Siphon then drained Mister Sinister's healing factor before being shot by Mystique. Mystique then sent Siphon, Shogun and the rest of the team though a [[Charles Little Sky (Earth-616)|Portal]] to [[Man-Thing's Swamp|somewhere]] in [[Florida (State)|Florida]].{{r|Wolverines #19}}{{r|Wolverines Vol 1 18|19}} 
+
+The team was betrayed again by Mystique who, thanks to [[Siphon (Earth-616)|Siphon]], drained Sabretooth, X-23 and Lady Deathstrike's healing factors. Mystique was the only one left with an healing factor, so the team used Siphon to track her in order to get their revenge. After finding her, Lady Deathstrike killed Siphon and the team confronted Mystique, but she proved to be too powerful for them and she single handedly defeated all of them.{{r|Wolverines Vol 1 19|20}} 
+
+====Facing Iceman====
+[[File: Iceman Vol 3 4 Textless.jpg|thumb|right|facing Iceman]]
+No long after the newly emerged mutant [[Zachary (Mutant) (Earth-616)|Zach]] ran away the [[Xavier's School for Gifted Youngsters|Xavier Institute for Mutant Education and Outreach]], Daken, whose healing factor seemed to have returned and regrown his arm, took him under his wing, dazzling him with displays of wealth and a laissez faire attitude that fascinated the teenager and helping him control his powers, when [[Robert Drake (Earth-616)|Iceman]] caught word that his student had run away via video post, he set out to find him at Greenwich Mean Time in Upper East Side New York.{{r|Iceman Vol 3 4}} 
+
+Upon learning that Daken was the one who Zach had fallen in with, Bobby attacked him, freezing Daken's flesh and leaving him immobilized while going to search the building for Zach. Daken's healing factor helped him to recover quickly from the attack and he caught up as Zach was arguing with Bobby, adamant about not going back to the Xavier Institute. Daken, furious at having been blindsided by Bobby's first strike attacked, only to be easily overpowered by the omega-level mutant and pinned against a wall by a snowflake-shaped blade through the abdomen, which left him immobilized and bleeding heavily. Upset, Zach used his powers to dampen Iceman's long enough for making a getaway in a helicopter.
+
+Daken put Zach through extreme combat and survival training, including periods of outdoor living and picking fights with random toughs around Madripoor. Zach would initially raise complaints about exercises seeming pointless but later be impressed by Daken's manipulation when the 'real' meanings behind lessons were subsequently revealed to him.{{r|Iceman Vol 3 8}} Although the training he received under Daken's tutelage was intensive, Zach's fascination with Daken only seemed to grow.
+
+[[File: Akihiro (Earth-616) from Iceman Vol 3 10 001.jpg|thumb|left|Daken using the Death Seed energy]]
+Once Daken deemed Zach's progress to be sufficient, the two returned to the X-Mansion. Daken set up a distraction using fake Purifiers to attack the school, drawing away the rest of the X-Men leaving Iceman alone with his boyfriend [[Judah Miller (Earth-616)|Judah]], while Zach led the students into the Danger room and tampered with the control settings using his powers. When the five of them were alone, Daken reveals that the reason he took an interest in Bobby on their first meeting was because of his previous contact with a death seed some years prior. Daken stabs Judah, badly injuring but not killing him, and then Zach uses his energy channeling abilities to control and differentiate the energies of the Death Seed inside Daken.{{r|Iceman Vol 3 9}}
+
+With the Death Seed energy coursing through him, Daken easily dominated the fight with Bobby while [[Idie Okonkwo (Earth-616)|Idie]] helps get Judah to safety. Eventually Iceman overcame Daken after [[Michaela Ladak (Earth-616)|Michaela]] had disabled Zach, causing Daken to lose control of the death seed and himself. Bobby attempted to freeze the death seed into dormancy within Daken, who then escaped before the rest of the X-Men returned.{{r|Iceman Vol 3 10}}
+
+===Working with Laura===
+Daken resurfaced later on during the outbreak of the [[Laura Kinney Virus]] on Roosevelt Island as one of the three people teleported in by [[Stephen Strange (Earth-616)|Doctor Strange]] to help [[Laura Kinney (Earth-616)|Wolverine]] quell the crisis. He told her briefly, that his healing factor, which was the key to curing the victims of the alien plague, came back since his adventures with the Wolverines. While he agreed to join Laura, [[Gabrielle Kinney (Earth-616)|Gabby]], [[James Howlett (Earth-21923)|Old Man Logan]], and [[Wade Wilson (Earth-616)|Deadpool]] in their efforts to help as many of the stricken population as possible, Daken confessed that he didn't care for the island and was only there for Laura. He was eventually forced to stand down before the disease could overwhelm him, as his healing factor wasn't on it's usual level yet. The crisis was averted, but Laura fell in a coma for two weeks.{{r|All-New Wolverine Vol 1 21}}{{r|All-New Wolverine Vol 1 22}}
+
+[[File: All-New Wolverine Vol 1 30 Textless.jpg|thumb|right|Laura and Daken facing the Orphans of X]]
+Shortly after, Daken and others people whose powers were similar to Wolverine such as Laura, Old Man Logan, Sabretooth and Lady Deathstrike came under threat of the clandestine organization called [[Orphans of X (Earth-616)|The Orphans of X]]. After Laura awaken from her coma and went to space, the Orphans of X decided to track Daken.{{r|All-New Wolverine Vol 1 22}} Eventually Daken got into a conflict with their contingent at the The Defiant Platypus Bar in before it was destroyed by a stinger missile resulting in his capture.{{r|All-New Wolverine Vol 1 25}} He later escaped and met up with Laura and Gabby in order to find Muramasa because the Orphans of X had recovered the Muramasa Blade and created bullets from it with which could kill them. After meeting Muramasa, all three donated a part of their spirit toward the creation of a mystical suit of armor capable of withstanding the Muramasa bullets.{{r|All-New Wolverine Vol 1 28|29}}
+
+When the Orphans of X caught up with them at Muramasa's compound, Daken threw himself into the fray to hold them off while his sisters escaped, but not before concealing a mobile phone inside of his abdomen so that they could use it as a tracking device to find him again. After rescuing Daken, the siblings discover the reasons behind the Orphans of X's hatred of them and Laura managed to reason with them and reach an armistice.{{r|All-New Wolverine Vol 1 30}}
+
+===Time-displaced X-Men===
+When the group of young time-displaced [[X-Men (Time-Displaced) (Earth-616)|X-Men]] that Magneto was mentoring went missing on a mission in space, he sent his ally [[Briar Raleigh (Earth-616)|Briar Raleigh]] to meet up with Daken in [[Barcelona]] with the proposition to become allies. As a gesture of good will, she gifted him on Magneto's behalf a set of adamantium daishō swords.{{r|X-Men: Blue Vol 1 24}} In order to assist Magneto's efforts to counter the global release of the power-bestowing and mind-controlling virus [[Mothervine]] by a cabal led by [[Alexander Summers (Earth-616)|Havok]], his allies temporarily banded together into a makeshift team of X-Men.{{r|X-Men: Blue Vol 1 25}}{{r|X-Men: Blue Vol 1 26}}{{r|X-Men: Blue Vol 1 27}}{{r|X-Men: Blue Vol 1 28}}
+
+[[File: X-Men Blue Vol 1 30 Textless.jpg|left|thumb|Daken facing his "brother" Jimmy Hudson]]
+The crisis averted, Daken was then tasked by Magneto to murder [[James Hudson Jr. (Earth-1610)|Jimmy Hudson]] who was now possessed by the [[Poisons|Poison]], Daken confronted Jimmy and tried to kill him. But their fight was stopped by the time-displaced X-Men who just came back from space, and after helping Jimmy escaped Jean Grey demanded answers from Daken. 
+Daken explained that after they disappeared during the Mothervine and Poisons incident, Magneto lost his patience and was done playing, he wanted to take care of Jimmy himself but he had bigger targets to eliminate and one of those targets was none other than Emma Frost.{{r|X-Men: Blue Vol 1 30}}
+
+===Going After Wolverine===
+Daken then somehow escaped from the X-Men and heard the news of the disappearance of Wolverine's body from Lady Deathstrike and Sabretooth. The duo asked him to help them investigated Logan's possible return and in case he was alive to kill him once again, Daken agreed and joined them. Using data from military satellites, the team tracked down an adamantium signature similar to Logan's in [[Maybelle (Arizona)|Maybelle]], [[Arizona (State)|Arizona]]. They found the town overrun by zombies and their healing factors deactivated within the town's perimeter.{{r|Hunt for Wolverine: Claws of a Killer Vol 1 1}} Daken was captured by a kill team sent by the organization responsible for the town's state, [[Soteira (Asset Management Company) (Earth-616)|Soteira]].{{r|Hunt for Wolverine: Claws of a Killer Vol 1 2}}
+[[File: Hunt for Wolverine Claws of a Killer Vol 1 3 Textless.jpg|thumb|right|A deadly hunt]]
+
+He then managed to escape and met up with Sabretooth and Lady Deathstrike. When the trio tried to head back to the power station where Daken had been held prisoner to deactivate the mysterious glowing green orb that created the zombies and switched off their healing factor, all three were taken down by Soteira's soldiers. In the midst of the battle Daken was fatally injured and died.{{r|Hunt for Wolverine: Claws of a Killer Vol 1 3}} His body was left behind by Sabretooth and Lady Deathstrike when they escaped after destroying the mysterious glowing green orb, and it was later retrieved by Soteira.{{r|Hunt for Wolverine: Claws of a Killer Vol 1 4}}
+
+[[Persephone (Soteira) (Earth-616)|Persephone]], the mysterious leader of Soteira, then resurrected Daken as one of her undead killers.{{r|Return of Wolverine Vol 1 5}} With Daken's reanimated corpse under her control she used it as one of her enforcers. While traveling on a boat with other Soteira soldiers, Daken's reanimated corpse and [[Omega Red (Omega Clan) (Earth-616)|Omega Red]]'s reanimated corpse were made to attack his recently resurrected father and former Soteira employee Ana (who was in reality already dead and merely used as a vessel by Persephone) who were chasing them to get back Ana's son Perren. While Omega Red's reanimated corpse was taken out by Ana using a harpoon gun, Wolverine sprayed Daken's reanimated corpse with fuel from his boat's engine and set it on fire with his heated claws before tossing it into the water.{{r|Return of Wolverine Vol 1 2}}
+
+===A Brave New World===
+Daken was later resurrected by unknown means, or possibly just self-resurrected as his father did, he was eventually welcomed to the new mutant island of [[Krakoa (Earth-616)|Krakoa]], created by Xavier, Magneto, and [[Moira MacTaggert (Earth-TRN748)|Moira X]]. He entered through the teleportation gateway alongside other villainous and fractious mutants, who had been invited to join the nation in order to heal mutantdom and start over as a whole species together.{{r|House of X Vol 1 5}}
+
+[[File:James Howlett (Earth-616), Gabrielle Kinney (Earth-616) and Akihiro (Earth-616) from X-Force Vol 6 9 001.jpg|thumb|left|Logan, Gabby and Daken "family bonding" game]]
+
+He was later bonding with his father and little sister [[Gabrielle Kinney (Earth-616)|Gabby]] by playing spin the bottle at the Krakoan bar. Instead of kissing whomever it landed on, when Gabrielle spins it, either Logan or Daken, had to unsheathe their claws from their arms right into their own head. Daken played against his father and lost twice in a row.{{r| X-Force Vol 6 9}} 
+
+===[[X-Factor Investigations (Earth-616)|X-Factor]]===
+Daken, now more devoted to Krakoa, offered up his services to the newly minted [[X-Factor Investigations (Earth-616)|X-Factor]] along with [[Jean-Paul Beaubier (Earth-616)|Northstar]], [[Lorna Dane (Earth-616)|Polaris]], [[Rachel Summers (Earth-811)|Prestige]], her pet [[Warwolf]] [[Amazing Baby (Earth-616)|Amazing Baby]], [[David Alleyne (Earth-616)|Prodigy]] and [[Trevor Hawkins (Earth-616)|Eye-Boy]]. They were tasked by Northstar, with finding the missing (and most likely dead body of) his sister [[Jeanne-Marie Beaubier (Earth-616)|Aurora]] in order to make sure she was actually dead for the resurrection process to be applied by [[Five (Earth-616)|The Five]]. At first, Daken only offered because he was drunk, bored, and thought she was hot, but later proved to become a valuable team member along the way. After discovering Jeanne-Marie was actually dead and murdered by an anti-mutant human she was dating, they brought back her body to Krakoa. Afterwards the group officially banded together under the leadership of Northstar, with the approval of the [[Quiet Council of Krakoa (Earth-616)|Quiet Council of Krakoa]] and The Five.{{r|X-Factor Vol 4 1}}
+
+During their first case the team travelled to the [[Mojoverse]] to investigate [[Sofia Mantega (Earth-616)|Wind Dancer]]'s disappearance, where Daken (deliberately) got rejected by the border control and went back to the [[Boneyard (Krakoa)|Boneyard]].{{r|X-Factor Vol 4 2}} There he made some advances toward Jeanne-Marie, but she fled the conversation once he brought up the circumstances of her death.{{r|X-Factor Vol 4 3}}
+[[File:X-Factor Vol 4 2 Medina Variant Textless.jpg|thumb|right|Daken as part of the new X-Factor team]]
+
+During the Academy X house party following Sofia's resurrection, he admitted to Lorna that he didn't understand how Eye-Boy's happy attitude could be anything but an act, but she reminded him that not all kids went through the amounts of trauma they did. Later that evening he was seen drawing on the walls of his room using charcoal when Jeanne-Marie approached him and he reaffirmed that he was truly romantically interested in her.{{r|X-Factor Vol 4 5}}
+
+====The Morrigan====
+
+Following [[Theresa Cassidy (Earth-616)|Siryn]]'s repeated suicides, X-Factor questioned the newly resurrected mutant and after she proved uncooperative, Northstar tasked Akihiro with tailing her.{{r|X-Factor Vol 4 6}} At this point Siryn had been completely taken over by the [[Morrigan (Earth-616)|Morrigan]], who had manipulated Lorna into disrupting Akihiro's communication with the team. Luring him into an abandoned village in Alaska, she brutally attacked him, while constantly taunting him for not being accepted by his team members, leaving him impaled on a steel beam, close to death. Luckily, Northstar found him in time to rescue him and get him back to the Boneyard. There, he healed and relaxed in the hot springs, where Jeanne-Marie visited him and the two of them shared their first kiss.{{r|X-Factor Vol 4 7}}
+
+After she left, Morrigan started her attack on the Boneyard, throwing Akihiro into an illusion of being drowned by Jeanne-Marie. He pleaded with her and promised to "be good" until he eventually resurfaced and went to his bedroom, muttering "しっかりしなさいよ..." (jap. "Pull yourself together"). Not much later he got woken up by the intense scent of Eye-Boy's fear, went to his room and comforted him for a moment until the Morrigan came after them. After meeting up with Prodigy he attacked the Morrigan head on to allow his living teammates to escape.
+Following his resurrection by The Five he admitted that his last memory was of being impaled in the snow; his recollection of being rescued and his following interactions completely void (Aurora remembered the events of the evening).
+
+Feeling particularly vengeful, his role in the retaking of the Boneyard was to directly attack the main manifestation of the Morrigan, while Polaris and Rachel drove her out of the building and temporarily kept her control over Siryn at bay.{{r|X-Factor Vol 4 8}}
+While exploring her memories the team discovered a geas (magical contract) between Siryn and the Morrigan. After reaching the heart of the curse, Daken offered his blood as a sacrifice for the geas to reveal the riddle that leads to the warrior who can truly kill the Morrigan.{{r|X-Factor Vol 4 8|9}}
+
+====Hellfire Gala====
+
+Aurora and Daken later attended the [[Hellfire Gala]] as a couple, where he was attacked by her ex-boyfriend [[Kyle Gibney (Earth-616)|Wild Child]].{{r|Hellions Vol 1 12}} During a dance he admitted to her that he knew about her split-personality and found out that her death had been a suicide to cover up that she had killed an anti-mutant bigot. Intending to keep this a secret, he went back and killed all the members of his anti-mutant hate group. Therefore if she was prosecuted, he would be too.
+
+Following Prodigy's confrontation with his killer Daken secured David's previous, dead body, carrying it from the scene while flirting with Aurora.{{r|X-Factor Vol 4 10}}
+
+Akihiro and [[Laura Kinney (Earth-616)|Laura]] noticed that their younger sister [[Gabrielle Kinney (Earth-616)|Gabby]] was not attending the Gala. They found a letter she had written them both. {{r|New Mutants Vol 4 19}} He believed he saw her the next day while [[Martha Johansson (Earth-616)|No-Girl]] was possessing her corpse. Martha, in Gabby's body, confronted Akihiro for his mistreatment of his younger sister and instead choosing to focus on his relationship with Aurora.{{r|New Mutants Vol 4 20}}
+
+At the end of the party, the team discovered the body of the [[Wanda Maximoff (Earth-616)|Scarlet Witch]].{{r|X-Factor Vol 4 10}} They investigated her murder with the help of the X-Men and X-Force and unanimously concluded [[Max Eisenhardt (Earth-616)|Magneto]] was the top suspect.{{r|X-Men: The Trial of Magneto Vol 1 1}}
+
+| Powers                  = 
+
+'''[[Homo Superior|Mutant Physiology]]:''' Akihiro is a second generation mutant and possesses powers similar to those of his father, [[James Howlett (Earth-616)|Logan]]. Daken's accelerated cellular regeneration augments his natural strength, speed, agility, endurance, and reflexes. 
+* '''[[Regenerative Healing Factor]]:''' Daken has an accelerated healing factor that allows him to rapidly regenerate any damaged, missing or destroyed bodily tissues, cells, limbs and organs.{{r|Dark Wolverine #77}} Daken has also healed from injuries sustained as a result of being severely beaten by [[Benjamin Grimm (Earth-616)|the Thing]] within a matter of minutes.{{r|X-Men: Messiah Complex - Mutant Files #1}} However, Daken's mental state can influence the rate personal recovery. His healing factor has sometimes been hampered by underlying guilt and other self-impeding psychological blocks, thus weakening his ability to regenerate damage.{{r|All-New Wolverine Vol 1 25}}
+* '''Foreign Chemical Immunity:''' Daken's natural healing also affords him resistance or immunity to conventional drugs and resistance to gas attacks, poisons, and nerve-toxins of any kind.
+* '''Disease Immunity:''' Due to his highly efficient immune system, Daken is immune to all Earthly diseases and infections.
+* '''Peak Human Strength:''' Due to his resistance to physical damage and ability to push himself to the limit without risk of permanent injury, Daken's strength is extended to the peak of human potential, which makes him stronger than typical humans.
+* '''[[Superhuman Stamina|Enhanced Stamina]]:''' As is the case with his father, Daken's mutant healing factor grants him high immunity against lactic acid and other fatigue toxins generated by his muscles during physical activity, resulting in exceptional endurance. His lung capacity is at peak human level enabling him to hold breath for 6 minutes under water. As with most of his other powers, the full limits of his physical stamina isn't known. He can, however, exert himself for at least 24 hours before the buildup of fatigue toxins in his blood begins to impair him.
+* '''[[Superhuman Agility|Enhanced Agility]]:''' Daken's agility, balance, flexibility and dexterity are comparable to those of the finest human athlete, and then further enhanced by his resistance to muscle strain or injury and ability to push himself without fear of permanent damage.
+* '''[[Longevity]]:''' Daken's healing factor grants him an extended lifespan by slowing the effects of the aging process. Though he was born sometime in 1946, he retains the health, appearance and physical vitality of a man in the physical prime of his life.
+
+'''Superhumanly Acute Senses:''' Daken possesses superhumanly acute senses that are comparable or superior to those of many animals. Daken's hearing is similarly enhanced, enabling him to hear with amazing clarity, across distance, and even frequencies outside normal human range. Daken's sense of smell is able to recognize people and objects by scent, even if they are well hidden. He can track a target by scent, even if it has been greatly eroded by time and weather factors, with an extraordinary degree of success. Daken can also use his keen sense of smell to detect lies and a person's feelings due to chemical changes in their scent.{{r|X-Factor Vol 4 7}} 
+
+'''Insulated Weather Adaptation:''' Body is highly resistant to certain elemental extremes, particularly cold. {{r|X-Factor Vol 4 3}}
+
+'''Retractable Bone Claws:''' Daken possesses three retractable claws housed beneath the skin and muscle of his forearms, two claws which emerge from between the skin of his first and third knuckles and one from his inner wrist. These claws are much harder and denser than normal human bone and their natural shape provides them with a razor sharp edge capable of easily slicing through flesh and bone, and they have been shown to be able to penetrate metals as durable as Iron Man's armor.
+
+[[File:Dark Wolverine Vol 1 81 Textless.jpg|thumb|left|Dark Wolverine's pheromone control over Dark Ms. Marvel]]
+'''[[Pheromone Control]]:''' In addition to the powers he shares with his father and sisters, Daken also possesses empathic pherokinetic abilities as well as an ability to mask his own scent to such a degree that even Wolverine's senses are unable to track him. He can use his pheromones to manipulate the emotional state and sensory perceptions of other beings, and has been known to use this power to instill intense fear, happiness, depression, fascination, and a false sense of security. The latter allows him to seemingly appear out of nowhere at times, enabling him to inflect damage before an opponent realizes he's there. Such tactics give opponents the belief that he can either teleport or move at superhuman speeds, though he stated during his fight with Deadpool that he doesn't possess either of those powers. He also uses this ability against Spider-Man, telling him that his abilities allow him to distort or hinder an enemy's depth perception and visual acuity, causing them to fight sluggishly.
+When not deliberately controlled, Daken's pheromones cause those around him to mirror his own moods; during his youth and formative years, this caused his adoptive mother to be afraid of the supernatural seeming phenomena. Daken's pheromone abilities are at their most effective when a target is unaware of either their existence or their implementation, because unlike omega-level pherokinetics, he cannot assume direct control of a target's actions and reactions, and a wary target can push past their effects as an act of will.{{r|Uncanny X-Force Vol 1 34}}{{r|Iceman Vol 3 4}}
+His powers also don't enable him to create complex feelings like love in people, just amplify desires that were already present.{{r|X-Factor Vol 4 7}} 
+He also appears to have great knowledge as to the capabilities of pheromones in general, as well as their taste and smell. In conjunction with his enhanced senses and knowledge of pheromones, he can expertly judge the emotional/physical state of those around him, both animal and human.{{r|Official Handbook of the Marvel Universe A-Z #3}}
+
+[[File:Akihiro (Earth-616) from Iceman Vol 3 9 001.jpg|thumb|right|Daken channeling Apocalypse's Death Seed]]
+'''Telepathic Resistance:''' Daken has demonstrated resistance to telepathy;{{r|X-Men: Legacy #217}} his mind contains a "trap" awaiting anyone attempting to delve into his head, and his mind is also able to recover lost memories or reject false ones.
+
+'''Death Seed Powers:''' As the Horseman of Death, Daken had been planted with a Death Seed after he was resurrected by The Apocalypse Twins.{{r|Uncanny Avengers #9}} He was endowed with the power and potential to become the new iteration of Apocalypse on Earth as a result.
+* '''Energized Bone Claws:''' In his Horsemen guise, Daken's claws radiate some form of negative which seemingly augments their lethality.
+* '''Multi-Claw Projection:''' While channeling the power of the Death Seed through Zach's abilities, Daken produces multiple jet black razor sharp protrusions coming out of his forearms with which to eviscerate opponents.{{r|Iceman Vol 3 10}} 
+* '''Anti-Healing Factor:''' The energy that Daken's claws are laced in have an effect similar to his old Muramasa Claws or even ingested Carbonadium.{{r|Uncanny Avengers #11}}
+* '''Increased Biomass:''' While channeling the power of the Death Seed through Zach's abilities Daken gained additional physiological augmentation, such as increased skin density and muscle mass; making him appear bigger and vastly increasing his physical strength.{{r|Iceman Vol 3 10}}
+* '''Accelerating Regeneration:''' The more Daken is wounded the quicker his healing factor takes action to mend himself.{{r|Iceman Vol 3 10}}
+| Abilities               = '''Master Martial Artist:''' Daken has proven himself to be a superb hand to hand combatant. Cyber trained Daken at one time and acknowledges that Daken has superior skill. Daken has proven this skill by besting both Wolverine and Deadpool. It is unclear how much of this should be attributed to his unique ability to use his pheromones to alter the perception and emotional state of others, however he is undeniably highly proficient. He has also been trained in the use of a variety of weapons, including bow and arrow or daishō swords.
+
+'''Skilled Acrobat:''' Since Daken doesn't have adamantium coating his skeleton, he is much lighter weight than his father, and can do more "acrobatics". He has shown a skill in gymnastics, acrobatics and aerials, capable of complex acrobatic maneuvers in rapid succession during the heat of battle.
+
+'''Expert Tracker and Hunter:''' Due to his enhanced sense of smell, Daken is a prodigious tracker and has memorized the scents of many different people and animals, as well as being able to often distinguish the emotional state his target was in when they passed.
+
+'''Multilingual:''' Daken has shown the ability to speak and easily learn multiple languages including English, Japanese,{{r|Wolverine: Origins Vol 1 26}} Greek,{{r|Wolverine: Origins Vol 1 26}} Italian, and German.{{r|Wolverine: Origins Vol 1 12}}
+
+'''Cunning Intellect:''' He possesses the ability to quickly process multiple information streams (e.g., threat assessment) and rapidly respond to changing tactical situations. 
+
+'''Excellent Strategist/Tactician:''' He has shown the ability to easily enter and leave high security military installations and to manipulate and outmaneuver super geniuses such as Norman Osborn and Reed Richards with ease.
+
+'''Master Manipulator and Deceiver:''' Contributed to by his abilities to read and alter emotions, and augmented by his intellect and experience, Daken excels at scheming, planning and coaxing other into doing his dirty work for him. Daken has shown a particular prodigious skill in the art of the triple-cross, often playing two or more parties against each other to gain trust.
+
+| Weaknesses              = '''[[Carbonadium]]:''' Daken's healing factor can be dramatically slowed if Carbonadium is implanted inside of him, such as swallowing something made of Carbonadium or being wounded by a bullet composed of it. It causes his healing factor to be reduced to a crawl, but doesn't fully suppress it.{{r|Wolverine: Origins Vol 1 25}}
+
+'''[[Bloodgem|Bloodstone Fragments]]:''' A bloodgem piece overcharges Daken's healing abilities to the point he'll break out in cancerous growths if forced to regenerate too quickly for the bodily processes to handle.{{r|Franken-Castle Vol 1 20}}
+
+'''[[Heat Pills]]:''' Temporarily slows or cancels the healing factor.
+
+'''[[Muramasa Blade]]:''' Nullifies healing factors, and is capable of killing Daken.
+
+'''[[Muramasa Bullets]]:''' Created out of the Muramasa blade. Used for killing those with Healing Factors.
+
+'''Depression:''' Daken's healing factor is affected by his emotional state, and feelings of depression and guilt cause it to be severely slowed. While this may be common to mutants with healing factors, as his sister Laura's self-mutilation scars were much slower to heal than other wounds,{{r|NYX Vol 1 3}} Daken has demonstrated frequent episodes of malaise since his resurrection.
+
+| Equipment               = '''[[Death Seed]]:''' Due to being planted with a Death Seed following his resurrection, Daken still has the quintessence of the next herald of the Celestials resting inside of him.{{r|Iceman Vol 3 10}}
+
+{{Navigation
+| title = Former Equipment
+| body  = 
+'''[[Bloodgem]]:''' A crystal fragment begotten from a larger stone of the [[Lifestone Tree]], Daken had taken the jewel that'd been affixed to castle's frankensetinien anatomy to take on its power as his own. But was quickly overwhelmed by the relic as it kicked his already impressive regenerative healing factor into overdrive, causing growths and tumors to form after successive regeneration until it was removed.{{r|Franken-Castle Vol 1 20}}
+*'''Physical Augmentation:''' The gemstone bit vastly bolstered Dark Wolverine's physical abilities to the point that he could knock around Franken-Castle like a ragdoll barehanded. His regeneration and durability were similarly enhanced that he could easily resist gunfire for a time.{{r|Franken-Castle Vol 1 20}}
+*'''Vengeance Empowerment:''' It is said that the bloodstone is powered by the users need for retribution. The gems powers vastly magnifying Daken's abilities with the insurmountable level or rage and hatred he feels for the world.{{r|Franken-Castle Vol 1 21}}
+}}
+
+| Transportation          = 
+| Weapons                 = '''Adamantium Swords:''' Was gifted a pair of solid adamantium blades crafted by the associate of [[Briar Raleigh (Earth-616)|Ms. Raleigh]]'s, who'd purchased the metal on the Black Market, as an invitation by Magnus to join his iteration of X-Men.{{r|X-Men: Blue Vol 1 24}}
+
+{{Navigation
+| title = Former Weapons
+| body  = 
+'''Electric Claw Glove:''' Made by [[Reed Richards (Earth-616)|Reed Richards]], it emits high voltage to stun people.
+[[File:Wolverine Origins Vol 1 36 Textless.jpg|thumb|right|Daken's Muramasa Claws]]
+'''Muramasa Claws:''' At one point, Daken had the Tinkerer coat the claws which extend from the underside of his wrists with a broken piece of the Muramasa Blade. The Tinkerer also implanted artificial [[Adamantium|adamantium]] housings to act as sheathes inside Daken's wrists to protect his soft body tissues from the substance the Muramasa Blade was composed of. The Tinkerer advised Daken to only use them in certain situations as they could be broken. Both of these claws were ultimately cut out of his arms by Wolverine,{{r|Wolverine: Origins #48}} and grew back no longer possessing the Muramasa Blade coating.{{r|New Avengers Vol 2 34}}
+}}
+
+| Notes                   = * He has an extensive tattoo wrapping his torso and left arm, and it has yet to be explained why the tattoo is resistant to his healing factor, however it was shown (and remarked upon) that when his left arm grew back following its amputation (twice), the tattoo also returned.{{r|All-New Wolverine Vol 1 28}}
+* His name is pronounced Dä-ken.
+* Daken has been "brought back" from death without explanation: He blew himself up in a long scheme to punish his father by leaving him with nothing,{{r|Daken: Dark Wolverine #23}} thus making him wonder about Daken's true nature,{{r|Heroic Age: Villains #1}} but was seen fully healed later,{{r|Wolverine Vol 2 304}} and along with the new [[Brotherhood of Evil Mutants (Earth-616)|Brotherhood of Evil Mutants]]{{r|Uncanny X-Force #27}} against Wolverine's [[X-Force (Strike Team) (Earth-616)|X-Force]].{{r|Heroic Age: X-Men #1}}
+* There is some confusion surrounding Daken's birthdate. Though it has been given as 1946, this is not possible given both the events in his father's life around that time and the fact that [[Bucky Barnes]] was in suspended animation between 1945 and 1954 despite being present at Daken's birth.
+* While being part of [[H.A.M.M.E.R. (Earth-616)|H.A.M.M.E.R.]], he was granted Security Clearance Level 5.{{r|Siege #1}}
+| Trivia                  = * Daken is bisexual and has used his pheromones to entice or confuse both men and women.
+** He used his pheromones on Lester (Bullseye), making him jealous, angry and confused at random in order to exacerbate his paranoia and erratic behavior to discredit him.{{r|Dark Wolverine Vol 1 75}} He later kissed him (unconsentually) during the [[Siege (Event)|Siege of Asgard]].{{r|Dark Wolverine Vol 1 84}}
+**At some point Daken had a relationship with a male Hydra-Agent named Kim. Years later Daken spared him during a massacre "for old times sake". Kim was killed/mentally overloaded by one of his superiors in an interrogation about the incident.{{r|Death of Wolverine: The Logan Legacy #5}}
+* Daken is one of the three last known surviving sons of Wolverine, the other being [[Erista (Earth-616)|Erista]] of the [[Savage Land]]'s [[Tribe of Fire]], and [[Raze Darkholme (Earth-616)|Raze Darkholme]] (but it is unknown exactly how many children Wolverine had). He does have a paternal half-sister; [[Laura Kinney (Earth-616)|Laura]] and her younger clones [[Gabrielle Kinney (Earth-616)|Gabby]] and [[Bellona (The Sisters) (Earth-616)|Bellona]].
+* Although Daken generally views others by how they can be used to best serve his purposes, he does at time demonstrate concern and respect for certain people he's close to. Most notably this extends to his sister Laura, who is one of the few people he has been shown to demonstrate genuine affection for,{{r|Death of Wolverine: The Logan Legacy Vol 1}}{{r|Wolverines Vol 1}}{{r|All-New Wolverine Vol 1 21}} and some of his teammates on [[X-Factor Investigations (Earth-616)|X-Factor]].{{r|X-Factor Vol 4 8}}
+* Daken first got his tattoos at some point between 1959 and  1967.{{r|Wolverine: Origins #27}}{{r|Marvel's Voices: Pride Vol 1 1}}
+| Links                   = * [http://uncannyxmen.net/characters/daken uncannyxmen.net Spotlight On... Daken]
+
+==Recommended Readings==
+* {{cl|Wolverine: Origins #10}} – "Savior: Conclusion"
+* [[Swift and Terrible]]
+* [[Son of X]]
+* [[Original Sin (Storyline)|Original Sin]]
+* [[Family Business]]
+* {{cl|Dark Avengers Vol 1}}
+* [[Weapon XI (Story Arc)|Weapon XI]]
+* [[Dark Wolverine Vol 1|Dark Wolverine]]
+* {{cl|Dark Reign: The List - Punisher Vol 1 1}} – "A Good Lie"
+* [[Reckoning]]
+* [[Punishment]]
+* [[Daken: Dark Wolverine Vol 1|Daken: Dark Wolverine]]
+* [[Wolverine's Revenge!]]
+* [[Final Execution]]
+* {{cl|Uncanny Avengers #11}}
+* {{cl|Death of Wolverine: The Logan Legacy Vol 1 5}}
+* [[Immune]]
+* [[Orphans of X (Story Arc)|Orphans of X]]
+* {{cl|Iceman Vol 3 4}} 
+* {{cl|Iceman Vol 3 9}} – "The Apocalypse Seed (Part One)"
+* {{cl|Iceman Vol 3 10}} – "The Apocalypse Seed (Part Two)"
+* {{cl|X-Factor Vol 4}}
+}}
+[[es:Akihiro (Tierra-616)]]
+
+[[Category:Howlett Family]]
+[[Category:Logan Family]]
+[[Category:Hudson Family]]
+[[Category:Martial Arts]]
+[[Category:Lupine Form]]
+[[Category:Pheromones]]
+[[Category:Telepathic Immunity]]
+[[Category:Superhuman Stamina]]
+[[Category:Superhuman Senses]]
+[[Category:Superhuman Agility]]
+[[Category:Superhuman Reflexes]]
+[[Category:Hyperosmia]]
+[[Category:Hyperacusia]]
+[[Category:Night Vision]]
+[[Category:Bisexual Characters]]
+[[Category:Empaths]]
+[[Category:Advanced Longevity]]
+[[Category:Multilingual]]
+[[Category:Toxic Immunity]]
+[[Category:Weapons Expert]]
+[[Category:H.A.M.M.E.R. Security Clearance Level 5]]
+[[Category:Regeneration]]
+[[Category:Crimelords]]
+[[Category:Transformed by the Death Seed]]
+[[Category:Post-M-Day Mutants (Registration Status Unknown)]]
+[[Category:Acrobats]]
+[[Category:Gymnasts]]
+[[Category:Trackers]]
+[[Category:Horsemen of Death]]
+[[Category:Inodorosity]]
+[[Category:Adamantium]]
+[[Category:Depression]]
+[[Category:Death by Asphyxiation]]

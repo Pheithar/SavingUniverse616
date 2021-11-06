@@ -1,0 +1,92 @@
+{{Marvel Database:Character Template
+| Image                   = Miguel Santos (Earth-616) from Avengers Vol 1 675 001.jpg
+| Name                    = [[Miguel Santos]]
+| CurrentAlias            = [[Lightning]]
+| Codenames               = [[Living Lightning]]{{r|Avengers West Coast Vol 2 63}} 
+| Impersonations          = [[Sir Fulminator]]{{r|Avengers Vol 3 2}}
+| Aliases                 = Relampago Vivo{{Citation}}
+
+| Affiliation             = {{m|Avengers World}}, Bodyguard of [[Brandon Sharpe (Earth-616)|Striker]]'s mother; formerly {{m|Avengers West Coast}} (part of Shi'ar delegation during [[Operation Galactic Storm]]), {{m|Pacific Overlords}}, {{m|Secret Avengers (Civil War)}}, {{m|Rangers}} ([[Texas (State)|Texas]] {{m|50-State Initiative (Earth-616)|Initiative}})
+| Parents                 = [[Carlos Santos (Earth-616)|Carlos Santos]] (father, deceased);<br>
+[[Maria Santos (Earth-616)|Maria Santos]] (mother)
+| Siblings                = [[José Santos (Earth-616)|José Santos]] (brother);<br>
+[[Lisa Santos (Earth-616)|Lisa Santos]] (sister, deceased) 
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Marvel Avengers: The Ultimate Character Guide Vol 1 2}}
+| Gender                  = Male
+| Height                  = 5'9"
+| Weight                  = 170 lbs
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] [[Glossary:Mutate|converted]] into living energy
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Adventurer, student
+| Education               = College
+| BaseOfOperations        = [[Texas (State)|Texas]]; formerly the [[Avengers Compound]], [[Palos Verdes]], [[California (State)|California]]
+
+| Creators                = Dann Thomas; Roy Thomas; Paul Ryan
+| First                   = Avengers West Coast Vol 2 63
+| First2                  = (as Living Lightning)<br>{{sld|Avengers Vol 1 675}}(as Lightning)
+
+| Quotation               = This isn't about '''being the winner.''' It's not for the '''glory.''' We don't '''care''' if we're remembered. Because it doesn't matter if anyone '''knows''' what good you did... As long as the good was '''done.''' That's what being an [[Avengers (Earth-616)|Avenger]] '''is.'''
+| Speaker                 = [[Miguel Santos (Earth-616)|Lightning]]
+| QuoteSource             = Avengers Vol 1 689
+
+| History                 = Miguel's father, Carlos, was a member of an extremist group called [[Lords of the Living Lightning (Earth-616)|Legion of Living Lightning]]. In a misguided attempt by the Legion to gain control of  the [[Bruce Banner (Earth-616)|Hulk]], Carlos was killed. Hoping to salvage his father's name, Miguel broke into the Legion's headquarters to learn more about their work. While exploring, Miguel unwittingly turned on one of the Legion's machines and was transformed into a being of living energy.{{r|Avengers: West Coast #63}}
+
+Initially, a confused Miguel clashed with the [[Avengers West Coast (Earth-616)|West Coast Avengers]] and was apparently killed during the conflict. Later, he turned up alive and under the control of a villain, [[Douglas Birely (Earth-616)|Doctor Demonicus]]. After a brief, unwilling foray into crime, Miguel joined the Avengers. While he occasionally serves with the team, Miguel gave up active membership to concentrate on his studies.{{r|Avengers: West Coast #74|89}} For a time, Miguel manned the [[Avengers Deep-Space Monitoring Station]] with his fellow Avenger [[Wendell Vaughn (Earth-616)|Quasar]], as their respective powers enabled them to travel back and forth to [[Earth]] with ease, and Miguel could take advantage of the isolation to study.{{r|Avengers Vol 3 38}}
+
+Miguel was invited to attend a meeting of the [[Great Lakes Initiative (Earth-616)|Great Lakes Avengers]] or GLA, as they wanted to recruit him to join the team. However, Miguel turned them down, explaining that he'd attended thinking GLA referred to the Gay/Lesbian Alliance.{{r|G.L.A. Vol 1 2}} Not long afterwards, during the [[Civil War (Event)|superhuman civil war]], Miguel joined the Anti-Registration side due to [[William Foster (Earth-616)|Goliath]]'s death. However, following the final battle, he registered and became a member of the [[Rangers (Earth-616)|Rangers]], the official super-team of [[Texas (State)|Texas]], as part of the [[50-State Initiative (Earth-616)|50-State Initiative]]. He fought both [[Hydra (Earth-616)|Hydra]], [[Skrulls]] and the [[Kaine Parker (Earth-616)|Scarlet Spider]] along with his fellow Rangers.{{r|Scarlet Spider Vol 2 #7|9}}
+
+Miguel eventually quit the Rangers and went solo. He additionally refashioned himself as simply "Lightning," since he wanted to stop being confused with the supervillain [[Arthur Parks (Earth-616)|Living Laser]]. A global crisis resulted as a consequence of a contest between two [[Elders of the Universe (Earth-616)|Elders of the Universe]], the [[En Dwi Gast (Earth-616)|Grandmaster]] and the [[Challenger (Elder of the Universe) (Earth-616)|Challenger]], during which the entire planet Earth was teleported from its location in the Solar System to a galaxy far away. Lightning was pulled back into the Avengers' ranks when he answered a distress call to respond to the crisis, since he additionally happened to be one of the few superhumans that didn't become frozen in stasis as part of the contest.{{r|Avengers Vol 1 675}} While containing his feelings of inadequacy, Miguel became part of one of the two teams of Avengers deployed to investigate the different fights between members of each of the Elders' teams, the [[Black Order (Earth-616)|Black Order]] and the [[Lethal Legion (Grandmaster) (Earth-616)|Lethal Legion]].{{r|Avengers Vol 1 677}} After the Black Order's [[Black Dwarf (Earth-616)|Black Dwarf]] seemingly died to claim a [[Pyramoids|Pyramoid]] and score a point for his team, Lightning rushed from Italy to Peru to warn the other Avengers team not to touch the Pyramoid on their end, but failed to stop the [[Jonathan Storm (Earth-616)|Human Torch]] from doing so, and he was seemingly disintegrated.{{r|Avengers Vol 1 679}}
+
+Lightning remained with the Avengers team in Peru, and travelled with them to [[Antarctica]] and successfully routed the Black Order when they tried to claim one of the Pyramoids placed there as part of their contest's second round.{{r|Avengers Vol 1 680}} Miguel then flew to the [[Avengers Auxiliary Headquarters]] to get find a method of transport for the rest of the team,{{r|Avengers Vol 1 682}} and arrived shortly before [[Va Nee Gast (Earth-616)|Voyager]] locked herself in a vault with the final Pyramoid, since she had been a double agent for the Grandmaster all along.{{r|Avengers Vol 1 683}} On behalf of the Challenger, the [[Bruce Banner (Earth-616)|Hulk]] attacked the base to claim the Pyramoid, and Lightning tried to stop him to no avail despite firing all of his power at once.{{r|Avengers Vol 1 684}}
+
+Following the end of the contest, the Challenger incapacitated the Grandmaster and sabotaged the [[World-Engine]] in the [[Grandmaster's Cosmic Game Room]] that kept the Earth stable. Voyager, who had rebelled against her father and joined the heroes' side, teleported a group of Avengers to the Cosmic Game Room to keep the World-Engine running, and Lightning helped provide it energy.{{r|Avengers Vol 1 688}} Afterwards, the Avengers noticed the Grandmaster recovering, and Miguel attempted to convince him not turn his back on the Earth's destruction. He resorted to challenging the Grandmaster to a game of poker, and kept rising the stakes until he bet being erased from existence and memory. The Grandmaster couldn't bear the thought of paying the same price if he lost, and decided to fold, which resulted on the Earth being teleported back to its proper place, which stopped it from falling apart.{{r|Avengers Vol 1 689}}
+
+| Powers                  = '''Sentient Electrical Form''': In his true form, Living Lightning is just that, a sentient electrical plasma force with no mass. While in this form, he is capable of:
+*'''Flight''': Miguel can fly, and is capable of reaching sub-light speeds.
+*'''Semi-Invulnerability''': While in energy form, Santos cannot be harmed by Physical attacks, or most energy attacks. He can be harmed by magic, psionic or plasma based attacks. He is also able to withstand the the vacuum of space.
+*'''Electrokinesis''': He also possesses the ability to fire and manipulate bursts of electricity and electrical fields of varying intensities.
+**'''Electricity Projection''': Living Lightning is able to bodily generate up to 15,000,000 volts of electrical power.
+**'''Force Field''': When focused, Miguel can create protective force fields of electrical energy.
+**'''Concussive Electric Plasma Blasts''':  He can bodily generate, conduct and release staggering plasma blasts from his body.
+*'''Electronic Manipulation''': He is capable of manipulating electronic devices.
+*'''Body Manipulation''': He has the ability to control his body while composed of electrical plasma.
+*'''Astral Projection''': While in his energy form, his mind resides in an Astral form.
+
+| Abilities               =
+* '''Bilingual''': Miguel is fluent in both Spanish and English.{{r|West Coast Avengers Annual Vol 2 6}}
+
+*'''Skilled Fighter''': He has some knowledge of street-fighting 
+
+techniques. 
+| Strength                = Normal human strength.
+| Weaknesses              = '''Electrical Form''': Miguel must wear a special containment suit to retain a solid form.
+*'''Electrokinesis''': Extremely powerful electrokinetics like [[Thor Odinson (Earth-616)|Thor]] can restrain him using their own electrokinetic powers.
+
+| Equipment               = ''Formerly'' [[Avengers Identicard]]
+| Transportation          = ''Formerly'' [[Avengers Quinjet]]
+| Weapons                 = 
+
+| Notes                   = * Miguel Santos is homosexual.{{r|G.L.A. Vol 1 2}}{{r|Avengers Vol 1 675}}
+| Trivia                  = 
+| Links                   = *[http://www.gayleague.com/gay/characters/display.php?id=179 '''Gay League''' Spotlight-Living Lightning]
+*[http://www.marvel.com/universe/Living_Lightning '''Marvel Universe''' Spotlight-Living Lightning]
+}}
+[[Category:Santos Family]]
+[[Category:Homosexual Characters]]
+[[Category:Flight]]
+[[Category:Energy Form]]
+[[Category:Intangibility]]
+[[Category:Electrokinesis]]
+[[Category:Superhuman Durability]]
+[[Category:Multilingual]]

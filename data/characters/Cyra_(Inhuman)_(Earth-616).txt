@@ -1,0 +1,45 @@
+{{Marvel Database:Character Template
+| Image                   = Cyra_(Inhuman)_(Earth-616)_from_Inhuman_Special_Vol_1_1_0001.jpg
+| Name                    = Cyra
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{M|Inhuman Royal Guard (Earth-616)|Inhuman Royal Guard}}, [[Maximus Boltagon (Earth-616)|Maximus' Loyalists]]
+| Relatives               = [[Mikon (Earth-616)|Mikon]] (brother)
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Blonde
+
+| Origin                  = [[Inhomo supremis|Inhuman]] powered by the [[Terrigen Mists]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Attilan]]
+
+| Identity                = No Dual
+| Citizenship             = Attilan
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = [[Attilan]]
+
+| Creators                = Lou Mougin; Richard Howell
+| First                   = Inhumans Special #1
+
+| History                 = 
+
+| Powers                  = Super-Strength
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

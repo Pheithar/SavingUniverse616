@@ -1,0 +1,75 @@
+{{Marvel Database:Race Template
+| Image                   = Gardeners from Avengers Vol 5 20 001.jpg
+| ImageSize               = 300px
+| Name                    = Gardeners
+| Aliases                 = Ex Nihilii
+| Identity                = Public
+| Affiliation             = Formerly {{m|New Avengers (A.I.M.) (Earth-616)|Sunspots' Avengers}}; [[Builders (Race)|Builders]], [[Abyss (Race)|Abyss]], [[Alephs]]
+| Alignment               = Good
+| Universe                = Earth-616
+| BaseOfOperations        = Formerly [[Savage Land]]
+
+| BodyType                = Variable
+| AvgHeight               = 
+| AvgWeight               = 
+| Eyes                    = Variable
+| Hair                    = None
+| Skin                    = Yellow
+| Skin2                   = Red
+| NumberOfLimbs           = Variable
+| NumberOfFingers         = Variable
+| NumberOfToes            = Variable
+| SpecialAdaptations      = 
+| UnusualFeatures         = 
+
+| Origin                  = 
+| GalaxyOfOrigin          = 
+| StarSystemOfOrigin      = 
+| HomePlanet              = 
+| PlaceOfBirth            = 
+| Creators                = Jonathan Hickman; Jerome Opeña
+| First                   = Avengers Vol 5 1
+
+| HistoryText             = The Gardeners are creatures created by the [[Builders (Race)|Builders]] to help them shape the universe. A Gardener is always accompanied by an Abyss, who is in charge of judging his/her work. An [[Alephs|Aleph]] carries the eggs of a Gardener and an Abyss until it finds a suitable environment to let them create life.{{r|Avengers Vol 5 2}} After the creation of a new universal structure and the mysterious death of almost all the Abysses, the Builders recalled all the Gardeners and forbidden them from harvesting worlds, and the Gardeners were relegated to being servants to those who created them.{{r|Avengers Vol 5 20}}
+===Earth-616===
+Somehow, [[Ex Nihilo (Earth-616)|one Gardener]] was not called, and along with [[Abyss (Ex Nihilo's) (Earth-616)|the last of the Abysses]] and an Aleph continued creating life, and his actions to try to make [[Earth]] sentient caused the [[Builders (Race)|Builders]] to catalog that planet as a failure in need to be destroyed. In the process, the Builders conquered and destroyed numerous planets.{{r|Infinity Vol 1 1}} A resistance composed by the Galactic Council and the [[Avengers (Earth-616)|Avengers]] managed to oppose the Builders, who still had the odds in their favor.
+
+Resentful for how the Builders had downgraded them, the Gardeners helped their brother [[Ex Nihilo (Earth-616)|Ex Nihilo]] to wake up [[Tamara Devoux (Earth-616)|Captain Universe]], and turn the tide of the conflict to favor the Avengers.{{r|Avengers Vol 5 21}}
+
+After the defeat of the Builders and Alephs, the Gardeners returned to their work of growing life in worlds and repairing the Damage done by the builders war.{{r|Infinity Vol 1 6}}
+
+===Time Runs Out===
+Due to the contraction of the Multiverse, the universe started decaying, and the Gardeners of 616 attempted to fix it, but couldn't. When the coalescing center of this decay focused on a single point, the Earth, the Gardeners and Abyss returned to Earth to investigate.{{r|Avengers Vol 5 35}} Once on Earth, the Gardeners were able to see its whole system and find that the planet had scars. They were offered by [[Roberto Da Costa (Earth-616)|Bobbi da Costa]] a one-way trip to investigate the origin of this decay by using A.I.M. technology and travel across the Multiverse.{{r|Avengers Vol 5 36}}
+
+The Avengers traveled across numerous universes, navigating the map left by the [[Mapmakers (Multiverse)|Mapmakers]]. After one last jump across universes that cost [[Adam Blackveil (Earth-616)|Nightmask]]'s life, the Avengers found themselves face to face with a fissure in time and space. From it, two [[Beyonders]] emerged and demanded the heroes to fall back. Upon denying their request, the Avengers faced the Beyonders. In an attempt to reprogram one of the Beyonders, Abyss and the Ex Nihili sacrificed themselves.{{r|New Avengers Vol 3 32}}
+
+| Habitat                 = Essentially any 
+| Gravity                 = Essentially any
+| Atmosphere              = Essentially any
+| Population              = 
+
+| Powers                  = *'''Organic Creation/Manipulation''': The Gardeners can transform organic life through direct contact or through "origin bombs" that carry communal viruses programmed to re-map genetic codes within a ten mile effect radius
+**'''Chlorokinesis''': Gardeners can mentally control plant life including its movement and growth
+*'''World Killer:''' Gardeners can "kill" a world by committing suicide and in the act creating an expanding sphere of decay that spreads throughout the world, spreading death and disease and turning it into a plague world.{{r|Infinity Vol 1 2}}
+*'''Pyrokinesis/Fire Breath''': Gardeners can released blasts of flame from their mouths
+*'''Advanced Longevity''': All Gardeners have advanced lifespans
+*'''Adaptability''': Gardeners are capable of surviving in any environment
+| Abilities               = 
+| AvgStrength             = 
+| Weaknesses              = 
+
+| GovernmentType          = Subservient to the Builders
+| TechnologyLevel         = None, reliant on [[Builders (Race)|Builders]]
+| CulturalTraits          = 
+| Representatives         = [[Ex Nihilo (Earth-616)|Ex Nihilo]], [[Ex Nihila (Earth-616)|Ex Nihila]], [[Jerran Ko (Earth-616)|Jerran Ko]], many unnamed others
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Builders]]
+[[Category:Gardeners]]
+[[Category:Factions In The Game Of Worlds]]
+[[Category:Races with Red Skin]]
+[[Category:Advanced Longevity]]
+[[Category:Extinct Species]]

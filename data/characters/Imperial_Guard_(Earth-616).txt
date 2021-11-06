@@ -1,0 +1,59 @@
+{{Marvel Database:Team Template
+| Image                   = Imperial Guard (Earth-616) from Avengers Vol 5 5 cover.jpg
+| ImageSize               = 250px
+| Name                    = Imperial Guard
+| Aliases                 = Super Guardians
+
+| Status                  = Active
+| Identity                = Public
+| Reality                 = Earth-616
+| BaseOfOperations        = [[Shi'ar Empire]]
+
+| Leaders                 = [[Kallark (Earth-616)|Gladiator]], formerly [[Sybil (Oracle) (Earth-616)|Oracle]], [[Mentor (Imperial Guard) (Earth-616)|Mentor I]]
+| CurrentMembers          = [[Arc (Imperial Guard) (Earth-616)|Arc]], [[Astra (Imperial Guard) (Earth-616)|Astra]], [[Blackthorn (Earth-616)|Blackthorn]], [[Blimp (Earth-616)|Blimp]], [[Samuel Guthrie (Earth-616)|Cannonball]], [[M-Nell (Earth-616)|Commando]], [[Delphos (Earth-616)|Delphos]], [[Earthquake II (Earth-616)|Earthquake]], [[Electron (Imperial Guard) (Earth-616)|Electron]], [[Fader (Earth-616)|Fader]], [[Grannz (Earth-616)|Flashfire]], [[Kallark (Earth-616)|Gladiator]], [[Glom (Earth-616)|Glom]], [[G-Type (Earth-616)|G-Type]], [[Hardball (Imperial Guard) (Earth-616)|Hardball]], [[Hobgoblin III (Earth-616)|Hobgoblin]], [[Hussar (Earth-616)|Hussar]], [[Magique II (Earth-616)|Magique]], [[Manta (Earth-616)|Manta]], [[Mentor III (Earth-616)|Mentor]], [[Monstra (Earth-616)|Monstra]], [[Neosaurus (Earth-616)|Neosaurus]], [[Nightside II (Earth-616)|Nightside]], [[N'Rill'Iree (Earth-616)|N'Rill'Iree]], [[Sybil (Oracle) (Earth-616)|Oracle]], [[Plutonia II (Earth-616)|Plutonia]], [[Impulse III (Earth-616)|Pulsar]], [[Schism (Earth-616)|Schism]], [[Scintilla (Earth-616)|Scintilla]], [[Sea Spine (Earth-616)|Sea Spine]], [[Isabel Kane (Earth-616)|Smasher]], [[Sp'yxx (Earth-616)|Sp'yxx]], [[Squorm (Earth-616)|Squorm]], [[Starbolt II (Earth-616)|Starbolt]], [[Stuff (Earth-616)|Stuff]], [[Trypthe (Earth-616)|Trypthe]], [[B'nee and C'cil (Earth-616)|Warstar]], [[Webwing (Earth-616)|Webwing]], [[White Noise (Earth-616)|White Noise]]
+
+| FormerMembers           = [[Black Light (Earth-616)|Black Light]], [[Binder (Earth-616)|Binder]], [[Chakar (Earth-616)|Chakar]], [[Cosmo (Imperial Guard) (Earth-616)|Cosmo]], [[Earthquake (Earth-616)|Earthquake I]], [[Fang (Imperial Guard) (Earth-616)|Fang I]], [[Fang (Replacement) (Earth-616)|Fang II]], [[Fang III (Earth-616)|Fang III]], [[God-Killer (Earth-616)|God-Killer]], [[Hobgoblin (Imperial Guard) (Earth-616)|Hobgoblin]], [[Hobgoblin II (Earth-616)|Hobgoblin II]], [[Impulse (Earth-616)|Impulse I]], [[Impulse II (Earth-616)|Impulse II]], [[Karnak Mander-Azur (Earth-616)|Karnak]], [[Kwill (Earth-616)|Kwill]], [[Magique (Earth-616)|Magique I]], [[Mammoth (Imperial Guard) (Earth-616)|Mammoth]], [[Mentor (Imperial Guard) (Earth-616)|Mentor I]], [[Mentor (Female) (Earth-616)|Mentor II]], [[Myla (Earth-616)|Moondancer]], [[Neutron (Imperial Guard) (Earth-616)|Neutron I]], [[Neutron II (Earth-616)|Neutron II]], [[Nightside (Earth-616)|Nightside I]], [[Onslaught (Imperial Guard) (Earth-616)|Onslaught]], [[N'zyr (Earth-616)|Plutonia I]], [[Pn'zo (Earth-616)|Pn'zo]], [[Vril-Rokk (Earth-616)|Smasher I]], [[Salac Tuur (Earth-616)|Smasher II]], [[Smasher III (Earth-616)|Smasher III]], [[Galin (Earth-616)|Smasher IV]], [[Smasher VI (Earth-616)|Smasher VI]], [[Solar Wind (Earth-616)|Solar Wind]], [[Starbolt (Earth-616)|Starbolt I]], [[Peter Quill (Earth-616)|Starlord]], [[The Hodinn (Earth-616)|The Hodinn]], [[Titan (Earth-616)|Titan I]], [[Titan II (Earth-616)|Titan II]], [[Subguardian Titan (Earth-616)|Titan III]], [[Triton (Earth-616)|Triton]], [[Uncreated (Aliens)|The Uncreated]], [[Voltar (Earth-616)|Voltar]], [[Divad (Earth-616)|Voyager]], [[Xenith (Earth-616)|Xenith]], [[Zenith (Earth-616)|Zenith]], [[Zzzxx (Symbiote) (Earth-616)|Zzzxx]]
+| Allies                  = {{m|Imperial Guard Training Academy|Subguardians}}; otherwise variable, changing with the Majestor/Majestrix in charge and the situation; {{m|X-Men}}, {{m|Avengers}} (although they often oppose them)
+| Enemies                 = Previously [[Builders (Race)|Builders]] [[Guardians of the Galaxy (Earth-616)|Guardians of the Galaxy]], [[House of Agon (Earth-616)|Inhumans]], [[Avengers West Coast (Earth-616)|West Coast Avengers]], Variable, changing with the Majestor/Majestrix in charge and the the situation.
+
+| Origin                  = Elite Corps of the [[Shi'ar Empire]], protectors of the Majestor/Majestrix. Formed by one champion of each Shi'ar world.
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Chris Claremont; Dave Cockrum
+| First                   = X-Men Vol 1 107
+| Last                    = 
+
+| HistoryText             = The '''Imperial Guard''' was a legion of super-powered champions from throughout the intergalactic [[Shi'ar Empire]] who acted as enforcers of Imperial law. The original Imperial Guard was formed to stop [[Rook'shir (Earth-616)|Rook'shir]], a [[Shi'ar]] who became the host of the [[Phoenix Force (Earth-616)|Phoenix Force]]. An elite corps of the Guard, dubbed Superguardians, protect the ruling emperor (majestor) or empress (majestrix) and carry out their personal directives. The other divisions, the [[Borderers (Earth-616)|Borderers]], aid the governors of conquered worlds in enforcing Shi'ar law. The ranks of the Guard are fed by the [[Imperial Guard Training Academy (Earth-616)|Imperial Guard Training Academy]] or Subguardians.
+
+When the [[X-Men (Earth-616)|X-Men]] sought to rescue the Princess-Majestrix [[Lilandra Neramani (Earth-616)|Lilandra]] from her insane brother, then-Majestor [[D'ken Neramani (Earth-616)|D'Ken]], they fought members of the Guard on the planet of the [[M'kraan Crystal]]. With the aid of the [[Starjammers (Earth-616)|Starjammers]], the X-Men defeated the guard and saved the universe from destruction.{{r|X-Men Vol 1 107|109}} The X-Men and the Guard subsequently clashed again after Lilandra had assumed the Shi'ar throne and sought to end the universal threat posed by the Phoenix Force, which had assumed the form of X-Man [[Jean Grey (Earth-616)|Jean Grey]]. This time, the Guard defeated the X-Men, but allowed them to return to Earth after the Phoenix seemingly committed suicide.{{r|X-Men Vol 1 137}}
+
+Later, the exiled Shi'ar [[Cal'syee Neramani (Earth-616)|Deathbird]] manipulated the Guard into believing the X-Men had kidnapped her sister, Lilandra. She was aided by the shifting loyalties of the Guard's Borderers faction. Despite the truth being revealed, Deathbird was able to usurp the throne.{{r|Uncanny X-Men Vol 1 154|157}} She forced the Guard to aid her in a search for the powerful "Phalkon," which was revealed to be the Phoenix Force, then wielded by [[Rachel Summers (Earth-811)|Rachel Summers]]. In the ensuing clash with the Starjammers and Rachel's teammates in [[Excalibur (Earth-616)|Excalibur]], Deathbird and the Guard were defeated.{{r|X-Men: Spotlight on...Starjammers Vol 1 1|2}} Later, Deathbird and the Guard were attacked by members of the shapeshifting alien [[Skrulls]]. Deathbird was able to escape and enlisted the X-Men's aid in defeating the Skrulls, after which she abdicated the throne to Lilandra;{{r|Uncanny X-Men Vol 1 274|277}} however, the Skrulls were able to incite a war between the Shi'ar and the [[Kree]] that spilled over into Earth space, resulting in the Guard clashing with the [[Avengers (Earth-616)|Avengers]]. The war ended after the Kree population was decimated, leaving Lilandra with no other choice but to conquer the remaining Kree. The Kree Starforce became an adjunct to the Shi'ar Imperial Guard, and Deathbird was named viceroy of the Kree territories.{{r|Operation: Galactic Storm}}
+
+During the time when many Earth heroes were believed dead after a battle with the psionic being [[Onslaught (Psychic Entity) (Earth-616)|Onslaught]], Lilandra dispatched a cadre of Guardsmen to help protect Earth. There, the Guardsmen uncovered a plot by a militant Kree faction to exact revenge for Earth's involvement in the Kree/Shi'ar war. The Guard ultimately proved triumphant, but not before the Kree's leader, the [[Supreme Intelligence (Earth-616)|Supreme Intelligence]], was recreated.{{r|Imperial Guard Vol 1 1|3}} Soon after, the Guard foiled an assassination attempt on Lilandra by the Kree [[Ronan (Earth-616)|Ronan]] and his unwilling agents, the [[Inhumans]]' Royal Family.{{r|Inhumans Vol 3 3|4}}
+
+After Lilandra came under the mental possession of [[Cassandra Nova Xavier (Earth-616)|Cassandra Nova]], the genetic twin of [[Charles Xavier (Earth-616)|Charles Xavier]] who had usurped her brother's body, she was mentally coerced into dispatching the Guard to kill the X-Men. After a pitched battle, the X-Men were able to convince the Guard of the true threat, and together they defeated Nova and freed Lilandra.{{r|New X-Men Vol 1 123|126}}
+
+The entire 300 member Guard came together to combat the threat of the [[Skornn (Earth-4935)|Skornn]].{{r|X-Force Vol 2 5}}
+
+After [[Gabriel Summers (Earth-616)|Vulcan]] ascended as Majestor and declared war on the [[Kree Empire]], the Imperial Guard was deployed in the fighting, with their first mission being a show of strength by ambushing the wedding of [[Ronan (Earth-616)|Ronan the Accuser]] and the Inhuman princess [[Crystalia Amaquelin (Earth-616)|Crystal]]. The Guard fought in important battles during the war, but [[Kallark (Earth-616)|Gladiator]] was eventually convinced to betray the Majestor and rebelled, eventually being made the new majestor after the deaths of Lilandra and Vulcan, and Deathbird being rendered comatose.{{r|War of Kings Vol 1 1|6}}
+
+After the war with the [[Builders (Race)|Builders]], Gladiator vowed to expand the Imperial Guard.{{r|Infinity Vol 1 6}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+* Most members actually represent a series of members of the same race, with a single code name designated by the Guard for all members of that race. A legion of back-up or understudy members are known as Subguardians, while the elite active member of each class is a Superguardian.{{r|Wolverine and the X-Men Annual Vol 1 1}}{{r|Avengers Vol 5 5}}
+
+| Trivia                  = 
+* The Imperial Guard and its members were originally designed as analogs of [[DC Universe|DC Comics]]' [[DCDP:Legion of Super-Heroes (Pre-Zero Hour)|Legion of Super-Heroes]].
+| Links                   = 
+* [http://en.wikipedia.org/wiki/Imperial_Guard_(comics) Imperial Guard (comics) at Wikipedia.org]
+* [http://en.wikipedia.org/wiki/List_of_Imperial_Guard_members List of Imperial Guard members at Wikipedia.org]
+* [http://www.marvel.com/universe/Imperial_Guard Imperial Guard at Marvel]
+}}
+[[Category:Shi'ar Organizations]]
+[[Category:DC Comics Pastiches]]
+[[Category:Interplanetary Organizations]]
+[[Category:Alien Military Forces]]

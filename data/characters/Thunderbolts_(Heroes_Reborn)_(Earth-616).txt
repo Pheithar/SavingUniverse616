@@ -1,0 +1,36 @@
+{{Marvel Database:Team Template
+| Image                   = Thunderbolts (Heroes Reborn) (Earth-616) from Thunderbolts Vol 1 59 001.jpg
+| Name                    = Thunderbolts
+| Aliases                 = 
+| Distinguish1            = Thunderbolts
+
+| Status                  = Defunct
+| Identity                = Public
+
+| Reality                 = Earth-616
+| BaseOfOperations        = [[Counter-Earth (Heroes Reborn)|Counter-Earth]]
+
+| Leaders                 = [[Heinrich Zemo (Heroes Reborn) (Earth-616)|Baron Zemo]]
+| CurrentMembers          = [[Helmut Zemo (Heroes Reborn) (Earth-616)|Iron Cross]], [[Silas King (Heroes Reborn) (Earth-616)|Solarr]], [[Voletta Todd (Heroes Reborn) (Earth-616)|Chain Lightning]], [[Makeshift (Heroes Reborn) (Earth-616)|Makeshift]], [[Lloyd Bloch (Heroes Reborn) (Earth-616)|Phantom Eagle]]
+| FormerMembers           = 
+| Allies                  = 
+| Enemies                 = 
+
+| Origin                  = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Fabian Nicieza; Mark Bagley
+| First                   = Thunderbolts Vol 1 59
+| Last                    = 
+
+| HistoryText             = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * http://www.marvel.com/universe/Thunderbolts_(Counter-Earth)
+}}
+[[Category:Heroes Reborn (1996 Event)]]

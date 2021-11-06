@@ -1,0 +1,37 @@
+{{Marvel Database:Team Template
+| Title                   = [[Hellions]]
+| Image                   = Hellions Vol 1 1 Textless.jpg
+| ImageSize               = 300px
+| Name                    = Hellions{{r|Hellions Vol 1 3}}
+| EditorialNames          = 
+| Aliases                 = Mister Sinister's "Hellions"{{r|Hellions Vol 1 3}}
+
+| Status                  = Active
+| Identity                = Secret
+| Reality                 = Earth-616
+| BaseOfOperations        = [[Bar Sinister]], [[Krakoa (Earth-616)|Krakoa]], [[Pacific Ocean]]
+
+| Leaders                 = [[Nathaniel Essex (Earth-616)|Mister Sinister]], [[Kwannon (Earth-616)|Psylocke]]
+| CurrentMembers          = [[Manuel de la Rocha (Earth-616)|Empath]], [[Alexander Summers (Earth-616)|Havok]], [[Nathaniel Essex (Earth-616)|Mister Sinister]], [[Nanny (Mutant) (Earth-616)|Nanny]], [[Kwannon (Earth-616)|Psylocke]], [[Orphan-Maker (Peter) (Earth-616)|Orphan-Maker]], [[John Greycrow (Earth-616)|Greycrow]], [[Kyle Gibney (Earth-616)|Wild Child]]
+| FormerMembers           = 
+| Allies                  = [[Excalibur (Earth-616)|Excalibur]], [[Great Captains of Krakoa (Earth-616)|Great Captains of Krakoa]], [[Marauders (Pryde) (Earth-616)|Marauders (Pryde)]], [[New Mutants (Earth-616)|New Mutants]], [[Quiet Council of Krakoa (Earth-616)|Quiet Council of Krakoa]], [[X-Men]]
+| Enemies                 = [[Madelyne Pryor (Earth-616)|Goblin Queen]]; [[Marauders (Earth-616)|Legacy Marauders]]; [[Locus Vile (Earth-616)|Locus Vile]]; [[Right (Earth-616)|The Right]]; [[Arcade (Earth-616)|Arcade]]; [[Jason Wyngarde (Earth-616)|Mastermind]]; [[Emma Frost (Earth-616)|Emma Frost]]
+
+| Origin                  = A group of outcast mutants working under the leadership of Mister Sinister
+| PlaceOfFormation        = [[Krakoa]]
+| PlaceOfDissolution      = 
+| Creators                = Zeb Wells; Stephen Segovia
+| First                   = Hellions Vol 1 1
+| Last                    = 
+
+| HistoryText             = When [[Charles Xavier (Earth-616)|Professor X]] established a new mutant nation state on [[Krakoa (Earth-616)|Krakoa]], all mutants were granted Krakoan citizenship.{{r|House of X Vol 1 5}}. Though most Krakoan mutants rapidly adapted to life in this exclusively mutant society, some proved to be problematic cases to Krakoan authorities. [[Manuel de la Rocha (Earth-616)|Empath]], [[Orphan-Maker (Peter) (Earth-616)|Orphan-Maker]], [[Nanny (Mutant) (Earth-616)|Nanny]], [[Kyle Gibney (Earth-616)|Wild Child]], [[John Greycrow (Earth-616)|Greycrow]], and [[Alexander Summers (Earth-616)|Havok]] were mutants considered by the [[Quiet Council of Krakoa (Earth-616)|Quiet Council of Krakoa]] to be pariahs even among their own race, since their hostile and violent behavior constantly led to aggressive interactions with other Krakoans. To solve the problem these mutants posed, [[Nathaniel Essex (Earth-616)|Mister Sinister]] proposed to assign them to a special group in order to channel their unstable attitude into something productive to Krakoan interests. [[Kwannon (Earth-616)|Psylocke]] was invited by [[Scott Summers (Earth-616)|Cyclops]] to act as a watchdog for the team, since her powers, personality and training were considered to be adequate to handle the group. Sinister's first mission for his new team was to destroy [[State Home for Foundlings|his former orphanage]]'s clone farms. However, the orphanage was the new home of the [[Madelyne Pryor (Earth-616)|Goblin Queen]], who was in charge of Sinister's former [[Marauders (Earth-616)|Marauders]].{{r|Hellions Vol 1 1}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Krakoan Organizations]]

@@ -1,0 +1,408 @@
+{{Marvel Database:Character Template
+| Image                   = X-Force Vol 6 6 Textless.jpg
+| Name                    = [[Henry McCoy|Dr. Henry Philip "Hank" McCoy]]
+| CurrentAlias            = [[Beast]]
+| Aliases                 = Agile Avenger,{{r|Avengers #683}} [[Blue]],{{r|Uncanny X-Men #349}} Golden Armed Boy,{{citation}} Hanko,{{citation}} [[Kreature]],{{r|Avengers Vol 3 2}} Magilla Gorilla{{r|X-Men Vol 1 50}} Mutant #666,{{r|X-Factor #61}} "Monkey Man",{{r|X-Men Vol 1 3}} Monkey,{{r|Avengers Vol 1 167}} Dr. M,{{r|X-Men Unlimited Vol 2 10}} Tabby,{{r|Astonishing X-Men Vol 3 24}} Beastie Boy,{{r|Civil War: X-Men Vol 1 3}} Tanar McCoy{{r|Uncanny X-Men Vol 1 488}}
+
+| Affiliation             = {{m|X-Force (Strike Team)|X-Force (Krakoa)}}; formerly {{m|X-Men}} (founding member), {{m|Rand Corporation (Earth-616)|Rand Corporation}}' Board of Directors, {{m|Avengers Unity Division}}, ally of the [[Inhumans (Inhomo supremis)|Inhumans]], {{m|X-Men (Time-Displaced) (Earth-616)|X-Men (Blue Team)}}; {{m|Illuminati}}, {{m|Stark Industries}}'s {{m|Stark Industries Board of Directors (Earth-616)|Board of Directors}}, {{m|Murder Circus}} (brainwashed), {{m|Sentient World Observation and Response Department|S.W.O.R.D.}}, {{m|Secret Avengers (Black Ops Unit)|Secret Avengers}}, {{m|X-Club}} (founding member), {{m|50-State Initiative|Initiative}} (consultant), {{m|Exemplars Squad|Exemplars}} (squad leader), {{m|X-Treme X-Men}}, {{m|Acolytes}} (while mind-controlled), {{m|X-Factor|X-Factor/X-Terminators}} (founding member), {{m|Rejects}}, {{m|Defenders}}, {{m|Avengers}}, {{m|Brotherhood of Evil Mutants}}, {{m|Brand Corporation}}, {{m|Hex-Men}}, {{m|X-Men (New Charles Xavier School) (Earth-616)|X-Men}} ([[Xavier Institute student body#New Charles Xavier School students|New Charles Xavier School]])
+| Relatives               = [[Sadie McCoy (Earth-616)|Sadie McCoy]] (paternal grandmother);{{r|X-Men Unlimited #10}}<br>
+[[Norton McCoy (Earth-616)|Norton McCoy]] (father);<br>
+[[Edna Andrews (Earth-616)|Edna McCoy]] (mother);<br>
+[[Robert McCoy (Earth-616)|Robert McCoy]] (paternal uncle);<br>
+[[John McCoy (Earth-616)|John McCoy]] (paternal uncle);<br>
+unnamed cousin;<br>
+[[Henry McCoy (Clone) (Earth-616)|Hank McCoy]] (clone)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|X-Men: Earth's Mutant Heroes #1}}
+| Gender                  = Male
+| Height                  = 5'11"
+| Weight                  = 402 lbs.
+| Eyes                    = Blue
+| Hair                    = Blue; Brown
+| UnusualFeatures         = Covered with blue fur,[[Category:Fur]] snout, vertical pupils, pointed ears, fang-like teeth, claws, unusually large hands and feet (shoe size: 20)
+
+| Origin                  = [[Homo superior|Mutant]]; further [[Glossary:Mutate|mutated]] by his own experimentation
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Dunfee]], [[Illinois (State)|Illinois]]
+
+| Identity                = Public
+| Citizenship             = American, Krakoan
+| Occupation              = Adventurer; former vice-principal, S.W.O.R.D. agent, biochemist, science and math instructor, mutant activist, college lecturer, researcher, professional wrestler
+| Education               = Six PhDs{{r|Young X-Men #10}} (one in biophysics),{{r|Uncanny X-Men #308}} undergraduate degree from [[Xavier's School for Gifted Youngsters]]
+| BaseOfOperations        = [[Krakoa (Earth-616)|Krakoa]], [[Pacific Ocean]]; [[Pointe|The Pointe]], [[Atlantic Ocean]]; formerly [[Danger Room Prison Complex]], [[Age of X-Man]]; [[Avengers Mansion]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]; [[New Tian]], [[California (State)|California]]; [[Xavier's School for Gifted Youngsters|Jean Grey School for Higher Learning]], [[Salem Center]], [[North Salem]], [[Westchester County]], [[New York (State)|New York]]; [[Quincarrier]]; [[Peak VII|Peak]], [[Earth Orbit]]; [[Utopia (X-Men Base)|Utopia]], [[San Francisco Bay]], [[California (State)|California]]; [[Graymalkin Industries]], [[Marin County|Marin Highlands]], [[California (State)|California]]; [[Prosh (Earth-616)|Ship]]; [[X-Factor Complex]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]; [[Angel's Aerie|Defenders Mansion]], [[Rocky Mountains]], [[Colorado (State)|Colorado]]; [[Sanctum Sanctorum|Sanctum Sanctorum]], [[Greenwich Village]], [[New York City]], [[New York (State)|New York]]; [[Brotherhood of Evil Mutants (Earth-616)|Brotherhood of Evil Mutants]] Carnival; [[Necropolis]], [[Birnin Zana (Earth)|Birnin Zana]], [[Wakanda]]; [[X-Mansion (Madripoor)|X-Mansion]], [[Hightown (Madripoor)|Hightown]], [[Madripoor]]; [[Weapon X Facility|New Charles Xavier School for Mutants]], near [[Roanoke (Alberta)|Roanoke]], [[Alberta]], [[Canada]]
+
+| Creators                = Stan Lee; Jack Kirby
+| First                   = X-Men #1
+
+| Quotation               = Oh, my stars and garters!
+| Speaker                 = [[Henry McCoy (Earth-616)|Beast]]
+| QuoteSource             = 
+
+| History                 = 
+<center>''This is an abridged version of Henry McCoy's history. For a complete history see '''[[Henry McCoy (Earth-616)/Expanded History|Henry McCoy's Expanded History]]'''''</center>
+
+===Early Years===
+Henry "Hank" McCoy was born and raised in [[Dunfee]], [[Illinois (State)|Illinois]], the son of [[Norton McCoy (Earth-616)|Norton]] and [[Edna Andrews (Earth-616)|Edna McCoy]]. His father worked at a nuclear power plant where he was exposed to massive amounts of radiation during an accident. Norton was completely unharmed, but the radiation affected his genes and, as a result, his son was born a [[Homo superior|mutant]]. Unlike most mutants, Henry showed signs of mutation from birth: unusually large hands and feet, coupled with unusual strength and agility.{{r|Origins of Marvel Comics: X-Men #1}} A prodigy, Hank was also endowed with an innate superhuman intellect and during adolescence further increased his powers of simian-like augmented agility, reflexes, and strength.{{r|X-Men #49}}
+
+===[[Education]]===
+[[File:Henry McCoy (Earth-616) from X-Men Origins Beast Vol 1 1 0001.jpg|thumb|left|Football star]]
+While attending [[Bard College]], thanks to his powers, Henry became a star football player as a teenager and earned the nickname Magilla Gorilla. Hank hid his mutation and thirst for knowledge in plain sight - until the school asked him to leave after he was exposed as a mutant. Hank's remarkable athletic abilities and brilliance attracted the notice of [[Charles Xavier (Earth-616)|Professor Charles Xavier]], who was forming the original [[X-Men (Earth-616)|X-Men]]. Xavier offered Hank, who excelled in the classroom, the chance for unlimited academic opportunities at his prestigious [[Xavier's School for Gifted Youngsters|School for Gifted Youngsters]]. The costumed criminal named [[Orlando Furio (Earth-616)|El Conquistador]], however, also took note of his abilities and captured McCoy's parents in order to force McCoy to aid him in his criminal schemes. With the help of Prof. Xavier and the X-Men, Henry defeated the Conquistador and then joined the X-Men as their fourth member, taking the code-name "Beast".{{r|X-Men #50|52}}
+
+===Time-Displacement===
+A version of Beast from the future traveled to their time in order to inform them that the future was in a bad state, and that only the original X-Men could help fix it.{{r|All-New X-Men Vol 1 1}} Hank and the other X-Men traveled with this Beast to the future, where [[Scott Summers (Earth-616)|Cyclops]] had killed their mentor Charles Xavier, [[Jean Grey (Earth-616)|Jean Grey]] was dead (and the school now named after her), and Beast was dying from the changes in his body being brought on by his [[Secondary Mutation|secondary mutation]].{{r|All-New X-Men Vol 1 2}}
+
+After Hank and the team confronted the future Cyclops, Hank then turned his priorities to saving his future self.{{r|All-New X-Men Vol 1 4}} With the help of [[Katherine Pryde (Earth-616)|Kitty Pryde]] and [[Jean Grey (Earth-616)|Jean]] (whose telepathic powers were just forced to surface), Hank managed to stabilize his future self's condition and saved his life. With Jean's leadership, the team decided to stay in this time until its problems were resolved, before going back to their own time.{{r|All-New X-Men Vol 1 4}}
+
+As a result of a conflict between [[James Howlett (Earth-616)|Wolverine]]'s X-Men and the future versions of the [[X-Men (Earth-13729)|X-Men]] and [[Brotherhood of Evil Mutants (Earth-13729)|Brotherhood]] at [[Cape Citadel]], Kitty decided to quit Logan's school and took herself and the younger X-Men to Cyclops' school instead.{{r|X-Men: Battle of the Atom Vol 1 2}}
+
+Following several adventures as members of Cyclops' schools, the young X-Men decided to part ways and lay low for a while with the emergence of a new wave of anti-mutant hysteria and the beginning of the [[M-Pox]] crisis. Beast started a road-trip with young X-Men [[Evan Sabahnur (Earth-616)|Genesis]] and [[Idie Okonkwo (Earth-616)|Oya]], and decided to reunite with his teammates six weeks later in order to continue the journey with more company, helping out people across the globe wherever it was needed with the help of a teleporting [[Bamf]] named [[Pickles (Earth-616)|Pickles]].{{r|All-New X-Men Vol 2 1}}
+
+[[File:X-Men Blue Vol 1 10 Textless.jpg|left|thumb]]
+Frustrated by his inability to find a way to bring himself and his friends back to their time, Beast decided to experiment with magic.{{r|All-New X-Men Vol 2 8|9}} These experiments eventually made way for him to find a way to travel through time using the [[Third Eye of Horus]], gifted to young Beast by [[Stephen Strange (Earth-616)|Doctor Strange]]. Over the course of time, Hank began to dabble in experimentation with mysticism in order to discover a new way home.
+
+A portal to some demonic nether pit set beneath the X-Men's new home in a trailer park. What he didn't realize was that his equipment had actually been tainted by the demonic forces put out by the [[Madelyne Pryor (Earth-91240)|Goblin Queen]] left over from the [[Secret Wars (2015 Event)|Secret Wars]].{{r|{{cl|All-New X-Men Vol 2 14}}-[[All-New X-Men Vol 2 15|15]]}} While his friends did their best to abate Pryor and her forces, Beast made an accidental discovery which enhanced his mystical knowledge and abilities tenfold, enabling him to single-handedly banish her forces back to Hell while their interested conductor made a hasty retreat.{{r|All-New X-Men Vol 2 16}}
+
+[[File:Henry McCoy (Earth-616) from All-New X-Men Vol 2 16 001.jpg|thumb|left|Mystic Beast]]
+Over time Hank believed he had discovered that he had merely found a way to travel through time within the timeline he was currently inhabiting and not his own. Beast reunited the original five X-Men to show them in person his unfortunate discovery, and they witnessed [[Brotherhood of Evil Mutants (Earth-13729)|what they thought were the younger X-Men of this timeline]] inhabiting the past they believed would've been available for them to return. The young X-Men then returned to the present and proceeded to look forward to their future, which would no longer be tied to their concurrent older selves.{{r|All-New X-Men Vol 2 19}}
+
+With a [[Nathaniel Summers (Earth-616)|Young Cable]]'s<!-- Two-thousand years from now. --> help the five young mutants were returned to their own time, and Jean blocked all of their memories of future events until after they experience the return home of their younger selves.{{r|Extermination Vol 1 5}}
+
+===X-Men===
+Under Prof. Xavier's tutelage, Hank's days were rich with differential equations, Proust, and workouts in the [[Danger Room]]. With the X-Men, Hank battled [[Max Eisenhardt (Earth-616)|Magneto]],{{r|X-Men #1}} the [[Vanisher (Earth-616)|Vanisher]],{{r|X-Men #2}} the [[Frederick Dukes (Earth-616)|Blob]],{{r|X-Men #3}} the [[Brotherhood of Evil Mutants (Earth-616)|Brotherhood of Evil Mutants]],{{r|{{cl|X-Men Vol 1 4}}-[[X-Men Vol 1 7|7]]}}{{r|Journey into Mystery #109}} [[Namor McKenzie (Earth-616)|Namor]],{{r|X-Men #6}} [[Gunther Bain (Earth-616)|Unus the Untouchable]],{{r|X-Men #8}} [[Lucifer (Quist) (Earth-616)|Lucifer]], and many others. At one point Hank became discouraged with humanity and quit the team to start a brief a career as wrestler.{{r|X-Men #8}}
+
+Hank immediately became friends with [[Robert Drake (Earth-616)|Bobby Drake]]. Hank dated a librarian, [[Vera Cantor (Earth-616)|Vera Cantor]], but he kept his identity as the Beast a secret from her. Hank and Bobby briefly battled [[Maha Yogi (Earth-616)|Maha Yogi]] while on a double date.{{r|X-Men #47}}
+
+Hank was sought out by [[Sergei Kravinoff (Earth-616)|Kraven the Hunter]], who wanted to hone his skills in battle against the Beast. Kraven drugged Beast to dull his reflexes, but it caused Hank to regress to a more feral state and he went into a berserker rage. Hank would have killed Kraven if his teammates hadn't separated them.{{r|X-Men The Hidden Years #17}}
+
+[[File:Henry_McCoy_(Earth-616)_from_Amazing_Adventures_Vol_2_13_0001.jpg|left|thumb|200px|Gray Beast]]
+===Bouncing, Blue Beast===
+A brilliant student, McCoy completed his doctoral studies and finally left the X-Men and Professor Xavier's school to take a position as a genetic researcher with the [[Brand Corporation]], a division of [[Roxxon Oil]]. There he began working with [[Carl Maddicks (Earth-616)|Dr. Carl Maddicks]] and started a romance with his assistant, [[Linda Donaldson (Earth-616)|Linda Donaldson]].
+
+While with Brand Corporation McCoy isolated the hormonal extract that created mutation. The resulting serum acted as a catalyst for activating latent mutations for short periods of time (this serum would become the basis of the [[Mutant Growth Hormone]]). Dr. Maddicks grew increasingly envious of Hank and witnessed his new discovery.
+
+Eager to inform his superiors of his discovery, Hank overheard Dr. Maddicks plotting to steal his research. Unaware of the consequences, Hank drank the serum, trying to disguise his appearance, and underwent radical, physical changes. Hank grew gray fur over his entire body, his muscles expanded, ears became larger and pointed, claws sprouted, and his canine teeth became larger, resembling fangs. The serum further increased his superhuman agility, endurance, speed, and strength, as well as enhanced his senses, and granted him an extraordinary [[healing factor]].
+
+After stopping the security guard from stealing his work for Dr. Maddicks, Hank realized that he had failed to keep track of the time. Because Hank hadn't taken the antidote within an hour, he permanently remained in his altered state. Dr. McCoy was now a beast, in body as well as in name. Angry, Hank attempted to exact revenge on Dr. Maddicks, but stopped short of strangling him. Dr. Maddicks was shot by Linda Donaldson, who had actually been a spy for the [[Secret Empire]] all along.{{r|Amazing Adventures Vol 2 11}}
+
+In an attempt to continue a normal life, McCoy began wearing a synthetic mask and gloves and harness to correct his posture. No one at the Brand Corporation was able to connect that the Beast and Hank were the same person, despite the many attempts by the head of security, [[Robert Baxter (Earth-616)|Robert "Buzz" Baxter]].{{r|Amazing Adventures Vol 2 12|14}}{{r|Amazing Adventures Vol 2 15}}
+
+Hank worked tirelessly to correct his condition, but shunned the help of Professor X and [[Jean Grey (Earth-616)|Marvel Girl]]. After [[Anthony Stark (Earth-616)|Tony Stark]] showed interest in Hank's work, [[Jason Wyngarde (Earth-616)|Mastermind]] of the [[Brotherhood of Evil Mutants (Earth-616)|Brotherhood of Evil Mutants]] planted the illusion of having killed Iron Man in Hank’s mind.{{r|Amazing Adventures Vol 2 12}} Unable to remember meeting Blob, Unus, and Mastermind before, Mastermind convinced Hank to join the Brotherhood of Evil Mutants, until he remembered the truth and single-handedly defeated them.{{r|Amazing Adventures Vol 2 13}}
+
+[[File:Henry_McCoy_(Earth-616)_from_Official_Handbook_of_the_Marvel_Universe_Vol_1_2_0001.jpg|right|thumb|200px|Beast]]
+An encounter with [[Quasi-Motivational Destruct Organism (Earth-616)|Quasimodo]], who was attempting to steal Beast's metabolic abilities so that he could get a step closer to becoming more human, caused a majority of Dr. McCoy's life force to be expelled, which resulted in his gray fur becoming blue and the loss of his newfound healing factor.{{r|Amazing Adventures Vol 2 14}} While healing from his battle with Quasimodo, Hank found himself at the home of Buzz and his wife [[Patricia Walker (Earth-616)|Patsy Walker]], and he revealed his dual identity to Patsy. Patsy had long idolized "superheroes", and she elicited the promise from him that in exchange for keeping his secret, he would help her become a "superheroine".{{r|Avengers #144}}
+
+After hearing that an old colleague, [[Hans Jorgenson (Earth-616)|Professor Hans Jorgenson]], had been kidnapped, Professor X summoned the X-Men to track down [[Peter Parker (Earth-616)|Spider-Man]], but Hank refused.{{r|Marvel Team-Up Vol 1 4}} Attempting to check-in on Hank, after hearing of all of the Beast disturbances, [[Warren Worthington III (Earth-616)|Angel]] arrived and aided Beast in battling [[John Horton (Earth-616)|Griffin]] and creating a story to explain Hank's recent disappearances.{{r|Amazing Adventures Vol 2 15}} Depressed about his appearance, Hank returned home for a time, thanks to Cyclops, but he left again, after reassurance of his importance from his old girlfriend, [[Jennifer Nyles (Earth-616)|Jennifer Nyles]].{{r|X-Men Unlimited Vol 2 10}} Hank finally reunited with Vera and learned that she was seeking his help, but they were interrupted by the [[Cain Marko (Earth-616)|Juggernaut]]. Hank battled the Juggernaut alone and was losing, until taking-off his synthetic mask scared the Juggernaut and rapidly aged him, due to the mystics that bond him to [[Earth]].{{r|Amazing Adventures Vol 2 16}} Hank and Vera traveled to [[Canada]] where Vera's dilemma revealed itself. Mimic's mutant powers were out-of-control and sapping the energies of people to the point of killing them. Hank attempted to cure Mimic, but was interrupted by the Hulk who was looking for the source of what was draining his strength. The Hulk left after Mimic drained his gamma radiation, seemingly committing suicide.{{r|Incredible Hulk Vol 1 161}}
+
+===Avengers===
+Eventually, Dr. McCoy left Brand and applied to the Avengers.{{r|Avengers Vol 1 137}} During his interview, the Avengers were attacked by [[Mortimer Toynbee (Earth-616)|Toad]], impersonating the [[Stranger (Cosmic Being) (Earth-616)|Stranger]], and Hank aided the team. Beast and [[Heather Douglas (Earth-616)|Moondragon]] were then accepted on a probationary basis.{{r|{{cl|Avengers Vol 1 137}}-[[Avengers Vol 1 138|138]]}}
+
+Patsy returned to make good on Hank's promise to turn her into a super-hero.{{r|Avengers #141}} Beast and Walker accompanied the Avengers to Brand where they were defeated by the [[Squadron Supreme (Earth-712)|Squadron Supreme]] and imprisoned by Walker's ex-husband [[Robert Baxter (Earth-616)|Buzz Baxter]].{{r|Avengers #142|143}} After escaping their bonds at the Brand Corporation, Patsy found a costume formerly used by [[Greer Grant (Earth-616)|The Cat]] and became the heroine Hellcat - fulfilling the promise Hank had made her. The Avengers were then sent to the [[Earth-712|Squadron Supreme's reality]],{{r|Avengers #144}} where they discovered that this reality's [[Nelson Rockefeller (Earth-712)|US President]] was under the control of the [[Serpent Crown]].{{r|Avengers #147}} After finding a device to return them to their own reality, Hank impersonated that President and convinced the Squadron Supreme to allow them to escape.{{r|Avengers #148}}
+
+After several adventures with the Avengers, Hank was finally accepted as a member. He publicly revealed his secret identity. Hellcat departed with Moondragon to receive additional training.{{r|Avengers #151}} After becoming an Avenger, Hank soon realized that his popularity with the women had grown immensely.
+
+Hank received a distress call from [[Lorna Dane (Earth-616)|Polaris]] stating that she and [[Alexander Summers (Earth-616)|Havok]] had been kidnapped by [[Ahmet Abdol (Earth-616)|The Living Pharaoh]].{{r|Marvel Team-Up Vol 1 69|70}} After finding the X-Men's mansion deserted, Hank tracked down the X-Men and found them working in a circus, enthralled by [[Mesmero (Vincent) (Earth-616)|Mesmero]]. Hank managed to snap the X-Men out of Mesmero's illusion just before Magneto arrived and transported them to his [[Antarctica]] base. After battling Magneto and his robot, [[Nanny (Magneto's Robot) (Earth-616)|Nanny]], the Beast and the [[Phoenix Force (Earth-616)|Phoenix]] ended up separated from the other X-Men, each group mistakenly believing the other to have died.{{r|X-Men Vol 1 111|114}}
+
+After returning to the Avengers, Hank spent a lot of time in nightclubs with [[Simon Williams (Earth-616)|Wonder Man]]. He was approached and manipulated by [[Manipulator (Robot) (Earth-616)|Manipulator]] to steal a box that, when opened, placed Hank under the Manipulator's mental control. Hank was simply released from his control to prove it could be done.{{r|Avengers Vol 1 178}}
+
+The Avengers were shocked to hear from [[Henry Gyrich (Earth-616)|Henry Gyrich]] that the team was only allowed seven members: Captain America, Iron Man, Wasp, Vision, [[Wanda Maximoff (Earth-616)|Scarlet Witch]], [[Samuel Wilson (Earth-616)|Falcon]], and Hank.{{r|Avengers Vol 1 181}} Later, Hank and Wonder Man were among the Avengers invited to [[Benjamin Grimm (Earth-616)|Thing's]] first [[Floating Super-Hero Poker Game|Super-Hero Poker Game]] that was interrupted by an attack on the [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] [[S.H.I.E.L.D. Helicarrier|Helicarrier]] by [[Jacob Pollock (Earth-616)|General Pollock]].{{r|Marvel Two-In-One Vol 1 51}} Later, while attending the [[Empire State University]] Technology 1980 science exhibit, Hank aided Spider-Man in battling [[Simon Maddicks (Earth-616)|Killer Strike]] and [[Stephen Weems (Earth-616)|Modular Man]].{{r|Marvel Team-Up Vol 1 90}}
+
+Detecting activity at the [[Xavier's School for Gifted Youngsters|X-Mansion]], Beast returned to his old home to find that the X-Men he thought were dead were alive and well. Hank informed [[Scott Summers (Earth-616)|Scott Summers]] that Jean was still alive and staying on [[Muir Island]].{{r|X-Men Vol 1 125}} While checking a hidden complex beneath Avenger's Mansion, Hank and [[Clinton Barton (Earth-616)|Hawkeye]] were captured by [[Arsenal Beta (Earth-616)|Arsenal]] and rescued by the Avengers.{{r|Avengers Annual Vol 1 9}} After a Senate hearing, the Avengers were absolved of Gyrich's restrictions and Beast suggested reinstating Wonder Man's membership.
+
+Hank raced to aid his old teammates after he intercepted a distress call that the X-Men were in trouble at the [[Hellfire Club Building (New York)|Hellfire Club]]. Hank arrived after Phoenix underwent another transformation into the Dark Phoenix and soared through the universe, where she devoured an entire [[D'bari (Race)|star]] and the five billion inhabitants of one of its planets. When she returned to Earth, Phoenix threatened to kill everyone. Hank designed neural inhibitors, but Phoenix simply shorted them out. Professor Xavier was able to keep Phoenix under control and helped her will herself back to normal.{{r|X-Men Vol 1 134|136}} The X-Men and Beast were teleported away by the [[Shi'ar Empire|Shi'ar]]. The Shi'ar Empire had witnessed Dark Phoenix consuming the star and Beast and the X-Men were forced to battle with the [[Imperial Guard (Earth-616)|Imperial Guard]] over Phoenix's fate. The battle triggered her transformation into Dark Phoenix once more. Phoenix understood that she would never be able to fully control the dark hunger inside and sacrificed herself on the [[Luna (Moon)|moon]].{{r|{{cl|X-Men Vol 1 137}}-[[X-Men Vol 1 138|138]]}}
+
+Around this time, Hank took the opportunity to introduce himself to [[Alison Blaire (Earth-616)|Dazzler]]. Hank reunited with Vera, but a [[Skrulls|Skrull]] posing as [[Edwin Jarvis (Earth-616)|Edwin Jarvis]] poisoned her to blackmail the Avengers into retrieving a powerful gem called the [[Resurrection Stone]] for him. Using [[Reed Richards (Earth-616)|Mr. Fantastic's]] time machine, Vision, Scarlet Witch, and Wonder Man accompanied Hank into the past to retrieve the stone. After returning, Hank decided that it was too powerful and destroyed it, leaving Vera in the care of Mr. Fantastic.{{r|Avengers #209}}
+
+Hank was reunited with Iceman and Angel, after they and a group of heroes were manipulated by [[Heather Douglas (Earth-616)|Moondragon]] to try out for the Avengers. After Moondragon's manipulations were revealed, Hank took a leave of absence from the Avengers.{{r|Avengers #211}}
+
+===Defenders===
+Seeking a cure for Vera's condition, Hank went to [[Stephen Strange (Earth-616)|Dr. Strange]] and aided the [[Defenders (Earth-616)|Defenders]] in battling the mad sorcerer, [[Ian Fate (Earth-616)|Ian Fate]]. Dr. Strange enlisted the aid of [[Reed Richards (Earth-616)|Reed Richards]] and together they deduced that the Resurrection Stone had to be reassembled. After being transported into the stone, the three heroes were turned into crystalline statues by the Giver of Life until they were freed from the stone by [[Daimon Hellstrom (Earth-616)|Daimon Hellstrom]]. Hellstrom offered his assistance and, seeing no further course of action, Beast agreed, reviving Vera.{{r|Defenders #105}}
+
+After years of service with the Avengers, Beast took it upon himself to reorganize the Defenders into a more formal combat organization. Beast's X-Men cohorts, Angel and Iceman, served in the Defenders along with him. [[Warren Worthington III (Earth-616)|Warren Worthington III]] funded the team and provided his [[Colorado (State)|Colorado]] [[Angel's Aerie|penthouse]] as a headquarters. They obtained governmental clearance, thanks to the help of [[Nicholas Fury (Earth-616)|Nick Fury]].{{r|Defenders Vol 1 130}}
+
+While meeting Wonder Man in [[Hollywood]] at a cast party on a studio backlot, Hank formerly met Dazzler. Beast attempted to defend [[Alison Blaire (Earth-616)|Alison Blaire's]] honor when a fellow band member, [[Max Rocker (Earth-616)|Max Rocker]], disrespected her, but Alison harshly yelled at him. After hearing that she went missing, Beast beat her location out of Rocker and found her in the Heartbreak Hotel being cared for by seven mutant children. After Hank shared a kiss with Alison, her employer, [[Alexander Flynn (Earth-616)|Alexander Flynn]], arrived to retrieve her. Beast battled Flynn's "actors", but Dazzler stopped him and left with Flynn. Convinced that Flynn had some control over Alison, Hank attended one of her "Underground Theatre" shows and witnessed her battling, gladiator-style, in an arena. When it seemed she was in danger, Hank jumped-in to assist her. Attempting to appease the crowd, Flynn ordered the other [[Gladiators (Earth-616)|Gladiators]] into the pit and one of them was killed. After the battle Beast demanded that she leave, but Alison's powers began to flare-out again and she decided to stay. After Hank's feelings for Alison became serious, he returned to the Gladiator show and asked her to leave again. After Dazzler refused, Hank discovered Flynn was using a drug that caused Alison to lose control of her powers. After being drugged to fight each other, Hank and Alison brought an end to the gladiator ring together.{{r|Beauty and the Beast Vol 1 1|4}}
+
+Moondragon, who was possessed by [[Dragon of the Moon (Earth-616)|Dragon of the Moon]], seemingly killed most of the members of the Defenders in a climactic battle and the Defenders disbanded.{{r|Defenders Vol 1 151|152}}
+
+===X-Factor===
+Hank was looked-over in a position at [[Boston|Boston’s]] Harvard Medical School. When he learned that [[Jean Grey (Earth-616)|Jean Grey]] was still alive, Hank joined his former teammates and founding members of the X-Men in the formation of [[X-Factor (Earth-616)|X-Factor]], an organization that intended to seek out and aid mutants under the pretense of hunting down mutants as menaces to society. The public assumed they were humans hunting mutants when in fact they were training young mutants in the use of their powers at the [[X-Factor Complex]].{{r|X-Factor #1}} They also worked as mutants in a team the media referred to as X-Terminators.{{r|X-Factor Vol 1 8}}
+
+After Dazzler was captured, to awaken a latent drug in humans which would give them metahuman abilities, Hank teamed-up with bounty hunter [[O.Z. Chase (Earth-616)|O.Z. Chase]] to rescue her and her mother, [[Katherine Blaire (Earth-616)|Barbara London]]. After killing one of her attackers, Hank asked Alison to join X-Factor, but she declined.{{r|Dazzler #42}} Hank looked-up his old girlfriend Vera, who had drastically changed her appearance and become a political activist for the pro-mutant cause.
+
+Carl Maddicks returned and tried to use Beast in an attempt to develop a cure for mutantcy, which had rendered his son [[Arthur Maddicks (Earth-616)|Artie Maddicks]] mute. He developed a serum and tested it on the Beast, which caused the Beast to revert to his original, more human appearance.{{r|X-Factor Vol 1 2|3}}
+
+Hank met television news reporter [[Patricia Tilby (Earth-616)|Trish Tilby]], who used a tip from [[Raven Darkholme (Earth-616)|Mystique]] to reveal that Warren, a mutant, was financially backing X-Factor.{{r|X-Factor Vol 1 9|10}}
+
+In a battle with the [[Horsemen of Apocalypse (Earth-616)|Horsemen of Apocalypse]], Beast was infected by Pestilence. Every time Hank used his superhuman strength, his intelligence decreased. Hank grew increasingly childlike, but his strength continued to grow with every exertion.{{r|X-Factor #19}}
+
+After their defeat of Apocalypse, his sentient [[Ship]] crash-landed on their Complex and X-Factor began living on it. X-Factor was approached by the media and finally revealed the truth of X-Factor's mutant origins. After saving the city from a series of fires from their battle with Apocalypse, X-Factor was given a ticker-tape parade.{{r|X-Factor 26}}
+
+The parade was witnessed by the [[Fantastic Four (Earth-616)|Fantastic Four]], [[T'Challa (Earth-616)|Black Panther]], and [[Victor von Doom (Earth-616)|Doctor Doom]], who had just arrived in New York from [[Wakanda]]. During the parade, Doom and the Fantastic Four were attacked by forces loyal to Doom's usurper, [[Kristoff Vernard (Earth-616)|Kristoff]], prompting X-Factor to help defend the FF. Both teams refused to help Doom retaliate against Kristoff, so Doom kidnapped both Hank and [[Sharon Ventura (Earth-616)|Ms. Marvel]] (who had recently been mutated into a female [[Thing]]) and took them to Reed Richards' then-vacant laboratory in [[Four Freedoms Plaza]]. Hank and Sharon escaped Doom's trap, and in the ensuing fight, Hank's rage grew out of control, causing him to attack friend and foe until [[Benjamin Grimm (Earth-616)|The Thing]] subdued him. After T'Challa granted Doom passage out of New York in order to end the conflict, Hank was turned back over to X-Factor.{{r|Fantastic Four #312}}
+
+Hank witnessed [[Infectia (Josephine) (Earth-616)|Infectia]] transform a police officer with her powers. Hank attempted to warn Bobby, who was being seduced by her, but due to his lack of intelligence Bobby couldn't understand him.{{r|X-Factor Vol 1 30}} After saving Bobby from her kiss, Infectia's powers undid both Dr. Maddicks and Pestilence's changes, returning him to his intelligent, blue, furry, more animalistic look, but much stronger.{{r|X-Factor Vol 1 31|33}}
+
+Although Trish found it difficult to accept Hank's furry appearance at first she came around and they started a relationship. Hank and Trish bickered over her reporting of X-Factor and his need for disclosure, a problem they had for the entirety of their relationship.{{r|X-Factor #26}} After defeating the [[Shadow King (Multiverse)|Shadow King]], the Beast and his fellow X-Factor founders returned to the X-Men.
+
+===Return to the X-Men & the Legacy Virus===
+Beast served as the resident technological and medical genius at Professor Xavier's, working on everything from advanced alien technology to the mutant-killing [[Legacy Virus]] while also serving as an active member of the X-Men's Blue Team. He even became field leader at one time. At this time, Hank began calling Scott "Fearless Leader".
+
+After Prof. Xavier was shot by [[Nathaniel Summers (Stryfe) (Earth-4935)|Stryfe]], Beast and [[Moira MacTaggert (Earth-TRN748)|Dr. Moira MacTaggert]] worked diligently to cure him of the [[Techno-Organic Virus]] ravaging his body, until Apocalypse stepped-in and provided the cure.{{r|Uncanny X-Men #294|296}}{{r|X-Factor #84|86}}{{r|X-Force #16|17}}{{r|{{cl|X-Men Vol 2 14}}-[[X-Men Vol 2 15|15]]}} Hank found the challenge of his career once Stryfe tricked [[Nathaniel Essex (Earth-616)|Mr. Sinister]] into releasing the deadly [[Legacy Virus]].{{r|X-Force #18}} During a televised debate Hank smeared political candidate and mutant hater, [[Graydon Creed (Earth-616)|Graydon Creed]].
+
+In [[San Francisco]] Hank and Bobby visited Infectia who was dying from the Legacy Virus. There, they met a young mutant, [[Melody Jacobs (Earth-616)|Threnody]], who could sense the Legacy Virus's effects. Hank decided to leave her in Sinister's care, hoping that because of his lack of morals, Sinister could find a cure to the Legacy Virus with her help. Hank held the dying Infectia in his arms as she watched her final sunrise.{{r|X-Men Vol 2 27}} After months with no progress on the Legacy Virus, Hank used information provided by [[Sabretooth (Victor Creed)|Sabretooth]]{{r|X-Men Vol 2 33}} to lead a small team of X-Men to Scott's old orphanage, [[Mister Sinister's Orphanage|The State Home for Foundlings]] in [[Omaha]], [[Nebraska (State)|Nebraska]]. The team found Threnody in a workshop, working to cure the Legacy Virus for Sinister. This time, Hank had a change of heart and refused to let her stay in Sinister's care. Threnody promised the X-Men that she would work for them while gaining Sinister's trust, warning they should leave before Sinister became aware of their presence. Hank disagreed, but was forced to accept her decision.{{r|X-Men Vol 2 34}}
+
+Trish broke the news that the Legacy Virus, initially a mutant virus, was now affecting humans, putting more strain on her relationship with Hank.{{r|X-Men Omega #1}} Hank participated in a press conference with Professor Xavier to calm the populace over the threat of the Legacy Virus in San Francisco.{{r|Uncanny X-Men #326}}
+
+Hank's counterpart from an alternate reality, the [[Henry McCoy (Earth-295)|Dark Beast]], was startled to see his counterpart working with the X-Men. After Dark Beast researched Hank, from visiting (and killing) his elementary school principal, his old girlfriend Mindy, his priest, his parents (who he couldn't bring himself to kill, but killed an innocent bystander instead), and apparently members of his high school, Hank was kidnapped by his alternate self in an attempt to hide from this reality's Sinister. Hank was kept alive at the abandoned Brand Corporation building, just in case the Dark Beast would need more information while impersonating him.{{r|X-Men Unlimited #10}} Hank was trapped while Dark Beast took over his life as an X-Man and his research, including the work on the Legacy Virus. Hank escaped{{r|X-Factor #126}} at the same time that Dark Beast was discovered by [[Onslaught (Psychic Entity) (Earth-616)|Onslaught]].{{r|Onslaught X-Men #1}} Upon returning to the team, Hank met Trish and the two reconciled their relationship.
+
+Dr. MacTaggert, the only human to contract the virus, discovered a cure to a certain strain after [[Raven Darkholme (Earth-616)|Mystique]]'s irresponsible manipulation of the virus. She died delivering the data to Professor Xavier's, leaving her work incomplete. Based on Moira's notes and his work combined, Beast finished the antivirus, but discovered that in order for it to work he needed a sample of an infected mutant. Acting before anyone could stop him, [[Piotr Rasputin (Earth-616)|Colossus]] decided to sacrifice his life.{{r|Uncanny X-Men #390}} According to [[Operation Zero Tolerance]] Colossus sub-file 94520 (which was considered by the X-Men as a trick intended to disturb them), Beast was about to test a vaccine on himself, but backed down from injecting himself with the virus to do so.{{r|X-Men: Declassified #1}}
+
+[[File:Elizabeth Braddock (Earth-616) and Henry McCoy (Earth-616) from X-Treme X-Men Vol 1 2 0001.jpg|left|thumb|200px|Death of Psylocke]]
+===X-Treme X-Men===
+Hank spent a short time with [[Ororo Munroe (Earth-616)|Storm's]] [[X-Men (X-Treme) (Earth-616)|X-Treme]] team, in search of [[Irene Adler (Earth-616)|Destiny's]] [[Destiny's Books|diaries]]. Hank underwent a [[Secondary Mutation]], that caused him to mutate further into a more feline creature,{{r|Marvel Fact Files #13}} after having his "latent genetic potential" jump-started by [[Sage (Earth-616)|Sage]].<ref>{{cl|X-Treme X-Men #3}}, though he first showed up as cat-like in {{cl|New X-Men #114}}, which supposedly happened later. It wasn't specifically called a [[Secondary Mutation]] in his case until {{cl|Marvel Fact Files #13}}</ref> After [[Vargas (Earth-616)|Vargas]] killed [[Elizabeth Braddock (Earth-616)|Psylocke]], Beast returned to the Institute.
+
+[[File:New X-Men Vol 1 148 Textless.jpg|right|thumb|200px|Cat Beast and New X-Men]]
+===New X-Men===
+The combination of the loss of a friend and his further mutation caused Beast to become very insecure, feeling that he was devolving into an animal. Hank withdrew deep into his work, helping Prof. Xavier build a stronger Cerebro, named [[Cerebra (Mutant Detector)|Cerebra]].{{r|New X-Men #114}} Prof. Xavier opened the school to a larger student base and publicly announced that he was a mutant. Hank finally ended his relationship with Trish, as she was afraid what would happen to her image if she was seen with him in public.
+
+After he discovered the mad [[Cassandra Nova Xavier (Earth-616)|Cassandra Nova]] inhabited Prof. Xavier's body, Nova manipulated his student [[Barnell Bohusk (Earth-616)|Beak]] into beating Beast into a deep coma. Nova left him with the thought that his secondary mutation was actually de-evolution and that he would soon have the intelligence of a house cat.{{r|New X-Men #117}} Hank eventually woke up just in time for [[Jean Grey (Earth-616)|Jean]] and [[Emma Frost (Earth-616)|Emma]] to perform a psychic surgery and keep Prof. Xavier alive.{{r|New X-Men #121}}
+
+Over time, Beast struck up a strong friendship with Emma, even collecting her shattered diamond form and arranging thousands of pieces into place, after she was attacked by [[Esme Cuckoo (Earth-616)|Esme Cuckoo]].{{r|New X-Men #140}} Hank began falsely claiming he was gay to the public, in the hope of inspiring wider support for tolerance (after having stated it to drive off a returning Trish Tilby).{{r|New X-Men #125}}{{r|New X-Men #131}}
+
+Hank finally found his place as a guidance counselor.{{r|X-Men Unlimited Vol 2 10}} Hank began to question his intentions as far as mutant rights went, firstly during [[Kavita Rao (Earth-616)|Dr. Kavita Rao's]] so-called cure for mutation, then after the events of [[House of M]]. Emma found that he was considering taking the serum, but after a fight with [[James Howlett (Earth-616)|Wolverine]] in front of the students, and Cyclops asking him to wait on it, Hank decided otherwise.{{r|Astonishing X-Men Vol 3 3}} Beast began dating [[S.W.O.R.D. (Earth-616)|S.W.O.R.D.]] agent, [[Abigail Brand (Earth-616)|Abigail Brand]].{{r|Astonishing X-Men Vol 3 25}}
+
+During the [[Civil War (Event)|Civil War]], Beast, was among the original X-Men that helped [[Lucas Bishop (Earth-1191)|Bishop]] rescue the trapped [[198 (Earth-616)|198]]{{r|Civil War: X-Men #2}} and also provided [[Peter Parker (Earth-616)|Spider-Man]] with a holographic disguise, then enlisted in the [[50-State Initiative (Earth-616)|Initiative]] program.{{r|Avengers: The Initiative #3}}
+
+Hank endeavored to find a way to reverse the de-powering effects of [[Decimation|M-Day]], and thus prevent the extinction of the mutant race, as not only had most of the current mutants lost their powers, but no new mutants were developing powers. To this end, Beast enlisted numerous villains, after having exhausted the help of the likes of Reed Richards and [[Anthony Stark (Earth-616)|Tony Stark]], to help him understand the situation. The scientists he contacted were [[Victor von Doom (Earth-616)|Doctor Doom]], [[Nathaniel Essex (Earth-616)|Mr. Sinister]], the [[Herbert Wyndham (Earth-616)|High Evolutionary]], [[Kavita Rao (Earth-616)|Dr. Kavita Rao]], [[Mojo (Mojoverse)|Mojo]], [[Sugar Man (Earth-295)|Sugar Man]], [[Arnim Zola (Earth-616)|Arnim Zola]], [[George Tarleton (Earth-616)|M.O.D.O.K.]], [[Rita Wayword (Earth-616)|Spiral]], and [[Richard Palance (Earth-616)|Pandemic]]. He gave them a detailed history of M-Day and the events that followed, including the work he and various other brilliant scientists had tried to find a cure. The Beast then asked them for their help, offering in return the myriad of discoveries that he had made. Hank traveled to [[Transia]] in search of the High Evolutionary, whose earlier cryptic comments aroused Hank's curiosity. Scaling [[Mount Wundagore]], Hank, and his group of travelers were confronted by the [[Knights of Wundagore (Earth-616)|Knights of Wundagore]]. Hank began working with Dark Beast, until at the Guthrie home, the Dark Beast injected one of the non-mutant children with a serum as a test subject.{{r|New X-Men Vol 2 42}} Hank eventually decided to track down the [[Wanda Maximoff (Earth-616)|Scarlet Witch]], whom he found amnesic of her past life and abandoned his quest.{{r|X-Men Vol 2 204}} When the first mutant child was born, at last, Beast helped with locating the child at the mansion.{{r|Uncanny X-Men #492}}
+
+After the team set-up in San Francisco, the [[Skrulls]] [[Secret Invasion|invaded]]. Hank adapted the Legacy Virus to infect the [[Super-Skrull variants (Earth-616)|Super-Skrulls]]{{r|Secret Invasion: X-Men #3}} and, without testing an antidote, Cyclops decided to use it on them.{{r|Secret Invasion: X-Men #4}}
+
+===X-Club===
+In order to save mutantkind from the effects of M-Day, Beast and Angel decided to gather a team of specialists, the [[X-Club (Earth-616)|X-Club]]. They gathered [[Madison Jeffries (Earth-616)|Madison Jeffries]], [[Yuriko Takiguchi (Earth-616)|Dr. Yuriko Takiguchi]], [[James Bradley (Earth-616)|Dr. Nemesis]],{{r|Uncanny X-Men #506}} and Dr. Kavita Rao.{{r|Uncanny X-Men #508}} Beast and the X-Club traveled back to 1906, in order to find Dr. Nemesis's parents and discover the origins of modern mutation. During the mission, they also fought an early version of a Sentinel, created by the [[Hellfire Club (Earth-616)|Hellfire Club]], and inadvertently caused the San Francisco earthquake. However, when they returned to the present, they found that their DNA evidence had been buried beneath where the [[Tiamut (Earth-616)|Dreaming Celestial]] was standing in the park. Dr. Yuriko Takiguchi died of natural causes, shortly after, and Beast spoke at his funeral.{{r|Uncanny X-Men #515}}
+
+Cyclops then asked him to locate [[Nathaniel Summers (Earth-616)|Cable]] and [[Hope Summers (Earth-616)|Hope]] in the timestream, as well as provide time machines to send a group of X-Men to aid them.{{r|X-Force Vol 3 12}} Although Beast was unaware of the formation of [[X-Force (Strike Team) (Earth-616)|X-Force]], he warned Cyclops that he did not agree with the plan if they were to assassinate Bishop in the future and further protested when Cyclops pulled X-Force from a mission to save the lives of [[Tabitha Smith (Earth-616)|Boom-Boom]], [[Julian Keller (Earth-616)|Hellion]], and [[Noriko Ashida (Earth-616)|Surge]].{{r|X-Force Vol 3 13}}
+
+===Dark Reign/Utopia===
+After being arrested by [[H.A.M.M.E.R. (Earth-616)|H.A.M.M.E.R.]] for protesting in San Francisco, Beast became a test subject for the [[Omega Machine]] (designed by Dark Beast to eradicate mutant powers and place them in [[Michael Pointer (Earth-616)|Weapon Omega]]), while being held prisoner along with Professor X on [[Alcatraz Island]] by [[Norman Osborn (Earth-616)|Norman Osborn]].{{r|Dark Avengers / Uncanny X-Men: Utopia #1}} Hank was tortured daily, until Cyclops sent [[Illyana Rasputina (Earth-616)|Magik]] and X-Force to rescue the captive mutants. After they settled-in on [[Utopia (X-Men Base)|Utopia]], Beast informed Cyclops that he was quitting the X-Men. Cyclops begged him to stay, saying he needed Hank to tell him when he would go too far, to which Beast replied, "Scott, you've gone too far".{{r|Uncanny X-Men: The Heroic Age #1}}
+
+[[File:Henry McCoy (Earth-616) from Secret Avengers Vol 1 13.jpg|left|thumb|200px|Secret Avengers]]
+===Fall of the Hulks/World War Hulks===
+Reed Richards took the liberty of assembling five of the eight smartest people on the planet, including Hank McCoy, [[Henry Pym (Earth-616)|Hank Pym]], [[T'Challa (Earth-616)|T'Challa]], [[Amadeus Cho (Earth-616)|Amadeus Cho]], and himself, to help analyze [[Bruce Banner (Earth-616)|Bruce Banner's]] condition after becoming unable to change into the Hulk. McCoy ran DNA tests and reported no mutant or mutate cells in Banner's bloodstream.{{r|Incredible Hulk #601}}
+
+The super-villain scientist cabal known as the [[Intelligencia (Earth-616)|Intelligencia]] plotted to kidnap the world's eight smartest people to remove their opposition. To this end, [[Ivan Kragoff (Earth-616)|Red Ghost]] and his [[Super-Apes (Earth-616)|Super Apes]] captured Hank and T'Challa, while Reed, Doctor Doom, Pym, and Banner were captured by other means. Cho evaded capture, and Tony Stark was already brain-dead.{{r|Fall of the Hulks}} Hank was one of the heroes gamma-irradiated, but Banner released Beast, Mister Fantastic, [[T'Challa (Earth-616)|Black Panther]], and [[Henry Pym (Earth-616)|Wasp]] to help him re-tool the [[Cathexis Ray Generator]] so that he could draw the gamma energy out of the heroes. Once restored as the Hulk, Banner destroyed the Intelligencia Helicarrier.{{r|World War Hulks}}
+
+===S.W.O.R.D./Second Coming===
+Beast joined his girlfriend Abigail Brand as a member of S.W.O.R.D. Not long after, he was made a fugitive by Henry Gyrich and returned to the X-Men to attend [[Kurt Wagner (Earth-616)|Nightcrawler's]] funeral where he confronted Scott Summers and blamed Kurt's death on Scott's increasingly militant and extremist attitude to protecting the mutant species at all costs (even at the cost of sacrificing his friends to do so). Hank stayed on as a doctor, during [[Bastion (Earth-616)|Bastion's]] attack on Hope.{{r|Uncanny X-Men #524}} Hank and [[David Alleyne (Earth-616)|Prodigy]] briefed the team about the time sphere Bastion was using to send the horde of over 170,000 [[Nimrod (Earth-811)|Nimrods]] to Utopia and was instrumental in finding Bastion's [[Earth-811|timeline]] and attuning Cable's time-travel device.{{r|X-Force Vol 3 27}} Hank tended to the wounded when they returned. He once again left the team, despite Namor's insulting him as a deserter.{{r|X-Men: Second Coming #2}}
+
+===Secret Avengers===
+[[File:Destroyers Vol 1 2 Textless.jpg|thumb|right]]
+Beast returned to the Avengers, helping [[Steven Rogers (Earth-616)|Steve Rogers]] with his team of [[Secret Avengers (Black Ops Unit) (Earth-616)|Secret Avengers]].{{r|Secret Avengers #1}} The team first battled a resurrected [[Zheng Zu (Earth-616)|Fu Manchu]] and the [[Shadow Council (Earth-616)|Shadow Council]].
+
+===Avengers vs. X-Men===
+Beast sided with the Avengers in the battle against the X-Men and joined a group of Avengers on a mission to space to confront the Phoenix Force.{{r|Avengers vs. X-Men #1}} Their mission failed however and the Phoenix arrived on the Moon to claim its [[Hope Summers (Earth-616)|host]]. An attack from [[Anthony Stark (Earth-616)|Iron Man]] however broke the Phoenix into five pieces which claimed [[Scott Summers (Earth-616)|Cyclops]], [[Emma Frost (Earth-616)|Emma Frost]], [[Illyana Rasputina (Earth-616)|Magik]], [[Namor McKenzie (Earth-616)|Namor]], and [[Piotr Rasputin (Earth-616)|Colossus]] as their hosts.{{r|Avengers vs. X-Men #5}}
+
+The Phoenix Five went about making the Earth a better place to live by outlawing and stopping all wars, destroying weapons, and providing free food, water, and energy for everyone. The Avengers still plotted to stop them (sure that they would eventually lose control). Hank was initially opposed to this,{{r|Avengers vs. X-Men #6}} but then witnessed Namor invade and nearly destroy [[Wakanda]] (this also brought [[Charles Xavier (Earth-616)|Professor X]] to the Avengers' side). Hank then aided the Avengers in rescuing their captive members from [[Limbo (Demonic)|Limbo]], where [[Spider-Man (Peter Parker)|Spider-Man]] tricked Colossus and Magik into defeating each other. This left only Cyclops and Emma remaining.{{r|Avengers vs. X-Men #9}}
+
+After witnessing several atrocious acts by the remnants of the Phoenix Five, the remaining X-Men defected to the Avengers. In the final battle, Hank witnessed his longtime friend Cyclops murder Charles Xavier, and become a new Dark Phoenix. After Cyclops was defeated, [[Hope Summers (Earth-616)|Hope Summers]] took control of the Phoenix Force. She then used it to repopulate the mutant race, and dispersed the Force completely.{{r|Avengers vs. X-Men #12}}
+
+===New Mutation & Joining the Illuminati===
+Beast began to mutate once again. Realizing that this time he wouldn't survive the mutation, he decided that if he were to die, he would try to show Cyclops how far he had fallen in order to stop him from going down the path he was on . Hank traveled to the past and gathered the [[X-Men (Time-Displaced) (Earth-616)|five original X-Men]] and brought them to the present, hoping that seeing his younger self would make Cyclops re-think his decisions. The young X-Men confronted the present day Cyclops, but chose to remain in the present rather than return to the past. {{r|All-New X-Men #1}} With the help of his past self,  Beast was able to survive his mutation, now changing into an ape-like form.{{r|All-New X-Men #5}}
+
+Before his death, [[Charles Xavier (Earth-616)|Professor X]] buried a telepathic prompt in Beast's mind. He showed him a hidden room in the mansion that held records of his involvement with the [[Illuminati (Earth-616)|Ilumminati]] and the [[Mind Stone]] before hiding the memory within Beast's mind. Xavier saw to it that upon his death, Beast would receive a trigger that would restore the memory, intending for Beast to inherit stewardship of the Mind Stone and thereby membership in the Illuminati. Just as Beast opened the room, he was collected by the Illuminati, who were assembling the [[Infinity Gauntlet]].{{r|New Avengers Vol 3 3}}
+
+The Illuminati caught him up to speed on the [[Glossary:Incursion|incursions]], mysterious events wherein alternate universes had begun to collide with each universe's planet [[Earth]] as the point of impact. Beast joined the Illuminati in their quest to stop the incursions occurring, averting them peacefully for as long as they could until eventually being forced to destroy worlds.{{r|New Avengers Vol 3 6}}
+
+===Time Runs Out===
+Beast was forced to go on the run with the rest of the Illuminati{{r|Avengers Vol 5 35}} after Captain America discovered that the Illuminati were destroying [[Glossary:Incursion|incursive]] worlds and ordered the Avengers to hunt the Illuminati down.{{r|Avengers Vol 5 34}} Eight months later, as the last incursion approached, Beast sought refuge in [[Nation X]], a mutant sanctuary run by Cyclops. Cyclops offered Beast a place in spite of their differences. Cyclops also welcomed [[Roberto Da Costa (Earth-616)|Sunspot]] when he came to visit Beast and had a little talk with him about the Incursions.{{r|Avengers Vol 5 38}}
+
+===M-Pox===
+Storm one day gathered the faculty and students of the Jean Grey School and Cyclops' [[Weapon X Facility|New Charles Xavier School for Mutants]] to put Beast on "trial" for messing with the space-time continuum by bringing the original five X-Men from the past to the present. Beast became defensive when confronted by his actions. Eventually, Beast had enough and left in a huff. He later boxed up his things and left the X-Men.{{r|Uncanny X-Men #600}}
+
+In the wake of the discovery of the [[M-Pox]], Beast was enlisted by Storm to join the [[Inhumans (Inhomo supremis)|Inhumans]] and moved to [[New Attilan]] in order to find a cure for the [[M-Pox]].{{r|Uncanny Inhumans #1}}
+
+===Inhumans vs X-Men===
+When Beast realized that he wouldn't be able to find a cure for the [[Terrigen]] cloud before it made the entire Earth uninhabitable for mutants, he met with the rest of the mutants and advised them that the best course of action was for all mutants to leave Earth. His teammates objected and imprisoned him before he could warn the Inhumans that war was coming.{{r|IVX #1}}
+
+However, after learning what the cloud would do to mutants, [[Medusalith Amaquelin (Earth-616)|Queen Medusa]] unexpectedly chose to activate a generator that destroyed the Terrigen cloud, leaving Emma Frost to be branded a traitor for her false claims about Cyclops' true death to manipulate the X-Men into destroying the Inhumans. Havok helped Emma to escape for the sake of his brother's memory, while Beast and his remaining teammates made up, all regretting what their lives had come to ever since discovering that the Terrigen could kill them.{{r|IVX #6}}
+
+===Age of X-Man===
+In the reality created by [[Nathaniel Grey (Earth-295)|Nate Grey]] and a [[Life Seed]], Hank was a prisoner in the Danger Room Prison Complex, home to "mutant criminals" such as Bishop, [[Danielle Moonstar (Earth-616)|Mirage]], Polaris, and [[Gabrielle Kinney (Earth-616)|Honey Badger]].{{r|Age of X-Man: Prisoner X Vol 1 1}}
+
+===House of X===
+Hank was later seen drinking alongside [[Warren Worthington III (Earth-616)|Archangel]] and [[Robert Drake (Earth-616)|Iceman]] at the celebration following the announcement of Krakoa as a sovereign nation under the [[United Nations (Earth-616)|United Nations]] and the first meeting of the [[Quiet Council of Krakoa (Earth-616)|Quiet Council of Krakoa]].{{r|House of X Vol 1 6}}
+
+==Personality==
+Henry McCoy wondered why he wasn't one of the "lucky ones." If he had to remain a mutant, why did he have a power that made him look and sometimes feel like a beast? He continued to struggle for the acceptance of others. As a man of arts and letters and the sciences, Beast was very much the Renaissance man, and while his peers in the intelligence community knew this, they still considered him very much a mutant. He even knew what it was like to be jilted by the proverbial Beauty, his recent fear of human emotion had caused him to turn away from longtime lover Trish Tilby, who had finally seemed to find the error in her ways as far as an attitude towards his secondary mutation.
+
+Despite his ongoing battle with the demons of loneliness and rejection, he was an inveterate prankster and wit, and besides his brutish exterior, Beast was the most literate and eloquent of the X-Men, possessing a million-dollar vocabulary. Henry was every bit a human being plagued by duality: man/beast; genius/sports star; gentle giant/feral aggressor. Equal parts biochemist and activist, Beast focused on the X-Men's goals of building better relationships between man and mutant. In immersing himself in this campaign, Beast held hope that in the world he and the other X-Men dream of, he'll finally be known more for the genius within than for the creature outside.
+
+| Powers                  = 
+Beast is a [[Homo superior|mutant]].
+
+'''Genetic Atavism''': It is possible that Beast's mutation is a result of genetic atavism (or genetic traits that resurface in a species after many generations of dormancy). He also possesses neotenous (or traits in a descendant that resemble those of an ancestor organism) characteristics, which would explain why he has a big modern brain with an ape-like physique.
+
+Due to [[Secondary Mutation]],{{r|Marvel Fact Files #13}} Beast transformed from his original ape-like physique to a more cat-like physique.{{r|New X-Men #114}} A subsequent mutation affected him, and he required the help of his past self, who was able to stabilize him in a new appearance.{{r|All-New X-Men #5}}
+
+His powers have varied at times due to ongoing and subsequent mutations.
+
+*'''Superhuman Strength:''' Originally in his teen years, Beast was able to lift about 1 ton. From breaking chains to headbutting through a solid metal wall, he always made full use of his physical prowess by combining muscular strength with agile kinetic buildup. After his mutation into a blue simian form, which eventually stabilized afterward, his strength was increased to the point where he can now lift about 10 tons, which is sufficient for him to smash through a brick wall with a single punch, toss a smaller car, and to tie an iron barbell into a knot. When enhanced after Infectia´s kiss, he was strong enough to smash a tank with his bare hands and punch the ground to create a massive shock wave. Even before these extreme levels though, he has lifted part of a full-grown oak tree made of solid gold, with effort. His strength also extends to the muscles in his legs, allowing him to leap a height of 32 feet high and 50 feet in a standing broad jump.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+*'''Superhuman Speed:''' Beast can run and move at speeds that are slightly beyond the natural physical limits of the finest human athlete, despite his abnormal size. He can run at speeds up to 40 mph for short distances, particularly if he runs on all fours. It also allows Beast to attack opponents before they can react and pull their trigger fingers and keep up with opponents who can move at low-level superhuman speeds.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+*'''Superhuman Stamina:''' Beast's highly advanced musculature produces fewer fatigue toxins during physical activity than that of an ordinary human. He can exert himself at peak capacity for several hours before the buildup of fatigue toxins in his blood begins to impair him.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}} He also commented that after his mutation into a cat-like form that he no longer needs a full night of sleep, although it is unknown if he still retains this side effect of his stamina after becoming a new ape-like form once again.
+
+*'''Superhuman Durability:''' Beast's bodily tissues are harder and more resistant to certain types of injuries than the bodies of normal humans. His physiology can withstand great impact forces, though he can be injured by many types of conventional weapons such as standard firearms and bladed weapons. However, he can withstand physical impacts, such as falling from several stories by landing on his feet without suffering any broken bones or sprains. Also, he is able to be physically struck by many superhumanly strong beings like Colossus and The Hulk that would either severely injure or kill a normal human with little to no discomfort.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+*'''Superhuman Agility:''' Beast's agility, balance, and bodily coordination are enhanced to levels that are beyond the natural physical limits of the finest human athlete. While in his simian form, he has the agility of a great ape combined with the acrobatic prowess of an Olympic level gymnast. He can walk a tightrope or a slack rope as easily as most people can walk on a sidewalk. He can also walk on his hands for many hours, or perform a complicated sequence of gymnastic stunts such as flips, rolls, and springs. He can easily match or surpass any Olympic record in gymnastics.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+*'''Superhuman Reflexes:''' Beast's reflexes are similarly enhanced and are on levels beyond the natural physical limits of the finest human athlete. His training with the X-Men, as well as his experience battling enemies, has granted him the reaction time to evade gunfire. He can react at low-level superhuman speeds, even catching smaller missile mid-air with his feet. His reflexes are a partial reason why the Beast is able to be so agile and fast, despite the abnormal bulk of his ape-like form.
+
+*'''Superhuman Dexterity:''' He can perform many tasks with his feet as easily as a human could do with his hands. His manual and pedal dexterity are so great that he can write using both hands at once or tie knots in rope with his toes.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+*'''Regenerative Healing Factor:''' Beast's metabolism enables him to repair mild to moderate injuries much faster than a normal human. For instance, he can recover from minor ailments, such as a severe cold or fever within a few hours. More severe injuries, like broken bones, used to heal within a few days, whereas normal humans might take many weeks or even months. However, his healing abilities have increased to the point where he recovers from mild to moderate injuries within the span of a few hours. However, he cannot regenerate destroyed organs or severed limbs.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+**'''Contaminant Resistance:''' Hank possesses a highly advanced immune system, which is a partial reason why he is able to recover from mild ailments, among other forms of sickness, within a few hours. Hank also possesses a high immunity to foreign chemicals, such as tranquilizers and certain types of poisons used by Kraven the Hunter in their encounter during his early years with the X-Men.
+**'''Temperature Resistance:''' Due to a combination of his own healing abilities and his fine coat of blue fur, Beast is resistant to freezing temperatures. This was evident even before his ape-like form, to the point of being frozen in solid ice by Iceman for a short time and survived with a moderate case of shivers once freed during his early years with the X-Men.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}} 
+**'''Telepathic Resistance:''' Hank possesses moderate resistance to telepathic manipulation, and was able to resist Cassandra Nova's high-level telepathic powers for a short time until she used his own fears of devolving into a mindless animal against him.
+**'''Slowed Aging:''' Beast also possesses a slight degree of slowed aging due to his own healing abilities. Despite being 40 years of age since the time of Cassandra Nova's attack, he still retains the physical appearance and vitality of a man in his prime.
+
+*'''Superhuman Senses:''' Hank possesses enhanced, acute senses that are comparable to those of certain animals, enabling him to see and hear distant objects more clearly than a normal human, and identify and track someone purely by scent over open terrain and his hands and feet are sensitive enough to detect electronic signals (from bombs, listening devices, etc.) through solid walls and floors. He also possesses cat-like night-vision that also allows him to see even in near-total darkness and when asked by Nick Fury, he was able to identify that it was the real Colossus when he came back to life all by scent.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+*'''Timestream Attunement:''' Hank's experiments with time travel have attuned him to the timestream, making him aware of changes in history.{{r|Uncanny Inhumans Vol 1 2}}
+
+*'''Minor Pheromone Manipulation:''' Beast has the ability to secrete pheromones to attract members of the opposite sex.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+*'''Razor-Sharp Claws and Fangs:''' Beast sports retractable, 3" razor-sharp claws at the tip of each finger and toe. Their natural edges, coupled with his strength, are sufficient to rend most conventional materials including flesh, wood, stone, and even metal effortlessly and enable him to climb up vertical surfaces by wedging his fingers and toes into the smallest of cracks. He possesses elongated canines that he can use, if he chooses to do so, as effective weapons in close-quarter combat situations.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+{{Navigation
+| title  = Former Powers
+| body   =
+*'''Black Vortex Empowerment:''' When Beast submitted to the power of the [[Black Vortex]] the cosmic energies infused into him augmented both his genius intellect and mutant capabilities boosting his already impressive power set and understanding of the universe to new heights.
+**'''Flight:''' Beast could fly under his own power.
+**'''Accelerated Probability Generator:''' His brain and analytical thinking had been boosted to unprecedented levels making is mind comparable to that of a quantum computer, able to fabricate a detailed map of the space-time continuum which would enable him to predict and act on any and all possible outcomes that may occur.
+**'''Cosmic Energy:''' Like others who were altered by the black vortex, Hank could discharge potent blasts of energy from his being at will.
+**'''Cosmic Awareness:''' Either a combination of his natural intellect being ascended or via interaction with the black vortex, Henry McCoy had achieved a form of epiphany that entitled him enlightenment to the truth of the cosmos.
+
+*'''Recursive Retaining Enhancement:''' After coming in contact with an Extraterrestrial anomaly, Beast, while retaining his still humanoid form before multiple secondary mutations, ended up losing his enhanced simian like physiology to eventually regain all of his powers with clear physical enhancements, showcasing his strength to be equal to that of a green pre-Merged and/or Gravage Hulk, able to lift a whole plane atop his head with ease.{{r|{{cl|X-Men First Class Vol 2 6}}-[[X-Men First Class Vol 2 7|7]]}}
+
+'''[[Character Index/Unnamed Symbiotes#Beast's Symbiote|Symbiote]]:''' While on Ulgriath, Hank bonded to a symbiote that escaped from [[Haze Mancer (Earth-616)|Haze Mancer]]'s collection, which adapted to his unique powers. While bonded to it, Beast's appearance was similar to his demonic form,{{r|X-Men: Blue Vol 1 21}} and it augmented his physical strength and enabled him to summon symbiote-augmented demons as extensions of his body.{{r|Venom Vol 1 162}} This symbiote later separated from him to return to its homeworld.{{r|Venom Vol 1 163}}
+
+'''[[Magic]]:''' Taking Stephen Strange's advice Hank decided to delve into magic and many of its practices. Dabbling in the mystic arts has granted Beast with an odd new beast form, one in which he can channel immense amounts of magical powers through.{{r|All-New X-Men Vol 2 16}}
+* '''Banishment'''
+* '''Teleportation'''
+* '''Time Travel'''
+* '''Portal Creation'''
+* '''Demonic Transformation'''
+}}
+
+| Abilities               =
+
+* '''[[Genius Intelligence]]:''' Dr. Hank McCoy is one of the eight smartest people in the world.{{r|Incredible Hulk #601}} He has six PhDs,{{r|Young X-Men #10}} including one in biophysics.{{r|Uncanny X-Men #308}} A world-renowned biochemist,{{r|Official Handbook of the Marvel Universe: X-Men 2004 Vol 1 1}} Henry McCoy's greatest asset is his keen scientific mind. As the X-Men's resident technological and medical genius,{{r|Official Handbook of the Marvel Universe: X-Men 2004 Vol 1 1}} he possesses extraordinary expertise in genetics,{{r|Official Handbook of the Marvel Universe: X-Men 2004 Vol 1 1}} biochemistry,{{r|Astonishing X-Men Vol 3 27}}{{r|Official Handbook of the Marvel Universe: X-Men 2004 Vol 1 1}} and electronics<ref>''[http://www.classicmarvelforever.com/cms/advanced-game-and-modules.html Marvel Super Heroes Judge's Book]''</ref>. He discovered the [[Mutant Growth Hormone|hormonal extract]] that is the chemical cause of mutation{{r|Amazing Adventures Vol 2 11}} and cured the [[Legacy Virus]].{{r|Uncanny X-Men #390}} Among his technological feats, McCoy has designed and built [[Cerebra]];{{r|New X-Men #114}} a time travel device with the [[X-Club]];{{r|Uncanny X-Men #512}} a machine which separates the [[Evolutionaries]] from cosmic rays;{{r|X-Men Vol 3 14}} and the [[Jean Grey School for Higher Learning]], outfitted with [[Shi'ar]] technology as well as a thermonuclear reactor.{{r|Wolverine and the X-Men #1}} During his time travel situation he was placed behind the curve on the technologies of the day.{{r|All-New X-Men Vol 2 #1}} He is also quite the gifted computer scientist, hacking Bruce Banner's computer{{r|Civil War II #1}} and designing a computer system that locked down as soon as Kitty Pride tried to access it.{{r|All-New X-Men #1}} He has extensive knowledge of a variety of other scientific fields.{{r|Official Handbook of the Marvel Universe: X-Men 2004 Vol 1 1}} [[Cecilia Reyes]] was impressed with his knowledge of theoretical physics and basic anatomy.{{r|X-Men Vol 2 70}} Though, he has humbly stated himself to be an amateur in physics and technology.{{r|Astonishing X-Men Vol 3 27}} He has an eidetic memory<ref>''[http://www.amazon.com/XAVIER-FILES-X-Men-Digest-Novels/dp/0679861777/ref=sr_1_1?ie=UTF8&qid=1447436117&sr=8-1 The Xavier Files]'', 1st edition paperback, 1994. Justine H. Korman, ISBN 0-679-86177-7</ref> and it shows in his ability to recall complex mathematical or chemical formula with little to no research.<ref>''[http://www.amazon.com/XAVIER-FILES-X-Men-Digest-Novels/dp/0679861777/ref=sr_1_1?ie=UTF8&qid=1447436117&sr=8-1 The Xavier Files]'', 1st edition paperback, 1994. Justine H. Korman, ISBN 0-679-86177-7</ref> He can additionally remember and quote historical text, literature, or even comic strip quotes from memory.<ref>''[http://www.amazon.com/XAVIER-FILES-X-Men-Digest-Novels/dp/0679861777/ref=sr_1_1?ie=UTF8&qid=1447436117&sr=8-1 The Xavier Files]'', 1st edition paperback, 1994. Justine H. Korman, ISBN 0-679-86177-7</ref> Hank is also an accomplished keyboard musician.{{r|Official Handbook of the Marvel Universe: X-Men 2004 Vol 1 1}}
+
+* ''' Excellent Hand to Hand Combatant:''' The hyperactive, bouncing Beast is an excellent hand-to-hand fighter. He gained his initial combat training from [[Charles Xavier (Earth-616)|Professor Xavier]], and then continued his tutelage in combat gymnastics from [[Steven Rogers (Earth-616)|Captain America]]. He typically uses a freestyle form of combat, similar to that of [[Spider-Man (Peter Parker)|Spider-Man]], that allows him to make full use of his great strength and agility. During times of anger, however, the Beast is known to resort to brawling and street fighting tactics.{{citation}}
+
+* '''[[Multilingual]]:''' He is fluent in several languages including English, German,{{r|Avengers #209}} French,{{r|Avengers #206}} Latin, Italian,{{r|Avengers #207}} Spanish, Japanese,{{r|Avengers #206}} Arabic, and Russian{{r|X-Factor Annual #1}} as well as Latverian. The [[Yabbat Ummon Turru (Earth-1365)|Black Swan]] has also been teaching him a few extinct languages.{{r|New Avengers Vol 3 7}}{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+* '''Expert Tactician:''' He is a capable leader as he has led his own team of Defenders with fellow X-Men Iceman and Angel as teammates. Even when he is not the leader of a team, he has been a key member in some of the greatest team accomplishments, such as helping to rescue Nova on Mars with the Secret Avengers. He is also a great team player.{{Citation}}
+
+* '''Indomitable Will:''' Hank's dedication to science and co-existence between humans and mutants is unwavering. He never gave up on finding a cure for the Legacy Virus in which he eventually did find a cure. He has great compassion for both humans and mutants alike, and his unflagging courage allows him to protect both of them at any cost, even with his own life.{{Citation}}
+
+| Strength                = *Class 10; Hank possesses superhuman strength enabling him to lift up to 10 tons.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+| Weaknesses              = *'''Animal Instincts:''' For years, Hank McCoy has had to come to terms with his increasing animal instincts, which come with each new mutation. Cassandra Nova took advantage of this by making him act like an animal much to his humiliation until [[Beak]] managed to break him out of her control. Due to Beast's transformation into a cat-like being he has developed a carnivorous taste for flesh, which he is conflicted over.{{Citation}}
+
+*'''Vulnerable Senses:''' Due to his animal-like mutation, the only other "weakness" that Beast has is the fact that his heightened senses can be taken advantage of.{{Citation}}
+
+*'''Allergy:''' Beast claims to be allergic to sawdust.{{r|X-Men Vol 1 3}}
+
+| Equipment               = The Beast possesses a fully-equipped laboratory in [[Xavier's School for Gifted Youngsters|Xavier's mansion]]. Presumably, it holds the latest in biological and material analysis devices. It may also contain [[Shi'ar]] technology. At one point, Beast had possession of the Mind Gem.
+
+{{Navigation
+| title = Former Equipment
+| body  = '''[[Stealth Cyber Gear]]:''' Technology Hank picked up while traveling through time-space. The Cyber Gear implant directly interfaces Henry's cerebellum with any and all technological appliances, giving him complete control.{{r|X-Men: Blue Vol 1 17}}
+}}
+| Transportation          = [[X-Men Dove]], [[Secret Avengers]]' [[Quincarrier]], [[X-Men Blackbird]], [[X-Men Stratojet]], [[X-Copter]], [[Charles Xavier (Earth-616)|Professor Xavier's]] Rolls Royce, [[Sentinel Air Transport]], [[X-Factor Plane]], various aircraft constructed by [[Prosh (Earth-616)|Ship]], [[Quinjet]].
+| Weapons                 = While known to use heavy weapons in battle,{{citation}} Beast prefers to fight bare-handed.{{citation}}
+
+| Notes                   = * It was revealed that Hank had a crush on [[Elizabeth Braddock (Earth-616)|Betsy Braddock]] when she was a supermodel. They flirted with one another.{{r|X-Treme X-Men #1}}
+* The Beast has a weakness for Twinkies. Evidence can be found in his New Year's Resolutions revealed that one of his resolutions was to "Eat fewer Twinkies"{{r|X-Men Vol 2 73}} (the other resolutions were to "read more 15th century texts" and "cure [[Legacy Virus]]", the latter the only one which it is evidenced that he did).
+* Beast doesn't have blue skin but a fine coat of blue fur.{{r|New X-Men Vol 2 44}}
+* If Beast loses his higher mental functions and reverts to his animalistic state, he can be brought back by a ball of yarn. Synthetic fiber laced with pheromones, aerosol smart-drugs, and light sequences to bring back his higher brain functions.{{r|Astonishing X-Men Vol 3 18}}
+*Henry McCoy claims that he does not like being called the "Beast", and that it brings him sorrow. He considers it an unwarranted cognomen, since he is a scholarly and refined man. He admits to having been called many unflattering things before, and that this has bruised his ego.{{r|X-Men Vol 1 3}}
+*Henry McCoy claims that he does not care for the identity of the Beast, and that he feels relieved when removing his [[X-Uniforms|X-Uniform]]. He preferred his civilian identity as an honor student.{{r|X-Men Vol 1 5}}
+* Hank's pheromone abilities should be considered apocryphal as they're only mentioned in supplementary material and have never been depicted in any media.
+
+| Trivia                  = * Beast's original furry transformation was an idea that originated from [[Roy Thomas|Roy Thomas]], with input from [[Stan Lee|Stan Lee]], in an effort to make the character more visibly striking. He also became more werewolf-like to capitalize on the success of [[Jack Russell (Earth-616)|Werewolf by Night]].{{r|Steve Englehart, [[User_blog:GrnMarvl14/Q%26A_with_Steve_Englehart|Q&A with Steve Englehart]]}}{{r|http://comic-con.wikia.com/wiki/User_blog:Xean/Roy_Thomas_Interview}}
+* Beast was once captured by S.H.I.E.L.D and imprisoned in "The Cage". His prisoner number was: 412076.{{citation}}
+* Hank identified himself as an agnostic.{{r|Amazing X-Men Vol 2 3}}{{r|All-New X-Men #5}} Despite this, he has prayed to God on occasion{{r|All-New X-Men Vol 1 1}} and affirmed his belief.{{R|Infinity Crusade Vol 1 1}} He ultimately expressed strong belief in God's existence during a conversation with Spider-Man, who, during the conversation had declared his atheistic beliefs.{{r|Amazing Spider-Man Vol 4 1.3}}
+* Hank played obstacle chess with Nightcrawler frequently.{{r|Amazing X-Men Vol 2 4}}
+* Beast has had at least 1143 websites devoted to him.{{r|Excalibur Vol 3 8}}
+* Beast favors Chamomile tea.{{r|Avengers Vol 1 690}}
+* Beast has been a [[wikipedia:MacArthur Fellows Program|MacArthur Fellows Program]] recipient, a [[wikipedia:Nobel Prize|Nobel Prize]] winner, and a nine-time recipient of the [[wikipedia:Presidential Medal of Freedom|Presidential Medal of Freedom]].{{r|Astonishing X-Men Annual Vol 2 1}}
+| Links                   = 
+* [http://marvel.com/universe/Beast_(Henry_McCoy) Marvel: The Official Site - Marvel Universe: Beast (Henry McCoy)]
+* [http://www.marveldirectory.com Marvel Directory]
+* [http://uncannyxmen.net/characters/beast uncannyxmen.net Spotlight On... Beast]
+* [http://www.wolverinesrevenge.com/wolverine_revenge.html Wolverine's Revenge]
+* [http://www.adherents.com/lit/comics/Beast.html "The religion of Beast (Hank McCoy)"]
+* ''X-Men: Reign of Apocalypse Hero Handbook''
+* ''Marvel Encyclopedia'', Vol 1, 2002. David Bogart, ISBN 0-785-10984-6
+* ''Science of the X-Men'', 1st edition paperback, 2004. Linc Yaco, Karen Haber, ISBN 0-743-48725-7
+* ''The Xavier Files'', 1st edition paperback, 1994. Justine H. Korman, ISBN 0-679-86177-7
+* ''X-Men: The Ultimate Guide'', 2nd edition hardback, 2003. Peter Sanderson, ISBN 0-789-49258-X
+* ''The Marvel Universe Roleplaying Game'', 1st edition hardback, 2003. Marvel Entertainment, ISBN 0-7851-1028-3
+* [http://www.classicmarvelforever.com/cms/advanced-game-and-modules.html TSR Marvel Superheroes Judge's Book]
+* [http://marvellegends.info/ The Complete Guide to Marvel Legends: Beast MOC Back]
+* [http://stason.org/TULARC/art/comics-xbooks/54-When-did-the-Beast-turn-blue-and-furry-Wasn-t-he-unfurry.html stason.org - when did the beast turn blue?]
+* [[w:c:memory-beta:Henry McCoy|Henry McCoy]] article at '''''[[w:c:memory-beta:|Memory Beta]]''''', the licensed ''Star Trek'' Wikia.
+}}
+[[hu:Bestia]]
+[[it:Henry McCoy (Terra-616)]]
+[[Category:Superhuman Senses]]
+[[Category:Superhuman Agility]]
+[[Category:Superhuman Stamina]]
+[[Category:Hyperosmia]]
+[[Category:Night Vision]]
+[[Category:Doctors]]
+[[Category:Utopians]]
+[[Category:Ape Form]]
+[[Category:Feline Form]]
+[[Category:Vertical Pupils]]
+[[Category:McCoy Family]]
+[[Category:Xavier Institute Student]]
+[[Category:Post-M-Day Mutants (The 198)]]
+[[Category:Jean Grey School faculty]]
+[[Category:Pheromones]]
+[[Category:Genius Intelligence]]
+[[Category:Genoshan Mutates]]
+[[Category:Multilingual]]
+[[Category:Brood-infected]]
+[[Category:Geneticists]]
+[[Category:Gymnasts]]
+[[Category:Significant Threats]]
+[[Category:Secondary Mutations]]
+[[Category:Engineers]]
+[[Category:Inventors]]
+[[Category:Acrobats]]
+[[Category:Six Doctorates]]
+[[Category:Mutants activated at birth]]
+[[Category:Black Vortex users]]
+[[Category:Hyperacusia]]
+[[Category:Photographic Memory]]
+[[Category:Post-Secret Wars Mutants]]
+[[Category:Agnostic Characters]]
+[[Category:Empire State University Faculty]]
+[[Category:Regeneration]]
+[[Category:Athletic Skills]]
+[[Category:Superhuman Reflexes]]
+[[Category:Computer Hacking Skills]]
+[[Category:Fur]]
+[[Category:Mind Stone wielders]]
+[[Category:Floating Super-Hero Poker Game participants]]
+[[Category:Nobel Prizes]]
+[[Category:Presidential Medal of Freedom]]
+[[Category:Allergies]]
+[[Category:Symbiotes-possessed]]
+[[Category:Hex-Men (Earth-616)/Members]]
+[[Category:Jean Grey School students]]
+[[Category:Interdimensional Travelers]]
+[[Category:Age of X-Man participants]]
+[[Category:Time Travelers]]
+[[Category:Civil Rights Activists]]

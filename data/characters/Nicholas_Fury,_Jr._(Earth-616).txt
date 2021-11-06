@@ -1,0 +1,112 @@
+{{Marvel Database:Character Template
+| Title                   = [[Nick Fury, Jr.|Agent Nick Fury]]
+| Image                   = Civil War II Choosing Sides Vol 1 1 Shalvey Variant Textless.jpg
+| Name                    = [[Nick Fury, Jr.|Nicholas Joseph "Nick" Fury, Jr.]]
+| CurrentAlias            = 
+| Codenames               = Agent 110911,{{r|Nick Fury Vol 1 1}} [[Falcon]]{{r|Miles Morales: Spider-Man Annual Vol 1 1}}
+| EditorialNames          = 
+| Nicknames               = Fury 2.0,{{r|Avengers NOW! #1}} Nick Fury II,{{Citation}} [[Sarge]]{{r|Battle Scars Vol 1 4}}
+| Impersonations          = [[Mister Knight]],{{r|Civil War II: Choosing Sides #2}} [[Moon Knight]]{{r|Civil War II: Choosing Sides #2}}
+| Aliases                 = Agent Fury,{{r|Avengers NOW! Vol 1 1}} G.I.Johnson,{{r|Battle Scars Vol 1 4}} [[Marcus Johnson]],{{r|Battle Scars Vol 1 1}} [[Odinson]]{{r|Punisher Vol 2 218}}
+
+| Affiliation             = {{m|Central Intelligence Agency|CIA}}; formerly {{M|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}, {{m|Secret Avengers (S.H.I.E.L.D.) (Earth-616)|Secret Avengers}}, {{M|United States Army (Earth-616)|U.S. Army Rangers}} (2nd Battalion)
+| Ancestors               = [[Rex Fury (Earth-616)|Rex Fury]] (alleged ancestor, deceased){{r|Avengers NOW! #1}}
+| Grandparents            = [[Jack Fury (Earth-616)|Jack Fury]] (paternal grandfather, deceased);<br>
+[[Katherine Fury (Earth-616)|Katherine Fury]] (paternal grandmother, deceased);<br>
+[[Mama Fury (Earth-616)|unnamed paternal step-grandmother]] (deceased)
+| Parents                 = [[Nicholas Fury (Earth-616)|Nick Fury]] (father);<br>
+[[Nia Jones (Earth-616)|Nia Jones]] (mother, deceased)
+| Siblings                = [[Mikel Fury (Earth-616)|Mikel Fury]] (paternal half-brother, deceased)
+| Relatives               = [[Dawn Fury (Earth-616)|Dawn Fury]] (paternal aunt);<br>
+[[Jacob Fury (Earth-616)|Jake Fury]] (paternal uncle);<br>
+[[Guido Sapristi (Earth-616)|Jerry Sapristi]] (first cousin once removed);<br>
+[[Vernon Fury (Earth-616)|Vernon Fury]] (first cousin once removed);<br>
+[[Ernesto Sapristi (Earth-616)|Ernesto Sapristi]] (second cousin);<br>
+[[Pietro Sapristi (Earth-616)|Pietro Sapristi]] (second cousin);<br>
+[[Giovanni Sapristi (Earth-616)|Giovanni Sapristi]] (second cousin);<br>
+[[Maria Sapristi (Earth-616)|Maria Sapristi]] (second cousin);<br>
+[[Rosa Sapristi (Earth-616)|Rosa Sapristi]] (second cousin);<br>
+[[Gabriella Sapristi (Earth-616)|Gabriella Sapristi]] (second cousin);<br>
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Avengers NOW! Vol 1 1}}
+| Gender                  = Male
+| Height                  = 6'3"
+| Weight                  = 225 lbs
+| Eyes                    = Brown
+| Hair                    = Black; Shaved; Bald
+| UnusualFeatures         = Missing left eye with scars in the area, covered by eyepatch
+
+| Origin                  = [[Homo sapiens|Human]] [[Mutates|mutate]] who inherited the [[Infinity Formula]] from his father [[Nicholas Fury (Earth-616)|Nick Fury]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Atlanta]], [[Georgia]]{{r|Battle Scars Vol 1 5}}
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Spy; formerly agent of S.H.I.E.L.D., staff sergeant in the US Army Rangers{{r|Battle Scars Vol 1 2}}
+| Education               = BA in Philosophy from University of Georgia,{{r|Battle Scars Vol 1 2}} extensive military training, US Army Ranger School Graduate
+| BaseOfOperations        = Mobile; formerly [[Afghanistan]]; [[Iraq]]; [[Atlanta]], [[Georgia (State)|Georgia]]
+
+| Creators                = Cullen Bunn; Christopher Yost; Matt Fraction; Scot Eaton
+| First                   = Battle Scars Vol 1 1
+| First2                  = (As Marcus Johnson){{sld|Battle Scars Vol 1 6}}(As Nick Fury)
+
+| Quotation               = How about this... my name is '''Fury,''' kid... and so is yours.
+| Speaker                 = [[Nicholas Fury (Earth-616)|Nick Fury, Sr.]] to [[Nicholas Fury, Jr. (Earth-616)|Nick Fury, Jr.]]
+| QuoteSource             = Battle Scars Vol 1 4
+
+| History                 = The son of [[Central Intelligence Agency (Earth-616)|CIA]] agents [[Nia Jones (Earth-616)|Nia Jones]] and [[Nicholas Fury (Earth-616)|Nick Fury]], Marcus Johnson spent most of his life unaware of his parentage or his mother's true past. When a fling with Nia resulted in her pregnancy, Fury feared that both her and their unborn child could become targets of his enemies. Nia reluctantly agreed to leave her life behind, moving to [[Atlanta]], [[Georgia]]. Taking the surname Johnson and adopting the identity of a social studies teacher, Nia gave birth to a baby and called him Marcus.{{r|Battle Scars Vol 1 5}}
+
+Growing up without contact or awareness of his true father, whom he believed was dead, Marcus lived a normal life.{{r|Battle Scars Vol 1 3}} In high school, Marcus was a skilled football player. Instead of taking a scholarship, he enlisted in the [[United States Army (Earth-616)|Army]] when he was 18 years old. He served in [[Iraq]] for a tour, went back to the states to study philosophy at the University of Georgia, and reenlisted afterward. By the time Marcus was 30 years old, he was serving as an Army Ranger in [[Afghanistan]] alongside his best friend, [[Phillip Coulson (Earth-616)|Phil "Cheese" Coulson]].{{r|Battle Scars Vol 1 2}} In addition of the identity of his father, Marcus was also unaware that he had inherited from Fury the [[Infinity Formula]]. The body-enhancing serum was ingrained in Marcus' DNA and his blood generated the formula on its own.
+
+[[File:Nicholas Fury, Jr. (Earth-616) from Battle Scars Vol 1 1 003.jpg|thumb|left|As Marcus Johnson]]
+
+Shortly before the [[Fear Itself|War of the Serpent]], the [[Sinclair Abbott (Earth-616)|Spymaster]] unearthed the secret of Fury's child and gave the information to would-be word conqueror [[Viktor Uvarov (Earth-616)|Orion]], one of Fury's biggest enemies. In a bid to save his body from a fast-paced decay, Orion targeted Marcus for the Infinity Formula in his blood. When the War of the Serpent sparked with worldwide panic-induced riots, Orion used them as cover to have Nia murdered while Marcus was deployed in Afghanistan to draw him out.{{r|Battle Scars Vol 1 5}} After surviving the bedlam caused in the battlefield by the [[Cul Borson (Earth-616)|Serpent]]'s global influence, Marcus was informed of his mother's death and returned to Atlanta to attend her funeral. He quickly realized her murder hadn't been unpremeditated after finding special Russian shell casings at the scene of the crime in her house. Johnson was immediately targeted by the mercenary [[Anthony Masters (Earth-616)|Taskmaster]] after Orion had put a price on his head, but Marcus was saved by the intervention of [[Steven Rogers (Earth-616)|Captain America]] and [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]], who had learned of Marcus' secret when it was leaked.{{r|Battle Scars Vol 1 1}}
+
+Johnson was taken to S.H.I.E.L.D.'s headquarters to be placed in a witness program, but he decided to escape after realizing he was being withheld information. Marcus sought Coulson's help,{{r|Battle Scars Vol 1 2}} and the two managed to locate one of Taskmaster's safe houses in [[New York City|New York]]. Although interrupted by the appearance of both [[Wade Wilson (Earth-616)|Deadpool]] and the [[Serpent Society (Earth-616)|Serpent Society]] to claim the bounty on his head,{{r|Battle Scars Vol 1 3}} Marcus managed to escape with an injured Taskmaster. After learning of Orion from Taskmaster, Nick Fury appeared in his identity of [[Scorpio]] and beat Marcus up in an attempt to get him into hiding.{{r|Battle Scars Vol 1 4}} Assuming that Scorpio was Orion, Marcus followed him to his hideout. Once exposed, Fury revealed the truth to Marcus. Shortly afterward, [[Leviathan (Earth-616)|Leviathan]] agents captured both Fury and Johnson and brought them to Orion. In order to taunt Fury, Orion had Marcus' left eye cut out. Before Orion could harvest the Infinity Formula from him, Marcus managed to escape, leaving him to transfuse the last remains of the serum in Fury's body into himself instead as a temporary measure to regain his vigor. As Marcus made his way back to Orion, Coulson arrived with the [[Avengers (Earth-616)|Avengers]] and S.H.I.E.L.D. as reinforcements. Marcus avenged his mother by killing Orion with an explosive. In the aftermath, Marcus came to terms with his father's reason for abandoning him and Nia. Encouraged by Fury himself, Marcus decided to embrace his father's lifestyle, becoming a spy and an agent of S.H.I.E.L.D. alongside Coulson. Marcus also learned that his legal name was Nick Fury Jr., and adopted it as well.{{r|Battle Scars Vol 1 5}} Fury quickly rose to the ranks of S.H.I.E.L.D., and became an agent for the organization's own [[Secret Avengers (S.H.I.E.L.D.) (Earth-616)|Secret Avengers]] team together with Coulson.{{r|Secret Avengers Vol 2 1}} When [[Daisy Johnson (Earth-616)|Daisy Johnson]] was ousted as director of S.H.I.E.L.D. and [[Maria Hill (Earth-616)|Maria Hill]] took her place, Fury became her right-hand man.{{r|Avengers NOW! Vol 1 1}}
+
+[[File:Secret Avengers Vol 2 1 Quesada Variant Textless.jpg|thumb|right]]
+
+In the middle of the [[Civil War II|second superhuman civil war]], Fury Jr. was sent in a mission to neutralize a [[Hydra (Earth-616)|Hydra]] cell posing as S.H.I.E.L.D. agents. According to a prediction from the [[Inhumans (Inhomo supremis)|Inhuman]] profiler [[Ulysses Cain (Earth-616)|Ulysses Cain]], the success of the cell's attack on S.H.I.E.L.D. could prove to be fatal. On his way to a base in [[Arizona (State)|Arizona]], Fury was attacked by fellow soldiers, who turned out to be actual agents loyal to S.H.I.E.L.D. instead of Hydra infiltrators as suspected. In order to find the source of the traitors, who claimed that Fury had to die to ensure S.H.I.E.L.D.'s survival, Nick decided to fake his death and slip under the radar.{{r|Civil War II: Choosing Sides Vol 1 1}} Fury interrogated dirty S.H.I.E.L.D. benefactor [[Elton Blake (Earth-616)|Elton Blake]] and was directed to an abandoned S.H.I.E.L.D. base named [[Ulu]] in [[Alaska (State)|Alaska]].{{r|Civil War II: Choosing Sides Vol 1 2}} Once there, Fury tried to corner the mastermind, but he was caught off guard by his speed, resulting in the villain making a escape.{{r|Civil War II: Choosing Sides Vol 1 3}} Fury subsequently infiltrated base [[Ogma (S.H.I.E.L.D. Base)|Ogma]] and downloaded vast amounts of classified data to track down the mastermind, evading [[Natalia Romanova (Earth-616)|Black Widow]] in the process.{{r|Civil War II: Choosing Sides Vol 1 4}}
+
+His investigation led Fury to the [[Kratos (S.H.I.E.L.D. Base)|Kratos]] underground base, where the [[Nicholas Fury (Leader) (Earth-616)|Leader]] was revealed to be a rogue [[Life-Model Decoy]] of his father. The LMD revealed that Ulysses' prediction didn't involve a Hydra cell, but that Nick Fury's next mission was going to cost him his life, but not taking part on it would've resulted in S.H.I.E.L.D.'s destruction. The Leader had learned of the prediction and wanted to take Fury Jr. out of the picture to push forward his plan to take over S.H.I.E.L.D. and reinvent it. In order to stop the Leader and his plans, Fury destroyed the main support beam of the base, causing it to give in, even at the risk of his own life.{{r|Civil War II: Choosing Sides Vol 1 5}} Fury survived the collapse and retrieved the head of the destroyed LMD to hack into it and learn how did it pull off his plan. Nick forgave Maria Hill for having sent him on a mission that involved his potential death, acknowledging it was her responsibility as director to ensure S.H.I.E.L.D.'s survival, but didn't brush off that he wasn't told about it. Because of this, Fury decided to postpone his return to S.H.I.E.L.D.{{r|Civil War II: Choosing Sides Vol 1 6}} When he returned to the organization, Fury found himself on a top secret mission infiltrating the French Riviera, a high end casino. There he faced off in a deadly game of cat and mouse against Hydra agent [[Frankie Noble (Earth-616)|Frankie Noble]].{{r|Nick Fury Vol 1 1}}
+
+Following the dissolution of S.H.I.E.L.D., Fury broke off on his own and continued helping protect the world from threats from the shadows.{{r|Iron Man Annual Vol 3 1}} When he became aware of the resurgence of the [[Infinity Stones]],{{r|Captain America Annual Vol 3 1}} Fury unwittingly got in the way of [[Kyle Richmond (Mephisto's Simulacrum) (Earth-616)|Nighthawk]]'s own plan to gather them all.{{r|Black Cat Annual Vol 2 1}} Nighthawk captured Fury and brainwashed him to turn him to his side and join his mission to restore the universe to [[Earth-TRN852|its version]] in which the [[Squadron Supreme of America (Earth-616)|Squadron Supreme]] where the world's champions.{{r|Amazing Spider-Man Annual Vol 4 2}} Fury helped Nighthawk steal a [[Cosmic Cube]] shard to power a scanner to find the Infinity Stones, and Nighthawk offered him the mantle of the Falcon, who was his sidekick in the alternate reality.{{r|Guardians of the Galaxy Annual Vol 4 1}} A fail-safe eventually triggered inside Fury's brain, and his brain rebooted itself. Pretending to still be under Nighthawk's sway, Fury accompanied him as the Falcon to capture the host of the [[Reality Stone]], [[Ripley Ryan (Earth-616)|Star]]. After she was taken down, Nick attacked Nighthawk,{{r|Miles Morales: Spider-Man Annual Vol 1 1}} which drove him away. Realizing that the Infinity Stones were an imminent threat, Fury placed Star in stasis and intended to do the same with the hosts of the remaining gems.{{r|Avengers Annual Vol 5 1}}
+
+| Powers                  = '''[[Infinity Formula|Infinity Formula Inheritance]]:''' Nick Fury, Jr. Was born with the Infinity Formula in his blood, which grants him limited immortality, as well as peak human physical ability.{{r|Battle Scars Vol 1 5}}
+* '''Peak Human Condition:''' Through the effects of the Infinity Formula, is marginally stronger, faster and resilient than other humans,{{r|Battle Scars Vol 1 5}} bringing his abilities to the peak of human potential.{{r|Avengers NOW! Vol 1 1}}
+** '''Peak Human Strength:''' Nick's strength is at the peak of human potential and shown to be stronger than an average human being. Through the use of his special battlesuit, Fury's strength is further enhanced to the point he is able to severely damage a LMD with his bare hands, and destroy a support pillar of a S.H.I.E.L.D. base with a single kick.{{r|Civil War II: Choosing Sides Vol 1 5}}
+** '''Peak Human Durability:''' He is also more resilient to physical and mental trauma than normal humans. He can survive hits from beings with superhuman strength and stand still on his feet.{{r|Battle Scars Vol 1 5}}
+
+| Abilities               = '''Expert Combatant:''' Fury is a combat veteran with extensive combat training as part of the US Army Rangers. He is also a superb athlete and hand-to-hand combatant.{{r|Avengers NOW! Vol 1 1}}
+| Strength                = Fury possesses peak human strength, which is further enhanced by wearing his special battlesuit.
+| Weaknesses              = 
+
+| Equipment               = '''Battlesuit:''' Fury possesses a special black battle uniform with two special functions. A stealth mode which renders him invisible to all forms of surveillance,{{r|Civil War II: Choosing Sides Vol 1 1}} and a "Kill Mode" which injects adrenaline and beta blockers into his bloodstream, further enhancing his strength, speed and accuracy{{r|Civil War II: Choosing Sides Vol 1 3}} for a limited time before the strain becomes too much.{{r|Civil War II: Choosing Sides Vol 1 2}} The suit features white highlights that turn black in stealth mode and red in "Kill Mode."{{r|Civil War II: Choosing Sides Vol 1 1}}
+
+'''[[Falcon's Wings]]'''{{r|Miles Morales: Spider-Man Annual #1}}
+| Transportation          = 
+| Weapons                 = Various high-powered firearms
+
+| Notes                   = 
+| Trivia                  = * The main reason for the creation of this character was the increasing popularity of the [[Nicholas Fury (Earth-199999)|Marvel Cinematic Universe version of Nick Fury]], based on the [[Nicholas Fury (Earth-1610)|Ultimate version of Nick Fury]], the main difference with the original [[Nicholas Fury (Earth-616)|Nick Fury]] being the ethnicity.
+** Due to this, [[Tom Brevoort]], Marvel's Vice President, believed it to be a prudent move by Marvel due to the African-American Nick Fury that appears in films, animated shows, and other licensed adaptations.<ref>{{cite web|url= http://www.newsarama.com/comics/tom-brevoort-nick-fury-agent-coulson.html|title= Brevoort on Bringing MARVEL Comics Closer to MARVEL Movies|accessdate= 2017-04-04|last= Ching|first= Albert|date= 2012-04-26|work= Newsarama|archiveurl= https://archive.is/qh9fE|archivedate=2017-04-04}}</ref>
+* Decades before this character's introduction, Marvel Comics drafted in 1981 the idea for a comic series called ''Fury Force'' which starred Nick Fury's son and namesake. Most of the elements of this series transitioned into the licensed property comic ''[[G.I. Joe: A Real American Hero Vol 1|G.I. Joe: A Real American Hero]]''.{{r|{{cite web|url=https://www.cbr.com/gi-joe-nick-fury-force-larry-hama/|title=Now a Nick Fury Team Became G.I. Joe: A Real American Hero Instead|work=CBR.com|first=Brian|last=Cronin|date=30 September 2018|accessdate=30 September 2018}}}}
+| Marvel                  = nick-fury-jr
+| Wikipedia               = Nick Fury Jr.
+| Links                   = 
+}}
+[[es:Nicholas Fury, Jr. (Tierra-616)]]
+[[Category:Shattered Heroes]]
+[[Category:Fury Family]]
+[[Category:Espionage]]
+[[Category:Intelligence Agents]]
+[[Category:Weapons Expert]]
+[[Category:Advanced Longevity]]
+[[Category:Multilingual]]
+[[Category:Military Personnel]]
+[[Category:Scarred]]
+[[Category:Acrobats]]
+[[Category:Legally Deceased]]
+[[Category:Iraq War Characters]]
+[[Category:Content Adapted from Other Media]]

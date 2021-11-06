@@ -1,0 +1,78 @@
+{{Marvel Database:Character Template
+| Image                   = James Darnell (Earth-616) from Amazing Spider-Man Vol 5 75 001.jpg
+| Name                    = James "Jimmy" Darnell
+| CurrentAlias            = X-Ray
+| Aliases                 = 
+
+| Affiliation             = {{m|U-Foes}}, {{m|Alpha Flight (Space Program)|Alpha Flight Space Program}}; formerly {{m|Army of Evil (Earth-616)|Army of Evil}}, ([[North Carolina (State)|North Carolina]] {{m|50-State Initiative (Earth-616)|Initiative}}/{{m|Hood's Gang (Earth-616)|Hood's Gang}}), {{m|Thunderbolts}}
+| Siblings                = [[Ann Darnell (Earth-616)|Ann Darnell]] (sister)
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 5'9"
+| Weight                  = Weightless (as X-Ray), 195 lbs (as Darnell)
+| Eyes                    = White
+| Hair                    = No Hair
+| UnusualFeatures         = [[:Category:Energy Form|Energy Form]][[Category:Energy Form]]. Made of pure X-Ray radiation and with white eyes and no hair as X-Ray
+
+| Origin                  = [[Homo sapiens|Human]] [[Glossary:Mutate|mutated]] from cosmic ray exposure
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Criminal; former Fuel Propulsion Engineer
+| Education               = Master of Science Degree in Engineering
+| BaseOfOperations        = 
+
+| Creators                = Bill Mantlo; Sal Buscema
+| First                   = Incredible Hulk #254
+
+| History                 = 
+Jimmy Darnell was part of a team organized by [[Simon Utrecht (Earth-616)|Simon Utrecht]] a millionaire, public official, and industrialist who wanted to simulate the crash that led to the powers of the Fantastic Four. He promised each member of the team superpowers due to exposure (although intentional, not accidental) to cosmic radiation. During this launch, Dr. Bruce Banner (known as the [[Bruce Banner (Earth-616)|Hulk]]) was on hand at the base, and believing the ship to be having problems, guided it back to Earth. The now-changed humans called themselves the [[U-Foes (Earth-616)|U-Foes]] (possible in connection with Utrecht's last name) and blamed Banner for cutting short their radiation exposure.{{Citation}}
+
+They again battled the Hulk and this time defeated him. In triumph, they exhibited the captive Bruce Banner on national television. However, Banner was freed by [[Richard Jones (Earth-616)|Rick Jones]], [[Elizabeth Ross (Earth-616)|Betty Ross]], and the alien [[Bereet (Earth-616)|Bereet]], and Banner transformed into the Hulk and defeated the U-Foes.{{r|Incredible Hulk #275|277}}
+
+===Civil War/Initiative===
+Along with the other U-Foes, he joined Thunderbolts Army and after the [[Civil War (Event)|Civil Ear]]. James was among the 142 registered superhuman who registered as part of the [[Initiative (Event)|The Initiative]].{{r|Avengers: The Initiative #1}}<ref>[http://www.marvel.com/news/comicstories.947 ''Avengers: The Initiative'' #1 Character Map]</ref>
+
+===Hood===
+Though a registered hero, X-Ray later joined the [[Parker Robbins (Earth-616)|Hood]]'s criminal organization who planned to take advantage of the split in the superhero community caused by the Superhuman Registration Act. During the [[Secret Invasion|Skrull Invasion]], he was among the many supervillains who rejoined the [[Hood's Gang (Earth-616)|Hood's Gang]] and attacked an invading [[Skrull Empire|Skrull]] force.{{r|Secret Invasion #7}}
+
+===War of Kings: Darkhawk===
+When a Skrull booby trap went off in [[Project Pegasus|Project P.E.G.A.S.U.S.]], he was one of the two U-Foes who were attempting to escape and was dealt with by [[Richard Rider (Earth-616)|Nova]].{{r|War of Kings: Darkhawk #1}}
+
+| Powers                  = 
+X-Ray's body has been bombarded with cosmic rays far greater then that of [[Human Torch]], since then he has received another dose at edge of earth's atmosphere, X-Ray achieved better control over his powers.
+
+'''Radiated Form:''' X-Ray has been permanently transformed into a living energy field of quasi-solid radiation. He can't return to human form. Like his sister, he is intangible and mostly invulnerable to physical harm, although he can still be harmed by attacks that damage or disrupt his energy fields, such as a lead pipe used by the Hulk, or the vibranium in Captain America's shield. He can also be defeated if he is drained of his supply of radiation, as Thor once did with Mjolnir.
+
+* '''Radiated Form Manipulation:''' X-Ray can transform and emit any and all forms of radiation in the electromagnetic spectrum.
+
+* '''Radiation Projection:''' He can project hard radiation as devastating blasts from his hands and emit various wavelengths of heavy radiation from is body. He can focus it in the form of very potent concussive force blasts, shown capable of hurting even the Hulk, or 'negative gamma rays' that can transform the Hulk back into Bruce Banner (which has since become ineffective to the Hulk).
+
+* '''Flight:''' He is capable of flight at unknown speeds.
+
+* '''Invisibility:''' X-Ray can become invisible.
+
+| Abilities               =  Jimmy Darnell has a Master's degree in engineering. Fuel Propulsion Engineer.
+| Strength                = X-Ray possesses the normal human strength of a man of his age, height, and build who engages in moderate regular exercise. 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Wikipedia               = X-Ray (comics)
+| Links                   = * Unofficial Handbook of the Marvel Universe
+}}
+[[Category:Flight]]
+[[Category:Radioactive]]
+[[Category:Energy Manipulation]]
+[[Category:Energy Form]]
+[[Category:Invisibility]]
+[[Category:Intangibility]]
+[[Category:Inventors]]
+[[Category:Plasma Generation]]

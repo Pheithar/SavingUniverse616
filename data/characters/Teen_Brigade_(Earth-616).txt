@@ -1,0 +1,47 @@
+{{Marvel Database:Team Template
+| Image                   = Immortal Hulk Vol 1 28 Textless.jpg
+| ImageSize               = 250px
+| Name                    = Teen Brigade
+| Aliases                 = 
+
+| Status                  = Active
+| Identity                = Secret
+
+| Reality                 = Earth-616
+| BaseOfOperations        = Mobile
+
+| Leaders                 = [[Ultimate Nullifier (Teen Brigade) (Earth-616)|Ultimate Nullifier]], formerly [[Richard Jones (Earth-616)|Rick Jones]]
+| CurrentMembers          = [[Barnell Bohusk (Earth-616)|Barnell Bohusk]], [[Angel Salvadore (Earth-616)|Angel Salvadore]], [[Ultimate Nullifier (Teen Brigade) (Earth-616)|Ultimate Nullifier]]
+| FormerMembers           = [[America Chavez (Earth-616)|Miss America]], [[In-Betweener (Earth-616)|In-Betweener]]<br>[[Richard Jones (Earth-616)|Rick Jones]], [[Character Index/L#Les|Les]], [[Michael Armstrong (Earth-616)|Mike Armstrong]], [[Bill Bishop (Earth-616)|Bill Bishop]], [[Sam Casey (Earth-616)|Sam Casey]], [[Tom Smith (Earth-616)|Tom Smith]], Buddy, [[Character Index/T#Ted|Ted]], [[Character Index/W#Willie|Willie]], [[Character Index/C#Charlie|Charlie]], [[Specs (Teen Brigade) (Earth-616)|Specs]] {{r|Incredible Hulk Vol 1 264}}, [[Wheels (Teen Brigade) (Earth-616)|Wheels]]{{r|Incredible Hulk Vol 1 264}}, [[Rider (Teen Brigade) (Earth-616)|Rider]]{{r|Incredible Hulk Vol 1 264}}, [[Candy Barr (Earth-616)|Candy Barr]] {{r|Incredible Hulk Vol 1 264}}, [[Keith Wilson (Earth-616)|Keith Wilson]]{{r|Captain America Goes to War Against Drugs Vol 1 1}}
+
+| Allies                  = [[Sugar Kane (Earth-616)|Sugar Kane]], [[Miranda Leevald (Earth-616)|Stacy-X]], [[Jack Truman (Earth-616)|Jack Truman]];<br>Formerly [[Bruce Banner (Earth-616)|Hulk]], [[Avengers (Earth-616)|the Avengers]], [[Steven Rogers (Earth-616)|Captain America]]
+| Enemies                 = [[Young Masters (Earth-616)|Young Masters]], Braak'nhüd <br>[[Molyb (Earth-616)|Metal Master]], [[Heinrich Zemo (Earth-616)|Baron Zemo]]'s [[Masters of Evil (Earth-616)|Masters of Evil]]{{r|Avengers Vol 1 6}}, [[Nathaniel Richards (Kang) (Earth-6311)|Kang the Conqueror]], [[Nathaniel Richards (Immortus) (Earth-6311)|Immortus]]; Formerly [[Max Eisenhardt (Earth-616)|Magneto]]
+
+| Origin                  = Team of young heroes and volunteers led by [[Richard Jones (Earth-616)|Rick Jones]]. Later reformed by [[Ultimate Nullifier (Teen Brigade) (Earth-616)|Ultimate Nullifier]].
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Stan Lee; Steve Ditko
+| First                   = Incredible Hulk Vol 1 6
+| Last                    = 
+
+| HistoryText             = The Teen Brigade was a team of teenagers coordinated by [[Richard Jones (Earth-616)|Rick Jones]] during the time he was the [[Bruce Banner (Earth-616)|Hulk]]'s and later [[Steven Rogers (Earth-616)|Captain America]]'s sidekick. They first banded together to help the [[Bruce Banner (Earth-616)|Hulk]] defend earth against the [[Molyb (Earth-616)|Metal Master]].{{r|Incredible Hulk Vol 1 6}} Their original job was to transmit messages to the heroes about current villains or situations that arose.
+
+When [[Loki Laufeyson (Earth-616)|Loki]]'s manipulations made the Hulk seem to be a public menace, the Teen Brigade tried calling several of Earth's heroes to help, amongst them the [[Fantastic Four (Earth-616)|Fantastic Four]]. Instead, [[Anthony Stark (Earth-616)|Iron Man]], [[Thor Odinson (Earth-616)|Thor]], [[Henry Pym (Earth-616)|Ant-Man]] and [[Janet Van Dyne (Earth-616)|the Wasp]] responded, leading to the founding of [[Avengers (Earth-616)|the Avengers]].{{r|Avengers Vol 1 1}}
+
+They became regular allies and informants to the Avengers and were in close contact. After he was awakened from his suspension in ice, [[Steven Rogers (Earth-616)|Captain America]] showed the acrobatic tricks and offered to teach them self-defence moves.{{r|Avengers Vol 1 #5}} They assisted the Avengers during their fight with [[Heinrich Zemo (Earth-616)|Baron Zemo]] and his [[Masters of Evil (Earth-616)|Masters of Evil]],{{r|Avengers Vol 1 #6}} as well as in their fight against [[Nathaniel Richards (Kang) (Earth-6311)|Kang the Conqueror]], infiltrating his ship and freeing the trapped Avengers.{{r|Avengers Vol 1 #8}} They also helped to do research to find a cure for [[Simon Williams (Earth-616)|Wonder Man]]'s illness.{{r|Avengers Vol 1 #9}} One of their members, [[Bill Bishop (Earth-616)|Bill]], inadvertently helped lure the Avengers into a trap when he showed Rick Jones an ad in a newspaper (placed by [[Nathaniel Richards (Immortus) (Earth-6311)|Immortus]]) promising superpowers, which resulted in Rick being held hostage by Immortus.{{r|Avengers Vol 1 #10}}
+
+<!-- ===Vengeance===
+A new version of the Brigade later surfaced. [[Jack Truman (Earth-616)|Jack Truman]] fed them intel.{{Citation}} Partying at a nightclub with [[Miranda Leevald (Earth-616)|Stacy-X]] and [[Sugar Kane (Earth-616)|Sugar Kane]], the Ultimate Nullifier came into conflict with [[Max Eisenhardt (Earth-616)|Magneto]]. Magneto had come to see Stacy-X, disappointed in her behaviour.{{Citation}}
+
+Meanwhile, Miss America broke into [[Area 51]] having been fed info by Barnell Bohusk and Angel Salvadore. She discovered the In-Betweener. Rescuing him, she was assaulted by the extra-dimensional demons known as the Braak'nhüd.{{Citation}} They later battled the [[Young Masters (Earth-616)|Young Master]] on several occasions who were intending to kill the "old guard", with a final battle in [[Latveria]], and also banished Braak'nhüd once again.{{Citation}}
+
+Miss America later mentioned that she left the Teen Brigade after having what she called "creative differences."{{Citation}} -->
+
+| Equipment               = Teen Brigade utilizes the most cutting-edge communication technologies. Due to the [[Glossary:Sliding Timescale|Sliding Timescale]], this type of communications equipment varies from reference to reference (''See [[Teen_Brigade_(Earth-616)#Notes|Notes]] for more details''
+| Transportation          = 
+| Weapons                 = 
+| Notes                   = When the Teen Brigade was first introduced in {{cl|Incredible Hulk #6}} and in the majority of their appearances in the 1960s, their chosen method of communication was ham radios. As per the [[Glossary:Sliding Timescale|Sliding Timescale]] of [[Earth-616]], the method of communication used by the Teen Brigade should be considered a topical reference in context to the date the story was originally published. For example, while {{cl|Avengers #1}} shows the Teen Brigade using ham radios in the story, {{cl|Avengers: The Origin #1}} shows Teen Brigade using the internet and encrypted digital messages.
+
+| Trivia                  = 
+| Links                   = * [http://www.marvunapp.com/Appendix3/teenbrigade.htm Teen Brigade at the Marvel Appendix]
+}}

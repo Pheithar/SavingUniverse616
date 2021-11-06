@@ -1,0 +1,48 @@
+{{Marvel Database:Character Template
+| Image                   = Yuki (Earth-616) from Shadowland Daughters of the Shadow Vol 1 1 0001.jpg
+| Name                    = 
+| CurrentAlias            = Yuki
+| Aliases                 = 
+
+| Affiliation             = {{M|Nail (Earth-616)|The Nail}}, {{M|Hand (Earth-616)|The Hand}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = Japanese
+| Occupation              = Assassin
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Jason Henderson; Ivan Rodriguez
+| First                   = Shadowland: Daughters of the Shadow #1 
+
+| History                 = Yuki as a member of [[Nail (Earth-616)|The Nail]], descendants of the five women ninjas that served the [[Hand (Earth-616)|Hand]] as an elite strike team for a thousand years.{{r|Shadowland: Daughters of the Shadow #1}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = Yuki was named after the [[Japan]]ese snow goddess [[Yuki (Deity) (Earth-616)|Yuki]].{{r|Shadowland: Daughters of the Shadow #2}}
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

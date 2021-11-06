@@ -1,0 +1,62 @@
+{{Marvel Database:Character Template
+| Image                   = Reynard Slinker (Earth-616) from Strange Tales Annual Vol 1 2 001.jpg
+| Name                    = Reynard Slinker
+| CurrentAlias            = [[Fox]]
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #4}}
+| Gender                  = Male
+| Height                  = 5'3"
+| Weight                  = 165 lbs
+| Eyes                    = Blue
+| Hair                    = Auburn
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Criminal
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Stan Lee; Jack Kirby
+| First                   = Strange Tales Annual Vol 1 2
+
+| History                 = Reynard Slinker, alias the Fox, stole a Da Vinci painting and framed [[Peter Parker (Earth-616)|Spider-Man]] for the crime. He was captured when Spider-Man and the [[Jonathan Storm (Earth-616)|Human Torch]] teamed up to capture him. The painting was recovered and returned to the museum. {{r|Strange Tales Annual Vol 1 2}}
+<br/>
+
+He returned years later, a bitter ex-con who no longer had the respect of his peers, and was unable to keep up with the current security technology, meaning he was no longer a 'master thief'. He attempted to get revenge on Spider-Man and the Human Torch for ruining his life, setting a trap for the two heroes. The trap did not work, however, and Spidey and the Torch dragged a humiliated Reynard back to prison. {{r|Spider-Man Unlimited Vol 1 5}}
+
+| Powers                  = 
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * [http://www.marvunapp.com/Appendix/fox.htm Fox at the Marvel Appendix]
+}}
+[[it:Reynard Slinker (Terra-616)]]

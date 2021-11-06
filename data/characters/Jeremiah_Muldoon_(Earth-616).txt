@@ -1,0 +1,77 @@
+{{Marvel Database:Character Template
+| Image                   = Jeremiah Muldoon (Earth-616) from Sentinel Squad ONE Vol 1 3 001.jpg
+| Name                    = Jeremiah Muldoon
+| CurrentAlias            = Meld
+| Aliases                 = 
+
+| Affiliation             = Formerly {{M|Sentinel Squad O*N*E}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Black
+| Hair                    = Bald
+| UnusualSkinColor        = Green
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = [[Utopia (X-Men Base)|Utopia]]
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Sentinel Pilot
+| Education               = 
+| BaseOfOperations        = [[Utopia (X-Men Base)|Utopia]]; formerly Gigante Dolor, [[Ecuador]]
+
+| Creators                = John Layman; Aaron Lopresti
+| First                   = Sentinel Squad O*N*E #1
+| Death                   = X-Force Vol 3 #23
+
+| History                 = 
+===Sentinel Squad O*N*E*===
+Meld was found abandoned at a military base. He was raised by a couple on the base and entered into military service. However, due to being a mutant he was never really accepted and moved from assignment to assignment until becoming part of the Sentinel Squad. 
+
+He learned [[Alexander Lexington (Earth-616)|Alexander Lexington]] was a mutant, but kept it a secret.{{r|Sentinel Squad O*N*E #1}} He even claimed that he had tampered with Lex's Sentinel{{r|Sentinel Squad O*N*E #3}} when Lexington was forced to use his powers during a mission.{{r|Sentinel Squad O*N*E #2}} 
+
+During the mission to Ecuador, Meld volunteered to stay behind to look after some mutant children. The rest of the team faked his death.{{r|Sentinel Squad O*N*E #5}} 
+
+===Post M-Day and San Francisco===
+Meld was one of the few mutants to keep his powers after [[M-Day]].
+
+After he moved to [[San Francisco]] Meld was among the gang formed by [[Dominikos Petrakis (Earth-616)|Avalanche]], [[Julian Keller (Earth-616)|Hellion]], and other mutants during the riots.{{r|Uncanny X-Men #513}} They were captured by [[Norman Osborn (Earth-616)|Osborn]]'s [[X-Men (Osborn) (Earth-616)|X-Men]].{{r|Dark Avengers #7}} 
+
+[[File:X-Force_Vol_3_23_page_07_Jeremiah_Muldoon_(Earth-616).jpg|thumb|left|Death]]
+
+===Utopia and Death===
+Meld later reappeared on [[Utopia (X-Men Base)|Utopia]] with the [[X-Men (Earth-616)|X-Men]].{{r|Dark Avengers #8}} However, [[Selene Gallio (Earth-616)|Selene]]'s forces during the [[Necrosha]] event invaded the island and Meld was strangled and killed at the hands of [[Suvik Senyaka (Earth-616)|Senyaka]].{{r|X-Force Vol 3 #23}}
+
+| Powers                  = '''Metal Manipulation:''' Meld is a [[Homo superior|mutant]] able to alter metallic structures on contact. A non-magnetic ability, Meld's power is in fact a highly selective form of molecular manipulation. He is able to affect not only the metal he touches directly, but all metal uniformly connected to what he's in contact with. Thus, he could make things happen further down a corridor by touching a metal wall or floor in a facility, and focus his power through the structure of his Sentinel mech while piloting it. 
+
+Meld could liquefy metals, reducing them to a fluid state as a means of disabling weapons, dissolving bonds, or gaining entrance through locked doors or reinforced armored walls. He could then fully restore said walls or structures to their original condition after passing through them. Meld could reshape metal structures into new forms on command, creating anything he could visualize. His power could be used for technoforming effects, psionically merging and reconfiguring circuitry to create newly operational forms of technology, especially if he had a scientific mind like Professor Winston guiding his hand in the matter.
+
+When piloting a Sentinel mech, he could conduct his power through the armor in order to alter metals that touched his suit, or make them stick to him like flypaper and assimilate that new metal into his mech for additional armor plating or armaments. 
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Post-M-Day Mutants (The 198)]]
+[[Category:Matter Manipulation]]
+[[Category:Utopians]]
+[[Category:Necrosha casualties]]
+[[Category:Sentinels Pilots]]

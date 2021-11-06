@@ -1,0 +1,57 @@
+{{Marvel Database:Character Template
+| Image                   = James Madrox (S.H.I.E.L.D. Agent) (Earth-616) from X-Factor Vol 3 8 001.jpg
+| Name                    = [[James Madrox|James Arthur Madrox]]
+| CurrentAlias            = [[Agent Madrox]]
+| Aliases                 = [[Agent of S.H.I.E.L.D.]],{{r|X-Factor Vol 3 8}} [[Jamie Madrox]]{{r|X-Factor Vol 3 8}}
+
+| Affiliation             = {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}
+| Relatives               = 
+[[Joan Madrox (Earth-616)|Joan Madrox]] ("mother");<br>
+[[Daniel Madrox (Earth-616)|Daniel Madrox]] ("father");<br>
+[[James Madrox (Earth-616)|Jamie Madrox]] (source);<br>
+[[John Maddox (Earth-616)|John Maddox]], [[James Madrox (Cortex) (Earth-616)|Cortex]], [[Sean Madrox (Earth-616)|Sean Madrox]], [[James Madrox (The X-Factor) (Earth-616)|The X-Factor]], [[James Madrox (Matt Rocks) (Earth-616)|Matt Rocks]], [[James Madrox (Fallen Angels) (Earth-616)|Fallen Angels' James Madrox]] (fellow duplicates);<br>
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 5' 11"
+| Weight                  = 155 lbs.
+| Eyes                    = Green
+| Hair                    = Brown
+
+| Origin                  = [[Homo superior|Mutant]] [[James Madrox (Earth-616)|Duplicate]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = S.H.I.E.L.D. Agent
+| Education               = Special S.H.I.E.L.D. Training
+| BaseOfOperations        = [[S.H.I.E.L.D. Helicarrier]]
+
+| Creators                = Peter David
+| First                   = X-Factor Vol 3 #8
+
+| History                 = Agent Madrox was a duplicate of [[James Madrox (Earth-616)|Madrox Prime]], originally sent out to study espionage. He made contact with [[Valerie Cooper (Earth-616)|Val Cooper]], who set him up with her connections at [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]].{{r|X-Factor Vol 3 #8}}
+
+Agent Madrox continued to work for S.H.I.E.L.D. instead of returning to Madrox Prime for reabsorption and was a strong supporter of the [[Superhuman Registration Act]]. Agent Madrox eventually returned to [[X-Factor Investigations (Earth-616)|X-Factor Investigations]] and convinced [[Julio Richter (Earth-616)|Rictor]] and [[Monet St. Croix (Earth-616)|M]] to sign up under the SHRA.{{r|X-Factor Vol 3 8}}
+
+He also freed and armed the [[Adrian Toomes (Earth-616)|Vulture]] to go after [[Peter Parker (Earth-616)|Spider-Man]] once he stopped supporting the Registration Act. Vulture had a stroke during their fight and Madrox failed to apprehend Spider-Man when he visited him in the hospital.{{r|Friendly Neighborhood Spider-Man Vol 1 14|16}}
+
+Agent Madrox was among the team that raided a secret [[Hydra (Earth-616)|Hydra]] base, but all they found were several dead Hydra agents and Madrox Prime. Before Agent Madrox knew what was happening, Madrox Prime was able to reabsorb him.{{r|X-Factor Vol 3 #15}}
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+| Equipment               =
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = * Agent Madrox preferred the term "co-original" over "duplicate".{{r|X-Factor Vol 3 #8}}
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Dupes]]
+[[Category:Madrox Family]]

@@ -1,0 +1,45 @@
+{{Marvel Database:Team Template
+| Image                   = Squadron Supreme Vol 4 5 Textless.jpg
+| ImageSize               = 250px
+| Name                    = [[Squadron Supreme]]
+| EditorialNames          = 
+| Aliases                 = 
+
+| Status                  = Defunct
+| Identity                = Public
+| Reality                 = Earth-616
+| BaseOfOperations        = Formerly [[Atlantean Garrison]]
+
+| Leaders                 = Formerly [[Kyle Richmond (Earth-31916)|Nighthawk]]
+| CurrentMembers          = 
+| FormerMembers           = [[Jeffrey Walters (Earth-148611)|Blur]], [[Doctor Spectrum (Nenet) (Earth-4290001)|Doctor Spectrum]], [[Marcus Milton (Earth-13034)|Hyperion]], [[Kyle Richmond (Earth-31916)|Nighthawk]], [[Thundra (Earth-715)|Thundra]], [[Zarda Shelton (Earth-21195)|Warrior Woman]]
+| Allies                  = [[Tyndall (Weirdworld)|Tyndall]], [[Arkon (Earth-616)|Arkon]], [[Crystar (Earth-616)|Crystar and the Crystal Warriors]], [[James Scully (Earth-616)|Skull the Slayer]], [[Zarda Shelton (Earth-712)|Zarda Shelton]], [[Namor McKenzie (Earth-616)|Namor]]
+| Enemies                 = [[Namor McKenzie (Earth-616)|Namor]], [[Attuma (Earth-616)|Attuma]], [[Atlanteans]], [[Avengers Unity Division (Earth-616)|Avengers Unity Division]], [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]], [[Zarda Shelton (Earth-21195)|Warrior Woman]], [[Anthony Druid (Earth-616)|Doctor Druid]], [[Hydra (Earth-616)|Hydra]], [[Maggia (Earth-616)|Maggia]], [[Roxxon Energy Corporation (Earth-616)|Roxxon]], Myriad
+
+| Origin                  = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = James Robinson; Leonard Kirk
+| First                   = Avengers Vol 6 0
+| Last                    = Squadron Supreme Vol 4 15
+
+| Quotation               = Agreed, however... if we must overcome one group or every group of Avengers, I'm convinced we have the power, the commitment and the resilience... so that our Squadron will stand Supreme.
+| Speaker                 = [[Kyle Richmond (Earth-31916)|Nighthawk (Kyle Richmond)]]
+| QuoteSource             = Avengers Vol 6 0
+
+| HistoryText             = The Squadron Supreme was formed by members of various superhuman groups from different realities, all of whom had lost their own world because of the [[Glossary:Incursion|incursions]]. They all found themselves on [[Earth-616]], and decided to band together to protect their new home at any cost.{{r|Avengers Vol 6 0}}
+
+===[[All-New, All-Different Marvel]]===
+Their first mission was to punish [[Namor McKenzie (Earth-616)|Namor]] for destroying [[Doctor Spectrum (Earth-4290001)|Doctor Spectrum]]'s [[Earth-4290001|world]] and cooperating with the [[Cabal (Namor's) (Earth-616)|Cabal]], as well as numerous attacks upon the surface world. They rationalised this by claiming that Namor and Atlantis were a threat to the rest of the world. They eventually confront him, along with [[Attuma (Earth-616)|Attuma]] and the rest of [[Atlantis (Modern)|Atlantis]]. [[Zarda Shelton (Earth-21195)|Zarda]] killed Attuma, while [[Marcus Milton (Earth-13034)|Hyperion]] yanked the city of Atlantis from the [[Atlantic Ocean|ocean]], lifted it high into the air, and hurled it down, utterly destroying it. Hyperion proceeded to decapitate Namor with his Atomic Vision.{{r|Squadron Supreme Vol 4 1}} These events led to the people of [[Earth]] having mixed reactions about them, and forcing the [[Avengers Unity Division (Earth-616)|Avengers Unity Division]] to attempt to apprehend the Squadron Supreme;{{r|Squadron Supreme Vol 4 2}} however, they were unexpectedly rescued by [[Thundra (Earth-715)|Thundra]] and teleported to [[Weirdworld (Battleworld)|Weirdworld]].{{r|Squadron Supreme Vol 4 3}} When on Weirdworld, the Squadron Supreme were separated where they end up encountering a resurrected [[Anthony Druid (Earth-616)|Doctor Druid]].{{r|Squadron Supreme Vol 4 4}}
+
+Doctor Druid had taken over Weirdworld through the use of a crystal that allowed him to control the minds of everyone on Weirdworld. The Squadron, with the help of Thundra, managed to destroy the mission and return home. During the mission, Power-Princess revealed her true identity to be [[Zarda Shelton (Earth-21195)|Warrior Woman]], formerly a member of the [[Squadron Sinister (Earth-21195)|Squadron Sinister]]. Warrior Woman had allied with Doctor Druid, and when he was defeated, fled, leaving the group. They were instead joined by [[Thundra]], who decided to accompany them back to Earth, not sure if she needed to help the Squadron protect the world or protect the world from the Squadron.{{r|Squadron Supreme Vol 4 5}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Vigilantes]]

@@ -1,0 +1,68 @@
+{{Marvel Database:Character Template
+| Title                   = [[Abomination|Teen Abomination]]
+| Image                   = Jamie Carlson (Earth-616).jpg
+| Name                    = Jamie Carlson
+| CurrentAlias            = [[Abomination|Teen Abomination]]
+| Aliases                 = 
+
+| Affiliation             = Formerly {{m|Howling Commandos (S.H.I.E.L.D.) (Earth-616)|Howling Commandos (S.H.I.E.L.D.)}}, {{m|Special Threat Assessment for Known Extranormalities (Earth-616)|S.T.A.K.E.}}, {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}
+| Parents                 = [[Katrina Carlson (Earth-616)|Katrina Carlson]] (mother);<br>[[Harold Hogan (Earth-616)|Happy Hogan]] (father, deceased);<br>[[Virginia Potts (Earth-616)|Pepper Potts]] (step-mother)
+| MaritalStatus           = Single
+
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Yellow
+| Hair                    = Green
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] [[Gamma Mutate]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = [[Alcatraz Island|Stark Island]], [[San Francisco]]
+
+| Creators                = Tom Taylor; Yıldıray Çınar
+| First                   = Superior Iron Man Vol 1 1
+
+| Quotation               = You're a giant green ball of anger and puberty. Of course this is how you ask for help.
+| Speaker                 = [[Anthony Stark (Earth-616)|Iron Man]]
+| QuoteSource             = Superior Iron Man Vol 1 3
+
+| History                 = One day when he was five years old, Jamie Carlson got sick and his mother [[Katrina Carlson (Earth-616)|Katrina]] had to take him to her job at [[Stark Industries (Earth-616)|Stark Industries]], due to being unable to find a babysitter. It was the day of the demonstration of gamma-powered equipment. During the test, the device malfunctioned and exploded. The accident led Katrina to be fired. Unbeknownst to anybody, Jamie had been exposed to [[Gamma Radiation|gamma radiaton]].<!-- {{r|Superior Iron Man Vol 1 5}} -->
+
+When he was thirteen, Jamie was bullied by other teenagers and his skateboard ended up being broken. He returned to his house and his mother tried to console him. However, her attempts frustrated him even more and he transformed into an Abomination-like creature. The physical damage to the house he caused after transforming resulted in an explosion which apparently killed Katrina.{{r|Superior Iron Man Vol 1 5}}
+
+Later, he attempted to use [[Anthony Stark (Earth-616)|Tony Stark]]'s new [[Extremis|Extremis 3.0]] released in [[San Francisco]] to cure his condition.{{r|Superior Iron Man Vol 1 3}} Unable to do so, he went on a rampage calling himself "Teen Abomination" in order to get Stark's attention. He battled [[Jennifer Walters (Earth-616)|She-Hulk]] when Iron Man himself intervened. Knocking She-Hulk aside with a single punch, Teen Abomination seemingly decapitated Stark with a strike from a lamp post, but was shocked to discover that Stark wasn't even inside the armor. Teen Abomination was then dispatched with a uni-beam blast followed up by Stark using the armor's helmet to deliver the coup de grace, knocking him out.{{r|Superior Iron Man Vol 1 1}}
+
+Teen Abomination was imprisoned but later broke free and went to [[Alcatraz Island|Stark Island]] searching for Iron Man. Stark confronted him, but soon Teen Abomination demanded Stark to listen to him. After being asked what did he want, Teen Abomination replied that he had tried Extremis, but it didn't work on him, so he was looking for Stark wanting his help. Stark stated that he could use him.{{r|Superior Iron Man Vol 1 3}} Jamie started living in Stark Island in secrecy, where Stark would investigate his condition.{{r|Superior Iron Man Vol 1 4}} As Tony experimented on Jamie, he told Stark his life story. The results of Stark's investigation led to the discovery that Jamie's father had been [[Harold Hogan (Earth-616)|Happy Hogan]].{{r|Superior Iron Man Vol 1 5}}
+
+When [[Virginia Potts (Earth-616)|Pepper Potts]] and [[Anthony Stark (First A.I.) (Earth-616)|a digital backup of Tony Stark's mind]] tried to help the real Stark return to his regular self, they took Jamie in their custody.{{r|Superior Iron Man Vol 1 8}} When Iron Man confronted Pepper and his digital self at [[Stark Resilient (Earth-616)|Resilient]]'s New York HQ, Jamie sided with Ms. Potts. Stark revealed to Jamie that he had recently discovered his mother wasn't dead, but had suffered a severe head trauma and was recovering at a hospital, causing Jamie to transform back to his human form.{{r|Superior Iron Man Vol 1 9}}
+
+Jamie was later taken in by an unidentified person or organization that fused an electronic chip into his skull that goaded him into becoming a mindless machine for destruction, and later unleashed him to wreak havoc at the Oakland Airport. He was confronted by [[Special Threat Assessment for Known Extranormalities (Earth-616)|S.T.A.K.E.]] operatives [[Martin Reyna (Earth-616)|Martin Reyna]], [[Jasper Sitwell (Earth-616)|Jasper Sitwell]], and [[Timothy Dugan (Earth-616)|Dum Dum Dugan]]. Dugan was able to scan Teen Abomination and detect the presence of the chip, and commanded Sitwell to shoot a bullet that perfored into Jamie's skull, destroying the chip and neutralizing him. S.T.A.K.E. later took him in to help him recover.{{r|S.H.I.E.L.D. Vol 3 9}}
+
+| Powers                  = Seemingly [[Emil Blonsky (Earth-616)#Powers|those]] of [[Emil Blonsky (Earth-616)|Emil Blonsky]], to a lesser extent.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * In {{cl|Superior Iron Man Vol 1 8}}, Jamie mentions that before his transformation into Teen Abomination, his mother [[Katrina Carlson (Earth-616)|Katrina]] used to assure him that what somebody looks like isn't who they are in regards to his feelings that he didn't know if he was "in the right body," hinting that Jamie might have experienced [[wikipedia:Gender dysphoria|gender dysphoria]].
+| Trivia                  = * Teen Abomination was originally going to be "Teen Man-Thing."{{r|{{cite web|url=https://www.cbr.com/taylor-discusses-iron-mans-superior-attitude/|title=Taylor Discusses Iron Man's "Superior" Attitude|work=CBR|first=Dave|last=Richards|date=January 21, 2015|accessdate=January 21, 2015}}}}
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Hogan Family]]
+[[Category:Regeneration]]
+[[Category:Regenerative Durability]]
+[[Category:Superhuman Strength]]
+[[Category:Superhuman Stamina]]
+[[Category:Superhuman Agility]]

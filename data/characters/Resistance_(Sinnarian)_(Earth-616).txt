@@ -1,0 +1,33 @@
+{{Marvel Database:Team Template
+| Image                   = Resistance (Sinnarian) (Earth-616) from Black Order Vol 1 2 001.png
+| Name                    = Resistance
+| Aliases                 = 
+
+| Status                  = Active
+| Identity                = No Dual
+| Reality                 = Earth-616
+| BaseOfOperations        = [[Sinnarian Empire]], [[Milky Way]]
+
+| Leader                  = [[Krannig (Earth-616)|Krannig the Peacemaker]]
+| CurrentMembers          = [[Armored Angel (Earth-616)|Armored Angel]], [[Grim Archer (Earth-616)|Grim Archer]], [[Insect-by-Night (Earth-616)|Insect-by-Night]], [[Punch-Fist (Earth-616)|Punch-Fist]], [[Foot (Earth-616)|The Foot]], [[Silver Scythe (Earth-616)|Silver Scythe]], [[Witchling-at-Twilight (Earth-616)|Witchling-at-Twilight]]
+| FormerMembers           = 
+| Allies                  = [[Black Order (Earth-616)|Black Order]]
+| Enemies                 = [[Attican (Earth-616)|Emperor Attican]]
+
+| Origin                  = [[Homo sapiens|Human]]
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Derek Landy; Philip Tan; Harvey Tolibao
+| First                   = Black Order Vol 1 2
+| Last                    = 
+
+| HistoryText             = The Resistance allied with the [[Black Order (Earth-616)|Black Order]] to overthrow [[Attican (Earth-616)|Emperor Attican]].{{r|Black Order Vol 1 2}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

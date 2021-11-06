@@ -1,0 +1,54 @@
+{{Marvel Database:Character Template
+| Image                   = Modulus (Earth-616) from All-New Official Handbook of the Marvel Universe A to Z Vol 1 7 0001.jpg
+| Name                    = [[Modulus]]
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = [[Reed Richards (Earth-616)|Reed Richards]] (template)
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = {{cl|All-New Official Handbook of the Marvel Universe A to Z Vol 1 7}}
+| Gender                  = Male
+| Height                  = 6'1"
+| Height2                 = (Variable)
+| Weight                  = 0 lbs
+| Eyes                    = Green
+| Hair                    = Green
+| UnusualFeatures         = 
+
+| Origin                  = Data from [[Reed Richards (Earth-616)|Reed Richards]]'s transdimensional device given life by [[Franklin Richards (Earth-616)|Franklin Richards]].
+| Reality                 = Earth-616
+| PlaceOfBirth            = Dimension of electrochemical energy
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Sentient mathematical expression
+| Education               = Possesses all Reed Richards' knowledge
+| BaseOfOperations        = Mobile
+
+| Creators                = Mark Waid; Mike Wieringo
+| First                   = Fantastic Four Vol 3 62
+| Death                   = 
+
+| History                 = Modulus was brought to life by [[Franklin Richards (Earth-616)|Franklin Richards]] from data. 
+
+| Powers                  = 
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Stretching]]
+[[Category:Artificial Intelligences]]

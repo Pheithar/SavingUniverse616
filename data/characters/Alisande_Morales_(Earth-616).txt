@@ -1,0 +1,55 @@
+{{Marvel Database:Character Template
+| Title                   = Agent Alisande Morales
+| Image                   = Alisande Morales (Earth-616) from X-Force Vol 3 9 001.jpg
+| Name                    = Alisande Morales
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{M|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}; formerly {{M|H.A.M.M.E.R.}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = Cuban
+| Occupation              = S.H.I.E.L.D. agent; former H.A.M.M.E.R. agent
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Craig Kyle; Christopher Yost; Clayton Crain
+| First                   = Captain America and the Falcon Vol 1 1
+
+| History                 = While stationed in [[Cuba]], [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] agent Alisande Morales was tasked with detaining a rogue Naval operative who was impersonating Captain America until Captain America arrived. However, it was also keep her cover intact. She ultimately found herself unable to fulfill both mandates and the operative slipped away from her, although not before she was able to collect a DNA sample. Morales later briefed the real Captain America on his impersonator, referring to him as the [[Anti-Cap (Earth-616)|"Anti-Cap,"]] and the nick-name stuck as a lasting moniker. 
+
+Morales was later promoted to the head of a S.H.I.E.L.D. division dedicated to tracking the movements of a religious extremist group called the [[Purifiers (Earth-616)|Purifiers]].
+
+She was eventually transferred to Division C, where she worked under Agent Young on resolving an unsolved case. Her report alerted the division to a sighting of [[Laura Kinney (Earth-616)|X-23]], who S.H.I.E.L.D. was looking to capture.
+
+Morales was still in charge when she was transferred to [[H.A.M.M.E.R.]], S.H.I.E.L.D.'s replacement. However, she she found it difficult to break the habit of referring to herself an agent of "S.H.I.E.L.D." rather than "H.A.M.M.E.R."
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = *It may have been possible that the character was named after [[Ali Morales|Alisande Morales-Carabello]], an editor who worked mostly for DC.
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Modern-Age Characters]]

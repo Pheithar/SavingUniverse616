@@ -1,0 +1,75 @@
+{{Marvel Database:Character Template
+| Image                   = August Hopper (Earth-616) from X-Men Vol 1 24 0001.jpg
+|Title                    = [[Locust]]
+| Name                    = Doctor August Hopper 
+| CurrentAlias            = Locust
+| Aliases                 = Doc Hopper 
+
+| Affiliation             = 
+| Relatives               = Carol Hopper Hickman (daughter), Bob Hickman (son-in-law)
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 5' 9"
+| Weight                  = 168 lbs
+| Eyes                    = Green
+| Hair                    = Grey
+| UnusualFeatures         = 
+
+| Origin                  = An entomology professor from Metro College who was fired for his crazy ideas on genetic mutation for insects. He eventually went mad with delusions of grandeur and became: The Locust!
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = Professor
+| Education               = Ph.D.
+| BaseOfOperations        = 
+
+| Creators                = Roy Thomas; Werner Roth
+| First                   = X-Men #24
+
+| History                 = Dr. August Hopper was an entomology professor from [[Metro College]].  During his tenure he submitted radical approaches to his science students on the genetic manipulation of insects. The faculty thought his ideas laughable and had him fired. He then took up a position with Ryan Chemicals where he would create new vastly superior pesticides. Believing that he was robbed of his due credit, he went insane and started researching ways to create super-bugs.{{r|X-Men Vol 1 24}}
+
+[[File:August Hopper (Earth-616) from X-Men Vol 1 24 0002.jpg|thumb|left|250px|The Locust and his minions]]
+
+His first attack on humanity was releasing around one dozen locust eggs that were quickly hatched.  With each bite of grain they grew bigger. Finally, with insects hundreds of sizes bigger than their unmutated brethren, the [[X-Men (Earth-616)|X-Men]] found them eating in a nearby grove. While trying to take one of them down for study, the National Guard flew in and dropped high-grade pesticides on the giant creatures. They mopped up the remaining locusts with flamethrowers.
+
+Dr. Hopper, thrilled with the success of his first major experiment, retreated back to his laboratory at Ryan Chemicals to test the latest improvements on his formula. He managed to create a portable version of his Magno-Ray, the device used to create the special locust eggs.
+
+A few miles south of the [[Ohio River]], large locusts were again reported and the X-Men again flew to the scene where The Locust finally revealed himself to the group. The Locust tried to tackle the X-Men with his mechanical wings and Exo-Shell, an improved version of an insect's exoskeleton. When [[Robert Drake (Earth-616)|Iceman]] subdued him and the X-Men were closing in, he used his special glowing micro-magnetic bug antennae to summon the insects to do his bidding while he flew away.
+
+The X-Men tackled the bugs and followed The Locust to his mobile lab, where he was planning an attack on Ryan Chemicals. [[Charles Xavier (Earth-616)|Professor Xavier]], in old garb and dressed as a hermit, warned Dr. Hopper to use his talents for the good of mankind. The Locust refused and flew off yet again.
+
+A short distance away, The Locust started to battle the X-Men. While they were fighting, [[Jean Grey (Earth-616)|Marvel Girl]] managed to twist his antennae together. No longer able to control the giant insects, he retreated to his lab and was attacked by two giant beetles mistaking him for prey. The lab teetered on the edge of a cliff before going over the side.  At the last minute, [[Warren Worthington III (Earth-616)|Angel]] grabbed the doctor and flew him out of the falling mobile. The doctor, seeing the folly of his ways, tossed his portable magno-ray and stun weapon over the side and surrendered to the authorities{{r|X-Men Vol 1 24}}.
+
+He next appeared terrorizing a town in the American Midwest where he clashed with the [[Bruce Banner (Earth-616)|Hulk]] and was reunited with his daughter, Carol, and her husband, Bob Hickman{{R|Incredible Hulk #194}}.
+
+He would later return as a one-time enemy of [[X-Factor (Earth-616)|X-Factor]].{{r|X-Factor #52}}
+
+| Powers                  = 
+
+| Abilities               = An excellent entomologist and geneticist able to develop pesticides and to mutate insects.{{r|X-Men Vol 1 24}}
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = His powers derive from the locust suit he has created.{{r|X-Men Vol 1 24}} <br>
+*'''Insect Control:''' The micro-magnetic bug antennae on the top of his head control the actions of insects in the vicinity of his person.{{r|X-Men Vol 1 24}}<br>
+*'''Flying:''' His suit is equipped with mechanical locust wings.{{r|X-Men Vol 1 24}}<br>
+*'''Exo-Shell:''' His suit is based on the exoskeletons of insects and is super-strong.  Impenetrable, at least to optic blasts.{{r|X-Men Vol 1 24}}
+*'''Mutating Insects:''' His portable Magno-Ray bombards insects with ions in such a way as to accelerate their growth.{{r|X-Men Vol 1 24}}
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Zoopathy]]
+[[Category:Flight]]
+[[Category:Superhuman Durability]]
+[[Category:Armor Users]]
+[[Category:Entomopathy]]

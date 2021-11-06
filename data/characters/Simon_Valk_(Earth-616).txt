@@ -1,0 +1,50 @@
+{{Marvel Database:Character Template
+| Image                   = Simon Valk (Earth-616) Daredevil Vol 1 332.jpg
+| Name                    = [[Simon Valk]]
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = 
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Blond
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Terrorist
+| Education               = 
+| BaseOfOperations        = [[Bronx]], [[New York City]], [[New York (State)|New York]]
+
+| Creators                = D.G. Chichester; Scott McDaniel
+| First                   = Daredevil #332
+
+| History                 = Simon Valk tried to warn [[Wolfgang von Strucker (Earth-616)|Baron Strucker]] of the assault of [[Matthew Murdock (Earth-616)|Daredevil]] on the [[Hydra (Earth-616)|Hydra]] hideout in the New York Botanical Garden in the [[Bronx]].
+
+| Personality             = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

@@ -1,0 +1,14 @@
+{{DisambiguationFull
+| New Header1_1 = [[Ophelia Sarkissian]]; Ophelia Sarkissian (Earth-616) from Secret Warriors Vol 1 15 001.jpg
+| New Header1_2 = [[Valentina Allegra de Fontaine]]; Valentina Allegra de Fontaine (Earth-616) from Official Handbook of the Marvel Universe A-Z Update Vol 1 3.jpg
+| New Header1_3 = [[Madame Hydra Six (Earth-616)|Madame Hydra-6]]; Madame Hydra Six (Earth-616) Official Handbook of the Marvel Universe Vol 3 4.jpg
+| New Header1_4 = [[Madame Hydra (Heroes Reborn) (Earth-616)|Madame Hydra<br>(Heroes Reborn)]]; Madame Hydra (Heroes Reborn) (Earth-616) from Iron Man Vol 2 5 0001.jpg
+| New Header1_5 = [[Madame Viper (Skrull) (Earth-8096)|Ophelia Sarkissian<br>(Skrull Subversive)]]; Madame Viper (Skrull) (Earth-8096) from Avengers Earth's Mightiest Heroes (Animated Series) Season 1 11 001.png
+| New Header1_6 = [[Elisa Sinclair (Earth-61311)|Elisa Sinclair]]; Captain America Steve Rogers Vol 1 14 Textless.jpg
+| New Header1_7 = [[Artificially Intelligent Digital Assistant (Earth-199999)|Aida]]; Artificially Intelligent Digital Assistant (Earth-199999) from Marvel's Agents of S.H.I.E.L.D. Season 4 16 002.jpg
+
+| New Header2   = Related
+| New Header2_1 = [[Hydra Queen (Nowhere) (Earth-616)|Hydra Queen]]; Hydra Queen (Nowhere) (Earth-616) from Captain America Vol 6 2 001.jpg
+| New Header2_2 = [[Susan Storm (Earth-1720)|Empress Hydra]]; Susan Storm (Earth-1720) from Exiles Vol 1 93 0001.jpg
+| New Header2_3 = [[Selina Luthor (Earth-9602)|Madame Cat]]; Selina Luthor (Earth-9602) from Amalgam Comics (Trading Cards) 0001.jpg
+}}

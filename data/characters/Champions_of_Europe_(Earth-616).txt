@@ -1,0 +1,35 @@
+{{Marvel Database:Team Template
+| Image                   = Champions of Europe (Earth-616) from U.S.Avengers Vol 1 7 001.jpg
+| ImageSize               = 250px
+| Name                    = [[Champions|Champions of Europe]]
+| EditorialNames          = 
+| Aliases                 = La Résistance{{r|U.S.Avengers Vol 1 7}}
+
+| Status                  = Active
+| Identity                = Secret
+| Reality                 = Earth-616
+| BaseOfOperations        = Mobile throughout [[Europe]]
+
+| Leaders                 = 
+| CurrentMembers          = [[Ares (Earth-616)|Ares]], [[Brian Braddock (Earth-616)|Captain Britain]], [[Faiza Hussain (Earth-616)|Excalibur]], [[Jeannine Sauvage (Earth-616)|Guillotine]], [[Alain Racine (Earth-616)|Le Peregrine]], [[Nigel Higgins (Earth-616)|Outlaw]]
+| FormerMembers           = 
+| Allies                  = [[Aikku Jokinen (Earth-616)|Enigma]], [[Doreen Green (Earth-616)|Squirrel Girl]]
+| Enemies                 = [[Hydra (Earth-616)|Hydra]]
+
+| Origin                  = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Al Ewing; Paco Medina
+| First                   = U.S.Avengers Vol 1 7
+| Last                    = 
+
+| HistoryText             = The Champions of Europe was one of the several superhero teams that gathered in the wake of [[Hydra (Earth-616)|Hydra]]'s take over of the [[United States of America]] to stop it from expanding any further. They rescued [[Doreen Green (Earth-616)|Squirrel Girl]] and [[Aikku Jokinen (Earth-616)|Enigma]] of the [[U.S.Avengers (Earth-616)|U.S.Avengers]] from a Hydra splinter group at [[Paris (France)|Paris]] after they were teleported away from [[Washington, D.C.]] by their teammate, [[Toni Ho (Earth-616)|Toni Ho]], a.k.a. the [[Iron Patriot]].{{r|U.S.Avengers Vol 1 7}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

@@ -1,0 +1,48 @@
+{{Marvel Database:Character Template
+| Image                   = Ruby (Earth-616) from Avengers NOW! Vol 1 1 001.jpg
+| Name                    = Ruby Neal
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = Formerly {{m|Mighty Avengers (Cage) (Earth-616)|Mighty Avengers}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Black 
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Telephone operator 
+| Education               = 
+| BaseOfOperations        = [[Gem Theater]], [[New York City]] 
+
+| Creators                = Al Ewing; Greg Land
+| First                   = Mighty Avengers Vol 2 10
+
+| History                 = Ruby volunteered to be a phone operator for the [[Mighty Avengers (Cage) (Earth-616)|Mighty Avengers]] in their [[Gem Theater]] headquarters in order to help out by taking emergency calls from the citizens.{{r|Mighty Avengers Vol 2 10}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

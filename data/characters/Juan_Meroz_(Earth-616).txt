@@ -1,0 +1,57 @@
+{{Marvel Database:Character Template
+| Image                   = Juan Meroz (Earth-616) from X-Men Vol 1 25 0002.jpg
+| Name                    = [[Juan Meroz]]
+| CurrentAlias            = [[El Tigre]]
+| Aliases                 = [[Kukulcan]]
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] [[Mutate]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Treasure Hunter
+| Education               = 
+| BaseOfOperations        = Mobile
+
+| Creators                = Roy Thomas; Werner Roth; 
+| First                   = X-Men #25
+| Death                   = Ka-Zar Vol 2 #5
+
+| History                 = Juan Meroz, also known as El Tigre, was a hunter of ancient treasures. Escorted by two mercenaries, Ramon and Tuloc, he eventually found the Mayan pyramid of the god [[Kukulkán (Ahau) (Earth-616)|Kukulkán]] in [[Santo Rico]].{{Citation}}
+
+When the [[Savage Land]] native [[Maa-Gor (Earth-616)|Maa-Gor]] was transformed into the Man-God, he took El Tigre as his servant. Meroz was exposed to the same mists that had changed Maa-Gor, but he was unable to bear his transformation and threw himself off a cliff.{{r|Ka-Zar Vol 2 #3|5}}
+
+| Powers                  = 
+'''Telekinesis''', '''Telepathy''', and a limited form of '''Precognition''' that he called the sixth sense of danger (using a fragment of the Amulet of the Power). 
+
+He used a strange energy capable to melting rock after he was mutated by the Mystic Mists of the Savage Land. 
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = El Tigre also used bolas and a knife as weapons. 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Telekinesis]]
+[[Category:Telepaths]]
+[[Category:Suicide]]

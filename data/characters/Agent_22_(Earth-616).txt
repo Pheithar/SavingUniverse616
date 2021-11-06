@@ -1,0 +1,46 @@
+{{Marvel Database:Character Template
+| Image                   = Agent 22 (Earth-616) from Thunderstrike Vol 1 13.jpg
+| Name                    = 
+| CurrentAlias            = Agent 22
+| Aliases                 = 
+
+| Affiliation             = formerly {{M|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = S.H.I.E.L.D. Agent
+| Education               = 
+| BaseOfOperations        = [[New York City]], [[New York (State)|New York]]
+
+| Creators                = Tom DeFalco; Ron Frenz
+| First                   = Thunderstrike Vol 1 13
+
+| History                 = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

@@ -1,0 +1,55 @@
+{{Marvel Database:Race Template
+| Image                   = Quists from Official Handbook of the Marvel Universe A-Z Update Vol 1 5 001.jpg 
+| Name                    = Quists
+| Aliases                 = The [[Arcane]]
+| Identity                = 
+| Affiliation             = 
+| Universe                = Earth-616
+| BaseOfOperations        = 
+
+| BodyType                = Humanoid
+| AvgHeight               = 6' 5"
+| AvgWeight               = 190.lbs
+| Eyes                    = 2
+| Hair                    = 
+| Skin                    = Pink
+| NumberOfLimbs           = 4
+| NumberOfFingers         = 5
+| NumberOfToes            = 5
+| SpecialAdaptations      = 
+| UnusualFeatures         = 
+
+| Origin                  = 
+| GalaxyOfOrigin          = [[Milky Way]]
+| StarSystemOfOrigin      = [[Quistraa]]
+| HomePlanet              = [[Quistalium]]
+| HomePlanet2             =, second from sun
+| PlaceOfBirth            = 
+| Creators                = Stan Lee; Jack Kirby;
+| First                   = Tales of Suspense Vol 1 56
+
+| HistoryText             = 
+
+| Habitat                 = 
+| Gravity                 = 
+| Atmosphere              = 
+| Population              = 950,000
+
+| Powers                  = 
+| Abilities               = 
+| AvgStrength             = 
+| Weaknesses              = 
+
+| GovernmentType          = Various dictatorships
+| TechnologyLevel         = Superior to [[Earth]]'s, faster than light travel and advanced exotic weaponry
+| CulturalTraits          = 
+| Representatives         = [[Dominus (Earth-616)|Dominus]], [[Lucifer (Quist) (Earth-616)|Lucifer]], [[Kalthea (Earth-616)|Queen Kalthea]], [[Supreme One (Earth-616)|Supreme One]]
+
+| Notes                   = 
+*The Quist known as [[Lucifer (Quist) (Earth-616)|Lucifer]] is the villain responsible for [[Charles Xavier (Earth-616)|Professor Charles Xavier]] losing his ability to walk.{{r|X-Men Vol 1 20}}
+| Trivia                  = 
+| Links                   = 
+===References===
+* {{c|Official Handbook of the Marvel Universe Vol 2 15}}
+}}
+[[Category:Races of Aliens]]

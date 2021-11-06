@@ -1,0 +1,56 @@
+{{Marvel Database:Character Template
+| Image                   = Philip Javert (Earth-921) from Avengers Vol 1 343 0001.jpg
+| Name                    = [[Philip Javert]]
+| CurrentAlias            = [[Swordsman]]
+| Aliases                 = [[Philip Javert (Earth-398)|Chevalier]]{{r|Avengers Vol 3 2}}
+
+| Affiliation             = [[Magdalene (Earth-9201)|Magdalene]], formerly [[Gatherers (Multiverse)|Gatherers]][[Category:Gatherers (Multiverse)/Members]], {{m|Avengers (Earth-921)|Avengers}} of [[Earth-921]], {{m|Avengers (Earth-616)|Avengers}} of [[Earth-616]]
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 6'4"
+| Weight                  = 250 lbs
+| Eyes                    = Blue
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-921
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = French
+| Occupation              = Adventurer, formerly villain
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Bob Harras; Steve Epting
+| First                   = Avengers #343
+
+| History                 = Philip Javert, as the [[Swordsman]], had been a member of [[Earth-921|his world]]'s [[Avengers (Earth-921)|Avengers]]. Like the [[Earth-616]] [[Jacques Duquesne (Earth-616)|Swordsman]], Philip had a history with [[Clinton Barton (Earth-921)|Hawkeye]] and was championed for membership in the group by [[Thor Odinson (Earth-921)|Thor]].{{r|Avengers #344}}
+
+When his world was destroyed, Swordsman was then was recruited by [[Dane Whitman (Earth-374)|Proctor]] to serve as one of his [[Gatherers (Multiverse)|Gatherers]]. Swordsman joined, unaware that Proctor himself was responsible for the damage as part of his mad campaign to murder every existing counterpart of the [[Eternals (Homo immortalis)|Eternal]] [[Sersi (Earth-616)|Sersi]].{{r|Avengers #343|344}}{{r|Avengers #375}}
+
+When Proctor's forces reached [[Earth-616]], Javert and another Gatherer, [[Magdalene (Earth-9201)|Magdalene]], began to doubt their leader. Swordsman was captured by the Avengers, but treated with respect.{{r|Avengers #356}} Magdalene wanted him rescued, but Proctor wanted to renew his old relationship with her, so he sent the [[Vision (Earth-932)|Anti-Vision]] to infiltrate the Avengers and assassinate Javert.{{r|Avengers #362}} The Gatherer failed and soon both Swordsman and Magdalene fully abandoned Proctor and became honorary associates of the Avengers.{{r|Avengers #363|364}}
+
+[[Nathaniel Richards (Immortus) (Earth-6311)|"Kang" (Immortus)]]'s forces attacked Javert and attempted to replace him with a [[Swordsman (Space Phantom) (Earth-616)|Space Phantom]] (who previously impersonated the [[Cotati|Elder Cotati Swordsman]]) after taking him to what appeared to be the [[Cotati]] garden.{{r|Avengers #391|392}}
+
+After assisting the Avengers on several missions, Javert and [[Magdalene (Earth-9201)|Magdalene]] left Earth with the help of [[Anthony Stark (Earth-616)|Iron Man]], seeking to find a new home for themselves in another dimension.{{r|Avengers/Squadron Supreme Annual Vol 1 '98}}
+
+| Powers                  = 
+| Abilities               = Seemingly [[Jacques Duquesne (Earth-616)#Abilities|those]] of the [[Jacques Duquesne (Earth-616)|Jacques Duquesne]] of [[Earth-616]].
+| Strength                = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = Special sword; presumably similar to Duquesne's
+
+| Notes                   = 
+* Despite having a different name and being at least a decade younger, Philip Jarvert was supposedly an exact doppelganger of [[Jacques Duquesne (Earth-616)|Jacques Duquesne]].
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Fencing]]
+[[Category:Honorary Avengers]]

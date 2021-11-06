@@ -1,0 +1,52 @@
+{{Marvel Database:Character Template
+| Image                   = Herrick Goldman (Earth-616) Agents of SHIELD Vol 1 3.png
+| Name                    = Herrick Goldman
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{M|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Bald
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = S.H.I.E.L.D. agent
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Marc Guggenheim; Humberto Ramos
+| First                   = Wolverine Vol 3 47
+| Last                    = 
+| Death                   = 
+
+| History                 = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+
+}}

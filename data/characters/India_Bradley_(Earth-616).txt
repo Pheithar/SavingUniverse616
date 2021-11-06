@@ -1,0 +1,49 @@
+{{Marvel Database:Character Template
+| Image                   = India Bradley (Earth-616) 001.png
+| Name                    = India Bradley
+| Name2                   = 
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{M|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}} 
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = White
+| UnusualFeatures         = 
+
+| Origin                  = Human
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = Agent of [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]], Receptionist
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Chris Bachalo; Brian Michael Bendis
+| First                   = Uncanny X-Men Vol 3 14
+
+| History                 = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

@@ -1,0 +1,42 @@
+{{Marvel Database:Team Template
+| Image                   = All-New X-Men Vol 1 6 X-Men 50th Anniversary Variant Textless.jpg
+| Name                    = Generation X
+| Aliases                 = Gen X
+
+| Status                  = Defunct
+| Identity                = Secret 
+| Reality                 = Earth-616
+| BaseOfOperations        = [[Xavier's School for Gifted Youngsters]], [[Massachusetts Academy]]
+
+| Leaders                 = [[Sean Cassidy (Earth-616)|Banshee]], [[Emma Frost (Earth-616)|Emma Frost]] 
+| CurrentMembers          = 
+| FormerMembers           = [[Jonothon Starsmore (Earth-616)|Chamber]], [[Gaia (Earth-616)|Gaia]], [[Paige Guthrie (Earth-616)|Husk]], [[Jubilation Lee (Earth-616)|Jubilee]], [[Monet St. Croix (Earth-616)|M (Monet)]], [[Claudette and Nicole St. Croix (Earth-616)|M (Twins)]], [[Maggott (Japheth) (Earth-616)|Maggott]], [[Mondo (Clone) (Earth-616)|Mondo]], [[Hollow (Earth-616)|Penance]], [[Angelo Espinosa (Earth-616)|Skin]], [[Everett Thomas (Earth-616)|Synch]]
+<br>''Wards:''<br>
+[[Arthur Maddicks (Earth-616)|Artie Maddicks]], [[Leech (Earth-616)|Leech]], [[Franklin Richards (Earth-616)|Franklin Richards]]
+| Allies                  = [[X-Men (Earth-616)|X-Men]], [[Gateway (Earth-616)|Gateway]], [[Howard the Duck (Earth-616)|Howard the Duck]] 
+| Enemies                 = [[Thomas Cassidy (Earth-616)|Black Tom Cassidy]], [[Marius St. Croix (Earth-616)|Emplate]], [[Adrienne Frost (Earth-616)|Adrienne Frost]], [[Arthur DeLacourte (Earth-616)|Arthur DeLacourte]], [[First Strike (Earth-616)|First Strike]], [[Cain Marko (Earth-616)|Juggernaut]], [[Rising Sons (Earth-616)|Rising Sons]]
+
+| Origin                  = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = [[Massachusetts Academy]]
+| Creators                = Scott Lobdell; Chris Bachalo
+| First                   = Uncanny X-Men Vol 1 317
+| Last                    = Generation X Vol 1 75
+
+| HistoryText             = Generation X was a team of [[Homo Superior|mutant]] teens formed shortly after the [[Phalanx (Race)|Phalanx]] attempted to absorb all mutants, starting with the next generation of mutants.  The team was led by both [[Sean Cassidy (Earth-616)|Banshee]] and [[Emma Frost (Earth-616)|Emma Frost]], and was comprised mainly of [[Jubilation Lee (Earth-616)|Jubilee]], [[Paige Guthrie (Earth-616)|Husk]], [[Everett Thomas (Earth-616)|Synch]], [[Claudette and Nicole St. Croix (Earth-616)|M]], [[Jonothon Starsmore (Earth-616)|Chamber]], [[Angelo Espinosa (Earth-616)|Skin]], and the mysterious [[Monet St. Croix (Earth-616)|Penance]]. The team's primary purpose was to receive an education and learn to be the next generation of [[X-Men (Earth-616)|X-Men]], rather than fighting supervillains. The school was located at the Massachusetts branch of Xavier's School.{{r|Uncanny X-Men Vol 1 318}}{{r|Generation X Vol 1 1}}
+
+Both Banshee and Emma Frost educated the teenagers in school subjects as well as combat and field skills. Jubilee and the other mutant teens honed their unique abilities and occasionally battled minions such as the Juggernaut, Omega Red, and their arch-rival Emplate.{{r|Generation X Vol 1 1}}{{r|Generation X Vol 1 11}}{{r|Generation X Vol 1 21}}{{r|Generation X Vol 1 60|61}}
+
+Shortly after the formation of the mutant teen team, Penance was dropped onto the front lawn of the Massachusetts Academy by Gateway. Penance had previously been a prisoner of Emplate, a parasitic mutant who fed upon other mutants that the group had encountered previously. Penance couldn't speak and had immunity to telepathy, leading to a big mystery regarding her origins. Chamber was able to convince her that he knew how she felt and calmed the girl down into staying with the team.{{r|Generation X Vol 1 2|3}}
+
+After countless adventures, a bold revenge plan by Emma's sister [[Adrienne Frost (Earth-616)|Adrienne]] ended in Synch's death and Emma murdering her sister, which, once discovered, shook the team's trust in their Headmistress and led to the ultimate closure of the Massachusetts Academy.{{r|{{cl|Generation X Vol 1 67}}-[[Generation X Vol 1 75|75]]}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * During the [[Age of Apocalypse]] crossover event, Generation X was renamed {{cl|Generation Next Vol 1|Generation Next}}.
+| Trivia                  = 
+| Links                   = 
+}}
+[[it:Generation-X (Terra-616)]]

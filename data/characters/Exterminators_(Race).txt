@@ -1,0 +1,71 @@
+{{Marvel Database:Race Template
+| Image                   = Exterminators (Race) from X-Termination Vol 1 1 0002.jpg
+| Name                    = [[Exterminators]]
+| Aliases                 = 
+| Identity                = Secret
+| Affiliation             = 
+| Universe                = First Cosmos
+| BaseOfOperations        = Mobile
+
+| BodyType                = Humanoid
+| AvgHeight               = 
+| AvgWeight               = 
+| Eyes                    = 
+| Hair                    = No Hair
+| Skin                    = 
+| NumberOfLimbs           = 4
+| NumberOfFingers         = 5
+| NumberOfToes            = 
+| SpecialAdaptations      = 
+| UnusualFeatures         = 
+
+| Origin                  = Monsters created by the [[Celestials (Race)|Celestials]] to destroy their failures{{r|Astonishing X-Men Vol 3 61}}
+| GalaxyOfOrigin          = 
+| StarSystemOfOrigin      = 
+| HomePlanet              = 
+| PlaceOfBirth            = [[First Cosmos]]
+| Creators                = Greg Pak; Marjorie Liu; David Lapham
+| First                   = X-Treme X-Men Vol 2 12
+
+| HistoryText             = [[File:Exterminators (Race) from X-Treme X-Men Vol 2 12 0001.jpg|thumb|left|Trapped Exterminators]]
+===Origin===
+At the birth of the universe, the [[Celestials (Race)|Celestials]] were there to shape creation. After making life from the darkness, they thought there should be death and thus created the monsters called '''Exterminators''' to be that. Their creations, however, turned on them. Unable to kill the Exterminators, the Celestials split [[First Firmament (First Cosmos)|the universe]] into the [[Multiverse]] and sealed the monsters inside one of those universes.{{r|Astonishing X-Men Vol 3 61}}
+
+[[File:Exterminators (Race) from X-Termination Vol 1 1 0001.jpg|left|250px|thumb|Exterminators killing [[Charles Xavier (Earth-TRN216)|Xavier Head]]]]
+===[[X-Termination]]===
+The Exterminators were trapped in their prison for millennia, until the walls between realities began to crack. Frequently travelling and teleporting from reality to reality and world to world weakened the walls. Tears, cracks and fissures grew larger and larger until the Exterminators were able to escape.{{r|X-Treme X-Men Vol 2 12}}{{r|X-Termination Vol 1 1}}
+
+The rift first became known on [[Earth-13812]] in the head of the [[Great Sphinx|Sphinx]]. [[Xavier (Earth-13059)|Lord Xavier, the Witch King]], [[Charles Xavier (Earth-13410)|Nazi Xavier]], and [[Charles Xavier (Earth-TRN216)|Xavier Head]] began sacrificing civilians to an interdimensional rift to gain power. The [[X-Men (Multiverse)|transdimensional X-Men]] were able to rescue their Xavier and narrowly defeated Lord Xavier and Nazi Xavier. Unfortunately, the X-Men did not act quickly enough to save that world, and were forced to make an interdimensional jump, leaving that reality and all of its inhabitants to be consumed by the Exterminators' vortex.{{r|X-Treme X-Men Vol 2 12}}
+
+Meanwhile on [[Earth-616]], [[Kurt Darkholme (Earth-295)|AOA Nightcrawler]] and [[Henry McCoy (Earth-295)|Dark Beast]] used the [[Tiamut (Earth-616)|Dreaming Celestial]] to create a portal to their world of [[Earth-295|New Apocalypse]]. Unfortunately, this portal opened the rift between realities wide enough for the Exterminators to pass through to [[Earth-295]].{{r|X-Termination #1}}
+
+When the Exterminators emerged, they were greeted by the [[X-Men (Earth-616)|X-Men]], the [[X-Men (Multiverse)|transdimensional X-Men]], and the [[X-Terminated (Earth-295)|X-Terminated]].{{r|X-Termination #1}}{{r|Astonishing X-Men Vol 3 60}}
+
+One of the Exterminators departed to Earth-616 where he drained the [[Tiamut (Earth-616)|Dreaming Celestial]] while the other two Exterminators remained on Earth-295, one feeding off the rift and the other seeking out the power of [[Apocalypse]] in the [[Death Seed]].{{r|Age of Apocalypse #14}}
+
+They were imprisoned within Earth-295 when Nightcrawler sacrificed himself to seal off their universe.{{r|X-Termination Vol 1 2}}
+
+| Habitat                 = 
+| Gravity                 = 
+| Atmosphere              = 
+| Population              = Millions (or possibly billions).{{r|X-Treme X-Men Vol 2 13}}
+
+| Powers                  = The Exterminators seem to be able to absorb or consume energy. Light and concussive blasts (such as [[Alison Blaire (Earth-616)|Dazzler]]'s lasers or [[Scott Summers (Earth-70213)|Cyclops]]' optic blasts) seem to be the easiest for them to absorb.{{r|X-Treme X-Men Vol 2 12}}{{r|X-Termination Vol 1 1}}{{r|Astonishing X-Men Vol 3 60}} The Exterminators appear to be immune to [[Telepathy|telepathy]].{{r|X-Treme X-Men Vol 2 12}}{{r|Astonishing X-Men Vol 3 60}} The Exterminators can also absorb kinetic energy, but with some difficulty.{{r|Age of Apocalypse Vol 1 14}}
+| Abilities               = 
+| AvgStrength             = 
+| Weaknesses              = The Exterminators seem to have a weakness to extreme cold and ice, possibly due to it slowing down molecular activity (or energy).{{r|Astonishing X-Men Vol 3 60}} The Exterminators appear to have some difficulty absorbing kinetic energy.{{r|Age of Apocalypse Vol 1 14}} Exterminators appear to negatively react with [[Death Seed|Apocalypse powers]].{{r|X-Treme X-Men Vol 2 13}}
+
+| GovernmentType          = 
+| TechnologyLevel         = 
+| CulturalTraits          = 
+| Representatives         = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Interdimensional Organizations]]
+[[Category:Telepathic Immunity]]
+[[Category:Energy Absorption]]
+[[Category:Elemental Weaknesses]]
+[[Category:Celestials Experiment]]

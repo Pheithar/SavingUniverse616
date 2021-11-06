@@ -1,0 +1,53 @@
+{{Marvel Database:Character Template
+| Image                   = Whale (Earth-616) Wolverine Inner Fury Vol 1 1.jpg
+| Name                    = Unknown
+| CurrentAlias            = [[Whale]]
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = None
+| UnusualFeatures         = Double amputee
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Scientist, terrorist
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = D.G. Chichester; Bill Sienkiewicz
+| First                   = Wolverine: Inner Fury Vol 1 1
+
+| History                 = The Whale was a cyborg an indentured member of Hydra who was working to develop nanotechnology to use as a weapon. After he realized Hydra's intention for his work he planned his escape. During transport in a mobile lab caused the truck's wheels to dissolve and escaped after the truck crashed. He was tracked down by [[Big (Earth-616)|Big]] and [[James Howlett (Earth-616)|Wolverine]] (who Big had injected with nanotechnology and told that Whale had the cure) to his secret lab. The Whale attempted to flee into the woods, but Wolverine quickly found him and returned back to the laboratory. He tried to tell Wolverine of 
+Big's true nature but electronics suit had failed and Wolverine didn't understand him. Big attacked the Whale, and revealed there was no cure for the nanotech virus. Wolverine shoved his claws into his own brain, rebooted his healing factor, and a confrontation between Big and Wolverine broke out, which ended when Big accidentally killed himself.  Wolverine took the Whale and left, comforting the Whale over his failed technology and promised to put him in contact with Reed Richards.{{r|Wolverine: Inner Fury Vol 1 1}}
+
+| Personality             = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+* [http://www.marvunapp.com/Appendix4/whale_hydra.htm Whale at the Appendix]
+}}
+[[Category:Legless]]

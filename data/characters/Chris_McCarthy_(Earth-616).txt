@@ -1,0 +1,63 @@
+{{Marvel Database:Character Template
+| Image                   = Chris McCarthy (Earth-616) from Irredeemable Ant-Man Vol 1 1 001.jpg
+| Name                    = [[Chris McCarthy]]
+| CurrentAlias            = [[Ant-Man]]
+| Aliases                 = 
+
+| Affiliation             = {{M|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Lancaster (Vermont)|Lancaster]], [[Vermont (State)|Vermont]]
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = S.H.I.E.L.D surveillance agent
+| Education               = 
+| BaseOfOperations        = [[Helicarrier]]
+
+| Creators                = Robert Kirkman; Phil Hester
+| First                   = Civil War: Choosing Sides Vol 1 1
+| Death                   = Irredeemable Ant-Man Vol 1 2
+
+| History                 = 
+===Early Life===
+Chris McCarthy was a low level S.H.I.E.L.D. agent working in the reconnaissance department on the [[Helicarrier]]. When Wolverine was brought in,<ref>following the events of "Enemy of the State"</ref> 
+
+===Ant-Man===
+Chris and his friend [[Eric O'Grady (Earth-616)|Eric O'Grady]], who he grew up with, were tasked with guarding Dr. [[Henry Pym (Earth-616)|Henry Pym]]'s lab by a higher ranking agent, [[Mitch Carson (Earth-616)|Mitch Carson]]. When Pym went to leave the lab, Eric and Chris panicked and Eric attacked Pym, knocking him unconscious.{{r|Irredeemable Ant-Man Vol 1 1}}
+
+Inside the lab, they found the most recent version of [[Ant-Man's Suit]], which Chris put on and promptly activated, shrinking down. Thinking him gone, Eric panicked again and ran off. Chris promptly got lost in the Helicarrier, stuck at the 1-Inch size. Eric, meanwhile, took this opportunity to make a pass at Chris' girlfriend [[Veronica King (Earth-616)|Veronica King]], which the miniature Chris saw from an air vent.{{r|Irredeemable Ant-Man Vol 1 1}}
+
+Around this time, a group of [[Hydra (Earth-616)|Hydra]] employed superhumans attacked the Carrier, and Chris and Eric were caught up in the ensuing chaos. Whilst trying to find a safe place to hide, Chris was killed, and Eric took Ant-Man's Suit off his body. Surviving the Helicarrier crash, Eric continued to work for S.H.I.E.L.D., using his evenings to explore the powers of his new suit.{{r|Irredeemable Ant-Man Vol 1 2|3}}
+
+| Powers                  = * '''[[Pym Particles]]:''' With the assistance of Pym Particles, Chris had the ability to shrink to the size of an ant, while retaining full size strength, and increase in size and communicate telepathically with insects via a cybernetic helmet.
+| Abilities               = Standard S.H.I.E.L.D. weapons training
+| Strength                = As Ant-Man he has the normal human strength of a man of his age, height, and build who engages in intensive regular exercise. At small size, his is compact and at large size are enhanced.
+| Weaknesses              = 
+
+| Equipment               = * '''[[Ant-Man's Suit]]:''' Various gadgets housed within a shrinking exoskeleton armor ex. retractable robot legs with magnetic grapples
+| Transportation          = * Leg-mounted jet thrusters (this can also be use as a flame-thrower)
+| Weapons                 = * Mandible-like tools which swing out like claws
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Pym Particles]]
+[[Category:Government Agents]]
+[[Category:Shooting]]
+[[Category:Martial Arts]]

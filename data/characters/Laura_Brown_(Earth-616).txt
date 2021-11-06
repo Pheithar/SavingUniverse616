@@ -1,0 +1,72 @@
+{{Marvel Database:Character Template
+| Image                   = Laura Brown (Earth-616) from Spider-Woman Vol 1 14 001.jpg
+| Name                    = [[Laura Brown]] 
+| CurrentAlias            = 
+| Aliases                 = [[Agent G]]{{r|Strange Tales Vol 1 137}}; [[Agent H]]{{r|Strange Tales Vol 1 135}}
+
+| Affiliation             = {{M|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}, formerly {{M|Hydra (Earth-616)|HYDRA}}
+| Relatives               = [[Arnold Brown (Earth-616)|Imperial Hydra (Arnold Brown)]] (father, deceased); mother (name unrevealed, deceased)
+| MaritalStatus           = Single 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Blue
+| Eyes2                   = {{r|Strange Tales Vol 1 139}}
+| Hair                    = Blonde
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Espionage agent
+| Education               = 
+| BaseOfOperations        = [[S.H.I.E.L.D. Helicarrier]]
+
+| Creators                = Stan Lee; Jack Kirby
+| First                   = Strange Tales Vol 1 135
+| Death                   = 
+
+| Quotation               = Father, why do you persist in your mad plan for world domination? It can only end in disaster for all of us!
+| Speaker                 = [[Laura Brown (Earth-616)|Laura Brown]]
+| QuoteSource             = Strange Tales Vol 1 137
+
+| History                 = [[File:Laura_Brown.jpg|thumb|left|Laura Brown]]
+===Early Life===
+Laura Brown is the daughter{{r|Strange Tales Vol 1 137}} of [[Arnold Brown (Earth-616)|Arnold Brown]], the leader of [[Hydra (Earth-616)|Hydra]]{{r|Strange Tales Vol 1 140}} and his wife. While she exceeded as a ruthless, efficient Hydra agent,{{r|Strange Tales Vol 1 135}} she was unconvinced of her father's plan to take over the world in order to provide her "everything that she (her mother) never had.{{r|Strange Tales Vol 1 137}}
+
+She saved [[Nicholas Fury (Earth-616)|Nick Fury]]'s life when he was captured by HYDRA by helping him escape{{r|Strange Tales Vol 1 139}} and joining him in a firefight against Hydra agents. She begged Fury to not harm her father but, once they found the Imperial Hydra, he had already been murdered by other Hydra agents. Fury, feeling that he owed Laura, allowed her to escape capture by consciously providing confusing orders - otherwise she would have to face charges.{{r|Strange Tales Vol 1 141}}
+
+Fury made an effort to get Brown an special amnesty but, when this was on process, HYDRA (now under the control of [[Wolfgang von Strucker (Earth-616)|a new Supreme Hydra]]) made several attempts against her life, injuring the top-level agents that Fury had assigned to escort her - [[Gabriel Jones (Earth-616)|Gabriel Jones]] and [[Jasper Sitwell (Earth-616)|Jasper Sitwell]] - and forcing Fury to assign her protection to Agent John{{r|Marvel Legacy: The 1960s Handbook Vol 1 1|first name revealed}} Bronson - who was secretly the Supreme Hydra in disguise.{{r|Strange Tales Vol 1 153}} She suspected this truth but, when trying to get proof of it using [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]]'s supercomputer AUTOFAC, "Bronson" captured her by surprise and faked new proof suggesting that ''Brown'' was the Supreme Hydra. "Bronson" easily convinced Fury that Brown had staged Hydra's attempts against her own life, although Sitwell was not that convinced.{{r|Strange Tales Vol 1 154}} "Bronson" later destroyed AUTOFAC, knocked Brown down with death-sleep serum so she could not testify against him, and ensured that he himself would be in charge of transporting the supposedly injured Brown{{r|Strange Tales Vol 1 155}} - only he took her to [[Hydra Island]].{{r|Strange Tales Vol 1 156}}
+
+Once in Hydra Island, Bronson scheduled a mock judgement on Brown for treachery and threatened to release a [[death spores]] plague on the world, from a weapon hidden on board the [[Helicarrier]], should Hydra find Brown guilty, sparing only the countries that surrender to Hydra.{{r|Strange Tales Vol 1 156}}
+
+Fury, suspicious of Bronson, had infiltrated Hydra Island, but he was captured and judged himself by Bronson - who revealed his true identity as Supreme Hydra Baron [[Wolfgang von Strucker (Earth-616)|Wolfgang von Strucker]], with Brown helplessly watching.{{r|Strange Tales Vol 1 156}} Fury escaped and confronted Hydra goons and Strucker himself,{{r|Strange Tales Vol 1 157}} taking a chance to impersonate Strucker with a mask and to use Hydra's face-swapping technology to change Strucker's face to Fury's! Strucker was thus defeated and apparently killed, chased by his own Hydra goons; and Fury, as Strucker, ordered Hydra to prepare an air vehicle for himself and Brown.{{r|Strange Tales Vol 1 158}}
+
+Only when their ship was outside [[Hydra Island]], Fury revealed to Brown his real identity and the details of his plan - including that he had inserted Hydra's bio-weapon strain within Hydra Island so that Hydra's force field, intended to protect their agents, instead isolated them from the rest of the world, preventing the plague to extend.{{r|Strange Tales Vol 1 158}}
+
+After that, Brown was amnestied and even offered a job as a S.H.I.E.L.D. agent - which she rejected because she needed some vacation time. She kept friendly contact with Fury, Jones and their partner [[Timothy Dugan (Earth-616)|"Dum Dum" Dugan]].{{r|Strange Tales Vol 1 159}}
+
+Brown later joined S.H.I.E.L.D. as an agent.{{r|Nick Fury, Agent of SHIELD Vol 1 9}} She briefly dated Nick Fury.{{r|Nick Fury, Agent of SHIELD Vol 1 10}}
+
+| Powers                  = None
+| Abilities               = Brown can do a mean impersonation of [[Timothy Dugan (Earth-616)|"Dum Dum" Dugan's]] speech patterns.{{r|Strange Tales Vol 1 158}}
+| Strength                = Normal human.
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = In [[Strange Tales Vol 1 #141]], Laura is mistakenly seen as a redhead - the previous issues, happening just before those scenes, showed her as a blonde.
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Government Agents]]

@@ -1,0 +1,68 @@
+{{Marvel Database:Character Template
+| Image                   = Arnold Paffenroth (Earth-616) from Official Handbook of the Marvel Universe Vol 2 13 0001.png
+| Name                    = [[Arnold Paffenroth]]
+| CurrentAlias            = [[Tatterdemalion]]
+| Aliases                 = [[Michael Wyatt]]
+
+| Affiliation             = Formerly {{m|Night Shift}}, former operative of the {{m|Committee (Earth-616)|Committee}} 
+| Relatives               =
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 5'9"
+| Weight                  = 165 lbs
+| Eyes                    = Blue
+| Hair                    = Brown
+| UnusualFeatures         =
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Las Vegas]], [[Nevada (State)|Nevada]]
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Derelict; Former tap-dancer and casino owner, criminal
+| Education               =
+| BaseOfOperations        = [[Los Angeles]], [[California (State)|California]] 
+
+| Creators                = Gerry Conway; Tom Sutton
+| First                   = Werewolf by Night #9
+| Death                   = 
+
+| History                 = Arnold Paffenroth was the only son of a husband-wife vaudeville tap-dancing act, who began dancing at the age of eight. At eighteen, he met a dancer named Julia Walker and, adopting the stage name Michael Wyatt, formed a dance team with her that became popular enough to star in a number of motion pictures made in the late 1940s and early 1950s.{{r|Marvel Team-Up #93}}{{r|Dazzler #36}}
+
+Paffenroth, knowing such success couldn't last, carefully invested his earnings in a Las Vegas casino. When indeed he could no longer get work in Hollywood, he split up with Julia Walker to attend to his casino business.{{r|Marvel Team-Up #93}}{{r|Dazzler #36}} In the early 1970s, while trying to acquire other real estate, Paffenroth ran afoul of [[Las Vegas]] mobsters, who swindled him out of everything he owned. Mentally deranged by the experience, he fled to [[Los Angeles]] where he soon became a drunken derelict. For several years he eked out a bare existence on the outskirts of society.{{r|Marvel Team-Up #93}}
+
+Finally, he was recruited into an army of derelicts by [[Sidney Sarnak (Earth-616)|Sidney Sarnak]], a former sound engineer turned criminal. Sarnak had been hired and outfitted by the [[Committee (Earth-616)|Committee]], a secret cabal of Los Angeles businessmen attempting to foster a climate of fear which they believed would stimulate the economy.{{r|Werewolf by Night #9}}
+
+To this end, Sarnak organized a small army of derelicts which he controlled by means of a specially designed ultrasonic whistle capable of stimulating the emotional centers of the brain. Paffenroth was one of Sarnak's chief operatives until Sarnak went mad after an encounter with [[Jack Russell (Earth-616)|the Werewolf, Jack Russell]]. The Committee gave Paffenroth his own campaign of terror. Calling himself the Tatterdemalion, Paffenroth struck out randomly at the wealthy, whose ranks had once claimed him as a member. Unlike the common criminal who sought to acquire wealth for himself, the Tatterdemalion sought to destroy money and material possessions.{{r|Werewolf by Night #9}}
+
+In Los Angeles, Tatterdemalion was opposed and defeated by the Werewolf and [[Peter Parker (Earth-616)|Spider-Man]], but was freed from police custody by the Committee. Going to Las Vegas to terrorize the casino he once owned, he again faced the Werewolf in combat, along with [[Johnathon Blaze (Earth-616)|Johnny Blaze, the Ghost Rider]].{{r|Ghost Rider Vol 2 #55}} While attempting to steal an expensive race car, the Tatterdemalion crashed and was left for dead. He survived, however, and eventually made his way back to Los Angeles. There he discovered that his former dance partner, Julia Walker, had been reduced to playing piano accompaniment for singers at a Hollywood nightclub called Reilly's Ace of Clubs. Maddened that his one-time paramour had fallen on hard times, he began terrorizing the singers at the night club in a misguided belief that it would enable her to resume the limelight. The [[Homo superior|mutant]] [[Alison Blaire (Earth-616)|Dazzler]] opposed him, however, and revealed to Walker who he really was. Walker attempted to rehabilitate him,{{r|Dazzler #36}} but the mentally disturbed man eventually proved burdensome to her and she left him. 
+
+Under circumstances to be revealed, the Tatterdemalion was recruited into the [[Night Shift (Earth-616)|Night Shift]], a gang of Los Angeles-based misfits organized by [[Maximillian Coleridge (Earth-616)|the Shroud]].{{r|Captain America #330|331}} Paffenroth served as a member of the Night Shift throughout its various incarnations, often coming into conflict with the [[Avengers (Earth-616)|Avengers]].{{r|Avengers: West Coast #76|79}}
+
+Tatterdemalion and the rest of Night Shift were hired by [[Sheoke Sanada (Earth-616)|Snapdragon]] to kill Moon Knight, but after they failed, Snapdragon's boss, the L.A. Kingpin [[Luchino Nefaria (Earth-616)|Count Nefaria]], killed them all.{{r|Moon Knight Vol 6 3|6}} 
+
+Tatterdemalion later turned up alive again and was seen as a patron at the [[Bar with No Name]].{{r|Savage Avengers Vol 1 14}}
+
+| Powers                  =
+| Abilities               = Paffenroth is also a skilled tap-dancer and casino operator, although his remembrance of these skills may not be very strong.
+
+| Strength                =
+| Weaknesses              = Insanity
+
+| Equipment               = Chemicals soaked in his gloves give him the ability to rot paper and cloth. Non-stick chemicals give him the ability to break free of holds and other bonds. Kevlar layers give him protection against physical attacks. Chloroform capsules in his cloak allow him to deliver potent knock out gas to his targets, and his scarf is weighted to able to be used as a thrown weapon or bolo.
+| Transportation          =
+| Weapons                 =
+
+| Notes                   = * Tatterdemalion's codename is a term for a person who wears tattered clothing or is shabby in appearance.
+| Trivia                  =
+| Links                   = * Gamers' Handbook of the Marvel Universe 
+* UnOfficial Handbook of the Marvel Universe
+* http://en.wikipedia.org/wiki/Tatterdemalion_(comics)
+* http://www.marvel.com/universe/Tatterdemalion
+}}
+[[Category:Thrown Weapons]]
+[[Category:Insanity]]

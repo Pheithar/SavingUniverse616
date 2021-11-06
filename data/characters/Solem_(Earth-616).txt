@@ -1,0 +1,69 @@
+{{Marvel Database:Character Template
+| Image                   = X-Force Vol 6 13 Textless.jpg
+| Name                    = 
+| CurrentAlias            = [[Solem]]
+| Aliases                 = 
+
+| Affiliation             = [[Arakko (Earth-616)|Arakko]], formerly {{m|Swordbearers of Arakko (Earth-616)|Swordbearers of Arakko}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = White
+| Hair                    = Black
+| UnusualSkinColor        = Grey
+| UnusualFeatures         = [[Adamantium]] skin and <nowiki>glowing</nowiki> tattoos
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = 
+| Citizenship             = Arakkii
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = [[Arakko (Earth-616)|Arakko]]
+
+| Creators                = Jonathan Hickman; Pepe Larraz; Benjamin Percy
+| First                   = Wolverine Vol 7 6
+
+| Quotation               = I may be a tenderhearted poet, but I’m also a killing machine.
+| Speaker                 = [[Solem (Earth-616)|Solem]]
+| QuoteSource             = Wolverine Vol 7 6
+
+| History                 = Solem is an Arakkii mutant with [[Adamantium]] skin. 100 years ago, [[Bracken (Earth-616)|Bracken]] challenged Solem, who then killed him. For this murder, Solem was imprisoned in the pit of the [[Tower of Broken Will]]. Bracken's wife, [[War (First Horsemen) (Earth-616)|War]], gave Solem Bracken's [[Hellblade (Blade)|Hellblade]] believing that the solitude would drive him mad and that he would kill himself with it. However, Solem was undaunted as he actually enjoyed the solitude, while other Arakkii who still adored him came to visit and brought him gifts. As Solem was one of the chosen individuals for [[Opal Luna Saturnyne (Earth-9)|Saturnyne]]'s [[X of Swords|Ten of Swords]] challenge, War and [[Pestilence (First Horsemen) (Earth-616)|Pestilence]] were forced to break him free in order to win the challenge.{{r|Wolverine Vol 7 6}}
+
+After getting the information he needed from the Oracle of Arakko, Solem used the Hellblade to access [[Hell]]. There he met his opponent, [[James Howlett (Earth-616)|Wolverine]], imprisoned while regenerating. After he introduced himself to Logan, the two were forced to cooperate in order to get their hands on the [[Muramasa Blade]]. They went looking for [[Muramasa (Earth-616)|Muramasa]] himself, who had become a slave for the [[Hand (Earth-616)|Hand]]. They stumbled across a Hand wedding carried out by the [[Beast (Demon) (Earth-616)|Beast]], with Muramasa giving the couple their own blades. The mutant duo assaulted the wedding and killed the couple, with Solem taking the two swords, while Wolverine was snatched by the Beast. Solem offered to help Logan escape with one of the swords, in exchange for a favor, to which Logan agreed.{{r|X-Force Vol 6 13}}
+
+During the tournament, Solem was pitted against his own teammate, War, in a challenge to see who could cut a limb off of an opponent first. Solem called in his favor with Logan, asking Saturnyne to summon him and telling War that he had just killed her son, before leaving. Logan was successful in winning the challenge, slicing off War's hand.{{r|Wolverine Vol 7 7}} Following the end of the tournament, Solemn sneaked behind Saturnyne's guards and entered one of [[Krakoa (Earth-616)|Krakoa]]'s [[Gateways]].{{r|X of Swords: Destruction Vol 1 1}}
+
+| Personality             = 
+
+| Powers                  = Solem is a [[Homo superior|mutant]] with the following powers:
+* '''Superhuman Strength:''' Solem was able to break free from Wolverine's grip with ease.{{r|Wolverine Vol 7 6}} 
+* '''Superhuman Durability:''' Solem’s skin is comprised of [[Adamantium]].{{r|X-Force Vol 6 13}}
+* '''Advanced Longevity:''' Solem is more than one hundred years old and still looks young.{{r|Wolverine Vol 7 6}}
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+* '''Muramasa blade:''' Solem skin can be cut using one of the [[Muramasa Blade|Murasama]] swords.{{r|X-Force Vol 6 13}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+* '''[[Hellblade (Blade)|Hellblade]]:''' A blade which previously belonged to Bracken, and acted as a key to Hell.{{r|X-Force Vol 6 13}}
+* '''[[Muramasa_Blade|Murasama blade]]:''' A brand new blade forged by Muramasa.{{r|X-Force Vol 6 13}}
+
+| Notes                   = * Solem is known as a great seducer, always knowing how to please and attract anyone he meets.{{r|X-Force Vol 6 13}} Moreover, even after being sentenced for his crimes the citizens of Arakko continued to adore him and visited him in the pit he was imprisoned at, bringing gifts.{{r|Wolverine Vol 7 6}}
+* Solem was initially invisioned by [[Jonathan Hickman]] and designed by [[Pepe Larraz]].{{r|{{cite web|url=https://aiptcomics.com/2020/10/12/x-men-monday-79-x-of-swords-week-4/|title=X-Men Monday #79 – Jordan D. White Answers Your X of Swords Week 4 Questions|work=AIPT|first=Chris|last=Hassan|date=12 October 2020|accessdate=13 October 2020}}}}{{r|{{cite web|url=https://www.previewsworld.com/Article/246233-The-X-Men-Confront-the-Swordbearers-of-Arakko-in-the-New-X-of-Swords-Stasis-Trailer|title=The X-Men Confront the Swordbearers of Arakko in the New X of Swords: Stasis Trailer|work=PREVIEWS World|first=|last=|date=1 October 2020|accessdate=13 October 2020}}}}
+| Trivia                  = * In the ''Annals of Arakko: The Trial of Solem'', it is mentioned that Solem is attracted to both genders as he indulged in excess to various men and women’s cravings of him. Moreover, it is speculated that Solem had an affair with Bracken and that he had also made advances towards War. {{r|Wolverine Vol 7 6}}
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Bisexual Characters]]
+[[Category:Post-M-Day Mutants (Unregistered)]]
+[[Category:Advanced Longevity]]

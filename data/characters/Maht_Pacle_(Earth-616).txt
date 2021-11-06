@@ -1,0 +1,67 @@
+{{Marvel Database:Character Template
+| Image                   = Maht Pacle (Earth-616) from Official Handbook of the Marvel Universe A-Z Update Vol 1 5 001.jpg 
+| Name                    = Maht Pacle
+| CurrentAlias            = Obliterator
+| Aliases                 = 
+
+| Affiliation             = {{m|Elders of the Universe}}
+| Relatives               = 
+| MaritalStatus           = Widowed
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z Update #5}}
+| Gender                  = Male
+| Height                  = 9'1"
+| Weight                  = 2040 lbs
+| Eyes                    = White
+| Hair                    = Black
+| UnusualFeatures         = Enlarged round cheeks
+
+| Origin                  = [[Alien Mutant|Mutant]] of an [[Alien|alien]] race;{{r|Silver Surfer Vol 3 6}}{{r|Official Handbook of the Marvel Universe A-Z Update #5}} [[Elder of the Universe]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Executor and wanderer
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Steve Englehart; Marshall Rogers
+| First                   = Silver Surfer Vol 3 #4
+
+| History                 = Five billion years ago, the Obliterator discovered that he was immortal and gave a meaning to his life by tracking and killing all of the people of his species but himself; that kept him busy while he was developing new means of destruction. He was also proud of his goals.{{r|Silver Surfer Vol 3 6}}
+
+After destroying his species, he decided to search for more living things to kill throughout the universe. He eventually found the [[Ord Zyonz (Earth-616)|Gardener]], who introduced him to others like them, immortal monomaniacs known as the [[Elders of the Universe (Earth-616)|Elders of the Universe]].{{r|Silver Surfer Vol 3 6}} None of them could die because of a special agreement with [[Death (Earth-616)|Death]].
+
+However, the Elders prepared a plan to insure absolute immortality, first by waging war on Death and later by destroying [[Galactus]]. They thought that Galactus' death would cause a new Big Bang and the creation of a new universe where each of the Elders would have Galactus-like powers.
+
+[[Norrin Radd (Earth-616)|Silver Surfer]] and [[Mantis (Brandt) (Earth-616)|Mantis]] discovered the Elders' plan, and the Obliterator tried to kill them. Silver Surfer redesigned the Obliterator's equipment to render it harmless, and left him trapped, without weapons, on a world without animal life to kill.
+
+Lacking a purpose in life, the Obliterator was obliterated. He was left sitting on that world, vainly waiting for something to evolve so that he could kill it.{{r|Silver Surfer Vol 3 5}}
+
+===Contest of Champions===
+The Obliterator took part in a Contest of Champions between the Elders of the Universe to decide who would keep the [[Neutronium|Iso-8]] that was now abundant after the rebirth of the multiverse, his champions lost and he was eliminated from the contest.{{r|Contest of Champions Vol 1 6}}
+
+| Powers                  = * '''Immortality:''' Due to their special status as Elders of the Universe, Obliterator or his siblings cannot die. His regeneration skills are also amazing.
+
+* '''Body Perservation:''' Obliterator's mutant powers gave him unlimited vitality.{{r|Silver Surfer Vol 3 6}}
+
+* '''Flight:''' 1000 thousand times lightspeed.
+
+* '''Primordial Power:''' He uses his own connection to the original energy of the universe as a power supply for his equipment.
+
+| Abilities               = Weapon designer.
+| Strength                = Superhuman.
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = The Obliterator possesses and uses different weapons, including heat-tracking projectiles, different beams (Concussion, kinetic, plasm), heat, light and fire generators and a gas spray. All of them cause a great amount of damage.
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Alien Mutants]]

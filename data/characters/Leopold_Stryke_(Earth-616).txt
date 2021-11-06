@@ -1,0 +1,79 @@
+{{Marvel Database:Character Template
+| Image                   = Leopold Stryke (Earth-616) from Defenders Strange Heroes Vol 1 1 001.jpg 
+| Name                    = [[Leopold Stryke|Leopold "Leo" Stryke]]
+| CurrentAlias            = Eel
+| Aliases                 = 
+
+| Affiliation             = {{m|Serpent Squad (Cobra)|Serpent Squad I}}, {{m|Hydra (Earth-616)|Hydra}}; formerly {{m|Serpent Squad (Madame Hydra)|Serpent Squad II}}, {{m|Crime Wave (Team) (Earth-616)|Crime Wave}}, {{m|Emissaries of Evil (Egghead) (Earth-616)|Emissaries of Evil}}, {{m|Maggia}}
+| Relatives               = 
+[[Jordan Dixon (Earth-616)|Jordan Stryke (Viper)]] (brother)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Defenders: Strange Heroes #1}}
+| Gender                  = Male
+| Height                  = 5'8"
+| Weight                  = 180 lbs
+| Eyes                    = Green
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = Marine life expert, professional criminal 
+| Education               = 
+| BaseOfOperations        = Mobile
+
+| Creators                = Stan Lee; Dick Ayers
+| First                   = Strange Tales Vol 1 #112
+| Death                   = Ghost Rider Vol 2 #21 
+
+| History                 =
+
+===Early Criminal Career===
+
+Leopold Stryke, the original Eel, was the curator of an aquarium who led a secret life as a costumed criminal. 
+
+He was first captured by the police as a result of his battle with Johnny Storm, the [[Jonathan Storm (Earth-616)|Human Torch]]. After stealing Project X, a miniature nuclear pile, the Eel attempted to sell it but was told about the device and attempted to dispose of it in deserted woods. Johnny was able to stop the Eel, but not before Project X went critical. In order to save countless lives, Johnny absorbed the blast but was seriously injured.{{r|Strange Tales Vol 1 112}} He was sent to prison, but returned to his life of crime after his release. After a second defeat by the Torch,{{r|Strange Tales Vol 1 #117}} he worked with [[Zoltan Drago (Earth-616)|Mr. Fear]] and the [[Raymond Bloch (Earth-616)|Ox]] as the [[Fellowship of Fear (Earth-616)|Fellowship of Fear]] against [[Matthew Murdock (Earth-616)|Daredevil]].{{r|Daredevil Vol 1 #6}} He was also amongst the many supervillains assembled by [[Victor von Doom (Earth-616)|Doctor Doom]] to attack the wedding of [[Reed Richards (Earth-616)|Reed Richards]] and [[Susan Storm (Earth-616)|Susan Storm]].{{r|Fantastic Four Annual Vol 1 #3}}
+
+The Eel was recruited by [[Luchino Nefaria (Earth-616)|Count Luchino Nefaria]] to assist him in his attempt to hold [[Washington DC]] for ransom. Nefaria and the costumed criminals he employed on this venture were thwarted by the original [[X-Men (Earth-616)|X-Men]].{{r|X-Men Vol 1 #22|23}} The Eel later acted in partnership with three of the other criminals whom Nefaria had hired: the [[Samuel Smithers (Earth-616)|Plantman]], [[Ebenezer Laughton (Earth-616)|Scarecrow]], and [[Alexander Gentry (Earth-616)|Porcupine]]. 
+
+Stryke later joined his brother Jordan, the original [[Jordan Dixon (Earth-616)|Viper]], as a member of the first [[Serpent Squad]]. The Eel was also a member of the second [[Serpent Squad]], although he was unaware when joining that Jordan had been murdered by the new Squad's organizer, the second [[Viper (Madame Hydra) (Earth-616)|Viper]]. 
+
+Convinced that they were failures, Stryke and Alex Gentry (Porcupine), sought guidance from the Celestial Mind Control movement, which was secretly masterminded by the alien [[Nebulon (Earth-616)|Nebulon]].{{r|Defenders Vol 1 #36}} Nebulon pitted the mind-controlled Eel and the Porcupine against the [[Defenders (Earth-616)|Defenders]], who defeated them both.{{r|Defenders Vol 1 #37|38}}
+
+===Death===
+
+He was killed by the costumed criminal known as the [[Melvin Potter (Earth-616)|Gladiator]], who stole a disintegrator ray device that was in the Eel's possession.{{r|Ghost Rider Vol 2 #21}}
+
+| Powers                  = Eel received all of his powers from the suit he had constructed.
+
+
+| Abilities               = Leo Stryke was educated as a marine biologist and highly skilled in the field of electronics. He was a fair hand-to-hand combatant.
+| Strength                = Eel possessed the normal human strength of a man of his age, height, and build who engaged in moderate regular exercise.
+| Weaknesses              = 
+
+| Equipment               = Eel Battlesuit:
+*Insulation: Eel's costume was heavily insulated in order to protect him from the electricity it generated.
+*Greasy Coating: The costume exuded a grease-like substance which made it extremely difficult for opponents to get and maintain a firm grip on him.
+*Electrical Generation: It contained devices capable of generating large quantities of electricity, enough to stun or even kill a human being.  He could utilize the electrical energy his costume generated for a variety of effects:
+*Electrical Blasts: The Eel could fire bolts of electricity from his hands.
+*Electrification: The Eel could electrify the outer surface of his costume with enough current to shock anyone who touches him into unconsciousness. This was direct current, so anyone grabbing him would be unable to release their grip.
+*Light Aura: The Eel could generate a glowing electrical aura around his costume capable of illuminating his immediate area.
+| Transportation          = * [[Eel's Helicopter]].
+| Weapons                 = 
+
+| Notes                   = 
+
+* The Eel battlesuit has been used by a number of succeeding super-villains [[Edward Lavell (Earth-616)|Eddie Lavell]] is the current "Eel" that has assumed the mantle.
+
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = Eel_%28comics%29#Leopold_Stryke
+| Links                   = * [http://www.marveldirectory.com/xoops/modules/wordbook/entry.php?entryID=240 Marvel Directory]
+}}
+[[hu:Angolna (Leopold Stryke)]]

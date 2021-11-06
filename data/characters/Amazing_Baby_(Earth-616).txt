@@ -1,0 +1,57 @@
+{{Marvel Database:Character Template
+| Image                   = Amazing Baby (Earth-616) from X-Factor Vol 4 1.jpg
+| Name                    = Amazing Baby
+| NameRef                 = {{r|X-Factor Vol 4 1}}
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{m|X-Factor Investigations}}; formerly {{m|X-Men}}{{r|X of Swords: Destruction Vol 1 1}}
+| Relatives               = [[Rachel Summers (Earth-811)|Rachel Grey]] (owner)
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Black
+| Hair                    = None
+| UnusualSkinColor        = Silver
+| UnusualFeatures         = 
+
+| Origin                  = [[Warwolves|Warwolf]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Bloodstone Summer Lodge|Grounds of Bloodstone Summer Lodge]], [[County Durham]], [[England]], [[United Kingdom]]
+
+| Identity                = No Dual
+| Citizenship             = Krakoan
+| Occupation              = 
+| Education               = Pet
+| BaseOfOperations        = [[Boneyard (Krakoa)|Boneyard]], [[Krakoa (Earth-616)|Krakoa]]
+
+| Creators                = Tini Howard; Marcus To
+| First                   = Excalibur Vol 4 8
+| First2                  = (Unnamed)<br>{{sld|X-Factor Vol 4 1}}(Named)
+
+| Overview                = '''Amazing Baby''' was a pet [[Warwolves|Warwolf puppy]] adopted by [[Rachel Summers (Earth-811)|Rachel Grey]].{{r|Excalibur Vol 4 8}}{{r|X-Factor Vol 4 1}}
+
+| History                 = Planning to hunt them, [[Cullen Bloodstone (Earth-616)|Cullen Bloodstone]] purchased the five captive [[Warwolves]] from the [[Regent's Park Zoo|London Zoo]]. However, [[En Sabah Nur (Earth-616)|<nowiki>• --|A|-- •</nowiki>]] required the skulls of all the remaining Warwolves on [[Earth]] for a magic spell and sent [[Elizabeth Braddock (Earth-616)|Captain Britain]] and [[Excalibur (Earth-616)|Excalibur]] to procure the skulls from Bloodstone.{{r|Excalibur Vol 4 7}}
+
+Unknown to all, one of the Warwolves was pregnant and gave birth to a Warwolf puppy during the hunt. Finding herself unable to kill the pup, Captain Britain gave him to [[Rachel Summers (Earth-811)|Rachel Grey]].{{r|Excalibur Vol 4 8}}
+
+After joining the newly commissioned [[X-Factor Investigations (Earth-616)|X-Factor]], Rachel moved with Amazing Baby into the [[Boneyard (Krakoa)|Boneyard]]. Rachel has been training Amazing Baby as a tracker.{{r|X-Factor Vol 4 1}}
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Pets]]

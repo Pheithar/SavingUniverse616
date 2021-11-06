@@ -1,0 +1,214 @@
+{{Marvel Database:Character Template
+| Image                   = Secret Avengers Vol 1 27 Textless.jpg
+| Name                    = [[Mar-Vell]]
+| CurrentAlias            = [[Captain Marvel]]
+| Aliases                 = [[Captain Mar-Vell]],{{r|Marvel Super-Heroes #12}} [[Walter Lawson|Dr. Walter Lawson]],{{r|Marvel Super-Heroes #13}} Marv,{{r|Captain Marvel Vol 1 51}} Marv-Ell,{{r|Captain Marvel #27}} [[Glossary:Protectors of the Universe|Protector of the Universe]],{{r|Captain Marvel Vol 1 29}} Silvertop,{{r|Captain Marvel Vol 1 24}} [[Spaceman]],{{r|Incredible Hulk Vol 1 246}} Star-Man{{r|Incredible Hulk Vol 1 245}}
+
+| Affiliation             = {{m|Avengers}} (Posthumously made honorary member);{{r|Avengers Log #1}} formerly {{m|Imperial Kree Army}}, {{m|Defenders for a Day}}, {{m|Organization|The Organization}}, {{m|Legion of the Unliving (Grandmaster)}}, {{m|Legion of the Unliving (Grim Reaper)}}
+| Relatives               = [[Theodore Altman (Earth-616)|Teddy Altman]] (son);<br>
+[[Genis-Vell (Earth-616)|Genis-Vell]] (son, deceased);<br>
+[[Phyla-Vell (Earth-616)|Phyla-Vell]] (daughter, deceased);<br>
+[[William Kaplan (Earth-616)|Billy Kaplan]] (son-in-law);<br>
+[[Minister Marvel (Earth-616)|Minister Marvel]] (nephew, deceased)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #2}}
+| Gender                  = Male
+| Height                  = 6'2"
+| Weight                  = 240 lbs
+| Eyes                    = Blue
+| Hair                    = Blond
+| Hair2                   = (born [[:Category:Silver Hair|silver]][[Category:Silver Hair]][[Category:Infobox Eyes Update Needed]]) 
+| UnusualFeatures         = 
+
+| Origin                  = [[Kree]] [[Glossary:Mutate|mutate]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Rad-Nam]], [[Kree-Lar (Planet)|Kree-Lar]], [[Pama]], [[Large Magellanic Cloud]]
+| PlaceOfDeath            = [[Hala (Planet)|Hala]], [[Pama]], [[Large Magellanic Cloud]]
+| KilledBy                = Robert Hunter (Earth-616)
+
+| Identity                = Public
+| Citizenship             = Kree Empire
+| Occupation              = Captain in the [[Imperial Kree Army (Earth-616)|Imperial Kree Army]] Space Fleet; formerly astronomy assistant, adventurer, [[Glossary:Protectors of the Universe|Protector of the Universe]]
+| Education               = Kree military training
+| BaseOfOperations        = Mobile throughout the universe
+
+| Creators                = Stan Lee; Gene Colan
+| First                   = Marvel Super-Heroes #12
+| Death                   = Secret Avengers #28
+
+| Quotation               = To those who dwell on [[Earth]], the name Captain Marvel is that of a hero! Yet, only I...of all who walk this planet...know the mind-wrenching truth--that it may one day be my hand which signals the fatal attack upon an unsuspecting sphere...that mine may be the voice which decrees its total destruction!
+| Speaker                 = [[Mar-Vell (Earth-616)|Captain Marvel]]
+| QuoteSource             = Captain Marvel Vol 1 4
+
+| History                 = 
+===Early Life===
+====Origins====
+'''Captain Mar-Vell''' was a member of the [[Kree]], the alien humanoid warrior race which has forged an empire throughout the galaxy known as the [[Large Magellanic Cloud]]. More specifically, he was one of the so-called "Pink Kree." This Kree race had the same color skin as Caucasian [[Earth]] [[Homo sapiens|humans]], those Kree who belonged to this race were more biologically similar to humans than blue Kree were. Their existence was the result of interbreeding of many of the original blue Kree race with humanoids of other worlds, and they came to far outnumber the blue Kree, who, however, still dominated positions of wealth and governmental power in the Kree Empire.{{r|Marvel Super-Heroes #12}}
+
+====Background====
+The [[Supreme Intelligence (Earth-616)|Supreme Intelligence]], or "Supremor," the computerized fusion of great blue Kree minds of the Empire's past that governed the Kree Empire for millennia, had initially encouraged the interbreeding in question because of its realization that the original blue Kree race had reached an evolutionary dead end and hence, being composed of blue Kree minds which it absorbed into itself by means of the "Supremorization" process, it would evolve no farther either. Though it had believed that such interbreeding could have infused new life into the Kree gene pool, in recent years, it had come to believe that this was not having the desired result; the worst example of this was that it could not absorb pink Kree minds directly into itself.{{r|Captain Marvel Vol 1 41}}
+
+====The Supremor's Plans====
+The defeats of [[Sentry 459 (Earth-616)|Sentry 459]] and [[Ronan (Earth-616)|Ronan the Accuser]] caused Kree attention to be turned towards the planet Earth,{{r|Fantastic Four #65}} where the [[Inhumans (Inhomo supremis)|Inhumans]] had been spawned by Kree genetic experimentation on some of the early natives. The Supremor now saw the spontaneous emergence of Earth humans who were possessed of super-humanoid powers, and realized the human potential for development of nearly limitless psionic powers.<br>
+It formed a complex plan for the preservation of both the Kree Empire and its own governance of that empire. It would:
+# Awaken, in an Earth human, the vast psionic power their species could evolve;{{r|Avengers #89}}
+# Cause this Earth human's mind to be linked with that of a pink Kree, since, as mentioned above, they had greater biological similarity to Earth humans than blue Kree did;{{r|Captain Marvel #17}}
+# Forge a psionic link with these two minds, with an unusual plant, the '''"[[Millennia Bloom]],"''' aiding this, resulting in the Supremor acquiring almost limitless psionic powers but rendering both the pink Kree and the Earth human mindless and subject to the Supremor's full control; and, finally,{{r|Captain Marvel Vol 1 41}}
+# Destroy Earth, using the pink Kree and the Earth human as its agents, to prevent any Earth human with power matching its own from arising.
+Other factors in its calculations involved treachery by Ronan and [[Zarek (Earth-616)|Zarek]] intended to overthrow it. After causing a near disaster by framing a pink Kree for treason against the Empire, which they would blame on the Supremor after they had killed the supposed traitor, they planned to supplant it as Kree Imperial ruler. The Supreme Intelligence planned, even as it intended to foil that conspiracy, have the pink Kree pawn whom the plotters selected for it be the very pink Kree whom it would have linked to the Earth human.
+
+====An Agent is Found====
+Seeking the pink Kree who would best meet these many requirements of its highly complex plan, the Supremor found him in '''Mar-Vell,''' a captain in the Kree Space Fleet who was already a renowned Kree Imperial war hero, despite his youth. He was then in a relationship with a nurse in the Kree Space Fleet, [[Una (Earth-616)|Una]]; the Supremor was aware that both of these possessed humane attitudes and sympathies, which had been suppressed in most other Kree in their educations. Moreover, the Supremor was also aware of the unrequited love of, or rather the lust after, Una that [[Yon-Rogg (Earth-616)|Yon-Rogg]], a colonel in the Kree Space Fleet, felt, and that he was ruthless enough to use any means of disposing of his rivals for her affections; Mar-Vell and Yon-Rogg despised each other as a direct result. The crew under the command of [[Zen-Pram (Earth-616)|Zen-Pram]] were sent to retrieve the Kree Admiral [[Devros (Earth-616)|Devros]] after he had ceased communication with the Kree. During their journey, the crew stumbled across a battle between a Skrull and [[Shi'ar]] fleet and Mar-Vell intervened in aid of the [[Shi'ar Empire]]'s [[Imperial Guard (Earth-616)|Imperial Guards]] against the Skrulls.{{r|Untold Legend of Captain Marvel #1}}
+
+After that, Cal'syee Neramani, known as [[Cal'syee Neramani (Earth-616)|Deathbird]], a member of the Shi'ar royal family, informed the Kree crew on why they had gone to the Skrulls's space, which proved to have been because of [[Brood (Race)|Brood]] stealing their ships, before leaving. Mar-Vell and the crew arrived at the planet; however, they were soon ambushed by the Brood, which a Brood-infected Devros was leading.{{r|Untold Legend of Captain Marvel #2}} They were then infected with Brood eggs, but thankfully, Mar-Vell, Una, and Yon-Rogg all cured themselves and successfully escaped the Brood.{{r|Untold Legend of Captain Marvel #3}} After those events, the Supreme intelligence arranged to have a spy ship dispatched towards Earth, with Captain Mar-Vell serving aboard it, Colonel Yon-Rogg assigned as his commander, and Una serving as a nurse on their spy starship.{{r|Marvel Super-Heroes #12}}
+
+====Earth Identity====
+But soon after his arrival on Earth, Mar-Vell witnessed the death of [[Walter Lawson (Earth-616)|Dr. Walter Lawson]], a scientist on his way to his new assignment at [[Cape Canaveral]], [[Florida (State)|Florida]], in an automobile accident. Coincidentally, Lawson bore an astonishing resemblance to Mar-Vell, so the latter decided to pose as him, the better to study Earth humans progress towards developing means of space travel.{{r|Marvel Super-Heroes #13}} While posing as Dr. Lawson, Mar-Vell first met the Cape's security chief, [[Carol Danvers (Earth-616)|Carol Danvers]], for whom he developed a special concern that, in time, caused him to experience love for her. Meanwhile, Kree Sentry #459, which the Fantastic Four had defeated, had been brought to the Cape for study, and Yon-Rogg, hoping that it would destroy Mar-Vell, re-activated it from his starship. Mar-Vell publicly appeared in his green Kree helmet and green-trimmed sky blue uniform to fight the Sentry, which he succeeded in defeating. Onlookers, hearing the Sentry call him by name, believed him to be a new Earth-born superhuman adventurer named "Captain Marvel" and acclaimed him as a hero.{{r|Marvel Super-Heroes #13}}
+
+====The Supremor's Plans Unfold====
+[[File:Terry Dodson Combined Variant Covers.jpg|Captain Marvel and Ms. Marvel.|thumb|300px|right]]
+Over the succeeding months, as Ronan, Zarek, and the Supreme Intelligence had all secretly planned, Mar-Vell's sympathy for the people of Earth grew increasingly stronger, and on many occasions, he surreptitiously subverted orders from Yon-Rogg and Ronan that would have brought harm to Earth people if obeyed. Finally Yon-Rogg caught Mar-Vell in direct disobedience of an order from the Empire's Supreme Council, and Ronan sentenced Mar-Vell to death by firing squad. Mar-Vell was about to be executed on Earth when Yon-Rogg's firing squad was attacked by a contingent of [[Aakon]] warriors. In the melee, Una was fatally wounded by a stray shot from an Aakon's weapon. Mar-Vell escaped on an Earth missile and laid Una's corpse to rest on an asteroid. But Yon-Rogg then seized Mar-Vell's missile with a tractor beam and hurled it into hyperspace. As the Earth missile had no means of leaving hyperspace, it drifted there for 63 days, by which point Mar-Vell was reduced to an utter state of exhaustion and had lost consciousness.{{r|Captain Marvel #1|12}}
+
+In time, Ronan and Zarek brought the missile to a small world on the edge of the Kree Galaxy, and once there, they took the now unconscious Mar-Vell to a "multi-sensory illusion chamber" they had constructed. There they caused him to have the illusion that he encountered a godlike being named '''Zo,''' which gave him the power that he wanted to be able to destroy Yon-Rogg. The powers that Mar-Vell then received were not illusory: he became far stronger than other known Kree except for Ronan, and he gained the ability to cast sensory illusions and to teleport himself across even intergalactic distances. Mar-Vell briefly returned to Earth. However, Zo "appeared" to him again and ordered him to [[Hala (Planet)|Hala]] to battle a gigantic generator of magnetic power, disguised as an idol of the Kree god Tam-Bor, which was capable of destroying the entire planet. Right after Mar-Vell found the generator, Ronan, carrying out his and Zarek's planned attempt to overthrow the Supremor as ruler of the Kree Empire, appeared and accused Mar-Vell of being its creator. Mar-Vell and Ronan fought, but Mar-Vell succeeded in destroying the generator. The [[Supreme Intelligence (Earth-616)|Supreme Intelligence]]'s personal "[[Super Sentry (Earth-616)|Super Sentry]]" then appeared, drove off Ronan, and brought Mar-Vell to the chamber of the Supreme Intelligence, where Zarek stood as a captive. Suddenly Ronan teleported into the chamber and teleported out again with Zarek, leaving a spherical antimatter bomb behind. Though Mar-Vell leaped upon the sphere to save the Supreme Intelligence, the Supremor explained to him that its devices had neutralized it. The Supreme Intelligence honored Mar-Vell with a special uniform colored in red with black trim and gold decorations, and allowed him to retain his newly increased strength and abilities to fly unprotected through space and hyperspace, though he lost his powers to teleport himself and to cast illusions as a result. However, as soon as Mar-Vell left for space, he was suddenly bombarded with a wavelength of electromagnetic radiation and found himself blasted into the [[Negative Zone]], an antimatter continuum alongside that of Earth.{{r|Captain Marvel #13|17}}
+
+====The Linkage with Rick Jones====
+Next, the Supreme Intelligence secretly enabled Mar-Vell to make telepathic contact with [[Richard Jones (Earth-616)|Richard "Rick" Jones]], a youth who had previously been a companion to the [[Bruce Banner (Earth-616)|Hulk]], [[Steven Rogers (Earth-616)|Captain America]], and the original [[Avengers (Earth-616)|Avengers]]. At the time, Jones was attempting to replace [[James Buchanan Barnes (Earth-616)|James Buchanan "Bucky" Barnes]] as Captain America's partner, even going so far as to wear a duplication of Barnes's special outfit as Bucky. He then did not know that Captain America's greatest enemy, the [[Johann Shmidt (Earth-616)|Red Skull]], had recently employed a "[[Cosmic Cube]]" to transpose his and the real Captain America's minds into each other's bodies. The Red Skull, in Captain America's body, gave Jones a brush-off that angered the youth, and he abandoned Avengers Mansion in a huff. It was then that Mar-Vell's image, disguised as Captain America's, lured Jones to a hidden and abandoned Kree base on Earth, where he had Jones slip on a pair of "[[Nega-Bands]]" around his wrists; owing to their unique properties, the bands promptly shrank to fit Jones's wrists, for which, up to then, they had been too large. Mar-Vell then appeared to Jones in his true form and had Jones strike the nega-bands together above his own head.
+
+The result of Jones doing so was that he and Mar-Vell exchanged places: Mar-Vell was instantly teleported to Earth, and Jones, his body surrounded by a protective aura that allowed him to survive, was just as instantly teleported into the Negative Zone. As long as they wore the bands, Mar-Vell and Jones were in total telepathic contact; thus, the Supreme Intelligence had created the psychic link it sought between an Earth human and a pink Kree. The nega-bands remained on Earth on the wrists of whichever of the two, Mar-Vell or Jones, was on Earth at the time. Hence Mar-Vell could return to the Negative Zone by striking the bands together above his own head, thereby returning Jones to Earth. Mar-Vell soon discovered that he could only remain on Earth for brief periods of time; if he stayed a total of three hours or used enough energy to consume three hours(as he once did against the Hulk), he and Jones would exchange places automatically. This meant that it was Jones who spent most of the time on Earth. However, he was usually willing to exchange places with Mar-Vell at intervals.{{r|Captain Marvel #17}}
+
+====The Origin of Ms. Marvel====
+Soon after becoming linked with Jones, Mar-Vell confronted Yon-Rogg, who had abducted Carol Danvers as a hostage to use against him. Mar-Vell defeated Yon-Rogg, who died when a nearby Kree device exploded. But in the course of this fight, Danvers was bombarded with radiation from a Kree Psyche-Magnetron, which caused her to develop a half-Kree physiology that was similar to Mar-Vell's own; using the super-human powers she had accidentally acquired by this means, Danvers later became the first costumed adventurer known as Ms. Marvel.{{r|Captain Marvel #18}} But unfortunately, owing to the unique properties of the Psyche-Magnetron, Yon-Rogg was himself resurrected from the dead, and he became an independent terrorist under the alias of '''Magnitron.'''{{r| Avengers Assemble Vol 2 16}}<!-- It is not known at this time whether Yon-Rogg's most recent alias can also, or indeed actually should, be spelled '''Magnetron.''' -->
+
+Sometime later, Mar-Vell used the Fantastic Four's machine that created a doorway into the Negative Zone to transport Jones out of the Zone, so that they both then existed in the Earth dimension simultaneously and separately.{{r|Avengers Vol 1 89}}
+
+===='''''[[Kree-Skrull War]]'''''====
+It was at this point that Ronan, who had been imprisoned along with Zarek, now broke free and seized control of the Kree Imperial government.{{r|Avengers Vol 1 89}} Almost immediately afterward, war broke out between the Kree and Skrull Empires; this war directly involved the Avengers. Eventually, the Supreme Intelligence contacted Rick Jones and awakened his latent psionic powers. Jones used them to paralyze the entire Skrull Space Fleet as well as Ronan and his forces, thereby ending the "[[Kree-Skrull War]]" and allowing the Supreme Intelligence to return to power. The Supreme Intelligence then robbed Jones of his power, leaving the young man exhausted and lying on the point of death. As the Supreme Intelligence had planned, Mar-Vell had to be linked with Jones, in the same manner as before, so that his own life force would restore Jones to health.{{r|Avengers Vol 1 96|97}}
+
+===Later Life===
+====The Link Healed====
+Mar-Vell returned to Earth, where he discovered that because of the Supreme Intelligence having stripped him of his latent psionic powers, Jones's body had lost its ability to contain both his own life force and Mar-Vell's. Jones was bombarded with a form of electromagnetic radiation by Professor [[Benjamin Savannah (Earth-616)|Benjamin Savannah]], which had two effects. The first of these was that Jones's body regained its ability to contain both his and Mar-Vell's life forces. The second of these was that Mar-Vell himself acquired the power to absorb solar energy and use it for flight, strength, and firing bolts of force.{{r|Captain Marvel #22|24}} Unfortunately, Savannah himself was killed just after administering this radiation treatment to Jones.{{r|Captain Marvel #25}}
+
+====Encounter with Eon====
+Soon afterward, Mar-Vell became embroiled in fighting [[Thanos (Earth-616)|Thanos]] and his plans for destroying all life in the universe. Mar-Vell was teleported to the presence of the extraterrestrial being called [[Eon (Earth-616)|Eon]], which had been created thousands of years before to watch over the evolution of super-human beings on Earth. Eon induced Mar-Vell to reject the Kree's love of warfare entirely, and to reach inner peace. Eon then granted Mar-Vell a psionic ability called "[[Glossary:Cosmic Awareness|Cosmic Awareness]]," whose exact nature and scope were not clearly defined, and designated him as "[[Glossary:Protectors of the Universe|Protector of the Universe]]." Thanks to these changes in himself, Captain Mar-Vell became the primary force in bringing about Thanos' defeat.{{r|Captain Marvel #25|33}}
+
+====Mar-Vell Against Nitro====
+But Mar-Vell's next encounter was the one that ultimately led directly to his own death. For in it, Mar-Vell faced off against the criminal Robert Hunter, an agent of the '''"[[Lunatic Legion (Kree Insurgents) (Earth-616)|Lunatic Legion]],"''' which had granted him the power to explode his own body at will and later re-integrate himself physically without being harmed, and who called himself [[Robert Hunter (Earth-616)|Nitro]]. Just before he and Mar-Vell fought, Nitro had stolen a canister of a powerful, top-secret government nerve gas called [[Compound 13]]. During the fight between the two, which Mar-Vell won by having Jones strike his own Nega-Bands together above his head just at the moment Nitro exploded, a leak developed in the canister of gas due to Nitro having exploded his body, and even though Mar-Vell used his high strength level to seal the canister, he could not avoid breathing in some of the Compound 13 nerve gas himself, and it caused him to collapse. Nitro had lost their fight, and Mar-Vell himself seemed to recover fully afterwards. Unfortunately for Mar-Vell, however, as he was eventually to learn, the Compound 13 nerve gas also caused cancer.{{r|Captain Marvel #34}}
+
+====The Supremor's Plans Ruined====
+As time passed, Mar-Vell and Jones learned that they could both exist in the Earth dimension simultaneously by concentrating on the nega-bands. However, to maximize Mar-Vell's power when necessary, they would still merge. The Supreme Intelligence, as per its true plans (described above) for them, orchestrated events so as to force Jones and Mar-Vell to share the power of the nega-bands and then, as the Supremor, challenged them in battle at the same time, intending to defeat them in time for the "Millennia Bloom" to ravage their minds, reducing both of them to mindless soldiers whom the Intelligence would use to destroy Earth, so that no Terrestrial could ever arise with power matching its own, and absorb Jones's potential.{{r|Captain Marvel #41}} But its plans were foiled when Jones activated the Intelligence's ship's weapons systems to trigger a solar flare from Hala. The Intelligence was forced to divert all of its energy into the planetary shields, leaving it and all of the Kree powerless and unconscious.{{r|Captain Marvel #46}}
+
+====The Link Broken====
+After Mar-Vell passed too closely to a black hole, Jones was again trapped in the Negative Zone. Mar-Vell and Jones lost their shared ability to communicate with each other through the bands, and neither of them could last longer than nine hours in the Zone at a time. Mar-Vell managed to solve this problem during a battle with the [[Super-Adaptoid (Earth-616)|Super-Adaptoid]], tricking the robot into mimicking the nega-bands and then striking them together above its own head, which dispatched the Adaptoid to the Negative Zone and returned Jones to Earth, freed of his dependence on Mar-Vell.{{r|Captain Marvel #47|50}}
+
+====The Death of Captain Marvel====
+The lung cancer ("[[Glossary:Cancer|Blackend]]" in Kree medical terminology) caused by the Compound 13 nerve gas Mar-Vell had breathed in, became terminal. Mar-Vell's Nega-Bands had suppressed the cancer, but when it eventually mutated, the bands also prevented all known cancer treatments from working. Removing the bands would allow the cancer to advance much faster and kill him within hours. Although the best chance for a successful treatment would necessitate access to the Kree medical community, the Kree Empire's government considered Mar-Vell a traitor.
+
+Although various colleagues like [[Reed Richards (Earth-616)|Reed Richards]], [[Henry McCoy (Earth-616)|Henry McCoy]] and [[Henry Pym (Earth-616)|Hank Pym]] attempted to conduct quick research for a medical solution, those effects proved unsuccessful. Mar-Vell spent his last days at his home on [[Titan (Moon of Saturn)|Titan]]. He died there, surrounded on his deathbed by his lover [[Elysius (Earth-616)|Elysius]] of Titan, Jones, the Avengers (who accepted him into their ranks on an honorary and posthumous basis),{{r|Avengers Log #1}} and other friends. He was even awarded the Royal Skrull Medal of Valor by [[Zedrao (Earth-616)|General Zedrao]].{{r|Death of Captain Marvel Vol 1 1}}
+
+===Secret Invasion===
+====The Skrull Impostor====
+As part of the Skrull [[Secret Invasion]], a shape-shifting Skrull called [[Khn'nr (Earth-616)|Khn'nr]] was locked into the shape of Mar-Vell, the first Captain Marvel, and given technological replicas of the Kree nega-bands to replicate Captain Marvel's powers. Khn'nr received memory implants to turn him into a sleeper agent making him believe he was Captain Marvel supposedly up until the time of the invasion when a psychological trigger would be activated to return him to his Skrull persona.{{r|Captain Marvel Vol 6 1|5}}
+
+The process went wrong, however, leading Khn'nr to believe that he truly was Mar-Vell and making him forget his Skrull persona. He eventually came to realize the truth and that it was pointless trying to fight his true nature. Thus he attacked [[Thunderbolts Mountain]] on behalf of the Skrulls, but was talked out of his attack by [[Norman Osborn (Earth-616)|Norman Osborn]]. As Khn'nr was leaving, he crash-landed, sustaining terminal injuries, and encountered [[Noh-Varr (Earth-200080)|Noh-Varr]]. Before he died, he begged Noh-Varr to take up his mantle and protect Earth from the Skrulls.{{r|Secret Invasion Vol 1 5|6}}
+
+===Chaos War===
+During the [[Chaos War]] event, Mar-Vell was one of the deceased Avengers resurrected from the dead due to a weakening in the veil between life and death. Alongside several other Avengers, he faced off against minions of the Japanese god [[Amatsu-Mikaboshi (Earth-616)|Amatsu-Mikaboshi]] and former Avengers foes [[Eric Williams (Earth-616)|Grim Reaper]] and [[Nekra Sinclair (Earth-616)|Nekra]] while working to save the living Avengers who, due to [[Nightmare (Earth-616)|Nightmare]]'s earlier defeat, had been left in a comatose state. Mar-Vell ultimately re-sacrificed his life to enable the [[Jacques Duquesne (Earth-616)|Swordsman]] and [[Rita DeMara (Earth-616)|Yellowjacket]] to escape.{{r|Chaos War: Dead Avengers Vol 1 1|3}}
+
+===The Coming of the Phoenix===
+During the [[Avengers vs. X-Men (Event)|war]] between the Avengers and the [[X-Men (Earth-616)|X-Men]], Captain Mar-Vell was again resurrected by the Kree Empire using the [[M'kraan Crystal|M'Kraan Crystal]] to unite and protect all of the Kree against the [[Phoenix Force (Earth-616)|Phoenix Force]]. This plan was orchestrated by the [[Minister Marvel (Earth-616)|Minister Marvel]], the nephew of Mar-Vell, and by his son, in order to clear his family name. Mar-Vell himself was brainwashed, along with all the other Kree and everyone powered by Kree energies, into believing that the Phoenix would bring their salvation. The [[Vision (Earth-616)|Vision]], a [[Synthezoids|synthezoid]] created by [[Ultron (Earth-616)|Ultron]] from the remains of the by-then destroyed first [[Human Torch (Android) (Earth-616)|Human Torch]] who had then betrayed his own creator and joined the Avengers, managed to free Mar-Vell and the other Kree from the illusion, but too late to evacuate the planet, as the Phoenix drew ever closer to Hala. Mar-Vell realized that the Phoenix was coming to claim the portion of its power that had been used to resurrect him the second time and still resided within him. He re-sacrificed himself to save Hala, and the Phoenix departed for Earth. Mar-Vell's corpse later landed on a desert planet and, having been touched by the Phoenix, sprouted the first plant life on the planet.{{r|Secret Avengers Vol 1 26|28}}
+
+| Powers                  = Originally, Captain Mar-Vell possessed no super-humanoid powers. However, the various Kree races had all evolved with higher strength levels than Earth humans to combat the heavier gravitation of their home worlds.
+
+'''[[Kree|Kree Physiology]]:''' Owing to his Kree physiology, Captain Mar-Vell possessed the natural attributes of the Kree race; he possessed resistance to poison, toxins and disease (systemic antidote), and a higher natural strength level and more durable body than a human, approximately twice the level.
+
+* '''Super-Humanoid Strength:''' The shared super-normal, but not super-humanoid, strength level of the Kree races enables a Kree to lift (press) between 1 ton and 1.2 tons under optimal conditions, including Earth gravitation.
+
+* '''Super-Humanoid Durability:''' As a Kree, Mar-Vell was of sturdier genetic stock than humans, making him more resilient to impact, pressure, and temperature extremes.
+
+* '''Super-Humanoid Speed:''' Mar-Vell was impressively fast even for a Kree, possessing a level of speed that would qualify as enhanced for a human.
+
+* '''Super-Humanoid Agility:''' Mar-Vell's agility, balance, and body coordination were enhanced to levels that are beyond the natural physical limits of the finest Earth athlete.
+
+* '''Super-Humanoid Reflexes:''' Mar-Vell's reflexes were beyond those of the finest human athlete, which made it possible for him to dodge gunfire, even at point-blank range, from multiple gunners at the same time.
+
+Over the course of Mar-Vell's life he was, both artificially and cosmologically, augmented and evolved by a host of outside sources that all bolstered his natural Kree genetic structure. The first was by being empowered by cosmic entities, both the false entity called Zo{{r|Captain Marvel #11}} and, later, the true entity named Eon.{{r|Captain Marvel #29}} He was also empowered by the Nega-Bands,{{r|Captain Marvel #17}} and his body was further treated with photonic energy, giving him additional powers he could channel through the bands.{{r|Captain Marvel #22}}
+
+'''The Casting Of Sensory Illusions:'''<br>''{{g|Possibly Formerly Only}}''<br>Zo bestowed upon Captain Mar-Vell the semi-telepathic ability to project highly convincing sensory illusions into the minds of any adversary he came across. The power had limits, however, as it only worked on the optics of organic beings; robotic agents like the [[Man-Slayer (Earth-616)|Man-Slayer]] were immune to its effects.{{r|Captain Marvel #11}}
+
+'''Augmented Physiology:''' Zo had greatly enhanced Mar-Vell's condition beyond his initial regular limits, making him strong enough to crush boulders, resist heavy impacts, and move even faster than ever before. Under the influence of Eon, his bodily frame was augmented further still. With the aid of the Kree Nega-Bands, he was further empowered both physically and dynamistically.
+* '''Bolstered Strength:''' At Zo's temperance, Captain Mar-Vell's base strength level subsequently became sufficient for him to lift (press) at first 10 tons, later 15 tons; this enabled him to smash known almost-unbreakable Kree elements such as '''daxilium.'''{{r|Captain Marvel #11}}
+* '''Bolstered Durability:''' Mar-Vell's tolerance for blunt trauma was also strengthened, to where he was able to withstand a full force blast from Iron Man's repulsor rays or blasts from Ronan's universal weapon, and trade blows with the likes of the Man-Slayer while himself emerging unscathed.{{r|Captain Marvel #12|16}}
+
+'''Flight:''' Mar-Vell also found that he could fly without the need of the rocket belt that had been part of his Kree uniform, having the ability to travel through the infinite void of space at "translight"/supra-luminal (faster-than-light) speeds unaided.{{r|Captain Marvel #11}}
+
+'''Teleportation:'''<br>''(Possibly formerly only.)''<br>Mar-Vell was also granted the ability to translocate himself at faster than light speeds, giving him the appearance of flight, but he needed the augmented linens of his Kree uniform in order to resist the rigors of traveling through such means.{{r|Captain Marvel #11}}
+
+'''Cosmic Awareness:''' Captain Mar-Vell's most impressive power was his "Cosmic Awareness," which he received from Eon. This ability allowed him to know exactly what he needed to know at any moment. This could range from what his current location was to discovering an opponent's weakness; upon acquiring this power, he first demonstrated it by realizing, not only that certain details of the special uniform with which the Supreme Intelligence had honored him for preventing its destruction (as described above) had been altered, but also that Eon had transformed the color of his previously silver-white hair to blond. This power alone made Captain Mar-Vell a force to be reckoned with, but its exact nature and scope have never been clearly defined. It might have been somewhat comparable to [[Peter Parker (Earth-616)|Spider-Man]]'s "spider-sense" and to [[Mantis]]'s awareness of psychic "vibrations," but its scope was far greater than either of those.{{r|Captain Marvel #29}}
+
+'''Absorption and Manipulation of Radiation/Energy:''' Dr. Benjamin Savannah's radiation treatment of Rick Jones had altered Mar-Vell's genetic structure in such a way, that not only could he absorb energy from outside sources, especially sunlight and photonic energy, but also convert and manipulate it for various uses.{{r|Captain Marvel #22}} He eventually came to rely on solar power rather than the bands for flight, and during flight, he would leave a glowing trail, resembling a star-field, behind him.{{r|Captain Marvel #29}}
+* '''Nega-Band Based Energy Absorption:''' Mar-Vell also demonstrated the ability, drawn from the Nega-Bands, to absorb energy into himself without harm.
+* '''Simulated Telekinesis:''' He could manipulate his energies in such a way as to move people/objects about by focusing constructs around them.
+* '''Healing/Restoration:''' Captain Marvel would eventually learn that he could use solar/photonic energy used to empower him as a means to accelerate his own recovery process. A skill initially utilized through use of his Nega-Bands, he came to realize he could heal himself through his natural ability to absorb and metabolize solar energy.{{r|Captain Marvel #43}} Using the Nega-Bands, he could redistribute absorbed photon power to heal as well as reinvigorate others.{{r|Captain Marvel #58}} This power would not, however, work on the lung cancer he contracted from the nerve gas he had proved unable to avoid breathing in during his fight against Robert "Nitro" Hunter.
+
+'''Solar Energy Metabolics:''' Mar-Vell possessed the ability to metabolize solar energy and convert it for a variety of uses, including conversion of the light of the sun and stars into different forms of light and energy.
+*'''Flight:''' While he retained his ability to fly, when doing so using solar power rather than the Nega-Bands, Mar-Vell found that he would leave behind a glowing trail that resembled a star-field.
+*'''Photon Energy Blasts:''' Captain Mar-Vell could project photon energy blasts that channeled his available energies into a devastating blast.{{r|Captain Marvel #47}}
+** '''Energy-Enhanced Strike:''' Captain Mar-Vell was also able to channel the said energy behind his blows to increase their striking power, once employing this power to knock out the Super-Skrull with one punch.
+*'''Physical Augmentation:'''
+*'''Size-Shifting:''' After one occasion when he accidentally absorbed too much energy from a destroyed star, Captain Marvel found that he could unconditionally shift his size to monolithic heights.{{r|Captain Marvel #57}}
+*'''Virtual Invulnerability'''
+*'''Regenerative Healing Factor'''
+
+'''Minor Molecular Control:''' Mar-Vell demonstrated the ability to use absorbed energy to transform the regular clothes he wore in Earth disguise into his uniform, and vice versa.{{r|Captain Marvel #58}}
+
+| Abilities               = General Zedrao praised Mar-Vell as "quite possibly the greatest warrior who walked the stars".{{r|Death of Captain Marvel Vol 1 1}} Possessed of extensive knowledge of the technologically advanced vehicles and devices of the Kree Empire, Captain Mar-Vell was considered the best soldier and warrior in the Kree Army, being highly trained and a capable hand-to-hand combatant, starship pilot, spy, marksman capable of using both blasters and ballistic weapons, swordsman and as a tactician, he was often compared to the likes of Captain America in terms of ability. Being from a highly advanced alien civilization, Captain Mar-Vell also had extensive knowledge in highly advanced Kree technology; due to Mar-Vell's upbringing in an advanced alien culture in which intelligence was superior to that of humans. Mar-Vell was capable of matching the most advanced thinkers in the Marvel Universe, as he was known to make great calculations in seconds. On top of that, Mar-Vell was highly skilled in the fields of mathematics, robotics, and mechanics to be able to pose undercover as a scientist at Cape Canaveral{{r|All-New Official Handbook of the Marvel Universe A to Z: Update Vol 1 4}}
+| Strength                = Originally, Captain Mar-Vell possessed peak human strength potential of a Kree of his age, height, and build who engaged in intensive regular exercise, which meant that he possessed a far higher strength level than the mean average for normal Earth humans. He could then lift (press) up to 1,000 lbs under Earth gravitation, with maximum effort. The Kree [[Nega-Bands]] enabled Mar-Vell to convert his psionic energy into physical strength, so that he could lift (press) 10 tons. After Dr. Benjamin Savannah's radiation treatments, Mar-Vell could lift (press) 15 tons while wearing the nega-bands.
+| Weaknesses              =  
+
+| Equipment               = * '''[[Nega-Bands]]:''' Kree "nega-bands" use energies of the Negative Zone and the wielder's own energies. Those who wear them are capable of interstellar flight and become resistant to many attacks and the micro-pressure of deep outer space as well as ceasing to require food, water, air or sleep. The bands, however, are '''''not''''' capable of distinguishing water from a proper atmosphere; therefore, a wielder of the Nega-Bands could still drown despite being protected from spatial micro-pressure. Such wearers are also granted super-human strength. The bands have considerable ability to manipulate, absorb and project various types of energy, except mystic energies, but to a lesser extent than that of the Quantum Bands.
+**'''Immunity To Cold, Radiation, Micro-Pressure, And Suffocation:''' Wearers of Kree Nega-bands acquire such super-humanoid powers as described above; however, they can still be affected by gas-based attacks, as Mar-Vell himself was in conflict against Robert "Nitro" Hunter, in whose course he contracted the lung cancer that killed him.
+* '''Captain Mar-Vell's [[Kree Uniform]]:''' While serving in the Kree Space Fleet, Mar-Vell wore the green-trimmed sky blue Kree uniform that signified his rank as a captain.{{r|Official Handbook of the Marvel Universe Vol 2 #7}} Later, the uniform was modified, by the imaginary cosmic being Zo, to resist the rigors of spontaneous teleportation through space. Later still, the Supreme Intelligence honored him for his efforts to save it from destruction with a black-trimmed red uniform bearing gold decorations.{{r|Captain Marvel Vol 1 16}}
+* '''Knockout Capsules:'''
+* '''Smoke Grenades:'''
+| Transportation          = * '''Jet Belt:''' The Jet Belt was a standard Kree soldier equipment item utilized by many of its trained military personnel. Mar-Vell utilized the rocket-powered utility belt to achieve self-propelled flight at various speeds.
+| Weapons                 = * '''Wristmounted Uni-Beam:''' Mar-Vell, before his subsequent changes, utilized miniature Kree Universal Beam weaponry into a pocket sized laser band on his wrist. Whatever it blew apart, it could reconstruct on a molecular level. It could also emit electric arcs that once proved powerful enough to stun the Super-Skrull momentarily, cast blinding glares or shrouds of darkness, and strike down a Kree Sentry with one shot.
+| Notes                   = [[Stan Lee|Stan Lee]] created, and [[Gene Colan|Gene Colan]] designed, '''''Captain''''' Mar-Vell, in ''Marvel Super-Heroes #12,'' primarily so that the Marvel Comics Group could retain ownership of the "Captain Marvel" character-name trademark after Fawcett Publications ownership of it had lapsed. Their approach to the character, however, was oriented primarily towards science fiction and technology rather than the original magic-oriented approach first of Fawcett Publications, and later of DC Comics.<ref>https://www.webcitation.org/mainframe.php</ref>
+| Trivia                  = 
+* Not to be confused with the [[w:c:dc:Captain Marvel|DC eponymous character]], who currently goes under the name [[w:c:dc:Shazam|Shazam]].
+| Links                   =
+| Wikipedia               = Captain Marvel (Mar-Vell)
+| Marvel                  = captain-marvel-mar-vell
+}}
+[[hu:Csodakapitány (Mar-Vell)]]
+[[Category:Flight]]
+[[Category:Energy Absorption]]
+[[Category:Illusionists]]
+[[Category:Cancer (disease)]]
+[[Category:Avengers vs. X-Men casualties]]
+[[Category:Vell Family]]
+[[Category:Honorary Avengers]]
+[[Category:Korvac Saga participants]]
+[[Category:Korvac Saga casualties]]
+[[Category:Psyche-Magnitron Enhanced]]
+[[Category:Negative Zoner]]
+[[Category:Royal Skrull Medal of Valor]]
+[[Category:Teleporters]]
+[[Category:Regeneration]]
+[[Category:Healers]]
+[[Category:Phoenix Force]]
+[[Category:Brood-infected]]
+[[Category:Strength Class 15]]
+[[Category:Cosmic Awareness]]
+[[Category:Superhuman Strength]]
+[[Category:Superhuman Durability]]
+[[Category:Superhuman Speed]]
+[[Category:Superhuman Agility]]
+[[Category:Superhuman Reflexes]]
+[[Category:Energy Manipulation]]
+[[Category:Telekinesis]]
+[[Category:Size Alteration]]
+[[Category:Weapons Expert]]
+[[Category:Fighting Ability - Experienced fighter]]
+[[Category:Adventurers]]
+[[Category:Military Personnel]]

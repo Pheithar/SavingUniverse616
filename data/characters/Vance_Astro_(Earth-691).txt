@@ -1,0 +1,110 @@
+{{Marvel Database:Character Template
+| Image                   = Vance Astro (Earth-691) from Guardians of the Galaxy Vol 2 2 .jpg
+| Name                    = [[Vance Astro]]
+| Name2                   = <br>([[Category:Name legally changed]][[:Category:Name legally changed|legally changed]] from [[Vance Astrovik]])
+| CurrentAlias            = [[Major Victory]]
+| Aliases                 = 
+
+| Affiliation             =  {{m|Guardians of the Galaxy (Earth-691)|Guardians of the Galaxy}} (Earth-691); formerly {{m|Guardians of the Galaxy (Earth-616)|Guardians of the Galaxy}} (Earth-616), {{m|Avengers (Earth-616)|Avengers}}, {{m|Defenders (Earth-616)|Defenders}}
+| Relatives               = 
+Jerzy Astroyevicht (aka Jerry Astrovik; paternal grandfather);<br>
+Katerina Astroyevicht (aka Katerina Astrovik; paternal grandmother);<br>
+[[Arnold Astrovik]] (father, deceased);<br>
+[[Norma Astrovik]] (mother);<br>
+[[Aleta Ogord (Earth-691)|Starhawk]] (fiancée)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z Update #5}}
+| Gender                  = Male
+| Height                  = 6'1"
+| Weight                  = 235 lbs; 250 lbs (in bodysuit)
+| Eyes                    = Hazel
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo superior|Mutant]]{{r|Guardians of the Galaxy #5}}
+| Reality                 = Earth-691
+| PlaceOfBirth            = [[Saugerties]], [[New York (State)|New York]]
+| CauseOfDeath            = Killed by [[Michael Korvac (Earth-691)|Korvac]] (Revived by Korvac){{r|Avengers Vol 1 177}}
+| KilledBy                = Michael Korvac (Earth-691)
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = Adventurer, formerly an astronaut, freedom fighter
+| Education               = 
+| BaseOfOperations        = Starship Captain America II, Formerly [[Knowhere]]; [[Saugerties]], [[New York City]], [[Earth]]
+
+| Creators                = Arnold Drake; Gene Colan
+| First                   = Marvel Super-Heroes #18
+
+| Quotation               = My name... M-my name is... I a-am <b>Vance Astrovik</b>. I am <b>Major Victory</b> of the <b>G-guardians of the galaxy</b>. Please, can s-somebody tell me <b>when</b> I am?
+| Speaker                 = [[Vance Astro (Earth-691)|Major Victory]]
+| QuoteSource             = Guardians of the Galaxy Vol 2 2
+
+| History                 = Vance Astro shared a similar history to his [[Vance Astrovik (Earth-616)|Earth-616 counterpart]] until, when he was 16 years old, Vance's mutant powers did not manifest leading him to join the Air Force.{{r|Guardians of the Galaxy Annual Vol 1 1}} As a young man, Astrovik changed his name to Vance Astro. After a tenure in the U.S. Air Force, he was accepted into the astronaut program at a very young age and was chosen to be the first man to travel to the nearest star system. Doctors replaced his blood and coated his internal organs with some kind of preserving fluid before he was placed in [[suspended animation]] and his ship was launched into space on a mission that would last over 1,000 years.{{r|Marvel Super-Heroes Vol 1 18}}
+
+However, when his ship landed on [[Centauri-IV]] in 3006 A.D.,{{r|Defenders Vol 1 26}} Major Astro was shocked to be greeted by Earthmen who had beaten him to the planet and colonized it.{{r|Marvel Super-Heroes Vol 1 18}} Dismayed that everything he had sacrificed had been for nothing, Astro decided to complete his original mission and catalogue the planet's flora and fauna, even though that mission was obsolete. While hiking in the mountains, Astro came across [[Yondu Udonta (Earth-691)|Yondu]] who was in the middle of performing his people's ritual of manhood. Yondu attacked Astro for interrupting the ritual but the threat caused Astro's psycho-kinetic ability to manifest itself in his defense. Afterwards, the two became reluctant companions and then friends.{{r|Guardians of the Galaxy Vol 1 26}}
+
+Later that year, the Centauri-IV colony was attacked and destroyed by the [[Brotherhood of Badoon (Earth-691)|Brotherhood of Badoon]].{{r|Marvel Presents Vol 1 4|; text page}} With the first evidence of hostilities, Astro took Yondu aboard his survey ship and attempted to escape to the nearest known planet in the [[Alpha Centauri (Star System)|Centauri system]] but they were swiftly overtaken and captured. The [[Badoon]] also seemingly eradicated the entire native [[Centaurian]] race.{{r|Official Handbook of the Marvel Universe Vol 1 12|; Yondu's entry}} 
+
+In 3007 A.D., Astro and Yondu were sent as captives to [[Earth]], which the Badoon had recently conquered and enslaved after wiping out the colonies on [[Jupiter (Planet)|Jupiter]], [[Mercury (Planet)|Mercury]] and [[Pluto (Planet)|Pluto]]. While being presented to the Badoon leader [[Drang (Earth-691)|Drang]], Astro and Yondu escaped and soon ran into two other survivors of Badoon genocides, [[Charlie-27 (Earth-691)|Charlie-17]] from the Jovian Colonies and [[Martinex T'Naga (Earth-691)|Martinex]] from Pluto. Astro soon found himself leading a group of fellow adventurers who named themselves the [[Guardians of the Galaxy (Earth-691)|Guardians of the Galaxy]].{{r|Marvel Super-Heroes #18}}
+
+The newly-formed team soon acquired an unfinished [[Starship Captain America|starship]] after accidentally discovering a long-abandoned city hidden in the ocean beneath the north pole of the Jovian moon [[Europa (Moon of Jupiter)|Europa]].{{r|Guardians of the Galaxy Annual Vol 1 1}} After making the starship space-worthy, the team spent the next seven years fighting to free Earth from the Badoon.{{r|Marvel Two-In-One Vol 1 4}}
+
+In 3014 A.D., a woman named [[Tarin (Earth-691)|Tarin]] was accidentally pulled back in time to the late 20th century where she met some of that era's heroes. After hearing her description of what her future was like, [[Steven Rogers (Earth-616)|Captain America]], [[Benjamin Grimm (Earth-616)|the Thing]] and [[Sharon Carter (Earth-616)|Sharon Carter]] returned to the future with her. The presence of their symbol of liberty, Captain America, inspired the people to rise up and the combined forces of the Guardians, the Terran Underground and the heroes from the past managed to recapture New York City.{{r|Marvel Two-In-One Vol 1 5}}
+
+In 3015 A.D., after learning that a previous attempt by the Badoon to conquer Earth had been thwarted,{{r|Silver Surfer Vol 1 2}} the Guardians 
+[[Time travel|travelled back in time]] in an attempt to find Badoon records of that failed invasion that had been lost. They were unsuccessful but did befriend the [[Defenders (Earth-616)|Defenders]] who travelled back to 3015 with them and freed the fifty million enslaved humans from Badoon prison camps.{{r|Defenders Vol 1 26|29}} The freed humans and the Guardians then fought to regain control of their world and defeated the male Badoon who were then removed from Earth by the [[Sisterhood of Badoon (Earth-691)|Sisterhood of Badoon]]. Afterwards, Vance, like his fellow teammates, found himself unable to unable to fit in with civilian life on the post-invasion Earth so he joined them in leaving the planet and exploring the galaxy.{{r|Marvel Presents Vol 1 3}}
+
+Astro destroyed the planet-killing [[Topographical Man (Earth-691)|Topographical Man]] by joining with fellow Guardian [[Nicholette Gold (Earth-691)|Nikki]] in a metaphysical act of love.{{r|Marvel Presents #7}}
+
+In 3016 A.D., Astro and the Guardians first encountered a time-lost [[Thor Odinson (Earth-616)|Thor]] and with his aid they defeated [[Michael Korvac (Earth-691)|Korvac]] but the villain escaped.{{r|Thor Annual Vol 1 6}} After tracking Korvac down and almost capturing him again, the Guardians discovered that he had fled back through time to the late 20th century. Fearing that he planned to kill the young [[Vance Astrovik (Earth-616)|Vance Astrovik]] who lived in that time, the Guardians also travelled back in time aboard [[Drydock]] and soon encountered Thor and his fellow [[Avengers (Earth-616)|Avengers]].{{r|Avengers Vol 1 167}} Vance and the other Guardians were given honorary Avengers status.
+
+While in the present, Vance attempted to convince his younger self to not take the same path he did. The young Vance's mutant powers emerged during the meeting. Satisfied that he had ensured that at least this Vance would not have to endure his life, Astro and the other Guardians returned to their own time period.{{r|Marvel Two-In-One Vol 1 69}}
+
+In 3017 A.D., the Guardians learned of another threat posed by Korvac and they again time traveled into the past to stop him.{{r|Korvac Quest}}
+
+Back in 3017 A.D., Vance found [[Captain America's Shield]].{{r|Guardians of the Galaxy Vol 1 6}} He also fell in love with [[Aleta Ogord (Earth-691)|Aleta]], who was still married to her estranged husband, [[Stakar Ogord (Earth-691)|Stakar]], only to watch him absorb her into his body during a battle with [[Malevolence (Earth-691)|Malevolence]], the daughter of [[Mephisto (Earth-691)|Mephisto]]. This act forced him and the rest of the team to vote Stakar off the team.
+
+In 3018 A.D., the Guardians returned to Earth, where they were mistaken for bad guys by a team of freedom fighters, the [[Commandeers (Earth-691)|Commandeers]]. Fortunately, that team was led by their old friend Tarin would quickly ended hostilities once she recognized the Guardians. After the two teams had reconciled and begun working together, they were attacked by a street gang calling themselves the Punishers, after learning about [[Frank Castle (Earth-691)|Frank Castle]] from docu-chip recordings made by Vance. A sniper shot Vance as he and the others were leaving their base, the former Sub-Basement of the Avengers Mansion. Although the sniper's aim was thrown off due to a last second save by the Inhuman [[Talon (Earth-691)| Talon]], the bullet still struck his temple and nearly killed him. As the Guardians and Commandeers fought the 
+Punishers, [[Simon Williams (Earth-691)|Hollywood]], formally Wonder Man, carried Vance to safety. Because the bullet was able to rupture his [[Adamantium]] containment suit, it is assumed the bullet was composed of Dargonite, Simon gave Vance some of his ionic blood while Sorcerer Supreme [[Krugarr (Earth-691)|Krugarr]] used a spell to not only save his life, but destroy his containment suit and stop his body from aging rapidly.{{r|Guardians of the Galaxy Vol 1 17|20}}
+
+===The New Guardians of the Galaxy===
+Shortly after the [[Phalanx]] conquest, [[Peter Quill (Earth-616)|Starlord]] and his unnamed team came across Vance, along with part of the [[Avengers Mansion]], frozen in Limbo Ice. Freed by [[Phyla-Vell (Earth-616)|Phyla-Vell]], he then accompanied the team back to their base on Knowhere, joining their team and inspiring them to use [[Guardians_of_the_Galaxy_(Earth-616)|Guardians of the Galaxy]] as their name.{{r|Guardians of the Galaxy Vol 2 #2}} Suffering from amnesia, Vance was soon attacked by a Starhawk, who changed appearances and identities numerous times.
+
+| Powers                  = 
+* '''Psychokinesis:''' Vance Astro possesses the psionic ability of psychokinesis, the ability to affect matter with his mind. For some reason, Vance's psionic powers can only be manifested as "psyche-blasts", focused psychokinetic blasts of explosive force, that can disrupt the synapses in the minds of any living being they strike. Lately, Vance has shown some marginal improvement of the control of his psychokinesis, such as generating small psionic pulses to slow the descent of falling people, or gentle psychic bursts to move objects forwards or backwards (all without inflicting any damage on the people or objects). 
+** All of these abilities were augmented by a transfusion of [[Simon Williams (Earth-691)|Hollywood (1,000 year old Simon Williams)]]'s ionically enhanced blood.
+
+| Abilities               = Vance Astro is an above average athlete with a basic knowledge of unarmed combat learned while in the Air Force
+| Strength                = Athletic
+| Weaknesses              = Without his suit, Vance ages rapidly.
+
+| Equipment               = Vance originally wore a purple astronaut suit intended to help his body withstand surviving a 100+ year long space journey. He picked up his traditional blue/white outfit, made of chainmail, when the original Guardians visited Io shortly after escaping from the Badoon. After facing [[Overkill]] for the first time, [[Adamantium]] was placed along his outfit to protect him. After Krugarr's enchantment protected him he began wearing an outfit similar to Captain America. Later on his [[Symbiotes (Race)|symbiote]]-like suit which was given to Vance by the [[Beyonder (Earth-691)|Beyonder]] protected him.{{r|Guardians of the Galaxy Vol 1 46}}
+| Transportation          = Passport armbands, allowing him to use [[Knowhere]]'s teleporters
+| Weapons                 = '''[[Captain America's Shield]]:''' During the time when he carried Captain America's shield in combat, he would use his power to propel the shield and manipulate its flight path, simulating the Captain's use of the shield as a throwing weapon.
+
+| Notes                   = * Vance's birthday was originally said to be July 3rd, 1962.{{r|Marvel Two-In-One Vol 1 5}}
+* There is a strong possibility that most (or all) of the appearances attributed to "Vance Astro (Earth-691)" that were published after {{cl|Guardians of the Galaxy Vol 1 62}} do not actually feature the Astro from Earth-691 but are some alternate timeline versions of him.
+** For example, the Vance Astro who appeared in {{cl|Guardians of the Galaxy Vol 2 2}} was wearing a total biospheric body suit when he identified himself as "Major Victory" but the Earth-691 Astro didn't start calling himself by that code name until after Krugarr had freed him from that suit.
+** Another example concerns the Vance Astro from the {{cl|Guardians 3000 Vol 1}} series. When this Astro travelled back to 2015, some of the present-day Guardians remembered having met him before (in the series mentioned above) but he didn't know them.{{r|Guardians 3000 Vol 1 7}} More significantly, this Astro's memories revealed that he originated in a timeline where Earthmen reached and colonized the planet "4 Centauri" eight hundred years earlier than they did in [[Earth-691]].{{r|Guardians 3000 Vol 1 4}}
+** Additionally, the Starhawks associated with these latter Major Astros, although they were sometimes male and sometimes female, were singular beings and not two entities existing within a single physical form. They were therefore very unlike the Earth-691 Starhawk whose gender changed depending on whether [[Stakar Ogord (Earth-691)|Stakar]] or [[Aleta Ogord (Earth-691)|Aleta]] had control of their shared body.
+| Trivia                  = * If [[Jim Valentino]] had been allowed to keep writing the Guardians after helping form Image Comics, he would have killed off Vance in issue #50.<ref>http://www.imagecomics.com/messageboard/viewtopic.php?t=144&postdays=0&postorder=asc&start=0</ref>
+| Marvel                  = 
+| Wikipedia               = Vance Astro
+| Links                   =
+}}
+[[Category:Astrovik Family]]
+[[Category:Time Travelers]]
+[[Category:Telekinesis]]
+[[Category:Post-M-Day Mutants (Time/Reality Travelers)]]
+[[Category:Ionic Characters]]
+[[Category:Honorary Avengers]]
+[[Category:Formerly Deceased]]
+[[Category:Korvac Saga participants]]
+[[Category:Korvac Saga casualties]]
+[[Category:Astronauts]]
+[[Category:Characters Displaced to Earth-616]]
+[[Category:Thrown Weapons]]
+[[Category:Shield Fighting]]
+[[Category:Jewish Characters]]

@@ -1,0 +1,56 @@
+{{Marvel Database:Organization Template
+| Title                   = [[Nazis|Nazi Party]]
+| Image                   = Bierhallen-Putsch from Red Skull Vol 1 1 0001.png
+| Name                    = National Socialist German Workers Party (Nationalsozialistische Deutsche Arbeiterpartei or NSDAP in German)
+| Aliases                 = Nazi Party, [[Nazis]], Third Reich
+
+| Status                  = Defunct
+| Identity                = Public
+| Reality                 = Earth-616
+| BaseOfOperations        = [[Germany]]
+
+| OrganizationLeaders     = Formerly [[Adolf Hitler (Earth-616)|Adolf Hitler]]
+| CurrentMembers          = 
+| FormerMembers           = [[Johann Shmidt (Earth-616)|Red Skull (Schmidt)]], [[George Maxon (Earth-616)|Red Skull (Maxon)]], [[Heinrich Zemo (Earth-616)|Baron Heinrich Zemo]], [[Wolfgang von Strucker (Earth-616)|Baron Wolfgang von Strucker]], [[Arnim Zola (Earth-616)|Arnim Zola]], [[Nathaniel Essex (Earth-616)|Nathaniel Essex]], [[Grüber Brinkhaus (Earth-616)|General Brinkhaus]], [[Otto Weiss (Earth-616)|Otto Weiss]]. [[National Socialist German Workers Party (Earth-616)/Members|Detailed membership]]
+| Allies                  = [[Imperial Japan (Earth-616)|Imperial Japan]], [[Fascist Italy (Earth-616)|Fascist Italy]], [[Hydra (Earth-616)|Hydra]], [[Thule Society (Earth-616)|Thule Society]], [[Schutzstaffel (Earth-616)|The SS]]
+
+| Enemies                 = [[Liberty Legion (WWII) (Earth-616)|Liberty Legion]], [[Invaders (WWII) (Earth-616)|Invaders]], [[All-Winners Squad (Earth-616)|All-Winners Squad]], [[Freedom's Five (Earth-616)|Freedom's Five]], [[Young Allies (WWII) (Earth-616)|Young Allies]], [[Joseph Stalin (Earth-616)|Joseph Stalin]], [[Winston Churchill (Earth-616)|Winston Churchill]], [[David Rand (Earth-616)|Ka-Zar]], [[James Howlett (Earth-616)|Wolverine]], [[James Rhodes (Earth-616)|War Machine]], [[Thunderbolts (Earth-616)|Thunderbolts]], [[Avengers (Earth-616)|Avengers]]
+
+| Origin                  = When Adolf Hitler wanted to rule over the world, he created this party to rule in Germany and invade nearest countries.
+| PlaceOfFormation        = Germany
+| PlaceOfDissolution      = 
+| Creators                = David C. Cooke; Chuck Mazoujian
+| First                   = Marvel Mystery Comics #2
+
+| History                 = 
+<center>''This is an abridged version of Nazi Germany's history. For a complete history see '''[[National Socialist German Workers Party (Earth-616)/Expanded History|Nazi Germany's Expanded History]]'''''</center>
+
+===World War II===
+The Nazis were a group of fanatical Germans who attempted to take over the world during [[World War II]]. They took control of the German government during the 1930's and were led by a man named [[Adolf Hitler (Earth-616)|Adolf Hitler]]. The Nazi Party was a political party that rose due to the effects of the Great Depression, having antisemitic, anti-monarchist and anti-Marxist views, and believing in the superiority of Germans, whom nationalists claimed to be part of the Aryan “master race.” So they started to eliminate "inferior races," like the Jews, creating concentration camps designed to torture and extinguish them. The most famous and terrible of all was Auschwitz in Poland, where [[Magneto]] passed his childhood. They also sent many spies to steal American secrets or destroy them. They were stopped by [[Steven Rogers (Earth-616)|Captain America]] and the [[Invaders (WWII) (Earth-616)|Invaders]]. They also abolished the symbols of the Weimar Republic. 
+
+The Nazis possessed advanced technology, results of the experiments of three core Nazi scientists. The possibly greatest of these was named [[Arnim Zola (Earth-616)|Arnim Zola]], who specialized in conscience transference and the creation of artificial life. Another Nazi, perhaps as great as Zola, yet far more subversive, was [[Heinrich Zemo (Earth-616)|Baron Heinrich Zemo]]. He specialized in laser technology and created an adhesive called [[Adhesive X]]. The most terrible, yet least devoted to the Nazi's cause, was a mutated geneticist named Nathaniel Essex a.k.a. [[Nathaniel Essex (Earth-616)|Mister Sinister]]. Sinister only associated with Nazis so he could study the genetic potential of the so called "master race." He also wanted to collect DNA samples from prisoners in the concentration camps. 
+
+===Legacy===
+The Nazis were eventually defeated by the Allies in 1945. Zola transferred Hitler's consciousness into a clone he dubbed, Hate-Monger. Both Hitler and Zola headed for parts unknown. Baron Zemo fled to South America and Mister Sinister vanished. Hitler's right-hand man, [[Johann Shmidt (Earth-616)|Red Skull]], formed his own organization bent on world domination. Another Nazi operative, [[Wolfgang von Strucker (Earth-616)|Baron von Strucker]], formed [[Hydra (Earth-616)|Hydra]], an international terrorist organization.
+
+==Members==
+{{Main|National Socialist German Workers Party (Earth-616)/Members}}
+{{Seealso|:Category:National Socialist German Workers Party members}}
+
+==War Machines==
+{{Main|National Socialist German Workers Party (Earth-616)/War Machines}}
+| Paraphernalia           = Other Paraphernalia
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = V2-missiles, [[Adhesive X]], Panzer tanks, Tiger Tanks, MP40 submachine-gun, MG42 machine-gun
+| Notes                   = * The Nazis were almost the first Marvel villains, because most of the Golden Age comics presented Hitler or other Nazis as the principal villains for Captain America, Human Torch, Namor, The Angel, and many other heroes.
+| Trivia                  = 
+| Links                   = * [http://en.wikipedia.org/wiki/Nazi_Germany Nazi Germany at ''Wikipedia'']
+}}
+[[it:Partito Nazionalsocialista Tedesco dei Lavoratori (Terra-616)]]
+[[Category:Government Organizations]]
+[[Category:Historical Organizations]]
+[[Category:European Organizations]]
+[[Category:German Organizations]]
+[[Category:Axis Organizations]]
+[[Category:Empires and Civilizations]]

@@ -1,0 +1,50 @@
+{{Marvel Database:Race Template
+| Image                   = Skifflefuffles from Young Avengers Vol 2 7 001.jpg
+| Name                    = Skifflefuffles
+| Aliases                 = 
+| Identity                = 
+| Affiliation             = 
+| Universe                = Earth-616
+| BaseOfOperations        = Skifflefufflula
+
+| BodyType                = Humanoid
+| AvgHeight               = 
+| AvgWeight               = 
+| Eyes                    = 2
+| Hair                    = None
+| Skin                    = White
+| NumberOfLimbs           =4
+| NumberOfFingers         = 5
+| NumberOfToes            = 
+| SpecialAdaptations      = 
+| UnusualFeatures         = 
+
+| Origin                  = 
+| GalaxyOfOrigin          = 
+| StarSystemOfOrigin      = 
+| HomePlanet              = Skifflefufflula
+| PlaceOfBirth            = 
+| Creators                = Kieron Gillen; Jamie McKelvie
+| First                   = Young Avengers Vol 2 1
+
+| HistoryText             = 
+
+| Habitat                 = 
+| Gravity                 = 
+| Atmosphere              = 
+| Population              = 
+
+| Powers                  = Shapeshifters
+| Abilities               = 
+| AvgStrength             = 
+| Weaknesses              = 
+
+| GovernmentType          = 
+| TechnologyLevel         = 
+| CulturalTraits          = 
+| Representatives         = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

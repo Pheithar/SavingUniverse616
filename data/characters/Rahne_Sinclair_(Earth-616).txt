@@ -1,0 +1,283 @@
+{{Marvel Database:Character Template
+| Image                   = Rahne Sinclair (Earth-616) from New Mutants Vol 4 1 001.jpg
+| Name                    = [[Rahne Sinclair]]
+| Name2                   = (pronounced "Rain"){{r|X-Factor Vol 1 213}}
+| CurrentAlias            = [[Wolfsbane]]
+| Nicknames               = Angel-Killer Sinclair,{{r|X-Force Vol 3 7}} Carrot Top,{{r|New Mutants Vol 1 17}} Firetop,{{r|New Mutants Vol 1 23}} Fleabag,{{r|X-Factor Vol 1 241}} Grimfang,{{r|New Mutants Special Edition #1}} Lassie,{{r|X-Factor Vol 3 4}} Little Wolf,{{r|New Mutants Vol 4 15}} 'Once Disemboweled A Fellow Just To Watch Him Die' Girl,{{r|X-Factor Vol 3 4}} Rahney,{{r|X-Force Vol 3 3}} [[Red]]{{r|New Mutants Vol 1 21}}
+| Aliases                 = Mutate #490{{r|New Mutants Vol 1 95}} 
+
+| Affiliation             = {{m|X-Men}}, {{m|New Mutants}} (founding member); formerly {{m|X-Factor Investigations}}, {{m|X-Force (Strike Team) (Earth-616)|X-Force}} (founding member), {{m|Paragons Squad}}, {{m|X-Factor (Government) (Earth-616)|X-Factor}}, {{m|Excalibur}}, {{m|Hellions}}, {{m|Bratpack}}
+| Relatives               = [[Craig Sinclair (Earth-616)|Reverend Craig]] (father, deceased);<br>
+unnamed mother (deceased);{{r|Excalibur Vol 1 93}}{{r|New Mutants Vol 2 11}}<br>
+[[Moira MacTaggert (Earth-TRN748)|Dr. Moira MacTaggert]] (foster mother);<br>
+[[Kevin MacTaggert (Earth-616)|Kevin MacTaggert (Proteus)]] (foster brother);<br>
+[[Tier Sinclair (Earth-616)|Tier]] (son and genetic donor)
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 5'2" (human form); 8'0" (transitional); 12'0" (lupine form, when standing erect)
+| Weight                  = 110 lbs (human form); 410 lbs (transitional); 1050 lbs (lupine form)
+| Eyes                    = Green
+| Hair                    = Red
+| UnusualFeatures         = In her wolf form she has claws, fur, and fangs.
+
+| Origin                  = [[Homo superior|Mutant]], mutated, and enhanced by [[Tier Sinclair (Earth-616)|Tier]]'s [[Asgardians|Asgardian]] DNA{{r|X-Force Vol 3 23|24}}
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Ullapool]], Ross and Cromarty, [[Scotland]], [[United Kingdom]]
+| CauseOfDeath            = Beaten to death{{r|Uncanny X-Men Vol 5 17}} (resurrected by “[[Five (Earth-616)|The Five]]”){{r|New Mutants Vol 4 1}}{{r|X-Factor Vol 4 7}}
+
+| Identity                = Secret
+| Citizenship             = Scottish, British, Krakoan
+| Occupation              = Adventurer; former private investigator, teacher, government agent, student 
+| Education               = [[Xavier's School for Gifted Youngsters|Xavier's Institute]]
+| BaseOfOperations        = '''[[Krakoa (Earth-616)|Krakoa]]''';{{r|New Mutants Vol 4 1}}<br>
+formerly:
+*[[Harry's Hideaway]], [[New York]];{{r|Uncanny X-Men Vol 5 13}}
+*[[New Tian]], [[California (State)|California]];{{r|X-Men: Blue Vol 1 7}}
+*[[X-Factor Investigations Headquarters (Funeral Home)|X-Factor Investigations Headquarters]], [[Manhattan]], New York;{{r|X-Factor Vol 1 207}}
+*[[Angel's Aerie]], [[Colorado (State)|Colorado]] [[Rocky Mountains|Rockies]];{{r|X-Force Vol 3 17}}
+*[[X-Factor Investigations Headquarters (Mutant Town)|X-Factor Headquarters]], [[Mutant Town]], New York;{{r|X-Factor Vol 3 1}}
+*[[Xavier's School for Gifted Youngsters|Xavier Institute]], [[Salem Center]], New York;{{r|New Mutants Vol 1 1}}{{r|New X-Men Vol 2 3}}
+*[[Muir Island]], [[Scotland]];{{r|Marvel Graphic Novel Vol 1 4}}{{r|Excalibur Vol 1 90}}
+*[[X-Factor (Government) (Earth-616)|X-Factor]] Headquarters, [[Washington, D.C.]];{{r|X-Factor Vol 1 71}}
+*[[Massachusetts Academy]]{{r|New Mutants Vol 1 38}}
+
+| Creators                = Chris Claremont; Bob McLeod
+| First                   = Marvel Graphic Novel Vol 1 4
+
+| Quotation               = Maybe 'twas simply the first time I realized how even the most innocent of places -- the most lovely of days -- could be turned foul and corrupt.
+| Speaker                 = [[Rahne Sinclair (Earth-616)|Wolfsbane]]
+| QuoteSource             = New Mutants Vol 1 92
+
+| History                 = 
+===Early Years===
+Rahne Sinclair was born in the north highlands of [[Ullapool]], [[Scotland]] and was delivered by [[Moira MacTaggert (Earth-TRN748)|Dr. Moira MacTaggert]], who happened to live locally. Rahne's mother, a local sex worker,{{r|Excalibur Vol 1 93}} would never know her as she died in childbirth the night she was born. Her father was the local Presbyterian minister, [[Reverend Craig (Earth-616)|Reverend Craig]], who raised Rahne as an orphan without revealing that he was her father from an illicit relationship. Reverend Craig's treatment of Rahne during her first fourteen years was harsh, instilling a strict religious and traditionally Catholic moral code into her from a young age to compensate for his own lapse in character which led to her conception.{{r|Marvel Graphic Novel Vol 1 4}}
+
+[[File:Rahne Sinclair (Earth-616) from New Mutants Vol 2 11 001.jpg|180px|thumb|right|Running from her village]]
+When Rahne first developed her [[Homo superior|mutant]] power of [[Glossary:Lycanthropy|lycanthropy]], she was mistaken for a werewolf. A group of terrified, religious locals believed that she had been possessed by the devil. Led by Reverend Craig, they chased Rahne across the Scottish highlands. At the end of the chase, Rahne fell unconscious and reverted to her naked human form at the feet of Dr. MacTaggert, who saved her from the mob. Doctor MacTaggert became a surrogate mother to the young mutant and took her under her protection, then took Rahne to [[United States of America|America]], to be schooled by [[Charles Xavier (Earth-616)|Professor Charles Xavier]].{{r|Marvel Graphic Novel Vol 1 4}}
+
+===New Mutants===
+Rahne soon became involved in a rescue mission to save the Professor from [[Donald Pierce (Earth-616)|Donald Pierce]], who was still affiliated with the [[Hellfire Club (Earth-616)|Hellfire Club]]. With the help of [[Samuel Guthrie (Earth-616)|Cannonball]], [[Xi'an Coy Manh (Earth-616)|Karma]], [[Danielle Moonstar (Earth-616)|Psyche]], and [[Roberto Da Costa (Earth-616)|Sunspot]], the Professor was saved and he agreed to train the team of [[New Mutants (Earth-616)|New Mutants]]. Although the team was originally created because the Professor was possessed by the [[Brood (Race)|Brood]] Queen egg inside of him for future embryos, they stayed together. During her time with the New Mutants, Rahne experienced many adventures, under the codename Wolfsbane.{{r|New Mutants Vol 1 1}}
+
+[[File:Rahne Sinclair (Earth-616) from New Mutants Vol 1 15 001.jpg|180px|thumb|left|Young Rahne]]
+In the [[Xavier's School for Gifted Youngsters]], the New Mutants were tutored, by Professor X, and trained in the use of their powers, in the [[Danger Room]]. Due to her strict religious upbringing, Rahne found it hard to come to terms with some of her teammates habits. Rahne also struggled with her own romantic feelings, which she believed were sins and made her wicked in the eyes of God. Rahne initially developed a secret crush on Cannonball. Rahne developed a strong friendship with [[Danielle Moonstar (Earth-616)|Dani Moonstar]], whose mutant power gave her a natural rapport with animals. This rapport developed into a psychic link with Wolfsbane whenever she would transform into her wolf form.{{r|New Mutants Vol 1 1}}
+
+Wolfsbane and Sunspot were given the same drug that gifted [[Tyrone Johnson (Earth-616)|Cloak]] and [[Tandy Bowen (Earth-616)|Dagger]] with their powers, until [[Illyana Rasputina (Earth-616)|Magik]] returned the powers to the original owners.{{r|Marvel Team-Up Annual Vol 1 6}}
+[[File:Rahne Sinclair (Earth-616) from Marvel Team-Up Annual Vol 1 6 001.jpg|150px|thumb|right|Transformed by the drug]]
+
+Some time afterwards, [[Katherine Pryde (Earth-616)|Kitty Pryde]] was captured by the [[Emma Frost (Earth-616)|White Queen]] of the Hellfire Club, who was unaware the young X-Man shared a rapport with Magik. Sensing her friend was in danger, Illyana enlisted the help of the New Mutants and they charged to her rescue. Still, they were all captured and forced to attend the [[Massachusetts Academy]], where the White Queen taught. There, a rivalry started between the New Mutants and the other young team of the Academy, the [[Hellions (Earth-616)|Hellions]], which led them to secretly compete in a challenge and, if the New Mutants won, the Hellions would allow them to escape. During the match, however, the White Queen appeared and chaos ensued. Nevertheless, the New Mutants managed to get away safely and return to Xavier's.{{r|New Mutants Vol 1 15|17}}
+
+Later, [[Amora (Earth-616)|Amora the Enchantress]] kidnapped the New Mutants to [[Asgard]]. Rahne ended-up in [[Jotunheim]] and began a relationship with [[Hrimhari (Earth-616)|Hrimhari]], the Wolf Prince of Asgard who had rescued her from [[Storm Giants|giants]].{{r|New Mutants Special Edition Vol 1 1}} [[Loki Laufeyson (Earth-616)|Loki]] used his magic to turn Rahne and Hrimhari into the feral creatures '''''Grimfang''''' and '''''Bleakheart''''', but the combined mutant teams thwarted Loki's plans and returned them to normal. The relationship between Rahne and Hrimhari was passionate, but short lived, as the heroes of Earth were told that if one remained behind, all of them had to remain as well, forcing Rahne to make the sacrifice for her friends.{{r|X-Men Annual Vol 1 9}}
+[[File:Hrimhari (Earth-616) and Rahne Sinclair (Earth-616) from New Mutants Special Edition Vol 1 1 002.jpg|180px|thumb|left|With Hrimhari]]
+
+When the New Mutants returned home, the headmaster of the school had been replaced by [[Max Eisenhardt (Earth-616)|Magneto]], which was initially hard to accept, but the team eventually warmed up to their new mentor.{{r|New Mutants Vol 1 35}}{{r|New Mutants Vol 1 39}}
+
+Once, Magneto was invited to attend a Hellfire Club event and decided to bring the New Mutants as well. There, Rahne ran off with the Hellion [[Sharon Smith (Earth-616)|Catseye]] in their respective lycan and feline forms. While running around the [[Hellfire Club Building (New York)|mansion]], Rahne caught a familiar scent and ran upstairs to find [[Douglas Ramsey (Earth-616)|Cypher]], drunk, in a bed with [[Jennifer Stavros (Earth-616)|Roulette]], which ultimately led [[Samuel Guthrie (Earth-616)|Sam Guthrie]] to suggest another contest between the two teams.{{r|New Mutants Vol 1 53}}
+
+[[File:Rahne Sinclair (Earth-616) and Sharon Smith (Earth-616) from New Mutants Vol 1 39 001.jpg|200px|thumb|right|With Catseye]]
+The contest was for both teams to hunt down the person responsible for selling a member of the Hellfire Club a forged statue of [[Selene Gallio (Earth-616)|Selene]] and the losers were to apologize, publicly, for any insults and take the rap for any trouble with their teachers before sunrise. After having Magik spy on the Hellions through a scrying glass in [[Limbo (Demonic)|Limbo]], the New Mutants learned that [[Ophelia Sarkissian (Earth-616)|Viper]] and the [[Keniuchio Harada (Earth-616)|Silver Samurai]] were behind the forgery and decided to intercept the villains before the other team. Unknown to the New Mutants, their rivals had assumed that they would spy on them and led them to the henchmen of the villains, while they captured Viper and Silver Samurai, winning the competition.{{r|New Mutants Vol 1 54}}
+
+=== Doug Ramsey Saga ===
+Shortly after, the New Mutants were invited to one of [[Lila Cheney (Earth-616)|Lila Cheney]]’s parties, and Rahne was pressured by Dani and Illyana into dressing up. Having been complimented by Magneto, Rahne was later hesitant to change into her wolf form and rip her beautiful gown, but Doug Ramsey (Cypher), who had been chatting with her all evening, convinced her it was OK. After all the trouble was sorted out, Rahne was embarrassed to show her ruined dress in front of Doug, but he confessed she didn't "need a princess dress to look like a princess".{{r|New Mutants Vol 1 55}}
+
+She and Doug grew close and, after the rescue of [[Bird-Brain (Earth-616)|Bird Brain]], Cypher was jealous of the attention that Rahne showed the creature, refusing to use his deciphering powers to try and communicate with him. After Magneto threatened to return him to the authorities, however, Doug began to speak with Bird-Brain, to save Rahne the loss.{{r|New Mutants Vol 1 56|57}}
+
+When Bird-Brain decided to return home, the New Mutants followed and were captured by the [[Ani-Mator (Earth-616)|Ani-Mator]] and his [[Ani-Mates]], ending up fighting him and the mutant-hating group [[Right (Earth-616)|The Right]]. During the fight, Doug, who always felt helpless in battles, saw his chance to be a hero by pushing Rahne out of harm's way, after the Ani-Mator aimed a gun at her. Not realizing he had been shot, Rahne asked him not to dive into battle like that, and Doug's last words were "Don't be mad, Rahne. I'll never do it again". Feeling responsible for Doug's death, Rahne almost got herself killed, but, after talking with Sam Guthrie, who also felt he was to blame, they agreed everyone should have been paying more attention and decided to look after one another like brother and sister.{{r|New Mutants Vol 1 58|61}}
+
+After a few more adventures, Sam and Dani decided to move the team out from under Magneto's thumb, having learned he was planning to train them as soldiers for the coming war between humans and mutants. To their surprise, Magneto allowed the young mutants to leave, stating that, in time, they would find their way back to him.{{r|New Mutants Vol 1 75}}
+
+=== Final Days as a New Mutant ===
+After initially deciding to go home and live normal lives, the New Mutants were introduced to X-Factor and began to live on Ship, merging with the X-Terminators.{{r|New Mutants Vol 1 76}} Soon they met a mysterious man known only as [[Nathaniel Summers (Earth-616)|Cable]] who became their mentor and gave them the kind of military training that Professor Xavier had wished to avoid.{{r|New Mutants Vol 1 90|93}} When the New Mutants returned to the [[Xavier's School for Gifted Youngsters|X-Mansion]], Rahne was with [[Tabitha Smith (Earth-616)|Boom-Boom]], Rictor, Storm and Warlock, as they were ambushed and kidnapped by [[Genosha]]n Prelates, one of whom was the brain-washed [[Alexander Summers (Earth-616)|Havok]], who had previously been missing in action.{{r|Uncanny X-Men Vol 1 270}}
+
+[[File:Rahne Sinclair (Earth-616) from X-Factor Annual Vol 1 8 0001.png|180px|thumb|left|Mutated by Cameron Hodge]]
+Instantly teleported to Genosha, the young mutants were stripped of their clothes and powers.{{r|New Mutants Vol 1 95}} Rahne was forcibly transformed into a [[Mutate]] by having her head shaved, a number tattooed onto her forehead and was also brainwashed.{{r|New Mutants Vol 1 96}} Ultimately she was liberated from her brainwashed state by transforming into her transitional human-wolf form, but was unable to turn back into a human girl without becoming a Mutate slave once more.{{r|New Mutants Vol 1 97}} She chose to remain in Genosha to work with Havok in an attempt to restore civilization to the island nation.{{r|X-Factor Vol 1 62}}
+
+===X-Factor===
+When she was transformed into a Mutate slave on Genosha, she had been mentally bonded with Havok with the intention of being his slave. Although she was free from the catatonic state, there were some remnants of the brainwashing.{{r|X-Factor Vol 1 71|100}}
+[[File:Alexander Summers (Earth-616) and Rahne Sinclair (Earth-616) from X-Factor Annual Vol 1 7 001.jpg|180px|thumb|right|Wolfsbane and Havok]]
+
+Wolfsbane reappeared for the formation of the second incarnation of [[X-Factor (Government) (Earth-616)|X-Factor]], while still stuck in her transitional form. There she became close friends with [[James Madrox (Earth-616)|James Madrox]] (the Multiple Man) and [[Guido Carosella (Earth-616)|Guido Carosella]] (Strong Guy), but struggled to contain her feelings for Havok. The brainwashing combined with the feral hormones of her transitional state caused her to develop feelings for Havok, and intense jealousy of his relationship with [[Lorna Dane (Earth-616)|Polaris]].{{r|X-Factor Vol 1 72}}
+
+Rahne was permanently cured of her Genoshan brainwashing by [[Radha Dastoor (Earth-616)|Haven]].{{r|X-Factor Vol 1 99}} She remained with the team until Strong Guy was placed into suspended animation. Leaving X-Factor she returned to [[Muir Island]] to work with Moira MacTaggert to find a cure for the [[Legacy Virus]].{{r|X-Factor Vol 1 111}}{{r|Excalibur Vol 1 90}}
+
+===Excalibur===
+While at Muir Island, she became a member of [[Excalibur (Earth-616)|Excalibur]], where she became good friends with [[Piotr Rasputin (Earth-616)|Colossus]] and [[Katherine Pryde (Earth-616)|Shadowcat]], and was later a bridesmaid at the wedding of [[Brian Braddock (Earth-616)|Captain Britain]] and [[Meggan (Earth-616)|Meggan]].{{r|Excalibur Vol 1 125}}
+
+Although Excalibur disbanded, Rahne decided to remain on Muir Island. However, the island came under attack from [[Brotherhood of Evil Mutants (Earth-616)|The Brotherhood]], and the entire island was destroyed. During the attack [[Raven Darkholme (Earth-616)|Mystique]] fired the neutralizer (which [[Forge (Earth-616)|Forge]] had originally created to remove [[Rogue (Anna Marie) (Earth-616)|Rogue's]] powers) at Wolfsbane. Robbed of her lycanthropic powers, Rahne boarded a plane with Moira MacTaggert, but her adoptive mother died soon after with Rahne at her side.{{r|Dream's End}}<!--replace with the actual issues, if possible-->
+
+===Xavier Institute and the Paragon Squad===
+In America, Rahne began to travel the country on a motorbike, she grew her hair long, purposefully lost her Scottish brogue and displayed a gregarious attitude. All of which came as a complete surprise to Dani Moonstar when the two were reunited at the Westchester campus.{{citation}}
+[[File:New Mutants Vol 2 10 Textless.jpg|180px|thumb|left|Wolfsbane on her motorcycle]]
+
+While in the X-Mansion, she was initially refused the chance to teach at her old school because of her immature attitude, but she caught the attention of [[Joshua Foley (Earth-616)|Elixir]], who was the legal ward of Dani Moonstar. He pursued her, and during a kiss, his healing power restored Wolfsbane's own powers. However, the shock of the transformation caused her to lash out on instinct, and Elixir was severely wounded.{{r|New Mutants Vol 2 10}}
+
+Elixir was ultimately saved, and Rahne's feral daze came to an end thanks to Dani Moonstar.{{r|New Mutants Vol 2 12}} Although Rahne ended the relationship with Elixir when she became a supervising member of staff to [[Paragons Squad (Earth-616)|Paragons Squad]],{{r|New X-Men Vol 2 3}}{{r|New X-Men Vol 2 12}} the two of them soon began a secret affair.{{r|New Mutants Vol 2 6|7}} The relationship permanently ceased when Rahne discovered that [[Laurie Collins (Earth-616)|Wallflower]] had feelings for Elixir.{{r|New Mutants Vol 2 9}} However, the break-up was overheard by [[Kevin Ford (Earth-616)|Wither]],{{r|New Mutants Vol 2 9}} who spread the news around the school,{{r|New X-Men Vol 2 12}} causing her to flee the school, further straining her friendship with Moonstar.{{r|New X-Men Vol 2 12}}
+
+===X-Factor Investigations===
+Upon leaving the school, Rahne become part of [[X-Factor Investigations (Earth-616)|X-Factor Investigations]], where she was reunited with Madrox. Her personality reverted to that of her original repressed Scottish youth and she stopped hiding her native accent, claiming she had nothing to hide anymore.{{r|New X-Men Vol 2 15}}
+
+While with X-Factor, Rahne came under mental attack from [[Dafydd ap Andras (Earth-6124)|Damian Tryp]], who tormented her with visions. Her dreams that she would murder Multiple Man and [[Layla Miller (Earth-616)|Layla Miller]] on their wedding day drove her mad to the point that she even considered committing suicide to prevent the visions from becoming a reality.{{r|X-Factor Vol 3 12}}
+
+===X-Force===
+When [[Hope Summers (Earth-616)|the first mutant since]] [[Decimation|M-Day]] [[X-Men: Messiah Complex|was born]], Rahne was activated as part of Cyclops' tracking team, X-Force. Along with [[Caliban (Earth-616)|Caliban]], [[Hepzibah (Earth-616)|Hepzibah]], [[James Proudstar (Earth-616)|Warpath]], and [[Laura Kinney (Earth-616)|X-23]], Rahne was charged with tracking down the location of Cable and the infant Messiah.{{r|Uncanny X-Men Vol 1 493}}
+
+[[File:X-Factor Vol 3 26 Variant Silvestri Textless.jpg|thumb|180px|right|Activation during the [[X-Men: Messiah Complex|Messiah CompleX]]]]
+Later [[Scott Summers (Earth-616)|Cyclops]] introduced Wolfsbane to [[James Howlett (Earth-616)|Wolverine's]] new [[X-Force (Strike Team) (Earth-616)|X-Force]] with [[James Proudstar (Earth-616)|Warpath]] and [[Laura Kinney (Earth-616)|X-23]]. She had already infiltrated a group of [[Purifiers (Earth-616)|Purifiers]] with Rictor's aid, but was discovered and captured during a mission. While in their hands, she discovered that her father, Reverend Craig, had joined the Purifiers. There she was drugged with heroin and her father attempted to kill her again.{{r|X-Force Vol 3 3}}
+
+Unbeknownst to her new teammates, Wolfsbane had been brainwashed once more. Upon her rescue, she awoke and promptly attacked [[Warren Worthington III (Earth-616)|Archangel]]. She violently tore off his wings and stored them away in her room. During a later fight with the Purifiers, Wolfsbane received a non-mortal gunshot wound from her father, who then followed her trail of blood so he could deliver the fatal blow. After tracking her to her room Reverend Craig stood in front of Archangel's wings and created the image that he was an angel. The brainwashing that the Purifiers had installed into Rahne's mind had programmed her to "kill the angel", and for the second time, she was unable to resist. She was later found in a traumatized state surrounded by blood, with no sign of her father.{{r|X-Force Vol 3 6}}
+
+The same brainwashing later resurfaced when Wolfsbane attacked Archangel for a second time. It was only due to the intervention of [[Stepford Cuckoos (Earth-616)|the Stepford Cuckoos]] that Wolfsbane was able to break free of the brainwashing and begin to come to terms with what she had done to her friends and family.{{r|X-Force Vol 3 7}}
+
+[[File:Hrimhari (Earth-616) and Rahne Sinclair (Earth-616) from X-Force Vol 3 13 001.png|thumb|200px|left|Hrimhari & Wolfsbane in their transitional forms]]
+While Rahne was recovering from her brainwashing in [[Angel's Aerie]] in the [[Colorado (State)|Colorado]] [[Rocky Mountains]], Hrimhari, the Wolf-Prince of Asgard, found her quite to her surprise.{{r|X-Force Vol 3 10}} Now reunited with his former lover, Hrimhari explained to Rahne the fall of Asgard, the murder of his pack, and his own rebirth on Midgard.{{r|X-Force Vol 3 12}} Hrimhari revealed to Rahne that he could now shapeshift into a fully human form.{{r|X-Force Vol 3 13}} They then consummated their newly rekindled romance.{{r|X-Force Vol 3 17}}
+
+While in the throes of afterglow next to a roaring fire on the floor of Angel's Aerie, Hrimhari and Wolfsbane were attacked by three of the [[Frost Giants]] who slaughtered Hrimhari's pack. After narrowly defeating the Frost Giants, the seemingly uninjured Rahne fainted due to unknown causes. Faintly she called out for Elixir.{{r|X-Force Vol 3 19}}
+
+Hrimhari rushed her back to Angel's Aerie, where he was met by [[Warren Worthington III (Earth-616)|Archangel]] and Warpath who accompanied him to the [[X-Men (Earth-616)|X-Men]] base on [[Utopia (X-Men Base)|Utopia]].{{r|X-Force Vol 3 20}} Unfortunately, Utopia was under attack by [[Selene Gallio (Earth-616)|Selene]]'s undead [[Homo superior|mutants]]{{r|X-Force Vol 3 21}}{{r|X-Necrosha #1}} and Elixir was in a comatose state due to the strain exerted by time traveling{{r|X-Force / Cable: Messiah War #1}} and in healing [[Noriko Ashida (Earth-616)|Surge]].{{r|X-Force Vol 3 17}}
+
+Wolfsbane's condition continued to worsen, and in desperation Hrimhari called upon the death goddess [[Hela (Earth-616)|Hela]].{{r|X-Force Vol 3 22}} Hela offered Hrimhari an even trade; a life for a life. Except she asked him to choose between his true love, Rahne, or their unborn child (which was the reason Rahne was dying). In the end, Hrimhari chose to exchange his life for Elixir's, knowing Elixir could save both Rahne and his unborn cub. As Hrimhari and Hela disappeared he told a recovered Elixir to save Rahne and tell her "I love her... and... I will find a way back to her."{{r|X-Force Vol 3 23}} To save Wolfsbane's life Elixir had to strengthen her body (to undefined limits) to endure the [[Asgardian]] embryo growing inside her.{{r|X-Force Vol 3 22|23}}
+
+===X-Factor Investigations...again===
+After the battle on Genosha with Selene and her [[Inner Circle (Selene) (Earth-616)|Inner Circle]], Rahne was removed from active duty on X-Force by Wolverine.{{r|X-Force Vol 3 25}} She then left the X-Men entirely intending to rejoin X-Factor in New York City, where she discovered her ex-boyfriend Rictor in an intimate embrace with [[Gaveedra Seven (Mojoverse)|Shatterstar]].{{r|X-Factor Vol 1 207}} She and Shatterstar briefly fought for Rictor's love, though the battle went unfinished.{{r|X-Factor Vol 1 208}}
+[[File:X-Factor Vol 1 210 Textless.jpg|thumb|right|180px|Rictor and pregnant Rahne]]
+
+Rahne decided to "save his soul" by putting her and her baby between Ric and Star, leading Rictor to believe that her baby was his.{{r|X-Factor Vol 1 208|209}}{{r|X-Factor Vol 1 213}} Shortly after, they met with [[Doctor Castillo (Earth-616)|Dr. Castillo]]. She tried to examine the embryo by ultrasound, but the waves couldn't penetrate Wolfsbane's body, and Dr. Castillo deduced that it was a protective function, mystical in nature rather than biological. This made Rictor suspect that the baby was not his, something that was later confirmed by Shatterstar after an encounter with Hrimhari in [[Niffleheim]].{{r|X-Factor Vol 1 210}}{{r|X-Factor Vol 1 212|213}}
+
+Shatterstar and Layla Miller convinced Rictor that even if Rahne had lied about his paternity, he should still be with her and support her, since, of all the places in the world, she'd come to him. when Rictor caught up with her, Rahne told him that she hadn't planned to deceive him about his paternity and Rictor assured her that it was not her fault that he was gay. After a heartfelt conversation, the two embraced.{{r|X-Factor Vol 1 213}}
+
+===Birth of Tier===
+Later as she left the office to go to church, she ran into Shatterstar, who wanted to mark his territory over Rictor and make peace with her. At the church, they encountered a powerful demon, the [[Sin-Eater (Earth-616)|Sin-Eater]], who claimed that the coming of Rahne's child had weakened the walls between dimensions, allowing it to cross over. The Demon offered Wolfsbane the chance to transfer all her sins to her child, who'd then be killed and restore the walls. Rahne blatantly refused, and fought with the demon alongside Shatterstar.{{r|X-Factor Vol 1 220}}
+
+Moments later [[Maria Callasantos (Earth-616)|Feral]] appeared and tried to kill Wolfsbane and her child, but it turned out that she was just a ghost, and had been returned to the world of the living to serve as an anchor for all the demons and gods who were hunting Rahne's child. [[Cu Sith]], [[Kasha (Earth-616)|Kasha]], [[Okami (Earth-616)|Okami]], and [[Bast (Earth-616)|Bastet]] all appeared immediately after that. Rahne and Shatterstar fought them all while Layla and X-Factor (instructed by her) sprinkled salt on all entrances of the headquarters and drew protective symbols on the walls, doors and windows creating a mystic shield to prevent demonic forces from entering. When Rahne and Shatterstar arrived, X-Factor struggled with Cu Sith and Bastet, trying to protect Rahne and her baby, but the battle was unequal, and the team was losing, until [[Jack Russell (Earth-616)|Werewolf by Night]] showed up and help turn the scales.{{r|X-Factor Vol 1 220|222}}
+
+[[File:Rahne Sinclair (Earth-616) and Tier Sinclair (Earth-616) from X-Factor Vol 1 224 001.jpg|left|180px|The Birth]]
+Russell and Rahne fled in a car and were attacked by [[Cerberus (Earth-616)|Cerberus]]. While Russell fought the beast, Rahne ran away and encountered a man named [[Vali Halfling (Earth-616)|Agamemnon]], who offered her help and shelter in his home. Unbeknownst to Rhane, Agamemnon wasn't even human; he was a half-Asgardian demigod and Hrimhari's uncle. He caught Rahne, bound her in enchanted chains and locked her in a protective circle. However, the child wasn't born as usual and got out of Rahne's mouth.{{r|X-Factor Vol 1 223|224}}
+
+Immediately after birth, the child attacked and ripped apart Agamemnon, causing repulsion to Rahne. Her reaction frightened the child and he ran away. At the same time, Madrox walked into the house with [[Theresa Cassidy (Earth-616)|Theresa Cassidy]], who upon seeing the child instinctively released a sonic blast that sent I'm flying away. Gods and demons had finally noticed that he had been born, and continued to hunt. However, Hela found the child first. She was going to take him with her, but she was attacked by all the enraged gods and demons. While they fought, the child hid away, being found by Russell in the aftermath of the battle.{{r|X-Factor Vol 1 224}} Rahne later felt terrible remorse for abandoning her child.{{r|X-Factor Vol 1 225}}
+
+===Self-Pity===
+Rahne was not doing any better coping with the abandonment of her son. She isolated herself from her teammates right after a mission, and for long periods of time. Theresa and [[Lorna Dane (Earth-616)|Polaris]] decided to plan a road trip to have Rahne get her mind off things, by telling her it was a mission. On their way to [[Vermont (State)|Vermont]], they attempted to crack jokes to Rahne, but to no avail, and, when Rahne realized she'd been lied to, she jumped out of the car, forcing Lorna to use magnetic wave manipulation to pull Rahne back in.{{r|X-Factor Vol 1 237}}
+[[File:X-Factor Vol 1 237 Textless.jpg|180px|thumb|right|The "road trip"]]
+
+When they arrived in Vermont, they met up with Madrox's dupe [[John Maddox (Earth-616)|Reverend John Maddox]], and, despite some initial reluctance, Rahne eventually agreed to talk to him. She told him that she'd treated her son the same way her father treated her. She felt that there was no point in asking for forgiveness. And she also finally revealed her repressed memories of being on X-Force and brainwashed into eating her own father. John, in complete shock, left his office, only to come back with a cat-o-nine tails whip. He demanded Rahne to beat herself with it, and began screaming at her. Rahne dropped the whip and began sobbing. John told her he was never going to let her do it, and consoled her with his words about letting go of her self-pity and judgmental attitude, and turning negative energy into something positive. Rahne then told John that she was going to search for her son.{{r|X-Factor Vol 1 237}}
+
+When she left to look after him, Rictor and Longshot accompanied her and helped her track him down. When they found him, however, they saw themselves forced to fight [[Armando Muñoz (Earth-616)|Darwin]], who was hunting the child, and [[Vanora (Earth-7153)|Vanora]], making Rahne think that it was best to stay hidden with her son in order to protect him.{{r|X-Factor Vol 1 242}}
+
+===Becoming a Deacon===
+With Darwin still hunting her son, Rahne was eventually forced back to [[New York City]] with her son. They managed to get to X-Factor's HQ safe and sound, but were quickly followed by Darwin, and later by [[Mephista (Earth-616)|Jezebel]] and Strong Guy, who had quit the team. Without much explanation, everyone present was then teleported before the [[Hell Lords (Earth-616)|Hell Lords]], who were also waiting to kill Tier.{{r|X-Factor Vol 1 250}} Seeing that the war was no longer avoidable, Jezebel turned tides and helped X-Factor escape, soon explaining that she was only trying to try kill Tier before to prevent the Hell Lords from beginning their war for Tier's life, prophesized long ago to be the decisive conflict to define the true Hell Lord of the Universe.{{r|X-Factor Vol 1 251}}
+
+They tried to lay low for a while, as Tier didn't want to charge to battle and he was the only one capable of killing the Hell Lords,{{r|X-Factor Vol 1 254}} but when [[Mephisto (Earth-616)|Mephisto]] turned against the other Hell Lords and declared himself the new ruler of the Earth, X-Factor finally decided to take the fight to him.{{r|X-Factor Vol 1 255}}
+
+Tier handled himself against Mephisto, but, to the surprise of everyone, he was instead killed by Guido, who was seeking the powers of the Hell Lords to revive a recently-deceased Monet. As he got his new powers, he ended the war{{r|X-Factor Vol 1 256}} and dispersed the members of X-Factor through time and space,{{r|X-Factor Vol 1 257|261}} sending Rahne to the [[Arctic Circle]] to have a little talk with her. After threatening her, he thanked her for her sacrifice and teleported her to Vermont to meet Reverend John Maddox. John, after having heard of the recent X-Factor adventures, and realizing Rahne didn't have much to look forward to anymore, suggested that she become the town's new deacon, which she gladly accepted.{{r|X-Factor Vol 1 258}}
+
+===New Tian===
+When [[Hydra (Earth-616)|Hydra]] took over the United States and displaced mutantkind to the newly created [[New Tian]], Rahne became a member of a strike team assembled by New Tian's government. She also underwent a [[Secondary Mutation|secondary mutation]] which granted her the ability to separate her lycanthrope form into a pack of five smaller wolves.{{r|X-Men: Blue Vol 1 7}}
+
+===Last X-Men and Death===
+She rejoined the [[X-Men (Earth-616)|X-Men]] when [[Scott Summers (Earth-616)|Cyclops]] sent the call out. She was also freed from prison as well.{{r|Uncanny X-Men Vol 5 13}} She realized she had "had enough of being a monster" and quit the team. Not long after, she was sitting on a bench when some young men approached her. One insisted on her coming with them. He grabbed her arm, and she turned into the wolf, nearly killing one. They realized she was a mutant and started beating her. Unwilling to hurt them, she refused to defend herself. She eventually died of her injuries. The X-Men mourned her loss greatly.{{r|Uncanny X-Men Vol 5 17}}
+
+===Krakoa===
+Following the foundation of a mutant state in [[Krakoa (Earth-616)|Krakoa]] by the hand of Charles Xavier and his allies, Wolfsbane resurfaced as a citizen of the nation, having been reborn by the hand of [[Five (Earth-616)|The Five]],{{r|New Mutants Vol 4 1}} a group of mutants capable of combining their powers into a process of resurrection, brought together by Xavier as part of his plans for mutant ascension.{{r|House of X Vol 1 5}}
+
+At the time, Dani started using her powers to help mutants deal with their traumas, Rahne being one of the people she helped.{{r|New Mutants Vol 4 14}} She soon began wondering why her son hadn't been revived yet, and Elixir, who was one of the Five, told her he wasn't even on the list and the she needed evidence of his death. After speaking with Dani about it, she simply burst into tears.{{r|New Mutants Vol 4 15}}
+
+| Powers         = Rahne is a [[Homo superior|mutant]] with the mutant powers to transform herself into a wolf at will, or into a transitional form which combines human and lupine aspects, including:
+
+* '''[[Glossary:Lycanthropy|Lycanthropy]]''': Much like the werewolves of folklore, Rahne can transform into a wolf. However, she is not a werewolf, and therefore is not restricted to the limitations of a creature of the night. She can also retain full memory of herself, and therefore has her human consciousness while in her wolf and transitional forms. In her transitional form she is able to stand erect on her legs and retain the use of her hands, but is also able to run and maneuver on all fours like a wolf.{{citation}} Other effects of her wolf and/or transitional forms include:
+**'''Enhanced Size''': Proportionately greater in size than that of her human form, her hybrid wolf-human bones and muscles make Wolfsbane taller and stronger. Although her lupine and transitional forms are more massive than her human form, the source of this additional mass is unknown.{{citation}}
+**'''Enhanced Strength''': Greater strength than that of a normal male adult human, due to her enhanced muscular build.{{citation}}
+**'''Enhanced Speed''': Enhanced muscles are swift as a wolf but to the proportional size of a human.{{citation}}
+**'''Enhanced Reflexes''': Although enhanced her muscles and skeleton are also extremely flexible, giving her the agility of an animal.{{citation}}
+**'''Hyper-Keen Senses''': Keen animal senses of sight, smell & hearing combined with human intelligence are heightened further than that of a regular wolf. She can perceive infrared, ultra violet, heat, pheromones & emotions such as fear or lust.{{citation}}
+**'''Claws & Fangs''': In her half & full wolf form, Rahne possesses sharpened nails along with pronounced canines with which to rip and tear through most substances.{{citation}}
+**'''Regenerative Healing Factor''': Wolfsbane is capable of regenerating damaged or destroyed areas of her body with much greater speed and efficiency than an ordinary human. Injuries that result in massive tissue damage such as bullet wounds, slashes, punctures, blunt force trauma, and severe burns heal completely, without so much as a scar, in a shorter amount of time.{{citation}}
+**'''Enhanced Vision''': Although not an ability possessed by natural wolves, in her lupine form, Wolfsbane is able to see into the infrared and ultraviolet portions of the electromagnetic spectrum. By viewing the heat signatures of human beings, she is able to detect a person's emotional state and also determine if a person is lying.{{r|New Mutants Vol 1 4}}
+
+===[[Secondary Mutation]]===
+After becoming an agent for [[New Tian]]'s government, Rahne underwent a [[Secondary Mutation|secondary mutation]] which granted her even greater abilities than she previously had.{{r|X-Men: Blue Vol 1 7}} Unique to her Secondary Mutation's is its multitudinous manifestations of it.
+
+'''Claw Extension:''' Rahne's Claws are further pronounced taking on an elongated and bony appearance.{{citation}}
+
+'''Duplication Shapeshifting:''' Wolfsbane shows she is able to split herself into a pack of five wolves.{{citation}}
+
+{{Navigation
+| title = Former Powers
+| body  = '''Dagger Powers:''' Rahne briefly had access to the Light Based powers of [[Tandy Bowen (Earth-616)|Tandy Bowen]], but they proved to be too much for her and they were returned to their former wielder by a combination of [[Rogue (Anna Marie) (Earth-616)|Rogue]], [[Illyana Rasputina (Earth-616)|Magik]], and [[Charles Xavier (Earth-616)|Professor X]].{{citation}}
+
+'''Lightforce Generation'''
+*'''''Lightforce Daggers'''''
+*'''''Lightforce Detoxification'''''
+*'''''Lightforce Manipulation''''' 
+
+'''Pregnancy Alterations:''' After her teammate [[Joshua Foley (Earth-616)|Elixir]] altered her DNA to match that of her [[Tier Sinclair (Earth-616)|unborn child]]'s strength, she demonstrated greatly increased abilities beyond what she originally possessed. These changes are similar to the changes undergone on [[Genosha]] when Wolfsbane underwent several artificial mutations.{{r|X-Force Vol 1 11}} After returning to X-Factor, she stated that she is almost impenetrable.{{r|X-Factor Vol 1 210}}
+*'''Superhuman Strength''': Her strength had been amplified to an unknown but impressive degree.{{citation}}
+*'''Near-Invulnerability''': Elixir believed her to be bulletproof.{{citation}}
+*'''Enhanced Senses''': Her senses became further heightened to the point she could smell out a missing teammate underground from nearly a mile away.{{r|X-Force Vol 3 23|24}}
+}}
+
+| Abilities               = 
+| Strength                = In human form Wolfsbane possesses the normal human strength of a girl of her age, height, and build who engages in [[Strength_Scale#Above_Average|intensive regular exercise]]. In her lupine and transitional forms her strength is heightened beyond average, but not to a superhuman degree.{{citation}}
+| Weaknesses              = There are drawbacks to being a wolf:
+*While in her lupine form, Wolfsbane can not orally communicate with others. Instead, she has the vocal cords of a wolf and therefore barks, growls, and howls as one. Although in this form she is capable of communicating telepathically with Danielle Moonstar, she does not often work with her former New Mutants teammate.{{citation}}
+*While she may retain her human consciousness, she is more prone to wild behavior. This can sometimes dull her intelligence or override her usually up-right and moral consciousness.{{citation}}
+
+| Equipment               = 
+| Transportation          = X-Factor Humvee; formerly motorcycle, [[Illyana Rasputina (Earth-616)|Magik]], [[Warlock (Technarch) (Earth-616)|Warlock]]
+| Weapons                 = 
+
+| Notes                   = * Wolfsbane's lupine and transitional forms are of greater mass than her human form. The source of this additional mass is unknown. See [[Glossary:Conservation of Energy|Conservation of Energy]] for details.
+*Rahne's clothes during her time as a student of Xavier's were made of [[Unstable Molecules]], so that she could transform into her lupine forms without tearing them apart.{{r|New Mutants Vol 1 55}}
+
+| Trivia                  = 
+* Rahne has been romantically linked with [[Douglas Ramsey (Earth-616)|Cypher]],<ref>{{cl|X-Factor Vol 1 72}}, Rahne referred to "her first love rotting in the ground", meaning Doug.</ref> [[Julio Richter (Earth-616)|Rictor]],{{r|New Mutants Vol 1 88}} [[Joshua Foley (Earth-616)|Elixir]],{{r|New X-Men Vol 2 3}} and [[Hrimhari (Earth-616)|Hrimhari]]. She has also had crushes on [[Samuel Guthrie (Earth-616)|Cannonball]]{{r|New Mutants Vol 1 68}} and [[Alexander Summers (Earth-616)|Havok]].{{r|X-Factor Vol 1 71|90}}
+* When in lupine form, Rahne had an empathic link with [[Danielle Moonstar (Earth-616)|Danielle Moonstar]];{{r|New Mutants Vol 1 21}} after Rahne lost her powers, this link was severed. The friends later regained the psi-link after Rahne regained her powers after being healed by [[Joshua Foley (Earth-616)|Elixir]], but the link would soon be lost months later when Danielle lost her powers on M-Day.
+* Due to further artificial mutation induced in [[Genosha]], Wolfsbane can reach a height of roughly 8 feet and a weight of over 400 lbs. in her transitional form, and roughly 12 feet (when standing on her hind legs) and a weight of over 1000 lbs. in her "absolute" lupine form. After Mystique hit her with the neutralizing gun, these abilities disappeared. However, these attributes seem to have returned with Elixir's alterations to her DNA.{{citation}}
+* Rahne was previously unable to grow her hair longer than a few inches in length. She was able to grow longer hair while locked in her transitional form after leaving [[Genosha]], and again when she was deprived of her mutant powers.{{citation}} 
+* Rahne is a protestant; specifically Scots Presbyterian,{{r|Excalibur Vol 1 93}} but she did end up compromising her faith when she slept with Hrimhari. It is unclear if the writers simply lacked understanding of the Christian faith or if that was one of the sins the Sin-Eater had later referred to.
+* On [[Asgard]], Rahne was temporarily under [[Loki Laufeyson (Earth-616)|Loki's]] control and while wearing a ''Collar of Obedience'', she was a monstrous wolf called '''''Grimfang'''''.{{r|New Mutants Special Edition #1}}{{r|X-Men Annual Vol 1 9}}
+* Rahne's surname, or clan name as it is called in Scotland, Sinclair, has a motto which is "Commit Thy Work To God." That fits her character.{{r|Wikipedia:Clan_Sinclair}}
+* On [[Earth-7153]], Wolfsbane and Hrimhari had a daughter, [[Vanora (Earth-7153)|Vanora]], not a son.{{r|X-Factor Vol 1 229}}
+* Rahne was nineteen at the time she was dating [[Joshua Foley (Earth-616)|Elixir]], who was sixteen at the time.{{r|New X-Men Vol 2 3}}
+* According to original character designs by [[Bob McLeod]], Rahne was supposed to be named Mirazhi Shabandar (Shikari) and should have been Irish, instead of Scottish.{{r|X-Men: Archives Sketchbook Vol 1 1}}
+
+| Links                   = 
+* [http://www.rahne-sinclair.com/ Rahne-Sinclair.com]
+* [http://peterdavid.malibulist.com/archives/002134.html Peter David, the writer, briefly discusses ''Rahne of Terra'']
+* [http://uncannyxmen.net/characters/wolfsbane uncannyxmen.net Spotlight On... Wolfsbane]
+* [http://rahnesinclair.proboards49.com/index.cgi Forum featuring Wolfsbane]
+| Wikipedia                = Wolfsbane (comics)
+| Marvel                   = http://www.marveldirectory.com/xoops/modules/wordbook/entry.php?entryID=710
+}}
+[[Category:Shapeshifters]]
+[[Category:Lupine Form]]
+[[Category:Utopians]]
+[[Category:Presbyterian Characters]]
+[[Category:Xavier Institute Student]]
+[[Category:Post-M-Day Mutants (The 198)]]
+[[Category:Genoshan Mutates]]
+[[Category:Lupine Mutants]]
+[[Category:Asgardian Wolf/Mutant Hybrids]]
+[[Category:Significant Threats]]
+[[Category:Regeneration]]
+[[Category:Superhuman Agility]]
+[[Category:Night Vision]]
+[[Category:Superhuman Durability]]
+[[Category:Superhuman Strength]]
+[[Category:Regenerative Durability]]
+[[Category:Superhuman Senses]]
+[[Category:Hyperosmia]]
+[[Category:Hyperacusia]]
+[[Category:Sinclair Family]]
+[[Category:Kinross Family]]
+[[Category:Post-Secret Wars Mutants]]
+[[Category:Secondary Mutations]]
+[[Category:Duplication]]
+[[Category:Lightforce]]
+[[Category:Fur]]
+[[Category:Adventurers]]
+[[Category:Detectives]]
+[[Category:Teachers]]
+[[Category:Government Agents]]
+[[Category:Normal Strength]]
+[[Category:Size Alteration]]

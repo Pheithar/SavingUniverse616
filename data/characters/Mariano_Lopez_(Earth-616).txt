@@ -1,0 +1,53 @@
+{{Marvel Database:Character Template
+| Image                   = Mariano Lopez (Earth-616) from Union Jack Vol 2 1 001.png 
+| Name                    = Mariano Lopez
+| CurrentAlias            = Machete
+| Aliases                 = 
+
+| Affiliation             = {{M|Batroc's Brigade (Earth-616)|Batroc's Brigade}}; {{M|Radically Advanced Ideas in Destruction (Earth-616)|R.A.I.D.}}; Formally; {{M|Thunderbolts (Earth-616)|Thunderbolts}}
+| Relatives               = [[Ferdinand Lopez (Earth-616)|Machete (Ferdinand Lopez)]] (brother); [[Alfonso Lopez (Earth-616)|Machete (Alfonso Lopez)]] (brother)
+| MaritalStatus           = 
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z Update #4}}
+| Gender                  = Male
+| Height                  = 6'2"
+| Weight                  = 200 lbs
+| Eyes                    = Blue
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = San Diablo
+
+| Identity                = Public
+| Citizenship             = San Diabloan
+| Occupation              = Mercenary, terrorist
+| Education               = 
+| BaseOfOperations        = Mobile
+
+| Creators                = Dan Slott; Paul Pelletier
+| First                   = G.L.A. Vol 1 #2
+
+| History                 = 
+[[Alfonso Lopez (Earth-616)|Alfonso Lopez]] was inadvertently killed by [[Kali Vries (Earth-616)|Kali Vries]] while being brought in by [[Superhuman Tactical Activities Response Squad (Earth-616)|S.T.A.R.S.]] After his brother's death, Mariano Lopez next took up the identity of Machete. He was then recruited into [[Batroc's Brigade (Earth-616)|Batroc's Brigade]] like his brothers before him.
+
+Later, Machete left for [[London (England)|London]] with his teammate [[Maximillian Zaran (Earth-616)|Zaran]] as part of a [[Radically Advanced Ideas in Destruction (Earth-616)|R.A.I.D.]] terrorist plot. Machete and Zaran were tasked with assassinating the members of the Houses of Parliament, but they were stopped by an ad hoc team of superheroes led by [[Joseph Chapman (Earth-616)|Union Jack]].{{r|Union Jack Vol 2 1}}
+
+| Powers                  = 
+
+| Abilities               = Bilingual in Spanish and English. Expert in fighting with knifes. 
+| Strength                = Machete possesses the normal human strength of a man of his age, height, and build who engages in extensive regular exercise. 
+| Weaknesses              = 
+
+| Equipment               = He has electro-magnets in the palms of his gloves to attract a chose target which can be 200 pounds or lesser.
+| Transportation          = 
+| Weapons                 = He always carries at least two machetes and eight to ten daggers. 
+
+| Notes                   = Enemy of the Great Lakes Avengers
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = *[http://www.marvunapp.com/Appendix4/machetemariano.htm Machete (Mariano Lopez) at Marvunapp]
+}}
+[[Category:Multilingual]]

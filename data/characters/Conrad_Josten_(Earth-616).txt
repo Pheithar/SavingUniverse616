@@ -1,0 +1,73 @@
+{{Marvel Database:Character Template
+| Image                   = Conrad Josten (Earth-616) from All-New Official Handbook of the Marvel Universe Update Vol 1 1 0001.jpg
+| Name                    = Conrad Josten
+| CurrentAlias            = Smuggler
+| Aliases                 = Connie{{r|New Thunderbolts Vol 1 15}}
+
+| Affiliation             = {{m|Thunderbolts}}, {{m|Redeemers}}
+| Relatives               = [[Jonathan Josten (Earth-616)|Jonathan Josten]] (father; deceased);<br>[[Martha Josten (Earth-616)|Martha Josten]] (mother; deceased);<br>[[Carl Josten (Earth-616)|Carl Josten]] (brother; deceased);<br>[[Erik Josten (Earth-616)|Erik Josten]] (brother);<br>[[Lindy Josten (Earth-616)|Lindy Josten]] (sister; deceased)
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 5'10"
+| Weight                  = 150 lbs
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]], with a suit capable of tapping into the [[:Glossary:Darkforce|Darkforce]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Madison (Wisconsin)|Madison]], [[Wisconsin (State)|Wisconsin]]
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Former adventurer, bounty hunter
+| Education               = At least high school graduate
+| BaseOfOperations        = 
+
+| Creators                = Kurt Busiek; Mark Bagley
+| First                   = Thunderbolts #16
+| First2                  = {{g|First Appearance}}<br>{{sld|Thunderbolts #47}}{{g|as Smuggler}}
+
+| History                 = 
+===Early Life===
+Conrad Josten is the youngest of the four Josten children born to farmers living outside Madison, Wisconsin. Conrad's oldest brother [[Carl Josten (Earth-616)|Carl]] was killed by a loan shark soon after the [[Thunderbolts|Thunderbolts]] were exposed as villains. Conrad's older sister [[Lindy Josten (Earth-616)|Lindy]] was hit and killed by a drunk driver when she was 10 years old. Conrad's second oldest brother Erik became the supervillain [[Power Man (Erik Josten)|Power Man]]. Once news of Erik's arrest came out in the papers, the Josten family could no longer do business in Madison and lost their farm  Conrad's parents took ill and died soon afterwards. Conrad ran away and changed his name and neither Erik or Carl stayed in contact with him.{{r|Thunderbolts #16}}
+
+===Smuggler===
+In the years to follow, Erik would take the villainous guises [[Smuggler (Erik Josten)|Smuggler]] and [[Goliath (Erik Josten)|Goliath]] and eventually pretended to be a superhero named [[Atlas (Erik Josten)|Atlas]]. Conrad still held a grudge against Erik and showed no hint of sadness when he saw his brother's seeming destruction at the hands of [[Jack Monroe (Earth-616)|Scourge]].{{r|Thunderbolts #47}}
+
+===Redeemers===
+On request of the [[Commission on Superhuman Activities]], Conrad joined their Redeemer Program to become the [[Smuggler]].  What the Commission offered Conrad and what they actually gave him is up to debate. The C.S.A. gave Conrad a suit that allowed him to access the [[Darkforce Dimension]] to melt into shadows. The [[Redeemers (Earth-616)|Redeemers]] (led by [[Helmut Zemo (Earth-616)|Helmut Zemo]], who had taken control of the body of [[John Watkins III (Earth-616)|John Watkins III]], a.k.a. [[Citizen V (Helmut Zemo)|Citizen V]]), eventually fought the Thunderbolts and they discovered Josten's identity. After the battle was over, the Thunderbolts were offered pardons (including Atlas, despite his apparent death) and were disbanded.{{r|Thunderbolts #48|50}}
+
+The Redeemers began to operate out of the Thunderbolts headquarters, [[Mount Charteris]] in Burton Canyon, Colorado, under the guidance of [[Captain America (Steve Rogers)|Captain America]] working for the C.S.A. and [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]]. In exchange, they would be eventually pardoned for their past crimes. (There is some question as to whether Conrad needed a pardon for himself or if needed one for Erik. Erik already got one from the C.S.A., but Conrad might not have known that.){{r|Thunderbolts #51|55}} The majority of the Redeemers were slaughtered by the villain [[Franklin Hall (Earth-616)|Graviton]], and Conrad was believed to have been killed when Graviton shunted him into the sun.{{r|Thunderbolts #56}} It was later discovered that Conrad had escaped into the Darkforce dimension but became trapped there.
+
+===Thunderbolts===
+Baron Zemo eventually discovered Conrad's fate and arranged to have [[Marcus Daniels (Earth-616)|Blackout]] brought back from the dead so he could tap into the Darkforce dimension and free Conrad. Zemo offered Atlas a choice: side with him and let him kill [[Genis-Vell (Earth-616)|Genis]] to save the universe, or he would leave Conrad in the Darkforce dimension forever. Erik sided with Zemo, and after Zemo killed Genis, Erik was rewarded with Conrad's freedom. Conrad joined the Thunderbolts, seemingly wanting to repair his relationship with his brother Erik.{{r|Thunderbolts #100}}
+
+Conrad's Darkforce suit was destroyed by the [[Well of All Things|Wellspring]] energies that Zemo released.{{r|Thunderbolts #109}}
+
+| Powers                  = None
+
+<div style="float:right;">
+
+
+</div>
+
+| Abilities               = 
+| Strength                = Normal Human
+| Weaknesses              = 
+
+| Equipment               = Suit that allowed him to access the power of the [[:Glossary:Darkforce|Darkforce]].
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Wikipedia               = Smuggler_%28comics%29
+| Links                   = 
+* http://www.marvunapp.com/Appendix3/smugglertbolts.htm
+
+}}
+[[Category:Teleporters]]
+[[Category:Darkforce]]

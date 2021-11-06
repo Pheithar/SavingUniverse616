@@ -1,0 +1,67 @@
+{{Marvel Database:Character Template
+| Image                   = Fiz (Earth-616) from A + X Vol 1 13 0001.png
+| Name                    = Fiz
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{M|Cadre K}}, formerly {{M|X-Men}} (honorary member)
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male 
+| Height                  = Variable
+| Weight                  = Variable
+| Eyes                    = Green
+| Hair                    = Black
+| UnusualSkinColor        = Green
+| UnusualFeatures         = Pointed ears, <nowiki>furrowed chin</nowiki>, clear spots on forehead
+
+| Origin                  = [[Skrull Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Skrull Empire]]
+
+| Identity                = No Dual
+| Citizenship             = Skrull Empire
+| Occupation              =
+| Education               = 
+| BaseOfOperations        = [[Sagittarian Farms]], [[South Dakota (State)|South Dakota]]; formerly [[Carplax IV]], [[Skrull Empire]], [[Andromeda Galaxy]]
+
+| Creators                = Alan Davis; Tom Raney
+| First                   = X-Men Vol 2 #95
+
+| History                 = 
+Fiz was a young Skrull Mutant that was rejected by the Skrull Empire and alongside other Mutant Skrulls, found his way to Charles Xavier on Earth. After a brief stay on Earth with Xavier, they went to space to train alongside Xavier. While traveling next to orbit, they found Bishop prior to the Maximum Security event. Soon after, Fiz helped the X-Men battle Apocalypse. After that, he went back into Space with his Skrull Mutant friends.
+
+===[[Secret Invasion]]===
+In a file compiled by [[Kal'du (Earth-616)|Chancellor Kal'du]] for [[Veranke (Earth-616)|Veranke]],{{r|Skrulls! Vol 1 1}} the Cadre K was still rejected by the Skrull Empire. According to their information, including the [[M-Day|massive depowering of earth's mutants]], they seem to be still powered, not affected by the "No More Mutants" spell.
+
+| Powers                  = 
+
+*'''[[Homo superior|Mutant]] Power''': Fiz can [[Glossary:Shapeshifting|reduce or increase his size]].
+
+* '''Skrull [[Glossary:Shapeshifting|Shapeshifting]]''': Like other [[Skrulls]], is a shapeshifter. They can mentally cause the [[Unstable Molecules]] that comprise his or her body to become pliant, enabling him or her to assume other forms through muscular expansion and contraction. Once a new shape has been assumed, it takes a conscious act of will to assume another form or revert to natural. Hence, Skrulls do not spontaneously lose their assumed form when asleep or unconscious. Skrulls in altered form will, however, revert to their original forms at the moment of death. 
+
+| Abilities               = 
+* '''Skrull Military Training''':  is a trained [[Skrulls|Skrull]] soldier.
+** '''Aviation''': is trained in the use of the advanced warp-drive starships of the [[Skrulls|Skrull]]-military.
+** '''Unarmed Combat''': is trained in the unarmed combat of the [[Skrulls|Skrull]]-military.
+** '''Marksmanship''':  is trained in the use of the ranged energy-weaponry of the [[Skrulls|Skrull]]-military.
+| Strength                = 
+| Weaknesses              = * '''Skrull Shape-Shifting''': Normally, Skrulls only take on the appearance of an object or person and none of that object or person’s characteristics. There is a limit to the size of the object or person a Skrull can imitate, but a much higher and lower limit in Fiz's case. The average Skrull cannot distend his or her mass any more than 1.5 times as large a volume as his or her original volume, nor can he or she contract his or her mass any more than 0.75 a volume as his or her original.
+
+| Equipment               = * '''[[Skrulls|Skrull]]-Military Uniform''': wears a [[Skrulls|Skrull]]-military uniform, which alters as he changes shape and size.
+| Transportation          = * '''[[Skrulls|Skrull]]-Military Transport''': will frequently use the advanced warp-drive starships of the [[Skrulls|Skrull]]-military.
+| Weapons                 = 
+* '''[[Skrulls|Skrull]]-Military Weaponry''': will frequently use the ranged energy-weaponry of the [[Skrulls|Skrull]]-military.
+
+| Notes                   =  
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Size Alteration]]
+[[Category:Post-M-Day Mutants (Non-Human)]]
+[[Category:Shapeshifters]]
+[[Category:Honorary X-Men]]

@@ -1,0 +1,53 @@
+{{Marvel Database:Character Template
+| Image                   = Ogur (Earth-616) from Thor Vol 1 474 002.jpg
+| Name                    = Ogur
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Bald
+| UnusualFeatures         = One-yed
+| UnusualSkinColor        = Grey
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = Hindi
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = [[Hindi]]
+
+| Creators                = Stan Lee; Jack Kirby;
+| First                   = Thor Vol 1 138
+| Death                   = 
+
+| History                 = The one-eyed guardian of Wazir the Prophet.
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = [[File:Ogur (Earth-616) from Thor Vol 1 474 001.jpg|thumb|Blue eye]]
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = Ogur's eye color has not been portrayed consistently.
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Giant Monsters]]
+[[Category:Unknown Origin]]

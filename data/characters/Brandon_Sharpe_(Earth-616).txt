@@ -1,0 +1,83 @@
+{{Marvel Database:Character Template
+| Image                   = Avengers_Academy_Vol_1_5_Textless.jpg
+| Name                    = Brandon Sharpe
+| Name2                   = {{r|Avengers Academy #5}}
+| CurrentAlias            = Striker
+| Aliases                 = Stryker{{r|Avengers: Solo #3}}
+
+| Affiliation             = Formerly {{M|Avengers Academy}}
+| Relatives               = [[Ms. Sharpe (Earth-616)|Ms. Sharpe]] (mother);<br>
+unnamed father;<br>
+unnamed sister
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Avengers NOW! Vol 1 1}}
+| Gender                  = Male
+| Height                  = 5'8"
+| Weight                  = 150 lbs.
+| Eyes                    = Blue
+| Hair                    = Black
+| Hair2                   =  with [[:Category:White Hair|White]][[Category:White Hair]] streak
+| UnusualFeatures         = Scar on his left eye
+
+| Origin                  = [[Homo sapiens|Human]] [[Mutate]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = Avenger trainee, student, adventurer 
+| Education               = 
+| BaseOfOperations        = [[Avengers Compound]], [[Los Angeles]]; 
+formerly [[Infinite Avengers Mansion]]
+
+| Creators                = Christos N. Gage; Mike McKone 
+| First                   = Avengers Academy #1
+
+| Quotation               = I don't want the spotlight, I <b>am</b> the spotlight.
+| Speaker                 = [[Brandon Sharpe (Earth-616)|Striker]]
+
+| History                 = Born to a [[Ms. Sharpe (Earth-616)|mother]] seeking fame and a father who was an adulterous politician cheating on his wife, Brandon Sharpe's life was anything but normal. Thrust into the spotlight as an actor at a young age as his mother sought to live off his fame, Brandon grew to become uncomfortable with this fame, growing distanced from his mother, a distance that grew as she refused to listen to his complaints about [[Character Index/R#Rick|Rick]], his manager, who attempted to take advantage of him. During one of these attempts, Brandon's powers first manifested, frying the limo he was in and severely injuring his manager.{{r|Avengers Academy #5}}
+
+With his new-found powers and taking the name Striker, Brandon sought to become a superhero...but found stopping crime to be more difficult than it appeared. Turning to performing, he became a fixture at monster truck shows, showing his power off to paying audiences.  When [[Norman Osborn (Earth-616)|Norman Osborn]] grew aware of this, he brought Striker in and lavished him with money and women, something Striker quickly grew bored with.{{r|Avengers Academy #5}}
+
+===Avengers Academy===
+After Osborn's fall, Striker was brought into the [[Avengers Academy (Earth-616)|Avengers Academy]], along with several young superheroes who had been held and tortured by Osborn. Not letting on that he had received better treatment, Striker led the others in finding out the connection they all had to Osborn, and grew the belief that the Academy staff feared the teens would become villains.{{r|Avengers Academy #1}}
+
+[[File:Brandon Sharpe (Earth-616) from Avengers Academy Vol 1 33.jpg|left|thumb|150px|Striker as a member of Avengers Academy]]
+
+Striker then acted like a player toward the girls in the Avengers Academy. Soon after Striker and his mother orchestrated a plan with [[David Cannon (Earth-616)|Whirlwind]] to get the Avengers Academy identities public. That night [[Madeline Berry (Earth-616)|Veil]] came to his room and gave him a kiss.{{r|Avengers Academy #5}}
+
+===Infinity===
+
+Finesse and Striker were chosen to represent Avengers Academy against the other superhero schools in the Contest of Champions. They were in attendance at the introductory ceremony when it was interrupted by [[Thanos (Earth-616)|Thanos's]] invasion.{{r|Infinity: The Hunt #1}}
+
+He was among the young heroes who assembled in Central Park to fight [[Mother (Interdimensional Parasite) (Earth-TRN287)|Mother's]] army of evil other dimensional Young Avengers.{{r|Young Avengers Vol 2 #11}}
+
+| Powers                  = '''Electrokinesis''': Brandon can generate huge amounts of electricity and manipulate it. 
+*'''Lightning Blasts''': Striker can fire electricity bolts from his hands and eyes for range attacks and can use his powers to disrupt and short out numerous devices. He can use them through any conductive medium, such as air, water, or metal.
+*'''Electro-Magnetic Shield''': He also can make electro-magnetic force fields for defense.
+*'''Electrokinetic Flight''': Striker can fly through air and space without an apparent means of propulsion up to 40 mph.
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = Self-centered and egotistical; focused on his own gain over others.{{r|Avengers Academy #5}}
+
+| Equipment               = '''Striker's Suit''':His costume is made out of unstable molecules that  [[Reed Richards (Earth-616)|Mr. Fantastic]] had invented and the suit adjusts to the wearer's abilities and powers.{{r|Avengers Academy #1}}
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = Striker has a Beta-Level Avengers Security Clearance.{{r|Avengers Academy #39}}
+| Trivia                  = [[File:Julie Powers (Earth-616)and Brandon Sharpe (Earth-616) 001.jpg|thumb|right|200px|Striker coming out to Julie]]
+* Brandon admitted to his teammate [[Julie Power (Earth-616)|Julie Power]] that he was gay. His past flirtations and sexual consequences were admitted to be Brandon attempting to "prove his manhood" to himself and others.{{r|Avengers Academy #23}} He later called a press conference to announce his sexuality.{{r|Avengers Academy #27}}
+* Striker stated that he's 18 years old.{{r|Inhumanity: The Awakening #1}}
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Electrokinesis]]
+[[Category:Flight]]
+[[Category:Homosexual Characters]]
+[[Category:Heroic Age (Event)]]
+[[Category:Beta-Level Avengers Security Clearance]]
+[[Category:Force Field]]

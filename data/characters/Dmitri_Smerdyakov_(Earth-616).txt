@@ -1,0 +1,157 @@
+{{Marvel Database:Character Template
+| Image                   = Dmitri Smerdyakov (Earth-616) from Giant-Size Amazing Spider-Man Chameleon Conspiracy Vol 1 1 cover 001.jpg
+| Name                    = [[Dmitri Smerdyakov|Dmitri Nikolayevich "Anatoly" Smerdyakov]]
+| CurrentAlias            = [[Chameleon]]
+| CurrentAliasRef         = 
+| Codenames               = 
+| EditorialNames          = 
+| Nicknames               = Cammy{{r|Doctor Doom and the Masters of Evil Vol 1 1}}
+| Impersonations          = [[Ashley Kafka]],{{r|Spectacular Spider-Man Vol 1 242}} [[Bruce Banner]],{{r|Tales to Astonish Vol 1 62}} [[Captain America]],{{r|Tales of Suspense #58}} [[Captain Stacy]],{{Citation}} [[Hank Pym]],{{r|Incredible Hulk Vol 1 154}} [[J. Jonah Jameson]],{{r|Web of Spider-Man #51|55}} [[Kraven the Hunter]],{{r|Spider-Man: Get Kraven Vol 1 2|6}} [[Peter Parker]],{{r|Sensational Spider-Man Vol 2 #29|32}} [[Rick Jones]],{{Citation}} [[Spider-Man]],{{r|Amazing Spider-Man #1}} [[Thunderbolt Ross]],{{r|Tales to Astonish Vol 1 62}} [[Torpedo]],{{r|Daredevil Vol 1 134}}
+| Aliases                 = Dmitri Kravinoff,{{r|Spectacular Spider-Man Vol 1 244}} Dr. Turner,{{Citation}} Minion Chameleon,{{r|Super-Villain Team-Up MODOK's 11 Vol 1 2}} Stepan Ivanov,{{Citation}} Professor Newton{{r|Amazing Spider-Man #1}}
+
+| Affiliation             = {{m|Threats and Menaces|TMN}}, formerly [[Mojo (Mojoverse)|Mojo]], {{m|MODOK's 11}}, [[USSR]], {{m|Hydra}}, [[Samuel Sterns (Earth-616)|The Leader]], the [[Wilson Fisk (Earth-616)|Kingpin]], [[Aleksandra Nikolaevna (Earth-616)|Sasha Kravinoff]], [[Sergei Kravinoff (Earth-616)|Kraven the Hunter]], [[Hammerhead (Joseph) (Earth-616)|Hammerhead]], {{m|Sinister Twelve}}, {{m|Exterminators (Spider-Man foes) (Earth-616)|Exterminators}}, Colonel Masab (during the ''Dark Reign'' era), {{m|Sinister Six}}, {{m|Superior Six}}, {{m|Intelligencia (Earth-616)|Intelligencia}}
+| Parents                 = Nikolai Kravinoff (father, deceased)<br>
+Sonya Smerdyakova (mother, deceased)
+| Siblings                = [[Sergei Kravinoff (Earth-616)|Sergei Kravinoff]] (paternal half-brother, deceased)
+| Relatives               = [[Aleksandra Nikolaevna (Earth-616)|Sasha Kravinoff]] (sister-in-law, deceased);<br>
+[[Vladimir Kravinoff (Earth-616)|Vladimir Kravinoff]] (half-nephew, deceased);<br>
+[[Alexei Kravinoff (Earth-616)|Alyosha Kravinoff]] (half-nephew, deceased);<br>
+[[Nedrocci Tannengarden (Earth-616)|Nedrocci Tannengarden]] (half-nephew, deceased);<br>
+[[Ana Kravinoff (Earth-616)|Ana Kravinoff]] (half-niece)
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Black
+| Hair2                   = (as Smerdyakov) [[:Category:No Hair|None]][[Category:No Hair]][[Category:Infobox Eyes Update Needed]] (as Chameleon)
+| UnusualFeatures         = The Chameleon's head and face are smooth and featureless when he is not actively mimicking someone. 
+
+| Origin                  = [[Homo sapiens|Human]] [[Mutate]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = Probably [[Volgograd]], [[Russia]]
+
+| Identity                = Secret
+| Citizenship             = Russian
+| Occupation              = Professional criminal; former Soviet spy, New York crime lord
+| Education               = 
+| BaseOfOperations        = Mobile; formerly [[Volgograd]] (Stalingrad), [[Russia]]; [[Chameleon’s Hideout]]{{r|Amazing Spider-Man #15}} 
+
+| Creators                = Stan Lee; Steve Ditko
+| First                   = Amazing Spider-Man #1
+
+| Quotation               = I am '''invisible''' because I am the same thing you look at every dreadful, dull day. I am the day '''before''' you realize everything has gone horribly, horribly wrong. I am the '''Chameleon'''.
+| Speaker                 = [[Dmitri Smerdyakov (Earth-616)|Chameleon]]
+| QuoteSource             = Amazing Spider-Man Vol 1 602
+
+| History                 = 
+===Early Life===
+Born a Russian citizen named '''Dmitri Nikolaievich Smerdyakov''' (Russian: '''Дмитрий Николаевич Смердяков'''), Chameleon was the half-brother of [[Sergei Kravinoff (Earth-616)|Sergei Kravinoff]]. His parents were Sergei's father and Sonya Smerdyakov, a servant girl. He was taught to hate himself from his arrival in the Kravinoff family. His father hated the sight of his face and his mother considered him a humiliation. The only member in his family who barely tolerated him was the legitimate son Sergei, who was also abusive towards him. In order to impress Sergei, he entertained him by using his impersonation skills on his neighbors and friends. Dmitri was so deeply scarred that he repressed his very identity and came to believe he had been friends with Sergei.{{r|Amazing Spider-Man Vol 1 389}}
+
+When he was still a child, Dmitri was approached by a man named [[Gustav Fiers (Earth-616)|Gustav Fiers]]. Impressed by the boy's ability to disguise himself, Fiers took him to his brother [[Karl Fiers (Earth-616)|Karl]], also known as the Finisher. Karl took Dmitri under his wing to hone his abilities in a school for the cover arts. Dimitri left the Kravinoff estate without saying goodbye to anyone, even his brother Sergei. Fiers' academy trained other children to become perfect impersonators and sleeper agents known as Chameleons. The most prized pupil of the Finisher, Dmitri became known as the one and only Chameleon.{{r|Giant-Size Amazing Spider-Man: Chameleon Conspiracy Vol 1 1}} As the Chameleon, Dmitri relied on his skills and a mixture of costumes and make-up to conceal his identity. He wore a multi-pocket disguise vest in which he kept the materials he would need to mask himself at short notice.{{r|Amazing Spider-Man #1}}
+
+===Against Spider-Man===
+Soon after [[Peter Parker (Earth-616)|Spider-Man]]'s public debut, the Chameleon stole a portion of the plans for a classified missile-defense system. He learned through the news media that Spider-Man had paid a visit to the world's foremost team of superhuman adventurers, the [[Fantastic Four (Earth-616)|Fantastic Four]]. Rumor had it the Fantastic Four were considering the neophyte hero for membership. The Chameleon correctly theorized that the wall-crawler, then wanted by authorities, had sought to join the Fantastic Four as a means of securing a steady income. To cover his tracks, the Chameleon planned to frame Spider-Man for the theft of the remaining schematics. However, the web-slinger captured the Chameleon and exposed him as the real culprit, clearing his name.{{r|Amazing Spider-Man #1}}
+
+Deported following his apprehension, the Chameleon returned to [[United States of America|America]] several months later. Viewing the wall-crawler as a clear and present danger to his illicit objectives, he enlisted his half-brother Sergei as a partner in crime. Now called Kraven the Hunter, Sergei had become master tracker and expert marksman. However, Spider-Man managed to turn the tables on the predators.{{r|Amazing Spider-Man #15}} Kraven went on to become a long time adversary of Spider-Man.
+
+===Branching Out===
+Even though the Chameleon knew that his half-brother was selfish and egotistical, he wanted to be accepted by his half-brother. He kept on proving himself to be the deadlier brother. In order to do that, he decided to prove his superiority over Kraven by defeating [[Anthony Stark (Earth-616)|Iron Man]]. Disguising himself as Captain America, Chameleon contacted Iron Man and convinced him that he was the real Captain America and that the [[Steven Rogers (Earth-616)|Captain America]] at [[Avengers Mansion]] was really Chameleon. Iron Man and Captain America fought it out until [[Henry Pym (Earth-616)|Giant-Man]] captured him and exposed his deception.{{r|Tales of Suspense #58}}
+
+The Chameleon went on to engage in numerous unlawful endeavors. Sometimes, he has worked in the employ of others, including [[Hydra (Earth-616)|Hydra]], a technologically advanced, neo-fascist subversive organization, the [[Samuel Sterns (Earth-616)|Leader]]{{r|Tales to Astonish #60|62}} and the Lobo Brothers. He also impersonated [[John Jonah Jameson (Earth-616)|J. Jonah Jameson]] until Spider-Man found out about it. Often, he committed robberies solely for his own benefit. In addition to Spider-Man, the Chameleon also ran afoul of crime fighters [[Matthew Murdock (Earth-616)|Daredevil]],{{r|Daredevil #134}} [[Brock Jones (Earth-616)|Torpedo]],{{r|Daredevil #134}} and others.
+
+To broaden the scope of his impersonation skills, the Chameleon adopted a holographic belt and ingested an experimental formula that rendered his body completely malleable.{{r|Amazing Spider-Man #307}} For a time, he kidnapped and posed as J. Jonah Jameson while also forging a criminal alliance with Hammerhead.{{r|Web of Spider-Man #51|55}}
+
+===Mental Instability===
+The [[Harold Osborn (Earth-616)|Green Goblin]] persuaded Chameleon to create two robots who would appear to be Peter Parker's dead parents in an effort to get Peter to tell them who Spider-Man really was. The Goblin already knew Spidey's identity but wanted to mess with Peter's head so he convinced Chameleon that Parker, due to all the photos he had taken, was sure to know Spider-Man's identity. When Spider-Man discovered the fraud, he was furious over the disappointment of losing his parents again.{{r|Amazing Spider-Man #388}} Faced with a more fearsome and vicious Spider-Man than ever before, the Chameleon's repressed memories of his unhappy childhood with Sergei returned and he fell into a catatonic state. He just kept repeating the words "I'm nothing".{{r|Amazing Spider-Man #389}}
+
+The Chameleon was taken to [[Ravencroft Institute]] but escaped after assuming the identity of his doctor, [[Ashley Kafka (Earth-616)|Ashley Kafka]].{{r|Spectacular Spider-Man Vol 1 242}} He kidnapped Spider-Man and unmasked him, finally understanding why Spider-Man had been so enraged after discovering the truth about his robot parents. Chameleon imprisoned Peter and convinced him that he was a writer named Herbert Smith who was incarcerated in an insane asylum, and that his life as Spider-Man had been a figment of his imagination. Chameleon took on the role of Peter himself but was foiled by [[Mary Jane Watson (Earth-616)|Mary Jane]], armed with a baseball bat, who knew her husband too well to fall for the impersonation. Escaping, he was shot by his nephew [[Alexei Kravinoff (Earth-616)|Alyosha Kravinoff]], the new Kraven the Hunter.{{r|Spectacular Spider-Man #245}}
+
+Wanting to make up for his past crimes, he arranged to have Spider-Man meet him at the bridge where his first love [[Gwendolyne Stacy (Earth-616)|Gwen Stacy]] died. The Chameleon declared his own loneliness and love for Peter. When Peter laughed out of surprise, he attempted suicide by leaping off the bridge.{{r|Webspinners: Tales of Spider-Man #11}}
+
+The Chameleon survived. He was committed to a mental institution, where he believed he was his brother Kraven the Hunter rather than himself.{{r|Spider-Man: Get Kraven Vol 1 2|6}} A short time later he returned to his Chameleon identity as part of Norman Osborn's [[Sinister Six (Earth-616)#Sinister Twelve|Sinister Twelve]].{{r|Marvel Knights: Spider-Man #10}}
+
+===Civil War===
+After Spider-Man went public with his identity, Chameleon gathered a gang of villains called the [[Exterminators (Spider-Man foes) (Earth-616)|Exterminators]], including [[Jackson Arvad (Earth-616)|Will O' The Wisp]], [[Ebenezer Laughton (Earth-616)|Scarecrow]], [[Fritz von Meyer (Earth-616)|Swarm]], and [[Maxwell Dillon (Earth-616)|Electro]] and also blackmailed the [[Mark Raxton (Earth-616)|Molten Man]] into his employ all in an effort to defeat Spider-Man. He disguised himself as Peter Parker in an attempt to kill [[Maybelle Parker (Earth-616)|May Parker]]. He was foiled when she figured out he was not her nephew and drugged him with oatmeal cookies laced with Mary Jane's Ambien.{{r|Sensational Spider-Man Vol 2 #29|32}}
+
+Chameleon briefly joined [[MODOK's 11 (Earth-616)|MODOK's 11]] after the Civil War and [[World War Hulk]] but had in fact allowed the [[Ultra-Adaptoid (Earth-616)|Ultra-Adaptoid]] to replace him on the team after going to [[Monica Rappaccini (Earth-616)|Monica Rappaccini]] with [[George Tarleton (Earth-616)|M.O.D.O.K.'s]] offer and getting paid by her instead.{{r|Super-Villain Team-Up MODOK's 11 Vol 1 1|2}}
+
+===Dark Reign===
+During Norman Osborn's [[Dark Reign]] era, the Chameleon was more sadistic and sociopathic than before. He was much more focused after being hired by [[Kasab (Earth-616)|Colonel Kasab]] and his "pro-[[Taliban (Earth-616)|Taliban]]" elements in [[Pakistan]]. His mission was to assemble a dirty bomb at New York, which he accomplished by taking Peter Parker's identity. Not that he remembered Peter. His mind, like everyone else, was wiped clean of Spider-Man's ID by the Parkers' deal with [[Mephisto (Earth-616)|Mephisto]]. As he molded a kidnapped Peter Parker's face, he mused, "Parker. Peter Parker. Why does that name sound so familiar to me? Tch. So many names. So many faces. And I've been them all." After he infiltrated the premises under Peter Parker's identity and failed to place a dirty bomb, a distraught Dmitri was sought for help by [[Aleksandra Nikolaevna (Earth-616)|Sasha Kravinoff]]. 
+
+Dmitri worked with Sasha avenging the death of Kraven the Hunter in which he helped forging alliances with various villains that had crossed paths with Spider-Man. When it came time the Kravinoffs were ready to resurrect Kraven, Chameleon posed as [[Ezekiel Sims (Earth-616)|Ezekiel Sims]] in order to get close to Spider-Man, defeat him, and bring him to the Kravinoffs in order to sacrifice him as part of a ritual that will revive Sergei Kravinoff. Once Kravinoff was revived, Chameleon and the Kravinoffs noticed that Sergei was lacking control of himself, in which Chameleon realized that this is stem from inward anger from being resurrected. Chameleon and the Kravinoffs investigated the body of Spider-Man. Soon after, the real Spider-Man appeared and defeated Chameleon along with Alyosha and [[Vladimir Kravinoff (Earth-616)|Vladimir Kravinoff]]. Chameleon and Vladimir were entrapped in a huge spider's nest.{{r|Amazing Spider-Man #634|637}}
+
+===Rejoining the Sinister Six===
+Dmitri joined [[Otto Octavius (Earth-616)|Doctor Octopus]]' new [[Sinister Six (Earth-616)|Sinister Six]] and helped him to rob technology from the [[Baxter Building]] as well as robbing the Zero Cannon from the [[Intelligencia (Earth-616)|Intelligencia]].
+
+Sometime later, Doctor Octopus, in his plan to be remembered as the man who saved Earth, offered the chance to stop the Greenhouse Effect, as well as speed it up, using a special device connected with different satellites on the orbit.{{r|Amazing Spider-Man #682}}
+
+Disguised as [[Albert Gore, Jr. (Earth-616)|Al Gore]], Chameleon tried to accelerate the decision of world's leaders about the matter, but was uncovered by Spider-Man, who interrupted the scene along the [[Avengers (Earth-616)|Avengers]]. When the Chameleon was freed, he arrived in the Mediterranean on a meeting with the rest of the team. The Avengers followed them and arrived, fighting the Sinister Six, but they where all defeated by the villains, the price of the battle was Electro, who was sent to space by [[Thor Odinson (Earth-616)|Thor]].{{r|Amazing Spider-Man #683|684}}
+
+<!-- 
+The sections below need to be fleshed out. The Superior Spider-Man section was definitely not written by somebody who read the story.
+===Superior Spider-Man===
+Chameleon later fought the Superior Spider-Man (Doctor Octopus' mind in Spider-Man's body) and the [[Secret Avengers (S.H.I.E.L.D.) (Earth-616)|Secret Avengers]] on the [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] [[S.H.I.E.L.D. Helicarrier|Helicarrier]]. Chameleon ended up knocked unconscious and Superior Spider-Man transported him to his hidden underwater lab where he was imprisoned.{{r|Avenging Spider-Man #20|21}}
+
+===Spider-Man and the X-Men===
+Chameleon reappeared, this time kidnapping Spider-Man and his class. It was revealed that he is working with [[Mojo (Mojoverse)|Mojo]] under contract. But as usual, the class managed to beat Mojo and Chameleon, with the two ending up in jail.{{r|Spider-Man and the X-Men #3}}
+not large enough for it's own section. Could be merged with the Chameleon Conspiracy if not removed entirely.
+-->
+===Conspiracy with the Parkers===
+Chameleon secretly attended his brother's funeral, grateful for not being among the [[Hunted (Spider-Man Story Arc)|Hunted]], and vowed to honor [[Sergei Kravinoff (Earth-616)|Sergei]] by destroying the world.{{r|Amazing Spider-Man Vol 5 23}} He began so with a lucrative shadow business selling once-classified technologies to various criminal outlets after the fall of S.H.I.E.L.D.{{r|Amazing Spider-Man Vol 5 29}} One client was [[Foreigner (Earth-616)|The Foreigner]], who enlisted the Chameleon to find doses of the [[Infinity Formula]] to help the heavily sick [[Silvija Sablinova (Earth-616)|Silver Sable]].{{r|Amazing Spider-Man Vol 5 33}} To locate the doses, the Chameleon fatally tortured ex-S.H.I.E.L.D. [[David Albright (Earth-616)|David Albright]], the boyfriend of [[Teresa Parker (Earth-616)|Teresa Parker]], who herself was the long-lost sister of Spider-Man. He left David for Teresa and Spider-Man to find after he had been killed.{{r|Amazing Spider-Man Vol 5 29}}
+
+With Teresa on his trail to avenge David, the Chameleon commenced the next step with his plans in America. Following a commission by Countess [[Katarina Karkov (Earth-616)|Katrina Karkov]], Chameleon had [[Burt Kenyon (Earth-616)|The Hitman]] stage an assassination attempt on Doctor Doom while he himself was inside the [[United Nations Headquarters|UN Headquarters]] sowing divisiveness on Doom's presence.{{r|Amazing Spider-Man Vol 5 33}} After Spider-Man revealed the shot monarch was a Doombot and [[Manhattan]] was besieged by an army of them,{{r|Amazing Spider-Man Vol 5 34}} Countess Karkov double-crossed the Chameleon and facilitated his apprehension by the Parker siblings.{{r|Amazing Spider-Man Vol 5 35}} In the aftermath, the Chameleon was imprisoned in the [[Hiding Place]].{{r|Amazing Spider-Man Vol 5 68}} Despite incarceration, Chameleon had laid the seeds of future machinations with [[Norah Winters (Earth-616)|Norah Winters]], helping her to establish a start-up tabloid news website dubbed [[Threats and Menaces (Earth-616)|Threats and Menaces]], and instructing her from his contraband mobile phone in his cell.{{r|Amazing Spider-Man Vol 5 40}}
+
+Teresa ultimately broke into the Hiding Place to avenge David, but the Chameleon tempted her with information on her parents.{{r|Amazing Spider-Man Vol 5 67}} Introducing Teresa to a holographic projection of the Finisher, the killer of [[Richard Parker (Earth-616)|Richard]] and [[Mary Parker (Earth-616)|Mary Parker]], who was believed dead.{{r|Amazing Spider-Man Vol 5 68}} The Chameleon and the Finisher attempted to convince Teresa that she was a sleeper agent and a Chameleon just like the Finisher's other pupils, and offered to provide her with definitive answers for her origins if she worked for them. Teresa refused, deciding instead to embrace her identity even if she was unsure it was real. Teresa set out to find the Finisher to avenge her parents, and left the Chameleon in his cell, although he claimed to have no need to leave the Hiding Place. Following Teresa's visit, the Chameleon was approached by long-time patron Kindred, Harry Osborn's new demonic identity, ordering more doses of a serum the Chameleon had provided him.{{r|Giant-Size Amazing Spider-Man: Chameleon Conspiracy Vol 1 1}}
+
+| Powers                  = Originally, the Chameleon had no superhuman powers. Later, the Chameleon's powers were made innate: his epidermis and skin pigmentation have been surgically and mutagenically altered by a serum so that he can take on the appearance of any person at will. He also wears fabric made of memory material that responds to nerve impulses and can appear to be whatever costume he wishes to be.
+
+When his past friendship with [[Sergei Kravinoff (Earth-616)|Sergei Kravinoff]] was revealed, it was also revealed that the Chameleon had taken the same serums that Kraven had taken over the years. This would suggest that the two characters were of a similar age over 70 years old. It would also suggest that the Chameleon's physical strength and endurance could be somewhat augmented, but as the Chameleon's strength is much lower than that of Kraven, his augmentations may not reach a superhuman level.
+
+Later he returned to his powerless state as the Chameleon kidnaps people and brutally kills them by dumping them in an acid bath. From listening to them beg for their lives, he alters his pitch to sound exactly alike and takes a face print to make into a mask. This more chilling Chameleon also seeks to fix the lives of his "faces", attempting to rectify the problems of their lives while he poses as them as a part of some warped heroic view of himself.
+
+| Abilities               = Aside from his physical advantages, the Chameleon is a master of disguise, and a brilliant method actor and impressionist. He is also a master of creating lifelike masks and make-up. He is a quick-change artist who can assume a new disguise in less than a minute, although he no longer needs to use such skills. He also speaks several languages fluently. Although the Chameleon is not a scientific genius, during his increased lifespan he has been exposed to a wide array of sophisticated experimental technology, much of which he can apply effectively in his nefarious schemes.
+| Strength                = The Chameleon possesses the normal human strength for a man his age, height, and build who engages in moderate, regular exercise.
+
+| Equipment               = '''Memory Material:''' Chameleon’s clothing is made of a special fabric that can reshape and recolor itself. The change is triggered by his computer belt.
+
+'''Computer Belt:''' This serves three functions. A video scanner records a person’s overall appearance and feeds that information into a visual synthesizer that interpolates the rest of the person’s appearance. Its memory banks can store hundreds of such images. When an image is called up via a code tapped on the belt’s keypad, subtle electrical signals trigger changes in the Chameleon’s body and pigmentation. A secondary signal alters the appearance of his clothing.
+
+'''Knockout Darts:''' The Chameleon carries a small air pistol that fires darts up to 40’. These darts contain a potent anesthetic that knocks its victim unconscious for several hours.
+
+'''Knockout Gas:''' A small aerosol can emits a cloud of potent anesthetic that knocks its victim unconscious for several hours. This cloud is effective up to 10’ away. Victims fall asleep for 1-10 hours.
+
+'''Smoke Bomb:''' These fill a 40' radius with an opaque mist.
+
+{{Navigation
+| title = Former Equipment
+| body = '''Masks:''' Chameleon originally used masks that could be formed into a life-like copy of a chosen person’s face. When Chameleon sprayed it with a special gas, it dissolved and reverted to another shape, such as a different likeness or his normal white mask.<br>
+
+'''Colorshift Clothing:''' His original clothing was made of a special fabric that changed to another color when sprayed with a special gas.
+}}
+
+| Transportation          = No definite transportation was mentioned.
+
+{{Navigation
+| title = Former Transportation
+| body = '''Helicopter''': He hijacked a helicopter early in his debut. 
+}}
+
+| Notes                   = 
+| Trivia                  = * His name was created from the Russian novel ''The Brothers Karamazov''. Derived from "Dmitri" and "Smerdyakov"; Smerdyakov derives from the word ''smerdet'' meaning "to stink" / "son of the reeking one" in Russian.
+*Originally, the Chameleon had no superhuman powers and simply used makeup and elaborate costuming to impersonate his targets. In order to do this, he implemented a device in a belt buckle that emitted a gas that helped him mold his features. This method of disguising was perhaps a forerunner to that of The Question, who was later created by Steve Ditko after his run on ''[[Amazing Spider-Man Vol 1|Amazing Spider-Man]]''. 
+| Links                   = * http://www.spiderfan.org/characters/chameleon.html
+| Wikipedia = Chameleon (comics)
+}}
+[[it:Dmitri Smerdyakov (Terra-616)]]
+[[Category:Shapeshifters]]
+[[Category:Spies]]
+[[Category:Kravinoff Family]]
+[[Category:Calypso Serum]]
+[[Category:Doctor Octopus Experiment]]
+[[Category:Multilingual]]
+[[Category:Soviets]]
+[[Category:Insanity]]
+[[Category:Ravencroft Institute Patients]]

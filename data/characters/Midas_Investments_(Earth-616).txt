@@ -1,0 +1,40 @@
+{{Marvel Database:Organization Template
+| Image                   = 
+| Name                    = Midas Investments
+| Aliases                 = 
+
+| OrganizationLeaders     = Formerly Mr. Zachary
+| CurrentMembers          = 
+| FormerMembers           = [[Austin Cao (Earth-616)|Austin Cao]], Mr Randall
+
+| Identity                = Public
+| Affiliation             =
+| Allies                  = [[Advanced Idea Mechanics (Earth-616)|A.I.M.]], [[Hydra (Earth-616)|Hydra]], [[Agence Byzantine (Earth-616)|Agence Byzantine]], [[Black Spectre (Criminal Organization) (Earth-616)|Black Spectre]], [[Zodiac Cartel (Earth-616)|Zodiac Cartel]], [[Secret Empire (Earth-616)|Secret Empire]], Latverian government
+| Enemies                 = [[Matthew Murdock (Earth-616)|Daredevil]], [[Austin Cao (Earth-616)|Austin Cao]], Mr Randall
+
+| Origin                  = 
+| Reality                 = Earth-616
+| Status                  = 
+| BaseOfOperations        = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+
+| Creators                = Mark Waid; Marcos Martín
+| First                   = Daredevil Vol 3 4
+
+| History                 =  The Midas Investment firm was an international corporation involved in shady deals. Mr. Zachary, the companies' CEO, arranged a business deal between various front companies used by international criminal organizations and the [[Latverian]] government. In it, the companies would receive a flag of commerce from the Latverians, allowing them to register their trade as Latverian, which meant they only received Latverian regulations and couldn't be prosecuted in civil or criminal cases. This allowed them to continue laundering trillions without fear of being connected with their parent organizations.{{r|Daredevil Vol 3 5}} In order to get the rival carters to trust them with the information necessary for the deals, Midas created the [[Omegadrive]] from the remains of one of a [[Fantastic Four (Earth-616)|Fantastic Four]]'s suits. Due to it's [[Unstable Molecules]] properties, the drive could stock limitless information. It contained the millions of gigs about each cartel's operations needed for the deals, assuring them that their data was in a safe place and wouldn't be used by one of them against the others. It also allowed Midas leverage against them.{{r|Daredevil Vol 3 6}}
+
+When [[Austin Cao (Earth-616)|Austin Cao]], a translator for the company and a personal friend of higher-up Mr. Randall overheard two men and recognized them as Latverians, Mr. Randall, who knew about the deals and that the men were the Latverians' representatives, fired him, as he knew Zachary would eliminate all risks to his operation. After the Latverian representatives were killed and set to be replaced, Zachary recognized Randall's intentions and sent mercs to kill Cao after hearing that he meet with lawyer [[Matthew Murdock (Earth-616)|Matt Murdock]]. Murdock, also being the vigilante Daredevil, defeated the mercenaries and brought Cao to his apartment. He latter confronted Randall, who tried to escape Midas via yacht and told Daredevil the truth about Midas' business. However, Midas sent the superhuman mercenary known as the [[Bruiser (Mercenary) (Earth-616)|Bruiser]] to take out Daredevil. He threw the vigilante of the boat and kidnapped Randall.{{r|Daredevil Vol 3 5}}
+
+[[Advanced Idea Mechanics (Earth-616)|A.I.M.]], [[Hydra (Earth-616)|Hydra]], [[Agence Byzantine (Earth-616)|Agence Byzantine]], [[Black Spectre (Criminal Organization) (Earth-616)|Black Spectre]] and the [[Secret Empire (Earth-616)|Secret Empire]], Midas' clients, had sent one representative each to confirm that all loose ends were sealed, so Brusier took Randall to a warehouse were Zachary awaited. He also had mercs take Cao from Murdock's home. Before the Bruiser could execute them in front of the representatives, Daredevil, who survived his battle with Brusier, arrived to stop him, causing Zachary to flee to the Omegadrive just in case. After a heated battle, Daredevil managed to defeat Brusier and escape from the representatives with Cao and Randall. He came across Zachary and disarmed him of the Omegadrive, thinking it was a weapon. After he was explained what it was, the representatives arrived. Zachary, desperate, offered the drive to however would take out Daredevil, but was shot by all representatives as he had no leverage anymore. Daredevil latter used the Omegadrive to force the cartels to let him, Cao and Randall go, as if they took him out, one of them would end up killing the others for the Omegadrive and spark a crime war between all of them.{{r|Daredevil Vol 3 6}} With their deal exposed, Zachary death and Daredevil latter using the drive against the cartels, its unknown what happened to Midas afterwards
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+| Notes                   = * If Midas Investment might be connected to or is a branch of the [[Midas Foundation (Earth-616)|Midas Foundation]] is unknown.
+|Trivia                  = 
+| Links                   = 
+}}
+[[Category:Companies]]
+[[Category:Criminal Organizations]]
+[[Category:Mark Waid/Creator]]
+[[Category:Marcos Martín/Creator]]

@@ -1,0 +1,64 @@
+{{Marvel Database:Character Template
+| Image                   = Jemma Simmons (Earth-616) SHIELD Vol 3 9.png
+| Name                    = [[Jemma Simmons]]
+| Aliases                 = Ms. Steranko,{{r|S.H.I.E.L.D. Vol 3 2}} [[Deathlok]]{{r|Agents of S.H.I.E.L.D. Vol 1 10}}
+
+| Affiliation             = {{M|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}
+| Relatives               = [[Roxxon Energy Corporation (Earth-616)/Members#Simmons|Mr. Simmons]] (father);<br>Unnamed mother;<br>Unnamed brother and sister
+| MaritalStatus           = Single 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] [[Cyborgs|Cyborg]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = British
+| Occupation              = S.H.I.E.L.D. xenobiologist
+| Education               = University graduate
+| BaseOfOperations        = 
+
+| Creators                = Mark Waid; Carlos Pacheco
+| First                   = S.H.I.E.L.D. Vol 3 1
+
+| History                 = Daughter of a high level Roxxon executive,{{r|S.H.I.E.L.D. Vol 3 2}} Jemma Simmons was one of the [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] field agents who formed part of [[Phillip Coulson (Earth-616)|Phil Coulson]]'s team to investigate how the terrorist [[Abu Mussan (Earth-616)|Abu Mussan]] got hold of an [[Hofund|Uru sword]]. Along with [[Melinda May (Earth-616)|Melinda May]], Simmons helped [[Heimdall (Earth-616)|Heimdall]] (the owner of the Uru sword) break free from Mussan's terrorist group. After Heimdall was dispossessed from the influence of an alien rock, Simmons recovered fragments of said rock to investigate on the Helicarrier.{{r|S.H.I.E.L.D. Vol 3 1}}
+
+One day in a field mission, Simmons was supposed to neutralize a DNA Bomb that had been constructed by a rogue [[Advanced Idea Mechanics (Earth-616)|A.I.M.]] faction. While she tried to do so, she was attacked and came in contact with the dangerous material,{{r|Agents of S.H.I.E.L.D. Vol 1 1}} which infected her with some kind of cellular necrosis.{{r|Agents of S.H.I.E.L.D. Vol 1 8}} After doing some medical checks, she predicted herself to have only one month left to live.{{r|Agents of S.H.I.E.L.D. Vol 1 1}}
+
+During the attack of the [[New Avengers (A.I.M.) (Earth-616)|New Avengers]] on S.H.I.E.L.D., [[Víctor Álvarez (Earth-616)|Power Man]] disrupted her chi and was surprised to sense that Jemma's chi was "a mess". He told [[Henry Hayes (Earth-616)|Deathlok]] to talk to her about it.{{r|New Avengers Vol 4 8}} When Deathlok confronted Jemma about it, she revealed that she had failed to find a treatment, and didn't want anybody to pity her as she approached her final days.{{r|Agents of S.H.I.E.L.D. Vol 1 5}}
+
+[[File:Jemma Simmons (Earth-616) from Agents of S.H.I.E.L.D. Vol 1 10 001.png|thumb|left|As a Deathlok]]
+Jemma's health eventually deteriorated and she slip into a coma, which allowed her superiors to learn of her malady.{{r|Agents of S.H.I.E.L.D. Vol 1 7}} [[Barbara Morse (Earth-616)|Mockingbird]] and Deathlok began to analyse her condition, and he determined the only way to reverse her illness would be to turn her into a Deathlok.{{r|Agents of S.H.I.E.L.D. Vol 1 8}} The procedure was a success and the cellular degradation was completely reversed. However, Jemma didn't wake up, forcing Deathlok to use experimental neuro-somatic stimulation to properly restore her. Simmons awoke disoriented and confused, and began to attack fellow S.H.I.E.L.D. agents. Coulson intercepted her and appealed to her humanity to bring her back to her senses. She later thanked Deathlok for saving her life.{{r|Agents of S.H.I.E.L.D. Vol 1 10}}
+
+| Powers                  = '''Cyborg Physiology:''' In order to reverse the effects of a lethal infection that degenerated the cells of Simmons' body, Henry Hayes saw himself forced to turn her into a [[Deathlok]] like him.{{r|Agents of S.H.I.E.L.D. Vol 1 10}} She has gained certain abilities like:
+*'''Super-Strength:''' Jemma has been shown capable of breaking down metal doors and swiftly knocking down S.H.I.E.L.D. agents with one arm.{{r|Agents of S.H.I.E.L.D. Vol 1 10}}
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * Jemma Simmons is a Level 5 S.H.I.E.L.D. agent.{{r|S.H.I.E.L.D. Vol 3 1}}
+* Jemma made her parents believe she was an executive party planner.{{r|S.H.I.E.L.D. Vol 3 2}}
+| Trivia                  = * Jemma Simmons is a character originally created for the [[Earth-199999|Marvel Cinematic Universe]]. She is modeled after her [[Jemma Simmons (Earth-199999)|MCU counterpart]]'s actress, [[wikipedia:Elizabeth Henstridge|Elizabeth Henstridge]].
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[it:Jemma Simmons (Terra-616)]]
+[[Category:S.H.I.E.L.D. Agents Level 5]]
+[[Category:English]]
+[[Category:Geneticists]]
+[[Category:Chemists]]
+[[Category:Government Agents]]
+[[Category:Deathloks]]
+[[Category:Content Adapted from Other Media]]

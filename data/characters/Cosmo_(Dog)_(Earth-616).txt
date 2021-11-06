@@ -1,0 +1,102 @@
+{{Marvel Database:Character Template
+| Image                   = Cosmo (Dog) (Earth-616) from Symbiote Spider-Man King in Black Vol 1 4.jpg
+| Name                    = [[Cosmo]]
+| CurrentAlias            = 
+| Aliases                 = Dog
+
+| Affiliation             = {{m|Knowhere Corps (Earth-616)|Knowhere Corps}}; formerly {{m|Soviet Space Program (Earth-616)|Soviet Space Program}}, {{m|Guardians of the Galaxy (Earth-616)|Guardians of the Galaxy}}, ally of the [[Annihilators (Earth-616)|Annihilators]]
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z Vol 1 14}}
+| Gender                  = Male
+| Height                  = 1'11"
+| Height2                 = at withers
+| Weight                  = 70 lbs
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         = Eyes glow blue with power use, wears a dog sized cosmonaut suit
+
+| Origin                  = [[Dogs|Dog]] (Golden Retriever / Labrador cross mix) [[Mutate|experimented]] on by the [[Soviet Space Program (Earth-616)|Soviet Space Program]]{{r|Nova Vol 4 8}}
+| Reality                 = Earth-616
+| PlaceOfBirth            = Soviet Union
+
+| Identity                = No Dual
+| Citizenship             = Soviet
+| Occupation              = Chief of security on Knowhere, Cosmonaut
+| Education               = 
+| BaseOfOperations        = [[Knowhere]]; formerly [[Union of Soviet Socialist Republics|Soviet Union]], [[Earth]]
+
+| Creators                = Andy Lanning; Dan Abnett; Wellinton Alves
+| First                   = Nova Vol 4 8
+
+| Quotation               = That does it. That '''enough.''' No more '''Mr. Nice Dog.''' Now Cosmo will hurt '''everyone.'''
+| Speaker                 = [[Cosmo (Dog) (Earth-616)|Cosmo]]
+| QuoteSource             = Guardians of the Galaxy Vol 2 6
+
+| History                 = 
+===Origin===
+'''Cosmo''' was formerly a test animal for the [[Soviet Space Program (Earth-616)|Soviet Space Program (СССР)]]. He was launched into Earth's orbit as part of an experiment but his spacecraft drifted out of orbit during the 1960's,{{r|Guardians of the Galaxy Vol 2 1}} eventually sending him to [[Knowhere]]. At some point during spacial drift, [[Glossary:Cosmic Radiation|cosmic rays]] mutated him, giving him his psionic powers. Thereafter, he became the station's Chief of Security for Knowhere.{{r|Nova Vol 4 9}}
+
+===Knowhere===
+Cosmo met a distraught [[Richard Rider (Earth-616)|Nova]] shortly after he witnessed [[Suspensor (Earth-616)|Suspensor]] turn into a [[Zombies|zombie]]. He told Nova that he was on [[Knowhere]], a city built inside the giant severed head of a [[Celestials (Race)|Celestial]]. Worldmind then informed Nova that he had deciphered the writing on the wall, which was the countdown of a timer, and that beings from all over the universe have come to Knowhere for a kind of front-row seat to observe the end of the universe.{{r|Nova Vol 4 8}}
+
+Cosmo brought Nova up to speed on the events, and the [[Xandarian Worldmind (Earth-616)|Xandarian Worldmind]] added any data he had at his disposal. Cosmo explained he was mainly concerned with the safety of the remaining citizens of [[Knowhere]] who were safely hidden away in a dimensional envelope he wore on his collar, where they had gone into hiding after [[Luminals (Earth-616)|the Luminals]] brought something in a big box. Not long after, Cosmo and Nova were ambushed by more [[zombies]], some of which were surviving members of [[Luminals (Earth-616)|Suspensor's former team]], and determined that the creature known as [[Abyss (Cosmic Sorcerer) (Earth-616)|Abyss]] was behind the mayhem. Together, they fought off the attacks and sealed Abyss back inside his prison.{{r|Nova Vol 4 9}}
+
+Cosmo then charted a course to the birthplace of the [[Phalanx (Race)|Phalanx]], the planet [[Kvch]], in hopes of helping Nova to find a means to cure himself of the [[Transmode Virus]] that was slowly killing him. Alarms were triggered when an [[Selects (Earth-616)|infected]] [[Gamora Zen Whoberi Ben Titan (Earth-7528)|Gamora]] and [[Arthur Douglas (Earth-616)|Drax]], under the control of the Phalanx, slaughtered many residents in search of Nova. Cosmo arrived too late to stop them before they could follow the same path as Nova through the Continuum Cortex.{{r|Nova Vol 4 9}}
+
+===Guardians of the Galaxy===
+When the [[Guardians of the Galaxy (Earth-616)|Guardians of the Galaxy]] team first formed, Knowhere was recommended to them as a base of operations by Nova. Cosmo allowed the team to use Knowhere as their base and helped them where needed, especially in the use of the Continuum Cortex transport system, as well as suggesting the names 'The Retrievers' and 'The K-Nine' for their team.{{r|Guardians of the Galaxy Vol 2 1|25}}
+
+===Thanos Imperative===
+The true nature of the Fault began to reveal itself and the corrupted beings of the [[Cancerverse]] started their invasion. The [[Guardians of the Galaxy (Earth-616)|Guardians of the Galaxy]] allied with [[Thanos (Earth-616)|Thanos]] to stop the evil [[Mar-Vell (Earth-10011)|Lord Mar-Vell]]. In the end, the team disbanded, losing [[Adam Warlock (Earth-616)|Adam Warlock]], [[Phyla-Vell (Earth-616)|Phyla-Vell]], [[Arthur Douglas (Earth-616)|Drax]] and their leader [[Peter Quill (Earth-616)|Star-Lord]]. But before he died, Star-Lord left Cosmo with a task to collect the greatest humanoid beings in the universe to form a band of [[Annihilators (Earth-616)|Annihilators]], the team Star-Lord believed was what the Guardians of the Galaxy should have been. Cosmo one by one convinced the [[Norrin Radd (Earth-616)|Silver Surfer]], [[Kallark (Earth-616)|Gladiator]], [[Beta Ray Bill (Earth-616)|Beta Ray Bill]], [[Wendell Vaughn (Earth-616)|Quasar]] and [[Ronan (Earth-616)|Ronan the Accuser]] to team up and protect the universe together, as was Star-Lord's final wish.{{r|Thanos Imperative: Ignition Vol 1 1}}
+
+===Annihilators===
+Star-Lord had apparently invited the [[Galadorians|Galadorian Circle]] to select and send their greatest, which turned out to be [[Ikon (Earth-616)|Ikon]] of the [[Spaceknights]]. After Cosmo successfully brought the Annihilators together, Ikon inserted herself into the band with a proclamation that– despite the purity of its concept– the ultimate sanction would fail to operate well by its sole constitution of Alpha Plus class beings, making it too strong. In an attempt to debunk Star-Lord's logic, Ikon mentioned how he had listed the [[Dire Wraiths]] as a present threat when she understood that to be impossible as they were sealed in [[Dark Nebula]], at which point Cosmo forcefully interrupted her to brief the Annihilators' first mission: intercept an active breach in the Dark Nebula.{{r|Annihilators Vol 1 1}} Upon their return, Cosmo welcomed the Annihilators back to celebrate their achievements, but their party was cut short when a "nasty sentient black hole… attacked Galaxy K-123."{{r|Annihilators Vol 1 4}}
+
+===Annihilators: Earthfall===
+Via [[Knowhere]]'s Continuum Cortex, the Annihilators transferred aboard [[Matriarch (UCT) (Earth-616)|Matriarch Aqwen]]'s templeship in the Gulf of Sidris to stop the [[Universal Church of Truth]]'s attack on the Western Spiral Order (a splinter faction of the same UCT) in the Gulf of Sidris. Cosmo journeyed with them this time.
+
+===Nova===
+He was last seen injured, after [[Captain Skaarn (Earth-616)|Captain Skaarn]]'s takeover of [[Knowhere]].{{r|Nova Vol 5 14}} Skaarn had poisoned Cosmo and shot him with something that dampened Cosmo's psychic telepathy. Using the [[Glossary:Nova Force|Nova Force]], the young [[Samuel Alexander (Earth-616)|Nova]] tried to push the poison out of his body. In the process, he found the foreign body inside of the psychic dog that disrupted his powers, and thus, saved him.{{r|Nova Vol 5 15}}
+
+| Powers                  = '''[[Telekinesis]]:''' Cosmo is an incredibly gifted telekinetic, and is capable of amazingly precise use of his telekinesis.{{r|Thanos Imperative Vol 1 5}}
+
+'''[[Telepathy]]:'''{{r|Nova Vol 4 8}} Ability to read and manipulate the minds of others and even higher order animals. Cosmo has demonstrated the following specialized uses:
+* '''Telepathic Defense:''' He can manifest his telepathy in a number of defensive ways.
+** '''Telepathic Cloaking:''' He can mask his presence and the use of his abilities from being detected by other psions and psychic entities. He can extend these defenses to others around him as well. Cloaking via telepathy is not perfect and powerful telepaths may notice and 'see through' this ability.
+** '''Psionic Shield:''' He can erect a psychic screen for the protection of himself and of others' minds from psionic or energy-based attacks.
+* '''Telepathic Illusions:''' He can create realistic and very detailed illusions and cause others to experience events which are not actually occurring.
+** '''Telepathic Camouflage:''' He can alter the apparent physical appearance of himself and others by altering what those around them perceive. He may do this by masking allies to an extent that they may be unrecognizable by the enemy or that their very presence goes altogether undetected.
+* '''Telepathic Manipulation:''' He can manipulate others' minds with ease, achieving a variety of effects.
+** '''Mind Control:''' He can control the thoughts and actions others to a certain extent. Cosmo demonstrates this when he forces [[Adomox (Earth-616)|Adomox]] to give an antidote to [[Samuel Alexander (Earth-616)|Nova]] and [[Rocket Raccoon (Earth-616)|Rocket]].{{r|Nova Vol 5 20}}
+** '''Mental Paralysis:''' He can induce temporary mental or physical paralysis. He was skilled enough to make a [[Bruce Banner (Earth-10011)|Cancerverse-version of the Hulk]] stroke out by reaching into its mind.{{r|Thanos Imperative Vol 1 2}}
+** '''Mental Amnesia:''' Ability to erase any awareness of particular memories or cause total amnesia.
+** '''Mental Sedating:''' He can telepathically 'sedate' a target's mind so that, if already rendered unconscious, they remain so for as long as he continues to 'sedate' them. Together with [[Mantis (Brandt) (Earth-616)|Mantis]] and [[Heather Douglas (Earth-616)|Moondragon]], he was able to calm an enraged Thanos.{{r|Thanos Imperative Vol 1 1}}
+* '''Psionic Blast:''' He can project psionic force bolts, which have no physical effects but rather attack a target's mind so as to cause them pain or loss of consciousness, induce a stroke, or simply turn them brain-dead.
+* '''Mental Detection:''' He can sense the presence of other sentient entities, including powerful psions, within a small but as yet undefined radius of oneself by perceiving the distinctive mental radiations emitted by such beings.{{r|Thanos Imperative Vol 1 2}}
+
+'''Extended Longevity:''' Cosmo is decades older than the normal maximum life expectancy of a dog, and does not appear to age physically.{{r|Marvel Pets Handbook Vol 1 1}}
+
+| Abilities               = 
+| Strength                = * '''Canine physiology:''' Cosmo can run faster than most [[Homo sapiens|humans]], perceives reality at a different rate, and is extremely loyal.{{r|Guardians of the Galaxy Vol 2 5}} His jaw muscles are powerful enough to carry a flamethrower.{{r|Guardians of the Galaxy Vol 1 148}}
+| Weaknesses              = * Certain poisons can dampen Cosmo's powers.{{r|Nova Vol 5 15}}
+* '''Psychic Overload:''' When [[Adam Warlock (Earth-616)|Adam]] became the [[Magus]] for an instant to attack [[Magique (Earth-616)|a powerful telepath]], the presence of the powerful psychic entity caused a nosebleed for both Cosmo and Mantis.{{r|Guardians of the Galaxy Vol 2 15}}
+
+| Equipment               = * '''White Spacesuit:''' Insulated and has a dome visor, and sometimes includes small compartments.{{r|Nova Vol 4 29}}
+* '''Tesseracted Storage Crystal Chip:''' Built in a lab on Knowhere, Cosmo wears it on his collar. This finitely-powered hardware can store the entire population of Knowhere in an instant.{{r|Nova Vol 4 9}}{{r|Guardians of the Galaxy Vol 2 22}}
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = * According to the [[Xandarian Worldmind (Earth-616)|Xandarian Worldmind]], Cosmo is Golden Retriever / Labrador cross mix.{{r|Nova Vol 4 8}}
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Telepaths]]
+[[Category:Telekinesis]]
+[[Category:Astronauts]]
+[[Category:Golden Retrievers]]
+[[Category:Secret Wars (2015 Event) participants]]
+[[Category:Interdimensional Travelers]]

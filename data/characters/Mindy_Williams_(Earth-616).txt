@@ -1,0 +1,50 @@
+{{Marvel Database:Character Template
+| Image                   = Mindy Williams (Earth-616) from Marvel Team-Up Vol 1 101 0001.jpg
+| Name                    = [[Mindy Williams]]
+| CurrentAlias            = 
+| Aliases                 = [[Chorus]]
+
+| Affiliation             = [[Chorus (Earth-616)|Chorus]]
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Blue
+| Hair                    = Blonde
+| UnusualFeatures         = 
+
+| Origin                  = Member of a gestalt being
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = 
+| Education               = [[Grayburn College]]
+| BaseOfOperations        = Formerly [[Mount Charteris]], [[Burton Canyon]], [[Colorado (State)|Colorado]]; Carriwhite Acres mental hospital; [[Grayburn College]], [[New York City]], [[New York (State)|New York]]
+
+| Creators                = Steve Gerber; Sal Buscema
+| First                   = Defenders Vol 1 32
+
+| History                 = Mindy Williams dated [[Kyle Richmond (Earth-616)|Kyle Richmond]] while they were both studying at [[Grayburn College]]. When she was severely injured in a car accident that Kyle had caused by driving drunk, his father used his money and influence to cover up the accident, sending the now-crippled Mindy away and leaving Kyle to believe that she had died in the accident.{{r|Defenders #32}}
+
+| Powers                  = * '''Telepathy'''
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = Mindy was in a wheelchair
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * [http://www.marvunapp.com/Appendix3/williamsmindynh.htm Mindy Williams at the Marvel Appendix]
+}}
+[[Category:Telepaths]]
+[[Category:Gestalt Characters]]

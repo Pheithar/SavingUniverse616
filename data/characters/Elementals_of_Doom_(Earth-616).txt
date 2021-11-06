@@ -1,0 +1,45 @@
+{{Marvel Database:Team Template
+| Image                   = Elementals of Doom (Earth-616) from Fantastic Four Vol 1 306 001.jpg
+| ImageSize               = 250px
+| Name                    = Elementals of Doom
+| Aliases                 = 
+
+| Status                  = 
+
+| Identity                = Public
+| Reality                 = Earth-616
+| BaseOfOperations        = 
+
+| Leaders                 = [[Esteban Corazón de Ablo (Earth-616)|Diablo]]; [[Taaru (Earth-616)|Taaru]]
+| CurrentMembers          = [[Air (Elementals) (Earth-616)|Air]], [[Earth (Elementals) (Earth-616)|Earth]], [[Fire (Elementals) (Earth-616)|Fire]], [[Water (Elementals) (Earth-616)|Water]], [[Trans-Mutant (Earth-616)|Trans-Mutant]]
+| FormerMembers           = 
+| Allies                  = 
+| Enemies                 = [[Fantastic Four (Earth-616)|Fantastic Four]], [[Brunnhilde (Earth-616)|Valkyrie]]
+
+| Origin                  = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = John Byrne
+| First                   = Fantastic Four #232
+| Last                    = 
+
+| Overview                = The Elementals of Doom are embodiment of the four elements: [[Air (Elementals) (Earth-616)|Air]], [[Water (Elementals) (Earth-616)|Water]], [[Fire (Elementals) (Earth-616)|Fire]] and [[Earth (Elementals) (Earth-616)|Earth]]. They are summoned through the power of the ancient Tailsmans of Power. The origins of the Talismans of Power and the Elementals are unknown.
+
+| HistoryText             = 
+
+They were first seen in the modern age when the ancient alchemist [[Esteban Corazón de Ablo (Earth-616)|Diablo]] stole Tailsmans of Power from various museums around the world and used the Elementals to try and destroy his long time foes the [[Fantastic Four (Earth-616)|Fantastic Four]]. Each member was forced to fight an Elemental that countered their powers perfectly. It wasn't until the Fantastic Four's leader [[Reed Richards (Earth-616)|Mister Fantastic]] suggested they swap foes were the Elementals seemingly destroyed. With the aid of [[Stephen Strange (Earth-616)|Doctor Strange]], Diablo was apprehended and the Tailsmans confiscated.{{r|Fantastic Four #232}}
+
+Some time later, Diablo attacked the Fantastic Four again with the Elementals, seemingly without the aid of the Tailsmans of Power. In addition to Fire, Air, Water and Earth, Diablo also included his latest creation the [[Trans-Mutant (Earth-616)|Trans-Mutant]]. However this time Diablo and his Elementals were defeated by the Fantastic Four and their allies [[Crystalia Amaquelin (Earth-616)|Crystal]] and [[Sharon Ventura (Earth-616)|Ms. Marvel]]. When Sharon knocked Diablo unconscious the Elementals all vanished.{{R|Fantastic Four #306}}
+
+Diablo would later combine a new variation of his Elementals into a single being, the [[Elematrix (Earth-616)|Elematrix]].{{r|Alpha Flight Vol 1 109|110}}
+
+Years later, the original Tailsmans of Power ended up in the hands of a Chinese despot known as [[Taaru (Earth-616)|Tarru]] who used the Elementals to amass a prison of slaves. When the [[Asgardians|Asgardian]] known as [[Brunnhilde (Earth-616)|Valkyrie]] ventured into Taaru's domain, he sent the Elemntals to capture her. Made prisoner, Valkyrie broke free and battled Taaru and his minions. Ultimately, Valkryie won the battle, smashing the Talesmans into pieces, causing the Elementals to vanish. Valkyrie then left Taaru to the mercies of his former slaves.{{r|Marvel Comics Presents #168}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

@@ -1,0 +1,60 @@
+{{Marvel Database:Character Template
+| Name                    = Garokk
+| CurrentAlias            = The Petrified Man
+| Aliases                 = Lazarus, Terminus (mind-controlled into impersonating), Kirk Marston
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = Stone-like body
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = 
+| Citizenship             = United Kingdom, Savage Lander
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = [[Savage Land]]
+
+| Creators                = Roy Thomas; Jack Kirby
+| First                   = Astonishing Tales #2
+
+| Quotation               = Behold, child, the ruin of a living god!
+| Speaker                 = [[Garokk (Earth-616)|Garokk]], the Petrified Man
+| QuoteSource             = Uncanny X-Men Vol 1 149
+| Image                   = Garokk (Earth-616) from Avengers Vol 5 12.jpg
+
+| History                 = Half a millennium ago, an exploring vessel searching for a new passage around the [[south Pole]] crashed on an iceberg, leaving only a single sailor surviving. When the sailor washed up in the [[Savage Land]], he believed himself in a land of the dead. Thirsty and fatigued, he wandered across a shrine for the stone God Garokk, in front of which stood a cup with a strange liquid in it. He was attacked by Garokk's worshippers and forced to flee across the jungle - only to awaken back in [[England]] without any idea of how he had gotten there.<!-- {{r|Astonishing Tales #3}} -->
+
+As the years passed, the sailor realized that he did not age anymore, and after several centuries, his body transformed into stone, leaving him a living avatar of the stone god Garokk. He remained in England, until he was overcome by visions of people warring and killing in his name and approached [[Kevin Plunder (Earth-616)|Ka-Zar]], hoping to enlist his name in stopping the cult.{{r|Astonishing Tales #3}}
+
+| Powers                  = Garokk is immortal: he does not age and even when killed, he can be returned to life. His petrified body also makes him difficult to injure. Garokk can fire beams of energy from his eyes. These beams can be heat, light, concussive force or can even open dimensional portals, capable of transporting an entire city. He can also turn his entire body into energy. Garokk has some mental connection to his followers. Garrok can also manipulate matter on a sub-atomic scale, he could rearrange the very fabric of the Savage Land.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = Garokk
+| Links                   = * [http://www.marvunapp.com/Appendix4/garokkthepetrifiedman.htm Garokk at the Appendix to the Handbook of the Marvel Universe]
+}}
+[[Category:Immortals]]
+[[Category:Optic Blasts]]
+[[Category:Energy Form]]
+[[Category:Matter Manipulation]]
+[[Category:Energy Projection]]
+[[Category:Giant Monsters]]

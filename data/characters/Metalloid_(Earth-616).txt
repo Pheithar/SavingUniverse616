@@ -1,0 +1,54 @@
+{{Marvel Database:Character Template
+| Image                   = Metalloid (Earth-616) from Fantastic Four Vol 1 179 0001.jpg
+| Name                    = [[Metalloid]] 
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Agender
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Red
+| Hair                    = None
+| UnusualFeatures         = 
+
+| Origin                  = [[Robots|Robot]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = Destroyer
+| Education               = Artificial Intelligence
+| BaseOfOperations        = [[Manhattan]], [[New York City]], [[New York (State)|New York]]
+
+| Creators                = Roy Thomas; Gerry Conway; Ron Wilson
+| First                   = Fantastic Four Vol 1 179
+
+| History                 = An Android, possibly created by The [[Mad Thinker]].
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+
+}}
+[[Category:Bronze-Age Characters]]
+[[Category:Mad Thinker Experiment]]
+[[Category:Pyrokinesis]]
+[[Category:Superhuman (75-100 ton) Strength]]
+[[Category:Metal Body]]

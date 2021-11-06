@@ -1,0 +1,48 @@
+{{Marvel Database:Character Template
+| Image                   = Sashia (Earth-616) from X-Men Annual Vol 1 3 001.png
+| Name                    = Sashia
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Public
+| Citizenship             = Polemachus
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = [[Polemachus]]
+
+| Creators                = Chris Claremont; George Perez;
+| First                   = X-Men Annual Vol 1 3
+
+| History                 = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

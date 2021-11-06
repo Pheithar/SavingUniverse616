@@ -1,0 +1,141 @@
+{{Marvel Database:Character Template
+| Image                   = Sebastion Gilberti (Earth-616) from X-Men Blue Vol 1 3 002.jpg
+| Name                    = Sebastion Gilberti
+| Name2                   = (adopted name)
+| NameRef                 = {{r|Marvel Fact Files Vol 1 14}}
+| CurrentAlias            = Bastion 
+| Aliases                 = Arnold Rodriguez,{{Citation}} [[Master Mold]],{{Citation}} Nicholas Hunter,{{Citation}} [[Nimrod]],{{Citation}} [[Template]]{{r|Marvel Fact Files Vol 1 14}}
+
+| Affiliation             = Formerly leader of the {{m|Human Council}}, secret leader of the {{m|Purifiers}}, {{m|Friends of Humanity}}, {{m|Sapien League}}, {{m|Right|The Right}}, {{m|Mutant Response Division}}, {{m|Humanity's Last Stand}}
+| Relatives               = [[Master Mold (Earth-616)|Master Mold]] (previous incarnation, status unknown);<br>[[Nimrod (Earth-811)|Nimrod]] (previous incarnation);<br>[[Rose Gilberti (Earth-616)|Rose Gilberti]] (foster mother, deceased)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+| Gender                  = Male 
+| Height                  = 6' 3" 
+| Weight                  = 375 lbs 
+| Eyes                    = Hazel 
+| Hair                    = White 
+| UnusualFeatures         = 
+
+| Origin                  = Bastion was created when [[Nimrod (Earth-811)|Nimrod]] and [[Master Mold (Earth-616)|Master Mold]] were merged by the [[Siege Perilous]]; [[Sentinels|Sentinel]] [[Androids|Android]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Siege Perilous]]
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Mutant exterminator; former government operative
+| Education               = 
+| BaseOfOperations        = Formerly Operation: Zero Tolerance base, [[New Mexico (State)|New Mexico]]
+
+| Creators                = Mark Waid; Andy Kubert
+| First                   = X-Men Vol 2 52
+| Death                   = X-Men: Blue Vol 1 28
+
+| Quotation               = '''NO!''' Fools! Release me now! You have '''no idea''' what you are up against! 
+| Speaker                 = [[Sebastion Gilberti (Earth-616)|Bastion]]
+| QuoteSource             = Astonishing X-Men Vol 2 1
+
+| History                 = 
+===Origin===
+'''Bastion''' was "born" when the giant robotic [[Sentinels|Sentinel]] [[Master Mold (Earth-616)|Master Mold]], having absorbed the advanced Sentinel prototype [[Nimrod (Earth-811)|Nimrod]] into its systems, fought the [[X-Men (Earth-616)|X-Men]] who saw no other way to stop the virtually indestructible amalgam except to force it through the [[Siege Perilous]], a pan-dimensional portal which subjects those who pass through to the judgment of the universe's higher powers.{{r|Machine Man / Bastion Annual Vol 1 '98}}
+
+Re-emerging from the portal as an amnesiac Human/Sentinel hybrid with a seemingly immortal essence, he was taken in by a woman named Rose Gilberti. Living with Rose, she adopted him as a surrogate son and gave him the name '''Sebastion Gilberti'''. He began to hear about [[United States of America|America]]'s mutant problem. At some point, Bastion fell in with anti-mutant groups, like [[Graydon Creed (Earth-616)|Graydon Creed]]'s [[Friends of Humanity (Earth-616)|Friends of Humanity]].{{r|Machine Man / Bastion Annual Vol 1 '98}}
+
+===Operation: Zero Tolerance===
+Bastion's prime directives were soon reawakened, and he began assembling the international anti-[[Homo Superior|mutant]] strike force [[Operation: Zero Tolerance (Event)|Operation: Zero Tolerance]] (OZT). They attempted to reconfigure the Sentinel force assembled by Project: Wideawake, but Bastion deemed most of them outdated. Instead, he had a number of humans secretly outfitted with nano-technology to be [[Prime Sentinels (Earth-616)|Prime Sentinels]].{{r|X-Men Vol 2 65}}
+
+After [[Charles Xavier (Earth-616)|Professor X]] voluntarily turned himself in after the events of [[Onslaught (Event)|Onslaught]], Bastion confined him in an OZT facility along with the artificially-created mutant [[Mannites]]. Bastion also killed a [[Daily Bugle (The DB!) (Earth-616)|Daily Bugle]] reporter who was going to report on Graydon Creed's history.{{r|Onslaught Epilogue Vol 1 1}}{{r|Uncanny X-Men Vol 1 339}} He then captured [[Jubilation Lee (Earth-616)|Jubilee]].{{r|Generation X Vol 1 25}}
+
+Soon after, Bastion put OZT into full effect, utilizing the Prime Sentinels and quickly capturing several X-Men members. Bastion took control of the [[Xavier's School for Gifted Youngsters|Xavier Institute]] and accessed Xavier's files in search of the Xavier Protocols, despite opposition from [[Nathaniel Summers (Earth-616)|Cable]] and [[Caliban (Earth-616)|Caliban]] of [[X-Force (Earth-616)|X-Force]].{{r|X-Men Vol 2 65}}{{r|Cable Vol 1 45|47}}
+
+The captured X-Men and Jubilee ultimately managed to escape. OZT was shut down by the U.S. government after [[Henry Gyrich (Earth-616)|Henry Peter Gyrich]] and [[Robert Kelly (Earth-616)|Senator Robert Kelly]] asked the President of the United States to intervene.{{r|Wolverine Vol 2 115|118}}{{r|X-Men Vol 2 69}}
+
+Bastion was remanded into [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] custody, but he escaped and returned to the former OZT facility. There, he absorbed the energy from the Master Mold unit with which he had created the Prime Sentinels and sought to transform [[Aaron Stack (Earth-616)|Machine Man]] into the Sentinel Supreme. He was opposed by Cable, and seemingly destroyed.{{r|Cable / Machine Man Vol 1 '98}}{{r|Machine Man / Bastion Annual Vol 1 '98}}
+
+Bastion survived and was recaptured by S.H.I.E.L.D. [[James Howlett (Earth-616)|Death]] was sent to kill the Mannites, but also attacked Bastion, leaving only his head intact.{{r|Astonishing X-Men Vol 2 1}}
+
+Bastion's head was recovered by the robotic Gatekeeper servants of the [[Techno-Organic Virus|techno-organic]] being [[Mainspring (Earth-616)|Mainspring]]. Bastion co-opted one of the Gatekeeper's bodies, and used it to attack the techno-organic hero [[Warlock (Technarch) (Earth-616)|Warlock]] and his allies, being eventually defeated. Bastion's head was later recovered by Mainspring, who stripped away the layers of his programming to reveal the original Master Mold's source code and, using the alien transmode virus he was infected with, rewrote Bastion's programming, transforming him into '''Template'''. The virus soon took complete control of Template and forced him to construct a Babel Spire on Earth to signal the alien Technarchy. To oppose them, Mainspring destroyed himself along with Template, while Warlock managed to destroy the Babel Spire.{{r|Warlock Vol 5 7|9}}
+
+Bastion's head was later retrieved by U.S. government agents in order to access the information he had stolen from Xavier's files. The information was retrieved by [[Katherine Pryde (Earth-616)|Shadowcat]], Wolverine, and [[Remy LeBeau (Earth-616)|Gambit]], but not before Bastion attempted to sow mistrust among them by confronting them with misleading holographic scenarios. Although they got the files, the X-Men were showing signs of doubt within themselves and their team.{{r|X-Men: Declassified Vol 1 1}}
+
+===X-Force===
+After the events of the [[Messiah Complex]], the [[Purifiers (Earth-616)|Purifiers]] infiltrated a S.H.I.E.L.D. facility with the help of some double agents and stole back Bastion's head and reattached it to a Nimrod's body. Once online, he alerted the Purifiers to the presence of the mutant team [[X-Force (Strike Team) (Earth-616)|X-Force]] in their church.{{r|X-Force Vol 3 1}} After their escape, Bastion realized there was no terrestrial force that could destroy the X-Men and finally eliminate the remaining mutant population, so he created one by capturing some of the prominent enemies of the X-Men and resurrecting others that had been dead. He took control of them by implanting the techno-organic virus of [[Magus (Technarch) (Earth-616)|Magus]] on them.{{r|X-Force Vol 3 3}} After that, he faced a coup d'état from [[Matthew Risman (Earth-616)|Matthew Risman]] and his Choir, while also contending with the X-Force team which had followed [[Warren Worthington III (Earth-616)|Archangel]], who sensed his stolen wings within the Choir. Bastion fought Wolverine, but calculated that the risk was too high to fight him directly and escaped with the resurrected X-Men enemies.{{r|X-Force Vol 3 6}}
+
+===Second Coming===
+[[File:X-Force Vol 3 26 page 13 Bastion (Earth-616).jpg|thumb|right]]
+As part of Bastion and the [[Human Council (Earth-616)|Human Council]]'s plan to kill the [[Hope Summers (Earth-616)|Messiah Child]] and destroy mutantkind, when Cable and Hope returned to the current time, Bastion ordered [[William Stryker (Earth-616)|William Stryker]]'s Purifiers, the [[Leper Queen (Earth-616)|Leper Queen]]'s [[Sapien League]], and [[Cameron Hodge (Earth-616)|Cameron Hodge]]'s [[Right (Earth-616)|Right]] Smiley Faces to kill them. As a secondary plan, he ordered the death of all teleporters and transportation on the X-Men's Utopia base. A large dome appeared over the [[San Francisco|Bay Area]] to cut off the X-Men from escape or help. Once the dome was activated, Bastion opened a dimensional portal from his [[Earth-811|home reality]] to allow in more Nimrod-Series Sentinels.{{r|X-Men: Legacy #236}} Like the original Nimrod, these Sentinels were able to detect, analyze and adapted to mutant powers. They were also self-repairing. The X-Men were barely able to subdue them, and several X-Men sustained severe injuries.{{r|X-Force Vol 3 27}} Every five minutes a wave of five new Nimrod Sentinels continued to appear through the portal.{{r|New Mutants Vol 3 14}} Only by sending X-Force, Cable, and [[Douglas Ramsey (Earth-616)|Cypher]] into the future to reprogram the signal and destroy the Nimrod Master Molds were the X-Men successful in defeating them.{{r|{{cl|X-Force Vol 3 27}}, {{cl|X-Men: Legacy Vol 1 237}} & {{cl|X-Force Vol 3 28}}}} In order for the other members of X-Force to return to the current timeline, Cable was forced to go entirely techno-organic and held open the time portal sealing his own fate. Deciding that he would end the problem himself by killing Hope by his own hand, Bastion attacked. Hope, filled by the rage of losing Cable and the manifestation of her mutation, utterly destroyed Bastion and his dome in a single blast of tremendous energy.{{r|X-Force Vol 3 28}}
+
+===Mutantkind's Savior===
+Unbeknownst to everyone, Bastion had managed to avoid death by escaping into the future. Severely damaged and with his systems compromised by the time-travel, Bastion found himself in a future where mutants were still endangered, this time due to toxicity of the [[Terrigen Mist]]s to them. His time on said future made him realize that he wouldn't have a purpose if mutantkind vanished from [[Earth]], prompting him to decide to save them so he could continue doing his utility function.
+
+Back in the present, Bastion reprogrammed a group of Sentinels to help him carry out his new mission, and they soon started to refer to themselves as mutants due to their new programming. When his Mutant Sentinels were confronted by [[X-Men (Time-Displaced) (Earth-616)|the time-displaced original X-Men]] while aiding [[Belen (Mutant) (Earth-616)|a new mutant]] who had emerged in [[Barcelona]], Bastion had them captured and brought to his presence so he could try to convince them into joining his cause. However, the X-Men realized what Bastion was up to and made him reveal the truth, leading to a battle between the mutant team and the robots. Seeing the battle as pointless, Bastion fled with his Sentinels.{{r|X-Men: Blue Vol 1 3}}
+
+After [[Hydra (Earth-616)|Hydra]] took control of the United States of America under the leadership of a [[Cosmic Cube]]-altered [[Steven Rogers (Earth-61311)|Captain America]], mutants were given [[New Tian|part of Northern California]] so that they would not interfere with Hydra's new regime. Bastion started to work with [[Claudine Renko (Earth-616)|Miss Sinister]], [[Emma Frost (Earth-616)|Emma Frost]], and [[Alexander Summers (Earth-616)|Havok]] in order to use the [[Mothervine]] virus, a catalyst for artificial mutations, on a global scale.{{r|X-Men: Blue Vol 1 9}} Following Mothervine's global release,{{r|X-Men: Blue Vol 1 27}} Emma Frost turned against her allies after discovering the mutants generated by Mothervine could have their will subjugated. She liberated the group of young X-Men that carried out a failed assault against the masterminds behind Mothervine and attacked Havok and Bastion. The X-Man [[Shen Xorn (Earth-616)|Xorn]] sacrificed himself and killed Bastion, swallowing him with the black hole inside his head.{{r|X-Men: Blue Vol 1 28}}
+
+| Powers                  = '''Cybernetic Body:''' As a cybernetic life form he possesses all of the various superhuman attributes:
+* '''Superhuman Strength:''' His cybernetic body makes him inhumanly strong well beyond the human limit.
+* '''Superhuman Speed:''' As a cybernetic life form he can run and move at speeds that are beyond the physical limits of the finest human athlete.
+* '''Superhuman Durability:''' As a cybernetic life form his construction makes him very durable. 
+* '''Superhuman Stamina:''' As a cybernetic life form he can exert itself well beyond the human limit.
+* '''Superhuman Agility:''' As a cybernetic life form his agility, balance, and bodily coordination are enhanced to levels that are beyond the natural physical limits of the finest human athlete.
+* '''Adaptation:''' Like all sentinels, he can assess the particular mutant abilities of his adversary and then modify his internal and external mechanism to compensate.
+* '''Quick Self-Repair:''' The nanites in his body provides him a self-repair similar to a [[Healing Factor]]. After exposure to the blending of T.O. virus, his mechanical regeneration was vastly improved upon by many leagues.{{r|Uncanny X-Men Vol 1 524}}{{r|X-Force Vol 3 28}}
+* '''Techno-Organic Wings:''' His transformation into a Nimrod based sentinel bestowed him with four techno-organic wings which he could use for aviation and defense.
+** '''Flight:''' flight via jet boots and his wingspan.{{r|X-Force Vol 3 6}}{{r|X-Men: Second Coming Vol 1 2}}
+* '''[[Techno-Organic Virus|Technoforming]]:''' Bastion can command and control computer systems and Sentinels with his computer brain alone. Even being able to commandeer and re-purpose robotic bodies for himself by supplementing his head onto their chassis.{{r|Warlock Vol 5 6}}{{r|X-Force Vol 3 1}} When exposed to the modified strain of Technarchy Virus by the villain [[Mainspring (Earth-616)|Mainspring]]. Bastion, as Template, gained the ability to transmute inorganic matter into techno-mechanical material with which he had complete and total control over.{{r|Warlock Vol 5 7|9}}
+** '''[[Nano-Sentinels|Sentinel Creation]]:''' Bastion has the natural ability to create cyborg mutant killers called [[Prime Sentinels (Earth-616)|Prime Sentinels]] using a nanite based conversion process.{{r|X-Men Unlimited Vol 1 27}} These powers were magnified many times over with the introduction of the T.O. Virus into his system, now bastion's sentinel tech Robotization enables the creation of Nimrod like Omega Prime Sentinels in those whom he's resurrected within his Council.{{r|X-Force Vol 3 28}}
+** '''Size Alteration:''' Through his mastery of techno kinetic matter manipulation, Template could easily change and adjust his mass and height to monolithic proportions by converting and absorbing transmoded matter into itself.{{r|Warlock Vol 5 8}}
+** '''[[Shape-shifting|Techno Shifting]]:''' Bastion's technorganic frame has vast metamorphic capabilities, so much so that he could merge himself into any mechanical, cybernetic or techno mechanical substance he pushed his consciousness through. Changing anything or anyone else around him along with his form at will. Through this he is able to assume his normalized and Nimrod forms at will.{{r|Warlock Vol 5 6}}
+*** '''Techno-Kinetic Possession:''' Through his metamorphic abilities he could cast his will into any and every form of machinery or anything his virulent substance infects.{{r|Warlock Vol 5 7|8}}
+*** '''Mechanical Duplication:''' Bastion, through his understanding of technological interface, used a decommissioned sentinel factory bionic clones of himself with enhanced intellect and bionic shapeshifting abilities.{{r|Uncanny X-Men Vol 1 337}}
+*** '''Infection:''' Bastion can infect others with his Techno-Organic Virus giving them some of his unique abilities.{{r|X-Force Vol 3 3}}
+*** '''Mechanical Construct Creation:''' Shifting his technomorphic biomass enables bastion to generate new appendages and weaponry with a thought. Such as techno-organic wings for flight and missile pods generated from his shoulders.{{r|Uncanny X-Men Vol 1 524}}{{r|X-Force Vol 3 28}} 
+** '''Resurrection/Reanimation:''' Using his mastery of the transmode virus Bastion was able to resurrect his select generals and commanders within his [[Human Council (Earth-616)|Human Council]] to aid in the extinction of Mutants.{{r|X-Force Vol 3 3}}
+** '''Hive Senses:''' He can access the senses of those he infects with his T.O. Strain, interfacing with their minds and thought processes. Everything his infectee sees he see's and through this connection he can feed them necessary information or bestow them with computerized senses in order to utilize and asses strategic advantages.{{r|X-Men: Legacy Vol 1 236}}
+* '''Energy Manipulation:''' Bastion had some modicum energy manipulation and casting abilities. A capacity which was only made stronger as he became a Transmode/Celestial Tech enhanced Nimrod series sentinel.
+** '''Energy Projection:''' Able to shoot energy blasts from his hands and has laser vision he can fire from the eyes. During his final battle with hope, he showed he could project energy from his mouth as well.{{r|X-Force Vol 3 28}}
+** '''Energy Shielding:''' Having been augmented through the Transmode Virus, he could project energy barriers of varying size and resilience. Once having erected a massive shield dome around the city of New York stretching from the bay area all the way to Utopia.{{r|X-Men: Legacy Vol 1 236}}
+* '''Technoformation''': As the end result of the merger between Nimrod and Master Mold, Bastion has vast technokinetic modulation capabilities. Powerful enough to gather and reconstruct or outright upgrade his mechanical chassis out of excess scrap metal and robotic parts.{{r|Warlock Vol 5 6}}
+* '''Psychic Immunity:''' It is also immune to psychic reading from telepaths.
+* '''Space/Time Migration:''' With the resurgence of his Nimrod programming. Bastion could freely traverse the timestream to access the alternate timeline which part of himself hails from. He can also travel to alternate futures, this of coarse was accidental.{{r|X-Men: Blue Vol 1 3}}
+** '''[[Teleportation]]:''' Bastion has a natural ability to warp to and from different locations under his own power, even choosing who he takes along with him in the jump.{{r|X-Men: Blue Vol 1 3}}
+** '''Time Travel:''' He has the latent ability to travel to and from the future at will.
+** '''Portal Creation:''' Bastion had the power to open rifts to the alternate timeline where he originates from in order to summon more Nimrod Sentinels.{{r|X-Men: Legacy Vol 1 236}}
+| Abilities               = '''[[Genius Intelligence]]'''{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+| Strength                = Superhuman, able to lift at least 10 tons of weight.
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = Laser pistol.
+
+| Notes                   = * An X-Men character named [[Sebastion Gilberti (Earth-295)|Bastion]] was first mentioned during the [[Age of Apocalypse (Event)|Age of Apocalypse]] in {{cl|Amazing X-Men Vol 1 2}}. Since that Bastion was a former [[Horsemen of Apocalypse (Earth-295)|Horseman]] of [[En Sabah Nur (Earth-295)|Apocalypse]], however, he likely had no connection to the post-Sentinel entity Bastion.
+| Trivia                  = 
+| Marvel                  = Bastion
+| Wikipedia               = 
+| Links                   = * [http://uncannyxmen.net/characters/bastion-man-from-the-machine uncannyxmen.net Bring on the Bad Guys: Bastion - Man From the Machine]
+* [[Sentinels]]
+}}
+[[Category:Second Coming casualties]]
+[[Category:Nimrods]]
+[[Category:Master Molds]]
+[[Category:Artificial Intelligences]]
+[[Category:Technopaths]]
+[[Category:Regeneration]]
+[[Category:Telepathic Immunity]]
+[[Category:Toxic Immunity]]
+[[Category:Regenerative Durability]]
+[[Category:Flight]]
+[[Category:Superhuman Strength]]
+[[Category:Superhuman Durability]]
+[[Category:Techno-Organic Virus]]
+[[Category:Time Travelers]]
+[[Category:Chronokinesis]]
+[[Category:Teleporters]]
+[[Category:Shapeshifters]]
+[[Category:Winged Characters]]
+[[Category:Interdimensional Travelers]]
+[[Category:Duplication]]
+[[Category:Size Alteration]]

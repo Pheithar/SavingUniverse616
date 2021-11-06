@@ -1,0 +1,51 @@
+{{Marvel Database:Character Template
+| Image                   = Ixar (Earth-616) from Avengers Vol 1 37 0001.jpg
+| Name                    = Ixar
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 6'
+| Weight                  = 190 lbs
+| Eyes                    = Blue
+| Hair                    = White
+| UnusualFeatures         = 
+
+| Origin                  = [[Alien]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Roy Thomas; Don Heck
+| First                   = Avengers Vol 1 36
+
+| History                 = Ixar was a warlord from a war-torn world, that had lost all its population in a stellar war against a nearby star-system. He came to Earth with his army of [[Ultroids]] to capture the [[Avengers (Earth-616)|Avengers]], because he can use captive super-powered beings to give his Ultroids the same powers.
+
+He took the place of the mayor of [[Pietro Maximoff (Earth-616)|Quicksilver]]'s and the [[Wanda Maximoff (Earth-616)|Scarlet Witch]]'s home town to lure the super team into his space ship. When he was defeated, he left the Earth in search of other worlds where he could find new weapons.{{r|Avengers #36|37}}
+
+| Powers                  = 
+
+| Abilities               = * '''Super-Genius Intelligence:''' {{r|Official Handbook of the Marvel Universe A-Z Vol 1 5}}
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

@@ -1,0 +1,88 @@
+{{Marvel Database:Character Template
+| Image                   = Silver Fox (Earth-616) from Wolverine Weapon X Files Vol 1 1 001.jpg
+| Name                    = [[Silver Fox]]
+| Name2                   = (apparently){{r|Official Handbook of the Marvel Universe A-Z #10}}
+| CurrentAlias            = 
+| Aliases                 = Zora de Plata,{{r|Wolverine Vol 2 49}} [[Fox]]{{r|Wolverine Vol 2 50}}
+
+| Affiliation             = Formerly {{m|Hydra}} (leader), unidentified terrorist cell, {{m|Weapon X (Earth-616)|Weapon X Program}}, {{m|Central Intelligence Agency (Earth-616)|C.I.A.}}'s {{m|Team X}}, {{m|Blackfoot Confederacy (Earth-616)|Black Foot Tribe}}
+| Relatives               = Unidentified husband (deceased){{r|Wolverine: Origins #5}}
+| MaritalStatus           = Widowed
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 5'7"
+| Weight                  = 121 lbs
+| Eyes                    = Blue
+| Hair                    = Black
+| UnusualFeatures         =
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Canadian Rockies]], [[Yukon]], [[Canada]]
+| PlaceOfDeath            = [[Seattle]], [[Washington (State)|Washington]], [[United States of America]]
+| KilledBy                = Victor Creed (Earth-616); Aldo Ferro (Earth-616)
+
+| Identity                = Secret
+| Citizenship             = Canadian
+| Occupation              = Terrorist; former Former C.I.A. (Team X) and Weapon X member, Hydra leader
+| Education               = 
+| BaseOfOperations        = Formerly [[Canadian Rockies]], [[Yukon]], [[Canada]].
+
+| Creators                = Chris Claremont; John Buscema
+| First                   = Wolverine Vol 2 10
+| Death                   = Wolverine Vol 2 64
+
+| Quotation               = Don't be silly [[James Howlett (Earth-616)|Logan]]! Nothing's forever. Everything has it's time... And our time is now!
+| Speaker                 = [[Silver Fox (Canadian) (Earth-616)|Silver Fox]]
+| QuoteSource             = Wolverine Vol 2 65
+
+| History                 = A member of the [[Blackfoot Confederacy (Earth-616)|Black Foot Native American Tribe]],{{r|Wolverine: Origins #5}} Silver Fox grew up in the [[Canadian Rockies]] near the town of [[Mount Logan]], [[Yukon]].{{r|Wolverine Vol 2 125}} The man known as [[James Howlett (Earth-616)|Logan]] was accepted into living with the Tribe; having widowed the previous winter, Silver Fox and Logan started a relationship.{{r|Wolverine: Origins #5}} They lived in a cabin near Mount Logan,{{r|Wolverine Vol 2 65}}{{r|Wolverine Vol 3 50}} where they had a dog, Old Blue, who had contracted rabies in the woods. When Logan couldn't bring himself to kill Blue, Silver Fox took the rifle from him and shot the dog herself.{{r|Wolverine Vol 2 47}}
+
+One day Silver Fox arrived in a Mount Logan's saloon just in time to see her lover fighting against several men outside the bar; there, she first met [[Victor Creed (Earth-616)|Victor Creed]], a man who had just helped Logan in his fight. Ironically, Creed admitted that Silver Fox would eventually cause some problem to Logan.{{r|X-Men Origins: Sabretooth #1}}
+
+On Logan's birthday, Creed, sent by his master [[Romulus (Earth-616)|Romulus]], savagely attacked Silver Fox at her cabin, brutally killing her.{{r|Wolverine: Origins #5}}{{r|Wolverine Vol 3 50}}
+
+A distraught Logan then carried her body back on town, where Sabretooth mockingly took credit for the deed. Logan tried to kill Sabretooth in revenge, but ultimately failed.{{r|Wolverine Vol 2 10}}{{r|Wolverine: Origins #5}}{{r|Wolverine Vol 3 55}}{{r|X-Men Origins: Sabretooth #1}} Sabretooth and Romulus then brainwashed Logan into believing the townspeople of Mount Logan were responsible for Silver Fox's death and sent him to slaughter them all.{{r|Wolverine Vol 2 10}}{{r|Wolverine: Origins #5}}
+
+Eventually Silver Fox, or someone impersonating her, resurfaced under uncertain circumstances in the 1960s, where she had joined [[Central Intelligence Agency (Earth-616)|C.I.A.]]'s black-ops unit known as [[Team X (Earth-616)|Team X]], as well as Logan and Sabretooth did.{{r|In {{cl|Wolverine Vol 2 49}} and {{cl|Wolverine Vol 2 61}} is mentioned that Silver Fox had betrayed Team X during a mission in Cuba for unknown reasons, so she was in fact a team member.}}{{r|Logan and Sabretooth's recruitment has been shown in {{cl|X-Men Origins: Sabretooth #1}}.}} However, they did not know that C.I.A.'s Team X was a cover for the U.S./Canada's joint military operation called [[Weapon X (Earth-616)|Weapon X Program]].{{r|Wolverine Vol 2 50}} At Weapon X, Silver Fox and other Team X members were implanted false memories with the help of cinematographic sets{{r|Wolverine Vol 2 50}} and other technologies provided by Romulus.{{r|Wolverine: Origins #6|7}} In one of those implanted memories, Logan and Sabretooth were possibly brainwashed into thinking that Sabretooth had not killed Silver Fox at the cabin several years before.<ref>This is a logical conclusion based on the fact that Logan and Sabretooth were not surprised to see Silver Fox alive after the time she was killed.</ref>m
+
+After Weapon X's memory treatment, Silver Fox began remembering that Logan had previously left her at her prom night in the 1950s after he was beaten up in the parking lot for bringing an "Indian" to the dance.{{r|Wolverine Vol 2 50}} However, those events had never happened, and they had been built through [[Weapon X Warehouse (Windsor)|Weapon X sets]] located in [[Windsor (Ontario)|Windsor]], [[Ontario]].{{r|Wolverine Vol 2 50}}
+
+Thinking Logan had rejected her at the prom night, Silver Fox betrayed Team X during a mission to [[Palma Soriano]], [[Cuba]], in 1963, immediately after [[John F. Kennedy (Earth-616)|Kennedy]]'s assassination, joining the cuban revolutionaries.{{r|Wolverine Vol 2 49}}{{r|Wolverine Vol 2 61}} At that point, Weapon X completely lost her trail.{{r|Wolverine Vol 2 50}}
+
+Since they wanted to remove the traitor Silver Fox from the subjects' memories, Weapon X Program had criminal mastermind [[Aldo Ferro (Earth-616)|Aldo Ferro]] craft new implanted memories that mimicked the original events of Silver Fox's death;{{r|Wolverine Vol 2 63}} this time, Ferro included a reference of Sabretooth being Logan's father,{{r|Wolverine Vol 2 41}} and the possibility that he killed Silver Fox after she had rejected his advances and knocked out one of his teeth.{{r|Wolverine Vol 2 64}}
+
+In the following years she eventually joined [[Hydra (Earth-616)|Hydra]], becoming one of the organization's leaders; she even monitored and followed Logan's activities throughout the years, searching for vengeance.{{r|Wolverine Vol 2 -1}} In modern times, she had become the leader of [[Manhattan]]'s Hydra, operating behind the scenes to discover the mystery around the [[United States Department of Agriculture (Earth-616)|U.S. Agriculture Department]] and its involvement with the C.I.A. and Weapon X.{{r|Wolverine Vol 2 49}} After having discovered the place where Weapon X crafted all the implanted memories, she followed and killed [[Truett Hudson (Earth-616)|The Professor]], the man who was in charge of both Weapon X and Agriculture Department, to prevent his interference while Logan and the [[X-Men (Earth-616)|X-Men]] were exploring the [[Weapon X Warehouse (Windsor)|warehouse]] in [[Windsor (Ontario)|Windsor]].{{r|Wolverine Vol 2 50}}
+
+[[File:Silverfox (Canadian) (Earth-616) from Wolverine Vol 2 50 0001.JPG|left|thumb|Silver Fox]]
+Around the same time, Logan had started collecting some of the false memories implanted in his head, including one where Silver Fox was a member of a terrorist cell which operated in the Windsor's warehouse; Logan and his teammates Sabretooth and [[Mastodon (Elefante) (Earth-616)|Mastodon]] defeated the terrorist.{{r|Wolverine Vol 2 48|49}} The Professor eventually revealed that they used low-quality sets to craft different subjects' memories. The warehouse which appeared in Logan's implants as the terrorists' hideout was the same set as Silver Fox's apartment in [[San Francisco]] in her false memories.{{r|Wolverine Vol 2 50}}
+
+She later allied herself with [[Matsu'o Tsurayaba (Earth-616)|Matsu'o Tsurayaba]] and the [[Hand (Earth-616)|Hand]], and later hired the [[Japan]]ese assassin [[Reiko (Earth-616)|Reiko]] to poison Logan's lover [[Mariko Yashida (Earth-616)|Mariko Yashida]].{{r|Wolverine Vol 2 56|57}}
+
+When former Team X member Mastodon rapidly aged, his teammate [[John Wraith (Earth-616)|John Wraith]] gathered the other former members to seek answers, including the Hydra-allied Silver Fox.{{r|Wolverine Vol 2 61}} After Mastodon had rapidly reached an advanced age and dissolved, Team X went in search for Aldo Ferro, the man who implanted their false memories decades earlier at Weapon X.{{r|Wolverine Vol 2 62|63}}
+
+Arrived at Ferro's island, they were joined by Ferro's former bodyguard and former Team X member [[Christoph Nord (Earth-616)|Maverick]];{{r|Wolverine Vol 2 62|63}} Silver Fox was captured by Ferro,{{r|Wolverine Vol 2 63}} who was revealed to be a Psi-Borg, and later, in an illusory scenario which simulated Logan and Silver Fox's cabin, was killed by Sabretooth, who was controlled by Ferro himself.{{r|Wolverine Vol 2 64}}
+
+Wolverine buried her near the cabin they had lived together. While doing so he found a tree carving that they had made.{{r|Wolverine Vol 2 65}}
+
+When Logan regained the true memories of his past,{{r|House of M #8}} he perfectly remembered Silver Fox's death at the hands of Sabretooth, revealing that those memories had not been altered by the Weapon X Program,{{r|Wolverine: Origins #5}}{{r|Wolverine Vol 3 50}}{{r|Wolverine Vol 3 55}} and suggesting that the Silver Fox who was killed by Aldo Ferro was just a clone or an impersonator hired by Weapon X during their time at Team X. This could be confirmed by the Professor's corpse, which seemed to have been ripped apart by claws, hinting that maybe that Silver Fox was something different than the original.{{r|Wolverine Vol 2 50}}
+
+| Powers                  = Silverfox possessed retractable claws. It was unknown if she had enhanced senses. Silver Fox was given an age suppression factor by the [[Weapon X (Earth-616)|Weapon X Program]]. She also apparently had or was given a healing factor, but not to the degree of [[James Howlett (Earth-616)|Wolverine]] or [[Victor Creed (Earth-616)|Sabretooth]].
+
+| Abilities               = Skilled in the use of firearms.
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = Several [[Hydra (Earth-616)|Hydra]] vehicles
+| Weapons                 = [[Hydra (Earth-616)|Hydra]] weapons
+
+| Notes                   = * According to {{cl|Marvel Fact Files #1}}, the Silver Fox killed by Sabretooth and the Silver Fox who joined Team X, Weapon X and Hydra were possibly not the same person. The second Fox could have been an impersonator created or modified by either Weapon X or Romulus.
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Regeneration]]
+[[Category:Claws]][[Category:Infobox UnusualFeatures Update Needed]]
+[[Category:Advanced Longevity]]
+[[Category:Silverfox Family]]

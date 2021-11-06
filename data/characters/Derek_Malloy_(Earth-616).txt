@@ -1,0 +1,55 @@
+{{Marvel Database:Character Template
+| Image                   = Derek Malloy (Earth-616) from All-New Invaders Vol 1 7.jpg
+| Name                    = 
+| CurrentAlias            = Derek Malloy
+| Aliases                 = 
+
+| Affiliation             = {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Hazel
+| Hair                    = Brown
+| UnusualFeatures         = Robotic body
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = S.H.I.E.L.D. agent, psychiatrist
+| Education               = PhD in psychiatry
+| BaseOfOperations        = [[S.H.I.E.L.D. Helicarrier]]
+
+| Creators                = James Robinson; Marc Laming
+| First                   = All-New Invaders Vol 1 6
+| Death                   = All-New Invaders Vol 1 8
+
+| History                 = [[File:Derek Malloy (Earth-616) from All-New Invaders Vol 1 6 001.jpg|thumb|left|In disguise]]
+Dr. Derek Malloy was the S.H.I.E.L.D. psychiatrist with whom [[Human Torch (Android) (Earth-616)|Jim Hammond]] discussed a mission regarding [[Ryoko Sabuki (Earth-616)|Radiance]].{{r|All-New Invaders Vol 1 6}}
+
+After the session ended, Hammond confronted Derek about being an A.I., thinking that S.H.I.E.L.D. decided that it was better to have a fellow A.I. talk with Jim. Derek indeed revealed himself as an A.I., but an evil one who then attacked Hammond.{{r|All-New Invaders Vol 1 7}}
+
+Malloy sprayed some kind of liquid at the Torch, which was combustible, and reacted with Hammond's flames creating an explosion which destroyed Malloy.{{r|All-New Invaders Vol 1 8}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

@@ -1,0 +1,56 @@
+{{Marvel Database:Race Template
+| Image                   = Brain_Parasites_from_Fantastic_Four_Vol_1_227.jpg
+| Name                    = Brain Parasites
+| Aliases                 = 
+| Identity                = 
+| Affiliation             = 
+| Universe                = Earth-616
+| BaseOfOperations        = 
+
+| BodyType                = 
+| AvgHeight               = 0' 8"
+| AvgWeight               = 8 oz
+| Eyes                    = Red
+| Hair                    = None
+| Skin                    = Pink
+| NumberOfLimbs           = 0
+| NumberOfFingers         = 0
+| NumberOfToes            = 0
+| SpecialAdaptations      = Trilobite-like bodies
+| UnusualFeatures         = 
+
+| Origin                  = 
+| GalaxyOfOrigin          = 
+| StarSystemOfOrigin      = 
+| HomePlanet              = 
+| PlaceOfBirth            = 
+| Creators                = Doug Moench
+| First                   = Fantastic Four Vol 1 227
+
+| HistoryText             = The creatures known only as Brain Parasites are a species of creature that resemble prehistoric Trilobites from Earth. These creatures survive by attaching themselves to the brains of their victims. Once attached to its prey, the parasite causes a reverse evolution of turning back evolution billions of years in order to tap the creature's most basic instincts. The parasites then send their host out to consume fossil fuels which the parasites need to live. The end result of their gorging on oil and other petroleum based fuels is so they gain enough energy to find a suitable female host so that they can reproduce. 
+
+A meteor carrying an egg pod of these space parasites crashed in a Lost Lake, Pennsylvania attracting the attention of scientist Gideon Carruthers to the site after reports of strange prehistoric creatures being seen on the site. He soon called in his old university colleague [[Reed Richards (Earth-616)|Mister Fantastic]] of the [[Fantastic Four (Earth-616)|Fantastic Four]] to help investigate. They became aware of the parasites when they were attacked by a sea-gull that was transformed into a pterodactyl by one of the creatures sought to the fuel that was inside the [[Fantasti-Car MK II|Fantasti-Car]]. Their research was hampered thanks to Reed's son [[Franklin Richards (Earth-616)|Franklin]] using his latent mutant powers to cause their attackers to explode. As the Fantastic Four faced a transformed dog, lake eel, and Carruthers himself, they discovered the egg pod at the bottom of the lake and began piecing together the mystery. However, this was not before one of the parasites managed to attach itself to the [[Susan Storm (Earth-616)|Invisible Girl]]. Because her body was altered by [[Glossary:Cosmic Radiations|cosmic rays]], the transformation was slower. The parasite used the Invisible Girl as a host to lay eggs near the Fantasti-Car. After Richards discovered his wife was affected, he managed to pull the parasite from her body, causing her to return to normal and the creature was killed. 
+
+Unsure what she was doing behind the Fantasti-Car, she and the rest of the Fantastic Four left Pennsylvania thinking the threat was over. While the eggs laid were incinerated when the vehicle took off into the air. However, one of the newborn Brain Parasites survived and was last seen crawling off into the Pennsylvanian wilderness. {{R|Fantastic Four #227}}
+
+| Habitat                 = Parasitic in nature, these creatures appear to be adaptable to most habitats and have shown some resistance to the vacuum of space.
+| Gravity                 = Presumably adaptable to any gravity due to their parasitic nature.
+| Atmosphere              = They have appeared to thrive in an Earth like atmosphere both above and below water.
+| Population              = Unknown.
+
+| Powers                  = The brain parasites cause a reverse in evolution of a creature they use as a host once they have attached themselves to the base of the creature's brain. In at least one case, they also endowed the host body (a dog turned into a prehistoric wolf in this case) with the ability to project mental bolts of force.
+| Abilities               = 
+| AvgStrength             = 
+| Weaknesses              = The brain parasites have less control over beings altered by cosmic rays. They are vulnerable to fire. Once removed from the host, their host returns to their normal evolutionary form. 
+
+| GovernmentType          = Not applicable
+| TechnologyLevel         = Not applicable
+| CulturalTraits          = Parasite
+| Representatives         = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Parasites]]
+[[Category:Symbiotes]]

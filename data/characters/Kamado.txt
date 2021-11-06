@@ -1,0 +1,50 @@
+{{Marvel Database:Race Template
+| Image                   = Kamado from Official Handbook of the Marvel Universe Vol 2 15 001.jpg
+| Name                    = Kamado
+| Aliases                 = 
+| Identity                = 
+| Affiliation             = 
+| Universe                = 
+| BaseOfOperations        = 
+
+| BodyType                = Humanoid
+| AvgHeight               = 
+| AvgWeight               = 
+| Eyes                    = 2
+| Hair                    = 
+| Skin                    = Pink
+| NumberOfLimbs           = 4
+| NumberOfFingers         = 5
+| NumberOfToes            = 5
+| SpecialAdaptations      = 
+| UnusualFeatures         = 
+
+| Origin                  = Alien
+| GalaxyOfOrigin          = [[Milky Way]]
+| StarSystemOfOrigin      = [[Dopner]]
+| HomePlanet              = [[Mikkaz]]
+| PlaceOfBirth            = 
+| Creators                = J.M. DeMatteis; Don Perlin
+| First                   = Defenders Vol 1 124
+
+| HistoryText             = The Kamado are a humanoid muscular race from the planet [[Mikkaz]].{{r|Defenders Vol 1 124}}
+
+| Habitat                 = 
+| Gravity                 = 
+| Atmosphere              = 
+| Population              = 
+
+| Powers                  = 
+| Abilities               = 
+| AvgStrength             = 
+| Weaknesses              = 
+
+| GovernmentType          = 
+| TechnologyLevel         = 
+| CulturalTraits          = 
+| Representatives         = [[Ch'kra (Earth-616)|Ch'kra]], [[Ch'kri (Earth-616)|Ch'kri]], [[Denzile (Earth-616)|Denzile]], [[Mox (Earth-616)|Mox]], [[Seminekk (Earth-616)|Seminekk]], [[T'voor (Earth-616)|T'voor]], [[Xeotpik (Earth-616)|Xeotpik]], [[Zimm (Earth-616)|Zimm]]
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

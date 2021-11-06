@@ -1,0 +1,52 @@
+{{Marvel Database:Character Template
+| Image                   = Destructon (Earth-616) from Thunderbolts Vol 1 50 0001.JPG
+| Name                    = 
+| CurrentAlias            = The Destructon
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = 
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = [[Robots|Robot]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = 
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Stan Lee; Jack Kirby
+| First                   = Captain America #100
+| Death                   = Thunderbolts #50
+
+| History                 = Destructon was a robot unleashed by [[Franz Gruber (Earth-616)|"Baron Zemo"]] on [[Steven Rogers (Earth-616)|Captain America]], [[Sharon Carter (Earth-616)|Agent 13]] and [[T'Challa (Earth-616)|Black Panther]]. The Destructon appeared to have the upper hand and resisted the attack of all three until Captain America was able to destroy it's mobility control, preventing it from moving.{{r|Captain America #100}}
+
+[[Henry Gyrich (Earth-616)|Henry Gyrich]] and the [[Commission on Superhuman Activities (Earth-616)|Commission on Superhuman Activities]] gained the plans for a Destructon and built a new one and used it to defend there offices from an attack by the [[Redeemers (Earth-616)|Redeemers]] but was swiftly destroyed by the group.{{r|Thunderbolts #50}}
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * http://www.marvunapp.com/Appendix/destruct.htm
+
+}}

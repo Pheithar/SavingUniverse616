@@ -1,0 +1,54 @@
+{{Marvel Database:Character Template
+| Image                   = Kaliban (Earth-616) 1.jpg
+| Name                    = Kaliban
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{M|Inhuman Royal Guard (Earth-616)|Inhuman Royal Guard}}
+| Relatives               = [[Yeti (Inhuman) (Earth-616)|Yeti]] (brother)
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Brown
+| UnusualSkinColor        = 
+| UnusualFeatures         = 
+
+| Origin                  = [[Inhomo supremis|Inhuman]] powered by [[Terrigenesis]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Attilan]]
+| PlaceOfDeath            = 
+
+| Identity                = Public
+| Citizenship             = Attilan
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = [[Attilan]]
+
+| Creators                = Stan Lee; Jack Kirby; Archie Goodwin; John Buscema;
+| First                   = Fantastic Four #99
+| Death                   = 
+
+| History                 = Kaliban was a guard of the Great Refuge, one of the troops under the command of [[Chiron (Inhuman) (Earth-616)|Chiron]].{{r|Fantastic Four #117}}
+
+When the Human Torch went to visit Crystal, unaware of the fact that she had never even reached the Refuge, Chiron ordered Kaliban to intercept the Torch with the ion-blast - wrongly assuming that the Torch was allied with the Royal Family. Kaliban hit the Torch, turning off his flame and making him fall. Chiron then sent Asmodeus to catch the Torch in flight, but the Torch recovered and flamed on with some much heat that, per Kaliban's words, even Asmodeus' heat-resistant wings could not smother it. Chiron ordered Kaliban and the other troops to retreat to the Refuge so they could report the new threat while Chiron confronted the Torch. However, once the Torch discovered that Crystal was not there, he lost interest and left.{{r|Fantastic Four #117}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = Ion-blast, a high-range two-handed rifle.{{r|Fantastic Four #117}}
+
+| Notes                   = * Kaliban first appears in {{cl|Fantastic Four #99}}, and is first named in {{cl|Fantastic Four #117}}
+* Both Kaliban and his brother Yeti are seen in Fantastic Four#99(6/70)/Marvel's Greatest Comics#80(11/78) page 30 panel 3 (Kaliban is seen from the back in a green outfit with a different shoulder strap design: X with a circle in the middle and a strap down the middle of the bottom of the x).
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

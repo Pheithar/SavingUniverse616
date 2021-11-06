@@ -1,0 +1,245 @@
+{{Marvel Database:Character Template
+| Image                   = Arkady Rossovich (Earth-616) from Wolverine Vol 7 1 page 36 textless.jpg
+| Name                    = [[Arkady Rossovich| Arkady Grigorievich Rossovich]]
+| NameRef                 = {{r|Official Handbook of the Marvel Universe A-Z #8}}
+| CurrentAlias            = [[Omega Red]]
+| Aliases                 = [[Red Death]],{{citation}} Vasyliev Arkady,{{citation}} [[Red]],{{citation}} Horseman of Wellness,{{r|Uncanny X-Men Vol 5 3}} Tongue of [[Chernobog (Earth-616)|Czernobog]]{{r|Age of X-Man: Apocalypse & the X-Tracts Vol 1 1}}
+
+| Affiliation             = Former ally of the [[Vampire Nation (Earth-616)|Vampire Nation]], formerly {{m|Weapon X-Force}}, {{m|Horsemen of Salvation}}, {{m|Black Widow Ops Program|The Red Room}}, {{m|Hand (Earth-616)|Hand}}, Kingpin of the {{m|Molina (Earth-616)|Red Mafia}}, former ally of the [[Acolytes (Earth-616)|Acolytes]],{{r|Quicksilver #6}} former employee of [[General (Russian Mafia) (Earth-616)|The General]],{{r|Wolverine Vol 2 170}} [[Natasha Romanoff (Earth-616)|Black Widow]],{{r|Daredevil #369}} [[Ivan Pushkin (Earth-616)|Ivan the Terrible]], and [[Matsu'o Tsurayaba (Earth-616)|Matsu'o Tsurayaba]], formerly {{m|Neo-Soviets (Earth-616)|Neo-Soviets}}, {{m|Komitet Gosudarstvennoy Bezopasnosti (Earth-616)|KGB}}, {{m|Special Forces of the Main Directorate of the General Staff of the Russian Armed Forces (Earth-616)|Spetsnaz GRU}}, {{m|Russian Armed Forces (Earth-616)|Russian Army}}
+| Relatives               = [[Vassily Rossovich (Earth-616)|Vassily Rossovich]] (brother, deceased);<br>
+[[Omega Clan (Earth-616)|Omega Clan]] (clones)
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 6'11"
+| Weight                  = 425 lbs
+| Eyes                    = Red
+| Hair                    = Blond
+| UnusualSkinColor        = White
+| UnusualFeatures         = Omega Red is albino-like, with <nowiki>glowing</nowiki> red eyes and chalk-pale skin. Cybernetics and tubing are visible on his cheeks and body. Implanted within his <nowiki>arms</nowiki> are long coils made of [[Carbonadium]], an unstable, artificial alloy that resembles <nowiki>adamantium</nowiki> but is more malleable and considerably less resistant to damage. The coils serve as a conduit for his lethal pheromones.
+
+| Origin                  = [[Homo superior|Mutant]] enhanced through the Soviet Super-Soldier Program; using [[Cyborgs|cybernetics]] and implanted [[Carbonadium]] coils that serve as a conduit to release death spores.
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Russia]]
+| KilledBy                = James Howlett (Earth-616)
+
+| Identity                = Known to Authorities
+| Citizenship             = Russian, Soviet, Krakoan
+| Occupation              = Adventurer; former prisoner, crimelord, KGB agent, Russian mobster, warrior serving Matsu'o Tsurayaba, special "super-soldier" operative of Soviet intelligence, mercenary
+| Education               = 
+| BaseOfOperations        = [[Krakoa (Earth-616)|Krakoa]], [[Pacific Ocean]]; formerly bases used by Matsu'o Tsurayaba; [[Red Room]], [[Moscow]], [[USSR]]; [[Berlin|East Berlin]]; [[East Germany]]; [[Semipalatinsk Test Site]] aka The Polygon, [[Kazakhstan]]
+
+| Creators                = John Byrne; Jim Lee
+| First                   = X-Men Vol 2 4
+
+| Quotation               = First we live. Then we die. In between is just '''blood''' and '''noise.'''
+| Speaker                 = [[Arkady Rossovich (Earth-616)|Omega Red]]
+| QuoteSource             = Weapon X Vol 3 20
+
+| History                 = 
+===Early Life===
+'''Arkady Grigorievich Rossovich''' (Russian: '''Аркадий Григорьевич Россович''') was a Russian [[Homo superior|mutant]]. His parents and his brother [[Vassily Rossovich (Earth-616)|Vassily]] were scared of him even before he had developed his mutation. Arkady's bloodthirst first manifested with the mutilation of animals and the disappearance of local beggars. Vassily ended up ratting on Arkady.{{r|Weapon X Vol 3 20}}
+
+He later joined the [[Russian Armed Forces (Earth-616)|Russian Army]] where he became part of the GRU Spetsnaz. Despite serving in the army, he also continued his crimes: he started to prey on young children, especially young girls, that he kidnapped and killed. His crimes were for a time left unnoticed until he was transferred to a Soviet Outpost near the Antarctic Circle where the disappearance and deaths of several children were finally noticed by the other Russian soldiers. After discovering the atrocious crimes he committed, he was executed by the Red Army but his latent mutant powers saved him from death which prompted his superiors to use him for their super soldier program.{{r|Maverick #1}}
+
+Before he could be used for the Russian super soldier program, he escaped to Europe where he committed several crimes with the help of his newfound powers, his "death factor". His crimes attracted the attention of [[Max Eisenhardt (Earth-616)|Erik Lensher]], who decided to help a young [[International Criminal Police Organization (Earth-616)|Interpol]] agent, [[Sean Cassidy (Earth-616)|Sean Cassidy]], who went rogue after the Soviet Union pressured Interpol to drop the case. Erik wanted Sean to find him and to deal with him permanently.{{r|Generation X #10}}
+
+Arkady's goal was also to have Sean Cassidy kill him before he could be retrieved by the Russian Army. Though the detective initially proved unwilling, Cassidy was goaded into action when Arkady turned his death factor on Cassidy's partner, Inspector [[Magrite Devereaux (Earth-616)|Magrite Devereaux]], killing her. Cassidy subsequently opened fire on the serial killer. Though Arkady survived the attack, he was still arrested by Cassidy and turned over to the authorities. Unbeknownst to the detective, who thought Arkady had been sent to prison, he'd instead fallen into the hands of a "Special Interest Group" ([[Komitet Gosudarstvennoy Bezopasnosti (Earth-616)|KGB]]). This marked the beginning of Arkady's active involvement in the Russian super soldier program.{{r|Generation X #11}}
+
+===Omega Red===
+The end result of the experiments was "Omega Red". The Soviet government implanted several cybernetic enhancements that made him much more powerful, as well as one retractable [[Carbonadium]] tentacle within each of his arms. Carbonadium was the Soviets' attempt to recreate the artificial alloy known as adamantium. It was a more malleable form of adamantium. He used the tentacles as weapons and as grappling appendages. He was able to a wrap a victim in his coils to literally drain them of their life energy. This vampiric tendency was once essential to Omega Red's survival; the carbonadium implants, while great offensive weapons, slowly poisoned him and he was required to regularly drain the life energy of a person, or perhaps take small amounts from larger numbers of individuals, in order to temporarily sustain his immune system.{{r|X-Men Vol 2 5|6}}
+
+In order to stabilize his condition, Omega Red required the "[[Carbonadium Synthesizer]]," a device that was stolen by [[James Howlett (Earth-616)|Wolverine]], [[Christoph Nord (Earth-616)|Maverick]], and [[Sabretooth (Victor Creed)|Sabretooth]] during their final mission together as [[Team X (Earth-616)|"Team X"]] when this trio was also trying to rescue a double agent named [[Janice Hollenbeck (Earth-616)|Janice Hollenbeck]]. Furious, Omega Red went after them, but another member of Team X, [[John Wraith (Earth-616)|Kestrel]], stalled him with his gun until the others got away. Unfazed, Omega Red wrapped Kestrel up in his coils and tried to tear him to pieces; however Kestrel managed to teleport away to safety.{{r|Wolverine Vol 2 61}} 
+
+It was because of his need for the carbonadium synthesizer that Omega Red continuously sought out Wolverine, Sabretooth and Maverick over the years, believing they may know of its whereabouts.{{r|X-Men Vol 2 5|6}}
+
+===Return from Hibernation===
+[[File: Arkady Rossovich (Earth-616) from X-Men Vol 2 4 001.jpg|thumb|right|Omega Red is reborn]]
+After they recovered Omega Red's container, [[Matsu'o Tsurayaba (Earth-616)|Matsu'o Tsurayaba]] and the [[Hand (Earth-616)|Hand]] revived him and showed him a picture of Wolverine, telling him to go after him. At the [[Xavier's School for Gifted Youngsters|X-Mansion]], Wolverine and the other [[X-Men (Earth-616)|X-Men]] were enjoying their afternoon by playing a game of basketball until several agents of the Hand and Omega Red attacked them. Before falling unconscious, Logan recognized his old nemesis and uttered his real name: Arkady.{{r|X-Men Vol 2 4}}
+
+Wolverine was then taken to a secret facility in [[Berlin]], where he fought against Omega Red for more than seventeen hours. Their fight was monitored by [[Abraham Cornelius (Earth-616)|Doctor Abraham Cornelius]], Matsu’o Tsurayaba, and the [[Fenris (Earth-616)|Fenris twins]] in order to test Omega Red’s stamina. Weakened by his fight with Omega Red and most notably by his death spores, Wolverine was rendered unconscious by the vicious attacks of his nemesis.
+
+Shortly after, the Fenris twins, Mastsu'o, Omega Red, and Doctor Cornelius examined Wolverine. Cornelius tried to perform several memory inversions in order to discover the location of the Carbonadium Synthesizer, the only thing that could stabilize Omega Red’s powers. Once Omega Red's condition stabilized, the goal was for the Fenris twins to use him in order to gain dominance in the [[Upstarts (Earth-616)|Upstarts]] and achieve immortality.
+
+Wolverine awoke from the drugs given to him by Cornelius, but was still restrained with Omega Red taunting him. Unknown to both men, Maverick was also present and he switched off the lights. When the lights came back on, Wolverine broke free and took out the guards. Knowing he couldn’t defeat Omega Red in his condition, Wolverine taunted him before escaping with the help of Maverick, who then brought him to the German embassy in order for him to heal safely.
+
+[[File:Arkady Rossovich (Earth-616) from X-Men Vol 2 5 001.jpg|thumb|left|Wolverine fighting Omega Red for more than seventeen hours]]
+At the same time, the X-Men Blue Team was also tracking Wolverine. When they arrived at the complex where Wolverine was held prisoner, [[Scott Summers (Earth-616)|Cyclops]], [[Jubilation Lee (Earth-616)|Jubilee]], and [[Henry McCoy (Earth-616)|Beast]] were captured by Omega Red.{{r|X-Men Vol 2 5}}
+
+In Berlin, the other half of the Blue Team (composed of Rogue, Gambit, and Psylocke) faced off against the Fenris twins. Matsu’o appeared suddenly and uttered the word “fine”, which prompted Psylocke to take down her teammates. Matsu'o was able to control [[Elizabeth Braddock (Earth-616)|Psylocke]]'s actions thanks to a post hypnotic suggestion he had implanted in her mind earlier.
+
+Thanks to the psy-link they shared, Wolverine awoke sharply due to Psylocke's actions and discovered a familiar face on one of Maverick's surveillance computers: Sabretooth. Matsu'o and the Fenris twins hired the vicious mutant to track down Logan and recover the C-Synthesizer by using the psy-link between Logan and Betsy. Both Psylocke and Sabretooth found the location of Maverick and Wolverine and captured them.{{r|X-Men Vol 2 6}}
+
+Still unable to replicate Wolverine’s healing factor, the only way to stabilize Omega Red's condition was to find the location of the C-Synthesizer. Since Wolverine was the only one who knew its location he was once again tortured by Matsu’o and Cornelius, who tried to force him to remember his last mission in Berlin.
+
+Despite Cornelius' reluctance to continue the memory extraction as it would kill Logan, Matsu'o forced him to speed up the process. As a result, Logan remembered more and more things from this last mission which helped Matsu'o discovered the location of the C-Synthesizer. Matsu'o then ordered Cornelius to kill Logan but Psylocke stopped him and revealed it was all a ruse. In reality, Wolverine’s near death experience freed her from Matsu'o control and that Sabretooth was under her control all along. She was just waiting to know the location of the C-Synthesizer.
+
+[[File: X-Men Vol 2 7.jpg|thumb|right|Wolverine/Omega Red]]
+At the same time Maverick broke free and teamed up with the mind controlled Sabretooth against the Hand and decided to save the X-Men. Psylocke defeated one of the Fenris twins and held her own against Omega Red until Matsu’o struck her from behind, which freed Sabretooth from her control and resulted in him attacking Maverick. Fortunately, Maverick had time to free Beast, who managed to knock down Sabretooth and free the other X-Men who easily defeated Creed. Wolverine, angry about everything that happened to him, finally broke free and attacked Omega Red. With the help of the X-Men the Fenris twins were stopped, but Omega Red, Sabretooth, and Matsu’o managed to escape.
+
+Elsewhere, the Hand and Matsu'o went to a cemetery in Berlin in order to recover the C-Synthesizer after Matsu'o learned that Logan hid it in Janice's coffin. When Matsu'o opened it, however, Wolverine was hidden inside of it and he cut Matsu’o left hand off. After defeating Matsu'o's army, Logan was confronted by Cornelius who was then shot in the head by Maverick while Matsu’o managed to escape. Logan then gave the C-Synthesizer to Maverick.{{r|X-Men Vol 2 7}}
+
+Later, Omega Red battled and fell under the mental control of the [[Soul Skinner (Earth-616)|Soul Skinner]] in [[Siberia]]. The Soul Skinner then used him to battle Wolverine and the X-Men. Omega Red captured Wolverine and [[Jubilation Lee (Earth-616)|Jubilee]], but escaped after the Soul Skinner's death.{{r|X-Men Vol 2 18|20}}
+
+===M.O.D.A.M.===
+Meanwhile in Siberia, Omega Red interrogates Arkady about Olinka Barankova; he says that she defected to [[Advanced Idea Mechanics (Earth-616)|A.I.M.]] Omega Red then killed him.{{r|Iron Man #295}} When [[Iron Man (Anthony "Tony" Stark)|Iron Man]] battled [[M.O.D.A.M.]], Omega Red appeared and claims that M.O.D.A.M. is [[Olinka Barankova (Earth-616)|Olinka Barankova]], an intelligence agent from his past. M.O.D.A.M. had no memory of this, but prepared to battle Omega Red.{{r|Iron Man #296}} While Omega Red and M.O.D.A.M. battled, Tony recovered and regained control of his armor. Brannex asked Iron Man to stop Omega Red, but he only agreed when Brannex promised to return all of the nuclear materials A.I.M. purchased from Stane International. M.O.D.A.M. denied being Olinka Barankova and observed that all A.I.M. records are falsified, but Omega Red refused to believe her. Iron Man arrived and saved M.O.D.A.M., but had to fight her off as well.{{r|Iron Man #297}}
+
+===Acolytes===
+[[File: Cable Vol 1 9.jpg|thumb|left|Omega Red vs Cable]]
+Omega Red attacked the [[Acolytes (Earth-616)|Acolytes]] in the London sewers. [[Katu Kath (Earth-616)|Katu]] despised Omega for killing his wife and child and destroying his arm. When [[Moira MacTaggert (Earth-TRN748)|Moira MacTaggert]] was testing [[Nathaniel Summers (Earth-616)|Cable]] and the [[Techno-organic virus]]. Suddenly, the alarms go off in the building. Moira grabbed Cable's gun and then fell to the floor unconscious. Omega Red appeared and says that she is not dead yet. Omega battled Cable and knocks him around while Cable is still under anaesthesia. He finds the compound that he originally came for. He then is told that the computer has turned off the dampening system since Cable's tests are done and he turns to see Cable is back on his feet. He fought with Omega Red. Then Arkady used his tentacle to turn the bionic dampener back on and Cable goes limp and goes unconscious. Cable teamed up with Colossus and the Acolytes to battle Omega Red.{{r|Cable #9}} Omega Red held the director of the Tyuratum Space Center in his clutches. He wanted to get more information about the [[Epsilon Red (Earth-616)|Epsilon Red]] project that he was a part of and what created Omega Red. The Director told him that Epsilon Red was just a cosmonaut and Omega was a soldier. Omega says that he wants to get rid of this blood lust that is taking over his body and thinks the key is with Epsilon Red. The Director gives him a disk with all the info about Epsilon Red on it.{{r|Cable #10}} They fought and Cable finally succumbs to Omega's death spores. Katu suddenly appeared and says he is going to exact revenge on Omega and is going to teleport him and Omega into the vacuum of space. Katu tries to use his powers and finds that Cable is inhibiting him from carrying this out. Cable says he won't let Katu sacrifice himself. Katu says there is no other way and he then redirects his energy inward and Katu and Omega disappear in a blinding light.{{r|Cable #11}}
+<!--
+===Chamber===
+He has also fought [[Jonothon Starsmore (Earth-616)|Chamber]] of [[Generation X (Earth-616)|Generation X]], but suffered a humiliating defeat. Ultimately, Omega Red failed to eliminate Wolverine and proved to be no more loyal to the Hand than he was to the Soviet government.{{r|Generation X #7}}{{r|Generation X #10|11}}
+
+===Ivan the Terrible===
+Omega Red was later employed by Russian gangster [[Ivan Pushkin (Earth-616)|Ivan the Terrible]] to incite a war between the subversive terrorist organization [[Hydra (Earth-616)|Hydra]] and the technology suppliers [[Advanced Idea Mechanics (Earth-616)|A.I.M.]].{{r|Maverick #1}}{{r|Maverick Vol 2 10|12}} Sabretooth goes toe-to-toe with Omega Red.{{r|X-Factor #138}}
+
+===Daredevil===   
+He was coerced by [[Natasha Romanoff (Earth-616)|Black Widow]] to help her infiltrate a burgeoning Russian crime syndicate headed by [[General Tskarov (Earth-616)|General Tskarov]] and tried to kidnap a member of the Americomp organization William Gatz, but was stopped by [[Matthew Murdock (Earth-616)|Daredevil]] and the Black Widow.{{r|Daredevil #368|369}}
+
+...{{r|Quicksilver #6}}{{r|Quicksilver #8|9}} -->
+
+===[[The Logan Files (Story Arc)|The Logan Files]]===
+[[File: Arkady Rossovich (Earth-616) from Wolverine Vol 2 170 0001.jpg|thumb|right|Omega Red working for the General]]
+While working for the drug lord known as the General,{{r|X-Men: Liberators #2|4}} Omega Red was recruited by Sabretooth to attack Wolverine's friends and family alongside [[Yuriko Oyama (Earth-616)|Lady Deathstrike]]. Sabretooth had promised both Omega Red and Deathstrike access to the [[Weapon X (Earth-616)|Weapon X program]] files which contained information on almost every mutant on earth but also a share of the Weapon X program's money, but Sabretooth betrayed his new henchmen by teleporting away with Wolverine, his daughter [[Amiko Kobayashi (Earth-616)|Amiko]], the money and the information.{{r|Wolverine Vol 2 173|175}}
+
+===The Hunt for Sabretooth===
+Shortly after, an agent of the Weapon X program, Agent Zero, was tasked into hunting down Sabretooth after he betrayed Weapon X and stole their files on every mutants on earth, to that end he decide to seek Omega Red's help. Omega Red who was now a Kingpin of the Russian mafia decided to help Agent Zero in order to get some payback after Sabretooth's recent betrayal, he gave him Sabretooth's whereabouts and told him that Sabretooth was now selling Weapon X secrets to several countries and was about to get rich. Despite his disguise, Omega Red was sure he knew Agent Zero's real identity who then left and apprehended Sabretooth. Unknown to Omega Red, Agent Zero was none other than his old foe Maverick.{{r|Weapon X Vol 2 3}}
+
+===The Search for the Carbonadium Synthesizer===
+[[File: Arkady Rossovich (Earth-616) from Wolverine Origins Vol 1 7 0001.jpg|thumb|left|Omega Red facing Wolverine after M-Day]]
+After the events of [[ House of M (Event)|House of M]], several mutants lost their powers and among them Maverick and Wolverine's protegee, [[Jubilation Lee (Earth-616)|Jubilee]] who were now located in a center for depowered mutants in [[New York City]]. Omega Red quickly found them and tortured Maverick in order to know the location of the Carbonadium Synthesizer, he discovered that Maverick already gave it to [[Natalia Romanova (Earth-616)|Black Widow]] and that it was now hidden in a safe deposit in [[Brussels]], he then took Jubilee as an hostage before escaping.{{r|Wolverine: Origins Vol 1 6|7}} 
+
+With the help of the [[Natalia Romanova (Earth-616)|Black Widow]], Wolverine managed to trick Omega Red by promising him the Carbonadium Synthesizer in exchange for Jubilee's life and as a result he was captured by [[Timothy Dugan (Earth-616)|Dum-Dum Dugan]] and a number of S.H.I.E.L.D agents.{{r|Wolverine: Origins #8|10}}
+<!--
+Karlson, leader of [[Chaeyi (Earth-616)|Chaeyi]] vowed to get revenge against the [[White Tiger]]. To bring such a plan to fruition, Karlson enlists the services of Omega Red.{{r|White Tiger #6}} -->
+===Facing Wolverine, Colossus, and Nightcrawler===
+Omega Red's freedom was then bought by [[Red Room Academy (Moscow)|The Red Room]] in the hopes of using him to their own ends. However after an undisclosed period of time, Omega Red broke free from his master and encountered [[Piotr Rasputin (Earth-616)|Colossus]], and [[Kurt Wagner (Earth-616)|Nightcrawler]] and engaged them in combat. Thanks to the Red Room's experimentations on his body, his healing factor was enhanced and his skin was largely impervious to Wolverine's claws. Although Omega Red was finally defeated after Nightcrawler teleported him hundreds of feet in the sky and let him fall to the ground which knocked him unconscious, he was then turned back over to S.H.I.E.L.D. custody.{{r|Uncanny X-Men #499}}
+
+===Death===
+[[File:Wolverine Origins Vol 1 38 Textless.jpg|thumb|right|Omega Red's final battle]]
+While on the trail of the mysterious [[Romulus (Earth-616)|Romulus]], Wolverine encountered Omega Red who had been relocated to a Russian prison by Romulus' organization. A fight between them soon then broke out, but Wolverine gained the advantage by impaling Omega Red with the bars of one of the prison cells.{{r|Wolverine: Origins #36|37}} Wolverine allowed him to live, however, knowing that otherwise Omega Red would use his powers to completely drain the life energies of all the prisoners, if necessary, to heal himself from the injuries he sustained.{{r|Wolverine: Origins #38}} Eventually, Omega Red caught up with Wolverine after he was captured by another agent of Romulus [[Kyle Gibney (Earth-616)|Wild Child]] resulting in a fight between Omega Red and Wild Child. Using the confusion, Wolverine escaped while Omega Red killed Wild Child before tracking his foe once again.{{r|Wolverine: Origins Vol 1 39}} 
+
+Omega Red finally caught up to Wolverine but Wolverine didn't want to fight him anymore after Wild Child revealed to him that it was all part of Romulus plan to have him fight against Sabretooth, Cyber, Omega Red, Wild Child, and Daken in order to see who would be the strongest and the fittest to replace Romulus as the head of his empire. But Omega Red threatened to go after Daken if Wolverine didn't fight him prompting Wolverine to face Omega Red one last time. Upon seeing the wounded Wolverine only armed with a broken sword, Omega Red laughed, let his guard down and told his foe he would give him one free shot. Unknown to Omega Red, Logan's broken sword was none other than the [[Muramasa Blade]], a mystic blade forged with a piece of Wolverine's soul and which could kill anything. 
+
+Wolverine then threw the broken Muramasa Blade directly at Omega Red's heart, Omega Red then started to feel weak because of the blade's powers and died shortly after.{{r|Wolverine: Origins Vol 1 39}}
+
+===Hell===
+Because of his past actions, Rossovich's soul was sent to [[Hell]], and after the criminal organization known as [[Red Right Hand (Earth-616)|The Red Right Hand]] sent Wolverine's soul to Hell, Omega Red was sent by [[Marduk Kurios (Earth-616)|Satan]] to fight against his old foe alongside several villains killed by Wolverine through the years. He managed to quickly get to Wolverine and told him he was going to make him suffer for eternity before being stabbed by his old foe.{{r|Wolverine Vol 4 2}}
+
+===Legacy===
+[[File: Uncanny X-Force Vol 1 26 Textless.jpg|thumb|left|The Omega Clan]]
+After Omega Red's death, a secret organization known as [[White Sky (Earth-616)|the White Sky]] were hired by [[Brotherhood of Evil Mutants (Earth-616)|Daken's Brotherhood of Evil Mutants]] to create clones from the remains of Omega Red.
+
+These clones were known as [[Omega Red (Omega Clan) (Earth-616)|Omega Red]], [[Omega Black (Earth-616)|Omega Black]], and [[Omega White (Earth-616)|Omega White]]. Each of these clones had different abilities from each other and they were programmed to hate [[X-Force (Strike Team) (Earth-616)|Wolverine's X-Force team]] and believed that they killed their parents.{{r|Uncanny X-Force #25}} But in the end they were defeated by X-Force. {{r|Uncanny X-Force Vol 1 34}}
+
+===Rebirth===
+[[File: Arkady Rossovich (Earth-616) from X-Men Gold Vol 2 9 001.jpg|thumb|right|Back from the dead]]
+Years following Red's death, a group of magically-empowered [[Solntsevskaya Bratva (Earth-616)|Solntsevskaya Bratva]] led by [[Viktor Komolov (Earth-616)|Viktor Komolov]] set out to bring Rossovich back from the grave.{{r|X-Men: Gold Vol 2 10}} After trading Omega's coffin from the [[Hand (Earth-616)|Hand]],{{r|X-Men: Gold Vol 2 8}} Komolov and his men put their mastery over mysticism to use in a ritual that resulted in the rebirth of Arkady.{{r|X-Men: Gold Vol 2 9}} This process was only temporary, which required Omega Red to regularly absorb life force from other people to stay alive. Even then, that would only delay the inevitable decay of his body. Because of this, Komolov and his men sought a way to make their soviet super soldier's return permanent.
+
+Komolov's right-hand [[Anatoly Rasputin (Earth-616)|Anatoly Rasputin]] took advantage of being the estranged uncle of powerful sorceress and X-Men member [[Illyana Rasputina (Earth-616)|Magik]], and lured the X-Men to Russia under the pretense of warning them of Omega Red's return. After ambushing Magik, the Solntsevskaya Bratva took her to Komolov,{{r|X-Men: Gold Vol 2 10}} who successfully forced her to strengthen Omega Red. When the X-Men came to Magik's aid, Omega Red attacked them. He was ultimately defeated by [[James Howlett (Earth-21923)|Logan]], and taken into custody by [[S.I.C.K.L.E. (Earth-616)|S.I.C.K.L.E.]].{{r|X-Men: Gold Vol 2 11}}
+
+===Weapon X===
+[[File: Weapon X Vol 3 18 Textless.jpg|thumb|left|Omega Red facing Weapon X]]
+Omega Red was imprisoned at the [[Stranniy Corrective Labor Camp]] and injected with nanobots controlled by S.I.C.K.L.E. that could be used to cause him severe pain.{{r|Weapon X Vol 3 18}} Omega Red's estranged brother Vassily, who had become the director of S.I.C.K.L.E., decided to use Arkady to stage the assassination of pro-mutant military general [[Toma Zaslon (Earth-616)|Toma Zaslon]].{{r|Weapon X Vol 3 19}} S.I.C.K.L.E. facilitated Omega Red's break-out from the labor camp so that he could kill General Zaslon, and Vassily communicated his brother through the nanites in his body. The mutant-rescue squad [[Weapon X-Force (Earth-616)|Weapon X]] intervened and prevented Zaslon's murder. [[Victor Creed (Earth-616)|Sabretooth]] convinced Omega Red to turn on S.I.C.K.L.E., and they used [[Yuriko Oyama (Earth-616)|Lady Deathstrike]] to neutralize the nanites in his bloodstream.{{r|Weapon X Vol 3 19}}
+
+[[File: Weapon X Vol 3 20 Textless.jpg|thumb|right|Joining Weapon X]]
+
+Omega Red approached the [[S.I.C.K.L.E. Mothercarrier]] under the pretense of having killed General Zaslon, and confronted his brother. Feeling uneasy by Omega Red's declarations, Director Rossovich tried to activate the nanochain inside his brother's blood to no avail. Omega Red constricted him with his tentacles, prompting the S.I.C.K.L.E. agents to take action, but they were taken down by Weapon X.{{r|Weapon X Vol 3 20}} Even though Vassily managed to escape from Omega Red, he was killed by General Zaslon. She appointed herself as S.I.C.K.L.E.'s new director and declared Weapon X friends of Russia. Omega Red remained with the team and they rebranded themselves into a mercenary group called Weapon X-Force.{{r|Weapon X Vol 3 21}} Sabretooth's concern for Omega Red caused him to respect Victor, even declaring that Victor was the first person that made him believe he could be more than a monster.{{r|Weapon X Vol 3 20}}
+
+===Weapon X-Force===
+[[File: Arkady Rossovich (Earth-616) from Weapon X Vol 3 27 001.jpg|thumb|left|Omega Red as a member of Weapon X-Force]]
+After several successful missions, the team decided to rescue [[Monet St. Croix (Earth-616)|Monet]], who had fallen under the influence of a cult secretly led by [[Marvin Flumm (Earth-616)|Mentallo]].{{r|Weapon X Vol 3 22}} After freeing Monet and being joined by [[Wade Wilson (Earth-616)|Deadpool]], the team decided to take down the cult and discovered that its real leader was [[William Stryker (Earth-616)|William Stryker]].{{r|Weapon X Vol 3 23}} Along the way the team was captured and forced to fight in an arena against several mutants put under the control of Mentallo but thanks to the [[Nuke Pills]] that Lady Deathstrike kept after a previous mission with Weapon X,{{r|Weapon X Vol 3 14}} they were able to free all the mutants from Mentallo's control and killed Stryker.{{r|Weapon X Vol 3 24}} 
+
+But after learning that Stryker went to Hell and planned to return, the team decided to go to Hell in order to deal with him once and for all, to that end they went to see [[Azazel (Earth-616)|Azazel]].{{r|Weapon X Vol 3 #24|25}} After a brief fight with him, he agreed to send them to Hell,{{r|Weapon X Vol 3 26}} the team was then able to stop Stryker but as the cost of Sabretooth sacrificing his life. Unknown to the team, a feral Sabretooth free of the inversion and back to his older self was later sent back to the land of the living by [[Marduk Kurios (Earth-616)|the Devil]].{{r|Weapon X Vol 3 27}}
+ 
+===[[Age of X-Man (Event)|Age of X-Man]]===
+[[File: Uncanny X-Men Vol 5 6 Textless.jpg|thumb|right|Omega Red as the Horseman of Wellness]]
+
+When [[Nathaniel Grey (Earth-295)|X-Man]] tried to convert the world into a utopia through force, he created the [[Horsemen of Salvation (Earth-616)|Horsemen of Salvation]] to help him. One of them was Arkady who was turned into X-Man's Horseman of Wellness. Arkady and the Horsemen battled the X-Men who tried to stop X-Man. When X-Man realized that he would never be able to carry out his vision with the X-Men around, he eliminated his enemies in an instant as well as Arkady and the other Horsemen on [[Quadra Island]].{{r|{{cl|Uncanny X-Men Vol 5 3}}-{{cl|Uncanny X-Men Vol 5 10|10}}}} He was sent by X-Man to a different reality created by X-Man to be a utopia for all mutants could live in peace.{{r|Age of X-Man Alpha Vol 1 1}}
+
+He memory was altered by X-Man and was made to think that the [[Union of Soviet Socialist Republics|Soviet Union]] experimented on to become one of their super-soldiers. After the fall of the Union, Omega Red was deemed too dangerous so he was locked him up in a secret bunker at the [[Semipalatinsk Test Site]] aka The Polygon, [[Kazakhstan]].<!-- {{r|Age of X-Man: Apocalypse & the X-Tracts Vol 1 1}} -->
+
+[[File: Arkady Rossovich (Earth-616) from Age of X-Man Apocalypse & the X-Tracts Vol 1 1 001.png|thumb|left|Omega Red in the Age of X-Man reality]]
+
+After years in captivity, a group of mutants traveled there to find out what was making the local residents sick. As they were taking readings they noticed that a pile of dead animals surrounded the bunker, but still went further in to check it out but both died due to the lethal poison even though one of them was immune to radiation.<!-- {{r|Age of X-Man: Apocalypse & the X-Tracts Vol 1 1}} -->
+
+Arkady's prison has decayed and crumbled which allowed his escape. He made it to a main city where he killed some of the inhabitants of a house after he saw how the world had become due to the [[X-Men (Age of X-Man) (Earth-616)|X-Men]].{{r|Age of X-Man: Apocalypse & the X-Tracts Vol 1 1}}
+
+He worked for the [[X-Tracts (Age of X-Man) (Earth-616)|X-Tracts]] for a little while, until they disagreed. He took out all of the members when they went after him, except [[Evan Sabahnur (Earth-616)|Genesis]]. Genesis began attacking him, soon he seemingly killed Genesis, but before he died, he created an explosion that apparently killed himself as well.{{r|Age of X-Man: Apocalypse & the X-Tracts Vol 1 4}}
+
+===Catacombs===
+Omega Red resurfaced in [[Paris (France)|Paris]] later on, and agreed to work with [[Vlad Dracula (Earth-616)|Dracula]] and the [[Vampire Nation (Earth-616)|Vampire Nation]] in exchange for the Carbonadium Synthesizer. Omega Red's first mission was to enter Krakoa and lure Wolverine to one of Dracula's hideouts in Paris in order to allow Dracula's soldiers to steal Logan's blood. Once done, Logan's blood was then transferred to Dracula, allowing him to now survive when exposed to daylight.
+[[File: Arkady Rossovich (Earth-616) Vlad Dracula (Earth-616) & Carbonadium Synthesizer from Wolverine Vol 7 1 001.jpg|thumb|right|Dracula gives the Carbonadium Synthesizer to Omega Red]]
+
+His mission completed, Omega Red returned to Paris and was given the Carbonadium Synthesizer by Dracula himself although Dracula warned him that there was a detonator hidden inside of it as he still had use of him. Dracula then ordered Omega Red to join Krakoa but to obey him.{{r|Wolverine Vol 7 1}}
+
+| Powers                  = Omega Red possesses various superhuman attributes as a result of being a [[mutant]] and after undergoing augmentation procedures at the hands of the Soviet government during the 1960s.{{r|Official Handbook of the Marvel Universe A-Z #8}}{{r|Official Handbook of the Marvel Universe: Wolverine 2004 Vol 1 1}}{{r|Marvel Encyclopedia #X-Men}}{{r|Dark Reign Files #1}} He was described by [[Alison Blaire (Earth-616)|Dazzler]] to be an [[Omega Level Mutants|Omega Level Mutant]].{{r|Age of X-Man: Apocalypse & the X-Tracts Vol 1 2}}
+* '''Death Factor:''' Omega Red can emit lethal pheromones (death spores) from his body. These spores result in the weakness or death of anybody in his vicinity. The severity of the effect is based on the endurance, health, and relative proximity of the victims. Normal humans can be killed or incapacitated after a matter of seconds of exposure, while a being with exceptionally accelerated healing powers and physical stamina can sustain exposure for minutes or hours. At the fullest extent, Arkady's spoores can easily blanket the world, assuming he can reach a high enough orbital altitude first.{{r|Cable Vol 1 10|11}} Omega Red must secrete his pheromones or they will begin to erode his own body. After his most recent resurrection, Arkady was revealed to have stronger and even more potent spores circulating constantly through his tentacles and has stopped emitting it as a pheromone. This generally served as a backup in case of his tentacles ever being cut, which quickly happened.{{r|Official Handbook of the Marvel Universe A-Z #8}}{{r|Official Handbook of the Marvel Universe: Wolverine 2004 Vol 1 1}}{{r|Marvel Encyclopedia #X-Men}}{{r|Dark Reign Files #1}} 
+* '''Life Force Absorption:''' Omega Red has the ability, and need, to drain the life force of other humans to sustain his own. He can do this by ensnaring his victims within his tentacles and using them as a conduit for his death factor. At one time the combination of his "death factor" and the presence [[Carbonadium]] in his body had the effect of slowly poisoning him which caused him to need to drain life forces frequently. The more life force he drains, the stronger he gets and the faster he heals.{{r|Official Handbook of the Marvel Universe A-Z #8}}{{r|Official Handbook of the Marvel Universe: Wolverine 2004 Vol 1 1}}{{r|Marvel Encyclopedia #X-Men}}{{r|Dark Reign Files #1}}
+* '''Superhuman Strength:''' Omega Red is superhumanly strong and is capable of lifting about 10 tons normally. After his resurrection, Arkady was revealed to have gained some new abilities; namely, the ability to increase his body mass as he absorbed energy. After absorbing the life energy of a powerful unnamed mutant, Arkady was shown to be capable of lifting roughly fifty tons. Theoretically, his full strength is limitless.{{r|Official Handbook of the Marvel Universe A-Z #8}}{{r|Official Handbook of the Marvel Universe: Wolverine 2004 Vol 1 1}}{{r|Marvel Encyclopedia #X-Men}}{{r|Dark Reign Files #1}}
+* '''Superhuman Stamina:''' Omega Red's muscles generate considerably less fatigue toxins than the muscles of an ordinary human. He is capable of exerting himself at peak capacity for about a day before fatigue begins to affect him. However, he can use the energy he drains from others to enhanced his stamina even further. {{r|Official Handbook of the Marvel Universe A-Z #8}}{{r|Official Handbook of the Marvel Universe: Wolverine 2004 Vol 1 1}}{{r|Marvel Encyclopedia #X-Men}}{{r|Dark Reign Files #1}}
+* '''Superhuman Durability:''' Omega Red wears a suit of bright red armor, composed of a material believed to be secondary adamantium. This armor, which covers most of Omega Red's body, renders him highly resistant to injury. He once withstood an energy blast from the mutant [[Chamber]], that propelled him a distance of several miles without sustaining injury. Even without the armor, Omega Red's body is capable of withstanding powerful impact forces and blunt trauma, such as falling from several stories or being repeatedly struck by superhumanly strong opponents, that would severely injure or kill a normal human with little to no discomfort.{{r|Official Handbook of the Marvel Universe A-Z #8}}{{r|Official Handbook of the Marvel Universe: Wolverine 2004 Vol 1 1}}{{r|Marvel Encyclopedia #X-Men}}{{r|Dark Reign Files #1}}
+* '''Superhuman Agility:''' Omega Red's natural agility, body coordination, and balance are enhanced to levels that are beyond the natural physical limits of the finest human athlete. Absorbing the life force of enemies increases his agility exponentially.{{r|Official Handbook of the Marvel Universe A-Z #8}}{{r|Official Handbook of the Marvel Universe: Wolverine 2004 Vol 1 1}}{{r|Marvel Encyclopedia #X-Men}}{{r|Dark Reign Files #1}}
+* '''Superhuman Reflexes:''' Omega Red's reflexes are similarly enhanced and are superior to those of the finest human athlete. Absorbing the life force of enemies increases his reflexes exponentially.{{r|Official Handbook of the Marvel Universe A-Z #8}}{{r|Official Handbook of the Marvel Universe: Wolverine 2004 Vol 1 1}}{{r|Marvel Encyclopedia #X-Men}}{{r|Dark Reign Files #1}} 
+* '''Regenerative Healing Factor:''' Omega Red is capable of healing at much greater speeds than that of an ordinary humans. He has proven capable of healing from deep slashes and puncture wounds within a matter of minutes. However, he is able to use the energy he drains from others to enhances his healing powers to higher levels. After his resurrection, Arkady was shown to be capable of healing from even fatal injuries almost instantly when sufficiently charged. His healing factor appears to focus on his tentacles and armor as well, implying that they have become a part of his body.{{r|Official Handbook of the Marvel Universe A-Z #8}}{{r|Official Handbook of the Marvel Universe: Wolverine 2004 Vol 1 1}}{{r|Marvel Encyclopedia #X-Men}}{{r|Dark Reign Files #1}} 
+| Abilities               = Omega Red is also an excellent hand-to-hand combatant and military tactician, having defeated foes such as [[Anthony Stark (Earth-616)|Iron Man]], [[Nathaniel Summers (Earth-616)|Cable]], and [[James Howlett (Earth-616)|Wolverine]]. He was trained in various forms of armed and unarmed combat by both the Soviet government and various organizations throughout the Japanese underworld. Highly intelligent, he has quickly become highly skilled in the management of criminal organizations.{{r|Official Handbook of the Marvel Universe A-Z #8}}{{r|Official Handbook of the Marvel Universe: Wolverine 2004 Vol 1 1}}{{r|Marvel Encyclopedia #X-Men}}{{r|Dark Reign Files #1}} 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = He also wears a suit of red retro-Russian armor. This armor has withstood assaults from Wolverine's Adamantium claws, though his claws can penetrate the material after repeatedly, powerful strikes.{{r|Official Handbook of the Marvel Universe A-Z #8}}{{r|Official Handbook of the Marvel Universe: Wolverine 2004 Vol 1 1}}{{r|Marvel Encyclopedia #X-Men}}{{r|Dark Reign Files #1}}
+
+'''[[Carbonadium Synthesizer]]''': Red had finally obtained that which had eluded him for many decades when he made a deal with the Vampire King; Dracula.{{r|Wolverine Vol 7 1}} But to ensure Mr. Rossovich's compliance in subduing Krakoa, the dark lord tagged the synthesizer with a minibomb to keep him under Vlad's thumb.
+| Transportation          = 
+| Weapons                 = '''Carbonadium Tentacles:''' Omega Red possesses [[Carbonadium]] tentacles housed within his arms. Carbonadium is an unstable, artificial alloy that is the former Soviet Union's attempt at recreating true adamantium. While the alloy is only slightly less durable and more malleable than adamantium, it is also radioactive. The radioactivity of the metal, when combined with Omega Red's death factor, allows him to literally drain the life force of his victims. Omega Red can also use the tentacles as whips or restraining bonds, restraining most individuals easily due to the durability of the tentacles.{{r|Official Handbook of the Marvel Universe A-Z #8}}{{r|Official Handbook of the Marvel Universe: Wolverine 2004 Vol 1 1}}{{r|Marvel Encyclopedia #X-Men}}{{r|Dark Reign Files #1}} 
+
+| Notes                   = * Due to his mutant "death factor" and the presence of carbonadium within his body, Omega Red must frequently drain the life forces of others in order to survive. However, if he found the carbonadium synthesizer, he could use it to synthesize and "clean" carbonadium (allowing him to have the benefits of carbonadium without having to combat radiation poisoning), the only metal that can neutralize the "death factor," thereby stabilizing it within his body.{{r|Official Handbook of the Marvel Universe A-Z #8}}{{r|Official Handbook of the Marvel Universe: Wolverine 2004 Vol 1 1}}{{r|Marvel Encyclopedia #X-Men}}{{r|Dark Reign Files #1}}
+* Omega Red was one of the few mutants to retain his powers after [[M-Day]].{{r|X-Men: The 198 Files #1}}
+| Trivia                  = 
+| Marvel                  = Omega_Red
+| Wikipedia               = Omega_Red
+| Links                   = 
+* https://uncannyxmen.net/characters/omega-red
+* [[Carbonadium]]
+* [[Carbonadium Synthesizer]]
+
+==Recommended Readings==
+* {{cl|X-Men Vol 2 4}} – "The Resurrection and the Flesh"
+* {{cl|X-Men Vol 2 5}} – "Blowback"
+* {{cl|X-Men Vol 2 6}} – "Farther Still"
+* {{cl|X-Men Vol 2 7}} – "Inside...Out!"
+* {{cl|Generation X Vol 1 10}} – "Death Wail (Part 1)"
+* {{cl|Generation X Vol 1 11}} – "Death Wail (Part 2)"
+* {{cl|Maverick #1}} – "The Sword Song on a Barren Heath"
+* [[The Logan Files (Story Arc)|The Logan Files]]
+* [[Hunt for Sabretooth|The Hunt for Sabretooth]]
+* {{cl|Uncanny X-Men Vol 1 498}} – "X-Men: Divided (Part 4)"
+* {{cl|Uncanny X-Men Vol 1 499}} – "X-Men: Divided (Part 5)"
+* [[Romulus (Story Arc)|Romulus]]
+* {{cl|X-Men: Gold Vol 2 9}} – "Kitty Goes To Washington"
+* {{cl|X-Men: Gold Vol 2 10}} – "En'Kane (Part 1)"
+* {{cl|X-Men: Gold Vol 2 11}} – "En'Kane (Part 2)"
+* {{cl|Wolverine Vol 7 1}} – "Catacombs"
+}}
+[[Category:Superhuman Strength]]
+[[Category:Superhuman Durability]]
+[[Category:Superhuman Stamina]]
+[[Category:Superhuman Reflexes]]
+[[Category:Superhuman Agility]]
+[[Category:Strength Class 10]]
+[[Category:Pheromones]]
+[[Category:Tentacles]]
+[[Category:Energy Absorption]]
+[[Category:Post-M-Day Mutants (The 198)]]
+[[Category:Poisonous]]
+[[Category:High Threats]]
+[[Category:Psychic Vampires]]
+[[Category:Mobsters]]
+[[Category:Advanced Longevity]]
+[[Category:Super-Soldiers]]
+[[Category:Carbonadium]]
+[[Category:Regeneration]]
+[[Category:Omega Level Mutants]]
+[[Category:Age of X-Man participants]]
+[[Category:Mutant Albinos]]

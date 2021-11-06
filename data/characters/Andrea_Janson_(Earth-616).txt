@@ -1,0 +1,57 @@
+{{Marvel Database:Character Template
+| Image                   = Andrea Janson (Earth-616) from Spider-Man Vol 1 78 0001.jpg
+| Name                    = Andrea Janson
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Light Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = 
+| Citizenship             = USA
+| Occupation              = Biology professor
+| Education               = 
+| BaseOfOperations        = [[Empire State University]]; [[Staten Island]]; private island in the [[Caribbean Sea]]
+
+| Creators                = Howard Mackie; Claudio Castellini
+| First                   = Spider-Man #77
+| Death                   = Spider-Man #80
+
+| History                 = Hematologist and molecular biologist Dr. Andrea Janson was rescued by [[Spider-Man (Peter Parker)|Spider-Man]] from [[Michael Morbius (Earth-616)|Morbius]] at the [[Empire State University]].{{r|Spider-Man Vol 1 #77}}<br/>
+She later eventually agreed to help Morbius cure his vampiric illness.{{r|Spider-Man Vol 1 #78}}<br/>
+She then took him to her private island in the [[Caribbean Sea]], where her lover [[Loxias Crown (Earth-616)|Crown]] captured him and delivered him to [[Vincente Fortunato (Earth-616)|Don Fortunato]] in [[Staten Island]].{{r|Spider-Man Vol 1 #79}}<br/>
+Dr. Janson then invaded and vivisected [[Todd Fields (Earth-616)|SHOC's]] nervous system to find a cure of Crown, until she was knocked down by [[Hammerhead (Joseph) (Earth-616)|Hammerhead's]] men.{{r|Spider-Man Vol 1 #80}}
+
+| Powers                  = None, human.
+| Abilities               = 
+| Strength                = Normal human
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+*http://www.marvunapp.com/Appendix4/andjansonhydra.htm
+}}
+[[Category:Scientists]]
+[[Category:Normal Strength]]
+[[Category:Empire State University Faculty]]

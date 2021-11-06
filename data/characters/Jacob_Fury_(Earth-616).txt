@@ -1,0 +1,88 @@
+{{Marvel Database:Character Template
+| Title                   = [[Jake Fury]]
+| Image                   = Jacob Fury (Earth-616) from Secret Warriors Vol 1 26.png
+| Name                    = [[Jake Fury|Jacob "Jake" Fury]]
+| CurrentAlias            = 
+| Aliases                 = [[Scorpio]], [[Kraken]]
+
+| Affiliation             = Ally of [[Nick Fury (Earth 616)|Nick Fury]]; formerly {{m|Zodiac (Great Wheel)|Great Wheel of the Zodiac}} (as Scorpio), {{m|High Council of Hydra|High Council}} of {{m|Hydra}} (as Kraken)
+| Relatives               = [[Rex Fury (Earth-616)|Rex Fury]] (alleged ancestor, deceased);<br>
+[[Jack Fury (Earth-616)|Jack Fury]] (father, deceased);<br>
+[[Katherine Fury (Earth-616)|Katherine Fury]] (mother, deceased);<br>
+[[Mama Fury (Earth-616)|Unnamed stepmother]] (deceased);<br>
+[[Dawn Fury (Earth-616)|Dawn Fury]] (sister);<br>
+[[Nicholas Fury (Earth-616)|Nick Fury]] (brother);<br>
+[[Guido Sapristi (Earth-616)|Jerry Sapristi]] (cousin);<br>
+[[Tina Sapristi (Earth-616)|Tina Sapristi]] (cousin by marriage);<br>
+[[Ernesto Sapristi (Earth-616)|Ernesto]], [[Pietro Sapristi (Earth-616)|Pietro]], [[Giovanni Sapristi (Earth-616)|Giovanni]], [[Maria Sapristi (Earth-616)|Maria]], [[Rosa Sapristi (Earth-616)|Rosa]] and [[Gabriella Sapristi (Earth-616)|Gabriella]] (1st cousins once removed);<br>
+Unnamed son;<br>
+[[Mikel Fury (Earth-616)|Mikel Fury]] (nephew, deceased);<br>
+[[Nicholas Fury, Jr. (Earth-616)|Nick Fury, Jr.]] (nephew);<br>
+[[Vernon Fury (Earth-616)|Vernon Fury]] (grandson);<br>
+[[Jacob Fury (LMD) (Earth-616)|Jake Fury (LMD)]] (duplicate)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Defenders: Strange Heroes Vol 1 1}}
+| Gender                  = Male
+| Height                  = 5'10" 
+| Weight                  = 185 lbs (84 kg) 
+| Eyes                    = Blue
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Hells Kitchen]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Spy; former soldier, research scientist.
+| Education               = Unspecified undergraduate degree, presumptive MS and PHD in biophysics or a similar field, army training.
+| BaseOfOperations        = Mobile; formerly [[Belleville (New Jersey)|Belleville]], [[New Jersey (State)|New Jersey]], [[United States of America]]; [[Gehenna (Hydra Base)|Gehenna]], [[New Zealand]].
+
+| Creators                = Jim Steranko;
+| First                   = Strange Tales Vol 1 159
+
+| History                 =
+===Early Life===
+'''Jacob "Jake" Fury''', younger brother of [[Nicholas Fury (Earth-616)|Nick Fury]], has been known both as the criminal Scorpio and undercover as the terrorist leader Kraken. He grew up in Depression-era [[New York City]] with his brother and younger sister [[Dawn Fury (Earth-616)|Dawn]]. Fury's mother died while he was very young and his father [[Jack Fury (Earth-616)|Jack Fury]], an American pilot who joined the British war effort during [[World War I]], remarried. The children were raised by their stepmother after Jack Fury's own early death. Living in the tough streets of [[Hell's Kitchen]], Fury and his brother were no strangers to trouble.{{r|Strange Tales Vol 1 159}}
+
+Jake was 17 during the attack on [[Pearl Harbor]], the year his brother officially enlisted. Jake was opposed to the war until three years later when his family got caught up in the revenge plot of the [[National Socialist German Workers Party (Earth-616)|Nazi]] spy, [[Fritz Klaw (Earth-616)|Colonel Klaue]], who was targeting Nick while he was visiting home on a week pass. After seeing the Nazi threat firsthand, Jake decided to enlist the next day.{{r|Sgt. Fury Vol 1 68|69}} He would later regret the decision following unpleasant experiences in the Army.{{r|Defenders Vol 1 49}}
+
+[[File:Zodiac (Great Wheel) (Earth-616) Secret Warriors Vol 1 25 001.jpg|thumb|left|250px|Great Wheel of Zodiac]]
+===Wheels Within Wheels===
+Jake, Nick, and other agents [[Vasili Dassaiev (Earth-616)|Vasili Dassaiev]], [[Jonathan Garrett (Earth-616)|John Garrett]], [[Shoji Soma (Earth-616)|Shoji Soma]], [[Cornelius van Lunt (Earth-616)|Cornelius van Lunt]], [[Wolfgang von Strucker (Earth-616)|Baron Strucker]], [[Timothy Dugan (Earth-616)|Dum Dum Dugan]], [[Thomas Davidson (Earth-616)|Thomas Davidson]], [[Daniel Whitehall (Earth-616)|Daniel Whitehall]] and [[Viktor Uvarov (Earth-616)|Viktor Uvarov]], were called upon by [[Leonardo da Vinci (Earth-616)|Leonardo Da Vinci]] alias [[Aries]] to form the [[Zodiac (Great Wheel) (Earth-616)|Great Wheel of Zodiac]]. The group consisted of the best covert intelligence agents from around the globe. After only a few key missions for da Vinci, he had provided them with resources that were of great value to their own separate agendas. It was as part of this group that Jake was first given the codename of [[Scorpio]].{{r|Secret Warriors Vol 1 25}}
+
+Each mission involved acquiring advanced technology from around the world. Jake executed a mission with his brother and [[Thomas Davidson (Earth-616)|Thomas Davidson]] to Chapel at Chateau D'Amboise in [[France]], where they found the technology that would later be reverse-engineered into [[Life-Model Decoy]]s. Jake unwisely got too close and activated it. The technology latched onto him and Davidson, creating Life-Model Decoys of them both. Nick decided to keep this a secret.{{r|Secret Warriors Vol 1 26}}
+
+The Great Wheel later fell apart due to the betrayal of [[Vasili Dassaiev (Earth-616)|Vasili Dassaiev]] and [[Viktor Uvarov (Earth-616)|Viktor Uvarov]].{{r|Secret Warriors Vol 1 25}}
+
+===Secret Warriors===
+Now believed dead, Jake helped his brother in the secret war against [[Hydra (Earth-616)|Hydra]] and [[Leviathan (Earth-616)|Leviathan]].{{r|Secret Warriors Vol 1 25}} He remained underground for years despite his LMD committing acts of terrorism as [[Jacob Fury (LMD) (Earth-616)|Scorpio]].
+
+[[File:Jacob Fury (Earth-616) from Secret Warriors Vol 1 2 001.jpg|thumb|left|Jake Fury as the Kraken]]
+At one point, Jacob Fury went to the Kraken's home in [[London (England)|London]]. Jacob knew Daniel Whitehall, but did not know him as the Kraken. In the London house, Jacob found the his journals and learned his entire evil history.{{r|Secret Warriors Vol 1 26}}
+
+Jacob tracked down the Whitehall, who lay dying in a hospital. There he took the Kraken's helmet, over Whitehall's objections, and wore it himself. The helmet grew down Jacob's body, covering him in the Kraken's green armor. The new Kraken killed Daniel Whitehall by shutting off the machines keeping him alive. Jacob then infiltrated Hydra's leadership.{{r|Secret Warriors Vol 1 26}}
+
+Due to the old Krakens's secretive past he was able to convince [[Wolfgang von Strucker (Earth-616)|Baron Strucker]] that he was the original. He provoked an all out war between Hydra and Leviathan and a civil war within Hydra. After arranging Baron Strucker's death, his role in his brother's plans was almost complete. He completed his final task, delivering a letter to [[Daisy Johnson (Earth-616)|Daisy Johnson (Quake)]], and then disappeared.{{r|Secret Warriors Vol 1 27}}
+
+| Powers                  = '''[[Infinity Formula]]:''' Jake Fury's aging has been slowed greatly by the Infinity Formula, a serum created by Dr. Berthold Sternberg. Close to 90 years old, Jake maintains a middle aged athletic physique, perhaps due to a chronic low-level exposure to the Infinity Formula in Nick Fury's bloodstream.{{r|Official Handbook of the Marvel Universe Master Edition Vol 1 2}}{{r|Official Handbook of the Marvel Universe Vol 2 17}}{{r|Official Handbook of the Marvel Universe Vol 1 10}}
+| Abilities               = '''[[Genius Intelligence]]:''' Jake is a brilliant scientist with advanced knowledge in biophysics.{{r|Defenders: Strange Heroes Vol 1 1}}
+
+Jake Fury is an experienced warrior, highly skilled in espionage (especially in disguise) and hand-to-hand combat.{{r|Official Handbook of the Marvel Universe Master Edition Vol 1 2}}
+| Strength                = Jake Fury possesses the normal human strength of a man of in his middle-age years, and with his own height and build who engages in extensive regular exercise.{{r|Official Handbook of the Marvel Universe Master Edition Vol 1 2}}{{r|Official Handbook of the Marvel Universe Vol 2 17}}{{r|Official Handbook of the Marvel Universe Vol 1 10}}
+| Weaknesses              = 
+
+| Equipment               = '''[[Kraken Armor]]:''' Upon donning the Kraken's helmet, The helmet altered his appearance and voice, as well as covering him in the Kraken Armor, which apparently enhanced his strength and durability,{{r|Defenders: Strange Heroes Vol 1 1}} enabled him to transport himself and several across inter-continental distances (perhaps via accessing other technology),{{r|Secret Warriors Vol 1 3}} presumably granted him energy projection and other abilities as well.{{r|Defenders: Strange Heroes Vol 1 1}} The helmet may also affect the mind of the wearer, as the Kraken described feeling like he was "slipping into a new persona - a new face, a new voice... and the vision to see the world in a new light."{{r|Secret Warriors Vol 1 16}} The helmet also protected the Kraken from Gorgon's stone gaze, though that may have just been by dint of preventing eye contact.{{r|Secret Warriors Vol 1 11}}
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * Jacob Fury's early appearances are reprinted in various comics.{{r|Sgt. Fury Vol 1 163}}{{r|Marvel Super Action Vol 2 33}}{{r|Captain America Special Edition Vol 1 2}}{{r|Nick Fury, Agent of S.H.I.E.L.D. Vol 2 2}}
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Fury Family]]
+[[Category:Infinity Formula]]
+[[Category:Advanced Longevity]]
+[[Category:Armor Users]]

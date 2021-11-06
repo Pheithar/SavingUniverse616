@@ -1,0 +1,54 @@
+{{Marvel Database:Race Template
+| Image                   = Tribunals from Official Handbook of the Marvel Universe Vol 2 15 001.jpg.jpg
+| Name                    = Tribunals
+| Aliases                 = 
+| Identity                = 
+| Affiliation             = Employers of the [[Elves with Guns (Earth-616)|Elves with Guns]]
+| Universe                = Earth-616
+| BaseOfOperations        = 
+
+| BodyType                = Sentient energy
+| AvgHeight               = 
+| AvgWeight               = 
+| Eyes                    = Unknown
+| Hair                    = 
+| Skin                    = White
+| NumberOfLimbs           = Unknown
+| NumberOfFingers         = Unknown
+| NumberOfToes            = Unknown
+| SpecialAdaptations      = 
+| UnusualFeatures         = 
+
+| Origin                  = Alien
+| GalaxyOfOrigin          = Unknown
+| StarSystemOfOrigin      = Unknown
+| HomePlanet              = 
+| PlaceOfBirth            = 
+| Creators                = Ed Hannigan
+| First                   = Defenders #87
+
+| HistoryText             = The Tribunals claimed to be a force dedicated to maintaining universal order. They monitored the activities of the [[Defenders (Earth-616)|Defenders]] for some months and, while pretending to be a secret government commission, conducted an enquiry into their activities, calling the Defenders' former foes the [[Mutant Force (Earth-616)|Mutant Force]], former Defenders associate [[Jack Norriss (Earth-616)|Jack Norriss]], and [[Patricia Walker (Earth-616)|Hellcat's]] ex-husband [[Robert Baxter (Earth-616)|Buzz Baxter]] as witnesses.{{r|Defenders #87}}
+
+Later, they used their agents the android [[Luann Bloom (Earth-616)|Luann Bloom]] and a mysterious [[Elf with a Gun]] to lure the four founding Defenders ([[Stephen Strange (Earth-616)|Dr Strange]], [[Namor McKenzie (Earth-616)|Prince Namor]], [[Bruce Banner (Earth-616)|The Hulk]], and [[Norrin Radd (Earth-616)|The Silver Surfer]]) to an extradimensional location where they convinced them that if they continued to band together as Defenders, a great catastrophe would occur.{{r|Defenders #122|125}}
+
+The original Defenders duly disbanded, but Dr Strange later claimed that he had discovered the Tribunals was a "cosmic hoax". Their true nature and motives remain unclear.{{r|Incredible Hulk #370|371}}
+
+| Habitat                 = 
+| Gravity                 = 
+| Atmosphere              = 
+| Population              = Unknown
+
+| Powers                  = 
+| Abilities               = 
+| AvgStrength             = 
+| Weaknesses              = 
+
+| GovernmentType          = Inapplicable
+| TechnologyLevel         = None
+| CulturalTraits          = 
+| Representatives         = None
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

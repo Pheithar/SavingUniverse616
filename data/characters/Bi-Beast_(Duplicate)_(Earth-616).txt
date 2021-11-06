@@ -1,0 +1,65 @@
+{{Marvel Database:Character Template
+| Image                   = Bi-Beast (Duplicate) (Earth-616) from Thor vol 1 315.png
+| Name                    = Bi-Beast
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = Formerly {{m|Masters of Evil (Earth-616)|Masters of Evil}}; {{m|Sinister Six (Earth-616)|Sinister Sixteen}}
+| Relatives               = The [[Bird People]] (creators),<br>
+[[Bi-Beast (Earth-616)|Bi-Beast]] (fellow creation, deceased)
+| MaritalStatus           = 
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe: Hulk 2004 Vol 1 1}}
+| Gender                  = Male
+| Height                  = 7'6"
+| Weight                  = 360 lbs
+| Eyes                    = Black
+| Hair                    = No Hair
+| UnusualSkinColor        = Orange
+| UnusualFeatures         = Two Heads
+
+| Origin                  = [[Robots|Robot]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Aerie (Sky-Island)|Sky-Island]]
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = Formerly [[Stranger's World]]
+
+| Creators                = Len Wein; Sal Buscema
+| First                   = Incredible Hulk #214
+
+| History                 = 
+This Bi-Beast is an exact copy of [[Bi-Beast (Earth-616)|the original Bi-Beast]]. Like the original, he is an android constructed by the [[Bird People]] on [[Aerie (Sky-Island)|Sky-Island]], and then put to sleep in order to serve as a back-up for the original Bi-Beast.{{r|Incredible Hulk Vol 1 215}} 
+
+When the original Bi-Beast destroyed Sky-Island, a cylinder containing the second Bi-Beast was ejected from the city at the moment of the explosion. It landed in the ocean and was retrieved by the [[S.H.I.E.L.D. Helicarrier]].{{r|Incredible Hulk Vol 1 215}} Once on board the Helicarrier, Bi-Beast awoke, and imbued with the memories of the first took control of the Helicarrier in hopes of using it to destroy several major cities worldwide.{{r|Incredible Hulk Vol 1 215}} General [[Thaddeus Ross (Earth-616)|Thunderbolt Ross]] realized the danger and forcibly inserted Bruce Banner into the Helicarrier to fight the Bi-Beast as Hulk. The fight ended with both creatures falling through an opening activated by S.H.I.E.L.D., and plunging into the ocean. The Bi-Beast disappeared after this fight and was assumed to have drowned.{{r|Incredible Hulk Vol 1 216}}
+
+Several years after this fight, the Bi-Beast emerged again and began to capture naval ships to recreate Sky-Island. He turned the crews of these ships into his loyal servants to create himself an army.{{r|Thor Vol 1 315}}. His plans were foiled when the latest vessel he attacked turned out to have [[Thor Odinson (Earth-616)|Thor]] on board, in his human guise of Dr. Donald Blake. Thor was able to defeat Bi-Beast and free the enslaved crewmembers.{{r|Thor Vol 1 315}}. Bi-Beast was freed by his secret ally, the [[Man-Beast (Earth-616)|Man-Beast]], but both villains where defeated by the combined efforts of Thor and [[Anthony Stark (Earth-616)|Iron Man]].{{r|Thor Vol 1 316}}
+
+For a time, the Bi-Beast was a prisoner of the [[Stranger (Cosmic Being) (Earth-616)|Stranger]] on his Laboratory World.{{r|Quasar #14|16}} The creature also battled [[Benjamin Grimm (Earth-616)|the Thing]] and [[Doreen Green (Earth-616)|Squirrel Girl]].{{r|Thing Vol 2 8}}. At least one incarnation of the Bi-Beast died on Battleworld, when the Stranger was posing as the Beyonder.{{r|Beyond! #1}}
+
+Bi-Beast spent some time in [[Bagalia]] as part of the nation of super-villains dubbed the new [[Masters of Evil]].{{r|Secret Avengers #29}} Some time after this, the Bi-Beast was summoned to Las Vegas through the wishing well of [[Romulus Augustulus (Earth-616)|Tyrannus]], along with a Wendigo, [[Fin Fang Foom (Earth-616)|Fin Fang Foom]], [[Umar (Earth-616)|Umar]], and Arm'Cheddon to fight the Hulk. In this battle, the creature teamed up with the Wendigo to use the well's powers to allow them to grow to about thirty feet tall.{{r|Incredible Hulks Vol 1 631}} Despite their new size, Hulk still defeated them both. Bi-Beast was then imprisoned along with Arm'Cheddon in the Dark Dimension by Umar until Tyrannus and Fin Fang Foom raided the dimension, allowing them to escape in the chaos.{{r|Incredible Hulks Vol 1 633}}
+
+For some reason, he also joined the Sinister Sixteen as a flunkie of the [[Leland Owlsley (Earth-616)|Owl]].{{r|Superior Foes of Spider-Man #12|13}}
+
+Bi-Beast later turned up as a prisoner in the secret super-villain prison [[Pleasant Hill]].{{r|Captain America: Sam Wilson Vol 1 7}}{{r|Avengers Standoff: Assault On Pleasant Hill Omega Vol 1 1}}
+
+| Powers                  = The Bi-Beast is a highly advanced android that rivals the Hulk in terms of strength, is tireless and feels no pain. The Bi-Beast also possesses an extensive knowledge of Avian warfare and culture, but no knowledge of science. The dissemination of this information to two minds, however, proves to be a handicaps as the heads often argue with one another.{{r|Official Handbook of the Marvel Universe #2}}
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = The Bi- Beast's two personalities each habitually refer to the other as "skull brother". 
+| Links                   = 
+}}
+[[Category:Artificial Intelligences]]
+[[Category:Inhuman Technology]]
+[[Category:Stranger Experiment]]

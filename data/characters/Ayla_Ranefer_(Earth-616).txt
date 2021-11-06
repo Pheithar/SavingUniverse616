@@ -1,0 +1,51 @@
+{{Marvel Database:Character Template
+| Image                   = Ayla Ranefer (Earth-616) from Nightstalkers Vol 1 2 001.jpg
+| Name                    = Ayla Ranefer
+| CurrentAlias            = Rotwrap
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra}}'s {{m|Department of Occult Armaments (Earth-616)|Department of Occult Armaments (DOA)}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Ron Garney; D.G. Chichester
+| First                   = Nightstalkers #2
+
+| History                 = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = Real name revealed in Fear Itself: The Fearless Hardcover.
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Blue Eyes]][[Category:Infobox Eyes Update Needed]]
+[[Category:Undead]]
+[[Category:Entomopathy]]

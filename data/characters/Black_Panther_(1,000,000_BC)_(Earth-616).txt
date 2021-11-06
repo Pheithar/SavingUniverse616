@@ -1,0 +1,59 @@
+{{Marvel Database:Character Template
+| Image                   = Black Panther (1,000,000 BC) (Earth-616) from Avengers Vol 8 4 0001.jpg
+| Name                    = Unknown
+| CurrentAlias            = [[Black Panther]]
+| CurrentAliasRef         = {{r|[[Marvel Legacy]]'s promotional material}}
+| Aliases                 = 
+
+| Affiliation             = {{m|Avengers (1,000,000 BC) (Earth-616)|Avengers of 1,000,000 BC}}, {{m|Panther Tribe (Earth-616)|Panther Tribe}}
+| Relatives               = [[Wakandan Royal Family Tree|Wakandan Royal Family]] (descendants){{r|Avengers Vol 8 36}}
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Black
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Early human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = [[Panther Tribe (Earth-616)|Panther Tribe]]
+| Occupation              = Adventurer; Chieftain of the [[Panther Tribe (Earth-616)|Panther Tribe]]
+| Education               = 
+| BaseOfOperations        = [[Mena Ngai|Sacred Mountain of the Panther Tribe]], [[Africa]]
+
+| Creators                = Jason Aaron; Esad Ribić
+| First                   = Marvel Legacy Vol 1 1
+
+| History                 = At some point an early human man of the [[Panther Tribe (Earth-616)|Panther Tribe]] discovered a [[Mena Ngai|Vibranium meteor]] and unlocked its secrets, becoming the first to take up the mantle of the [[Black Panther]]. [[Odin Borson (Earth-616)|Odin Borson]], an ancient Asgardian deity, admitted he has not been impressed by such a mortal before or since.{{r|Avengers Vol 8 #4}} The Black Panther allied with other mystically-augmented and supernatural beings to form the [[Avengers (1,000,000 BC) (Earth-616)|Stone Age Avengers]], and fought an out-of-control [[Celestials (Race)|Celestial]] called the [[Zgreb (Earth-616)|Fallen]]; eventually defeating it and sealing it in an underground chamber in what would become the modern-day country of [[South Africa]].{{r|Marvel Legacy #1}} This Black Panther's history after that is unknown, though his legacy was continued by the royal family of Wakanda. Besides Odin, he was the first person to wield Mjolnir.{{r|Avengers Vol 8 36}}
+
+| Personality             = The chief of the [[Panther Tribe (Earth-616)|Panther Tribe]], the Black Panther was noted by Odin to be unusually intelligent for a mere mortal.{{r|Avengers Vol 8 4}} A noble and gracious leader, he was willing to tolerate Odin's slights to his people's hospitality.{{r|Avengers Vol 8 26}}
+
+| Powers                  = Seemingly those of the [[Black Panther|Black Panthers]] who came after him, though it is unknown if his powers are derived from the [[Heart-Shaped Herb]] that gave his successors their powers.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = Spikes worn on his knuckles.
+
+{{Navigation
+| title                   = Former Weapons
+| body                    = '''[[Mjolnir]]:''' Black Panther was able to wield his teammate's mystical hammer of Mjolnir.{{r|Avengers Vol 8 36}}
+}}
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Totemic Avatars]]
+[[Category:Prehistoric characters]]
+[[Category:Worthy of Mjolnir]]

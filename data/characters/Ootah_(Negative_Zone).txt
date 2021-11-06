@@ -1,0 +1,56 @@
+{{Marvel Database:Character Template
+| Image                   = Ootah (Negative Zone) from Fantastic Four Vol 1 252 001.jpg
+| Name                    = Ootah 
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = 
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = [[Glossary:Artificial Intelligence|Artificial Intelligence]] evolved into a [[Glossary:Genius Loci|Genius Loci]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = [[Negative Zone]]
+
+| Creators                = John Byrne; John Byrne
+| First                   = Fantastic Four #252
+| Death                   = Fantastic Four #252 
+
+| History                 = Ootah was a large, artificial, self-sustaining structure on the surface of a planet in the [[Negative Zone]]. Ootah was created by a race of [[Children of Ootah|unnamed people]] that once inhabited Ootah's inner structure. These people gave Ootah a sense of self-preservation. Ootah then expelled these people from its structure like germs in the human body by creating a panic that caused the people to flee from their homes within Ootah. These evicted people were sealed off from Ootah and lived in the portion of the planet unoccupied by Ootah, as the massive construct continued to grow. Having lost most of their recorded history and technological advancement over the next four generations, the primitivized race discovered that those who approached Ootah would be destroyed by a laser cannon. Not understanding what they were seeing, they took this to mean that they needed to make sacrifices to Ootah, and regularly selected brides to carry out this task. However, they developed (or were granted) a prophecy that four strangers from the sky would some day come to their world and allow them to regain control of Ootah.
+
+Their prophecy was filled by the [[Fantastic Four (Earth-616)|Fantastic Four]] during one of their explorations of the Negative Zone. Although [[Reed Richards (Earth-616)|Mister Fantastic]] was incapacitated by a paralyzing drug, the rest of the Fantastic Four convinced the Children of Ootah that they were there to help. With their leader down for the duration, the [[Susan Storm (Earth-616)|Invisible Girl]], [[Jonathan Storm (Earth-616)|Human Torch]] and [[Benjamin Grimm (Earth-616)|Thing]] stopped the next sacrifice. Seeing Ootah as a threat, they smashed their way into the citadel and destroyed the living computer brain within. The local tribe also stormed in and began ravaging the complex. Mister Fantastic revived too late to warn his team that they had just murdered a newly budding sentient life form, as Ootah had gained self-awareness and rejected the people who lived inside as a means of self preservation.{{r|Fantastic Four #252}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = Armed with laser cannons of unknown origin that were lethal to organic life.
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+* http://www.marvunapp.com/Appendix/ootahnegzone.htm
+
+}}
+[[Category:Negative Zone]]
+[[Category:Artificial Intelligences]]

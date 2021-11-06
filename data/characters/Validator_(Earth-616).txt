@@ -1,0 +1,59 @@
+{{Marvel Database:Character Template
+| Image                   = Validator (Earth-616) from Avengers Vol 5 10 001.jpg
+| Name                    = Michaud
+| Name2                   = (first name unknown)
+| CurrentAlias            = Validator
+| Aliases                 = 
+
+| Affiliation             = Formerly {{m|New Avengers (A.I.M.) (Earth-616)|New Avengers}}, {{M|Advanced Idea Mechanics (Earth-616)|A.I.M. (Advanced Idea Mechanics)}}, {{m|Omega Flight (Heroes) (Earth-616)|Omega Flight}}
+| Relatives               = [[Robert Michaud (Earth-616)|Robert Michaud]] (father, deceased)
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Blue
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] mutated by an [[Origin Bomb]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = Canada
+
+| Identity                = Known to Authorities
+| Citizenship             = Canadian
+| Occupation              = Government agent, adventurer
+| Education               = 
+| BaseOfOperations        = Formerly [[Savage Land]]; [[Department H Helicarrier]]; [[Canada]]
+
+| Creators                = Jonathan Hickman; Dustin Weaver
+| First                   = Avengers Vol 5 9
+
+| Quotation           = [[Robert Michaud (Earth-616)|Father]]... Something amazing has happened here--It's happened to '''me.''' We've made '''something'''. And I'm supposed to protect it.  It's '''bigger''' than any of us ever imagined. Father... This system is now online.
+| Speaker             = [[Validator (Earth-616)|Validator]]
+
+| QuoteSource             = Avengers Vol 5 10
+
+| History                 = Validator was part of the [[Omega Flight (Heroes) (Earth-616)|Omega Flight team]] sent by [[Department H (Earth-616)|Department H]] sent to investigate the [[Origin Bomb]] site in [[Regina (City)|Regina]], [[Canada]]. The rest of her team was killed and she was changed by the event.{{r|Avengers Vol 5 10}}
+
+She later joined [[Roberto Da Costa (Earth-616)|Bobby Da Costa]] and his [[New Avengers (A.I.M.) (Earth-616)|Avengers]] in an attempt to unite all the creations left by the Origin Bombs.{{r|Avengers Vol 5 36}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Empowered by Ex Nihilo's Origin Bombs]]
+[[Category:Long range Energy Projection]]
+[[Category:Flight]]

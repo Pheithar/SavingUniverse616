@@ -1,0 +1,49 @@
+{{Marvel Database:Character Template
+| Image                   = Dmitri Petrovich (Earth-616) from Silver Sable and the Wild Pack Vol 1 23 001.jpg
+| Name                    = Dmitri Petrovich
+| CurrentAlias            = 
+| Aliases                 = Lt. Dmitri{{r|Silver Sable and the Wild Pack #1}}
+
+| Affiliation             = {{m|Hydra (Earth-616)|Hydra}},{{r|Silver Sable and the Wild Pack #1}} {{M|Genesis Coalition}}{{r|Silver Sable and the Wild Pack #8}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Blue
+| Hair                    = Black
+| Hair2                   = ([[:Category:Bald|balding]])[[Category:Bald]]
+| UnusualFeatures         = Goatee; vertical scar on left eye{{r|Silver Sable and the Wild Pack #1}}
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = Hydra agent; Genesis Coalition high-ran<nowiki>king</nowiki> agent
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Gregory Wright; Steve Butler
+| First                   = Silver Sable and the Wild Pack #1
+
+| History                 = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = [[File:Dmitri Petrovich (Earth-616) from Silver Sable and the Wild Pack Vol 1 1 001.jpg|thumb|left|in Hydra uniform]]
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

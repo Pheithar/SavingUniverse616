@@ -1,0 +1,58 @@
+{{Marvel Database:Character Template
+| Image                   = Umbra (Earth-616) from Fantastic Four Vol 1 297 001.png
+| Name                    = Umbra
+| CurrentAlias            = 
+| Aliases                 = Lord Umbra
+
+| Affiliation             = [[Damos (Earth-616)|General Damos]], [[Myrrhot (Earth-616)|Myrrhot]] (Chief Scientist)
+| Relatives               = [[Jaagur (Earth-616)|Jaagur]] (brother)
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Blue
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Darbians|Darbian]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = Darbia
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = Darbian
+| Occupation              = Dictator, Commander of the Forces of Warworld
+| Education               = 
+| BaseOfOperations        = [[Warworld]]
+
+| Creators                = Roger Stern; John Buscema
+| First                   = Fantastic Four #297
+| Death                   = Fantastic Four #298
+
+| History                 = 
+Umbra was once the ruler of a heavily fortified planet known as Warworld. His brother, [[Jaagur (Earth-616)|Jaagar]], commanded a rival army that presented a obstacle to Umbra's quest to rule the galaxy.  When chief scientist, [[Myrrhot (Earth-616)|Myrrhot]], designs a Star-Tap Siphon to extract energy from a distant star and funnel it to his battle armor, Umbra becomes confident that Jaagur can be defeated. In response, Umbra instigates a war with Jaagur by sending an unencrypted signal that revealed the location of his forces to lure Jaagur to Warworld.[[Damos (Earth-616)|General Damos]] advised Umbra that the army of Warworld would face heavy casualties, yet Umbra, motivated by desire of conquest or mere hatred for his brother, dismissed the General's concerns and pressed ahead. Meanwhile, Jaagur discovered the signal and arrived at Warworld. After easily dismissing the defenses of the fortress, Jaaguar meets Umbra and they begin to battle each other.  Meanwhile, the Star-Tap Siphon is draining the Earth's Sun's energy, which attracts the attention of the United States government. They enlist the aid of [[Reed Richards (Earth-616)|Mister Fantastic]] of the [[Fantastic Four (Earth-616)|Fantastic Four]] to resolve the problem. Reed builds a device to stop the siphon, which he deploys successfully. However, destroying the Star-Tap siphon creates a portal galaxies away on Warworld that pulls in Umbra and Jaagur as they do battle into Earth's solar system, merging their bodies into one powerful being. {{r|Fantastic Four #297}} 
+[[File:Jaagur (Earth-616) and Umbra (Earth-616) from Fantastic Four Vol 1 297 001.jpg|thumb|left|Merged form{{r|Fantastic Four #297}}]]
+After being merged with Jaagur, Umbra dominates their dual form and attacked Earth. The Fantastic Four managed to defeat him through the brute force of the [[Benjamin Grimm (Earth-616)|Thing]], who distraught over recent events mercilessly beat Umbra into submission. Umbra and Jaagur were detained, and Reed successfully splits Jaagur and Umbra. After the split, Umbra attacks Jaagur and slams a power coupling into Jaagur's armor, creating an explosion. After the explosion, neither Jaagur nor Umbra are found. Reed hypothesizes that they were destroyed. {{r|Fantastic Four #298}}
+
+| Powers                  = 
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+| Equipment               = 
+* '''Battle Armor:''' suit capable of absorbing energy and discharging it. Reed Richards noted that the circuitry is advanced far beyond human technology.{{r|Fantastic Four #298}} His armor is able to project a force field that enables him to travel through the vacuum of space.  
+* '''Star-Tap Siphon:''' device capable of draining the energy of a star galaxies away and providing it to Umbra's battle armor. 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+* The {{cl|Marvel Encyclopedia #Fantastic Four}} calls Umbra's home planet "Darbia," but this term is not found in his comic book appearances.
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Dictators]]
+[[Category:Leaders]]

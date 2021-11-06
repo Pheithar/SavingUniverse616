@@ -1,0 +1,51 @@
+{{Marvel Database:Character Template
+| Image                   = Annie_Wong_(Earth-616)_from_Hulk_Comic_(UK)_Vol_1_17_0001.jpg
+| Name                    = Annie Wong
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = Former actress; S.H.I.E.L.D. agent
+| Education               = 
+| BaseOfOperations        = [[Hong Kong]]
+
+| Creators                = Steve Moore; Steve Dillon
+| First                   = Hulk Comic (UK) Vol 1 17
+
+| History                 = Annie Wong studied [[Shaolin Monastery|Shaolin Temple]] Boxing from the age of three. She eventually became an action movie star in [[Hong Kong]], but retired from acting after she lost her temper and accidentally hit a fellow actor too hard, killing him.{{r|Hulk Comic (UK) Vol 1 17}}
+
+She later joined [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] as an instructor, and was assigned to help [[Nicholas Fury (Earth-616)|Nick Fury]] track down 'The One', leader of the Sept; in reality, the [[Plan Chu (Earth-616)|Yellow Claw]].{{r|Hulk Comic (UK) Vol 1 17|19}}
+
+| Powers                  = 
+| Abilities               = Master of Shaolin Temple Boxing
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Martial Arts]]

@@ -1,0 +1,41 @@
+{{Marvel Database:Team Template
+| Image                   = Defenders of the Deep (Earth-616) from Avengers Vol 8 9 001.jpg
+| ImageSize               = 250px
+| Name                    = Defenders of the Deep
+| Aliases                 = 
+
+| Status                  = Active
+| Identity                = Public
+| Reality                 = Earth-616
+| BaseOfOperations        = [[Atlantis]]
+
+| Leaders                 = [[Namor McKenzie (Earth-616)|King Namor]]
+| CurrentMembers          = [[Andromeda Attumasen (Earth-616)|Andromeda]], [[Bloodtide (Atlantean) (Earth-616)|Bloodtide]], [[Echidna (Earth-616)|Echidna]], [[King Crab (Earth-616)|King Crab]], [[Orka (Earth-616)|Orka]], [[Todd Arliss (Earth-616)|Tiger Shark]]
+| FormerMembers           = [[Manowar (Earth-616)|Manowar]], [[Piranhas (Earth-616)|Piranhas]]
+| Allies                  = 
+| Enemies                 = [[Avengers (Earth-616)|Avengers]], [[Winter Guard (Earth-616)|Winter Guard]]
+
+| Origin                  = 
+| PlaceOfFormation        = [[Atlantis]]
+| PlaceOfDissolution      = 
+| Creators                = Jason Aaron; David Marquez
+| First                   = Avengers Vol 8 9
+
+| Quotation               = This holy war has just begun. And we will not misstep as we have in the past. No more armies hitting the beach. No more invasions. Let the air-breathers have their mounds of dirt and blackened skies. We fight for the '''seas,''' and those who called them home. The surface world has their [[Avengers (Earth-616)|Avengers]]. Now '''we''' have the '''[[Defenders of the Deep (Earth-616)|Defenders of the Deep]].'''
+| Speaker                 = [[Namor McKenzie (Earth-616)|Namor]]
+| QuoteSource             = Avengers Vol 8 9
+
+| HistoryText             = The Defenders of the Deep were established by [[Namor McKenzie (Earth-616)|King Namor]] of [[Atlantis]] to accomodate to his new policies regarding relationships between the ocean and the surface world. Namor declared the oceans off-limits to all but their native inhabitants, and used the Defenders of the Deep to drive off any human presence on the ocean.{{r|Avengers Vol 8 9}}
+
+After tearing down [[Russia|Russian]] submarines in the [[Black Sea]], the Defenders of the Deep attacked the international undersea research station [[Hydropolis]]. They were intercepted by the [[Avengers (Earth-616)|Avengers]], and a fight broke out after the heroes attacked Namor's [[Piranhas (Earth-616)|Piranhas]] to stop them from eating two bystanders despite Namor ordering them to stand down. The [[Winter Guard (Earth-616)|Winter Guard]] arrived to retaliate against the attack on the Black Sea, and worked with the Avengers to take down Namo's team. During the fight, [[Manowar (Earth-616)|Manowar]] was killed by [[Dimitri Bukharin (Earth-616)|Crimson Dynamo]]. However, tensions between the Avengers and the Winter Guard arose after [[Jennifer Walters (Earth-616)|She-Hulk]] attacked [[Perun (Earth-616)|Perun]] and [[Chernobog (Earth-616)|Chernobog]] to stop their in-fighting. While the Avengers and the Winter Guard fought each other, Namor killed the Piranhas due to their continued misconduct and ordered the Defenders to retreat.{{r|Avengers Vol 8 10}}
+
+The Defenders of the Deep next attacked a Roxxon oil drilling platform in [[Alaska (State)|Alaska]], but they were repelled by the [[Squadron Supreme of America (Earth-616)|Squadron Supreme of America]], at the expense of [[Orka (Earth-616)|Orka]].{{r|Avengers Vol 8 11}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

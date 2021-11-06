@@ -1,0 +1,38 @@
+{{Marvel Database:Organization Template
+| Title                   = [[Alpha Flight (Space Program)|Alpha Flight]]
+| Image                   = Captain Marvel Vol 9 2 Textless.jpg
+| Name                    = [[Alpha Flight (Space Program)|Alpha Flight Interstellar Defense and Diplomacy Initiative]]{{r|Immortal Hulk Vol 1 41}}
+| Aliases                 = 
+
+| Status                  = Active
+| Identity                = Public
+| Reality                 = Earth-616
+| BaseOfOperations        = [[Alpha Flight Low-Orbit Space Station]] (space crew); formerly [[Columbia University]], [[Morningside Heights]], [[Manhattan]], [[New York City|New York]], [[New York (State)|New York]] (ground crew); [[Triskelion]], [[Governors Island]], [[Upper New York Bay]], [[New York City|New York]], [[New York (State)|New York]], [[United States of America|USA]] (ground crew)
+
+| OrganizationLeaders     = [[Henry Gyrich (Earth-616)|Henry Gyrich]] (acting commander); formerly [[Carol Danvers (Earth-616)|Captain Marvel]], [[Abigail Brand (Earth-616)|Lt. Commander Abigail Brand]]
+| CurrentMembers          = [[Alpha Cadets (Earth-616)|Alpha Cadets]] ([[A'di (Earth-616)|A'di]], [[Dante Cruz (Earth-616)|Dante]], [[Glory (Alpha Cadets) (Earth-616)|Glory]], [[Itz (Earth-616)|Itz]]), [[Tempest Bell (Earth-616)|Dr. Tempest Bell]], [[Berman (Alpha Flight Space Program) (Earth-616)|Crewman Berman]], [[Frankie (Alpha Flight Space Program) (Earth-616)|Frankie]], [[Terry Friffton (Earth-616)|Terry Friffton]], [[Lira (Earth-616)|Ensign Jane Garcia]], [[Gamma Flight (Alpha Flight Space Program) (Earth-616)|Gamma Flight]] ([[Carl Creel (Earth-616)|Absorbing Man]], [[Leonard Samson (Earth-616)|Doc Sasquatch]], [[Romesh Dalton (Earth-616)|Romesh Dalton]], [[Eugene Judd (Earth-616)|Puck]], [[Mary MacPherran (Earth-616)|Titania]]), [[James Hudson (Earth-616)|Guardian]], [[Gwendolyn Kawasaki (Earth-616)|Lt. Wendy Kawasaki]], [[Keyes (Alpha Flight Space Program) (Earth-616)|Keyes]], [[Lewis (Alpha Flight Space Program) (Earth-616)|Lewis]], [[Samberly (Alpha Flight Space Program) (Earth-616)|Samberly]], [[Michael Twoyoungmen (Earth-616)|Shaman]], [[Narya (Earth-616)|Snowbird]], [[Elizabeth Twoyoungmen (Earth-616)|Talisman]], [[Warshauer (Earth-616)|Warshauer]], [[U-Foes (Earth-616)|U-Foes]] ([[Michael Steel (Earth-616)|Ironclad]], [[Ann Darnell (Earth-616)|Vapor]], [[Simon Utrecht (Earth-616)|Vector]], [[James Darnell (Earth-616)|X-Ray]]), [[Ultimates (Earth-616)|Ultimates]] ([[T'Challa (Earth-616)|Black Panther]], [[Adam Brashear (Earth-616)|Blue Marvel]], [[America Chavez (Earth-616)|Ms. America]], [[Monica Rambeau (Earth-616)|Spectrum]]), [[Zory (Earth-616)|Officer Zory]], numerous unnamed members
+| FormerMembers           = [[Jeanne-Marie Beaubier (Earth-616)|Aurora]], [[Bradner (Earth-616)|Lt. Bradner]], [[Alpha Flight's Board of Governors (Earth-616)|Board of Governors]] ([[Bar-Konn (Earth-616)|Bar-Konn]], [[Carol Danvers (Earth-616)|Captain Marvel]], [[Eshu (Earth-616)|Philippe Beaulieu]], [[Henry Gyrich (Earth-616)|Henry Peter Gyrich]], and [[Mentor III (Earth-616)|Mentor III]]), [[Abigail Brand (Earth-616)|Lt. Commander Abigail Brand]], [[Walter Langkowski (Earth-616)|Sasquatch]]
+| Allies                  = [[A-Force (Earth-616)|A-Force]], [[Avengers (Earth-616)|Avengers]], [[Hala Child Nine (Earth-616)|"Bean"]], [[Chewie (Earth-58163)|Chewie]], [[Guardians of the Galaxy (Earth-616)|Guardians of the Galaxy]], [[Hopper (Stark Industries) (Earth-616)|Hopper]], [[Marcus Milton (Earth-13034)|Hyperion]], [[Jacqueline McGee (Earth-616)|Jackie McGee]], [[National Aeronautics and Space Administration (Earth-616)|NASA]], [[Adam Blackveil (Earth-616)|Nightmask]], [[Samuel Alexander (Earth-616)|Nova]], [[Avril Kincaid (Earth-616)|Quasar]], [[Kevin Connor (Earth-616)|Starbrand]]
+| Enemies                 = [[Chitauri Wave (Earth-616)|Chitauri Wave]], [[Minn-Erva (Earth-616)|Doctor Minerva]], [[Doctor Eve (Earth-616)|Doctor Eve]], [[Bruce Banner (Earth-616)|Hulk]], [[Hydra (Earth-616)|Hydra]], [[Eshu (Earth-616)|Master of the World]], [[Mim Unit|Mim]], [[Satori]], [[Thanos (Earth-616)|Thanos]]
+
+| Origin                  = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Jonathan Hickman; Esad Ribić
+| First                   = Secret Wars Vol 1 9
+| History                 = Stationed on a [[Alpha Flight Low-Orbit Space Station|low-orbit space station]] in geosynchronous orbit above the [[Triskelion]], the Alpha Flight Interstellar Defense and Diplomacy Initiative is [[Earth]]'s first line of defense against extraterrestrial threats.{{r|Avengers Vol 6 0}}
+
+In the dawn of [[Hydra (Earth-616)|Hydra]]'s take-over of the [[United States of America|United States]], a [[Planetary Defense Shield]] was projected around the Earth to seal off the planet, leaving the Alpha Flight Space Station stuck between the impenetrable barrier and a relentless ongoing [[Chitauri]] invasion. In a last ditch effort to bring down the Shield, the A.F.S.S. was repurposed into the delivery system for countless explosive charges that were detonated in the surface of the Shield. The station was destroyed, but the Shield remained unscathed.{{r|Secret Empire Vol 1 #0|8}}
+
+Following the eventual destruction of the Shield and the end of Hydra's regime,{{r|Secret Empire Vol 1 #8|10}} the staff of Alpha Flight found themselves grounded. [[Columbia University]] became the temporary home of Alpha Flight until the program could be reinstated.{{r|Captain Marvel Vol 7 125}}
+
+When Carol's lineage as a [[Kree]] became public, Carol decided it was best to step down as Commander of Alpha Flight and asked Brand to take over, which she reluctantly accepted.{{r|Captain Marvel Vol 10 9}} Brand quickly became disgruntled with the handling of the program, namely by the reduced funding and secrecy of the governments behind it. After she quit, [[Henry Gyrich (Earth-616)|Henry Gyrich]] was appointed acting commander.{{r|S.W.O.R.D. Vol 2 1}}
+| Equipment               = 
+| Transportation          = [[Alpha Flight Squadron Jet]]s, [[Mark 1 Astro Carrier]]s
+| Weapons                 = 
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Wakandan Organizations]]
+[[Category:International Organizations]]

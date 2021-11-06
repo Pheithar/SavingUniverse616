@@ -1,0 +1,63 @@
+{{Marvel Database:Character Template
+| Image                   = Edgar Lascombe (Earth-616) from Amazing Spider-Man Vol 1 520 001.jpg<!-- I'm not sure if this is Edgar Lascombe or just a generic Hydra goon -->
+| Name                    = Edgar Lascombe
+| CurrentAlias            = Supreme Hydra
+| CurrentAliasRef         = {{Citation}}
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra (Earth-616)|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Terrorist, [[Supreme Hydra]]
+| Education               = 
+| BaseOfOperations        = [[New York City]]
+
+| Creators                = J Michael Straczynski
+| First                   = Amazing Spider-Man #521
+| Death                   = 
+
+| History                 = 
+'''Edgar Lascombe''' was the owner of one of the top five biggest pharmaceutical companies in [[America]].{{r|Amazing Spider-Man #521}}
+
+When [[Wolfgang von Strucker (Earth-616)|Baron Strucker]] was in statis, Lascombe rebuilt [[Hydra (Earth-616)|Hydra]] and established himself as the '''[[Supreme Hydra]].''' Lascombe believed Hydra had become weak and lost its way, its former leaders allowing it to devolve into a simple syndicate more concerned with drug running and money laundering.{{Citation}}
+
+After killing five former Hydra leaders, Lascombe unveiled the [[Hydra Four (Earth-616)|Hydra Four]], genetically modified Hydra agents with powers and abilities patterned after [[Steven Rogers (Earth-616)|Captain America]], [[Thor Odinson (Earth-616)|Thor]], [[Anthony Stark (Earth-616)|Iron Man]], and [[Clinton Barton (Earth-616)|Hawkeye]]. Lascombe planned to use them to distract the [[Avengers (Earth-616)|Avengers]] while Hydra smuggled bacteria and missiles into New York, part of a larger plan to launch a bio-weapon assault on the Ogallala Aquifer.{{Citation}}
+
+<!-- Rewrite needed -->
+The only one that had a guess what was happening was [[Peter Parker (Earth-616)|Spider-Man]], and he was able to track them down and infiltrated Hydra's base. He got discovered and hunted by hundreds of Hydra soldiers until he run into the Hydra Four that almost got him, when the Avengers saved him. Spider-Man and [[Anthony Stark (Earth-616)|Iron Man]] were almost able to stop the countdown of the missile, but Lascombe overrid their attempt and lunched the rocket. Spider-Man climbed on to the rocked and successfully sabotaged its GPS and it blew up it up in the ocean. Spider-Man got caught in the explosion and had to spend a few days in Iron Man's virological isolab.{{r|Amazing Spider-Man #524}}
+
+Hydra destroyed its base after the rocket launch, all agents and Hydra Four ran away, and Lascombe escaped to London and presumably continued in Hydra's European division.{{Citation}}
+
+| Powers                  = None
+| Abilities               = Skilled businessman and leader
+| Strength                = Normal human male with regular exercise
+| Weaknesses              = 
+
+| Equipment               = 
+outfit
+| Transportation          = [[Hydra (Earth-616)|Hydra]] vehicle.<br>A car with a chauffeur/bodyguard.
+| Weapons                 = 
+
+| Notes                   = Lascombe had a secret entrance to a hidden [[Hydra (Earth-616)|Hydra]] base in his [[New York City|New York]] house.
+| Trivia                  = He enjoys theater, especial off-Broadway plays.{{r|Amazing Spider-Man #521}}
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Businesspeople]]

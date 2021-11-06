@@ -1,0 +1,56 @@
+{{Marvel Database:Character Template
+| Image                   = Avius (Earth-616) from Fantastic Four Vol 1 129 0001.jpg
+| Name                    = Avius
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = [[Inhumans]]
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = None
+| UnusualFeatures         = Avius has a beaked, bird-like face, pointed ears, large wings on his back and is covered in red-pink feathers. 
+
+| Origin                  = [[Inhomo supremis|Inhuman]] powered by [[Terrigenesis]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Attilan]]
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = Attilan
+| Occupation              = Guardsman
+| Education               = 
+| BaseOfOperations        = [[Attilan]]
+
+| Creators                = Roy Thomas; John Buscema
+| First                   = Fantastic Four #129
+| Death                   = 
+
+| History                 = Avius is a member of the [[Inhumans (Inhomo supremis)|Inhumans]], an offshoot of humanity that gains super-human abilities via exposure to the [[Terrigen Mist]]. He was gifted with a bird like form thanks to exposure to the Terrigen Mist. His earliest recorded appearance was when he, [[Flaidermaus (Earth-616)|Flaidermaus]] and [[Pinyon (Earth-616)|Pinyon]] were sent out to incapacitate the [[Fantastic Four (Earth-616)|Fantastic Four's]] [[Jonathan Storm (Earth-616)|Human Torch]] for their leader [[Blackagar Boltagon (Earth-616)|Black Bolt]]. {{r|Fantastic Four #129}} Later, Avius was attacked and severely injured by [[Blastaar (Earth-616)|Blastaar]]. He was found by [[Leonus (Earth-616)|Leonus]] and returned to [[Attilan]] just in time to warn [[Blackagar Boltagon (Earth-616)|Black Bolt]] of the approaching danger{{r|Inhumans #1}}. When [[Maximus Boltagon (Earth-616)|Maximus]] was freed by the Kree and took over Atillan, Avius managed to escape along with a few others.{{r|Inhumans Vol 1 #5}}
+
+| Powers                  = '''Avian Physiology''': Avius has wings on his back that allows him to be able to fly.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+|Citizenship2=New Attilan}}
+[[Category:Terrigenesis]]
+[[Category:Beaks]]
+[[Category:Claws]][[Category:Infobox UnusualFeatures Update Needed]]
+[[Category:Flight]]
+[[Category:Avian Form]]
+[[Category:Feathers]]

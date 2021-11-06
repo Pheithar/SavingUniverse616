@@ -1,0 +1,50 @@
+{{Marvel Database:Character Template
+| Image                   = Supreme Hydra (Freehold) (Earth-616) from Incredible Hulk Vol 1 400 001.jpg
+| Name                    = 
+| CurrentAlias            = [[Supreme Hydra]]
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra (Earth-616)|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Supreme Hydra, terrorist
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Peter David; Jan Duursema
+| First                   = Incredible Hulk Vol 1 400
+| Death                   = Incredible Hulk Vol 1 400
+
+| History                 = This Supreme Hydra led [[Hydra (Earth-616)|Hydra]] in an attack against [[Samuel Sterns (Earth-616)|The Leader's]] survivalist bunker [[Freehold]], in [[Canada]], even if the Supreme Hydra's secret master insisted in Hydra not moving against the Leader. Hydra's assault was opposed by the Leader's security, mostly [[Riot Squad (Earth-616)|Riot Squad]], and by the [[Bruce Banner (Earth-616)|Hulk]], who reached the place independently to oppose the Leader. The Hulk ravaged Hydra's army and consciously pardoned the Supreme Hydra's life - but the Supreme Hydra was then shot down by [[Thaddeus Ross (Earth-616)|the second Redeemer]], one of the Leader's minions.{{r|Incredible Hulk Vol 1 400}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

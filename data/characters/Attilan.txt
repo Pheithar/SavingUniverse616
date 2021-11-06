@@ -1,0 +1,171 @@
+{{Marvel Database:Location Template
+| Image                   = Attilan from New Avengers Vol 3 8 001.jpg
+| Name                    = Attilan
+| Aliases                 = [[Great Refuge]],{{r|Official Handbook of the Marvel Universe  #1|; Attilan's entry}} [[New Attilan]] (in opposition to [[Old Attilan]]){{r|Marvel Two-In-One #72}}
+
+| Galaxy                  = Milky Way
+| StarSystem              = Sol
+| Planet                  = Earth
+| Country                 = United States of America
+| City                    = New York City
+| State                   = New York (State)
+| Province                = 
+| Locale                  = Attilan
+
+| Capital                 = Attilan
+| Demonym                 = 
+| Language                = [[Tilan]], <small>English, Russian, Chinese</small> ''('[[Inhuman Culture#Attilan and Aerie|see "Languages in Attilan"]])''
+| Religion                = ''[[Inhuman Culture#Attilan|see "Religion in Attilan"]]''
+| Government              = City-State
+| Government2             = {{r|FF Vol 2 15}}
+| Ruler                   = 
+| RulerLabel              = 
+| Currency                = None or [[Dren]] ''([[Inhuman Culture#Economy|see "Currency in Attilan"]])''
+| Custom                  = 
+| Dimensions              = 
+| Population              = 0 (15,000-20,000 before destruction){{r|Inhumanity #2}} ([[{{{1|Attilan}}}#Population|see "Population"]])
+
+| Status                  = Defunct
+| Preceded                = 
+| Succeeded               = [[New Attilan]]
+
+| Creators                = Stan Lee; Jack Kirby
+| First                   = Fantastic Four #47
+| First2                  = (Full appearance){{sld|Captain America Comics #1}}(Mentioned)
+| Last                    = Infinity #3
+
+| History                 = 
+===Pre-Inhuman Attilan===
+50,000 years ago, '''Attilan''', the '''Island of the Gods''', was a technologically advanced city,{{r|Captain America Comics #1}} located in the North [[Atlantic Ocean]].{{r|Official Handbook of the Marvel Universe  #5|; [[Inhumans (Inhomo supremis)|Inhumans]]' entry}}
+
+[[Phadion (Earth-616)|Phadion]] and [[Rhaya (Earth-616)|Rhaya]] were exiled off the island for opposing [[Kadir (Earth-616)|Kadir]], along with [[Tuk (Earth-616)|Tuk]],{{r|Captain America Comics #1}} heir of Attilan, possibly their son,{{r|Official Handbook of the Marvel Universe  A-Z #14}} and the first offspring of the [[Inhomo supremis|Inhumans]]. Tuk lived among the mortals, and his genetic code passed down through generation, increasing the ordinary humans' susceptibility to mutation.{{r|History of the Marvel Universe Vol 2 1}}
+
+===Inhuman settlement===
+{{MessageBox
+| Message = This section contains material that has since been modified/retconned.
+}}
+About 7,000 years ago,{{r|Official Handbook of the Marvel Universe  #1|; Attilan's entry}}{{r|Official Handbook of the Marvel Universe Vol 2 1|; Attilan' entry }} or even since at least 10,000 BC (12,000 years ago),{{r|Official Handbook of the Marvel Universe Vol 2 1|; Attilan' entry }} the Inhumans settled on Attilan, founded by their leader [[Myran (Earth-616)|King Myran]], developing their civilization.{{r|Official Handbook of the Marvel Universe  #5|; [[Inhumans (Inhomo supremis)|Inhumans]]' entry}}
+
+About 2,500 years ago, the [[Sky-City]] of the [[Bird People]], located above Attilan seceded from it.{{r|Official Handbook of the Marvel Universe  #5|; [[Inhumans (Inhomo supremis)|Inhumans]]' entry}} 
+
+===Modern Years===
+====Moved to [[Himalayas]]====
+With humanity's technological advancement, the Inhumans began to worry their city may be found. After scouting reports by Triton, Black Bolt decided to move the city to a more remote location. {{r|Thor #146|152}} With the assistance of Ikaris and the Eternals, Black Bolt located a spot in the [[Himalayas]] range where Attilan could rest undiscovered.{{r|What If? #29|30}}
+
+Through the manipulations of [[Maximus Boltagon (Earth-616)|Maximus]], the mad brother of Black Bolt, the rest of the royal family was forced into exile.{{r|Inhumans Special Vol 1 1}} After living in exile for many years, [[Black Bolt (Earth-616)|Black Bolt]] and the Royal Family returned to the Great Refuge, and forced Maximus to relinquish the throne. In an insane attempt to strike back against humanity, Maximus activated a device called the Atmo-Gun. By reversing the Atmo-Gun's polarity, he generated a null barrier that completely surrounded the Great Refuge, cutting them off from the rest of the humanity forever.{{r|Fantastic Four #48}}
+
+[[File:Attilan from Official Handbook of the Marvel Universe Vol 2 1 0001.jpg|left|thumb|Map]]
+The '''Great Refuge''' (as it came to be known) came to the attention of world leaders after being discovered by the [[Fantastic Four (Earth-616)|Fantastic Four]]. With the Inhumans growing ill from pollution caused by humanity, the city was moved again. This time to the [[Blue Area of the Moon]].{{r|Fantastic Four #240}} The royal family was once again put into exile years later, this time by the Genetics Council after the unlawful birth of Black Bolt and Medusa's son, Ahura.{{r|Fantastic Four Unlimited #2}} In a scheme involving Morgan le Fey and the Genetics Council, Attilan was shrunk down to bottle-size and transported back to Earth, where it expanded on the site of water-breathing Atlantis, recently raised to the surface.<ref>The [[Atlantis Rising]] crossover.</ref>
+
+Black Bolt once again began to fear human involvement in their lives, and orchestrated an elaborate ruse to make it appear as if Attilan was destroyed when in fact it was teleported back into isolation in the Himalayas.{{r|Inhumans Vol 2 12}} Attilan was later stolen by Ronan the Accuser as property of the Kree Empire, and the Inhumans chose to remain in space for a time absent the royal family.{{r|Inhumans Vol 3 #1|4}} Eventually, however, it was re-established on the Blue Area of the Moon, with permission of [[Uatu (Earth-616)|Uatu]] the Watcher.{{r|Fantastic Four Vol 3 #51|54}}
+
+====Into Space & Above Hala====
+Following Black Bolt's capture and an attack on Attilan by [[Skrulls]], a machine developed by Maximus was utilized to send Attilan into space, powered by Black Bolt's words. Once in space, the Inhumans destroyed numerous fleeing [[Skrull]] ships before arriving at Hala. There, an assault was launched, leading to Black Bolt being declared ruler of the [[Kree]]. Attilan then settled on Hala, hovering above the Kree capitol city.{{r|Secret Invasion: War of Kings #1}}
+
+When Black Bolt learned the secret history of the Inhumans and the Supreme Intelligence's attempted genocide of their people, he and the Inhumans abandoned the Kree.{{r|FF #6|7}} Attilan was moved over [[New York City]],{{r|New Avengers Vol 3 7}} and was destroyed during [[Thanos (Earth-616)|Thanos]]' [[Infinity (Event)|invasion on Earth]] in the search of his secret Inhuman-descendant son, when Black Bolt unleashed a powerful attack on the Mad Titan and destroyed his home in the process.{{r|Infinity #3}}
+
+====[[New Attilan]]====
+The ruins were re-purposed into [[New Attilan]] which sits above the [[Hudson River]] along the [[New York (State)|New York]]/[[New Jersey (State)|New Jersey]] border near the [[Upper New York Bay]].{{r|Inhuman #2}}
+
+==Alternate Realities==
+===[[Counter-Earth (Heroes Reborn)|Counter-Earth]]===
+[[File:Exiles Vol 1 81 page 09 Attilan.jpg|thumb|right|150px]]
+Franklin Richards created an pocket universe for the heroes to flee to after the Onslaught. When they returned, they left a Counter-Earth on the opposite side of the sun, complete with their own version of Attilan.{{r|Fantastic Four Vol 2 9}}
+
+After the Earth-616 heroes left Counter-Earth, Attilan was taken over by the Thunderbolts.{{r|Thunderbolts #66}}
+{{clear}}
+
+===Ultimate Universe  ([[Earth-1610]])===
+[[File:Attilan (Earth-1610) from Ultimate Fantastic Four Annual Vol 1 1 0001.jpg|thumb|right|150px]]
+Attilan looks more like a beehive in the Ultimate Universe.{{r|Ultimate Fantastic Four Annual #1}}
+{{clear}}
+
+===Iron Doom ([[Earth-42777]])===
+[[File:Attilan (Earth-42777) from Exiles Vol 1 23 0001.jpg|thumb|right|150px]]
+Iron Man ruled the world and was hell-bent on tracking down the Inhumans and exterminating them from the planet. Black Bolt, along with his Queen, Susan Storm, hid the city from him for a long time below the surface of the ocean, but eventually had to come out of hiding.{{r|Exiles #23|25}}
+{{clear}}
+
+===2010s Marvel Animated Universe  ([[Earth-12041]])===
+At some point around 30 years prior, the Inhumans became infected with a Terrigen plague so they used Attilan to leave Earth and venture out into space to locate the Kree in hopes of a cure, being the ones who created them centuries past. That is until the Guardians of the Galaxy helped rid of the plague.{{r|Marvel's Guardians of the Galaxy (animated series) Season 1 12}}
+
+A few years later, the Inhumans returned to Earth and placed the location of Attilan within the [[Himalayas]], but remained hidden from the human race while place a reflected force filed around their hidden city. However after meeting the Agents of S.M.A.S.H., the force field was taken down as they decide to make contact with Humans again.{{r|Hulk and the Agents of S.M.A.S.H. Season 1 22}}
+
+Attilan later appeared floating above [[New York City]], as part of Maximus plan to wage war, as a last resort he cause the city to descend thus crushing the city below, but was stopped by Black Bolt with help of Spider-Man when he used his voice to push Attilan away.{{r|Ultimate Spider-Man (Animated Series) Season 3 20}}
+
+Attilan was taken over by [[Ultron (Earth-12041)|Ultron]], when he planed on using the city to fly to over ones below while using the Seekers technology and Black Bolt to create a blast  that will eliminate the humans on the ground. This plan was foiled by the [[Avengers (Earth-12011)|Avengers]] and instead gave birth to new Inhumans within the city of New York.{{r|Marvel's Avengers Assemble Season 3 10}} Some time later, Attilan became open to the public as a sign of peace between humans and Inhumans, but the city was ultimately destroyed when Maximus angered [[Dante Pertuz (Earth-12041)|Inferno]], causing him to burn away the whole city, leaving the Inhumans to find a [[New Attilan|new home]].{{r|Marvel's Avengers Assemble Season 3 23}}
+
+| PointsOfInterest        = * [[Palace of the Royal Family]]{{r|Official Handbook of the Marvel Universe  #1|; Attilan's entry}}
+** [[Monument to Myran]]{{r|Official Handbook of the Marvel Universe  #1|; Attilan's entry}}
+* [[Agon's Tower]]{{r|Official Handbook of the Marvel Universe  #1|; Attilan's entry}}
+* [[Old Attilan Harbor]]{{r|Official Handbook of the Marvel Universe  #1|; Attilan's entry}}
+* [[Attilan Power Plant]]{{r|Official Handbook of the Marvel Universe  #1|; Attilan's entry}}
+* [[Attilan Parliament]]{{r|Official Handbook of the Marvel Universe  #1|; Attilan's entry}}
+* [[Tower of Genesis]]{{r|Official Handbook of the Marvel Universe  #1|; Attilan's entry}}
+* [[Sub-City of Alpha-Primitives]]{{r|Official Handbook of the Marvel Universe  #1|; Attilan's entry}}
+* [[Tombs of the Captroids]]{{r|Official Handbook of the Marvel Universe  #1|; Attilan's entry}}
+* [[Pit of the Dead]]{{r|Official Handbook of the Marvel Universe  #1|; Attilan's entry}}
+* [[Attilan Technical Center]]{{r|Official Handbook of the Marvel Universe  #1|; Attilan's entry}}
+** [[Attilan Learning Center]]{{r|Official Handbook of the Marvel Universe Vol 2 1|; Attilan's entry }}
+* Water Channels{{r|Official Handbook of the Marvel Universe  #1|; Attilan's entry}}
+* [[Silent City]]{{r|Official Handbook of the Marvel Universe  #1|; Attilan's entry}}
+* [[Arena of Judgment]]{{r|Official Handbook of the Marvel Universe  #1|; Attilan's entry}}
+* Market Place{{r|Official Handbook of the Marvel Universe  #1|; Attilan's entry}}
+* [[Terrigen Lab]]{{r|Official Handbook of the Marvel Universe  #1|; Attilan's entry}}
+* [[Wisdom Bridge]]{{r|Official Handbook of the Marvel Universe  #1|; Attilan's entry}}
+* Park{{r|Official Handbook of the Marvel Universe  #1|; Attilan's entry}}
+* [[Tomb of Ryvain]]{{r|Official Handbook of the Marvel Universe  #1|; Attilan's entry}}
+* Old City{{r|Official Handbook of the Marvel Universe  #1|; Attilan's entry}}
+* [[Avenue of Kings]]{{r|Official Handbook of the Marvel Universe  #1|; Attilan's entry}}
+** [[Tomb of Randac]]{{r|Official Handbook of the Marvel Universe  #1|; Attilan's entry}}
+* Residential Area{{r|Official Handbook of the Marvel Universe  #1|; Attilan's entry}}
+* [[Avenue of Stability]]{{r|Official Handbook of the Marvel Universe  #1|; Attilan's entry}}
+* [[Tower of Vision]]{{r|Official Handbook of the Marvel Universe  #1|; Attilan's entry}}
+* Former [[Alpha Primitive Center]], turned into Archives{{r|Official Handbook of the Marvel Universe  #1|; Attilan's entry}}
+* Aerodrome / Spaceport{{r|Official Handbook of the Marvel Universe  #1|; Attilan's entry}}
+* [[Avenue of Harmony]]{{r|Official Handbook of the Marvel Universe  #1|; Attilan's entry}}
+* [[Romnar's Hold]]{{r|Official Handbook of the Marvel Universe  #1|; Attilan's entry}}
+
+| Residents               = Attilan was populated by the [[Inhomo supremis|Inhumans]], among them the [[House of Agon (Earth-616)|Inhuman Royal Family]], the [[Genetic Council (Earth-616)|Genetic Council]] and the [[Inhuman Royal Guard (Earth-616)|Inhuman Royal Guard]].
+
+It was also the home of the [[Alpha Primitives]]. For some time, the city was also inhabited by the [[Universal Inhumans (Earth-616)|Universal Inhumans]], including [[Incentaurians]], [[Direst Wraiths|Wraith Inhumans]], [[White Room (Inhuman Kymellians)|White Room Kymellians]] and [[Moord (Inhuman Badoon)|Moord Badoon]].
+
+===Population===
+The population was regulated at just under 1200 for centuries.{{r|Official Handbook of the Marvel Universe  A-Z #5|; [[Inhumans (Inhomo supremis)|Inhumans]]' entry}}
+
+Across the 1980's, Attilan was stated to be the home of 1,124,{{r|Marvel Two-In-One #72}}<!-- February, 1981 --> then 1,160 Inhumans,{{r|Official Handbook of the Marvel Universe  #5|; [[Inhumans (Inhomo supremis)|Inhumans]]' entry}}<!-- May, 1983 --> then finally 1,230.{{r|Official Handbook of the Marvel Universe Vol 2 6|; [[Inhumans (Inhomo supremis)|Inhumans]]' entry }}<!-- May, 1986 -->
+
+In the end of the 90's, Attilan was stated to be the home of around 4,000 Inhumans,{{r|Inhumans Vol 2 5}} though in the 2000s, the number of Inhumans in Attilan (still supposed to have been regulated to 1200) was unclear due to losses at the end of the US military and to Inhumans being in space with the [[Kree]].{{r|Official Handbook of the Marvel Universe  A-Z #5|; [[Inhumans (Inhomo supremis)|Inhumans]]' entry}}
+
+When the [[Universal Inhumans (Earth-616)|Universal Inhumans]] joined the Earth-born brethren, and the Inhumans installed Attilan over [[New York City]], Attilan was stated to host between 15,000 and 20,000 Inhumans.{{r|Inhumanity #2}}{{r|All-New, All-Different Marvel Universe  #1}}
+
+| Notes                   = 
+===Retcons and errors===
+The [[Inhuman History]]
+* In {{cl|Fantastic Four #47}}, the Great Refuge was first referenced as appearing in the Andes Mountains. However, all subsequent references changed the location to the Himalayans, except for {{cl|Incredible Hulk Special #1}} who located it in the [[Alps]].
+* Attilan's entries on {{cl|Official Handbook of the Marvel Universe  #1}} and {{cl|Official Handbook of the Marvel Universe Vol 2 1}} state that Attilan was founded 7,000 years ago. The [[Inhomo supremis|Inhumans]]' entry in {{cl|Official Handbook of the Marvel Universe: Fantastic Four 2005 Vol 1 1}} put the creation of Attilan between 25,000 (creation of the Inhumans) and 18,000 BC (the [[Great Cataclysm]]).
+** {{cl|Official Handbook of the Marvel Universe Vol 2 1}} also mentioned that [[Atlantis]] had vanished three millennia before, but also showed a picture of Attilan at 10,000 BC (12,000 years ago), while [[Atlantis]]' entry in the same books mentions Inhumans' home Attilan surviving the cataclysm and the Inhumans' entry in {{cl|Official Handbook of the Marvel Universe Vol 2 6}} mentions Atlantis being created 4,000 years after Attilan.
+* The story of how Attilan became known as the [[Great Refuge]] varies: It became known as such after...
+** The city survived the [[Great Cataclysm]] who destroyed [[Atlantis]] (circa 18,000 BC), became legendary among humanity and was surrounded by a protective dome.{{r|Official Handbook of the Marvel Universe: Fantastic Four 2005 Vol 1 1}}
+** [[Randac (Earth-616)|Randac]] underwent [[Terrigenesis]] and demonstrated his powers to [[Sentry 213 (Earth-616)|Kree Sentry #213]], proclaiming Attilan the Great Refuge of the Inhumans.{{r|Thor #147}}
+** [[Blackagar Boltagon (Earth-616)|Black Bolt]] displaced the entire island complex to the [[Himalayas]],{{r|Official Handbook of the Marvel Universe  #1}} into a more hidden and secure place.{{r|What If? #30}}
+| Trivia                  = * The "[[Afterlife (Location)|Afterlife]]" as depicted in [[Agents of S.H.I.E.L.D.]] is the home of the Inhumans on the Earth located in the mountains range of China and is isolated from society and led by Inhuman elders and [[Jiaying Johnson (Earth-199999)|Jiaying]] before its collapse during the war with S.H.I.E.L.D., It bears strong similarity to the "The Great refugee" version of Attilan which is also located in the mountains range of China.
+* Attilan has been relocated several times.
+| Links                   = * http://marveldirectory.com/miscellaneous/attilan.htm
+* http://en.wikipedia.org/wiki/Attilan
+* http://www.marvel.com/universe/Attilan
+* http://www.marvunapp.com/Appendix6/tuk_caveboy.htm
+}}
+[[ru:Аттилан]]
+
+==References==
+{{Reflist}}
+[[es:Attilan]]
+[[Category:Thunderbolts Bases]]
+[[Category:Bases]]
+[[Category:Cities]]
+[[Category:Countries]]
+[[Category:Underwater Cities]]
+[[Category:Himalayas]]
+[[Category:Blue Area of the Moon]]
+[[Category:Attilan]]
+[[Category:Fictional Countries]]

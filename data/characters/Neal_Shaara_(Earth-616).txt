@@ -1,0 +1,85 @@
+{{Marvel Database:Character Template
+| Title                   = [[Thunderbird]]
+| Image                   = Neal_Shaara_(Earth-616)_from_X-Men_Battle_of_the_Atom_(video_game)_001.jpg
+| Name                    = [[Neal Shaara]]
+| CurrentAlias            = Thunderbird
+| Aliases                 = 
+
+| Affiliation             = {{M|X-Men}}; formerly {{M|X-Corporation}} (Mumbai Branch), {{M|X-Treme X-Men}}
+| Relatives               = Mr. and Mrs. Shaara (parents);<br>
+[[Sanjit Shaara (Earth-616)|Sanjit]] (brother, deceased);<br>
+| MaritalStatus           = Single
+
+| Gender                  = Male
+| Height                  = 5'9"
+| Weight                  = 165 lbs (74.8 kg)
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Calcutta]]{{r|X-Men Unlimited #27}} or [[Assam]] State,{{r|X-Men: Declassified #1}} [[India]]
+
+| Identity                = Secret
+| Citizenship             = Indian, Krakoan
+| Occupation              = Adventurer; former student
+| Education               = Studies completed at [[Oxford University]], [[England]]{{r|X-Men: Declassified #1}}
+| BaseOfOperations        = [[Krakoa (Earth-616)|Krakoa]], [[Pacific Ocean]]; formerly [[Xavier Institute]], [[Salem Center]], [[North Salem]], [[Westchester County]], [[New York (State)|New York]]
+
+| Creators                = Chris Claremont; Leinil Francis Yu
+| First                   = X-Men Vol 2 #100
+
+| History                 = 
+===Origin===
+Neal Shaara was born into an upper class family in [[Calcutta]]. His father was an officer of the [[Indian National Police (Earth-616)|Indian National Police]] and was well-respected.{{r|X-Men Unlimited #27}}
+
+===The Omega Sentinels===
+Neal became concerned when his brother Sanjit did not return from a trip. He left home to look for his brother. He soon met [[Karima Shapandar (Earth-616)|Karima Shapandar]], who was asked by his father to search for Sanjit. The two began a relationship while searching for Sanjit.{{r|X-Men Unlimited #27}}
+
+Neal and Karima learned that Sanjit had been abducted to be converted into a [[Prime Sentinels (Earth-616)|Prime Sentinel]], and the two were soon captured themselves. The experience caused Neal's mutant powers to emerge. Sanjit sacrificed himself to save Neal. Karima also asked Neal to leave her before her Omega Sentinel would force her to hunt him down.{{r|X-Men Unlimited #27}}
+
+Neal contacted [[Moira MacTaggert (Earth-TRN748)|Moira MacTaggert]] and travelled to Muir Island. Neal was uncomfortable with the idea of being a mutant, and was initially shocked to see that the [[X-Men (Earth-616)|X-Men]] were also mutants. His reasons for taking the name of Thunderbird are unknown. Concerned about his powers, Neal would often hold back in battle. However [[Elizabeth Braddock (Earth-616)|Psylocke]] assisted him with training. The two became close as Betsy's relationship with Angel ended.{{r|X-Men Unlimited #27}}{{r|X-Men Vol 2 #109}}
+
+===X-Treme X-Men===
+Neal agreed to join Storm's [[X-Men (X-Treme) (Earth-616)|X-Treme X-Men]] team to search for [[Destiny's Books|Destiny's diaries]]. Psylocke's death at the hands of [[Vargas (Earth-616)|Vargas]] greatly depressed Neal, but [[Lucas Bishop (Earth-1191)|Bishop]] was able to get him to refocus and continue to train. Bishop mentioned in his future Neal was a well-known mutant.{{r|X-Treme X-Men #1|4}}
+
+Neal met and became close to [[Heather Cameron (Earth-616)|Heather Cameron]] while the team protected her and her brother. When [[Davis Cameron (Earth-616)|Davis]] agreed to have [[Sage (Earth-616)|Sage]] 'jumpstart' his powers, Neal cautioned him. Davis was not comfortable with himself or his sister's transformation into Lifeguard, and left after the team battled [[Khan (Alien) (Earth-616)|Khan]].{{r|X-Treme X-Men #9|18}}
+
+===X-Corporation===
+Neal eventually joined the X-Corporation's [[Singapore]] branch, where he found the Camerons. While part of the [[X-Corporation (Earth-616)|X-Corporation]] Xavier contacted him while in [[Genosha]].{{r|Excalibur Vol 3 #5}}
+
+===[[M-Day]]===
+He was one of the few mutants to retain their powers after the events of [[Decimation|M-Day]].{{r|X-Men: The 198 Files #1}}
+
+He was still involved with [[Heather Cameron (Earth-616)|Heather]], and both were presumed to be still on the trail of Davis at the time of the [[Second Coming]].{{r|Heroic Age: X-Men #1}}
+
+He was later listed as an active member of the [[X-Men (Earth-616)|X-Men]], presumably on [[Krakoa (Earth-616)|Krakoa]].{{r|X of Swords Handbook Vol 1 1}}
+
+| Powers                  = 
+'''Heat Conversion and Solar Energy Mimicry/Generation''': He has the ability to convert ambient heat into solar plasma. Neal can transform his body into solar plasma, enabling him to release and manipulate thermal discharges, focused beams, or shaped plasma fields from his eyes or limbs. He is able to fly via directed thrust, and can radiate blinding light or explosive energy from his entire body.{{r|X-Men Vol 2 #100}}
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * {{cl|X-Men: Declassified #1}} contained conflicting and potentially disturbing information about Neal's history. According to files recovered from Operation: Zero Tolerance, Neal was born in the state of [[Assam]] to a prosperous family owning a successful tea plantation. He and his brother were bullies to poor mutants in [[Calcutta]], and he later attended and completed studies at [[Oxford University]] in [[England]]. Declassified was full of misinformation about the X-Men, however, deliberately seeded by [[Sebastion Gilberti (Earth-616)|Bastion]], so this intelligence should be considered suspect.
+
+| Trivia                  = 
+| Links                   = * [http://uncannyxmen.net/characters/thunderbird-iii uncannyxmen.net Spotlight On... Thunderbird]
+}}
+[[Category:Post-M-Day Mutants (The 198)]]
+[[Category:Hindu Characters]]
+[[Category:Flight]]
+[[Category:Pyrokinesis]]
+[[Category:Photokinesis]]
+[[Category:Plasma Generation]]
+[[Category:Optic Blasts]]
+[[Category:Significant Threats]]
+[[Category:Oxford University Student]]
+[[Category:Energy Absorption]]
+[[Category:Elementals]]

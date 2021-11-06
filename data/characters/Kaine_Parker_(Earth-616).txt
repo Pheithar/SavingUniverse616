@@ -1,0 +1,271 @@
+{{Marvel Database:Character Template
+| Image                   = Scarlet Spider Vol 2 1 Bagley Variant Textless.jpg
+| Name                    = [[Kaine]]
+| NameRef                 = {{r|Spider-Geddon Handbook Vol 1 1}}
+| CurrentAlias            = [[Scarlet Spider]]
+| CurrentAliasRef         = {{r|Scarlet Spider Vol 2 2}}
+| Codenames               = [[Other|The Other]],{{r|Amazing Spider-Man Vol 3 #9}} [[Tarantula]]{{r|Amazing Spider-Man #637}}
+| Nicknames               = [[Candy Cane]]{{r|Spider-Force Vol 1 1}} 
+| Impersonations          = [[God]],{{r|Ben Reilly: Scarlet Spider Vol 1 13}} [[Jackal]],{{r|Ben Reilly: Scarlet Spider Vol 1 1}} [[Peter Parker]],{{r|Spectacular Spider-Man #224}} [[Spider-Man]]{{r|Spider-Man #61}} 
+| Aliases                 = Araña Escarlata,{{r|Scarlet Spider Vol 2 2}} Houston's Spider-Man,{{r|New Warriors Vol 5 #9}} [[Kaine Parker]],{{r|Amazing Spider-Man Vol 1 637}} Parker 3.0{{r|Amazing Spider-Man #666}}
+
+| Affiliation             = Formerly {{m|Superior Spider-Army (Earth-928)|Superior Spider-Army}}, former Ally of [[Benjamin Reilly (Earth-616)|Scarlet Spider]], {{m|Web-Warriors (Earth-001)|Web-Warriors}}, {{M|New Warriors}}, [[Spider-Army (Multiverse)|Spider-Army]][[Category:Spider-Army (Multiverse)/Members]]; partner of [[María Aracely Penalba (Earth-616)|Hummingbird]], ally of [[Peter Parker (Earth-616)|Spider-Man]], [[Wally Layton (Earth-616)|Lieutenant Wally Layton]], [[Annabelle Adams (Earth-616)|Annabelle Adams]], [[Donald Meland (Earth-616)|Dr. Donald Meland]], [[Eugene Thompson (Earth-616)|Agent Venom]], [[Redeemer (Microverse) (Earth-616)|Redeemer]], [[Zoe Walsh (Earth-616)|Zoe Walsh]], [[Miles Warren (Earth-616)|Jackal]], [[Damon Ryder (Earth-616)|Raptor]], [[Shannon Fitzpatrick (Earth-616)|Muse]], [[Louise Kennedy (Earth-616)|Officer Louise Kennedy]]
+| Relatives               = [[Miles Warren (Earth-616)|Miles Warren]] (creator);<br>
+[[Peter Parker (Earth-616)|Peter Parker]] (genetic template / "brother");<br>
+[[Benjamin Reilly (Earth-616)|Ben Reilly]] (fellow clone / "brother");<br>
+[[Spidercide (Earth-616)|Spidercide]] (fellow clone, allegedly deceased);<br>
+[[Guardian (Spider-Clone) (Earth-616)|Guardian]] (fellow clone, deceased);<br>
+[[Jack (Spider-Clone) (Earth-616)|Jack]] (fellow clone, deceased);<br>
+[[Spider-Skeleton (Earth-616)|Spider-Skeleton]] (fellow clone, deceased);<br>
+Extended family via [[Peter Parker (Earth-616)|Peter Parker]]
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe: Spider-Man 2005 Vol 1 1}}
+| Gender                  = Male
+| Height                  = 6'4"
+| Weight                  = 250 lbs 
+| Eyes                    = Brown
+| Eyes2                   = ([[:Category:Red Eyes|Red]] irises with black sclera when transformed by [[Other (Spider-Totem) (Multiverse)|the Other]]){{r|Spider-Geddon Handbook Vol 1 1}}
+| Hair                    = Brown
+| UnusualFeatures         = Scarred face and body;{{r|Ben Reilly: Scarlet Spider Vol 1 8}} formerly tattoos;{{r|Scarlet Spider Vol 2 6}} black and hairy skin, six red eyes
+
+| Origin                  = [[Homo sapiens|Human]] [[Mutate]] [[Clones|Clone]] of [[Peter Parker]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Miles Warren (Earth-616)|Jackal]]'s laboratory, [[New York City]], [[New York (State)|New York]]
+
+| Identity                = Secret 
+| Citizenship             = American
+| Occupation              = Adventurer, vigilante; former assassin, geneticist
+| Education               = Possesses memories of [[Peter Parker (Earth-616)|Peter Parker]]'s college education
+| BaseOfOperations        = [[Horizon University (Location)|Horizon University]], [[San Francisco]], [[California (State)|California]], [[Earth-616|Prime Marvel Universe]]; [[Veterans Center Las Vegas]], [[Las Vegas]], [[Nevada (State)|Nevada]], [[United Simians of America]]; formerly [[Loomworld]], [[Earth-001]]; [[Wundagore Mountain]], [[Transia]]; Mazatlan, [[Mexico]]; Four Seasons Hotel, [[Houston]], [[Texas (State)|Texas]]; [[New York City]], [[New York (State)|New York]], [[United States of America]]; [[Salt Lake City]], [[Utah (State)|Utah]]; [[Europe]]
+
+| Creators                = Terry Kavanagh; Steven Butler
+| First                   = Web of Spider-Man #119
+| First2                  = (As Kaine)<br>{{sld|Amazing Spider-Man #637}}(As Tarantula)<br>{{sld|Scarlet Spider Vol 2 2}}(As Scarlet Spider)
+
+| Quotation               = Kaine came down [[Houston|here]] to get away from the insanity of [[Peter Parker (Earth-616)|Spider-Man]]'s world. But then he put on a [[Spider-Man's Stealth Suit|costume]] and fought crime anyway. He wanted [[Scarlet Spider Vol 2|all the '''power''', and none of the '''responsibility''']]. But he took it on anyway. He found a home here. He had '''friends''' here. A city that counted on him. And while he may not have '''liked''' it... turns out Kaine is every bit the hero that I am. Wherever he is... I hope my '''brother''' has found peace.
+| Speaker                 = [[Peter Parker (Earth-616)|Peter Parker]]
+| QuoteSource             = Amazing Spider-Man Vol 3 1
+
+| History                 = 
+===Birth===
+The clone that would come to be known as Kaine was the [[Miles Warren (Earth-616)|Jackal]]'s first attempt at cloning [[Peter Parker (Earth-616)|Peter Parker]]. Initially thought to be a success, Kaine eventually became deformed due to a flaw in the cloning process. As he continued to degenerate, he was left further deformed and mentally unstable.{{r|Spider-Man #60}}
+
+[[File:Kaine Parker (Earth-616) from Amazing Spider-Man Vol 1 397 0001.jpg|thumb|left|200px]]
+The Jackal allowed Kaine to live as a test subject, to see how long the clone would survive; it ended up far exceeding his expectations. As a result, Kaine experienced a strong feeling of rejection like that which might arise between a father and son. Kaine left Professor Warren and realized that the partial degeneration had also caused a slight amplification of the powers he had genetically 'inherited' from Peter. His strength, speed, stamina, and agility were comparable to those of Peter, but he also gained precognitive powers as well, which shows him flashes of the future (this new ability has been assumed to be an amplified version of Peter's spider-sense). He also possessed a "Mark of Kaine," a corrosive touch that he used to leave eaten-away hand-prints on his victims' faces.{{r|Spider-Man #60}}
+
+===Ben Reilly===
+The Jackal went on to create another clone, the man who would become [[Benjamin Reilly (Earth-616)|Ben Reilly]]. When the Jackal used Reilly against Peter, the ensuing battle left Reilly and the Jackal (really a clone of Warren) for dead. They both managed to survive; the Jackal placed himself into suspended animation in a cloning pod to awaken later, and Reilly left [[New York City|New York]] upon realizing that he was the clone.{{r|Spider-Man: The Lost Years #1}}
+
+Behind the scenes, [[Norman Osborn (Earth-616)|Norman Osborn]] managed to have the files on Ben and Peter switched, so that the Jackal would think Peter was the clone and Ben was the real deal.{{r|Osborne Journals #1}} Consulting the Jackal's files, Kaine believed the same, so he followed Ben Reilly throughout his 'exile'. For a time, Kaine found love in the arms of police detective [[Louise Kennedy (Earth-616)|Louise Kennedy]] of [[Salt Lake City]], but when he discovered she was working for the criminals, Kaine's increased cellular degeneration pushed him even further towards insanity.{{r|Spider-Man: The Lost Years #1|3}}
+
+After killing Louise (although a part of him still loved her), Kaine continued to stalk Ben, making it appear as though [[Elizabeth Tyne (Earth-616)|Janine Godbe]], the woman Ben had come to love, had committed suicide and then framed Ben for various murders that Kaine had committed, as Kaine and Ben had the same fingerprints. Kaine hoped that by doing this, he would be able to give Peter, whom he still believed to be the clone, the life which Kaine could never have.{{r|Spider-Man: Redemption #1|4}}
+
+===Return to New York===
+When Ben returned to New York to visit a sick [[Maybelle Parker (Earth-616)|Aunt May]] (later revealed to be a genetically-altered actress), Kaine followed. By this time, Kaine had become a feared and respected mob hit-man.{{r|Web of Spider-Man #119}} When he discovered that Ben was in the city, he hounded him to try and prevent Ben from involving himself in Peter's life. It was at this time that Kaine's enhanced spider-sense warned him that someone would kill [[Mary Jane Watson (Earth-616)|Mary Jane]] and because of this Kaine went on a killing spree--killing anyone who seemed a potential threat. Among those he killed were villains [[Otto Octavius (Earth-616)|Doctor Octopus]],{{r|Spectacular Spider-Man #221}} and the [[Vladimir Kravinoff (Earth-616)|Grim Hunter]].{{r|Spider-Man #55}} This attracted the attention of Spider-Man and the Scarlet Spider, while the wave of killings was put up on police bulletin boards nationwide, leading to Kaine's distinctive M.O. being recognized in Salt Lake City by Louise Kennedy's ex-partner, who immediately left for New York to bring the killer to justice. In a twist, Kaine's attempt to frame Reilly with his fingerprints ended up drawing the police to Peter Parker instead. Parker was arrested for Louise's murder, and could not account for his whereabouts at the time of the murder because he had been Spider-Man at the time.{{r|Amazing Spider-Man #400}}
+
+[[File:Spider-Man The Lost Years Vol 1 2.jpg|right|thumb|200px|Kaine fighting Ben Reilly]]
+===Trial of Peter Parker===
+Peter temporarily broke out of jail, leading to a confrontation between him, Kaine, Reilly, and [[Spidercide (Earth-616)|a fourth Peter Parker]]. Unaware that Kaine was his clone at the time, Parker suspected Reilly of the crimes, but Ben volunteered to go back to prison in Peter's place, trusting Peter to prove his/their innocence.{{r|Spectacular Spider-Man #224}}
+
+Peter wanted Kaine to stand trial for what he had done, but Kaine initially refused. The two fought and ended up getting dragged into a mock trial where Spider-Man was on trial, Kaine was his defense attorney, [[Cletus Kasady (Earth-616)|Carnage]] was the prosecutor, several [[Ravencroft Institute]] inmates were the jury, and a powerful being known as [[Judas Traveller (Earth-616)|Judas Traveller]] was the judge. During the one-sided trial, Kaine tried to physically fight off all those who were against Spider-Man, before Traveller returned them to their previous place of battle.{{r|Amazing Spider-Man #403}}
+
+After an incident involving a super-powered villainess named [[Angelina Brancale (Earth-616)|Stunner]], a weakened Kaine still refused to confess to his crimes. Spider-Man responded by knocking Kaine out and webbing him up before heading to the courthouse. Kaine reawakened before they arrived, and struggled again with Spider-Man, while still refusing to confess. At this point, Kaine admitted that he had done everything to protect Peter's life and revealed that he was the first clone of Peter, now partially degenerated. Spider-Man decided that if Kaine would not reveal the truth, then he would reveal his true identity to the entire courtroom and end everything. Kaine pleaded for Peter not to do this, and before Peter could reveal the truth, Kaine confessed to the murders and left the "Mark of Kaine" on the Judge's podium; he was then taken into custody.{{r|Spider-Man #60}}{{r|Spectacular Spider-Man #226}}
+
+===Maximum Clonage===
+After the trial, Peter and Ben decided once and for all to determine the identity of the real Peter Parker. They used [[Seward Trainer (Earth-616)|Seward Trainer]]'s lab to do the test, and found that Ben was the original and Peter the clone. However, Seward had altered the results while under the influence of Norman Osborn. This pushed Peter over the edge and, in a fit of rage, he struck Mary Jane when she tried to stop him from killing Ben. Ashamed of what he had done, Peter fled the lab.{{r|Spectacular Spider-Man #226}}
+
+After Peter accepted that he was the clone and Ben was the true Peter Parker, he allied himself with the Jackal. Kaine refused to let him throw his life away, though, and he confronted the Jackal with the full intent of destroying him. The Jackal manipulated Kaine's mind once more, leading him to believe that he could be cured of the flaw triggering the degeneration process.{{r|Amazing Spider-Man #404}}
+
+Once the Jackal revealed that he had lied again, Kaine left, feeling rejected. He went back to Mary Jane for answers, and after a conversation about power and responsibility, Kaine returned to the Jackal's lab in time to assist Ben in a battle against numerous Spider-clones. In the ensuing battle, Kaine saved the Jackal from [[Spidercide (Earth-616)|Spidercide]], but was then impaled on a masonry spike. When Peter asked why Kaine had sacrificed himself, Kaine simply replied, "You gave me life." Curiously, the Jackal then placed Kaine in a regeneration pod.{{r|Spectacular Spider-Man #227}} When the pod was next seen, it was empty.{{r|Scarlet Spider Unlimited #1}}
+
+===The Return of Kaine===
+During Reilly's time as Spider-Man, some of the world's strongest fighters were pitted against one another in a fighting competition called the [[Great Game (Earth-616)|Great Game]], a fighting tournament on which wealthy people placed wagers to amuse themselves.{{r|Sensational Spider-Man #2}}
+
+One of the Game's main sponsors, [[James Johnsmeyer (Earth-616)|James Johnsmeyer]], found the pod containing the revived Kaine, and decided to initiate him into the competition, sending the [[Aleksei Sytsevich (Earth-616)|Rhino]] to fight him. After Kaine's refusal and escape (with the help of his temporary partner [[Shannon Fitzpatrick (Earth-616)|Shannon]]), Johnsmeyer still attempted to involve Kaine by allowing other Game competitors [[Janice Yanizeski (Earth-616)|Joystick]] and [[Thomas Duffy (Earth-616)|Polestar]] to attack him. Spider-Man interfered in the skirmish, but was side-tracked by Joystick and Polestar while Kaine gave the Rhino a near-fatal beating before escaping with Shannon. Before they were able to get away, Spider-Man had managed to tag Shannon with a tracer, and he pursued them once Polestar and Rhino were taken into custody. Spider-Man found them moments before the police arrived, but after an incident that threatened to kill the officers, Kaine and Shannon escaped again.{{r|Amazing Spider-Man #409}}
+
+This time, Kaine's destination was Johnsmeyer's headquarters. Spider-Man found them once again after Kaine managed to single-handedly destroy all of Johnsmeyer's rooftop security defenses, but once inside, Johnsmeyer revealed that Shannon, who had been working for Johnsmeyer during the entire ordeal, had been manipulating and deceiving Kaine. Kaine, not wanting to become anyone else's puppet, tried to kill Shannon, but was dissuaded by Spider-Man. Kaine left, vowing to take down every sponsor of the Great Game.{{r|Spider-Man #66}}
+
+===Kaine's Redemption===
+During a later encounter with Ben Reilly, in which Janine Godbe returned to the man she loved, Kaine finally let go of his hatred for his brother, even saving Ben's life after nearly leaving him to die in a burning diner. Encouraged by his brother's example (and finally acknowledging Ben as his brother rather than his foe), Kaine handed himself over to the law, as Janine, who was wanted for the murder of her abusive father, did the same.{{r|Spider-Man: Redemption Vol 1 4}}
+
+Several months later, however, he escaped from the [[Vault (Prison)|Vault]] alongside other super-powered criminals.{{r|Thunderbolts Annual Vol 1 1997}} Kaine broke out to try and stop Norman Osborn after finding out that he was still alive and had masterminded the [[Clone Saga]], and briefly worked against Osborn's agents in southern [[Europe]].{{r|Amazing Spider-Man #434|435}}{{r|Sensational Spider-Man #32}}
+
+===Dark Reign===
+[[File:Kaine_Parker_(Earth-616)_from_Amazing_Spider-Man_Vol_1_608_0001.jpg|left|thumb|175px|Fighting Peter Parker]] 
+Kaine later returned to New York City, attacking Spider-Man as he tried to track down [[Damon Ryder (Earth-616)|Raptor]]. He revealed that he had sought Raptor out, hoping that he could cure his cellular degeneration, and attacked Spider-Man to keep him from the villain.{{r|Amazing Spider-Man Vol 1 608}}
+
+When Raptor attacked [[Harold Osborn (Earth-616)|Harry Osborn]] and Peter's cousins at Aunt May's house, Kaine appeared, having been working with Raptor the whole time. He exposed Peter's identity as Spider-Man, then stated that Peter was a clone of Reilly and should be killed since he was the closest thing to Ben. Peter beat Raptor into unconsciousness and escaped. Raptor had lied to Kaine about being able to cure his degeneration to gain an ally in his quest for revenge. Furious, Kaine broke his neck, seemingly killing him.{{r|Amazing Spider-Man Vol 1 610}}
+
+===Grim Hunt===
+[[File:Kaine Parker (Earth-616) from Amazing Spider-Man Vol 1 666 0002.png|thumb|right|140px|Kaine as Tarantula.]]
+Kaine was attacked by [[Alexei Kravinoff (Earth-616)|Alyosha]] and [[Anastasia Kravinoff (Earth-616)|Ana Kravinoff]] for being associated with spiders. However, seeing that he wasn't a true spider, the duo decided to punish him by keeping him alive. Nevertheless, they wounded Kaine severely enough that he fled to Peter Parker's apartment in search of help. Peter hid him in the bathroom, then left to stop the Kravinoffs. When Kaine next appeared, he had shaved his face and cut his hair, and resembled Peter (albeit with a badly scarred face). When Spider-Man was 'killed' while resurrecting [[Sergei Kravinoff (Earth-616)|Kraven]],{{r|Amazing Spider-Man Vol 1 634|635}} it was discovered that it was actually Kaine in disguise, and that he had given his life to save Peter.{{r|Amazing Spider-Man Vol 1 636}}
+
+At the end of the Grim Hunt, Kaine was buried as a Parker, but was later seen rising from the dead with mutated features, including extra eyes in a spider-like pattern on his forehead, with the Jackal saying "Rise, cursed one. Rise... Tarantula." Kaine was then further changed by the Jackal into a tarantula-like creature, with his face resembling that of a spider, as well as six red eyes, and four spider-legs growing from his back.{{r|Amazing Spider-Man Vol 1 637}}{{r|Spider-Island: Deadly Foes Vol 1 1}}
+
+===Spider-Island===
+The Jackal made him the first of his army of individuals to use during the [[Spider-Island (Event)|Spider-Island]] event. Kaine, however, followed the Jackal merely because he was under his control. In his final confrontation with the original, Spider-Man threw him into a tank filled with "the cure", a concentration of the [[Anti-Venom (Symbiote) (Earth-616)|Anti-Venom symbiote]], which was intended to help cure the people of Spider-Island. The cure did more than return Kaine from being a monster, it also stabilized his DNA and made him a perfect clone of Peter Parker, similar to Ben Reilly. Kaine then helped with the retaliation against the Spider Queen, [[Adriana Soria (Earth-616)|Adriana Soria]], in [[Central Park]], moving past Peter Parker's ethical limitations by using lethal force against the Queen.{{r|Amazing Spider-Man Vol 1 666|673}}
+
+===Becoming the Scarlet Spider===
+[[File:Peter Parker (Kaine) (Earth-616) as Scarlet Spider.JPG|thumb|right|The new Scarlet Spider]]
+Earning money from both stopping robbers and committing robberies, Kaine started a trip around the USA to enter [[Mexico]]. During his stay in [[Houston]], [[Texas (State)|Texas]], he saved a young girl, [[María Aracely Penalba (Earth-616)|Aracely]], from human traffickers and left her in a hospital.{{r|Scarlet Spider Vol 2 1}} A super-powered villain came after Aracely, and Kaine felt that he had to save her instead of leaving Houston. In a scarlet suit similar to Spider-Man's, Kaine faced the [[Salamander (Earth-616)|Salamander]] and managed to defeat him, being named by him as "Araña Escarlata" ('Scarlet Spider' in Spanish). When the people at the scene cheered him and told them they needed a hero, Kaine's sense of responsibility for Aracely led him to stay in Houston as Scarlet Spider.{{r|Scarlet Spider Vol 2 2}}
+
+In subsequent adventures, Kaine found himself pitted against the [[Assassins Guild (Earth-616)|Assassins Guild]],{{r|Scarlet Spider Vol 2 17|19}} the [[Watchdogs (Earth-616)|Watchdogs]],{{r|Scarlet Spider Vol 2 5}} and Ana Kravinoff, who tried to kill him in order to free her father from the curse of immortality.{{r|Scarlet Spider Vol 2 21|24}}
+
+===Minimum Carnage===
+After Kaine was alerted about Carnage's return and his trip to Texas in order to retrieve something from a [[National Aeronautics and Space Administration (Earth-616)|NASA]] research center, Kaine tried to stop him. Kasady managed to use a interdimensional transport called the Prometheus Pit with the help of beings from the [[Microverse]], transporting him there. [[Eugene Thompson (Earth-616)|Venom]], who also was following Carnage's steps, joined Scarlet Spider in the search for Kasady, and they were transported to the Microverse by the Prometheus Pit.{{r|Minimum Carnage: Alpha #1}}
+
+Separated once they passed through the Pit, Kaine was found by a healer called the [[Redeemer (Microverse) (Earth-616)|Redeemer]], who was wanted by the [[Radu (Microverse) (Earth-616)|Marquis Radu]], the leader of Carnage's allies. After betraying his allies, Carnage killed them and started searching for Marquis Radu, crossing paths with Kaine and the Redeemer. Both Scarlet Spider and Kasady were captured and bought to Marquis Radu's base alongside Venom, who had been captured previously along with his allies, the [[Microns (Earth-616)|Enigma Force]] (a team of adventurers who were trying to capture Carnage as well).{{r|Scarlet Spider Vol 2 #10|11}}
+
+The [[Venom (Symbiote) (Earth-616)|Venom]] and [[Carnage (Symbiote) (Earth-616)|Carnage]] symbiotes were replicated and used to create an army which could allow Radu to control the Microverse. Carnage managed to take control over the symbiote army and used it to escape to the regular universe, where he was finally defeated by the combined efforts of Venom and Scarlet Spider, thanks to a special weapon the Enigma Force had given them. After being stung by the Scarlet Spider, Kasady's wounds were cured, but he was left in a catatonic state. The symbiote was now in full control of his body, but Kasady and his symbiote were sedated and incarcerated.{{r|Minimum Carnage: Omega #1}}
+
+===The Other===
+After a young victim of human trafficking was found dead, Kaine started hunting down and eradicating human traffickers from Houston, and vowed to use his powers to hunt down monsters like his old self. During his crusade, he found himself facing [[Carlos Lobo (Earth-616)|Carlos Lobo]] and [[Esmeralda Lobo (Earth-616)|his sister]], who had been responsible for Aracely's abuse.{{r|Scarlet Spider Vol 2 13}}
+
+[[File:Kaine Parker (Earth-616) and Other (Spider-Totem) (Multiverse) from Scarlet Spider Vol 2 14 001.jpg|thumb|left|Kaine reborn]]
+During a battle against the Lobos, Kaine was killed. His body was wrapped in a cocoon made of spider-webs, in a fashion similar to when Spider-Man had died after facing [[Morlun (Earth-001)|Morlun]]. Kaine found himself in a vision talking with [[Other (Spider-Totem) (Multiverse)|The Other]] in its Ero form, who explained that it was the one who had resurrected Kaine after Kraven's Grim Hunt, in order to allow Kaine to embrace it, as Peter Parker had refused its offer. Kaine initially refused the Other's offer, not wanting to become "the Spider" or a monster greater than the one he already was. However, he realized that Aracely still needed his help, and that he therefore had no choice but to embrace the Other, being reborn with augmented powers and a more arachnid-like appearance.{{r|Scarlet Spider Vol 2 14}} Kaine forced the [[Lobo Cartel (Earth-616)|Lobo Brothers]] to flee, as he left Carlos in a death-like state. But with his human nature gone, Kaine almost made Aracely his prey, before she managed to use her powers to make Kaine's human side resurface, reverting him to his human form.{{r|Scarlet Spider Vol 2 15}} Kaine returned to his 'normal' lifestyle, as he also started a relationship with [[Annabelle Adams (Earth-616)|Annabelle Adams]], the bartender of the Four Seasons Hotel.{{r|Scarlet Spider Vol 2 16}}
+
+===Finale===
+After settling a debt with the Assassins Guild{{r|Scarlet Spider Vol 2 19}} and facing the Jackal and Spider-Man (Otto Octavius), Kaine was confronted by Kraven the Hunter, who began to torture him while dressed as Ben Reilly.{{r|Scarlet Spider Vol 2 21}} Kraven wanted to force Kaine to kill him, in order to break the curse that made him unkillable, for which he kidnapped Kaine's friends in order to motivate him. In the end, Kaine delivered a fatal blow to Kraven's chest, paralyzing his heart. Then, using the same attack, Kaine brought him back to life, supposedly still breaking the curse.{{r|Scarlet Spider Vol 2 23}}
+
+[[File:Scarlet Spider Vol 2 3 Textless.jpg|thumb|right]]
+During Kraven's attack, [[Donald Meland (Earth-616)|Donald Meland]] was fatally injured, prompting [[Wally Layton (Earth-616)|Wally Layton]] to search for Kaine's records to try to arrest him. When Wally confronted Kaine in his Four Seasons room, [[Shathra (Earth-616)|Shathra]] was revealed to have pinned Kaine down at the same time that [[Zoe Walsh (Earth-616)|Zoe Walsh]] blew up the room with a bazooka; Zoe did this for revenge against Kaine, who had put her father into a coma weeks ago.{{r|Scarlet Spider Vol 2 24}} Kaine managed to rescue everyone in the room (Wally, Annabelle, Aracely, and even Zoe), while killing Shathra. Having turned into a form controlled by the Other in order to defeat Shathra, Kaine realized he had to stop pretending to be a hero, and left Houston.
+
+While living off of money stolen from criminals, Kaine and Aracely moved to Mexico in order to discover Aracely's origin.{{r|Scarlet Spider Vol 2 25}}
+
+===New Warriors===
+Later, in Mazatlan (Mexico), Kaine became the Scarlet Spider again to help Aracely save some tourists from muggers at her insistence. After that, while relaxing at the beach and discussing issues of life, powers and the responsibility they entail, the pair found a dantesque view as blood colored the water and the corpses of [[Homo mermanus|Atlanteans]] and [[Deviants (Homo descendus)|Deviants]] began to emerge to the surface along an armed blue-skinned girl. She told them she was [[Faira Sar Namora (Earth-616)|Faira Sar Namora]] of [[Atlantis]] and that she was seeking heroes.{{r|New Warriors Vol 5 1}}
+
+Namora had been followed by [[Evolutionaries]], who kidnapped her, as well as Kaine and Aracely.{{r|New Warriors Vol 5 2}} They were later rescued by the [[New Warriors (Earth-616)|New Warriors]] after being taken to [[Wundagore Mountain]],{{r|New Warriors Vol 5 3}} and helped the team stop the [[Herbert Wyndham (Earth-616)|High Evolutionary]] from detonating his bomb.{{r|New Warriors Vol 5 4}} At first reluctant to join the heroes, Kaine was later convinced by [[Vance Astrovik (Earth-616)|Justice]] that the New Warriors could help him become a better person.{{r|New Warriors Vol 5 9}}
+
+===[[Spider-Verse]]===
+Kaine was attacked by [[Daemos (Earth-001)|Daemos]] of the [[Inheritors (Earth-001)|Inheritors]], who easily defeated the New Warriors. Pinned down, Kaine impaled Daemos with numerous spines, and Daemos recognized him as the current reciprocal of the Other. Before Daemos could drain Kaine, [[Ezekiel Sims (Earth-4)|Old Man Spider-Man]], [[Gwendolyn Stacy (Earth-65)|Spider-Woman]], [[Robert Bruce Banner (Earth-70105)|Bullet Points Spider-Man]], and [[Benjamin Reilly (Earth-94)|Ben Reilly]] from [[Earth-94]] arrived. After seeing Gwen, he thought this was the Jackal's making until being shocked from seeing Ben. With Daemos distracted, Gwen was able to rescue Kaine and they retreated to [[Earth-13]], though Banner was crippled and captured.{{r|Amazing Spider-Man Vol 3 9}}
+
+Kaine, along with Ben Reilly and [[Jessica Drew (Spider-Clone) (Earth-1610)|Jessica Drew]], later traveled to another universe, from where the cloned bodies that granted the Inheritors immortality came from.{{r|Amazing Spider-Man Vol 3 10}} At the cost of Ben Reilly's life, Kaine and Black Widow managed to shut down the facility, which was run by the Inheritor [[Jennix (Earth-001)|Jennix]].{{r|Scarlet Spiders #3}} Fueled by rage for Reilly's death, Kaine traveled to [[Earth-001]], the base of the Inheritors, to take revenge on them. Drawing on the Other's full power, Kaine transformed into a monstrous creature and was able to kill the leader of the Inheritors, [[Solus (Earth-001)|Solus]]. Kaine was seemingly murdered when Morlun used one of Kaine's spider legs to stab him on the neck.{{r|Amazing Spider-Man Vol 3 13}}
+
+Even though the [[Spider-Army (Multiverse)|Spider-Army]] couldn't save Kaine, they managed to stop the Inheritors once and for all.{{r|Amazing Spider-Man Vol 3 14}} After all of the spiders returned to their respective universes, Kaine started emerging from his Other form's corpse.{{r|Amazing Spider-Man Vol 3 15}}
+
+===[[Dead No More: The Clone Conspiracy]]===
+Initially it appeared that Kaine had been granted a new lease on life. However, while he was being welcomed back to the world of the living by Loomworld's new protector [[Karn (Earth-001)|Master Weaver]], it was quickly noticed that his cellular degradation had returned. The Other's possession had kept Kaine's condition at bay, but without it his body had begun to deteriorate and turn into a [[Carrion]]. The Master Weaver feared Kaine wouldn't be able to return, believing he had now become the carrier of the [[Carrion Virus]], a plague he had noticed affected numerous alternate Earths, turning its inhabitants into zombie-like creatures.
+
+Using the fact that he had already become infected to his advantage, Kaine set out to travel to these infected universes to investigate the plague and find some kind of cure. The only clue as to how did the plague begin was the connection of each reality's [[Parker Industries]] to their respective pandemic epicenter.
+
+Along with Spider-Woman, the Gwen Stacy of [[Earth-65]], Kaine traveled to one of the parallel realities where Peter and Miles Warren had begun to work together in search for a cure, but they were killed by zombies. Kaine managed to find a research note from that world's Peter before his death and intended to go back to Loomword when he was suddenly confronted by an alternate version of himself who had been infected by the Carrion virus. After a brief fight, his counterpart died by the virus and Kaine brought and examined the body and was realized that he was in fact not infected. Kaine and Spider-Woman decided to travel to Earth-616 when it appeared a new cycle of the plague was going to begin, marked by the appearance of [[New U Technologies (Earth-616)|New U Technologies]] in this universe.
+
+Once they arrived at Earth-616, Kaine and Spider-Woman infiltrated into New U Technologies' facility and kidnapped the newly-resurrected [[Gwendolyne Stacy (Earth-616)|Gwen Stacy]], so Spider-Woman could impersonate her and dig up more information.{{r|Amazing Spider-Man Vol 4 21}} When Spider-Man was informed by Spider-Woman of her and Kaine's plan, he directed Kaine to bring the real Stacy to [[Horizon University (Earth-616)|Horizon University]], so they could supply her with some of the pills they were studying that prevented those brought back to life by the Jackal from eventually suffering of cellular degeneration.{{r|Clone Conspiracy Vol 1 2}} Two of the Jackal's goons, [[Francine Frye (Earth-616)|Electro]] and [[Aleksei Sytsevich (Earth-616)|Rhino]], attacked Horizon University in search of the real Gwen. Kaine tried to fight them, but was defeated and taken to the Jackal's secret base as well.{{r|Clone Conspiracy Vol 1 3}}
+
+Kaine was then studied on by Jackal's ally [[Otto Octavius (Earth-616)|Doctor Octopus]], but Spider-Woman, having previously followed them, managed to break him free once chaos erupted in the lab when Doc Ock turned against the Jackal.{{r|Clone Conspiracy Vol 1 4}} The Jackal, who revealed himself as none other than Ben Reilly, put the world at risk when he broadcasted worldwide a frequency that caused all of New U's patients to break down, beginning the outbreak of the Carrion Virus. Spider-Man, who had joined the conflict by this time, managed to broadcast the opposite signal and stopped the outbreak, reverting back to normal all those who hadn't yet completely broken down.{{r|Clone Conspiracy Vol 1 5}} With his world saved from the Carrion apocalypse, Kaine decided to hunt down Ben Reilly, whose apparent death at the hands of the outbreak he correctly assumed had been faked.{{r|Clone Conspiracy Omega Vol 1 1}}
+
+===Hunting Down Ben Reilly===
+[[File:Ben Reilly Scarlet Spider Vol 1 6 Textless.jpg|thumb|left]]
+Kaine's investigation quickly led him to Ben's whereabouts in [[Las Vegas]], where he had returned to his identity of the Scarlet Spider.{{r|Ben Reilly: Scarlet Spider Vol 1 2}} Kaine eventually confronted Reilly and both Scarlet Spiders fought until Ben convinced Kaine to temporarily give up on his quest for revenge. Ben was focusing his efforts on saving the life of [[Abigail Mercury (Earth-616)|Abigail Mercury]], a terminally ill child and one of the people New U attempted to replace with a healthy clone. Kaine agreed to let Ben go unless he either succeeded or failed in curing Abigail.{{r|Ben Reilly: Scarlet Spider Vol 1 5}} While in Las Vegas, Kaine met [[Terry Wright (Earth-616)|Terry Wright]] who, after seeing his scarred face, mistook him for a war veteran and invited him to live in her veterans shelter.{{r|Ben Reilly: Scarlet Spider Vol 1 6}} Kaine saved the shelter from being sold after helping rescue [[Cassandra Mercury (Earth-616)|Cassandra Mercury]] from kidnapping and asking her for money in return.{{r|Ben Reilly: Scarlet Spider Vol 1 13}}
+
+Kaine became entangled in several of Ben's subsequent adventures in Las Vegas, including a demonic invasion by [[Mephisto (Earth-616)|Mephisto]], during which Ben made a deal with him to save Abigail's life in exchange of helping him. When Ben went back on the deal, Mephisto possessed Kaine and had him attack Reilly, but Ben subdued him.{{r|Ben Reilly: Scarlet Spider Vol 1 17}} Ben eventually obtained a cure of Abigail's disease, in the form of a vial containing the blood from the [[Angels (Monotheism)|Angel]] [[Gabriel (Angel) (Earth-616)|Gabriel]], who was the leader of an Earth-based mysterious organization called the [[Diogenes Initiative (Earth-616)|Diogenes Initiative]] which operated in Nevada.{{r|Ben Reilly: Scarlet Spider Vol 1 22}} However, when Ben was going to inject Abigail the cure, Mephisto responded to his past defiance. The demonic lord created a complex deception that stopped Ben from saving Abigail, falling under the belief that the cure would condemn her to an immortal existence at her current age, and he subsequently altered Kaine and Cassandra's memories so that they would try to kill Ben; believing that Ben willingly withheld the cure for his own profit.{{r|Ben Reilly: Scarlet Spider Vol 1 23}} After chasing Ben through Las Vegas, Kaine shot him down.{{r|Ben Reilly: Scarlet Spider Vol 1 24}} Due to the nature of Mephisto's meddling, Kaine's memory was restored after killing Reilly and he regretted his actions, unaware that Ben had been subsequently brought back to life. However, his rebirth corrupted Ben into a villainous sociopath. Despite the fact that Mephisto's influence had pushed Kaine into murdering Ben, Ben tracked him down and stabbed him several times, threatening him to get out of Las Vegas if he survived.{{r|Ben Reilly: Scarlet Spider Vol 1 25}}
+
+===[[Spider-Geddon]]===
+Kaine was tracked down by the [[Otto Octavius (Earth-616)|Superior Spider-Man]], who explained the Inheritors had escaped their prison using New U's cloning technology and was hoping to use the power of the Other against them. Despite explaining that he had lost his connection to the Other, Kaine volunteered his services and suggested recruiting Ben Reilly - who had more expertise with the cloning tech than anyone else. Otto refused, still holding a grudge against Ben for deceiving him as the Jackal; but Ben eavesdropped on their conversation and followed them.{{r|Spider-Geddon Vol 1 2}}
+
+Kaine then recruited the help of [[Ashley Barton (Earth-807128)|Ashley Barton]], [[Jessica Drew (Earth-616)|Jessica Drew]], and [[Peter Parker (Earth-218)|Spider-Kid]] into going to [[Earth-3145]] to stop [[Verna (Earth-001)|Verna]] from resurrecting Solus. However, once arriving to the irradiated world their [[Dimensional Travel Watch]] were suddenly destroyed, stranding them in this world.{{r|Spider-Force Vol 1 1}} They were then attacked by [[John Jonah Jameson III (Earth-3145)|Astro-Spider (John Jameson)]], but after getting to know each other, they all went to John's [[Jericho Shuttle|shuttle]] where Verna killed the world's remaining survivors.{{r|Spider-Force Vol 1 2}} After Verna killed Jameson and got the crystal containing Solus' soul, the team went back to earth to stop her. After fighting and killing her [[Hounds (Earth-001)|Hounds]], the team went to the bunker at [[Sims Tower]], while Jessica killed Verna and got the crystal to the Prime universe.{{r|Spider-Force Vol 1 3}} Spider-Gwen then assembled the rest of the spiders, including Kaine, for the final battle against the Inheritors who were then turned into babies following the battle.{{r|Spider-Geddon Vol 1 5}}
+
+| Powers                  = Kaine possesses various superhuman attributes as a result of his unique physiology. As a clone of [[Peter Parker (Earth-616)|Peter Parker]], Kaine began his life with powers identical to Spider-Man's, though some of these powers were altered as a result of Kaine undergoing cellular degeneration. Once cured of his tarantula mutation and his cellular degeneration, his powers were reduced to around Peter Parker's strength. After embracing The Other, Kaine resurfaced with new augmented abilities.{{r|Scarlet Spider Vol 2 14}} However, after the death of the Other, Kaine seemingly lost some of the abilities that he got during his time as its host.{{r|Amazing Spider-Man Vol 4 21}}
+
+*'''Superhuman Strength:''' Like Peter Parker, Kaine possesses superhuman strength. Initially, his strength is different to Spider-Man's, and he could lift approximately 40 tons. Over time and further mutation, Kaine's physical strength has dramatically increased to the point of being able to lift up to 60 tons. He has proven to be able to beat the [[Aleksei Sytsevich (Earth-616)|Rhino]] unconscious and hold his own against Peter Parker, [[Benjamin Reilly (Earth-616)|Ben Reilly]], and [[Spidercide (Earth-616)|Spidercide]] at the same time. Following his reset of powers from being cured of his degeneration, along with embracing the Other, it is assumed his strength level is roughly around Class 25,{{r|All-New Official Handbook of the Marvel Universe A to Z Vol 1 6}} compared to when Peter had joined with the Other. When fully transformed into the Other, Kaine's strength is comparable to that of a Class 100 superhuman, as he was shown able to fight three Inheritors - [[Morlun (Earth-001)|Morlun]], [[Daemos (Earth-001)|Daemos]], and [[Solus (Earth-001)|Solus]] - at once and kill the latter with relative ease. His strength extends into his powerful leg muscles, allowing him to leap heights and distances in excess of human capability. Unlike Peter Parker, Kaine generally has no restraints on using his super-strength against enemies with typical human durability, and as such, is capable of severely injuring enemies with normal attacks.{{r|Web of Spider-Man #121}} During his fight against [[Otto Octavius (Earth-616)|Spider-Man (Otto Octavius)]], Octavius stated that Kaine is noticeably stronger than him.{{r|Superior Spider-Man Team-Up Vol 1 2}}
+*'''Superhuman Speed:''' Kaine is capable of running and moving at speeds that are beyond the natural physical limits of the finest human athlete.
+*'''Superhuman Stamina:''' Kaine's augmented musculature is much more efficient than that of a normal human being. As a result, his muscles produce lesser amounts of fatigue toxins during physical activity than do those of ordinary humans. He can exert himself physically at peak capacity for at least several hours before the build up of fatigue toxins in his blood begins to impair him.
+*'''Superhuman Durability:''' Kaine's body is tougher and more resistant to some types of physical injury than that of a normal human. Kaine's bodily tissues are resistant to powerful impact or blunt force trauma. He can withstand impacts, such as falling from several stories, being repeatedly struck with superhuman force or by several powerful energy blasts, that would severely injure or kill a normal human with little to no injury himself.<br>
+*'''Regenerative Healing Factor:''' Kaine's physiology was augmented with a limited healing factor.
+*'''Superhuman Agility:''' Kaine's agility, balance, and bodily coordination are enhanced to levels beyond the natural physical limits of the finest human athlete. In spite of his increased size and mass, Kaine is still just as agile as Spider-Man.<br>
+*'''Superhuman Reflexes:''' Kaine's reflexes are similarly enhanced and are more efficient than those of an ordinary human by a factor of fifteen.
+*'''Wall-Crawling:''' Kaine is also able to stick to virtually any surface and crawl across it just as Spider-Man is capable of. His mental control over this ability has been increased to such a degree, he can rip a wall down just by tugging at it hard enough with his palms.
+**'''Mark Of Kaine:''' This same attribute has also resulted in deformity in his hands. He can channel this same energy endothermically through his hands and leave a severe burn mark on a person by making skin-to-skin contact with them. He typically leaves this mark across a person's face, though it is presumed he can do the same to other parts of the body. Non-offensive usage of this power allows Kaine to easily burn his long hair (along with his beard) to a shorter length without burning himself in the process.<br>
+*'''Biological/Organic Webbing Generation:''' Kaine has the ability to organically produce his own silk webbing from glands within his forearms, limited by his body's health and nutrition.
+*'''Psychic Alignment with Arthropods:''' Kaine has an unknown method of creating a psychic alignment with his environment; specifically, a more empathetic and sympathetic relationship with spiders,{{r|New Warriors Vol 5 3}} and insects. While connected to the varying populations of spiders, he was unable to communicate with them directly or command them.
+*'''Immune to Spider-Man's Spider-Sense:''' Kaine is immune to Spider-Man's Spider-Sense. Due to their sharing the same DNA, Spider-Man's Spider-Sense recognizes Kaine as "self."
+
+{{Navigation
+| title  = Former Powers
+| body   = 
+'''Spider-Sense:''' Like Spider-Man, Kaine possesses a kind of early warning system that allows him to sense potential danger or potential attack within his vicinity. Kaine's 'spider-sense' is even more developed than Spider-Man's, giving him a limited degree of actual precognition. However, the visions would come without warning, occasionally impairing his combat skills during a fight. After the events of Spider-Island,{{r|New Warriors Vol 5 5}} Kaine no longer has any form of spider-sense, and must rely solely on his superhuman reflexes to avoid attacks, as well as concentrating while web-slinging.
+
+'''The Other:''' After being killed by the Kravinoffs, Kaine was chosen as the receptacle of the powerful [[Spider-Totems|totemic spider-god]] called [[Other (Spider-Totem) (Multiverse)|The Other]], which resurrected him with augmented abilities and cured his cellular degeneration.{{r|Spider-Island: Deadly Foes Vol 1 1}}{{r|Scarlet Spider Vol 2 14}}{{r|Amazing Spider-Man Vol 1 671}}
+*'''Sting of Kaine:''' After his powers were altered on Spider-Island, Kaine had venomous bone-like stingers which extended from his forearms.
+*'''Night-Vision:''' After the events of Spider-Island, Kaine possessed night vision.
+*'''Monstrous Transformation:''' When his life was in danger or when he was experiencing extreme anger, Kaine was able to transform into a monstrous arachnoid controlled by the Other.{{r|Scarlet Spider Vol 2 25}} During this mutation, he can also project numerous spines of varying length from his forearms.{{r|Amazing Spider-Man Vol 3 9}} When on Earth-001, he can unleash its full power to transform into a massive [[Man-Spider]]-like creature.{{r|Amazing Spider-Man Vol 3 13}}
+}}
+
+| Abilities               = While Kaine has had no formal training, he is a formidable hand-to-hand combatant, and uses an unusual type of free-style technique similar to that of Spider-Man, though Kaine has no qualms against fighting in a more brutal style. It allows him to make full use of his strength and agility. Kaine is also as intelligent as Spider-Man, and, presumably, has the same level of creativity and knowledge of chemistry. While he does not use web-shooters, he is capable of creating and using them should he choose to do so.
+
+Kaine knows how to speak a little bit of Spanish and Japanese.{{r|Scarlet Spider Vol 2 12.1}}
+
+| Strength                = Class 10.
+| Weaknesses              = 
+{{Navigation
+| title  = Former Weaknesses
+| body   = 
+
+'''Cellular Degeneration:''' Kaine suffers from cellular degeneration as a result of imperfections in the Jackal's cloning process, leaving his body badly scarred and deteriorating. After he became the receptacle of the Other, Kaine's cellular degeneration was healed.{{r|Amazing Spider-Man Vol 1 671}} But following the Other's death, it has returned.{{r|Amazing Spider-Man Vol 4 21}} Recently, this weakness is no longer applies after the Death brought him back to life and seemingly healing him.{{r|Ben Reilly: Scarlet Spider Vol 1 7}} But for unknown reasons Kaine still had scars on his face and some parts of his body.{{r|Ben Reilly: Scarlet Spider Vol 1 8}}
+}}
+
+| Equipment               = '''[[Spider-Man's Stealth Suit]]:''' Modified by Madame Web so that it's stuck in its red and black color scheme, which allows him to turn invisible and be invulnerable to sonic attacks. Serves as his Scarlet Spider costume.
+
+'''[[Spider-Tracer|Spider-Tracers]]:''' At one point, Peter gifted Kaine a handful of Spider-Tracers. Since he lacks the Spider-Sense which makes it possible for Peter to track them, Kaine uses them in conjunction with an electronic listening device.{{r|Ben Reilly: Scarlet Spider Vol 1 14}}
+
+{{Navigation
+| title  = Former Equipment
+| body   = '''Regeneration Suit:''' He acquired this suit during his years on the road. As his cellular degeneration worsened, Kaine used this suit to prevent further deterioration of his body. He also weaponized the suit by added a pair of retractable metal blades to the back of one of his gloves. This "Sting of Kaine" was the primary manner by which he killed as an assassin, often in conjunction with his "Mark of Kaine" as a signature on his victims.
+}}
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * Though never explicitly stated within the story, in interviews afterwards the creators revealed that the Mark of Kaine was meant to be analogous to one of Spider-Man's powers, namely the ability to cling to walls.
+* After Kaine's encounter with Anti-Venom's 'cure', Kaine's degeneration-induced agony faded, and the near madness that came with it. As a result, other aspects of his personality became prevalent for the first time. He shows this through his use of humor in response to Peter's, the "Parker Brothers" comment, and calling dibs on Peter's stealth suit (he didn't want to use the standard costume, due to him being killed the last time he used it, during the [[Grim Hunt]] storyline).
+* He is shown to hate his superhero name,{{r|Scarlet Spider Vol 2 #5}} possibly due to it last being used by Ben Reilly, a fellow clone. It is noted that Ben was also not very fond of the name, due to it being given to him by the press.
+* It was revealed that [[Julia Carpenter (Earth-616)|Madame Web]] locked the stealth suit's look to red, preventing Kaine from changing it back to black (this is why he was called the "Scarlet Spider").{{r|Scarlet Spider Vol 2 17}}
+* Kaine has the ability to inflict pain on the Inheritors due to his connection to "The Other."{{r|Amazing Spider-Man Vol 3 9}}
+* Kaine is creeped out by [[Reed Richards (Earth-616)|Mister Fantastic]]'s stretching abilities.{{r|Amazing Spider-Man #672}}
+* Currently, Kaine and Ben Reilly are the last known living clones of Peter Parker.
+* Jackal had plans to clone Kaine Parker to create a Spidercide 2.0.{{r|Scarlet Spider Vol 2 20}}
+* Kaine appears to be Catholic. During his metaphysical confrontation against the [[Other (Spider-Totem) (Multiverse)|Other]], Kaine recited the passage 23:6 of the ''[[wikipedia:Psalms|Book of Psalms]]'' for comfort.{{r|Scarlet Spider Vol 2 14}} Kaine has also [[wikipedia:Confession (religion)|confessed]] to a priest and acknowledged the existence of Hell.{{r|Scarlet Spider Vol 2 24}}
+* Despite not having The Other, Kaine can turn his eyes red on command, as shown when he interrogated Rita Clarkson.{{r|Ben Reilly: Scarlet Spider Vol 1 2}}
+| Trivia                  = 
+| Wikipedia               = Kaine Parker
+| Links                   = *[http://www.spiderfan.org/characters/kaine.html Kaine's profile at Spiderfan.org]
+*[http://www.samruby.com/History/clonesagatimeline.htm The Clone Saga Timeline]
+}}
+[[pt-br:Peter Parker (Kaine) (Terra-616)]]
+[[Category:Wallcrawling]]
+[[Category:Superhuman Strength]]
+[[Category:Strength Class 25]]
+[[Category:Invisibility]]
+[[Category:Claws]][[Category:Infobox UnusualFeatures Update Needed]]
+[[Category:Web-Slinging]]
+[[Category:Formerly Deceased]]
+[[Category:Leaping]]
+[[Category:Human/Spider Hybrids]]
+[[Category:Clones of Peter Parker]]
+[[Category:Clones Created by Miles Warren]]
+[[Category:Organic Webbing]]
+[[Category:Shooting]]
+[[Category:Parker Family]]
+[[Category:Zoopathy]]
+[[Category:Night Vision]]
+[[Category:Energy Manipulation]]
+[[Category:Cellular Degeneration]]
+[[Category:Spider-Verse participants]]
+[[Category:Spider-Verse casualties]]
+[[Category:Spider-Geddon participants]]
+[[Category:The Other receptacles]]
+[[Category:Legally Deceased]]
+[[Category:Interdimensional Travelers]]
+[[Category:Grim Hunt casualties]]
+[[Category:Multilingual]]
+[[Category:Magic-Based Mutates]]
+[[Category:Totemic Avatars]]
+[[Category:Spirits of Vengeance]]
+[[Category:Damnation participants]]
+[[Category:Gifted Intelligence]]
+[[Category:Regeneration]]
+[[Category:Scarred]]
+[[Category:Catholic Characters]]
+[[Category:Arthropod Form]]
+[[Category:Genetically Engineered]]

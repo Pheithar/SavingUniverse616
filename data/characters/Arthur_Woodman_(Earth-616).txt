@@ -1,0 +1,70 @@
+{{Marvel Database:Character Template
+| Image                   = Arthur Woodman (Earth-616) from Avengers The Initiative Special Vol 1 1 0001.jpg
+| Name                    = [[Arthur Woodman]]
+| Name2                   = {{r|Avengers: The Initiative #12}}
+| CurrentAlias            = 
+| Aliases                 = Commander Woodman,{{r|Avengers: The Initiative Annual #1}} Senator Woodman{{r|Avengers: The Initiative Vol 1 7}} 
+
+| Affiliation             = {{m|Hydra (Earth-616)|Hydra}}, {{m|United States Senate (Earth-616)|U.S. Senate}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Eyes2                   = (Woodman); [[:Category:White Eyes|White]][[Category:White Eyes]] (Reptilian)
+| Hair                    = Black
+| Hair2                   = (Woodman); [[:Category:No Hair|None]][[Category:No Hair]] (Reptilian)
+| UnusualSkinColor        = Green
+| UnusualFeatures         = After the mutation Woodman possessed a giant reptilian form with a long tail, claw like talons, fangs, a long dorsal fin and green scaled skin
+
+| Origin                  = [[Homo sapiens|Human]] [[Mutate]]d by [[Melati Kusuma (Earth-616)|Komodo]]'s [[Connors Formula]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+| KilledBy                = Roger Brokeridge (Earth-616)
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Senator, Hydra leader
+| Education               = 
+| BaseOfOperations        = [[Washington, D.C.]]
+
+| Creators                = Dan Slott; Christos N. Gage; Salvador Larroca
+| First                   = Avengers: The Initiative Vol 1 3
+| Death                   = Avengers: The Initiative Special Vol 1 1
+
+| History                 = [[File:Woodman (Earth-616) from Avengers The Initiative Vol 1 6 001.png|thumb|left|150px|Senator Arthur Woodman]]
+Mr. Woodman was an agent of [[Hydra (Earth-616)|Hydra]] a well as a [[United States Senate (Earth-616)|Senator]], who worked to corrupt [[Roger Brokeridge (Earth-616)|Roger Brokeridge]], also known as [[Hardball]], to insure that Hydra had someone on the inside of [[Camp Hammond]] and used him to steal a vial of [[Super-Power Inhibiting Nanobots]].{{r|Avengers: The Initiative Vol 1 3}}
+
+He hired the [[Vulturions (Earth-616)|Vulturions]] to steal [[Wernher von Blitzschlag (Earth-616)|Baron von Blitzschlag]]'s classified government documents concerning the greatest gamma ray experiments.{{r|Avengers: The Initiative #7}}
+
+Woodman was informed by [[Henry Gyrich (Earth-616)|Secretary Gyrich]] about the experiments concerning the [[Tactigon]] and the [[Gauntlet Armor]].{{r|Avengers: The Initiative Annual #1}}
+
+After the [[Secret Invasion]], Hardball's status as an agent for Hydra led to a confrontation against the rest of his [[Heavy Hitters (Earth-616)|Heavy Hitters]] team and a visiting [[Melati Kusuma (Earth-616)|Komodo]]. Hardball killed Senator Woodman after the man used Komodo's [[Connors Formula]] to turn himself into a monster, Hardball then effectively became the new leader of Woodman's Hydra cell.{{r|Avengers: The Initiative Special #1}}
+
+| Powers                  = After using [[Melati Kusuma (Earth-616)|Komodo]]'s [[Connors Formula]], Woodman turned into a giant lizard-like creature able to regenerate a limb in seconds.{{r|Avengers: The Initiative Special #1}}
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               =
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Connors Formula]]
+[[Category:Reptilian Form]]
+[[Category:Human/Lizard Hybrids]]
+[[Category:Giant Monsters]]
+[[Category:Regeneration]]
+[[Category:Fins]]
+[[Category:Prehensile Tail]]
+[[Category:Fangs]]
+[[Category:Scaly Skin]]
+[[Category:Claws]]

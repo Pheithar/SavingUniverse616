@@ -1,0 +1,68 @@
+{{Marvel Database:Character Template
+| Image                   = Sentry 9168 (Earth-616) from Fantastic Four Vol 1 98 0001.jpg
+| Name                    = Sentry 9168
+| CurrentAlias            = Sentry
+| Aliases                 = 
+
+| Affiliation             = Agent of the [[Kree Empire]]
+| Relatives               = [[Sentry 213 (Earth-616)|Sentry 213]] and [[Sentry 459 (Earth-616)|Sentry 459]] might be considered older "siblings" 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = 
+| Height                  = 6'0"
+| Weight                  = 
+| Eyes                    = Black 
+| Hair                    = None 
+| UnusualSkinColor        = Silver
+| UnusualSkinColor 2      = Blue
+| UnusualFeatures         = Robotic construction
+
+| Origin                  = [[Kree Sentries|Kree Sentry]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Kree Throne-World]]
+| PlaceOfDeath            = [[Uranus (Planet)|Uranus]]
+
+| Identity                = Secret 
+| Citizenship             = Kree Empire
+| Occupation              = Sentry 
+| Education               = 
+| BaseOfOperations        = [[Blue Area of the Moon]]
+
+| Creators                = Stan Lee; Jack Kirby
+| First                   = Fantastic Four Vol 1 98
+| Death                   = Fantastic Four Vol 1 98
+
+| History                 = The alien species known as the [[Kree]] developed and built the Sentries to watch over their military advanced bases and supply depots throughout all the [[Kree Empire]] and beyond. 
+
+Some 80.000 years ago, in Kree year 1220, Kree scientist [[Bronnek]] developed the prototype Sentry and the [[Supreme Council]] of the Kree Empire began to mass-build Sentries for military purposes. Hundreds of thousands of Sentries were built, although only a few thousands are currently active. 
+
+[[Sentry 213]] was the first Sentry sent to the Earth's system, and it was placed in a little surveillance/supply deport in the surface of [[Uranus (Planet)|Uranus]]. It was discovered by an exiled group of [[Eternals]], who proceeded to destroy the Sentry and invade the depot. 
+
+A second Sentry, [[Sentry 459 (Earth-616)|Sentry 459]], was sent to Earth to monitor the civilization of the [[Inhumans]], one of the Kree's experiments on Earth. 
+
+Sentry 9168 was left on a island at the Pacific during a routine patrol of the Kree some two millenia ago. This Sentry was eventually activated by the Supreme Council to use a stimulating gun to awake a living creature of unknown species that the Kree had placed on the Moon. The Council was afraid of Earth astronauts discovering the remains of the Kree city hidden in the [[Blue Area of the Moon]].{{Citation}}
+
+The [[Fantastic Four (Earth-616)|Fantastic Four]] found the Sentry 9168, fought it and defeated it. They then used a remote control to destroy the alien creature.{{Citation}}
+
+| Powers                  = * Auto-repair: A Sentry can repair itself unless it is destroyed.
+* Communications: A Sentry can transmit and receive data from the [[Kree]] at lightspeed. As the Kree live in another galaxy, most of the communications are not urgent.
+* Energy Beam: Sentry 9168 could shoot a powerful energy beam from his eyes. It was more powerful than Sentry 459's beam, but it had a lesser range.
+* Robot: Due to its nature, the sentry is protected by the sheer strength of its hull. It cannot be affected by emotional or mental attacks, nor by illusions. However, he is susceptible to attacks affecting machinery.
+
+| Abilities               = 
+| Strength                = [[Strength Scale#80 Tons|80 ton range]].
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * [[Gamer's Handbook of the Marvel Universe]]
+
+}}
+[[Category:Kree Technology]]

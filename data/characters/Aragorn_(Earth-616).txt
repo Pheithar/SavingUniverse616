@@ -1,0 +1,67 @@
+{{Marvel Database:Character Template
+| Image                   = Brunnhilde (Earth-616) and Aragorn (Earth-616) from War of the Realms Vol 1 2 001.jpg
+| Name                    = Aragorn 
+| CurrentAlias            = 
+| Aliases                 = [[Pegasus]]{{r|Avengers #48|, page 14}}
+
+| Affiliation             = {{m|Defenders}}
+
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 5'5"
+| Height2                 = at withers
+| Weight                  = 1050 lbs
+| Eyes                    = Brown
+| Hair                    = White
+| UnusualFeatures         = Feathery Wings
+
+| Origin                  = [[Glossary:Mutate|Mutated]] [[Valkyrior Steeds|Horse]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = Formerly [[Richmond Riding Academy]]
+
+| Creators                = Roy Thomas; George Tuska
+| First                   = Avengers #48
+| Death                   = War of the Realms Vol 1 2
+
+| History                 = Aragorn is a winged horse ridden by [[Brunnhilde (Earth-616)|Brunnhilde]] the [[Valkyrie]] and previously owned and ridden by Dr. [[Dane Whitman (Earth-616)|Dane Whitman]], the [[Black Knight]]. Whitman was the nephew of Professor [[Nathan Garrett (Earth-616)|Nathan Garrett]], who had adopted the guise of the earlier, criminal Black Knight. Whitman used Garrett's genetic techniques to mutate another horse, whom he named Aragorn, into a flying steed.{{r|Avengers #48}} When the new Black Knight left his own time for a temporary stay in the 12th Century A.D., he entrusted Aragorn to the care of Brunnhilde the Valkyrie,{{r|Defenders #11}} who later entrusted him to her successor, [[Samantha Parrington (Earth-616)|Samantha Parrington]].{{r|Defenders Vol 2 #3|4}}
+
+Aragorn was injured in a fight with [[Lunatik (Tyrk Fragment) (Earth-616)|Lunatik]],{{r|Defenders Vol 1 61}} but he soon recovered from his wound.{{r|Defenders Vol 1 65}} Brunnhilde took Aragorn with her in a journey to [[Asgard (Realm)|Asgard]].{{r|Defenders Vol 1 66}}
+
+During [[Malekith (Earth-616)|Malekith the Accursed]]'s assault on [[Manhattan]] as part of the [[War of the Realms]], the [[Valkyrior (Earth-616)|Valkyries]] were called in by [[Odin Borson (Earth-616)|Odin]] to defend Midgard, and Brunnhilde rode into battle on Aragorn. The battle proved fatal for all of the Valkyries, as well as their steeds, including Aragorn.{{r|War of the Realms Vol 1 2}}
+
+| Powers                  = Aragorn can fly by means of various adaptations given him through artificial mutation. The most prominent of these are his wings, which span eighteen and a half feet from wingtip to wingtip.{{Citation}}
+
+Aragorn's entire anatomy has been adapted to flying. His bones are hollower than a normal horse's, making him weigh less than a normal horse of his size would. His body is virtually devoid of fat, possessing greater proportionate muscle mass than human. His eyes are specially adapted to be able to withstand high speed winds which would hurt the average equine eye. He possesses a special membrane in his respiratory system enabling him to extract oxygen from the air at high velocity or at high altitudes.{{Citation}}
+
+Aragorn flies by flapping his wings, creating enough lift to hold aloft at least 2000 pounds; in other words, he can support aloft his own weight, that of the Valkyrie (who, as an Asgardian goddess, weighs more than an ordinary human of her size and build: 475 pounds), and other passengers as well. Aragorn can fly at speeds ranging up to 125 miles per hour. He can fly at his top speed for about one hour before needing to rest. Though he generally flies beneath the height of the clouds (6500 feet), Aragorn can reach a height of 10,000 feet with little effort.{{Citation}}
+
+Aragorn is highly intelligent, and will respond to a wide variety of verbal commands given by the Valkyrie.{{Citation}}
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+'''Previous Owners:''' [[Black Knight (Dane Whitman)]]<br>
+'''Current Owner:''' [[Valkyrie (Brunnhilde)]]
+
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Flight]]
+[[Category:Pets]]
+[[Category:Avengers Disassembled Casualties]]

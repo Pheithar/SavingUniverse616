@@ -1,0 +1,67 @@
+{{Marvel Database:Character Template
+| Image                   = Hate-Monger_(Earth-616)_from_Fantastic_Four_Vol_1_281.jpg
+| Name                    = Not Applicable
+| CurrentAlias            = Hate-Monger
+| Aliases                 = H.M. Unger
+
+| Affiliation             = Minion of [[Psycho-Man]]
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #5}}
+| Gender                  = Male
+| Height                  = 5'10"
+| Height2                 = (Variable)
+| Weight                  = 187 lbs
+| Eyes                    = Blue
+| Eyes2                   =, (Variable)
+| Hair                    = Blond
+| Hair2                   =, (Variable)
+| UnusualFeatures         = 
+
+| Origin                  = [[Androids|Android]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Microverse]]
+| PlaceOfDeath            = 
+| CauseOfDeath            = Shot by [[Scourge (Delazny) (Earth-616)|the first Scourge of the Underworld]]
+| KilledBy                = [[Scourge (Delazny) (Earth-616)]]
+
+| Identity                = Secret
+| Citizenship             = Microverse
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = [[New York City]]
+
+| Creators                = John Byrne; 
+| First                   = Fantastic Four #279 
+| Death                   = Secret Wars II #2
+
+| History                 = The third '''Hate-Monger''' (after [[Adolf Hitler (Clone) (Earth-616)|Adolf Hitler]] and the [[Man-Beast (Earth-616)|Man-Beast]]) was an android created by the scientist and conqueror [[Psycho-Man]], who gave it its power and its nickname, '''H.M. Unger''' (as a pun on "H.M."-"Hate Monger"). The creation took place on the [[Microverse]], but then Psycho-Man took the Hate-Monger to [[New York]]. {{r|Fantastic Four #278}}
+
+The Hate-Monger was sent to [[New York City]] to induce hate among traditional rivals: Black men versus white men; young people versus old people; men versus women; etc. He appeared to each group as a possible member (A woman before speaking 
+to women; and then a man to speak with men). He would also provide his audience with pamphlets created by the Psycho-Man. This plan led to revolts, violent and riots in New York City. {{r|Fantastic Four #279}}
+
+Following his master's orders, The Hate-Monger took the aspect of [[Reed Richards (Earth-616)|Reed Richards]] and went to Richards' wife, [[Susan Storm (Earth-616)|Susan Storm]], who was fooled by the disguise. Then, Psycho-Man and the Hate-Monger took Storm by surprise and altered her mind, so that she became Malice. {{R|Fantastic Four #280}} She was then sent to destroy the rest of the [[Fantastic Four (Earth-616)|Fantastic Four]]. However, Reed Richards understood what happened and freed her of the control by insulting and slapping her, giving her a real reason to be angry with him. The shock returned Storm's real mind. {{r|Fantastic Four #281}} 
+
+With a new device which emitted a certain energy, Richards destroyed the chemicals and thus the effects they had on people. The Fantastic Four chased Psycho-Man and The Hate-Monger. The enigmatic vigilante known as the [[Scourge (Delazny) (Earth-616)|Scourge]] also chased the Hate-Monger in secret, and shot him with an explosive bullet. The Hate-Monger was destroyed and melted. The Fantastic Four could not avoid his end, but chased the Psycho-Man to the Microverse. {{r|Secret Wars II #2}}
+
+| Powers                  = '''Emotional Control:''' The Hate-Monger could induce hate in people near him. This power was increased if he could achieve physical contact. He could even transform love in hate.
+
+'''Shapeshifting:''' The Hate-Monger could change his shape and duplicate the aspect of any human. He could replicate the face of a specific human, but not his clothes (He showed this power when performing [[Reed Richards (Earth-616)|Reed Richards]] enough to fool [[Susan Storm (Earth-616)|Susan Storm]]). It is unknown if he could replicate non-human forms, or how much he could change his mass.
+
+| Abilities               = The Hate-Monger showed a skill for Psychology
+| Strength                = Normal Human
+| Weaknesses              = 
+
+| Equipment               = The Hate-Monger had some pamphlets with a chemical which helped him to control the mind of the people touching the pamphlets.
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Empaths]]
+[[Category:Shapeshifters]]

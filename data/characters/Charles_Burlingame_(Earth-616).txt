@@ -1,0 +1,72 @@
+{{Marvel Database:Character Template
+| Image                   = Charles Burlingame (Earth-616) from Thunderbolts Vol 1 53 0001.jpg
+| Name                    = [[Charles Burlingame]]
+| CurrentAlias            = [[Charcoal]]
+| Aliases                 = [[Charlie Burlingame]], Charcoal The Burning Man,{{r|Thunderbolts Vol 1 19}} Charles Cole,{{r|Thunderbolts Vol 1 27}} Imperial Army Test Subject 73-E, Briquette,{{r|Thunderbolts Vol 1 29}} Chuck/Chucky{{r|Thunderbolts Vol 1 53}}
+
+| Affiliation             = {{m|Brute Force (Secret Empire) (Earth-616)|Brute Force}}, {{m|Secret Empire}}, {{m|Thunderbolts}}; {{m|Redeemers}}
+| Relatives               = [[Calvin Burlingame (Earth-616)|Calvin Burlingame]] (father)
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 5'7"
+| Weight                  = 135 lbs
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] [[Mutate]], experimented on by the [[National Socialist German Workers Party (Earth-616)|Nazi]] scientist [[Arnim Zola (Earth-616)|Arnim Zola]].
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+| KilledBy                = Franklin Hall (Earth-616)
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = Mt. Charteris
+
+| Creators                = Kurt Busiek; Mark Bagley
+| First                   = Thunderbolts #19
+| Death                   = Thunderbolts #56
+
+| History                 = Charles "Charlie" Burlingame's [[Calvin Burlingame (Earth-616)|father]] moved around a great deal and had trouble finding work, until he attended a rally of the [[Imperial Forces (Earth-616)|Imperial Forces]]. The elder Burlingame joined that organization and took his son with him. [[Arnim Zola (Earth-616)|Arnim Zola]], working for the Imperial Forces, discovered that Charlie possessed the genetic potential to develop superhuman powers and facilitated the youngster's transformation into Charcoal, the Burning Man.{{r|Thunderbolts Vol 1 23}}
+
+Charcoal helped the Imperial Forces quietly take over the small town of Burton Canyon, Colorado, before they were driven off by the Thunderbolts.{{r|Thunderbolts Vol 1 19}} Days later, Charlie ran away from the Imperial Forces and tracked the Thunderbolts down, asking to join the team.{{r|Thunderbolts Vol 1 23}}
+
+After several months with the Thunderbolts, Charcoal and [[Helen Takahama (Earth-616)|Jolt]] joined the [[Commission on Superhuman Activities (Earth-616)|CSA]]'s officially-sanctioned Redeemers team when the Thunderbolts disbanded.{{r|Thunderbolts Vol 1 50}} During this time he was presented with the option to save his father, [[Calvin Burlingame (Earth-616)|Calvin Burlingame]]'s life, Charcoal decided to let him die rather than risk his own life as he didn't believe it was worth it,{{r|Thunderbolts Vol 1 53}} and was then killed himself shortly after when he went up against [[Franklin Hall (Earth-616)|Graviton]].{{r|Thunderbolts Vol 1 56}}
+
+| Powers                  = 
+*'''Charcoal-like Form''': Charlie Burlingame can transform into a being seemingly composed of charcoal.
+**'''Heat Manipulation''': He has the ability to manipulate heat.
+**'''Carbon Form''': He can reshape himself into any carbon form, including flaming incendiary or rock-hard diamond.
+**'''Form Manipulation''': He can change his size and shape, and can even stretch his appendages while fighting.
+**'''Healing Factor''': While in the form of Charcoal, Charlie can heal himself from most damage, including holes blown through him.
+**'''Flight''': He has the ability to fly in his "Burning Man" state.
+**'''Superhuman Strength''': While transformed Charlie possesses great amounts of physical strength.
+**'''Superhuman Durability''': While transformed Charlie's body becomes far more resistant to damage, he can further increase his durability by turning into diamond.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+* Charcoal was created to be a villain, by means of a ''Wizard'' magazine contest. However, Wizard Entertainment failed to establish certain legal specifics in the language of their contest rules, leaving the ownership of the character's copyright in question (Normally in such a situation, steps would be taken to ensure that, unless otherwise stated, such a character's copyright would legally belong to the comic's publisher). Furthermore, Wizard Entertainment reportedly failed to provide the contest winner with other prizes promised along with the winning character's appearance in a Marvel comic. Due to the character's continued use and feeling that he wasn't being compensated, Charcoal's creator attempted to legally claim copyright for the character from Marvel, which reacted by asking Thunderbolts writer Fabian Nicieza not to resurrect Charcoal (he had been recently killed in a fight with Graviton) and remove the character from contention. 
+
+* It is notable that only the superhuman form, powers, and the name "Charcoal" were created by the contest winner--his "normal" form of an African-American teenager, the name "Charlie Burlingame", and all aspects of his personality and origins were created by Thunderbolts writers Kurt Busiek and Nicieza. Nicieza has stated that he has an idea of how to bring back "Charlie Burlingame" without bringing back "Charcoal".
+
+| Marvel                  = 
+| Wikipedia               = Charcoal_%28comics%29
+| Links                   = 
+}}
+[[Category:Pyrokinesis]]
+[[Category:Rock Body]]
+[[Category:Flight]]
+[[Category:Arnim Zola Experiment]]
+[[Category:Regeneration]]

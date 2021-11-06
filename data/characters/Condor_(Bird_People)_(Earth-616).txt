@@ -1,0 +1,55 @@
+{{Marvel Database:Character Template
+| Image                   = Condor (Bird-People) (Earth-616) from Official Handbook of the Marvel Universe A-Z Update Vol 1 3 001.jpg 
+| Name                    = 
+| CurrentAlias            = Condor 
+| Aliases                 = 
+
+| Affiliation             = [[Bird People|Avians]]; Formerly {{m|Terrible Trio}}, [[Blastaar (Earth-616)|Blastaar]]
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z Update #3}}
+| Gender                  = Male
+| Height                  = 6'2"
+| Weight                  = 213 lbs
+| Eyes                    = Red; Brown (formerly)
+| Hair                    = Bald; Black (formerly)
+| UnusualFeatures         = Brown feathered wings
+
+| Origin                  = [[Bird People]] ([[Inhumans (Race)|Inhuman]])
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Aerie (Sky-Island)|Sky Island]]
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = Aerie
+| Occupation              = Criminal, Scientist
+| Education               = Unrevealed, presumably extensively
+| BaseOfOperations        = Mobile, formerly [[Prison 42]]; [[Aerie (Sky-Island)|Sky Island]]
+
+| Creators                = Marv Wolfman; John Buscema
+| First                   = Nova #2
+
+| History                 = Condor was a brilliant member of the Bird People who wanted to become a crime lord. He found an amnesiac [[Xandarian]] known as [[Rieg Davan (Earth-616)|Powerhouse]] and tricked him into helping with his schemes.{{r|Nova #2}} He also recruited a criminal named [[Archibald Dyker (Earth-616)|Diamondhead]]{{r|Nova #3}} and brainwashed [[Richard Rider (Earth-616)|Nova]] into helping them. Together they fought the original [[Anath-Na Mut (Earth-616)|Sphinx]] and were defeated promptly. For his insolence Condor was turned into an actual Condor.
+
+Years later [[Bird-Brain (Earth-616)|Bird-Brain]] of the Ani-Men used the [[Ani-Mator (Earth-616)|Ani-Mator]]'s machines to turn the Condor into a bird-like humanoid with more animal characteristics than he originally had. Condor once again came into conflict with Nova and was defeated.
+
+| Powers                  =
+'''Flight:''' Condor possesses the superhuman ability to fly by means of natural wings and are fully feathered like a bird's.
+
+'''Aerial Adaptation:''' Condor's anatomy is naturally adapted to flying. His bones are hollow like a birds, making them weigh far less than usual for a human. His body is virtually devoid of fat and possess greater proportionate muscle mass than an ordinary human does. His eyes are specially adapted to withstand high-speed winds which would hurt the average human eye. He also possesses a special membrane in his respiratory system enabling him to extract oxygen from the air at high velocities or altitudes.<!-- Taken from Bird People, with some editing -->
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

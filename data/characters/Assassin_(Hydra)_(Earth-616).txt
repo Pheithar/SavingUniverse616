@@ -1,0 +1,50 @@
+{{Marvel Database:Character Template
+| Image                   = Assassin (Hydra) (Earth-616) Team America Vol 1 2.jpg
+| Name                    = 
+| CurrentAlias            = Assassin
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra (Earth-616)|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Assassin, mercenary
+| Education               = 
+| BaseOfOperations        = Mobile
+
+| Creators                = Jim Shooter; Mike Vosburg
+| First                   = Team America #2
+
+| History                 = Assassin is hired and tested by Hydra's Agent Marcus to take out the [[Marauder (Earth-616)|Marauder]]. The hired killer thought that the Marauder was one of the members of [[Thunderiders (Earth-616)|Team America]] and therefore tried to eliminate them all one at a time but failed, unable to eliminate any. As he was about to be executed by Agent Marcus for his failure, the Marauder intervened and in the confusion the Assassin managed to escape.{{r|Team America Vol 1 2}}
+
+| Personality             = 
+
+| Powers                  = None
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

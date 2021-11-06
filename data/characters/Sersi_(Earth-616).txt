@@ -1,0 +1,173 @@
+{{Marvel Database:Character Template
+| Image                   = Eternals Vol 5 1 Campbell Virgin Variant.jpg
+| Name                    = [[Sersi]]
+| CurrentAlias            = 
+| Codenames               = [[Mesmer]]{{r|New Eternals: Apocalypse Now #1}}
+| Aliases                 = [[Circe]],{{r|Strange Tales Vol 1 109}} [[Sersi (Earth-398)|Circe the Sorceress]],{{r|Avengers Vol 3 2}} Mistress of Illusions,{{r|Thor Vol 1 286}} [[Serse]],{{r|Avengers Vol 1 361}} [[Sersy]],{{r|Eternals Vol 1 3}} [[Sylvia Sersi]]{{r|Avengers Vol 1 246}} 
+
+| Affiliation             = [[Eternals (Race)|Eternals]] of [[Olympia]]; formerly {{m|Avengers}}, {{m|God Squad}},{{r|Chaos War Vol 1 2}} {{m|New Breed}}{{r|New Eternals: Apocalypse Now Vol 1 1}}
+| Parents                 = [[Helios (Eternal) (Earth-616)|Helios]] (father);<br>{{r|Women of Marvel: Celebrating Seven Decades Handbook Vol 1 1}}
+[[Perse (Earth-616)|Perse]] (mother){{r|Women of Marvel: Celebrating Seven Decades Handbook Vol 1 1}}
+| Relatives               = [[Sprite (Earth-616)|Sprite]],{{r|Avengers Vol 1 355}} [[Ikaris (Earth-616)|Ikaris]],{{r|Avengers Vol 1 361}} (cousins)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Marvel Avengers: The Ultimate Character Guide Vol 1 2}}
+| Gender                  = Female
+| Height                  = 5'9"
+| Weight                  = 140 lbs
+| Eyes                    = Blue
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Eternal of Earth]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Olympia]], [[Greece]]{{r|Women of Marvel: Celebrating Seven Decades Handbook Vol 1 1}}
+
+| Identity                = No Dual
+| Citizenship             = Olympia
+| Occupation              = Adventurer, dancer, party planner
+| Education               = 
+| BaseOfOperations        = [[Olympia]]
+
+| Creators                = Werner Roth; Jack Kirby
+| First                   = Venus Vol 1 9
+| First2                  = (as Circe)<br>{{sld|Eternals Vol 1 3}}(as Sersi)
+
+| Quotation               = Why can't we all just '''get along'''? The fighting-- there is no reason for it. There's never '''been''' a reason. There never '''will''' be a reason. It's one thing for '''humans''' to never learn that-- their lifespans are short, you turn your head for just a moment, and an entire '''generation''' has gone by. But why can't the '''other''' Eternals dumb out what I've known since the '''Pleistocene'''.
+| Speaker                 = [[Sersi (Earth-616)|Sersi]]
+| QuoteSource             = Eternals Annual Vol 4 1
+
+| Overview                = '''Sersi''' is an [[Eternals_(Homo_immortalis)|Eternal]], a genetically superior offshoot race of humanity who possess abilities such as [[Glossary:Flight|levitation]] and [[Glossary:Immortality|immortality]]. Sersi is a flirtatious socializer and is often found hosting or attending parties.
+
+After living through hundreds of centuries, Sersi was present when the [[Celestials]] returned in the 20th century to judge their created inhabitants of the Earth. Sersi also became a member of the [[Avengers (Earth-616)|Avengers]] for a time, going on many adventures with them. Sersi later returned to spending more time with the rest of the Eternals, struggling alongside them as they went through the trials of dealing with the parasites known [[Horde (Race)|The Horde]] and discovering the dark secrets of their ressurection process.
+
+| History                 = 
+===Across the Ages===
+Sersi, like every [[Eternals (Race)|Eternal]], was created by the [[Celestials (Race)|Celestials]] one million years ago and has looked after humanity ever since.<ref name="CBR">{{cite web|url=https://www.cbr.com/eternals-kieron-gillen-interview/|title=INTERVIEW: Eternals' Kieron Gillen Hypes the Return of Marvel's Cosmic Angels|last=Richards|first=Dave|work=CBR|date=6 October 2020|accessdate=25 May 2021}}</ref>{{r|Eternals Vol 5 1}}
+
+During [[Gilgamesh (Earth-616)|Gilgamesh]]'s reign as champion-king of [[Uruk]], Sersi reverted back to being a child.{{r|Captain America Annual Vol 1 11}}
+
+It is known that she encountered the Greek hero [[Odysseus (Earth-616)|Odysseus]] during his 10-year journey home known as the [[Odyssey]]. She turned Odysseus' companions into pigs, but Odysseus, who had been given a magical herb by Hermes, resisted her witchcraft. Circe fell in love with Odysseus and transformed the pigs back into men. After they stayed on the island for one year, they left to continue their voyage.{{r|Eternals Vol 1 4}} As Circe, she also imprisoned all the evils that escaped [[Pandora's Box]].{{r|Strange Tales Vol 1 109}}
+
+[[File:Merlyn (Otherworld) and Sersi (Earth-616) from Eternals Vol 1 4 001.jpg|thumb|left|200px|Astonishing "Merlin"]]
+Later, she spent some time in Egypt.{{r|Eternals Vol 4 4}} She was in [[Rome (Italy)|Rome]] during [[Lucius Sergius Catilina (Earth-616)|Catiline]]'s attempt to overthrow [[Marcus Tullius Cicero (Earth-616)|Cicero]]{{r|Eternals Vol 5 2}} and was also present during [[Lucius Domitius Ahenobarbus (Earth-616)|Nero]]'s burning of the city, where she was assisted by [[Makkari (Earth-616)|Makkari]] (who she had an on-and-off relationship with){{r|Eternals Vol 1 5}}{{r|Eternals Vol 3 4}} She encountered [[Attila the Hun (Earth-616)|Attila the Hun]]{{r|Eternals Vol 1 6}} and also exposed a [[Merlyn (Otherworld)|Merlin]] copycat during the days of King Arthur Pendragon.{{r|Eternals Vol 1 4}}{{r|Women of Marvel: Celebrating Seven Decades Handbook Vol 1 1}} She fought alongside [[Thor Odinson (Earth-616)|Thor]] in the [[Vikings]]' Siege of [[Paris (France)|Paris]]{{r|Chaos War Vol 1 3}} and met [[John Dee (Earth-616)|John Dee]] at [[Elizabeth Tudor (Earth-616)|Elizabeth I]]'s summer palace.{{r|Eternals Annual Vol 4 1}} During the 18th century, she was bit all over Europe: she got acquainted with English poet [[Thomas Chatterton (Earth-616)|Thomas Chatterton]],{{r|Eternals Vol 2 3}} she was one of the founders of the Illuminati in [[Bavaria]]{{r|Eternals Vol 5 4}} and she was in [[France]] during the [[French Revolution]].{{r|Women of Marvel: Celebrating Seven Decades Handbook Vol 1 1}}
+
+Sersi later relocated to the [[United States of America]], settling in Upper Westside of [[Manhattan]] in [[New York City]]. She would regularly hold parties with the rich and famous of the city. [[Warren Worthington (Earth-616)|Warren Worthington I]] was one of the regulars at the events along with the rest of his family.{{r|Eternals Vol 2 8}}
+
+===Modern Era===
+In modern times, she still lived in New York City when the Fourth Host of [[Celestials (Race)|Celestials]] arrived on Earth. [[Ikaris (Earth-616)|Ikaris]] left [[Margo Damian (Earth-616)|Margo Damian]] in her care while he went off to defend the city against the [[Deviants (Race)|Deviants]]' attack. When he was captured, Sersi alerted the other Eternals, but was captured herself by [[Kro (Earth-616)|Kro]]'s forces. She was released when a truce was reached and was part of the group who revealed the races' existence to Professor [[Samuel Holden (Earth-616)|Samuel Holden]].{{r|Eternals Vol 1 3|6}}
+
+===Avengers===
+Sersi became associated with the [[Avengers (Earth-616)|Avengers]] thanks to a weird series of coincidences: [[Eros (Earth-616)|Starfox]] led [[Janet Van Dyne (Earth-616)|Janet Van Dyne]] to believe he had been invited to one of Sersi's parties. When they got there, they were surprised to see their old Avengers teammate [[Jennifer Walters (Earth-616)|She-Hulk]], who had recently met Sersi at an exotic bakery shop. After Starfox came clean about the party invitation, She-Hulk finally introduced the pair to Sersi and they were welcomed to stay.{{r|Avengers Vol 1 246}} Later, she started a flirtation with [[Steven Rogers (Earth-616)|Captain America]] (much to his embarrassment) and assisted him with her magic.{{r|Captain America Vol 1 355|357}} When her fellow Eternal Gilgamesh was injured in battle and could no longer function as an active Avenger, Captain America invited Sersi to join the team in Gilgamesh's place, which Sersi accepted.{{r|Avengers Vol 1 314}}
+
+[[File:Avengers Vol 1 357 Textless Remastered.jpg|thumb|right|With the Avengers]]
+Sersi's time with the Avengers proved troubling. During the conflict with the [[Brethren]], she was abducted by their leader, [[Ector (Brethren) (Earth-616)|Thane Ector]], but they shared interest in each other. When the Celestial origins of the Brethren and the role of the [[Taneleer Tivan (Earth-616)|Collector]] in the crisis were revealed, Sersi participated in a [[Brethren Uni-Mind (Earth-616)|Uni-Mind]] with the Brethren in order to defeat the Collector.{{r|Avengers Vol 1 335|339}} Such cross-species were forbidden by her kind, as they were seen as dangerous.{{r|Avengers Vol 1 361}}
+
+Donning a red costume, she became significantly more aggressive, even murderous when dealing with enemies.{{r|Avengers Vol 1 359}} Ikaris and the Eternals feared Sersi was suffering from what the [[Eternals (Homo immortalis)#Mahd Wy'ry|Mahd Wy'ry]], a mental breakdown caused by the Eternals' long lifespans, but Sersi rejected their fears as archaic and refused to accompany them back home. The Avengers also didn't want them to take one of their members against her will, especially when they learned that if the Eternals' suspicions were confirmed, the standard procedure was to kill the affected person. After much discussion, it was decided to place Sersi in a ''[[Gann Josin]]'' soul-bond with the [[Dane Whitman (Earth-616)|Black Knight]]. Sersi was in love with the Knight, and it was hoped that his thought waves could provide a calming influence on her troubled mind.{{r|Avengers Vol 1 361}}
+
+Dane Whitman was actually in love with Crystal, although he did have feelings for Sersi as well. Furthermore, Sersi's mind was being deliberated antagonized from a distance by [[Dane Whitman (Earth-374)|Proctor]], a parallel version of Dane whose stalker tendencies led him to chase down and destroy Sersi's across the multiverse, after having been rejected by his own Sersi. Proctor's manipulations nearly drove Sersi mad as her teammates wondered if she really had become unstable. She eventually killed Proctor with his own [[Ebony Blade]]. Fearing that she would completely lose her mind, she opted to exile herself, with Whitman accompanying her.{{r|{{cl|Avengers Vol 1 361}}-[[Avengers Vol 1 375|375]]}}
+
+They ended up in the Ultraverse, where Sersi became possessed by the Infinity Gems.{{r|Avengers/UltraForce Vol 1 1}}{{r|UltraForce/Avengers Vol 1 1}}
+
+On their way back, they ended up in the Crusades, witnessing the formation of [[Bennet du Paris (Earth-616)|Exodus]], a foe they had first met when the Avengers and [[X-Men (Earth-616)|X-Men]] clandestinely joined forces to save [[Luna Maximoff (Earth-616)|Luna]] from [[Fabian Cortez (Earth-616)|Fabian Cortez]].{{r|Black Knight: Exodus #1}}
+
+Upon returning to the correct time, Whitman was troubled by the apparent death of Crystal and thought they needed to rethink their relationship.{{r|Heroes for Hire #7}} Sersi went back to wearing green and, apart from aiding the Avengers on one occasion, she laid low for a while.{{r|Avengers Vol 3 #1|4}} When the other remaining Eternals felt they needed to become more involved in the world of humans, she agreed, and they portrayed themselves as an everyday superhero team, with Sersi adopting the name of Mesmer.{{r|New Eternals: Apocalypse Now #1}}
+
+===The Saga of the Dreaming Celestial===
+After the first superhuman civil war, Sersi, along with all the Eternals, had her life changed and her memories tampered with, having no knowledge of the powers she possessed nor any recollection of her past activities on Earth, such as her time as an Avenger.{{r|Eternals Vol 3 3}}
+[[File:Sersi (Earth-616) from Eternals Vol 3 5 001.jpg|thumb|left|200px|Enjoying her human life]]
+
+She was struggling to begin a career as a party planner, but she got her first big opportunity when she was hired by [[Druig (Earth-616)|Druig]], then deputy Prime Minister of [[Vorozheika]], to publicize the small former Soviet republic by organizing a party at the Vorozheikan embassy.{{r|Eternals Vol 3 1}} After the party was attacked by terrorists and saved by [[Anthony Stark (Earth-616)|Iron Man]] and Mark Curry, actually Makkari, Stark asked Sersi if she had intentions to [[Registration Acts|register]]. However, she was confused as to what he was talking about, and Tony himself was later dumbfounded as he discovered that there were no files based on Sersi in the Avengers database.{{r|Eternals Vol 3 3}}
+
+Eventually, the other Eternals discovered that [[Sprite (Earth-616)|Sprite]] was responsible for rewriting everyone's lives. Ikaris and others tried to make Sersi remember her past, but she was too frightened of their tales and decided to try to lead a normal life instead.{{r|Eternals Vol 3 6|7}}
+
+While rediscovering her powers, she turned a pile of trash into gold and used some of it to buy a loft for her and continue her party-planning dreams.{{r|Eternals Vol 3 7}} However, when she rekindled her romance with Makkari and the two moved together, she started getting involved in Eternals business again, as well as fully regaining control of her powers.{{r|Eternals Vol 4 1}}{{r|Eternals Annual Vol 4 1}}
+[[File:Eternals Vol 4 2 Textless.jpg|thumb|right|180px|]]
+
+Still, not everything was perfect, as Makkari's recurring sessions with the [[Tiamut (Earth-616)|Dreaming Celestial]] were a constant worry for Sersi, who felt her loved one slowly fading away.{{r|Eternals Vol 4 2}} After having enough of it, she finally decided to confront the Celestial, determined to find the reason for this deadly bond. And, despite almost getting killed, the Celestial revealed that Makkari had been chosen as his link to humanity before the arrival of [[Horde (Race)|The Horde]], and she too was part of its grand plan: She was the one who had to protect Makkari.{{r|Eternals Vol 4 4}}
+
+Sersi failed in her mission and Makkari got killed, with no way of being revived through conventional ways, which activated a countdown to global annihilation. With no other alternative presenting itself, Sersi then pushed her powers to the limit by transmuting her own body into a perfect replica of Makkari and then replacing his conscious with her own.{{r|Eternals Vol 4 6}}
+
+Thanks to Sersi, the connection with the Celestial was restored, which eventually led to the Horde's defeat by intervention of [[Fulcrum (Earth-616)|The Fulcrum]], a cosmic entity above even the Celestials themselves.{{r|Eternals Vol 4 6|9}}
+
+===Dark Secrets===
+After Sersi's revival, she resumed her normal affairs for a while,{{r|Chaos War Vol 1 2}}{{r|Avengers Assemble Vol 2 17}} before returning to Olympia.<!--{{r|Avengers Vol 8 4}}-->
+
+When the countless bodies of Celestials rained down on the Earth to herald the arrival of the [[Dark Celestials (Horde)|Dark Celestials]], the Eternals learned a dark truth that drove them mad: that the true purpose of their kind was to cultivate humankind, since the [[Glossary:First Host|First Host]] of Celestials had only allowed humanity to thrive because they had seen in their genetic makeup the potential to act as antibodies against The Horde. In their madness, the Eternals turned against each other and committed suicide. Sersi being no exception.{{r|Avengers Vol 8 4}}
+
+===Return===
+After the Eternals rebirth, Sersi was brought back and cured of her madness. However, the Mad Titan [[Thanos (Earth-616)|Thanos]] was also secretly resurrected and had begun killing Eternals and sabotaging the machines of resurrection.{{r|Eternals Vol 5 1}}
+
+Now wearing violet clothes, Sersi interrupted a quarrel between Druig and Ikaris and took Ikaris away to heal the injuries he'd suffered when battling Thanos. In the meantime, Sprite, [[Phastos (Earth-616)|Phastos]], and [[Kingo Sunen (Earth-616)|Kingo Sunen]] discovered that the resurrection process had been rigged so Thanos could be brought back. Also, the machines of resurrection were connected to Earth's biosphere; if they weren't fixed within a week, Earth would be rendered uninhabitable for humans.{{r|Eternals Vol 5 1|2}}
+
+Sersi interrogated Azura as a possible traitor, but couldn't determine if she was innocent or guilty. Thena then joined the investigation.{{r|Eternals Vol 5 3}} Sersi and her fellow Eternals later confronted Gilgamesh, suspecting him to be traitor after she luring him out by pretending to harm [[Anthony Stark (Earth-616)|Tony Stark]]. Gilgamesh was allowed to prove his innocence and did but also revealed that it was actually Phastos who was the traitor. As Sersi and her fellow Eternals went to confront Phastos, Thanos was lying in wait to ambush them.{{r|Eternals Vol 5 5}}
+
+Sersi and his fellow Eternals were able to overwhelm Thanos, but then Phastos accidentally teleported her and the others all over Earth while trying to teleport them to the Exclusion to help him fix the resurrection machine he broke. Ikaris gave his life to use his matter manipulation power to repair the machine. Sersi and the others later learned the reason for Phastos' actions: Eternals were resurrected at the cost of human lives and that the resurrection machines couldn't be turned off without endangering her. Sersi was actually aware of this process but didn't let it bother her.<!-- {{r|Eternals Vol 5 6}} -->
+
+Sersi and the other Eternals discussed the problem with the newly resurrected Zuras but realized that it was unlikely that the resurrection process would ever be changed. So, Sersi and other Eternals met with the Deviants in the city of [[Lemuria (Pacific Ocean)|Lemuria]], asking how to become like them.{{r|Eternals Vol 5 6}}
+
+===Hellfire Gala===
+Sersi was in attendance at the first Krakoan [[Hellfire Gala]], and was present during the announcement of the new X-Men roster. The team was voted for by every mutant on the planet through a telepathic link established between their minds by [[Jean Grey (Earth-616)|Jean Grey]]. Sersi and [[Stephen Strange (Earth-616)|Stephen Strange]] explained the process to the [[Jonathan Storm (Earth-616)|Human Torch]] and Thor Odinson, putting them at ease and proclaiming it as a simple act of mutual and ethical mutant pride, as Jean Grey announced the results.{{r|X-Men Vol 5 21}}
+
+| Powers                  = As an [[Eternal of Earth]], Sersi's body is augmented by cosmic energy and she has total mental control over her entire molecular structure.{{r|Women of Marvel: Celebrating Seven Decades Handbook Vol 1 1}}
+
+*'''Near-Immortality:''' Eternals like Sersi possess total conscious control over their molecular structures, which are reinforced by cosmic energy. As a result, they are virtually immortal and indestructible, they are virtually invulnerable to any force weaker than their own cosmic energies or total molecular disintegration.{{r|Official Handbook of the Marvel Universe Vol 2 11}}{{r|Women of Marvel: Celebrating Seven Decades Handbook Vol 1 1}}
+
+[[File:Sersi (Earth-616) from Avengers Vol 1 366 001.jpg|thumb|180px|right|Flying through a Kree sentinel]]
+*'''Super Strength:''' Sersi can bench/press at least 20 tons, however, she can increase this through her levitation and telekinetic abilities{{r|Official Handbook of the Marvel Universe Vol 2 11}} and lift over 25 tons.{{r|Women of Marvel: Celebrating Seven Decades Handbook Vol 1 1}}
+
+*'''Regenerative Healing Factor:''' On the rare occasions Sersi is physically harmed by some extreme force, she can heal herself using her molecular control powers. Sersi once reconstructed her own arm after it was disintegrated by a Deviant weapon.{{r|Avengers Vol 1 370}}
+
+*'''Telepathy:''' Sersi can psychically communicate, read minds, and project her thoughts into other people. She can compel the distracted or weak-minded to do her bidding through hypnosis.{{r|Eternals Vol 2 #8}}
+
+*'''Illusions:''' Sersi is skilled in the use of illusions. Her illusions affect all five senses and are virtually indistinguishable from the 'real thing'.{{r|Official Handbook of the Marvel Universe Vol 2 11}}
+[[File:Sersi (Earth-616) from Avengers Vol 1 364 001.jpg|thumb|left|200px|Projecting her dreams]]
+
+*'''Telekinesis:''' She can mentally move and manipulate objects, living creatures, and fly.{{r|Avengers Vol 1 366}}
+**'''Flight:''' As a byproduct of telekinesis, Sersi can fly at high speeds, being able to attain velocities up to 760mph.{{r|Women of Marvel: Celebrating Seven Decades Handbook Vol 1 1}}
+
+*'''Cosmic Energy Projection:''' Sersi is able to project blasts of cosmic energy from her hands or eyes, in the form of light, heat, or concussive force.{{r|Women of Marvel: Celebrating Seven Decades Handbook Vol 1 1}}
+**'''Image Projection:''' Sersi is also able to project scenes from her mind, allowing others to visualize her thoughts.{{r|Avengers Vol 1 364}}
+
+*'''Teleportation:''' She can teleport herself and others across vast distances although she finds doing so unpleasant.{{r|Eternals Vol 1 11}}{{r|Women of Marvel: Celebrating Seven Decades Handbook Vol 1 1}}
+
+[[File:Sersi (Earth-616) from Eternals Vol 3 4 001.jpg|thumb|right|200px|Transmutation power]]
+*'''Matter Transmutation:''' Sersi is able to transmute nearly any item or being into almost whatever she wishes. She is the only 'fifth-level adept' of the Eternals, the highest level in such categories.{{r|Official Handbook of the Marvel Universe Vol 2 11}}
+**'''Healing'''{{r|Eternals Vol 5 2}}
+
+| Abilities               = 
+'''Skilled Fashion Designer:''' Sersi is an accomplished fashion designer, often using her powers to make changes 'on the fly'.{{r|Eternals Vol 2 #8}}
+
+'''Graceful Dancer:''' Sersi is very good at dancing.{{r|Eternals Vol 1 3}}
+
+'''Multilingual:''' She has shown the ability to speak the ancient language spoken by [[Gilgamesh (Earth-616)|Gilgamesh]],{{r|Captain America Annual Vol 1 11}} and she's also demonstrated fluency in the [[Kree]] language.{{r|Captain America Vol 1 399}}
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * According to [[Sprite (Earth-616)|Sprite]], he was the only straight male Eternal that Sersi hadn't bedded at some point, due to him having the body of a child.{{r|Eternals Vol 3 4}}
+* Sersi had a long relationship with [[Makkari (Earth-616)|Makkari]], which ended many times, first due to cheating on both accounts, and then due to boredom.{{r|Eternals Vol 3 4}}
+* Sersi expressed great interest in [[Samuel Holden (Earth-616)|Samuel Holden]].{{r|Eternals Vol 1 12}}
+* She seemingly fell for [[Ector (Brethren) (Earth-616)|Thane Ector]] of the [[Brethren]].{{r|Avengers Vol 1 339}}
+* Sersi and [[Dane Whitman (Earth-616)|Black Knight]] had mutual feelings for each other.{{r|{{cl|Avengers Vol 1 355}}-[[Avengers Vol 1 375|375]]}}
+| Trivia                  = 
+| Wikipedia               = Sersi
+| Links                   = * http://www.marvel.com/universe/Sersi
+*[http://members3.boardhost.com/Eternals The Eternals Message Board]
+}}
+[[Category:Telepaths]]
+[[Category:Teleporters]]
+[[Category:Telekinesis]]
+[[Category:Regeneration]]
+[[Category:Superhuman Strength]]
+[[Category:Transmutation]]
+[[Category:Multilingual]]
+[[Category:Dancers]]
+[[Category:Flight]]
+[[Category:Ebony Blade User]]
+[[Category:Gann Josin]]
+[[Category:Odyssey Characters]]
+[[Category:Ikaris Family]]

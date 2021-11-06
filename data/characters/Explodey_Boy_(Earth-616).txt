@@ -1,0 +1,61 @@
+{{MoveTagged|Explodey Boy (Zombie) (Earth-616)|20200820234929 }}
+{{MessageBox
+|Message = It has been suggested that this article should be split up into several - please join the discussion on the [[Talk:Explodey Boy (Earth-616)|talk page]]}}{{Marvel Database:Character Template
+| Image                   = Explodey Boy (Earth-616) from Empyre X-Men Vol 1 4 001.jpg
+| Name                    = 
+| CurrentAlias            = [[Explodey Boy]]
+| Aliases                 = 
+
+| Affiliation             = Formerly {{m|X-Men}}, Genosha's Zombie mutants
+| Relatives               = Unnamed Father, Unnamed Mother {{r|Empyre: X-Men Vol 1 4}}
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Blue
+| Hair                    = Blonde
+
+| Origin                  = [[Homo superior|Mutant]] formerly [[Zombies|zombie]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = Genoshan, Krakoan
+| Occupation              = Adventurer
+| Education               = 
+| BaseOfOperations        = [[Krakoa (Earth-616)|Krakoa]], [[Pacific Ocean]]; formerly [[Genosha]]
+
+| Creators                = Jonathan Hickman; Tini Howard; Matteo Buffagni
+| First                   = Empyre: X-Men Vol 1 1
+
+| History                 = [[File:Explodey Boy (Earth-616) from Empyre X-Men Vol 1 3 001.jpg|200px|left|thumb|Zombie form]]
+
+Explodey Boy was one of the 16 million mutants who died on [[Genosha]]. He was later brought back to life through [[Krakoa (Earth-616)|Krakoa]]'s resurrection protocols.
+
+At another point in time, the [[Wanda Maximoff (Earth-616)|Scarlet Witch]] attempted to revive the 16 million, most of whom had not yet been revived on Krakoa. Somehow, these 16 million returned to life but had zombie-like characteristics. Since Explodey Boy’s original body was among the dead on Genosha, a zombie duplicate of his was also among those revived. 
+
+During [[Empyre (Event)|the Cotati invasion]], the zombie duplicate of Explodey Boy was the first to inform the invading [[Cotati]] soldiers what part of the world they landed on and also informed them about mutants; this explanation was followed by him giving them a display of his explosive powers. Not long after which his fellow resurrected mutants swarmed in to attack the Cotati.{{r|Empyre: X-Men Vol 1 #1}} Later in the fight, the alive Explodey Boy arrived through a Krakoan gateway on Genosha. He had a brief conversation with his zombie self, explaining how he was able to move on with his life since his ressurection on Krakoa. After their brief exchange, his zombie duplicate decided to sacrifice himself to save everyone, while the alive version returned to Krakoa.{{r|Empyre: X-Men Vol 1 4}} He later joined the newly reformed X-Men in [[Otherworld]] defending Krakoa from the hoards of [[Amenth]].{{r|X of Swords: Destruction Vol 1 1}}
+
+| Personality             = 
+
+| Powers                  = '''Fragokinesis''': Can cause things to explode.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = * His first kiss occurred after his resurrection with a mutant named Arachnidor, a "girl with the mutant power to smell like spiders." {{r|Empyre: X-Men Vol 1 4}}
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Self Detonation]]
+[[Category:One Arm]]
+[[Category:Post-M-Day Mutants (Pre-M-Day Deaths)]]
+[[Category:Separate pages]]

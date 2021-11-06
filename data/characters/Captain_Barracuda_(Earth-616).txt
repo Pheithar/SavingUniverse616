@@ -1,0 +1,55 @@
+{{Marvel Database:Character Template
+| Image                   = Captain Barracuda (Earth-616) from Iron Man 2020 Vol 2 2 001.jpg
+| Name                    = 
+| CurrentAlias            = Captain Barracuda
+| Aliases                 = Barracuda, Cap'n Barracuda, One-Eye
+
+| Affiliation             = Formerly {{M|Black Mast (Earth-616)|Black Mast}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = {{cl|FF: Fifty Fantastic Years #1}}
+| Gender                  = Male
+| Height                  = 6' 0"
+| Weight                  = 210 lbs
+| Eyes                    = Brown
+| Eyes2                   = (left eye; right unrevealed, if still present)
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Public
+| Citizenship             = 
+| Occupation              = Pirate
+| Education               = 
+| BaseOfOperations        = Mobile
+
+| Creators                = Stan Lee; Jack Kirby
+| First                   = Strange Tales Vol 1 #120
+
+| History                 = Captain Barracuda was a modern-day pirate who tried to board a city cuise ship, which happened to hold [[Robert Drake (Earth-616)|Iceman]], the [[Jonathan Storm (Earth-616)|Human Torch]], and [[Doris Evans (Earth-616)|Dorrie Evans]] as its passengers. He was defeated by the two heroes and arrested after he crashed his ship into an iceberg created by Iceman.{{r|Strange Tales Vol 1 #120}}
+
+[[File:Captain Barracuda (Earth-616) from FF Fifty Fantastic Years Vol 1 1 001.png|thumb|left|150px]]
+Barracuda reappeared later, capturing [[Namor McKenzie (Earth-616)|Namor the Submariner]] and [[Karthon the Quester (Earth-616)|Karthon the Quester]] who were fighting for the [[Serpent Crown]]. Barracuda took the crown for himself, but was again defeated when he stole a sonic device that attracted a torpedo into his own ship.
+
+He survived and has since clashed with both the [[Fantastic Four (Earth-616)|Fantastic Four]] (when he stole the horn which the Sub-Mariner used to control sea monsters and used it to attack New York){{r|Fantastic Four Vol 1 219}} and the [[Bruce Banner (Earth-616)|Hulk]]. During one of his later appearances, he was defeated this time by [[Clinton Barton (Earth-616)|Hawkeye]] and [[Wade Wilson (Earth-616)|Deadpool]].{{r|A + X Vol 1 8}}
+
+Captain Barracuda eventually replaced his crew with [[Robo-Buccaneers (Earth-616)|Robo-Buccaneers]] of his own creation. During a confrontation with [[Walter Newell (Earth-616)|Stingray]], who had uncovered Barracuda's caviar smuggling ring, Barracuda's ship was approached by a submarine piloted by [[Samuel Saxon (Earth-616)|Machinesmith]], a member of the rising [[A.I. Army (Earth-616)|A.I. Army]]. Using an [[Un-Inhibitor]], Machinesmith freed the Robo-Buccaneers from Barracuda's control. They all defected, leaving an astonished Barracuda to fight Stingray on his own.{{r|Iron Man 2020 Vol 2 2}}
+
+| Powers                  = 
+| Abilities               = He is a skilled leader, a proficient thief and talented in both conventional and advanced firearms. He is also an expert seaman and commandeered two submarines armed with many high-tech weapons.
+| Strength                = 
+| Weaknesses              = Since he can only see with one eye, his depth perception is greatly hindered.
+
+| Equipment               = The first submarine he commandeered had an electrified metallic net to ensnare prey, a cannon which fired an inertia-ray strong enough to down an American bomber by instantly ceasing its forward motion, and had one torpedo fitted with an atomic warhead as well as explosive shells. The second submarine, stolen from Captain Omen, could fire explosive shells too. Besides, Barracuda usurped control of Omen's former base complete with its own power plant, laboratory and mini-sub. He had possession of an omni-directional beam also known as the Sonic Magno-Directoid which was a military device that could control the course of underwater weapons, and a machine which was intended to stimulate cell growth using a gamma-ray power source to generate neurogenic rays, making wounds heal faster, but when its power source fused several circuits together, the machine instead rearranged cells, devolving human beings into ape-like beasts. He also possessed legendary relics like the Horn of Proteus which could summon and command sea creatures, and the Glove of Asteria which was able to direct a destructive column of air moving at nearly light speed.
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * http://www.marvunapp.com/Appendix/capbar.htm
+}}
+[[Category:One Eye]]

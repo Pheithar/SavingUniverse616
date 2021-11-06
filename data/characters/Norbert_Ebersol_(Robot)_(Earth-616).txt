@@ -1,0 +1,65 @@
+{{Marvel Database:Character Template
+| Image                   = Norbert Ebersol (Robot) (Earth-616) from Thunderbolts Vol 1 8 001.jpg
+| Name                    = [[Paul Norbert Ebersol]]
+| CurrentAlias            = [[Techno]]
+| Impersonations          = [[Ogre]]{{r|Thunderbolts Vol 1 34}}
+| Aliases                 =
+
+| Affiliation             = {{m|Thunderbolts}}
+| Relatives               =
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Red
+| Hair                    = Black
+
+| Origin                  = [[Robot]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Inventor
+| Education               = 
+| BaseOfOperations        = [[Mount Charteris]]
+
+| Creators                = Kurt Busiek; Roger Stern; Mark Bagley
+| First                   = Thunderbolts Vol 1 8
+| Death                   = Thunderbolts Vol 1 46
+
+| Quotation               = A Thunderbolt... would choose to die... like a hero...
+| Speaker                 = [[Norbert Ebersol (Robot) (Earth-616)|Techno]]
+| QuoteSource             = Thunderbolts Vol 1 46
+
+| History                 = After most of Earth's heroes, including the  [[Avengers (Earth-616)|Avengers]] and [[Fantastic Four (Earth-616)|Fantastic Four]], seemingly died battling Onslaught, [[Norbert Ebersol (Earth-616)|Fixer]] joined forces with [[Helmut Zemo (Earth-616)|Baron Zemo]] and pretended to be one of the new heroes known as the [[Thunderbolts (Earth-616)|Thunderbolts]].{{r|Thunderbolts Annual #1997}}{{r|Incredible Hulk #449}} During a battle with the [[Elements of Doom (Earth-616)|Elements of Doom]], Norbert was seemingly killed. However, he'd downloaded his conscious to his [[Fixer's Tech-Pac|Tech-Pac]] and thus created a robot copy of himself, which believed himself to be the real Norbert.{{r|Thunderbolts Vol 1 7|9}}
+
+Zemo's deception ultimately failed. But while his teammates chose to become legitimate heroes, Techno remained loyal to Zemo. They staged several plots together, such as sending a Hulk robot after the Thunderbolts for revenge, and unearthing some of Heinrich Zemo's inventions in the South American jungles before parting ways.{{r|Thunderbolts Vol 1 15|17}}{{r|Captain America & Citizen V Annual Vol 1 1998}}
+
+When the Thunderbolts created a base at [[Mount Charteris]], Techno snuck in and subdued its caretaker, [[Brian Dunlap (Earth-616)|Ogre]]. He then assumed Ogre's identity and presented himself as such to the Thunderbolts. There, the robot was responsible for resurrecting [[Helen Takahama (Earth-616)|Jolt]], before being severely injured by [[Nomad (Jack Monroe)|Scourge]]. Despite having the chance to take Hallie's life to save his own, he decided to let her live and thus perished with one final heroic act that would remain unknown by everyone else.{{r|Thunderbolts Vol 1 33|46}}
+
+| Powers                  = [[File:Norbert Ebersol (Robot) (Earth-616) from Thunderbolts Vol 1 45 001.jpg|150px|thumb|left|Shapeshifting his body]]
+* '''Technoforming:''' Techno could mentally control his robotic body, from being capable of assuming virtually any form to assimilating and making machinery & robotics an extension of himself -- making blast cannons & pile-drivers, to even absorbing a mile wide space station. To take on larger shapes, Techno absorbed mass from other mechanical materials nearby. His body also could morph into forms that appeared completely organic, as with his assumed guise of Thunderbolt machine-smith Ogre.
+
+| Abilities               = *'''[[Genius Intelligence]]:''' Techno inherited the intelligence of the original Norbert, which, adding to his computerized superiority made him incredibly intelligent.
+| Strength                =
+| Weaknesses              = 
+
+| Equipment               =
+| Transportation          =
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  =
+| Links                   = 
+}}
+[[Category:Shapeshifters]]
+[[Category:Robotics]]
+[[Category:Engineers]]
+[[Category:Scientists]]
+[[Category:Physicists]]
+[[Category:Chemists]]
+[[Category:Computer Hacking Skills]]
+[[Category:Fixer Experiment]]

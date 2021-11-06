@@ -1,0 +1,73 @@
+{{Marvel Database:Character Template
+| Image                   = Carter Ryking (Earth-616) from X-Men Vol 2 12 0002.jpg
+| Name                    = [[Carter Alexander Ryking]]
+| CurrentAlias            = [[Hazard]]
+| Aliases                 =
+
+| Affiliation              =
+| Relatives               = [[Alexander Ryking (Earth-616)|Alexander Ryking]] (father, deceased)
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 5'10"
+| Weight                  = 180 lbs.
+| Eyes                    = Green
+| Hair                    = Brown
+| UnusualFeatures         = Formerly forced to wear cyborg armor.
+
+| Origin                  = Depowered [[Homo superior|Mutant]], former [[Cyborgs|Cyborg]]
+| Reality                 = Earth-616
+| PlaceOfBirth            =
+| PlaceOfDeath            = [[Las Cruces]], [[New Mexico (State)|New Mexico]]
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Psychiatric patient
+| Education               = 
+| BaseOfOperations        = [[Ryking Hospital for Parahuman Research]], [[Las Cruces]], [[New Mexico (State)|New Mexico]]
+
+| Creators                = Fabian Nicieza; Art Thibert
+| First                   = X-Men Vol 2 12
+| Death                   = X-Men: Legacy Vol 1 211
+
+| History                 = [[Brian Xavier (Earth-616)|Brian Xavier]], [[Kurt Marko (Earth-616)|Kurt Marko]], and Hazard's father [[Alexander Ryking (Earth-616)|Alexander Ryking]] were all part of a secret mutant research project called [[Black Womb Project (Earth-616)|Black Womb]] at [[Alamogordo]], [[New Mexico (State)|New Mexico]].{{r|X-Men: Legacy Vol 1 212}}
+
+This was of special interest to Ryking as his son Carter had demonstrated mutant powers that he had trouble controlling. Carter was kept sedated and was outfitted with bionics in an attempt to help control his powers. He remained at the hospital until word reached of his father's death. Carter killed the nurses handling him then secretly sent a file with history on their fathers' project to [[Charles Xavier (Earth-616)|Professor X]]. This was discovered by [[James Howlett (Earth-616)|Wolverine]], who was looking through Xavier's files for information on his own past.{{r|X-Men Vol 2 12}}
+
+At Alexander's funeral, Hazard appeared to forcibly take Xavier to Alamogordo. Alerted by [[Valerie Cooper (Earth-616)|Valerie Cooper]], the [[X-Men (Earth-616)|X-Men]] followed them.{{r|X-Men Vol 2 12}}
+
+Hazard's firing mechanisms were damaged by [[Scott Summers (Earth-616)|Cyclops (Scott Summers)]], causing an energy buildup. Xavier mind-linked with Carter enough to limit the damage to most of the secret facility. With Carter weakened Wolverine tried to interrogate him about [[S.H.I.V.A. (Earth-616)|S.H.I.V.A]]. Xavier remarked that truth about the past came from where someone lived, not where they died, and the X-Men left.{{r|X-Men Vol 2 13}}
+
+Hazard was later contacted by the woman known as [[Gloria Dayne (Earth-616)|Fontanelle]] through his dreams. Fontanelle was gathering information about [[Remy LeBeau (Earth-616)|Gambit]] for her employer, the [[New Sun (Earth-9921)|New Son]], but the nature of the link between Hazard and Gambit is unknown.{{r|Gambit Vol 3 4}}
+
+Following [[Decimation|M-Day]], Carter was one of the millions of mutants who were left depowered.{{r|New Avengers Vol 1 18}} Driven insane by his loss in power, he was locked in a room at the [[Ryking Hospital for Parahuman Research|Ryking Institute]], where he began counting down to his own death. Shortly after a visit from Charles Xavier, on a quest to recover his lost memories, Carter was mysteriously killed while guards attempted to sedate him. Prior to his death, however, he allowed Xavier to read his mind, allowing Xavier to recall that their fathers' worked alongside [[Nathaniel Essex (Earth-616)|Dr. Milbury]], who performed genetic testing on the two boys, and who would later become known as Mister Sinister.{{r|X-Men: Legacy Vol 1 211}}
+
+| Powers                  = None, Ryking is a depowered mutant.
+{{Navigation
+| title = ''Former Powers''
+| body  =  * '''Plasma Generation''':  Hazard's body generated plasma. However, he needed bionics to control it for blasts and flight.
+* '''Energy Perception:''' Carter noted being able to see a red diamond on [[Nathaniel Essex (Earth-616)|Dr. Milbury's]] forehead. His mutation apparently allowing him to see this energy when no one else seemed to notice.
+}}
+| Abilities               = 
+| Strength                = Normal Human
+| Weaknesses              = Without control, his body will build energy up until it explodes.
+
+| Equipment               = Cyborg armor that regulated his mutant power.
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = Hazard lost his mutant powers after the M-Day.{{r|New Avengers Vol 1 18}}
+| Trivia                  = While Hazard has brown hair, he is depicted with black hair on the covers of {{cl|X-Men Vol 2 12}} and {{cl|X-Men Vol 2 13}}.
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * [http://www.marvunapp.com/Appendix6/hazardxm.htm Hazard on Marvel Appendix]
+}}
+[[Category:Depowered Mutants]]
+[[Category:Flight]]
+[[Category:Plasma Generation]]
+[[Category:Regulation]]
+[[Category:Insanity]]
+[[Category:M-Day Depowered]]
+[[Category:Mister Sinister Experiment]]
+[[Category:Energy Senses]]

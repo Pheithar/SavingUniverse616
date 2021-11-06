@@ -1,0 +1,39 @@
+{{Marvel Database:Team Template
+| Image                   = Press Gang (Earth-616) from Uncanny X-Men Vol 1 264 0001.jpg
+| Name                    = [[Press Gang]]
+| Aliases                 = 
+
+| Status                  = Defunct
+| Identity                = Secret
+| Reality                 = Earth-616
+| BaseOfOperations        = [[Genosha]]
+
+| Leaders                 = [[David Moreau (Earth-616)|David Moreau]] 
+| CurrentMembers          = 
+| FormerMembers           = [[Punchout]], [[Hawkshaw (Earth-616)|Hawkshaw]], [[Cormick Grimshaw (Earth-616)|Pipeline]], [[Wipeout (Earth-616)|Wipeout]]
+| Allies                  = {{m|Magistrates}}
+| Enemies                 = [[X-Men (Earth-616)|X-Men]]
+
+| Origin                  = Mutant voluteers
+| PlaceOfFormation        = [[Genosha]]
+| PlaceOfDissolution      = [[Genosha]]
+| Creators                = Chris Claremont; Rick Leonardi
+| First                   = Uncanny X-Men #235
+| Last                    = 
+
+| HistoryText             = The Press Gang is a group of [[mutant]] enforcers working for the government of [[Genosha]].
+
+The mutant residents on the island nation are enslaved by the law, and were genetically altered by the [[Genegineer]] into [[Genoshan Mutates]], who are devoid of free will. They perform any task needed from hard labor to soldiers.
+
+The Press Gang was created to retrieve mutants who attempt leave and defect to other countries, as this action is not recognized by Genoshan law.
+
+The Press Gang is an official branch of the Genoshan police force known as the [[Magistrates (Earth-616)|Magistrates]], the squad consists of three field operatives and one support operative. It was discovered by the X-Man, [[Havok]] that they mutants working voluntarily for the government, rather than enslaved Mutates.{{Citation}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * http://en.wikipedia.org/wiki/Press_Gang_(comics)
+}}

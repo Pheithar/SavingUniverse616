@@ -1,0 +1,161 @@
+{{Marvel Database:Character Template
+| Image                   = Adrian Toomes (Earth-616) from Peter Parker The Spectacular Spider-Man Vol 1 4 001.jpg
+| Name                    = [[Adrian Toomes]]
+| CurrentAlias            = [[Vulture]]
+| CurrentAliasRef         = 
+| Codenames               = [[Falcon]]{{r|Free Comic Book Day Vol 2017 Secret Empire}}
+| EditorialNames          = 
+| Nicknames               = Buzzard,{{r|Marvels 2 1}} Vulchy{{r|Friendly Neighborhood Spider-Man Vol 1 15}}
+| Impersonations          = 
+| Aliases                 = 
+
+| Affiliation             = {{m|Savage Six (Kraven's) (Earth-616)|Savage Six}}; formerly {{m|Sinister Six (Earth-616)|Sinister Six}}, {{m|Legion Accursed (Earth-616)|Legion Accursed}}, {{m|Sinister Twelve (Earth-616)|Sinister Twelve}}, "Vulture robbers", {{m|Superior Six (Earth-616)|Superior Six}}, {{m|Bestman and Toomes Electronics (Earth-616)|Bestman and Toomes Electronics}}
+| Siblings                = [[Marcus Toomes (Earth-616)|Marcus Toomes]] (brother)
+| Spouses                 = [[Cheryl Toomes (Earth-616)|Chery Toomes]] (wife, deceased)
+| Children                = [[Frankie Toomes (Earth-616)|Frankie Toomes]] (son);{{r|Miles Morales: Spider-Man Vol 1 10}}<br>
+[[Valeria Toomes (Earth-616)|Valeria Toomes]] (daughter);<br>
+unnamed son
+| Descendants             = unnamed grandson;<br>
+[[Tiana Toomes (Earth-616)|Tiana Toomes]] (granddaughter){{r|Miles Morales: Spider-Man Vol 1 6}}
+| Relatives               = Ramona (daughter-in-law);<br>
+[[Lenora Toomes (Earth-616)|Lenora Toomes]] (daughter-in-law, deceased);{{r|Miles Morales: Spider-Man Vol 1 10}}<br>
+[[Malachi Toomes (Earth-616)|Malachi Toomes]] (nephew, deceased)
+| MaritalStatus           = Widowed
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 5'11"
+| Weight                  = 175 lbs
+| Eyes                    = Hazel
+| Hair                    = Bald
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]], Adrian Toomes invented a wingsuit, which gave him the powers of flight and superhuman strength.
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Staten Island]], [[New York (State)|New York]]
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = Professional criminal; former electrical engineer, inventor, businessman
+| Education               = MS in electrical engineering{{r|Official Handbook of the Marvel Universe A-Z Vol 1 13}}
+| BaseOfOperations        = [[New York City]], [[New York (State)|New York]]
+
+| Creators                = Stan Lee; Steve Ditko
+| First                   = Amazing Spider-Man Vol 1 2
+
+| Quotation               = I fought '''[[Matthew Murdock (Earth-616)|Daredevil]]'''. I was in the '''[[Sinister Six (Earth-616)|Sinister Six]]'''. I'm faster, stronger, and smarter than a '''hundred''' men my age. No flunky with a pistol gets the drop on '''me'''.
+| Speaker                 = [[Adrian Toomes (Earth-616)|Adrian Toomes]]
+| QuoteSource             = Identity Disc Vol 1 3
+
+| History                 = 
+[[File:Adrian Toomes (Earth-616) from Amazing Spider-Man Vol 1 241 001.png|thumb|left|Vulture's flashback of opening a business]]
+===Early Life===
+Young Adrian Toomes' parents died during his early years. Adrian was raised by his older brother Marcus and found intelligent by his teachers at school. His brother Marcus became paraplegic after a motorcycle incident and the tables turned with Adrian looking after him.{{r|Friendly Neighborhood Spider-Man #15}}
+
+As an adult, Adrian became an electrical engineer and inventor. Toomes, with his business partner [[Gregory Bestman (Earth-616)|Gregory Bestman]], started [[Bestman and Toomes Electronics (Earth-616)|Bestman and Toomes]], a small electronics firm. It was during his time there that Toomes first developed an [[Vulture's Wings|electromagnetic harness]] that would allow the wearer to fly. Toomes' excitement at his invention was cut short when he discovered Bestman was embezzling money from the company. When Toomes physically confronted Bestman in his office, he found that exposure to the harness increased his strength. Bestman fired Toomes for attacking him and assumed full control of the company.
+
+Toomes retired to a farm on [[Staten Island]] and continued to work on his harness. In the meantime, Bestman decided to sell B+T. Learning of this, Toomes adopted the guise of the Vulture, ransacked Bestman's office, and stole his money back. Having enjoyed the experience, Toomes decided to become a costumed criminal full time.{{r|Amazing Spider-Man #241}}
+
+[[File:Peter Parker and Adrian Toomes (Earth-616) from Amazing Spider-Man Vol 1 2 001.jpg|thumb|right|Spider-Man encounters the Vulture for the first time]]
+===Criminal Career===
+In one of his earliest outings as the Vulture, Toomes robbed the [[Park Avenue Diamond Exchange]], in which beforehand he tauntingly announced to the public as the site of his next robbery. While everybody expected the Vulture to strike from above, he struck from beneath a manhole cover, seized a case of diamonds, and fled through the New York City sewer system. [[Peter Parker (Earth-616)|Spider-Man]] managed to disable his wings using an [[Anti-Magnetic Inverter (Spider-Man)|anti-magnetic inverter]] he had designed.{{r|Amazing Spider-Man #2}}
+
+The Vulture managed to escape from prison and resumed his crime spree. He fought Spider-Man, who found that the magnetic inverter no longer worked against the Vulture's wings. Spider-Man took a serious fall, spraining his arm in the process. When the Vulture later attacked the Daily Bugle, Peter changed into Spider-Man and defeated his foe by pinning his wings with his webbing.{{r|Amazing Spider-Man #7}}
+
+After being defeated by Spider-Man for the second time, the Vulture became a founding member of the [[Sinister Six (Earth-616)|Sinister Six]]. He and five other members of Spider-Man's rogues gallery united under the leadership of [[Otto Octavius (Earth-616)|Doctor Octopus]]. The inaugural incarnation of the Sinister Six also included the [[William Baker (Earth-616)|Sandman]], [[Quentin Beck (Earth-616)|Mysterio]], [[Maxwell Dillon (Earth-616)|Electro]], and [[Sergei Kravinoff (Earth-616)|Kraven the Hunter]]. With each villain facing Spider-Man separately (due to their shared sense of pride) they were defeated. Toomes was sent back to prison.{{r|Amazing Spider-Man Annual #1}}
+
+[[File:Amazing Spider-Man Vol 1 63.jpg|thumb|left|200px|The two Vultures]]
+===The New Vulture===
+While in prison, Toomes became cellmates with [[Raniero Drago (Earth-616)|Raniero "Blackie" Drago]]. For months Drago would pester Toomes for the location of his last pair of wings. Eventually, Drago arranged an "accident" in the prison machine shop to seriously injure Toomes, hoping to pry the wings location out of Toomes while he was on his deathbed. Having gained the information he needed, Drago broke out of prison and became the new Vulture. He was eventually defeated by Spider-Man.{{r|Amazing Spider-Man #48|49}} Following Drago's defeat, the wings ended up in a museum.{{r|Amazing Spider-Man #64}}
+
+Meanwhile, Toomes recovered from his injuries and escaped from prison. Laying low, Toomes created another pair of wings while he formulated his revenge. Toomes proceeded to break Drago out of jail and gave him the original wings. Toomes planned to best his former cellmate in combat, to prove to the world that he was the one, true Vulture. After a vicious aerial battle, Toomes knocked Drago out and turned his attentions to Spider-Man, who had been observing the fight. Despite Spider-Man's best efforts, the Vulture managed to escape.{{r|Amazing Spider-Man #64}}
+
+===Mobsters===
+The Vulture later humiliated the racketeering mobster Mr. Morgan, who hired the [[Burt Kenyon (Earth-616)|Hitman]] to kill Spider-Man, trying to rob the Vulture of his revenge.{{r|{{cl|Peter Parker, The Spectacular Spider-Man Vol 1 4}}-[[Peter Parker, The Spectacular Spider-Man Vol 1 5|5]]}} The Vulture then arranged the murder of New York's top mobsters to become New York's new crime lord, and battled Spider-Man.{{r|Peter Parker, The Spectacular Spider-Man #44|45}}
+
+===Casino Racketeering===
+The Vulture later came out of retirement to claim vengeance on Gregory Bestman, his former research partner who embezzled him out of the profits.{{r|Amazing Spider-Man #240|241}} He became involved in [[Atlantic City]] casino racketeering to prepare for his own ostentatious funeral, but was thwarted by the [[Roderick Kingsley (Earth-616)|Hobgoblin]].{{r|Web of Spider-Man #24}} He moved his gambling operations to [[Las Vegas]], where he attacked Snake Diamond in the middle of the desert for stealing his formula for a special embalming fluid.{{r|Web of Spider-Man #45}}<!-- 
+
+===[[Acts of Vengeance (Event)|Acts of Vengeance]]===
+He later confronted the mutants [[Russell Collins (Earth-616)|Firefist]] and [[Sally Blevins (Earth-616)|Skids]] in an attempt to release [[Robert Hunter (Earth-616)|Nitro]].{{r|New Mutants #86}} -->
+
+===Nathan Lubensky===
+During one of his many periods of ill health, Toomes struck up a friendship with [[Nathan Lubensky (Earth-616)|Nathan Lubensky]], a man who had become the new love of [[Maybelle Parker (Earth-616)|May Parker]]'s life. Nathan was unaware of Toomes' true identity, and encouraged the injured criminal to take his chances with life and not to let handicaps drag him down (Nathan was a paraplegic). Toomes followed Nathan's advice and attempted to take over his rehab clinic as the Vulture. A battle with Spider-Man led to Toomes being partly responsible for Nathan's death.{{r|Amazing Spider-Man #336}}
+
+[[File:Adrian Toomes (Earth-616) from Amazing Spider-Man Vol 1 337 001.png|thumb|right|With the Six]]
+The Vulture would seemingly cherish Nathan's influence, but irony would serve him a cruel blow when he was hired by the [[Wilson Fisk (Earth-616)|Kingpin]] to assassinate a high ranking casino runner. During another conflict with Spider-Man as part of Doctor Octopus's new Sinister Six, the Vulture sought to use a hostage as a shield, and selected May Parker from the crowd. Little did he suspect though that Nathan was also with May, and he defiantly leaped from his wheelchair and grabbed Toomes. Still not realizing who it was, Toomes flew high into the air with Nathan on his back warning the man to get off. Nathan took one look down and realized how high they were, triggering a fatal heart attack. Toomes fled as Nathan fell. Though he was successfully caught by Spider-Man, Nathan died in May's arms.{{r|Amazing Spider-Man #336}}
+
+===Asking for Forgiveness===
+Toomes was later diagnosed with cancer, caused by frequent exposure to the essentials needed to power his flying apparatus. In an attempt to be forgiven for all of his previous sins, the Vulture terrorized the Parker household, pleading that May Parker forgive him for indirectly causing Nathan's death. An enraged Peter attacked Toomes, forcing The Vulture to capture him and take him back to his old lair. After escaping Toomes, Peter switched to Spider-Man and brutally assaulted The Vulture, and in the ensuing battle, the Vulture's own power pack malfunctioned and exploded, setting his wings ablaze. Spider-Man successfully ripped the burning pack off of Toomes, and the two crash landed in a muddy ditch. After being arrested, Toomes was returned to the Parker home so May, reunited with Peter, could identify him. May hoped that Toomes' death would be slow and full of suffering. The next day, she visited Toomes in prison and apologized to him for her cruel remarks, but also stated that she could not forgive him, and that any kind of redemption would be left up to him and God.{{r|Spectacular Spider-Man #186|187}}
+
+===Rejuvenation and Return to Normalcy===
+[[File:Adrian Toomes (Earth-616) from Amazing Spider-Man Vol 1 387 002.jpg|thumb|left|Rejuvenation]]
+The Vulture once stumbled across a plot by the [[Dmitri Smerdyakov (Earth-616)|Chameleon]] and the [[Harold Osborn (Earth-616)|Green Goblin]] to drive Spider-Man insane by having shapeshifting androids impersonate his late mother and father; due to Toomes' interference, the androids were destroyed, leading the wall-crawler to a brief nervous breakdown. The Vulture absorbed the artificial life force from the Mary Parker android, and the effect on the Vulture was twofold; not only did he become a young man again, but he was instantly cured of the cancer that had been slowly killing him for some time.{{r|Amazing Spider-Man Vol 1 387|388}}
+
+During this period, the Vulture attempted to kill everyone who'd ever known him as an old man in an attempt to get a clean slate for his life, but this plan went wrong when he targeted a Prowler impersonator (the [[Hobie Brown (Earth-616)|Prowler]] having once thwarted his attempted takeover of his old company) and Spider-Man; although Toomes nearly gutted the fake Prowler, Spider-Man managed to get him to the hospital. During a later fight with Spider-Man, the Vulture was 'attacked' by David Kalen, a man capable of dissolving anything he touched and had turned his power on himself in his grief at the death of his brother. Toomes subsequently reverted back to his old age, presumably due to Kalen's power having negated the youth effect.{{r|Sensational Spider-Man #16|18}}
+
+Under the tutelage of [[Alexei Kravinoff (Earth-616)|Al Kraven]], the son of Kraven the Hunter, Toomes briefly attempted a stint at heroism but before long he returned to the wrong side of the law.{{r|Spider-Man: Get Kraven #4}}
+
+===Identity Disc===
+With the help of Sandman, Vulture manipulated [[Bullseye (Lester) (Earth-616)|Bullseye]], [[Wade Wilson (Earth-616)|Deadpool]], [[Cain Marko (Earth-616)|Juggernaut]], and [[Victor Creed (Earth-616)|Sabretooth]] into laying siege to terrorist group [[Advanced Idea Mechanics (Earth-616)|A.I.M.]] headquarters in order to retrieve a disc containing the identities of undercover [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] operatives (including that of Toomes' [[Valeria Toomes (Earth-616)|daughter]]).{{r|Identity Disc Vol 1 #1|5}}
+
+===Facial Scars===
+During a brief time working for the [[Leland Owlsley (Earth-616)|Owl]], he failed in a mission (and had his face brutally slashed by the [[Felicia Hardy (Earth-616)|Black Cat]]) and was severely beaten as punishment.{{r|Marvel Knights: Spider-Man #2|4}} He subsequently revealed himself as a member of Norman Osborn's [[Sinister Six (Earth-616)#Sinister Twelve|Sinister Twelve]] — though he wore a helmet, presumably to mask the wounds.{{r|Marvel Knights: Spider-Man #10|11}}
+
+===Civil War===
+During the [[Civil War (Event)|superhuman Civil War]], he was apprehended along with the [[Eric Williams (Earth-616)|Grim Reaper]] and the [[Peter Petruski (Earth-616)|Trapster]] by [[Steven Rogers (Earth-616)|Captain America]] and his growing [[Secret Avengers (Civil War) (Earth-616)|Resistance]], who chained him together with Grim Reaper to a pole and broke his nose. He was found and taken into custody by [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]].{{r|Civil War #2}} He witnessed Spider-Man unmasking himself from his jail cell.{{r|Amazing Spider-Man #533}}
+
+After Spider-Man went rogue Toomes spoke with [[James Madrox (S.H.I.E.L.D. Agent) (Earth-616)|Agent Madrox]] and commented on Spider-Man's inherent weakness, that being his unwillingness to use his powers for personal gain. S.H.I.E.L.D. returned his flying harness and encouraged him to hunt down Spider-Man, as he was now considered an outlaw. Later, the Vulture attacked Spider-Man at a book signing and managed to slash him with a powerful sedative. Toomes however fell unconscious and, sensing something was wrong, Spider-Man rushed him to the hospital. Toomes woke up a few hours later, where a doctor revealed that he had suffered a stroke, and many of his muscles on the left side of his body had been paralyzed. When the doctor left, Spider-Man snuck in and Toomes asked him to kill him because he was weak. When Spider-Man refused to do so, he told Spider-Man that he was also weak, and always has been. After making remarks about [[Benjamin Parker (Earth-616)|Uncle Ben]], Spider-Man took a pillow and began suffocating him. He fought back, and Spidey removed the pillow, commenting that "For somebody who's begging to die, you fight for life pretty hard."{{r|Friendly Neighborhood Spider-Man #14|16}}
+
+===[[Brand New Day]] & Kraven's Zoo===
+After Peter Parker made a deal with the demon [[Mephisto (Earth-616)|Mephisto]], Peter's identity was once again a secret from Toomes and most of the world.{{r|Amazing Spider-Man #545}}
+
+When Al Kraven began collecting a zoo of animal-themed superhumans, Vulture was one of his captives.{{r|Punisher War Journal Vol 2 13}} To stop Vulture from using his intellect to find a way to remove his bomb collar, Kraven broke his hands repeatedly,{{r|Punisher War Journal Vol 2 14}} but with help from the [[Aleksei Sytsevich (Earth-616)|Rhino]], Vulture escaped.{{r|Punisher War Journal Vol 2 15}}
+
+===Return===
+[[File:Amazing Spider-Man Vol 1 675 Textless.jpg|thumb|right]]
+A new group of flying thieves were seen in New York, and Spider-Man worked with police officer [[Carlie Cooper (Earth-616)|Carlie Cooper]] to find out what was happening. It was discovered that this group of thieves had a leader, who also provided them with the flying technology: Adrian Toomes, the original Vulture.{{r|Amazing Spider-Man #674}} After resolving where these thieves were coming from, Spider-Man confronted and subdued them. At last he battled the Vulture (who used his magnetic technology to provide himself with super-strength), but the villain escaped.{{r|Amazing Spider-Man #675}}
+
+Some time later, the Vulture sent his henchmen to retrieve some documents he left behind at [[MJ's]], formerly his hideout, The Wake. [[Otto Octavius (Earth-616)|Spider-Man]], identifying himself as Otto Octavius, invaded his hideout offering money to Toomes give up his life of crimes and leave the city, but he doesn't believe a word and orders his little henchmen to attack the web-slinger. Spidey accidentally knocks out one of the flying midgets; although it turns out that all this time Vulture had used children for his own purposes. Shocked, Otto recalls his own childhood and permanent beating by abusive father. These memories lead him into a rage and he attacks Toomes. After the heavy battle in the air Spider-Man manages to black out the upgraded lenses, blind the old man activating the Spider-signal and crash him right into it.{{r|Superior Spider-Man #2|3}}
+
+Along with [[Frederick Myers (Earth-616)|Boomerang]] and the [[MacDonald Gargan (Earth-616)|Scorpion]], Toomes was incarcerated and treated in the Raft's infirmary. Alistair Smythe's mini Spider-Slayers heal and enhances them where Smythe gives them the offer to kill Spider-Man (Otto Octavius inhabiting Spidey's body at the time).{{r|Superior Spider-Man #11}} He was eventually defeated and was temporarily forced by Spider-Man to work in his [[Superior Six (Earth-616)|Superior Six]].{{r|Superior Spider-Man Team-Up #5}}
+
+===Kraven's Great Hunt===
+Toomes later developed a modified version of his Electromagnetic Wing Harness dubbed the Falcon Suit, with a reinforced helmet and lightweight, razor-sharp, nano-woven wings, which responded to his mental commands. He then assumed the moniker Falcon, believing it to be vacant, and robbed a location in the [[East Village]]. Spider-Man attempted to thwart the theft; however, they were both immobilized by the [[Paste-Gun]] of the new Trapster, who took the Falcon's loot for herself.{{r|Free Comic Book Day Vol 2017 Secret Empire}} Toomes' rebranding was short-lived, and he quickly returned to his original alias.{{r|Peter Parker: The Spectacular Spider-Man Vol 1 4}}
+
+[[File:Adrian Toomes (Earth-616) from Amazing Spider-Man Vol 5 20.HU 002.jpg|thumb|left|Vulture leading the hunted]]
+When Vulture's former ally Kraven the Hunter decided to orchestrate his "Great Hunt,"{{r|Amazing Spider-Man Vol 5 16}} Adrian was one of the numerous animal-themed criminals abducted by the mercenaries [[Anthony Masters (Earth-616)|Taskmaster]] and [[Eric O'Grady (LMD) (Earth-616)|Black Ant]].{{r|Amazing Spider-Man Vol 5 3}} Kraven intended to force these costumes villains to honor the souls of the animals whose identities they adopted by forcing them to survive being hunted by [[Hunterbot]]s,{{r|Amazing Spider-Man Vol 5 17}} an army of drones created by [[Arcade (Earth-616)|Arcade]] and piloted remotely by a cadre of wealthy would-be hunters tricked by Kraven into operating these robots with VR headsets they couldn't take off, which also made any damage done to a pilot's Hunterbot recoil in their body.{{r|Amazing Spider-Man Vol 5 20}}
+
+Early into the tournament and under Kraven's orders, Arcade provided Adrian with the [[Hunter Killer]], a device capable of incapacitating a Hunterbot. The Vulture used the Hunter Killer to spearhead the counter-offensive against the Hunterbots, becoming a leader to the trapped villains and earning a following.{{r|Amazing Spider-Man Vol 5 20.HU}} After Kraven shut down the Great Hunt and liberated his prisoners,{{r|Amazing Spider-Man Vol 5 22}} the Vulture was captured by the authorities. In a prison convoy, he was reunited with five other unwilling participants of the Great Hunt, and they decided to remain together as the [[Savage Six (Kraven's) (Earth-616)|Savage Six]].{{r|Amazing Spider-Man Vol 5 23}}
+
+| Powers                  = '''Temporary/Limited Levitation:''' It has recently been revealed that, due to his prolonged use of the harness, the Vulture can levitate or float his body even without the harness, however at a very slow speed. Like his other abilities, it is probable that this ability too would fade with time away from the harness.{{Citation}}
+
+'''[[Superhuman Strength]]:''' With the use of his magnetic technology, Toomes can provide himself with super-strength, being able to lift a water tank easily.{{r|Amazing Spider-Man Vol 1 675}}
+| Abilities               = 
+'''[[Genius Intelligence]]:''' Toomes is intellectually brilliant in the fields of electronics and mechanical engineering, with a great talent for invention. He has earned a Master of Science degree in electrical engineering.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 13}}
+| Strength                = Augmented by his Flying Harness, the Vulture's strength is enhanced to some level of peak human.{{r|Amazing Spider-Man Vol 1 241}} He can lift (press) approximately 700 lbs.{{Citation}} Without his harness, he possesses the normal human strength for a man his age, height, and build who engages in minimal regular exercise.{{Citation}}
+| Weaknesses              = 
+
+| Equipment               = [[File:Adrian Toomes (Earth-616) from Amazing Spider-Man Vol 1 241 004.png|thumb|Utilizing his winged suit, Adrian Toomes possess the powers of flight and superhuman strength]]
+'''[[Vulture's Wings|Electromagnetic Wing Harness]]:''' Utilizing his harness the Vulture is able to fly with a natural winged flight limit (95 miles per hour). The [[Glossary:A#Anti-Graviton|anti-graviton]] generator attached to his flight suit enables him to take to the air by flapping the bird-like wings he wears under his arms. When wearing his electromagnetic harness, the Vulture possesses superhuman strength, vitality and athletic prowess. The harness increases his physical strength to the absolute human maximum enabling him to lift roughly 700 pounds. When he removes the harness his enhanced abilities slowly fade, although the rate at which his abilities fade remains unclear. The harness also (according to some sources) increases his lifespan. The Vulture can reach speeds of up to 95 miles per hour and attain a maximum height of 11,000 feet. The Vulture has a new version of his flight harness that has supposedly been augmented by the Green Goblin. Though Vulture claimed that it made him several times stronger than his previous version (500% stronger) it appeared to be a bluff to frighten the Black Cat, who proceeded to beat him half to death. Considering she has no real superhuman powers and the severity of the beating she managed to give him it is very unlikely he was being entirely truthful. Vulture's harness also lets him fly virtually soundlessly.
+*'''Wing Projectile Capability:''' His feathers are as sharp as swords and can be used as projectile weapons. They will replenish themselves so he can maintain flying abilities.
+| Transportation          = He prefers flying.
+| Weapons                 = The Vulture carries some form of plasma pistol and several grenades of unknown types.
+
+| Notes                   = * The Vulture was the first traditionally costumed super-villain Spider-Man ever faced, having previously only squared off against the super spy [[Dmitri Smerdyakov (Earth-616)|Chameleon]] in {{cl|Amazing Spider-Man Vol 1 1}}.
+* Up until {{cl|Amazing Spider-Man Vol 1 676}}, the Vulture had been the only Spider-Man foe besides [[Maxwell Dillon (Earth-616)|Electro]] to be a member of every incarnation of the [[Sinister Six (Earth-616)|Sinister Six]], Sinister Seven, and Sinister Twelve. He has also never once served as leader of any group.
+| Trivia                  = * Stan Lee originally envisioned the Vulture as a fat person, and wanted Steve Ditko to use actor [[wikipedia:Sydney Greenstreet|Sydney Greenstreet]] as inspiration for his appearance. Ditko differed, believing that a large villain would seem almost passive, and an easier enemy to escape from compared to somebody thin and fast. Ditko also favored using lean people, due to bulky characters reducing the panel space that could be used for other characters and story elements.{{r|{{cite web|url=http://www.cbr.com/spider-man-vulture-original-design-steve-ditko-stan-lee/|title=What Stan Lee Wanted the Vulture to Look Like|work=CBR.com|first=Brian|last=Cronin|date=10 July 2017|accessdate=22 July 2017}}}}
+* The Vulture has maintained a vegetarian diet and claimed he did so as he had to watch what he ate because of his age.{{r|Doctor Doom and the Masters of Evil Vol 1 1}} 
+| Links                   = 
+* http://www.marveldirectory.com (Marvel Directory)
+}}
+[[pt-br:Adrian Toomes (Terra-616)]]
+[[es:Adrian Toomes (Tierra-616)]]
+[[Category:Cancer (disease)]]
+[[Category:Armor Users]]
+[[Category:Flight]]
+[[Category:Genius Intelligence]]
+[[Category:Inventors]]
+[[Category:Doctor Octopus Experiment]]
+[[Category:Ravencroft Institute Patients]]
+[[Category:Vegetarians]]

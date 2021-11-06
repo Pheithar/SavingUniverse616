@@ -1,0 +1,54 @@
+{{Marvel Database:Character Template
+| Image                   = Wipeout (Earth-616) from Uncanny X-Men Vol 1 272.png
+| Name                    = 
+| CurrentAlias            = Wipeout
+| Aliases                 = 
+
+| Affiliation             = {{m|Magistrates|Genoshan Magistrates}} ({{M|Press Gang}})
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Blue
+| Hair                    = White
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = Genoshan
+| Occupation              = Criminal
+| Education               = 
+| BaseOfOperations        = [[Genosha]]
+
+| Creators                = Chris Claremont; Marc Silvestri
+| First                   = Uncanny X-Men #236
+| Death                   = New Mutants #97
+
+| History                 = Wipeout was used by the [[Magistrates (Earth-616)|Genoshan Magistrates]] to control the island's [[Homo superior|mutant]] [[Genoshan Mutates|slaves]]. His power negation made the mutants incapable of resisting when chosen for the Mutate bonding process.{{r|Uncanny X-Men #236}}
+
+Following the abduction of several mutants by Genosha (orchestrated by [[Cameron Hodge (Earth-616)|Cameron Hodge]]), several teams of [[X-Men (Earth-616)|X-Men]] invaded the island nation. Wipeout, however, was killed by the insane foreign consultant, Cameron Hodge.{{r|New Mutants #97}}
+
+| Powers                  = * '''Power Negation''': Wipeout had the powers to negate the powers of other mutants.{{r|Uncanny X-Men #236}}
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Telepaths]]
+[[Category:Power Negation]]

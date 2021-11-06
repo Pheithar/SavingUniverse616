@@ -1,0 +1,83 @@
+{{Marvel Database:Character Template
+| Image                   = Amazing Spider-Man Vol 4 18 Textless.jpg
+| Name                    = None
+| CurrentAlias            = The Living Brain
+| Aliases                 = [[Brain]]
+
+| Affiliation             = {{m|Parker Industries}}, [[Peter Parker (Earth-616)|Spider-Man (Peter Parker)]]; formerly {{m|Sinister Six}}, [[Otto Octavius (Earth-616)|Spider-Man (Otto Octavius / "Peter Parker")]], {{m|Horizon Labs}}
+| Relatives               = [[Character Index/P#Petty|Dr. Petty]] (creator)
+[[Steven Petty (Earth-616)|Steven Petty]] ("brother", secondary creator)
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Agender
+| Height                  = 6' 6"
+| Weight                  = 800 lbs
+| Eyes                    = Yellow
+| Hair                    = No Hair
+| UnusualFeatures         = 
+
+| Origin                  = [[Robots|Robot]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Midtown High School]], [[Forest Hills]], [[Queens]], [[New York City]], [[New York (State)|New York]], [[United States of America]]
+| PlaceOfDeath            = [[Parker Industries Building (London)|Parker Industries Building]], [[London (England)|London]], [[United Kingdom]]
+
+| Identity                = 
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = [[Parker Industries (Earth-616)|Parker Industries]], [[Hudson River]], [[New York (State)|New York]]; formerly [[Raft|Spider-Island Two]], [[New York City]], [[New York (State)|New York]]; [[Horizon Labs]], [[New York City]], [[New York (State)|New York]]
+
+| Creators                = Stan Lee; Steve Ditko
+| First                   = Amazing Spider-Man Vol 1 8
+
+| History                 = 
+===Creation===
+The Living Brain, soon after its creation, was brought to [[Midtown High School]] by its creator, Dr. Petty, as a part of a demonstration of its ability to solve any problem. After the Living Brain's demonstration, two workmen hired to transport it overheard the Living Brain's ability to answer anything, and decided to steal it in order to use its abilities for gambling purposes. 
+
+Caught in the middle of stealing the Living Brain by Dr. Petty, the two workmen got into a scuffle with him, which ended with one of them being knocked into the control panel on the Living Brain's chest, which caused the Living Brain to malfunction. Going on a rampage through Midtown High, the Living Brain was eventually shut down by [[Peter Parker (Earth-616)|Spider-Man]], who destroyed its control panel in a brief fight.{{r|Amazing Spider-Man Vol 1 8}}
+
+===Return===
+The Living Brain reappeared several years later, discredited and broken-down. Dr. Petty planned to donate it to Midtown High School's science lab. The Living Brain ended up being stolen by Dr. Petty's son, [[Steven Petty (Earth-616)|Steve Petty]], who modified the robot, giving it a gold and red color scheme, clawed hands and the ability to fly. 
+
+Remotely controlling the Living Brain to attack a bully who had been tormenting him, Steve was eventually defeated by Spider-Man (who had been on a visit to Midtown High as Peter Parker) and the Living Brain was shut down once more.{{r|Web of Spider-Man Vol 1 35}} The Brain was later rebuilt in the original chassis, and used by two men to commit robberies. Spider-Man defeated and webbed up the crooks and the Brain, quipping, "Don't be sore, Brain. When you get outta the slammer, you can always find work as a gumball machine!"{{r|Peter Parker: Spider-Man Vol 1 20}}
+
+===Repurposed===
+Living Brain later appeared as a member of the [[Sinister Six (Earth-616)|Sinister Six]] when they fought [[Otto Octavius (Earth-616)|Spider-Man]], who at the time was Otto Octavius in the hero's body.{{r|Superior Spider-Man Vol 1 1}} Following this, he had it delivered to [[Horizon Labs]], where it was reprogrammed to serve as his new lab assistant.{{r|Superior Spider-Man Vol 1 2}}
+
+[[File:Otto Octavius (Earth-616) and Living Brain (Earth-616) from Superior Spider-Man Vol 1 28 001.jpg|thumb|left|120px|Spidey escapes his pursuers with the Living Brain.]]
+When [[Raft|Spider-Island II]] was attacked by the [[Goblin Nation (Earth-616)|Goblin Underground]], Spider-Man got Living Brain out and rode it away from Spider-Island II while evading the enemy pursuers. Spider-Man later used Living Brain to help fight [[Carlie Cooper (Earth-616)|Monster]] (the Goblin form of Carlie Cooper).{{r|Superior Spider-Man Vol 1 28}}
+
+After the return of Peter Parker to his body, the Living Brain was retained as his assistant.{{r|Amazing Spider-Man Vol 3 1}} When the [[Ghost (Earth-616)|Ghost]] tried to take over the security measures of [[Parker Industries (Earth-616)|Parker Industries]] as a means of sabotage, the Living Brain was ordered by Peter Parker to protect the employees during the evacuation and was damaged in the process.{{r|Amazing Spider-Man Vol 3 17}} 
+
+===Housing Doctor Octopus===
+After Parker Industries collapsed, the Living Brain was used by [[Otto Octavius (Earth-616)|a copy of Otto Octavius' consciousness]] to maintain itself for an indefinite amount of time, in which Octavius plotted to take over Peter Parker's body again.{{r|Amazing Spider-Man Vol 4 18}}
+
+The Living Brain ended up being destroyed when Otto, who went on a rampage after discovering how he had been defeated by Spider-Man, activated its self-destruction to avoid being shut down again.{{r|Amazing Spider-Man Vol 4 18}}
+
+===Rebuilt by Anna===
+[[Anna Maria Marconi (Earth-616)|Anna Maria Marconi]] got suspicious that Elliot Tolliver was a form of Doctor Octopus. In order to conform this theory, Anna rebuilt Living Brain to draw him out.{{r|Superior Spider-Man Vol 2 1}}
+
+| Powers                  = '''Superhuman Strength:''' The Living Brain was able to analyze the strength of Spider-Man's webbing, deciding how much pressure to apply, and then ploughed right through it.
+
+'''Superhuman Durability:''' The Living Brain was able to withstand multiple energy attacks from the [[Parker Industries (Earth-616)|Parker Industries]] S.W.A.T.-Bots.{{r|Amazing Spider-Man Vol 3 17}}
+
+'''Self-Repairing System:''' The Living Brain was able to used the nanites stored in itself, to self-repair its body when it was damaged.{{r|Amazing Spider-Man Vol 3 18}}
+| Abilities               = '''[[Super-Genius Intelligence|Programmable Intelligence]]:''' The Living Brain has a hard drive stored in its body to allow it to store unlimited amount of data and has the potential to contain more knowledge than any other brain on earth, human or mechanical. It was able to think so fast it was able to second-guess Spider-Man's actions.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 6}}
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = Living Brain
+| Links                   = * [http://www.marvunapp.com/Appendix/livbrain.htm Living Brain (Earth-616) at the Appendix of the Handbook of the Marvel Universe]
+}}
+[[Category:Superhuman Strength]][[Category:Doctor Octopus Experiment]]
+[[Category:Artificial Intelligences]]
+[[Category:Regeneration]]
+[[Category:Spider-Geddon participants]]

@@ -1,0 +1,60 @@
+{{Marvel Database:Character Template
+| Image                   = Jason Pierce (Earth-616) 0002.jpg
+| Name                    = Jason Pierce
+| NameRef                 = {{r|Avengers: Roll Call #1}}
+| CurrentAlias            = Ember
+| Aliases                 = 
+
+| Affiliation             = {{m|Bastards of Evil (Earth-616)|Bastards of Evil}}
+| Relatives               = [[St. John Allerdyce (Earth-616)|Pyro]] (alleged father)
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Yellow
+| Hair                    = None
+| UnusualFeatures         = Flaming hair; Black stony body
+
+| Origin                  = Either a <nowiki>mutant</nowiki> or a <nowiki>mutate</nowiki>
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Terrorist
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Sean McKeever; David Baldeón
+| First                   = Young Allies Vol 2 1
+
+| History                 = 
+Ember, like the other members of the [[Bastards of Evil (Earth-616)|Bastards of Evil]], was kidnapped by the [[Superior (Bastards of Evil) (Earth-616)|Superior]] and exposed to Thermal radiation, in the process giving him incredible superpowers. He was also subjected to 'personal narrative implants', causing false memories. Among these, he was led to believe that he had recently discovered that his true father was the mutant terrorist [[St. John Allerdyce (Earth-616)|Pyro]].{{r|Young Allies Vol 2 5}}
+
+Taking on the codename of "Ember", he joined the the Bastards of Evil, believing in their mission of spreading wanton, purposeless destruction and terror. He also showed unabashed racist tendencies, including openly mocking [[Anya Corazon (Earth-616)|Spider-Girl]]'s Latin heritage. If this is part of the personal narrative implanted by the Superior or not is currently unknown.{{r|Young Allies Vol 2 1|4}}
+
+Ember, along with the remaining members of the Bastards of Evil, is currently being held in prison. He also learned that his memories are probably false implants, but also proceeded to attack members of the [[Young Allies (Modern) (Earth-616)|Young Allies]], suggesting he may not care.{{r|Young Allies Vol 2 5}}
+
+| Powers                  = '''Pyrokinesis''': Ember is able to generate and manipulate fire. It's possible he can make lava, as his fireballs seem to be composed of liquid. 
+*'''Dermal Armor''': Ember's body is made out of black stony skin, with fire visible along the cracks, as though his body is made of lava. This possibly gives him enhanced strength and durability.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+* Though Ember is the alleged son of a mutant, it has not been confirmed that he himself is a mutant. This is due to the false information implanted by the Superior, and could be seen as an early clue to the true nature of the Bastards powers.
+
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Rock Body]]
+[[Category:Pyrokinesis]]
+[[Category:Heroic Age (Event)]]

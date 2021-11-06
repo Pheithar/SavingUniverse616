@@ -1,0 +1,62 @@
+{{Marvel Database:Character Template
+| Image                   = Bounty (Humanoid) (Earth-616) from All-New Official Handbook of the Marvel Universe Vol 1 2 0001.jpg
+| Name                    = 
+| CurrentAlias            = Bounty
+| Aliases                 = 
+
+| Affiliation             = [[Fantastic Four (Earth-616)|Fantastic Four]]
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #2}}
+| Gender                  = Female
+| Height                  = Variable
+| Weight                  = Variable
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Alien]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Bounty Hunter
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Chris Claremont; Salvador Larroca
+| First                   = Fantastic Four  Vol 3 #14
+
+| History                 = 
+===Early years===
+Bounty is a renowned extradimensional bounty hunter. She claimed never fail to track her targets, to have been romanced by pirates, gladiators and emperors, and to have killed a personification of [[Death (Earth-616)|Death]].{{r|Official Handbook of the Marvel Universe A-Z #2|; [[Bounty (Humanoid) (Earth-616)|Bounty]]'s entry}}
+
+===Earth===
+On several occasions Bounty had run-ins with superheroes, including the [[Fantastic Four (Earth-616)|Fantastic Four]] and [[Peter Parker (Earth-616)|Spider-Man]]. She displayed signs of incredible strength, a heightened sense of smell, a knowledge of how to use many different weapons and a very high biological resistance for Earth's alcohol.{{citation}}
+
+In the past (on Earth), she damaged the Fantastic Four's headquarters, had romantic feelings for the [[Benjamin Grimm (Earth-616)|Thing]], was formally associated with The [[Bacchae]], fought against Spider-Man, and interfered with a "gang" dispute between The Golden Horde and The [[Bacchae]].{{r|Peter Parker: Spider-Man Annual 2000}} Bounty helped the Fantastic Four defeat [[Hades (Earth-616)|Pluto]].{{citation}}
+
+While being known as a great fighter with something of a temper, she also shows her feminine side when dealing with people she feels she can open up to or get what she wants from them.{{citation}}
+
+===After [[Civil War]]===
+After the [[Civil War]], she was listed as a potential recruit for the [[50-State Initiative (Earth-616)|Initiative]].{{r|Civil War: Battle Damage Report #1}}
+
+| Powers                  = Bounty gradually grew from 5'10" to 7',{{citation}} though whether she controlled this is unknown.
+
+| Abilities               = Bounty is an expert fighter, pilot, and weapons master. She is familiar with extradimensional races and technologies.{{citation}}
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = Force field generator{{citation}}
+| Transportation          = 
+| Weapons                 = Laser blades; energy pistols{{citation}}
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Bounty Hunters]]

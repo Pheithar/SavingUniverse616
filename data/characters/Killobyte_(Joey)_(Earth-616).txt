@@ -1,0 +1,50 @@
+{{Marvel Database:Character Template
+| Image                   = Killobyte (Joey) (Earth-616) Daredevil Vol 1 326.jpg
+| Name                    = Joey
+| CurrentAlias            = Killobyte
+| Aliases                 = Kill-O-Byte
+
+| Affiliation             = {{M|System Crash (Earth-616)|System Crash}}, {{M|Hydra}}
+| Relatives               = [[Killobyte (Lester) (Earth-616)|Lester]] (aka Killobyte too, brother);
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Terrorist
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = D.G. Chichester; Scott McDaniel
+| First                   = Daredevil Vol 1 326
+| Death                   = Daredevil Vol 1 326
+
+| History                 = Kill-O-Byte was allegedly hired to protect [[Knowbot (Earth-616)|Knowbot]] while he was declassifying government information, but instead, he murdered the hacker when he was confronted by [[Steven Rogers (Earth-616)|Captain America]].{{r|Daredevil Vol 1 #326}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * http://www.marvunapp.com/Appendix3/systemcrashdd.htm#Killobytejoey
+}}

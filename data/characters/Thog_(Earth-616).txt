@@ -1,0 +1,82 @@
+{{Marvel Database:Character Template
+| Image                   = Thog (Earth-616) from Fear Vol 1 11 001.jpg
+| Name                    = [[Thog]]
+| NameRef                 = {{r|Official Handbook of the Marvel Universe: Horror 2005 Vol 1 1|; Thog's entry}}
+| Title                   = 
+| CurrentAlias            = 
+| Aliases                 = [[Netherspawn]],{{r|Official Handbook of the Marvel Universe: Horror 2005 Vol 1 1|; Thog's entry}} [[Overmaster]],{{r|Official Handbook of the Marvel Universe: Horror 2005 Vol 1 1|; Thog's entry}} [[Satan]],{{r|Official Handbook of the Marvel Universe: Horror 2005 Vol 1 1|; Thog's entry}}
+| EditorialNames          = 
+
+| Affiliation              = {{m|Hell Lords|Hell-Lords}}, {{m|Lords of the Splinter Realms}}
+| Relatives               = Possible quasi-paternal relationship to [[Mikal Drakonmegas (Earth-616)|Mikal Drakonmegas]], and [[Daimon Hellstrom (Earth-616)|Daimon]] and [[Satana Hellstrom (Earth-616)|Satana Hellstrom]];{{r|Official Handbook of the Marvel Universe: Horror 2005 Vol 1 1|; Thog's entry}}<br>
+Possible familial relationship to [[Thaug (Earth-616)|Thaug]]{{r|Official Handbook of the Marvel Universe: Horror 2005 Vol 1 1|; Thog's entry}} and [[Thog the Ancient (Earth-616)|Thog]]{{r|Official Handbook of the Marvel Universe A-Z #12|; Thog's entry}}
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe: Avengers 2005 Vol 1 1}}
+| Gender                  = Male
+| Height                  = 5'10"; Variable
+| Weight                  = 185 lbs; Variable
+| Eyes                    = Yellow; Variable
+| Hair                    = Bald; Variable
+| UnusualSkinColor        = Red
+| UnusualFeatures         = Demonic features, including a tail, fangs, wings, claws, pointed ears
+
+| Origin                  = [[Demons|Demon]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Hell]]
+
+| Identity                = No Dual
+| Citizenship             = Sominus
+| Occupation              = Ruler of [[Sominus]]
+| Education               = 
+| BaseOfOperations        = [[Nexus of All Realities]]; the Abyss, [[Sominus]], [[Archipelago of Anguish and Redemption|Splinter Realms]]
+
+| Creators                = Steve Gerber; Rich Buckler
+| First                   = Fear #11
+
+| History                 = 
+===Origin===
+'''Thog''' was one of the [[Hell Lords (Earth-616)|Hell-Lords]] originated from the energy released by the battle between the [[Elder Gods of Earth|Elder Gods]] and the [[Atum (Earth-616)|Demogorge]].{{r|Official Handbook of the Marvel Universe: Horror 2005 Vol 1 1|; Thog's entry}}
+
+===Early years===
+He eventually came to rule the nether realm [[Sominus]] (the dark reflection of the benevolent [[Therea]]).{{r|Official Handbook of the Marvel Universe: Horror 2005 Vol 1 1|; Thog's entry}} As such, he was one of the [[Lords of the Splinter Realms (Earth-616)|Lords of the Splinter Realms]].<!-- {{r|Magik #3}} -->
+
+The Lords of the Splinter Realms gathered only twice in the 47,000 years before the [[Modern Age]].{{r|Magik #3}} It is unknown if Thog attended either of those two gatherings.
+
+===Modern days===
+While still in her teens, amateur occultist [[Jennifer Kale (Earth-616)|Jennifer Kale]] used the [[Tome of Zhered-Na]] and conducted a ritual in the Florida Everglades that opened a dimensional portal enabling Thog to enter the Earth-realm. First taking the form of a small winged creature, he quickly grew in size and began hunting for the being that summoned him. It tracked Jennifer and her younger brother Andy to the Roxie Theater in nearby Citrusville and began attacking them. Strangely enough, the [[Theodore Sallis (Earth-616)|Man-Thing]] witnessed Thog's emergence on this world and instinctively followed him to the theater. The two engaged in combat and Thog took on a more humanoid appearance. Irritated that the Man-Thing interrupted his quest, he unleashed a blast of eldritch energy against him, but this had little impact against the muck monster. Thog followed the Man-Thing back to the swamps at which time, Jennifer Kale tried to reverse the spell that summoned him by destroying the Tome. The pages caught fire and a dimensional aperture opened before them. The Man-Thing (through no conscious act of his own) pushed Thog through the portal, sending him back into the Abyss.{{r|Fear #11}}
+
+When the balance between the realities began to break and all the realities began to merge he disguised himself as a human and called himself the Overmaster in an attempt to break into the world of the gods known as [[Therea]]. He amassed an army from the [[Congress of Realties]], a group of beings who formed together from all different worlds in an attempt to ascend to godhood. [[Dakimh (Earth-616)|Dakimh the Enchanter]] gathered Jennifer along with Man-Thing, [[Howard the Duck (Earth-47920)|Howard the Duck]] and [[Korrek (Earth-616)|Korrek]] who had each been plucked from their own worlds in an attempt to stop him. Thog was defeated by Man-Thing who used the pure water of Therea to petrify the demon.{{r|Fear #19}}{{r|Man-Thing #1}}
+
+Thog became trapped on the world Therea, unable to move because of the bright sunlight. However, when Dakimh was slain in battle, the sun blinked out and he managed to escape through a portal. He then hatched an elaborate scheme involving siblings [[Danielle Nicolle (Earth-616)|Danielle Nicolle]] and her brother, the [[Robert Nicolle (Earth-616)|Scavenger]], harvesting emotions to construct a pyramid that would imprison the Man-Thing. His plan backfired when Man-Thing's and [[Steve Gerber (Earth-616)|Steve Gerber]]'s energies combined and destroyed the pyramid. He was then incinerated by the Man-Thing.{{r|Man-Thing #22}}
+
+When summoning [[Mephisto (Earth-616)|Mephisto]], [[Victor von Doom (Earth-616)|Doom]] invoked Thog's name along with [[Beelzebub (Earth-616)|Beelzebub]]'s, [[Satan (Earth-616)|Satan]]'s, and [[Baphomet (Earth-616)|Baphomet]]'s.{{r|Fantastic Four Annual #20}}
+
+He attended the convocation called by [[Jimaine Szardos (Earth-616)|Magik (Amanda Sefton)]], Custodian of [[Limbo (Otherplace)|Limbo]], and united with his fellow Lords of the Splinter Realms to defeat the [[Archenemy (Earth-616)|Archenemy]].{{r|Magik #3}}
+
+| Powers                  = Thog is a demon with the following powers:
+* '''Metamorphosis''': Thog can physically alter his shape and size, taking on the appearance of an inhuman winged monstrosity. He can also assume a humanoid appearance, albeit with demonic characteristics (pointed ears, sharpened canines, tail, etc.){{citation}}
+* '''Eldritch Blast''':{{citation}} Thog can project blasts of [[Glossary:Hellfire|Hellfire]] from his hands.{{citation}}
+* '''Winged''' {{Flight}} Thog can fly by way of a pair of bat-like wings. He only possesses these wings in his natural form.{{citation}}
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * While Thog and [[Thog the Ancient (Earth-616)|Thog the Ancient]], an [[Hyborian Age]] creature being created by [[Robert E. Howard|Robert E. Howard]]) aren't the same ([http://www.marvunapp.com The Appendix] consider them distinct beings){{r|[http://www.marvunapp.com/Appendix/thog.htm Thog at the Appendix]}}{{r|[http://www.marvunapp.com/Appendix5/thogcon.htm Thog the Ancient at the Appendix]}} (apart from their name and status of elder demons), both are stated to be possibly related to [[Thaug (Earth-616)|Thaug]], an [[Hyborian Age]] demon (as well created by Howard).{{r|Marvel Zombies: The Book of Angels, Demons & Various Monstrosities #1|; [[Demons]]' entry}}{{r|Official Handbook of the Marvel Universe: Horror 2005 Vol 1 1|; [[Thog (Earth-616)|Thog]]'s entry}} Thog, and "the monstrous Thaug and Thog who existed circa 10,000 BC" were later stated to possibly share a familial relation.{{r|Official Handbook of the Marvel Universe A-Z #12|; Thog's entry}}
+* Thog the Netherspawn is a Class Two demon.{{r|Official Handbook of the Marvel Universe: Horror 2005 Vol 1 1|; Appendix: Demon Classes}}
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * [[Wikipedia:Thog|Thog at Wikipedia]]
+* [http://www.marvunapp.com/Appendix/thog.htm Thog at the Appendix]
+}}
+[[Category:Shapeshifters]]
+[[Category:Pyrokinesis]]
+[[Category:Dimensional Rulers]]
+[[Category:Flight]]
+[[Category:Prehensile Tail]]
+[[Category:Class Two Demons]]

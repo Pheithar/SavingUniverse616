@@ -1,0 +1,66 @@
+{{Marvel Database:Character Template
+| Image                   = Roderick_Campbell_(Earth-811)_from_Extermination_Vol_1_2_cover_001.jpg
+| Name                    = Dr. Roderick "Rory" Campbell
+| CurrentAlias            = Ahab
+| Aliases                 = Master of the Hounds
+
+| Affiliation             = {{M|Hounds (Earth-811)|Hounds}} (leader)
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #1}}
+| Gender                  = Male
+| Height                  = 6' 1"
+| Weight                  = 222 lbs 
+| Eyes                    = Brown
+| Hair                    = Brown
+| Hair2                   = (with white streak)
+| UnusualFeatures         = Ahab has cybernetic limbs.
+
+| Origin                  = [[Homo sapiens|Human]] [[Cyborgs|Cyborg]]
+| Reality                 = Earth-811
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                =Secret 
+| Citizenship             = American
+| Occupation              = Master of the Hounds, Terrorist
+| Education               = Ph.D. in psychology from Strathclyde University 
+| BaseOfOperations        = 
+
+| Creators                = Walter Simonson; Jackson Guice
+| First                   = Fantastic Four Annual #23
+| Death                   = X-Force Vol 5 4
+
+| History                 = The full history of Roderick Campbell's transformation into Ahab remains apparently unclear. He became the leader of the government-sanctioned Hound program, commissioned to track down and capture mutants for internment. In this reality, [[Rachel Summers (Earth-811)|Rachel Summers]] was Ahab's pinnacle of Hound creation, although she subsequently escaped into the current timeline, horribly mutilating Ahab by throwing him into one of his machines.
+
+For a while, Ahab was a paraplegic in a floating chair, but later he was given bionic body parts. Ahab, now more cyborg then ever, tried to hunt Rachel down through the time-wandering spirit of the alternate future's [[Franklin Richards (Earth-811)|Franklin Richards]], at one point creating Hounds out of Rachel's father, [[Scott Summers (Earth-616)|Scott Summers]] and Franklin's mother, [[Susan Storm (Earth-616)|Sue Storm]], the Invisible Woman. Ahab was defeated by the actions of the [[Fantastic Four (Earth-616)|Fantastic Four]] and the combined X-teams.{{r|X-Men Annual Vol 1 14}}
+
+Years later, Rachel Summers finally defeated Ahab with the help of her teammates in [[Excalibur (Earth-616)|Excalibur]]. She reprogrammed the [[Master Mold (Earth-811)|Master Mold]] of her future, causing the [[Sentinels]] to preserve all life, even Ahab's. Ahab's ultimate fate remains to be revealed.{{r|Excalibur #66|67}}
+
+After a foiled attempt to kill the [[X-Men (Time-Displaced) (Earth-616)|time-displaced original five X-Men]], Ahab was forced to stay in this reality and time. He had also the control of [[Rachel Summers (Earth-811)|Prestige]] back in his grasp.{{r|Extermination Vol 1 5}} He got to Transia where it was revealed he was attacked and wounded badly, so he got help from their government.{{r|X-Force Vol 5 2}} When [[X-Force (Earth-616)|X-Force]] arrived they saw him and immediately engaged. After the battle was over they found his head and body separated  from each other and that he was dead. It was a huge loss for the team, because they couldn't get any information.{{r|X-Force Vol 5 4}}
+
+| Powers                  = '''Cybernetics''': The full extent of Ahab's cybernetic powers have yet to be revealed. Presumably, his systems include enhanced strength, durability, reflexes, and senses. 
+
+*'''''Enhanced Strength'''''
+
+*'''''Enhanced Durability'''''
+
+*'''''Enhanced Reflexes'''''
+
+*'''''Enhanced Senses'''''
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = Ahab's technology allows him to mark, clothe, and mentally control his legion of mutant Hounds.
+| Transportation          = Formerly a hover chair of unknown design.
+| Weapons                 = '''Energy Harpoons''': can generate powerful energy harpoons that are formed from, and attached to, his own life force. A hit from one of these harpoons can kill or seriously injure the target, and anyone who attempts to grab a harpoon gets burned. Each harpoon is keyed to its target's genetic structure, and cannot be moved or deflected by energy; it only stops when it strikes its target, or a close blood relative thereof.  
+
+| Notes                   = *Ahab is a future version of [[Roderick Campbell (Earth-616)|Rory Campbell]]. In that dark future he and his Hounds chased after mutants.  One of them, [[Rachel Summers (Earth-811)|Rachel Summers]] was able to escape to the past in an attempt to prevent its occurence.  
+*Although that nightmarish future was seemingly prevented, the present Rory at times seemed dangerously close to developing the hatred of mutants that Ahab possessed.  Rory lost his leg in an incident involving [[Spoor]] on [[Muir Island]]. 
+*It is presumed that Rory was converted into the new [[Famine]] by [[En Sabah Nur (Earth-616)|Apocalypse]], although it may not have been the Rory Campbell of Earth-616.
+| Trivia                  = 
+| Links                   = *[http://www.marvel.com/universe/Ahab Marvel.com profile]
+}}

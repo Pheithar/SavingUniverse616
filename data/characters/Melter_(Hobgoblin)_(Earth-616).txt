@@ -1,0 +1,56 @@
+{{Marvel Database:Character Template
+| Image                   = Melter (Hobgoblin) (Earth-616) from Iron Man Vol 6 3 001.jpg
+| Name                    = Unknown
+| CurrentAlias            = Melter
+| Aliases                 = 
+
+| Affiliation             = Formerly {{M|Sinister Six (Earth-616)|All-New Sinister Six}}, {{M|Black Cat's Gang (Earth-616)|Black Cat's Criminal Army}}, {{m|Inklings (Earth-616)|Inklings}}, {{m|Goblin Nation (Earth-616)}}, [[Roderick Kingsley (Earth-616)|Hobgoblin]]
+| Relatives               = [[Mania (Symbiote) (Earth-616)|Mania]] (former symbiote){{r|Amazing Spider-Man Vol 1 792}}
+| MaritalStatus           = Single
+
+| CharRef                 = {{r|Spider-Woman Vol 6 10}}
+| Gender                  = Male
+| Height                  = 6'0"
+| Weight                  = 205 lbs
+| Eyes                    = Blue
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] who bought the rights to use the name [[Melter]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = United States
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Criminal
+| Education               = Master of Business Administration
+| BaseOfOperations        = [[New York City|New York]]; [[New York (State)|New York]]
+
+| Creators                = Dan Slott; Christos N. Gage; Humberto Ramos
+| First                   = Superior Spider-Man Vol 1 26
+
+| Quotation               = That ain't any Melter I ever met.
+| Speaker                 = [[Maxwell Dillon (Earth-616)|Electro]]
+| QuoteSource             = Amazing Spider-Man Vol 3 1
+
+| History                 = After [[Bruno Horgan (Earth-616)|Bruno Horgan]] was killed by [[Scourge (Delazny) (Earth-616)|Scourge]], the gear he used as Melter was sold by the [[Roderick Kingsley (Earth-616)|Hobgoblin]] to an unnamed criminal.{{r|Superior Spider-Man Vol 1 26}} This new Melter was present during a battle between Hobgoblin's forces and the [[Goblin Nation (Earth-616)|Goblin Nation]]. He, along with every other Hobgoblin franchise, joined Team Goblin when the [[Norman Osborn (Earth-616)|Goblin King]] apparently killed Hobgoblin, though it was really Kingsley's butler, [[Hobgoblin (Claude) (Earth-616)|Claude]].{{r|Superior Spider-Man Vol 1 26}}
+
+During the [[Civil War II|second superhuman civil war]], the Melter tunneled his way into a diamond exchange vault. After managing to obtain a handful of diamonds, he accidentally git a gaspipe, causing a sinkhole. Despite injurying bystanders, the Melter survived, and the silkhole he triggered covered his tracks. [[Jessica Drew (Earth-616)|Spider-Woman]] investigted the incident and managed to find the Melter in the bar the [[Quiet Room]] with help of a vision of the precognitive [[Inhumans (Inhomo supremis)|Inhuman]] [[Ulysses Cain (Earth-616)|Ulysses Cain]]. When the boast of his success erupted laughs in the rest of the patrons, the Quiet Room's owner, [[Blackagar Boltagon (Earth-616)|Black Bolt]], had him kicked out. Outside the bar, the Melter was knocked out by Spider-Woman's ally the [[Roger Gocking (Earth-616)|Porcupine]] and left to the authorities.{{r|Spider-Woman Vol 6 10}}
+
+When [[Anthony Stark (Earth-616)|Tony Stark]] moved to [[Tony Stark's Brownstone|a brownstone]] in the [[Lower East Side]], the Melter broke into his garage and melted his car to antagonize him. Returning home from a hard day, Iron Man stumlbed into the Melter standing next to his car, and silently knocked him out with one punch. Due to the ongoing stress of his life, Stark took flight carrying the villain's unconscious body and tossed him from a high altitude, only catching him moments before he hit the ground.{{r|Iron Man Vol 6 3}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = Seemingly [[Bruno Horgan (Earth-616)#Weapons|those]] of [[Bruno Horgan (Earth-616)|Bruno Horgan]].
+
+| Notes                   = 
+| Trivia                  =
+| Links                   = 
+}}
+[[Category:Hobgoblin Franchises]]
+[[Category:Symbiotes-possessed]]

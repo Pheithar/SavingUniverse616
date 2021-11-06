@@ -1,0 +1,54 @@
+{{Marvel Database:Character Template
+| Image                   = Jeremiah Warrick (Earth-616) SHIELD Vol 3 6 001.png
+| Name                    = Jeremiah Warrick
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{M|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = yellow
+| Hair                    = brown
+| UnusualFeatures         = Head of an Owl
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual 
+| Citizenship             = 
+| Occupation              = Agent of [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]]
+| Education               = 
+| BaseOfOperations        = [[New York City]]
+
+| Creators                = Mark Waid; Paul Renaud
+| First                   = S.H.I.E.L.D. Vol 3 6
+
+| History                 = Jeremiah Warrick worked as an agent for [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]]. He was in charge of [[Stephen Strange (Earth-616)|Dr. Strange]] records. Those works changed his appearance, now Agent Warrick has the body of a normal human being and the head of an owl. {{r|S.H.I.E.L.D. Vol 3 6}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = * One time, Warrick was turned into a sparkly unicorn by one of Dr. Strange's records. {{r|S.H.I.E.L.D. Vol 3 6}}
+* He is able to spin his owl head all the way around. {{r|S.H.I.E.L.D. Vol 3 6}}
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Magic-Based Mutates]]
+[[Category:Government Agents]]
+[[Category:Martial Arts]]
+[[Category:Shooting]]
+[[Category:Avian Form]]

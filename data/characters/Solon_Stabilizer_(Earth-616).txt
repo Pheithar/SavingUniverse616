@@ -1,0 +1,58 @@
+{{Marvel Database:Character Template
+| Image                   = Solon_Stabilizer_from_Fantastic_Four_Vol_1_237.jpg
+| Name                    = Solon Stabilizer
+| CurrentAlias            = Spinnerette
+| Aliases                 = 
+
+| Affiliation             = Solons
+| Relatives               = Solon Pilot
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 9'
+| Weight                  = 325lbs
+| Eyes                    = 
+| Hair                    = 
+| UnusualSkinColor        = Blue
+| UnusualFeatures         = Pointed ears
+
+| Origin                  = [[Solons|Solon]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Public
+| Citizenship             = Solons
+| Occupation              = Explorer, Crewmember of a starship
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = John Byrne
+| First                   = Fantastic Four #237
+
+| History                 = Solon Stabilizer is a space traveler from a race known as the [[Solons]]. Her race breeds by fission and all are perfect clones of each other. On her ship, it is her role to prevent vertigo during space travel using her power to affect the equilibrium of others. Solon Stabilizer's ship landed on Earth in search of indium to repair a damaged solar cell.  Unfortunately, Earth's oxygen made her disoriented and she was used by a group of homeless thieves --- who named her Spinnerette --- to rob jewelry stores, mistaking silver for indium. This attracted the attention of the [[Fantastic Four (Earth-616)|Fantastic Four's]] [[Susan Storm (Earth-616)|Invisible Girl]] and [[Reed Richards (Earth-616)|Mister Fantastic]]. The couple were unable to stop the robberies thanks to Solon's ability to destabilize them with a crushing sense of vertigo. Realizing that Solon was being made drunk from the rich amount of oxygen in Earth's atmosphere, Reed instructed his wife to project a force field around her head, cutting off Solon's oxygen. This allowed Solon Stabilizer to sober up, and with the help of Reed's Universal Translator was able to explain what was going on, and obtain the indium her ship needed to continue its journey. {{r|Fantastic Four #237}}
+
+| Powers                  = 
+* '''Telepathy'''
+* '''Power to affect equilibrium''': On her ship it is her role to prevent vertigo during space travel. On Earth, her power has the reverse effect.
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+* Oxygen makes her disoriented. 
+| Equipment               = 
+| Transportation          = 
+* '''Starship''': other than drive, all of the ship's operations including communications, navigation, and sensor scans are controlled by the powers of the crew. 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Telepaths]]
+[[Category:John Byrne/Creator]]
+[[Category:Blue Skin]][[Category:Infobox Skin Color Update Needed]]
+[[Category:Pointed Ears]]
+[[Category:Disruption]]

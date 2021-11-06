@@ -1,0 +1,47 @@
+{{Marvel Database:Character Template
+| Image                   = Jenna Carlisle (Earth-616) from Iron Man Annual Vol 1 1999 001.png
+| Name                    = Jenna Carlisle
+| CurrentAlias            = Jenna Carlisle
+| Aliases                 = 
+
+| Affiliation             = {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Blue
+| Hair                    = Orange
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = Forensics Agent
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Kurt Busiek; Terry Shoemaker
+| First                   = Iron Man Annual Vol 1 1999
+| Death                   = 
+| History                 = Forensics agent Jenna Carlisle enlisted [[Anthony Stark (Earth-616)|Tony Stark]]'s aid in a case concerning a series of ionic-based murders, for his connection to the victims. She helped Iron Man against [[Robert Hunter (Earth-616)|Nitro]], [[Anton Vanko (Whiplash) (Earth-616)|Whiplash]], and the [[Death Squad (Count Nefaria) (Earth-616)|Death Squad]]. She followed him to [[Sicily]], where she arrested [[Luchino Nefaria (Earth-616)|Count Nefaria]]. Later, Tony went on a date with Jenna, but sensed that she is an adrenaline junkie and it wouldn't work out long-term.{{r|Iron Man Annual Vol 1 1999}}
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

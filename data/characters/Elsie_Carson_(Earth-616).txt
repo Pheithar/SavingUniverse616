@@ -1,0 +1,48 @@
+{{Marvel Database:Character Template
+| Image                   = Elsie Carson (Earth-616) from Official Handbook of the Marvel Universe Vol 2 6 001.jpg
+| Name                    = Elsie Carson
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = Formerly {{m|Hydra (Earth-616)|Hydra}}
+| Relatives               = [[Phil Carson (Earth-616)|Phil Carson]] (husband); unnamed son; unnamed daughter
+| MaritalStatus           = Married
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Blonde
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Hydra division director, housewife
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Tom DeFalco; Jim Shooter; Dave Simons
+| First                   = Team America Vol 1 11
+| History                 = 
+
+| Powers                  = 
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

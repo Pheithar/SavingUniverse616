@@ -1,0 +1,49 @@
+{{Marvel Database:Character Template
+| Image                   = Makro (Earth-616) from Shadowland Daughters of the Shadow Vol 1 1 001.jpg
+| Name                    = Makro
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{M|Nail (Earth-616)|The Nail}}, {{M|Hand (Earth-616)|The Hand}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = None
+| UnusualFeatures         = Cybernetic prosthesis 
+
+| Origin                  = [[Homo sapiens|Human]] [[Cyborgs|Cyborg]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Assassin
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Jason Henderson; Ivan Rodriguez
+| First                   = Shadowland: Daughters of the Shadow Vol 1 1
+
+| History                 = Makro is a descendant of one of the Hand's elite female assassins in [[The Nail (Earth-616)|The Nail]]. Makro was allegedly confined to the lab she was created in for years until [[Matthew Murdock (Earth-616)|Daredevil]] freed her and offered her a place in the Nail. She appears to enjoy her freedom as one of the Hand's elite assassins.
+
+| Powers                  = 
+*'''Cybernetic Enhancement''': Makro is augmented with extra, weaponed limbs and possesses an exoskeleton similar to [[Doctor Octopus' Tentacles|the one]] used by [[Otto Octavius (Earth-616)|Dr. Octopus]]. Her tentacles can respond to her mental command and are strong enough to allow Makro to climb aboard a speeding tractor trailer.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

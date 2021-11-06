@@ -1,0 +1,60 @@
+{{Marvel Database:Character Template
+| Image                   = Danielle Blunt (Earth-616) from Young Allies Vol 2 1 001.jpg
+| Name                    = Danielle Blunt
+| Name2                   = <ref>{{cl|Young Allies Vol 2 #4}}</ref>
+| CurrentAlias            = Aftershock
+| Aliases                 = 
+
+| Affiliation             = {{m|Bastards of Evil (Earth-616)|Bastards of Evil}}
+| Relatives               = Unnamed parents
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Blonde
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] [[Mutate]]d by overexposure to electromagnetic radiation
+| Reality                 = Earth-616
+| PlaceOfBirth            = Cortez, Colorado
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Terrorist
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Sean McKeever; David Baldeón
+| First                   = Young Allies Vol 2 1
+
+| History                 = Danielle Blunt, like the other members of the [[Bastards of Evil]], was kidnapped by the [[Superior (Bastards of Evil) (Earth-616)|Superior]] and exposed to electromagnetic radiation, in the process giving her incredible superpowers. She was also subjected to 'personal narrative implants', causing false memories. Among these, she was led to believe that she had recently discovered that her true father was the supervillain [[Maxwell Dillon (Earth-616)|Electro]].{{r|Young Allies Vol 2 5}}
+
+Taking on the codename of "Aftershock", she joined the the Bastards of Evil, believing in their mission of spreading wanton, purposeless destruction and terror. She was appointed to the post of field leader by the Superior, and showed a particular passion for villainy. She and [[Devin Touhy (Earth-616)|Singularity]] regularly butted heads for the role of leader, eventually leading to her running through Singularity, which caused his true memories to be restored.{{r|Young Allies Vol 2 1|5}}
+
+Aftershock, along with the remaining members of the Bastards of Evil, is currently being held in prison. She learned, both from [[Anya Corazon (Earth-616)|Spider-Girl]] and Singularity's restored memories, about her true identity. It appears that learning her true origin didn't change her ways as she returned to the life of evil.{{r|Young Allies Vol 2 5}}
+
+| Powers                  = [[Glossary:Electrokinesis|Electrokinesis]]: Aftershock can generate and manipulate electricity. She has been depicted firing electric blasts, flying, assuming an electrical energy form (with which she can travel through electrical lines), and generating explosions powerful enough to toss a taxi into the air. Aftershock's powers are basically identical to Electro's.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+
+==References==
+{{Reflist}}
+[[Category:Electrokinesis]]
+[[Category:Energy Form]]
+[[Category:Flight]]
+[[Category:Heroic Age (Event)]]

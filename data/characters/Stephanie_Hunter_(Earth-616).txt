@@ -1,0 +1,64 @@
+{{Marvel Database:Character Template
+| Image                   = Stephanie Hunter (Earth-616) from X-Men Gold Vol 2 9 001.jpg
+| Name                    = [[Stephanie Hunter]]
+| CurrentAlias            = [[Stevie Hunter]]
+| Aliases                 = 
+
+| Affiliation             = {{m|United States House of Representatives (Earth-616)|U.S. House of Representatives}}; former associate of the [[New Mutants (Earth-616)|New Mutants]] and [[X-Men (Earth-616)|X-Men]]
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 5'9"
+| Weight                  = 121 lbs
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Congresswoman; formerly Dance Teacher, ballet dancer, Xavier Institute staff as the physical trainer & therapist for both the X-Men & the New Mutants, Founder of Ms Hunter's Dance Academy in Salem Center, New York. 
+| Education               = 
+| BaseOfOperations        = [[Capitol Building]], [[Washington, D.C.]], [[United States of America|USA]]; Formerly [[Xavier's School for Gifted Youngsters|Xavier School for Gifted Youngsters]], [[Salem Center]], [[Westchester County]], [[New York (State)|New York]]
+
+| Creators                = Chris Claremont; John Byrne
+| First                   = X-Men #139
+
+| History                 = Stevie Hunter was a ballet dancer until a broken leg that never healed correctly forced her to assume a teaching position.
+
+She was brought into the world of the [[X-Men (Earth-616)|X-Men]] when [[Charles Xavier (Earth-616)|Professor X]] was looking for a dance instructor to teach [[Katherine Pryde (Earth-616)|Kitty Pryde]]. [[Ororo Munroe (Earth-616)|Storm]] immediately had problems with Stevie, seeing her as a threat to her special bond with Kitty.{{r|X-Men Vol 1 139|140}}  
+
+[[File:Stephanie Hunter (Earth-616), Ororo Munroe (Earth-616) and Katherine Pryde (Earth-616) from X-Men Vol 1 139 001.jpg|thumb|200px|left|"Stevie" meets Kitty]] 
+When Kitty invited Stevie and Ororo to a [[Alison Blaire (Earth-616)|Dazzler]] concert, an outburst by the [[Morlocks (Earth-616)|Morlocks]] [[Caliban (Earth-616)|Caliban]] caused the X-Men to reveal their [[Homo superior|mutant]] powers to Stevie.{{r|Uncanny X-Men Vol 1 148}}  
+
+With their secret out, Stevie became more engrossed in the mutant world and joined the Institute as dance teacher and physical therapist.{{r|Uncanny X-Men Vol 1 168}}
+
+After [[Nathaniel Essex (Earth-616)|Mister Sinister]]'s attack on the [[Xavier's School for Gifted Youngsters|Mansion]] reduced it to rubble, Stevie returned to her private studio.
+
+When [[Shadow King (Multiverse)|Shadow King]] began to possess various X-Allies, he took control of [[Piotr Rasputin (Earth-616)|Colossus]] and forced him to attack her. The combined forces of [[X-Factor (Earth-616)|X-Factor]] and [[X-Men (Earth-616)|X-Men]] freed all of Shadow King's captives, and Stevie returned to the Institute.{{r|Uncanny X-Men #278|279}}
+
+When there was an assassination attempt on Xavier's life, Stevie nursed the wounded from the ensuing conflict. Currently, Stevie is back working at her dance studio.{{r|X-Men Vol 2 #14}}
+
+Years later, Stevie was elected to represent [[Connecticut (State)|Connecticut]]'s 3rd congressional district in the [[United States House of Representatives (Earth-616)|House of Representatives]] and invited X-Men leader and old friend, Kitty Pryde, to testify before [[United States Congress (Earth-616)|Congress]] on the state of mutant affairs.{{r|X-Men: Gold Vol 2 9}}
+
+| Powers                  = 
+| Abilities               = Stevie is skilled in various genres of dance including ballet. 
+| Strength                = Stevie possesses the normal human strength of a woman of her age, height, and build who engages in moderate regular exercise. 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = Stevie owns a Saab.
+| Weapons                 = 
+
+| Notes                   = * She lived in 73 [[Willingdon Road]], Salem Center, and her Dance Academy was in the same Building.{{r|Marvel Graphic Novel #5}}
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * [http://hyperion2000.free.fr/Bios/StevieHunter.htm X-Men 2000 (French)]
+}}
+[[Category:Politicians]]

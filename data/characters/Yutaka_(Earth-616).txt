@@ -1,0 +1,51 @@
+{{Marvel Database:Character Template
+| Image                   = Yutaka (The Hand) (Earth-616) from Daredevil Vol 1 505 0001.jpg
+| Name                    = 
+| CurrentAlias            = Yutaka
+| Aliases                 = 
+
+| Affiliation             = {{M|Hand (Earth-616)|The Hand}}, {{M|Snakeroot (Earth-616)|Snakeroot Clan}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Black
+| UnusualFeatures         = Yutaka is rarely seen without his demon mask.
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = [[Jigoku-Chu Castle]], [[Japan]]
+
+| Identity                = 
+| Citizenship             = 
+| Occupation              = Hand Daimyo<ref>"Leader"</ref> of Africa, crimelord
+| Education               = 
+| BaseOfOperations        = [[Africa]]
+
+| Creators                = Andy Diggle; Antony Johnston; Marco Checchetto
+| First                   = Daredevil #505
+| Death                   = Shadowland: Ghost Rider Vol 1 1
+
+| History                 = Yutaka, '''Hand Daimyo of Africa''', was killed by [[Johnathon Blaze (Earth-616)|Ghost Rider]].{{r|Shadowland: Ghost Rider Vol 1 1}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Leaders]]

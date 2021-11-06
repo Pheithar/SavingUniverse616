@@ -1,0 +1,68 @@
+{{Marvel Database:Character Template
+| Image                   = Red Shift (Earth-616) from Annihilation The Nova Corps Files Vol 1 1 0001.jpg
+| Name                    = 
+| CurrentAlias            = Red Shift
+| Aliases                 = 
+
+| Affiliation             = {{M|Heralds of Galactus (Earth-616)|Heralds of Galactus}}, {{M|United Front}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 6'4"
+| Weight                  = 250 lbs
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = [[Alien]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Herald of Galactus
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Louise Simonson; Jon J. Muth
+| First                   = Galactus the Devourer #1
+| Death                   = Annihilation #3
+
+| History                 = Red Shift was an alien of unknown origin who was chosen to become the Herald of [[Galan (Earth-616)|Galactus]].{{r|Galactus the Devourer #1|6}}
+
+During the [[Annihilation Wave]], former Heralds were targeted for capture by [[Annihilus (Earth-616)|Annihilus']] troops. Red Shift and his fellow Heralds [[Lambda-Zero (Earth-616)|Stardust]] and [[Pyreus Kril (Earth-616)|Firelord]] joined the United Front against the Wave's advance. They managed to fight off the [[Seekers (Annihilus' Agents) (Earth-616)|Seekers]] and escape captivity. They then wreaked havoc on Annihilus' forces, but were soon tracked down from one of their attacks to their base on [[Daedalus 5]]. Annihilus ordered an attack on the planet, which led to a massive battle, but realized that this was taking too long. He then used the energy sapped from [[Galan (Earth-616)|Galactus]] to power a turret that destroys entire planets. While the planet's inhabitants evacuated, Red Shift and [[Lambda-Zero (Earth-616)|Stardust]] attempted to hold off the energy beam but ultimately failed and perished as a result.{{r|Annihilation #1|3}}
+
+| Powers                  = Red Shift possesses the [[Power Cosmic]]. He can open dimensional rifts and portals across vast distances, summoning or banishing objects, beings, or energy at will, including black holes.
+
+Red Shift was deemed to have a "Village/city" threat level by the [[Nova Corps (Earth-616)|Nova Corps]], after having formerly been an Universal-level threat.{{r|Annihilation: The Nova Corps Files #1}}
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = The source of Red Shift's power is his swords; if he were to lose contact with them, he would lose his power.
+
+| Equipment               = Swords linking him to the Power Cosmic.
+| Transportation          = 
+| Weapons                 = [[Red Shift's Swords|Cosmic Swords]] from which his cosmic power is derived. With them he can manipulate the entire electromagnetic spectrum, fly at great speeds, survive unaided in the vacuum of space, and presumably has incredible strength and durability.
+
+| Notes                   = 
+| Trivia                  = The name Red Shift refers to the astronomical measure of direction; if something is moving away from the viewer, its light will be shifted to longer (red) wavelengths. 
+| Marvel                  = 
+| Wikipedia               = Red Shift (comics)
+| Links                   = * http://www.marvunapp.com/Appendix/redshift.htm
+}}
+[[Category:Flight]]
+[[Category:Object-Based Powers]]
+[[Category:Energy Manipulation]]
+[[Category:Teleporters]]
+[[Category:Magnetokinesis]]
+[[Category:Self Sustenance]]
+[[Category:Superhuman Strength]]
+[[Category:Superhuman Durability]]
+[[Category:Photokinesis]]
+[[Category:Electrokinesis]]
+[[Category:Gravitikinesis]]
+[[Category:Power Cosmic]]
+[[Category:Village/City Threat Level]]
+[[Category:Universal Threat Level]]

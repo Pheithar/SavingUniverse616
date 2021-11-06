@@ -1,0 +1,64 @@
+{{Marvel Database:Character Template
+| Image                   = Sarah Garza (Earth-616) from Secret Avengers Vol 2 10 001.png
+| Name                    = Sarah Garza
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{m|Strategic Homeland Intervention, Enforcement and Logistics Division|S.H.I.E.L.D.}}; formerly {{m|Secret Avengers (S.H.I.E.L.D.)|Secret Avengers}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Red
+| Eyes2                   = (formerly [[:Category:Black Eyes|Black]][[Category:Black Eyes]])
+| Hair                    = Red
+| Hair2                   = (formerly [[:Category:Brown Hair|Brown]][[Category:Brown Hair]]) 
+| UnusualFeatures         = 
+| UnusualSkinColor        = Yellow
+
+| Origin                  = [[Homo sapiens|Human]] with [[Inhomo supremis|Inhuman]] lineage activated by a [[Terrigen Bomb]][[Category:Human/Inhuman Hybrids]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = S.H.I.E.L.D. Computer Specialist
+| Education               = 
+| BaseOfOperations        = [[S.H.I.E.L.D. Helicarrier]]
+
+| Creators                = Ed Brisson; Luke Ross
+| First                   = Secret Avengers Vol 2 10
+
+| History                 = Sarah Garza was a [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] computer specialist.
+
+During [[Infinity (Event)|Thanos' Invasion]], [[Inhomo supremis|Inhuman]] king [[Blackagar Boltagon (Earth-616)|Black Bolt]] released the [[Terrigen Mists]] upon the entire face of Earth, activating the latent powers of numerous Inhuman descendants.{{r|Infinity Vol 1 4}} Sarah was one of the newly surfaced Inhumans, but shortly after emerging from a cocoon, her unstable powers created an explosion which decimated her entire apartment complex in the process.
+
+[[File:Sarah Garza (Earth-616) from Secret Avengers Vol 2 10 001.jpg|thumb|left|Prior the [[Terrigenesis]]]]
+She was retained by S.H.I.E.L.D., and [[Maria Hill (Earth-616)|Maria Hill]], after finding out she was one of theirs, realized Garza could be a potential asset against Thanos' forces. Although she lacked experience, Hill partnered her with [[James Rhodes (Earth-616)|Iron Patriot]], and gave her an armor to control her powers. She and Iron Patriot arrived to Brooklyn as reinforcements to help [[Nicholas Fury, Jr. (Earth-616)|Nick Fury Jr.]] and [[Phillip Coulson (Earth-616)|Phil Coulson]] fight the invading forces. Sarah created a powerful blast which, along with the support of the [[Iron Patriot Drones (Earth-616)|Iron Patriot Drones]], annihilated the aliens. During the sweep, the heroes were attacked by [[Gavrel Achter (Earth-616)|an unknown enemy]] with telekinetic powers.{{r|Secret Avengers Vol 2 10}}
+
+When [[Nicholas Fury, Jr. (Earth-616)|Nick Fury]] tried to talk to him, the Junkman threw a car at the team, seemingly crushing Garza. Sarah raised from the debris, with the totality of her powers unleashed, and retaliated the Junkman. When he was about to be killed, Garza stopped upon realizing she could not become a murderer. Before he could react, Fury sniped at the Junkman and killed him. Saddened, Sarah mourned him.
+
+Back in the Helicarrier, Sarah expressed to Maria Hill the desire to go back to tech ops. Garza was confined in a cell until her powers could be stabilized.{{r|Secret Avengers Vol 2 11}}
+
+| Powers                  = '''Plasma Generation:''' Sarah can generate plasma energy from her body and emanate it. Unfortunately, she can't control the direction in which she released the plasma, and has to use a Stark Tech suit of armor to redirect the plasma current as she pleases. The suit allows her to emanate energy exclusively from her wrists and her chest almost similar the way Iron Man does.{{r|Secret Avengers Vol 2 10}}
+| Abilities               = '''Computer Expert'''
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Plasma Generation]]
+[[Category:Armor Users]]
+[[Category:Computer Hacking Skills]]
+[[Category:Terrigen Bomb Activations]]

@@ -1,0 +1,50 @@
+{{Marvel Database:Team Template
+| Image                   = Uncanny X-Men Vol 1 403 Textless.jpg
+| Name                    = X-Corps
+| Aliases                 = 
+
+ 
+| Status                  = Defunct
+| Identity                = Public
+| Reality                 = Earth-616
+| BaseOfOperations        = Various locations worldwide; Mainly [[Europe]]
+
+| Leaders                 = [[Sean Cassidy (Earth-616)|Banshee]] (founder)
+| CurrentMembers          = 
+| FormerMembers           = [[Dominikos Ioannis Petrakis (Earth-616)|Avalanche]], [[Frederick Dukes (Earth-616)|Blob]], [[Fever Pitch (Earth-616)|Fever Pitch]], [[Paige Guthrie (Earth-616)|Husk]], [[Jubilation Lee (Earth-616)|Jubilee]], [[Monet St. Croix (Earth-616)|M]], [[Martinique Wyngarde (Earth-616)|Mastermind]], [[James Madrox (Earth-616)|Multiple Man]], [[Jared Corbo (Earth-616)|Radius]], [[Leyu Yoshida (Earth-616)|Sunpyre]], [[Raven Darkholme (Earth-616)|Surge]]
+| Allies                  = [[Nils Styger (Earth-616)|Abyss]]
+| Enemies                 = [[Acculturation Resistance Movement (Earth-616)|Acculturation Resistance Movement]], [[Dominikos Ioannis Petrakis (Earth-616)|Avalanche]], [[Frederick Dukes (Earth-616)|Blob]], [[Fever Pitch (Earth-616)|Fever Pitch]], [[Martinique Wyngarde (Earth-616)|Mastermind]], [[James Madrox (Earth-616)|Multiple Man]] (those under Mastermind's control), [[Raven Darkholme (Earth-616)|Surge/Mystique]]
+
+| Origin                  = The X-Corps acted as a mutant police force created by former X-Man [[Sean Cassidy (Earth-616)|Banshee]].
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Joe Casey; Ron Garney
+| First                   = Uncanny X-Men #401
+| Last                    = Uncanny X-Men #406
+
+| HistoryText             = 
+The X-Corps were a team whose position, whether they were good or bad was left up to debate, even within the [[X-Men (Earth-616)|X-Men]]. The team acted as a mutant police force created by former X-Man [[Sean Cassidy (Earth-616)|Banshee]].
+
+===Background===
+Sean Cassidy (also known as Banshee) was a broken man. After the death of [[Moira MacTaggert (Earth-TRN748)|Moira MacTaggert]], long-term ally of the X-Men and former lover of Banshee, and the closing of the [[Massachusetts Academy]], home to [[Generation X (Earth-616)|Generation X]] for which he was a former headmaster of the group, he felt he had failed at everything in his life. He began to reevaluate the things in his life, and among one of those things was [[Charles Xavier (Earth-616)|Charles Xavier]]'s dream of peaceful coexistence between humans and mutants. In all his years of fighting alongside the X-Men, was there any real change that was enacted? With that thought, Banshee began to re-envision Xavier's dream in a daring new way: why not use mutants as a police force to regulate the activity of other mutants instead of waiting for a crisis to arise? With an abandoned [[Advanced Idea Mechanics (Earth-616)|A.I.M.]] facility, his links to [[International Criminal Police Organization (Earth-616)|Interpol]],  and the help of some of his former friends and pupils Banshee created the X-Corps. The force's goal was to police the mutant population in [[Europe]].
+
+Along with [[James Madrox (Earth-616)|Multiple Man]], his former students [[Paige Guthrie (Earth-616)|Husk]], [[Jubilation Lee (Earth-616)|Jubilee]], and [[Monet St. Croix (Earth-616)|M]], former [[Alpha Flight (Earth-616)|Alpha Flight]] member [[Jared Corbo (Earth-616)|Radius]], and one-time interim X-Men member [[Leyu Yoshida (Earth-616)|Sunpyre]], he formed the basis of his group. However, the distinct element that separated this group from other [[X-Men (Earth-616)|X-Men]] teams, was the inclusion of known terrorists, such as the [[Frederick Dukes (Earth-616)|Blob]], [[Dominikos Ioannis Petrakis (Earth-616)|Avalanche]], and later [[Fever Pitch (Earth-616)|Fever Pitch]]. Originally, Banshee kept these supervillains in line, with the help of [[Martinique Wyngarde (Earth-616)|Mastermind]]. Banshee had captured her and manipulated her illusionary powers to keep the villains under his control. Also as a "guest" was the enigmatic [[Nils Styger (Earth-616)|Abyss]], who was being studied by Sunpyre.
+
+===Exploits===
+The X-Corps didn't operate as a long term group. The team recruited [[Raven Darkholme (Earth-616)|Mystique]], who was posing as a potential new member named Surge. Because of her [[shapeshifting]] abilities, Mystique was able to move secretly around the headquarters and she stumbled upon the captive Mastermind and allied herself with the entrapped woman. Together, they were able to free the minds of the villainous X-Corps members, as well as control several duplicates of Multiple Man, and use them in an assault on Paris. In the name of mutant superiority, the group incurred some massive damage to the city including the destruction of the [[Eiffel Tower]]. Thankfully, the X-Men, along with the heroic members of the X-Corps, were able to put an end to their rampage across the city. 
+
+===Aftermath===
+Unfortunately there were several casualties of the battles. The villainous Avalanche opened up the ground beneath Radius, apparently killing him. The validity of his death is cause for speculation since his power is to emit a constant bodily [[Force field|force field]], but given the attack upon him, even if he survived the crushing effects of Avalanche's powers, he would surely have starved or suffocated to death hundreds of feet below the earth. Sunpyre, acting as the group scientist was brutally murdered by Mystique during her ascent to power. Even Banshee was incapacitated as Mystique stabbed a knife through his throat, the source of his sonic powers. Finally, as some [[wikipedia:karma|karmic]] principle, Mystique was sucked into the interdimensional void of Abyss, not to be seen again for several months.  
+
+With the injuries sustained to Banshee and the city of Paris, the group was shut down, while some of the remaining resources and members, such as Multiple Man and M - were moved into [[Charles Xavier (Earth-616)|Xavier]]'s Paris branch of the [[X-Corporation (Earth-616)|X-Corporation]].
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+* [http://www.uncannyxmen.net/db/pov/showquestion.asp?faq=6&fldAuto=57 {{PAGENAME}} at Uncannyxmen.net]
+}}
+[[Category:Mutant Police Forces]]

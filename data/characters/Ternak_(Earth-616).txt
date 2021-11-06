@@ -1,0 +1,52 @@
+{{Marvel Database:Character Template
+| Image                   = Ternak_(Earth-616)_from_Fantastic_Four_Vol_1_145.jpg
+| Name                    = Ternak
+| CurrentAlias            = Ternak
+| Aliases                 = 
+
+| Affiliation             =
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Public
+| Citizenship             = [[Yeti (Cold People)|Chosen]]
+| Occupation              = Leader
+| Education               = 
+| BaseOfOperations        = [[Himalayas]], [[China]]
+
+| Creators                = Gerry Conway; Ross Andru
+| First                   = Fantastic Four #145
+| Death                   = Fantastic Four #146
+
+| History                 = '''Ternak''' was the leader of an isolated society calling themselves the [[Yeti (Cold People)|Chosen]]. They lived in the Himalayan mountains for centuries. They could not leave their domain because their bodies were design for colder climates. Ternak's people lived in an primitive society until a monk, later called the [[Master (Chosen) (Earth-616)|Master]], arrived and brought them language and science. Their society made great advances. Ternak took power after the Master died, and decided that his people should spread their society beyond the Himalayas. He sought to use a device that would transform Earth's climate, namely bring about an ice age. Prior to beginning his planned invasion, Ternak spotted the [[Pogo Plane MK I|Pogo Plane]] of the [[Fantastic Four (Earth-616)|Fantastic Four]] flying over their domain. Thinking it was a spy, Ternak ordered the plane shot down and the crew taken prisoner to be executed. Aboard the wrecked plane were the FF members the [[Jonathan Storm (Earth-616)|Human Torch]] and [[Medusalith Amaquelin (Earth-616)|Medusa]], who survived the crash. Ternak and his people clashed with the pair twice, before eventually capturing them and taking them prisoner. After Ternak explained his plans, the two heroes broke free and tried to escape, but were subjected to Ternak's Polar Cannon. {{r|Fantastic Four #145}}
+
+The Torch was able to flame on and reverse the effects of the weapon and another fight broke out. During the course of the battle, they recovered a device from the Master -- whose body was kept alive in an Entropy Machine -- that would stop the hostilities. They were also joined by the [[Benjamin Grimm (Earth-616)|Thing]] who was sent to search for his missing teammates. During the course of the battle, the Thing knocked Ternak into his own weapon, the exploding device apparently killing their foe. The Fantastic Four then activated the Master's device, which transformed the Chosen into normal humans, ending their desire to conquer the outside world via massive climate change as they were now able to leave the mountains and live normally. {{r|Fantastic Four #146}}
+
+| Powers                  = 
+| Abilities               = Ternak was immune to the subzero temperatures of the Himalayas. 
+| Strength                = Superhuman.
+| Weaknesses              = Ternak and his people could only survive in the cold temperatures of the Himalayan mountains.
+
+| Equipment               = '''Climate Cannon''': a device that was built to alter the climate of the Earth. 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

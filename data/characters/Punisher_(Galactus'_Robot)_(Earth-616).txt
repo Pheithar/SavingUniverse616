@@ -1,0 +1,64 @@
+{{Merge|Punisher (Robot)}}{{Marvel Database:Character Template
+| Image                   = Punisher (Cyborg) (Earth-616) from Ultimates Vol 3 1 001.jpg
+| Name                    = [[Punisher (Robot)|Punisher]]
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = [[Galan (Earth-616)|Galactus]], {{m|Frightful Four (Earth-616)|Frightful Four}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = {{cl|[[Marvel Encyclopedia Vol 1 Fantastic Four]]}}
+| Gender                  = 
+| Height                  = 4'6"
+| Weight                  = 500 lbs
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = Robot
+
+| Origin                  = [[Robots|Robot]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Stan Lee; Jack Kirby
+| First                   = Fantastic Four Vol 1 49
+
+| Quotation               = They're called '''Punishers''', apparently. No relation to '''[[Frank Castle (Earth-616)|Frank Castle]]'''-- except they're about as '''violent'''-- and as hard to '''kill'''.
+| Speaker                 = [[Carol Danvers (Earth-616)|Captain Marvel]]
+| QuoteSource             = Ultimates Vol 3 1
+
+| History                 = The Punishers are robots in the employ of [[Galan (Earth-616)|Galactus]], long ancient alien technology begotten from begotten from one lost world or another that was stored upon the worldship vessel [[Worldship (Taa II)|Taa II]].{{r|Silver Surfer Vol 3 17}} One was used to defend Galactus' world devouring machine from the [[Fantastic Four (Earth-616)|Fantastic Four]] who sought to destroy it.{{r|Fantastic Four Vol 1 49}} Later, Galactus also sent a Punisher to Earth to locate the exiled [[Norrin Radd (Earth-616)|Silver Surfer]], but the Punisher failed because of the Fantastic Four's interference and Galactus called it back; then Galactus used other means to reach his goal.{{r|Fantastic Four Vol 1 74}}
+
+The first Punisher was later found and used by the [[Rigellians]].{{r|Iron Man Vol 1 109}}
+
+| Powers                  = The Punishers are incredibly robust fabrications of unknown origin.{{r|Fantastic Four Vol 1 49}} Supposedly comprised less of simple xenomineral alloys, the automatons are in fact made out of living metal of unknown origin.{{r|Iron Man Vol 1 109}}{{r|Silver Surfer Vol 3 17}} It's physical abilities are such that it can easily contend with the likes of Iron Man, The Fantastic Four and even the Silver Surfer in a contest of strength, durability as well as speed. They're capacity to manipulate energy also affords a punisher to create remote forcefields with which to trap and trail items of interest alongside them while on the move.{{r|Fantastic Four Vol 1 74}} Punishers are an adaptive sort with the capacity to analyze and determine the best means of overcoming any adversarial opposition they're faced with.{{Citation}} Whilst having the capacity of self propelled flight, they also boast onboard teleportation and have self-destruct capability in the event that they need to cover their own tracks or make hasty retreats.{{r|Thanos Vol 1 4}} They also sport the mechanical equivalent of a Healing Factor, able to self-repair at incredible rates in order to replenish lost or destroyed mechanical apparatuses.{{r|Iron Man Vol 1 112}}{{r|All-New Guardians of the Galaxy Annual Vol 1 #1}} As an added effect, their regenerative capabilities enable the Punisher Robot to rapidly multiply via it's select individual components regrowing itself into whole new living machine. Easily enabling a single damaged World Eater enforcement drone to generate a sizable army that can overrun planets.{{r|All-New Guardians of the Galaxy Annual Vol 1 #1}}
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = In {{cl|Silver Surfer Vol 3 109}}, the Punisher speaks in a supposed alien language that are translated in a footnote. The "alien language" is a transliteration of the English words to Greek alphabet (not even real Greek; just English written with Greek letters).
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Superhuman Strength]]
+[[Category:Superhuman Durability]]
+[[Category:Superhuman Speed]]
+[[Category:Flight]]
+[[Category:Force Field]]
+[[Category:Regeneration]]
+[[Category:Regenerative Durability]]
+[[Category:Duplication]]
+[[Category:Teleporters]]

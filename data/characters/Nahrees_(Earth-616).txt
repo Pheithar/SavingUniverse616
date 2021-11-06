@@ -1,0 +1,62 @@
+{{Marvel Database:Character Template
+| Image                   = Inhumans Vol 4 9 Textless.jpg
+| Name                    = Nahrees
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{m|Inhuman Royal Guard}}
+
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = White
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Inhumans (Race)|Inhuman]] powered by [[Terrigenesis]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Attilan]]
+
+| Identity                = No Dual
+| Citizenship             = Attilan
+| Occupation              = Diplomat
+| Education               = 
+| BaseOfOperations        = [[Attilan]], Earth's [[Luna (Moon)|Moon]]
+
+| Creators                = Paul Jenkins; Jae Lee
+| First                   = Inhumans Vol 2 #2
+
+| History                 = Nahrees was part of the delegation sent to Earth, which allowed her to attend human school. The delegation consisted of: [[Tonaja (Earth-616)|Tonaja]], [[San (Earth-616)|San]], [[Alaris (Earth-616)|Alaris]], Nahrees and [[Jolen (Earth-616)|Jolen]], Nahrees' former lover. To everyone's surprise she began dating Damon Hart, a rich and spoiled human.{{r|Inhumans Vol 4 #9}} Nahrees is arrogant, self-centered and cold-hearted.
+
+| Powers                  = Even without using the Terrigen Mists, the Kree modifications, combined with centuries of selective breeding have given all [[Inhumans (Race)|Inhumans]] certain advantages. Their average lifespan is 150 years, and an inhuman in good physical condition possesses strength, reaction time, speed, and endurance all superior to of the finest human athletes. [[Karnak Mander-Azur (Earth-616)|Karnak]], and other normal Inhumans who are in excellent physical shape, can lift one ton and are physically slightly superior to the peak of normal human physical achievement. 
+
+'''Electrokinesis''': She can generate massive quantities of electricity, maybe up to approximately ten million volts. She can also glide using the electricity naturally found in the environment for propulsion. She is able to store and absorb a seemingly limitless amount of electricity.
+
+'''Enhanced Strength'''
+
+'''Enhanced Speed'''
+
+'''Enhanced Reflexes'''
+
+'''Enhanced Endurance'''
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Flight]]
+[[Category:Electrokinesis]]
+[[Category:Energy Absorption]]

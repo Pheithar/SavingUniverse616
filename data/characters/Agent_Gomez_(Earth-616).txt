@@ -1,0 +1,49 @@
+{{Marvel Database:Character Template
+| Image                   = Agent Gomez (Earth-616) from Iron Man Director of S.H.I.E.L.D. Vol 1 29 001.png
+| Name                    = Gomez
+| Name2                   = (full name unrevealed)
+| Title                   = [[Agent Gomez]]
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}, {{m|S.H.I.E.L.D. Alpha Team}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = Agent Alpha
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Stuart Moore; Roberto De La Torre
+| First                   = Iron Man: Director of S.H.I.E.L.D. Vol 1 29
+
+| History                 = Agent Gomez was sent by [[Anthony Stark (Earth-616)|Director Stark]] with his partners [[Agent Carstairs (Earth-616)|Carstairs]], [[Agent Colletti (Earth-616)|Colletti]] and [[Agent Farrell (Earth-616)|Farrell]] and to investigate potential bomb threats in [[Kirikhstan]]. He came too close to one of the targets and a low-yield nuclear weapon exploded, causing him severe burns. He was planning to retire from the S.H.I.E.L.D. and was supposed to be assigned to the [[Stark Industries|Stark Enterprises]].{{r|Iron Man: Director of S.H.I.E.L.D. Vol 1 29}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

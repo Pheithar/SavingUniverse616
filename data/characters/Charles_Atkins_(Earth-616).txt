@@ -1,0 +1,50 @@
+{{Marvel Database:Character Template
+| Image                   = Charles Atkins (Earth-616) Nick Fury, Agent of SHIELD Vol 1 4.jpg
+| Name                    = [[Charles Atkins]]
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = Terrorist, assassin
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Roy Thomas; Frank Springer
+| First                   = Nick Fury, Agent of SHIELD Vol 1 4
+
+| History                 = One of the [[Hydra (Earth-616)|Hydra]] agents in charge of the murder of future head of [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|SHIELD]], [[Nicholas Fury (Earth-616)|Nick Fury]]. Atkins sneaked disguised as a soldier on the [[S.H.I.E.L.D. Helicarrier]] but was easily unmasked and defeated by the same man that he had to kill{{r|Nick Fury, Agent of SHIELD Vol 1 4}}.
+
+| Personality             = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

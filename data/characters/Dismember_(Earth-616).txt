@@ -1,0 +1,52 @@
+{{Marvel Database:Character Template
+| Image                   = Dismember (Earth-616) from Sabretooth and Mystique Vol 1 2 001.jpg
+| Name                    = 
+| CurrentAlias            = Dismember
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra (Earth-616)|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Yellow
+| Hair                    = None
+| UnusualSkinColor        = Green
+| UnusualFeatures         = Bar code tattooed on head
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Terrorist
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Ariel Olivetti; Jorge Gonzalez
+| First                   = Sabretooth and Mystique #2
+| Death                   = 
+
+| History                 = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+
+}}

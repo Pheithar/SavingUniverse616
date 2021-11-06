@@ -1,0 +1,40 @@
+{{Marvel Database:Team Template
+| Image                   = Fathom Five (Earth-616) from New Thunderbolts Vol 1 1 0001.png
+| Name                    = Fathom Five
+| Aliases                 = 
+
+| Status                  = Defunct
+| Identity                = Secret
+| Reality                 = Earth-616
+| BaseOfOperations        = an unknown At'la'tique undersea base
+
+| Leaders                 = 
+| CurrentMembers          = [[Llyron McKenzie (Earth-616)|Llyron]], [[Bloodtide (Atlantean) (Earth-616)|Bloodtide]], [[Dragonrider (Earth-616)|Dragonrider]], [[Manowar (Earth-616)|Manowar]], [[Sea Leopard (Earth-616)|Sea Leopard]]
+| FormerMembers           = 
+| Allies                  = [[Nagala]]
+| Enemies                 = [[Namor McKenzie (Earth-616)|Namor the Sub-Mariner]]
+
+| Origin                  = Atlantean terrorist group
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Fabian Nicieza; Kurt Busiek; Tom Grummett
+| First                   = New Thunderbolts Vol 1 1
+| Last                    = 
+
+| HistoryText             = The Fathom Five, was a militant Atlantean splinter group determined to destroy humanity. They were a strike force formed from the [[At'La'Tique (Earth-616)|"Fury of the Sea"]], a group of undersea terrorists who seek to destroy air-breathers. The team consisted of [[Llyron McKenzie (Earth-616)|Llyron]], [[Bloodtide (Atlantean) (Earth-616)|Bloodtide]], [[Dragonrider (Earth-616)|Dragonrider]], [[Manowar (Earth-616)|Manowar]], and [[Sea Leopard (Earth-616)|Sea Leopard]]. To meet their goals, they even went as far to team up with [[Wolfgang von Strucker (Earth-616)|Baron Strucker]] and [[Hydra (Earth-616)|Hydra]].{{r|New Thunderbolts Vol 1 3}} The team later attacked the Persian Gulf and the coast of China.{{r|New Thunderbolts Vol 1 2}}
+
+In an attempt to destroy all surface life, the team attacked New York. They attacked and lashed out any one they met in the streets. The Thunderbolts counteracted the team, forcing the Fathom Five to retreat.{{r|New Thunderbolts Vol 1 1}} After repulsing a force of Atlanteans sent to capture them,{{r|New Thunderbolts Vol 1 3}} the Fathom Five attacked New York again. The Thunderbolts against opposed them, and after a long battle, the Five were defeated. Llyron and Sea Leopard managed to escape. Bloodtide, Dragonrider, and Manowar were taken into custody.{{r|New Thunderbolts Vol 1 3|5}}
+
+Llyron was nearly killed by the [[Chen Lu (Earth-616)|Radioactive Man]] and tossed into the water unconscious.{{r|New Thunderbolts Vol 1 6}} He was arrested by the Atlanteans and was returned to Atlantis, only to discover that he had radiation poisoning, and furthermore, had spread the poisoning among the Atlantean population.{{r|New Thunderbolts Vol 1 9}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+* http://www.marvunapp.com/Appendix3/fathomfivetbolts.htm
+* http://www.marvel.com/universe/Fathom_Five
+* http://en.wikipedia.org/wiki/Fathom_Five_(comics)
+}}

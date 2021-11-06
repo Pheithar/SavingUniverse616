@@ -1,0 +1,51 @@
+{{Marvel Database:Character Template
+| Image                   = Edward_Forsyth_(Earth-616)_from_Marvel_Legacy_the_1960'S_Handbook_0001.jpg
+| Name                    = Edward Forsyth
+| CurrentAlias            = Bull's Eye
+| Aliases                 = 
+
+| Affiliation             = {{m|Hydra (Earth-616)|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = {{cl|Marvel Legacy: The 1960s Handbook Vol 1 1}}
+| Gender                  = Male
+| Height                  = 5'10"
+| Weight                  = 170 lbs.
+| Eyes                    = Green
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Assassin
+| Education               = 
+| BaseOfOperations        = [[New York City]], [[New York (State)|New York]]
+
+| Creators                = Gary Friedrich; Herb Trimpe
+| First                   = Nick Fury, Agent of SHIELD Vol 1 15
+| Death                   = Nick Fury, Agent of SHIELD Vol 1 15
+
+| History                 = An assassin in the employ of terrorist organization [[Hydra (Earth-616)|Hydra]], Bull's Eye was ordered to murder [[Nicholas Fury (Earth-616)|Nicholas Fury]], director of Hydra's enemy [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]]. Using a sniper rifle, Bull's Eye shot down Fury while he was at a rock festival with his date. Immediately after that, S.H.I.E.L.D. agents found Bull's Eye and shot him down dead.{{r|Nick Fury, Agent of SHIELD Vol 1 15}} Only later S.H.I.E.L.D. revealed that Fury had not been killed - Bull's Eye only shot down a [[Life-Model Decoy]] robot that Fury had sent as his doppleganger. Fury chose to keep his survival a secret except to his second-in-command [[Timothy Dugan (Earth-616)|Timothy Dugan]], to get a chance against other enemies.{{r|Avengers Vol 1 72}}
+
+| Powers                  = 
+
+| Abilities               = Bull's Eye was a reasonably talented athlete, able to swing from rooftops using his ever-present hunk of rope, and to tightrope walk at great heights. He was skilled at espionage, especially stealth.
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = He used a specialized rifle that bypassed the need to aim; he had only to get close enough to a person to record their heartbeat, after which, the rifle could not miss as long as he had a clear shot.
+
+| Notes                   = * Although he has the name Bull's Eye, he is no relation to the more well-known Daredevil foe, [[Bullseye (Lester) (Earth-616)|Bullseye]]. 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

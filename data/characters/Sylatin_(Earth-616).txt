@@ -1,0 +1,51 @@
+{{Marvel Database:Character Template
+| Image                   = Sylatin (Earth-616) from Astonishing X-Men Vol 3 20 001.png
+| Name                    = Sylatin
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = [[Kruun (Earth-616)|Powerlord Kruun]]
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Green
+| Hair                    = 
+| UnusualFeatures         = One-armed
+
+| Origin                  = [[Breakworldians|Breakworldian]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = Breakworldians
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = [[Breakworld]]
+
+| Creators                = Joss Whedon; John Cassaday
+| First                   = Astonishing X-Men Vol 3 19
+
+| History                 = Sylatin was Kruun's assistant; he received the coordinates of the [[Sentient World Observation and Response Department (Earth-616)|S.W.O.R.D.]] spaceship from [[Ord (SWORD) (Earth-616)|Ord]]{{r|Astonishing X-Men Vol 3 19}}.<br/>
+He was ordered by Kruun to interrogate and break the captured soldiers who were just landed on the planet{{r|Astonishing X-Men Vol 3 20}}.<br/>
+He spoke in private to a soldier, who offered him a deal to seize the throne if only Sylatin would persuade Kruun not to use the weapon against [[Earth]]{{r|Astonishing X-Men Vol 3 21}}.<br/>
+Sylatin reported back to Kruun, who suggested him to go along with it, as soon as [[Abigail Brand (Earth-616)|Agent Brand]] will bring [[Piotr Rasputin (Earth-616)|Colossus]] to them{{r|Astonishing X-Men Vol 3 22}}.
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

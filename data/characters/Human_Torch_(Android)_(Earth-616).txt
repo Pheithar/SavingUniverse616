@@ -1,0 +1,239 @@
+
+{{MoveTagged|Jim Hammond (Earth-616)|20210615031726 }}
+
+{{Marvel Database:Character Template
+| Image                   = All-New Invaders Vol 1 4 Textless.jpg
+| Name                    = [[Human Torch|The Human Torch]]
+| NameRef                 = {{r|Marvel Mystery Handbook 70th Anniversary Special #1}}
+| CurrentAlias            = [[Human Torch]]
+| Aliases                 = Badge #234001,{{Citation}} "Firebug",{{Citation}} the Fire Master,{{Citation}} First of the Marvels,{{r|Avengers: The Initiative #2}} Iron Torch,{{r|Invaders Vol 3 8}} Jim Ames,{{Citation}} Jim Hamond,{{r|Marvel Mystery Comics Vol 1 4}} [[Jim Hammond]],{{r|Marvels Project #2}} Pappy ([[Thomas Raymond (Earth-616)|Toro]]'s nickname for him),{{r|Winter Soldier: Winter Kills}} The Torch{{r|Marvel Mystery Comics Vol 1 2}} 
+
+| Affiliation             = {{m|Space Friends}}; formerly {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}, {{m|Invaders (WWII) (Earth-616)|Invaders}}, {{m|Secret Avengers (Black Ops Unit) (Earth-616)|Secret Avengers}}, {{m|Descendants (Earth-616)|Descendants}}, [[Thomas Raymond (Earth-616)|Toro]]'s partner, [[Mary Mitchell (Earth-616)|Sun Girl]]'s partner, {{m|Invaders (Modern) (Earth-616)|New Invaders}}, {{m|All-Winners Squad (Earth-616)|All-Winners Squad}}, {{m|Heroes for Hire (Oracle Inc.) (Earth-616)|Heroes For Hire}} (leader), {{m|Avengers West Coast (Earth-616)|West Coast Avengers}}, CEO of {{m|Oracle Inc. (Earth-616)|Oracle Inc.}}, {{m|V-Battalion (Earth-616)|V-Battalion}} (leader), {{m|Legion of the Unliving (Kang) (Earth-616)|Legion of the Unliving}}, {{m|New York City Police Department (Earth-616)|NYPD}}
+| Relatives               = 
+Note: As an android, the Human Torch had no true blood relatives, however he could theoretically claim kinship to other android models whose design functions were similar to his own.<br>
+[[Phineas Horton (Earth-616)|Phineas Horton]] (creator/"father", deceased);<br> 
+[[Frankie Raye (Earth-616)|Nova]] (step-sister);<br> 
+[[Thomas Raymond (Earth-616)|Thomas Raymond]] (foster son);<br> 
+[[Ann Raymond (Earth-616)|Ann Raymond]] (daughter-in-law);<br>
+[[Vision (Earth-616)|Vision]] (created by [[Ultron (Earth-616)|Ultron]] based upon Horton's designs);<br>
+[[Tara (Invaders)|Tara]] (based on Horton's designs);<br>
+[[Inhuman Torch (Earth-616)|Inhuman Torch]] (based on Horton's designs);<br>
+[[Pyronanos]] (nanotech based on Horton's designs);<br>
+[[Adam II (Earth-616)|Adam II]] (creation of Phineas Horton);<br>
+[[Volton (Earth-616)|Volton]] (creation of Phineas Horton);<br>
+[[Jacqueline Falsworth (Earth-616)|Spitfire]] ("sister" via blood transfusion);<br>
+[[Niels (Earth-616)|Niels]] (pet)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #5}}
+| Gender                  = Male
+| Height                  = 6'3"
+| Weight                  = 300 lbs 
+| Eyes                    = Blue
+| Hair                    = Blond
+| UnusualFeatures         = 
+
+| Origin                  = Created in a laboratory in 1939 by Professor Phineas T. Horton. Largely considered the world's first fully functional [[Androids|Android]] or "[[Synthezoids|Synthezoid]]". The [[Horton Cells]], however, reacted to oxygen giving him pyrokinetic powers.
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Brooklyn]], [[New York City]]
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = Adventurer; War veteran; former police officer and CEO of Oracle, Inc. 
+| Education               = No formal education; Capacity for creative intelligence and unlimited self-motivated activity
+| BaseOfOperations        = [[Rivalis]]; formerly [[Camp Hammond|S.H.I.E.L.D. Base Designation 4201]], [[Stamford]], [[Connecticut (State)|Connecticut]]; [[Manhattan]], [[New York City]], [[New York (State)|New York]]; [[London (England)|London]], [[England]], [[United Kingdom]] and the [[Europe|European]] theater (during [[World War II]]); [[Korea]] ([[Korean War]]); later [[Avengers Compound]], [[Malibu]], [[California (State)|California]]; later, mobile; later [[Blaketon]], [[Illinois (State)|Illinois]]
+
+| Creators                = Carl Burgos;
+| First                   = Marvel Comics #1
+
+| Quotation              = [[Phineas Horton (Earth-616)|Professor Horton]] said it was an <b>accident</b> that I burst into flame. But what if he <b>knew</b>... What if he <b>intended</b> this -- he already knew what you were doing? My creator, Phineas Horton, was <b>Jewish</b>. You <b>burned</b> them. <b>You did this!</b> You, would claim to be <b>masters</b> of the world. This. <b>This</b> is why I <b>am</b> the <b>way</b> I am. Let this be a taste of eternity. So you will know <b>hell</b> when you get <b>there</b>.
+| Speaker                 = [[Human Torch (Android) (Earth-616)|Human Torch]]
+| QuoteSource             = Avengers / Invaders Vol 1 5
+
+| History                 = 
+<center>''The Human Torch is one of the first superheroes of the [[Earth-616|Marvel Universe]], his history spanning over 70 years of publications. Below is an abridged version of his history. For an unabridged accounting of his history, see '''[[Human Torch (Android) (Earth-616)/Expanded History|Human Torch's android's Expanded History]]'''''</center>
+
+===Origins===
+The original Human Torch began his existence in '''1939''' in the [[Professor Horton's laboratory|laboratory]] of Professor [[Phineas Horton (Earth-616)|Phineas T. Horton]], one of the pioneers in the field of artificial intelligence and robotics. The culmination of Horton's research was an [[Androids|android]] who mimicked virtually all of the functions of a human being, including independent thought, but was composed entirely of synthetic materials.
+
+The one flaw in the android's design concerned the photoelectric solar cells called [[Horton Cells]] which covered every square inch of his body and served as his power source. The cells were too volatile and caused the epidermis of the android to burst into flame upon contact with air but without harming the android itself.
+
+Horton revealed the Torch's existence to the public at a press conference in '''November 1939''', at which he demonstrated how the Torch would burst into flame if he introduced a small amount of oxygen into the transparent container in which he was confined. The news media proclaimed the Torch to be a potential menace, and so after a presidential order,{{r|Marvels Project #1}} Horton buried the android in his supposedly airtight tube within cement until such time as he could find a way either to prevent the android from bursting into flame or learn how to control its flame.{{r|Saga of the Original Human Torch #1}}
+
+There was a slow leak in the tube, however, and eventually enough oxygen entered so that the android's flame ignited explosively, permitting him to escape. Wreaking havoc in innocent exploration of his environment, the android, inaccurately dubbed the Human Torch, soon realized the panic he was causing and, unable to control his flaming power, doused his flame in a swimming pool.{{r|Saga of the Original Human Torch #1}}{{r|Marvel Comics #1}}{{r|Marvels #1}}{{r|Marvels Project #1}} In his infancy, the Human Torch was duped by a crook named [[Anthony Sardo (Earth-616)|Anthony Sardo]] into committing crimes. Realizing what he was doing was wrong, the Torch confronted Sardo and during the fight was doused in nitrogen which was the catalyst that allowed him to control his flame from that point on.{{r|Marvel Comics #1}}
+
+In attempting to bring Sardo to justice, the criminal was killed in battle. When Horton suggested that the two use his powers to obtain fame and fortune, the Torch rejected this idea, leaving Horton's home a flaming inferno which seemingly killed the scientist. However he would resurface later, alive and well.{{r|Marvel Comics #1}}
+
+===1940s===
+In the year '''1940''', the Human Torch began earning a reputation for himself as a champion of justice. He had a number of solo adventures including a clash with [[Martians (Race)|Martians]],{{r|Marvel Mystery Comics #3}} mad scientist [[Doctor Manyac (Earth-616)|Dr. Manyac]],{{r|Marvel Mystery Comics #4}} and others. He gained an early ally in a police officer named [[Pete Johnson (Earth-616)|Pete Johnson]] and began using the name "Jim Hammond" as an alias. The Torch soon decided to take up a job as a [[New York City|New York]] police officer.{{r|Marvels Project #2}}
+
+After a number of assignments, the Human Torch became lonely and sought out Professor Horton and asked for his advice. Horton told him of [[Fred Raymond (Earth-616)|Fred Raymond]], an asbestos expert, and his wife [[Nora Jones (Earth-616)|Nora]]. Both were terminally ill and raising their son [[Thomas Raymond (Earth-616)|Thomas "Toro" Raymond]]. When visiting the Raymond home to learn what Horton was alluding to, the Torch found the Raymonds being terrorized by the criminal known as [[Victoria Murdock (Earth-616)|Asbestos Lady]]. The Torch fought off Asbestos Lady and her minions. Noticing that Toro had slept through the entire battle, the Raymonds told him how their son was apparently immune to fire. After the meeting with the Raymonds, the Torch soon left, vowing to keep a secret eye on them in case Asbestos Lady threatened them again.{{r|Invaders #22}}
+
+Soon after his induction into the police force, the Human Torch had the first of many clashes with the [[Homo Mermanus|Atlantean]] mutant known as the [[Namor McKenzie (Earth-616)|Sub-Mariner]]. Their battle raged across New York City and eventually the Sub-Mariner gained the upper hand when trapping the Torch in an airtight container. Ultimately, the Sub-Mariner was convinced to let the Torch go and leave by police woman [[Betty Dean (Earth-616)|Betty Dean]].{{r|Marvels Project #3}}{{r|Marvel Mystery Comics #8|10}}
+
+The Torch soon began to question what it was like to be human and sought out his creator. Finding an old photograph in the ruins of the place of his birth, the Torch visited a former colleague of his "father", Fred Raymond, and decided to visit the family again. By this time, Fred was distraught over the fact that his wife Nora was deathly ill and that his son Thomas had gained mysterious flame powers. Somehow thinking the Torch was to blame, Raymond ordered the Torch to leave his home.{{r|Marvels Project #6}}
+
+[[File:Human Torch (Android) (Earth-616) 1941 pin-up.jpg|thumb|left|176px|Human Torch circa 1941]] The Torch soon found himself working with an unlikely ally, the  Sub-Mariner, to stop an invasion of [[Imperial Japan (Earth-616)|Imperial Japanese]] forces who were attempting to dig a tunnel to [[Alaska (State)|Alaska]].{{r|Marvel Mystery Comics #17}} This alliance proved to be short-lived as the Sub-Mariner soon attacked New York City again, but was brought down by the Human Torch and [[Steven Rogers (Earth-616)|Captain America]].{{r|Marvels Project #5}}
+
+Hearing a radio report about the death of Toro's parents in a train wreck, the Torch suspected it to be the work of Asbestos Lady and rushed to Toro's aid after hearing he was adopted by a local circus owner. On the way, the Torch was confronted by Asbestos Lady and her minions, who managed to douse his flame and toss him into a tanker filled with water. Despite being trapped in water, the Torch was able to flame on part of his body to create enough heat for the steaming water to burst open the tanker. Asbestos Lady and her men attempted to escape but were captured by the Torch and turned over to the police.{{r|Invaders #22}}
+
+====Toro====
+The Human Torch soon was reintroduced to Thomas Raymond, at Pop's Circus as Toro the Flaming Boy. When the circus strongman [[Samson (Strongman) (Earth-616)|Samson]] stole a rayon gun, the Torch and Toro teamed up to return it.{{r|Human Torch #3}}
+
+Taking in Toro as his ward, the Torch was teaching him how to use his powers.{{r|Marvels Project #6}} The Human Torch and Toro clashed with many foes such as the [[Brain (Earth-616)|Brain]],{{r|Marvel Mystery Comics #18}} [[BlackJack (1940s) (Earth-616)|Blackjack]],{{r|Human Torch #4}} the [[Hag (1940s) (Earth-616)|Hag]],{{r|Marvel Mystery Comics #19}} [[Doctor Smart (Earth-616)|Dr. Smart]],{{r|Human Torch #5 (Summer)}} and arsonist [[Hawk Rivers (Earth-616)|Hawk Rivers]].{{r|Marvel Mystery Comics #20}} By this time, Toro had allied himself with a members of [[James Buchanan Barnes (Earth-616)|Bucky]]'s Sentinels of Liberty fan club to form the [[Young Allies (WWII) (Earth-616)|Young Allies]]. The Torch often worked alongside Captain America to assist the Young Allies and get them out of trouble.{{r|Young Allies #1}}{{r|Young Allies Comics 70th Anniversary Special #1}} 
+
+====The Invaders====
+On '''December 7th, 1941''' American authorities learned of a joint attack on American soil by Imperial Japanese Navy, subversive Atlantean, and [[National Socialist German Workers Party (Earth-616)|Nazi]] forces. One of these attacks was on [[Pearl Harbor]], and the Human Torch and Toro were sent on this mission to help turn back the invasion.{{r|Marvels Project #8}} It was a day that would stand in American history as the aftermath would end with the United States officially entering World War II. So horrified by the senseless destruction caused by the Japanese forces, the Human Torch and Toro fought back in the days following the attack on Pearl Harbor, attacking Japan directly slaying Japanese [[Admiral Nodope (Earth-616)|Admiral Nodope]] in the process.{{r|Marvel Mystery Comics #31}}
+
+Returning to the United States, on '''December 22, 1941''' the Human Torch and Toro were assigned in secret as part of the security for Dr. Anderson, one of the men involved in [[Operation Rebirth]] the experiment the created Captain America. When Anderson was captured by Nazi spies, he was forced to use his knowledge to empower their agent [[Wilhelm Lohmer (Earth-616)|Master Man]]. Tracking Anderson to the secret Nazi lab, the two heroes were too late to stop the creation of Master Man. The super-strong Nazi easily bested the two heroes and the Nazis fled after shooting Dr. Anderson. Rushing Anderson to a hospital, the Torch and Toro soon met with Captain America and Bucky. 
+
+Discovering that the Nazis were plotting to attack a ship carrying British Prime Minister [[Winston Churchill (Earth-616)|Winston Churchill]] to the United States, they rushed to the scene. There, with the assistance of the Sub-Mariner, the heroes stopped the Nazis, and when Master Man's powers failed him, captured the villain and turned him over to the authorities. After his rescue, Winston Churchill suggested that the group band together, suggesting they call themselves the [[Invaders (WWII) (Earth-616)|Invaders]].{{r|Giant-Size Invaders #1}} In the aftermath of that battle, [[Franklin Delano Roosevelt (Earth-616)|President Roosevelt]] officially sanctioned the group.{{r|Marvels Project #6}}
+
+With the Invaders, the Torch clashed with foes such as [[Werner Schmidt (Brain Drain) (Earth-616)|Brain Drain]],{{r|Invaders #1|2}} [[Meranno (Earth-616)|U-Man]],{{r|Invaders #3|4}} and [[Basil Frankenstein (Earth-616)|Basil Frankenstein]] [[Frankenstein's Monster (Nazi) (Earth-616)|creation]].{{r|Invaders #31}} When the Invaders were captured by the [[Johann Shmidt (Earth-616)|Red Skull]] and brainwashed,{{r|Invaders #5}} Bucky formed the [[Liberty Legion (WWII) (Earth-616)|Liberty Legion]]{{r|Marvel Premiere #29}} to counter his friends, eventually freeing them from the Skull's control.{{r|Invaders #6}}{{r|Marvel Premiere #30}} 
+
+Returning to [[England]] with the Invaders, the Torch clashed with [[John Falsworth (Earth-616)|Baron Blood]], and fell in love with [[Jacqueline Falsworth (Earth-616)|Jacqueline Falsworth]].{{r|Invaders #7}} He eventually rescued her from Baron Blood but she did not seem to see his feelings for her. Following Baron Blood's destruction, she required medical attention.{{r|Invaders #8|9}} Rushing Jacqueline to a military hospital,{{r|Invaders #10}} a blood transfusion from the Torch empowered Jacqueline and she joined the group as Spitfire.{{r|Invaders #11}} The Invaders then clashed with the [[Werner Eisen (Earth-616)|Face]], but were rescued by Goldstein, who managed to transform himself into the [[Jacob Goldstein (Earth-616)|Golem]] of Jewish lore, and the [[Crusaders (Earth-616)|Crusaders]].{{r|Invaders #13|14}} 
+
+Soon after the Crusaders incident, the Invaders were given a headquarters in England within [[Big Ben, London|Big Ben]]. Torch, Captain America, and the Sub-Mariner were then given a mission to capture three Nazi agents: the [[Henry Mortonson (Earth-616)|Hyena]], the [[Verrill Shark (Earth-616)|Shark]] and [[Agent Axis (Earth-616)|Agent Axis]]. The Torch was dispatched to capture the Hyena, but was captured by the villain who extracted some of the Torch's blood to use to empower Nazi agents. Before the Hyena could eliminate the hero, he was teleported away by the cosmic being known as the [[En Dwi Gast (Earth-616)|Grandmaster]].{{r|Invaders Annual #1}} Finding himself transported to Nazi-occupied [[France]] with Captain America and Sub-Mariner, the three heroes were used in a cosmic competition between the Grandmaster and the future warlord [[Nathaniel Richards (Kang) (Earth-6311)|Kang]] and pitted against three of the modern era [[Avengers (Earth-616)|Avengers]]: [[Henry Pym (Earth-616)|Yellowjacket]], [[T'Challa (Earth-616)|Black Panther]], and the [[Vision (Earth-616)|Vision]]. The Avengers easily defeated the three wartime heroes, thanks to the Vision's phasing powers{{r|Avengers #71}}. As the Avengers attempted to explain to the three Invaders what was happening, they were whisked back to their own time. The Grandmaster then returned the Invaders back to where their three foes had met and easily defeated them. The Torch recovered his stolen blood. The Torch's memories of his battle against the Avengers soon faded.{{r|Invaders Annual #1}}
+
+====Post World War II====
+Though the original Captain America and his sidekick Bucky were seemingly killed in action, secret replacements for them served alongside the Torch and the rest of the Invaders in the [[All-Winners Squad (Earth-616)|All-Winners Squad]] during the postwar years. In '''1949''', an American criminal the [[Crime Boss (Earth-616)|Crime Boss]], seeking to destroy the Torch, obtained a chemical known as Solution X-R from Russians.{{r|Saga of the Original Human Torch #4}} He sprayed the solution over the Torch and Toro, dousing their flame and paralyzing them. The criminals then buried the Torch beneath the [[Nevada (State)|Nevada]] desert.{{r|Saga of the Original Human Torch #3}} However, they had accidentally chosen to bury him beneath a future atomic testing site.{{r|Saga of the Original Human Torch #4}}{{r|Marvel Mystery Handbook 70th Anniversary Special #1}}
+
+===1950s===
+In '''late 1953''', the blast of an atomic bomb dropped on the site freed the Torch, and the radiation reactivated his flame. The Torch resumed his crime-fighting career and his partnership with Toro. But in '''late 1955''', the Human Torch sensed that the radiation from the bomb was causing him to lose control of his flame and that he would be dangerous to others. After bidding farewell to Toro, the Torch burned his way underground of the Southwest desert to deactivate.{{r|Saga of the Original Human Torch #4}}{{r|Marvel Mystery Handbook 70th Anniversary Special #1}}
+
+===Modern Age===
+====Immortus====
+Following the defeat and deactivation of the original Torch, his corpse was split into two chronal duplicates by the time traveler [[Nathaniel Richards (Immortus) (Earth-6311)|Immortus]].{{r|Avengers: Forever #8}}
+
+The first duplicate was discovered by the criminal genius called the [[Mad Thinker (Julius) (Earth-616)|Mad Thinker]], one of the world's leading experts on robotics and androids. Using his knowledge of androids, the Thinker restored most of the Torch's original synthetic tissue and nervous system. The Thinker partially restored the android's memories but coerced the Torch into battling the Thinker's enemies, the [[Fantastic Four (Earth-616)|Fantastic Four]] (which counted a [[Jonathan Storm (Earth-616)|new Human Torch]] among their number). On realizing the implications of what the Thinker wanted him to do, the Torch sacrificed his artificial life to save the Fantastic Four from a sneak attack by the Thinker's computer [[Quasi-Motivational Destruct Organism (Earth-616)|Quasimodo]]. The Thinker fled, and the Fantastic Four left the Torch's body in the Thinker's laboratory in Nevada.{{r|Fantastic Four Annual Vol 1 4}}
+
+The other duplicate was recovered by the robot known as [[Ultron (Earth-616)|Ultron]] who sought to use the Torch as a vessel of revenge against his creator Henry Pym and the super-hero group known as the Avengers.{{r|Avengers #133}} This recreation of the Human Torch became known as the Vision,{{r|Avengers #53}} and ultimately became a long-time member of the Avengers.
+
+====Avengers West Coast====
+The Mad Thinker buried the Torch in a nondescript grave. The hero team [[Avengers West Coast (Earth-616)|Avengers West Coast]] revived the Human Torch when in the course of investigating the Vision's origin. They invited the revived Torch to join their team, and he gratefully accepted.{{r|Avengers: West Coast #50}} 
+
+However, he served for only a short time before taking a personal leave of absence, during which time he lost his powers to save the life of his aged comrade, Lady Crichton. He then semi-retired from adventuring and served as Head of Security for [[Oracle Inc. (Earth-616)|Oracle Inc.]]{{r|Namor the Sub-Mariner #31}} Hammond later returned to join the Avengers' West Coast branch as a reserve member, and served alongside the team on a couple of adventures.{{Citation}}
+
+====Heroes for Hire====
+Months later, he agreed to lead the re-launched hero team [[Heroes for Hire (Oracle Inc.) (Earth-616)|Heroes for Hire]] with [[Daniel Rand (Earth-616)|Iron Fist]] and [[Luke Cage (Earth-616)|Cage]], behind the scenes in an office capacity as CEO of Oracle, Inc., Namor's business representation in the States that acted as parent company for the Heroes. After spearheading several adventures, Hammond was revealed to be used by the villainous [[Eshu (Earth-616)|Master]] to destroy the Heroes for Hire, although the Heroes triumphed over their foe and rescued Hammond, who recovered. During this time, Hammond recovered his ability to throw fireballs, although the full extent of his powers remain lost. When the unscrupulous [[Stark Industries|Stark-Fujikawa Corporation]] bought Oracle and began restructuring Heroes for Hire, Hammond resigned.{{r|Heroes for Hire Vol 1 1|19}}
+
+====New Invaders====
+Hammond returned as part of the [[Invaders (Modern) (Earth-616)|New Invaders]], taking the young android [[Tara (Invaders)|Tara]] under his wing. He ended up sacrificing his life to save this new "Lady Torch." The majority of the Invaders left the team after this.{{r|New Invaders Vol 1 #9}}
+
+====Dead Again====
+In the months following the [[Secret Invasion]] of Earth, Hammond's inert body was discovered in the [[United Nations Headquarters|UN Building]] by retired Chinese scientist, [[Zhang Chin (Earth-616)|Zhang Chin]]. Chin's agent, the [[Philip Wing (Earth-616)|Man with No Face]], recovered the body and brought it back to [[Taipei]] where Chin modified Hammond's DNA and cell structure into a virus. Chin intended to use this virus to eradicate half the world's population so that resources could be better controlled. This incident prompted Captain America (Bucky Barnes) and the Sub-Mariner to go to [[China]] to rescue their old teammate's remains. They succeed in stopping Chin and made sure that Hammond received a proper burial.{{r|Captain America Vol 5 #45|#48}}
+
+====Third Resurrection====
+Later exhumed by the Mad Thinker, the Torch was used in experiments involving the "Horton Cells" that made up his body and in the process was revived as a living weapon that the Thinker intended to sell to [[Advanced Idea Mechanics (Earth-616)|A.I.M.]]{{r|Torch Vol 1 #2}} Though set on a course for destruction, the Torch was stopped by his formerly-deceased ex-sidekick Toro, and the Thinker's control was lifted, though the interaction with rogue Horton Cells developed by the Thinker led to the Torch's body degrading. Not wanting to sit around waiting to die, the Torch assisted Toro in finding answers about his parents, leading the duo to [[South America]] and the Nazi colony of New Berlin.{{Citation}}
+
+Torch later joined his fellow Invaders member Namor at [[Utopia (X-Men Base)|Utopia]] to fix a section of the island. Hammond then questioned his own usefulness in today's modern world. When [[Victor Borkowski (Earth-616)|Anole]] and [[Santo Vaccarro (Earth-616)|Rockslide]] asked him if he killed [[Adolf Hitler (Earth-616)|Hitler]] he answered that he did.{{Citation}}
+
+====Joining the Secret Avengers====
+When Steve Rogers became America's new Top Cop, he formed a [[Secret Avengers (Black Ops Unit) (Earth-616)|secret team of Avengers]] to perform the missions the Avengers could not without tarnishing their image. When the team changed roster, Cap wanted Jim to join, along with [[Eugene Thompson (Earth-616)|Venom]], Giant-Man, and [[Brian Braddock (Earth-616)|Captain Britain]]. Unfortunately, he was badly damaged on his first mission against the [[Father (Earth-616)|Father]] and his [[Descendants (Earth-616)|Descendants]], a group of machines based on Hammond, and left comatose in a stasis tube at the team's HQ, the [[Lighthouse (Space Station)|Lighthouse]], while repairing.{{r|Secret Avengers #25}}
+
+He was later freed by the [[Eric O'Grady (LMD) (Earth-616)|Black Ant]], an agent of the Descendants, and finished being repaired by the Father, who convinced him to join his side. He then led an army of robots during a raid on New York, with the goal of forcibly assimilating the human race through the use of nanotechnology and give the control of the world to the machines, robots and cyborgs.{{r|Secret Avengers #35}}
+
+[[File:Captain America Vol 5 46 70th Anniversary Variant Textless.jpg|thumb|left]]
+After Captain Britain made him come to his senses, Jim fought against the Descendants, and when [[Clinton Barton (Earth-616)|Hawkeye]] couldn't, he destroyed the Orb of Necromancy, the artifact which gave life to the Descendants. Jim flew away, with the weight on his conscience that he killed an entire race.{{r|Secret Avengers #37}}
+
+====All-New Invaders====
+Jim relocated to the small town of [[Blaketon]]. He kept a low profile as a garage mechanic until [[R'Klll (Earth-616)|Tanalth the Pursuer]] confronted him to recover the information of the location of one of the fragments of the [[Gods' Whisper]]er. He was almost defeated by the Pursuer and killed after she recovered the information she needed, but was saved by the arriving Captain America and Winter Soldier.{{r|All-New Invaders #1}} With their help, Jim was saved from his attackers, and they decided to reform the Invaders in order to rescue Namor from [[Hala (Planet)|Hala]], the [[Kree]] homeworld, and prevent the aliens from using the Whisperer.{{r|All-New Invaders #1}}{{r|All-New Invaders #2}}
+
+As soon as they got to Hala with the help of the original [[Aarkus (Earth-616)|Vision]], the Invaders were ambushed by the [[Pursuer Corps (Earth-616)|Pursuer Corps]]{{r|All-New Invaders #3}} and later forced to fight the Whisperer-controlled [[Ikaris (Earth-616)|Ikaris]]. By faking his death, the Winter Soldier managed to free the captured Vision{{r|All-New Invaders #4}} and distract Tanalth long enough for Captain America and the Human Torch to subdue the Kree soldiers present in the battle while Namor fought Ikaris. The Vision teleported to get help from the [[Eternals (Race)|Eternals]] and recover the Whisperer. After that, the Invaders returned to Earth and later disbanded. Captain America confronted Jim regarding his identity crisis, and offered him a place in the ranks of [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]].{{r|All-New Invaders #5}}
+
+====Squadron Supreme====
+Agent Hammond had several encounters with the [[Squadron Supreme (Earth-616)|Squadron Supreme]].<!-- Why did he encounter them? --> In their final confrontation, [[Kyle Richmond (Earth-31916)|Nighthawk]] fired some darts at him which were intended to depower him. Instead, Hammond's powers suffered a drastic change; he could no longer flame on, but still retained the ability to emit radiation. Speaking to Namor months later, he said that he was no longer the Human Torch (and nor did he care, stating that the world didn't need two of them, with [[Jonathan Storm (Earth-616)|Johnny Storm]] still around), but more like a "human reactor." Most importantly, he was still a human being, despite his body being artificial.{{r|Squadron Supreme Vol 4 15}}
+
+Later during the events of Secret Empire, Jim and Toro arrived in Atlantis seeking asylum but were instead imprisoned by Namor. They were eventually freed by Namora and became pawns in her scheme to show Namor that he had become a tyrant.{{r|Secret Empire: Brave New World Vol 1 1}}{{r|Secret Empire: Brave New World Vol 1 5}}
+
+====World War Namor====
+Later Jim contacted Captain America to pick his brain on his war experiences for his new book on the Invaders. When Steve questioned why he even needs to question him, since he is an android, Jim revealed that professor Horton designed him to be able to forget. The conversation then shifted to discussing Namor's recent actions, and Jim expressed his opinion that while Namor was damaged, he was still a hero, and they should be the ones to bring him to his senses. Afterwards, he visited the Peterson home to talk with Randall about his perspective on the war and was shown a picture of [[Charles Xavier (Earth-616)|Xavier]] and Namor from the '50s.{{r|Invaders Vol 3 1}}
+
+Jim later met in a bar with Steve and Bucky, where they all shared the information they had gathered on Namor.{{r|Invaders Vol 3 2}} Following this he arrived at a naval base with Steve so they could warn them of Namor's upcoming threat, and to serve as a distraction for Bucky to infiltrate the base and disable the new technology before Namor could steal it. Afterwards, they went to visit Randall but were discovered by Namor. Jim saved Steve after he was sent flying into the ocean.{{r|Invaders Vol 3 3}} In the wake of Randall's death, Nay Peterson explained to both Jim and Steve about Namor's secret history.{{r|Invaders Vol 3 4}}
+
+Realising that Nay's son-Roman was Namor's mole in the Navy, Jim rushed out to stop him without informing anybody. However, Namor's plan was already put into action. During their fight Namor decapitated Hammonds, and after orchestrating a false flag attack by the US Navy, he counterattacked with a bombardment, that included gas which transformed people present into water-breathers. Following this, Namor sank the Navy base and the nearby city. In the process, Jim's body got destroyed, with only his separated head rescued.{{r|Invaders Vol 3 5|6}}
+
+Jim's head ended up with [[Anthony Stark (Earth-616)|Tony Stark]] who created a makeshift body for the Human Torch out of his armor parts; a process that was interrupted by the arrival of Hammond's old sidekick Toro. Jim finished the process himself to defuse the argument between Tony and Toro.{{r|Invaders Vol 3 7}} The reunion didn't go smoothly, as angry at Namor's betrayal and his current state, he initially rejected Toro's help. However, he was ultimately convinced to once again team up with his former sidekick.{{r|Invaders Vol 3 8}} However their attempts to stop Namor failed, and they ultimately had to team up with him to stop [[Machan (Earth-616)|Machan]], a rogue psychic construct, responsible for Namor's recent actions which now escaped into the body of Roman Peterson.{{r|Invaders Vol 3 9|11}} The reassembled Invaders attacked Machan's base, stopping his plan to completely submerge the Earth. However, the whole ordeal affected Jim heavily causing him to drop his planned book and rethink his plans for the future.{{r|Invaders Vol 3 12}}
+
+[[File:Jim Hammond (Earth-616) from Iron Man Vol 6 9 001.jpg|right|thumb|As the Iron Torch]]
+
+====Books of Korvac====
+Fed up with his life on Earth, Jim embarked on a self-exile and ultimately settled in [[Rivalis]], a moon located light-years away. Hammond's solace was interrupted when would-be universal savior and fellow android [[Michael Korvac (Earth-619)|Korvac]] arrived to recruit him. Likening the Human Torch to a brother due to his current body having stemmed from Phineas Horton's research, Korvac offered to reconstruct and upgrade Jim's android form. Korvac also imparted Hammond with an imprint of his own mind, hoping for Jim's upgraded brain to let him fully grasp and condone Korvac's plan to transform all sentient life into a homogeneous entity, in order to share with Jim the burden of his mission. The plan backfired, however, and the imprints prompted Hammond to condemn and turn against Korvac. He was stopped by one of Korvac's acolytes, the [[Basil Sandhurst (Earth-616)|Controller]], who attached one of his [[Slave Discs|Control Discs]] to Jim's neck to turn him into a slave.{{r|Iron Man Vol 6 9}}
+
+| Powers                  = [[File:Torch Vol 1 1 Dynamic Forces Variant Textless.jpg|200px|right|thumb|The Torch bursts into flame]]
+'''[[Pyrokinesis]]:''' The original Human Torch possessed the mental ability to control ambient heat energy and the physical ability to transform his entire body, or portions of his body into a fiery, plasma-like state of will.{{Citation}}
+
+*'''''Plasma Form:''''' The Torch possesses the mental ability to control ambient heat energy and the physical ability to envelop his entire body or portions of his body with fiery plasma without harm to himself (plasma is a super-heated matter that exists in the atmosphere of stars). Ordinarily, when aflame, the Human Torch is enveloped by a low intensity flame of low level plasma (reddish, approximately 780° Fahrenheit), which ranges from 1 to 5 inches from his body. He can, however, generate much higher levels and flames about himself.{{Citation}}
+
+*'''''Nova Flame:''''' The Torch refers to his highest, hottest levels of plasma that he can create as his "nova flame." The exact temperatures that his "nova flame" can attain are not known. At an average rate of expenditure of energy, the Torch can stay aflame for about 16.8 hours. In his younger days, he could only maintain his flame for much briefer periods, and sometimes exhausted it while in combat. He cannot maintain his "nova flame" for as long a time as he can maintain his ordinary flame. The Torch can release all of his body's stored energy in one intense, omnidirectional "nova-burst," which can reach about 1,000,000°F, and which is similar to the heat-pulse of a nuclear warhead detonation, with an are of total devastation of about 900 feet in diameter (the Torch has claimed that he can destroy a small moon with his nova-burst). This violent discharge uses his entire reserve of energy (except for the necessary to keep him alive) at once, entirely exhausting his flame power. He generally requires at least 12 hours to recover entirely from such a feat.{{Citation}}
+
+*'''''Fire Manipulation:''''' The Human Torch can generate shapes composed of fire from any point on his body (he usually employs his hands to "sculpt" the flames). He can form fire into long streams, spheres, or even more complex shapes like letters in skywriting. These flames-objects will only remain their shapes as long as he concentrates upon them. The objects will only burn about three minutes before expiring unless the Torch continues to infuse them with energy. The temperature of these fiery projections is generally around 2,800°F (near the melting point of iron). The original Human Torch can telekinetically control not only flames and flame objects that he himself creates, but also flames he did not create. Before he had mastered his flame control ability, the Torch yelled at the flames to gain control.{{r|Marvel Mystery Comics #2}}
+
+*'''''Flight:''''' The Human Torch's plasma has a high hydrogen content, and is surrounded by an exuded cloud of mono-atomic hydrogen atoms. This hot cloud provides sufficient positive buoyancy for him to float. With mental stimulation of his flame, he can provide enough lift to carry 180 pounds. By forming a jet from his feet, directed behind him, he can achieve speeds up to at least 140 miles per hour.{{Citation}}
+
+*'''Thermokinesis:''' The Human Torch has the ability to mentally control the ambient heat energy within his immediate environment, even when he himself is not aflame. He can reduce objects' temperatures (if they are in a normal range for existing on Earth's surface) to about 30°F, raise them to several hundred degrees, or extinguish open flames. His radius of influence is about 80 feet. The heat energy he takes from the environment is absorbed into his own body. If he takes in a critical amount while he is not aflame, he will become aflame. There are unknown limits to the amount of flame he can absorb into his own body harmlessly while he is himself aflame. He has been shown interfering with the thermal gradients of heat seeker missiles so he could cause them to change direction.{{Citation}}
+
+*'''Immunity to Fire & Heat:''' The Human Torch is unaffected by heat and flames, including his own, even when part of him is aflame and the rest of him is not. His flesh cannot be scalded or burned by any heat source whose level is below that of his maximum output.{{Citation}}
+
+*'''Radiation Generation:''' Another distinction he has with [[Jonathan Storm (Earth-616)|Johnny Storm]] is that Jim can make his flames radioactive.{{r|Squadron Supreme Vol 4 3}} However, it was not revealed the extent this power. 
+
+| Abilities               = He has received some training in unarmed combat by Captain America, and is an expert in the combat use of his superhuman powers. The Torch can live without oxygen, entering a stasis mode.{{Citation}}
+| Strength                = The Human Torch possesses the normal human strength of a man in his middle twenties who engages in moderate regular exercise (however as an android he may have had slightly higher strength and/or endurance).{{Citation}}
+| Weaknesses              = 
+'''Energy Depletion:''' At an average rate of expenditure of energy, the Torch can maintain his plasma state for about 16.8 hours before he is forced to revert to his solid state.{{Citation}}
+
+'''Fire Extinguishing:''' The Human Torch's flame is supported by the presence of oxygen, and thus is extinguished in low air pressure or a vacuum. The Torch's flame can be extinguished by smothering materials, such as water, sand, fire-fighting foam, and heat-resistant blankets, unless his flame is at such an intensity that it immediately vaporizes such materials on contact. If hit with small amounts of water, up to about five gallons, the Torch can turn it to steam with relatively little effort. More water than that could extinguish his flame at its normal level, and he would have to wait until he could evaporate the residual moisture before re-ignition.{{Citation}}
+
+| Equipment               =
+
+''Formerly'' [[Avengers Identicard]]
+| Transportation          = ''Formerly'' [[Avengers Quinjet]]
+| Weapons                 = 
+
+| Notes                   = * The general public was unaware that the original Human Torch also used the identity of Jim Hammond.{{Citation}}
+* The Torch's light output is mostly in the infrared and infrared region of the spectrum, and is invisible to the unaided eye. Less that 10% of his total power output is in the visible portion of the spectrum. Thus, the Torch, when aflame, is dimmer than one would expect of so powerful an energy source.{{Citation}}
+* It has been identified that a number of the wartime tales released to the public during World War II was done in the form of comic books and were often altered to aid in American propaganda to boost American support in the war effort.{{r|Young Allies Comics 70th Anniversary Special #1}} As such many of the Torch's wartime adventures -- particularly those involving the Young Allies -- may not be factual accounts but rather sensationalized fictionalizations based on true events. How much is true and how much fabrication has yet to be examined.
+* In {{cl|Young Men Vol 1 24}} <small>(12/53, page 4 panel 2)</small>, The Torch says, "You remember, Chief [John Wilson], that I was born in a test tube [a vat is shown] during the last world war..." In {{cl|Namor the Sub-Mariner #20}} <small>(11/91, page 27 panel 2)</small>, Professor Horton is seen growing the Torch in a transparent liquid filled tube as his tendons and muscles are seen because he has no skin and in {{cl|Invaders #7}} <small>(7/76, page 6 and panel 3)</small>, is said "Horton, who birthed the Torch inside a huge airtight test-tube". 
+* The Torch learned to fly before the final confrontation with Tony Sardo,{{r|Saga of the Original Human Torch #1}} but for some reason didn't use the ability in some of his first adventures. He was still able to run faster than cars and leap over high and broad obstacles.{{r|Marvel Mystery Comics #2}}
+
+| Trivia                  = 
+* [[50-State Initiative (Earth-616)|The Initiative]] training facility, [[Camp Hammond]], is named after the Human Torch. Furthermore, a statue of Hammond on the grounds bears the inscription "JIM HAMMOND, THE FIRST OF THE MARVELS: He showed us that heroes can be made".{{r|Avengers: The Initiative #2}} When the camp was shut down by [[Norman Osborn (Earth-616)|Norman Osborn]], an angry mob tore down the statue.{{r|Avengers: The Initiative #23}}
+* The Torch used to leave burning footprints which were known to have lasted for several hours.{{r|Marvel Mystery Comics #2}}
+*The Torch originally had red hair, but only in his first appearance.{{r|Marvel Comics #1}}
+| CustomSection1          = Recommended Reading
+| CustomText1             = 
+* {{cl|Marvel Comics #1}} - 1st appearance
+* {{cl|Human Torch #3}} - meets Toro
+* {{cl|Fantastic Four Annual #4}} - 1st Modern appearance
+* {{cl|Invaders #1}} - as a member of the Invaders
+* {{cl|Marvels #0}} - Golden Age history recapped
+* {{cl|Saga of the Original Human Torch #1}} - Golden Age history recapped
+* {{cl|Avengers: West Coast Vol 1 50}} - joins the West Coast Avengers
+* {{cl|New Invaders #9}} - Dies
+
+| Wikipedia               = Human Torch (android)
+| Links                   = 
+* [[:Category:Horton Family]]
+* [http://www.toonopedia.com/torch1.htm Human Torch article at Toonopedia]
+* [http://www.marveldirectory.com/individuals/h/humantorchi.htm Human Torch profile at the Marvel Directory]
+* [http://www.marvel.com/universe/Human_Torch_%28Jim_Hammond%29 Human Torch profile at the Marvel Universe]
+* [http://www.internationalhero.co.uk/h/humtorch.htm Human Torch profile at International Hero]
+* [http://www.comicbookdb.com/character.php?ID=1597 Human Torch index at Comicbookdb.com]
+}}
+[[Category:WWII Characters]]
+[[Category:Plasma Generation]]
+[[Category:Pyrokinesis]]
+[[Category:Flight]]
+[[Category:Formerly Deceased]]
+[[Category:Horton Family]]
+[[Category:Doctor Nemesis Experiment]]
+[[Category:Phineas Horton Experiment]]
+[[Category:Horton Cells]]
+[[Category:Artificial Intelligences]]
+[[Category:Camp Hammond Staff]]
+[[Category:Businesspeople]]
+[[Category:Medal of Honor]]
+[[Category:Multilingual]]
+[[Category:Raymond Family]]
+[[Category:Flaming Body]]
+[[Category:Elementals]]

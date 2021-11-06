@@ -1,0 +1,52 @@
+{{Marvel Database:Character Template
+| Image                   = Bakuto (The Hand) (Earth-616) from Daredevil Vol 1 505 0001.jpg
+| Name                    = 
+| CurrentAlias            = Bakuto
+| Aliases                 = 
+
+| Affiliation             = {{M|Hand (Earth-616)|The Hand}}, {{M|Yakuza (Earth-616)|Yakuza}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = 
+| Citizenship             = Japanese
+| Occupation              = Hand Daimyo<ref>"Leader"</ref> of South America, crimelord, mobster
+| Education               = 
+| BaseOfOperations        = [[South America]]
+
+| Creators                = Andy Diggle; Antony Johnston; Marco Checchetto
+| First                   = Daredevil #505
+| Death                   = Daredevil #507
+
+| History                 = Bakuto was [[Hand (Earth-616)|The Hand]]'s Daimyo of [[South America]].{{r|Daredevil #505}} When [[Matthew Murdock (Earth-616)|Daredevil]] became leader of The Hand, Bakuto was one of the leaders at a Hand summit Daredevil held. Bakuto had a falling out with [[Angela del Toro (Earth-616)|White Tiger]], who ultimately killed him and was appointed one of the five Daimyos of [[North America]].{{r|Daredevil #505|507}} 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = * In Japanese, Bakuto means "gambler."
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Leaders]]
+[[Category:Martial Arts]]

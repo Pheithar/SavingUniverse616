@@ -1,0 +1,126 @@
+{{Marvel Database:Character Template
+| Title                   = [[Korvac]]
+| Image                   = Michael Korvac (Earth-691), Anthony Stark (Earth-616) and Patricia Walker (Earth-616) from Iron Man Vol 6 7 001.jpg
+| Name                    = [[Michael Korvac]]
+| NameRef                 = {{r|Avengers Vol 1 168}}
+| CurrentAlias            = 
+| Impersonations          = [[Kang the Conqueror]],{{r|Captain America Vol 3 1}} [[Watcher]]{{r|Captain America Vol 3 15}}
+| Aliases                 = Adam IV,{{r|Marvel Comics Vol 1 1000}} The Enemy,{{r|Avengers Vol 1 168}} Fuller Tielhard{{r|Iron Man Vol 6 1}}
+
+| Affiliation             = Formerly {{m|Legion of the Unliving (Grandmaster) (Earth-616)|Legion of the Unliving}}, employer of the {{m|Minions of Menace (Earth-691)|Intimidators / Minions of Menace}}, collaborator of the [[Brotherhood of Badoon (Earth-691)|Brotherhood of Badoon]]
+| Ancestors               = [[Jaboa Murphy (Earth-691)|Jaboa Murphy]] (ancestor, presumably deceased);<br>
+Varley (ancestor, presumably deceased);<br>
+Marshack (ancestor, presumably deceased)
+| Parents                 = [[Jordan Korvac (Earth-691)|Jordan Korvac]] (father, deceased);<br>
+[[Myra Korvac (Earth-691)|Myra Korvac]] (mother, deceased)
+| Spouses                 = [[Carina Tivan (Earth-616)|Carina Tivan]] (wife, separated)
+| Relatives               = [[Taneleer Tivan (Earth-616)|Taneleer Tivan]] (father-in-law);<br>
+[[Matani Tivan (Earth-616)|Matani Tivan]] (mother-in-law, deceased)
+| MaritalStatus           = Separated
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 12'
+| Height2                 = (Variable)
+| Weight                  = Variable
+| Eyes                    = Blue
+| Eyes2                   = White
+| Hair                    = Blond
+| Hair2                   = (Variable)
+| UnusualFeatures         = Korvac often possesses no lower torso, having it instead replaced by a sophisticated flying computer
+
+| Origin                  = [[Homo sapiens|Human]] [[Cyborgs|cyborg]] turned [[Deity|deity]]
+| Reality                 = Earth-691
+| PlaceOfBirth            = [[Blue Area of the Moon]], [[Earth-691]]
+
+| Identity                = No Dual 
+| Citizenship             = 
+| Occupation              = Would-be deity; formerly slave
+| Education               = 
+| BaseOfOperations        = [[Tielhard Lightning Site I]], [[Canaan (Oklahoma)|Canaan]], [[Oklahoma (State)|Oklahoma]], [[Earth-616]]; formerly [[Forest Hills]], [[Queens]], [[New York City]], [[New York State|New York]], Earth-616; [[Earth-691]]
+
+| Creators                = Steve Gerber; Len Wein; Jim Starlin
+| First                   = Giant-Size Defenders Vol 1 3
+
+| Quotation               = It's my '''nearly unlimited intellect''' that tells me [[Earth-616|this universe]] is a '''landfill''' that is conflict-laden and war-torn by the '''greedy.''' It tells me that this is a reality that, while filled with those proclaiming to be gods, is ultimately '''godless''' and '''lost.''' And '''ultimately''' it tells me that I am but '''mere steps away''' from becoming the god that it needs.
+| Speaker                 = [[Michael Korvac (Earth-691)|Korvac]]
+| QuoteSource             = Iron Man Vol 6 2
+
+| History                 = 
+===Origins===
+Michael Korvac was a computer technician born on the [[Blue Area of the Moon]] of [[Earth-691]] in the year 2977 to [[Jordan Korvac (Earth-691)|Jordan]] and [[Myra Korvac (Earth-691)|Myra Korvac]]. Due to events surrounding his birth, Korvac's father was killed and he was raised by his mother to have a hateful and vengeful attitude.{{r|Guardians of the Galaxy Annual Vol 1 1}} When the [[Sol|Solar System]] and its colonies became the target of conquest by the alien [[Brotherhood of Badoon (Earth-691)|Brotherhood of Badoon]], Michael became a collaborator and traitor to the [[Homo sapiens|human race]] since he felt his former superiors had always refused to recognize the scope of his abilities.{{r|Thor Annual Vol 1 6}} Although his cowardice and treachery was mocked by the Badoon, Korvac had obtained a modest position within the Badoon empire by the year 2997,{{r|Iron Man Vol 6 9}} being in charge of overseeing the analytical computer system governing the Badoon.{{r|Official Handbook of the Marvel Universe Vol 1 13}} Korvac would also infiltrate resistance cells to lead to their capture and execution. After one instance of such betrayal, Korvac broke down in shame, causing him to step away from his computer modules. One of Korvac's superiors caught Korvac away from his station and, as punishment, the Badoon amputated Korvac's lower body and grafted his torso to a special, hovering computerized module, effectively making him a [[Glossary:Cyborg|cyborg]].{{r|Iron Man Vol 6 9}} Korvac would later claim that he was turned into a cyborg by the Badoon as punishment for collapsing of exhaustion due to the Badoon being harsh taskmasters.{{r|Thor Annual Vol 1 6}}
+
+[[File:Michael Korvac (Earth-691) from Iron Man Vol 6 9 004.jpg|thumb|left|Korvac's cyborg form]]
+
+Awakening to discover the cruelty enacted upon him, Korvac used his new-found cybernetic abilities to kill those who had performed the operation. Realizing the vast potential of his new form, Korvac set out to plot the takeover of the entire Badoon empire.{{r|Official Handbook of the Marvel Universe Vol 1 13}} Before he could carry out his plan, Korvac was then briefly transported through time by the game-playing [[Grandmaster (Earth-616)|Grandmaster]] of [[Earth-616]], who used him as a pawn in battling the hero [[Stephen Strange (Earth-616)|Doctor Strange]] and the [[Defenders (Earth-616)|Defenders]].{{r|Giant-Size Defenders Vol 1 3}} Korvac deliberately lost the fight, so as to be able to discretely scan and analyze the Grandmaster's cosmic power. With his cybernetic console's ability to tap and synthesize virtually any type of energy, Korvac siphoned a portion of the Grandmaster's power. Being returned to his own era, Korvac used his expanded abilities to teleport himself to a desolate planet and build a stronghold. Having gained the ability to teleport through time like the Grandmaster, Korvac recruited a group of aliens called the [[Minions of Menace (Earth-691)|Minions of Menace]] and attempted to cause [[Earth]]'s [[Sun (Star)|sun]] to go nova. He was defeated by the [[Guardians of the Galaxy (Earth-691)|Guardians of the Galaxy]] and the time-traveling God of Thunder [[Thor Odinson (Earth-616)|Thor]], but Korvac teleported away.{{r|Thor Annual Vol 1 6}} 
+
+===[[Korvac Saga]]===
+Fleeing across time and space to the past, Korvac arrived on [[Earth-616]]. Korvac's journey brought him to the space station of the cosmic entity [[Galan (Earth-616)|Galactus]], ''[[Worldship (Taa II)|Taa II]]''. Attempting to download the knowledge of Galactus from the station into his own system, Korvac was imbued with the [[Power Cosmic]] and became a god-like being, which allowed him to restore his body. Korvac's ascension caused him to seek a higher purpose, foregoing his previous power-hungry vengeful ways. He set out to take control of the fabric of reality in order to correct the chaos and injustice brought into the universe by civilization. To this end, Korvac concealed his presence from other near omnipotent beings and traveled to Earth, posing as a normal human and living a normal life, waiting for the day he would enact his plan.{{r|Avengers Vol 1 175}}
+
+Meanwhile, the Guardians of the Galaxy followed Korvac to the past and joined forces with the [[Avengers (Earth-616)|Avengers]] in a bid to stop him. The Guardian [[Stakar Ogord (Earth-691)|Starhawk]] was later able to find Korvac, but chose to battle him in secret. Korvac then disintegrated and recreated Starhawk, removing from the hero the ability to perceive his presence in any way so as to avoid future detection.{{r|Avengers Vol 1 168}} Foreseeing the coming of two beings that would be capable of challenging the [[Elders of the Universe (Earth-616)|Elders of the Universe]] (Korvac and [[Thanos (Earth-616)|Thanos]]), the [[Taneleer Tivan (Earth-616)|Collector]] remade his own daughter [[Carina Tivan (Earth-616)|Carina]] into a being of incredible power to use as a weapon against them. However, Carina and Korvac ended up falling in love. After discovering the Collector's plot, Korvac disintegrated him.{{r|Avengers Vol 1 168|175}}
+
+[[Anthony Stark (Earth-616)|Iron Man]] eventually tracked Korvac to a residential neighborhood in [[Forest Hills Gardens]], in [[Queens]], [[New York City|New York]]. The entire Avengers roster, with the heroine [[Carol Danvers (Earth-616)|Ms. Marvel]] and the Guardians of the Galaxy, confronted Korvac and Carina, who posed as a middle class couple. Korvac's cloaking from Starhawk backfired when the Guardian's inability to perceive Korvac caused him to become agitated that the Avengers were seemingly talking to nobody. This tipped off the heroes that there was more to Michael than he let on, which prompted him to reveal himself. Realizing that he had been discovered, and that [[Abstract Entities|cosmic entities]], such as [[Odin Borson (Earth-616)|Odin]] and the [[Uatu (Earth-616)|Watcher]], were now aware of his existence, Korvac was forced into battle.<!-- {{r|Avengers Vol 1 176|177}} -->
+
+Korvac slew wave after wave of heroes, and was finally caught off guard and weakened by [[Steven Rogers (Earth-616)|Captain America]] and then [[Simon Williams (Earth-616)|Wonder Man]]. Although able to kill the heroes, Korvac was weakened further by the combined efforts of Starhawk, Iron Man, the [[Vision (Earth-616)|Vision]] and Thor. Sensing that Carina now doubted him, Korvac committed suicide through an act of will. An angered Carina then attacked the surviving heroes, and was finally slain by Thor. The entire battle was watched by part-time Avenger [[Heather Douglas (Earth-616)|Moondragon]], who realized that Korvac only wanted to help mankind, his dying act being to restore the Avengers and the Guardians to life.{{r|Avengers Vol 1 176|177}}
+
+===[[Korvac Quest]]===
+It was later revealed that Korvac had discarded his power when near death after sensing that Galactus had activated the [[Ultimate Nullifier (Weapon)|Ultimate Nullifier]] in retaliation for his previous intrusion. Korvac's power was passed on to members of his bloodline from three different timelines but it left each of them after the time-travelling Guardians arrived to oppose them.{{r|Fantastic Four Annual Vol 1 24}}{{r|Thor Annual Vol 1 16}}{{r|Silver Surfer Annual Vol 1 4}} The power eventually inhabited his father, Jordan, who used it to battle the Guardians in defense of his son who was about to be born. However, mere minutes after his birth, the infant Michael sucked all of the power into himself, killing his father in the process. The Guardians were helpless against their reborn enemy until the [[Stephen Strange (Earth-691)|Ancient One]] and his student, [[Krugarr (Earth-691)|Krugarr]], intervened, captured Korvac and transported them all back in time to the worldship of Galactus who reclaimed the power that had been stolen from him. The Guardians then returned the now-powerless baby to his mother who, blaming them for her husband's death, refused to let them explain what had actually happened, and promised her baby that she would never let him forget that the Guardians of the Galaxy had murdered his father.{{r|Guardians of the Galaxy Annual Vol 1 1}}
+
+===Posterior Returns===
+Later, Korvac was briefly resurrected in human form by the Grandmaster to battle the [[Norrin Radd (Earth-616)|Silver Surfer]].{{r|Avengers Annual Vol 1 16}} Impersonating [[Nathaniel Richards (Kang) (Earth-6311)|Kang the Conqueror]] and the [[Uatu (Earth-616)|Watcher]],{{r|Captain America Vol 3 1}}{{r|Captain America Vol 3 14|17}} a returned Korvac attempted to resurrect the [[Johann Shmidt (Earth-616)|Red Skull]] and obtain the power of the [[Cosmic Cube]] for himself, but he was ultimately defeated by Captain America and the Red Skull himself.{{r|Captain America Vol 3 18|19}}
+
+[[File:Michael Korvac (Earth-691) from Avengers Academy Vol 1 12 001.jpg|thumb|right]]
+When Carina was given a physical body by [[Madeline Berry (Earth-616)|Veil]], Korvac confronted the [[Avengers Academy (Earth-616)|Avengers Academy staff]] to claim her once more. Hank Pym offered to return Carina to Korvac, but she refused to go with him, choosing nonexistence over him (even though she was apparently immortal, like her father). A battle commenced, pitting Korvac against all current Avengers teams. He was weakened by them, and then attacked by adult versions of the Academy's students. After a brutal battle, Veil phased into Korvac's body, which temporarily paralyzed him, and [[Jennifer Takeda (Earth-616)|Hazmat]] completely annihilated Korvac with a projected blast of anti-matter.{{r|Avengers Academy Vol 1 11|12}}
+
+[[File:Michael Korvac (Earth-691) from Guardians 3000 Vol 1 7.jpg|thumb|left]]
+===[[Time Runs Out]]===
+Seeking to establish multi-universal order once again, Korvac revised his plan and rewound his life to regain his cybernetic form, as he could begin again without replicating his previous mistakes in it. He then relocated to the suburban house in [[Forest Hills]] where he had taken his own life, and started to dismantle time, intending to recreate the [[Multiverse]] under his governance. To accomplish that, however, he needed to use [[Geena Drake (Earth-691)|Geena Drake]], a young girl from his home reality who was unique on the entire Multiverse, as the stable reference point around which he would remake everything. Therefore, he caused a temporal instability that trapped the Guardians of the Galaxy in a time loop and manipulated them into delivering the girl to him in the past.<!-- {{r|Guardians 3000 Vol 1 8}} -->
+
+When the Guardians finally arrived, Korvac told Geena his plan and how she factored in it. [[Yondu Udonta (Earth-691)|Yondu]] took advantage of his distraction and shot an arrow in his head, but the disturbances in time didn't end with this fatal blow. A dying Korvac regained consciousness and revealed these new time quakes to be the result of an [[Glossary:Incursion|incursion]] occurring in that reality, [[Secret Wars (2015 Event)|the last incursion]]. With time running out, Geena gave Korvac permission to use her to try to save the universe before it was too late, but he failed and everything died.{{r|Guardians 3000 Vol 1 8}}
+
+===Books of Korvac===
+Some time following the restoration of the Multiverse, the scientific cabal known as the [[Enclave (Earth-616)|Enclave]] got hold of Korvac. Rechristening Korvac as "Adam-IV,"{{r|Marvel Comics Vol 1 1000}} the Enclave's leader [[Carlo Zota (Earth-616)|Carlo Zota]] refurbished Korvac's body, granting him new legs. Zota intended to use Korvac's nearly unlimited intellect to help their cause to create a better [[Earth]]. However, Korvac quickly broke bad and renounced the Enclave under the belief that they were being arrogant for focusing solely on changing the Earth and not seeking a better universe.{{r|Iron Man Vol 6 2}} Korvac's ultimate goal became that of merging the entirety of life into a single hive mind called the Aggregate.{{r|Iron Man Vol 6 7}}
+
+Under the identity of scientist "Fuller Tielhard," Korvac began working on a plan to use lightning harvesting to return to demigodhood and then achieve godhood. He reached out to Tony Stark to seek his funding, while also enlisting some of his enemies, namely [[Milos Masaryk (Earth-616)|Unicorn]], [[Donald Gill (Earth-616)|Blizzard]] and the [[Basil Sandhurst (Earth-616)|Controller]], in order to prepare himself to eventually kill Stark to prevent his interference. Using Stark's money, Korvac installed fifty-eight lightning farms across the globe that he used to empower himself. Deciding to dispose of Stark, Korvac lured him and his partner [[Patricia Walker (Earth-616)|Hellcat]] to one of the lightning farms. After a fight against Korvac's disciples, the heroes were electrocuted by Korvac and left for dead.{{r|Iron Man Vol 6 3}} Once he found out that Iron Man and Hellcat survived, Korvac captured Stark's best friend [[James Rhodes (Earth-616)|Jim Rhodes]] as a gag order to prevent interference. After locating ''Taa II'', Korvac underwent a procedure with which he absorbed the entirety of New York's electricity grid to further empower himself.{{r|Iron Man Vol 6 4}} After almost managing to kill both Iron Man and a ragtag team of heroes he had assembled to fight him,{{r|Iron Man Vol 6 5}} Korvac and his acolytes left on a spaceship to ''Taa II'',{{r|Iron Man Vol 6 6}} but they were followed by the Armored Avenger and his allies.{{r|Iron Man Vol 6 7}}
+
+| Powers                  = Michael Korvac was originally half-man, half-sophisticated computer. Even before any form of energy absorption, Korvac was able to nearly overwhelm the [[Sorcerer Supreme]] [[Stephen Strange (Earth-616)|Doctor Strange]] in direct combat by analyzing the various mystical energies he commanded before he released them and producing a perfect defense based on his computer's analysis.{{Citation}}
+
+After downloading information from Galactus' ship and absorbing his energy, along with acquiring the [[Power Cosmic]], Korvac was capable of many feats on par with other cosmic entities, such as matter alteration, energy projection, teleportation and manipulation of time and space. In his perfect human form, Korvac retained all his cosmic abilities and could use these to achieve virtually any effect, even having the potential to wipe the universe from existence.{{Citation}}
+| Abilities               = Michael Korvac was a brilliant computer scientist, a master combat strategist, and a formidable hand-to-hand combatant.{{Citation}}
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * Korvac was born in the year 2977,{{r|Giant-Size Defenders Vol 1 3}} and was turned into a cyborg in 2997,{{r|Iron Man Vol 6 9}} meaning he was 19—20 years at the time.
+* Initial tellings of Korvac's backstory stated that he had become a collaborator to the [[Badoon]] when they invaded Earth in the year 3007.{{r|Official Handbook of the Marvel Universe Vol 1 13}} {{cl|Iron Man Vol 6 9}} established that Korvac had become an ally to the Badoon before they had enacted their invasion of Earth.
+| Trivia                  = 
+| Wikipedia               = Korvac
+| Links                   = 
+}}
+[[pt-br:Michael Korvac (Terra-691)]]
+[[Category:Chronokinesis]]
+[[Category:Engineers]]
+[[Category:Scientists]]
+[[Category:Suicide]]
+[[Category:Korvac Saga participants]]
+[[Category:Korvac Saga casualties]]
+[[Category:Factions In The Game Of Worlds]]
+[[Category:Interdimensional Travelers]]
+[[Category:Time Travelers]]
+[[Category:Power Cosmic]]
+[[Category:Teleporters]]
+[[Category:Matter Manipulation]]
+[[Category:Energy Manipulation]]
+[[Category:Energy Absorption]]
+[[Category:Energy Form]]
+[[Category:Cosmic Beings]]
+[[Category:Strategists]]
+[[Category:Tivan Family]]
+[[Category:Gods of the Modern Age]]
+[[Category:Apotheosized Mortals]]
+[[Category:Slaves]]
+[[Category:Legless]]
+[[Category:Badoon Technology]]

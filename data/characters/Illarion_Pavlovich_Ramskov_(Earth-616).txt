@@ -1,0 +1,64 @@
+{{Marvel Database:Character Template
+| Image                   = Illarion Pavlovich Ramskov (Earth-616) from Darkstar and the Winter Guard Vol 1 1 001.jpg
+| Name                    = Illarion Pavlovich Ramskov 
+| CurrentAlias            = Powersurge
+| Aliases                 = Surge
+
+| Affiliation             = {{m|Protectorate (Earth-616)|Protectorate}}; formerly {{m|Winter Guard (Earth-616)|Winter Guard}}, {{M|Russian Armed Forces (Earth-616)}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] [[Glossary:Mutate|mutated]] by radiation
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = Russian, Soviet
+| Occupation              = Adventurer; Former government agent
+| Education               = 
+| BaseOfOperations        = Mobile; formerly [[Limbo (Temporal)]]
+
+| Creators                = Paul Ryan; Tom Palmer
+| First                   = Avengers #326
+| Death                   = Darkstar and the Winter Guard #3
+
+| History                 = Illarion Pavlovich Ramskov ('''Russian:''' Илларион Павлович Рамсков) is a Russian soldier who was mutated by exposure to the faulty controls at [[Chernobyl]] nuclear facility. While being treated in [[New York City|New York]], he was labeled '''Powersurge''' after escaping and causing danger to civilians with this nuclear radiation. He was encased in a containment suit to maintain his energy levels.{{Citation}}
+
+Ramskov later joined the [[Winter Guard (Earth-616)|Winter Guard]] as '''Powersurge'''. But left after the death of [[Laynia Petrovna (Earth-616)|Darkstar]] and joined the [[Protectorate (Earth-616)|Protectorate]].{{Citation}}
+
+The Protectorate eventually entered a temporal anomaly and found themselves trapped in [[Limbo (Temporal)|Limbo]] where they fought [[Dire Wraiths]] under the service of [[Nathaniel Richards (Immortus) (Earth-6311)|Immortus]]. Here they discovered that [[Fantasia (Earth-616)|Fantasia]] was actually one, but before they could capture her, she escaped back to Earth. The Protectorate followed her back but she had already created an army with the help of [[Sergei Krylov (Earth-616)|The Presence]]. They stormed her base and fought their way to Fantasia. Powersurge used a device capable of destroying the Dire Wraiths to defeat them. [[Galina Nemirovsky (Earth-616)|Crimson Dynamo]] then amplified the devices energy and opened a portal back to Limbo and threw Fantasia back inside it at the cost of the device being destroyed. With Fantasia defeated, The Presence attacked them with radiation, but Powersurge, being immune to it lunged at him. When Powersurge's containment suit tore open, he reacted to the Presence's energy, and this resulted in an explosion which destroyed the Winter Guard's base.{{r|Darkstar and the Winter Guard Vol 1 1|3}}
+
+| Powers                  = 
+* '''Superhuman Strength'''
+* '''Radiation Absorption & Manipulation:'''
+** '''Energy Blasts:'''
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = Containment suit
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+
+}}
+[[Category:Superhuman Strength]]
+[[Category:Radioactive]]
+[[Category:Disintegration]]
+[[Category:Concussive Blasts]]
+[[Category:Photokinesis]]

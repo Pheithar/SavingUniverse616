@@ -1,0 +1,48 @@
+{{Marvel Database:Character Template
+| Image                   = Infomorph (Earth-616) Daredevil Vol 1 326.jpg
+| Name                    = 
+| CurrentAlias            = Infomorph
+| Aliases                 = 
+
+| Affiliation             = {{M|System Crash}}, {{M|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Terrorist
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = D.G. Chichester
+| First                   = Daredevil Vol 1 326
+
+| History                 = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * http://www.marvunapp.com/Appendix3/systemcrashdd.htm#Infomorph
+}}

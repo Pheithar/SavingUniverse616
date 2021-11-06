@@ -1,0 +1,60 @@
+{{Marvel Database:Race Template
+| Image                   = Rigellian Recorder 001.jpg
+| ImageSize               = 300px
+| Name                    = Rigellian Recorders
+| Aliases                 = Recorders
+| Identity                = Public
+| Affiliation             = [[Rigellians]]
+| Universe                = 
+| BaseOfOperations        = 
+
+| BodyType                = Humanoid
+| AvgHeight               = 
+| AvgWeight               = 
+| Eyes                    = 
+| Hair                    = None
+| Skin                    = 
+| NumberOfLimbs           = 4
+| NumberOfFingers         = 5
+| NumberOfToes            = None
+| SpecialAdaptations      = 
+| UnusualFeatures         = 
+
+| Origin                  = Robot
+| GalaxyOfOrigin          = 
+| StarSystemOfOrigin      = 
+| HomePlanet              = Rigel
+| PlaceOfBirth            = 
+| Creators                = Jack Kirby; Stan Lee
+| First                   = Thor Vol 1 132
+
+| HistoryText             = The '''Rigellian Recorders''' are a race of sentient robots created by the [[Rigellians]] with the purpose of exploring new territory and reporting back to the Rigellians. Recorders are also used by various cosmic entities such as [[Recorder 211 (Earth-616)|Recorder 211]], who lived at [[Uatu (Earth-616)|Uatu the Watcher]]'s home in the [[Blue Area of the Moon]].{{r|X-Men Vol 1 136}} He recorded the events of the death of the X-Man, [[Jean Grey (Earth-616)|Jean Grey]], whilst she was possessed by the [[Phoenix Force (Earth-616)|Phoenix Force]].{{r|X-Men Vol 1 137}}
+
+[[Arthur Zix (Earth-616)|Recorder RT-Z9]] worked for the [[Living Tribunal (Multiverse)|Living Tribunal]]'s [[Magistrati (Multiverse)|Magistrati]], including [[Jennifer Walters (Earth-616)|She-Hulk]].{{r|She-Hulk Vol 1 7}}
+
+Recorder 211 later accompanied the [[Asgardian]] hero [[Thor Odinson (Earth-616)|Thor]] on a mission to the [[Black Galaxy]] to find [[Egros (Earth-616)|Ego the Living Planet]]. The Recorder performed well gathering an unprecedented amount of rare data, including witnessing Thor's struggle against [[Mangog (Earth-616)|Mangog]], that the [[Rigellian Grand Commissioner (Earth-616)|Rigellian Grand Commissioner]] permitted it to retain its memories of the events rather then having them erased; it was arguing with the Asgardian that transcended his programming making him a sentient being.{{r|Thor Vol 1 132}}
+
+Recorder 211 was later captured by the [[Herbert Wyndham (Earth-616)|High Evolutionary]] and reprogrammed and reconstructed as the Analyzer.{{r|Thor Vol 1 422}} 
+
+Recorders also have a certain amount of legal authority among the Rigellians. When renegade commander [[Arcturus (Rigellian) (Earth-616)|Arcturus]] split his ships away from the main fleet, a Recorder tracked him and his followers to [[Luna (Moon)|Earth's Moon]], exposed the commander's crimes and had him arrested for several violations of Rigellian law.{{r|Iron Man Vol 1 112}}
+
+| Habitat                 = 
+| Gravity                 = 
+| Atmosphere              = 
+| Population              = 
+
+| Powers                  = 
+| Abilities               = 
+| AvgStrength             = 
+| Weaknesses              = 
+
+| GovernmentType          = 
+| TechnologyLevel         = 
+| CulturalTraits          = 
+| Representatives         = [[Recorder 451 (Earth-616)|Recorder 451]], [[Recorder RE-404 (Earth-616)|Recorder RE-404]]. ''More complete list: [[:Category:Rigellian Recorders]]''
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Rigellian Technology]]

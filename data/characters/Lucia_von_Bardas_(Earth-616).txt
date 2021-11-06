@@ -1,0 +1,70 @@
+{{Marvel Database:Character Template
+| Image                   = Lucia von Bardas (Earth-616) from Invincible Iron Man Vol 4 6 001.jpg
+| Name                    = Lucia von Bardas 
+| CurrentAlias            = 
+| Aliases                 = [[Doctor Doom]], [[Tinkerer]], [[Diamondback]]
+
+| Affiliation             = Formerly [[Victor von Doom (Earth-616)|Doctor Doom]]
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 5'9
+| Weight                  = Unknown
+| Eyes                    = Green
+| Hair                    = Black
+| UnusualFeatures         = Cybernetic implants
+
+| Origin                  = [[Homo sapiens|Human]] [[Cyborgs|Cyborg]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Latveria]]
+
+| Identity                = No Dual
+| Citizenship             = Latverian
+| Occupation              = Prime Minister of Latveria
+| Education               = University of North Carolina
+| BaseOfOperations        = [[Doomstadt]], [[Latveria]]
+
+| Creators                = Brian Michael Bendis; Gabriele Dell'Otto
+| First                   = Secret War Vol 1 1
+
+| Quotation               = Congratulations on your perseverance and American spirit. Most of you were supposed to be dead by now. But so was I. So I guess we're even.
+| Speaker                 = [[Lucia von Bardas (Earth-616)|Lucia von Bardas]]
+| QuoteSource             = Secret War Vol 1 4
+
+| Overview            = '''Lucia von Bardas''' was a Latverian politician who served as the [[Wikipedia:Prime Minister|Prime Minister]]   for [[Victor von Doom (Earth-616)|Dr. Victor von Doom]], the Monarch and Supreme Leader for the [[Latveria|Kingdom of Latveria]]. She dealt with the day to day political maters and dealings within the European nation.{{r|Secret War Vol 1 4}}
+
+| History                 = 
+===Early Life===
+Lucia was born and raised in [[Latveria]]. But travelled to the [[United States]] teach at the [[University of North Carolina]]. After [[Victor von Doom (Earth-616)|Doctor Doom]] was deposed as the leader of Latveria, the Americans helped von Bardas get elected as the Prime Minister of Latveria. She then began publicly mending the ties between the two countries.
+
+In truth, however, von Bardas was secretly funding American technology-based super-criminals through the [[Phineas Mason (Earth-616)|Tinkerer]]. [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] found out about this, but the President didn't take measures that [[Nicholas Fury (Earth-616)|Nick Fury]], Director of S.H.I.E.L.D. had suggested, believing that they could handle the situation diplomatically.{{r|Secret War Vol 1 1}} In a panic, Fury gathered a group of heroes for an undercover mission to overthrow the Latverian government and assassinate von Bardas.{{r|Secret War Vol 1 2}} When Fury reached von Bardas, he gave the signal for S.H.I.E.L.D. Agent [[Daisy Johnson (Earth-616)|Daisy Johnson]] used her seismic powers to take down Castle Doom, apparently killing the Latverian leader.{{r|Secret War Vol 1 5}}
+
+Nevertheless, von Bardas survived, though she was made into a deformed cyborg. A year later she attacked [[Luke Cage (Earth-616)|Luke Cage]], one of the people involved in Nick Fury’s [[Secret War]], putting him into a coma and then sent a large number of tech-based villains who were indebted to her after the other heroes implicated in this "secret war."{{r|The Pulse Vol 1 6}}{{r|Secret War Vol 1 4}} Von Bardas eventually entered the fight herself and activated the villains' tech material, which created an anti-matter bomb that combined together. The explosion was supposed to be powerful enough to wipe New York off the face of the Earth. While Von Bardas continued to mock Fury, however, she was again taken down by Daisy Johnson, who ruptured Lucia's power source with her seismic powers. This caused a power surge in the bomb and shut down von Bardas herself.{{r|Secret War Vol 1 5}} Bardas survived and was placed in S.H.I.E.L.D. custody, though in the aftermath of the [[Secret Invasion|Skrull Invasion]], she fell between the cracks.
+
+Eventually, von Bardas resurfaced, working with the [[Ivan Kragoff (Earth-616)|Red Ghost]] in a plot to destabilize America and Latveria, utilizing old KGB-trained sleeper agents Ghost had worked on, and a [[Doombot]] acquired from the international black market to cause a distraction at the [[United Nations (Earth-616)|United Nations]], while Lucia used information stolen from the Doombot to access a secret nuclear stockpile belonging to Doom. This plot was foiled due to the actions of [[James Buchanan Barnes (Earth-616)|Bucky Barnes]] and [[Natalia Romanova (Earth-616)|Black Widow]], and Lucia was confronted by an irate Doom, who was able to turn Lucia's cyborg technology against her, badly injuring the woman. She was then taken into S.H.I.E.L.D. custody and agreed to share what information she knew after her lengthy recovery.{{r|Winter Soldier Vol 1 1|5}}
+
+Time later, von Bardas, once again a free woman, had her return to Latveria facilitated by international arms and drugs dealer [[Geraldo Lucky (Earth-616)|Geraldo Lucky]]. With Latveria in a state of disarray following Doom's abdication of the throne, Lucia had its infrastructure improved to garner support from the Latverian army and its leader, [[General Karadick (Earth-616)|General Karadick]].{{r|Invincible Iron Man Vol 4 6}} As part of her plan to consolidate Latveria as a global power, Lucia orchestrated an attack at a gala being held in the [[Smithsonian Institution|Smithsonian]], which almost cost the life of S.H.I.E.L.D. commander [[Sharon Carter (Earth-616)|Sharon Carter]].{{r|Invincible Iron Man Vol 4 7}}
+
+Carter retaliated, sending the rookie superhero [[Riri Williams (Earth-616)|Ironheart]] after von Bardas, due to lack of proof preventing official S.H.I.E.L.D. intervention.{{r|Invincible Iron Man Vol 4 8}} In a turn of events, Ironheart managed to defeat von Bardas in combat.{{r|Invincible Iron Man Vol 4 9}} Ironheart's [[Anthony Stark (Third A.I.) (Earth-616)|asssistant A.I.]] hacked into von Bardas' tech to turn her force-field generators on her, keeping her trapped in an energy field until S.H.I.E.L.D. arrived and took her away.{{r|Invincible Iron Man Vol 4 10}}
+
+As a consequence of the dissolution of S.H.I.E.L.D., von Bardas regained her liberty and returned to Latveria. With the support of a considerable potion of the Latverian Army, she bought a stolen decomissioned [[S.H.I.E.L.D. Helicarrier]] from the [[Sinister Six (Earth-616)|Sinister Six]].{{r|Spider-Man Vol 2 239}}
+
+| Abilities               = 
+| Powers                  = '''Flight''': Due to her cyborg implants, von Bardas has the ability to fly. 
+
+'''Energy Shield''': Based on Doomtech, von Bardas is protected by an energy shield, capable of deflecting energy or physical attacks.
+
+| Strength                = 
+| Weaknesses              = '''Doomtech:''' Since von Bardas' cyborg parts are based on Doomtech, Doctor Doom is easily able to access it and turn it against her.
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * A character named [[Octavio von Bardas (Earth-616)|Octavio von Bardas]] appeared later on leading the group known as [[Doom's Children (Earth-616)|Doom's Children]]. It is unknown if Lucia has any relation to Octavio.
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = Lucia von Bardas
+| Links                   = 
+}}

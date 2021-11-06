@@ -1,0 +1,63 @@
+{{Marvel Database:Character Template
+| Image                   = Richard Rennsalaer (Earth-616) from Captain America Annual Vol 1 8.png
+| Name                    = Richard Rennsalaer
+| CurrentAlias            = Overrider
+| Aliases                 = Richard Rennselaer{{r|Official Handbook of the Marvel Universe Vol 2 11}}
+
+| Affiliation             = {{M|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}, {{M|Assault and Battery (Earth-616)|Assault and Battery}} - {{M|Roxxon Energy Corporation (Earth-616)|Roxxon}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Depowered Mutants|Depowered]] [[Homo superior|Mutant]]{{r|New Avengers #18}}
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Public 
+| Citizenship             = American 
+| Occupation              = Former S.H.I.E.L.D. agent, terrorist
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Mark Gruenwald; Mike Zeck
+| First                   = Captain America Annual #8
+
+| History                 = [[File:Richard Rennselaer (Earth-616) from Official Handbook of the Marvel Universe Vol 2 11 0001.jpg|thumb|left|Richard Rennsalaer]]
+Richard Rennselaer is a former [[S.H.I.E.L.D.]] agent whose son developed nuclear psychosis, a total withdrawal from reality due to a fear that the world would end at any moment due to nuclear destruction.
+
+Desperate to help his son, Rennselaer, secretly a mutant with the power to control machinery, took on the code name of Overrider and stole the experimental [[TESS-One]] robot - part of a 1939 project dubbed Total Elimination of Super-Soldiers which was intended to be a fail-safe against the Super Soldier program.
+
+Overrider had the TESS-One robot coated with adamantium at the Adametco Metallurgy company, and it was there he first encountered the heroes [[Steven Rogers (Earth-616)|Captain America]] and [[James Howlett (Earth-616)|Wolverine]], each of whom had been following different leads. Overrider escaped with TESS-One, and later mounted an assault on a nuclear command facility in the hope of launching America's entire stockpile of nuclear missiles and burying them in the ocean floor, not caring that Moscow would no doubt interpret the launch as an attack on the Soviet Union.
+
+Captain America and Wolverine teamed up to defeat TESS-One, and then encountered Overrider as he was about to launch the missiles. Captain America knocked Overrider off his flying sled with his shield, and Wolverine almost impaled him on his claws as he fell, choosing instead at the last second to let Overrider fall to the floor. Overrider was quickly given medical attention and then taken into custody.{{r|Captain America Annual #8}}
+
+He is confirmed to have lost his powers after [[M-Day]].{{r|New Avengers #18}}
+
+| Powers                  = None, he was depowered after the events of [[M-Day]].  
+{{Navigation
+| title = ''Former Powers''
+| body  =  '''Technopathy''':  Overrider possessed the power of technopathy, enabling him to control machinery, including complex robots, and hacking advance computer systems. }}
+| Abilities               = 
+| Strength                = Overrider possessed the normal human strength of a man of his age, height, and build who engaged in moderate regular exercise. 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = Overrider traveled by means of a flying sled-like vehicle that he controlled using his power. 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = http://en.wikipedia.org/wiki/Overrider_%28comics%29
+| Links                   = 
+}}
+[[Category:Technopaths]]
+[[Category:Depowered Mutants]]
+[[Category:M-Day Depowered]]

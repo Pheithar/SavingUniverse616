@@ -1,0 +1,82 @@
+{{Marvel Database:Character Template
+| Image                   = Avril Kincaid (Earth-616) from Guardians of the Galaxy Vol 6 13 002.jpg
+| Name                    = [[Avril Kincaid]]
+| CurrentAlias            = [[Quasar]]
+| Aliases                 = 
+
+| Affiliation             = {{m|Guardians of the Galaxy}}; formerly {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}
+| Relatives               = 
+| MaritalStatus           =Single 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Blue
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] powered with the [[Quantum Bands]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Known to Authorities
+| Citizenship             = American
+| Occupation              = Adventurer, Protector of the Universe;{{r|Captain America: Steve Rogers Vol 1 8}} formerly S.H.I.E.L.D. agent
+| Education               = 
+| BaseOfOperations        = Formerly [[Pleasant Hill]], [[Connecticut (State)|Connecticut]], [[United States of America]]
+
+| Creators                = Nick Spencer; Ángel Unzueta
+| First                   = Captain America: Sam Wilson Vol 1 7
+| Last                   = 
+
+| History                 = ===Pleasant Hill===
+Avril Kincaid was a S.H.I.E.L.D. agent stationed in [[Pleasant Hill]]. She was the leader of "plainclothes surveillance," the agents on the town posing as citizens. She was also in charge of the daycare for imaginary children and [[Kobik (Earth-616)|Kobik]].{{r|Captain America: Sam Wilson Vol 1 7}}
+
+When Pleasant Hill was attacked from the inside by several inmates, she was assaulted by the [[Gh'Ree and R'Hos Blood (Earth-616)|Blood Brothers]]. [[Samuel Wilson (Earth-616)|Captain America]] and the [[James Buchanan Barnes (Earth-616)|Winter Soldier]], two of the heroes on the scene, protected her, not aware that she was planning on getting caught so she could be taken to the location of the break-out's leader [[Helmut Zemo (Earth-616)|Baron Zemo]].{{r|Captain America: Sam Wilson Vol 1 7}}
+
+[[File:Avril Kincaid (Earth-616) from Captain America Sam Wilson Vol 1 7 001.jpg|thumb|left]]
+She later directed Cap and the Winter Soldier in shutting down the security of the Pleasant Hill Museum, where Avril wanted to go to retrieve a powerful weapon that could potentially turn the tide of the conflict. After making her way through super villains looting the museum, Avril encountered the curator, who gave Avril the set of items she was looking for, the [[Quantum Bands]]. Additionally, the curator revealed himself to be [[Wendell Vaughn (Earth-616)|Wendell Vaughn]], a.k.a. [[Quasar]], the bands' former owner.{{r|Captain America: Sam Wilson Vol 1 7|8}}{{r|Avengers Standoff: Assault On Pleasant Hill Omega Vol 1 1}}
+
+Using the power of the Quantum Bands, Avril played a key role in Baron Zemo's defeat. Once the conflict was resolved and the dust settled, Vaughn began tutoring her in using the bands, training her to become the new Quasar.{{r|Avengers Standoff: Assault On Pleasant Hill Omega Vol 1 1}} Because of this, she didn't get to spend much time with her girlfriend, Joy, who had no idea what the training really was about.{{r|Captain America: Steve Rogers Vol 1 11}}
+
+S.H.I.E.L.D. director [[Maria Hill (Earth-616)|Maria Hill]] went on trial for Pleasant Hill, and had a team of experts develop a [[Planetary Defense Shield]] to use as leverage in her favor. When she lost, she fled and handed over the Shield's plans to the [[Alpha Flight (Space Program) (Earth-616)|Alpha Flight]] space initiative.{{r|Captain America: Steve Rogers Vol 1 10}} The construction of  [[Planetary Defense Shield Base Station|the Shield's generator]] began shortly afterwards,{{r|Captain America: Steve Rogers Vol 1 11}} and Quasar was asked by [[Steven Rogers (Earth-61311)|Captain America]] to test it when it finished development.{{r|Captain America: Steve Rogers Vol 1 14}}
+
+===[[Secret Empire]]===
+When the Chitauri invasion arrived, heavy-hitter superheroes prepared to hold the line while [[Anthony Stark (Third A.I.) (Earth-616)|Iron Man]] and [[Riri Williams (Earth-616)|Ironheart]] fixed the Planetary Defense Shield. Meanwhile, it was revealed the Shield's malfunctions were actually purposefully caused by Captain America, with superficial damage of Hydra's attack covering that up. Rogers activated the Shield, leaving Avril and the rest of the heroes on Earth's orbit exiled on the other side. The heroes were slowly being overpowered by the Chitauri and, without noticing, a [[Leviathans (Chitauri)|Leviathan]] approached her and ate her.{{r|Secret Empire Vol 1 0}} At first, she was believed dead, but it was later revealed she had survived and was in a coma.{{r|Secret Empire Vol 1 3}}
+
+Quasar eventually awakened from her coma and offered to destroy the Defense Shield after an attempt to breach it by crashing an Alpha Flight module into it failed. After much effort, Quasar sacrificed herself to destroy the Defense Shield,{{r|Mighty Captain Marvel Vol 1 8}} allowing Captain Marvel to fly down to Earth and destroy the Chitauri queen eggs that were luring the Chitauri to Earth.{{r|Secret Empire Vol 1 8}}
+
+===Return===
+When Vaughn, [[Beta Ray Bill (Earth-616)|Beta Ray Bill]], and the [[Norrin Radd (Earth-616)|Silver Surfer]], among others, found themselves trapped a black hole, Vaughn used another set of Quantum Bands to assist the Surfer in escaping. In doing so, their combined powers, and the gravity of the black hole, revealed the presence of Kincaid, who had survived her sacrifice, but was trapped in the black void of outer space.{{r|Guardians of the Galaxy Annual Vol 3 1|; A Long Time in Politics}}
+
+After months of trying to work it out, Wendell and Avril found that by striking the Bands against each other they could exchange places, similarly to [[Richard Jones (Earth-616)|Rick Jones]] and [[Mar-Vell (Earth-616)|Mar-Vell]] years before. With this new possibility on the table, the Guardians of the Galaxy could now count on both Quasars, using whichever was better for the mission at hand.{{r|Guardians of the Galaxy Vol 6 13}}
+
+| Personality             = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = '''[[Quantum Bands]]:''' The Quantum Bands draw energy from the [[Quantum Zone]],{{r|Official Handbook of the Marvel Universe A-Z Vol 1 9}} and its wielder is capable of a plethora of superhuman feats:
+*'''Flight:''' The bands enable levitation and flight, protecting the wielder from friction and keeping an air reserve to allow interplanetary travel.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 9}}{{r|Captain America: Steve Rogers Vol 1 8}}
+*'''Energy Constructs:''' The bands can create solidified energy constructs of any shape.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 9}} Avril trained in doing so right from the beginning of her tutelage under Vaughn.{{r|Avengers Standoff: Assault On Pleasant Hill Omega Vol 1 1}}
+*'''Energy Projection:''' Using the bands, Avril was capable of generating energy blasts stronger than [[Jane Foster (Earth-616)|Thor (Jane Foster)]], [[Adam Brashear (Earth-616)|Blue Marvel]], [[Monica Rambeau (Earth-616)|Monica Rambeau]], [[Marcus Milton (Earth-13034)|Hyperion]], and [[Kevin Connor (Earth-616)|Starbrand]] combined.{{r|Captain America: Steve Rogers Vol 1 14}}
+*'''Cosmic Awareness:''' When wearing the bands, Avril had visions of events happening on the other side of the globe or even in outer space.{{r|Captain America: Steve Rogers Vol 1 8}}{{r|Captain America: Steve Rogers Vol 1 11}}
+| Transportation          = [[Quantum Bands]]
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Object-Based Powers]]
+[[Category:Long range Energy Projection]]
+[[Category:Energy Manipulation]]
+[[Category:Cosmic Awareness]]
+[[Category:Flight]]
+[[Category:Secret Empire casualties]]
+[[Category:Homosexual Characters]]

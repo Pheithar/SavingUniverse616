@@ -1,0 +1,34 @@
+{{Marvel Database:Team Template
+| Image                   = Rom Vol 1 6.jpg
+| Name                    = Hellhounds
+| EditorialNames          = 
+| Aliases                 = 
+
+| Status                  = 
+| Identity                = 
+| Reality                 = Earth-616
+| BaseOfOperations        = 
+
+| Leaders                 = [[Dire Wraiths]]
+| CurrentMembers          = [[Conquistador (Dog) (Earth-616)|Conquistador]]
+| FormerMembers           = 
+| Allies                  = 
+| Enemies                 = 
+
+| Origin                  = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Bill Mantlo; Sal Buscema
+| First                   = Rom #5
+| Last                    = 
+
+| HistoryText             = Hellhounds of the [[Dark Nebula]] are dogs that have been bred and corrupted by the [[Dire Wraiths]] for use as trackers and to attack their enemies. They appear in canine form but shapeshift into humanoid form to attack. They also have heightened telepathic senses that allow them to track their targets, and are able to phase through objects.{{Citation}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = http://www.romspaceknightart.blogspot.com/
+}}

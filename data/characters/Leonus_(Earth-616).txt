@@ -1,0 +1,51 @@
+{{Marvel Database:Character Template
+| Image                   = Leonus (Earth-616) from Official Handbook of the Marvel Universe Vol 2 6 001.jpg
+| Name                    = Leonus
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = [[Maximus Boltagon (Earth-616)|Maximus the Mad]], {{m|Crimson Cadre}}, {{M|League of Evil Inhumans}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe Vol 2 6}}
+| Gender                  = Male
+| Height                  = 6'4"
+| Weight                  = 230 lbs
+| Eyes                    = Brown
+| Hair                    = Blond
+| UnusualFeatures         = Leonine looks; metal claws on hands and feet
+
+| Origin                  = [[Inhomo supremis|Inhuman]] powered by [[Terrigenesis]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Attilan]]
+
+| Identity                = No Dual
+| Citizenship             = Attilan
+| Occupation              = Renegade, former guardsman
+| Education               = 
+| BaseOfOperations        = [[Attilan]]
+
+| Creators                = Gary Friedrich; Marie Severin
+| First                   = Incredible Hulk Special #1
+
+| History                 = Leonus was amongst the [[Inhomo supremis|Inhumans]] who supported [[Maximus Boltagon (Earth-616)|Maximus]]' coup against [[Blackagar Boltagon (Earth-616)|Black Bolt]].{{r|Fantastic Four #83}} He was exiled along with Maximus.
+
+Apparently, he was pardoned, as he was a resident of [[Attilan]] again when he found an injured [[Avius (Earth-616)|Avius]] and returned him to the city just in time to warn [[Blackagar Boltagon (Earth-616)|Black Bolt]] of the approaching [[Blastaar (Earth-616)|Blastaar]].{{r|Inhumans #1}} He was then struck by a Kree mind control device and convinced [[Stallior (Earth-616)|Stallior]] to free Maximus, so he could round up half the Inhumans and return them to the Kree.{{r|Inhumans #4|6}}
+
+Leonus, Stallior and Falcona were brainwashed by Maximus into being members of the Crimson Cadre who are also under his thrall.{{r|Quicksilver #6}}
+
+| Powers                  = Great endurance, agility, and speed.{{r|Official Handbook of the Marvel Universe Vol 2 6}}
+| Abilities               = 
+| Strength                = Able to lift/press 10 tons. {{r|Official Handbook of the Marvel Universe Vol 2 6}}
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = Claws worn on hands and feet with ankle spikes on boots. 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Superhuman Strength]]

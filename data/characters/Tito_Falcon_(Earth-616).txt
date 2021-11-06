@@ -1,0 +1,51 @@
+{{Marvel Database:Character Template
+| Image                   = Tito Falcon (Earth-616) from Deadpool Merc with a Mouth Vol 1 6 001.png
+| Name                    = Lord Baron von Tito Hapsburg Rothchild Falcon the Seventh
+| CurrentAlias            = Lord Falcon
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Black
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Public
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = Mobile
+
+| Creators                = Victor Gischler; Bong Dazo;
+| First                   = Deadpool: Merc with a Mouth Vol 1 #6
+| Death                    = Deadpool: Merc with a Mouth Vol 1 #6
+| History                 = Lord Falcon confronted and was eventually killed by [[Wade Wilson (Earth-616)|Deadpool]].{{r|Deadpool: Merc with a Mouth Vol 1 #6}}
+
+| Powers                  = 
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Hydra (Earth-616)/Members]]

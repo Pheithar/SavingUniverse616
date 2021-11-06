@@ -1,0 +1,62 @@
+{{Marvel Database:Character Template
+| Image                   = Elsbeth von Strucker (Earth-616) from Wolverine Vol 3 27 001.jpg
+| Name                    = Elsbeth von Strucker
+| NameRef                 = {{r|Wolverine Vol 3 23}}
+| CurrentAlias            = 
+| CurrentAliasRef         = 
+| Aliases                 = Baroness Elsbeth von Strucker;{{r|Wolverine Vol 3 27|'s recap}} Baroness von Strucker
+
+| Affiliation             = Formerly {{m|Hydra}}, [[Hand (Earth-616)|Hand]]
+| Spouses                 = [[Wolfgang von Strucker (Earth-616)|Wolfgang von Strucker]] (husband)
+| Relatives               = [[Wolfgang von Strucker (Clone) (Earth-616)|Wolfgang von Strucker (clone)]] (husband's clone, deceased);<br>
+[[Tomi Shishido (Earth-616)|Gorgon]] (lover)
+| MaritalStatus           = Married
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = White
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = German
+| Occupation              = Terrorist, would-be conqueror
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Mark Millar; John Romita Jr.
+| First                   = Wolverine Vol 3 23
+| Death                   = Wolverine Vol 3 30
+
+| History                 = Elsbeth von Strucker was the wife of [[National Socialist German Workers Party (Earth-616)|Nazi]] criminal [[Wolfgang von Strucker (Earth-616)|Baron Wolfgang von Strucker]]. A devout Satanist and social nihilist, she helped Strucker fund the foundation of [[Hydra (Earth-616)|Hydra]], but was unknown to [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] for almost the whole of her life. According to S.H.I.E.L.D.'s research, she was stated to be the 4th richest person in the world, 175 years old, a chess grandmaster, the lover of the four kings and three presidents (among others), and a close personal friend of the late [[Helena Blavatsky (Earth-616)|Madame Blavatsky]].{{r|Wolverine Vol 3 23}}
+
+Based on political machinations presaging a regime change within Hydra, Elsbeth entered the chain of command, forming a personal and sexual alliance with the [[Tomi Shishido (Earth-616)|Gorgon]]. Together, the two led a merger of the [[Hand (Earth-616)|Hand]] and Hydra on a campaign which was intended to destroy civilization and the planet Earth. They also created a [[Wolfgang von Strucker (Clone) (Earth-616)|clone]] of Baron Strucker who posed as the original in a ritual suicide when he abdicate power to them.{{r|Wolverine Vol 3 23|25}}{{r|New Thunderbolts Vol 1 17}}
+
+However, their scheme was foiled by Wolverine, who killed Elsbeth by firing a rocket-propelled grenade into her bedroom with Gorgon.{{r|Wolverine Vol 3 30}}
+
+| Powers                  = 
+| Abilities               = Allegedly able to extend her life through unknown means
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Millionaires]]
+[[Category:Strucker Family]]
+[[Category:Advanced Longevity]]
+[[Category:Satanists]]

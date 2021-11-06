@@ -1,0 +1,145 @@
+{{Marvel Database:Character Template
+| Image                   = Harold Osborn (Earth-616) from Amazing Spider-Man Vol 5 72 002.jpg
+| Name                    = [[Harry Osborn|Harold Theopolis "Harry" Osborn]]
+| CurrentAlias            = Green Goblin
+| CurrentAliasRef         = {{r|Amazing Spider-Man Vol 1 136}}
+| Codenames               = 
+| Nicknames               = Cornrow,{{citation}} Har{{r|Spectacular Spider-Man Vol 1 189}}
+| Aliases                 = 
+| Affiliation             = {{m|Oscorp}}
+| Ancestors               = [[Alton Osborn, Sr. (Earth-616)|Alton Osborn, Sr.]] (paternal ancestor, deceased);<br>
+Alton Osborn, Jr. (paternal great-grandfather, deceased)
+| Grandparents            = [[Amberson Osborn (Earth-616)|Amberson Osborn]] (paternal grandfather, deceased)
+| Parents                 = [[Norman Osborn (Earth-616)|Norman Osborn]] (father, estranged);<br>
+[[Emily Lyman (Earth-616)|Emily Lyman-Osborn]] (mother)
+| Spouses                 = [[Elizabeth Allan (Earth-616)|Liz Allan-Osborn]] (ex-wife)
+| Children                = [[Norman Harold Osborn (Earth-616)|Normie Osborn]] (son);<br>
+[[Stanley Osborn (Earth-616)|Stanley Osborn]] (genetic son)
+| Relatives               = <small>'''Relatives by marriage:'''</small><br>
+[[Mark Raxton (Earth-616)|Mark Raxton]] (ex-step-brother-in-law);<br>
+[[Lily Hollister (Earth-616)|Lily Hollister]] (ex-fiancée);<br>
+<small>'''Creations:'''</small><br>
+[[Harold & Norman Osborn (A.I.) (Earth-616)|Osborn A.I.]] (creation);<br>
+[[Gabriel Stacy (Earth-616)|Gabriel Stacy]] (co-creation, genetic half-brother);<br>
+[[Sarah Stacy (Earth-616)|Sarah Stacy]] (co-creation, genetic half-sister);<br>
+<small>'''Clones:'''</small><br>
+[[Harold Osborn (Clone) (Earth-616)|Harry Osborn]] (clone, deceased)
+| MaritalStatus           = Divorced
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 5'10"
+| Weight                  = 170 lbs
+| Eyes                    = Blue with host body; Red in demon form
+| Hair                    = Brown as Harry; None in demon form; Blonde in host body
+| UnusualFeatures         = Rotten flesh covered in bandages with no eyes or nose as Kindred; [[Sarah Stacy (Earth-616)|Female]] in host body, uses serum to shapeshift into Harry Osborn
+
+| Origin                  = [[Homo sapiens|Human]] mutated by the [[Goblin Formula]]
+
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[New York City]], [[New York (State)|New York]]
+| PlaceOfDeath            = [[Osborn Foundation]], [[Manhattan]]
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Owner of the {{m|Coffee Bean}} cafe, owner and president of {{m|Oscorp (Earth-616)|Osborn Industries}}, fugitive
+| Education               = College degree
+| BaseOfOperations        = Formerly [[Hell]]; [[New York (State)|New York]]; [[Seattle]], [[Washington (State)|Washington]]
+
+| Creators                = Stan Lee; Steve Ditko
+| First                   = Amazing Spider-Man Vol 1 31
+| First2                  = (As Harry Osborn)<br>{{sld|Amazing Spider-Man Vol 1 136}}(As the Green Goblin)
+| Death                   = Spectacular Spider-Man Vol 1 200
+
+| Quotation               = After all these years of feeling so '''small'''...So '''helpless'''...I'm finally '''above''' them all! I've got the power to crush '''you'''--crush '''anyone''' who gets in my way! Now...at long last--<big>I truly '''am''' the '''Green Goblin!!'''</big>
+| Speaker                 = [[Harold Osborn (Earth-616)|Green Goblin]]
+| QuoteSource             = Spectacular Spider-Man Vol 1 189
+
+| History                 = ===Early Life===
+Harry Osborn was the son of wealthy industrialist [[Norman Osborn (Earth-616)|Norman Osborn]]. When he was still a child, Harry had his soul bargained by his father with the demon [[Mephisto (Earth-616)|Mephisto]] in exchange for making his financial life more successful. With the deal closed as a result of this bargain, Harry was destined to suffer numerous personal tragedies when he reached adulthood, and when he died, he would have his soul sent to [[Hell]].{{r|Amazing Spider-Man Vol 5 72}}
+
+Harry grew up friends with [[Gwendolyne Stacy (Earth-616)|Gwen Stacy]] at Standard High before going off to college.{{r|Spider-Man Vol 1 -1}}{{r|{{cl|Gwen Stacy Vol 1 1}}-[[Gwen Stacy Vol 1 2|2]]}} The two of them quickly befriended [[Eugene Thompson (Earth-616)|Flash Thompson]] when they arrived at [[Empire State University]], but also adopted Flash's disdain for the reclusively scholarship student, [[Peter Parker (Earth-616)|Peter Parker]], initially taking Peter's distant behavior as snobbery. However, he soon realized Peter was merely shy and distracted by his aunt May Parker's health problems.{{r|Amazing Spider-Man #31}}
+
+[[File:Harold Osborn (Earth-616) from Amazing Spider-Man Vol 1 74 0001.jpg|thumb|left]]
+
+Harry's relationship with his father was always strained, and it became worse when Norman secretly became the super-villain known as the Green Goblin. Harry and Peter Parker became closer as Peter consoled Harry over his father's distance, while Peter as Spider-Man was regularly fighting Norman as the Green Goblin.{{r|Amazing Spider-Man #37|39}} When Parker and Osborn learned each other's identities, Norman suffered amnesia after the fight, and Peter hid the Goblin costume for Harry's sake. He circulated a story that Norman Osborn was injured helping Spider-Man defeat the Green Goblin once and for all. Parker came to the hospital afterwards to check on Norman and make sure his amnesia held up. Harry misinterpreted this gesture as a sign of friendship, and things permanently thawed between Harry and Peter.{{r|Amazing Spider-Man #40}}{{r|Spider-Man: Blue #1}}
+
+Harry and Peter became friends and started rooming together near campus. They began regularly seeing Gwen and [[Mary Jane Watson (Earth-616)|Mary Jane Watson]] in group settings and on double dates, with Peter and Gwen, and Harry and MJ slowly becoming exclusive.{{r|Amazing Spider-Man #44|46}} Harry's relationship with Mary Jane didn't sail smoothly, though. His relationship with his father began to degenerate again as Norman's memory returned, and Harry's trouble with pill addiction was too much for Mary Jane. She couldn't bring herself to stand by him as Harry was eventually hospitalized on an overdose.{{r|Amazing Spider-Man #96|98}} They reconciled when he got out, but only on the surface. When his father died in action as the Green Goblin after killing Gwen Stacy, Harry found the body and removed the costume. He refused to attend Gwen's funeral and chased away Mary Jane as he began to obsess over Spider-Man.{{r|Amazing Spider-Man #121|125}}
+
+===Becoming the Green Goblin===
+After learning that Peter was Spider-Man, Harry donned his father's costume and proclaimed himself the Green Goblin. He destroyed their apartment,{{r|Amazing Spider-Man #136}} and kidnapped Mary Jane, Flash and Peter's aunt [[Maybelle Parker (Earth-616)|May]]. When he was defeated by Spider-Man, he told everyone that Peter was really Spider-Man before being taken away, but this was dismissed as the ravings of a madman.{{r|Amazing Spider-Man #137}} He was taken to a medical institution and was released, suffering from amnesia, forgetting Spider-Man's identity and both his and his father's roles as the Green Goblin.{{r|Amazing Spider-Man #151}}
+
+[[File:Harold Osborn (Earth-616) from Amazing Spider-Man Vol 1 136 001.jpg|thumb|right]]
+
+After being released and re-entering college, Harry moved in with Flash.{{r|Amazing Spider-Man #152}} He began seeing psychiatrist [[Barton Hamilton (Earth-616)|Bart Hamilton]], who ended up using hypnosis to uncover the secrets of the Green Goblin from Harry's mind and donned the mantle for himself. Harry ultimately briefly became the Green Goblin again and battled Hamilton, who died in an ensuing explosion.{{r|Amazing Spider-Man #177|180}} Harry later married [[Elizabeth Allan (Earth-616)|Liz Allan]] after they met at [[Edward Leeds (Earth-616)|Ned Leeds]]'s and [[Elizabeth Brant (Earth-616)|Betty Brant]]'s wedding.{{r|Amazing Spider-Man #156}} Harry and Liz had a son named [[Norman Harold Osborn (Earth-616)|Normie]].{{r|Amazing Spider-Man Vol 1 263}}
+
+Harry's tranquility was shattered when the aftereffects of the [[Inferno (Event)|Inferno crisis]] sundered the barrier between his conscious and subconscious minds, returning him his memories of being the Green Goblin as well as his irrational hatred of Spider-Man. Convincing himself that his father was a good person and that Peter resented the Osborns, Harry attacked him.{{r|Spectacular Spider-Man Vol 1 180}} As the Green Goblin, Harry subjected Spider-Man to a psychological torture using hallucinogens, although they also enabled his escape when he exploded in a fit of mindless rage.{{r|Spectacular Spider-Man Vol 1 181}} Tracking Spider-Man down, Harry decided to kill him. However, when Peter decided to let Harry deal a killing blown to end things once and for all, Harry found himself unable to deliver it. Conflicted, Harry fled with the promise of his eventual return.{{r|Spectacular Spider-Man Vol 1 183}}
+
+===Final Confrontation===
+Researching his father's chemical notes, Harry dosed himself with a new version of the [[Goblin Formula]] that his father had been working on before his death,{{r|Spectacular Spider-Man Vol 1 200}} which granted him superhuman strength but drove him further into madness.{{r|Spectacular Spider-Man Vol 1 188}} Harry kidnapped Liz, Normie and Liz's brother-in-law [[Mark Raxton (Earth-616)|Mark Raxton]] to announce his intentions to carry on the Green Goblin's legacy but without neglecting his loved ones. Lured to the reunion, Spider-Man confronted Harry and defeated him.{{r|Spectacular Spider-Man Vol 1 189}} Although Peter vouched for Harry to get psychological treatment from [[Ashley Kafka (Earth-616)|Dr. Ashley Kafka]], authorities decided to transfer him to the [[Vault]], a superhuman prison.{{r|Spectacular Spider-Man Vol 1 190}} However, lack of sufficient evidence saw the district attorney unable to put a case against Harry, in part because Liz was deep in denial and refused to testify against him, and he was released.{{r|Spectacular Spider-Man Vol 1 199}}
+
+Harry began to hound Peter for days dressed as the Green Goblin, following him around the city and threatening to both reveal his secret identity and to kill him. As part of a plan to kill Norman's former associates, Harry publicized the gala opening for a new charity called the Norman Osborn Foundation, and rigged the building with explosives. When Peter decided to finally stop Harry, their fight took place in the rigged building. In an attempt to break the cyclical nature of their conflict, Harry injected Spider-Man with a paralyzing agent and decided to detonate the explosives so he and Peter could die together. Harry realized that both Mary Jane and Normie were in the building, and Peter spurred him on to save them. In a flash of sanity, Harry also returned for Peter and escaped with him before the building exploded. However, the experimental nature of the Goblin Formula in Harry's blood caused him to convulse moments later, and in his final moments of consciousness, he acknowledged Peter as his best friend. Harry was rushed to a hospital but died on the ambulance, holding Peter's hand.{{r|Spectacular Spider-Man Vol 1 200}}
+
+Before his death, Harry created [[Harold & Norman Osborn (A.I.) (Earth-616)|an artificial intelligence copied from his and his father's minds]] in order to carry on their legacy,{{r|Spider-Man: Legacy of Evil Vol 1 1}} and persuaded the [[Dmitri Smerdyakov (Earth-616)|Chameleon]] to create two robots who would appear to be Peter Parker's dead parents in an effort to get Peter to tell them who Spider-Man really was. Harry already knew Spider-Man's identity but wanted to mess with Peter's head so he convinced Chameleon that Parker, due to all the photos he had taken, was sure to know Spider-Man's identity. When Spider-Man discovered the fraud,{{r|Amazing Spider-Man #389}} he went briefly insane over the disappointment of losing his parents again.{{r|Amazing Spider-Man #390|393}} Harry also made an arrangement with [[Mendel Stromm (Earth-616)|Mendel Stromm]] to create a pair of test-tube-babies from Norman Osborn and Gwen Stacy's DNA, though the twins - [[Sarah Stacy (Earth-616)|Sarah]] and [[Gabriel Stacy (Earth-616)|Gabriel Stacy]] - suffered from accelerated aging and clone degeneration, leading to Harry and the Osborn A.I. working to perfect the cloning process over numerous iterations. To further torment Peter, Harry also hired [[Quentin Beck (Earth-616)|Mysterio]] to implant false memories of Gwen Stacy having had an affair with Norman while in Europe and giving birth to the twins in his father and Mary Jane Watson.{{r|Amazing Spider-Man Vol 5 73}} Norman has later stated that when Harry created the twins, he was under the influence of Mephisto, the one who owned his soul.{{r|Amazing Spider-Man Vol 5 74}}
+
+A second artificial intelligence of Harry, taking the form of a hologram, was created by the [[Brotherhood of the Scriers (Earth-616)|Scriers]] to manipulate [[Norman Harold Osborn (Earth-616)|Normie Osborn]] into turning against [[Norman Osborn (Earth-616) |his grandfather]]. This version refused to entertain the idea of Normie becoming a killer and declared the Osborn legacy would end with him. He assisted Spider-Man in defeating the Scrier leader before reassuring Normie that Spider-Man was not his enemy and thanking Peter for everything he'd done for him. When the badly injured Scrier grabbed Normie to kill him, the hologram Harry seemingly grabbed the Scrier from the shadows and finished him off. Spider-Man was left puzzled by these events.{{r|Amazing Spider-Man Annual Vol 1 2000}}
+
+===Descent into Hell===
+As per the secret bargain Norman had made with Mephisto,{{r|Amazing Spider-Man Vol 5 72}} Harry was sent to [[Mephisto's Realm|Hell]] following his death and was met by Mephisto, who mockingly informed him he'd been damned not only because of his father's deal but due to Harry not having warned Peter about his posthumous plots. Despite his protests, Harry's soul was tortured by demons with the appearance of his father for several years.{{r|Amazing Spider-Man Vol 5 74}} During this time, the Osborn A.I. created [[Harold Osborn (Clone) (Earth-616)|a clone of Harry]] and Mysterio hypnotized Norman to implant false memories once again, this time to make him believe he had hired the Master of Illusion to fake Harry's death and subsequently sent him to Europe for rehab.{{r|Amazing Spider-Man Vol 5 73}}{{r|Amazing Spider-Man Vol 1 581}} Harry's clone eventually returned to America and replaced his genetic template as intended.{{r|Amazing Spider-Man Vol 1 545}}
+
+Sarah and Gabriel were later molded by Mephisto to act as his agents in a ploy to destroy Spider-Man and adopted the shared monicker of Kindred. As part of their plans, Kindred used a shape-shifting serum provided by the Chameleon to impersonate Harry, pretending to be him returned from Hell.{{r|Amazing Spider-Man Vol 5 74}} After Spider-Man sought out [[Stephen Strange (Earth-616)|Doctor Strange]]'s help to face Kindred, the Sorcerer Supreme confronted Mephisto, having noticed the demon's meddling in the wall-crawler's life.{{r|Amazing Spider-Man Vol 5 54}} Betting on the outcome of Spider-Man's final confrontation against Kindred, Doctor Strange managed to free Harry Osborn's soul from the demon's grasp.{{r|Amazing Spider-Man Vol 5 74}}
+
+| Personality             = 
+
+| Powers                  = '''Goblin Serum:''' Harry used to have superhuman attributes while empowered by the revised Goblin serum.
+* '''Superhuman Strength:''' Harry as the Green Goblin's possesses superhuman strength. His strength slightly exceeds his father's and he is able to press lift 10 tons.{{r|Official Handbook of the Marvel Universe Master Edition #27}} Thus, he is evenly matched with Spider-Man.{{r|Official Handbook of the Marvel Universe: Spider-Man 2004 Vol 1 1}}
+* '''Superhuman Speed:''' The Goblin is capable of running and moving at speeds greater than that of even the finest Olympic athlete.
+* '''Superhuman Stamina:''' The Goblin's enhanced musculature generates less fatigue toxins than the muscles of ordinary humans. He can exert himself at peak capacity for several hours before fatigue begins to affect him.
+* '''Superhuman Durability:''' The formula also fortified all of Harry's bodily tissues, making them far tougher and more resistant to injury than normal humans. While he could be injured by something along the lines of a knife or small conventional bullets composed of conventional material, he was very resistant to great impact forces and blunt trauma. He could withstand powerful impacts, such as falling from several stories or being repeatedly struck by a superhuman enemy, that would severely injure or kill a normal human with little to no injury to himself. He was able to fight Spider-Man and sustain hits from him.
+* '''Regenerative Healing Factor:''' If injured, the Goblin's body is able to heal itself with greater speed and efficiency than an ordinary human. While not nearly as efficient as the healing powers possessed by Wolverine, he can heal from injuries that would prove lethal to an ordinary human.
+* '''Superhuman Agility:''' The Goblin's agility and bodily coordination are enhanced to levels that are beyond the natural limits of the human body.
+* '''Superhuman Reflexes:''' The Goblin's reaction time is enhanced to levels that are beyond the natural limits of the human body.
+
+| Abilities               = '''[[Genius Intelligence]]:''' Harry's intelligence is enhanced to an unknown level because of the Goblin Serum. His intellect is so high,{{r|Official Handbook of the Marvel Universe A-Z #8}} it surpasses even that of his own father and Spider-Man.{{r|All-New Official Handbook of the Marvel Universe A to Z: Update #1}}{{r|Official Handbook of the Marvel Universe: Spider-Man 2004 Vol 1 1}}
+
+| Strength                = '''Class 10:''' Harry can lift 10 tons and has fought Spider-Man to a draw.{{r|Official Handbook of the Marvel Universe Master Edition #27}}
+| Weaknesses              = 
+
+| Equipment               = '''[[Goblin Armor]]:''' The Green Goblin's costume incorporated chain mail in the tunic, giving him further protection from high impacts, such as the punches or kicks inflicted during his battles with Spider-Man.
+
+'''[[Harry Osborn's Fu Manchu|The Fu Manchu]]:''' Harry's short-lived face fuzz.
+
+| Transportation          = '''[[Goblin Glider]]:''' Harry Osborn rides an improved version "goblin glider," capable of great maneuverability and speeds of up to 90 miles per hour. It was capable of supporting about 400 lbs including Norman's weight (and far more for very brief periods of time). Top speed and a full normal load would exhaust the fuel supply in about one hour. The main microprocessor assisted manual controls were behind the head of the glider, and later modifications added voice-activated radio-linked controls integrated into the Green Goblin's mask. The goblin glider was steered primarily, however, by the weight and attitude of its rider. The Green Goblin's boots locked into the stirrups of the glider electromagnetically.
+
+| Weapons                = '''[[Pumpkin Bomb]]s:''' The Green Goblin created and utilized various concussive, incendiary, and other specialized explosives in his career, most in the form of miniature jack-o'lanterns. The Goblin usually carried these in a shoulder bag, nicknamed his "bag of tricks".
+* '''Incendiary:''' The incendiary grenades ignited almost soundlessly and released enough heat to melt through a three-inch thick sheet of steel.
+* '''Smoke/Gas:''' He also carried a variety of smoke and gas-emitting bombs, which were surrounded by a light plastic mantle that fluttered like a wraith when the bomb was thrown. Other gas bombs emitted hallucinogenic gases, and others released a specially concocted gas that could neutralize [[Peter Parker (Earth-616)|Spider-Man]]'s spider sense for a limited period of time.
+
+'''Flying Razor Bats:''' The Green Goblin sometimes threw razor sharp bat shaped projectiles which could slice into or ram and impale themselves into opponents.
+
+'''Electrical Discharges:''' The Green Goblin's gloves were interwoven with microcircuit-conducting filaments capable of high-frequency electrical power from rechargeable power packs in both his glove cuffs and costume tunics. They had the capacity to discharge for up to five minutes of sustained fire before depleting their power supplies.
+
+'''Bag of Tricks:''' In addition to the common Goblin weapons, there are many others in the bag of tricks like a crescent moon boomerang, a ghost that is stronger than steel, a frog that can emit sonic blasts, and can carry many other weapons in it most of which are unrevealed.
+
+| Notes                   = 
+| Trivia                  = * During the ''Clone Saga'', Harry Osborn was originally going to be revealed as the mastermind behind Spider-Man's misfortunes. When [[Robert Harras|Bob Harras]] became Editor-in-Chief before this storyline could reach its conclusion, he rejected the idea. A new villain introduced in {{cl|Amazing Spider-Man #412}} called Gaunt was going to be Harry Osborn's new alter-ego. It was intended to be revealed that Harry hadn't died in {{cl|Spectacular Spider-Man #200}}, but instead the Goblin Formula had caused his body to start to weaken and wither away, so he was forced to use a special suit to stay alive. The identity of Gaunt was eventually given to [[Mendel Stromm (Earth-616)|Mendel Stromm]].{{r|{{cite web|url=http://goodcomics.comicbookresources.com/2016/06/17/comic-book-legends-revealed-580/2/|title=Comic Book Legends Revealed #580|work=Comic Book Resources|first=Brian|last=Cronin|date=June 17, 2016|accessdate=June 17, 2016}}}}
+* Harry and Gwen Stacy first met and became friends on Mother's Day.{{r|Gwen Stacy Vol 1 2}}
+| Links                   = * OHMU Deluxe Edition #16, 1987, MARVEL COMICS GROUP.
+* [http://www.spiderfan.org/characters/greengoblin2.html Harry's Profile at Spiderfan.org]
+* [http://www.spideykicksbutt.com/GreenwithEvil/GoblinPrincePart1.html The Goblin Prince: The first in a series of introspective essays about Harry Osborn.]
+}}
+[[es:Harold Osborn (Tierra-616)]]
+[[it:Harold Osborn (Terra-616)]]
+[[Category:Osborn Family]]
+[[Category:Insanity]]
+[[Category:Allan Family]]
+[[Category:Artificially Enhanced Intelligence]]
+[[Category:Empire State University Student]]
+[[Category:Fugitives]]
+[[Category:Millionaires]]
+[[Category:Strength Class 10]]
+[[Category:Regeneration]]
+[[Category:Hollister Family]]
+[[Category:Characters who have used Drugs]]
+[[Category:Drug Addicts]]
+[[Category:Ravencroft Institute Patients]]

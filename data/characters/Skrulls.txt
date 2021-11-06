@@ -1,0 +1,32 @@
+{{MessageBox
+| Message = For the beings commonly known as '''Skrulls''', please consult the [[Deviant Skrulls]].
+}}<!-- 
+{{MessageBox
+| Message = For Skrulls from before the [[Celestials (Race)|Celestials]]' experiments, please scroll down past the disambiguation article or follow [[Skrulls#History|this link]].
+}} -->
+{{DisambiguationFull
+| Main Character = [[Deviant Skrulls]]; Secret Invasion Vol 1 5 Textless.jpg
+
+| description     = A long time ago, the [[Celestials (Race)|Celestials]] visited [[Skrullos]] and experimented on the genetics of a native life form, creating three branches among that species: the '''[[Prime Skrulls|Prime]]''' (or "Normals"), the '''[[Eternal Skrulls|Eternals]]''' and the '''[[Deviant Skrulls|Deviants]]'''.
+
+The Deviant Skrulls became the dominant species, waging war against their cousin races and exterminating them. They are commonly known as '''Skrulls''', and the '''[[Skrull Empire]]'''.
+
+{{Portal
+|Image Size      = 150px
+|Box1 Image      = Prime Skrulls from Incredible Hercules Vol 1 120 001.jpg
+|Box1 Text       = [[Prime Skrulls]]<br/>]]
+|Box2 Image      = Kly'bn (Earth-616) from Incredible Hercules Vol 1 119 001.jpg
+|Box2 Text       = [[Eternal Skrulls]]<br/>]]
+}}
+
+| Others1        = [[Skrull Prime (Earth-616)|Skrull Prime]]; Professor X (War Skrull) (Earth-616).jpg
+| Others2        = [[Super-Skrull]]; Avengers Vol 8 11 Fantastic Four Villains Variant Textless.jpg
+| Others3        = [[Prime Skrull (Earth-616)|Prime Skrull]]; Prime Skrull (Earth-616) from Blackwulf Vol 1 7 001.jpg
+
+| Teams1         = [[Skrull Empire]]; Skrull Empire from Annihilation Super-Skrull Vol 1 1 001.jpg
+| Teams2         = [[Skrullfire Club (Warp World) (Earth-616)|Skrullfire Club]]; Skrullfire Club (Warp World) (Earth-616) from Secret Warps Arachknight Annual Vol 1 1 0001.jpg
+| Teams3         = [[Skrull Pantheon (Earth-616)|Skrull Pantheon]]; Skrull Pantheon (Earth-616) from Incredible Hercules Vol 1 117 001.jpg
+
+| Related1       = [[Skrullos]]; Skrullos from Incredible Hercules Vol 1 120 001.jpg
+| Related2       = [[Chitauri]]; Kalxor (Earth-1610) from Hunger Vol 1 1 002.jpg
+}}

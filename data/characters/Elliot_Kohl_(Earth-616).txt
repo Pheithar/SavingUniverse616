@@ -1,0 +1,50 @@
+{{Marvel Database:Character Template
+| Image                   = Elliot Kohl (Earth-616) from She-Hulk Vol 2 7 001.jpg
+| Name                    = [[Elliot Kohl]]
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Terrorist
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Dan Slott; Will Conrad
+| First                   = She-Hulk Vol 2 7
+
+| History                 = While working for Hydra, Kohl faced off with the [[Avengers (Earth-616)|Avengers]] and came under the thrall of [[Eros (Earth-616)|Starfox]]. Under Starfox's thrall, Kohl aided the Avengers and submitted himself for arrest. During the trial of ''New York v. Eros of Titan'', Kohl served as a witness for the prosecution claiming to still be under the thrall of Starfox.{{r|She-Hulk Vol 2 #6|7}} It was later revealed that Kohl was still loyal to Hydra and merely testified to discredit a standing Avenger just before the vote on the [[Superhuman Registration Act]].{{r|She-Hulk Vol 2 19}}
+
+| Personality             = 
+
+| Powers                  = None
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

@@ -1,0 +1,60 @@
+{{Marvel Database:Character Template
+| Image                   = Randolph James (Earth-616) from Fantastic Four Vol 1 215.jpg
+| Name                    = [[Randolph James]]
+| CurrentAlias            = [[Futurist]]
+| Aliases                 = 
+
+| Affiliation             = [[Blastaar (Earth-616)|Blastaar]], [[Reed Richards (Earth-616)|Reed Richards]]
+| Relatives               = [[Caroline James (Earth-616)|Caroline James]] (wife, deceased)
+| MaritalStatus           = Widowed
+
+| CharRef                 = {{cl|FF: Fifty Fantastic Years #1}}
+| Gender                  = Male
+| Height                  = 12'0"
+| Height2                 = (formerly 5'9")
+| Weight                  = 400 lbs
+| Weight2                 = (formerly 150 lbs)
+| Eyes                    = Pink
+| Eyes2                   = (no visible pupil; Formerly grey)
+| Hair                    = Bald
+| Hair2                   = (formerly grey)
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] [[Glossary:Mutate|mutate]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = Montclair, [[New Jersey (State)|New Jersey]]
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = Cosmic explorer; former research scientist, college professor
+| Education               = PhD in evolutionary biology
+| BaseOfOperations        = Mobile; formerly [[Stranger's World]]; [[New Jersey (State)|New Jersey]]
+
+| Creators                = Marv Wolfman; John Byrne
+| First                   = Fantastic Four Vol 1 215
+
+| History                 = [[File:Randolph James (Earth-616) from Fantastic Four Vol 1 215 0002.jpg|thumb|left|Professor Randolph James]]
+'''Randolph James''' was a former colleague of [[Reed Richards (Earth-616)|Reed Richards]] who was transformed into a powerful superhuman being.  Randolph was assaulted outside his home, and suffered injuries that jeopardized his life. In order to speed up his natural recuperation powers, Randolph used an evolution accelerator on himself. Instead of healing him it evolved him into a superhuman being with God-like powers - the Futurist.{{r|Fantastic Four #215}} Unfamiliar with his powers, he was manipulated by [[Blastaar (Earth-616)|Blastaar]] to oppose the [[Fantastic Four (Earth-616)|Fantastic Four]] but, as soon as he could see through it and the menace was finished, the Futurist decided to leave Earth instead of following Richards' advice to look for a way to de-evolve.{{r|Fantastic Four #216}}
+
+The Futurist was then captured by the enigmatic alien, the [[Stranger (Cosmic Being) (Earth-616)|Stranger]], and was imprisoned in the Stranger's [[Labworld]] for the alien to study him. He remained there until freed by [[Grom (Earth-616)|Overmind]].{{r|Quasar Vol 1 #15}}
+
+| Powers                  = 
+'''Telepathy'''
+'''Energy Blasts''': The Futurist emitted an energy blast that was able to penetrate the [[Susan Storm (Earth-616)|Invisible Woman]]'s force field.{{r|Fantastic Four #316}}
+'''Flight'''
+'''Transmogrification''': The Futurist emitted a beam from his eyes that turned people into rodents, insects, and presumably other creatures. 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * [http://www.marvunapp.com/Appendix/futuristff.htm Futurist on Marvel Appendix]
+}}
+[[Category:Telepaths]]
+[[Category:Flight]]
+[[Category:Stranger Experiment]]

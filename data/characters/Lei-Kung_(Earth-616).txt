@@ -1,0 +1,69 @@
+{{Marvel Database:Character Template
+| Image                   = Lei-Kung (Earth-616) from New Avengers Vol 2 25 001.png
+| Name                    = [[Lei-Kung]]
+| CurrentAlias            = Yu-Ti
+| Aliases                 = [[Thunderer|The Thunderer]] August Personage in Jade
+
+| Affiliation             = [[K'un-Lun]], ally of [[Iron Fist]]<!-- all of them? Danny Rand? -->, [[Anthony Stark (Earth-616)|Iron Man]] and the [[Avengers (Earth-616)|Avengers]]
+| Relatives               = [[Davos (Earth-616)|Steel Serpent (Davos)]] (son);<br>[[Thunderer (Sparrow) (Earth-616)|Thunderer (Sparrow)]] (adoptive daughter)
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Black
+| Hair                    = Bald
+| UnusualFeatures         = 
+
+| Origin                  = Immortal [[Homo sapiens|human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[K'un-Lun]]
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = K'un-Lun
+| Occupation              = Ruler of K'un Lun, former instructor, Thunderer of K'un-Lun
+| Education               = Extensive martial arts training
+| BaseOfOperations        = [[K'un-Lun]]
+
+| Creators                = Len Wein; Roy Thomas; Larry Hama
+| First                   = Marvel Premiere #16
+| First2                  = (1st appearance historically)<br>{{sld|Avengers Vol 8 #13}}(1st appearance chronologically)
+| Death                   = Iron Fist: The Living Weapon #3
+
+| Quotation               = [[Daniel Rand (Earth-616)|Daniel]], wait. Do you know the secret of forever? I want to tell you something my father once told me. Decapitation, asphyxiation, blunt trauma, strangulation... Any number of paths to a single result. Your heart stops beating. Don't you see? All death comes from the heart. Armor yourself... Make your body hard and keep your heart soft. If you can protect your heart, you will never die. This is the secret of forever. You may feel like an outsider now... But one day, if you earn it, you will be invited to eat the fruit of immortality. And then you will truly be among us.
+| Speaker                 = [[Lei-Kung (Earth-616)|Thunderer]]
+| QuoteSource             = Iron Fist: The Living Weapon Vol 1 3
+
+| History                 = Lei-Kung was the immortal martial arts master of [[K'un-Lun]], charged by K'un-Lun's ruler to train all the males of the city in kung-fu. He was an unparalleled master of K'un-Lun's martial arts, and trained generations of K'un-Lun's inhabitants. Among his students were the current Iron Fist, [[Daniel Rand (Earth-616)|Daniel Rand]],{{r|Marvel Premiere #16}} and all of Daniel's immediate predecessors. It is possible that Lei-Kung trained every man and woman to ever bear the title Iron Fist.
+
+One million years ago, [[Fan Fei (Earth-616)|Fan Fei]] was brought before Lei-Kung for training early humans in K'un-Lun martial arts so they could defend themselves, an act which was forbidden. Lei-Kung made Fei watch as the [[Dragons of K'un-Lun|dragon]] [[Shou-Lao (Earth-616)|Shou-Lao]] killed her students. Fei attacked Shou-Lou, hoping to die with her student, but she unexpectedly killed the dragon, becoming the first Iron Fist. For killing Shou-Lou, Lei-Kung exiled Fei. After years of wandering [[Earth]] and proving herself, Lei-Kung offered Fei to return to K'un-Lun, but Fei refused, stating that Earth was her home now.{{r|Avengers Vol 8 #13}}
+
+Among Lei-Kung's more infamous students was his son, [[Steel Serpent (Davos) (Earth-616)|Davos]], who like all males of K'un-Lun trained to be a potential Iron Fist. Davos progressed well, but he was eventually defeated by [[Wendell Rand (Earth-616)|Wendell Rand]]. Enraged by his loss, Davos attempted to perform the Iron Fist ritual and battle Shou-Lao on his own, without the city's blessing. Defeated by the dragon, Lei-Kung found Davos laying in the snow outside of Shou-Lao's temple and took him home without a word. Embittered by the loss of his self-proclaimed fate, and much to Lei-Kung's shame, Davos would become a regular enemy of both the new Iron Fist, Wendell's son, and his native city.
+
+After the death of Lord Tuan, the ruler of K'un-Lun who adopted Daniel Rand-Kai, Lei-Kung watched as [[Tuan (Earth-616)|Tuan]]'s son, [[Nu-An (Earth-616)|Nu-An]], became the new ruler of the mystical city-state. Seeing Nu-An's corruption and subjugation of his people first-hand,{{r|Iron Fist #6}} Lei-Kung began a secret rebellion to overthrow the ruler. Believing that the men of K'un-Lun would be loyal to Nu-An, Lei-Kung instead trained the women of the city to serve as the warriors for his rebellion, the Army of Thunder.{{r|Immortal Iron Fist #12}}
+
+Lei-Kung's shadow rebellion spent decades preparing itself, maintaining its secrecy as Nu-An's reign became ever more dictatorial and deceptive. Finally, during the Celestial Tournament, a rare dimensional event where parts of all seven of the immortal cities intersect for a short period of time, Lei-Kung began the rebellion. With assistance from the seven immortal weapons including Iron Fist, Lei-Kung deposed Nu-An and became the new ruler of K'un-Lun.{{r|Immortal Iron Fist #14}}
+
+When [[Daniel Rand (Earth-616)|Iron Fist]] came back to K'un-Lun after the events of [[Avengers vs. X-Men (Event)|Avengers vs. X-Men]], he found Lei-Kung decapitated by [[Shu-Hu (Android) (Earth-616)|the One]].{{r|Iron Fist: The Living Weapon #3}}
+
+| Powers                  = '''Immortality:''' Lei-King is immortal in the sense that he has stopped aging and cannot die from natural causes. He has lived for at least a million years and retains a body in its prime.{{r|Avengers Vol 8 #13}}{{Citation}}
+| Abilities               = Extremely skilled martial artist.{{Citation}}
+| Strength                = 
+| Weaknesses              = While Lei-King cannot die from natural causes, he can still be killed by unnatural means including fatal injury.{{r|Iron Fist: The Living Weapon #3}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = The symbol that Lei Kung wears on his chest is from the Chinese I CHING. It is hexagram #30, or Li, meaning Fire.
+| Links                   = * http://home.flash.net/~jeanneb/l.html
+}}
+[[Category:True Immortals]]
+[[Category:Chi Manipulation]]
+[[Category:Martial Arts]]
+[[Category:Thrown Weapons]]
+[[Category:Fencing]]
+[[Category:Lei-Kung Family]]

@@ -1,0 +1,33 @@
+{{Marvel Database:Organization Template
+| Image                   = D.A.N.T.E. (Earth-616) from Tales of Suspense Vol 2 1 0001.png
+| Name                    = D.A.N.T.E.
+| Aliases                 = 
+
+| OrganizationLeaders     = [[Emil Stein (Earth-616)|Emil Stein]]
+| CurrentMembers          = [[Beck (Assassin) (Earth-616)|Beck]]
+| FormerMembers           = 
+
+| Identity                = Secret
+| Affiliation             =
+| Allies                  = 
+| Enemies                 = [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]]
+
+| Origin                  = Criminal Organization
+| Reality                 = Earth-616
+| Status                  = Active
+| BaseOfOperations        = Mobile, globally
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+
+| Creators                = 
+| First                   = Tales of Suspense Vol 2 1
+
+| History                 = 
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * [http://www.marvunapp.com/Appendix/dantecapim.htm D.A.N.T.E. at the Marvel Appendix]
+}}
+[[Category:Terrorist Organizations]]

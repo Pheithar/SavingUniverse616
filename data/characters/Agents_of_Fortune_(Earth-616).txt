@@ -1,0 +1,40 @@
+{{Marvel Database:Team Template
+| Image                   = Agents of Fortune (Earth-616) from Defenders Vol 1 58 0001.jpg 
+| Name                    = Agents of Fortune
+| Aliases                 = Cult of Harvester of Eyes{{r|Defenders Vol 1 60}}
+
+| Status                  = Defunct
+| Identity                = Secret
+
+| Reality                 = Earth-616
+| BaseOfOperations        = A temple in [[Mexico]]{{r|Defenders Vol 1 58|60}}
+
+| Leaders                 = [[Vera Gemini (Earth-616)|Vera Gemini]]
+| CurrentMembers          = [[Agent of Fortune (Earth-616)|Agent of Fortune]]
+| FormerMembers           = [[Eric Payne (Earth-616)|Devil-Slayer]]
+| Allies                  = 
+| Enemies                 = [[Defenders (Earth-616)|Defenders]]; [[Eric Payne (Earth-616)|Devil-Slayer]]
+
+| Origin                  = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = David Kraft; Ed Hannigan
+| First                   = Defenders Vol 1 58
+| Last                    = Defenders Vol 1 60
+
+| HistoryText             = The Agents of Fortune are members of a cult dedicated to the rebirth of an ancient demon race on Earth. They were led by [[Vera Gemini (Earth-616)|Vera Gemini]], who was the daughter of a human and a demon. Eric Simon Payne, aka [[Eric Payne (Earth-616)|Devil-Slayer]], was once a member of the Agents of Fortune, but quit. He would later return to battle the organization.{{r|Marvel Spotlight Vol 1 33}} The [[Agent of Fortune (Earth-616)|Agent of Fortune]] stole the [[Amulet of Agamotto]] from [[Stephen Strange (Earth-616)|Doctor Strange]] as a part of this plot. The [[Defenders (Earth-616)|Defenders]] succeeded in defeating them.{{r|Defenders Vol 1 58|60}}
+
+The human members of the Cult lusted for power, but they were unwitting pawns of their leader Vera Gemini. They were offered as human sacrifice to the [[Demons]]. When they managed to summon many demons to Earth, they were brutally slain by the Demons.{{r|Defenders Vol 1 60}}
+
+| Equipment               = 
+| Transportation          = 
+* At least two members of the cult had [[Shadow Cloaks|Shadow Cloak]]s which allowed them to teleport. 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+* [http://www.marvunapp.com/Appendix3/cultharvesteye.htm Profile of the Cult] in the Appendix to the Marvel Handbook
+* [http://www.marvunapp.com/Appendix/geminive.htm#Agent  Profile of the Agent] in the Appendix to the Marvel Handbook
+}}
+[[Category:Teams]]

@@ -1,0 +1,53 @@
+{{Marvel Database:Character Template
+| Image                   = Fiona (Inhuman) (Earth-616) from Inhumanity The Awakening Vol 1 1 001.jpg
+| Name                    = Fiona
+| Name2                   = (surname unknown)
+| CurrentAlias            = Fiona
+| Aliases                 = Fiona16 (Social network pseudo){{r|Inhumanity: The Awakening #1}}
+
+| Affiliation             = Formerly {{m|Avengers Academy}}
+| Parents                 = Unnamed mother
+| Siblings                = [[Flynn (Inhuman) (Earth-616)|Flynn]] (brother)
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Blue
+| Hair                    = White (feathers); Blond (formerly)
+| UnusualFeatures         = Feathered head, feathered <nowiki>arms</nowiki> with wings and talons. 
+
+| Origin                  = [[Homo sapiens|Human]] with [[Inhomo supremis|Inhuman]] lineage[[Category:Human/Inhuman Hybrids]][[Category:Hybrids]] activated by a [[Terrigen Bomb]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Student
+| Education               = 
+| BaseOfOperations        = [[Avengers Compound]], [[Los Angeles]], [[California (State)|California]]; formerly [[Mystic (Connecticut)|Mystic]], [[Connecticut (State)|Connecticut]]
+
+| Creators                = Matt Kindt; Paul Davidson
+| First                   = Inhumanity: The Awakening #1
+
+| History                 = Fiona was a normal girl until the city of [[Attilan]] fell and the [[Terrigen Mists]] were released. It was then that she discovered that she had [[Inhuman]] ancestry and experienced [[Terrigenesis]]. After her transformation, she experienced both cyber-bullying and physical bullying and was about to commit suicide when several teenage heroes from [[Avengers Academy (Earth-616)|Avengers Academy]] and the [[Jean Grey School]] interrupted her attempt and saved her.{{r|Inhumanity: The Awakening #1}}
+
+| Powers                  = '''Flight'''
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Flight]]
+[[Category:Avian Form]]
+[[Category:Terrigen Bomb Activations]]

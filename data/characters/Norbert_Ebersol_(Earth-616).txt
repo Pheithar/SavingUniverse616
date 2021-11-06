@@ -1,0 +1,150 @@
+{{Marvel Database:Character Template
+| Image                   = Norbert Ebersol (Earth-616) from Thunderbolts Vol 3 2 001.png
+| Name                    = [[Paul Norbert Ebersol]]
+| CurrentAlias            = [[Fixer]]
+| Codenames               = [[Techno]]{{r|Incredible Hulk #449}}
+| Aliases                 = Bert,{{r|Thunderbolts Vol 1 103}} Mister Fix{{r|Marvel Team-Up Vol 1 118}}
+
+| Affiliation             = {{m|Thunderbolts}}; formerly {{m|Army of Evil}}, {{m|Masters of Evil}}, {{m|50-State Initiative|Initiative}}, [[Anthony Power (Earth-616)|Professor Power]] (employer), [[Marvin Flumm (Earth-616)|Mentallo]] (ally), {{m|Advanced Idea Mechanics (Earth-616)|AIM}}, {{m|Redeemers}}, {{m|New Enforcers}}, {{m|Hydra}}, {{m|Roxxon Energy Corporation (Earth-616)|Roxxon}}
+| Relatives               = [[Norbert Ebersol (Robot) (Earth-616)|Techno robot]] (creation housing his consciousness, deceased)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #4}}
+| Gender                  = Male
+| Height                  = 5'8"
+| Weight                  = 154 lbs 
+| Eyes                    = Brown
+| Hair                    = Black (currently); Shaved [[:Category:Bald|Bald]][[Category:Bald]] (formerly)
+| UnusualFeatures         =
+
+| Origin                  = [[Homo sapiens|Human]] [[Cyborgs|Cyborg]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Dayton]], [[Ohio (State)|Ohio]] 
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = Inventor; formerly criminal
+| Education               = High School Drop-out, self educated
+| BaseOfOperations        = Mobile; formerly the [[Raft]], [[Mount Charteris]], [[Thunderbolts Clubhouse]]
+
+| Creators                = Stan Lee; Jack Kirby
+| First                   = Strange Tales #141
+
+| Quotation               = If you co-operate with me ... you may yet live to see tomorrow!
+| Speaker                 = [[Norbert Ebersol (Earth-616)|Fixer]]
+| QuoteSource             = Iron Man Vol 1 202
+
+| History                 = 
+===Early life===
+Paul Norbert Ebersol was a child prodigy with such great mechanical aptitude that he took apart and repaired an alarm clock at age 3. By 10, he had built a small electric automobile; by 13, a relatively complex robotic arm -- both from readily available spare parts. Dropping out of high school due to lack of interest, Norbert was fired from a number of jobs because of his air of superiority and unorthodox approach to simple tasks. Seeking a challenge, he turned to the planning and execution of technologically assisted crimes. He found that such activities not only stimulated his intellect, but provided him with new raw materials to create even more advanced technological devices. Plus, as a criminal he could command the respect he always felt he deserved.{{r|Thunderbolts Annual #1997}}
+
+===Hydra===
+Norbert escaped from prison, and teamed with his partner [[Marvin Flumm (Earth-616)|Mentallo]], together they captured [[Nicholas Fury (Earth-616)|Nick Fury]] and attempted takeover of the New York [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] base.{{r|Strange Tales #141|142}} However [[Iron Man (Anthony "Tony" Stark)|Iron Man]] arrived and took them out with a team of S.H.I.E.L.D. agents.{{r|Strange Tales #143}} He's connection with [[THEM (Earth-616)|THEM]] was revealed; which was a subdivision of [[Hydra (Earth-616)|Hydra]].{{r|Strange Tales #145}} At this time it was revealed he had been appointed chief of the Hydra Science Division.{{r|Daredevil #121}}
+
+===Deathlok===
+The two criminals escaped again and tried to get their revenge on S.H.I.E.L.D. They captured the [[Benjamin Grimm (Earth-616)|Thing]] and tried to steal [[Time Platform]] from the [[Baxter Building]]. They planned to bring [[Luther Manning (Earth-7484)|Deathlok]] from his alternate future to the present.{{r|Marvel Two-In-One Vol 1 26}} Mentallo controlled Deathlok's mind and had him try and  assassinate the President, but they were stopped [[Fantastic Four (Earth-616)|Fantastic Four]] and arrested by S.H.I.E.L.D.{{r|Marvel Two-In-One Vol 1 27}}
+
+===Micronauts===
+They were freed again by [[Baron Karza (Earth-616)|Baron Karza]] of the [[Microverse]] who had taken control of Hydra. He was freed to create the living machine-intelligence [[Computrex (Earth-616)|Computrex]].{{r|Micronauts #24}} However the machine was defeated and destroyed by the [[Micronauts (Earth-616)|Micronauts]].{{r|Micronauts #25}}
+
+===Professor Power===
+They then aided [[Anthony Power (Earth-616)|Professor Power]] in the plan to transfer [[Charles Xavier (Earth-616)|Professor X]]'s powers to Mentallo, but they were defeated by [[Spider-Man (Peter Parker)|Spider-Man]].{{r|Marvel Team-Up #118}}
+
+He attempted a raid on the [[Northwind Observatory]], to steal [[Bruce Banner (Earth-616)|Bruce Banner]] inventions, but was taken down by [[Steven Rogers (Earth-616)|Captain America]].{{r|Avengers Annual #13}}
+
+Norbert broke into the [[Avengers Compound]] in an attempt to steal one of the [[Iron Man Armor]], but was stopped through the combined efforts of Iron Man and [[Kevin Plunder (Earth-616)|Ka-Zar]].{{r|Iron Man #202}}
+
+===Masters of Evil===
+The Fixer became one of Baron Zemo's Masters of Evil before the siege on Avengers Mansion. He tried and failed to come on to the female Yellowjacket several times during the endeavor. Fixer was one of the Masters captured when the remaining Avengers and reservists retook the mansion.{{r|Avengers #273|277}} 
+
+===Super-Adaptoid===
+Fixer was overpowered by the [[Super-Adaptoid (Earth-616)|Super-Adaptoid]], who changed places with him.{{r|Avengers #276|277}} Using his identity he escaped prison.{{r|Avengers #285}} The real Fixer was discovered by the Avengers in the Adaptoid's former confinement tube on [[Hydro-Base]].{{r|Avengers #287}} He tried to win over Yellowjacket again by breaking her out of custody, but was unsuccessful.{{r|Solo Avengers #12}}
+
+===Battling Iron Man Again===
+The Fixer broke into [[AccuTech (Earth-616)|AccuTech]] but found Iron Man and Rhodey waiting for him but he took them out with a pair of electrically charged bolas. The Fixer then attacked [[Barstow Electronics]] where he set off charges, which exploded injuring dozens of workers. Iron Man arrived to stop him and when the Fixer fired his weapon at Iron Man his armor absorbed the blast, re-channeling it into his reverse magnetic array and sending it back at the tank. The machine is crushed and the Fixer is trapped inside, unconscious.{{r|Iron Man #244}}
+
+===Hulk & Thing===
+Mentallo along with the Fixer hired a host of super villains to attack the Hulk. However the Hulk was locked in an arm wrestling match with the Thing. The villains tried everything from laser fire to power tools, but nothing could interrupt their arm wrestling match. They even dropped a bomb on the bar, but all this succeeded in doing is destroying the bar and all of the furniture.{{r|Incredible Hulk Annual #18}}
+
+===New Enforcers===
+Fixer and Mentallo were among the inner circle of the New Enforcers. When Spider-Man took down their outer circle of minions and henchmen, the true leaders of the Enforcers remained at large.{{r|Web of Spider-Man #100}}
+
+===Alpha Flight===
+The Fixer and a group of villains battled [[Alpha Flight (Earth-616)|Alpha Flight]].{{r|Alpha Flight #121}}
+
+===Thunderbolts===
+[[File:Norbert Ebersol (Earth-616) from Thunderbolts Vol 1 2 001.jpg|150px|left|thumb|As Techno]]
+When most of Earth's heroes, including the [[Avengers (Earth-616)|Avengers]] and [[Fantastic Four (Earth-616)|Fantastic Four]], seemingly died battling Onslaught, Ebersol joined forces with [[Helmut Zemo (Earth-616)|Baron Zemo]]. To gain the trust of the populace, the villains led the world to believe they were new heroes known as the [[Thunderbolts (Earth-616)|Thunderbolts]].{{r|Thunderbolts Annual #1997}}{{r|Incredible Hulk #449}} During a battle with the Elements of Doom, Norbert was seemingly killed. However, he'd downloaded his conscious to his [[Fixer's Tech-Pac|Tech-Pac]] and thus created a [[Norbert Ebersol (Robot) (Earth-616)|robot copy of himself]].{{r|Thunderbolts #7|9}}
+
+The robot lived for a while believing itself to be the real Norbert, but Zemo had actually taken the original organic body of the Fixer to his hideout in Brazil and tried to revive Ebersol. Unfortunately, the battle between [[Jack Monroe (Earth-616)|Scourge]] and Zemo (before Scourge killed the robot Techno) interrupted the regeneration. Fixer emerged surrounded by government agents and had to rely on his Tech-Pac for mobility.{{r|Thunderbolts #48}}
+
+===Redeemers===
+Since the CSA held to codes to his Tech-Pac, Fixer was forced to work for them. He was reluctantly put into the [[Redeemers (Earth-616)|Redeemers]] team but survived the massacre by [[Franklin Hall (Earth-616)|Graviton]] and was part of the Thunderbolts team that went to [[Counter-Earth (Heroes Reborn)|Counter-Earth]] under the command of Zemo.{{r|Thunderbolts #49|58}}
+
+When the Thunderbolts returned to Earth, they tried to save the world by removing all transnormal power, but unfortunately this led to [[Karla Sofen (Earth-616)|Moonstone]] going insane and during the following fight against and alongside the Avengers, Fixer saved his own skin and fled.{{r|Avengers/Thunderbolts #1|6}}
+
+===Deadpool & Cable===
+[[File:Norbert Ebersol (Earth-616) from Cable & Deadpool Vol 1 11 001.jpg|thumb]]
+[[Wade Wilson (Earth-616)|Deadpool]] tried to save [[Nathaniel Summers (Earth-616)|Cable]]’s life. After obtaining a Techno-Organic alien from [[George Tarleton (Earth-616)|M.O.D.O.K.]], Deadpool tracked down the Fixer in hopes that he would be able to fix Cable.{{r|Cable & Deadpool #11|12}}
+
+===Civil War===
+During the [[Civil War]] and the implementation of the [[Superhuman Registration Act]], Fixer became a registered hero.{{r|Civil War #6}}{{r|Civil War: Battle Damage Report #1}}
+
+===Dark Reign===
+At the [[Commission on Superhuman Activities (Earth-616)|Commission on Superhuman Activities]] facility in [[Portland (Oregon)|Portland]], Oregon, Fixer and [[Abner Jenkins (Earth-616)|Abner Jenkins]], tested the new [[Mobile Armored Cyber-Harness|MACH-V suit]]. But were interrupted by Songbird who crashed in. Songbird told them about the corruption left behind by Osborn and that it was up to them to make it right. Fixer expressed his doubts about helping a wanted fugitive, especially since it took a lot of hard work to obtain this job but Jenkins asserted that they had to help her and offered Songbird their assistance. She gave Jenkins a goodbye kiss before leaving.{{r|Thunderbolts #134}} As they are on the run from Scourge, they made it to Yankee Stadium but it was crawling with H.A.M.M.E.R. goons. They then stole a M-RAP (Mine-Resistant Ambush-Protected Vehicle) to make their escape. Unfortunately, a chopper blasts them to the side of the bridge. They both make a risky jump from the vehicle, before it is destroyed. Luckily, they are saved by MACH-V, while Fixer takes down the chopper. Later, Fixer informed both Widow and Songbird that the Fury Osborn shot was a Life Model Decoy.{{r|Thunderbolts #136}}
+   
+===New Thunderbolts===
+After [[Norman Osborn (Earth-616)|Norman Osborn's]] dismissal as head of [[H.A.M.M.E.R.]], [[Steven Rogers (Earth-616)|Steve Rogers]] replaced him and re-instated the Thunderbolts program. The Raft prison was completely repurposed to house the increasing flow of supervillains. Thanks to MACH-V and Fixer, a dampening field was set up against any superpowers; the guards had obscuring armor and shock tech that worked only for them; and genetically engineered jellyfish with a deadly nerve toxin, placed half-a-mile around the island.{{r|Enter the Heroic Age #1}} Former Thunderbolts Fixer, Mach-V and Songbird were given senior status with the team being lead by [[Luke Cage (Earth-616)|Luke Cage]].{{r|Thunderbolts #144|146}} As well as working with the Thunderbolts, Fixer had also been seen working with Baron Zemo.{{r|Captain America #606}}{{r|Captain America #608}}{{r|Thunderbolts #147|150}}{{r|Hulk Vol 2 #28}}{{r|Thunderbolts #152}}{{r|Thunderbolts #154|158}}{{r|Hawkeye: Blind Spot #3}}
+
+===Fear Itself ===
+[[File:Norbert Ebersol (Earth-616) from Thunderbolts Vol 1 167 001.jpg|left|150px|thumb]]
+Fixer created a force field to secure a group of prisoners who escaped from the Raft after the [[Cain Marko (Earth-616)|Juggernaut]] destroyed it when he became [[Kuurth (Earth-616)|Kuurth: Breaker of Stone]].{{r|Thunderbolts #159|160}} Fixer spent most of his time with the team running tech-support and staying behind at the Raft; which was the home of the Thunderbolts headquarters. Fixer eventually became discontent with his position and tired of constantly being neglected and not allowed to come along on missions.{{r|Thunderbolts #161|162}}
+
+===Travelling to the Past===
+[[File:Norbert Ebersol (Earth-616) from Thunderbolts Vol 1 164 0001.jpg|right|120px|thumb]]
+He escaped together with several other inmates who were members of the Thunderbolts. Due to a failure of the teleportation technology of their tower (caused by [[Man-Thing]]), the tower began to move in time as well as in space. They ended up in [[World War II]] teaming up with the [[Invaders]] to battle the [[National Socialist German Workers Party (Earth-616)|Nazis]].{{r|Thunderbolts #163.1|165}} They next ended up in Victorian [[London (England)|London]].{{r|Thunderbolts #166|168}} They went even further back in time ending up in [[Arthur Pendragon (Earth-616)|King Arthur]]'s court in [[Camelot]].{{r|Thunderbolts #169}}
+
+They eventually bounced back to the time of the original Zemo-lead Thunderbolts team of which Fixer had been a member.{{r|Thunderbolts #170|171}} After his younger self began accessing Fixer's files and enraged Fixer by berating him for becoming inactive and lethargic, Fixer killed him in a fit of rage by activating the self-destruct on his gear.{{r|Thunderbolts #172}} This began to cause a collapse in reality which forced Fixer to assume his younger self's place. His appearance was altered in order to resemble his younger self and his aging was halted. In order to prevent the past from being altered, his memory of everything after to the time they had returned to was removed as well; just like the other past Thunderbolts.{{r|Thunderbolts #173}}
+
+===Lost in the Timestream===
+When the rest of the team returned to the present, they told Songbird and Mach-V that Paul was dead, having sacrificed himself to save the [[Glossary:Timestream|timestream]].{{r|Thunderbolts #174}} 
+
+===Pleasant Hill===
+At an unspecified time, Fixer was freed from the time loop and brought into existence again by the sentient [[Cosmic Cube]] known as [[Kobik (Earth-616)|Kobik]], who had been used by S.H.I.E.L.D. to create the facility known as [[Pleasant Hill]], a small town were supervillains got altered by Kobik into model citizens. Kobik felt various of Nobert's former teammates miss him, so decided to bring him back as an inmate of Pleasant Hill. Norbert was then transformed into a mild-mannered car mechanic named Phil.{{r|Thunderbolts Vol 3 6}} However, Nobert subconsciously began to create different unusual kinds of equipment, until he found himself having created a machine to restore his memories. He then found [[Helmut Zemo (Earth-616)|Baron Zemo]], who had been transformed into a man named Jim, and restored his memories as well.{{r|Avengers Standoff: Welcome to Pleasant Hill #1}} Fixer aided Zemo in his takeover of Pleasant Hill but escaped during the standoff between Avengers, S.H.I.E.L.D., and the Pleasant Hill prisoners, ending up with [[James Buchanan Barnes (Earth-616)| The Winter Soldier]], who had been running undercover work at Pleasant Hill.{{r|Avengers Standoff: Assault On Pleasant Hill Omega #1}}{{r|Thunderbolts Vol 3 1}}
+
+===All-New All-Different Thunderbolts===
+Fixer became one of the new Thunderbolts led by The Winter Soldier, alongside longtime partners Moonstone, [[Erik Josten (Earth-616)|Atlas]], MACH X, along with the living cosmic cube [[Kobik (Earth-616)|Kobik]]. After witnessing Kobik's immense power, Fixer, who didn't see her as a person but merely a tool, began a scheme with Moonstone to take out The Winter Soldier and Kobik, while also gaining their freedom again,{{r|Thunderbolts Vol 3 1|3}} but Kobik understood what they were trying to do and messed with their heads so they'd have a tea party instead.{{r|Thunderbolts Vol 3 6}}
+
+A week later, Moonstone realized she had a gap in her memories and, after talking to Norbert about it, the two confronted Kobik. Frustrated about the kid, this led Fixer to betray Bucky alongside Moonstone and Atlas and let Kobik be apprehended.{{r|Thunderbolts Vol 3 10}}
+
+===Thunderbolts Return===
+Hydra's leader Baron Zemo and [[Wilson Fisk (Earth-616)|Mayor Fisk]] came up with a plan to deal with the [[Frank Castle (Earth-616)|Punisher]] once and for all. Along with other villains, Fixer was approached by Zemo to join a new incarnation of the Thunderbolts. He was introduced at a press conference with the other members as Citizen V pronounced that they will end the Punisher's reign of terror and restore order to [[New York City]].{{r|Punisher Vol 12 13}}
+
+| Powers                  = None; Fixer relies upon his [[Fixer's Tech-Pac|Tech-Pac]].
+| Abilities               = * '''[[Genius Intelligence]]:''' The Fixer was an intuitive genius at invention of weapons and other electrical and mechanical devices. He has designed numerous devices and paraphernalia for himself, including his body armor.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 4}}
+| Strength                =
+| Weaknesses              = Techno's neck was snapped by the Elements of Doom, forcing him to abandon his organic body for a mechanical one.{{r|Thunderbolts #8|9}} His organic body was preserved and the neural damage to his spinal cord was slowly regenerating in a nano-bath, but he was forced to exit stasis early. As a result, Fixer was virtually paralyzed on his own and relied on the Tech-Pac's equipment to artificially support his nervous system and allow mobility.{{r|Thunderbolts #49|54}}
+
+| Equipment               =
+| Transportation          =
+| Weapons                 = The [[Fixer's Tech-Pac]] contains modular components that can reshape themselves into almost any weapon or device he can think of. A bio-chip implant allows Fixer to control the Tech-Pac mentally.{{r|Thunderbolts #8}} The Tech-Pac can link up with other weapons and technology, incorporating them into Fixer's control as well.{{r|Thunderbolts #3}} Among Fixer's creations with the Tech-Pac are electrical or vibro blasters,{{r|Thunderbolts #1}} laser visors,{{r|Thunderbolts #2}} remote flying cameras,{{r|Thunderbolts #4}} security system jammers,{{r|Spider-Man Team-Up #7}} hover sleds,{{r|Thunderbolts #8}} and so on.
+
+Originally as the Fixer, Ebersol used a battle vest containing a wide variety of miniaturized weapons and tech. These included rockets, lasers, concussion blasters, anti-gravity disk, mind control pods and a pistol that could shoot electro-neutralizers that could render power armor, like [[Iron Man (Tony Stark)|Iron Man's]], temporarily unusable.{{r|Official Handbook of the Marvel Universe #4}}{{r|Official Handbook of the Marvel Universe Vol 2 #4}}{{r|Official Handbook of the Marvel Universe Master Edition #6}}
+
+| Notes                   = * Fixer was involved in the battle between the Marvel and the DC Universe.{{r|JLA/Avengers #3}}
+* The Fixers early appearances are reprinted in {{cl|Astonishing Spider-Man #77}} and {{cl|Hulk Visionaries: Peter David Vol 1 8}}.
+| Trivia                  = * Fixer almost never uses his first name preferring to be called by his middle name Norbert or its diminutive Bert.
+| Links                   = 
+}}
+[[Category:Suicide]]
+[[Category:Robotics]]
+[[Category:Engineers]]
+[[Category:Scientists]]
+[[Category:Consciousness Transferred]]
+[[Category:Paralyzed Characters]]
+[[Category:Time Travelers]]
+[[Category:Physicists]]
+[[Category:Chemists]]
+[[Category:Computer Hacking Skills]]
+[[Category:Fixer Experiment]]
+[[Category:Time-Looped]]

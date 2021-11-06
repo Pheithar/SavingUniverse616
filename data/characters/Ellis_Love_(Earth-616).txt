@@ -1,0 +1,74 @@
+{{Marvel Database:Character Template
+| Image                   = Ellis Love (Earth-616) from Secret Warriors Vol 1 17 001.jpg
+| Name                    = Ellis Love
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{M|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}} ({{m|Moth Squadron}}, [[S.H.I.E.L.D. Helicarrier Iliad|Iliad]] {{M|S.H.I.E.L.D. Psi Division (Earth-616)|Psy-Ops Department}},{{r|Secret Avengers Vol 2 6}} {{m|Secret Avengers (S.H.I.E.L.D.) (Earth-616)|Secret Avengers Initiative}}); Formerly [[Nicholas Fury (Earth-616)|Nick Fury]] and [[Alexander Pierce (Earth-616)|Alexander Pierce]]'s {{m|Caterpillars|Caterpillars (Team Black)}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = [[Inner Harbor]], [[Baltimore]], [[Maryland (State)|Maryland]]
+
+| Identity                = No Dual
+| Citizenship             = American 
+| Occupation              = government agent; Former criminal 
+| Education               = 
+| BaseOfOperations        = Formerly [[The Raft]]; [[S.H.I.E.L.D. Helicarrier Iliad|Iliad]]
+
+| Creators                = Jonathan Hickman; Alessandro Vitti
+| First                   = Secret Warriors #17
+| Death                   = Secret Warriors Vol 2 1
+
+| History                 = 
+===Origin===
+Ellis Love was a telepathic criminal who was serving time on the [[Raft]].{{r|Secret Warriors #16}}
+
+===Caterpillar===
+As she was listed as an untapped superhuman which he could use in his secret war against [[Hydra (Earth-616)|Hydra]] and [[Leviathan (Earth-616)|Leviathan]], [[Nicholas Fury (Earth-616)|Nick Fury]] freed her and gave her a reduced sentence if she joined his {{m|Caterpillars}} teams. She was assigned to Team Black, which was led by [[Alexander Pierce (Earth-616)|Alexander Pierce]], and where all of the more problematic Caterpillars were sent.{{r|Secret Warriors #16}}
+
+Team Black was deployed to take part in a joint attack on [[Hydra (Earth-616)|Hydra]]'s [[Hell's Heaven]] base in [[China]] along with the [[Howling Commandos Private Military Company (Earth-616)|Howling Commandos PMC]].{{r|Secret Warriors #17}} The mission was successful with Team Black taking point on the infiltration of the base, allowing for a bomb to be detonated destroying the base.{{r|Secret Warriors #18}} With their mission complete, Team Black made their own separate exit, not realizing that the Commandos would suffer a devastating battle against Hydra forces after they left.{{r|Secret Warriors #19}}
+
+Having won his secret war against Hydra and [[Leviathan (Earth-616)|Leviathan]], Nick Fury pulled together all of the surviving members of the Secret Warriors and Howling Commandos together into a new organization sponsored by the [[United Nations (Earth-616)|United Nations]]. Team Black now served in this organization under the overall command of [[Daisy Johnson (Earth-616)|Quake]].{{r|Secret Warriors #28}}
+
+===S.H.I.E.L.D.===
+====Psy-Ops Department and Secret Avengers Initiative====
+Ellis became part of S.H.I.E.L.D.'s [[S.H.I.E.L.D. Helicarrier Iliad|Iliad]] {{M|S.H.I.E.L.D. Psi Division (Earth-616)|Psy-Ops Department}},{{r|Secret Avengers Vol 2 6}} under [[Maria Hill (Earth-616)|Maria Hill]] and Johnson. As part of the [[Secret Avengers (S.H.I.E.L.D.) (Earth-616)|Secret Avengers Initiative]], Ellis would transmit the "Reverie" codeword controlling agents' memory implants. The unique nature of [[Anthony Masters (Earth-616)|Taskmaster's]] memory structure sometimes made him difficult to trigger.{{r|Secret Avengers Vol 2 5|7}}
+
+====Moth Squadron====
+Ellis was later part of the {{m|Moth Squadron}}, along with fellow Caterpillars [[Cornell Gray (Earth-616)|Grey]] (from Team Black) and [[Elena Rodríguez (Earth-616)|Slingshot (Yo-Yo)]], along with [[Agent Kellam (Earth-616)|Kellam]] and another agent, led by Quake. Together, they monitored [[New Attilan]].{{r|Secret Warriors Vol 2 1}}
+
+While on this assignment, they were re-dispatched by [[Steven Rogers (Earth-61311)|Captain America]] (secretly leader of [[Hydra (Earth-616)|Hydra]]) to [[Inner Harbor|Baltimore Harbor]], to investigate a base, where they were ambushed by the [[Wrecking Crew (Earth-616)|Wrecking Crew]]. She was seemingly killed in the brawl along all her team, save for Quake.{{r|Secret Warriors Vol 2 1}}
+
+| Powers                  = '''Telepathy:''' Ellis Love's Caterpillar file listed her powers as telepathic.
+
+'''Telekinesis:''' After months of training as part of the Secret Warriors it was revealed she also has telekinetic powers.{{r|Secret Warriors #17}}
+| Abilities               = Ellis Love received the same training in espionage and combat as other members of the Secret Warriors.
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = S.H.I.E.L.D. Uniforms{{r|Secret Warriors Vol 2 1}}
+| Transportation          = 
+| Weapons                 = S.H.I.E.L.D.-issued gun{{r|Secret Warriors Vol 2 1}}
+
+| Notes                   = * Ellis Love was first mentioned in the back matter of the first issue of Secret Warriors, which featured Nick Fury's list of [[Caterpillars (Earth-616)|Caterpillars]]. Ellis Love did not actually appear until midway into the series, where [[Caterpillars (Earth-616)|Team Black]] appeared for one story arc.   
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Telekinesis]]
+[[Category:Telepaths]]
+[[Category:Unknown Origin]]
+[[Category:Secret Empire casualties]]

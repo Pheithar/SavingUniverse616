@@ -1,0 +1,61 @@
+{{Marvel Database:Character Template
+| Image                   = FF Vol 2 4 Variant Textless.jpg
+| Name                    = Darla Deering
+| CurrentAlias            = Miss Thing
+| Aliases                 = 
+
+| Affiliation             = {{m|Ant-Man Security Solutions}}, {{m|Fantastic Four (Earth-616)|Fantastic Four}}, {{m|Future Foundation (Earth-616)|Future Foundation}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Pink
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Public 
+| Citizenship             = American
+| Occupation              = Musician
+| Education               = 
+| BaseOfOperations        = Formerly [[Baxter Building]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]
+
+| Creators                = Matt Fraction; Mike Allred
+| First                   = Marvel NOW! Point One #1
+
+| Quotation              = My name is '''Darla Deering''', and I got my first recording contract when I was '''fourteen'''. By the time I was eighteen I had '''seven number-one hits''', two golds, and one platinum record. I won a Grammy at '''nineteen''', and ever since I could drive, I took home every Video Music Award that MTV ever nominated me for. I have '''twenty-nine''' million Yamblr followers. '''67 million likes''' on Facespace. More people watched me on '''NewToob''' last year than go to the '''movies'''. And Bentley-23 is my friend.
+| Speaker                 = [[Darla Deering (Earth-616)|Miss Thing]] to [[Blastaar (Earth-616)|Blastaar]]
+| QuoteSource             = FF Vol 2 7
+
+| History                 = Darla Deering was a pop star who dated [[Jonathan Storm (Earth-616)|Johnny Storm]], the Human Torch of the [[Fantastic Four (Earth-616)|Fantasic Four]].
+
+When [[Reed Richards (Earth-616)|Mr. Fantastic]] planned a trip through space and time, he tasked each member of the team to find a suitable replacement just in case, as the travel was through time, they would return four minutes after they departed. 
+
+As Johnny forgot to find one, he rushed to Darla's apartment and asked her to take his spot in the Fantastic Four, alongside [[Scott Lang (Earth-616)|Ant-Man]] (replacing Mr. Fantastic), [[Medusalith Amaquelin (Earth-616)|Medusa]] (replacing the Invisible Woman) and [[Jennifer Walters (Earth-616)|She-Hulk]] (replacing The Thing), which she accepted. Four minutes after the Fantastic Four departed, they didn't return, prompting the newly cobbled together team to become the acting Fantastic Four and watch over the Future Foundation.{{r|Fantastic Four Vol 4 2}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+* '''[[Thing Rings]]:''' Two rings worn by Darla Deering that when touched together creates the Thing Exoskeleton around her.
+* '''[[Thing Exoskeleton]]:''' Darla wears [[Benjamin Grimm (Earth-616)|Thing's]] Exoskeleton originally designed by [[Reed Richards (Earth-616)|Reed Richards]] during a time the Thing did not have his powers. It is modified with an open space instead of The Thing head piece with a piece of technology replicating Invisible Women's force fields as a bubble helmet.
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Armor Users]]
+[[Category:Musicians]]
+[[Category:FaceSpace Users]]

@@ -1,0 +1,69 @@
+{{Marvel Database:Character Template
+| Image                   = Ghost Rider (1,000,000 BC) (Earth-616) from Avengers Vol 8 7 0004.jpg
+| Name                    = [[Ghost]]
+| NameRef                 = {{r|Avengers Vol 8 7}}
+| CurrentAlias            = [[Ghost Rider]]
+| CurrentAliasRef         = {{r|[[Marvel Legacy]]'s promotional material}}
+| Aliases                 = [[Rider]],{{r|Marvel Legacy #1}} [[Spirit of Vengeance]]{{r|Avengers Vol 8 7}}
+
+| Affiliation             = {{m|Spirits of Vengeance (Earth-616)|Spirits of Vengeance}}; formerly {{m|Avengers (1,000,000 BC) (Earth-616)|Avengers of 1,000,000 BC}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Dark
+| Eyes2                   = ([[:Category:No Eyes|No Eyes]][[Category:No Eyes]] as Ghost Rider)
+| Hair                    = Black
+| Hair2                   = ([[:Category:No Hair|No hair]][[Category:No Hair]] as Ghost Rider)
+| UnusualFeatures         = [[:Category:Flaming Body|Flaming]][[Category:Flaming Body]] skull for a head
+
+| Origin                  = [[Early human]] bonded to a [[Spirit of Vengeance]]{{r|Marvel Legacy #1}}
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Spirit of Vengeance, adventurer
+| Education               = 
+| BaseOfOperations        = [[Mephisto's Realm]]
+
+| Creators                = Jason Aaron; Esad Ribić
+| First                   = Marvel Legacy Vol 1 1
+
+| Quotation               = In the time since then, I've been given new names. '''The Rider,''' they call me. Because most have never seen a man astride a beast. Not that I'm a man anymore, really. I'm what '''[[Wendigo (1,000,000 BC) (Earth-616)|he]]''' named me. I'm more ghost than man. More fire than flesh. More spirit than bone. '''The Spirit of Vengeance.'''
+| Speaker                 = [[Ghost Rider (1,000,000 BC) (Earth-616)|Ghost Rider]]
+| QuoteSource             = Avengers Vol 8 7
+
+| History                 = [[File:Ghost_Rider_(1,000,000_BC)_(Earth-616)_from_Avengers_Vol_8_7_0001.jpg|thumb|left|As a human.]] 
+The young man who came to be the first [[Ghost Rider]] lived on [[Earth]] about a million years ago as part of a group of cavemen. At an early age, he realized he was smarter than the rest of his pack, a fact he kept to himself out of fear of being isolated. One day, [[Wendigo (1,000,000 BC) (Earth-616)|a mysterious man]] approached the pack and quickly became the leader by violent means. Eventually, the stranger revealed himself to be a [[Wendigo (Race)|Wendigo]] and devoured the entire pack save for the young boy. Before leaving, the man gave the boy the name "Ghost" and challenged the boy to find him. With everyone he had ever known gone, the boy chose to venture out beyond his cave, convinced that if the stranger could survive then so could he. Eventually, Ghost grew exhausted due to the harsh environment. It was then he was approached by [[Mephisto (Earth-616)|a snake]] which convinced him to say its real name as a way to achieve his goal. Ghost was then bonded to a [[Spirit of Vengeance]], befriending a [[Mammoths|mammoth]] right after his transformation.
+[[File:Ghost Rider (1,000,000 BC) (Earth-616), Firehair (Earth-616), and Odin Borson (Earth-616) from Avengers Vol 8 7 001.jpg|thumb]]
+
+Five years later, Ghost finally tracked down the Wendigo to exact his revenge and engaged him in an intense fight. The fight ended with the Wendigo pushing Ghost's mammoth off a cliff with him, though the Wendigo claimed that he would survive the fall, but wondered if the Rider could survive the loneliness now that his mammoth friend was gone. The Rider was then approached by [[Odin Borson (Earth-616)|Odin]] and [[Phoenix (1,000,000 BC)|Lady Phoenix]], who asked him to join [[Avengers (1,000,000 BC) (Earth-616)|the prehistoric Avengers]].{{r|Avengers Vol 8 7}}
+
+Together they fought an out-of-control [[Celestials (Race)|Celestial]] known as the [[Zgreb (Earth-616)|Fallen]]. After his new mammoth was killed, Ghost Rider swore vengeance on the Fallen and vowed to drink its blood. The Avengers eventually defeated the Fallen and sealed it in an underground chamber in what would become the modern-day country of [[South Africa]].{{r|Marvel Legacy #1}} He later joined his allies in battling the [[Glossary:First Host|First Host]].{{r|Avengers Vol 8 4}}
+
+| Personality             = 
+
+| Powers                  = Seemingly [[Spirits of Vengeance (Earth-616)#Powers|those]] of a standard [[Ghost Rider]], the only deviance being he could control and animate the bones of the deceased for various effects.{{r|Avengers Vol 8 7}}
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = The Ghost Rider rode [[Mammoths|woolly mammoths]] he imbued with hellfire.{{r|Marvel Legacy #1}}{{r|Mighty Thor: At the Gates of Valhalla #1}}{{r|Avengers Vol 8 7}}
+| Weapons                 = 
+
+| Notes                   = * Ghost becoming Ghost Rider in the Stone age contradicts {{cl|Ghost Rider Vol 6 #33}} in which it is established that the Ghost Riders were created by [[Yahweh (Earth-616)|God]], using his own power, after the [[Great Cataclysm]].
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Pyrokinesis]]
+[[Category:Demonic Form]]
+[[Category:Damnation participants]]
+[[Category:Osteokinesis]]
+[[Category:Prehistoric characters]]

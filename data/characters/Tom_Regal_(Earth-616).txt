@@ -1,0 +1,49 @@
+{{Marvel Database:Character Template
+| Image                   = Tom Regal (Earth-616) from X-Men Vol 1 36 0001.jpg
+| Name                    = Thomas Regal
+| CurrentAlias            = Mekano
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = [[Andrew Regal (Earth-616)|Andrew Regal]] (father)
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 6'4"
+| Weight                  = 183 lbs
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] Technology user
+| Reality                 = Earth-616
+| PlaceOfBirth            = East Hampton, [[New York (State)|New York State]]
+
+| Identity                = Secret
+| Citizenship             = USA
+| Occupation              = 
+| Education               = College (graduation unconfirmed)
+| BaseOfOperations        = 
+
+| Creators                = Roy Thomas; Ross Andru
+| First                   = X-Men #36
+
+| History                 = Tom Regal was the son of the philantropist [[Andrew Regal (Earth-616)|Andrew Regal]]. Because he felt neglected as a son, he stole weapons from a university laboratory and turning into the super-villain Mekano. He then tried to destroy a library constructed by his father, but was stopped by the [[X-Men (Earth-616)|X-Men]]. He came to see the wrongness of his acts and reconciled with his father.{{r|X-Men Vol 1 36}}
+
+| Powers                  = 
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * http://www.marvunapp.com/Appendix/mekano.htm
+}}

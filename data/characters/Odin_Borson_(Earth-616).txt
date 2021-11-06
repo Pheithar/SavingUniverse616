@@ -1,0 +1,278 @@
+{{Marvel Database:Character Template
+| Image                   = Odin Borson (Earth-616) from Fear Itself Vol 1 1 Immonen Variant cover 001.jpg
+| Name                    = [[Odin Borson]]
+| Title                   = [[Odin]]
+| Aliases                 = [[All-Father]],{{citation}} Val-Father,{{citation}} the All-God,{{r|Thor Ages of Thunder #1}} [[Atum-Re]],{{r|Thor #240}} [[Infinity]],{{r|Thor #184}} [[Wōden]]/{{r|Thor & Hercules: Encyclopaedia Mythologica #1|; Odin's entry}}[[Woden]]{{r|Savage Sword of Conan #40}} (Anglo-Saxon name),{{r|Thor & Hercules: Encyclopaedia Mythologica #1|; [[Asgardians]]' entry}} [[Wotan]]{{r|Captain America: Hail Hydra #1|'s recap}}{{r|Thor & Hercules: Encyclopaedia Mythologica #1|; Odin's entry}} (Old High German name),{{r|Thor & Hercules: Encyclopaedia Mythologica #1|; [[Asgardians]]' entry}} [[Wulf]] the Wanderer,{{r|Thor & Hercules: Encyclopaedia Mythologica #1|; Odin's entry}}{{citation}} the Wild Huntsman,{{citation}} Orrin,{{citation}} Farma-god,{{citation}} Hanga-god,{{citation}} Hapta-god,{{citation}} Harbard,{{citation}} Odin One-Eye,{{r|Thor & Hercules: Encyclopaedia Mythologica #1|; Odin's entry}} Sigtyr,{{citation}} Wad,{{r|Thor #497}} Raven-God,{{r|Thor #620.1}} Odin the Usurper,{{r|Fear Itself #4}} Usurper,{{r|Secret Avengers #14}} [[Destroyer]],{{r|Secret Avengers #14}} Desecrator,{{r|Secret Avengers #14}} Odin Giant-Killer
+
+| Affiliation             = [[Asgardians]]; {{m|Council of Godheads}}; formerly [[Lost Gods (Earth-616)|Lost Gods]]; {{m|Avengers (1,000,000 BC) (Earth-616)|Avengers of the Stone Age}}
+| Grandparents            = [[Buri (Asgardian) (Earth-616)|Buri]] (paternal grandfather);<br>
+[[Bolthorn (Earth-616)|Bolthorn]] (maternal grandfather)
+| Parents                 = [[Bor Burison (Earth-616)|Bor Burison]] (father, deceased);<br>
+[[Bestla (Earth-616)|Bestla]] (mother)
+| Siblings                = [[Vili Borson (Earth-616)|Vili Borson]] (brother);<br>
+[[Ve Borson (Earth-616)|Ve Borson]] (brother);<br>
+[[Cul Borson (Earth-616)|Cul Borson]] (brother)
+| Spouses                 = [[Freyja Freyrdottir (Earth-616)|Freyja Freyrdottir]] (wife, separated)
+| Children                = [[Thor Odinson (Earth-616)|Thor Odinson]] (son);<br>
+[[Vidar Odinson (Earth-616)|Vidar Odinson]] (son);<br>
+[[Balder Odinson (Earth-616)|Balder Odinson]] (son);<br>
+[[Tyr Odinson (Earth-616)|Tyr Odinson]] (son);<br>
+[[Hermod Odinson (Earth-616)|Hermod Odinson]] (son);<br>
+[[Aldrif Odinsdottir (Earth-616)|Aldrif Odinsdottir]] (daughter by);<br>
+[[Laussa Odinsdottir (Earth-616)|Laussa Odinsdottir]] (daughter);<br>
+[[Roger Norvell (Earth-616)|Red Norvell]] (adopted son);<br>
+[[Loki Laufeyson (Earth-616)|Loki Laufeyson]] (adopted son, deceased);<br>
+[[Loki Laufeyson (Ikol) (Earth-616)|Ikol]] (reincarnated, adopted son)
+| Relatives               = [[Mimir Burison (Earth-616)|Mimir Burison]] (paternal uncle);<br>
+[[Njord Burison (Earth-616)|Njord Burison]] (paternal uncle);<br>
+[[Skadi (Earth-616)|Skadi]] (paternal aunt);<br>
+[[Frey (Earth-616)|Frey]] (father-in-law);<br>
+[[Gullveig (Earth-616)|Gullveig]] (sister-in-law);<br>
+[[Hoder Vilison (Earth-616)|Hoder Vilison]] (nephew);<br>
+[[Aske (Earth-616)|Aske]] (creation, deceased);{{r|Thor Vol 2 83}}<br>
+[[Embla (Earth-616)|Embla]] (creation, deceased);{{r|Thor Vol 2 83}}<br>
+[[Donald Blake (Earth-616)|Donald Blake]] (creation)<br>
+Large extended family by [[Loki Laufeyson (Earth-616)|Loki]] and others
+| MaritalStatus           = Separated
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 6'9"
+| Weight                  = 650lbs
+| Weight2                 = 700lbs in prime
+| Eyes                    = Blue
+| Hair                    = White
+| Hair2                   = formerly [[:Category:Blond Hair|blond]][[Category:Blond Hair]][[Category:Infobox Eyes Update Needed]]
+| UnusualFeatures         = Missing one eye
+
+| Origin                  = [[Aesir|Asgardian]] [[Glossary:Hybrids|Son]] of an [[Aesir]] and a [[Frost Giant|Frost Giantess]]; Deity
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Asgard]]
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = Asgardian
+| Occupation              = Deity; [[Asgardian]] [[Gods of Earth|God]] of the Sky,{{citation}} Wind,{{citation}} Wisdom,{{citation}} Crafts,{{citation}} Time,{{citation}} and the Dead;{{citation}} Warrior 
+Former Monarch of [[Asgard]], Asgardian Sky Father;{{r|Thor & Hercules: Encyclopaedia Mythologica #1|; [[Asgardians]]' entry}}
+| Education               = 
+| BaseOfOperations        = [[Asgard (City)|City of Asgard]], [[Asgard (Realm)|Asgard]]
+
+| Creators                = Stan Lee; Larry Lieber; Jack Kirby
+| First                   = Journey into Mystery #85
+
+| Quotation              = '''Aye'''. I '''am''' an old man--'''foolish''' and '''fond''', and quick with my '''temper'''. There are times I show '''little''' wisdom. And yet...'''here''' is wisdom. The strange wisdom of the '''world-tree''' I gave this eye to. The tree that is '''everything'''. That has its roots and branches in '''all that is'''. There are '''ten realms''' in this reality--ten '''spheres''', ten '''universes''', and the tree winds through them '''all'''. Through every '''star''' and '''planet'''. Every '''hero''' and '''villain'''. Every '''life'''. Every '''story'''. I am '''Odin Borson''', who build the world from '''corpse-meat'''. I am '''Odin One-Eye''', and '''sometimes''' my one eye is '''open'''. But above all, I am '''Odin All-Father'''. I am '''the one who speaks for the tree'''. I am '''the king of all stories'''...and '''you are my child'''.
+| Speaker                 = [[Odin Borson (Earth-616)|Odin]]
+| QuoteSource             = Loki: Agent of Asgard Vol 1 11
+
+| Overview                 = '''Odin Borson'''{{r|Journey into Mystery #85}} the [[All-Father]]{{r|Loki: Agent of Asgard Vol 1 11}} is King of Asgard and protector of the [[Ten Realms]]. He is a member of the race known as the [[Asgardians]], a group of humanoid beings from the [[pocket dimension]] of [[Asgard (Realm)|Asgard]],{{r|Official Handbook of the Marvel Universe Vol 2 6}} the Realm Eternal.{{r|Marvel Graphic Novel Vol 1 15}} During the ancient times, he was worshiped as the god of wisdom by the [[Homo sapiens|humans]] known as [[Vikings]] on [[Midgard]]. He is considered the wisest and the most powerful of the Asgardians.{{r|Thor & Hercules: Encyclopaedia Mythologica #1|; Odin's entry}} He is also a member of the [[Council of Godheads (Earth-616)|Council of Godheads]] battling all threats against the Pantheons of Earth.{{r|Thor Vol 1 300}} Odin is a name that is respected and feared throughout the Universe.{{r|Loki: Agent of Asgard Vol 1 11}} He is the son of [[Bor Burison|Bor]] and [[Bestla (Earth-616)|Bestla]], brother of [[Vili Borson (Earth-616)|Vili]], [[Ve Borson (Earth-616)|Ve]], [[Cul Borson (Earth-616)|Cul]] and husband of [[Freyja Freyrdottir (Earth-616)|Freyja]]. He has fathered many children such as [[Vidar Odinson (Earth-616)|Vidar]], [[Balder Odinson (Earth-616)|Balder]] and of course the Mighty [[Thor Odinson (Earth-616)|Thor]] his son and heir.{{r|Thor & Hercules: Encyclopaedia Mythologica #1|; Odin's entry}} He hoped to bring peace to all the realms and during one of the great battle against the [[Frost Giants]] of [[Jotunheim]] he defeated their leader [[Laufey (Earth-616)|Laufey]]. In the process he found his abandoned son [[Loki Laufeyson (Earth-616)|Loki]] and adopted him as his own and hoped he would one day bring peace to their two realms.{{r|Thor Vol 3 8}} When Loki learned the truth he grew resentful turning of his adopted father hoping to usurp his throne.{{r|Journey into Mystery Vol 1 85}} 
+
+
+| History                 = 
+===Origin===
+As with other Asgardians born after [[Buri (Asgardian) (Earth-616)|Buri]], '''Odin''' and his pantheon have undergone several reincarnations over the millennia.
+
+'''Odin''' the All-Father's true origin was shrouded in mystery, often only delivered in short stories by Odin himself. Odin was presumed to be the son of [[Bor Burison (Earth-616)|Bor]] (son of Buri, the first [[Aesir]]) and [[Bestla (Earth-616)|Bestla]], a giantess. Bor and Bestla had three other sons, [[Cul Borson (Earth-616)|Cul]], [[Vili Borson (Earth-616)|Vili]], and [[Ve Borson (Earth-616)|Ve]].{{r|Journey into Mystery #97}} 
+
+Odin, Vili, and Ve bested [[Ymir (Earth-616)|Ymir]] the Frost Giant, constructing the cosmos from Ymir’s corpse. Together, the three brothers established [[Asgard]], which became the home of the gods.{{r|Thor Annual #5}}{{r|Thor #294}}
+
+Odin once battled an unbelievably powerful cosmic storm called the [[God Tempest (Earth-616)|God Tempest]] when it threatened Asgard. Odin defeated the God Tempest and sealed it away into a chunk of Uru that would one day be forged into the mighty hammer [[Mjolnir]].{{r|Mighty Thor Vol 3 12}}
+
+===[[Stone Age]] (1,000,000 BC)===
+At some point, Odin went to [[Midgard]] (which was called [[Aesheim]] at the time) and created the [[humans]]. Bor was ill-pleased and afflicted them with suffering.{{r|Thor Vol 3 7}}
+
+Initially struggling to control Mjolnir, Odin befriended a number of mystically-empowered prehistoric humans, forming the [[Avengers (1,000,000 BC) (Earth-616)|Stone Age Avengers]] to defend Earth from threats like the out-of-control [[Celestials (Race)|Celestial]] known as the [[Zgreb (Earth-616)|Fallen]]. Odin wanted to nail the Fallen's corpse to the [[Luna (Moon)|Moon]] as a warning to other Celestials, but instead he and the Avengers sealed the Fallen in an underground chamber in the modern-day country of [[South Africa]].{{r|Marvel Legacy #1}} He entered into a romantic relationship with his comrade [[Firehair (Earth-616)|Lady Phoenix]], who survived for longer than any of their comrades.{{r|Avengers Vol 8 4}} At some point during their relationship, Firehair gave birth to [[Thor Odinson (Earth-616)|Thor]].{{r|Avengers Vol 8 43}}
+
+===[[War of the Serpent]]===
+When Bor died, his son Cul proclaimed himself All-Father and ruler of Asgard, but Odin, Vili, and Ve opposed him.{{r|Mighty Thor Vol 2 7}}{{Verify source}}{{citation}}<!-- if right reference, please hide it --> Facing Cul's madness, perceived in his statements and actions against the mortals, wanting them to be afraid, Odin went to [[Yggdrasill]] and stabbed his eye as a sacrifice in exchange for wisdom, and was revealed that Cul was corrupted. The path to follow was then revealed to him by the World Tree via prophecy.{{r|Mighty Thor Vol 2 7}}
+
+Along with his two brothers, Odin assaulted Cul's fortress. For forty days and forty nights, Cul and his [[Worthy (Earth-616)|Worthy]] remained hidden in the palace while his brothers slaughtered their [[Draumar]] forces and eventually broke in.{{r|Mighty Thor Vol 2 7}}{{r|New Mutants Vol 3 31}} Facing Odin, Cul denied their brotherhood, claiming to be the Serpent that Will Feast on the World. Odin recited the prophecy of the World Tree and then defeated his brother, projecting him away.{{r|Mighty Thor Vol 2 7}}
+
+===Burning Aesheim===
+Odin then slaughtered the people of Aesheim, razing and renaming it [[Midgard]] for that no god would ever live there again.{{r|Mighty Thor Vol 2 7}} Leading his armies, he destroyed the realm, assaulting the fortresses of the mortals and killing every single one of them;{{r|Secret Avengers #14}} billions of mortals tainted by the Serpent's sickness.{{r|Fear Itself #6}} Odin was known then as the Usurper or the Destroyer.{{r|Secret Avengers #14}}
+
+He erased the memory of his brother, and became the All-Father, trying to rule with patience and compassion (unlike Cul), and trying to escape the World Tree prophecy.{{r|Mighty Thor Vol 2 7}}
+
+===Surtur===
+Vili, Ve, and Odin later journeyed together into the realm of the [[Fire Giants|Fire Giant]] [[Surtur (Earth-616)|Surtur]]. Vili and Ve sacrificed themselves to allow Odin to escape from Surtur's realm. Upon their deaths, Odin's own godly attributes were increased as a result of his brothers' powers joining with his.{{r|Thor #349}}
+
+[[File:Odin Borson (Earth-616) from Marvel Legacy Vol 1 1.jpg|thumb|right|250px|Odin as a young man]]
+===Pre-Cataclysmic Age===
+Odin was invoked by [[Zarfhaana|Zarfhaanans]] during the [[Pre-Cataclysmic Age]], circa 18,500 BC.{{r|Kull the Conqueror #10}}
+
+===Hyborian Age===
+During the [[Hyborian Age]], '''Woden''''s name was invoked by [[Vanirmen]] (circa 10,000 BC).{{r|Conan the Savage #3}}
+
+===Thor & Loki===
+Odin made [[Freyja Freyrdottir (Earth-616)|Frigga]], the Asgardian goddess of fertility, marriage, and motherhood, his queen. Odin purportedly also mated with [[Gaea (Earth-616)|Jord (Gaea)]], in order to sire [[Thor Odinson (Earth-616)|Thor]],{{r|{{cl|Thor Vol 1 300}}-[[Thor Vol 1 301|301]]}} although the [[Phoenix Force (Earth-616)|Phoenix Force]] later exposed this as a lie perpetrated to Thor so that he would protect the Earth.{{r|Avengers Vol 8 43}}
+
+Later Odin and his army battled [[Laufey (Earth-616)|King Laufey]] and the [[Giants of Jotunheim]]. As Laufey went to kill Odin, he was defeated and left for dead. Odin adopted [[Loki Laufeyson (Earth-616)|Loki]], son of Laufey, as his own son.{{r|Thor Vol 3 8}} Unknown to him, this part was a trick set up by a future Loki to ensure their destiny.{{r|Thor Vol 3 12}}
+
+===Many Adventures of Odin===
+Odin, the son of Bor, the grandson of Buri, had many unrecorded adventures. Among these were his battle against [[Rimthursar (Earth-616)|Rimthursar]] (which preceded Thor's birth), the battle with Kryllik and his [[Rock Trolls|trolls]], his encounter with [[Fear (Dark Man) (Earth-616)|Fear]] and [[Desire (Earth-616)|Desire]], meeting [[Millennius (Earth-616)|Millennius]], his defeat of the [[Mangog (Earth-616)|Mangog]], and the imprisonment of a [[Ice Giants|snow giant]].{{citation}}
+
+Odin was often accompanied by his ravens [[Hugin (Earth-616)|Hugin]] (Thought) and [[Munin (Earth-616)|Munin]] (Memory), as well as the wolves [[Freki (Earth-616)|Freki]] (Greedy) and [[Geri (Earth-616)|Geri]] (Ravenous).{{citation}}
+
+===Worship on Midgard===
+The [[Humans]] of [[Midgard]] continued to worship Odin as a widely revered [[God]] in Germanic and Norse religions. The various human tribes throughout [[Scandinavia]]  and [[Germania]] such as the [[Vikings]], [[Franks]], [[Saxons]] and [[Anglo-Saxons]]. He became known by various names such as  [[Wōden]]/{{r|Thor & Hercules: Encyclopaedia Mythologica #1|; Odin's entry}}[[Woden]]{{r|Savage Sword of Conan #40}},{{r|Thor & Hercules: Encyclopaedia Mythologica #1|; [[Asgardians]]' entry}} [[Wotan]]{{r|Captain America: Hail Hydra #1|'s recap}}{{r|Thor & Hercules: Encyclopaedia Mythologica #1|; Odin's entry}},{{r|Thor & Hercules: Encyclopaedia Mythologica #1|; [[Asgardians]]' entry}} He was considered the god of the barbarians by the [[Roman Empire]].{{r|Doctor Strange, Sorcerer Supreme Vol 1 37}} His worship grew and spread as this tribes migrated and conquered much of Europe, but began to wain with the introduction of [[Christianity]].{{r|Thor & Hercules: Encyclopaedia Mythologica #1}}
+
+===[[Council of Godheads]]===
+Odin eventually learned of the coming of the Third Host of the [[Celestials (Race)|Celestials]], alien beings of inconceivable power who had influenced the evolution of the Earth’s human race and intended to judge humanity’s worthiness to survive when the Fourth Host came. Odin had contacted [[Zeus Panhellenios (Earth-616)|Zeus]], ruler of the [[Olympians|Olympian gods]], during a conflict between the Asgardians and the Olympians, to which the two of them had put to a quick end. The two monarchs then met with the ruling gods of Earth’s other pantheons to set a course of action. (This group of the ruling gods of Earth later became known as the Council of Godheads). Odin, Zeus, and [[Vishnu (Hindu Deity) (Earth-616)|Vishnu]] the Preserver of the [[Daevas|Hindu gods]], confronted the Third Host, which threatened to seal off the interdimensional passages between the gods' realms and Earth unless the gods ceased interfering with the Celestials’ activities for a millennium. Acting on behalf of Earth’s gods, Odin, Zeus, and Vishnu agreed to their terms, but Odin already began making plans for the Fourth Host, which would arrive about a millennium later. He constructed a suit of armor with nearly invincible powers called the [[Destroyer (Enchanted Armor)|Destroyer Armor]] and transformed the [[Ring of the Nibelung]] into the Destroyer’s armor. Frigga and the other leading goddesses of Earth’s pantheons took charge of finding Earth's human beings who were as close to genetic perfection as possible over these centuries.{{r|{{cl|Thor Vol 1 300}}-[[Thor Vol 1 301|301]]}}
+
+===Modern Age===
+At one point, Odin decided that it was time for his son Thor to learn humility. Odin had Thor surrender his hammer to him and then sent him to Earth in the mortal guise of a crippled young medical student named [[Donald Blake (Earth-616)|Donald Blake]], stripped of his memory (again) of his true identity. As Blake, Thor learned the value of humble perseverance in dealing with his injured leg, and he came to care for the sick and dying, first as a medical student, and later as a successful physician. After Thor had spent ten years in the role of Blake, Odin planted within Blake's mind the suggestion to take a vacation in Norway. There Blake encountered a party of alien [[Kronans]], also known as the Stone Men from Saturn, and rediscovered his magical hammer [[Mjolnir]].{{r|Journey into Mystery #83}}
+
+Odin continued to take a great interest in his son's life, even though there was often friction between them because of Thor's love for Earth and its inhabitants. When Thor fell in love with his assistant [[Jane Foster (Earth-616)|Jane Foster]], Odin disapproved and went to great lengths to break the relationship: He sent Loki to persuade the [[Amora (Earth-616)|Enchantress]] to travel to Earth and seduce Thor,{{r|Journey into Mystery #103}} and when that failed, Odin even traveled to Earth himself, which caused Loki to abuse his absence to try and claim the Asgardian throne for himself.{{r|Journey into Mystery #104}} When Thor decided to reveal his secret identity as Donald Blake to her, Odin temporarily removed his powers.{{r|Journey into Mystery #113}}
+
+Odin was believed dead twice before, killed both times in combat with the Fire Giant Surtur; during the first instance [[Heimdall (Earth-616)|Heimdall]], and later Balder, ruled Asgard in his absence, and a later time Thor inherited Odin's full power and ruled over Asgard and, later, Earth, although this later part of [[Thor Odinson (Earth-3515)|Thor]]'s lordship was erased due to time travel.{{citation}}
+
+Odin's spirit was present during the final Ragnarok, freeing Thor from [[Hela (Earth-616)|Hela]]'s clutches to send him to [[Those Who Sit Above in Shadow (Earth-616)|Those Who Sit Above in Shadow]]. As Thor eventually destroyed the Loom of [[Norns (Fates) (Earth-616)|Fates]] and stopped Asgard from perpetuating [[Ragnarok (Event)|Ragnarok]] - which ends the entire Norse pantheon and Asgard itself - Thor believed Odin might be dead permanently.{{r|Thor Vol 2 85}}
+
+[[File:Odin Family Tree.jpg|thumb|left|Odin Family Tree]]
+
+Years later, when Thor returned from hibernation in space,{{r|Thor Vol 3 1}} he began to find the lost Asgardians,{{r|Thor Vol 3 3|5}} and despite successfully restoring them all, he did not attempt to find his father. During the [[Odinsleep]], Thor had a vision in which he discovered that on a subconscious level he did not want to do so as he wished to be free of his father. Also during his Odinsleep, Thor found Odin in a limbo between life and death, where every day he did battle with Surtur to prevent the demon from re-entering the world. Odin declined Thor's offer of taking his place, and stated that Thor must continue to lead the Asgardians, while Odin continued to exist in a state he described as approximating the Asgardian equivalent of heaven in order to prevent Surtur from re-entering the world.{{r|Thor Vol 3 7|8}}
+
+Thor later brought Odin back to life in order to garner consultation and aid in defeating [[Uthana Thoth (Earth-616)|Uthana Thoth]], leader of the [[Ano-Athox]],{{r|Thor #615|621}} which Odin promptly defeated with the aid of Thor. Odin learned thereafter of Asgard's downfall, Balder's death, and Loki's de-aging, leading his people to the split ruins of the World Tree. There, Odin revealed the story of the world seed, a universal seed of untold power discovered long ago by Bor and his sons. Bor - not knowing the seed's potential power - planted it thus giving birth to the World Tree. Odin commanded Thor to retrieve the world seed from the depths of the ruined tree. Thor proceeded into the depths, retrieving the seed only at the cost of a wound that continued to fester upon him long after.{{citation}}
+
+====[[Fear Itself]]====
+Odin wandered the rubble of Asgard until he sensed the awakening of [[Cul Borson (Earth-616)|the Serpent]]. [[Uatu (Earth-616)|Uatu the Watcher]] arrived nearby to monitor this key event in history. Odin proceeded to berate and scold the Watcher for his passive stance toward the coming prophecy. Thor later discovered him yelling to which he questioned him why Odin responded by giving a dismissive reply. Heimdall later interrupted the gathering of heroes in Asgard declaring the coming of the Serpent. Odin commanded all Asgardians to leave Midgard. Thor refused and began a battle against him. Odin used his power to render Mjolnir useless binding Thor in chains bringing him to the Asgardian plane reborn under Odin's power. Odin worked to transform the realm into a war machine as part of his plan to raze Earth, thus cutting the power base for the Asgardian Fear God. Later Thor escaped his confines thanks to Loki and pleaded with his father to return to Earth to save it rather than destroy it. Odin granted Thor his wish, returning him to Earth via a portal he created, sucking Thor in and tossing his hammer Mjolnir with a stringent warning: Thor would have until the shadow of the Serpent fell on the World Tree before Odin's plan to raze the earth would become inevitable. Odin was later seen appearing on the ruins of the World Tree when [[Anthony Stark (Earth-616)|Tony Stark]] offered his sacrifice, in the form of his sobriety, to speak to him.{{r|Fear Itself #4}}
+
+Odin listened to Stark's appeal to use Asgard's forges to create weapons that might aid the heroes against the Serpent. Odin agreed, transporting Stark to the realm [[Nidavellir]], home of the Dwarves, the weaponsmiths to Asgard. Later Odin was seen with Heimdall at the gate to Asgard from Earth where [[Avengers (Earth-616)|the Avengers]] returned with a wounded Thor in tow and where an irate [[Steven Rogers (Earth-616)|Captain America]] berated the All-Father to fix Thor, whose aid was vital to the battle. Odin was speechless for a moment, but dismissed the Avengers back to earth, taking Thor to his private chambers, mystically healing some of his wounds and attempting to sway Thor from the battle against the Serpent which Odin deemed his own fight. After Thor staunchly refused his plea, Odin retrieved the armor he wore when he bested the Serpent in their first battle. explaining he could only bind him, not kill him.{{citation}}
+
+Ancient laws prevented Odin from doing so, explaining that the burden fell to Thor to end the Serpent by dying in battle. Donning his own armor, Odin departed with Thor for Nidavellir to retrieve Stark and his weapons for enchantment by him. Making one last plea to Thor to be taken away from the coming battle, asking the very same question he posed when he beat Thor before: "Are you man or are you god?" Prompting Thor to remind Odin of the man he raised him to be. Stark displayed the weapons to Odin which he, in turn, asked for his own weapon. Stark transformed into his armor mode displaying the modifications, Odin warned him he must be thrust into the hot Uru pool for his enchantment to which Stark agreed.{{r|Fear Itself #6}}
+
+After Thor battled [[Bruce Banner (Earth-616)|Nul]] and [[Benjamin Grimm (Earth-616)|Angrir]], he was injured and taken to Asgard where Odin helped and prepared him to battle against the [[Cul Borson (Earth-616)|Serpent]]. When Thor died killing the Serpent, Odin exiled himself to Asgard space, feeling guilty for not saving his family, leaving his wife [[Freya (Earth-616)|Freyja]] to reign over (the now called) Asgardia after Tony Stark rebuilt it with his [[Glossary:Repulsor|repulsor]] technology.{{r|Fear Itself #7}}
+
+====Return====
+Odin was later freed from his self-exile by Loki.{{r|Original Sin #5.4}} He traveled to the Tenth Realm of [[Heven (Tenth Realm)|Heven]] and discovered his long-lost daughter [[Aldrif Odinsdottir (Earth-616)|Angela]]. He revealed to Angela her true heritage as an Asgardian and offered to join him and the other Asgardians. Having been raised an [[Angels (Tenth Realm)|Angel]] and taught to hate Asgardians, Angela refused. The All-Father then set to return to [[Asgardia]].{{r|Original Sin #5.5}}
+
+After returning to Asgardia with his brother, Freyja revealed [[Loki Laufeyson (Ikol) (Earth-14412)|King Loki's]] existence and their plans for Asgardia's golden future by forcing present day Loki to become evil once more. Odin berated his wife, claiming that he wished no part of the plan and that Loki would not go easily into any "box" they planned for him.{{r|Loki: Agent of Asgard #7}} After [[Loki Laufeyson (Ikol) (Earth-616)|Loki]] revealed that he had killed and stolen the body of the [[Loki Laufeyson (Kid Loki) (Earth-616)|young Loki]] Thor had resurrected, thus being beaten and exiled from Asgardia by Freyja, Odin appeared to Loki and told him that he already knew, reaffirming that Loki was his child and that he loved him  nevertheless. However, Odin refused to help Loki, claiming that he needed to pay for killing his better self and to remember what a lie was before sending him back to Earth.{{r|Loki: Agent of Asgard #11}}
+
+====The New Thor====
+After Thor became unworthy to wield Mjolnir,{{r|Original Sin #7}} Odin attempted to retrieve it, but the worthiness enchantment had changed, which caused Odin to become unworthy to lift it as well. Soon after, Odin learned that a new [[Jane Foster (Earth-616)|Thor]] had been taken up the mystical weapon. Odin took this personally and wanted the hammer back. Odin asked [[Heimdall (Earth-616)|Heimdall]] who the new Thor was, but Heimdall told Odin that he wasn't omniscient and even he couldn't determine the new Thor's identity. So, Odin ordered his son, the original Thor, now going by the name of Odinson, to determine the identity of the new Thor.{{r|Thor Vol 4 5}} Odin eventually decided to simply get the hammer back and sent his revived brother, Cul Borson, to retrieve it while in the [[Destroyer (Enchanted Armor)|Destroyer Armor]], however, this plan failed.{{r|Thor Vol 4 6}}
+
+Following the disappearance of the Odinson, Odin became a tyrant and began to rule Asgardia with an iron fist, using the [[Thunder Guard (Earth-616)|Thunder Guard]] and the Destroyer Armor to protect his sovereignty, and going as far as imprisoning anyone opposing him, including his own wife,{{r|Mighty Thor Vol 3 1}} for having assisted the new Thor against the Destroyer.{{r|Mighty Thor Vol 3 2}} When Thor interrupted Frigga's trial, Odin confronted her and they fought.{{r|Mighty Thor Vol 3 4}} The battle was halted after Loki attacked Frigga with a poisoned dagger. Odin retreated to the chamber of the Odinsleep to treat Frigga, and remained there for months{{r|Mighty Thor Vol 3 5}} transfusing portions of his powers unto her body.{{r|Mighty Thor Vol 3 9}} He resurfaced when the Mangog returned, and attempted to kill the creature with Odinson's help, to no avail.{{r|Mighty Thor Vol 2 703}} The Asgardians were saved by Thor, who killed the Mangog at the cost of destroying Mjolnir. The hammer's destruction caused Thor to revert to the ill mortal form of Jane Foster and succumb to her cancer.{{r|Mighty Thor Vol 2 705}} Jane's sacrifice gained her Odin's respect. Because of this, the All-Father joined his son's efforts in channeling the [[God Tempest (Earth-616)|God Tempest]]'s power to bring her back to life.{{r|Mighty Thor Vol 2 706}}
+
+[[File:Thor Odinson (Earth-616) and Odin Borson (Earth-616) from War of the Realms Vol 1 6 001.jpg|thumb|left|Declaring Thor the All-Father]]
+====War of the Realms====
+When Malekith prepared to launch the final attack in his [[War of the Realms]] to take over Midgard, he sent Dark Elf assassins after Odin.{{r|War of the Realms Vol 1 1}} He managed to fend off the assailants and joined the fight against Malekith's army in [[Manhattan]]. Since he was still heavily injured, he was taken to the [[Avengers Mountain]] to rest.{{r|War of the Realms Vol 1 2}} Odin woke up when the heroes were already mounting a counter-offensive, and Freyja had gone on a mission to Svartalfheim to destroy the [[Black Bifrost]], the means of transportation of Malekith and his army across the Ten Realms. Odin went to her aid, clad in the [[Iron All-Father Armor]] of [[Anthony Stark (Earth-616)|Iron Man]]'s design, but both were taken hostage by Malekith after they destroyed the Black Biforst.{{r|War of the Realms Vol 1 4}}
+
+Odin and Freyja were taken to [[Stonehenge (Location)|Stonehenge]], where Malekith laid a trap for Thor, erecting a magical barrier that would kill his parents if anybody other than him passed through.{{r|War of the Realms Vol 1 5}} Thor managed to overcome Malekith's gambit by recruiting his young self from the past and [[Thor Odinson (Earth-14412)|his older self]] from the future, who were also joined by Jane Foster, temporarily restored to her Thor form. Following the victory over Malekith and Thor reclaiming the reforged Mjolnir, Odin declared Thor the New All-Father of Asgard.{{r|War of the Realms Vol 1 6}} Following the war, Odin still suffered from the event and was angered when Thor was late to his coronation. His wife calmed him down and eventually Thor was appointed the All-Father.{{r|Thor Vol 5 16}}
+
+====Prey====
+After Odin stepped down as king of Asgard, he and Freyja went out into kingdoms beyond the Ten Realms to work on their marriage. However, Odin was too stubborn, and eventually, Freyja left him. Brokenhearted, Odin drowned his sorrows in alcohol until he was confronted by Jane Foster, the new [[Valkyrie]]. She told him that Donald Blake had gone mad and was causing havoc, including trapping Thor and the Asgardians in separated dimensions and planning to destroy Yggdrasil. Motivated to stop Blake, Odin put on his armor and confronted Blake as he was cutting Yggdrasil with Jarnbjorn. As Odin and Blake talked, Blake was confronted by Thor whose spirit was piloting the Destroyer Armor.{{r|Thor Vol 6 13}}
+
+| Personality             = Due to his status as All-father of Asgard, Odin is an extremely prideful deity, demanding respect from all gods and mortals; he even dares to defy cosmic entities, such as the Celestials and Galactus himself. However, his pride turned him arrogant, to the point that he claimed that "the universe works according to my will" several times during his fight with Thor.{{citation}}
+
+Despite his pride, Odin values those who have proven themselves to be worthy, as when he gave Thor his powers back, after the thunder god had learned humility. Offered Beta Ray Bill the hammer Stormbreaker, after the Korbinite defeated Thor in combat. He also forgave Jane Foster for taking Mjolnir after she sacrificed her own life to save the Asgardians from Mangog.{{citation}}
+
+| Powers                  =
+[[File:Vishnu (Hindu Deity) (Earth-616), Odin Borson (Earth-616), Zeus Panhellenios (Earth-616), and Ajak (Earth-616) from Thor Vol 1 300 0001.png|thumb|Odin during the Celestials' 3rd host]]
+Odin possessed all the conventional attributes of an Asgardian God. However, as the king of the Asgardians, many of these attributes were significantly superior than those possessed by the majority of his race.
+
+*'''Superhuman Strength:''' In spite of his advanced age, Odin is much stronger than most Asgardians, near the time of his death he could lift 60 tons, where an average Asgardian male can lift 30 tons. However, at his peak during the time of the Celestials 3rd host on Earth, Odin could lift 75 tons, but in Odin's physical prime, he could lift 90 tons. He's also able to augment his strength to even greater heights by tapping into the Odin Force. With this power, despite being extremely weakened due to his battle with Galactus and thereby forced to go into his "[[Odinsleep]]", he was able to stagger the powerful cosmic entity with one powerful headbutt right before going into his Odinsleep (an act which injured both parties).
+
+*'''Superhuman Speed:''' Despite his age, Odin is capable of running and moving at speeds greater than even the finest human athlete, allowing him to rival his speed with most superhumans.
+
+*'''Superhuman Agility:''' Odin's agility, balance, and bodily coordination are far superior to the natural physical limits of the finest human athlete.
+
+*'''Superhuman Reflexes:''' Odin's reflexes are superior to the natural physical limits of the finest human athlete.
+
+*'''Superhuman Stamina:''' Odin's highly advanced musculature produces considerably less fatigue toxins during physical activity than the musculature of a human, and most other Asgardians. As a result, he possesses superhuman stamina in all physical activities. He could exert himself at peak capacity for months before fatigue would begin to impair him.
+
+*'''Superhumanly Dense Tissue:''' Odin's skin, muscle, and bone tissues are about 3 times as dense as those of a human beings. This contributes, in part, to Odin's superhuman strength and weight.{{r|Official Handbook of the Marvel Universe Vol 1 8}}{{r|Thor & Hercules: Encyclopaedia Mythologica Vol 1 1}}
+
+*'''Superhuman Durability:''' Odin's body is considerably more resistant to physical injury than the body of a human being, or even most other Asgardians for that matter. Odin's body is capable of withstanding great impact forces, exposure to temperature and pressure extremes, falls from great heights, and powerful energy blasts from cosmic level beings without sustaining injury, however, though to what extent is unknown.
+
+*'''Regenerative Healing Factor:''' Like all other Asgardians, it was possible to injure Odin, but he can recover from injury with superhuman levels of speed and efficiency. Odin is capable of regenerating massive tissue damage or loss to a degree far beyond that of most other Asgardians, even of being able to regenerate missing limbs and organs, faster and with much more efficiency. Odin's healing powers are far superior to all other Asgardian Gods.
+
+*'''Extended Longevity''': Odin, like all Asgardians, was extremely long-lived, although not truly immortal like [[Olympians]]. However, Odin still ages at a pace much slower than human beings. He was also immune to all known Earthly diseases and infections.
+
+*'''Odinforce''': {{g|possibly formerly}}{{r|Thor Vol 6 13}} Odin is capable of manipulating vast amounts of magical energy, referred to as the Odin Power, the Odin Force or the Odinsource, for a number of purposes. With this power, Odin was capable of magical feats such as transporting the entire human race to an alternate dimension,{{r|Journey into Mystery #104}} casting foes into deep space with a thought,{{r|Journey into Mystery #123}} read minds from across even dimensions,{{r|Thor #172}} projecting force blasts,{{r|Thor #471}} manipulate matter for a number of purposes, erecting nigh impenetrable force fields, barriers which can shield entire cities,{{r|Thor #338}} altering size,{{r|Journey into Mystery #513}} endowing people or objects with powers,{{r|Thor #339}}{{r|Thor #459}}{{r|Thor #378}} and compressing the population of an entire planet into a single being, namely [[Mangog (Earth-616)|Mangog]].{{r|Thor #154|157}} Odin was highly skilled in the use of his powers during combat situations, and was able to casually knock around the [[Norrin Radd (Earth-616)|Silver Surfer]] and [[Thanos (Earth-616)|Thanos]] simultaneously and even put the Silver Surfer down in one simple blast when he got annoyed as he kept asking them to stand down but they kept attacking to no avail, as their attacks could not even phase Odin.{{r|Thor #470}}{{r|Warlock and the Infinity Watch #25}}{{r|Thor #471}} He has easily beaten [[Absorbing Man]] (who had absorbed Asgard itself) and Loki together.{{r|Journey into Mystery #123}} Odin's power is such, that he was able to bring back both, Thor and Brunhilde back to life.{{r|Thor #300}} The power of the Odin Force is such that it can stop time itself, and allow one to travel through time.{{r|Thor Vol 2 79}} He has taken away a soul from the demonic entity [[Mephisto (Earth-616)|Mephisto]];{{r|Thunderstrike #15}} Odin's power was so vast, that when a part of Odin, his dark side bonded with the conceptual entity [[Infinity]], went rogue, it was so large that it could crush planets in its grip as if they were pebbles, his mere limbs stretched as far as galaxies. Odin's battle with Infinity destroyed entire galaxies and countless worlds. When awoken from his trance by Thor, Odin swiftly got rid of Infinity and with one simple act was powerful enough to restore all the damage Infinity had caused across the Universe in moments.{{r|Thor #185|188}} Shortly afterwards, Odin was able to easily slay the virtually indestructible Hela, Asgardian goddess of death, in an attempt to stop her from claiming Thor's life and soul, and then instantly bring her back to life upon realizing her continued existence was necessary to maintain the natural order of Asgard. Odin was able to quickly overpower [[Annihilus (Earth-616)|Annihilus]] when the latter attempted to seize Asgard when its dimension intersected with that of the [[Negative Zone]], after both Thor and the other Asgardians had failed in combat.{{r|Thor #405}}{{r|Thor #406}} Odin's power is such, that it has stated that at his peak, it is equal to the likes of Galactus as Odin was able to render a hungry Galactus unconscious right before the Odinsleep.{{r|Mighty Thor Vol 2 5}}{{r|Thor Annual #14}} Even the ability to grant human beings the gift of immortality is within Odin's grasp, as Thor asked him to do for [[Jane Foster (Earth-616)|Jane Foster]] in order to marry her. Odin is also capable of placing multiple permanent enchantments on items, as he did for [[Mjolnir]], lasting until he himself cancels them or they are overpowered by a superior enchantment.
+
+Odin was so powerful that in his fight with [[Seth (Earth-616)|Seth]] which was waged on several planes of existence simultaneously and felt across infinite planes of reality, the energy released from their battle was so powerful it shattered entire galaxies, reignited dying suns, and ripped the fabric of the multiverse.{{r|Journey into Mystery #513}}
+
+In battle, Odin often carries the magical spear [[Gungnir]] ("The Spear of Heaven"), an artifact made of the mystical metal [[uru]], that he uses to channel his personal energies, though possessing no abilities of its own; and the power scepter Thrudstok, a small mace. Odin also bears Draupnir (the "Odinring") as a symbol of supremacy, though its specific properties are as of yet unknown. He can manipulate energy for various effects, including projection of concussive force, creation of force shields, levitation, molecular manipulation of matter, matter-energy conversion, illusion-casting, and inter-dimensional teleportation. Odin, however, is not totally self-sufficient. Odin commands the life energies of the entire Asgardian race, and can absorb any and all of their life energies into his person at will, even to the point of restoring life to a dying Asgardian. While possessing power that is inherent opposed to the need for outward sustenance Odin must once a year undertake the Sleep of Life, also known as the Odinsleep - a state of deep sleep lasting for one 24-hour day to keep his powers from waning. During this time Odin is guarded closely as he is vulnerable.{{r|Journey into Mystery #118}}
+
+Odin occasionally travels using the enchanted ship Skipbladnir, which had several mystical properties in its sails and oars, such as enabling Odin to navigate the "sea of space." The ship can be mystically shrunk to the size of a fist. Odin also rides the eight-legged steed Sleipnir, who can fly through the air at incalculable speeds.
+
+*'''[[Allspeak]]:''' Thanks to the Allspeak Odin can communicate in all of the languages of the Nine Realms, Earth's dialects, and various alien languages.
+
+| Abilities               =
+*'''God of Wisdom''': Vast knowledge of ancient and arcane wisdom, considered to be his most powerful weapon.
+
+*'''Expert Combatant''': Odin is a skilled hand to hand combatant.
+
+*'''Master Tactician''': His thousands of years of experience resulted in him becoming a master tactician which could possibly win him many battles. In addition to feat such as preventing Ragnarok,{{r|Thor #273|278}} it has been revealed that Odin was planning for the arrival of the [[Celestials]] Fourth Host for centuries.{{r|Thor Annual #7}}{{r|{{cl|Thor Vol 1 283}}-[[Thor Vol 1 301|301]]}} Odin's wisdom was such that he was able to ultimately thwart the eternal cycle of Ragnarok forever by sending Thor to Midgard as part of his secret plan to destroy the Asgardian cosmic entities known as ''[[Those Who Sit Above in Shadow (Earth-616)|Those Who Sit Above in Shadow]].'' Even after Odin had perished fighting Surtur, his plan for his son succeeded and set all of Asgard free.
+
+*'''Asgardian Mystical Combatant''': Odin was also extremely adept at wielding his vast energy powers during combat situations. Odin was extremely skilled at using Asgardian magic, surpassing even that of [[Karnilla]] or the Enchantress.
+
+| Strength                = At his peak, Odin possesses sufficient strength to lift up to 75 tons, however in his physical prime he could lift about 90 tons. He's also able to augment his strength to an excess of 100 tons by tapping into the Odinforce.
+
+| Weaknesses              = 
+* '''Odinsleep''': At periodical intervals, approximately once every year, Odin is required to sleep for about a week to renew his godly energies.{{r|Official Handbook of the Marvel Universe Vol 1 8}} If Odin misses the [[Glossary:O|Odinsleep]] (a state of deep sleep where he recharged the Odinforce, but left him as vulnerable as a mortal), his power level begins to diminish.{{r|Official Handbook of the Marvel Universe Vol 1 8}} Odin's power is also dependent upon the dimension of Asgard itself.{{r|Official Handbook of the Marvel Universe Vol 1 8}}
+
+| Equipment               = Odin normally wears Asgardian battle armor. He also at times wears a blue cloak with a wide brimmed hat covering his missing left eye, at which times it was said he went by the name Grimner.
+
+* '''[[Draupnir]]''': Odin also wore [[Draupnir]] (the "Odinring") as a symbol of supremacy. The specific properties of the ring are as yet unknown. 
+
+{{Navigation
+| title = Former Equipment
+| body  = * '''[[Iron All-Father Armor]]''': During the [[War of the Realms]], in order to help Odin in battling [[Malekith (Earth-616)|Malekith]]'s forces, [[Anthony Stark (Earth-616)|Tony Stark]], [[Shuri (Earth-616)|Shuri]] and the [[Dwarves of Nidavellir]] built the Iron All-Father Armor with [[Uru]] and [[Vibranium]]. Odin seemingly discarded the armor following its destruction and the war.{{r|War of the Realms Vol 1 4}}
+}}
+
+| Transportation          =
+* '''[[Skidbladnir]]''': a Viking-style long-boat whose enchanted sails and oars enabled it to navigate the "sea of space". Its mystical properties enabled Asgardians to ride it safely without any natural protection from the vacuum of space. [[Skidbladnir]] could be mystically shrunk to the size of a fist.
+
+* '''[[Sleipnir]]''': Odin rode the eight-legged steed Sleipnir, who could fly through the air at incredible speeds.
+
+| Weapons                 =
+* '''[[Gungnir]]''': ("The Spear of Heaven"), which was made of Uru, a metal unique to the dimension of Asgard. The origin of this three-pronged spear was unknown. Odin enchanted the spear to return to his hand when thrown. Gungnir had no powers on its own; rather, it served as a conduit through which Odin could channel his power.
+
+* '''[[Thrudstok]]''': a power scepter, a small mace. Like Gungnir, it was made of Uru. Thrudstok had no powers on its own; rather, it served as a conduit through which Odin could channel his power.
+
+*'''[[Odinsword]]''': Also known as the '''Over Sword of Asgard'''. A special weapon. It was a giant-sized sword that, if ever unsheathed, it was said, that "the end of the universe is at hand".
+
+| Notes                   = * Odin has utilized multiple animals in his service.
+** '''[[Munin (Earth-616)|Munin]]''': Odin's raven, flew through the Nine Worlds gathering information which it conveyed to Odin.
+** '''[[Hugin (Earth-616)|Hugin]]''': Another raven, which performed the same function, was somehow killed while investigating Surtur's latest plot against Asgard.
+** '''[[Freki (Earth-616)|Freki]] & [[Geri (Earth-616)|Geri]]''': Odin's two intelligent wolves who served him. 
+** '''[[Sleipnir (Earth-616)|Sleipnir]]''': Odin's mighty steed whom of which he often road throughout the Nine Realms, as a boy Odin and his two brothers saught to tame him in order to curb his rampages.
+* Odin losing his eye has multiple contradicting and often contradictory causes and occurrences:
+** He has sacrificed his eye to [[Mimir Burison (Earth-616)|Mimir]] in exchange for wisdom (or for an answer to his quest to save [[Balder Odinson (Earth-616)|Balder]] and prevent [[Ragnarok (Event)|Ragnarök]]).{{citation}}
+** He has sacrificed his eye to [[Yggdrasill]] to gain wisdom and defeat [[Cul Borson (Earth-616)|his brother Cul]].{{r|Mighty Thor Vol 2 7}}
+** He lost his eye at some point during the [[Aesir/Vanir War]]{{r|Mighty Thor Vol 2 18}} (though it isn't mentioned how).
+| Trivia                  = * According to himself, Odin has fathered more sons than he cares to remember with the many lovers he has had over the eons.{{r|Thor Vol 5 10}}
+
+| Links                   = * ''[http://www.angelfire.com/planet/mythguide/odin.html Odin at the Guide to the Mythological Universe]''
+* ''[http://www.norsemyth.org/2010/03/odin-runes-part-one.html Odin at the Norse Mythology Blog]''
+* ''[http://www.pantheon.org/ Odin at the Pantheon Database]
+}}
+[[it:Odin Borson (Terra-616)]]
+[[es:Odin Borson (Tierra-616)]]
+[[Category:One Eye]]
+[[Category:Energy Manipulation]]
+[[Category:Magicians]]
+[[Category:Worthy of Mjolnir]]
+[[Category:Dimensional Rulers]]
+[[Category:Formerly Deceased]]
+[[Category:Energy Projection]]
+[[Category:Fear Itself]]
+[[Category:Leaders]]
+[[Category:Advanced Longevity]]
+[[Category:Power Amplification]]
+[[Category:Power Bestowal]]
+[[Category:Avengers Disassembled Casualties]]
+[[Category:Odin Family]]
+[[Category:Bor Family]]
+[[Category:Frigga Family]]
+[[Category:Asgardian/Frost Giant Hybrids]]
+[[Category:Asgard Monarchs]]
+[[Category:Hyborian Age Deities]]
+[[Category:Mythological Figures]]
+[[Category:Pre-Cataclysmic Age Deities]]
+[[Category:Prehistoric characters]]
+[[Category:Regeneration]]
+[[Category:Vanir (Nordheimr) Deities]]
+[[Category:Zarfhaanan Deities]]
+[[Category:Strength Class 75]]
+[[Category:Telekinesis]]

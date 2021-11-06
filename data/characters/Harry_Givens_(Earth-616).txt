@@ -1,0 +1,57 @@
+{{Marvel Database:Character Template
+| Image                   = Harry Givens (Earth-616) from New Warriors Vol 4 1 0001.jpg
+| Name                    = Harry Givens
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{M|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.'s New Warriors Task Force}}; Formerly {{M|New York City Police Department (Earth-616)|NYPD}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Black
+| Hair2                   = [[:Category:White Hair|White]]
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = S.H.I.E.L.D. agent; Former Police detective
+| Education               = 
+| BaseOfOperations        = [[New York City]]
+
+| Creators                = Kevin Grevioux; Paco Medina
+| First                   = New Warriors Vol 4 1
+
+| History                 = Harry Givens came from a family of cops: his father had been cop and so had been his two older brothers, four uncles and even a dog. During his fourth year, he busted what he thought were a couple of thugs, but turned out to be dirty cops. Since one of these cops was the son of a federal judge, things turned bad for Harry, who was almost implicated in the crime instead. When he'd almost lost hope in the system, he met a fellow policeman named [[Samuel Sykes (Earth-616)|Mike Sykes]], who told him he could do more good out on the streets as an honest cop than trying to play hero and ending up in jail.{{r|New Warriors Vol 4 9}}
+
+Carrying this lesson ever since, he progressed in his career as a cop and was one of the detectives assigned to deal with the resurgence of the [[New Warriors (Earth-616)|New Warriors]], alongside Syke's daughter [[Beverly Sykes (Earth-616)|Beverly]].{{r|New Warriors Vol 4 1}}
+
+At first, they were very dedicated to following the [[Superhuman Registration Act]] and bringing the [[New Warriors (Earth-616)|New Warriors]] to justice, but after finding evidence that pointed to Tony Stark being secretly funding the Warriors, Bev seemed to have lost faith. When this happened, Harry told her the story of his early years to cheer her up.{{r|New Warriors Vol 4 6}}{{r|New Warriors Vol 4 9}}
+
+They were untrusting of Stark for a while, but after an accident that caused the death of 4 civillians, Stark contacted them and told them their only hope of not ending their careers sooner than expected was to join the new S.H.I.E.L.D. New Warriors Task Force.{{r|New Warriors Vol 4 10}}{{r|New Warriors Vol 4 13}}
+
+Once again, things didn't go according to plan and their first confrontation with the team resulted in the apparent deaths of two of the Warriors. The rest of the team escaped, devastated, but the Task Force had managed to put a tracer on them and followed them to their hideout, just as they were about to jump in time. Unaware of what was going on, but unwilling to lose them again, Bev instinctively followed them and Givens saw his partner disappear before him.{{r|New Warriors Vol 4 16}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

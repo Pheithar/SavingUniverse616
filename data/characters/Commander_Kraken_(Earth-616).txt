@@ -1,0 +1,60 @@
+{{Marvel Database:Character Template
+| Image                   = Commander_Kraken_(Earth-616)_from_Iron_Manual_Mark_3_Vol_1_1_0001.jpg
+| Name                    = 
+| CurrentAlias            = Commander Kraken
+| Aliases                 = 
+
+| Affiliation             = {{m|Hydra}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Iron Manual Mark 3 #1}}
+| Gender                  = Male
+| Height                  = 6'2"
+| Weight                  = 215 lbs
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = Moustache. Piercing in left ear. [[:Category:One Hand|One Hand]][[Category:One Hand]] and [[:Category:One Leg|One Leg]][[Category:One Leg]]. Left hand and left leg missing, replaced by orthopedics.
+
+| Origin                  = [[Homo sapiens|Human]] [[Cyborgs|Cyborg]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = [[Bar with No Name]], [[Medina County]], [[Ohio (State)|Ohio]]
+| CauseOfDeath            = Shot by [[Scourge (Delazny) (Earth-616)|the first Scourge of the Underworld]]
+| KilledBy                = [[Scourge (Delazny) (Earth-616)]]
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Pirate; former bartender, Hydra division leader
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Roy Thomas; Sal Buscema
+| First                   = Sub-Mariner #27
+| Death                   = Captain America #319
+
+| History                 = '''Commander Kraken''' considered himself a "self-styled modern day pirate", although he was more of a privateer, selling his services to employers. He first encountered [[Namor McKenzie (Earth-616)|Namor the Sub-Mariner]] and was defeated when Namor led Kraken's ship into the clutches of a true [[Kraken (Race)|Kraken]].{{r|Sub-Mariner #27}}
+
+He eventually sold his services to terrorist organization [[Hydra (Earth-616)|Hydra]], and became their Naval Action Division Leader. In this capacity, he kidnapped Tony Stark's employees [[Abraham Klein (Earth-616)|Abraham Klein]] and [[Giuletta Nefaria (Earth-616)|Krissy Longfellow]] as well as capturing [[Anthony Stark (Earth-616)|Iron Man]], who managed to defeat him and destroy his fleet.{{r|Iron Man #93|94}}
+
+Unable to rebuild his boats, Commander Kraken retired to the Midwest and committed minor crimes. He was contacted by [[Firebrand (Gary Gilbert)|Gary Gilbert]], a former customed criminal turned into business agent for criminals. Gilbert was worried about the [[Scourge I|Scourge of the Underworld]], a masked figure who was killing customed criminals such as Gilbert and Commander Kraken. Gilbert organized a meeting in the [[Bar with No Name]], [[Medina County]], [[Ohio (State)|Ohio]], to discuss potential counter-attacks. As the Scourge was known to use weapons instead of powers, weapons were to be left at the door. However, the Scourge infiltrated in the meeting disguised as the bartender and shot down all the seventeen criminals (including Commander Kraken) wielding a cut-down .50 submachine gun in each hand.{{r|Captain America #319}}
+
+| Powers                  = 
+| Abilities               = Weapon skills for both handguns and edge weapons. He was a good melee fighter.
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = * Bionic left leg, operating as a normal leg, and also allowing him to fly.
+* A fleet of squid-shaped boats with tentacles and shells as defense
+| Weapons                 = * Electric hook (instead of left hand) that could attack with an electric shock
+* Bionic left hand, operating as a very strong normal hand. [[Hydra (Earth-616)|Hydra]] replaced the hook with this hand.
+* Electro-Sword: The sword could fire electricity and reflect force and energy attacks.
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Flight]]
+[[Category:Electrokinesis]]
+[[Category:Fencing]]

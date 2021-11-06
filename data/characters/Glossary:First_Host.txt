@@ -1,0 +1,8 @@
+{{Marvel Database:Glossary Template
+| Title             = First Host
+| Image             = 
+| Definition        = One of four tests of a given race that has been altered by the enigmatic [[Celestials]]. During the First Host, the Celestials select the dominant race of a given planet and alter their genetic structure for reasons that have not yet been revealed. The Celestials use their advanced technology to alter the race into three distinct races: The mainline race that shows normal attributes until evolution and an outside catalyst creates mutation, granting individuals of the mainline race a wide array of varying abilities. A superior race dubbed [[Eternals]] who are typically empowered with cosmic energy, and a genetically unstable race dubbed [[Deviants (Race)|Deviants]]. The Celestials have practiced these tests on various races such as [[Humans]], [[Kree]] and [[Skrulls]].
+
+On [[Earth-30826]], it was the [[First Contact]], performed by the [[Eternals]] (servants of the Celestials) by abducting ''[[Homo erectus]]'' to create [[Deviants]].{{r|Eternal #1}}
+| SeeAlso           = [[Glossary:Second Host|Second Host]], [[Glossary:Third Host|Third Host]], [[Glossary:Fourth Host|Fourth Host]]
+}}

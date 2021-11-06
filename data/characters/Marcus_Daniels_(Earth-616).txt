@@ -1,0 +1,99 @@
+{{Marvel Database:Character Template
+| Image                   = Marcus Daniels (Earth-616) from Siege Vol 1 3 001.jpg
+| Name                    = [[Marcus "Mark" Daniels]]
+| NameRef                 = {{r|Official Handbook of the Marvel Universe A-Z Update Vol 1 5}}
+| CurrentAlias            = [[Blackout]]
+| Aliases                 = [[Mark Daniels]], "Blacky," Bob Hofstedder{{r|Captain America: Steve Rogers Vol 1 13}}
+
+| Affiliation             = {{m|Army of Evil}}; formerly {{m|Hood's Gang (Earth-616)|Hood's army}}, {{m|50-State Initiative|Initiative}} {{m|Thunderbolts}}, {{m|Masters of Evil}}; former partner of [[Karla Sofen (Earth-616)|Moonstone]]
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 5'10"
+| Weight                  = 180 lbs 
+| Eyes                    = Grey
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]], [[Mutate]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Flushing]], [[Queens]], [[New York City|New York]], [[New York (State)|New York]]
+| PlaceOfDeath            = 
+| CauseOfDeath            = Killed by [[Maria Hill (Earth-616)|Maria Hill]] to bring down Darkforce dome around [[Manhattan]]{{r|Secret Empire Vol 1 8}}
+| KilledBy                = Maria Hill (Earth-616)
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = Profession criminal; former research assistant
+| Education               = MS in physics
+| BaseOfOperations        = 
+
+| Creators                = Marv Wolfman; Carmine Infantino
+| First                   = Nova Vol 1 19
+| Death                   = Secret Empire Vol 1 8
+
+| History                 = 
+===Early life===
+Marcus Daniels was a laboratory assistant to [[Abner Croit (Earth-616)|Dr. Abner Croit]], a physicist studying an unidentified form of radiation which he called "black star rays". Coercing his assistant into being a subject for his experiments, Croit bombarded Daniels with this unknown radiation, which was later identified as the [[:Glossary:Darkforce|Darkforce]]. Daniels became charged with its energy and learned he could project it from his body as quasi-solid blackness. Croit created a bodysuit that curtailed Daniels' body, and the extra-dimensional source of his energy was so close that Croit had to build a stabilizing device to keep Daniels' body from shifting totally into this energy dimension.{{r|Nova Vol 1 19}}
+
+===Blackout===
+Daniels escaped from Croit's laboratory not long afterward, and calling himself Blackout, used his superhuman powers to commit a series of robberies. Feeling the energies within him becoming increasingly unstable, Blackout returned to Croit's laboratory to steal the stabilizer. Croit caught him in the act, however, and Blackout used his powers to open up an aperture into the dimension from which the energy he projects originates. Croit was sucked into that dimension and presumably died. Following a skirmish with the fledgling crime-fighter, [[Richard Rider (Earth-616)|Nova]], Blackout himself vanished into this other dimension after accidentally destroying the stabilizer. Blackout later returned to Earth, his grasp on sanity made more precarious by his time spent in the other dimension.{{r|Nova Vol 1 19}}
+
+===Project P.E.G.A.S.U.S.===
+He was apprehended by legal authorities and eventually taken to [[Project P.E.G.A.S.U.S. (Earth-616)|Project P.E.G.A.S.U.S.]] so that its energy specialists could analyze his power.{{r|Avengers Vol 1 236}} During a diversion elsewhere in P.E.G.A.S.U.S., Blackout managed to escape  his containment cell and free several of his fellow superhuman criminals who were also being studied. Blackout and his new ally [[Karla Sofen (Earth-616)|Moonstone]] escaped the confines of P.E.G.A.S.U.S., but were later tracked down by the [[Avengers (Earth-616)|Avengers]].{{r|Avengers Vol 1 237}} Attempting to escape, Blackout opened another aperture into the "dark dimension," which he and Moonstone were sucked into.{{r|Avengers Vol 1 238}}
+
+===Dazzler===
+Moonstone used her energy powers to ascertain where they were and helped Blackout navigate them out of the Darkforce dimension to the Earth's [[Luna (Moon)|Moon]]. Moonstone hoped to augment her superhuman powers on the moon's surface, but before she could do so, members of the moon's resident race, aided by the mutant [[Alison Blaire (Earth-616)|Dazzler]], overpowered the two escaped criminals. Blackout and Moonstone were taken back to Earth and returned to captivity at Project P.E.G.A.S.U.S..{{r|Dazzler Vol 1 32}}
+
+===Masters of Evil===
+Months later, Moonstone joined [[Helmut Zemo (Earth-616)|Baron Helmut Zemo]]'s new [[Masters of Evil (Earth-616)|Masters of Evil]] and persuaded the Baron to free Blackout from Project P.E.G.A.S.U.S. By this time, Blackout's mental condition was so unstable that at times he sank into a nearly catatonic state. Using a combination of her own talent for psychological conditioning and certain technological devices, Moonstone succeeded not only in making Blackout responsive to her commands (as long as they were simple enough for his now-feeble mind to comprehend), but also in extending and refining Blackout's control of his superhuman power.{{r|Avengers Vol 1 273}} Zemo realized that due to her ambition, high intelligence, and control over Blackout's formidable power, Moonstone posed a serious threat to his leadership of the Masters of Evil. Zemo had another of the Masters, the [[Paul Norbert Ebersol (Earth-616)|Fixer]], install circuitry within the Baron's headband that was keyed to the pattern of Blackout's brain waves. Using the circuitry, Zemo could mentally force Blackout to obey his commands, and override Moonstone's influence over Blackout, as Zemo demonstrated to her when she finally challenged his leadership. Despite this, Zemo allowed Moonstone to continue supervising Blackout.{{r|Avengers Vol 1 274}}
+
+Zemo and his Masters of Evil seized control of [[Avengers Mansion]]. On Zemo's instructions, Blackout used his powers to entrap the Avenger [[Monica Rambeau (Earth-616)|Captain Marvel]] within the Darkforce dimension. Moonstone had Blackout surround the mansion with an impenetrable barricade of Darkforce to prevent other Avengers, the police, and the military from entering it.{{r|Avengers Vol 1 275}}
+
+However, Captain Marvel finally escaped the Darkforce dimension through an aperture opened into it by the [[Maximillian Coleridge (Earth-616)|Shroud]]. [[Anthony Druid (Earth-616)|Doctor Druid]] used his psychic ability to induce Blackout's removal of the Darkforce barrier from the mansion. A force of Avengers entered the mansion from underground, quickly defeating many of the Masters of Evil.{{r|Avengers Vol 1 276}}
+
+Faced with the possible ruin of his plans, Zemo ordered Blackout to project the entire mansion (and the Avengers inside it) into the Darkforce dimension. Doctor Druid mentally informed Blackout that Zemo was not the friend he pretended to be, but was trying to exploit Blackout. Realizing that Druid was right, Blackout resisted Zemo's mental commands, which were augmented by the power of the Fixer's devices in the Baron's headband. The strain of resistance was too great for Blackout to bear, and he collapsed from a massive cerebral haemorrhage, dying nearly instantaneously. Soon afterwards, Zemo fell from the roof of the mansion during a confrontation with his arch foe, [[Captain America]].{{r|Avengers Vol 1 277}}
+
+Years later, Zemo brought Blackout back using the [[Kree]] [[Lifestone (Meteor)|Lifestone]] to help him destroy [[Genis-Vell (Earth-616)|Genis-Vell]].{{r|New Thunderbolts Vol 1 17|18}} Blackout was brought back insane and controlled by Zemo into joining his Thunderbolts in an attack against [[Melissa Gold (Earth-616)|Songbird]]'s Thunderbolts and, with Blackout's power, Zemo destroyed Genis-Vell.{{r|Thunderbolts Vol 1 100|}}
+
+===Hood's Gang===
+Blackout later joined [[Hood's Gang (Earth-616)|Hood's criminal army]].{{r|Dark Reign: The Hood Vol 1 1}} They battled [[New Avengers (Earth-616)|the New Avengers]] twice and took part in [[Norman Osborn (Earth-616)|Norman Osborn]]'s [[Siege (Event)|Siege on Asgard,]] where he was arrested after the heroes won the battle.{{r|New Avengers Vol 1 55}}{{r|New Avengers Vol 1 61}}{{r|New Avengers Vol 1 63}}{{r|Siege Vol 1 3}}
+
+===Superior Six Vs. Masters of Evil===
+Blackout later joined the [[Edward Lansky (Earth-616)|Lightmaster]]'s lineup of the Masters of Evil to battle against the Superior Six after the Superior Six defeated the Wrecking Crew, where he used his powers to knock Electro unconscious. It is assumed that he fled with the rest of the Masters of Evil after the Superior Six broke free from Spider-Man's control.{{r|Superior Spider-Man Team-Up Vol 1 6}}
+
+===Bob Hofstedder===
+At some point, Marcus was caught by [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] and sent to their new secret prison known as [[Pleasant Hill]], were they used [[Cosmic Cube]] fragments to transform criminals into model American citizens. Blackout was transformed into a man named Bob Hofstedder.{{r|Avengers Standoff: Assault On Pleasant Hill Alpha Vol 1 1}}{{r|Captain America: Steve Rogers Vol 1 13}}
+
+Somehow, Marcus remained in his "Bob Hofstedder" persona until Baron Helmut Zemo found him invited him to join the [[Army of Evil (Earth-616)|Army of Evil]].{{r|Captain America: Steve Rogers Vol 1 13}} As part of [[Hydra (Earth-616)|Hydra]]'s plan of conquest of the United States, Blackout covered Manhattan in a dome of Darkforce energy after having his powers enhanced by the [[Darkhold]].{{r|Secret Empire Vol 1 0}} Daniels was subsequently imprisoned by Hydra and once again brainwashed into thinking he was Bob Hofstedder.{{r|Deadpool Vol 6 34}}
+
+Taking advantage of the chaos caused by a prison break orchestrated by the [[Underground (Secret Empire) (Earth-616)|Underground]] to rescue their teammates, [[Maria Hill (Earth-616)|Maria Hill]] slipped into Blackout's cell and killed him in order to bring down the Darkforce dome.{{r|Secret Empire Vol 1 8}}
+
+He was then brought back to [[Earth]] despite still being deceased when [[Stephen Strange (Earth-616)|Doctor Strange]] restored [[Las Vegas]],{{r|Doctor Strange: Damnation Vol 1 1}} and later assisted Hood and his gang in fighting Iron Man and Victor von Doom.{{r|Invincible Iron Man Vol 1 600}}
+
+| Powers                  = {{Darkforce}} Blackout possesses the ability to tap and manipulate an intense black form of extra-dimensional energy called the Darkforce. This energy, which appears to be related to the extra-dimensional black gas-like substance manipulated by [[Tyrone Johnson (Earth-616)|Cloak]] and the Shroud, possesses mass and form, whereas the substance employed by Cloak and the Shroud does not. Although Blackout draws Darkforce from the same dimension as the Shroud's gas-like substance, it is not yet clear whether this is the same dimension of darkness to which Cloak's powers are connected. Blackout's powers seem to have been identical to those of the mutant [[Laynia Petrovna (Earth-616)|Darkstar]], although Blackout's were gained by experimental means and Darkstar was born with the genetic potential to manifest her powers.{{r|Official Handbook of the Marvel Universe A-Z Update Vol 1 5}}
+
+Blackout can project the Darkforce as concussive energy with tremendous force, the limits of which are unknown.{{r|Official Handbook of the Marvel Universe Master Edition Vol 1 29}}
+
+Blackout can cause the Darkforce to take on simple mentally controlled forms such as discs, cubes, cylinders, and so on. Before Moonstone helped him extend his control of his powers, Blackout could form objects that had the maximum density of hardened rubber and the consistency of tar at 40 degrees Fahrenheit. As well, he could form objects with a maximum volume of approximately 150 cubic feet, sufficient to encompass two average human beings. However, under Moonstone's guidance, Blackout learned to project sufficient Darkforce to envelop the entire Avengers Mansion. The wall of Darkforce that Blackout created around the mansion was strong enough to resist bazooka fire; the extent to which the wall was impenetrable is unknown. Darkforce objects created by Blackout after his training by Moonstone absorbed energy directed against them; the limits to the amount of energy these objects could absorb harmlessly are also unknown. The objects that Blackout created from Darkforce were solid and well-defined when he consciously willed them to be. Blackout could exercise control over his Darkforce constructs within a range of about 1,000 feet from his person. A fully-formed object that he ceased to control consciously would remain solid for about five minutes before it began to lose its solidity and shape. Within about two minutes, the object would have totally dissipated; Blackout can dissipate at will an object he has formed from Darkforce.{{r|Official Handbook of the Marvel Universe Vol 2 16}}
+
+Blackout can mentally open apertures into the Darkforce Dimension, which remain open as long as he maintains mental control over them. He can also envelop a person or object with Darkforce and then project the entrapped person or object into the Darkforce dimension.{{r|Official Handbook of the Marvel Universe Vol 2 8}}
+
+The Darkforce is apparently unaffected by gravity. Hence, Blackout's Darkforce-constructs remain in the air (in their relative positions to the Earth's surface) unsupported, and only move at his mental command. By standing on a disc of Darkforce and making it move through the air, Blackout can fly. He can travel at any speed and height at which he can still breathe (about 50 miles per hour and 10,000 feet above sea level).{{r|Official Handbook of the Marvel Universe Vol 2 2}}
+| Abilities               = 
+| Strength                = Normal human strength for moderate regular exercise.{{r|Official Handbook of the Marvel Universe A-Z Update Vol 1 5}}
+| Weaknesses              = Controlling the Darkforce for too long a time caused him to be strained; light.{{r|Official Handbook of the Marvel Universe A-Z Update Vol 1 5}}
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * The so-called "dark dimension" from which Blackout drew Darkforce is not to be confused with the [[Dark Dimension]] previously ruled by [[Dormammu]] and now ruled by [[Clea (Earth-616)|Clea]].{{r|Official Handbook of the Marvel Universe A-Z Update Vol 1 5}}
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Darkforce]]
+[[Category:Flight]]
+[[Category:Secret Empire casualties]]
+[[Category:Damnation participants]]

@@ -1,0 +1,50 @@
+{{Marvel Database:Character Template
+| Image                   = Asmodeus (Inhuman) (Earth-616) from Fantastic Four Vol 1 117 0001.jpg
+| Name                    = Asmodeus
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Yellow
+| Hair                    = None
+| UnusualSkinColor        = Green
+| UnusualFeatures         = Large ears, massive green reptilian wings; three-toed feet
+
+| Origin                  = [[Inhomo supremis|Inhuman]] powered by [[Terrigenesis]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Attilan]]
+
+| Identity                = No Dual
+| Citizenship             = Attilan
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = [[Attilan]]
+
+| Creators                = Archie Goodwin; John Buscema
+| First                   = Fantastic Four #117
+
+| History                 = A flying Inhuman tasked to the guard of the [[Great Refuge]] under the command of [[Chiron (Inhuman) (Earth-616)|Chiron]] at one point when Maximus was in the throne. At that point, the Human Torch went to the Refuge. Chiron assumed the Torch was an ally of Maximus' enemies and ordered another of his troops, Kaliban, to shoot him with an ion-blast. Injured in flight, the Torch started to fall. Chiron then sent Asmodeus to catch the Torch, but the Torch recovered and flamed on with so much intensity that even Asmodeus' heat-resistant wings were injured. Asmodeus fell to land while the Torch defeated his peers; however, the Torch left soon afterward, uninterested in the Great Refuge.{{r|Fantastic Four #117}}
+
+| Powers                  = Asmodeus is able to fly. His wings are heat-resistant, although not enough to overcome all the power of the Human Torch.{{r|Fantastic Four #117}}
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Flight]]

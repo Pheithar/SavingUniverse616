@@ -1,0 +1,69 @@
+{{Marvel Database:Character Template
+| Image                   = Alexander Pierce (Earth-616) from Secret Warriors Vol 1 12.jpg
+| Name                    = Alexander Goodwin Pierce
+| CurrentAlias            = Alexander Pierce
+| Aliases                 = Anthony Durami{{r|Official Handbook of the Marvel Universe Vol 3 #5}}
+
+| Affiliation             = {{M|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}} (formerly {{m|S.H.I.E.L.D. Accounting Department|Accounting Department}}), {{m|Caterpillars}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 6'0"
+| Weight                  = 175lbs
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Long Island]], [[New York]], [[USA]]
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = S.H.I.E.L.D. agent
+| Education               = [[S.H.I.E.L.D. Academy]]
+| BaseOfOperations        = [[S.H.I.E.L.D. Helicarrier]]
+
+| Creators                = Bob Harras; Paul Neary
+| First                   = Nick Fury vs. S.H.I.E.L.D. Vol 1 3
+
+| History                 = ===Early Life===
+Alexander Pierce majored at [[S.H.I.E.L.D. Academy]] in civilian surveillance and served in {{m|S.H.I.E.L.D. Accounting Department|S.H.I.E.L.D.'s Accounting Department}} before becoming a "sleeper Agent" of S.H.I.E.L.D. as an expert in decoding Class A dispatches from the subversive organization [[Hydra (Earth-616)|Hydra]].{{r|Nick Fury vs. S.H.I.E.L.D. #3}}
+
+===Deltite Affair===
+[[File:Alexander Pierce (Earth-616) from Official Handbook of the Marvel Universe Vol 3 5 0001.jpg|thumb|left]]
+When S.H.I.E.L.D. was secretly taken over by the Deltites, artificially created duplicates of human beings, the Deltites forced S.H.I.E.L.D. Public Director [[Nicholas Fury (Earth-616)|Nick Fury]] into the role of a renegade and fugitive. Fury recruited Pierce to function as his right-hand man. Together they perpetrated a series of break-ins at S.H.I.E.L.D. installations, including a Class C Armory and Communications Station in [[Philadelphia (Pennsylvania)|Philadelphia]]. The information they acquired was carefully leaked and inaccurate.{{r|Nick Fury vs. S.H.I.E.L.D. #3}}
+
+Pierce functioned as a contact between Nick Fury and industrialist [[Anthony Stark (Earth-616)|Tony Stark]] accompanying Fury to [[Hong Kong]] following false leads in search of S.H.I.E.L.D.'s stolen [[S.H.I.E.L.D. Helicarrier|Helicarrier]] Power Core. {{r|Nick Fury vs. S.H.I.E.L.D. #4}}
+
+After escaping death in an ambush at Hydra's Hong Kong base, Pierce accompanied Fury to the [[Himalayas]], along with their prisoner, [[Madame Hydra Six (Earth-616)|Madame Hydra]]. Unable to withstand the bitter cold, they were saved from certain death when they were seized by the Deltites and brought to S.H.I.E.L.D.'s orbiting satellite. Aided by Madame Hydra, Pierce and a group of S.H.I.E.L.D. agents escaped and took part in the battle that led to the destruction of the Deltites.{{r|Nick Fury vs. S.H.I.E.L.D. #5|6}}
+
+===New S.H.I.E.L.D.===
+Following the subsequent disbanding of S.H.I.E.L.D., Pierce served as caretaker of the skyscraper that once served as its headquarters. He was then contacted for help by Nick Fury aid him and his allies in vanquishing the [[Death's Head Squadron (Earth-616)|Death's Head Squad]]. He has since joined the new version of S.H.I.E.L.D. Fury has organized.{{r|Nick Fury, Agent of S.H.I.E.L.D. Vol 3 #2}}
+
+===Secret Warriors===
+When Nick Fury went underground to wage his [[Secret War]] against both Hydra and [[Leviathan (Earth-616)|Leviathan]], Pierce was one of the trusted operatives he brought in to form his [[Secret Warriors (Earth-616)|Secret Warriors]].{{r|Secret Warriors Vol 1 1}} Pierce was given command of [[Caterpillars (Earth-616)|Team Black]], consisting of the most dangerous and unruly recruits on the Caterpillar list of young super-humans.{{r|Secret Warriors Vol 1 17}}
+
+[[File:Caterpillars (Earth-616) from Secret Warriors Vol 1 28 0001.jpg|left|thumb|250px|[[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] reassembled]]
+The team was ordered to gather intelligence on Hydra. Pierce brought his team in for a joint attack with the [[Howling Commandos Private Military Company (Earth-616)|Howling Commandos]] on [[Hell's Heaven]], stronghold deep within [[China]]. The mission was successful, but after Pierce pulled Team Black out, additional Hydra forces attacked and wiped out the Commandos. Pierce and his team survived and was all folded into a new [[United Nations (Earth-616)|United Nations]] sanctioned S.H.I.E.L.D. created by Fury and run by [[Daisy Johnson (Earth-616)|Quake (Daisy Johnson)]].{{r|Secret Warriors #28}}
+
+| Powers                  = 
+| Abilities               = Alexander Pierce is a skilled hand-to-hand combatant and marksman.
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+* Unofficial Handbook of the Marvel Universe
+* [[Official Handbook of the Marvel Universe Vol 3 5|Official Handbook of the Marvel Universe Update 89 #5]]
+}}
+[[Category:Shooting]]
+[[Category:Martial Arts]]
+[[Category:Government Agents]]

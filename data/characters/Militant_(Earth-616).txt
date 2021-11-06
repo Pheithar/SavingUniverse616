@@ -1,0 +1,50 @@
+{{Marvel Database:Character Template
+| Image                   = Militant (Earth-616) from Amazing Spider-Man Vol 1 520 0001.jpg
+| Name                    = Unknown
+| CurrentAlias            = Militant
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra (Earth-616)|Hydra}}, {{M|Hydra Four (Earth-616)|Hydra Four}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Hydra Agent
+| Education               = 
+| BaseOfOperations        = Mobile
+
+| Creators                = J. Michael Straczynski; Mike Deodato Jr.
+| First                   = Amazing Spider-Man Vol 1 519
+
+| History                 = [[Hydra (Earth-616)|Hydra]]'s version of [[Steven Rogers (Earth-616)|Captain America]], fighting alongside [[Tactical Force (Karl) (Earth-616)|Tactical Force]], [[Bowman (Earth-616)|Bowman]] and [[Hammer (Hydra) (Earth-616)|Hammer]] against [[Peter Parker (Earth-616)|Spider-Man]] and the [[New Avengers (Earth-616)|New Avengers]].{{r|Amazing Spider-Man Vol 1 519|520}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = Shield of unknown alloy similar to Captain America's vibranium shield
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Shield Fighting]]
+[[Category:Weapons Expert]]

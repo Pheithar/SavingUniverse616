@@ -1,0 +1,69 @@
+{{Marvel Database:Character Template
+| Image                   = Xanth (Earth-81049) from Operation S.I.N. Vol 1 4.jpg
+| Name                    = Xanth 
+| CurrentAlias            = Ebon Seeker
+| Aliases                 = The Cosmic Shade, Dark Dreadnought, Neg-Star
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = {{cl|FF: Fifty Fantastic Years #1}}
+| Gender                  = Male
+| Height                  = 50'0" (varies); 5'4" (originally)
+| Weight                  = 116 tons (varies); 160 lbs (originally)
+| Eyes                    = Black iris; white pupil;  black pupil (formerly)
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = [[Moensien]]
+| Reality                 = Earth-81049
+| PlaceOfBirth            = 
+
+| Identity                = 
+| Citizenship             = 
+| Occupation              = Former planet-destroyer, space explorer
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Doug Moench
+| First                   = Fantastic Four #229
+
+| History                 = 
+===Origins===
+[[File:Moensiens from Fantastic Four Vol 1 230.jpg|thumb|left|Xanth and Shareen{{r|Fantastic Four #230}}]]
+The being who later became known as the Ebon Seeker was originally a man named Xanth. He was a member of the [[Moensiens]], alien beings who reached a cultural and evolutionary dead end in a [[Earth-81049|distant future]]. With their civilization sliding into decadence and corruption, the Moensian elders believed their only salvation was to share their knowledge with other intelligent races in the universe. Xanth and his lover [[Shareen (Earth-81049)|Shareen]] were selected as the best candidates for this important mission. After forty years travelling through space, the couple crossed paths with the remains of the Voyager space probe, launched from Earth centuries earlier. Interested in recovering the relic before it could be swallowed up in a [[Glossary:Black Hole|black hole]], Xanth piloted their ship toward it despite Shareen's warnings. Instead of recovering the ancient probe, they suffered the same fate, as they were sucked into the black hole and seemingly destroyed. 
+
+However, their life forces endured and were shown the secrets of the universe. Both were reborn without knowing the other had survived. Shareen was transformed into a being of positive matter and light who later became known as Firefrost. Meanwhile, Xanth was driven mad and transformed into a being of anti-matter and darkness who became known as the Ebon Seeker. The couple were then sent hurtling back in time, materializing centuries into the [[Earth-616|past]]. Although mad, the Ebon Seeker still remembered his original mission to seek out new life and travelled from world to world. However, due to his anti-matter nature, his interaction with the positive matter of the worlds he visited caused him to shed mass and anti-matter energy until both he and the world he visited were destroyed. Restored after the destruction of each world, the increasingly insane Ebon Seeker continued on from world to world. Firefrost followed after her love trying to reach him through the insanity, but was ignored and unseen.{{r|Fantastic Four #230}}
+
+===Modern Age===
+During the time known as the modern age of heroes, [[Reed Richards (Earth-616)|Mister Fantastic]] of the [[Fantastic Four (Earth-616)|Fantastic Four]] sent a signal from [[Earth]] in an attempt to recover a missing [[National Aeronautics and Space Administration|NASA]] satellite, but the signal inadvertently brought the Ebon Seeker to Earth. When the Fantastic Four tried to stop him from destroying their world, but the Seeker proved too powerful. Their battle took them out into the Atlantic Ocean outside of New York City, where the Seeker upraised an island where he trapped the FF in a black void and continued his rampage.{{r|Fantastic Four #229}}
+
+The Fantastic Four were found and freed by Firefrost who explained their origins and agreed to assist the Fantastic Four in stopping her insane partner. While the [[Benjamin Grimm (Earth-616)|Thing]] and [[Jonathan Storm (Earth-616)|Human Torch]] kept the Ebon Seeker distracted, Reed, the [[Susan Storm (Earth-616)|Invisible Girl]], and Firefrost worked on a means of stopping him. Reed eventually discovered that banishing the Ebon Seeker to the [[Negative Zone]] was the only way to stop the Seeker and devised a device that transported the Seeker and the entire block around their [[Baxter Building]] headquarters into the Negative Zone. In that antimatter universe, the Seeker's sanity was restored and his energies were replenished. Reunited with Firefrost the pair agreed to find a new life within the Negative Zone and ventured off,{{r|Fantastic Four #230}} leaving the Fantastic Four to find their way back to their home universe.{{r|Fantastic Four #231}}
+
+===Operation S.I.N.===
+Wishing to be free again, Shareen escaped from the negative wastes where she went to live with Ebon using her spaceship and came back to Earth decades before her first visit, appearing in Russia circa 1952. Needing her energies to sustain himself, the Seeker started to seek her through the entire [[Multiverse]], eventually discovering her whereabouts when [[Howard Stark (Earth-616)|Howard Stark]], along with [[Margaret Carter (Earth-616)|Peggy Carter]] and [[Woodrow McCord Jr. (Earth-616)|Woodrow McCord]], discovered and activated Shareen's spaceship. He came back to Earth through a portal that a group of Russian scientists were developing at the behest of [[Hydra (Earth-616)|Hydra]], but became stuck in the portal after it was damaged by Shareen.{{r|Operation S.I.N. #4}} The Seeker eventually left after Shareen gave him a power sphere filled with her energy, which would feed him from that point on.{{r|Operation S.I.N. #5}} 
+
+The subsequent fate of the Ebon Seeker is unknown.
+
+| Powers                  = Xanth has the ability to project tendrils to ensnare his enemies and drain their powers. He has also shown extraordinary durability, such as the ability to absorb a nova blast from the [[Jonathan Storm (Earth-616)|Human Torch]] and punches from the [[Benjamin Grimm (Earth-616)|Thing]] without harm.{{r|Fantastic Four Vol 1 229}}
+| Abilities               = Xanth can communicate telepathically and travel through space unaided.
+| Strength                = 
+| Weaknesses              = When on a planet, Xanth loses his energy, shrinking him and making him weaker. Eventually, he destroys the planet and regains his strength.
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Cosmic Beings]]
+[[Category:Telepaths]]
+[[Category:Tentacles]]
+[[Category:Energy Absorption]]
+[[Category:Flight]]
+[[Category:Time Travelers]]
+[[Category:Moensiens]]
+[[Category:Doug Moench/Creator]]

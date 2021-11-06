@@ -1,0 +1,178 @@
+{{Marvel Database:Character Template
+| Image                   = Thomas Shepherd (Earth-616) 010.jpg
+| Name                    = [[Thomas Shepherd|Thomas "Tommy" Shepherd]]
+| CurrentAlias            = [[Speed]]
+| Aliases                 = 
+
+| Affiliation             = Formerly {{m|Young Avengers}}, {{m|Secret Avengers (Civil War) (Earth-616)|Secret Avengers}}
+| Relatives               = [[Frank Shepherd (Earth-616)|Frank Shepherd]] (father);{{r|Young Avengers Vol 1 10}}<br> 
+[[Mary Shepherd (Earth-616)|Mary Shepherd]] (mother);{{r|Young Avengers Vol 1 10}}<br> 
+[[William Kaplan (Earth-616)|William Kaplan]] (reincarnated twin brother);{{r|Avengers: The Children's Crusade #6}}<br>
+[[Theodore Altman (Earth-616)|Theodore Altman]] ("brother-in-law");
+{{Navigation
+| title              = <br>Past incarnation relatives
+| body               = Quentin Keough (previous incarnation's maternal ancestor);<br> 
+Lenore Keough (previous incarnation's maternal ancestor);<br>
+[[Henry Pym (Earth-616)|Henry Pym]] (previous incarnation's "paternal great-grandfather");<br>
+[[Django Maximoff (Earth-616)|Django Maximoff]] (previous incarnation's "maternal adoptive grandfather/great uncle", deceased);<br>
+[[Marya Maximoff (Earth-616)|Marya Maximoff]] (previous incarnation's "maternal adoptive grandmother/great aunt", deceased);<br>
+[[Ultron (Earth-616)|Ultron]] (previous incarnation's "paternal grandfather");<br>
+[[Natalya Maximoff (Earth-616)|Natalya Maximoff]] ("maternal grandmother");<br>
+[[Wanda Maximoff (Earth-616)|Wanda Maximoff]] ("birth mother");<br>
+[[Vision (Earth-616)|Vision]] ("birth father", deceased);<br>
+[[Virginia (Earth-616)|Virginia]] ("step-mother", deceased);<br>
+[[Pietro Maximoff (Earth-616)|Pietro Maximoff]] (previous incarnation's "maternal uncle");<br>
+[[Ana Maximoff (Earth-616)|Ana Maximoff]] (previous incarnation's "maternal adoptive aunt/first cousin once removed", deceased);<br>
+[[Mateo Maximoff (Earth-616)|Mateo Maximoff]] (previous incarnation's "maternal adoptive uncle/first cousin once removed", deceased);<br>
+[[Crystalia Amaquelin (Earth-616)|Crystalia Amaquelin Maximoff]] (previous incarnation's former "maternal aunt");<br>
+[[Alkhema (Earth-616)|Alkhema]] (previous incarnation's "paternal aunt");<br>
+[[Victor Mancha (Earth-616)|Victor Mancha]] (previous incarnation's "paternal uncle");<br>
+[[Simon Williams (Earth-616)|Simon Williams]] (previous incarnation's "paternal uncle");<br>
+[[Jocasta Pym (Earth-616)|Jocasta]] (previous incarnation's "paternal aunt/former grandmother");<br>
+[[Vivian (Synthezoid) (Earth-616)|Vivian]] ("half-sister");<br>
+[[Vivian 2.0 (Synthezoid) (Earth-616)|Vivian 2.0]] ("half-sister");<br>
+[[Vin (Earth-616)|Vin]] ("half-brother," deceased);<br>
+[[Talia Wagner (Earth-2182)|Talia Wagner]] (alternate reality "half-sister");<br>
+[[Luna Maximoff (Earth-616)|Luna Maximoff]] ("maternal cousin");<br>
+[[Mephisto (Earth-616)|Mephisto]] (previous incarnation's soul source);<br>
+[[Thomas Maximoff (Earth-616)|Thomas Maximoff]] (previous incarnation, deceased);<br>
+[[William Maximoff (Earth-616)|William Maximoff]] (previous incarnation's "twin brother", deceased)
+}}
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 5'8"
+| Weight                  = 155 lbs
+| Eyes                    = Green
+| Hair                    = White
+| UnusualFeatures         = Thomas bears a striking resemblance to [[Pietro Maximoff (Earth-616)|Quicksilver]] as well as [[William Kaplan (Earth-616)|Wiccan]]
+
+| Origin                  = [[Homo superior|Mutant]]{{r|Secret Invasion: Runaways/Young Avengers #3}}{{r|Avengers: The Children's Crusade #7}} reincarnated from a magical construct created by [[Wanda Maximoff (Earth-616)|Scarlet Witch]] as a "son"
+| Reality                 = Earth-616
+| PlaceOfBirth            = Springfield, [[New Jersey (State)|New Jersey]]
+
+| Identity                = Secret
+| Citizenship             = American, Krakoan
+| Occupation              = Fugitive, student, adventurer
+| Education               = Juvenile Hall
+| BaseOfOperations        = [[Krakoa (Earth-616)|Krakoa]], [[Pacific Ocean]]; formerly [[Bishop Publishing]], [[New York City]], [[New York (State)|New York]]; high security detention center; Springfield, [[New Jersey (State)|New Jersey]]
+
+| Creators                = Allan Heinberg; Jim Cheung
+| First                   = Young Avengers #10
+
+| Quotation               = Look, here's the deal. We've got a super-soldier, a giant girl, a robot from the 30th century, a Skrull/Kree super-soldier, Billy (who, yeah, is kind of lame, but can cast spells), an Olympic class archer and martial artist, and... me. And really, me's all you need. So tell me, whattayou got that makes you think you shouldn't just give up?
+| Speaker                 = [[Thomas Shepherd (Earth-616)|Speed]] to [[Chase Stein (Earth-616)|Chase Stein]]
+| QuoteSource             = Civil War: Young Avengers and Runaways Vol 1 2
+
+| History                 = 
+===Origin===
+Thomas "Tommy" Shepherd was born and raised in Springfield, [[New Jersey (State)|New Jersey]]. He is only son of Frank and Mary Shepherd, who divorced when he was still young. Tommy was in and out of juvenile halls for most of his life.{{r|Young Avengers #10}} It was in one of the detention centers that Tommy first met [[Lisa Molinari (Earth-616)|Lisa]]. The two seemed to have had some kind of romantic or physical relationship during this time.{{r|{{cl|Dark Reign: Young Avengers Vol 1 2}}-[[Dark Reign: Young Avengers Vol 1 3|3]]}}
+
+Because Tommy "accidentally" vaporized his high school using his powers, he was imprisoned under court order in a high-powered facility equipped with advanced offensive and defensive technology such as robotic suits and power dampening containment cells. Before the [[Young Avengers (Earth-616)|Young Avengers]] freed him, Tommy had been locked up for months, and was being tested and experimented on with the goal to make him into a living weapon.{{r|Young Avengers #10}}
+
+===Young Avengers=== 
+After [[Theodore Altman (Earth-616)|Hulkling]] had been captured by the [[Kree Sentries]], [[William Kaplan (Earth-616)|Wiccan]] and the other [[Young Avengers (Earth-616)|Young Avengers]] were desperate to rescue him. To locate reinforcements [[Vision (Jonas) (Earth-616)|the Vision]] recommended using the [[Avengers Fail-Safe Program]], the same program [[Nathaniel Richards (Iron Lad) (Earth-6311)|Iron Lad]] used to locate the original Young Avengers.{{r|Young Avengers Vol 1 10}}
+
+[[File:William Kaplan (Earth-616), Cassandra Lang (Earth-616), and Thomas Shepherd (Earth-616) from Young Avengers Vol 1 10 001.jpg|left|thumb|340px|[[Cassandra Lang (Earth-616)|Stature]] recognizing that [[William Kaplan (Earth-616)|Wiccan]] and Speed look like twins]]
+The team was able to locate him in a high security detention facility for superpowered juvenile offenders. They release him from his cell, and [[Cassandra Lang (Earth-616)|Stature]] almost immediately noted that Tommy and Billy could be twins. The breakout did not go unnoticed, and as the team ran into the armed officers of the facility. Tommy cynically and cruelly began attacking the officers and fleeing doctors, but was stopped by [[Katherine Bishop (Earth-616)|Kate Bishop]] and [[Elijah Bradley (Earth-616)|Patriot]].{{r|Young Avengers Vol 1 10}}
+
+[[File:Thomas Shepherd (Earth-616) from Young Avengers Vol 1 12 001.jpg|left|thumb|200px|Tommy taking on the codename "Speed" and joining the Young Avengers]]
+Speed helped the team in battling both [[Kree]] and [[Skrulls]] soldiers to rescue Hulking.{{r|Young Avengers #11|12}} After the battle, Tommy officially joined the team and adopted the codename "'''Speed'''". Speed was anxious to be a hero, and was the first to alert the Young Avengers that the villainous team, the [[Zodiac (U.N.) (Earth-616)|Zodiac]], was attacking the [[United Nations]].{{r|Young Avengers Vol 1 12}}
+
+===Civil War===
+Along with the rest of his team, Speed sided with [[Steven Rogers (Earth-616)|Captain America]] and the [[Secret Avengers (Earth-616)|Secret Avengers]] against the [[Superhuman Registration Act]], which led to the Superhero [[Civil War]].
+
+[[File:Thomas Shepherd (Earth-616) and Molly Hayes (Earth-616) 001.jpg|left|thumb|150px|Speed befriending Molly Hayes]]
+When the [[Runaways (Earth-616)|Runaways]] tried to stay out of the conflict, they barely managed to escape from the government forces. Hearing of this development in the news, the Young Avengers decided to help the Runaways even though Captain America vetoed the plan. Wiccan used his magic to locate and teleport to the Runaways. However, the Runaways believed that the Young Avengers had come to capture them and a fight ensued until [[Elijah Bradley (Earth-616)|Patriot]] succeeded in convincing [[Nico Minoru (Earth-616)|Nico Minoru]] to stop the hostilities. Speed develop a close sibling-like friendship with [[Molly Hayes (Earth-616)|Molly Hayes]].The two teams were later attacked by [[Noh-Varr (Earth-200080)|Marvel Boy]], who captured Wiccan, [[Karolina Dean (Earth-616)|Karolina]], and Hulkling, and almost killed [[Xavin (Earth-616)|Xavin]]. The young heroes became the prisoners of [[Cube Warden (Earth-616)|the Warden]], who proceeded to practice vivisection on the unconscious Teddy. The boys were rescued by Xavin, whose Skrull physiology allowed him to recover from Noh-Varr's attack. Billy came close to killing the Warden, but Teddy stopped him.{{r|{{cl|Civil War: Young Avengers and Runaways Vol 1 1}}-[[Civil War: Young Avengers and Runaways Vol 1 4|4]]}}
+
+[[File:William Kaplan (Earth-616) and Thomas Shepherd (Earth-616) searching Wundagore Mountain.jpg|left|thumb|200px|Speed and Wiccan searching for the Scarlet Witch in [[Wundagore Mountain]]]]
+===Searching for the Scarlet Witch===
+When Wiccan decided to begin searching for the [[Wanda Maximoff (Earth-616)|Scarlet Witch]], Tommy agreed to joined him. The pair searched through [[Genosha]] and [[Wundagore]] in [[Transia]] before finally encountering [[Martin Preston (Earth-616)|Master Pandemonium]] in [[Cresskill]], [[New Jersey (State)|New Jersey]] at a former residence of the Scarlet Witch and the [[Vision (Earth-616)|Vision]]. Master Pandemonium offered some information, but did not know the current whereabouts of the Scarlet Witch.{{r|Young Avengers Presents #3}}
+
+Not long after, Speed went on a date with Kate to help relieve her tensions about losing her [[Hawkeye|codename]] and [[Hawkeye's Bow|bow]] to [[Clinton Barton (Earth-616)|Clint Barton]]. The date ended with the pair breaking into the [[New Avengers (Earth-616)|New Avengers]]' [[Brooklyn]] apartment and reclaiming her bow.{{r|Young Avengers Presents #6}}
+
+===Secret Invasion===
+When [[Secret Invasion|the Skrulls invaded Earth]], Speed joined the other Young Avengers and [[Runaways (Earth-616)|Runaways]] on the front lines of the battle. Speed and Wiccan saved Hulkling from execution and later assisted [[Xavin (Earth-616)|Xavin]] to again rescue Hulkling.{{r|{{cl|Secret Invasion: Runaways/Young Avengers Vol 1 1}}-[[Secret Invasion: Runaways/Young Avengers Vol 1 3|3]]}}
+
+===Dark Reign and Siege===
+[[File:Thomas Shepherd (Earth-616) and Lisa Molinari (Earth-616).jpg|left|thumb|300px|Speed and Coat of Arms recognizing one another]] 
+When the Young Avengers confronted [[Young Masters (Earth-616)|the group of teenagers who had been using their name]], Tommy immediately recognized one of their members, [[Lisa Molinari (Earth-616)|Coat of Arms]], with whom he had a relationship in "juvie".{{r|Dark Reign: Young Avengers #2}}
+
+During the [[Siege]] of [[Asgard]], Tommy was the armor-bearer for [[Anthony Stark (Earth-616)|Tony Stark]].{{r|{{cl|Siege Vol 1 2}}-[[Siege Vol 1 4|4]]}} Speed along with the other Young Avengers helped rescue the fallen from warriors and civilians after the battle. Speed was pushing himself hard but still felt like he was failing until [[Clinton Barton (Earth-616)|Ronin]] found him. He simply let Speed know that giving it his all would always be enough.{{r|Siege: Young Avengers #1}}
+
+[[File:Thomas Shepherd (Earth-616) and Pietro Maximoff (Earth-616) 01.jpg|left|thumb|200px|Speed meeting Quicksilver]]
+===Children's Crusade===
+After [[William Kaplan (Earth-616)|Wiccan]]'s powers overloaded and the Avengers decided to keep him under observation, Speed and the other Young Avengers broke Wiccan out of holding and began the search for the [[Wanda Maximoff (Earth-616)|Scarlet Witch]].{{r|Avengers: The Children's Crusade #1}} Accompanied by [[Max Eisenhardt (Earth-616)|Magneto]] the team traveled to [[Transia]] where they met [[Pietro Maximoff (Earth-616)|Quicksilver]] and a fake Wanda, who was revealed to be a [[Doombot]].{{r|Avengers: The Children's Crusade #2}} Wiccan teleported himself into [[Latveria]] and discovered a depowered and amnesiac Wanda engaged to [[Victor von Doom (Earth-616)|Doctor Doom]].{{r|Avengers: The Children's Crusade #3}} The Young Avengers, Magneto and Quicksilver went after Wiccan, as well as the Avengers. A battle with Doom's Doombot army soon broke out and was only stopped by the arrival of [[Nathaniel Richards (Iron Lad) (Earth-6311)|Iron Lad]].{{r|Avengers: The Children's Crusade #4}}
+
+Iron Lad teleported the Young Avengers and Wanda into the timestream. They all went into the past, and met a reanimated [[Jonathan Hart (Earth-616)|Jack of Hearts]], who exploded. After that, Wanda remembered who she was, regained her powers and returned herself, the Young Avengers and [[Scott Lang (Earth-616)|Scott Lang]] into the present.{{r|Avengers: The Children's Crusade #5}} She then finally confirmed that Billy and Tommy were indeed her reincarnated sons.{{r|Avengers: The Children's Crusade #6}}
+
+===A New Young Avengers Team===
+Sometime after their induction into the Avengers, the Young Avengers again decided to disband largely at Wiccan's urging. Teddy and Tommy moved in with the Kaplans, but Tommy moved out a short time later.{{r|Young Avengers Vol 2 1}} As the other Young Avengers stayed away from heroic activities, he separated from them. He was hired by a company hiring superpowered beings, assembling electronic components at a superhuman speed (five minutes equaling to a month of work) for a few weeks and saving that money to travel for a few months, before repeating the cycle.{{r|Young Avengers Vol 2 6}}
+
+In that company, he met [[David Alleyne (Earth-616)|David Alleyne]], the [[Homo superior#Depowered Mutants|depowered mutant]] formerly known as [[Prodigy]] and started hang out with him. Soon after, someone broke into the company building, under the guise of [[Patriot]]. After having confirmed that [[Elijah Bradley (Earth-616)|Elijah Bradley]] wasn't involved, Tommy decided to inquire about it and took David with him. Waiting for him at night, the duo confronted the entity and Tommy was seemingly dematerialized by the attacker.{{r|Young Avengers Vol 2 6}} When David later settled his dispute with the mysterious [[Patriot (Entity) (Earth-616)|entity]] by kissing it, Tommy reappeared in its place, with no memory of the events that transpired while he was gone and confused as to why David was kissing him.{{r|Young Avengers Vol 2 15}}
+
+===Empyre===
+Tommy and David had since started dating and often went out with Teddy. When Teddy was feeling lonely because Billy was off with [[Strikeforce (Earth-616)|Strikeforce]], they invited him to go drinking at a gay bar where Tommy teased Teddy about his relationship problems with his brother. After being approached by agents of the [[Kree/Skrull Alliance (Earth-616)|Kree-Skrull alliance]], a group of Skrulls who wanted to kill Hulkling attacked the bar. Speed fought them alongside David, but was quickly knocked out and only recovered after the fight was over.{{r|Lords of Empyre: Emperor Hulkling Vol 1 1}}
+
+===Krakoa===
+After being informed that David had been murdered at some point before the Krakoa era by a recently resurrected [[Sofia Mantega (Earth-616)|Sofia Mantega]],{{r|X-Factor Vol 4 6}} he visited him in the [[Boneyard (Krakoa)|Boneyard]] on [[Krakoa (Earth-616)|Krakoa]]. There he told David that he had been with him in the night of the [[Office of National Emergency (Earth-616)|O*N*E]] attack that killed [[Alani Ryan (Earth-616)|Loa]], which left the specifics of his death undetermined. Following a quick make-out session, they were interrupted by [[Jean-Paul Beaubier (Earth-616)|Northstar]] and Tommy was very excited to meet the other speedster. David quickly led him outside and told him to leave, but Northstar invited him to visit anytime.{{r|X-Factor Vol 4 7}}
+
+Tommy attended the Hellfire Gala alongside David Alleyne. It was here that he was one of the first to discover [[Wanda Maximoff (Earth-616)|Wanda Maximoff]]'s corpse. {{r|X-Factor Vol 4 10}} [[Kyle Jinadu (Earth-616)|Kyle Jinadu]] tried to comfort Tommy who hadn't left his mothers side since she was put in the Boneyard, but found a strange vegetatiad engulfed her body. Neither knew what to do at this point, Tommy wished he could talk to Billy but [[Last Annihilation|he couldn't be reached]].{{r|X-Men: The Trial of Magneto Vol 1 1}} Eventually Billy arrived and Wanda was revived in secret by Magneto and [[Hope Summers (Earth-616)|Hope Summers]], Tommy and Billy tried to talk to her but she didn't know who they were because the memory back-up use in her resurrection was from before they were born. When the island was attacked by three kaiju's they tried to lead her to safety but they were separated and she was sent to a realm of pure chaos magic.{{r|X-Men: The Trial of Magneto Vol 1 3}}
+
+| Powers                  = 
+[[File:Thomas Shepherd (Earth-616) 007.jpg|right|thumb|300px|Speed running super fast]]
+Speed is a [[Homo superior|mutant]]{{r|Secret Invasion: Runaways/Young Avengers #3}}{{r|Avengers: The Children's Crusade #7}} with an enhanced physiology design for supersonic speed, including:
+*'''Superhuman Speed:''' Speed can run, move and react at speeds far greater than the average human. His top running speed is 761 miles per hour, according to himself.{{r|X-Factor Vol 4 7}}
+*'''''Molecular Acceleration:''''' He can also generate hyper-kinetic vibrations that accelerate the molecules in matter, causing any solid object he directs his vibrations at to explode.
+:* '''''Intangibility:''''' He also can use molecular destabilization to walk through solid objects.{{r|Avengers: The Children's Crusade #1}}
+*'''''Superhuman Stamina:''''' Speed's physiology grants him greater stamina when compared to an ordinary human, allowing him to operate at peak capacity for at least several hours before he begins to grow tired.
+[[File:Thomas Shepherd (Earth-616), William Kaplan (Earth-616), and Pietro Maximoff (Earth-616) from Avengers The Children's Crusade Vol 1 2 0001.png|thumb|300px|left|Speed and [[Pietro Maximoff (Earth-616)|Quicksilver]] racing]]
+*'''''Superhuman Agility:''''' Speed's physiology grants him superhuman agility being more flexible and having greater balance.
+*'''''Superhuman Reflexes:''''' He's capable of reacting fast, because he's moving at superhuman speeds everything moves slower for him.
+*'''Superhuman Durability:''' Speed's physiology also provides him with limited protection against impact forces and the high levels of friction that are produced when he moves at superhuman speed.
+*'''Superhuman Strength:''' Speed possesses a limited degree of superhuman strength, allowing him to lift about 800 lbs with his arms and 1 ton with his legs.
+*'''Accelerated Perception:''' Speed's brain processes information at an accelerated rate to match his bodily speed, enabling him to perceive his surroundings while traveling at high velocities. To him, this makes it seems as if the world is going in slow motion.
+
+| Abilities               = 
+| Strength                = He can press between 800 pounds to 1 ton with his lower body and lift about 800 to 1000 pounds in his upper body.
+| Weaknesses              = Despite possessing some level of superhuman durability, things such as bullets and energy blasts can injure him the same way they injure a regular person.
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+[[File:Wanda Maximoff (Earth-616), William Kaplan (Earth-616), and Thomas Shepherd (Earth-616) from Avengers The Children's Crusade Vol 1 9 001.jpg|thumb|right|200px|Speed and [[William Kaplan (Earth-616)|Wiccan]] finally reunited with their mother, the [[Wanda Maximoff (Earth-616)|Scarlet Witch]]]]
+* It was long believed that Tommy and [[William Kaplan (Earth-616)|Billy Kaplan]] were reincarnations of the [[Wanda Maximoff (Earth-616)|Scarlet Witch]] and the [[Vision (Earth-616)|Vision]]'s twin sons, [[Thomas Maximoff (Earth-616)|Thomas Maximoff]] and [[William Maximoff (Earth-616)|William Maximoff]].
+** Wiccan first reached this conclusion after meeting Tommy, his identical twin except for the white hair.{{r|Young Avengers Vol 1 10}} After an encounter with [[Super-Skrull]], who believed them to be Thomas and William, Billy decided he and Tommy must be Wanda's children reincarnated. He based this on their names, appearances, Tommy's white hair and speed matching his "uncle" Pietro, and Billy's powers being similar to Wanda's.{{r|Young Avengers Vol 1 11}}
+** The Scarlet Witch finally confirmed that Billy and Tommy were indeed her reincarnated sons.{{r|Avengers: The Children's Crusade #6}}
+** Although initial skeptical about the relationship,{{r|Young Avengers Vol 1 12}} Speed later embraced and enjoyed the new twin relationship with [[William Kaplan (Earth-616)|Wiccan]].{{r|Young Avengers Presents #3}}
+* Speed quickly developed a playful sibling relationship with the [[Runaways (Earth-616)|Runaway]] [[Molly Hayes (Earth-616)|Molly Hayes]].{{r|{{cl|Civil War: Young Avengers and Runaways Vol 1 1}}-[[Civil War: Young Avengers and Runaways Vol 1 4|4]]}}
+* Speed not only does bears a striking resemblance with to [[Pietro Maximoff (Earth-616)|Quicksilver]] with his physical appearance and superpowers, but they also share similar personalities and attitudes.{{r|Avengers: The Children's Crusade #6}}
+* Speed is bisexual.<ref>{{cite web|url=https://twitter.com/jrome58/status/1124302630744936449|title=6 canonically LGBTQ kids (plus Viv off panel)| .mattfraction|work=Twitter|first=Jeremy|last=Whitley|date=3 May 2019|accessdate=5 December 2019}}</ref><ref>{{cite web|url=https://twitter.com/jrome58/status/1124318866950316032|title=One user on Twitter says that the sixth LGBT kid hero is Speed and Jeremy Whitley agrees| .mattfraction|work=Twitter|date=3 May 2019|accessdate=5 December 2019}}</ref>{{r|Marvel's Voices: Pride Vol 1 1}}
+** Speed and [[Katherine Bishop (Earth-616)|Kate Bishop]] shared a mutual attraction to one another, creating a love-triangle between the two of them and [[Elijah Bradley (Earth-616)|Patriot]].{{r|Young Avengers Presents #6}}
+** Speed had a romantic relationship with [[Lisa Molinari (Earth-616)|Lisa Molinari]] while the pair was in juvenile detention together.{{r|Dark Reign: Young Avengers #2}}
+** It is later shown that he and [[David Alleyne (Earth-616)|Prodigy]] are dating.{{r|Lords of Empyre: Emperor Hulkling Vol 1 1}}{{r|X-Factor Vol 4 7}}{{r|Marvel's Voices: Pride Vol 1 1}}
+| Tri 1via                  = 
+| Links                   = 
+}}
+[[Category:Superhuman Reflexes]]
+[[Category:Superhuman Agility]]
+[[Category:Avengers Fail-Safe Program recruit]]
+[[Category:Twins]]
+[[Category:Reincarnation]]
+[[Category:Intangibility]]
+[[Category:Vision Family]]
+[[Category:Maximoff Family]]
+[[Category:Superhuman Speed]]
+[[Category:Superhuman Durability]]
+[[Category:Superhuman Stamina]]
+[[Category:Superhuman Strength]]
+[[Category:Time Travelers]]
+[[Category:Post-M-Day Mutants (Registration Status Unknown)]]
+[[Category:Supersonic Speed]]
+[[Category:Seismokinesis]]
+[[Category:Post-Secret Wars Mutants]]
+[[Category:Shepherd Family]]
+[[Category:Bisexual Characters]]

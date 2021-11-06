@@ -1,0 +1,69 @@
+{{Marvel Database:Character Template
+| Image                   = Cerebra (A.I.) (Earth-616) from Extraordinary X-Men Vol 1 20 001.jpg
+| Name                    = [[Cerebra]]
+| CurrentAlias            = 
+| Aliases                 = 
+| Identity                = No Dual
+| Affiliation             = Formerly {{m|X-Men (Earth-616)|X-Men}}
+| Relatives               = [[Forge (Earth-616)|Forge]] (creator)
+| Reality                 = Earth-616
+| BaseOfOperations        = [[Krakoa (Earth-616)|Krakoa]], [[Pacific Ocean]]; formerly [[Xavier's School for Gifted Youngsters|Xavier Institute for Mutant Education and Outreach]], [[Central Park]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]; [[Xavier's School for Gifted Youngsters|Jean Grey School for Higher Learning]], [[X-Haven]], [[Limbo (Demonic)|Limbo]] (formerly [[Salem Center]], [[North Salem]], [[Westchester County]], [[New York (State)|New York]])
+
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Yellow
+| Hair                    = None
+| UnusualFeatures         = 
+
+| Citizenship             = Krakoan
+| MaritalStatus           = Single
+| Occupation              = Adventurer
+| Education               = 
+
+|Origin                   = [[Artificial intelligence]] derived from the information and functionality of the original mutant-detector system, [[Cerebro (Mutant Detector)|Cerebro]], and initially housed inside a [[Sentinels|Sentinel]] body for her protection
+| PlaceOfBirth            = 
+| Creators                = Jeff Lemire; Humberto Ramos
+| First                   = Extraordinary X-Men Vol 1 1
+
+| History                 = Cerebra was an artificial intelligence containing the information and functionality of the original mutant detector system [[Cerebro (Mutant Detector)|Cerebro]]. She was created by [[Forge (Earth-616)|Forge]], who put her inside a [[Sentinels|Sentinel]] body for protection, to help the [[X-Men (Earth-616)|X-Men]] locate what was left of mutantkind in the wake of the [[M-Pox]], a disease that only affected [[Homo superior|Mutants]] and was caused by the [[Terrigen Mist]]s.{{r|Extraordinary X-Men Vol 1 1|2}}
+[[Category:Artificial Intelligences]]
+[[Category:Computer Systems]]
+[[Category:Technology]]
+[[File:Cerebra (A.I.) (Earth-616) from Extraordinary X-Men Vol 1 2 001.jpg|thumb|left|Cerebra's Sentinel body]]
+After the time-displaced young [[Jean Grey (Earth-616)|Jean Grey]] informed the X-Men of [[James Howlett (Earth-21923)|a Wolverine]] from [[Earth-21923|a different future]] in [[Manitoba]], [[Canada]], Cerebra took [[Ororo Munroe (Earth-616)|Storm]] and [[Robert Drake (Earth-616)|Iceman]] with her in order to confirm if it was a resurrected [[James Howlett (Earth-616)|Wolverine]] or something else. Cerebra was the first to approach Logan, being attacked by him because of her Sentinel body. He stopped soon after she pleaded him to, which surprised him. Storm tried to recruit Logan to the X-Men, but he refused and Cerebra took her and Iceman back to [[X-Haven]].{{r|Extraordinary X-Men Vol 1 1|2}}{{r|Old Man Logan Vol 2 4}}
+
+When the magical defenses placed in X-Haven by [[Illyana Rasputina (Earth-616)|Magik]] fell, the [[demons]] from the surrounding areas of [[Limbo (Demonic)|Limbo]] began to attack the school.{{r|Extraordinary X-Men Vol 1 2}} Cerebra, alongside the rest of the X-Men, fought against them to save the students and refugees of X-Haven. After Jean and Logan contacted Forge through a [[Mini-Cerebro]] left by Storm, Cerebra went back to Canada to take them with her to X-Haven so they could help in fighting the demons off.{{r|Extraordinary X-Men Vol 1 3}} Forge was ultimately able to rise a shield around X-Haven, ending the battle. Soon afterwards, Cerebra sent the X-Men to rescue [[Piotr Rasputin (Earth-616)|Colossus]] and Magik from [[Nathaniel Essex (Earth-616)|Mister Sinister]] in [[Manhattan]].{{r|Extraordinary X-Men Vol 1 4}}
+
+Following a rescue mission on [[Weirdworld (Battleworld)|Weirdworld]],{{r|Extraordinary X-Men Vol 1 6|7}} Cerebra detected the sudden appearance of six hundred new mutant signatures in a warehouse in [[Tokyo]], prompting Storm to send Colossus and his protégés ([[Victor Borkowski (Earth-616)|Anole]], [[Ernst (Earth-616)|Ernst]], [[Robert Herman (Earth-616)|Glob]], and [[Martha Johansson (Earth-616)|No-Girl]]) with her to investigate. [[Sugar Man (Earth-295)|Sugar Man]] was about to leave with an ark containing six hundred mutant embryos, which he genetically engineered in total isolation from the Terrigen Mists, when they arrived. He planned to take it with him to [[Earth-16558|the future]], where they would be safe from the M-Pox and grow to become the next generation of mutants, with him as their leader. The interference of Colossus and his team of young X-Men, however, resulted in them being teleported with the ark in his place. Cerebra remained behind, as she dealt with Sugar Man while the others tried to turn the villain's machines off.{{r|Extraordinary X-Men Vol 1 8}}
+
+As soon as the rest of the X-Men arrived, Sugar Man was taken down and Cerebra followed Colossus' team through the timestream, arriving on [[Omega World]] with the X-Men a thousand years later. They reunited with the young X-Men, now one year older, and fought against the [[Horsemen of Apocalypse (Earth-16558)|Horsemen]] of [[En Sabah Nur (Earth-16558)|Apocalypse]], who had turned Colossus into one of their own. The Horsemen stole the ark from the X-Men and retrieved it to their master, but the X-Men went after them to get it back and rescue Colossus. Succeeding in their mission, the X-Men returned to the present with Apocalypse, since he was the only person who could undo Colossus' conversion into the [[War|Horseman of War]]. However, he teleported Colossus away right after their arrival.{{r|Extraordinary X-Men Vol 1 8|12}}
+
+Forge had to download Cerebra's A.I. into his computer to repair her body, which had been heavily damaged during the X-Men's adventure on Omega World.{{r|Extraordinary X-Men Vol 1 13}} Once fully repaired, Cerebra took No-Girl, Glob, and Anole to help [[Kurt Wagner (Earth-616)|Nightcrawler]] and Iceman capture Colossus after the duo found him again. He was subsequently teleported back to X-Haven, where Nightcrawler tricked Apocalypse into freeing Colossus of his control before causing his death.{{r|Extraordinary X-Men Vol 1 13|16}} As X-Haven was being destroyed by the [[World-Eater (Earth-616)|World-Eater]], a powerful entity who had possessed the mutant [[Sapna (Earth-616)|Sapna]], Cerebra helped the X-Men evacuate the school to keep the students and refugess safe. They returned once the threat had been dealt with.{{r|Extraordinary X-Men Vol 1 16}}
+
+During the final battle of the [[Inhumans vs. X-Men|war between Inhumans and X-Men]], Cerebra's body was destroyed by the [[Inhuman-Hunting Sentinel]]s of [[Emma Frost (Earth-616)|Emma Frost]].{{r|IVX Vol 1 6}} In the last nano-second before it was destroyed, Cerebra managed to connect to one of Emma's Sentinels and found herself in the place where they were built. She sent a signal to No-Girl that led the X-Men to her. Upon finding Cerebra, No-Girl gave the robot body she got on Omega World to her and they returned to X-Haven.{{r|Extraordinary X-Men Vol 1 20}}
+
+| Personality             = Being an artificial intelligence, Cerebra is capable of demonstrating human feelings, such as concern and anguish.
+
+| Powers                  = {{Navigation
+| title = Former Powers
+| body  = '''Mutant Detection:''' In her Sentinel body, Cerebra was capable of detecting mutants all over the world due to it being programmed with the original [[Cerebro (Mutant Detector)|Cerebro]].{{r|Extraordinary X-Men Vol 1 2}}
+
+'''Teleportation:''' In her Sentinel body, Cerebra was capable of teleporting herself and others from anywhere in the planet to [[X-Haven]], serving as a bridge for the X-Men between [[Earth]] and their headquarters in [[Limbo (Demonic)|Limbo]].{{r|Extraordinary X-Men Vol 1 2}}
+}}
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Teleporters]]
+[[Category:Power Sensing]]

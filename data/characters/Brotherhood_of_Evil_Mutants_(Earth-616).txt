@@ -1,0 +1,184 @@
+{{Marvel Database:Team Template
+| Image                   = Brotherhood of Evil Mutants (Earth-616) from X-Men Blue Vol 1 34 001.jpg
+| ImageSize               = 250px
+| Name                    = [[Brotherhood of Evil Mutants]]
+| Aliases                 = Brotherhood, Brotherhood of Mutants, Sisterhood of Evil Mutants{{r|Dazzler Vol 1 22}}
+
+| Status                  = Defunct
+| Identity                = Public
+| Reality                 = Earth-616
+| BaseOfOperations        = [[Asteroid M]], [[Earth Orbit]]; formerly [[Island M]], [[Atlantic Ocean]]; [[Genosha]], [[Indian Ocean]]
+
+| Leaders                 = [[Max Eisenhardt (Earth-616)|Magneto (Eisenhardt)]]; Formerly [[Akihiro (Earth-616)|Daken]], [[Bennet du Paris (Earth-616)|Exodus]], [[Mesmero (Vincent) (Earth-616)|Mesmero]], [[Joseph (Earth-616)|Magneto (Joseph)]], [[Kuan-Yin Xorn (Earth-616)|Magneto (Xorn)]], [[Raven Darkholme (Earth-616)|Mystique]], [[Charles Xavier (Earth-616)|Professor X]], [[Mortimer Toynbee (Earth-616)|Toad]]
+| CurrentMembers          = [[Max Eisenhardt (Earth-616)|Magneto (Eisenhardt)]], [[Avalanche (Mesmero's Brotherhood) (Earth-616)|Avalanche]], [[St. John Allerdyce (Earth-616)|Pyro]], [[Marshall Stone III (Earth-616)|Random]], [[Mortimer Toynbee (Earth-616)|Toad]]
+
+| FormerMembers           = ''Magneto's Brotherhood (1st):''<br> [[Astra (Mutant) (Earth-616)|Astra]], [[Max Eisenhardt (Earth-616)|Magneto]], [[Jason Wyngarde (Earth-616)|Mastermind]], [[Pietro Maximoff (Earth-616)|Quicksilver]], [[Wanda Maximoff (Earth-616)|Scarlet Witch]], [[Mortimer Toynbee (Earth-616)|Toad]]
+<br>
+
+''New Brotherhood:''<br>[[Henry McCoy (Earth-616)|Beast]], [[Frederick Dukes (Earth-616)|Blob]], [[Jason Wyngarde (Earth-616)|Mastermind]], [[Gunther Bain (Earth-616)|Unus]]
+<br>
+
+''Magneto's Brotherhood (2nd):''<br>[[Alpha (Mutant) (Earth-616)|Alpha]],{{r|Defenders Vol 1 16}}{{r|All-New Official Handbook of the Marvel Universe A to Z Vol 1 1}} [[Frederick Dukes (Earth-616)|Blob]], [[Lani Ubanu (Earth-616)|Lorelei]], [[Max Eisenhardt (Earth-616)|Magneto]], [[Jason Wyngarde (Earth-616)|Mastermind]], [[Gunther Bain (Earth-616)|Unus]], [[Telford Porter (Earth-616)|Vanisher]]
+<br>
+
+''Magneto's Brotherhood (3rd):''<br>[[Byron Calley (Earth-616)|Burner]], [[Ned Lathrop (Earth-616)|Lifter]], [[Max Eisenhardt (Earth-616)|Magneto]], [[Peter Quinn (Earth-616)|Peeper]], [[Randall Darby (Earth-616)|Shocker]], [[Aaron Salomon (Earth-616)|Slither]]
+<br>
+
+''Mystique's Brotherhood (1st):''<br>[[Dominikos Ioannis Petrakis (Earth-616)|Avalanche]], [[Blindspot (Mutant) (Earth-616)|Blindspot]], [[Frederick Dukes (Earth-616)|Blob]], [[Irene Adler (Earth-616)|Destiny]], [[Raven Darkholme (Earth-616)|Mystique]], [[St. John Allerdyce (Earth-616)|Pyro]], [[Rogue (Anna Marie) (Earth-616)|Rogue]]
+<br>
+
+''Toad's Brotherhood:''<br>[[Frederick Dukes (Earth-616)|Blob]], [[Masque (Earth-616)|Masque]], [[Eileen Harsaw (Earth-616)|Phantazia]], [[St. John Allerdyce (Earth-616)|Pyro]], [[Karl Lykos (Earth-616)|Sauron]], [[Mortimer Toynbee (Earth-616)|Toad]], [[Lucia Callasantos (Earth-616)|Thornn]]
+<br>
+
+''Xavier's Brotherhood:''<br>[[Frederick Dukes (Earth-616)|Blob]], [[Calvin Rankin (Earth-616)|Mimic]], [[Charles Xavier (Earth-616)|Professor X]], [[Kevin Tremain (Earth-616)|Post]], [[Mortimer Toynbee (Earth-616)|Toad]]
+<br>
+
+''Mystique's Brotherhood (2nd):''<br>[[Dominikos Ioannis Petrakis (Earth-616)|Avalanche]], [[Frederick Dukes (Earth-616)|Blob]], [[Crimson Commando (Brotherhood of Mutants) (Earth-616)|Crimson Commando]], [[Martinique Wyngarde (Earth-616)|Mastermind]], [[Raven Darkholme (Earth-616)|Mystique]], [[Sabre (Mutant) (Earth-616)|Sabre]], [[Victor Creed (Earth-616)|Sabretooth]], [[Kevin Tremain (Earth-616)|Post]], [[Mortimer Toynbee (Earth-616)|Toad]]
+<br>
+
+''Xorn's Brotherhood:''<br>[[Angel Salvadore (Earth-616)|Angel]], [[Mike Columbus (Earth-616)|Basilisk]], [[Barnell Bohusk (Earth-616)|Beak]], [[Cassandra Nova Xavier (Earth-616)|Ernst]], [[Esme Cuckoo (Earth-616)|Esme]], [[Kuan-Yin Xorn (Earth-616)|Magneto (Xorn)]], [[Martha Johansson (Earth-616)|No-Girl]], [[Mortimer Toynbee (Earth-616)|Toad]]
+<br>
+
+''Exodus' Brotherhood:''<br>[[Dominikos Ioannis Petrakis (Earth-616)|Avalanche]], [[Thomas Cassidy (Earth-616)|Black Tom Cassidy]], [[Bennet du Paris (Earth-616)|Exodus]], [[Cain Marko (Earth-616)|Juggernaut]], [[Maximus Jensen (Earth-616)|Mammomax]], [[Talia Wagner (Earth-2182)|Nocturne]], [[Victor Creed (Earth-616)|Sabretooth]]
+<br>
+
+''Joseph's Brotherhood:''<br>[[Astra (Mutant) (Earth-616)|Astra]], [[Frederick Dukes (Clone) (Earth-616)|Blob (Clone)]], [[Max Eisenhardt (Joseph) (Earth-616)|Magneto (Joseph)]], [[Jason Wyngarde (Clone) (Earth-616)|Mastermind (Clone)]], [[Pietro Maximoff (Clone) (Earth-616)|Quicksilver (Clone)]], [[Wanda Maximoff (Clone) (Earth-616)|Scarlet Witch (Clone)]], [[Mortimer Toynbee (Clone) (Earth-616)|Toad (Clone)]]
+<br>
+
+''Daken's Brotherhood:''<br>[[Frederick Dukes (Earth-295)|Blob (Earth-295)]], [[Akihiro (Earth-616)|Daken]], [[Raven Darkholme (Earth-616)|Mystique]], [[Omega Black (Earth-616)|Omega Black]], [[Omega Red (Omega Clan) (Earth-616)|Omega Red]], [[Omega White (Earth-616)|Omega White]], [[Victor Creed (Earth-616)|Sabretooth]], [[Amahl Farouk (Earth-616)|Shadow King]] ([[Amahl Farouk (Earth-616)|Amahl Farouk]]), [[Harry Pizer (Earth-616)|Skinless Man (Weapon III)]]
+<br>
+
+''Mystique's Brotherhood (3rd):''<br>[[Raven Darkholme (Earth-616)|Mystique]], [[Victor Creed (Earth-616)|Sabretooth]], [[Regan Wyngarde (Earth-616)|Lady Mastermind]]
+<br>
+
+''Mystique's Brotherhood (4th):''<br>[[Sabretooth (Victor Creed)|Sabertooth]], [[Frederick Dukes (Earth-616)|Blob]], [[Regan Wyngarde (Earth-616)|Lady Mastermind]], [[Raven Darkholme (Earth-616)|Mystique]], [[Shingen Harada II (Earth-616)|Silver Samurai]]
+<br>
+
+''Mesmero's Brotherhood:''<br>[[Mesmero (Vincent) (Earth-616)|Mesmero]], [[Avalanche (Mesmero's Brotherhood) (Earth-616)|Avalanche]], [[Kologoth Antares (Earth-616)|Kologoth]], [[Amara Aquilla (Earth-616)|Magma]], [[Masque (Earth-616)|Masque]], [[Simon Lasker (Earth-616)|Pyro]] (all influenced by Mesmero)
+
+''Mesmero's Brotherhood (2nd):''<br>[[Mesmero (Vincent) (Earth-616)|Mesmero]], [[Avalanche (Mesmero's Brotherhood) (Earth-616)|Avalanche]], [[Simon Lasker (Earth-616)|Pyro]]
+
+''Magneto's Brotherhood (4th):''<br>[[Joshua Foley (Earth-616)|Elixir]], [[Bennet du Paris (Earth-616)|Exodus]], [[Marrow (Sarah) (Earth-616)|Marrow]], [[Briar Raleigh (Earth-616)|Briar Raleigh]], [[Mortimer Toynbee (Earth-616)|Toad]], [[Carmella Unuscione (Earth-616)|Unuscione]]
+
+''Joseph's Brotherhood (2nd):''<br>[[Joseph (Earth-616)|Joseph]], [[Cain Marko (Earth-616)|Juggernaut]]
+
+
+| Allies                  = 
+''Mystique's Brotherhood (3rd):''<br>[[Erg (Earth-616)|Erg]]<br>
+
+''Mesmero's Brotherhood:''<br>[[Lydia Nance (Earth-616)|Lydia Nance]]
+
+| Enemies                 = [[X-Men (Earth-616)|X-Men]], [[X-Factor (Earth-616)|X-Factor]], [[Excalibur (Earth-616)|Excalibur]], [[New Mutants (Earth-616)|New Mutants]], [[Carol Danvers (Earth-616)|Captain Marvel]], [[Rom (Earth-616)|Rom]], [[Avengers (Earth-616)|Avengers]], [[Defenders (Earth-616)|Defenders]], [[Christopher Powell (Earth-616)|Darkhawk]]
+
+''Joseph's Brotherhood:''<br>[[Max Eisenhardt (Earth-616)|Magneto]]
+<br>
+
+''Daken's Brotherhood:''<br>[[X-Force (Strike Team) (Earth-616)|X-Force]]
+<br>
+
+''Mystique's Brotherhood (3rd):''<br>[[X-Men (Time-Displaced) (Earth-616)|Time-displaced X-Men]], [[X-Men (New Charles Xavier School) (Earth-616)|Cyclops's X-Men]], [[Alison Blaire (Earth-616)|Dazzler]]
+
+''Mesmero's Brotherhood:''<br>[[X-Men (Earth-616)|X-Men]]
+
+| Origin                  = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Stan Lee; Jack Kirby
+| First                   = X-Men Vol 1 4
+
+| HistoryText             = 
+[[File:X-Men Legacy Vol 1 209 Textless.jpg|thumb|left]]
+===Magneto's First Brotherhood===
+The Brotherhood of Mutants was a group dedicated to the cause of mutant superiority over humans. Throughout its various incarnations, the Brotherhood's agenda gravitated towards either subjugating the human race to the will of mutants or eradicating humanity altogether. [[Max Eisenhardt (Earth-616)|Magneto]] formed the original Brotherhood of Evil Mutants, including [[Astra (Mutant) (Earth-616)|Astra]], [[Mortimer Toynbee (Earth-616)|Toad]], [[Pietro Maximoff (Earth-616)|Quicksilver]], [[Wanda Maximoff (Earth-616)|Scarlet Witch]], and [[Jason Wyngarde (Earth-616)|Mastermind]], shortly after the public debut of the [[X-Men (Earth-616)|X-Men]]. After a falling out with Astra that led to her quitting the team, Magneto had the Brotherhood initiate a coup in [[Santo Marco (Country)|Santo Marco]] that was thwarted by the X-Men,{{r|X-Men #4}} as well as kidnap [[Warren Worthington III (Earth-616)|Angel]] in an attempt to destroy the X-Men.{{r|X-Men #5}} Magneto then attempted to recruit the both thunder god [[Thor Odinson (Earth-616)|Thor]]{{r|Journey into Mystery #109}} and [[Namor McKenzie (Earth-616)|Namor]]{{r|X-Men #6}} into his Brotherhood, but both refused.
+
+The [[Frederick Dukes (Earth-616)|Blob]] was the next candidate for recruitment, but he ultimately declined to join after seeing the way Magneto mistreated his followers.{{r|X-Men #7}} Magneto then sent Mastermind to recruit [[Gunther Bain (Earth-616)|Unus]]; however, he was blackmailed by the X-Men into declining the offer in exchange for reversing his then-amplified powers.{{r|X-Men #8}} During an encounter with the enigmatic [[Stranger (Cosmic Being) (Earth-616)|Stranger]], Magneto and the Toad were captured and taken to the Stranger's homeworld,{{r|X-Men Vol 1 11}} shortly after which Quicksilver and the Scarlet Witch joined a revamped version of the [[Avengers (Earth-616)|Avengers]].{{r|Avengers Vol 1 16}}
+
+===New Brotherhood===
+After a tenure with the subversive organization [[Factor Three (Earth-616)|Factor Three]] (intended to become a third major world power), Blob, Mastermind, and Unus banded together as a new Brotherhood. Following a failed attempt to settle the score with the X-Men, the trio were able to make the [[Henry McCoy (Earth-616)|Beast]] believe he had killed the Avenger [[Anthony Stark (Earth-616)|Iron Man]] and manipulated him into joining until he realized the truth and single-handedly defeated them.{{r|Amazing Adventures Vol 2 12|13}}
+
+===Magneto's Second Brotherhood===
+Eventually returning to Earth, Magneto re-formed the Brotherhood with Blob, Mastermind, [[Gunther Bain (Earth-616)|Unus]], and the Savage Land Mutate [[Lani Ubanu (Earth-616)|Lorelei]] to assist him in the creation of a being with unlimited power that he dubbed [[Alpha (Mutant) (Earth-616)|Alpha, the Ultimate Mutant]].{{r|Defenders #15}} In an encounter with the [[Defenders (Earth-616)|Defenders]], the rapidly evolving Alpha unleashed his powers, reducing the Brotherhood to a state of infancy.{{r|Defenders #16}}
+
+Mastermind, Unus, Blob, and Loreli were later restored to their proper ages and were recruited by the [[Vanisher (Earth-616)|Vanisher]] to seek revenge on the X-Men, but were defeated by the [[Champions of Los Angeles (Earth-616)|Champions]].{{r|Champions Vol 1 17}}
+
+===Magneto's Third Brotherhood===
+Subsequently restored to adulthood by [[Davan Shakari (Earth-616)|Eric the Red]], an agent of the alien [[Shi'ar]] race, Magneto formed a new Brotherhood comprising [[Byron Calley (Earth-616)|Burner]], [[Ned Lathrop (Earth-616)|Lifter]], [[Peter Quinn (Earth-616)|Peeper]], [[Randall Darby (Earth-616)|Shocker]] and [[Aaron Salomon (Earth-616)|Slither]]. When they failed to capture the mutant with two bodies known as [[Mister One and Mister Two (Earth-616)|Mister One and Mister Two]], Magneto abandoned this team,{{r|Captain America Annual Vol 1 4}} though they remained together as the [[Mutant Force]] and later temporarily became the Resistants.{{r|Defenders Vol 1 78}}
+
+===Mystique's First Brotherhood===
+The mutant shape-shifter [[Raven Darkholme (Earth-616)|Mystique]] formed her own Brotherhood of Evil Mutants, recruiting Blob, Pyro, Avalanche, Destiny, and her own foster daughter, Rogue. Mystique sent the Brotherhood against Carol Danvers, then known as [[Carol Danvers (Earth-616)|Ms. Marvel]], which ultimately led to Rogue absorbing and retaining Danvers' powers and memories.{{r|Marvel Super-Heroes Vol 2 10|11}} Mystique intended for the Brotherhood to assassinate then-anti-mutant [[Robert Kelly (Earth-616)|Senator Kelly]], but they met defeat after the X-Men intervened and were incarcerated.{{r|X-Men Vol 1 141}}{{r|Uncanny X-Men Vol 1 142}}
+
+Rogue freed the imprisoned members from captivity, but the male members were quickly recaptured after a struggle with the Galadorian Spaceknight named [[ROM (Earth-616)|ROM]]. Mystique then sought to recruit the Dire Wraith/human halfbreed [[James Marks (Earth-616)|Hybrid]] as a member; however, he proved too powerful for her to control, and the "Sisterhood" eventually aided Rom in temporarily destroying Hybrid.{{r|Rom Vol 1 31|32}} Subsequent efforts to target the X-Man [[Warren Worthington III (Earth-616)|Angel]] led to an encounter with Alison Blaire, the [[Alison Blaire (Earth-616)|Dazzler]], with whom Rogue quickly developed a fierce rivalry until Dazzler definitively defeated her.{{r|Dazzler Vol 1 22|23}}
+
+===Freedom Force===
+Rogue eventually left the Brotherhood to seek help with controlling her powers and joined the X-Men.{{r|Uncanny X-Men Vol 1 171}} Soon after, Mystique's Brotherhood gained the support of the United States government by apprehending Magneto and became the first government-sponsored mutant team, [[Freedom Force (Earth-616)|Freedom Force]].{{r|Uncanny X-Men Vol 1 199|200}} The team's ranks swelled with the addition of vigilantes [[Frank Bohannan (Earth-616)|Crimson Commando]], [[Martin Fletcher (Earth-616)|Super Sabre]], and [[Louis Hamilton (Earth-616)|Stonewall]],{{r|Uncanny X-Men Vol 1 223}} as well as the inter-dimensional [[Rita Wayword (Earth-616)|Spiral]] and Julia Carpenter, the new [[Julia Carpenter (Earth-616)|Spider-Woman]].{{r|Uncanny X-Men Vol 1 206}} Freedom Force conducted various missions for the government, ultimately losing both [[Irene Adler (Earth-616)|Destiny]] and Stonewall in battle against the cyborg Reavers on [[Muir Island]]. After Mystique, Spiral, and Spider-Woman left the team, the remaining members were sent on a mission to rescue nuclear physicist Harvey Kurtzman from captivity in Kuwait.{{Citation}}
+
+The operation went awry after they encountered the Arab super team [[Desert Sword (Earth-616)|Desert Sword]]. During the battle, Pyro killed both Kurtzman and Desert Sword operative Veil, Super Sabre was beheaded by Aminedi, and Crimson Commando was critically injured. Avalanche and Commando managed to escape alongside a squad of American soldiers, leaving Blob and Pyro to be captured.{{Citation}}
+
+===Toad's Brotherhood===
+Eventually the Toad sought to form a new Brotherhood, recruiting Blob, Pyro, and forcing Karl Lykos to revert into Sauron. They attempted to recruit the [[Morlocks (Earth-616)|Morlocks]] but were rebuffed until they agreed to take down the mutant Feral of the X-Force. During the battle, both Sauron and the Morlocks' leader Masque were seemingly killed; however both later resurfaced. Morlock member Phantazia remained with the Brotherhood after the assault on X-force and during a failed effort to recruit the X-Patriots into the Brotherhood, due to an attack by X-Factor. They hatched a plan to use a teleporting mutant named Portal to gain powerful weapons and sneak attack the X-Men however, but they were thwarted by the Amazing Spider-Man, crime-fighting [[Chris Powell (Earth-616)|Darkhawk]], and the enigmatic [[Sleepwalker (Earth-616)|Sleepwalker]]. Soon after, Toad's Brotherhood disbanded.{{Citation}}
+
+===Xavier's Brotherhood===
+The next incarnation of the team came when [[Charles Xavier (Earth-616)|Professor Xavier]] was imprisoned by the government-sanctioned [[Operation: Zero Tolerance]]. Freed by a new Brotherhood of Mutants led by the Blob and consisting of Toad, [[Kevin Tremain (Earth-616)|Post]], and [[Calvin Rankin (Earth-616)|Mimic]], Xavier agreed to train them to better their chances of survival against the then-sentient computer [[Cerebro (Founder) (Earth-616)|Cerebro]].{{Citation}}
+
+===Mystique's Second Brotherhood===
+After Cerebro was defeated by Xavier, the Brotherhood was employed by Mystique to recover the remains of X-51, the [[Aaron Stack (Earth-616)|Machine Man]], after which she reorganized the team. Mystique recruited some of her old teammates along with Sabretooth, Toad, [[Kevin Tremain (Earth-616)|Post]], and [[Martinique Wyngarde (Earth-616)|Mastermind (Martinique Jason)]] with a view to launching another assassination attempt on then-presidential candidate Senator Kelly. As Mystique, Sabretooth and Toad created a diversion by attacking the Muir Island Research Facility, Post, Blob, Avalanche, and Mastermind targeted Kelly. In response, the X-Men split into two groups to stop the Brotherhood but were unable to prevent the destruction of Muir. They would have been too late to save Kelly if not for the timely arrival of former Brotherhood member Pyro, who was in the final stages of the deadly mutant-killing [[Legacy Virus]] and sought to redeem himself before he died. Pyro sacrificed his life to incinerate Post, thus preventing Kelly's death. Despite this selfless act, Kelly was ultimately killed by an anti-mutant protester who believed him to be a race traitor.{{Citation}}
+
+Following Mystique's imprisonment, many of the Brotherhood members were recruited by former X-Man [[Sean Cassidy (Earth-616)|Banshee]] into the paramilitary [[X-Corps (Earth-616)|X-Corps]] group.{{Citation}}
+
+===Mystique's Third Brotherhood===
+The next incarnation of the Brotherhood was led by Mystique again. This Brotherhood had infiltrated the X-Corps and took over the group, before it was defeated by the X-Men and Mystique sucked into another dimension by X-Corps recruit Abyss (landing the two into the arms of Azazel, who was the father of both Abyss and Mystique's biological son Nightcrawler).{{Citation}}
+
+Following her being rescued from her former lover's realm, Mystique became a reluctant agent of Professor X, doing black-ops missions for him. While employed, Mystique claimed that the second and third Brotherhood formed by her were actually formed by someone trying to frame her, something Xavier dismissed as lies designed by Mystique to gain sympathy from Xavier.{{Citation}}
+
+===Xorn's Brotherhood===
+After infiltrating Xavier's school in the guise of the mutant healer [[Kuan-Yin Xorn (Earth-616)|Xorn]], a Magneto impostor adopted the Institute's special class of students - Basilisk, Ernst, Martha Johansson, Beak, and Angel - as his Brotherhood. Joined by Toad and Esme of the Stepford Cuckoos, the faux Magneto attempted a hostile takeover of Manhattan. However, his inability to control the resulting chaos resulted in the fracturing of the Brotherhood after he inadvertently killed Basilisk and was himself decapitated by Wolverine.{{Citation}}
+
+===Exodus' Brotherhood===
+Recently the Brotherhood was reorganized by Magneto's former Acolyte [[Bennet du Paris (Earth-616)|Exodus]], who recruited [[Thomas Cassidy (Earth-616)|Black Tom]], [[Dominikos Ioannis Petrakis (Earth-616)|Avalanche]], [[Victor Creed (Earth-616)|Sabretooth]], [[Maximus Jensen (Earth-616)|Mammomax]], and [[Talia Wagner (Earth-2182)|Nocturne]] for an all-out attack on the X-Men. The Brotherhood planned their attack based on inside knowledge provided by an apparent turncoat X-Man, the [[Cain Marko (Earth-616)|Juggernaut]]; however, he was revealed to be a mole planted by the X-Men. After a pitched battle, Exodus' Brotherhood was defeated when the X-Man Xorn created a black hole from the microscopic star in his brain which pulled them in and closed behind them. The final fate of this incarnation of the Brotherhood is yet to be revealed.{{Citation}}
+
+[[File:Brotherhood of Mutants (Earth-616) Magneto Not a Hero Vol 1 3.jpg|thumb|right]]
+===Joseph's Brotherhood===
+After being resurrected by [[Astra (Mutant) (Earth-616)|Astra]], [[Max Eisenhardt (Joseph) (Earth-616)|Joseph]] formed a new Brotherhood. He had Astra clone the original brotherhood; Quicksilver, Scarlet Witch, Blob, Toad and Mastermind. This brotherhood attacked and tried to kill Magneto who managed to kill all the clones, excluding Joseph and also captured Astra; thus disbanding this incarnation of the Brotherhood.{{Citation}}
+
+[[File:Brotherhood of Evil Mutants (Earth-616) Uncanny X-Force Vol 1 27.jpg|thumb|left]]
+===Daken's Brotherhood===
+A new Brotherhood of Evil Mutants was formed by [[Akihiro (Earth-616)|Daken Akihiro]] to oppose [[X-Force (Strike Team) (Earth-616)|X-Force]]. Just like X-Force, the Brotherhood's mission statement was to eliminate their enemies proactively. This Brotherhood was made up of [[Victor Creed (Earth-616)|Sabretooth]], [[Raven Darkholme (Earth-616)|Mystique]], [[Frederick Dukes (Earth-295)|Blob]], [[Amahl Farouk (Earth-616)|Shadow King]], [[Harry Pizer (Earth-616)|Weapon III]] and the [[Omega Clan (Earth-616)|Omega Clan]]. They succeeded in killing X-Force member [[Charlie Cluster-7 (Earth-616)|Fantomex]] and in capturing [[Evan Sabahnur]]; hoping to turn him into their own [[Apocalypse]].{{Citation}}
+
+After a final fight with the X-Force, Weapon III was killed by Deadpool, Omega Red by Genesis (seemingly), and Daken by Wolverine. The Shadow King was trapped within Omega White body, who was lobotomized by Psylocke, and this prison-body was taken by X-Force. Mystique escaped with Nightcrawler, as well as Omega Black and Sabretooth independently.
+
+[[File:All-New X-Men Vol 1 9 Textless.jpg|thumb|right]]
+===Mystique's Fourth Brotherhood===
+In the aftermath of the [[Avengers vs. X-Men (Event)|conflict between the Avengers and the X-Men]], Mystique gathered [[Victor Creed (Earth-616)|Sabretooth]] and [[Regan Wyngarde (Earth-616)|Lady Mastermind]] with the purpose of reforming the Brotherhood,{{r|All-New X-Men #9}} committing numerous heists, and using Lady Mastermind's illusions to incriminate the [[X-Men (Time-Displaced) (Earth-616)|original X-Men]],{{r|All-New X-Men #12}} who were recently brought to the present by [[Henry McCoy (Earth-616)|Beast]].{{r|All-New X-Men #1}}
+
+With the money the Brotherhood of Mutants robbed in the heists, Mystique acquired Madripoor from Hydra and attempted to turn it into a mutant sanctuary. Posing as Dazzler, Mystique attracted Magneto to the island and showed him her plans. However, Magneto reacted violently to the plan, believing that Mystique and the others were traitors to their species in part due to allowing the use of Mutant Growth Hormone to run rampant in the streets to fund their operations. He heavily injured Mystique and the Brotherhood and left after making their base collapse.{{r|Uncanny X-Men Vol 3 16}}
+
+===Mesmero's Brotherhood===
+[[File:Brotherhood of Evil Mutants (Earth-616) from X-Men Gold Vol 2 1 001.jpg|thumb|left|200px|Original Mesmero's line-up]]
+In the wake of the [[Inhumans vs. X-Men|conflict between mutants and Inhumans]], anti-mutant activist [[Lydia Nance (Earth-616)|Lydia Nance]] hired [[Mesmero (Vincent) (Earth-616)|Mesmero]] to assemble a new Brotherhood of Evil Mutants, whose acts of terrorism she used to propel her platform.{{r|X-Men: Gold Vol 2 3}} To this end, Mesmero brainwashed former X-Men [[Amara Aquilla (Earth-616)|Magma]], the Morlock Masque, the reptile-like [[Kologoth Antares (Earth-616)|Kologoth Antares]], and new versions of [[Simon Lasker (Earth-616)|Pyro]] and [[Avalanche (Mesmero's Brotherhood) (Earth-616)|Avalanche]].{{r|X-Men: Gold Vol 2 3}}
+
+After marking their first public appearance by attacking the [[United Nations Headquarters]],{{r|X-Men: Gold Vol 2 1}} the Brotherhood kidnapped New York's mayor and held him hostage at an abandoned factory.{{r|X-Men: Gold Vol 2 2}} The mayor's kidnapping was intended to lure out the X-Men so they could be killed in an explosion. The X-Men managed to rescue the mayor and avoid the trap, defeating the Brotherhood in the process. Mesmero's hold over the team was broken, and the members of the Brotherhood were handed over to to S.H.I.E.L.D., ultimately leading to its disbandment.{{r|X-Men: Gold Vol 2 3}}
+
+Lydia Nance facilitated Mesmero's escape from [[Robert Kelly Correctional Facility|The Box]] to continue having him work for her.{{r|X-Men: Gold Vol 2 22}} Before escaping her approached Pyro and Avalanche, claiming to have found a way to escape on his own, and offering them a chance at freedom to have revenge on Nance. Once they escaped, the Brotherhood attacked a yatch where Nance's [[Heritage Initiative (Earth-616)|Heritage Initiative]] was holding a fundraising gala with the sole objective to lure the X-Men, though both Pyro and Avalanche believed they were there to terrorize Nance. Shortly after the X-Men arrived,{{r|X-Men: Gold Vol 2 21}} so did a [[New York City Police Department (Earth-616)|NYPD]] squadron. Before the Brotherhood made their escape, Mesmero used his powers on the X-Men to make them believe the officers were an assortment of their enemies, prompting them to attack the police. The X-Men broke out of the illusion too late, and were arrested after coming to their senses. When the Brotherhood regrouped, Mesmero revealed the true nature behind their plot, and that they were still under Nance's paycheck. While Avalanche welcomed the earnings, Pyro walked away disgusted by the treachery and for having been tricked into assisting the plans of an anti-mutant bigot.{{r|X-Men: Gold Vol 2 22}}
+
+===Magneto's Fourth Brotherhood===
+For a brief time, Magneto tried to help protect mutantkind with more compassionate methods, namely by mentoring the time-displaced [[X-Men (Time-Displaced) (Earth-616)|X-Men]].{{r|X-Men: Blue Vol 1 1}} Following a global crisis caused by the release of the power-bestowing virus [[Mothervine]], Magneto was pushed to his emotional brink,{{r|X-Men: Blue Vol 1 28}} and vowed to once again advance his mutant agenda by any means necessary.{{r|X-Men: Blue Vol 1 30}} After abandoning the young X-Men, Magneto set up a new Asteroid M, where he established a new incarnation of the Brotherhood. Its ranks included [[Joshua Foley (Earth-616)|Elixir]], Exodus, [[Marrow (Sarah) (Earth-616)|Marrow]], [[Briar Raleigh (Earth-616)|Briar Raleigh]], Toad and [[Carmella Unuscione (Earth-616)|Unuscione]].{{r|X-Men: Blue Vol 1 34}}
+[[File:Brotherhood of Evil Mutants (Earth-616) from Uncanny X-Men Vol 5 16 001.png|thumb|left|200px|Joseph's new line-up]]
+===Joseph's Second Brotherhood===
+After the loss of Magneto, Joseph disguised himself as the Master of Magnetism to sway Avalanche, Juggernaut, Pyro, Random, and Toad to form a new Brotherhood in the wake of the death of the X-Men. They went to a Air Force base in [[East Transia]] to put the fear in humans. But they were confronted by a new group of X-Men led by a resurrected Cyclops. After the battle, Joseph's ruse was revealed making Juggernaut mad because he thought the group was made to protect mutants. He left as Joseph was killed by [[Kwannon (Earth-616)|Kwannon]].{{r|Uncanny X-Men Vol 5 16}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * Another mutant terrorist group calling itself simply the "[[Brotherhood (Earth-616)|Brotherhood]]" operated for a brief time.
+| Trivia                  = 
+| Links                   = 
+* [http://brotherhoodofevil.tripod.com/ www.brotherhoodofevil.tripod.com/]--Site contains a list of Brotherhoods and a brief history of each one.
+* [http://www.uncannyxmen.net/db/pov/showquestion.asp?faq=5&fldAuto=26 Brotherhood of Evil Mutants I] - An in-depth profile of the entire first lineup, at [http://www.uncannyxmen.net/ UXN].
+* [http://www.uncannyxmen.net/db/pov/showquestion.asp?faq=5&fldAuto=30 Brotherhood of Evil Mutants II / Mutant Force / Resistants] - Another in-depth profile of the second lineup at [http://www.uncannyxmen.net/ UXN].
+* [http://www.uncannyxmen.net/db/pov/showquestion.asp?faq=5&fldAuto=31 Brotherhood of Evil Mutants III / Freedom Force] - Another in-depth profile of the third team, at [http://www.uncannyxmen.net/ UXN].
+* [http://www.uncannyxmen.net/db/pov/showquestion.asp?faq=5&fldAuto=32 Brotherhood of Evil Mutants IV] - A look at the fourth group, at [http://www.uncannyxmen.net/ UXN].
+* [http://www.uncannyxmen.net/db/pov/showquestion.asp?faq=5&fldAuto=34 Brotherhood of Evil Mutants II] - A look at Xavier's Brotherhood at [http://www.uncannyxmen.net/ UXN].
+* [http://www.uncannyxmen.net/db/pov/showquestion.asp?faq=5&fldAuto=35 Brotherhood of Evil Mutants III] - An in-depth profile of this team.
+}}
+[[es:Brotherhood of Evil Mutants (Tierra-616)]]

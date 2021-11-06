@@ -1,0 +1,50 @@
+{{Marvel Database:Character Template
+| Image                   = Wazira (Earth-616) from Defenders Vol 1 84 0001.png
+| Name                    = Wazira 
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = Single 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualSkinColor        = Blue
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo mermanus|Atlantean]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = Atlantis
+
+| Identity                = No Dual
+| Citizenship             = Wakandan
+| Occupation              = Smuggler
+| Education               = 
+| BaseOfOperations        = [[Wakanda]]
+
+| Creators                = Ed Hannigan; Don Perlin
+| First                   = Defenders Vol 1 84
+
+| History                 = Wazira and his gang sold Wakandan technology to the [[Homo mermanus|Atlanteans]], but they were stopped by [[T'Challa (Earth-616)|Black Panther]].{{r|Defenders Vol 1 84}}
+
+| Powers                  = 
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

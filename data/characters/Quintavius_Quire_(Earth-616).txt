@@ -1,0 +1,181 @@
+{{Marvel Database:Character Template
+| Image                   = Quintavius Quire (Earth-616) from X-Force Vol 6 17 001.jpg
+| Name                    = [[Quintavius Quire|Quintavius Quirinius "Quentin" Quire]]
+| Name2                   = {{r|Wolverine and the X-Men Vol 1 15}}
+| CurrentAlias            = [[Kid Omega]]
+| Aliases                 = [[Phoenix]]{{r|Mighty Thor Vol 3 19}}
+
+| Affiliation             = {{m|X-Men}}, [[Krakoa (Earth-616)|Krakoa]]'s {{m|X-Force (Strike Team) (Earth-616)|X-Force}}; Formerly {{m|Avengers West Coast (Earth-616)|West Coast Avengers}}, ([[Xavier Institute Student Body#Jean Grey School Students|Xavier Institute Student Body]]), {{m|Phoenix Corporation}}, {{m|Hellfire Academy}}, {{m|Hellfire Club}}, {{m|Omega Gang}}
+| Relatives               = Unnamed Foster Parents{{r|New X-Men Vol 1 134}}
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 5'8"
+| Weight                  = 129 lbs
+| Eyes                    = Brown
+| Hair                    = Brown (originally); Dyed pink (currently)
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Public
+| Citizenship             = American, Krakoan
+| Occupation              = Adventurer; Former [[Shi'ar god]], Teaching Assistant, Student
+| Education               = Formerly High School Classes At Xavier Institute 
+| BaseOfOperations        = [[Pointe|The Pointe]], [[Atlantic Ocean]]; [[Krakoa (Earth-616)|Krakoa]], [[Pacific Ocean]]; Formerly [[Hawkeye Investigations Office|West Coast Avengers HQ]], [[Venice (Los Angeles)|Venice]], [[Los Angeles]], [[California (State)|California]]; [[Xavier's School For Gifted Youngsters|Xavier Institute For Mutant Education And Outreach]], [[Central Park]], [[Manhattan]], [[New York City]], [[New York (State)|New York]], [[Xavier's School For Gifted Youngsters|Jean Grey School For Higher Learning]], [[Salem Center]], [[North Salem]], [[Westchester County]], [[New York (State)|New York]]; [[Hellfire Club Building (New York)|Hellfire Club]], [[Lenox Hill]], [[Manhattan#Upper East Side|Upper East Side]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]; [[Utopia (X-Men Base)|Utopia]], [[San Francisco Bay]], [[California (State)|California]]
+
+| Creators                = Grant Morrison; Keron Grant
+| First                   = New X-Men Vol 1 134
+
+| Quotation               = I'm only playing devil's advocate, [[Charles Xavier (Earth-616)|Professor]]. You've always encouraged us to dream... I just wondered what would happen if one of us had a dream you didn't like?
+| Speaker                 = [[Quintavius Quire (Earth-616)|Quentin Quire]]
+| QuoteSource             = New X-Men Vol 1 135
+
+| History                 = 
+===Xavier Institute===
+[[File:Quintavius Quire (Earth-616) from New X-Men Vol 1 134 0001.jpg|thumb|left|Quire's first appearance]]
+'''Quintavius "Quentin" Quirinius Quire''' joined the student body of the [[Xavier's School for Gifted Youngsters|Xavier Institute]] after [[Charles Xavier (Earth-616)|Professor X]]'s return from averting a war with [[Genosha]] and the rebuilding of the X-Mansion. He immediately stood out as a brilliant intellectual and quickly became Xavier's prize pupil, though the extent and type of his [[Homo superior|mutant]] abilities were never clearly defined. Quire appeared to be a very powerful telepath, and the [[Stepford Cuckoos (Earth-616)|Stepford Cuckoos]] described him as having a 'see-through mind', but he was not necessarily limited to that.{{r|New X-Men Vol 1 134}}
+
+Quentin often hung out with [[Robert Herman (Earth-616)|Glob Herman]], and had a crush on [[Sophie Cuckoo (Earth-616)|Sophie]], one of the Stepford Cuckoos. However, something about Quire disturbed the Cuckoos, though [[Emma Frost (Earth-616)|Emma Frost]] dismissed it as academic rivalry.{{r|New X-Men Vol 1 134}}
+
+While a student at Xavier's, Quire invented the anti-gravity floats for [[Martha Johansson (Earth-616)|Martha Johansson]]'s brain canister, and exposed the charisma-powered [[Quincy Marrow (Earth-616)|Slick]]'s true, ugly body to the other students. On his birthday, Quentin received a call from his parents, who told him he was adopted. This seemed to destabilize him and he went to town, getting a haircut reminiscent of [[Bolivar Trask (Earth-616)|Bolivar Trask]]'s depiction of a mutant overlord, from a newspaper that was published the day Quire was born.{{r|New X-Men Vol 1 134}} Quire also seemed to hop on the bandwagon calling for vengeance for the recently murdered mutant designer [[Jumbo Carnation (Earth-616)|Jumbo Carnation]], and took to wearing clothing based on the Trask-mutant overlord, which happened to be one of Jumbo's creations. He also debated with Professor X about the merits of the school's policies, wondering if Xavier would allow any dream other than his own to exist.
+
+[[File:Quintavius Quire (Earth-616) from New X-Men Vol 1 135 001.jpg|thumb|left|Quentin Quire as Kid Omega]]
+Shortly afterwards, Quire and a group of like-minded students went into town wearing the Trask-overlord clothes, and Quire convinced them to overdose on the mutant drug [[Kick]]. They accosted a gang of humans in an alley and killed or maimed them all. When Herman asked what had happened to a human Quentin himself had murdered, Quire replied that he had carved his name across the man's mind. Later, back at the school, Xavier confronted the students about it, but Quire was not specifically implicated, though he did debate Xavier's outlawing of his gang's uniform and similar 'mutant anarchist' clothes at the school.{{r|New X-Men Vol 1 135}}
+
+Afterwards, Quentin and his gang went to a mutant tattooist, and had their arms marked with an Omega symbol over an X. Mere hours later, they hijacked a van and attacked U-Man Central, feeling that the [[U-Men (Earth-616)|U-Men]] were too dangerous to be left to their own devices. Returning to the school, the "[[Omega Gang (Earth-616)|Omega Gang]]" ambushed Professor X, knocking him out with a baseball bat and clamping his head in a thought-proofed helmet based on [[Max Eisenhardt (Earth-616)|Magneto]]'s designs that Quentin had found on the internet. The next day, the school's "Open Day" to parents and the media, Quire proclaimed to the public that it was "open season on humans" and started a riot.{{r|New X-Men Vol 1 136}}
+
+Some of the students joined Quire in protesting Xavier's' policies, but most of the damage was done by the Omegas themselves, until they were subdued by [[Scott Summers (Earth-616)|Cyclops]], Emma Frost and [[Kuan-Yin Xorn (Earth-616)|Xorn]]. However, with Quire still guarding Professor X, the situation threatened to continue until the Stepford Cuckoos, led by Sophie, used [[Cerebra (Mutant Detector)|Cerebra]] and a dose of Kick to boost their shared powers. They blasted through to the grounds and confronted Quire, mocking the 'excuse' that he was trying to please them, and blew him through a wall with a telepathic shock wave.{{r|New X-Men Vol 1 137|138}}
+
+===Incorporeal State===
+Quire was taken to the infirmary, where [[Henry McCoy (Earth-616)|Henry McCoy]] tried to stabilize him, but his body was being burnt out by his own psionic energy. This was apparently the result of his overdoses of Kick, which caused a [[Secondary Mutation]] that changed his brain into faster-than-light energy, apparently putting him in telepathic contact with everyone on the planet simultaneously. Seeing that Quire was terminal, Professor X called for Xorn, who opened his helmet to expose Quire to his mini star-for-a-head, and Quire left the mortal plane.{{r|New X-Men Vol 1 139}}
+
+[[File:Quintavius Quire (Earth-616) from X-Men Phoenix Endsong Vol 1 2 0001.jpg|right|thumb]]
+However, Quire was not truly dead, and remained in a semi-alive energy form in a containment unit on Beast's lab table. A few months later, when the [[Phoenix Force (Earth-616)|Phoenix Force]] returned to Earth, it sensed Quire and investigated him, thinking he might be [[Jean Grey (Earth-616)|Jean Grey]]. Though the Phoenix passed Quire up, it shocked him back to consciousness and he reconstituted his body. Furthermore, he sought out and re-animated Sophie's corpse, but was unable to complete the process, so he set off to find the Phoenix Force so he could be with his love. Quire found the Phoenix, which had resurrected Jean Grey to attract Cyclops' attention, engaged in battle with the X-Men. Just prior to his arrival on the scene, the X-Men got the Phoenix to inhabit Emma Frost, Cyclops' then-current lover, and imprisoned both her and Scott inside a containment vessel. Quire arrived and broke the containment chamber open, releasing the Phoenix. Quentin then asked the Phoenix to resurrect Sophie, which she did. Sophie was still disgusted by him (and/or his actions) and chose to return to death. Quire broke down in anguish, and the Phoenix left him to his "sickness". Having spent too much of his energy, Quire apologized to the X-Men for his rash behavior and returned to his incorporeal state. He remained in the beaker in Beast's lab.{{r|{{cl|X-Men Phoenix Endsong Vol 1 2}}-[[X-Men Phoenix Endsong Vol 1 5|5]]}}
+
+Upon the mutants' arrival on the island nation [[Utopia (X-Men Base)|Utopia]], Quire began a plan to take control of the island's populace that went largely undetected, except by fellow jarred mutant Martha Johansson, who nearly sacrificed herself to stop him.{{r|Nation X #2}}
+
+===[[Schism (Event)|Schism]]===
+Quire was freed by [[Kade Kilgore (Earth-616)|Kade Kilgore]] who knew Quentin would do something stupid that will set off a new wave of anti-mutant sentiment. Which he did by making all the world-leaders at Cyclops's arms conference reveal their darkest secrets on live television.{{r|X-Men: Schism #1}} After that he returned to Utopia where [[James Howlett (Earth-616)|Wolverine]] wanted to give him to [[Steven Rogers (Earth-616)|Steve]] and Scott wanted him to be handled within the mutant community. When the Island was under attack by a giant [[Sentinels|Sentinel]], Wolverine, who wanted to evacuate the island and then detonate it, was looking for the detonator but was mocked by Quire who thought Logan was going soft, because he wanted to run only for Logan hurt him as he was heard screaming. After the battle was won, sides were taken by everyone with the exception of Quire who was taken by force by Wolverine who knew if he stayed with Scott he would be locked away and that would turn him into an omega level monster.{{r|{{cl|X-Men: Schism Vol 1 1}}-[[X-Men: Schism Vol 1 5|5]]}}
+
+===Jean Grey School for Higher Learning===
+Wolverine convinced Captain America to free Quire from captivity and let him join the student body of the new Jean Grey School led by him as a way to reform Quentin.{{r|Wolverine and the X-Men Vol 1 3}}
+
+Quentin was forced into detention on the first day so he wouldn't cause problems while representatives from New York State Department of Education were evaluating the school.{{r|Wolverine and the X-Men Vol 1 1}} Quentin was later freed from detention by an attack from the [[Hellfire Club (Earth-616)|Hellfire Club]] who sent Frankenstein Monsters to attack the school. After the staff took out the Frankensteins the Hellfire Club sent in their [[Krakoa III (Earth-616)|Krakoa]], which was secretly under the school. Krakoa was later stopped after talking to Quentin and decided to join the X-Men and aid them against the Hellfire Club.{{r|Wolverine and the X-Men Vol 1 3}}
+
+After several members of the Jean Grey School defected to join the new [[Hellfire Academy (Earth-616)|Hellfire Academy]], Quentin followed them, hoping to discover why [[Idie Okonkwo (Earth-616)|Idie Okonkwo]] switched sides.{{r|Wolverine and the X-Men Vol 1 31}} After getting "detention" in the new school, he was severely beaten until [[Mortimer Toynbee (Earth-616)|Toad]] helped him escape his tormentors. While on the run, they were reunited with Idie, and the trio fought against their captors. During the battle, Idie confessed she was glad she had kissed him before and the two kissed once again. After everything was handled, the two became boyfriend and girlfriend.{{r|Wolverine and the X-Men Vol 1 32|33}}
+
+Quentin later returned to the school and eventually graduated, becoming a full-fledged X-Man (against his will).{{r|Wolverine and the X-Men Vol 1 42}} Soon after, on his birthday, his anger towards Logan and the others caused him to join the [[Phoenix Corporation (Earth-616)|Phoenix Corporation]] and leave the school{{r|{{cl|Wolverine and the X-Men Vol 2 1}}-[[Wolverine and the X-Men Vol 2 5|5]]}} (including Idie) behind.{{r|Generation X Vol 2 6}}
+
+===Generation X and the Phoenix===
+When [[Katherine Pryde (Earth-616)|Kitty Pryde]] relocated the X-Men to [[Central Park]] and the school was renamed to Xavier Institute for Mutant Education and Outreach, Quentin was forced to join in. He became part of [[Jubilation Lee (Earth-616)|Jubilee]]'s team, consisting of [[Nathaniel Carver (Earth-616)|Hindsight]], [[Benjamin Deeds (Earth-616)|Morph]], [[Lin Li (Earth-616)|Nature Girl]], [[Roxanne Washington (Earth-616)|Bling!]], and [[Trevor Hawkins (Earth-616)|Eye-Boy]].{{r|Generation X Vol 2 2}} When a mysterious shadow in Central Park started stealing mutants during the night, Quentin convinced his classmates to investigate. They found themselves face-to-face with [[Marius St. Croix (Earth-616)|Emplate]], who was possessing his sister [[Monet St. Croix (Earth-616)|M]]'s body at the time.{{r|Generation X Vol 2 3|4}} After defeating the [[Rat King (Earth-616)|Rat King]],{{r|Generation X Vol 2 5}} Quentin convinced Benjamin and Nathaniel to join him for a night out where they sneaked into a villain-infested auction, in an attempt to destroy some [[Nano-Sentinels]], all without getting caught by the auctioneer, [[Kade Kilgore (Earth-616)|Kade Kilgore]].{{r|Generation X Vol 2 6|7}}
+
+Having become fed up with people, Quentin decided to exile himself from society and live in the middle of the [[Atlantic Ocean]] with Krakoa taking shape of a small desert island.{{r|Generation X Vol 1 85}} Quentin's little vacation was interrupted by [[Jane Foster (Earth-616)|Thor]], who had been directed by Kid Gladiator and Warbird for help after a conflict with the Shi'ar escalated to a cosmic scale.{{r|Mighty Thor Vol 3 18}} Thor had been forced to compete against the Shi'ar gods [[K'ythri (Earth-616)|K'ythri]] and [[Sharra (Earth-616)|Sharra]] in a contest to prove her godhood,{{r|Mighty Thor Vol 3 16}} and since they lost, they had conjured the Phoenix Force to have it lay waste to all of reality.{{r|Mighty Thor Vol 3 18}}
+
+[[File:Quintavius Quire (Earth-616) from Mighty Thor Vol 3 19 001.jpg|thumb|left|Quentin Quire as Phoenix]]
+Quentin psychically attacked the Phoenix, allowing Thor to access the [[White Hot Room]] and fight it. Quentin then used Thor's attacks as an opening to enter the White Hot Room himself and negotiate with the Phoenix. As a result of Quentin's proposition, the Phoenix allowed him to absorb a small portion of itself. In the end, K'ythri and Sharra were arrested and taken to [[Omnipotence City]] for their actions. Since the Shi'ar were left without their gods, the Phoenix-empowered Quentin was appointed as a substitute by [[Shadrak (Earth-616)|Shadrak]], so he became the Shi'ar's new god.{{r|Mighty Thor Vol 3 19}} He remained in [[Chandilar]] for a very short period of time to be worshiped until he decided to return to [[Earth]].
+
+Quentin was contacted again by Jubilee and he ended involved in a fight against the possessed Monet. In a critical moment of the fight he sacrificed his fragment of the Phoenix to save Jubilee from dying in sunlight. This action cured her vampirism (a problem that afflicted Jubilee since the Curse of the Mutants) and restored her mutant powers.{{r|Generation X Vol 1 86}} After that, Quentin rejoined the school and lost his power by a brief amount of time.{{r|Generation X Vol 1 87}}
+
+===West Coast Avengers===
+[[File:West Coast Avengers Vol 3 1 Textless.jpg|thumb|right|Kid Omega with the Avengers]]
+Quentin entered into a contract to film a reality television show about he and his team; however, he did not actually have a team. Serendipitously, he saw that [[Katherine Bishop (Earth-616)|Hawkeye]] was looking to reform the [[Avengers West Coast (Earth-616)|West Coast Avengers]], and thus he moved to [[Venice (Los Angeles)|Venice]] and invited himself to join them in exchange for the reality show bankrolling the team's operations including renovations of the [[Hawkeye Investigations Office]] to accommodate the expanding roster. He later got into a fight with Gwenpool about him leaving towels on the ground but they were interrupted by giant Tigra's attack. Quentin offered to shut Tigra's brain down but was rejected because it would be too dangerous and was told to guard Clint instead. Tigra sent him flying when he was distracted complaining but was saved from crashing into a building by Gwenpool.{{r|West Coast Avengers Vol 3 1}} Quentin proceeded to aid in evacuating citizens until B.R.O.D.O.K. drives Tigra away.
+
+Quentin, Gwen, Fuse and America were later tasked with watching over B.R.O.D.O.K. while the Hawkeye's investigate his A.I.M. base. While trying to decide on a movie Quentin and Gwenpool get in an intense argument that ended in them making out, grossing out the other Avengers present.{{r|West Coast Avengers Vol 3 2}} The next morning, Quentin aided in the defense L.A. from B.R.O.D.O.K.'s monsters, this time with permission to cut lose. Throughout the battle, he served as a communication network for the team. Later, when he saved Gwenpool from falling to her death, his feelings for her confused him. He later freed Tigra from her feral state.{{r|West Coast Avengers Vol 3 3}} In the end, he used his psychic powers to help revert and defeat M.O.D.O.K.{{r|West Coast Avengers Vol 3 4}}
+
+During the teams battle with Gridlock, Quentin saved Gwenpool from getting hit by a falling car. In the evening when the team arrived at the Santa Monica Pier, Quentin and Gwenpool were trapped in the tunnel of love before getting electrocuted by Eel.{{r|West Coast Avengers Vol 3 5}}
+
+===Life in Krakoa===
+Quentin was one of the countless mutants who joined the mutant-only nation of Krakoa established by Charles Xavier and his allies, where he grew a habit of boasting his superiority as an Omega-level mutant.{{r|X-Force Vol 6 4}} Quire also joined [[X-Force (Strike Team) (Earth-616)|X-Force]] as a field agent after teaming up with Wolverine to investigate the murder of Xavier at the hands of [[XENO (Earth-616)|a hate group]] augmented by the DNA of [[Neena Thurman (Earth-616)|Domino]], and rescued her in the process of thwarting the group's operations.{{r|X-Force Vol 6 2}}
+
+During X-Force's continued efforts against this mutant-hating group, Quentin died when a Krakoan [[Gateways|gateway]] was exploded while he was passing through it, with the disrupted teleportation resulting in Quire's decapitation.{{r|X-Force Vol 6 4}} After this incident, Quentin was brought back to life using the Krakoan resurrection process of the [[Five (Earth-616)|Five]].{{r|X-Force Vol 6 6}} Another mission involving diplomatic operations with [[Terra Verde]] saw X-Force confront the nation consumed by telefloronics, an out-of-control plant-based technology.{{r|X-Force Vol 6 9}} Quentin died in action again when he was overcome with telefloronic spores,{{r|X-Force Vol 6 10}} but the Five's resurrection process saw him returned to life again. However, Quentin was killed again shortly afterward by a Russian infiltrator, who stabbed Quentin with the [[Cerebro Sword]] and pushed him into a gateway to land at the feet of [[Mikhail Rasputin (Earth-616)|Mikhail Rasputin]], who intended to use Quentin's body for genetic experimentations.{{r|X-Force Vol 6 11|12}}
+
+Quentin had been secretly hanging out Phoebe Cuckoo, who had been hiding the relationship from her sisters, out of a desire to have the relationship all to herself and to not share.{{r|X-Force Vol 6 11}} Recently, they have opened their relationship to the public. First with Wolverine and Forge,{{r|X-Force Vol 6 16}} and Phoebe's sisters somehow learned of it, as well as [[Kwannon (Earth-616)|Kwannon]] mentioning it at the Hellfire Gala.{{r|Hellions Vol 1 12}} 
+
+Phoebe developed a habit of restoring Quentin's memories each time he would repeatedly die.{{r|X-Force Vol 6 17}} She also went with him when he investigated his missing deaths, and discovered XENO's experimentations on him. She additionally helped him deal with his trauma and past involving his biological parents, and helped him in changing into a new mature version, starting with a new style of fashion. She seems supportive of him, and genuinely loves him.
+
+| Powers              = Quentin has been described as an [[Mutant Classification#Omega Level Mutants|'''Omega Level Mutant''']] and [[Mutant Classification#Omega Level Telepaths|'''Omega Level Telepath''']], a incredibly skilled telekinetic, as well as a '''Psionic of Highest Order'''.{{r|New X-Men Vol 1 135}}{{r|X-Men Phoenix Endsong #3}}{{r|House of X #1}} Quentin has been described one of the most powerful telepaths, telekinetics, and psions, vastly surpassing the abilities of all known telepaths, with the exception of Jean Grey. Therefore his abilities are almost unmatched. He was also an avatar of the [[Phoenix Force (Earth-616)|Phoenix Force]], and his future self was shown to be the eventual host of the Phoenix Force.{{r|Wolverine and the X-Men Vol 1 37}}
+
+For a time, due to his [[Secondary Mutation]], Quentin evolved into a non-corporeal lifeform existing as a disembodied consciousness as his brain cells turned into faster-than-light energy that was in connection with every sentient being on the planet.{{r|New X-Men Vol 1 138}}{{r|X-Men: The 198 Files #1}} Since he was freed from his container by [[Kade Kilgore (Earth-616)|Kade Kilgore]], he stood in his physical form, finding his non-corporal one boring, and doesn't seem able to use the full range of his abilities. He hasn't manifested these specific qualities since.{{r|X-Men: Schism #1}}
+
+'''Telepathy:''' Quentin is an Omega-Level telepath capable of using deep and subtle influence. Also capable of displaying various psionic feats with the minds of others including reading and communicating with thoughts over vast distances. 
+* '''Mental Manipulation:''' He has the ability to subtly use deep influence upon multiple people, allowing him to manipulate their perceptions, better judgement, wills, and common sense.
+* '''Telepathic Tracking:''' He has enhanced psionic senses enable him to detect and track other sentient beings by their unique psionic emanations (thought patterns contained in the psionic portion of the spectrum) especially if they pose a threat to his well-being in his immediate vicinity.
+* '''Telepathic Cloak:''' Can mask his presence from being detected by others. His abilities can at times go undetected or be counteracted by other more powerful telepaths depending on their level of skill in using their own psi abilities. He can extend these defenses to others around him as well. 
+* '''Mind Control:''' Quentin is capable of controlling the minds of others assuming they are within his physical presence. 
+* '''Telepathic Illusions:''' He has the ability to create illusions to make himself seem to be invisible, look like someone else, or make others experience events that are not truly happening. 
+* '''Mental Paralysis:''' Quentin has the ability to induce temporary mental or physical paralysis 
+* '''Mental Amnesia:''' He can erase any awareness of particular memories or cause total amnesia. 
+* '''Psionic Blasts:''' Quentin can project psionic force bolts which have no physical effects but which can affect a victim's mind so as to cause the victim pain or unconsciousness.
+* '''Absorb Information:''' He has the ability to quickly process, learn, and store information via mental transference.
+* '''Psychic "Construct":''' Through sheer effort and concentration, Quentin may create a large "world" within his mind, complete with AI Driven scenarios and thousands of NPCs (non-player characters; people controlled by AI), each with their own backstory being run simultaneously. By pulling people into the world, they'll enter a comatose-like state and should they posses one, will be taken over by a secondary personality, as was the case for Wolverine. The AI will feed off of the memories of anyone in the video-game-like world, making some things even unfamiliar to Quentin himself. After keeping the world formed for several days, he lost control due to his already disturbed psyche and no longer retained complete control over the world. 
+* '''Astral Projection:''' He can project his astral form from his body onto astral planes or the physical planes. In the physical plane he can only travel in astral form over short distances. In the astral plane, he can mentally create psionic objects and manipulate the aspects of his environment.
+* '''Psionic Weapons:''' Quentin learned to channel his mental energy as astral energy weapons which manifest the focused totality of his telepathic powers; a power he seemed to effortlessly manifest once he heard Elizabeth Braddock did the same with her psi-blade. Much like Psylocke's psi-blade, it doesn't cause any external effects but instead deals direct mental damage leading to intense pain, unconsciousness, and possibly death.
+** '''Psionic Rocket Launcher:''' Quentin displayed a brief demonstration of his using his psionic powers to construct a rocket launcher.{{r|Infinity: The Hunt #4}}
+** '''Psionic Shotgun'''
+
+'''Telekinesis:''' Quentin is an high-level telekinetic, and can manipulate objects and others at will, and project psychokinetic bolts. Quentin's telekinetic abilities are extremely powerful however, the uppermost limit of his telekinetic strength has yet to be seen. Quentin is also capable of ultra-fine tuned usage of it, being able to sense and manipulate matter and energy, even on a subatomic level, as he was able to re-integrate his own body and most of that of a decaying Sophie.{{r|X-Men Phoenix Endsong #2}} However, his telekinetic abilities rival those of the most powerful mutants such as Psylocke, Vulcan, Apocalypse, etc.
+*'''Flight:''' Quentin is able to levitate himself to fly at supersonic speeds.
+*'''Force Field:''' Quentin is able generate impenetrable potent force fields around himself and others.
+*'''Tactile Telekinesis:''' Quentin is able to completely surround himself in a compact personal force field of telekinetic energy, protecting him from harm and physical damage such as bullets, energy blasts, etc.
+
+'''Psychic Intelligence:''' He possesses advanced cognitive and mental abilities allowing him to organize and construct his thoughts at accelerated rates, process data at high speeds, construct and formulate his thoughts with vast quantity and quality, project ideas and impressions into the minds of others, intuitively disable existing psychic phenomena and barriers that even other Omega level types such as [[Rachel Summers (Earth-811)|Rachel Summers]] could not,{{r|Wolverine and the X-Men Vol 1 3}} and naturally shield him from psychic assaults. He thinks ten million brilliant thoughts per second.{{r|New X-Men Vol 1 135}}
+
+{{Navigation
+| title = Former Powers
+| body  = '''Phoenix Force:''' After becoming the new host of the Phoenix Force, Quentin was granted the great powers of the Phoenix. He should presumably possess the following abilities:
+* '''Interstellar Travel'''
+* '''Cosmic Pyrokinesis'''
+* '''Resurrection'''
+* '''Immortality'''
+* '''Temporal Manipulation'''
+'''Psionic-Energy Mimicry (possibly):''' When Quentin was in the process of dying due to a combination of using the mutant enhancing drug kick, and a powerful psychic blast from the Stepford Cuckoos caused his mutation to evolve rapidly and saved his life, transforming into a non-corporeal life-form existing as a disembodied consciousness, made out of a form of psionic energy. He had some trouble at first holding this form when got to tired or worn out, but so far he is able to hold this form without trouble.
+}}
+| Abilities               = '''Super-Genius Intelligence:''' Quentin possess a brilliant mind rivalling some of the smartest people on the planet.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 6}}
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = * While escaping from the [[Hellfire Academy (Earth-616)|Hellfire Academy]], Quentin told Idie that he thinks he loves her.{{r|Wolverine and the X-Men Vol 1 33}}
+* [[Hope Summers (Earth-616)|Hope]] revealed that Quire sold fake I.D.s out of his dorm room.{{r|Avengers vs. X-Men Vol 1 4}}
+* X-Men editor [[Jordan D. White|Jordan D. White]]'s personal interpretation of Kid Omega's shirts is that they're actually blank and he uses telepathy to make everyone see whatever slogan he comes up with.{{r|{{cite web|url=http://www.adventuresinpoortaste.com/2019/09/30/x-men-monday-30-x-costumes/|title=X-Men Monday #30 – X-Costumes|work=Adventures in Poor Taste|first=Chris|last=Hassan|date=30 September 2019|accessdate=30 September 2019}}}}
+* [[Jeffrey (Land Shark) (Earth-616)|Jeff The Baby Land Shark]] took an immense liking to Quentin while with the [[Avengers West Coast (Earth-616)|West Coast Avengers]]. He threatened to turn the camera crew's brain into scrambled eggs if they aired footage of him letting Jeff onto his lap.{{r|West Coast Avengers Vol 3 #9}}
+* Quentin is currently dating Phoebe Cuckoo in secret.{{r|X-Force Vol 6 11}}
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[hu:Quentin Quire (616)]]
+[[ru:Квинтаниус Квайр (616)]]
+[[Category:Mutant Intelligence]]
+[[Category:Telepaths]]
+[[Category:Telekinesis]]
+[[Category:Flight]]
+[[Category:Force Field]]
+[[Category:Illusionists]]
+[[Category:Phoenix Force]]
+[[Category:Tattoos]]
+[[Category:Kick user]]
+[[Category:Utopians]]
+[[Category:Post-M-Day Mutants (The 198)]]
+[[Category:Xavier Institute Student]]
+[[Category:Jean Grey School students]]
+[[Category:Omega Level Mutants]]
+[[Category:Omega Level Telepaths]]
+[[Category:Siege Perilous users]]
+[[Category:Severe Threats]]
+[[Category:Secondary Mutations]]
+[[Category:Psychic Weapon]]
+[[Category:Psionic Entities]]
+[[Category:Post-Secret Wars Mutants]]
+[[Category:Shi'ar Gods]]
+[[Category:Media-Driven Characters]]
+[[Category:Apotheosized Mortals]]
+[[Category:Formerly Deceased]]

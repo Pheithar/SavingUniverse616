@@ -1,0 +1,67 @@
+{{Marvel Database:Character Template
+| Image                   = Christopher Muse (Earth-616) from Uncanny X-Men Vol 3 17 001.png
+| Title                   = [[Triage]]
+| Name                    = [[Christopher Muse]]
+| CurrentAlias            = [[Triage]]
+| Aliases                 = [[Chris Muse]]
+
+| Affiliation             = Formerly {{M|X-Men (Earth-616)|X-Men}} ([[Xavier Institute student body#Jean Grey School students|Xavier Institute student body]]), {{M|X-Men (New Charles Xavier School) (Earth-616)|X-Men}} ([[Xavier Institute student body#New Charles Xavier School students|New Charles Xavier School student body]])
+| Relatives               = 
+| MaritalStatus           = Single 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Public
+| Citizenship             = American, Krakoan
+| Occupation              = Adventurer; former student
+| Education               = 
+| BaseOfOperations        = [[Krakoa (Earth-616)|Krakoa]], [[Pacific Ocean]]; formerly [[Xavier's School for Gifted Youngsters|Xavier Institute for Mutant Education and Outreach]], [[Central Park]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]; [[Xavier's School for Gifted Youngsters|Jean Grey School for Higher Learning]], [[X-Haven]], [[Limbo]]; (formerly [[Salem Center]], [[North Salem]], [[Westchester County]], [[New York (State)|New York]]); [[Weapon X Facility|New Charles Xavier School for Mutants]], near [[Roanoke (Alberta)|Roanoke]], [[Alberta]], [[Canada]]; in or near [[Ann Arbor]], [[Michigan (State)|Michigan]]
+
+| Creators                = Brian Bendis; Stuart Immonen
+| First                   = All-New X-Men #1
+
+| History                 = Christopher and his friends were out one night when one of his friends fell and hit her head. She appeared dead until Christopher touched her and healed her. When word of this miraculous healing got out, Christopher was apprehended by the [[Ann Arbor]] police for questioning. Shortly after his unlawful detainment, Christopher was rescued by [[Scott Summers (Earth-616)|Cyclops]] and [[Illyana Rasputina (Earth-616)|Magik]].{{r|All-New X-Men #1}}
+
+They brought him to the former headquarters of [[Weapon X Project (Earth-616)|Weapon X Project]] in [[Canada]]. There he met [[Eva Bell (Earth-616)|Eva Bell]] and the two formed a friendship.{{r|All-New X-Men #4}} Christopher eventually chose the mutant name '''Triage'''.{{r|Uncanny X-Men Vol 3 #4}}
+
+He remained with the team through the incident in Limbo,{{r|Uncanny X-Men Vol 3 #7}} and showcased some flirtatious actions towards several female members,{{r|Uncanny X-Men Vol 3 #4|5}} with [[Irma Cuckoo (Earth-616)|Irma Cuckoo]] being his primary interest of late.{{r|Uncanny X-Men Vol 3 #9}} He later assisted in the battle against the Blockbuster Sentinel by healing the civilians caught in the crossfire and Eva after being knocked out by a blast.{{r|Uncanny X-Men Vol 3 #11}}
+
+Later, he was detained and coerced into using his powers for [[Office of National Emergency (Earth-616)|O*N*E]]; however, when he eventually refused and spit on his boss, he was forcibly administered the X-gene cure, which led to his death for which O*N*E had little remorse.{{r|Uncanny X-Men Vol 5 21}}
+
+Christopher was later resurrected by the [[Five (Earth-616)|Five]] in [[Krakoa (Earth-616)|Krakoa]] and joined the mutant nation. He was seen at the [[Green Lagoon]] hanging out with other mutants.{{r|X-Force Vol 6 9}}
+
+| Powers                  = Christopher is a new [[Homo superior|mutant]] activated after the [[Phoenix Force (Earth-616)|Phoenix]] dispersion, and has displayed the following mutant powers: 
+* ''' Life-Force Manipulation:''' Christopher's mutant power is the ability to summon and freely manipulate the life forces of himself and other living creatures at will. It is believed that all of his other powers are a byproduct of his ability to control life forces.
+** '''[[Glossary:Healing|Healing]]:''' It has been stated that Christopher has the ability to heal other's wounds,{{r|All-New X-Men #4}} and possibly bring them back from death.{{r|All-New X-Men #1}} The mechanism of his healing process is unknown. Cyclops theorized his ability operates by manipulating life forces.
+** '''Reanimation:''' Christopher can reanimate dead bodies after death by manipulating the life force energy within them. This ability cannot reverse the effects of decay and limits them to whatever state their body had been at the moment of death.
+** '''[[Immortality]]:''' Christopher has also shown signs of immortality. This was during their second encounter with the [[Brotherhood of Evil Mutants (Earth-13729)|Brotherhood]] when he was stabbed in the neck by [[Raze Darkholme (Earth-13729)|Raze]] (and left for dead). He, however managed to come back to life in a few minutes.{{r|All-New X-Men Vol 1 27}} This is yet to confirm if natural aging has also an effect on him or he is only capable of healing himself using the life force within him.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = Wooden Staff
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Mutants activated after M-Day]]
+[[Category:Healers]]
+[[Category:Regeneration]]
+[[Category:Necromancy]]
+[[Category:Post-Secret Wars Mutants]]
+[[Category:Formerly Deceased]]

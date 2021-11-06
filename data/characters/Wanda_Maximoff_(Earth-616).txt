@@ -1,0 +1,453 @@
+{{Marvel Database:Character Template
+| Image                   = Scarlet Witch Vol 2 2 Anka Variant Textless.jpg
+| Name                    = [[Wanda Maximoff|Wanda Django Maximoff]]
+| NameRef                 = {{r|Magneto: Dark Seduction Vol 1 1}}
+| CurrentAlias            = [[Scarlet Witch]]
+| Aliases                 = [[Ana Maximoff]],{{r|Avengers #182}} Emperor of Magic,{{r|Avengers & X-Men: AXIS #9}} Fine Sorceress,{{r|X-Men Vol 1 4}} Little Witch,{{r|X-Men Vol 1 4}} Pretender,{{r|X-Men Vol 5 7}} Queen of Chaos,{{r|Avengers & X-Men: AXIS #7}} Wanda Frank,{{r|Avengers #185}} Wanda the Witch,{{r|Avengers Vol 1 111}} Wendy,{{r|Wonder Man Vol 3 1}} [[Witch]]{{r|X-Men Vol 1 4}}{{r|Avengers: West Coast Annual #7}}
+
+| Affiliation             = {{m|Romany}}, {{m|Avengers}}, {{m|Strange Academy}} staff; formerly {{m|Avengers Unity Division}}, {{m|Avengers (Heroes Reborn)}} {{m|Avengers (Hydra) (Earth-616)|Hydra's Avengers}}, {{m|Axis (Avengers)|Axis}}, {{m|Avengers West Coast}} (part of Shi'ar delegation during [[Operation Galactic Storm]]), {{m|Force Works}}, {{m|Secret Defenders}}, {{m|Lady Liberators}}, {{m|Brotherhood of Evil Mutants}}, {{m|Brides of Set}},{{r|Avengers: West Coast Annual #4}} {{m|Queen’s Vengeance (Earth-398)|Queen's Vengeance}}
+| Relatives               = 
+Scarlet Warlock (maternal grandfather, deceased);{{r|Scarlet Witch Vol 2 12}}<br>
+[[Natalya Maximoff (Earth-616)|Natalya Maximoff]] (mother, deceased);{{r|Scarlet Witch Vol 2 4}}<br>
+[[Django Maximoff (Earth-616)|Django Maximoff]] (maternal uncle and foster father, deceased);{{r|Scarlet Witch Vol 2 11}}<br>
+[[Marya Maximoff (Earth-616)|Marya Maximoff]] (maternal aunt and foster mother);{{r|Scarlet Witch Vol 2 11}}<br>
+[[Pietro Maximoff (Earth-616)|Pietro Maximoff]] (twin brother);<br>
+[[Luminous (Earth-616)|Luminous]] (alleged sister);{{r|Uncanny Avengers Vol 2 2}}<br>
+[[Ana Maximoff (Earth-616)|Ana Maximoff]] (cousin and adoptive sister, deceased);<br>
+[[Mateo Maximoff (Earth-616)|Mateo Maximoff]] (cousin and adoptive brother, deceased);<br>
+[[Vision (Earth-616)|Vision]] (ex-husband);<br>
+[[Thomas Maximoff (Earth-616)|Tommy Maximoff]] (son, deceased);<br>
+[[William Maximoff (Earth-616)|Billy Maximoff]] (son, deceased);<br>
+[[Thomas Shepherd (Earth-616)|Tommy Shepherd]] (reincarnated son);{{r|Avengers: The Children's Crusade #6}}<br>
+[[William Kaplan (Earth-616)|Billy Kaplan]] (reincarnated son);{{r|Avengers: The Children's Crusade #6}}<br>
+[[Crystalia Amaquelin (Earth-616)|Crystal Amaquelin]] (former sister-in-law);<br>
+[[Luna Maximoff (Earth-616)|Luna Maximoff]] (niece);<br>
+[[Wanda Maximoff (Clone) (Earth-616)|Scarlet Witch]] (clone, deceased)
+| MaritalStatus           = Divorced
+
+| CharRef                 = {{cl|Marvel Avengers: The Ultimate Character Guide Vol 1 2}}
+| Gender                  = Female
+| Height                  = 5'7"
+| Weight                  = 132 lbs
+| Eyes                    = Green
+| Hair                    = Auburn
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] [[Glossary:Mutate|genetically altered]] by the High Evolutionary, [[Homo sapiens|Human]] of magical birthright, sorceress, disguised as a mutant{{r|S.W.O.R.D. Vol 2 #6}}
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Serbia]]{{r|Scarlet Witch Vol 2 11}}
+
+| Identity                = Public
+| Citizenship             = American, Serbian
+| Occupation              = Adventurer, formerly witchcraft tutor, housewife, mutant terrorist
+| Education               = 
+| BaseOfOperations        = [[Wanda Maximoff's Tower]], [[Manhattan#Upper East Side|Upper East Side]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]; formerly [[Avengers Mansion]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]; [[Castle Doom (Doomstadt)|Castle Doom]], [[Doomstadt]], [[Latveria]]; [[Works|The Works]]; [[Avengers Compound]], [[California (State)|California]]; [[Scarlet Witch and Vision's Home]], [[Leonia]], [[New Jersey (State)|New Jersey]]
+
+| Creators                = Stan Lee; Jack Kirby
+| First                   = X-Men Vol 1 4
+| Death                   = 
+
+| Quotation               = Can you understand the delicate mindset of a woman, a person, who has control over reality? It means reality controls '''her.''' Imagination becomes the enemy. Structure disappears. Reality, eventually, as she knows it, starts to slip away. Elude her. Blur. Drama, conflict, tragedy. They become '''excuses''' to change the world to fit the image that she has for it. Anything she doesn't like, she can change. No matter how slight. People. Places. Things. Everything is hers to change. But every time she does that, every time she gives in to her desires, no matter how '''noble''' they may be... a little more of her slips away. She loses herself. Her reason.
+| Speaker                 = [[Stephen Strange (Earth-616)|Doctor Strange]]
+| QuoteSource             = Avengers Vol 1 503
+
+| Overview          = '''Wanda Maximoff''', a.k.a. the '''Scarlet Witch''', is a Romani [[Transia|Transian]] sorceress and twin sister of the speedster [[Pietro Maximoff (Earth-616)|Quicksilver]].{{r|X-Men Vol 1 4}}{{r|Avengers Vol 1 36}}{{r|Avengers Vol 1 182}} Once believed to have been [[Homo sapiens|mutant]] children of [[Max Eisenhardt (Earth-616)|Magneto]],{{r|Vision and the Scarlet Witch Vol 1 4}} the twins are in truth orphans enhanced by the [[Herbert Wyndham (Earth-616)|High Evolutionary]] at [[Mount Wundagore]]. The Scarlet Witch became a conduit of [[Glossary:Chaos Magic|chaos magic]], allowing her to shift probabilities and [[Glossary:Reality warper|warp reality itself]] in the form of "hexes".{{r|Avengers & X-Men: AXIS Vol 1 7}}{{r|Uncanny Avengers Vol 2 4}} After being saved from an angry mob by Magneto, the Scarlet Witch and her brother joined the [[Brotherhood of Evil Mutants (Earth-616)|Brotherhood of Evil Mutants]] to fight for Magneto's mutant supremacy cause.{{r|X-Men Vol 1 4}} Disagreeing with Magneto's ruthless approach, the twins left him and joined the super-heroic [[Avengers (Earth-616)|Avengers]] instead.{{r|Avengers Vol 1 16}}
+
+The Scarlet Witch was trained by [[Agatha Harkness (Earth-616)|Agatha Harkness]] in order to explore her naturally powerful [[Glossary:Magic|magical]] abilities.{{r|Avengers Vol 1 128}} She also had in the demon lord of chaos [[Chthon (Earth-616)|Chthon]] an archnemesis.{{r|Avengers Vol 1 186|187}} As an Avenger, Maximoff fell in love with and married her [[Synthezoid|synthezoid]] teammate, the [[Vision (Earth-616)|Vision]].{{r|Giant-Size Avengers Vol 1 4}} In order to form a family with her artificial husband, she used her abilities to create two twin boys,{{r|Vision and the Scarlet Witch Vol 2 12}} but the spell was later broken, erasing the boys from existence,{{r|Avengers West Coast Vol 2 52}} a tragedy that was accompanied by her husband being dismantled.{{r|West Coast Avengers Vol 2 45}} The trauma of losing her family made her mentally vulnerable. After she attacked the Avengers twice, the group disassembled.{{r|Avengers West Coast Vol 2 56}}{{r|Avengers Vol 1 500|503}} Subsequently, in a major display of her powers, the Scarlet Witch reshaped reality, making mutants the dominant lifeform on Earth ruling as the [[House of M]], based on Magneto's wishes.{{r|House of M Vol 1 2}} As the Avengers and the [[X-Men (Earth-616)|X-Men]] battled to restore reality, she uttered the words "[[No More Mutants]]", wiping out the super-abilities of most mutants in retaliation of Magneto's extremism. This action became known as the [[Decimation|mutant decimation]].{{r|House of M Vol 1 7}}
+
+For years, after a long recovery by rejoining the Avengers, the Scarlet Witch has been haunted by her actions in a journey for redemption.{{r|Avengers: The Children's Crusade Vol 1 6}}{{r|Avengers vs. X-Men Vol 1 1}}{{r|Uncanny Avengers Vol 1 1}}{{r|Scarlet Witch Vol 2 1}}{{r|Empyre: X-Men Vol 1 1}} More recently, she found herself dealing with the threat of Chthon once again by getting into contact with his book, the [[Darkhold]].{{r|Darkhold Alpha Vol 1 1}} Moreover, when secretly attending the [[Hellfire Gala]], a mutant fashion event, the Scarlet Witch was mysteriously assassinated,{{r|X-Factor Vol 4 10}} which led to an even more puzzling investigation.{{r|X-Men: The Trial of Magneto Vol 1 1}}
+
+| History                 = 
+===Early Life===
+Wanda Maximoff was kidnapped from [[Serbia]] and brought to [[Wundagore Mountain]], base of the [[Herbert Wyndham (Earth-616)|High Evolutionary]]. For years, she and her twin brother, [[Pietro Maximoff (Earth-616)|Pietro]], believed that they were the children of [[Romany (Earth-616)|Romany]] couple, [[Django Maximoff (Earth-616)|Django]] and [[Marya Maximoff (Earth-616)|Marya Maximoff]], later revealed to be the twins' maternal uncle and aunt.{{r|Scarlet Witch Vol 2 11}} The High Evolutionary supposedly abducted the twins when they were babies, experimented on them, and after becoming disgusted with the results, he returned them to Wundagore, disguised as regular [[Homo superior|mutants]].{{r|Uncanny Avengers Vol 2 4}}
+
+When Wanda was still young, her magical power was detected by a coven of powerful Eastern European witches; [[Margali Szardos (Earth-616)|Margali Szardos]], [[Maria Russoff (Earth-616)|Maria Russoff]], and [[Lilia Calderu (Earth-616)|Lilia Calderu]]. Lilia was also known as the "Gypsy Queen" and was able to get Marya Maximoff to bring Wanda to her, at which point Lilia took her to Castle Russoff to meet with the others. They hoped to bring Wanda into their coven as an apprentice but a servant of [[Chthon (Earth-616)|Chthon]], [[Taboo (Earth-616)|Taboo]], interfered with Wanda's initiation, hoping to recover the the [[Serpent Crown]] from Lilia and to seize Wanda for Chthon, who wanted Wanda under his power, and not that of [[Set (Earth-616)|Set]] who was connected to the crown. Taboo, and another servant known as [[Josué Koulèv (Earth-616)|Damballah]], arrived to interrupt the ceremony and fight the witches. This attack only ended once Wanda was able to manifest her hex powers for the first time, accidentally allowing Chthon to reach out and make it known that Wanda was not allowed to join any coven. The witches then allowed Wanda to return to her family.{{r|Mystic Arcana Scarlet Witch Vol 1 1}}
+
+As adolescents, Wanda and Pietro discovered that they had unusual superhuman abilities. When Django began to steal food to feed his starving family, enraged villagers attacked the Romani camp. Using his phenomenal speed, Pietro fled from the camp with his sister. The circumstances of their separation from their family were so traumatic that not until well into adulthood could they remember anything but the barest details of their childhood. For the next few years, Wanda and Pietro wandered central Europe, living off the land.{{r|Avengers Vol 1 185|186}}{{r|Avengers Vol 1 234}}{{r|Giant-Size Avengers Vol 1 1}}{{r|X-Men Annual Vol 1 12}}{{r|Web of Spider-Man Annual Vol 1 4}}
+
+===Brotherhood of Evil Mutants===
+Wanda accidentally set fire to an unnamed village with her powers, and was attacked by villagers. One of them proclaimed her to be "a Scarlet Witch," which would later become her codename. [[Max Eisenhardt (Earth-616)|Magneto]] arrived at the scene, and rescued Wanda from the villagers. Due to this rescue, Wanda felt indebted to Magneto. She was willing to serve him until her debt was repaid.{{r|X-Men #4}}
+
+Wanda and Pietro were later recruited into Magneto's [[Brotherhood of Evil Mutants (Earth-616)|Brotherhood of Evil Mutants]] and, as the Scarlet Witch and Quicksilver, fought the [[X-Men (Earth-616)|X-Men]] on several occasions.{{r|{{cl|X-Men Vol 1 4}}-[[X-Men Vol 1 7|7]]}}{{r|Journey into Mystery #109}} Throughout her tenure, Wanda fended off romantic advances from fellow member [[Jason Wyngarde (Earth-616)|Mastermind]]. She proclaimed that she would rather die, than become his wife.{{r|X-Men #4}}
+
+In their initial battle with the X-Men in [[Santo Marco (Country)|Santo Marco]], the Scarlet Witch knocked out [[Warren Worthington III (Earth-616)|Angel]], who had incapacitated her brother, in retaliation and brought the captured X-Man to Magneto. But the X-Men forced them to abandon their prisoner and even the entire country.{{r|X-Men #4}} At their next scheme, Scarlet Witch disagreed with Magneto's plan to kill the X-Men. During his attempt to kill every X-Man except the captive Angel, Scarlet Witch used one of her hexes to short-circuit Magneto's control panel. She injured one of Magneto's hands in the process. Before Magneto could "teach her a lesson," Wanda hid behind her protective brother Quicksilver. Subsequently, Wanda was nearly injured by debris created by one of [[Scott Summers (Earth-616)|Cyclops]]' blasts.{{r|X-Men #5}}
+
+At their next conflict with the X-Men, Quicksilver was easily captured by [[Jean Grey (Earth-616)|Marvel Girl]]. Wanda was worried about her brother's safety, and asked Magneto to save him. She instead learned that Magneto was about to fire a deadly weapon against the entire group of X-Men, willing to sacrifice Quicksilver's life to gain victory. Wanda tried to stop him, but Magneto threatened to kill her for defying his decisions. [[Namor McKenzie (Earth-616)|Namor]] intervened on Wanda's behalf, and destroyed the equipment before it could be used.{{r|X-Men #6}}
+
+When Magneto, Mastermind, and [[Mortimer Toynbee (Earth-616)|Toad]] fled from X-Men's attacks, Wanda chose to stay behind. All by herself, she demanded that the X-Men release her brother immediately, but she was in no position to impose demands. Namor, however, came to her aid and started to fight the X-Men. He easily defeated the [[Henry McCoy (Earth-616)|Beast]] and the Angel, but was immobilized by Cyclops' blasts. Before their fight could escalate further, [[Charles Xavier (Earth-616)|Professor X]] intervened, revealing to Wanda that he had placed Quicksilver under mind-control. He was willing to release him to Wanda's custody, as he didn't consider the twins anything more than Magneto's pawns.{{r|X-Men #6}}
+
+To have her brother returned to her, Wanda convinced an angry Namor to back down. Upon leaving the scene, Namor remarked upon his attraction to the Scarlet Witch. But her beauty reminded him of [[Susan Storm (Earth-616)|Susan Storm]], and he feared that this potential relationship would be similarly doomed and he would end up being rejected, so he departed.{{r|X-Men #6}}
+
+===Avengers===
+They soon abandoned their terrorist activities, while Magneto was imprisoned by the [[Stranger (Cosmic Being) (Earth-616)|Stranger]],{{r|X-Men #11}} and joined the [[Avengers (Earth-616)|Avengers]]. The remaining founding members had all gone on a leave of absence, leaving [[Steven Rogers (Earth-616)|Captain America]] to lead an all-new lineup including Wanda, Pietro, and the archer known as [[Clinton Barton (Earth-616)|Hawkeye]].{{r|Avengers #16}} By then, the Scarlet Witch would have rather become an actress, but she never had a chance to pursue such a career.{{r|Power Man and Iron Fist Vol 1 102}} They left the Avengers after the Scarlet Witch lost her powers and Quicksilver was shortly influenced by Magneto again.{{r|Avengers #53}}
+
+The Scarlet Witch then began a quest to recover her powers by studying grimoires, with Quicksilver and the Toad supporting her. Her studies accidentally summoned extra-dimensional caudillo [[Arkon (Earth-616)|Arkon]], who kidnapped the Witch to make her his bride, the Toad when he opposed, and then a number of Earth-born scientists in an attempt to use atomic power to save his own world, [[Polemachus]], even by destroying Earth. Quicksilver gained the help of the Avengers,{{r|Avengers #75}} the Avengers managed to save Polemachus without damaging Earth, Arkon ceased any further violence against Earth and renounced to the Scarlet Witch because she had convinced him of the importance of small things. Quicksilver and the Scarlet Witch then resumed their membership with the Avengers.{{r|Avengers #76}} The Toad chose to remain at Polemachus.{{r|Avengers #138}}
+
+Not long after the birth of Quicksilver's first child, Wanda and Pietro learned a secret about their parentage, that Magneto was allegedly their true father.{{r|Vision and the Scarlet Witch Vol 1 4}}
+
+Although she became more adept in her power's use, Wanda did not realize that she was tapping into genuine magic. It was believed that the Scarlet Witch would have been an ordinary energy manipulator or perhaps simply able to cause bad luck if not due to [[Chthon (Earth-616)|Chthon]]'s attempt to use her as a pawn.{{r|Avengers Vol 3 10}}
+
+[[File:Avengers Vol 3 36 Textless.jpg|left|thumb|150px|Wanda & the Avengers]]
+Wanda fell in love with the synthezoid [[Vision (Earth-616)|Vision]], an artificial being created by Avengers foe [[Ultron (Earth-616)|Ultron]] who joined the team rather than fight them. The Scarlet Witch eventually married her teammate, the android Vision, not realizing that they were being manipulated by [[Nathaniel Richards (Immortus) (Earth-6311)|Immortus]], who sought to prevent Wanda from having a child under the belief that Wanda was actually a key figure, or nexus being, to her reality, and her children would have the power to shake the foundations of the universe.{{r|Avengers Forever #10}}
+
+Wanda eventually drew on magic energy to give birth to twin sons, [[Thomas Maximoff (Earth-616)|Tommy]] and [[William Maximoff (Earth-616)|Billy]], but this energy was eventually revealed to have come from the demon [[Mephisto (Earth-616)|Mephisto]], who reabsorbed them, effectively ending their existence. [[Agatha Harkness (Earth-616)|Agatha Harkness]] cast a spell to make her forget her children in order to ease her pain.{{r|Avengers: West Coast #52}} Though Wanda later recalled her loss,{{r|Avengers: West Coast Annual #7}} she suppressed this memory over the long term.{{r|Avengers #500}} After his reformation, The Vision and Wanda no longer shared the closeness they once had.{{r|Avengers: West Coast Vol 1 53|54}}{{r|Avengers Vol 1 312}}
+
+===Force Works===
+While both were serving as members of the [[Avengers West Coast (Earth-616)|Avengers West Coast]], Wanda also grew to love [[Simon Williams (Earth-616)|Wonder Man]], the man whose brain patterns had been used to form the Vision's mind. Both were among the former AWC members who opted to form [[Force Works (Earth-616)|Force Works]] after the team's dissolution. As the leader of this new team, Wanda used a 'hex mainframe' computer designed by [[Anthony Stark (Earth-616)|Iron Man]]. Through her powers and the computer's calculations, they could proactively determine where the team was most needed rather than react to an alarm or breaking news. Although Wanda was appointed team leader, she often clashed with Iron Man overriding her orders. She was deeply saddened by Wonder Man's death on the first mission of Force Works.{{r|Force Works #1}}
+
+===Rejoining the Avengers===
+After rejoining the Avengers, she used her increased powers to resurrect Wonder Man.{{r|Avengers Vol 3 11}}
+
+Training with Agatha Harkness increased Wanda's control of her '[[Glossary:Chaos Magic|Chaos Magic]]'. Even after Agatha died her astral form continued to assist Wanda. However, at least some of this training may have been an illusion made by Wanda herself.{{r|Avengers #503}}
+
+In years after, Wanda remained in her role as a longtime Avengers mainstay, salvaging her relationship with the Vision as best she could - although sparks also appeared with Captain America towards the end of her Avengers tenure - the moment she brought the team to its lowest moment ever recorded.{{r|Captain America and the Falcon #6}}
+
+===Breakdown===
+The Scarlet Witch seemingly gained powerful reality-altering abilities from "Chaos Magic"; however, this proved to be an uncontrolled aspect of her mutant power and created a great mental strain on her. An unintentional remark by teammate [[Janet Van Dyne (Earth-616)|Wasp]] about Wanda's lost children apparently drove her over the edge. She suffered a nervous breakdown and lashed out with her new power, subjecting the Avengers to a savage assault and apparently killing Agatha Harkness and some of her teammates. Others were injured or affected by various odd outbursts and incidents, including Vision, who was killed by [[Jennifer Walters (Earth-616)|She-Hulk]] after he attacked the Avengers due to Wanda causing him to lose control of his actions. The remaining Avengers gathered including a number of reservists.{{r|Avengers #503}}
+
+[[File:Mystic Arcana Scarlet Witch Vol 1 1 Textless.jpg|thumb|left|Mystic Arcana]]
+[[Stephen Strange (Earth-616)|Doctor Strange]] appeared, sensing abuse of magic, and angry that he had not been notified of Wanda's recent problems. Strange was forced to use the [[Eye of Agamotto]] on Wanda, which apparently showed her a memory so horrible she went into a catatonic state. Magneto suddenly appeared to collect his daughter, and brought her to [[Genosha]] so [[Charles Xavier (Earth-616)|Professor X]] could help her.{{r|Excalibur Vol 3 12}}
+
+===House of M===
+Unfortunately, Xavier was unable to do so as Wanda attempted to restore her husband to life and undo the damage she had caused. Keeping Wanda in a comatose state, Xavier ultimately called a meeting between the Avengers and X-Men to decide whether or not Wanda should be killed. Quicksilver was horrified at the fact that Xavier seriously considered killing Wanda and convinced Wanda to take desperate action to keep this from happening: By using her powers, Wanda warped reality into the [[Earth-58163|House of M]], a world where mutants were the majority, humans the minority, and Magneto the ruler (simultaneously giving various other heroes what they wanted most, hoping this would prevent them rebelling).{{r|House of M Vol 1 1|4}} In this reality, Wanda was believed to be a human, due to an alternate body she created to represent her in public while she cared for her children in private.{{r|House of M Vol 1 4}}{{r|House of M Vol 1 7}}
+
+A young mutant named [[Layla Miller (Earth-616)|Layla Miller]] (a deformed mutant who was given a normal body thanks to Wanda's reality warp){{r|X-Factor Vol 3 #6}} was able to use her mutant abilities to restore several of the heroes' memories. Meanwhile [[James Howlett (Earth-616)|Wolverine]] (the only person who sensed the reality's "wrongness") and a resurrected [[Clinton Barton (Earth-58163)|Hawkeye]] (who had been seemingly killed during Wanda's breakdown) and [[Tyrone Johnson (Earth-58163)|Cloak]] gathered these heroes into an assault force to try to restore reality. This rag-tag army headed to Genosha to attack Magneto, believing him to be the one responsible for the change. During the battle between Magneto's forces and the others, Layla was able to restore Magneto's memories; as well, Wanda confessed to Dr. Strange that it was Quicksilver, not Magneto, who had initiated the reality warp.{{r|House of M Vol 1 4|7}}
+[[File:Wanda Maximoff (Earth-616) from House of M Vol 1 7 001.jpg|thumb|right|300px|"No more mutants"]]
+Enraged, Magneto confronted Quicksilver, angry that Quicksilver had done all of this in his name. Quicksilver told Magneto that he would have let Wanda die. Magneto replied that Quicksilver had only used him and Wanda. He then killed Quicksilver.{{r|House of M #7}}
+
+Wanda revived her brother, telling Magneto that Quicksilver had only wanted him to be happy and that Magneto had ruined them, choosing the mutants over his own children. She further denounced Xavier and in three words "[[No More Mutants]]" Wanda changed the world back to its original form but added the mass de-powering of 90% of the entire mutant population, thus being responsible for many deaths.{{r|Generation M #1}} Surviving mutants and ex-mutants referred to this as "M-Day: The worst day in mutant history".{{r|House of M #8}}
+
+===Post-House of M===
+After the fallout, the resurrected Clint Barton tracked Wanda to a small village near Wundagore Mountain, where he unknowingly saved her from a thief. Wanda was living in a small apartment with her only relative, her "Aunt Agatha" (who was never seen, but could possibly have been a manifestation of Wanda's now-dead mentor Agatha Harkness; Wanda also mentioned this to Beast, saying she was stuck out here for purposes of looking after an "elderly relative" who would worry if she got home late, indicating that this aunt indeed existed in some form). She appeared to be powerless and believed that she had lived her entire life in the village. She did not recognize Hawkeye, nor did she remember her life with the Avengers or other events. Wanda told Hawkeye that he was her "hero" for dealing with the thief and kissed him, and they spent the night together. The following morning, while Wanda was sleeping, Hawkeye became curious about the next room where "Aunt Agatha" was supposedly sleeping, but the doorknob appeared to shift away from his hands, a subtle reality manipulation usually associated with the Scarlet Witch. However, Clint looked back to see that Wanda was still asleep.{{r|New Avengers #26}}
+
+The mutant [[Henry McCoy (Earth-616)|Beast]] later found Wanda at the same village and sought her help to deal with the aftermath of M-Day. She had no memory of him either, and claimed that she did not believe in magic.{{r|X-Men Vol 2 204}}
+
+The [[Young Avengers (Earth-616)|Young Avengers]] [[William Kaplan (Earth-616)|Wiccan]] and [[Thomas Shepherd (Earth-616)|Speed]] decided to find Wanda, as Wiccan wanted to know once and for all if she was indeed their mother. They traveled to several places connected to Wanda and themselves in their search, but Wiccan was unable to detect any sign of Wanda's magic. Wiccan and Speed united to search for her around the planet, but both ultimately failed, though they were told by [[Martin Preston (Earth-616)|Master Pandemonium]] that they had to cease their quest to seek her, lest risk unleashing the darkness of the Witch's past yet again.{{r|Young Avengers Presents #3}}
+
+Later, the Asgardian god [[Loki Laufeyson (Earth-616)|Loki]], concealed in an astral form by simple spells and illusions, disguised herself as Wanda and assembled a new team of Mighty Avengers to be led by Hank Pym to oppose Chthon. Chthon was eventually banished back to his own dimension, and his human vessel [[Pietro Maximoff (Earth-616)|Quicksilver]] was released from his control. Loki's goal was to prevent another god of chaos from laying siege to the Nine Worlds and cracking Norman Osborn's armor to quicken his fall. She continued to assemble the Mighty Avengers, who remained unaware of Loki's involvement.{{r|Mighty Avengers #23}} 
+
+None were aware that the true Wanda had yet to reemerge from seclusion, as only Clint Barton, Beast and higher powers than they, such as the Living Tribunal or [[Uatu (Earth-616)|Uatu]] knew of her status. Quicksilver, having joined the Mighty Avengers, sought to use his position on the team to find her, a desire not missed by the impassive Loki. Pym also wanted to use Pietro in turn to solve the mysterious return of Wanda Maximoff.{{r|Mighty Avengers #24}}
+
+[[Agamotto (Earth-616)|Agamotto]] later detected her presence and displays her as one of thirty possible candidates for the role of [[Sorcerer Supreme]] through his [[Eye of Agamotto|Eye]], but due to her apparent lack of magic and past instability refrained from selecting her, instead choosing [[Jericho Drumm (Earth-616)|Brother Voodoo]] to fill the position.{{r|New Avengers #54}}
+
+===The Children's Crusade===
+[[File:Avengers The Children's Crusade Vol 1 4 Textless.jpg|thumb|left|150px|The Children's Crusade]]
+Wanda was found in [[Latveria]] by her alleged son Wiccan. She seemingly lost all her memories and powers and was engaged to [[Victor von Doom (Earth-616)|Victor von Doom]]. Wiccan told her about who she was, and what she did. He also told her about her twin sons, and almost told about his suspicions that he and Speed were actually her reincarnated sons. His story was interrupted by the battle between the Avengers, the [[Young Avengers (Earth-616)|Young Avengers]], Magneto and Doctor Doom. Wolverine tried to kill Wanda, but was stopped by [[Nathaniel Richards (Iron Lad) (Earth-6311)|Iron Lad]], who teleported the Young Avengers and Wanda into the timestream.{{r|Avengers: The Children's Crusade #4}}
+
+They all went into the past, and met reanimated [[Jonathan Hart (Earth-616)|Jack of Hearts]], who exploded. After that Wanda remembered who she is, and regained her powers and returned herself, the Young Avengers and [[Scott Lang (Earth-616)|Scott Lang]] to the present.{{r|Avengers: The Children's Crusade #5}} She then finally confirmed that Billy and Tommy were indeed her reincarnated sons.{{r|Avengers: The Children's Crusade #6}}
+
+Realizing that her sons are alive Wanda met with [[X-Factor Investigations (Earth-616)|X-Factor]] and re-powered [[Julio Richter (Earth-616)|Rictor]], planning to restore powers of all depowered mutants who wanted it.{{r|Avengers: The Children's Crusade #7}}
+
+It was revealed that Wanda's ability was brought about when Doctor Doom assisted her in becoming a conduit for Life Force itself, in an effort to recreate her children. The power was too great for her to control, leading to her breakdown. Doom stole Wanda's power and became omnipotent, but while battling the Avengers and the X-Men, his powers overloaded, leaving him with his scarred face again and powerless. Unable to continue the battle, he teleported himself away. The X-Men agreed to leave her be, Magneto and Quicksilver both wished to spend time with her as a family and Captain America offered her a spot in the Avengers but Wanda declined saying she needed to be alone.{{r|Avengers: The Children's Crusade #9}}
+
+===Avengers vs. X-Men===
+Wanda played a key role during the events featured in ''[[Avengers vs. X-Men (Event)|AvX]]''. After defeating both [[George Tarleton (M.O.D.O.K. Superior) (Earth-616)|M.O.D.O.K.]] and [[Advanced Idea Mechanics (Earth-616)|A.I.M.]] with the help of Ms. Marvel and [[Jessica Drew (Earth-616)|Spider-Woman]], she visited Avengers Mansion but was not welcomed by Vision. She then began to have visions of the Phoenix Force; and during one of those visions, she foresaw a future in which the Phoenix killed the original Avengers.{{r|Avengers vs. X-Men #0}}
+
+Believing the [[Hope Summers (Earth-616)|Mutant Messiah]] to be the key to defeating the [[Phoenix Five (Earth-616)|Phoenix Five]], which consisted of the Phoenix Avatars [[Scott Summers (Earth-616)|Cyclops]], [[Emma Frost (Earth-616)|Emma]], [[Namor McKenzie (Earth-616)|Namor]], [[Illyana Rasputina (Earth-616)|Magik]], and [[Piotr Rasputin (Earth-616)|Colossus]], the Avengers launched an operation to extract Hope from Utopia. If it wasn't for Wanda, they would have been defeated by Cyclops. Wanda convinced Hope to go with the Avengers, as Cyclops vowed that he would no longer tolerate the Avengers.{{r|Avengers vs. X-Men #6}}
+
+After a confrontation between the Avengers and the Phoenix Five, in which Wanda defeated Magik, she began to train Hope with [[Spider-Man (Peter Parker)|Spider-Man]]'s help in Wakanda, but the Phoenix Five decided to take Hope back with them. Hope revealed that Wanda was the only Avenger the X-Men feared and respected. Doctor Strange gave Amulets of Illusion to different Avengers to make them appear as Wanda when she wasn't present, in hopes of scaring the Phoenix Five. It worked to a degree and bought the other Avengers time to complete missions across the globe. The Phoenix Five began to suspect the many-Wandas were an illusion, so Namor decided to attack one of them. Much to his disappointment, she was the real Scarlet Witch and she defeated him. Namor then led the Atlanteans into war against Wakanda, and nearly defeated all of the Avengers, until Wanda showed up and defeated him.{{r|Avengers vs. X-Men #8}}
+
+Meanwhile [[Daniel Rand (Earth-616)|Iron Fist]] had taken Hope and Wolverine to [[K'un-Lun]] to hide and prepare for a confrontation with the Phoenix Five.[[File:Hope Summers (Earth-616) and Wanda Maximoff (Earth-616) from AVX Vs Vol 1 6 0001.jpg|thumb|Hope Vs. Wanda]] When Cyclops learned of their location, he decided to travel there and take Hope back with him, but Hope used Wanda's and Shao Lao the dragon's power to send him to the Moon. After a brief confrontation between Hope and Wanda, which was stopped by Captain America, the Avengers came to realize Cyclops had become the sole-wielder of the Phoenix Force. Cyclops took the title Dark Phoenix after killing Professor X.{{r|Avengers vs. X-Men #11}}
+
+The Dark Phoenix began to burn the world so Wanda and Hope decided to join forces in order to stop him. Together, they managed to take down Dark Phoenix. The Phoenix escaped Cyclops's body and entered Hope's. Hope used its power to reverse the damage and destruction caused by Dark Phoenix and restore the mutant population. Then, as Wanda had once used her powers to wish away mutants by uttering the words, "No more mutants," Wanda and Hope joined their powers and wished, "No more Phoenix", forcing the Phoenix Force away from Earth by the spell.{{r|Avengers vs. X-Men #12}}
+
+===Uncanny Avengers===
+While visiting [[Charles Xavier (Earth-616)|Charles Xavier]]'s grave, Wanda was approached by [[Rogue (Anna Marie) (Earth-616)|Rogue]] who tried to make her leave. The two wound up fighting, when they were captured by the [[Johann Shmidt (Earth-616)|Red Skull]]. The Red Skull also took Xavier's corpse and cut out his brain, claiming his vast telepathic powers for himself.{{r|Uncanny Avengers #1}} The Red Skull then used his powers to brainwash Wanda into helping him de-power mutantkind once again. While tracking down Rogue who had escaped his custody, Wanda encountered Xavier's corpse which snapped her out of the Skull's control.{{r|Uncanny Avengers #2}} Scarlet Witch and Rogue were mentally controlled into allowing being executed by the mentally-controlled mutant-hating crowd Red Skull gathered, but snapped back once the [[Avengers Unity Division (Earth-616)|Avengers Unity Division]] appeared to fight Shmidt.{{r|Uncanny Avengers #3}} After Red Skull and his [[S-Men (Earth-616)|S-Men]] escaped, Wanda and Rogue joined the Avengers Unity Division.{{r|Uncanny Avengers #4}}
+
+During a mission involving the Apocalypse Twins, Wanda was killed by Rogue who thought she had betrayed the team.{{r|Uncanny Avengers #14}} Her death was undone when Havok and the surviving members of the Unity Squad were sent from the future by Kang to stop the twins from destroying Earth, their minds projected back into their past selves so that they could transfer most of their powers to Rogue and give her the strength to fight back.{{r|Uncanny Avengers #21}} After the crisis was over, Rogue was in the process of being driven mad by all the heroes she had absorbed. The Scarlet Witch cast a spell to return those powers to their owners, although Rogue still retained the powers and the very essence she absorbed from Wonder Man.{{r|Uncanny Avengers #22}}
+
+===AXIS===
+Months after the battle against the twins; Wanda, Rogue, and Alex were abducted by [[Johann Shmidt (Clone) (Earth-616)|Red Skull]]'s [[S-Men (Earth-616)|S-Men]] and taken to his re-education camps in [[Genosha]]. After escaping, they encountered Magneto, also held there. They broke him free and confronted the Red Skull and the S-Men.{{r|Uncanny Avengers #24}}
+
+Fueled by MGH, Magneto killed the S-Men, and beat the Red Skull to death, accidentally unleashing the Red Onslaught, the merging of the Skull with the dark and powerful Onslaught.{{r|Uncanny Avengers #25}} They were soon aided by the Avengers, X-Men, and allies of both teams, who arrived to Genosha upon learning about the Red Onslaught's existence. However, the Red Onslaught deployed their [[Stark Sentinel|own version]] of the Sentinels made specifically to battle heroes.{{r|Avengers & X-Men: AXIS #1}} In the ensuing battle against the Sentinels, the Scarlet Witch was neutralized along with numerous other heroes.{{r|Avengers & X-Men: AXIS #2}} After being broken free by a [[Astonishing Avengers (Earth-616)|group of super villains]] gathered by Magneto to fight the Sentinels, Wanda and Doctor Doom performed a spell to invert the moral compass of the Red Skull in order to defeat him. The spell worked and the Red Onslaught was defeated, but the spell also accidentally affected everyone in Genosha, turning heroes into villains and vice versa.{{r|Avengers & X-Men: AXIS #3}}
+
+Under the influence of the inversion spell, the Scarlet Witch set out to kill Doctor Doom in revenge for his manipulations.{{r|Avengers & X-Men: AXIS #5}} Magneto and Quicksilver joined forces to prevent Wanda from crossing the line, but failed.{{r|Avengers & X-Men: AXIS #6}} Using a spell meant to affect those with blood ties to her, Wanda seemingly killed Quicksilver. To her surprise, the spell didn't affect Magneto, revealing that the Master of Magnetism wasn't actually her father.{{r|Avengers & X-Men: AXIS #7}}
+
+Doom briefly fled from the fight, to bring back [[Jericho Drumm (Earth-616)|Doctor Voodoo]], who used the spirit of his brother [[Daniel Drumm (Earth-616)|Daniel]] to possess Wanda so she could "cooperate" in the conjuration of a reinversion spell, which successfully brought almost everyone back to normal, including the Scarlet Witch. In the wake of the conflict, the Avengers Unity Division was reassembled.{{r|Avengers & X-Men: AXIS #9}}
+
+===Counter-Earth===
+Wanda and Pietro returned to the Wundagore Mountains to find out their true parentage, and they were brought to the reformed [[Counter-Earth (High Evolutionary)|Counter-Earth]], which the [[Herbert Wyndham (Earth-616)|High Evolutionary]] used to test and try to create his perfect [[New Men]].{{r|Uncanny Avengers Vol 2 1}} The twins encountered the [[Low Evolutionary (Earth-616)|Low Evolutionary]], the leader of a resistance formed by the High Evolutionary's rejects.{{r|Uncanny Avengers Vol 2 2}}
+
+After being tracked down and defeated by [[Luminous (Earth-616)|Luminous]], a new creation by the High Evolutionary with both Quicksilver's and Scarlet Witch's powers, Wanda and Pietro were brought to the High Evolutionary himself.{{r|Uncanny Avengers Vol 2 3}} He revealed to them that Django and Marya Maximoff were their true parents, as well as the truth that the twins were supposedly not mutants but they had been experimented on by the High Evolutionary. After escaping from the Evolutionary's experimentations, Pietro and Wanda located the [[Avengers Unity Division (Earth-616)|Avengers Unity Division]], who had traveled to the Counter-Earth looking for the twins, and helped the inhabitants of Lowtown, a refuge for the High Evolutionary's rejects, from their creator's assault.{{r|Uncanny Avengers Vol 2 4}} After the High Evolutionary was forced to flee through a portal once he was defeated, the Unity Division returned to Earth.{{r|Uncanny Avengers Vol 2 5}}
+
+===All-New, All-Different Marvel===
+Seeking to find her place after all the revelations of her true past, Wanda found herself investigating a recent disruption in magic, as well as meeting the spirit of her biological mother, [[Natalya Maximoff (Earth-616)|Natalya Maximoff]] (Django Maximoff's sister), who was apparently the Scarlet Witch before Wanda.{{r|Scarlet Witch Vol 2 #3}} When the [[Civil War II|second superhero Civil War]] began, Pietro came to ask Wanda for help, but Wanda refused, because she and Pietro disagreed on which side was right—Pietro not liking the idea of profiling people based on what they might do and Wanda feeling that thinking about the future would have prevented many of their more dangerous mistakes in the past. Past precedent made Wanda feel that introducing her powers to a conflict of this nature could make the situation more dangerous (plus she distrusted Tony Stark), and she resented Pietro for trying to tell her what to do as though she was a child, bluntly informing him that his refusal to learn from his mistakes marked him as a sociopath.{{r|Scarlet Witch Vol 2 9}}
+
+===[[Secret Empire (Event)|Secret Empire]]===
+When Captain America launched a plan of conquest after having been secretly turned into a [[Hydra (Earth-616)|Hydra]] sleeper agent by a sentient [[Cosmic Cube]], the Scarlet Witch joined other superheroes in [[Washington, D.C.]] in trying to stop Hydra from taking control of the capital. They ultimately failed,{{r|Free Comic Book Day Vol 2017 Secret Empire}} and in the process Hydra neutralized Wanda by having her become possessed by Chthon once again.{{r|Secret Empire #4}} Under possession, Wanda joined [[Avengers (Hydra) (Earth-616)|Hydra's Avengers]].{{r|Secret Empire #1}} She was eventually freed from Chthon's possession by Doctor Strange during the final battle against Hydra.{{r|Secret Empire #9}} After the fall of Hydra's regime,{{r|Secret Empire #10}} Scarlet Witch rejoined the Avengers Unity Division and helped them defeat an out-of-control [[Franklin Hall (Earth-616)|Graviton]].{{r|Uncanny Avengers Vol 3 26|27}}
+
+===[[Empyre (Event)|Empyre]]===	
+Still feeling guilty for her past transactions against mutants, Wanda decided to try and reverse another of the genocides that mutants had suffered, namely the devastation of [[Genosha]] by [[Cassandra Nova Xavier (Earth-616)|Cassandra Nova]], shortly before Wanda's own mass depowering of the mutant population. Doctor Strange advised against her efforts, but Wanda spent a year attempting to resurrect these dead mutants, unaware of Xavier and [[Five (Earth-616)|the Five]] being able to achieve this themselves. The spell that Wanda cast did not work, causing the mutants she raised on Genosha to instead be brought back as the undead.{{r|Empyre: X-Men Vol 1 1}} Wanda sought help from Doctor Strange, who gave her aid while also holding her accountable. Strange was able to counter Wanda's spell but as it would take 30 days to fully return all the dead, a barrier was placed around Genosha to prevent any of the dead from leaving. This barrier didn't stop the living from entering the island though, as the [[Cotati]] proved when they set up a base on the island as part of an attempted invasion of [[Wakanda]], leading to them being attacked by the mutant zombies. When the [[Gateways]] on Krakoa were affected, a team of X-Men were sent to investigate and wound up under siege until the spell took effect and the dead returned to death. The X-Men remained unaware that these events had been caused by Wanda.{{r|Empyre: X-Men Vol 1 3}} 
+
+Wanda would then be chosen as part of a team by the [[T'Challa (Earth-616)|Black Panther]] to investigate the [[Savage Land]], alongside Brother Voodoo, the [[Dane Whitman (Earth-616)|Black Knight]], [[Kevin Plunder (Earth-616)|Ka-Zar]], the ruler of the Savage Land, and his [[Smilodon|sabretooth tiger]] [[Zabu (Earth-616)|Zabu]]. While investigating the dead body of a [[Tyrannosaurus rex]], Wanda sensed that the group had been surrounded, moments before they came under attack from the Cotati. One of the Cotati, [[Veltri (Earth-616)|Veltri]], unleashed a controlled [[Theodore Sallis (Earth-616)|Man-Thing]] against the team and also revealed that they had Ka-Zar's wife, [[Shanna O'Hara (Earth-616)|Shanna]], under their control as well.{{r|Empyre: Avengers Vol 1 1}} Shanna attempted to convince her husband to join the Cotati while Wanda and the rest of the team were imprisoned or immobilized. Wanda was able to employ her magic to take Ka-Zar into his wife's mind to learn more about what was going on as well as freeing her from the Cotati.{{r|Empyre: Avengers Vol 1 2}} After Ka-Zar was stabbed by the Black Knight's [[Ebony Blade]], Wanda and Doctor Voodoo worked together to remove Ka-Zar's soul from the blade while Shanna utilized waters that had once been used to resurrect her on Ka-Zar.{{r|Empyre: Avengers Vol 1 3}}
+
+===Hellfire Gala===
+During the first Krakoan [[Hellfire Gala]], Magneto invited Wanda to the party, but Wanda was unable to muster the courage due to the shame of her actions. She saw Erik in private after [[Planet-Size X-Men Vol 1 1|the terraformation of Planet Arakko]], sharing a dance with him after he promised to “make it right” between her and Krakoa.{{r|S.W.O.R.D. Vol 2 6}} Wanda was later found dead at the scene by her son [[Thomas Shepherd (Earth-616)|Speed]] with Magneto as the main suspect in her murder.{{r|X-Factor Vol 4 10}} Many on Krakoa celebrated her death.{{r|X-Men: The Trial of Magneto Vol 1 1}}
+
+After her death her spirit found itself in a magical world being pursued by a white hooded figure. She was saved from this place when Magneto and Hope, secretly had her resurrected without [[Quiet Council of Krakoa (Earth-616)|the Council]]'s knowledge, using a years old cerebro backup. Wanda appeared seemingly fine just after Magneto admitted to having murdered her. Upon returning the first thing she did was kiss Vision, believing them to still be married. She was confused by Vision mentioning [[Virginia (Earth-616)|his deceased wife]] and by seeing her children who she did not recognize, she then turned to Magneto who she still believed was her father. Realizing they couldn't leave her like this [[Jean Grey (Earth-616)|Jean Grey]] and [[Rachel Summers (Earth-811)|Rachel Summers]] decided to restore some of her memories, starting with M-Day. While Wanda was struggling to processes this, Krakoa was attacked by three kaiju. Wanda was pulled away by her sons while the Avengers, X-Men, and [[X-Factor Investigations (Earth-616)|X-Factor]] went to fight this threat. Wanda soon found herself back in the magical realm facing the hooded figure, but realized it was made of chaos magic and therefore must be an extension of herself, meaning the hooded figure couldn't kill her. She grabbed an axe and prepared to kill her attacker, but the hooded figure took of her cloak revealing herself to be an older Wanda.{{r|{{cl|X-Men: The Trial of Magneto Vol 1 1}}-[[X-Men: The Trial of Magneto Vol 1 3|3]]}}
+
+| Powers                  = Wanda Maximoff is an immensely powerful being, capable of altering reality, probability, and magic within the cosmos to her very whim. She has been stated to be the most dangerous Avenger on various occasions, as well as being stated to have the power of a God.{{r|Avengers & X-Men: AXIS #7}} During the Avengers vs. X-Men event, she was the enemy that the almost omnipotent Phoenix Five most feared.{{r|Avengers vs. X-Men Vol 1 7}}
+
+'''[[Glossary:Chaos Magic|Chaos Magic]]:''' Wanda's main power is the superhuman ability to manipulate the powerful magic known as Chaos magic, a dark magic,{{r|Uncanny Avengers Vol 3 26}} which allows her to alter reality and control various forms of mystical energy. Wanda received the "blessing/curse" of the old God of chaos, [[Chthon (Earth-616)|Chthon]], who came to her, the day she was born,{{r|Avengers #186}} which would allow her to use his chaos magic as her own and this would increase Wanda's natural ability to magic.
+
+'''[[Glossary:Witchcraft|Witchcraft]]:''' Maximoff is a human of magical birthright which means she possesses the ability to manipulate magic since the very beginning. She was born a human with the affinity to control magic, allowing her to use the witchcraft she was born with and that her powers were never gave to her by the [[Herbert Wyndham (Earth-616)|High Evolutionary]] as it was believed rather, he had altered her so Wanda is more receptive to magical energy.{{r|Scarlet Witch Vol 2 8}} She was chosen to be one of the candidates as the next Sorcerer Supreme.{{r|New Avengers Vol 1 53}}
+
+[[File:Wanda Maximoff (Earth-616) from Avengers No Road Home Vol 1 5 001.jpg|right|thumb|Wanda's magic]]
+
+*'''[[Glossary:Magic|Divine Sources]]:''' Wanda Maximoff can tap and channel energies from other dimensions as well as mystical and non-mystical entities other than Chthon, such as Cyttorak{{r|Uncanny X-Men Vol 1 191}} and Morrigan.{{r|Scarlet Witch Vol 2 1}} She is actually considered the very [[Nexus Beings|Nexus Being]] of the central universe of [[Earth-616]]. Since Wanda is a nexus being, she acts a living focal point for earth's and her universe's mystical energies,{{r|Avengers: The Children's Crusade Vol 1 7}} making her much more capable to harness and use various kinds of magic as she desires. 
+
+'''[[Spells and Phrases]]:''' Scarlet Witch has a vast knowledge of mystical spells and incantations invoking names and aspects of various extra-dimensional objects, beings and sources of power.{{r|Avengers No Road Home Vol 1 5}}{{r|Avengers & X-Men: AXIS Vol 1 7}} Although she has shown the ability to cast "spells" by only saying or focusing on what she wants to happen, this could be related to the nature of her powers. She was trained by [[Agatha Harkness (Earth-616)|Agatha Harkness]], who taught her how to control and utilize her magic for many mystical purposes, such as:
+
+*'''Astral Projection:''' She is able to project her spirit or astral form out of her physical body in order to travel into the spirit world or the astral plane. She still can use her powers in her astral form and can do this even while unconscious.{{r|Empyre: Avengers Vol 1 2}} 
+
+*'''Binding:''' Wanda has the power to bind and stop someone from moving with her magic and she has used this to stop someone as strong as Colossus.{{r|Uncanny X-Men Vol 1 191}} 
+
+*'''Biological Manipulation:''' Her sorcery allows her to manipulate life on cellular level as well as control all aspects of living creature's biological make-up. For an instance, she can heal different kinds of injures and wounds{{r|Young Avengers Special Vol 1 1}} She once tries to age Jennifer's gamma radioactivity until it's inert.{{r|Avengers Vol 3 74}} She also has linked the Hulk and a bunch of other Hulks, allowing Banner to merge with them.{{r|Avengers Vol 3 40}} 
+
+*'''Bond Manipulation:''' Can manipulate and induce bond of others. She is able to strengthen the bond between the Bloodwraith and the Slorenia itself, to its boundaries as well as its people, trapping the Bloodwraith within the country.{{r|Avengers Vol 3 37}}
+
+*'''Chaos Manipulation:''' Maximoff has the ability to control chaos and manipulate chaotic forces, like she did against [[In-Betweener (Earth-616)|the In-Betweener]], restoring him to a whole being, after he tapped her powers.{{r|Avengers Vol 3 57|60}} 
+
+*'''Clairvoyance:''' Wanda Maximoff has the ability to receive information about a person or an object even though she has never directly seen them before.{{r|Scarlet Witch Vol 2 1}} She also has the ability to predict the future. She has used a divination spell to search Hope Summers' location{{r|AvX: Consequences Vol 1 5}} and she has had a dream about Black Knight's fate when he was in another dimension.{{r|Avengers Vol 1 84}}
+
+*'''Energy Constructs:''' As an experienced magic user, Scarlet Witch has performed the ability to turn her magical energy into tools, objects, weapons, and other items to suit her needs. She has created a shield, sword, knife, sharp whip and other projectiles, weapons and constructions of mystical energy.{{r|Star Vol 1 2}}{{r|Scarlet Witch Vol 2 5}} 
+
+*'''Energy Manipulation:''' Wanda is capable to manipulate various forms of energy.
+**'''Energy Absorption:''' Wanda was capable to absorb and channel energy. Wanda once absorbed [[Simon Williams (Earth-616)|Wonder Man]]'s ionic powers as a power source and used it to teleport all of mutantkind into a spaceship.{{r|Uncanny Avengers Vol 1 14}}
+**'''Energy Projection:''' Wanda was capable to release and project powerful energy blasts of various shapes and/or intensities, such as bolts, beams, bursts and waves, that can knock, destroy, slice, and annihilate her targets. Wanda has shown that her energy blasts can knock out god-like beings. This ability becomes the most frequently she uses in almost every fight.{{r|Uncanny Avengers Vol 1 4}}{{r|Avengers World Vol 1 16}}{{r|Avengers & X-Men: AXIS Vol 1 6}}{{r|Scarlet Witch Vol 2 14}}{{r|Avengers No Road Home Vol 1 4}}{{r|Avengers No Road Home Vol 1 7}}
+**'''Energy Transferal:''' Wanda was capable to take energies from one target and put or transfer it into another several targets or beings. Wanda once returned so many energies Rogue has borrowed back to their previous owners.{{r|Uncanny Avengers Vol 1 22}} 
+
+*'''Flight:''' Maximoff has also proven to be able to fly at will. She can also give others the ability to do so. The full extent of this ability is unknown, but she was capable of fighting an enemy while flying.{{r|Scarlet Witch Vol 2 14}}{{r|Avengers Vol 1 153}}{{r|Uncanny Avengers Vol 3 26|27}}{{r|Empyre Vol 1 6}} She has also shown the ability to levitate,{{r|Scarlet Witch Vol 2 1}} as she has done while meditating in the lotus position.{{r|Avengers Vol 3 13}}{{r|Uncanny Avengers Annual Vol 1 1}} 
+
+*'''Force Field:''' As one of the most powerful witch on the planet, Wanda Maximoff has shown to be capable of projecting powerful fields and shields of mystical energy that she can use for many different purposes. She was capable to protect herself and her allies against many destructive attacks such as bullets, blasts, or explosions.{{r|Scarlet Witch Vol 2 6}}{{r|Scarlet Witch Vol 2 14}}{{r|Uncanny Avengers Vol 1 9}} She was also capable to use her force field to contain many items,{{r|Captain America Vol 3 5}} as well as to prevent someone from teleporting, like she did to [[Va Nee Gast (Earth-616)|Voyager]].{{r|Avengers Vol 1 687}} Not only that, she was also capable to defend herself automatically, meaning her powers can defend her against attacks without her conscious will.{{r|Scarlet Witch Vol 2 3}} 
+
+*'''Gravity Manipulation:''' In a rare occasion, the Scarlet Witch has proven to be able to alter and control gravity. She has diminished the effect of gravity itself.{{r|Avengers Vol 3 40}} 
+
+*'''Illusion Casting:''' Wanda has demonstrated the power to generate and cast realistic illusion. With this power, she was able to fool her enemies like she did to Emerald Warlock.{{r|Scarlet Witch Vol 2 4}} Wanda has also demonstrated the power to create and shape holograms to entertain or to help her explain about any event or incident better.{{r|Avengers No Road Home Vol 1 6}}{{r|Scarlet Witch Vol 2 1}} 
+
+*'''Invisibility:''' Maximoff possesses the ability to make objects or people unseen, casting an invisibility spell on [[Simon Williams (Earth-616)|Wonder Man]].{{r|Avengers Vol 3 51}} 
+
+*'''Locality Tracking:''' Can find, probe, and track the location of anyone she desires at the moment over any distance or conditions. She once manages to find someone who previously inhabited Mjolnir, and guide Thor to him.{{r|Thor Vol 2 18}}
+
+*'''Magical Awareness:''' Scarlet Witch has displayed the ability to be aware of almost anything that affects her and her surroundings.{{r|Avengers Vol 3 28}}{{r|Avengers World Vol 1 16}} 
+
+*'''Mechanical Manipulation:''' Can control and manipulate machine as well as mechanical objects. As seen for example, she is able to freeze up, control, and damage Alkhema's internal molecular rearranger.{{r|Avengers Vol 3 19}}
+
+*'''Nature Manipulation:''' Wanda has shown to be capable to manipulate and command nature at her will. She also has an affinity with nature due to her witch training.{{r|Giant-Size Avengers Vol 1 4}}{{r|Avengers Vol 1 134}}
+**'''Elemental Manipulation:''' Wanda can control and generate the elements. She stated that power over natural or classic elements comes more easily to her.{{r|Avengers Vol 3 32}}
+***'''Aerokinesis:''' Able to magically manipulate air and oxygen.{{r|Avengers Vol 1 152}}{{r|Avengers Vol 3 72}}
+***'''Chlorokinesis:''' Able to magically manipulate plants.{{r|Avengers Vol 1 170}}
+***'''Cryokinesis:''' Able to magically manipulate ice.{{r|Iron Man Vol 2 12}}
+***'''Electrokinesis:''' Able to magically manipulate electricity.{{r|Avengers: Millennium Infinite Comic Vol 1 6}}
+***'''Ferrokinesis:''' Able to magically manipulate metal.{{r|Avengers Vol 1 144}}
+***'''Geokinesis:''' Able to magically manipulate earth and rocks.{{r|Scarlet Witch Vol 2 2}}{{r|Scarlet Witch Vol 2 6}}
+***'''Geo-Thermokinesis:''' Able to magically manipulate lava.{{r|Giant-Size Avengers Vol 1 4}}
+***'''Hydrokinesis:''' Able to magically manipulate water.{{r|Avengers: Celestial Quest Vol 1 4}}
+***'''Photokinesis:''' Able to magically manipulate light.{{r|Avengers No Road Home Vol 1 9}}
+***'''Pyrokinesis:''' Able to magically manipulate fire.{{r|Avengers Vol 1 18}}{{r|Avengers Vol 1 234}}
+***'''Typhokinesis:''' Able to magically manipulate smoke.{{r|Avengers Vol 1 152}}
+***'''Umbrakinesis:''' Able to magically manipulate darkness.{{r|Force Works Vol 1 7}}
+**'''Organic Manipulation:''' Wanda can manipulate and control all things organic. She has manipulated wood and cotton thread against Moondragon.{{r|Avengers Vol 1 134}}
+**'''Thermokinesis:''' Wanda can control and manipulate temperature. She has used her power to cool the lava which Dormammu needed for his regeneration.{{r|Giant-Size Avengers Vol 1 4}}
+**'''Weather Control:''' Wanda can manipulate and influence the weather, creating rain in a certain area.{{r|Scarlet Witch Vol 2 5}} 
+
+*'''Necromancy:'''  Maximoff can contact and communicate with the deceased. She has done it to make contact with the Slorenian dead.{{r|Avengers Vol 3 37}} 
+
+*'''Non-Physical Interaction:''' Wanda Maximoff has the power that allows her to affect and harm intangible beings, such as ghosts, intangible demons, spirits, and Vision.{{r|Scarlet Witch Vol 2 5}}{{r|Tarot Vol 1 1}} 
+
+*'''Portal Creation:''' The Scarlet Witch is able to open magical portals and gates to another location, gaining the ability to visit or banish anyone/anything in tremendous distances instantaneously.{{r|Scarlet Witch Vol 2 8}}
+
+*'''Power Resistance:''' She has resistance to certain attacks, abilities, and powers that can affect and harm her. She is resistant to various types of magic{{r|Scarlet Witch Vol 2 4}} and energy.{{r|Scarlet Witch Vol 1 4}} She also has resistance against reality warping,{{r|AVX: Vs Vol 1 6}} probability manipulation,{{r|A + X Vol 1 10}} elemental forces,{{r|A + X Vol 1 10}} and even the Phoenix Force (to a limited degree).{{r|Avengers vs. X-Men Vol 1 6}}
+
+*'''Protection:''' Wanda can cast the spell of protection so that she and her teammates can be protected against certain danger. She has casted protection hex to herself, Thor, and Odin to keep them safe from knee-deep acid.{{r|Thor Vol 2 19}} She also has maintained protective aura around the Avengers and the civilians, keep them safe from the ruins.{{r|Thor Vol 2 1}}
+
+*'''Purification:''' During her time as a mystic, Maximoff has demonstrated the ability to purify any kind of objects. She has magically purified a lake and thrown a demon, who at the time possessed 2 people, in it to protect the victims. She used spell in this case.{{r|Scarlet Witch Vol 2 10}} 
+
+*'''Reality Manipulation:''' One of the most well known powers that Wanda Maximoff has is her ability to shape, warp, defy and bend reality itself.{{r|Star Vol 1 5}}{{r|Avengers No Road Home Vol 1 1}} She has been stated as one of the world's greatest and most dangerous reality warpers.{{r|Star Vol 1 2}} She can use this ability to create anything and everything from nothing{{r|Avengers World Vol 1 15}} and can disintegrate as well as erase person or object from existence.{{r|Jean Grey Vol 1 7}} She can also combine her physical combat with her reality warping power, as she did against [[Hope Summers (Earth-616)|Hope Summers]].{{r|AVX: Vs Vol 1 6}}
+
+*'''Replication:''' The Scarlet Witch is capable of replicating and multiplying herself and others. She has used this power to multiply germs in the Wrecking Crew’s bodies, incapacitating them with sickness.{{r|Avengers Vol 3 80}} 
+
+*'''Scanning:''' She was capable to invoke [[Thoth's Gaze]] to examine an area within the [[Savage Land]] and see what non-native beings had been there. Also, while using this spell, she could see that she and her teammates were in the middle of an ambush.{{r|Empyre: Avengers Vol 1 1}} 
+
+*'''Scrying:''' Wanda can hear, view, and observe people's location and condition by making projection image that shows event that is happening in faraway place.{{r|Avengers Vol 3 11}}
+
+*'''Soul Manipulation:''' Maximoff has proven to be capable to manipulate soul. She can use her magic to summon spirits from the afterlife{{r|Scarlet Witch Vol 2 6}} and can resurrect the dead and bring them back to life.{{r|Avengers World Vol 1 16}} She was also capable to practice exorcism{{r|Scarlet Witch Vol 2 1}} as well as read other people's aura so that she could determine if they are align with good or evil.{{r|Scarlet Witch Vol 2 1}} 
+
+*'''Superpower Manipulation:''' Wanda Maximoff has demonstrated the power to manipulate superpowers of others by various means. Her magic allows her to control,{{r|Secret Warriors Vol 2 4}} absorb or steal,{{r|Scarlet Witch Vol 2 4}} and boost or enhance any kind of superpowers that her targets have.{{r|Avengers Vol 3 3}} Her magic also allows her to cancel, block, or negate the effect of her enemies' powers{{r|Avengers Vol 3 9}}{{r|Star Vol 1 3}} and reflect or redirect any power that is projected against Wanda herself.{{r|Galactus the Devourer Vol 1 3}} 
+
+*'''Telekinesis:''' Scarlet Witch possesses the power to move, stop, and manipulate objects. She has reacted and stopped Sabretooth who tried to catch her{{r|Uncanny Avengers Vol 2 3}} as well as thrown a truck at [[Thor Odinson (Earth-616)|Thor]].{{r|Uncanny Avengers Vol 1 4}} 
+
+*'''Telepathy:''' Wanda has demonstrated the ability to enter, manipulate, and alter people's mindscape with or without the targets' agreement.{{r|Empyre: Avengers Vol 1 2}} She was able to take herself and [[Kevin Plunder (Earth-616)|Ka-Zar]] into [[Shanna O'Hara (Earth-616)|Shanna]]'s mind in order to free her from mind control.{{r|Empyre: Avengers Vol 1 2}} She was also able to induce other people to sleep,{{r|Avengers: The Children's Crusade Vol 1 7}} control the minds of others,{{r|Avengers Vol 1 154}} and create realistic illusions in the minds of others to trick her opponents, like she did to [[Maynard Tiboldt (Earth-616)|Maynard Tiboldt]].{{r|Scarlet Witch Vol 2 8}} And not only that, she was even able to communicate{{r|West Coast Avengers Annual Vol 2 6}} and torture other people mentally,{{r|Avengers Vol 1 681}} as well as read the mind of other beings.{{r|Scarlet Witch Vol 2 15}}
+**'''Emotion Manipulation:''' Wanda has demonstrated the ability to affect and control the emotion of others. She is capable to feel the pain and anger of the Slorenian dead.{{r|Avengers Vol 3 37}} She is also capable to induce fear of others.{{r|Avengers Vol 1 152}}
+
+*'''Teleportation:''' Maximoff can teleport herself and others to any place she/they want across large distances.{{r|Scarlet Witch Vol 2 1}}{{r|Fantastic Four Vol 5 11}}{{r|Avengers: The Children's Crusade Vol 1 7}} She was able to travel interdimensionally.{{r|Scarlet Witch Vol 2 3}} Also, she can summon/teleport persons or objects to her or any other people's location{{r|Avengers Vol 3 5}}{{r|Quicksilver: No Surrender Vol 1 3}} and can banish/teleport away person or objects from her location.{{r|Avengers vs. X-Men Vol 1 7}}{{r|Scarlet Witch Vol 2 1}} 
+
+*'''Time Manipulation:''' Wanda Maximoff has proven to be capable of manipulating and controlling time. As a nexus being, Wanda also has the ability to alter the probabilities of cosmic timelines.{{r|Avengers West Coast Vol 1 62}} She was able to stop and slow down time.{{r|Star Vol 1 2}}{{r|Uncanny Avengers Vol 1 4}} She once conjured a spell that causes a person’s body to rapidly break down as if it has endured five thousand years of "wear and tear" over a period of a mere five seconds.{{r|Force Works Vol 1 14}} 
+
+*'''Transmutation:''' The Scarlet Witch can transform or transmute anything into anything else, such as when she change her clothes in an instant.{{r|Scarlet Witch Vol 2 1}}{{r|Avengers No Road Home Vol 1 1}} She also has transmuted ice and snow into steam{{r|Avengers Vol 3 75}} as well as transmuted Thor's lightning into butterflies.{{r|Uncanny Avengers Vol 1 4}} 
+
+*'''Witch Sight:''' Wanda can see things beyond what normal humans can.{{r|Scarlet Witch Vol 2 1}} For example, she was able to see an enhanced and invisible [[William Taurens (Earth-616)|Man-Bull]].{{r|Scarlet Witch Vol 2 2}} She was also able to see [[Agatha Harkness (Earth-616)|Agatha Harkness]]'s spirit{{r|Scarlet Witch Vol 2 3}} and [[Heather Douglas (Earth-616)|Moondragon]]'s psychic assault which had been stated that no human eye could.{{r|Avengers Vol 1 134}}
+
+*'''Probability Manipulation:''' Wanda has been stated as a probability manipulator of the highest order.{{r|A + X Vol 1 10}} Initially, Wanda had the ability to manipulate probability via her "hexes" (often manifesting physically as "hex spheres" or "hex bolts") which manipulated energy fields and matter to varying degrees, and could disrupt time.{{r|Avengers Vol 3 1}} These hexes were initially short range, and were limited to her line of sight. Casting a hex would initially require a gesture and concentration on her part, though the gestures were largely a focus for the concentration.{{Citation}} Early in her career, her hexes were unconscious, and would be automatically triggered whenever she made a particular gesture, regardless of her intent.{{Citation}} These hexes would only manifest as "bad luck," triggering negative effects.{{r|Avengers Vol 1 21}} She later gained enough control over her powers that they only worked when she wanted them to, and they were not limited to negative effects.{{Citation}} Wanda can use her hexes to cause a wide variety of phenomena, including, but not limited to: 
+** Spontaneous combustion or melting.{{r|Force Works Vol 1 1}}{{r|Avengers Vol 1 400}}{{r|Avengers Vol 3 57}}
+** Rapid or spontaneous decaying, breaking, healing, or fixing.{{r|Avengers West Coast Vol 2 73}}{{r|Avengers Vol 1 126}}
+** Molecular destabilization.{{r|Avengers Vol 3 3}}
+** Energy control, transference, disruption, amplification, transmutation, and absorption.{{r|Vision and the Scarlet Witch Vol 2 3}}{{r|Quicksilver Vol 1 6}}
+** Inertia redirection, amplification, disruption, and transference.{{r|Avengers Assemble Vol 2 20}}{{r|Avengers Vol 1 204}}
+** Lighting flammable objects.{{r|Scarlet Witch Vol 1 3}}
+** Containing or removing air from a particular volume.{{r|Avengers Vol 3 65}}
+** Cancelling others powers and abilities.{{r|Professor Xavier and the X-Men Vol 1 8}}
+** Stopping the momentum of projectiles.{{r|West Coast Avengers Vol 2}}
+** Blocking, unlocking, closing and opening doors, objects and technological devices.{{r|Vision and the Scarlet Witch Vol 2 1}}{{r|Scarlet Witch Vol 2 5}}
+** Exploding and summoning objects.{{r|Avengers Annual Vol 1 10}}{{r|Quicksilver: No Surrender Vol 1 3}}
+** Creating force fields.{{r|Avengers Vol 1 186}}
+** Deflecting normal, physical and magical attacks.{{r|Avengers Vol 1 147}}{{r|AVX: Vs Vol 1 6}}{{r|Avengers Vol 1 83}}
+** Negating or distorting physical laws and manipulating physical forces.{{r|Avengers Vol 3 1}}
+** Altering, affecting, and controlling matter, the molecular composition and physical state/form of physical objects.{{r|Avengers Vol 1 238}}{{r|Avengers Vol 1 153}}
+** Causing various forms of energy to spontaneously appear or disappear.{{r|Avengers Vol 3 1}}
+** Altering size and gravity, as well as manipulating weather and technology.{{r|West Coast Avengers Vol 2 40}}{{r|Avengers West Coast Vol 2 82}}{{r|Strange Tales Vol 1 128}}{{r|Avengers Vol 1 25}}{{r|Avengers Assemble Vol 2 20}}
+** Animating stuff and sustaining the atmosphere.{{r|Avengers Vol 1 133}}{{r|Quicksilver Vol 1 10}}
+
+Her powers, while beginning to unveil a higher potential, appeared capable of prevailing against the mastered mystical power of [[Dormammu (Earth-616)|Dormammu]] in his own Dark Dimension when she and the Avengers fought against him for Avalon's Evil Eye, albeit indirectly by disrupting the energies of Dormammu and the Eye.{{r|Avengers Vol 1 118}} She has trained often at using her hexes to deflect projectiles or to cause enemies to stumble or otherwise suffer the effects of "bad luck."{{r|Avengers Vol 1 21}} This makes her one of the few Avengers that [[Ultron (Earth-616)|Ultron]] fears as his adamantium shell cannot repel magic.{{r|Avengers Vol 1 171}} Wanda can also project very powerful blasts, orbs, waves,{{r|Force Works Vol 1 7}} and beams of hex energy for a different purpose,{{r|Avengers Vol 1 84}} such as to destroy or hit objects or people with a great force, illuminate an area, etc, as well as, generate energy constructions such as force fields or screens of hex energy.{{Citation}}
+
+{{Navigation
+| title = Former Powers
+| body = '''Life Force & Telepathy Resistance:''' While acting as a conduit for the planet's Life Force, Wanda's powers were further amplified and not always under her conscious control; their effects persisted even after Dr. Strange's [[Eye of Agamotto]] shut down her mind. Even the combined efforts of the [[Stephen Strange (Earth-616)|Sorcerer Supreme]] and [[Charles Xavier (Earth-616)|Earth's most formidable psychic mind]] were unable to fully inhibit such effects for long.{{r|Excalibur Vol 3 13|14}}
+
+While she served as a conduit for the Earth's Life Force, her power was so great that, she was able to generate armies from nowhere and had also altered the entire [[Earth-616]] reality at will, and permanently shifted the nature of all possible futures without realizing what she had done. Wanda was also shown to easily bring and wipe any in her own illusory reality from existence with but a thought. In the [[Earth-58163|"House of M" reality]] that she created, her chaos wave was so powerful that even [[Meggan Puceanu (Earth-616)|Meggan]], who absorbed the power of the [[Beyonders]], could only stop it for a few seconds. Wanda even cast one "spell" that caused the loss of [[Decimation|most of the mutant population]] their powers, leaving only around three hundred powered mutants left,{{r|Civil War Files #1}} through the deletion of the Mutant Genome created by the near-omnipotent [[Celestials]] on a planetary scale. It was revealed by Doctor Strange to Beast that this lasting spell was of such complexity and strength that it had woven itself into reality and the world of magic itself, and that if he were to even to try to reverse it, all of reality would implode. Wanda was even able of heal the severely damaged legs of [[Charles Xavier (Earth-616)|Charles Xavier]] while all his Earth and alien friends, allies, and colleagues efforts (including even giving Xavier a new body) apparently failed for countless years.{{Citation}} Wanda was also able to resurrect and reanimate the dead (as she did with [[Simon Williams (Earth-616)|Wonder Man]],{{r|Avengers Vol 3 11}} [[Jonathan Hart (Earth-616)|Jack of Hearts]],{{r|Avengers #500}} [[Clinton Barton (Earth-616)|Hawkeye]],{{r|House of M #3}} [[Pietro Maximoff (Earth-616)|Quicksilver]],{{r|House of M #7}} [[Agatha Harkness (Earth-616)|Agatha Harkness]], and [[Mad Jim Jaspers]]).{{r|Uncanny X-Men Vol 1 462}} }}
+
+| Abilities               = 
+'''Aviation Intuition:''' Wanda has great and proficient skill in piloting aircraft.{{r|Uncanny Avengers Vol 1 23}}
+
+'''Dancing:''' Maximoff has proven herself capable of doing one of the traditional dances of her childhood in front of many people.{{r|Avengers Vol 3 19}}
+
+'''Expert Combatant:''' The Scarlet Witch has been trained in hand-to-hand combat by Captain America, Hawkeye, and Bobbi.{{r|Scarlet Witch Vol 1 1}}{{r|Avengers West Coast Vol 2 94}} She was able to combine her physical combat with her magic.{{r|Scarlet Witch Vol 2 7}}
+
+'''Expert Tactician & Leadership:''' Wanda is skilled in the planning and execution of tactics, when sane, with this coming from the experience and leadership skills gained through years of active duty as an Avenger.{{r|Force Works Vol 1 20}}{{r|Avengers Vol 3 38}}
+
+'''Horse Riders Aptitude:''' Wanda Maximoff has great amount of knowledge in horse riding. She once rides alongside with Wonder Man, impressing him.{{r|Avengers Vol 3 41}}
+
+'''Meditation:''' Maximoff has shown capable of meditating. By doing this, she can develop and train her abilities{{r|Avengers Vol 3 13}} as well as practice her magic.{{r|Uncanny Avengers Annual Vol 1 1}} Through meditation, she is also able to be more focused to cast spell better.
+
+'''Multilingual:''' Scarlet Witch is fluent in several languages include English, French{{r|Avengers Vol 1 234}}, and German{{r|Excalibur Vol 1 38}}, with at least some knowledge of Greek{{r|Avengers Vol 3 39}} and Slorenian,{{r|Force Works Vol 1 4}} however, in the case of the latter, she admits to being more comfortable speaking English. It is possible that she knows other language as well: for example, since she was born and raised in Serbia,{{r|Scarlet Witch Vol 2 11}} it is likely that she knows Serbian and, since her foster parents were members of the Romani community, she may know one or more dialects of Romani as well. Her brother speaks fluent Russian and seems surprised that the other Avengers don't, suggesting that Wanda may also speak it.{{r|Avengers Vol 3 42}} 
+
+'''Occultism & Magical Knowledge:''' Due to her mystic lore, Wanda is taught magic and witchcraft by Agatha Harkness and Doctor Strange.{{r|Avengers Vol 1 128}} She also recently learns with her mother.{{r|Scarlet Witch Vol 2 15}} Because of her power, knowledge, and experience, she is often the Avengers' go-to person for all things involving magic or the supernatural.{{r|Scarlet Witch Vol 2 5}}{{r|Scarlet Witch Vol 2 15}} Wanda taught [[Megan Gwynn (Earth-616)|Pixie]] a sleeping spell{{r|Amazing X-Men Vol 2 15}} and taught the students of Strange Academy about the Elements of Chaos.{{r|Strange Academy Vol 1 2}} She is considered to be one of Marvel's most prominent mystics.
+
+'''Swimming:''' Maximoff has displayed the ability to swim and fight in the water.{{r|Avengers Vol 3 5}}
+
+'''Yoga:''' The Scarlet Witch has the ability to utilize Yoga. She can use yoga to help relax herself as well as rein in her darker thoughts.{{r|Scarlet Witch Vol 2 9}}
+
+| Strength                = 
+Wanda possesses the normal human strength of a woman of her age, height, and build who engages in moderate regular exercise.{{r|Official Handbook of the Marvel Universe Vol 2 11}}
+
+| Weaknesses              = 
+{{Navigation 
+| title = Former Weaknesses
+| body = '''Mental Illness:''' Although she appears to be currently sane, her mental stability is still questionable. Wanda has undergone mental breakdowns, episodes of mental illness, and severe suicidal depression relating to her powers and personal traumas. Even so, Wanda has admitted that her mental health is better.{{r|Scarlet Witch Vol 2 1}}
+
+'''Overextension:''' Despite this enhanced precision, her hexes were not necessarily guaranteed to work, particularly if she had been straining herself or using her powers excessively. If overextended, her hexes could backfire, causing probability to work against her wishes or to undo previous hexes.{{Citation}}
+
+'''Perception Range:''' Her range of hex-casting was limited by her line of sight.{{Citation}} (She couldn't watch a live television broadcast and cause a hex-phenomenon to occur at its point of origin.){{Citation}}
+
+'''Physical Condition:''' Hexes had a degree of unreliability, which was further affected by her physical condition: when well rested, in good health, and mentally and emotionally alert, Scarlet Witch could cast numerous hex-spheres in rapid succession and attain desirable results for almost an hour.{{Citation}} }}
+
+| Equipment               = 
+[[Avengers Identicard]]
+
+'''Crystal Ball:''' Wanda has used the crystal ball in order to communicate with Agatha.{{r|Scarlet Witch Vol 1 1}}
+
+'''Falcon:''' Early in her career, Maximoff has shown to have a trained Falcon. But now, it is still unclear, whether if she still has it or not.{{r|X-Men Vol 1 27}}
+
+{{Navigation
+| title                   = Former Equipment
+| body                    = 
+
+'''Magical Scepter:''' Formed by combining the [[World Tree Root]], the [[Tri-Crown of the Chaos Godhead]] and the [[Eye of Alak-Rah]], it was capable of resurrecting beings albeit in form of [[Zombies|zombies]].{{r|{{cl|Empyre: X-Men Vol 1 1}}-[[Empyre: X-Men Vol 1 3|3]]}}
+}}
+| Transportation          = [[Avengers Quinjet]]
+| Weapons                 =
+
+| Notes                   = * Scarlet Witch was featured in Mystic Arcana [http://www.marvelcomics.com/news/-1.840].
+* Scarlet Witch designed [[Henry Pym (Earth-616)|Goliath]]'s first costume (blue & yellow).{{r|Avengers #28}}
+* Wanda frequently suffers from possessions of evil and magic. This means that her body will be evil for a time, while her soul is not. Past possessors include: The Life Force, Chaos Magic, the demon Chthon, and once, accidentally, a spell cast by herself and [[Victor von Doom (Earth-616)|Victor von Doom]].{{r|Avengers #503}}{{r|Avengers: The Children's Crusade #7}}{{r|Secret Empire #4}}{{r|Avengers & X-Men: AXIS #3}}
+*Wanda herself is unsure how her sons, [[William Maximoff (Earth-616)|William]] and [[Thomas Maximoff (Earth-616)|Thomas]] were reincarnated into [[William Kaplan (Earth-616)|Billy Kaplan]] and [[Thomas Shepherd (Earth-616)|Tommy Shepherd]].{{r|Scarlet Witch Vol 2 8}}
+==Relationships== 
+* Wanda briefly dated [[Warren Worthington III (Earth-616)|Angel]].{{r|New X-Men Vol 2 44}}
+* Wanda was briefly engaged to  [[Victor von Doom (Earth-616)|Doctor Doom]].{{r|Avengers: The Children's Crusade Vol 1 4}}
+| Trivia                  = * Wanda is a vegetarian and doesn't drink alcohol.{{r|Scarlet Witch Vol 2 2}}
+* In the first flashback to [[Transia]], Wanda receives her codename when an unnamed villager claims that she is "a Scarlet Witch." It is left unclear at the time if she is the only Scarlet Witch, or even the first one which the villagers have encountered (it was later revealed that [[Natalya Maximoff (Earth-616)|her birth mother]] was also known as the Scarlet Witch).{{r|X-Men Vol 1 4}}
+* While Wanda agreed to help Magneto in his plans of conquest, she protested against murdering their opponents. She pointed to Magneto that he had never told her that the Brotherhood would ever descend to murder.{{r|X-Men Vol 1 5}}
+* According to Wanda herself, there are other two women that happen to share her name living in [[Manhattan]]. They sometimes get calls meant for each other.{{r|She-Hulk Vol 1 2}}
+* [[Charles Xavier (Earth-616)|Charles Xavier]] has claimed that Wanda is unable to have children.{{r|House of M Vol 1 1}}
+* In {{cl|Tarot Vol 1 3}} the two halves of Scarlet Witch merged with the halves of [[Stephen Strange (Earth-616)|Doctor Strange]] and [[Namor McKenzie (Earth-616)|Namor the Sub-Mariner]] to create [[Scarlet Strange (Earth-616)|Scarlet Strange]] and [[Imperius Hex (Earth-616)|Imperius Hex]].
+* According to [[Peter Parker (Earth-616)|Peter Parker]], Wanda is lactose intolerant.{{r|Amazing Spider-Man Annual Vol 4 2}}
+* Scarlet Witch is no longer considered a [[Homo superior|mutant]], but in the [[Age of X-Man (Plane)|Age of X-Man]] (an alternate plane created by [[Nathaniel Grey (Earth-295)|X-Man]] where everyone is a mutant), she is remembered as one. There, all mutants are born in hatcheries. When [[Max Eisenhardt (Earth-616)|Magneto]] and [[Jean Grey (Earth-616)|Jean Grey]] suggested that the [[X-Tracts (Age of X-Man) (Earth-616)|X-Tracts]] might have an immensely powerful reality warping mutant like Wanda, [[Lin Li (Earth-616)|Nature Girl]] replied that the hatcheries do not make "'''''[[Mutant Power Level Classification|Omega mutants]]'''''" anymore, implying Wanda is considered an Omega mutant (in a world where she is seen as a mutant).{{r|Age of X-Man: The Marvelous X-Men Vol 1 4}}
+| Marvel                  =
+| Wikipedia               = Scarlet Witch
+| Links                   =
+* [http://www.comicbookdb.com/character.php?ID=211 Wanda Maximoff (Earth-616) at comicbookdb.com]
+* [http://uncannyxmen.net/characters/scarlet-witch uncannyxmen.net Spotlight On... Scarlet Witch]
+* [http://members3.boardhost.com/HarleyQuinn/ Wanda Maximoff (Earth-616) at the Second String Sanctuary]
+}}
+[[it:Wanda Maximoff (Terra-616)]]
+[[pt-br:Wanda Maximoff (Terra-616)]]
+[[tr:Wanda Maximoff (Dünya-616)]]
+[[ru:Ванда Максимофф (616)]]
+[[es:Wanda Maximoff (Tierra-616)]]
+
+[[Category:Twins]]
+[[Category:Reality Warpers]]
+[[Category:Power Negation]]
+[[Category:Probability Manipulation]]
+[[Category:Jewish Characters]]
+[[Category:Trained by Captain America]]
+[[Category:Vision Family]]
+[[Category:Maximoff Family]]
+[[Category:Empaths]]
+[[Category:Matter Manipulation]]
+[[Category:Transmutation]]
+[[Category:Concussive Blasts]]
+[[Category:Power Bestowal]]
+[[Category:Power Amplification]]
+[[Category:Time Travelers]]
+[[Category:Korvac Saga participants]]
+[[Category:Korvac Saga casualties]]
+[[Category:High Evolutionary Experiment]]
+[[Category:Collector's Museum]]
+[[Category:Insanity]]
+[[Category:Vegetarians]]
+[[Category:Romani]]
+[[Category:Sorcerer Supreme Candidates]]
+[[Category:Floating Super-Hero Poker Game participants]]
+[[Category:Genetically Engineered]]
+[[Category:Serbians]]
+[[Category:Gestalt Characters]]
+[[Category:Necromancy]]
+[[Category:Resurrection]]
+[[Category:Multilingual]]
+[[Category:Teleporters]]
+[[Category:Flight]]
+[[Category:Healers]]
+[[Category:Force Field]]
+[[Category:Telekinesis]]
+[[Category:Astral Projection]]
+[[Category:Illusionists]]
+[[Category:Energy Manipulation]]
+[[Category:Occultism]]
+[[Category:Telepaths]]
+[[Category:Summoning]]
+[[Category:Invisibility]]
+[[Category:Invocations]]
+[[Category:Chronokinesis]]
+[[Category:Photokinesis]]
+[[Category:Electrokinesis]]
+[[Category:Hydrokinesis]]
+[[Category:Pyrokinesis]]
+[[Category:Aerokinesis]]
+[[Category:Geokinesis]]
+[[Category:Cryokinesis]]
+[[Category:Thermokinesis]]
+[[Category:Atmokinesis]]
+[[Category:Precogs]]
+[[Category:Mind Control]]
+[[Category:Nexus Beings]]

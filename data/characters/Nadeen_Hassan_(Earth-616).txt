@@ -1,0 +1,70 @@
+{{Marvel Database:Character Template
+| Image                   = Nadeen Hassan (Earth-616) from Howling Commandos of S.H.I.E.L.D. Vol 1 4 001.jpg
+| Name                    = Nadeen Hassan
+| CurrentAlias            = Glyph
+| Aliases                 = 
+
+| Affiliation             = formerly {{m|Howling Commandos (S.H.I.E.L.D.) (Earth-616)|Howling Commandos}}, {{m|Special Threat Assessment for Known Extranormalities (Earth-616)|S.T.A.K.E.}}, {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}
+| Relatives               = [[Navid Hassan (Earth-616)|Navid Hassan]] (twin brother, deceased)
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Hazel
+| Hair                    = Brown
+| UnusualFeatures         = Piercings
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Adventurer
+| Education               = Freshman college student
+| BaseOfOperations        = 
+
+| Creators                = Frank Barbiere; Brent Schoonover
+| First                   = Howling Commandos of S.H.I.E.L.D. Vol 1 1
+
+| Quotation               = Why do my inner demons have to be '''real'''?
+| Speaker                 = [[Nadeen Hassan (Earth-616)|Nadeen Hassan]]
+| QuoteSource             = Howling Commandos of S.H.I.E.L.D. Vol 1 3
+
+| History                 = Nadeen Hassan was a teenager who had become a beacon that summoned ancient Egyptian spirits.{{r|Howling Commandos of S.H.I.E.L.D. Vol 1 2}} She couldn't control her powers, and accidentally caused the disappearance of a train in the New York Subway.{{r|Howling Commandos of S.H.I.E.L.D. Vol 1 1}}
+
+The [[Howling Commandos (S.H.I.E.L.D.) (Earth-616)|Howling Commandos]] of S.H.I.E.L.D. were sent to investigate, and encountered Nadeen, who warned them of her inability to seize her ability. [[Nina Price (Earth-616)|Vampire by Night]] managed to enter in Nadeen's subconscious and help her get hold of the spirits, vanishing them.
+
+[[File:Nadeen Hassan (Earth-616) from Howling Commandos of S.H.I.E.L.D. Vol 1 2 001.jpg|thumb|left]]
+Nadeen was brought in by [[Timothy Dugan (Earth-616)|Commander Dum-Dum Dugan]] to [[Area 13]] in order to help her control her abilities.{{r|Howling Commandos of S.H.I.E.L.D. Vol 1 2}} While she still grieved for her predicament, Nadeen befriended the other teenager in Area 13, who was imprisoned next to her, [[Jamie Carlson (Earth-616)|Jamie Carlson]], the Teen Abomination.
+
+While she was having a dream about her twin brother [[Navid Hassan (Earth-616)|Navid]], this scenario turned into a nightmare and Nadeen found herself without control of her own body. Navid had possessed her body, in a similar way as he did when Nadeen was in the subway, and stormed Area 13 with Egyptian spirits. After Jamie was forced to knock her down, Nadeen recovered and revealed that when Navid was in her mind, she was able to peek into his, and find out the Howling Commandos were in grave danger.{{r|Howling Commandos of S.H.I.E.L.D. Vol 1 3}}
+
+Due to the chaos she had unwillingly wreaked at the S.T.A.K.E. HQs, Nadeen was imprisoned and tortured in order to learn who did she supposedly work for. After returning from his mission, Dugan was notified of Nadeen's condition and freed her against his superior's will. Dugan welcomed Nadeen as a full-fledged member of the Howling Commandos, and together with the rest of the team, she traveled to New York City to stop the rampage of Navid and his mentor, the [[Anath-Na Mut (Earth-616)|Sphinx]], in Grandview Museum.{{r|Howling Commandos of S.H.I.E.L.D. Vol 1 4}}
+
+During the ensuing fight, Nadeen discovered that her brother had been possessed by the [[Adversary (Earth-616)|Adversary]], who soon started to change Navid's body to his own image. Using the [[Mask of Amenhotep]], the powerful item the Sphinx and Nadeen were trying to acquire, the Commandos cast the Adversary away, but killing Navid in the process. While her brother died, Nadeen was glad she had finally started getting comfortable with her powers, and had found a place in the world with the Howling Commandos.{{r|Howling Commandos of S.H.I.E.L.D. Vol 1 5}}
+
+| Personality             = 
+
+| Powers                  = '''Spirit Conjuration:''' Nadeen has the ability to conjure ancient Egyptian corporeal spirits and make them do her bidding.{{r|Howling Commandos of S.H.I.E.L.D. Vol 1 1}}
+
+'''Super-Strength''' Apparently, as a side effect of her powers, Nadeen gained super-strength, being able to easily dent the wall of a containment cell with a single punch.{{r|Howling Commandos of S.H.I.E.L.D. Vol 1 3}}
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = '''Mental link:''' Nadeen's powers are connected to her twin brother [[Navid Hassan (Earth-616)|Navid Hassan]], who has been able to get inside her mind, possess her body and user her abilities for nefarious ends.{{r|Howling Commandos of S.H.I.E.L.D. Vol 1 3}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Twins]]
+[[Category:Summoning]]
+[[Category:Superhuman Strength]]

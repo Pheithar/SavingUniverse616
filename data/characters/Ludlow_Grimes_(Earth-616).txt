@@ -1,0 +1,53 @@
+{{Marvel Database:Character Template
+| Image                   = Ludlow Grimes (Earth-616) from Web of Spider-Man Vol 1 8 001.png 
+| Name                    = Ludlow Grimes
+| CurrentAlias            = 
+| Aliases                 = The other Smithville Thunderbolt
+
+| Affiliation             = {{M|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}
+| Relatives               = [[Amy Grimes (Earth-616)|Amy Grimes]] (ex-wife), [[Jeff Grimes (Earth-616)|Jeff Grimes]] (son), [[Willy Grimes (Earth-616)|Willy Grimes]] (son)
+| MaritalStatus           = Married
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  =  
+| Eyes                    = 
+| Hair                    = Blond
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] [[Mutate]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = Farmer
+| Education               = 
+| BaseOfOperations        = [[Smithville]], [[Pennsylvania (State)|Pennsylvania]]
+
+| Creators                = David Michelinie; Geof Isherwood
+| First                   = Web of Spider-Man Vol 1 8
+
+| History                 = Ludlow Grimes was happy with his life as a farmer, working by man and horsepower alone, and living in a small house with his wife, Amy, and his two sons by her, Jeff and Willy. Twenty-nine years after the meteorite crashed to earth, Ludlow discovered its second half. His new powers suddenly became apparent when he inadvertently shattered the wall of his house. His wife and kids saw him as some sort of inhuman monster, and Amy immediately insisted that he leave them forever. Ludlow went to see a priest, who branded him as an agent of the devil. Soon after, his former friends were hunting for him, seeking to exorcise his demons...with a touch of the torch.
+
+Ludlow spent lonely months hiding out in  caves and other secluded areas, until he learned of the existence of a man with powers like his, inside the Smithville City limits. However, instead of being demonized, this man was a hero. Ludlow, his mind rattled by his recent trials, decided that he would destroy and replace the Smithville Thunderbolt, so that he, too, would be respected and admired.
+
+Eventually, Ludlow did track down the Smithville Thunderbolt in his apartment, but he was fought off by Spider-Man, who had also tracked him down. Ludlow fled when the police arrived. However, he found the Thunderbolt again when he was trying to trick another reporter, Roxanne DeWinter, into thinking he'd saved her life so she wouldn't expose his true identity. After a brief scuffle with Spidey, Ludlow managed to get his hands on Fred Hopkins, the now powerless Thunderbolt. However, when he saw how frail and terrified Hopkins was, he came to his senses, and realized that the frightened man was just like him.
+
+With no harm done, Ludlow was recruited by an agent of [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]], who offered to help find the cause of his powers, see if they could be removed, and maybe even reunite him with his family.{{r|Web of Spider-Man Vol 1 8|9}}
+
+| Powers                  = Superhuman strength, speed, agility, and endurance
+| Abilities               = 
+| Strength                = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+
+| Trivia                  = 
+| Links                   = 
+* http://www.marvunapp.com/Appendix/smithvtb.htm#Grimes
+}}

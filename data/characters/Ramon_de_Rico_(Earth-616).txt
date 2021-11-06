@@ -1,0 +1,69 @@
+{{Marvel Database:Character Template
+| Image                   = Ramon de Rico (Earth-616) from Official Handbook of the Marvel Universe Vol 2 19 001.jpg
+| Name                    = Ramon de Rico
+| CurrentAlias            = [[El Jaguar]]
+| Aliases                 = [[Jaguar]]
+
+| Affiliation             = {{m|Hydra}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Brown
+| UnusualFeatures         = Dark skin, mustache and goatee, pointed ears
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[South America]]{{r|Official Handbook of the Marvel Universe Vol 1 6}}
+| PlaceOfDeath            = [[Bar with No Name]], [[Medina County]], [[Ohio (State)|Ohio]]
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Terrorist, division chief for [[Hydra (Earth-616)|Hydra]]
+| Education               = 
+| BaseOfOperations        = [[Hydra (Earth-616)|Hydra]] bases
+
+| Creators                = Tony Isabella; Bob Brown; Vince Colletta
+| First                   = Daredevil #120
+| Death                   = Captain America #319
+
+|History                 = El Jaguar's origin, or even his native country, are unknown - although his name and alias suggests some place in Latin America. As of today, the origin of his powers is still unclear.
+
+El Jaguar was the leader of an elite commando unit on Hydra, alternatively known as [[Bravos Commandos]] and [[Commando Division]]. One of those commandos was famous assassin [[Horst Eisele]].{{r|Thunderbolts Vol 1 #0}} El Jaguar and his commandos were loyal to the Supreme Hydra, who was at that time [[Silvio Manfredi (Earth-616)|Silvermane]]. 
+
+Hydra's enemy organization [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] publicly contacted with district attorney [[Franklin Nelson (Earth-616)|Foggy Nelson]] to join its board of directors. Hydra marked Nelson as a target and ordered El Jaguar to murder him. 
+
+El Jaguar and his commandos attacked a New Year's Eve party Nelson was invited to. Nelson's partner Matthew Murdock also was there, along with his girlfriend Natasha Romanoff - who were also known as costumed superheroes [[Matthew Murdock (Earth-616)|Daredevil]] and the [[Black Widow (Natasha Romanoff)]]. Both of them changed to their secret identities and fought the terrorists. 
+
+El Jaguar was more than a match for any of them: He defeated the Black Widow and fought Daredevil to a stalemate. However, the tables turned due to the opportune arrival of S.H.I.E.L.D. agents led by [[Nicholas Fury (Earth-616)|Nick Fury]]. El Jaguar ordered a complete retreat,{{r|Daredevil Vol 1 120}} and went to explain his failure to his leader.{{r|Daredevil Vol 1 121}}
+
+El Jaguar then met with [[Hydra (Earth-616)|Hydra]] agent [[Blackwing]] in a warehouse near the [[Shea Stadium]], laying a trap for S.H.I.E.L.D. Daredevil and the Black Widow tracked them there. The Black Widow, still humiliated for her previous defeat, fought El Jaguar while Daredevil battled Blackwing. El Jaguar was nevertheless too strong and almost defeated the Widow, but she pretended to be unconscious so that he would prepare a coup de grace, and then she surprised him with a point-blank shot; even then, El Jaguar was so strong that he was only knocked down.
+
+However, Blackwing defeated Daredevil{{r|Daredevil Vol 1 122}} and, later, the Widow. Another [[Hydra (Earth-616)|Hydra]] agent, [[Man-Killer]], took unconscious El Jaguar to the Supreme Hydra in a subterranean base under Shea Stadium. El Jaguar remained unconsciousness for a while. 
+
+When he awoke, the heroes had recovered and were launching a counter-attack. S.H.I.E.L.D. had also found them and launched their own commandos. El Jaguar joined Man-Killer and Mentallo to oppose the raiders. El Jaguar tried to fight S.H.I.E.L.D. agent [[Dum Dum Dugan]], but was defeated by being slammed to a wall. Although the Supreme Hydra and Blackwing managed to escape, El Jaguar and the other Hydra agents were arrested by S.H.I.E.L.D.{{r|Daredevil Vol 1 123}}
+
+Years later, El Jaguar was at large. It is unclear if he kept his association with [[Hydra (Earth-616)|Hydra]]. He was contacted by [[Firebrand (Gary Gilbert)|Gary Gilbert]], a former costumed criminal turned into business agent for criminals. Gilbert was worried about the [[Scourge I|Scourge of the Underworld]], a masked figure who was killing costumed criminals such as Gilbert and El Jaguar. Gilbert organized a meeting in the [[Bar with No Name]], [[Medina County]], [[Ohio (State)|Ohio]], to discuss potential counter-attacks. As the Scourge was known to use weapons instead of powers, weapons were to be left at the door. However, the Scourge infiltrated in the meeting disguised as the bartender and shot down all the seventeen criminals (including El Jaguar) wielding a cut-down .50 sub-machine gun in each hand.{{r|Captain America Vol 1 319}}{{r|Captain America Vol 1 320}}
+
+| Powers                  = * Improved agility, speed and strength (peak athlete or higher). Improved endurance, was only knocked down by Black Widow's point-blank shot.
+* Infravision
+| Abilities               = Martial arts and military leadership.
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = Gloves with artificial claws
+
+| Notes                   = 
+| Trivia                  = * El Jaguar's surname has been spelled DeRico and De Rico alternatively. However, his first name has never been spelled Ramón as in traditional Spanish language.
+* El Jaguar intersects words and sentences in Spanish within his lines. However, he is not using correct Spanish: He always uses singular form of determiner "mi" even if it precedes a plural word like "amigos" ("mi amigos"),{{r|Daredevil Vol 1 120}} although any speaker of Spanish would use plural determiner "mis" ("mis amigos").
+| Links                   = 
+}}
+
+[[Jaguar]]
+[[Category:Martial Arts]]

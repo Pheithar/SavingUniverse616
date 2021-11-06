@@ -1,0 +1,58 @@
+{{Marvel Database:Character Template
+| Image                   = Monster Android (Earth-616) from Fantastic Four Vol 1 70 001.png
+| Name                    = Scavenger 
+| CurrentAlias            = Mad Thinker's "Most Powerful" Android
+| Aliases                 = Killer Android, Android Warrior
+
+| Affiliation             = [[Battledroid]];{{r|Amazing Spider-Man Vol 1 242}} [[Mad Thinker (Julius) (Earth-616)|Mad Thinker]]
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = 
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = [[Robots|Robot]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = 
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = [[New York City]]
+
+| Creators                = Stan Lee; Jack Kirby
+| First                   = Fantastic Four Vol 1 #69
+
+| History                 = The Scavenger was created by the [[Mad Thinker (Julius) (Earth-616)|Mad Thinker]].{{r|Fantastic Four Vol 1 70}}
+
+During the encounter with the [[Fantastic Four (Earth-616)|Fantastic Four]], the android fell to the [[Negative Zone]].{{r|Fantastic Four Vol 1 71}}
+
+The android, unable to identify any target, shut down. Annihilus found it, took it and modified it to get a new minion, the Scavenger,{{r|Fantastic Four #183}} which he used against the Fantastic Four several times.{{r|Fantastic Four Annual #6}}
+
+After an event involving Annihilus and the Four,{{r|Fantastic Four #141}} the Scavenger stole Annihilus' cosmic control rod, eager to live. The rod indeed gave him life and power, usurping Annihilus kingdom. Annihilus even allied with the Fantastic Four to repel the creature. The monster was then summoned to Earth by the Mad Thinker but, once there, the monster refused to yield and started a rampage at the Baxter Building. At seeing this, the Thinker escaped. The Fantastic Four defeated the monster by removing the cosmic control rod, but it was stolen from them before they could turn in back to Annihilus.{{r|Fantastic Four #183}}
+
+Somehow recovering the android or replicating it, the Thinker kept the Android on hold in his headquarters. The Thinker then started a plot using [[Anthony Stark (Earth-616)|Iron Man]] as a controlled pawn against [[George Tarleton (Earth-616)|M.O.D.O.K.]], but M.O.D.O.K. unpredictably defeated Iron Man. When M.O.D.O.K. attacked the Thinker's lair using [[M.O.D.O.K.'s Humanoid Body|his humanoid armor]] and with Iron Man in his grasp, the Thinker activated his Android to fight M.O.D.O.K., but M.O.D.O.K. defeated the android. However, during the fight, the Thinker had taken a chance to replace himself and Iron Man with copycat androids.<ref name="IM75">[[Iron Man Vol 1 75|''Iron Man'' #75]]</ref> Later, the Thinker sent the Android again against Iron Man, but Iron Man defeated it with a fast punch before the android could do anything.<ref name="IM77">[[Iron Man Vol 1 77|''Iron Man'' #77]]</ref>
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+
+}}
+[[Category:Silver-Age Characters]]

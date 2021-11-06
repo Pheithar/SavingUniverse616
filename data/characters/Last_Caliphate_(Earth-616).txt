@@ -1,0 +1,41 @@
+{{Marvel Database:Team Template
+| Image                   = Last Caliphate (Earth-616) from S.H.I.E.L.D. Vol 2 4 0001.jpg
+| Name                    = [[Last Caliphate]]
+| EditorialNames          = 
+| Aliases                 = 
+
+| Status                  = Active
+| Identity                = Secret
+| Reality                 = Earth-616
+| BaseOfOperations        = [[Immortal City]], [[Rome (Italy)|Rome]], [[Italy]]; formerly [[Iraq]]
+
+| Leaders                 = 
+| CurrentMembers          = [[Hasan Ibn al-Haytham (Earth-616)|Hasan Ibn al-Haytham]], [[Hamza Ibn al-Haytham (Earth-616)|Hamza Ibn al-Haytham]], [[Haider Ibn al-Haytham (Earth-616)|Haider Ibn al-Haytham]]
+| FormerMembers           = 
+| Allies                  = [[Brotherhood of the Shield (Earth-616)|Brotherhood of the Shield]], [[Michelangelo Simoni (Earth-616)|Forever Man]], [[Leonardo da Vinci (Earth-616)|Leonardo da Vinci]], [[Nathaniel Richards (Earth-616)|Nathaniel Richards]], [[Howard Stark (Earth-616)|Howard Stark]]
+| Enemies                 = [[Isaac Newton (Earth-616)|Isaac Newton]], [[Star Child (Earth-616)|Star Child]]
+
+| Origin                  = 
+| PlaceOfFormation        = 
+| PlaceOfDefunction       = 
+| Creators                = Jonathan Hickman; Dustin Weaver
+| First                   = S.H.I.E.L.D. Vol 1 4
+
+| HistoryText             = In the visions of [[Michel de Nostredame (Earth-616)|Nostradamus]], he sees the three members of the Last Caliphate resting in the capsules.{{r|S.H.I.E.L.D. Vol 1 4}}
+
+In the mountains in Iraq, [[Nikola Tesla (Earth-616)|Nikola Tesla]] finds the three capsules where the three members of the Last Caliphate rest; he tells Mina, calling them those who mark the way and who are slowly waking up from a sleep of centuries.{{r|S.H.I.E.L.D.: Infinity Vol 1 1}}
+
+The three are awakened by Nikola Tesla, [[Howard Stark (Earth-616)|Howard Stark]] and [[Nathaniel Richards (Earth-616)|Nathaniel Richards]]. Everyone went to the [[Immortal City]] and announced to [[Michelangelo Simoni (Earth-616)|Michelangelo]] that they will travel to the end of human history not knowing whether to save the world or see it burn. Nikola Tesla tells his son [[Leonid (Earth-616)|Leonid]] that the three represent the branches of time, what is, what has been before and what will be., Then embarking all on the [[Human Machine]] they went into the future facing three scenarios where they would always clash with [[Isaac Newton (Earth-616)|Isaac Newton]].{{r|S.H.I.E.L.D. Vol 2 4}}
+
+In all three scenarios, the three brothers perished in the fight with Newton and the [[Star Child (Earth-616)|Star Child]].{{r|S.H.I.E.L.D. by Hickman & Weaver Vol 1 5}}
+
+Leonid using the Human Machine with his powers defeated Newton and restored reality by bringing the three brothers of the Last Caliphate back to life.{{r|S.H.I.E.L.D. by Hickman & Weaver Vol 1 6}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

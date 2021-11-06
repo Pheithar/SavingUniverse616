@@ -1,0 +1,61 @@
+{{Marvel Database:Character Template
+| Image                   = Sal Kennedy (Earth-616) from All-New Iron Manual Vol 1 1 0001.jpg
+| Name                    = Sal Kennedy
+| CurrentAlias            = Dr. Sal Kennedy
+| Aliases                 = 
+
+| Affiliation             = {{M|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}
+| Relatives               = 
+| MaritalStatus           = Single 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 5'11"
+| Weight                  = 235 lbs
+| Eyes                    = Blue
+| Hair                    = White
+| UnusualFeatures         = Long Hair and Grey beard
+
+| Origin                  = Scientist and colleague of Tony Stark 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Philosopher
+| Education               = Ph.D. in ethnobotany, advanced degree in information technology
+| BaseOfOperations        = [[Helicarrier]]
+
+| Creators                = Warren Ellis; Adi Granov
+| First                   = Iron Man Vol 4 #2
+| Death                   = Invincible Iron Man Vol 1 #18
+
+| History                 = 
+
+Dr. Sal Kennedy is a longtime friend of [[Anthony Stark (Earth-616)|Tony Stark]] and  Dr. [[Maya Hansen (Earth-616)|Maya Hansen]]. The trio met at an emergent technology conference when Tony was in his early twenties.
+
+Sal Kennedy is often sought out by Tony aka Iron Man for advice and guidance, aiding him through several crises. Sal eventually takes a position working for S.H.I.E.L.D. which at the time was under the leadership of Tony, despite his more hippy attitude toward such organizations. 
+
+Sal was killed when the S.H.I.E.L.D. [[Helicarrier]] came under attack by a genetically engineered neoplastic tumor. The attack that killed Sal was later revealed to have been arranged by the [[Mandarin (Earth-616)|Mandarin]]. 
+
+| Powers                  = Sal Kennedy is a normal human with no powers.
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Deceased Characters]]
+[[Category:Geneticists]]
+[[Category:Engineers]]
+[[Category:Inventors]]

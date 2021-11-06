@@ -1,0 +1,34 @@
+{{Marvel Database:Team Template
+| Image                   = Road Force (Earth-616) from Harley-Davidson Avengers Vol 1 2 001.jpg
+| Name                    = Road Force
+| Aliases                 = 
+
+| Status                  = Active
+| Identity                = Public
+
+| Reality                 = Earth-616
+| BaseOfOperations        = [[Area 51]]
+
+| Leaders                 = [[Highway Bandit (Earth-616)|Highway Bandit]]; Formerly [[Shadow (Road Force) (Earth-616)|Shadow]]
+| CurrentMembers          = [[Widowmaker (Shaun) (Earth-616)|Widowmaker]], [[Polar Storm (Earth-616)|Polar Storm]], [[Netster (Earth-616)|Netster]], [[Comet Woman (Earth-616)|Comet Woman]], [[Highway Bandit (Earth-616)|Highway Bandit]]
+| FormerMembers           = [[Raul Hernandez (Earth-616)|Crosshairs]], [[Tyrone Wagner (Earth-616)|Doc]], [[Kate Ashford (Earth-616)|Napalm]], [[Shadow (Road Force) (Earth-616)|Shadow]], [[Peter Drake (Earth-616)|Sonic Storm]]
+| Allies                  = [[Starcorps (Earth-616)|Starcorps]], [[Reconnaissance and Demolition Division (Earth-616)|R.A.D.D.]], [[Avengers (Earth-616)|Avengers]], [[Tim Mohr (Earth-616)|Agent 1]]
+| Enemies                 = [[Helmut Zemo (Earth-616)|Baron Zemo]], [[Masters of Evil (Earth-616)|Masters of Evil]], [[Wrecking Crew (Earth-616)|Wrecking Crew]]
+
+| Origin                  = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Jeff Parker; Manuel Garcia
+| First                   = Harley-Davidson / Avengers Vol 1 1 
+| Last                    = 
+
+| HistoryText             = The Road Force is a [[United States Army (Earth-616)|United States Military]] squad based out of [[Area 51]] that fights crime using specialized Harley-Davidson motorcycles.{{r|Thor / Road Force Vol 1 1|2}}
+
+| Equipment               = 
+| Transportation          = Motorcycles
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

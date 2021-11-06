@@ -1,0 +1,173 @@
+{{MessageBox
+| Message = This page is about the Kree as a species. For the Kree as a group, please refer to the [[Kree Empire]] and the [[Kree Imperium]] pages.
+}}
+{{Marvel Database:Race Template
+| Image                   = Kree Empire from Annihilation Ronan Vol 1 1 001.jpg
+| Name                    = Kree
+| Aliases                 = "Blue Angels",{{r|Marvel's Agents of S.H.I.E.L.D. Season 2 12}} "Kreepers"{{r|Marvel's Agents of S.H.I.E.L.D. Season 5 1}} ([[Earth-199999]])
+| Identity                = Public
+| Affiliation             = Mostly the [[Kree Empire]], [[Kree Imperium]], and the [[Kree/Skrull Alliance (Earth-616)|Alliance]] 
+| Universe                = 
+| BaseOfOperations        = [[Kree Empire]], [[Kree-Lar (Planet)|Kree-Lar]]; formerly the [[Blue Area of the Moon]]{{r|Avengers #133}}
+
+| BodyType                = Humanoid
+| AvgHeight               = 5'9" (Around the same as humans)
+| AvgWeight               = Same as humans
+| Eyes                    = 
+| Hair                    = Variable
+| Skin                    = Blue
+| Skin2                   = Pink
+| NumberOfLimbs           = 4
+| NumberOfFingers         = 5
+| NumberOfToes            = 5
+| SpecialAdaptations      = Kree cannot breathe on Earth without special apparatus. Adaptation to Hala's powerful gravitational pull and high nitrogen content in the atmosphere has left the Kree with dense bodies that afford them superhuman strength and endurance. Some Kree females can physically manipulate the desires, or even the siphon the life forces, of males.
+| AvgLifespan             = 
+
+| Origin                  = Alien species with Inhuman decent of [[Hala (Planet)|Hala]].{{r|Royals Vol 1 #7|8}}
+| GalaxyOfOrigin          = Large Magellanic Cloud
+| StarSystemOfOrigin      = Pama
+| HomePlanet              = [[Hala (Planet)|Hala]]
+| PlaceOfBirth            = 
+| Creators                = Stan Lee; Jack Kirby
+| First                   = Fantastic Four #65
+
+| Overview                =The '''Kree''' are a blue-skinned humanoid race of extraterrestrial beings that hail from the planet [[Hala (Planet)|Hala]], in the [[Pama]] System located in the large [[Large Magellanic Cloud]]. They are technologically advanced and extremely militaristic, conquering every world in their galaxy; forming the [[Kree Empire]].
+
+| Quotation               = We must begin '''again,''' as we did on the '''[[Luna (Moon)|moon]],''' to '''master''' what is now ours--so that '''someday''' we can destroy '''all''' the Kraven [[Deviant Skrulls|Skrulls]] and reign as undisputed masters of the '''stars!''' It is a '''great task''' for a '''great people!'''
+| Speaker                 = [[Morag (Earth-616)|Morag]]
+| QuoteSource             = Avengers Vol 1 133
+
+| HistoryText             = 
+===Pre-history===
+====The Xorrians====
+Over six million years ago, the [[Xorrians]] allegedly spawned the [[Kree]] (along with all humanoid life-forms, such as [[Skrulls]] and [[Humans]]) from their own DNA.{{r|Thor #215}}
+
+====The Celestials and the Progenitors====
+Two distinct groups of giant godlike aliens experimented on the early Kree:
+* The [[Progenitors]] experimented on prehistoric Kree,{{r|Royals #9}} engineering them by using the [[Primagen]] (or Prima Materia).{{r|Royals #5}} Their attempt at turning them into new beings,{{r|Royals #9}} resulted in the very first race of Inhumans.{{r|Royals #7|8}}
+* The [[Celestials (Race)|Celestials]] experimented on ancient Kree, creating the [[Kree Eternals]] and the [[Kree Deviants]].{{r|All-New Official Handbook of the Marvel Universe A to Z #6}}
+
+====The Skrulls====
+{{MessageBox
+| Message = For the full presentation of this race, please consult the '''[[Skrull Empire]]''' page.
+}}
+A million years ago,{{r|All-New Official Handbook of the Marvel Universe A to Z #6}} a race of humanoid reptiles called the [[Deviant Skrulls|Skrulls]] came upon prehistoric [[Hala (Planet)|Hala]]. At that time the Skrulls were a largely peaceful space-faring race, and they set about educating the natives to the point where they could join their trading empire. However, Hala was home to two equally intelligent races, the Kree and the [[Cotati]].{{r|Avengers #133}}
+
+The Skrulls proposed a test to determine the worthier race between the Kree and the Cotati. Taking members of both races to a distant planetoid in another galaxy, the [[Blue Area of the Moon|Blue Area]] of the [[Earth]]'s [[Luna (Moon)|Moon]], the Skrulls created an arena and bid the two races to use the resources they had to create something of worth. The Skrulls then left. The Kree constructed a magnificent city known as the [[Blue City]], while the Cotati created a beautiful garden.{{r|Avengers #133}}
+
+A year later the Skrulls returned to judge the two races and found the Cotati's accomplishment the worthier. Enraged, the Kree killed the Skrulls and the Cotati and seized the Skrulls' star-ship. They used the ship to return to their native planet, then set about deciphering the technology of the star-ship.{{r|Avengers #133}} The Kree eventually spread throughout the galaxy, establishing a vast [[Kree Empire|empire]], and the subsequent encounters with the Skrulls led to the [[Kree-Skrull War]].{{r|Avengers #133|134}}
+
+<!-- ===Evolution=== (not accurate enough?)
+ -->Interbreeding with various other races led to the creation of a second race of Kree with pink skin. The Pink Kree would eventually come to outnumber the Blue Kree.{{r|Captain Marvel #38}}
+
+At some point, allegedly due to a Kree trying to acquire the [[Crystal of Ultimate Vision]] without denying the temptation of its powers,{{r|X-Men Annual Vol 1 11}} the Kree were cursed with evolutionary stagnation.{{r|Royals #5}}
+
+==Biology==
+===Physiology===
+Outwardly the Kree resemble humans, with little exception through skin color or modified genetics. Denser skin with increase muscles flexibility gives the Kree endurance, durability, and stamina twice the level of humans. They also have "duplicates" of several internal organs,{{r|Marvel Fact Files #6}} and usually require more nitrogen to breathe comfortably on earth.{{r|What If? #17}}
+
+Kree physiology originally developed through heavier gravity, higher nitrogen-to-oxygen air content, and a form of dependency centered around the [[Cotati]].{{r|All-New Official Handbook of the Marvel Universe A to Z #6}}<!-- (a highly intelligent and extremely mature species of telepaths in-tune with nature). Though as intelligent the Kree's were ignorant eventually ignoring nature, forging towards technology advancement then millennia of War.{{citation}} -->
+
+===Evolution and Mutation===
+The Kree were an evolutionarily stagnant race. This was due to a single member of the Kree race attempting to gain control of the Crystal of Ultimate Vision. This unnamed Kree found the crystal, but attempted to use it to become akin to a god, with powers as of those of the [[Phoenix Force (Earth-616)|Phoenix Force]]. As punishment, the crystal "genetically froze their evolution in place" allowing the rest of creation to pass them by.{{r|X-Men Annual Vol 1 11}}
+
+Although, it was stated that the Kree produced super humanoid beings through natural mutation.{{r|Official Handbook of the Marvel Universe Master Edition #32}}
+
+The explosion of the first Nega-Bomb in the [[Kree Empire]] had the survivors' genetic structures to quickly mutate and adapt to the radiation, allowing the Kree to escape their evolutionary dead end by changing their DNA and allegedly granting them unlimited potential.{{r|Avengers #347}}
+
+Somehow, a group of pink-skinned Kree managed to produce a mutant Kree, [[Tsu-Zana (Earth-616)|Tsu-Zana]], in order to overthrow the domination of both [[Shi'ar (Race)|Shi'ar]] and blue-skinned Kree, as their savior. She rejected that destiny and is still residing on Earth under the codename '''Ultra-Girl'''.{{r|Ultragirl #2}}
+
+A radioactive property of the [[Fault]] (possibly the [[Many-Angled Ones]]) caused spontaneous mutations among Kree (yet sparing [[Inhumans (Inhomo supremis)|Inhumans]]) to mutate and eventually merge into a monstrous organism.{{r|Realm of Kings: Inhumans #5}}
+
+===Hybrids===
+====Humans and Eternals====
+The Kree have shown to be reproductive via cross-breeding with humans [[Homo sapiens|normals]] and [[Eternals (Race)|Eternals]].<br>
+* ''[[:Category:Human/Kree Hybrids|List of Kree hybrids with species of humanity]]''.
+
+[[Cal'syee Neramani (Earth-616)|Deathbird]]'s and [[Gabriel Summers (Earth-616)|Vulcan]]'s [[Deathbird's Child (Earth-616)|child]] was infused with Kree genes.{{r|X-Men Vol 4 19}}{{Verify source}}
+
+====Skrulls====
+[[Theodore Altman (Earth-616)|Hulkling]] is also a [[Deviant Skrulls|Skrull]]-Kree hybrid, conceived via natural ways.{{r|Young Avengers #10|12}}
+
+===Diseases and Genetic Conditions===
+The Kree are vulnerable to many fatal diseases, among them [[Blackgorge]], [[Betath's Plague]], the [[Wasting]].{{r|Untold Legend of Captain Marvel #1}}
+
+They are also afflicted by cancer, which they call blackend.{{r|Death of Captain Marvel #1}}
+
+A Kree woman, [[Una-Rogg (Earth-616)|Una-Rogg]] claimed that most female Kree possess an inherent ability to manipulate the wills of men and that 'maybe one in a hundred thousand' will also be able to drain life force from them,{{r|Captain Marvel Vol 4 13}} because of this male Kree 'fear' them and all female Kree undergo a painful procedure when they are young which interferes with their ability to 'give and receive pleasure' also referred to as 'neutering' their 'pleasure centers',{{r|Captain Marvel Vol 4 23}} this procedure is contextually hinted at being synonymous with female genital mutilation.{{r|Captain Marvel Vol 4 13}} It is also referred to 'psychological mutilation'.{{r|Captain Marvel Vol 4 15}}
+
+If a Kree woman with these powers does not undergo this procedure then like Una-Rogg they develop the ability to drain the life force from men as well as their manipulation ability, when Una-Rogg described this ability she said she could 'get a man to love me so much that I drained him of his essence'{{r|Captain Marvel Vol 4 23}} if they undergo the procedure while young then they lose the manipulation ability and will not develop the life draining one, if performed as an adult then they lose both powers. A group of Kree called the [[Kree Bloodhounds (Earth-616)|Kree Bloodhounds]] patrol any world where Kree females are present to hunt down any who have not undergone the procedure, if a Kree female's blood is spilled they can quickly find her and take her to undergo the procedure.{{r|Captain Marvel Vol 4 13}}
+
+This procedure must be performed in stages in an adult to avoid 'frying' their brain, the first stage removes the power to drain a man's life force and the second prevents them from being sexually dominating and enjoying pleasure.{{r|Captain Marvel Vol 4 23}}
+
+On [[Earth-9591]], [[Mar-Vell (Earth-9591)|Mar-Vell]] and his Kree contingent were irradiated by a nuke. Mar-Vell subsequently developed a mutant cataract.{{r|Ruins #1}}
+
+==Classification==
+===Blue-skinned===
+The blue-skinned Kree, who often refer to themselves as Blue Kree, know that they are the original Kree species but, over the course of centuries, they have become a minority in the Kree Empire.{{r|Captain Marvel #16}}
+
+===Pink-skinned===
+The Blue Kree believe that the "pink-skinned" Kree (commonly known as "Pinks") who are similar in appearance to Caucasian humans are the result of breeding with members of other, genetically-compatible humanoid races who were conquered by the empire. Over time, the numbers of the Pink Kree have increased so that (relatively) few "full-blooded" Blue Kree remain.{{r|Captain Marvel Vol 1 38}} A few [[Inhumans (Inhomo supremis)|Inhumans]] have learned that the alien Progenitors used a catalyst called Primagen to engineer the Kree{{r|Royals Vol 1 5}} but it is not known who (if any) are aware that the pink-skinned Kree were created as a result of those ancient experiments.{{r|History of the Marvel Universe Vol 2 1}}
+
+<!-- ===Dark-skinned -->
+However, the Kree known as [[Mon-Tog (Earth-616)|Mon-Tog]] possessed much darker skin resembling an African Human.{{r|Inhumans #10}} He is the only case of dark-skinned Kree, and there is seemingly no real explanation.
+
+===Ruul===
+The Supreme Intelligence arranged for further advancement of the Kree. Through a series of events, he arranged for a large number of his people to be irradiated with a Nega-Bomb (killing 90% of the Kree), and then artificially sped up their evolution by means of an artifact called the [[Forever Crystal]],{{r|Avengers #347}}{{r|Avengers Forever #12}} affecting countless millennia of evolution in mere moments.{{r|Avengers Vol 3 35}}
+
+This new brand of evolved Kree, called Ruul, have a grayish skin tone and many shoulder-length tentacles atop their heads. Individuals possessed the power of "forced evolution", the ability to "will" adaptation to different environments, spontaneously developing the ability to breathe underwater, fly, or whatever their circumstances require.{{r|Maximum Security #1|3}}{{r|Avengers Vol 3 35}} Male Ruul were capable of experiencing physical pleasure but it had been removed from the women at a genetic level, meaning they were incapable of enjoying pleasure but didn't care as they were unaware that they were missing anything.{{r|Captain Marvel Vol 4 23}} At one point it was claimed their were at least a billion Ruul.{{r|Captain Marvel Vol 4 25}}
+
+===Eternals and Deviants===
+The [[Celestials (Race)|Celestials]] have at some point, as many others species visited and modified the ancient Kree genetics. The last and only known [[Kree Eternal]] is [[Ard-Con (Earth-616)|Ard-Con]], alias Ultimus the Demon-Druid. The fate of the [[Kree Deviants]] is unknown.{{r|All-New Official Handbook of the Marvel Universe A to Z #6}}
+
+===Mutants===
+There have been a few occasions where the Kree developed some mutant individuals, despite not being able to evolve. One case was [[Tsu-Zana (Earth-616)|Ultragirl]] who was classified as a "[[V-Factor Mutant]]".{{r|Ultragirl Vol 1 1}} However, it could also be that her mutant status comes from her Human DNA.{{r|Fear Itself: Youth in Revolt #6}} [[Eighty-Five (Earth-691)|Eighty-Five]] of [[Earth-691]] was described as a Mutant Kree.{{r|Guardians of the Galaxy #8}}
+
+==[[Multiverse|Alternate Realities]]==
+Please find the alternate realities Kree on [[Kree/Alternate Realities|this page]].
+
+| Habitat                 = Kree-Lar, Turunal system, Large Magellanic Cloud
+| Gravity                 =
+| Atmosphere              =
+| Population              = 30 billion (prior to Nega-Bomb detonation); currently 300 million.
+
+| Powers                  = '''Superhuman Strength:''' A Kree warrior has twice the strength of a human of a similar age, height, and build.
+
+'''Superhuman Durability:''' The Kree are very durable, while not bulletproof they are still fully capable of effortlessly shrugging off hits from beings as powerful as Captain America and are presumed to be capable of surviving much stronger hits.
+
+'''Superhuman Endurance:''' A Kree warrior has twice the endurance of a human with similar training.
+
+'''Superhuman Stamina:''' A Kree warrior has twice the stamina of a human with similar training.
+
+'''"Seventh Sense:"''' Kree women possess the potential for psychic abilities of various kinds, collectively referred to as a "seventh sense". This psychic potential has manifested as clairvoyance, precognition, or even lethal attributes. Some Kree women can reach into the mind of male-sex species to manipulate their desires or drain another's life force completely. Kree technology has since been created to discover and remove the powers surgically, and technorganic [[Kree Bloodhounds (Earth-616)|Bloodhounds]] were used to track down female reaching the adult age with those abilities.{{r|Captain Marvel Vol 4 #12|13}}
+
+| Abilities               = None Known
+
+| AvgStrength             = Their denser bodies afford them about twice the average human being’s strength and endurance.
+| Weaknesses              = '''Breathing Problem:''' the Kree require a breathing formula in order to breathe without problems in planets like [[Earth]].{{r|Marvel Super-Heroes #12}}
+
+'''[[Super-Soldier Serum]]:''' The Human's Super-Soldier Formula has a corrosive effect on the Kree.{{r|Captain America Vol 1 704}}
+| GovernmentType          = Military-Technocratic Dictatorship Empire. Formerly governed by the [[Shi'ar Empire]].
+| TechnologyLevel         = Advanced: Advanced warp-drive starships, robots, cyborg, and cybernetic technology, genetic engineering, psionic technology, energy weaponry, and [[Kree Uniform|battlesuits]].
+
+| CulturalTraits          = Please consult the [[Kree Empire]] page.
+| Representatives         = [[Supremor (Earth-616)|Supreme Intelligence]], [[Ronan (Earth-616)|Ronan the Accuser]], [[Mar-Vell (Earth-616)|Captain Marvel]], ''[[:Category:Kree|List of known Kree]]''
+
+| Notes                   = 
+* Despite the existence of both [[Kree Eternals]] and [[Kree Deviants]] created by the [[Celestials (Race)|Celestials]],{{r|All-New Official Handbook of the Marvel Universe A to Z #6}} and the similar experiments which were performed on the Kree as those performed on the [[Skrulls]], [[humans]], and [[Eyungs]],{{r|All-New Official Handbook of the Marvel Universe A to Z #2|; [[Celestials (Race)|Celestials]]'s entry}} the Kree themselves have not been explicitly stated to be granted a latent potential like [[:Category:Normals|other species]].
+* Kree soldiers appeared during [[Avengers Disassembled]] when they attacked the [[Earth]] and were driven off by the Avengers. In the process, [[Clinton Barton (Earth-616)|Hawkeye]] was killed. But this may not have been the real Kree, as the entire incident was later discovered to be a product of the Scarlet Witch's reality-altering powers.
+* According to [[Noh-Varr (Earth-200080)|Noh-Varr]] "exploring" (in multiple meanings) is part of the Kree cycle.{{r|Young Avengers Vol 2 15}} It is unknown if this true for the mainstream Kree or exclusive to [[Earth-200080|his universe]].
+| Trivia                  =  * Some Kree names are references to the comic book industry: [[Mar-Vell (Earth-616)|Mar-Vell]] is named after [[Marvel Comics]], [[Att-Lass (Earth-616)|Att-Lass]] is named after [[Atlas Comics]], [[Dea-Sea (Earth-616)|Dea-Sea]] is named after [[DC Universe|DC Comics]], [[Star-Lyn (Earth-616)|Star-Lyn]] is named after [[Jim Starlin]].
+* There is a possibility that the Kree might have been based on the civilization of the island of [[wikipedia:Crete|Crete]]. It is also speculated that Crete might have been the basis for the legend of Atlantis which could have been the inspiration for the Inhumans' city of [[Attilan]].{{r|{{cite web|url=https://m.youtube.com/watch?v=2ZKcMQFjErk|title=Jack Kirby's Evolution - Comic Tropes (Episode 68)|author=Comic Tropes|work=YouTube|date=August 27, 2017|accessdate=June 12 2020}}}}
+* The reason why most Kree possess blue skin could be because high amounts of nitrogen deprive the body of oxygen and turn the skin blue-gray.<ref>[https://www.poison.org/articles/causes-and-symptoms-of-nitrate-nitrite-poisoning-174# Nitrate and Nitrite Poisoning Why so blue?]</ref>
+| Links                   = * [[Wikipedia:Kree|Kree at Wikipedia.org]]  
+}}
+[[it:Kree]]
+[[Category:Races with Pink Skin]]
+[[Category:Kree]]
+[[Category:Species Manipulated by Celestials]]
+[[Category:Normals]]
+[[Category:Evolution-Ended Species]]
+[[Category:Kree Empire Races]]
+[[Category:Skrull Empire Races]]
+[[Category:Shi'ar Empire Races]]

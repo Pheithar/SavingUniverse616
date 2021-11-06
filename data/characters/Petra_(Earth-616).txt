@@ -1,0 +1,80 @@
+{{Marvel Database:Character Template
+| Image                   = Petra (Earth-616) from X-Men Vol 5 10 cover 001.jpg
+| Name                    = Petra
+| Name2                   = (full name unrevealed)
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{M|X-Men}}
+| Relatives               = Unidentified parents & older brother (deceased), unidentified foster parents
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 5'10"
+| Weight                  = 143 lbs.
+| Eyes                    = Blue
+| Hair                    = Blonde
+| UnusualFeatures         =
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = Newark, [[New Jersey (State)|New Jersey]]
+
+| Identity                = Secret
+| Citizenship             = American, Danish, Krakoan
+| Citizenship2            = 
+| Occupation              = Adventurer; former student
+| Education               = Muir-MacTaggert Research & Development Institute, [[New York]]; some high school (incomplete)
+| BaseOfOperations        = [[Krakoa (Earth-616)|Krakoa]], [[Pacific Ocean]]; formerly [[Muir Island]], [[Scotland]]; MacTaggert Research Center, [[New York]]
+
+| Creators                = Ed Brubaker; Trevor Hairsine
+| First                   = X-Men: Deadly Genesis #1
+
+| History                 = 
+Petra was the first of her family to be born in the [[United States]]. Her parents and older brother immigrated from [[Denmark]] while her mother was pregnant. Soon after her thirteenth birthday, a mysterious rock slide suddenly occurred, killing all except for Petra, who didn't have even a scratch. Just before the accident, she had experienced a strange feeling while staring at the jagged rock that had killed her brother.{{r|X-Men: Deadly Genesis #1}}
+
+She was then placed in a crowded foster home in [[New Jersey (State)|New Jersey]]. She was afraid of her foster father, who seemed to stare at her. One day while they were vacationing at NYC's Central Park, he attempted to molest her, only to find that the ground was suddenly swallowing him up. Petra was terrified as the man called her a 'freak', 'one of those mutants'.{{r|X-Men: Deadly Genesis #1}}
+
+Not wanting to be placed in another home, Petra became a runaway. She manipulated nearby caves to provide her with a safe and secure hiding place. To survive, she panhandled and occasionally stole, but stayed away from drugs and prostitution. She avoided others whenever possible, unsure what they would do if they would find out she was a mutant. Often she wondered if she was responsible for her family's death--either causing it or not using her powers effectively enough to save them.{{r|X-Men: Deadly Genesis #1}}
+
+Around the age of 16, Petra learned she could turn coals into diamonds. Soon, she found a pawnbroker that would take them and then rented a motel room, happy to shower and sleep in a real bed for the first time in years.[[File:Petra (Earth-616) from X-Men Deadly Genesis Vol 1 6 0001.jpg|thumb|200px|left|Petra's death]] She used the subway to get around [[New York City]]. She had even heard stories about mutant hate crimes on television, and seen [[Sentinels]] flying on occasion. She kept the diamonds small so as to not draw suspicion. However, one day the clerk made an excuse about needing to call the owner and she fled. She was eventually caught by the police, who had to taser her after she began using her powers.{{r|X-Men: Deadly Genesis #1}}
+
+She awoke in a holding cell. A woman led her to get showered and dressed, explaining she had a visitor who had managed to get the charges against her dropped and the authorities would release her to their care. The person dealt with young people that had 'gifts' like hers. The visitor turned out to be [[Moira MacTaggert (Earth-TRN748)|Moira MacTaggert]].{{r|X-Men: Deadly Genesis #1}}
+
+After some time with Dr. MacTaggert, her friend [[Charles Xavier (Earth-616)|Professor Charles Xavier]] took Petra and the other children within the doctor's custody: [[Suzanne Chan (Earth-616)|Sway]], [[Armando Muñoz (Earth-616)|Darwin]], and [[Gabriel Summers (Earth-616)|Vulcan]]. He sent them to rescue the original team of [[X-Men (Earth-616)|X-Men]] trapped on the mutant island [[Krakoa (Earth-616)|Krakoa]]. After she instinctively used her mental powers to bury Vulcan and Darwin, she and Sway became incinerated by the volcano creature. Petra's actions helped save her two friends.{{r|X-Men: Deadly Genesis #4|6}}
+
+===Resurrection===
+
+Petra was resurrected thanks to the [[Five (Earth-616)|Five]], and joined the new mutant nation of Krakoa. She was seen at the [[Summer House]] hanging out with her old team mates Sway and Vulcan.{{r|X-Men Vol 5 8}} Petra later joined the newly reformed X-Men in [[Otherworld]] defending Krakoa from the hoards of [[Amenth]].{{r|X of Swords: Destruction Vol 1 1}}
+
+| Powers                  = 
+[[File:Petra (Earth-616) from X-Men Deadly Genesis Vol 1 4 0002.png|thumb]]
+'''Geokinesis''': A geo-morph, Petra could psychokinetically manipulate different types of earth (rocks, sand, stone, lava, and dirt) for various purposes. These included:
+*'''''Constructs''''': Reshaping rock into different forms, such as weapons like hammers, maces, blades, barriers, shields, giants hands, etc. She usually fired the weapons at opponents from a distance.
+*'''''Earthquakes''''': Creating and stopping earthquakes and rockslides.
+*'''''Earth Conversion''''': Altering its state (transforming coal into diamond, sand into glass, etc).
+*'''''Flight''''': Flying by projecting a lump of earth beneath her and telekinetically surfing through the air.
+*'''''Consistency Manipulation''''': Changing its consistency by making the earth component wiggly or firm, soft or hard, smooth or rough, etc.
+*'''''Trapping''''': Trapping her targets by making holes or binding them.
+*'''''Dust-Cloud''''': Creating clouds of dirt to escape a tight spot.
+
+| Abilities               =
+| Strength                = Normal Average Human 
+| Weaknesses              =
+
+| Equipment               =
+| Transportation          =
+| Weapons                 =
+
+| Notes                   = * ''Petra'' means rock in Greek.
+
+| Trivia                  =
+| Links                   =* [http://uncannyxmen.net/characters/petra uncannyxmen.net Character Profiles: Petra]
+}}
+[[Category:Geokinesis]]
+[[Category:Telekinesis]]
+[[Category:Geo-Thermokinesis]]
+[[Category:Flight]]
+[[Category:Elementals]]
+[[Category:Formerly Deceased]]

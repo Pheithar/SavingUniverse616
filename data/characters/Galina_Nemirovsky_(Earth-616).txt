@@ -1,0 +1,55 @@
+{{Marvel Database:Character Template
+| Image                   = Galina Nemirovsky (Earth-616) from Invincible Iron Man Vol 1 516.JPG
+| Name                    = [[Galina Nemirovsky]]
+| CurrentAlias            = Crimson Dynamo
+| Aliases                 = Ultra-Dynamo, Federal Dynamo
+
+| Affiliation             = [[Red Guardian (Anton) (Earth-616)|Anton]]; formerly minion of the [[Mandarin (Earth-616)|Mandarin]], {{m|Winter Guard}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = Armor-wearing [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = Russian
+| Occupation              = Government agent
+| Education               = Federal Dynamo Program
+| BaseOfOperations        = Unknown; formerly [[Troy (Mandarin City)|Mandarin City]], the Remains of the Citadel
+
+| Creators                = Steve Ellis; David Gallaher
+| First                   = Hulk: Winter Guard #1
+
+| History                 = 
+[[File:Galina Nemirovsky (Earth-616) from Hulk Winter Guard Vol 1 1 0001.jpg|thumb|left|Without armor]]
+'''Galina Nemirovskaya''' (Russian: '''Галина Немировска''') is a top graduate of the Federal Dynamo program. Served briefly as the Crimson Dynamo before getting fired for insubordination. Out of a sense of revenge, she salvaged the remains of the Citadel and took over the identity of the Ultra-Dynamo.{{Citation}}
+
+Nemirovsky was employed by [[Mandarin (Earth-616)|Mandarin]], who gave her a new Crimson Dynamo armor, as part of his planned vengeance on his old nemesis [[Anthony Stark (Earth-616)|Iron Man]]. During this time she worked alongside numerous other foes of Iron Man.{{Citation}}
+
+| Powers                  = None
+| Abilities               = A background in science, history, and warfare. Considered to have been one of the best Crimson Dynamo pilots. 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = [[Dire Wraiths|Dire Wraith]] powered [[Ultra-Dynamo Armor]], equipped with an advanced targeting array. 
+| Transportation          = 
+| Weapons                 = Various weapons systems inside her armor
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Armor Users]]
+[[Category:Flight]]
+[[Category:Concussive Blasts]]

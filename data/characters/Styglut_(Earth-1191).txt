@@ -1,0 +1,50 @@
+{{Marvel Database:Character Template
+| Image                   = Styglut (Earth-1191) from Uncanny X-Men Vol 1 288.png
+| Name                    = Styglut 
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-1191
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = 
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Jim Lee; Scott Lobdell; John Romita Jr.
+| First                   = Uncanny X-Men #287
+| Death                   = Uncanny X-Men #288
+
+| History                 = Styglut was a villain from [[Lucas Bishop (Earth-1191)|Bishop]]'s universe and was later killed by him.
+
+| Powers                  = Syglut had the power to absorb life energy and channel it into blasts of destructive force.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

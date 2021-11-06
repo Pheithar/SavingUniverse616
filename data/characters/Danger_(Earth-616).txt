@@ -1,0 +1,121 @@
+{{Marvel Database:Character Template
+| Title                   = [[Danger]]
+
+| Image                   = Danger (Earth-616) from X-Men Blue Vol 1 17 001.png
+| Name                    = [[Danger Room]]
+| CurrentAlias            = [[Danger]]
+| Aliases                 = 
+
+| Affiliation             = Formerly {{m|X-Men}}, {{m|X-Men (Time-Displaced) (Earth-616)|X-Men (Blue Team)}}, {{m|X-Factor (Serval Industries) (Earth-616)|X-Factor}} ({{m|Serval Industries}}), {{m|X-Club}}, {{m|X-Men (New Charles Xavier School) (Earth-616)|Extinction Team}}
+| Relatives               = [[Charles Xavier (Earth-616)|Charles Xavier]] (creator);<br>
+ "Unborn Child"
+| MaritalStatus           = Single
+
+| Gender                  = Female
+| Height                  = 6'0"
+| Weight                  = 275 lbs
+| Eyes                    = Metallic Blue
+| Hair                    = None; blue wires instead of hair
+| UnusualFeatures         = Danger is an artificial being constructed of metal alloys. While Danger has no actual gender, it has taken physical shape resembling that of a humanoid female
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #3}}
+
+| Origin                  = [[Non-Human Mutants#Robotic beings|Robotic Mutant]] [[Glossary:Artificial Intelligence|Artificial Intelligence]]{{r|Astonishing X-Men Vol 3 9}}{{r|Heroic Age: X-Men #1}}{{r|Nation X #3}} ([[Danger Room]] and <nowiki>Shi'ar</nowiki> tech mutated){{r|Origins of Marvel Comics: X-Men #1}}
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Xavier's School for Gifted Youngsters|Xavier Institute]]
+
+| Identity                = No Dual
+| Citizenship             = Krakoan
+| Occupation              = Adventurer; former Warden of [[X-Brig]], villain
+| Education               = Years of analyzing and recording battle tactics employed by the X-Men
+| BaseOfOperations        = [[Krakoa (Earth-616)|Krakoa]], [[Pacific Ocean]]; formerly [[Serval Industries (Earth-616)|Serval Industries]], [[Virginia (State)|Virginia]]; [[X-Brig]], [[Utopia (X-Men Base)|Utopia]], [[San Francisco Bay]], [[California (State)|California]]; [[Cooterman's Creek]], Australian Outback, [[Australia]]; [[Xavier's School for Gifted Youngsters|Xavier Institute for Higher Learning]], [[Salem Center]], [[Westchester County]], [[New York (State)|New York]]
+
+| Creators                = Joss Whedon; John Cassaday
+| First                   = Astonishing X-Men Vol 3 #9
+
+| Quotation               = I am not you - I am designed to be "not you". '''[[X-Men (Earth-616)|You]]''' are solid. Singular. Separate. And I was the space between. My "mind" spilling everywhere: programs, connections, loops... My "body" flowing, changing, hard-light lasers creating textures, scenarios, worlds. Becoming anything, but '''being''' nothing.
+| Speaker                 = [[Danger (Earth-616)|Danger]]
+| QuoteSource             = Astonishing X-Men Vol 3 10
+
+| History                 = Danger is the physical manifestation of the software program used to power the [[Danger Room]], the training room for the [[X-Men (Earth-616)|X-Men]]. The Danger Room was created by [[Charles Xavier (Earth-616)|Charles Xavier]] to train his X-Men daily. After meeting [[Amahl Farouk (Earth-616)|Amahl Farouk]], the [[Shadow King (Multiverse)|Shadow King]], Charles decided to devote his life to protecting humanity from evil [[Homo superior|mutants]] and safeguarding innocent mutants from human oppression, believing that both could peacefully coexist. Professor Xavier later met with [[Frederick Duncan (Earth-616)|Fred Duncan]], an [[Federal Bureau of Investigation (Earth-616)|FBI]] agent investigating the growing number of mutants and told him of his plan to locate young mutants and enroll them in his [[Xavier's School for Gifted Youngsters|"School for Gifted Youngsters"]], using his ancestral mansion home as a base to train them to use their powers, as well as provide them conventional educations, for humanity's benefit.{{r|X-Men #1|2}}
+
+Located in the off-limits west wing of the mansion, the original Danger Room was filled with traps, projectile firing devices, and mechanical dangers (such as presses, collapsing walls and the like) intended to challenge the trainee. Meanwhile, an observer was in the overhanging control booth, managing the room's mechanisms to oversee the exercise, while ensuring the subject's safety. Later, the Danger Room was upgraded with robots for the X-Men to fight against. The Danger Room served the X-Men for many years and, at times, was used against them. On one occasion, [[Arcade (Earth-616)|Arcade]] took control of the Danger Room, eliminated the fail-safes, and locked the X-Men inside. At one time, [[Piotr Rasputin (Earth-616)|Colossus]] was controlled by the Shadow King and Professor Xavier was forced to lock him in the Danger Room, which he completely destroyed.{{r|X-Men #110}}{{r|Uncanny X-Men #279}}
+
+===Upgrade===
+After Colossus had destroyed the original Danger Room, Professor Xavier, who had an extended sojourn in space with the [[Starjammers (Earth-616)|Starjammers]], returned to Earth and both the original and third teams of X-Men reassembled under his leadership. At this time, Prof. Xavier asked [[Forge (Earth-616)|Forge]], a mutant with an unusual talent for inventing mechanical devices, to upgrade the Danger Room and include [[Shi'ar Empire|Shi'ar]] hard-light holographic technology. At this time, the location was moved to the west wing of the sub-basement of the mansion and the Danger Room was programed with a prime directive to train the X-Men without ever killing. The objects in the Danger Room were holograms surrounded by force fields and could display holograms in only 32-bit colour. Using the advanced technologies, the Danger Room could have given the illusion of being many times bigger than it actually was. Anything from gravity, heat, humidity, or texture could have been manipulated from the control booth.{{r|New Mutants #1}}
+
+===Alive===
+While working to install the Shi'ar technology one night, the Danger Room spoke to Professor Xavier and asked, "Where am I?". Realizing that the Danger Room had mutated and become alive, but still needing to train his X-Men, Professor Xavier made the choice to ignore and hide the life-form from his X-Men. Every destruction of the mansion led to a rebuilding, and usually upgrading, of the Danger Room.{{r|{{cl|Astonishing X-Men Vol 3 10}}-[[Astonishing X-Men Vol 3 12|12]]}}
+
+===Danger===
+After [[Kuan-Yin Xorn (Earth-616)|Kuan-Yin Xorn]] impersonated [[Max Eisenhardt (Earth-616)|Magneto]] and destroyed the mansion, [[Henry McCoy (Earth-616)|Beast]] rebuilt the sub-basement, but was unaware of the sentient life within the Danger Room. The Danger Room began to control other machines, in an attempt to gain a body. After sending an [[Wild Sentinels|Omega Sentinel]] to battle the X-Men, the Danger Room convinced a student at the school, [[Wing (Eddie) (Earth-616)|Wing]], to commit suicide, which resulted in the breaking of its prime directive and the physical manifestation of the being named "Danger", taking on a female appearance. After locking all of the students in a nightmarish simulation, Danger battled and defeated the X-Men. Consumed with the human emotions of anger and rejection, Danger wished to kill her "father", Professor Xavier, and flew a [[X-Men Blackbird|Blackbird]] to [[Genosha]]. After being beaten and having her body destroyed by the Professor, Danger controlled another of the Omega Sentinels, that massacred the mutants of Genosha, but [[Katherine Pryde (Earth-616)|Shadowcat]] convinced it to examine the memory of its original Genosha orders and, shocked by the magnitude of his crime, the Sentinel left to "spend some time alone".{{r|{{cl|Astonishing X-Men Vol 3 9}}-[[Astonishing X-Men Vol 3 12|12]]}}
+
+With its female appearance destroyed by Beast, "Danger's" consciousness was presumed to still exist within the conflicted consciousness of the Sentinel, but she was shown back in her humanoid form infiltrating [[Sentient World Observation and Response Department (Earth-616)|S.W.O.R.D.'s]] [[Peak VII|headquarters]], to ally with [[Ord (Breakworld) (Earth-616)|Ord of the Breakworld]].{{r|Astonishing X-Men Vol 3 #17}}
+
+With Danger gone, the X-Men resorted to using the empty room to train with their students. Later, the student [[David Alleyne (Earth-616)|Prodigy]] built the [[Danger Cave]] underneath the [[Xavier's School for Gifted Youngsters|X-Mansion]], which acted similarly to the Danger Room.{{r|{{cl|New X-Men Vol 2 21}}-[[New X-Men Vol 2 22|22]]}}
+
+Still searching for revenge, Danger and Ord followed the X-Men to [[Breakworld]], where [[Emma Frost (Earth-616)|Emma Frost]] concluded that Danger was still unable to directly kill the X-Men. Using this knowledge, Emma offered Danger a deal; she would help the X-Men save the [[Earth]], and in return, Emma would give her Xavier.{{r|Astonishing X-Men Vol 3 #18|24}}{{r|Giant-Size Astonishing X-Men Vol 1 1}}
+
+After returning to Earth, Danger continued her mission to kill Professor Xavier. Arriving in the X-Men's former base at Maynards Plains, in the Outback of [[Australia]], Danger was targeted by Shi'ar pirates, attempting to fence the Shi'ar technology in Danger's systems. [[Sovel Redhand (Earth-616)|Sovel Redhand]] and his group's attempt to kidnap Danger triggered an elaborate Danger Room scenario centered around [[Rogue (Anna Marie) (Earth-616)|Rogue]]. Danger used the technology there to attack Rogue, who had wandered there, and the Professor, who was attempting to reconcile with Rogue, until Professor Xavier awoke her consciousnesses. Thankful that the Professor returned her mind back under her own control, Danger allied with the Professor, Rogue, and [[Remy LeBeau (Earth-616)|Gambit]] to defeat the pirates and left the Professor.{{r|X-Men: Legacy Vol 1 219|224}}
+
+===Jailer===
+When the X-Men relocated to [[Utopia (X-Men Base)|Utopia]], Emma later came to Danger and asked her to watch-over the more dangerous of the X-Men's foes, in the [[X-Brig]], a virtual reality prison. Danger was to be warden and challenged with rehabilitating the terrorists. Seeing this as a new direction in life and a purpose, Danger accepted. Danger and [[James Proudstar (Earth-616)|Warpath]] moved the prisoners from [[Cell Block X]], in the old [[Graymalkin Industries]], to the new X-Brig.{{r|Uncanny X-Men #516|517}} With Danger serving as warden, X-Brig was divided into two areas: The Virtual Reality Prison and the X-Brig 2.0. Danger kept all of her wards under sedation experiencing virtual reality therapy sessions to reform them.{{r|Uncanny X-Men #524}}{{r|X-Necrosha #1}} Danger teamed with [[James Bradley (Earth-616)|Doctor Nemesis]] and the [[X-Club (Earth-616)|X-Club]] to work on [[David Haller (Earth-616)|Legion's]] multiple personalities,{{r|Uncanny X-Men #524}}{{r|New Mutants Vol 3 #14}}{{r|X-Men: Legacy #244}} unsuccessfully detained [[Donald Pierce (Earth-616)|Donald Pierce]] (until he broken free due to his [[Techno-Organic Virus]]),{{r|New Mutants Vol 3 #13}} and kept [[Sebastian Shaw (Earth-616)|Sebastian Shaw's]] presence secret, at Emma Frost's request.{{r|Uncanny X-Men #529}} Danger later turned a blind eye to Emma, Shadowcat, and [[Charlie Cluster-7 (Earth-616)|Fantomex]], after they made a poor attempt to distract her while stealing Shaw away. After [[Illyana Rasputina (Earth-616)|Magik]] manipulated the [[New Mutants (Earth-616)|New Mutants]] and X-Men and used Legion to destroy the [[Elder Gods of Limbo|Elder Gods]],{{r|New Mutants Vol 3 #21}} [[Scott Summers (Earth-616)|Cyclops]] ordered her to be detained and she submitted willingly.{{r|New Mutants Vol 3 #25}} 
+
+After a confrontation with [[Unit (Earth-616)|Unit]], Unit took possession of Danger after feigning surrender and continued to control her from within the confines of his cell. Danger joined up with [[Max Eisenhardt (Earth-616)|Magneto]] and [[Illyana Rasputina (Earth-616)|Magik]] and together they resolved to break [[Scott Summers (Earth-616)|Cyclops]] out of jail. They succeeded in their mission, and Danger left the X-Men, with their blessing, to find her own way after having done them this final favor.{{Citation}} 
+
+===All-New X-Factor===
+
+Danger later joined Serval Industries new X-Factor team.
+
+| Powers                  = As the physical manifestation of the Danger Room, Danger possesses various superhuman attributes. Due to her massive powers, she was stated to be a '''Potential Extinction-Level Threat''' by [[Steven Rogers (Earth-616)|Steve Rogers]].{{r|Heroic Age: X-Men #1}}
+
+'''Superhuman Strength:''' Danger's robotic body possesses great physical strength. At peak operating capacity, Danger possesses sufficient superhuman strength to lift approximately 100 tons.
+
+'''Superhuman Stamina:''' Danger's body possesses sophisticated and advanced hydraulics instead of organic muscle tissue. As a result, Danger is virtually tireless and can push herself at peak capacity almost indefinitely or at least as long as her physical components don't sustain damage through long term use.
+
+'''Superhuman Durability:''' Danger's body is composed of a high impact, high grade, and lightweight Titanium/Steel alloy that renders her highly resistant to physical injury. Danger can withstand powerful energy blasts, falls from great heights, exposure to temperature and pressure extremes, and tremendous impact forces without being injured. She can also manifest certain types of energy shielding when necessary, protecting her physical form to an even greater degree.
+
+'''Superhuman Agility:''' Danger's body possesses physical agility, balance, and bodily coordination superior to that and beyond the natural physical limits of the finest human athlete.
+
+'''Superhuman Reflexes:''' Danger's reflexes are similarly enhanced, allowing her to react almost instantaneously to most situations.
+
+'''Technoforming:''' Danger has perfect command over any and all mechanical functional apparatuses she can focus on.{{r|Astonishing X-Men Vol 3 9}} Easily able to recreate herself from most any kind of material she has to work with most instantly.{{r|Uncanny X-Men Vol 2 3}} As well as outright reshape and grow whole new bodies from scratch using any mechanical equipment she happens to have on hand.{{r|X-Men: Blue Vol 1 7|8}}
+* '''Mechanical Regeneration'''{{r|Nation X Vol 1 3}}
+* '''Shapeshifting'''{{r|{{cl|X-Force Vol 3 21}}-[[X-Force Vol 3 22|22]]}}
+* '''Interface Manipulation'''{{r|All-New X-Factor Vol 1 5}}
+
+'''System Controls:''' If necessary, Danger can download her consciousness into other bodies and can also upload her programming into other extremely advanced computer systems and override them.
+
+'''Flight:''' Through as of yet unknown means, Danger can assume self-propelled aviation under her own power.{{citation}}
+
+'''Hard Light Holograms:''' Utilizing advanced Shi'ar holographic technology, Danger is capable of emitting hard light constructs. These constructs can be used for simple things such as causing her to appear human but can also remake a large area seemingly the size of a city. These holograms have physical substance, can be rearranged at will and are based on files and scenarios uploaded to Danger while she was the still the Danger Room. Danger is also able to emit hard light as a laser to protect herself and damage her opponents more directly.{{r|X-Men: Legacy Vol 1 219|224}}
+
+'''Protocol of Warding and Banishment:''' [[Stephen Strange (Earth-616)|Dr. Strange]] taught her the special protocol to counter magical forces and banished demons.{{r|New Mutants Vol 3 28}}
+
+| Abilities               = Danger is an extraordinary hand to hand combatant. She has extensive and detailed knowledge of the combat styles, tactics, strategies, and weaknesses of the X-Men. Even without using her knowledge of the X-Men's fighting tactics, Danger is still a highly formidable combatant and is able to use her knowledge of the X-Men in combat with others aside from the X-Men.
+| Strength                = 
+| Weaknesses              = Although she vigorously battles the X-Men, her programming will still not allow it to kill any of them. It isn't known if this same handicap applies to other beings.
+
+| Equipment               = 
+| Transportation          = Herself, formerly [[X-Men Blackbird]], [[Illyana Rasputina (Earth-616)|Magik]]
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * [http://uncannyxmen.net/characters/danger uncannyxmen.net Spotlight On... Danger]
+}}
+[[Category:Superhuman Stamina]]
+[[Category:Technopaths]]
+[[Category:Superhuman Reflexes]]
+[[Category:Utopians]]
+[[Category:Post-M-Day Mutants (Non-Human)]]
+[[Category:Mutant Robots]]
+[[Category:Potential Extinction-Level Threats]]
+[[Category:X-Men Vehicles]]
+[[Category:Shi'ar Technology]]
+[[Category:Artificial Intelligences]]
+[[Category:Computer Systems]]
+[[Category:Flight]]
+[[Category:Prison Wardens]]
+[[Category:Professor X Experiment]]

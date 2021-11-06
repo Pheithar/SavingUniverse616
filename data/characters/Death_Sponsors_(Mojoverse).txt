@@ -1,0 +1,35 @@
+{{Marvel Database:Team Template
+| Image                   = Death Sponsors (Mojoverse) from Uncanny X-Men Annual Vol 1 16 001.png
+| Name                    = Death Sponsors
+| Aliases                 = 
+
+
+| Status                  = Defunct
+| Identity                = Secret
+| Reality                 = Mojoverse
+| BaseOfOperations        = [[Mojoworld]]
+
+| Leaders                 = 
+| FormerMembers          = [[Cancellator]], [[Deadair]], [[Lead-In]], [[Sweepzweak]], [[Timeslot]] 
+
+| Allies                  = 
+| Enemies                 = 
+
+| Origin                  = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Fabian Nicieza; Jae Lee
+| First                   = Uncanny X-Men Annual Vol 1 16
+| Last                    = Shatterstar Vol 1 4
+
+| HistoryText             = 
+They were a group of people that worked for various people. The Death Sponsors once worked for Grandmaster in the Mojoverse, but all of them got killed by various people, but one was Shatterstar.{{r|Shatterstar Vol 1 4}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

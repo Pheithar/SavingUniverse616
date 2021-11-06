@@ -1,0 +1,460 @@
+{{Marvel Database:Character Template
+| Image                   = Uncanny X-Men Vol 5 4 Textless.jpg
+| Name                    = [[Nathaniel Grey|Nathaniel "Nate" Grey]]
+| Name2                   = {{r|Official Handbook of the Marvel Universe A-Z #13}}
+| CurrentAlias            = [[X-Man]]
+| Aliases                 = 19X,{{r|X-Man #61}} [[Destroyer of Worlds]],{{r|X-Man #70}} Greyspawn,{{r|X-Man #19}} [[Manhattan]] Marvel,{{r|X-Man #35}} [[Mutant X]],{{r|X-Man #30}} Nategrey,{{r|X-Man #60}}{{r|X-Man #62}} Nate the Great,{{r|X-Man #21}} [[Nathan Grey]],{{r|X-Man #-1}} [[Nathaniel Summers]],{{r|X-Men Omega #1}} [[Norman Osborn]],{{r|Dark X-Men #4}} Psi-Boy,{{r|X-Man #59}} [[wikipedia:Quentin Tarantino|Quentin Tarantino]],{{r|X-Man #21}} [[Second Coming]],{{r|X-Man #48}} [[Shaman]],{{r|X-Man #63}} Summerseed,{{r|X-Man #18}}{{r|X-Man #19}} [[Target|Target-X]],{{r|X-Man #52}} Washington Square Faith Healer,{{r|X-Man #48}} Washington Square Miracle Worker,{{r|X-Man #48}} Washington Square's Golden Boy,{{r|X-Man #32}} World-walker,{{r|X-Man #73}} [[X]]{{r|X-Man #61}}
+
+| Affiliation              = Formerly {{m|X-Men (Earth-616)|X-Men}}, {{m|Horsemen of Salvation (Earth-616)|Horsemen of Salvation}}, {{m|New Mutants (Earth-616)|New Mutants}}; {{m|X-Men (Age of X-Man) (Earth-616)|X-Men (Age of X-Man)}}; Partner Of [[Madelyne Pryor (Earth-616)|Madelyne Pryor]]; Partner Of [[Melody Jacobs (Earth-616)|Threnody]]; Partner Of [[Robert Reynolds (Earth-616)|Sentry]];{{r|Dark X-Men #3}} Idol Of [[Jasmine Archer (Earth-616)|Jam]], [[Bux (Earth-616)|Bux]], [[Marita (Earth-616)|Marita]] and [[Roust (Earth-616)|Roust]]; Ally Of [[Alexander Summers (Earth-616)|Havok]]'s {{m|Brotherhood (Havok) (Earth-616)|Brotherhood}}; {{m|Outcasts}}
+| Relatives               = 
+[[Nathaniel Essex (Earth-295)|Nathaniel Essex]] (Creator And Adoptive Grandfather, Deceased);<br>
+[[Jean Grey (Earth-295)|Jean Grey]] (Genetic Donor Mother, Deceased);<br>
+[[Scott Summers (Earth-295)|Scott Summers]] (Genetic Donor Father, Deceased);<br>
+[[Forge (Earth-295)|Forge]] (Foster Father/Guardian, Deceased);<ref>{{cl|Official Handbook of the Marvel Universe: Book of the Dead 2004 Vol 1 1}} Forge mentioned as Nate's surrogate father</ref><br>
+----
+Earth-616:<br> <!-- listed only relatives whom he met -->
+[[John Grey (Earth-616)|John Grey]] (Alternate Reality Maternal Grandfather, Deceased);<br>
+[[Elaine Grey (Earth-616)|Elaine Grey]] (Alternate Reality Maternal Grandmother, Deceased);<br>
+[[Jean Grey (Earth-616)|Jean Grey]] (Alternate Reality Mother);<br>
+[[Scott Summers (Earth-616)|Scott Summers]] (Alternate Reality Father);<br>
+[[Alexander Summers (Earth-616)|Alex Summers]] (Alternate Reality Uncle);<br>
+[[Rachel Summers (Earth-811)|Rachel Grey]] (Alternate Reality Sister);<br>
+[[Nathaniel Summers (Earth-616)|Nathan Summers]] (Alternate Reality Counterpart/Half-Brother);{{r|Cable Vol 1 157}}<br>
+[[Hope Summers (Earth-616)|Hope Summers]] (Alternate Reality Adopted Niece);<br>
+[[Joseph Bailey (Earth-616)|Joey Bailey]] (Alternate Reality Cousin, Deceased);<br>
+[[Gailyn Bailey (Earth-616)|Gailyn Bailey]] (Alternate Reality Cousin, Deceased);<br>
+[[Madelyne Pryor (Earth-616)|Madelyne Pryor]] (Clone Of Alternate Reality Mother, Deceased);<br>
+[[Nathaniel Summers (Stryfe) (Earth-4935)|Stryfe]] (Clone Of Alternate Reality Half-Brother);<br>
+[[Summers and Grey Family Tree]] (Extended Family);<br>
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 5'10"
+| Weight                  = 135 lbs
+| Eyes                    = Blue
+| Hair                    = White (currently),<br>[[:Category:Brown Hair|Brown]] with a white streak (originally)
+| UnusualFeatures         = Psionic energy usually emanates from his left eye. X-Gene insignia branded on his chest.
+
+| Origin                  = [[Homo superior|Mutant]], created from the genetic material of [[Scott Summers (Earth-295)|Scott Summers]] and [[Jean Grey (Earth-295)|Jean Grey]] on an alternate [[Earth-295|Earth]] by [[Nathaniel Essex (Earth-295)|Sinister]]. Formerly [[Living Vampire]]<!-- like [[Michael Morbius (Earth-616)|Morbius]] -->
+
+| Reality                 = Earth-295
+| Reality 2               = (Currently Displaced To [[Earth-616]])
+| PlaceOfBirth            = [[Nathaniel Essex (Earth-295)|Sinister]]'s [[State Home for Foundlings|Orphanage]], [[Omaha]], [[Nebraska (State)|Nebraska]], [[Earth-295]]{{r|X-Man #-1}}
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Adventurer; Formerly Protector Of The Earth (Shaman), "Messiah", Freedom fighter
+| Education               = Self-Taught
+| BaseOfOperations        = [[Age of X-Man]]; Formerly [[1128 Mission Street|New Mutants HQ]], [[San Francisco]]; [[Utopia (X-Men Base)|Utopia]]; [[Nate Grey's Loft|Loft]] In [[SoHo]]; [[Ancestral Home Of Summers Family]] In [[Anchorage]], [[Alaska (State)|Alaska]]; [[Sven Claris' House|Chateau]] In [[Montreux]], [[Switzerland]]
+
+| Creators                = Jeph Loeb; Steve Skroce
+| First                   = X-Man #1
+| Quotation               = Who '''is''' this X-Man? He's from the [[Earth-295|alternate reality]]... He styles himself as a "Mutant Shaman", identifying entirely with that cause. Precognition. Telepathy. Telekinesis. Energy manipulation powers on a vast scale... A certain unpredictability... A certain wildness of thought... And a '''[[Scott Summers (Earth-616)|Summers]]''', too. He could go one-on-one with the '''[[Robert Reynolds (Earth-616)|Sentry]]''', which has always been how I judge who's too dangerous...
+| Speaker                 = [[Norman Osborn (Earth-616)|Norman Osborn]]
+| QuoteSource             = Dark X-Men Vol 1 2
+| History                 = 
+===Age of Apocalypse===
+[[File:Nathaniel Grey (Earth-295) from X-Man Vol 1 -1 002.jpg|thumb|left|200px]]
+[[Nathaniel Essex (Earth-295)|Sinister]], an underling of the [[En Sabah Nur (Earth-295)|High Lord Apocalypse]], artificially created Nate from genetic material from [[Scott Summers (Earth-295)|Cyclops]] and [[Jean Grey (Earth-295)|Jean Grey]]. Sinister created Nate as the ultimate telepath and telekinetic, and hoped to use him in his own bid for power against Apocalypse.{{r|X-Man #-1}} Nate aged to his teens rapidly.
+
+Cyclops, in his many subversive raids on Sinister's pens, helped Nate escape Sinister's hideout with neither man knowing his connection to the other. Nate wound up under the tutelage of [[Forge (Earth-295)|Forge]] and several other mutant outcasts who, disguised as a theater troupe, tried to help humans. 
+
+Forge became a father figure to young Nate. Forge began the long process of teaching Nate how to control his powers as well as the benefits of being a "good guy." Nate was cautioned about using his powers indiscriminately as it could allow Apocalypse to learn of his existence. Forge also warned Nate the his powers could one day ultimately burn him out. 
+
+When Forge and his [[Outcasts (Earth-295)|Outcasts]] stopped a train leading humans to a culling, Nate disobeyed Forge's orders and helped out. He saved a young mutant girl, [[Theresa Cassidy (Earth-295)|Sonique]]. Nate convinced Forge to allow her to join them.{{r|X-Man #1}} Later, they came across the wandering traveler Essex, who was really Sinister following Nate's progress in disguise. Essex encouraged Nate rebel against Forge's teachings and to use his powers. Essex convinced the Outcasts to investigate one of Apocalypse's factories which Nate destroyed.{{r|X-Man #2}}
+
+The use of his powers alerted Apocalypse of his presence and he sent his minion [[Neena Thurman (Earth-295)|Domino]] to either recruit Nate or kill him. Domino and her team tracked Nate and his friends and killed most of them. Nate used his powers to wipe Domino's mind. However, he was too late to stop Essex from slaying Forge.{{r|X-Man #3}} Sinister revealed himself to be Essex. After learning Sinister's true evil nature Nate seeming killed him.{{r|X-Man #4}}
+
+Still, Essex successfully convinced Nate to battle Apocalypse. Nate kissed Sonique goodbye and flew to Apocalypse's citadel in [[Manhattan]]. There, Nate met his genetic parents, Scott Summers and Jean Grey. Nate and Jean instantly recognized that there was a bond between them due to their telepathy. Scott and Jean were leading a break-out of the slave pens and Nate hoped to catch up with them after he had eliminated Apocalypse.
+
+Nate made his move when the [[X-Men (Earth-295)|X-Men]] were waging their final desperate attempt to repair their unbalanced reality with the [[M'kraan Crystal|M'Kraan Crystal]]. In the final battle, Nate rescued [[Erik Lehnsherr (Earth-295)|Magneto]], who recognized him as the boy Forge had once promised to send him one day. Nate battled Apocalypse's son [[Nemesis (Earth-295)|Holocaust]]. Nate impaled Holocaust with a shard of the crystal. The resulting impact caused both of them to be shunted to the [[Earth-616]] universe.{{r|X-Men Omega #1}}
+
+===A New World===
+[[File:Nathaniel Grey (Earth-295) from X-Man Vol 1 5 0001.jpg|thumb|200px|A New World]]
+Nate fell like a meteor in the [[Swiss Alps|Alps]] in [[Switzerland]] and his falling caused a powerful psi-wave, which affected telepaths like [[Charles Xavier (Earth-616)|Charles Xavier]], [[Jean Grey (Earth-616)|Jean Grey]] and [[Elizabeth Braddock (Earth-616)|Psylocke]] and also was noticed by [[Blaquesmith (Earth-4935)|Blaquesmith]].{{r|X-Men Prime #1}} He unconsciously resurrected [[Madelyne Pryor (Earth-616)|Madelyne Pryor]], a clone of Jean Grey, in his subconscious attempt to reach out to his "mother." Pryor helped Nate adjust to this reality, but they were both separated soon after when she was lured away from Nate by [[Selene Gallio (Earth-616)|Selene]].
+
+Nate wandered the earth being contacted and confronted by many who wished to be his ally: Professor X,{{r|X-Man #10}} [[Rogue (Anna Marie) (Earth-616)|Rogue]],{{r|X-Man #11}} [[Moira MacTaggert (Earth-TRN748)|Moira MacTaggart]],{{r|X-Man #12}} [[Nathaniel Essex (Earth-616)|Mr. Sinister]],{{r|X-Man #19}} [[Lucas Bishop (Earth-1191)|Bishop]],{{r|X-Man #23}} [[Alexander Summers (Earth-616)|Havok]]'s [[Brotherhood (Havok) (Earth-616)|Brotherhood]],{{r|X-Man #27}} and others. 
+
+Nate began to find himself with the help of Sinister's old underling, [[Melody Jacobs (Earth-616)|Threnody]] and took refuge in [[New York City|New York]]. Their relationship deepened despite Nate's lingering doubts on her connection to Sinister, but Threnody eventually left, unwilling to answer questions about her past. He believed Threnody to be dead, and also took up a firm friendship with [[Peter Parker (Earth-616)|Spider-Man]].
+
+When [[Operation: Zero Tolerance|Zero Tolerance]] troops attacked [[Xavier's School for Gifted Youngsters|Xavier's mansion]] in [[Westchester County]] and downloaded [[Cerebro (Mutant Detector)|Cerebro]]'s files, Nate was telepathically alerted by [[Nathaniel Summers (Earth-616)|Cable]] that he was the only one close enough to rescue the children of Jean's sister, [[Sara Grey (Earth-616)|Sara Grey]], from the [[Prime Sentinels (Earth-616)|Prime Sentinels]]. Nate saved them and [[Roust (Earth-616)|Roust]] and left [[Joseph Bailey (Earth-616)|Joey]] and [[Gailyn Bailey (Earth-616)|Gailyn]] in the care of their grandparents, as the Sentinels were curious about the unidentified telepath and still searching for him.{{r|X-Man #30}}
+
+For the next weeks, Nate kept a low profile. One night, he went clubbing with three girls: [[Jasmine Archer (Earth-616)|Jam]], [[Bux (Earth-616)|Bux]], and [[Marita (Earth-616)|Marita]], and many people recognized him from his performances in Central Park. Nate was asked to sing with the band and, surprisingly, he did quite well, though he never had been on stage before. However, the show was interrupted by the arrival of [[Jack Cole (Earth-616)|Jackknife]], who was hunting down and killing every single person that Nate had contact with. Jackknife was actually Jack Cole, one of the many misfits belonging to the [[Forgotten (Earth-616)|Abomination's group]]. During Nate’s battle with the [[Emil Blonsky (Earth-616)|Abomination]], he accidentally unlocked Cole's latent psychic powers. Jack could not handle himself and became psychotic, blaming Nate for the voices in his head. Nate defeated the mentally imbalanced misfit when the police arrived. They asked him to surrender, but the crowd who witnessed the battle intervened, claiming that Nate was a hero. The next day, Jam lost an arm in a motorcycle crash. When Nate, Bux, and Marita visited her in the [[Empire State Hospital]], something strange happened. After touching Nate, [[Marcus Arlington III (Earth-616)|Dr. Marcus Arlington III]] developed the ability to heal,regenerating Jam's arm. The miracle boosted Nate’s popularity even more and Nate was now admired by hundreds of followers like some kind of messiah.{{r|X-Man #32|34}}
+
+Soon after [[Zebediah Killgrave (Earth-616)|Purple Man]] arrived. He used his powers and a few mercenaries to destroy Nate's popularity by painting him as a terrorist. After Nate defeated Killgrave, he erased the memory of himself amongst all New Yorkers.
+
+===Psi-Ops, Stryfe, and Ness===
+Together with his friend Spider-Man, Nate first met and fought [[Psi-Ops (Earth-616)|Psi-Ops]] in New York City. Grey escaped to Switzerland where he met Maddie Pryor, and together they fought and defeated the [[Great Beasts (Earth-616)|Great Beasts]].
+
+Using his precognition powers, Nate saw the [[Earth-9806|future]], where he fought [[Nathaniel Summers (Stryfe) (Earth-9806)|Stryfe]] and destroyed the Earth. The Witness of these events was a member of the [[Hellbent]] - [[Ness (Earth-616)|Ness]]. Together they were able to prevent this future, and defeated [[Nathaniel Summers (Stryfe) (Earth-4935)|Stryfe]] in [[Latveria]] with the assistance of Cable and Maddie.
+
+Soon after Grey, Pryor, and Ness met again the [[Psi-Ops (Earth-616)|Psi-Ops]], and defeated them too.
+
+==="Second Coming"===
+Nate traveled to [[London (England)|London]] where he saved from suicide a young woman [[Colleen O'Shaugnessy (Earth-616)|Colleen O'Shaugnessy]]. Newspapers called him the Second Coming, the divine Messiah, and cause of that he was attacked by [[Arthur Blackwood (Earth-616)|Crusader]]. They fought and Blackwood was defeated.{{r|X-Man #48}}
+
+Afterward Nate returned to New York, and alongside [[Emma Frost (Earth-616)|Emma Frost]] and [[Generation X (Earth-616)|Generation X]], he fought and defeated the [[Henry McCoy (Earth-295)|Dark Beast]] and [[Gene Nation (Earth-616)|Gene Nation]].
+
+===Visiting His "Parents"===
+Nate visited his "parents", [[Scott Summers (Earth-616)|Scott]] and [[Jean Grey (Earth-616)|Jean]], who were at the time recuperating in [[Anchorage]], [[Alaska (State)|Alaska]]. Together, they fought and defeated the Guardians of the [[M'kraan Crystal|M'Kraan Crystal]]: [[Modt (Earth-616)|Modt]] and [[Jahf (Multiverse)|Jahf]].
+
+===Mannites===
+The strength of the newly forged bonds between Nate and his “parents” was shown when, soon after, as the X-Men had been disbanded, Nate (alongside [[Warren Worthington III (Earth-616)|Archangel]], [[James Howlett (Skrull) (Earth-616)|Wolverine]], and Cable) was one of the few people Jean and Scott called for help, as they needed to defend the new race of [[Mannites (Earth-616)|Mannites]] from the mysterious "[[James Howlett (Earth-616)|Death]]".{{r|Astonishing X-Men Vol 2 #1|3}}
+
+===Greyville===
+[[Daniel Berkhart (Earth-616)|Mysterio]] soon manipulated Nate to gain control of his powers. Berkhart create "Greyville" - the illusion world where Nate has an ideal life with his mother and older brother, his mentor, girlfriend and best friends Peter and Maddie. However, Nate was able to understand that the world around was just an illusion. He destroyed Greyville, found Mysterio and locked him in his own fantasy where Berkhart gained control of Nate's powers and ruled the Earth.
+
+===Threnody and her Child===
+Unknown to Nate, shortly after Threnody's body had been brought to the morgue, the corpse rose and she walked out.{{r|X-Man #29}} In her wake, several dead bodies reanimated, following Threnody and chanting her name.{{r|X-Man #32}} She made her way to the [[Nate Grey's Loft|loft]] that she and Nate had lived in and kept track of Nate's activities through the news. Over time, her appearance slightly changed as her belly grew from pregnancy.{{r|X-Man #51|52}}
+
+Soon after Nate saved Thren from armies of zombies. She told him about her death, and her killer. She explained that her powers "fed" his energy, and this was the reason why he was getting weaker every minute with her. Nate said that he loved Melody, even if it killed him, but she escaped from him to take care of her [[Threnody's Child (Earth-616)|child]],{{r|X-Man #58}} which she did not tell Nate about.
+
+===Shaman of the Mutant Tribe===
+[[File:X-Man Vol 1 63 Textless.jpg|thumb|200px|left|Mutant Shaman]]
+Madelyne Pryor returned soon afterward, but she was manipulating Nate in his sleep and making him destroy things. She finally revealed that she was a "[[Jean Grey (Earth-9575)|Madelyne Pryor]]" from another dimension and she needed him to do something for her. This "Maddie" showed Nate how to shift between parallel earths and they traveled to [[Earth-998]]. She planned to use him to destroy [[Asia]], and finally take over the world, but Nate escaped. Jean sent [[Scratch (Earth-998)|Mr. Scratch]] and the [[Black Knights (Earth-998)|Black Knights]] to search for him.
+
+Nate met his [[Nathaniel Grey (Earth-2098)|counterpart]] from [[Earth-2098]], who told him that the [[Red Queen]] tried to use his powers, but failed, and began traveling to different realities, in search of the perfect weapon, a "working Nate Grey". But in all realities she found only a "defective" Nate; until she met X-Man.
+
+Together both Nates went to a hidden village. X-Man, under the guidance of the Shaman, used his powers to talk with [[Forge (Earth-998)|Forge]], who told them the truth about Queen Maddie. Immediately thereafter, the village was attacked by Scratch and the Black Knights. Scratch destroyed Forge's body, paralyzed X-Man, and almost strangled Shaman while the Knights killed all the villagers. Shaman used his powers to stabilize X-Man's power, gave him his X-Gene insignia, and sent him home to [[Earth-616]].
+
+Realizing that his powers were now completely under his control, Nate returned to Earth-998, destroyed the Engines of God, and killed the Red Queen.{{r|X-Man Vol 1 67|70}}
+
+After the defeat of this evil "Queen Jean", Nate set out to make a difference in the world. Nate became immensely powerful, and had few qualms about using his power to mete out justice to his fellow mutants. He then dealt with and stopped the madman [[Qabiri (Brilliant City)|Qabiri]] from destroying all the world's on the [[Multiverse|Spiral]].{{r|X-Man Vol 1 71|74}}
+
+==="Death"===
+As a protector of the Earth, Nate confronted the [[Harvester (Earth-616)|Harvester]], an alien from the race of "farmers" who was sent to Earth 30 years ago to prepare the planet for harvesting. His race insinuated their genetic code into all living cells on the planet at the dawn of life and patiently watched the evolution of life for millions of years. Thirty years ago they finally decided to harvest their "ripe crop". Since Nate was not suitable for them, he transformed his body into energy and merged himself with the Harvester. He then spread both of them over the cells of every living thing across the globe, "poisoning" the "crop" and making it unsuitable for harvesting.{{r|X-Man #75}}
+
+===Return===
+Nate returned a ''few months'' later,{{r|Heroic Age: Heroes #1}} in a small town where his presence caused several of the inhabitants to dream-walk and continuously repeat "I'm an X-Man." [[Norman Osborn (Earth-616)|Norman Osborn]] sent his team of [[X-Men (Osborn) (Earth-616)|X-Men]], consisting of [[Calvin Rankin (Earth-616)|Mimic]], [[Michael Pointer (Earth-616)|Weapon Omega]], Dark Beast, and [[Raven Darkholme (Earth-616)|Mystique]], to investigate and to raise public opinion. Both Mimic and Omega were overwhelmed by Nathan's energies and went on a rampage. leaving Mystique and Dark Beast alone with a patient that they were examining. Shortly Nathan once more took physical form, much to Beast's shock and horror, believing Mystique to be his mother Jean Grey, since she had taken her form. 
+
+Nate angrily attacked Beast, not realizing that Jean was actually Mystique, who managed to distract him long enough in order to save Dark Beast's life. Following the incident; Osborn tasked his X-Men to hunt down and possibly capture Nate for experimentation and to feed Weapon Omega. Osborn's X-Men contacted [[H.A.M.M.E.R. (Earth-616)|H.A.M.M.E.R.]]'s PSI-division (which had taken a cult-like appearance); the PSI-Division managed to contact Nate only for him to absorb most of their psychic energies and learn what had happened to the world and to the mutant race in his absence. He angrily demanded to know what Osborn's X-Men, (presumably) had done.{{r|Dark X-Men #2}}
+
+[[File:Dark X-Men Vol 1 3 page 2 Nathan Grey (Earth-295) 0002.jpg|thumb|right|200px]]
+Nate manifested a physical body for himself and attacked [[Stark Tower|Avengers Tower]]. After defeating [[MacDonald Gargan (Earth-616)|Venom]] and incapacitating [[Robert Reynolds (Earth-616)|Sentry]] with stories of their past friendship, he battled both Osborn's [[Dark Avengers (Earth-616)|Dark Avengers]] and [[X-Men (Osborn) (Earth-616)|Dark X-Men]]. He seemingly died after his defeat, but it was just a ploy to possess Norman Osborn's mind. The only one aware of the ruse was Mystique, due to her psychic defenses. She wanted Nate to free her of Osborn's control or she would reveal him to the others.{{r|Dark X-Men #3}} However, Nate intended to restore the world to the way it was. He planned on showing the X-Men that they did not have to feel trapped on [[Utopia (X-Men Base)|Utopia]] or that the [[Avengers (Earth-616)|Avengers]] could be at their former glory. However, he was fighting a hard battle against Osborn, whose will was strong enough to match his own. He also demanded that Mystique try redeeming herself. Mystique later recruited the rest of the Dark X-Men to enter and explore Osborn's mind. While fighting Osborn, he found the Green Goblin personality buried in Osborn's mind. The battle with Nate weakened the inner defenses restraining the Green Goblin. With the Green Goblin free, Osborn was vulnerable against Nate's attacks while he fought the Green Goblin. With the Dark X-Men still in Osborn's mind and the Green Goblin free to attack Osborn and the Dark X-Men, Nate's plan was coming together perfectly.
+
+After a brief battle between the Green Goblin and the Dark X-Men, Nate was defeated when Green Goblin forced Mimic to replicate Omega's powers, turning the pair into a powerful siphon that drained Nate's energies. Now returned to the physical world, a powerless Nate was tortured in front of the Dark X-Men as an example to them, after which Norman asked him if he had any last words before he was "used as coal" in Dark Beast's [[Omega Machine]], but a gloating Norman cut off Nate before he had a chance to finish speaking. Nate was taken away to the machine.
+
+After the fall of Norman Osborn and H.A.M.M.E.R., many prisoners were freed, including [[Sugar Man (Earth-295)|Sugar Man]]. Once Sugar Man was freed he found the unconscious X-Man connected to the Omega Machine. Sugar Man made some modifications to the Omega Machine to use X-Man's powers to open portals to other dimensions.{{r|New Mutants Vol 3 26}} Meanwhile, Cyclops sent [[New Mutants (Earth-616)|a team]] to find him. [[Douglas Ramsey (Earth-616)|Cypher]] discovered Sugar Man's secret base in New York, and the New Mutants defeated Sugar Man and his [[New Mutates (Earth-616)|New Mutates]], rescuing X-Man.{{r|New Mutants Vol 3 26}} However, X-Man's powers were burnt out by the Omega Machine. He was taken to Utopia for recovery, where Cyclops started to build a relationship with him.{{r|New Mutants Vol 3 27}}
+
+===New Mutants===
+[[File:Nathaniel Grey (Earth-295) from New Mutants Vol 3 28 0001.jpg|thumb|left|200px|Nate struggling to use his limited telekinetic power]]
+Despite his diminished powers, X-Man joined the [[New Mutants (Earth-616)|New Mutants Squad]] with [[Danielle Moonstar (Earth-616)|Dani Moonstar]]. While still dealing with the loss of his immense powers, [[Hope Summers (Earth-616)|Hope Summers]] and X-Man had a heart-to-heart and training session in the [[Danger Room]] which taught him how to cultivate his combat and tactical skills that did not involve his powers to help cope with his power loss.{{r|New Mutants Vol 3 28}}
+
+After an explosive argument over the way the younger generation of mutants were being treated as weapons and soldiers, Wolverine decided to [[Schism (Event)|part ways]] from Cyclops and reopen the school in Westchester. Nate chose to side with Cyclops because he agreed with the idea that the X-Men should not be concerned with shielding mutant children from the harsh realities of life and wanting to get to know Cyclops better. At the same time, Nate was used to being independent and decided to join the New Mutant Squad when they moved to [[1128 Mission Street]] in [[San Francisco]] where they would continue to report to Cyclops but attempt to live normal lives, as well as helping the team search for [[Blink]]. They joined her on her mission to discover why a rock band was causing natural disasters and accompanied her when she decided to journey to the Jean Grey School to learn more about her powers.{{r|New Mutants Vol 3 36}}
+
+===Re-Animator===
+After suffering a series of nightmares, [[Douglas Ramsey (Earth-616)|Cypher]] convinced the team to visit [[Paradise (Island)|Island]], the place where he once perished. Tensions flared when Nate began to question Doug's mental stability which led to Dani insulting Nate's low-level telekinesis, to which Nate admitted that he could still only pick up with telekinesis what he could lift physically. He later demonstrated a new utilization of his telekinesis by focusing his telekinetic force into the shape of an X. The trip proved to be worthwhile when they discovered a plot by the [[Animator (Earth-616)|Ani-Mator]] to return to life in virus form. Infected by the virus and fused together, a feverish Nate and Dani began to acknowledge their mutual attraction to one another that was previously mentioned by Cypher.{{r|New Mutants Vol 3 36}}
+
+The Ani-Mator was defeated by Cypher and [[Warlock (Technarch) (Earth-616)|Warlock]] but the horrific mission took a toll on the team. Noticing the somber mood, X-Men ally Blink took the team for a night out in [[Madripoor]]. While the rest of the team partied, Nate drifted off by himself, unsure how to act in such a jovial atmosphere due to lacking such occasions in his home dimension. Dani reached out to comfort him and the two finally expressed their feelings for each other with an intimate kiss.{{r|New Mutants Vol 3 41}}
+
+===Exiled===
+The New Mutants and the [[Asgardians|gods]] of [[Asgard]] soon came into conflict when the "First Hero" [[Sigurd (Bor) (Earth-616)|Sigurd]] returned and was pursued by the vampiric [[Dísir (Earth-616)|Dísir]]. When Sigurd's spell turned the Asgardians into mortals and erased their memories, it was up to the New Mutants team and [[Loki Laufeyson (Kid Loki) (Earth-616)|Kid Loki]] to set things right. Danielle Moonstar journeyed to [[Hel]] to retrieve [[Bor Burison (Earth-616)|Bor]], the father of [[Odin Borson (Earth-616)|Odin]], to free the Disir from his curse. The New Mutants were later thrown into an alternate reality where Nate's knowledge and familiarity of alternate universes became pivotal when the New Mutants found themselves in one created by a future megalomaniac version of Doug Ramsey.
+
+When the X-Men and Avengers went to war over how to handle the [[Phoenix Force]], Nate fought bravely on the front lines; first to protect Hope Summers and then to defend Cyclops’ rule. When Cyclops became corrupt and tyrannical due to the Phoenix Force, his leadership came to a end and Dani’s team went their separate ways.{{r|Avengers vs. X-Men}} When Moonstar joined [[Defenders (Valkyrior) (Earth-616)|the Defenders]], Nate remained close to her and the pair finally confirmed their relationship status when they ran into Dani’s former flame, [[Samuel Guthrie (Earth-616)|Cannonball]].{{r|Fearless Defenders Vol 1 9}}
+
+===[[X-Men Disassembled]]===
+[[File:Uncanny X-Men Vol 5 10 Textless.jpg|thumb|right|200px|]]
+Nate later returned with his powers restored by a [[Life Seed]], then kidnapped [[Katherine Pryde (Earth-616)|Kitty Pryde]] and [[Ashton Allen (Earth-616)|Senator Ashton Allen]], having already kidnapped and chained [[En Sabah Nur (Earth-616)|Apocalypse]].{{r|Uncanny X-Men Vol 5 1}} In response to [[David Haller (Earth-616)|Legion]]'s involvement and attempts to stop him from gaining the assistance of the X-Men, Nate reluctantly dispatched his [[Horsemen of Salvation (Earth-616)|Horsemen of Salvation]] to destroy the X-Men to prevent them from interfering. He then projected a message to the entire world that he was the second coming they had been praying for and was going to fix the world by remaking it in his image.{{r|Uncanny X-Men Vol 5 4}}
+
+Nate Grey later explained his recent extreme actions were the result of a harrowing revelation: Nate was dying and he was desperate to do anything to prevent the world from becoming the [[Earth-295|hellish world]] of his home reality after seeing how negative events had transpired for mutants. To that end he amplified his powers using the Life Seed and fought against any who would stop his utopian goal even at the cost of thousands of deaths.{{r|Uncanny X-Men Vol 5 6}} Nate Grey later fought against the X-Men and [[David Haller (Earth-616)|Legion]], who teleported him to a copy of Nate's home reality inside his subconscious mind.{{r|Uncanny X-Men Vol 5 8}} Nate uncovered the ruse and then managed to take over Legion's mind and body to kill the X-Men as revenge and managed to trap Jean Grey in his mind to have a talk. After deciding nothing would improve with the X-Men around, Nate made all the X-Men present disappear leaving himself alone and unconscious.{{r|Uncanny X-Men Vol 5 10}}
+
+===[[Age of X-Man]]===
+Nate had transported all those present to another plane of existence of his own creation, the [[Age of X-Man (Plane)|Age of X-Man]], which he constructed in an attempt at a utopia where they and all other mutants would be at peace, altering their memories so they would not resist. However, multiple cracks developed in the fabric of reality, and a number of individuals defied the ban on romantic relationships. After the X-Men regained their memories and confronted Nate, along with a subconsciously created version of his girlfriend, [[Danielle Moonstar (Age of X-Man) (Earth-616)|Dani Moonstar]], who pointed out the flaws in his approach, he conceded his mistakes and released them back into Earth-616. After they left, he began to reconstruct the Age of X-Man with the advice and support of that reality's version of Magneto.{{r|Age of X-Man Omega Vol 1 1}}
+
+| Powers                  = 
+Nate was created to be the most powerful mutant on Earth and the most powerful psionic imaginable.{{r|X-Man #37}} He was classified as an [[Mutant Power Level Classification|Omega Level Mutant]],{{r|Dark X-Men #2}} a psi of the first order,{{r|X-Man #10}}{{r|X-Man #27}} an Alpha-Psi,{{r|X-Man #41}} and an [[Omega Level Threat]].{{r|Dark X-Men #2}} He was described as the most powerful{{r|X-Man #5}}<!-- mutant -->{{r|X-Man #8}}<!-- man -->{{r|X-Man #12}}<!-- psionic -->{{r|X-Man #13}}<!-- being --> and the most dangerous{{r|X-Man #5}}{{r|X-Man #13}} being on the [[Earth|planet]], the ultimate mutant,{{r|X-Man #23}}{{r|X-Man #33}} the most powerful psionic in [[Multiverse|any reality]],{{r|X-Man #25}}{{r|Onslaught Marvel Universe #1}} as near omnipotent,{{r|Onslaught Marvel Universe #1}}<!-- described as able to do anything -->{{r|Dark X-Men #1}}{{r|Dark X-Men #2}}{{r|Dark X-Men #5}} and as a living god.{{r|Dark X-Men #2}}
+
+As he grew, he possessed enough power that he could destroy entire worlds if he wished.{{r|X-Man #70}} Even a small trace of his powers led to the almost instantaneous overload of [[Michael Pointer (Earth-616)|Omega]] and [[Calvin Rankin (Earth-616)|Mimic]].{{r|Dark X-Men #2}} His power is such that upon examination by Moira MacTaggert, she suggested his psionic powers rivaled that of a [[Phoenix Force (Earth-616)|Phoenix Force-imbued]] [[Jean Grey (Earth-616)|Jean Grey]]{{r|X-Man #12}}{{r|Excalibur #95}} even though at that time he just started to learn how to use his powers. It was also stated that he can fight on par with the [[Robert Reynolds (Earth-616)|Sentry]].{{r|Dark X-Men #2}} Nate even stated that he and the Sentry fought [[Galan (Earth-616)|Galactus]].{{r|Dark X-Men #3}}
+
+His powers were burnt out by the [[Omega Machine]],{{r|New Mutants Vol 3 27}} and he lost access to almost all of his abilities. He was left with limited telekinetic and telepathic abilities, but slowly regained control over more advanced powers.
+
+Eventually, thanks to a [[Life Seed]], Nate fully recovered and became even more powerful than ever before,{{r|Uncanny X-Men Vol 5 10}} and is now stated to be [[:Category:Beyond Omega Level Mutants|more than Omega Level]].{{r|Uncanny X-Men Vol 5 4}}
+
+His powers include:
+
+[[File:Nathaniel Grey (Earth-295) from Dark X-Men Vol 1 2 001.jpg|thumb|200px|Nate wills himself back into being]]
+'''Psionic Entity:''' After Nate transformed his body into energy and dissolved it into every living creature on the Earth,{{r|X-Man #75}} his consciousness actually continued to exist on the [[Astral Plane]],{{r|Dark X-Men #1}}{{r|Dark X-Men #3}} evolving into a psionic being and was no longer restricted by the boundaries of the physical world.
+
+* '''Physical Reconstitution:''' Nate later learned how to rebuild his body from psionic energy.{{r|Dark X-Men #1}} He can recreate his body anywhere.{{r|Dark X-Men #3}} He can also turn himself back to psionic energy at will, and can survive his physical body's destruction by becoming psionic energy again.{{r|Dark X-Men #3}}
+** '''Self-Detonation:''' He can explode his body while reversing back to psi-energy.{{r|Dark X-Men #3}} This leaves a corpse behind which can fool opponents into believing he is dead.{{r|Dark X-Men #3}}
+
+* '''Physical Possession:''' Along with learning to rebuild his physical form, X-Man's heightened state of existence has allowed him to possess people.{{r|Dark X-Men #3}} While possessing someone, he can explore their mind from the inside.{{r|Dark X-Men #4|5}} It is possible that if he possesses a mutant, he can use their powers along with his own.{{Citation}}
+
+'''Psionic Energy Manipulation:''' Nate is able to manipulate psionic energy for various purposes.
+
+* '''Psionic Energy Absorption:''' He is able to absorb psionic energy from other living beings or psi-attacks, and use it to amplify himself.{{r|X-Man #47}}{{r|X-Man #52}} He is able to almost instantly siphon psionic energy from a few dozen psychics without any effort, that left them all unconscious on the brink of death.{{r|Dark X-Men #2}}
+
+* '''Psionic Energy Solidification:''' He is able to make psionic energy solid and shape it to any suitable form.
+** '''Astral Projection Materialization:''' He is able to pull entities from the astral plane into the physical world.{{r|X-Man #10}}{{r|Onslaught X-Men #1}} He did this to [[Charles Xavier (Earth-616)|Professor X]]'s astral form, which accidentally unleashed [[Onslaught (Psychic Entity) (Earth-616)|Onslaught]]. According to Onslaught, Nate is the only mutant to have ever done this, and Onslaught's escape was only possible thanks to Nate.{{r|Uncanny X-Men Vol 1 334}} Even [[Jean Grey (Earth-616)|Jean Grey]] was unable to do so, according to [[Moira MacTaggert (Earth-TRN748)|Moira MacTaggert]].{{r|X-Man #11}}
+** '''Psionic Armor:{{r|X-Man #47}}{{r|X-Man #50}}{{r|X-Man #59}}''' He is able to form psi-armor around himself, that greatly increased his strength and durability. While armored he was able to counter-force [[Nemesis (Earth-295)|Holocaust]]'s strength,{{r|X-Man #44}} push the [[Bruce Banner (Earth-616)|Hulk]] miles away with just one punch,{{r|X-Man Annual #1998}} and withstand the grip strength of [[Thanos (Earth-616)|Thanos]].{{r|X-Man Annual #1998}} He was also able to form psionic armor around other people.{{r|X-Man Annual #1998}}
+** '''Psionic Weapons:''' Nate can shape psi-energy into various weapons like hammers,{{r|Excalibur #95}} scythes,{{r|X-Man #38}} claws,{{r|X-Man #36}}{{r|X-Man #45}} lashes,{{r|X-Man #14}} etc.
+** '''Psionic Energy Materialization:''' He is able to create perfect replicas of normal matter by materializing psionic energy. He created a psionic construct of the arm of [[Jasmine Archer (Earth-616)|Jam]],{{r|X-Man #34}} that looked, felt and worked like a real arm;{{r|X-Man #35}} the copy was so perfect that even a professional doctor could not determine that it was not real.{{r|X-Man #34}} These psionic constructs are independent from Nate and continue to exist even without any support from him, they cease to exist only if Nate decides so.{{r|X-Man #36}}
+*** '''Psionic Body:''' He later vastly improved this power and was able to create an entire human body out of psi-energy, that even had the consciousness, memories and temper of [[Gwendolyne Stacy (Earth-295)|the original person]].{{r|X-Man #37}} After his return he created a few such bodies for himself,{{r|Dark X-Men #1}}{{r|Dark X-Men #3}} including his current one.{{r|Dark X-Men #5}}
+**** '''Resurrection:''' Nate can potentially bring people back to life by psionically recreating them (as a psionic entity). He subconsciously brought [[Madelyne Pryor (Earth-616)|Madelyne Pryor]] back to life.{{r|X-Man #25}} Regretting this, he later tried to undo Pryor's existence but she had become independent of him.{{r|X-Man #25}}
+
+'''Astral Plane Tap:''' Ability to tap into the virtually unlimited psychic resources of the astral plane in order to manipulate matter and energy (even down to the molecular level) and up to a potentially unlimited scale.
+
+[[File:Nathaniel Grey (Earth-295) from Uncanny X-Men Vol 5 4 002.jpg|thumb|right|200px|X-Man communicating with everyone on Earth and a few people in space]]
+'''[[Telepathy]]:''' Nate is considered the world's most powerful telepath,{{r|X-Man #31}}{{r|Astonishing X-Men Vol 2 1}}{{r|Astonishing X-Men Vol 2 3}} but not the most skillful, as he himself admitted.{{r|X-Force #57}} Nate was able to converse telepathically, read minds of dozens of people simultaneously,{{r|Excalibur #95}} read thoughts across vast distances,{{r|Excalibur #95}} surface scan up to several millions minds to find a specific person,{{r|X-Man #20}}{{r|X-Man #35}} etc. He can even communicate across the [[Multiverse]].{{r|X-Man #74}} Nate considers telepathy to be his sixth sense and his most important one.{{r|X-Man #43}} After Nate recovered from the power loss with a [[Life Seed]], his telepathy reached unprecedented level as he was able to project a message into the minds of everyone on Earth with little effort (a feat that Jean Grey doubted [[Charles Xavier (Earth-616)|Charles Xavier]] at his most powerful could have done).{{r|Uncanny X-Men Vol 5 4}}
+
+*'''Astral Projection:''' Capable of forging psi-links to travel in astral form alone{{r|X-Man #1}}{{r|X-Man #41}} or with others.{{r|X-Man #-1}}{{r|X-Man #2}}
+
+*'''Telepathic Defense:''' He can use telepathy in a number of defensive ways:
+**'''Mind Cloaking:''' Nate is able to mask himself and his abilities from being detected,{{r|X-Man #36}} even by powerful telepaths like [[Charles Xavier (Earth-616)|Charles Xavier]]{{r|X-Man #5}} and [[Bennet du Paris (Earth-616)|Exodus]].{{r|X-Man #14}}
+***'''Undetectability:''' By tweaking the [https://en.wikipedia.org/wiki/Sense basic senses] of others, Nate was able to make himself completely imperceptible, even by [[Rahne Sinclair (Earth-616)|those]] with superhumanly acute senses.{{r|X-Man #26}} He is also able to psionically conceal his own life-signs, to convince everyone around him and even the high-tech equipment of the [[Psi-Ops (Earth-616)|Psi-Ops]]' agents that he was dead.{{r|X-Man #38}} He is able to hide himself and others from the sensors of [[Prime Sentinels (Earth-616)|Prime Sentinels]],{{r|X-Man #30}} and even from [[Cerebro (Mutant Detector)|Cerebro]], which is extremely difficult, thought to be impossible, for even the strongest of mutants to accomplish.{{r|X-Man #10}}
+**'''Mental Shield:''' He can protect his mind from mental intrusions, illusions, mind control, mind manipulation, etc. His telepathic defense is so great that even while inexperienced and weakened, he easily blocked such powerful telepaths as [[Charles Xavier (Earth-616)|Charles Xavier]].{{r|X-Man #10}} Even when his telepathy was non functional, Nate was able to sense when someone tried to read his mind and trace it back to the telepath.{{r|Generation X #50}} He is also able to see through illusions created by powerful telepaths like [[Emma Frost (Earth-616)|Emma Frost]].{{r|X-Man #50}} Nate can escape from illusions created by such technical specialists like [[Daniel Berkhart (Earth-616)|Mysterio]].{{r|X-Man #57}} His mental defense is so impervious, that it even protected him from being affected by [[Robert Reynolds (Earth-616)|Sentry]]'s powers, as he was apparently the only person on the planet who kept his memories about the Sentry, when the entire world was made to forget about him.{{r|Dark X-Men #3}}
+***'''Automatic Psionic Defense:''' After Nate studied and absorbed the memories of [[Roberto Da Costa (Earth-616)|Sunspot]] about the teachings of the [[Clan Askani (Earth-4935)|Askani]], he learned how to thoroughly protect his mind from intrusions and overcome psi-dampers placed on his powers.{{r|X-Force #57}} He also created a special automatic psionic defense mechanism that rerouted the synaptic links and neural relays in his brain every time someone tried to read, manipulate, mentally intrude or control his mind; making all attempts eventually ineffective.{{r|X-Man #19}}
+***'''Mental Shield Removal:''' Nate can easily overcome psi-shields created by other powerful telepaths, such as [[Charles Xavier (Earth-616)|Charles Xavier]],{{r|X-Man #27}} and even shields created by joint efforts from several telepaths.{{r|X-Man #64}}
+
+*'''Telepathic Illusions / Psi-Projections:{{r|X-Man #20}}''' Nate is able to create realistic illusions, that cause people to see and experience events, that are not actually occuring in reality.{{r|X-Man #13}}{{r|X-Man #28}}{{r|X-Man #59}} His illusions can fool even [[Prime Sentinels (Earth-616)|Prime Sentinels]]{{r|X-Man #30}} and trap a technical specialist in illusions like he did with [[Daniel Berkhart (Earth-616)|Mysterio]] in the illusory world, Greyville.{{r|X-Man #57}} It's not known how many people Nate can affect at the same time, but it's probably a few thousand or even tens of thousands.{{r|X-Man #52}}
+**'''Telepathic Camouflage / Psi-Skin:{{r|X-Man #21}}''' Illusions also help him disguise himself and others, by altering his appearance to the perceptions of those around him,{{r|X-Man #31}}{{r|X-Man #36}} or make himself and others mentally invisible.{{r|X-Man #22}} However his camouflage can be broken, if he does something physically superhuman.{{r|X-Man #21}}
+**'''Mental Projection:'''{{r|X-Man #26}} Nate can telepathically broadcast his semi-real image halfway around the world from Switzerland to New York.{{r|X-Man #26}} Through this projection, he could see, hear and talk like a normal person, but had no tangible form.{{r|X-Man #26}} Eventually he could do this across the [[Multiverse]], as he projected himself to [[Qabiri (Brilliant City)|Qabiri]] many realities apart.{{r|X-Man #74}}
+
+[[File:Nathaniel Grey (Earth-295) and David Haller (Earth-616) from Uncanny X-Men Vol 5 10 001.jpg|thumb|200px|Controlling Omega Red, Magneto, Legion, Storm, and Blob]]
+*'''Mind Control:''' Nate is capable of overriding a person's will, and telepathically control their thoughts and actions.{{r|X-Man #1}}{{r|X-Man #13}}{{r|X-Man #59}} He is shown to be able to control dozens of people simultaneously.{{r|X-Man #33}} He can control [[Max Eisenhardt (Earth-616)|Magneto]], even when the latter is wearing [[Magneto's Helmet|his helmet]] that protects him from psionic attacks.{{r|Uncanny X-Men Vol 5 10}} Even more impressive, he is powerful enough to take over [[David Haller (Earth-616)|Legion]]'s mind, a feat Legion did not expect to be possible.{{r|Uncanny X-Men Vol 5 8}}
+**'''Suggestion / Persuasion:''' Sometimes he is able to control people just by simple verbal commands.{{r|X-Man #10}}{{r|Dark X-Men #3}}{{r|Uncanny X-Men Vol 5 #3}}
+**'''Psychosomatic Suggestion:''' He is able to implant strong thoughts and feelings in the minds of others, which caused a corresponding physical response of the body. He was able to instantly freeze [[Venom (Symbiote) (Earth-616)|Venom]], just by reminding him that it had happened to him in the past.{{r|Dark X-Men #3}}
+**'''Mental Paralysis:''' He is able to "brain-freeze" one or more people, effectively stopping their physical and mental activity for a while.{{r|X-Man #21}}{{r|X-Man #36}}
+
+*'''Memory Manipulation:'''
+**'''Memory Reading:''' He is able to read the memories of those around him,{{r|X-Man #6}}{{r|X-Man #20}}{{r|X-Man #31}} and project himself into a person's memories{{r|X-Man #4}}{{r|X-Man #15}} or place others into his memories{{r|Amazing Spider-Man #420}} to explore it from the inside. He can read memories of several people simultaneously and combine them to form a full picture.{{r|Uncanny X-Men #335}} He was able to read the entire life story of a person.{{r|Excalibur #95}}{{r|X-Man #31}}
+**'''Memory Erasure:''' At first he was capable of instantly erasing the memories of himself from the minds of a dozen people.{{r|X-Man #10}}{{r|X-Man #21}} Later he developed this power to an even greater degree, and was able to simultaneously manipulate the minds of more than 7 million citizens of New York, erasing every memory about him and his life in New York.{{r|X-Man #36}}<!-- According to Wikipedia page about New York City, between 1990 and 2000 population of the city was from 7 to 8 million -->
+**'''Memory Implantation:''' He is able to place psychic implants in the minds of others, that replaced their memories with false ones. He could also make these implants deadly, so that if they were removed the person could die.{{r|X-Man #13}}
+**'''Memory Projection / Telemorphic Manifestation:{{r|X-Man #19}}''' He is able to project someone's memories in order for them to be visually seen.{{r|X-Man #6}}{{r|X-Man #19}}{{r|Uncanny X-Men #335}} [[Nathaniel Essex (Earth-616)|Mr. Sinister]] said that this was theoretically impossible to do.{{r|X-Man #19}}
+**'''Memory Recall:''' He is able to remind himself as well as other people of the memories that they forgot.{{r|Dark X-Men #3}}
+***'''Memory Overload:''' He is able to flood the minds of others with an abundance of information of traumatic memories of their past, which overloaded their consciousness,{{r|X-Man #3}} emptying their mind and soul, and placing a person into a coma-like state.{{r|X-Man #4}}
+**'''Memory Exchange:''' He is able to temporarily put the memories of one person into the mind of another, including his own.{{r|X-Man #22}}
+***'''Memory Absorption:''' He can absorb information, memories, knowledge and skills from others and use it as his own,{{r|X-Man #18}}{{r|X-Force #57}}{{r|X-Man #27}} and even absorb the entire consciousness of a person.{{r|X-Man #31}}
+**'''Memory Restoration:''' By reading the deep subconscious of a person, Nate was able to restore their fractured and/or lost memories.{{r|X-Man #31}}
+
+*'''Mind Link:''' He is able to create a permanent mental link with another person which allowed them to share thoughts, memories and feelings,{{r|X-Man #3}} and he was able to sense the whereabouts of said person.{{r|X-Man #1}}{{r|X-Man #4}}
+**'''Hive Mind / Telepathic Web:{{r|X-Man #66}}''' Nate can interconnect several people to a hive mind of sorts, with him as leader, which allow all members to share thoughts, memories and feelings with each other and maintain a permanent mental link with each other.{{r|X-Man #65}}{{r|X-Man #66}}
+
+*'''Mental Blasts:''' Nate can project stunning bolts of psionic energy, which have no physical effects, but cause pain to the victim's mind{{r|X-Man #37}} or render them unconsciousness.{{r|X-Man #2}}
+
+*'''Intuitive Multilingual:''' Capable of intuitively translating and learning new languages,{{r|X-Man #5}}{{r|X-Man #7}}{{r|X-Man Annual #1998}}<!-- French -->{{r|X-Man All Saints Day #1}}<!-- German --> including alien languages.{{r|X-Man #61}}<!-- Shi'ar -->
+
+*'''Psychometry:''' He can read residual thought imprints left on objects touched by people. By touching an object, Nate is able to see past events that happened with the object and around it, days{{r|X-Man #31}} or even decades ago.{{r|X-Man #-1}} Sometimes he did not even need to touch an object, only enter the room to see what happened there many years ago.{{r|X-Man #-1}} Psychometry also allows him to see the possible future of an object.{{r|X-Man #22}}
+**'''Precognition & Retrocognition:''' Nate is also a powerful precog and retrocog. At first he was able to see visions of the future during a trance{{r|X-Man #39}} or through precognitive dreams.{{r|X-Man #53}} Later he learned another way to see, by displacing himself into a time-stream that shows every version of every possible future, as well as past and present events.{{r|Dark X-Men #2}}{{r|Dark X-Men #3}} Nate possibly used his precognition powers to concoct his plan against [[Norman Osborn (Earth-616)|Norman Osborn]].{{r|Dark X-Men #3}} He can also trigger visions of other precogs and share them.{{r|X-Man #71}}
+
+*'''[[Cyberpathy]]:''' Nate is able to communicate with computers{{r|X-Man #66}} and control [[Prime Sentinels (Earth-616)|cyborgs]].{{r|X-Man #30}}
+
+[[File:En Sabah Nur (Earth-616) from Uncanny X-Men Vol 5 4 001.png|thumb|200px|Apocalype reminding Kitty Pryde that Nate negated her powers]]
+*'''Power Manipulation:''' Nate is able to directly activate and control the superpowers of other beings, without taking control of their body or mind.{{r|X-Man #17}}{{r|X-Man #71}}
+**'''Power Bestowal:''' Nate can grant superhuman powers to others as he did with [[Marcus Arlington III (Earth-616)|Marcus Arlington III]].{{r|X-Man #34}} Nate gave [[Frederick Dukes (Earth-616)|Blob]] (his [[Horsemen of Salvation (Earth-616)|Horseman of Bounty]]) and [[Arkady Rossovich (Earth-616)|Omega Red]] (his [[Horsemen of Salvation (Earth-616)|Horseman of Wellness]]) the ability to transform an oil rig into a jungle.{{r|Uncanny X-Men Vol 5 5}}
+**'''Power Amplification:''' He can increase other mutants powers to incredible levels.{{r|X-Man #32}}{{r|X-Man #33}}{{r|X-Man #64}}
+**'''Power Negation:''' He can place mental blocks to prevent people from using their powers.{{r|Amazing Spider-Man #425}}{{r|X-Man #63}}{{r|Uncanny X-Men Vol 5 4}}
+
+*'''Telepathic Tracking:''' Nate is able to find any person by isolating their psi-signature on the Astral Plane and tracing it all around the globe.{{r|X-Men #36}}{{r|X-Man #65}}
+**'''Telepathic Tracer:''' He can also place a special "tracer" on a chosen person, which allowed him to track that person's movements.{{r|X-Man #22}}
+
+*'''Dream Manipulation:''' He is able to manipulate dreams of others.{{r|Amazing Spider-Man #420}}
+
+'''[[Telekinesis|Immense Telekinesis]]:''' Nate is the most powerful telekinetic on Earth.{{r|X-Man #68}}{{r|Astonishing X-Men Vol 2 1}} Nate is capable of very fine control over objects down to the molecular and even subatomic level. He could telekinetically move the chemicals in someone's brain around.{{r|X-Man #63}} He can disassemble and reassemble complex devices within minutes. On larger scales, Nate can levitate vast weights, but his upper limit remained undisclosed. Nate telekinetically destroyed the city of Quito in his sleep, while being thousands of miles away in Buenos Aires.{{r|X-Man #67}} He can move the tectonic plates and he once threatened to sink a continent.{{r|Uncanny X-Men Vol 5 9}}
+
+*'''Flight:''' By telekinetically levitating himself, Nate is able to fly at amazing speeds. His maximum speed is unknown, but Nate was able to fly across the Atlantic from London to the [[Massachusetts Academy]] overnight.{{r|X-Man #50}} Later his speed drastically increased, exceeding hyper-sonic speeds many times over, as he was able to fly out of the planet's atmosphere in a matter of seconds.{{r|X-Man #43}}{{r|X-Man #75}} Nate can also remotely levitate other people.{{r|X-Man #17}}{{r|X-Man #21}}{{r|X-Man #22}}{{r|X-Man #66}}{{r|Amazing Spider-Man #420}}
+
+*'''Force Fields:''' Nate is able to create nigh impenetrable{{r|X-Man #17}} protective force shields, that could protect him from the physical attacks of [[Brian Braddock (Earth-616)|Captain Britain]],{{r|X-Man #12}} [[Piotr Rasputin (Earth-616)|Colossus]],{{r|X-Man #12}} [[Benjamin Grimm (Earth-616)|Thing]],{{r|X-Man #59}} a rocket fired at close range,{{r|X-Man Annual #1996}} corrosive acid,{{r|X-Man #73}} hurricane winds,{{r|X-Man #10}} point blank explosions,{{r|X-Man #33}} lava,{{r|X-Man #25}} a direct lightning strike,{{r|X-Man #10}} atmospheric re-entry,{{r|X-Man #43}}{{r|X-Man #75}} [[Maxwell Dillon (Earth-616)|Electro]]'s electric discharge,{{r|Amazing Spider-Man #425}} [[Psi-Ops (Earth-616)|Psi-Ops]]' blasts,{{r|X-Man #52}} [[Prime Sentinels (Earth-616)|Prime Sentinel]]'s laser beams,{{r|X-Man #30}} [[Fever Pitch (Earth-616)|Fever Pitch]]'s plasma beams,{{r|X-Man #50}} [[Nemesis (Earth-295)|Holocaust]]'s plasma beams,{{r|X-Man #16}} [[Jonathan Storm (Earth-616)|Human Torch]]'s flames,{{r|X-Man #59}} and even from [[Qabiri (Brilliant City)|Qabiri]]'s blasts (that are powerful enough to destroy a planet),{{r|X-Man #72}} and punches from overwhelmingly strong beings like [[Modt (Earth-616)|Modt]].{{r|X-Man #55}} His force fields activate instinctively,{{r|X-Man #5}} sometimes he is not even aware of it.{{r|Cable #30}} He can also form shields around dozens of people simultaneously.{{r|X-Man #17}}{{r|X-Man #22}}
+**'''Telekinetic Bubble:{{r|X-Man #33}}''' Normally his force fields are skin-tight, but he can also expand them to form spherical shields to extend protection to several people at the same time,{{r|X-Man #48}}{{r|X-Man #50}} cover vast areas,{{r|X-Man #56}} or hold oxygen to breathe in inhospitable environments.{{r|X-Man #62}}{{r|X-Man #73}}
+**'''Molecular Filter:''' Nate is able to fine-tune force fields for specific types of matter to either block said specific matter or allow only it through his shields. For example he was able to stop oxygen from reaching a person,{{r|X-Men Unlimited #31}} separate smoke from air,{{r|X-Man #42}} block pheromones from entering the body,{{r|X-Man #36}} etc. He even later stated that pheromones are ineffective against him since he sampled every possible chemical.{{r|Dark X-Men #3}}
+**'''Thermal Adaptation:''' He is also able to use force fields to protect himself from extreme temperatures.{{r|Cable #30}}{{r|X-Man #25}}{{r|X-Man #49}}{{r|X-Man #50}}{{r|X-Man #59}}
+**'''Force Fields Removal:''' Nate can easily destroy the force fields of other powerful telekinetics, such as [[Nathaniel Summers (Earth-616)|Cable]].{{r|Cable #30}}
+**'''Telekinetic Deflection:''' Nate is able to deflect and/or redirect attacks, like projectiles, away from himself.{{r|X-Man Annual #1996}}{{r|X-Man #53}} His control and power is so great and finely tuned, that instead of stopping an explosion like most telekinetics tend to do, he simply curved the energy of the shock-wave and the exploding shrapnel around him.{{r|X-Factor Vol 3 22}}
+
+*'''Telekinetic Holograms:{{r|X-Man #50}}''' His mental fine motor skills were so acute that he could mentally manipulate dust and dirt to create realistic holograms.{{r|X-Man #44}}{{r|X-Man #50}}
+
+*'''Concussive Blasts:''' Nate can project telekinetic energy as powerful beams from his eyes,{{r|X-Man #1}}{{r|X-Man #3}}{{r|X-Man #4}} hands{{r|X-Force #57}}{{r|X-Man #53}}{{r|X-Man #54}} or entire body,{{r|X-Man #40}} that could affect matter with concussive and/or explosive{{r|X-Man #3}} force. These blasts vary from a hard push,{{r|X-Man #53}} to punching through the walls,{{r|X-Man #1}} robotic bodies of the [[Infinites (Earth-295)|Infinites]]{{r|X-Man #1}} or [[Prime Sentinels (Earth-616)|Prime Sentinels]],{{r|X-Man #30}} and up to total destruction of [[James Marks (Earth-616)|Hybrid]]{{r|X-Man #31}} and [[Tanaraq (Earth-616)|Tanaraq]] of the [[Great Beasts (Earth-616)|Great Beast]].{{r|X-Man #40}} He was even able to crush the entire city of [[Quito]] in [[Ecuador]], in just a few moments, in his sleep.{{r|X-Man #67}}
+**'''Telekinetic Flare:''' He is also able to create devastating omni-directional blasts of energy,{{r|X-Man #1}} powerful enough to instantly blow up entire buildings,{{r|X-Man #3}}{{r|X-Man #36}} and even destroy the special house created by Cable that was considered to be able to withstand the strongest of attacks.{{r|Cable #30}} One of his strongest flares created a huge rift in the ground a few miles in size.{{r|X-Man #39}}{{r|X-Man #40}} Nate could potentially create so powerful a flare that could destroy half the planet, or more.{{r|X-Man #39}}
+
+[[File:Nathaniel Grey (Earth-295) and Nathaniel Summers (Earth-616) from X-Man Vol 1 47 001.jpg|thumb|200px|Phasing through Cable and walls]]
+*'''Intangibility:''' Can phase through solid matter by mentally shifting his molecules around another object's as he moves forward.{{r|X-Man #23}}{{r|X-Man #35}}{{r|X-Man #47}} Nate can selectively phase only certain parts of his body, while the rest of his body remains solid.{{r|X-Man #22}} He can also phase other people and does not require physical contact to do so.{{r|X-Man #21}}
+
+*'''Energy Manipulation:''' Nate was able to telekinetically manipulate the various types of energy of the electromagnetic spectrum.
+**'''Electromagnetic Pulses:''' He can use telekinesis to channel the Earth's magnetic field through the electro-current of his brain and generate electromagnetic pulses that disrupt electronics.{{r|X-Man #35}} He can channel enough energy to generate so devastating an electromagnetic pulse, that it affected an area of a few miles in size, and left behind a residual electromagnetic charge, powerful enough to disrupt electronics even a few hours later.{{r|X-Man #40}}
+**'''Electric Blasts:''' He can also channel the electromagnetic field of the planet into directed discharges of high-voltage energy from his eyes, hands and entire body,{{r|X-Man #38}} and possibly even discharge lightning.{{r|X-Man #33}}
+**'''Light Manipulation:''' He is able to control visible light for various effects:{{r|X-Man #12}}
+***'''Flash Light:''' Nate is able to create flashes of visible light, powerful enough to blind a group of people for a short time.{{r|X-Man #36}}
+***'''Invisibility:''' Nate can telekinetically deflect light around himself to become invisible.{{r|X-Man #36}}{{r|X-Man #50}}{{r|X-Man #51}}
+*'''Matter Manipulation:''' The ability to alter molecular and atomic structures in various substances.{{r|X-Man #53}}
+**'''[[Atmokinesis]]:''' By hyper-agitating the molecules in clouds, Nate was able to bring forth rain and lightning.{{r|X-Man #42}}
+**'''[[Aerokinesis]]:''' Nate is able to create whirlwinds{{r|X-Man #37}} and even create a vacuum.{{r|X-Man #44}}
+**'''[[Hydrokinesis]]:''' He is able to part the sea,{{r|X-Man #12}} control and shape snow{{r|X-Man #25}} and clouds.{{r|Generation X #50}}
+**'''[[Geokinesis]]:''' Nate is able to open and close fissures in the earth,{{r|X-Man #14}} cause{{r|X-Man #14}} and stop{{r|X-Man #42}} earthquakes, and even form hollow mounds of earth as protective 'armor'.{{r|X-Man #52}}
+**'''[[Pyrokinesis]]:''' Nate was able to ignite a subterranean gas pipeline,{{r|X-Man #33}} creating fire by igniting oxygen molecules in the air{{r|X-Man #57}} and then extinguish the flames,{{r|X-Man #42}} momentary incinerate a person{{r|X-Man #46}}{{r|X-Man #68}} and even several people at the same time.{{r|X-Man #66}}
+**'''[[Glossary:Thermokinesis|Thermokinesis]]:''' By agitating the motion of water molecules, he was able to heat and boil water around his enemy while both of them were underwater.{{r|X-Man #38}}
+**'''Inanimate Disintegration:''' He can disperse objects down to its sub-atomic molecular state.{{r|X-Man #33}}{{r|X-Man #48}}
+**'''[[Gravitikinesis]]:''' Nate is able to manipulate the gravitational field of the planet. He was able to negate gravity even on very huge objects,{{r|X-Man Annual #1996}} and he himself said that it did not pose any challenge for him.{{r|X-Man #25}} He was also able to isolate the gravitational field around certain objects or people, and since objects are held on the surface of the planet by the gravitational field, while the planet is constantly moving in space, removing the field of gravity would cause objects to fly out the planet's atmosphere almost instantly.{{r|X-Man #40}}{{r|X-Man #51}}
+
+*'''Teleportation:''' X-Man even learned that he could use his telekinesis to transport himself and other people to any location{{r|X-Man #34}} and/or create portals for teleportation.{{r|X-Man #71}}
+**'''Interdimensional Teleportation:''' He is also able to travel into other dimensions and realities. At first he did so accidentally,{{r|X-Man Annual #1996}}{{r|X-Man #67}} but quickly learned how to control this ability{{r|X-Man #70}} and mastered it.{{r|X-Man #65}}{{r|X-Man #66}}{{r|X-Man #71}}{{r|X-Man #72}}{{r|X-Man #73}}{{r|X-Man #74}} Nate is labelled a "world-walker" by [[Qabiri]] because of his ability to traverse the [[Multiverse]] with ease.{{r|X-Man #73}}
+**'''Remote Teleportation:''' Nate is also able to remotely teleport objects{{r|X-Man #35}} and people{{r|X-Man #4}} without requiring any physical contact and across vast distances.{{r|Uncanny X-Men Vol 5 1}} He even can teleport them into other dimensions or realities without transporting himself along.{{r|X-Man #66}}
+***'''Dimensional Distortion:''' Nate can distort and/or destroy the dimensional barriers that separate dimensions and realities from one another, allowing [[Great Beasts (Earth-616)|residents]] of these [[Realm of the Beasts|dimensions]] travel to the main reality and vice versa.{{r|X-Man #39}}{{r|X-Man #40}}
+****'''Dimensional Sense:''' Capable of sensing dimensional rifts and/or anomalies,{{r|X-Man #40}} sense if someone traveled between realities{{r|X-Man #64}} and see the [[Multiverse|Spiral of Realities]].{{r|X-Man #67}}{{r|X-Man #68}}
+
+*'''Tactile Telekinesis:''' Nate can use telekinesis to enhance his own physiology:
+**'''Enhanced Strength:''' He can use telekinesis to increase his physical strength to such a degree that he was able to literally beat [[Nathaniel Essex (Earth-295)|Sinister]] to death despite his ability to rapidly regenerate the cells of his body,{{r|X-Man #4}} lift large stones,{{r|X-Man #61}} leap to heights and distances greater than that of an ordinary human,{{r|X-Man #61}} break [[Nemesis (Earth-295)|Holocaust]]’s armor,{{r|X-Man #17}} tear through Psi-Ops’ shielded ship,{{r|X-Man #52}} etc. Combining telekinetically increased strength with his force fields, Nate was able to fight with [[Rex (Earth-616)|Rex]],{{r|X-Man #8}} [[Carl Denti (Earth-616)|X-Cutioner]],{{r|X-Man #11}} [[Psi-Ops (Earth-616)|Psi-Ops]],{{r|X-Man #52}} [[Benjamin Grimm (Earth-616)|Thing]],{{r|X-Man #59}} [[Nemesis (Earth-295)|Holocaust]],{{r|X-Man #4}}{{r|X-Man #16}} [[En Sabah Nur (Earth-295)|Apocalypse]]{{r|X-Man #4}} and even [[Ares (Earth-616)|Ares]].{{r|Dark X-Men #3}}
+**'''Enhanced Speed:''' He can use telekinesis to increase his running speed, though it is unknown to exactly what degree.{{r|X-Man #61}}
+
+'''Healing:''' He can heal himself and others.{{r|X-Man #49}}{{r|X-Man #70}} [[Marcus Arlington III (Earth-616)|Marcus Arlington III]] described Nate's powers as a gift and a healing power that could cure the likes of cancer, but it is limited by Nate's lack of knowledge.{{r|X-Man #35}} When Nate first encountered Arlington, he accidentally created a link between them; Nate's powers and Arlington's medical knowledge allowed them to completely regenerate a brand new arm for [[Jasmine Archer (Earth-616)|Jam]].{{r|X-Man #34}}{{r|X-Man #35}} Nate can also give other people healing abilities: Arlington retained some of Nate's residual healing powers, and he could perform miraculous feats such as healing gunshot wounds instantaneously.{{r|X-Man #34}} However, Arlington admitted that he is not a mutant, he cannot replenish the powers he was given, and he is not sure how long they will last.{{r|X-Man #35}} Later, after Nate declared himself a "shaman" of mutants, he travelled around the world healing people in need.{{r|X-Man #70}}{{r|X-Man #71}}
+
+[[File:Nathaniel Grey (Earth-295) and Calvin Rankin (Earth-616) from Dark X-Men Vol 1 3 001.jpg|thumb|200px]]
+[[File:Nathaniel Grey (Earth-295) and Karla Sofen (Earth-616) from Dark X-Men Vol 1 3 001.jpg|thumb|200px]]
+'''Chronokinesis:''' Nate is able to manipulate the time-stream itself to achieve various effects:
+*'''Temporal Stasis:''' He is able to stop or at least drastically slow down time in a specific area.{{r|Cable #30}}
+*'''Time Travel:''' He is able to travel in time to the past and the future.{{r|X-Man Annual #1996}}
+*'''Stepping out of the Time-stream:''' After his return, he proved able to step out of time, and enter the [https://en.wikipedia.org/wiki/Planck_length "Planck Length"] between moments. Within it he was able to see the time-stream, past and present events as well as future possibilities, and he was also able to manipulate both the time-stream and past, present and future events within it.{{r|Dark X-Men #3}}
+
+'''[[Glossary:Reality warper|Reality Warping]]:''' Nate Grey is a reality warping mutant.{{r|New Mutants Vol 3 26}}{{r|New Mutants Vol 3 27}}{{r|Uncanny X-Men Vol 1 335}} When Nate was attached to the Omega Machine, it used his reality warping abilities to conceal them.{{r|New Mutants Vol 3 26}}{{r|New Mutants Vol 3 27}} [[Danielle Moonstar (Earth-616)|Danielle Moonstar]] thought it was an illusion but [[Victoria Hand (Earth-616)|Victoria Hand]] corrected her by stating it was all real.{{r|New Mutants Vol 3 27}} Nate was able to erase all houses of worship around the world from existence with a single thought.{{r|Uncanny X-Men Vol 5 5}} He can also create miniature stars: The [[Jean Grey (Earth-9575)|Red Queen]] tried to use his power to create a second sun to burn all of Asia, but it was [[Nathaniel Grey (Earth-2098)|another Nate Grey]], who made the star harmless. Nate (Earth-295) created a star, and destroyed the Red Queen instead of Asia.{{r|X-Man #70}} He can also alter people's appearances, notably his [[Horsemen of Salvation (Earth-616)|Horsemen of Salvation]]{{r|Uncanny X-Men Vol 5 9}} and anyone in the Age of X-Man.{{r|Age of X-Man Omega Vol 1 1}}
+*'''[[Age of X-Man (Plane)|Age of X-Man]]:''' With a [[Life Seed]], Nate created a new plane of existence.{{r|Age of X-Man Omega Vol 1 1}} He molded reality/history to make it a [[Homo superior|mutant]] paradise.{{r|Age of X-Man: The Marvelous X-Men Vol 1 5}} He can manipulate anything there. For example, when [[Lucas Bishop (Earth-1191)|Bishop]] got excommunicated, not only did Nate alter everyone's memories, he altered pictures as well, replacing Bishop with [[Laura Kinney (Earth-616)|Laura Kinney]].{{r|Age of X-Man Alpha Vol 1 1}} However, he has to constantly maintain the plane as psychic "fissures" began to appear which leaked memories of the main reality into this one.{{r|Age of X-Man: The Marvelous X-Men Vol 1 3}}{{r|Age of X-Man: The Marvelous X-Men Vol 1 4}} Nate can create these fissures himself and load them with false memories.{{r|Age of X-Man: The Marvelous X-Men Vol 1 4}} Nate is aware of everyone and everything in the plane at all times, as if they are a part of him; when people take a step, he feels it as if they are walking on his chest.{{r|Age of X-Man Omega Vol 1 1}} Nate and the Age of X-Man are one, so if Nate dies, so does the Age of X-Man and everything in it.{{r|Age of X-Man Omega Vol 1 1}}
+*'''Reality Warp Resistance:''' Nate was able to see through the reality warping of powerful beings such as [[Jahf (Multiverse)|Jahf]] and [[Modt (Earth-616)|Modt]].{{r|X-Man #55}}
+
+[[File:Nathaniel Grey (Earth-295) 002.jpg|thumb|200px|Phoenix?]]
+'''Phoenix Force (potential avatar):''' According to the [[Shi'ar]], the carriers of the [[Grey Genome]],{{r|Uncanny X-Men #468}} [[Omega Level Mutants]],{{r|X-Men Phoenix Endsong #2}} and telepaths{{r|X-Men Phoenix Endsong #3}} have the potential to bond with the [[Phoenix Force (Earth-616)|Phoenix Force]], which makes Nate a potential host. His strength was compared to the [[Jean Grey (Earth-616)|Dark Phoenix]],{{r|X-Man #12}}{{r|Excalibur #95}}{{r|Cable #29}} and he was once surrounded by an aura similar to the Phoenix raptor.{{r|X-Man #43}}
+
+{{Navigation
+| title                   = Former Powers
+| body                    = [[File:Nathaniel Grey (Earth-295) 001.jpg|thumb|200px|Vampire]]
+'''[[Living Vampires|Pseudo-Vampirism]]:''' By unknown means Nate was infected by [[Michael Morbius (Earth-616)|Morbius]], and had been transformed into a being similar to a [[Vampires|vampire]].{{r|X-Man #24}} In this form he had red eyes, fangs and claws, and possibly possessed other vampiric powers, as well as weaknesses, like [[Michael_Morbius_(Earth-616)#Powers|Morbius]]. Nate eventually cured himself of his vampirism (possibly through his telekinetic ability to induce vitakinesis), as according to [[Peter Parker (Earth-616)|Spider-Man]], Nate either isolated and destroyed the vampirism virus with his telekinesis (possibly through his ability to molecularly disintegrate things) or he simply learned to live with it.
+}}
+
+| Abilities               = 
+'''Charisma:''' Nate possess natural charm and charisma, that easily attracts people to him to such an extent that it even impressed [[Zebediah Killgrave (Earth-616)|Purple Man]].{{r|X-Man #34}}{{r|X-Man #36}}
+
+'''Meticulous Mind:''' Although Nate has relatively little combat experience, he however is very observant and easily able to analyze his enemies and find their weaknesses. He often finds creative ways to use his abilities in extreme circumstances, even on the verge of death.{{r|X-Man #38}} Even in situations when his abilities were blocked or shut off entirely, he repeatedly found interesting ways around it.{{r|X-Man #37}} Even when he was just a child, he was already able to easily overcome and/or completely ignore psi-blocks placed by [[Nathaniel Essex (Earth-295)|Sinister]] specifically to block his powers.{{r|X-Man #-1}} Later he, without much effort, overcame psi-dampers developed by the [[Shi'ar Empire]], who thoroughly investigated his abilities beforehand.{{r|X-Man Annual #1997}}
+
+'''Weapons Specialist:''' Nate does not usually use weapons, but he absorbed a profound amount of knowledge about various firearms and armed combat techniques from [[Neena Thurman (Earth-616)|Domino]].{{r|X-Man #18}}
+
+'''Expert Survivalist:''' Having lived for many years in the wastelands of [[Earth-295|Age of Apocalypse]], he was taught by [[Forge (Earth-295)|Forge]] how to survive even in the most extreme surroundings.{{r|X-Man #1}}{{r|X-Man #36}}
+
+| Strength                = 
+Nate Grey possesses the normal human strength of a man his age, height, and build who engages in [[Strength_Scale#Average_Human|moderate regular exercise]].
+
+He can increase his physical strength with tactile telekinesis to superhuman level, but rarely do so, because any task that requires great physical strength he can perform with remote telekinesis.
+
+| Weaknesses              = 
+'''Overconfidence:''' Nate is very confident in his abilities, and sometimes acted too hastily and emotionally, often underestimating his enemies, which led to his defeat against weaker opponents.{{r|Dark X-Men #5}} His overconfidence also led to the fact that he unintentionally lessened his mental defenses against the [[Jean Grey (Earth-9575)|Red Queen]], allowing her to take control over his mind and body without him realizing it at first.{{r|X-Man #68}}
+
+'''Mind's Interconnection:''' His bio-signature{{r|X-Man #8}} and psi-signature{{r|X-Man #14}} are almost identical to [[Nathaniel Summers (Earth-616)|Cable]], so their minds are interconnected, causing them great pain and spontaneous exchange of memories, when they're in close proximity to each other.{{r|Cable #30}} Strangely enough he had not had such a problem with [[Nathaniel Summers (Earth-616)|Cable]]'s [[Nathaniel Summers (Stryfe) (Earth-4935)|clone]]{{r|X-Man #46}} or his own [[Nathaniel Grey (Earth-2098)|counterpart]] from another reality.{{r|X-Man #68}}
+
+{{Navigation
+| title                   = Former Weaknesses
+| body                    = '''Genetic Time Bomb:''' After testing Nate's power levels, [[Nathaniel Essex (Earth-295)|Sinister]] was so frightened, that he encoded a special genetic sub-program into Nate's D.N.A. that was supposed to kill him eventually.{{r|X-Man #-1}} [[Moira MacTaggert (Earth-TRN748)|Dr. Moira MacTaggert]] later conducted a study of Nate's body and came to the conclusion that he is unlikely to survive up to 21 years.{{r|X-Man #12}} His powers were slowly killing him, until his [[Nathaniel Grey (Earth-2098)|counterpart]] gave him his genetic X-Gene insignia, created by [[Jean Grey (Earth-9575)|Red Queen]] to stabilize his powers.{{r|X-Man #70}}
+}}
+
+| Equipment               = 
+| Transportation          = Telekinetic flight and teleportation. Formerly [[X-Men Blackbird]], [[Warlock (Technarch) (Earth-616)|Warlock]].
+| Weapons                 = 
+{{Navigation
+| title                   = Former Weapons
+| body                    = '''Electro-Stat Gauntlet:'''{{r|X-Man #28}} He stole this gauntlet from the agents of [[Department H (Earth-616)|Department H]] and used it while his telekinesis was off. The gauntlet can discharge electric blasts and control electronics.{{r|X-Man #27}} Eventually it ran out of energy.{{r|X-Man #29}}
+}}
+
+| Notes                   =
+===Enemies===
+* [[En Sabah Nur (Earth-295)|Apocalypse]]
+* [[Nathaniel Essex (Earth-295)|Sinister]]
+* [[Nemesis (Earth-295)|Holocaust]]
+* [[Psi-Ops (Earth-616)|Psi-Ops]]
+* [[Jean Grey (Earth-9575)|Red Queen]]
+* [[Qabiri (Brilliant City)|Qabiri]]
+* [[Harvester (Earth-616)|Harvester]]
+* [[Norman Osborn (Earth-616)|Norman Osborn]]
+
+===Love Interests===
+* [[Danielle Moonstar (Earth-616)|Dani Moonstar]]
+* [[Theresa Cassidy (Earth-295)|Sonique]]
+* [[Madelyne Pryor (Earth-616)|Madelyne Pryor]]
+* [[Melody Jacobs (Earth-616)|Threnody]]
+
+| Trivia                  = 
+[[File:Nathaniel Grey (Earth-295), Clarice Ferguson (Earth-295) and Kevin Sidney (Earth-295) from X-Men Unlimited Vol 1 27.jpg|thumb|X-Man, [[Clarice Ferguson (Earth-295)|Blink]], and [[Kevin Sidney (Earth-295)|Morph]]]]
+* X-Man, [[Clarice Ferguson (Earth-295)|Blink]], and [[Kevin Sidney (Earth-295)|Morph]] were originally supposed to be a team of X-Men by themselves, but it was later changed, and therefore never followed upon. Soon the series ''{{cl|Exiles Vol 1|Exiles}}'' was created, and ''{{cl|X-Man Vol 1|X-Man}}'' continued instead.{{r|X-Men Unlimited #27}}
+* According to Charles Xavier, Nate was about 17 years old when he came to Earth-616,{{r|X-Man #11}} and was still 17 during his battle with the [[Jean Grey (Earth-9575)|Red Queen]].{{r|X-Man #68}} Nate died [[Revolution|6 months later]] and returned a few months{{r|Heroic Age: Heroes #1}} after. He was connected to the [[Omega Machine]] for months{{r|New Mutants Vol 3 27}} until [[New Mutants (Earth-616)|New Mutants]] rescued him. Including a 16 month gap <!-- [[Time Runs Out|Eight months]] + [[All-New, All-Different Marvel|Eight months]] --> Nate is apparently at least 20 or more likely about 21 years old right now.
+* He was named by [[Nathaniel Essex (Earth-295)|Sinister]], in honor of himself and [[Jean Grey (Earth-295)|Jean Grey]].{{r|X-Man #-1}} However, when Nate escaped from Sinister's laboratory, he knew himself only as "Nate".{{r|X-Man #1}} Ironically, he adopted the surname "Grey" also in honor of Jean, after their meeting, even though he did not know that they were relatives.{{r|X-Man #5}}
+
+| Marvel                  = X-Man
+| Wikipedia               = Nate Grey
+| Links                   = * [http://xman.comicbooks.net/ The X-Man Homepage]
+* [http://uncannyxmen.net/characters/x-man uncannyxmen.net Spotlight On... X-Man]
+* [http://www.marveldirectory.com/individuals/x/xman.htm Marvel Directory]
+}}
+[[Category:Tattoos]]
+[[Category:Characters Displaced to Earth-616]]
+[[Category:Post-M-Day Mutants (Unregistered)]]
+[[Category:Utopians]]
+[[Category:Artificial Mutants]]
+[[Category:Alpha Psi]]
+[[Category:Omega Level Mutants]]
+[[Category:Omega Level Threats]]
+[[Category:Clones of Scott Summers]]
+[[Category:Clones of Jean Grey]]
+[[Category:Clones created by Mister Sinister]]
+[[Category:Mister Sinister Experiment]]
+[[Category:Summers Family]]
+[[Category:Grey Family]]
+[[Category:Essex Family]]
+[[Category:Forge's Family]]
+[[Category:Aerokinesis]]
+[[Category:Astral Projection]]
+[[Category:Atmokinesis]]
+[[Category:Chronokinesis]]
+[[Category:Clairvoyance]]
+[[Category:Concussive Blasts]]
+[[Category:Disintegration]]
+[[Category:Disruption]]
+[[Category:Dream-Based Powers]]
+[[Category:Electrokinesis]]
+[[Category:Energy Absorption]]
+[[Category:Energy Form]]
+[[Category:Energy Manipulation]]
+[[Category:Energy Senses]]
+[[Category:Flight]]
+[[Category:Force Field]]
+[[Category:Geokinesis]]
+[[Category:Gravitikinesis]]
+[[Category:Healers]]
+[[Category:Hydrokinesis]]
+[[Category:Illusionists]]
+[[Category:Immortals]]
+[[Category:Intangibility]]
+[[Category:Interdimensional Travelers]]
+[[Category:Intuitives]]
+[[Category:Invisibility]]
+[[Category:Magnetokinesis]]
+[[Category:Matter Manipulation]]
+[[Category:Mind Control]]
+[[Category:Multilingual]]
+[[Category:Optic Blasts]]
+[[Category:Photokinesis]]
+[[Category:Possession]]
+[[Category:Power Amplification]]
+[[Category:Power Bestowal]]
+[[Category:Power Negation]]
+[[Category:Precogs]]
+[[Category:Psionic Entities]]
+[[Category:Psychic Vampires]]
+[[Category:Psychic Weapon]]
+[[Category:Psychometry]]
+[[Category:Pyrokinesis]]
+[[Category:Technopaths]]
+[[Category:Telekinesis]]
+[[Category:Telepaths]]
+[[Category:Teleporters]]
+[[Category:Thermokinesis]]
+[[Category:Time Travelers]]
+[[Category:Transmutation]]
+[[Category:Reality Warpers]]
+[[Category:Reality Warp Immunity]]
+[[Category:Self Detonation]]
+[[Category:Stasis]]
+[[Category:Weapons Expert]]
+[[Category:Self-Resurrection]]
+[[Category:Formerly Deceased]]
+[[Category:Trackers]]
+[[Category:Regeneration]]
+[[Category:Beyond Omega Level Mutants]]
+[[Category:Age of X-Man participants]]
+[[Category:Genetically Engineered]]
+[[Category:Heterochromia]]
+[[Category:Variable Eyes]][[Category:Infobox Eyes Update Needed]]

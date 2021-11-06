@@ -1,0 +1,68 @@
+{{Marvel Database:Character Template
+| Image                   = Frederick Duncan (Earth-616) from X-Men Earth's Mutant Heroes Vol 1 1 0001.jpg
+| Name                    = [[Frederick Duncan|Frederick Amos "Fred" Duncan]]
+| CurrentAlias            = [[Fred Duncan]]
+| Aliases                 = 
+
+| Affiliation             = Formerly {{m|FBI Special Mutant Division (Earth-616)|FBI Special Mutant Division}}, {{m|Project Chimera (Earth-616)|Project Chimera}}, {{m|Federal Bureau of Investigation (Earth-616)|FBI}}, Liaison to {{m|Black Womb Project (Earth-616)|Black Womb Project}} and [[X-Men (Earth-616)|X-Men]], Department of Special Affairs
+| Relatives               = Unidentified sister;<br>
+[[Shortpack (Earth-616)|Shortpack]] (nephew)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|X-Men: Earth's Mutant Heroes Vol 1 1}}
+| Gender                  = Male
+| Height                  = 6'0"
+| Weight                  = 190 lbs
+| Eyes                    = Blue
+| Hair                    = White
+| Hair2                   = ; formerly [[:Category:Brown Hair|Brown]][[Category:Brown Hair]][[Category:Infobox Eyes Update Needed]]
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Security consultant, author; former agent for the FBI, head of FBI's Special Mutant Division
+| Education               = Unspecified degree from an unidentified accredited university
+| BaseOfOperations        = 1025 Sindoni Crescent, [[Hegeman]], [[New York (State)|New York]]{{r|X-Men: Odd Men Out Vol 1 1}}
+
+| Creators                = Stan Lee; Jack Kirby
+| First                   = X-Men Vol 1 2
+| Death                   = Uncanny X-Men Annual Vol 1 17
+
+| Quotation               = [[Charles Xavier (Earth-616)|His]] thoughts grow clearer each time! The man's mental prowess is almost unbelievable!
+| Speaker                 = [[Frederick Duncan (Earth-616)|Fred Duncan]]
+| QuoteSource             = X-Men Vol 1 2
+
+| History                 = Fred Duncan was an [[Federal Bureau of Investigation (Earth-616)|FBI]] agent who was tasked with heading the bureau's investigation into mutant activities.
+
+Prior to his friendship with [[Charles Xavier (Earth-616)|Charles Xavier]] or the establishment of the [[X-Men (Earth-616)|X-Men]], he was seen talking to [[James Howlett (Earth-616)|Wolverine]] telling him how they could stop [[Namor McKenzie (Earth-616)|Namor]] from using [[Bomb (Anthony) (Earth-616)|Bomb]]'s ability when Logan tried to recruit Namor. Afterward, Logan and [[Logan's Mutant Team (Earth-616)|his crew]] were still wary if Fred could be trusted, being a federal agent tasked with looking for mutants as well.{{r|First X-Men Vol 1 2|5}}
+
+After an incident in [[Manhattan]] involving a man reputedly capable of firing beams of force from his eyes, Duncan was assigned to locate the individual responsible. Charles Xavier also became aware of the incident, and met with Fred Duncan. Fred allowed Xavier to pursue the matter on his own. Xavier ultimately found and rescued [[Scott Summers (Earth-616)|Scott Summers]], and started his [[Xavier's School for Gifted Youngsters|School for Gifted Youngsters]] shortly thereafter.{{r|X-Men Vol 1 #38|42}}
+
+After the X-Men became active, Fred Duncan became the team's FBI liaison. He alerted Xavier when the X-Men were needed by the government, as was the case when dealing with the threat of the [[Vanisher (Earth-616)|Vanisher]].{{r|X-Men Vol 1 #2}} Later, it was Agent Duncan who brought the X-Men the news that the FBI had ordered the team to break up following the apparent death of Professor X.{{r|X-Men Vol 1 #46}}
+
+When mutant hysteria began running rampant and [[Project Wideawake (Earth-616)|Project Wideawake]] was being developed, Fred Duncan was brought in because of his knowledge of mutant activities. When the government's computer records of the X-Men were wiped out, Duncan informed [[Henry Gyrich (Earth-616)|Henry Gyrich]] that the originals had long been shredded and claimed that his own memory was too unreliable to be used to rebuild the files. As Gyrich grew enraged, Duncan handed in his resignation.
+
+Duncan later took up a career as a security consultant and began working on a novel that would expose the government's mishandling of the anti-mutant hysteria.{{r|X-Men: Odd Men Out Vol 1 1}}
+
+Duncan died under unrevealed circumstances. His partner, [[Carl Denti (Earth-616)|Carl Denti]], would inherit his caseload and gain access to the various alien technologies he and the X-Men had confiscated during his career, which he would use in his new identity as the [[X-Cutioner]]. Denti would describe his mission of hunting down dangerous mutants as 'avenging' Duncan's death - how literal this claim was is unclear.{{r|Uncanny X-Men Annual Vol 1 17}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+*[[Charles Xavier (Earth-616)|Charles Xavier]] had given Duncan a [[Psionic Headband]]. The headband allowed Xavier to clearly transmit his thoughts directly to Duncan, and Duncan to transmit his thoughts to Xavier.{{r|X-Men Vol 1 #2}}
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * The idea of the X-Men having an official government liaison was downplayed when the series moved in a more anti-mutant paranoia/hysteria direction.
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Government Liaisons]]

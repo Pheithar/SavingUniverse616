@@ -1,0 +1,59 @@
+{{Marvel Database:Character Template
+| Image                   = Kaldera (Earth-616) from Nova Vol 5 8 001.jpg
+| Name                    = Kaldera
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Green
+| Eyes2                   = (left [[:Category:Red Eyes|red]][[Category:Red Eyes]] eye with [[:Category:Black Eyes|black]][[Category:Black Eyes]] sclera)
+| Hair                    = Brown
+| UnusualFeatures         = Her left eye was red and her right eye was green. She has a red tail and two toes on each foot.
+
+| Origin                  = [[Alien]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = Slave of [[Proxima Midnight (Earth-616)|Proxima Midnight]]
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Zeb Wells; Paco Medina
+| First                   = Nova Vol 5 8
+
+| History                 = Kaldera is a slave of [[Thanos (Earth-616)|Thanos]] and his [[Black Order (Earth-616)|Black Order]], more specifically [[Proxima Midnight (Earth-616)|Proxima Midnight]].{{r|Nova Vol 5 8}} Kaldera was sent by Proxima Midnight to kill [[Samuel Alexander (Earth-616)|Nova]] on behalf of Thanos. After taking Nova's [[Kaelynn Alexander (Earth-616)|sister]] and [[Eva Alexander (Earth-616)|mom]] hostage, Kaldera challenged him to a fair fight, with no weapons or Nova powers.
+
+Having an early advantage due to Sam's lack of combat training, he cheated in order to win. Being transported to one of Thanos' [[Slaughter Ships]], Sam knocked Kaldera out before being teleported away by one of Thanos' other followers.
+
+When she awoke, Kaldera was strapped into a large machine, lamenting the fact that Sam did not kill her. Acknowledging her failure, she was sealed into the '[[Midnight Sphere]]' where she would apparently suffer the degradation of all of the fallen, but despite being aged by torture, would not die, apparently having lost the privilege to do so.{{r|Nova Vol 5 9}}
+
+Sometime later, Kaldera would finally escape and hunt down Sam on Earth, clashing with the [[Champions (Earth-616)|Champions]] in the process.{{r|Champions Vol 3 3}} To her disappointment, Sam had lost the Nova helmet when it was confiscated by [[Scott Adsit (Earth-616)|Commander Scott Adsit]] of the rebuilt [[Nova Corps (Earth-616)|Nova Corps]]. Desiring a true rematch, she convinced Sam to join her to retrieve the helmet.{{r|Champions Vol 3 4}} The two infiltrated the [[Spirit of Xandar]], and Sam forced Kaldera to spare any person they encountered during the break-in. They found Adsit and forced him to retrieve the helmet. To their surprise, the helmet had been stolen by the [[Thieves Guild (Earth-616)|Thieves Guild]] during their mass heist on the superhuman community,{{r|Champions Vol 3 7}} and following the thwarting of their plans by [[Peter Parker (Earth-616)|Spider-Man]],{{r|Amazing Spider-Man Vol 5 10}} the helmet had remained on Earth.{{r|Champions Vol 3 7}}
+
+Kaldera returned to Earth with Sam, and tracked down the helmet to a military base in [[Iowa (State)|Iowa]], which happened to have become the scene of a confrontation between the Champions and the [[Freelancers (Earth-616)|Freelancers]]. While Kaldera unwittingly joined forces with the Champions to take down the Freelancers, Sam snuck into the base and retrieved his helmet. With his powers as Nova returned, Sam confronted Kaldera, but decided to cut their fight short by trapping her in a force field, expressing that securing her was more important than either her honor or his pride since she was a murderer. The Nova Corps arrived shortly afterwards, and detained her.{{r|Champions Vol 3 8}}
+
+| Powers                  = *'''[[Superhuman Strength]]:'''
+*'''[[Superhuman Durability]]:''' Kaldera‘s bodily tissues are much harder and more resistant to injury than those of a human.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Tail]]

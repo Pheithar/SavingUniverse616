@@ -1,0 +1,51 @@
+{{Marvel Database:Character Template
+| Image                   = Ajaxis (Earth-616) Uncanny Inhumans Vol 1 6.jpg 
+| Name                    = Ajaxis
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = [[Lava Men]]; {{m|Thunderbolts (Earth-616)|Thunderbolts Army}}({{m|50-State Initiative|Initiative}})
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Orange
+| Hair                    = Red
+| UnusualSkinColor        = Red 
+| UnusualFeatures         = 
+
+| Origin                  = [[Lava Man]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = Lava Men
+| Occupation              = Wrestler/fighter
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Fabian Nicieza
+| First                   = Thunderbolts #103
+
+| History                 = Ajaxis was a member of the subterranean race of [[Lava Men]].
+
+During the superhuman [[Civil War (Event)|Civil War]], Ajaxis was forced to join the [[Thunderbolts (Earth-616)|Thunderbolts]] or face incarceration.{{r|Thunderbolts #107}}
+
+At some point Ajaxis became a prize fighter. During a press conference in [[Blackagar Boltagon (Earth-616)|Black Bolt's]] [[Quiet Room]] to promote his rematch with a moloid named [[Toz (Earth-616)|Toz]], Ajaxis and Toz started fighting each other, that behavior was against the rules of the Quiet Room, which led to Black Bolt personally defeating both of them to stop their fight.{{r|Uncanny Inhumans #5|6}} 
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Subterraneans]]

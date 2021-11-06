@@ -1,0 +1,42 @@
+{{Marvel Database:Team Template
+| Image                   = Fantastic Four Vol 6 21 Textless.jpg
+| ImageSize               = 250px
+| Name                    = New Fantastic Four
+| Aliases                 = [[Secret Defenders]]
+
+| Status                  = Active
+
+| Identity                = Secret
+| Reality                 = Earth-616
+| BaseOfOperations        = 
+
+| Leaders                 = [[Peter Parker (Earth-616)|Spider-Man]]
+| CurrentMembers          = [[Peter Parker (Earth-616)|Spider-Man]], [[James Howlett (Earth-616)|Wolverine]], [[Franklin Richards (Earth-616)|Powerhouse]], [[Valeria Richards (Earth-616)|Brainstorm]]
+| FormerMembers           = [[Daniel Ketch (Earth-616)|Ghost Rider]], [[Bruce Banner (Earth-616)|Hulk]], [[Sleepwalker (Earth-616)|Sleepwalker]]
+| Allies                  = [[Fantastic Four (Earth-616)|Fantastic Four]], [[Jo-Venn (Earth-616)|Jo-Venn]], [[N'Kalla (Earth-616)|N'Kalla]]
+| Enemies                 = [[Harvey Elder (Earth-616)|Mole Man]], [[Deviant Skrulls|Skrulls]], [[Empyre (Earth-616)|Empyre]], [[Priests of Pama (Earth-616)|Priests of Pama]]
+
+| Origin                  = Formed to avenge the apparent deaths of the true [[Fantastic Four (Earth-616)|Fantastic Four]]. Regrouped twice: once to fight the [[Sinister Six (Earth-616)|Sinister Six]], again to apprehend the [[Jonathan Storm (Earth-616)|Human Torch]]. A new group came together to help defend Earth during the ''Empyre'' crisis.
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Walt Simonson; Arthur Adams
+| First                   = Fantastic Four #347
+| Last                    = 
+
+| HistoryText             = A female [[Skrulls|Skrull]] alien named [[De'Lila (Earth-616)|De'Lila]] who was an empath, a shape-shifter, and a telepath managed to capture the true [[Fantastic Four (Earth-616)|Fantastic Four]]. Pretending to be [[Susan Storm (Earth-616)|Susan Richards]] she convinced [[James Howlett (Earth-616)|Wolverine]], [[Peter Parker (Earth-616)|Spider-Man]], [[Bruce Banner (Earth-616)|Hulk]], and [[Daniel Ketch (Earth-616)|Ghost Rider]] to form a New Fantastic Four to avenge their "deaths". She sent them to fight the [[Harvey Elder (Earth-616)|Mole Man]] so that she could steal a powerful Skrull device that crash-landed on [[Monster Isle]].{{r|Fantastic Four Vol 1 347}}
+
+The team briefly regrouped with [[Sleepwalker (Earth-616)|Sleepwalker]] instead of Wolverine to fight the reformed [[Sinister Six (Earth-616)|Sinister Six]].{{r|Spider-Man Vol 1 22}}
+
+The original members reunited again as the first [[Secret Defenders (Earth-616)|Secret Defenders]] at [[Stephen Strange (Earth-616)|Dr. Strange]]'s request to bring the [[Jonathan Storm (Earth-616)|Human Torch]] in for arson.{{r|Fantastic Four Vol 1 374}}
+
+When Franklin and Valeria needed help while the FF were away dealing with the latest Kree-Skrull threat, Valeria activated an emergency signal that summoned Spider-Man and Wolverine to aid them, but a message from their father confirmed that the children should consider themselves members of the team as well.{{r|Fantastic Four Vol 6 21|22}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = *In story arc [[Circle of Four]] [[Eugene Thompson (Earth-616)|Venom]] teamups with [[Laura Kinney (Earth-616)|X-23]], [[Thaddeus Ross (Earth-616)|Red Hulk]] and [[Alejandra Jones (Earth-616)|Alejandra Jones]], making homage to New Fantastic Four.
+*Another homage happens in [[Ghost Rider Vol 8]], when [[Roberto Reyes (Earth-616)|Robbie Reyes]] teamups with [[Amadeus Cho (Earth-616)|Amadeus Cho]], [[Laura Kinney (Earth-616)|Laura Kinney]] and [[Cindy Moon (Earth-616)|Cindy Moon]]
+| Trivia                  = 
+| Links                   = 
+}}

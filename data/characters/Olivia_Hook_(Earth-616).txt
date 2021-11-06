@@ -1,0 +1,65 @@
+{{Marvel Database:Character Template
+| Image                   = Olivia Hook (Earth-616) from Secret Warriors Vol 1 11 001.jpg
+| Name                    = Olivia Hook
+| Name2                   = {{r|Secret Warriors #1}}
+| CurrentAlias            = 
+| Aliases                 = [[Agent Hook]], [[Olivia Hooks]]{{r|Secret Warriors #6}}{{r|Secret Warriors #10}}
+
+| Affiliation             = {{m|Howling Commandos Private Military Company|Howling Commandos PMC}}; formerly {{M|Strategic Homeland Intervention, Enforcement and Logistics Division|S.H.I.E.L.D.}}, {{M|S.H.I.E.L.D. Psi Division (Earth-616)|Psi Division}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Eyes2                   = (glowing [[:Category:White Eyes|white]]-[[:Category:Purple Eyes|purple]] with [[:Category:No visible Irises or Pupils|no visible irises or pupils]] when using powers)[[Category:White Eyes]][[Category:Purple Eyes]][[Category:No visible Irises or Pupils]]
+| Hair                    = Blonde
+| UnusualFeatures         = 
+
+| Origin                  = Psi-agent; [[Homo sapiens|human]] telepath{{r|X-Men Annual Vol 3 1}}
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = {{m|Howling Commandos Private Military Company|Howling Commandos PMC}} Psi-agent; formerly S.H.I.E.L.D. Agent
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Brian Michael Bendis; Mike Deodato Jr.
+| First                   = New Avengers #19
+
+| History                 = 
+[[File:Olivia Hook (Earth-616) from New Avengers Vol 1 19 0001.jpg|thumb|left|[[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] agent]]
+===[[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]]===
+'''Olivia Hook''' was a [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] agent with psionic abilities.
+
+[[Maria Hill (Earth-616)|Director Maria Hill]] ordered her to subdue [[Spider-Man (Peter Parker)|Spider-Man]] when he refused to give up information on the [[Earth-58163|House of M]]. Agent Hook consequently ordered him to sleep. The amount of emotional pain in him saddened her.{{r|New Avengers #19}}
+
+She also battled [[Bennet du Paris (Earth-616)|Exodus]] when his [[Acolytes (Earth-616)|Acolytes]] invaded the [[S.H.I.E.L.D. Helicarrier]], but was taken down quickly along with two other telepaths.{{r|X-Men Annual Vol 3 1}}
+
+==={{m|Howling Commandos Private Military Company|Howling Commandos PMC}}===
+After the fall of S.H.I.E.L.D. and the establishment of the [[H.A.M.M.E.R. (Earth-616)|H.A.M.M.E.R.]], Hook joined the {{m|Howling Commandos Private Military Company|Howling Commandos PMC}},{{r|Secret Warriors #1}} and was their sole psi-agent,{{r|Secret Warriors #6}} in charge of their internal security.{{r|Secret Warriors #11}}
+
+After the victory at [[The Dock]] and the desertion of 3,000 agents from H.A.M.M.E.R. into the HCPMC, she was in charge of checking the loyalty of the newly recruited soldier.{{r|Secret Warriors #6}}
+
+| Powers                  = 
+*'''Telepathy'''
+**'''''Mind Scanning'''''{{r|New Avengers #19}}
+**'''''Mind Control'''''{{r|New Avengers #19}}
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = Hook can't read an unconscious mind.{{r|New Avengers #19}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Telepaths]]
+[[Category:Mind Control]]

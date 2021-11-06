@@ -1,0 +1,49 @@
+{{Marvel Database:Character Template
+| Image                   = Neifi (Earth-616) from Inhumans Vol 2 2 001.png
+| Name                    = Neifi
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{m|Inhuman Royal Guard}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = None
+| UnusualSkinColor        = Grey
+| UnusualFeatures         = 
+
+| Origin                  = [[Inhomo supremis|Inhuman]] powered by [[Terrigenesis]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Attilan]]
+
+| Identity                = No Dual
+| Citizenship             = Attilan
+| Occupation              = Adventurer, royal guard, student
+| Education               = 
+| BaseOfOperations        = [[Attilan]]
+
+| Creators                = Paul Jenkins; Jae Lee
+| First                   = Inhumans Vol 2 2
+
+| History                 = 
+
+| Powers                  = '''Superhuman Strength'''
+
+'''Superhuman Durability'''
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

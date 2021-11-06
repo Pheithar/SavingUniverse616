@@ -1,0 +1,58 @@
+{{Marvel Database:Character Template
+| Title                   = Detective Bev Sykes
+| Image                   = Beverly Sykes (Earth-616) from New Warriors Vol 4 1 001.jpg
+| Name                    = Beverly "Bev" Sykes
+| Name2                   = <ref>[http://www.marvunapp.com/master/sysz.htm SYKES, Det. BEVERLY's entry]</ref>
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}'s New Warriors Task Force; Formerly {{M|New York City Police Department (Earth-616)|NYPD}}
+| Relatives               = [[Samuel Sykes (Earth-616)|Samuel Sykes]] (father)
+| MaritalStatus           = Single
+
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = S.H.I.E.L.D. agent<!--, Gulf War veteran-->; Former Police detective
+| Education               = 
+| BaseOfOperations        = New York City
+
+| Creators                = Kevin Grevioux; Paco Medina
+| First                   = New Warriors Vol 4 1
+
+| History                 = Daughter of a former cop, Beverly Sykes joined the army and fought in the Gulf War, before joining the NYPD.{{r|New Warriors Vol 4 3}}{{r|New Warriors Vol 4 16}}
+
+She was a volunteer at Stamford after the incident that led to the [[Civil War (Event)|First Superhuman Civil War]]{{r|New Warriors Vol 4 17}} and, after that, Bev and her partner [[Harry Givens (Earth-616)|Harry Givens]] became very dedicated to following the [[Superhuman Registration Act]] and bringing the [[New Warriors (Earth-616)|New Warriors]] to justice. However, after finding evidence that pointed to Tony Stark being secretly funding the Warriors, Bev seemed to have lost faith.{{r|New Warriors Vol 4 6}}{{r|New Warriors Vol 4 9}}
+
+They were untrusting of Stark for a while, but after an accident that caused the death of 4 civillians, Stark contacted them and told them their only hope of not ending their careers sooner than expected was to join the new S.H.I.E.L.D. New Warriors Task Force.{{r|New Warriors Vol 4 10}}{{r|New Warriors Vol 4 13}}
+
+Once again, things didn't go according to plan and their first confrontation with the team resulted in the apparent deaths of two of the Warriors. The rest of the team escaped, devastated, but the Task Force had managed to put a tracer on them and followed them to their hideout, just as they were about to jump in time. Unaware of what was going on, but unwilling to lose them again, Bev instinctively followed them and ended up 30 years in the future with the team.{{r|New Warriors Vol 4 16|17}}
+
+She was initially reluctant to help the New Warriors break into the Stark/Taylor Building to get a time machine and return home, but she eventually agreed to help them and even saved [[Donyell Taylor (Earth-616)|Donyell Taylor]] before they returned home.{{r|New Warriors Vol 4 18|20}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+<!--[[Category:Gulf War Characters]]-->

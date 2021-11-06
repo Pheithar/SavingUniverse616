@@ -1,0 +1,55 @@
+{{Marvel Database:Character Template
+| Image                   = Josephine Bricklemoore (Earth-616) from Wolverine and the X-Men Vol 1 38 001.png
+| Name                    = Josephine Bricklemoore
+| CurrentAlias            = Squidface
+| Aliases                 = 
+
+| Affiliation             = Formerly {{M|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}} {{m|S.H.I.E.L.D. Mutant Task Force|Mutant Task Force}}, [[Xavier Institute student body#Jean Grey School students|Jean Grey School student body]] (undercover)
+| Relatives               = [[Joseph Bricklemoore (Earth-616)|Joseph Bricklemoore]] (twin brother)
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Black
+| Eyes2                   = (While using [[MGH]])
+| Hair                    = Red
+| Hair2                   = (While using [[MGH]])
+| UnusualFeatures         = Squid face (While using [[MGH]])
+| UnusualSkinColor        = Red
+| UnusualSkinColor 2      = , (While using [[MGH]])
+
+| Origin                  = [[MGH]] user
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Undercover agent posing as a student
+| Education               = [[Xavier's School for Gifted Youngsters|Jean Grey School for Higher Learning]]
+| BaseOfOperations        = 
+
+| Creators                = Jason Aaron; Pepe Larraz
+| First                   = Wolverine and the X-Men #38
+
+| History                 = Josephine and her brother [[Joseph Bricklemoore (Earth-616)|Joey]] infiltrated the [[Xavier's School for Gifted Youngsters|Jean Grey School]] on behalf of [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] They used [[Mutant Growth Hormone|MGH]] injections to simulate mutant abilities. Josephine was disgust by the mutant activities she saw, but Joey actually enjoyed the eclectic studies and atmosphere. In the end, the Institute students mind wiped Joey and Josie to stop them from reporting back anything potentially incriminating to S.H.I.E.L.D.
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Jean Grey School students]]
+[[Category:Squid Form]]
+[[Category:MGH Users]]

@@ -1,0 +1,55 @@
+{{Marvel Database:Character Template
+| Image                   = Kraawl (Earth-616), Benjamin Grimm (Earth-616), and Kala (Earth-616) from Fantastic Four Vol 1 127 0001.gif
+| Name                    = Kraawl
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = [[Deviants (Race)|Deviants]]
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = No Hair
+| UnusualSkinColor        = Green
+| UnusualFeatures         = Serpentine body shape, four limbs each with three clawed digits, fangs
+
+| Origin                  = [[Deviant Mutates (Deviant Experiments)|Deviant Mutate]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = Subterranea
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = Subterranea
+| Occupation              = Mount for <nowiki>Queen</nowiki> [[Kala (Earth-616)|Kala]]
+| Education               = 
+| BaseOfOperations        = [[Subterranea]]
+
+| Creators                = Roy Thomas; John Buscema
+| First                   = Fantastic Four Vol 1 127 
+| Death                   = 
+
+| History                 = The Kraawl acted as the mount for [[Kala (Earth-616)|Queen Kala]]. While the [[Benjamin Grimm (Earth-616)|Thing]] was searching for the [[Harvey Elder (Earth-616)|Mole Man]] in [[Subterranea]], he encountered Kala chanting to Kraawl. Thing mistakenly believed that Kraawl posed a threat to Kala and immediately attacked it. Kraawl withstood Thing's initial blow and coiled his long body around him. Thing got in two more blows, which finally knocked Kraawl out.{{r|Fantastic Four Vol 1 127}}
+
+| Powers                  = '''Superhuman Strength:''' Kraawl is strong enough to restrain [[Benjamin Grimm (Earth-616)|Thing]] by coiling around him.<br>
+'''Superhuman Durability:''' Kraawl could withstand a blow from Thing, though he was knocked from successive blows.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = While Kraawl's skin is green in {{cl|Fantastic Four Vol 1 127}}, his skin is portrayed as a dark brown on the comic's cover.
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Superhuman Strength]]
+[[Category:Superhuman Durability]]
+[[Category:Giant Monsters]]

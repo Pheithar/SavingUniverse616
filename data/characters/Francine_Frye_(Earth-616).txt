@@ -1,0 +1,74 @@
+{{Marvel Database:Character Template
+| Image                   = Amazing Spider-Man Vol 4 17 Textless.jpg
+| Name                    = [[Francine Frye]]
+| CurrentAlias            = [[Electro]]
+| EditorialNames          = 
+| Aliases                 = Electrellina,{{r|Free Comic Book Day Vol 2018 Amazing Spider-Man}} [[Electra]]{{r|Amazing Spider-Man Vol 5 6}}
+
+| Affiliation             = {{m|Syndicate (Beetle) (Earth-616)|Syndicate}}; formerly {{m|Sinister Six}}, {{m|New U Technologies}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Sinister War Vol 1 1}}, [[:File:Sinister War Vol 1 1 Handbook Variant.jpg|Handbook Variant]]
+| Gender                  = Female
+| Height                  = 5'8"
+| Weight                  = 135lbs
+| Eyes                    = Blue
+| Hair                    = Brown (currently); Dyed Green (formerly)
+| UnusualFeatures         = Bolt shaped markings over the face
+
+| Origin                  = [[Homo sapiens|Human]] [[Glossary:Mutate|Mutate]] who absorbed [[Maxwell Dillon (Earth-616)|Electro]]'s powers after being resurrected in a cloned body.
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+| CauseOfDeath            = Accidentally killed by [[Maxwell Dillon (Earth-616)|Max Dillon]]{{r|Amazing Spider-Man Vol 3 2}} (cloned by the [[Benjamin Reilly (Earth-616)|Jackal]]){{r|Amazing Spider-Man Vol 4 17}}
+| KilledBy                = Maxwell Dillon (Earth-616)
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Criminal
+| Education               = 
+| BaseOfOperations        = Mobile; formerly [[Transamerica Pyramid]] / [[New U Headquarters]], [[San Francisco]], [[California (State)|California]]; [[Greenwich Village]], [[Manhattan]], [[New York City]], [[New York (State)|New York]], [[United States of America]]
+
+| Creators                = Dan Slott; Humberto Ramos
+| First                   = Amazing Spider-Man Vol 3 2
+| First2                  = (As Francine Frye)<br>{{sld|Amazing Spider-Man Vol 4 17}}(As Electro)
+| Last                    = 
+
+| Quotation               = I watched this game from the sidelines for years. And yeah, I saw plenty of gross dudes get a leg up along the way. But now that I got my turn? I'm just here to raise some [[Hell]], make some money -- and maybe a little '''payback''' along the way.
+| Speaker                 = [[Francine Frye (Earth-616)|Electro]]
+| QuoteSource             = Amazing Spider-Man Vol 5 26
+
+| History                 = Francine Frye was a New Yorker who was obsessed with super-villains as a form to escape from the real world. She was a regular accomplice of [[Maxwell Dillon (Earth-616)|Electro]].{{r|Amazing Spider-Man Vol 4 17}} While on the run after having his powers tampered with by [[Otto Octavius (Earth-616)|Otto Octavius]], Electro went to Francine's apartment for shelter. Even though he warned her of his malfunctioning powers, Francine tried to get intimate with Max, claiming that she simply couldn't help it. They eventually kissed, and Francine was accidentally fried.{{r|Amazing Spider-Man Vol 3 2}}
+
+After recovering genetic material from her corpse, the [[Benjamin Reilly (Earth-616)|Jackal]] brought her back to life in the form of a clone, initially as an incentive to have the recently-depowerd Electro work with him. After a procedure that failed to give Electro his powers back, the suit that was meant to transfer its energy to him started to discharge into Francine. It was theorized by the Jackal that having used genetic material from Francine's cheek after she kissed Electro had mixed up her DNA.{{r|Amazing Spider-Man Vol 4 17}}
+
+Francine was pulled by the energy discharge of the suit, and she kissed Electro in order to grow in power. She ended up absorbing all of the suit's power, but accidentally fried Electro in the process. The [[Hobie Brown (Earth-616)|Prowler]], who had been sent to infiltrate the [[New U Headquarters]], revealed himself while trying to save Electro and Francine was sent after him. She accidentally killed the Prowler during the chase, requiring the Jackal to bring him back to life. Frye was later given an Electro costume and took Dillon's place in the Jackal's plan.{{r|Amazing Spider-Man Vol 4 17}}
+
+Following the Jackal's downfall, Francine embraced her circumstances and decided to become a supervillain for the sake of destruction and money.{{r|Amazing Spider-Man Vol 5 26}} She briefly became part of a new incarnation of the [[Sinister Six (Earth-616)|Sinister Six]] led by the villainous [[Aaron Davis (Earth-1610)|Iron Spider]] which attempted to steal a decomissioned [[S.H.I.E.L.D. Helicarrier]],{{r|Spider-Man Vol 2 234}} but their plan was thwarted by the younger [[Miles Morales (Earth-1610)|Spider-Man]] and the [[Champions (Earth-616)|Champions]].{{r|Spider-Man Vol 2 239}} Electro then partnered with a group led by [[Frederick Myers (Earth-616)|Boomerang]] and carried out a theft at the [[American Museum of Natural History]], which was unbeknownst to Boomerang's partners on behalf of the [[Wilson Fisk (Earth-616)|Kingpin]]. After carrying out the heist and being surrounded by authorities, Boomerang handed over the loot to the Kingpin and fled, leaving Electro and his other partners behind.{{r|Free Comic Book Day Vol 2018 Amazing Spider-Man}}
+
+Deciding to instead work alone, Electro next interrupted a [[Broadway]] stage musical starring famous actress [[Melanie Daniels (Earth-616)|Melanie Daniels]] to hold her for ransom. Her plan was foiled by audience member [[Mary Jane Watson (Earth-616)|Mary Jane Watson]], who had [[Carlie Cooper (Earth-616)|Carlie Cooper]] distract the villain to switch places with Daniels wearing her same outfit, then bought enough time for the stage manager [[Terry Ford (Earth-616)|Terry Ford]] to unload a water tank on Electro, neutralizing her powers. When Electro was being taken away, she was freed from police custody by the [[Syndicate (Beetle) (Earth-616)|Syndicate]],{{r|Amazing Spider-Man Vol 5 25}} who offered Electro to join their all-female criminal enterprise. She initially refused until the Syndicate disclosed they intended to go after Boomerang for revenge.{{r|Amazing Spider-Man Vol 5 26}} Similarly to Boomerang, the Syndicate's leader [[Janice Lincoln (Earth-616)|Beetle]] arranged with the Kingpin  behind her partners' back to hand him over Boomerang.{{r|Amazing Spider-Man Vol 5 27}} Despite their shared disgruntlement towards Beetle, the Syndicate agreed to help Boomerang evade arrest after he disclosed with them the secret reason the Kingpin was after him. As a result, all Syndicate members except Beetle were apprehended, but Beetle broke them out afterwards.{{r|Amazing Spider-Man Vol 5 28}}
+
+| Powers                  = '''Electrostatic Energy Generation:''' Francine possessed either similar or the same [[Maxwell Dillon (Earth-616)#Powers|powers]] as the original Electro, which includes the generation of electrostatic energy which she can release or harness for a number of effects.{{r|Amazing Spider-Man Vol 4 17}}
+* '''Lightning Bolt Projection:''' The simplest manifestation of her powers is the emission of a lightning-like electric arc from her fingertips, which could propagate through air or other conducting mediums.{{r|Amazing Spider-Man Vol 4 17}}
+| Abilities               = Francine is a scrapbooker and experienced user of social media.<ref name="Var" />
+| Strength                = Without an external power source, Francine has normal human strength. However, when enhanced, she's capabling of lifting about 500 pounds.<ref name="Var">{{cl|Sinister War Vol 1 1}}, [[:File:Sinister War Vol 1 1 Handbook Variant.jpg|Handbook Variant]]</ref>
+| Weaknesses              = '''Water:''' Due to her lack of experience she was easily defeated by Spider-Man in their first encounter when Spider-Man exposed her to water effectively knocking her out.{{r|Clone Conspiracy Vol 1 1}}
+
+'''Pill Dependence (formerly):''' In order to avoid cellular degradation, Francine had to ingest [[New U Pills]] daily.{{r|Amazing Spider-Man Vol 4 17}}
+
+| Equipment               = 
+| Transportation          = '''Riding Electricity:''' Similarly to Max Dillon, Francine can use her powers to generate an electricity slide she rides and propels from the ground.{{r|Amazing Spider-Man Vol 4 17}}
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = * Francine was a fan of [[Mary Jane Watson (Earth-616)|Mary Jane Watson]], specifically her work in ''Secret Hospital''.{{r|Amazing Spider-Man Vol 5 25}}
+* She was a practicing vegan.<ref name="Var" />
+| Links                   = 
+}}
+[[Category:Electrokinesis]]
+[[Category:New U Experiment]]
+[[Category:Cellular Degeneration]]
+[[Category:Peak Human Strength]]
+[[Category:Social Network Users]]
+[[Category:Vegans]]

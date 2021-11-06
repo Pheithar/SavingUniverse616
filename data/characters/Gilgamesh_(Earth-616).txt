@@ -1,0 +1,153 @@
+<!-- 
+Stuff to add while respecting chronology
+* 2671 B.C., Gilgamesh is dead for at least 14 months and early Hydra look (and eventually) find his bones (whom Gilgamesh had tried to hide from them)
+* 1300BC: Trojan War: Gilgamesh help Aeneas found Rome
+ -->{{Marvel Database:Character Template
+| Image                   = Gilgamesh (Earth-616) from Eternals Vol 4 5 0001.jpg
+| Name                    = 
+| CurrentAlias            = [[Gilgamesh]]
+| CurrentAliasRef         = 
+| Aliases                 = The Beast of Legend (to Deviants),{{r|Eternals Vol 2 11}} "Beloved of the Muses",{{r|Hercules Vol 4 1}} Dragon-Slayer,{{r|Avengers Spotlight #35}} [[Forgotten One]],{{r|Eternals #13}} Forgotten Nemesis,{{r|Eternals Vol 2 11}} Gil,{{r|Hercules Vol 4 1}} [[Hero]],{{r|Thor #287}} "Hero of [[Sumer]]",{{r|Hercules Vol 4 1}} [[King Gilgamesh]],{{r|Captain America Annual #11}} "Lost Eternal",{{r|All-New Invaders #13}} "O Guerreiro"{{r|Eternals Vol 4 2}} (Portuguese for 'The Warrior');
+----
+Confused for [[Atlas]],{{r|Thor #288}} [[Beowulf]],{{r|X-Factor Annual #4}} [[Hercules]],{{r|Thor #291}}{{r|Thor & Hercules: Encyclopaedia Mythologica #1|; The Forgotten One's entry}} [[Samson]]{{r|Thor #288}}{{r|Thor & Hercules: Encyclopaedia Mythologica #1|; The Forgotten One's entry}}
+
+| Affiliation             = {{m|Gods of War (Earth-616)|Gods of War}}; Flatmate of [[Hercules Panhellenios (Earth-616)|Hercules]]; formerly [[Eternals (Race)|Eternals]]; {{m|Avengers}} (part of 'Earth force' during [[Operation Galactic Storm]]); accompanied the [[Celestials (Race)|Celestials]], {{M|Buffalo Bill's Wild West Show (Earth-616)|Buffalo Bill's Wild West Show}}{{r|Avengers Spotlight Vol 1 35}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z Vol 1 4}}
+| Gender                  = Male
+| Height                  = 6' 5"
+| Weight                  = 260 lbs
+| Eyes                    = Brown {{r|Hercules Vol 4 1}}; Blue (formerly){{r|Thor: The Deviants Saga #3}}
+| Hair                    = Brown {{r|Thor: The Deviants Saga #3}}{{r|Hercules Vol 4 1}}; Black (formerly)
+| UnusualFeatures         = 
+
+| Origin                  = [[Eternal of Earth|Eternal]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = Olympia, Sumeria
+| Occupation              = Adventurer, warrior, monster-slayer, King of the [[Sumeria]]n city of [[Uruk]]
+| Education               = 
+| BaseOfOperations        = Formerly [[Goiania]], [[Brazil]]; [[Olympia]], [[Avengers Mansion]]; Celestial Homeship; [[Uruk]], [[Sumeria]]<!-- {{r|Thor & Hercules: Encyclopaedia Mythologica #1|; The Forgotten One's entry}} --> (modern-day [[Iraq]])<!-- {{r|Marvel Atlas #2|; [[Iraq]]'s entry}} -->
+
+| Creators                = Jack Kirby; Mike Royer
+| First                   = Eternals #13
+
+| Quotation               = You have known me by many names -- among them Hero, and Gilgamesh... but I am once more who I must ever be. I am once more... The Forgotten One.
+| Speaker                 = [[Gilgamesh (Earth-616)|The Forgotten One]]
+| QuoteSource             = Thor: The Deviants Saga Vol 1 3
+
+
+| Overview                = The one known frequently as both '''Gilgamesh''' and '''The Forgotten One''' is a member of the [[Eternals (Homo immortalis)|Eternals]], a genetically superior offshoot race of humanity who possess abilities such as [[Glossary:Flight|levitation]] and [[Glossary:Immortality|immortality]]. Gilgamesh's brute strength causes him to be recognized as one of the physically strongest Eternals, but he is also often seen as a pariah among his fellow species members and prefers to spend time in human society instead.
+
+Gilgamesh spent many centuries adventuring around with [[Hercules Panhellenios (Earth-616)|Hercules]] and other famous figures of history. For a time afterwards he was banished in a part of the Eternal city of [[Olympia]] for unclear reasons by the head Eternal [[Zuras (Earth-616)|Zuras]]. Gilgamesh was eventually released and used his fighting prowess to help the rest of the Eternals in a number of adventures. He recently returned to spending more time with his friend Hercules again in the modern world.
+
+| History                 = 
+===Origins===
+This [[Eternals (Race)|Eternal]], like every other, was created by the [[Celestials (Race)|Celestials]] one million years ago.<ref name="CBR">{{cite web|url=https://www.cbr.com/eternals-kieron-gillen-interview/|title=INTERVIEW: Eternals' Kieron Gillen Hypes the Return of Marvel's Cosmic Angels|last=Richards|first=Dave|work=CBR|date=6 October 2020|accessdate=25 May 2021}}</ref>{{r|Eternals Vol 5 1}}
+
+Around 3000 BC, he became '''Gilgamesh''', king of [[Uruk]] in [[Sumeria]]{{r|Thor & Hercules: Encyclopaedia Mythologica #1|; The Forgotten One's entry}} (modern-day [[Iraq]]).{{r|Marvel Atlas #2|; [[Iraq]]'s entry}}<!-- 
+
+* 2671 B.C., Gilgamesh is dead for at least 14 months and early Hydra look (and eventually) find his bones (whom Gilgamesh had tried to hide from them) in Captain America Hail Hydra -->
+
+In ancient times, the mighty Eternal roamed the Earth aiding ordinary human beings by overthrowing tyrants and slaying dangerous beasts.{{r|Eternals #13}} Somehow unaware of his membership to the Eternals, he quested for eternal life.{{r|Captain America Annual #11}} He was often mistaken with (and consequently known as) '''[[Samson (Biblical) (Earth-616)|Samson]]''' and '''[[Hercules Panhellenios (Earth-616)|Hercules]]'''.{{r|Thor & Hercules: Encyclopaedia Mythologica #1|; The Forgotten One's entry}}
+
+===Hercules===
+In 1271 BC, he cleaned the [[Augean Stables]] for Hercules on his behalf (but unknown to Hercules) by diverting two rivers through the Stables.<!-- {{r|Incredible Hercules #116}} -->
+
+Apparently, like Hercules, he took [[Atlas (Titan) (Earth-616)|Atlas]]'s burden on his own shoulders.{{r|Incredible Hercules #116}}
+
+At undisclosed times, he and Hercules fought side by side on the walls at [[Ertatha]], and bested the [[Imdugud (Earth-616)|Demon-Dragon Zu]].{{r|Hercules Vol 4 5}}
+
+At some point, he befriended [[Achilles (Earth-616)|Achilles]].{{r|Thor & Hercules: Encyclopaedia Mythologica #1|; The Forgotten One's entry}}
+
+<!-- After the [[Trojan War]], for the conquer part -->He befriended [[Aeneas (Earth-616)|Aeneas]] and helped him conquer the [[Latium]], laying the foundations of the [[Roman Empire]].{{r|Marvel Atlas #1|; [[Italy]]'s entry}}
+
+He also befriended [[David (Earth-616)|King David]].{{r|Thor & Hercules: Encyclopaedia Mythologica #1|; The Forgotten One's entry}} 
+
+He fought for the [[Roman Empire]] as a Centurion, slaying many any tribes in their name.{{r|All-New Invaders Vol 1 13}}
+
+During the 19th century, he aided in its translation of the [[Rosetta Stone (Item)|Rosetta Stone]].{{r|Eternals Vol 5 5}} He also  joined [[William Cody (Earth-616)|Buffalo Bill]]'s [[Buffalo Bill's Wild West Show (Earth-616)|Wild West Show]] picking up a few tricks along the way.{{r|Avengers Spotlight Vol 1 35}}
+
+===The Forgotten One===
+Eventually, he learned of his true heritage,{{r|Thor & Hercules: Encyclopaedia Mythologica #1|; The Forgotten One's entry}} and [[Zuras (Earth-616)|Zuras]], leader of the Eternals, confined the Forgotten One to a sector of the Eternal city of [[Olympia]]. It is said that Zuras' reason for this action was the Forgotten One's pride, and his insistence on intervening in human affairs.<!-- for the interference part {{r|Thor & Hercules: Encyclopaedia Mythologica #1|; The Forgotten One's entry}} --> As yet, no details of these charges have been revealed. The Forgotten One remained banished to this sector, which the other Eternals shunned, for centuries.{{r|Eternals #13}}
+
+===Return===
+While virtually all of the Eternals were meeting in the form of the [[Uni-Mind (Earth-616)|Uni-Mind]], the [[Deviants (Race)|Deviants]] (natural enemies of the Eternals) launched a spacecraft containing a powerful energy bomb, in the hope of destroying the mother ship of the Fourth Host of the [[Celestials]]. [[Sprite (Earth-616)|Sprite]], an Eternal left behind to monitor Earth, learned of the Deviants' plan and feared that the Celestials would retaliate by wreaking havoc on Earth. Sprite sought out the Forgotten One and equipped him with an armored costume and a spaceship. The Forgotten One traveled into space, and the Fourth Host's leader, the [[One Above All (Celestial) (Earth-616)|One Above All]], teleported him into the Deviants' spacecraft. The Forgotten One wrecked the energy bomb and its spacecraft just before the moment of detonation. Then, floating stunned in space, the Forgotten One was drawn into the mother ship of the Fourth Host.{{r|Eternals #13}}
+
+Some time later, the Forgotten One reappeared on Earth and was temporarily blind (the cause of this blindness remains a mystery since Eternals cannot be injured by conventional means). Possibly the power released by the energy bomb as he wrecked it was sufficient to blind him. He delivered what he said was a message from the Celestials to the Eternals, which was to not interfere with the Celestials' plans.{{r|Thor #288}}
+
+In recognition of the Forgotten One's bravery, Zuras restored his freedom to him and renamed him '''Hero,''' a name that the Forgotten One has abandoned.{{r|Thor #301}}
+
+But the mission that the Celestials gave the Forgotten One went far beyond delivering that simple message. Exactly what that mission is remains unrevealed. However, in order to carry that mission out, the Forgotten One went to the city of the Deviants in undersea [[Lemuria (Pacific Ocean)|Lemuria]] some months later. Disguised in a hood and robes, the Forgotten One accompanied [[Kro (Earth-616)|Kro]], the new ruler of the Deviants, on his mission to the Pyramid of the Winds. Also, in the interim, the Forgotten One regained his sight.{{r|Eternals Vol 2 #6|12}}
+
+===Avenger===
+Later, the Forgotten One traveled to [[New York]], during [[Inferno (Event)|a time of demon invasion]]. He joined other heroes in saving [[Franklin Richards (Earth-616)|the son]] of [[Reed Richards (Earth-616)|Mr. Fantastic]] and the [[Susan Storm (Earth-616)|Invisible Woman]], and remained with them to reform the hero team [[Avengers (Earth-616)|Avengers]], whose ranks were depleted. He readopted the name '''Gilgamesh,''' at the prompting of Mr. Fantastic. After several adventures with the Avengers, he sustained grave injuries in battle versus the [[Lava Men]] and the extradimensional [[Blastaar (Earth-616)|Blastaar]]. He was returned by the Avengers to Olympia to recuperate.{{r|Avengers #299|309}}
+
+Gilgamesh was later kidnapped by the Avengers' archenemy [[Nathaniel Richards (Kang) (Earth-6311)|Immortus]], posing as the time-traveling villain Kang. As part of Immortus' ruse as Kang, he allowed Gilgamesh to be killed by his underling [[Neut (Earth-616)|Neut]].{{r|Avengers #391}}
+
+===Mental Manipulations===
+Seemingly killed, Gilgamesh was actually reborn in a new body. Soon after, fellow Eternal, Sprite, angered after millennia stuck in the form of a child, tapped into the power of the [[Tiamut (Earth-616)|Dreaming Celestial]] to make all Eternals forget their heritage and placed them into human guises. After Sprite's death, separate factions of Eternals worked to find and reawaken the lost Eternals. [[Ajak (Earth-616)|Ajak]], working on his own, discovered the Forgotten One in [[Brazil]], working as a circus strongman named '''O Guerreiro''', or "The Warrior." Ajak then "reminded" the Forgotten One of the other Eternals, showing him warped images of them, and reawakening him to his true power.{{r|Eternals Vol 4 3}} He attacked fellow Eternal [[Druig (Earth-616)|Druig]], and told him to warn the others that he was coming for them as revenge for their perceived betrayal that Ajak had shown him. He then arrived at Olympia in Antarctica and attacked [[Makkari (Earth-616)|Makkari]].{{r|{{cl|Eternals Vol 4 4}}-[[Eternals Vol 4 5|5]]}} He went so far as to destroy Makkari's reforming body and the whole [[Activation Chamber]]. He was eventually stopped by [[Thena (Earth-616)|Thena]] and seemingly regained his true memories before she slew him.{{r|Eternals Vol 4 6}}
+
+Claiming to have been endowed with a gift of awareness by the [[Tiamut (Earth-616)|Dreaming Celestial]] and the idea that he was part of a greater pattern, he went to [[Lemuria (Deviant)|Lemuria]] as the Forgotten One (while no longer using the name of Gilgamesh). There he met [[Thor Odinson (Earth-616)|Thor]] who had came to liberate [[Phastos (Earth-616)|Phastos]], kidnapped along with the [[Activation Chamber]] by the Deviants who needed them to save their dying species.{{r|Thor: The Deviants Saga #3}}
+
+Guiding Thor to attack the Deviant Throne Room where [[Ghaur (Earth-616)|Ghaur]] was torturing his allies, he left Thor to battle, stating he was needed elsewhere and that Thor would barely recall meeting him.{{r|Thor: The Deviants Saga #3}}
+
+===Crashing at Hercules'===
+Some time later, again known as Gilgamesh, he became the flatmate of [[Hercules Panhellenios (Earth-616)|Hercules]], who let him crash on his couch. The next month consisted mostly of eating and watching TV. Despite Hercules' attempts to push him to get back on his feet, Gilgamesh felt forgotten and completely apart from the world. Tiring of Gilgamesh, Hercules told landlord [[Sophia Gagliardi (Earth-616)|Sophia Gagliardi]]{{r|Hercules Vol 4 1}} that the sooner he became a hero again, the sooner he would leave, so tried to give him a sense of responsibility and probity.{{r|Hercules Vol 4 2}} [[Ire (Earth-616)|Ire]] contacted [[Hercules Panhellenios (Earth-616)|Hercules]]' apartment to ask for help, planning to trap him; however, Gilgamesh answered the phone and went in his stead. He was attacked by Ire and her cave wraiths, who planned to use his blood in a sacrifice to save the world from the "usurper gods", the [[Uprising Storm (Earth-616)|Uprising Storm]].{{r|Hercules Vol 4 3}} Hercules arrived and battled Ire until they were interrupted by the new gods, who taunted them before blowing up the building with everyone inside.{{r|Hercules Vol 4 4}} Everyone survived but a badly injured Ire dragged Gilgamesh to safety, explaining that her blood sacrifice had reduced their power. They battled the New Gods, but were overpowered until a group of [[Kentauros|Centaurs]] arrived, causing the New Gods to teleport away.{{r|Hercules Vol 4 5}} Hercules invited Ire and the others back to his apartment where they shared a celebratory dinner.{{r|Hercules Vol 4 6}} 
+
+===Gods of War===
+After another defeat in battle, Gil and the others convinced Hercules to form a team of godly heroes to defeat the new gods.{{r|Civil War II: Gods of War #1}} Hercules contacted his friends from across the globe for a meeting of the "[[Gods of War (Earth-616)|Gods of War]]". He brought them to [[New York City]] to battle the [[Uprising Storm (Earth-616)|Uprising Storm]]. But before the meeting could end the Uprising Storm attacked.{{r|Civil War II: Gods of War #2|3}}
+
+===Suspected of Treachery===
+When Thanos was unexpectedly resurrected and began killing Eternals as well as sabotage the machine of resurrection, a traitor was suspected among the Eternals. The Eternals narrowed their field of suspects down to Gilgamesh. To confront him, Sersi pretended to attack [[Anthony Stark (Earth-616)|Tony Stark]] to lure Gilgamesh out of his extradimensional home. After Gilgamesh was restrained and interrogated, he forced his accusers to let him prove his innocence with gunmen that worked for him. They went to the [[Exclusion]] where the machines of resurrection were located and Gilgamesh showed how he would sabotage the machines but also revealed that [[Phastos (Earth-616)|Phastos]] knew this as well, revealing that Phastos was the traitor. As Gilgamesh and the Eternals went to confront Phastos, Thanos was preparing to ambush them.{{r|{{cl|Eternals Vol 5 1}}-[[Eternals Vol 5 5|5]]}}
+
+Gilgamesh and his fellow Eternals were able to overwhelm Thanos, but then Phastos accidentally teleported him and the others all over Earth while trying to teleport them to the Exclusion to help him fix the resurrection machine he broke. Ikaris gave his life to use his matter manipulation power to repair the machine. Gilgamesh and the others later learned the reason for Phastos' actions: Eternals were resurrected at the cost of human lives and that the resurrection machines couldn't be turned off without endangering Earth. Gilgamesh was devastated after learning this as every time he killed an Eternal as punishment and they were resurrected, human lives were taken.{{r|Eternals Vol 5 6}}
+
+| Powers                  = '''[[Eternals_(Homo_immortalis)|Earth-Eternal Physiology]]:''' Gilgamesh possesses many of the conventional superhuman powers of the Eternals, though some are vastly more developed than the majority of his race. Gilgamesh is stated to be one of the most powerful Earth Eternals. Those powers includes:
+* '''Superhuman Strength:''' Gilgamesh is among the physically strongest of the Eternals. While the limit of Gilgamesh's strength was unknown, he was capable of lifting well in excess of 100 tons.{{r|Official Handbook of the Marvel Universe Master Edition #11}}
+* '''Superhuman Speed:''' Gilgamesh could run and move at speeds superior to that of the finest human athlete.{{r|Official Handbook of the Marvel Universe Master Edition #11}}
+* '''Superhuman Stamina:''' Gilgamesh's highly advanced musculature generated considerably less fatigue toxins than the musculature of ordinary humans, and most other Eternals for that matter. Gilgamesh could physically exert himself at peak capacity for several days before fatigue began to impair him.{{r|Official Handbook of the Marvel Universe Master Edition #11}}
+* '''Superhuman Durability:''' The tissues of Gilgamesh's body were much harder and more resistant to physical injury than those of an ordinary human, and most other Eternals. He could withstand powerful energy blasts, great impact forces, exposure to temperature and pressure extremes, and falls from great heights without injury.{{r|Official Handbook of the Marvel Universe Master Edition #11}}
+* '''Superhuman Agility:''' Gilgamesh's agility, balance, and bodily coordination were all enhanced to levels beyond the natural limits of even the finest human athlete.{{r|Official Handbook of the Marvel Universe Master Edition #11}}
+* '''Superhuman Reflexes:''' Gilgamesh's reflexes were similarly enhanced and were superior to those of the finest human athlete.{{r|Official Handbook of the Marvel Universe Master Edition #11}}
+* '''Cosmic Energy Manipulation:''' Gilgamesh could project powerful beams of cosmic energy from his hands for a variety of uses including blasts of concussive force, beams of concentrated heat, and blasts that could rearrange most objects and materials on a molecular level.{{r|Official Handbook of the Marvel Universe Master Edition #11}}
+* '''Telekinetic Levitation/Flight:''' Gilgamesh possessed highly developed telekinetic powers that he could use to levitate himself or fly through the air. Gilgamesh could reach the Speed of Sound, roughly 770 miles per hour.{{r|Official Handbook of the Marvel Universe Master Edition #11}}
+* '''Regenerative Healing Factor:''' Despite his resistance to injury, it was possible to injure Gilgamesh. However, if Gilgamesh retained psionic control over his body, he could, eventually, regenerate any damaged or destroyed bodily tissue.{{r|Official Handbook of the Marvel Universe Master Edition #11}}
+* '''Immortality:''' Gilgamesh was functionally immortal. He was immune to the effects of aging and hadn't aged since reaching adulthood. He was also immune to the effects of all known Earthly diseases and infections, though this didn't mean that he couldn't be killed.{{r|Official Handbook of the Marvel Universe Master Edition #11}}
+
+He also stated to have been gifted with some form of awareness by the [[Tiamut (Earth-616)|Dreaming Celestial]].{{r|Thor: The Deviants Saga #3}}
+| Abilities               = Gilgamesh was an excellent hand to hand combatant with knowledge of combat methods and weaponry used during various periods in Earth's history.{{r|Official Handbook of the Marvel Universe Master Edition #11}}
+| Weaknesses              = Gilgamesh's seeming immortality, like that of other Earth born Eternals, depended upon the mental control he maintained over his bodily molecules. If an Eternal's control is broken and suffers a fatal injury during that time, he or she will not be able to heal from it.
+
+Gilgamesh was blind for some time, although he developed radar-like senses to compensate for his handicap.{{r|Avengers: West Coast #81}}
+
+| Equipment               = 
+| Transportation          = Teleportation, although doing so with their own power is unpleasant.
+| Weapons                 = 
+
+| Notes                   = * Gilgamesh was believed to have been killed by [[Neut (Earth-616)|Neut]] during the Crossing. However, in light of [[Nathaniel Richards (Immortus) (Earth-6311)|Immortus']] schemes,{{r|Avengers: Forever #8}} this may or may not have occurred for the purposes of Earth-616 history.
+| Trivia                  = * He is sometimes presented as a god.{{r|Civil War II: Gods of War #1|'s recap}}
+| Links                   = * Unofficial Handbook of the Marvel Universe
+* [http://www.marvunapp.com/Appendix2/gilgamesh.htm Marvel Universe Appendix profile on Gilgamesh, the Forgotten One]
+}}
+[[Category:Superhuman Stamina]]
+[[Category:Invulnerability]]
+[[Category:Flight]]
+[[Category:Telekinesis]]
+[[Category:Telepaths]]
+[[Category:Regeneration]]
+[[Category:Superhuman Reflexes]]
+[[Category:Energy Manipulation]]
+[[Category:Matter Manipulation]]
+[[Category:Mythological Figures]]
+[[Category:Apotheosized Mortals]]
+[[Category:Superhuman Strength]]
+[[Category:Superhuman Speed]]
+[[Category:Superhuman Durability]]
+[[Category:Superhuman Agility]]
+[[Category:Immortals]]
+[[Category:Teleporters]]

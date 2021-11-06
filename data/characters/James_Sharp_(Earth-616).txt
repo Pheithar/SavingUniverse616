@@ -1,0 +1,60 @@
+{{Marvel Database:Character Template
+| Image                   = James Sharp (Earth-616) from Avengers The Initiative Vol 1 26.jpg
+| Name                    = James Sharp
+| CurrentAlias            = Coronary
+| Aliases                 = 
+
+| Affiliation             = {{M|Psionex}} ([[Maryland (State)|Maryland]] {{M|50-State Initiative (Earth-616)|Initiative}})
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = White
+| Hair                    = No hair
+| UnusualFeatures         = Coronary's body has been changed into some sort of glass composition
+
+| Origin                  = [[Homo sapiens|Human]] [[Mutates|Mutate]] experimented by [[Genetech (Earth-616)|Genetech]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Registred "hero", Ex-medical student/eco-terrorist
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Fabian Nicieza; Mark Bagley
+| First                   = New Warriors #4
+
+| History                 = '''James Sharp''' was a medical student before being used by [[Genetech (Earth-616)|Genetech]] for their research in creating superhuman beings. Given the name and powers of '''Coronary''', he participated as a member of [[Psionex (Earth-616)|Psionex]] during its early activities, such as battling with the young heroes of the New Warriors. During their initial battle, one member of the Warriors, [[Namorita Prentiss (Earth-616)|Namorita]], carried aloft Coronary. When he caused Namorita to have stomach pains, Namorita accidentally dropped him from a high altitude. Coronary's body apparently shattered when he hit the ground.{{r|New Warriors #4}}
+
+Later, however, Coronary managed to reassemble himself, after which he exhibited a noted increase in power. His body was not composed of fused fragments of jagged sharp "glass" as opposed to his previous smooth complexion. Coronary and Psionex rioted and escaped from Genetech's watch.{{r|New Warriors #15|16}} However, Coronary later returned to Genetech in the hopes that they could help him control his powers, or revert back to normal. He was found at Genetech when Asylum II was recruited former Psionex members to be vigilantes.{{r|New Warriors Annual #4}} After Asylum accidentally killed an innocent kid during a bust, Coronary and Impulse tried to hunt down their former teammate and make him turn himself into the police to take the heat off of them.{{r|New Warriors #52}}
+
+Coronary and Psionex were later taken in by Night Thrasher, who needed a new team to lead after the New Warriors kicked him out.{{r|New Warriors #60}}
+
+===[[Dark Reign]]===
+He later joined back the [[Psionex (Earth-616)|Psionex]], who was made as part of the [[50-State Initiative (Earth-616)|Initiative]] as the [[Maryland (State)|Maryland]] team,{{r|Avengers: The Initiative #26}} and participated to the [[H.A.M.M.E.R. (Earth-616)|H.A.M.M.E.R.]] [[Siege (Event)|assault]] on [[Asgard]].{{r|Siege #1}}
+
+| Powers                  = Coronary is a vicious young man who seems to enjoy using his powers to hurt and manipulate other people. Coronary is able to psionically manipulate a person's metabolic processes. For example, he can cause intense migraines, muscle spasms, and an extreme upset stomach.  
+
+Since the evolution of his powers, Coronary can now use them to affect his own body. As a result, he can phase through solid matter or stretch his limbs over great distances by altering his body's density and pliability.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = Coronary's glass-like body can shatter when exposed to sufficient impacts.
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = Coronary (comics)
+| Links                   = * The Unofficial Handbook to the Marvel Universe
+
+}}
+[[Category:Biological Manipulation]]
+[[Category:Intangibility]]
+[[Category:Stretching]]

@@ -1,0 +1,59 @@
+{{Marvel Database:Character Template
+| Image                   = Flavius_Scollio_(Earth-616)_from_Fantastic_Four_Vol_1_241.jpg
+| Name                    = [[Flavius Scollio]]
+| CurrentAlias            = [[Gaius Tiberius Augustus Agrippa]]
+| Aliases                 = 
+
+| Affiliation             = Formerly [[Caligula (Earth-616)|Emperor Caligula]]
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 6'4''
+| Weight                  = ''100 lbs.
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] rendered immortal and powered by an extraterrestrial armor
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Rome (Italy)|Rome]]
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = Roman
+| Occupation              = Emperor, formerly solider
+| Education               = 
+| BaseOfOperations        = [[Black Tower of M'Kumbe]], [[Wakanda]]
+
+| Creators                = John Byrne
+| First                   = Fantastic Four #241
+| Death                   = Fantastic Four #241
+
+| History                 = [[File:Flavius_Scollio_(Earth-616)_as_a_mortal_from_Fantastic_Four_Vol_1_241.jpg|thumb|left|Mortal form. {{r|Fantastic Four #241}}]]
+Flavius Scollio was a soldier for [[Caligula (Earth-616)|Emperor Caligula]] stationed at an outpost in [[Africa]]. He was sent by his commander to investigate an anomalous phenomenon, which he discovered was a crashed alien spacecraft. The craft was inhabited by a single alien, which Flavius killed. He then donned the armor which imbued him with power to mentally manipulate his surroundings and advanced longevity. Using the armor, Flavius created the [[Black Tower of M'Kumbe]] in [[Wakanda]], which housed a kingdom modeled after ancient Rome inside, where he resided for nearly two thousand years. Over the years, Flavius captured people from the surrounding area to be his subjects.
+
+Flavius captured the [[Fantastic Four (Earth-616)|Fantastic Four]] and [[T'Challa (Earth-616)|Black Panther]] when they arrived to investigate the tower. Flavius fancied the [[Susan Storm (Earth-616)|Invisible Girl]] with the intention of making her his wife, but his plan was foiled when she removed the helmet. With the helmet removed, revealing his body had long since been eaten away by the power of the armor, which only his amplified intellect remained, now gone, everything he created was destroyed created and reduced his people to a pile of dust and bones.{{r|Fantastic Four #241}}
+
+| Powers                  = [[File:Flavius_Scollio_(Earth-616)_headless_from_Fantastic_Four_Vol_1_241.jpg|thumb|left|Headless {{r|Fantastic Four #241}}]]
+
+| Abilities               = 
+* '''Neutralize superpowers''': Flavius was able to capture the Fantastic Four by neutralizing their abilities with his mind.
+* '''Advanced longevity''': Flavius' armor allowed him to live for centuries.
+| Strength                = 
+| Weaknesses              = 
+* Flavius' continued existence was tied to the armor, and when the armor was removed Flavius crumbed to a pile of bones.
+
+| Equipment               = * '''Alien Armor''': Flavius obtained this armor from an alien that crash landed in Africa.
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Advanced Longevity]]
+[[Category:Armor Users]]

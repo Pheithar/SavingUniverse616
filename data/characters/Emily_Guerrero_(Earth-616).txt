@@ -1,0 +1,73 @@
+{{Marvel Database:Character Template
+| Image                   = Emily Guerrero (Earth-616) from Uncanny Avengers Vol 3 1 wraparound cover.png
+| Name                    = Emily Guerrero
+| CurrentAlias            = [[Synapse]]
+| Aliases                 = 
+
+| Affiliation             = Formerly {{m|Avengers Unity Division}}
+| Relatives               = [[Ivan Guerrero (Earth-616)|Ivan Guerrero]] (grandfather)<br>
+Unnamed brother
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] with [[Inhomo supremis|Inhuman]] lineage activated by a [[Terrigen Bomb]][[Category:Human/Inhuman Hybrids]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Adventurer
+| Education               = 
+| BaseOfOperations        = Mobile; [[Avengers Mansion]], [[Manhattan]], [[New York City]], [[New York]]; [[Schaefer Theater]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]
+
+| Creators                = Gerry Duggan; Ryan Stegman
+| First                   = Uncanny Avengers Vol 3 1
+
+| Quotation               = So, how's having untended clouds of [[Terrigen Mist]] floating around working out for everybody?
+| Speaker                 = [[Emily Guerrero (Earth-616)|Synapse]]
+| QuoteSource             = Uncanny Avengers Vol 3 6
+
+| History                 = 
+===Early Life===
+Emily Guerrero, unbeknownst to her, was a [[Homo sapiens|Human]] with [[Inhumans (Inhomo supremis)|Inhuman]] lineage. She lived with her grandfather, [[Ivan Guerrero (Earth-616)|Ivan Guerrero]], and brother.{{r|Uncanny Avengers Vol 3 4}}
+
+===Terrigen Cloud===
+When the [[Terrigen Mist|Terrigen Cloud]] came to their home, it affected the entire family, encasing each of them in a [[Terrigenesis#Cocooning|cocoon]]. Emily emerged from her cocoon to see her grandfather standing over her as both of them knew that they had undergone some kind of metamorphosis. She ran out of her room to check on her brother, who had not yet emerged. During this time, Emily's grandfather told her that what had happened would allow them to save the world.{{r|Uncanny Avengers Vol 3 4}}
+
+[[File:Emily Guerrero (Earth-616) from Uncanny Avengers Vol 3 18 001.jpg|thumb|left|Synapse in civilian clothes]]
+===Avengers Unity Division===
+Eight months passed, and Emily, going by the name Synapse, became a member of [[Steven Rogers (Earth-616)|Commander Steve Rogers]]'s [[Avengers Unity Division (Earth-616)|Avengers Unity Division]] as a representative of the Inhumans. Despite being unprepared for the public eye and life as a superhero, Rogers insisted that Emily stay with the team and vouched for her abilities, even though there was some tension with fellow member, [[Rogue (Anna Marie) (Earth-616)|Rogue]], who was a [[Homo superior|mutant]]. Synapse's first battle as an Avenger was against the [[Super-Adaptoid (Earth-616)|Super-Adaptoid]].<!-- {{r|Uncanny Avengers Vol 3 1}} -->
+
+During the scuffle she tried to read the adaptoid's mind but to no avail, so she used her telepathy to control a flock of pigeons to attack it while the rest of the team were able to finish it off for good.{{r|Uncanny Avengers Vol 3 1}}
+
+| Powers                  = '''Telepathy:''' Synapse possesses the ability to influence the minds of others, be they sapient or primal in nature; however, she has difficulty contacting artificial intelligences, as their thought waves are either synthetic or nonexistent.{{r|Uncanny Avengers Vol 3 1}}
+* '''Lie Detection'''
+* '''Brainwave Manipulation''': Synapse can manipulate the electricity running through other people's brains for various effects like making them fall asleep,{{r|Uncanny Avengers Vol 3 7}} causing them vertigo, or shutting down their motor functions.{{r|Uncanny Avengers Vol 3 15}}
+* '''Telepathic Communication:''' Synapse can mentally communicate with other people.{{r|Uncanny Avengers Vol 3 2}}
+* '''Mind Possession:''' Synapse has the ability to take control over other beings' actions. During the fight against the [[Super-Adaptoid (Earth-616)|Super-Adaptoid]], she attacked it with a flock of pigeons{{r|Uncanny Avengers Vol 3 1}} and has used birds as drones at other times.{{r|Uncanny Avengers Vol 3 3}}
+* '''Healing:''' Synapse has displayed the power to boost an infant girl's immune system{{r|Uncanny Avengers Vol 3 2}} and Quicksilver's healing ability.{{r|Uncanny Avengers Vol 3 14}}
+* '''Power Negation''': Synapse can suppress other people's powers. She displayed this ability when she neutralized [[Julian Keller (Earth-616)|Hellion]]'s powers while they were out of control.{{r|Uncanny Avengers Vol 3 6}}
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Telepaths]]
+[[Category:Terrigen Bomb Activations]]
+[[Category:Zoopathy]]

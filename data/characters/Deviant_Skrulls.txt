@@ -1,0 +1,207 @@
+{{MessageBox
+| Message = This page is about the [[Skrulls]] as a species. For the Skrulls as a group, please refer to the [[Skrull Empire]] page.
+}}
+{{Marvel Database:Race Template
+| Image                   = Occupy Avengers Vol 1 7 Textless.jpg
+| Title                   = [[Deviant Skrulls|Skrulls]]
+| Name                    = [[Deviant Skrulls]]{{r|Skrulls! #1}}{{r|Marvel Fact Files #2}}{{r|Official Handbook of the Marvel Universe A-Z Update #2|; [[Dire Wraiths]]' entry}}
+| Aliases                 = [[Changing People]],{{r|Incredible Hercules #120}} [[Chitauri]]{{r|Ultimate Secrets #1}} (on [[Earth-20604]], offensive term),{{r|Ultimate Fantastic Four #27|28}} Greenies,{{r|Avengers: The Initiative #16}} Greenskins,{{r|Marvel Westerns: Kid Colt and the Arizona Girl Vol 1 1}} Pointy Eared Trolls,{{r|Thunderbolts Vol 1 123}} Pure-Skrulls,<ref>{{cl|Uncanny X-Men #376}}, opposed to [[Mutant Skrulls]]</ref> Shapechangers,{{r|Annihilation: Prologue #1}} Skrull Deviants,{{r|Official Handbook of the Marvel Universe Vol 2 12|; Skrulls entry}} Skrullian Deviants,{{r|Official Handbook of the Marvel Universe Vol 2 12|; Skrulls entry}} Skrullkind,{{r|Rom #50}} Space-Toads{{r|Thunderbolts Vol 1 123}}
+| Identity                = Public
+| Affiliation             = Mostly [[Skrull Empire]], and the [[Kree/Skrull Alliance (Earth-616)|Alliance]]
+| Universe                = Earth-616
+| BaseOfOperations        = [[Tarnax II]]; multiple locations in the [[Andromeda Galaxy]] and the [[Milky Way]]; formerly [[Tarnax IV]], [[Skrullos]]
+
+| BodyType                = Reptilian-Humanoid
+| AvgHeight               = 5'5" (Around the same as humans).
+| AvgWeight               = Same as humans
+| Eyes                    = Green
+| Hair                    = Green
+| Skin                    = Green
+| NumberOfLimbs           = 4
+| NumberOfFingers         = 5
+| NumberOfToes            = 5
+| SpecialAdaptations      = Pointed ears, furrowed chins, green skin. Most males are bald and have no facial hair. Females have full head of hair. Most Skrulls are physically malleable, able to alter their shape size, and/or colour at will.
+| AvgLifespan             = 200 earth years
+
+| Origin                  = Alien; [[Deviant]] branch of the [[Skrulls]] of [[Skrullos]]
+| GalaxyOfOrigin          = Andromeda Galaxy
+| StarSystemOfOrigin      = Drox
+| HomePlanet              = Skrullos
+| PlaceOfBirth            = Skrullos
+| Creators                = Stan Lee; Jack Kirby
+| First                   = Fantastic Four #2
+| First2                  = {{g|Named}}<br>{{sld|Amazing Adult Fantasy #7}}{{g|Retcon}}
+
+| Overview                = The Skrulls are a race of green-skinned, humanoid shapeshifters from the [[Andromeda Galaxy]]. They are a ferocious warrior race, one which may also be the most devious race in the cosmos and yet in their own way they are also a noble warrior race.{{r|Silver Surfer Vol 3 25}}{{r|Fantastic Four Annual Vol 1 19}}{{r|Fantastic Four Annual Vol 1 24}} Whom have carved for themselves the oldest [[Skrull Empire|interstellar empire]] in the universe's history. The Skrulls conquered or colonized every suitable world in the Andromeda Galaxy.{{r|Fantastic Four Annual Vol 1 19}} Dominating a galaxy with millions of inhabited worlds.{{r|Annihilation: Prologue Vol 1 1}}{{r|Annihilation: Nova Vol 1 4}} The Skrulls are a race whom have ravaged a thousand galaxies.{{r|Black Panther Vol 4 39}} In the last 100 years, the Skrulls have waged interstellar warfare with the [[Kree]],{{r|Fantastic Four Annual Vol 1 18}} [[Badoon]],{{r|Silver Surfer Vol 3 27}} [[Dire Wraiths]],{{r|Annihilators #4}} [[Brood (Race)|Brood]],{{Citation}} [[Xartans]],{{r|Sensational She-Hulk Vol 1 46}} [[Majesdanians]],{{r|Runaways Vol 2 #8}} [[Xandarians]],{{r|Fantastic Four Vol 1 209}} the [[Annihilation Wave]],{{r|Annihilation: Super-Skrull Vol 1 1}} and the [[Builders (Race)|Builders]].{{r|Avengers Vol 5 21}}{{r|Black Panther Vol 4 39}}
+
+| Quotation               = [[Sl'gur't (Earth-616)|You]] have purged the [[Prime Skrulls|Unworthies]] from this world, but there are countless galaxies of Fossil Ones beyond [[Skrullos]], trapped in their singular forms and their ignorance, waiting, though they know it not, for you to save them. For I say to you that the entire universe is a Book of Worlds with blank pages, upon which the Changing People shall write their destiny.
+| Speaker                 = [[Kly'bn (Earth-616)|Kly'bn]]
+| QuoteSource             = Incredible Hercules Vol 1 120
+
+| HistoryText             = 
+<center>''This is an abridged version of Deviant Skrulls' history. For a complete history see '''[[Deviant Skrulls/Expanded History|Deviant Skrulls' Expanded History]]'''''</center>
+
+The ancestors of the Skrulls were allegedly created by the [[Xorrians]] (along with all humanoid life-forms, such as [[Kree]] and [[Humans]]) from their own DNA.{{r|Thor #215}}{{r|Skrulls! #1}} These Skrull ancestors resided on [[Skrullos]], a planet in the Drox system. The Skrulls were once a peaceful race, until the [[Celestials (Race)|Celestials]] arrived at Skrullos over a 100 million years ago. The Celestials went on to split the Skrulls into three races: the [[Prime Skrulls|baseline Skrulls]], with no special abilities but the potential to evolve, the Deviant Skrulls, with shapeshifting abilities, and the [[Eternal Skrulls]], who were given longevity and super powers. Almost immediately, this led to war, in which the Deviant Skrulls exterminated the other two races.{{r|Silver Surfer Vol 3 5}}
+
+Thus all modern Skrulls are descendants of the Deviant branch. The Skrulls later split again, giving rise to the [[Dire Wraiths]], a parasitic race that could still shape-shift and had use of magic, but were not as technologically advanced as the Skrulls. Dire Wraith's are analogous to the Skrulls as [[vampires]] are to humans.{{r|Silver Surfer Vol 3 5}} At some point, the Skrulls became genetically frozen in place, unable to evolve further, as punishment for a single Skrull abusing the power of the Crystal of Ultimate Vision, located within the [[Citadel of Light and Shadow]].{{r|X-Men Annual Vol 1 11}} It no longer appears to be the case as an increasing number of Skrulls are born as mutants, possessing the K-gene which gives them mutations and/or superhumans powers resulting in [[Skrull Mutants]].{{r|Uncanny X-Men #376}}
+
+During the reign of [[Dorrek (Earth-616)|Dorrek]], 10s of millions of years ago, the empire reached neighboring galaxies becoming an intergalactic empire.{{r|Avengers Vol 1 133}} Skrull science is generally at a higher level than the science of human civilization, having achieved a high level of science before life emerged on Earth at least 2.5 billion years ago.{{r|Captain America Annual Vol 1 7}} Skrull science created the first [[Cosmic Cube]] thousands of years ago, though it ended disastrously for the Skrull Empire. As upon becoming sentient the cube destroyed two-thirds of the inhabited worlds in the Andromeda galaxy, thereby plunging the Skrull Empire into a dark age of barbarism.{{r|Official Handbook of the Marvel Universe Vol 2 12}}{{r|Captain America Annual Vol 1 7}} The Skrulls were ruled by an Emperor or Empress, who had absolute power.{{r|Official Handbook of the Marvel Universe Vol 2 12|; Skrulls entry}}
+
+==Biology==
+===Reproduction===
+Skrulls are oviparous.{{r|Marvel Fact Files #2}} Skrull females do not give live birth; instead, they lay eggs like their reptilian evolutionary ancestors.{{r|Fantastic Four Vol 1 386}} Skrull children are known as "hatchlings". Despite their reptilian evolutionary roots, however, Skrulls have hair and the females have mammary glands and nurse their young. {{r|Official Handbook of the Marvel Universe Vol 2 12|; Skrulls entry}} Attempts at reproduction can be more effective at certain times during their reproductive cycle.{{r|Captain Marvel Vol 6 5}}
+
+====Hybrids====
+{{Seealso|:Category:Skrull Hybrids}}
+Skrulls are capable of producing [[Glossary:Hybrids|hybrid]] offspring with [[Homo sapiens|humans]] and [[Kree]].{{r|Marvel Fact Files #2}}
+
+On [[Earth-9997]], it was revealed that [[Thanos (Earth-9997)|Thanos]] was a hybrid of an [[Eternals (Homo immortalis)|Eternal]] and a Skrull, as his mother [[Sui-San (Earth-616)|Sui-San]] was in fact a Skrull.{{r|Universe X #X}}
+
+A conclave called the [[Knights of the Infinite (Earth-616)|Knights of Infinity]] are a nomadic band of Kree/Skrull hybrids who were gathered and created by the first of their kind; [[Dorrek Supreme (Earth-616)|Dorrek Supreme]], who is the heir to the throne of a Kree/Skrull alliance.{{r|New Avengers Vol 4 #4}}
+
+===Diseases and Genetic Conditions===
+====Shape-Shifting Deficiency====
+An uncommon birth defect in Skrulls is being born without the ability to shape-shift. Skrulls afflicted with this abnormality include [[Raze (Skrull) (Earth-616)|Raze]],{{r|Silver Surfer Vol 3 89}}{{r|Skrulls! #1|; [[Raze (Skrull) (Earth-616)|Raze]]'s entry}} [[Titannus (Earth-616)|Titannus]],{{r|Marvel Team-Up Vol 3 12}} and [[Talos (Earth-616)|Talos the Tamed]].{{r|Incredible Hulk #419}}{{r|Skrulls! #1|; [[Talos (Earth-616)|Talos the Tamed]]'s entry}} This genetic defect can also grant upper strength and endurance to some of those afflicted, including Talos the Tamed.{{r|Skrulls! #1|; [[Talos (Earth-616)|Talos the Tamed]]'s entry}}
+
+====Cancer====
+Skrulls are susceptible to various forms of cancer. The [[Kl'rt (Earth-616)|Super-Skrull]] contracted leukemia due to prolonged exposure to the radiation in the {{WP|Van Allen Belts}}.{{r|Alpha Flight #10}} The Skrull prince [[Klundirk (Earth-616)|Klundirk]] was also diagnosed with an unknown form of cancer.{{r|{{cl|Spider-Woman Vol 6 3}}-[[Spider-Woman Vol 6 4|4]]}}
+
+====Tuberculosis====
+On [[Earth-829]], [[Skyppi (Earth-829)|Skyppi]] contracted a form of tuberculosis common to the Skrull species.{{r|Hercules: Twilight of a God #1}}
+
+===Evolution and Mutation===
+<!-- (Hidden for brevity reasons)
+The Skrulls were stated to be given genetic and molecular instability and genetic diversity from the [[Celestials (Race)|Celestials]]' experimentation.{{r|Official Handbook of the Marvel Universe Master Edition #30}}
+
+However, with the elimination of the [[Prime Skrulls|"Normals"]] went away their capacity for benevolent mutation, and have existed at their current level of evolution for millions of years.{{r|Official Handbook of the Marvel Universe #10}} The [[Prime Skrull (Earth-616)|Prime Skrull]] demonstrated the latent [[Skrull Mutants|mutant]] abilities of his [[Prime Skrulls|kind]].{{r|Blackwulf #10}} -->
+
+The Skrulls are evolutionarily stagnant. They can not evolve naturally and can only move forward genetically through artificial means.{{r|Skrulls! #1|; [[Citadel of Light and Shadow]]'s entry}}
+
+Despite this, [[Skrull Mutants|mutants]] (a.k.a K-class deviants) have been observed, particularly on Carpiax-IV, where Lord Merek's fecundity-supplement program resulted a higher number of K-class births. It was common to cull Skrull mutants in the interest of genetic purity. One group of Skrull mutants, [[Cadre K (Earth-616)|Cadre K]], was rescued and trained by [[Charles Xavier (Earth-616)|Professor X]].{{r|Maximum Security: Dangerous Planet #1}}
+<!-- (Hidden until a better place in the article can be determined)
+After the loss of their shapeshifting abilities, tests showed that genetic mutation couldn't be accomplished by a male Skrull but could be induced by part of a female's life force in order to return such ability. [[S'Byll (Earth-616)|S'Byll's]] shapeshifting ability was returned, enhanced.{{r|Silver Surfer Vol 3 25}} She was considered a mutant by the [[Stranger (Cosmic Being) (Earth-616)|Stranger]].{{r|Silver Surfer Vol 3 27}} -->
+
+<!-- (Hidden until it can be determined exactly what a Warskrull is)
+===Warskrulls===
+[[Image:Blackagar Boltagon (Skrull) (Earth-616) from New Avengers Illuminati Vol 2 5 001.jpg|right|thumb|A Super Skrull]]
+A normal Skrull can only take on the appearance of their template, not the abilities of that person. Warskrulls, an elite group of Skrulls gifted with the ability to emulate the powers as well as the appearance of their templates.{{r|Uncanny X-Men #274|277}} Warskrulls do not naturally have this ability; instead, special encoding technology is used to grant them their powers.{{Citation}}
+
+Once lost, the use of Mutant Skrulls permitted the recreation of the Warskrulls' genome.{{r|Skrulls! #1}} -->
+
+==Alternate Realities==
+{{Main|Deviant Skrulls/Alternate Universe Skrulls}}
+
+The Skrulls are present in many realities, with more or less important variations in their history, appearances, and biology.
+
+| Habitat                 = 
+| Gravity                 = Earth-like
+| Atmosphere              = Earth-like
+| Population              = Trillions (spread throughout the intergalactic Skrull empire){{r|Marvel Fact Files Vol 1 2}}
+===Planets===
+* '''[[Aks'lo]]''' - Paradisaical vacation planet, destroyed by the [[Annihilation Wave (Earth-616)|Annihilation Wave]].{{r|Annihilation: Super-Skrull #1}}
+* '''[[Hy'lt Minor]]''' - Home of [[K'eel R'kt (Earth-616)|K'eel R'kt]], destroyed by the [[Builders (Race)|Builders]].{{r|Infinity: Against the Tide: Infinite Comic #2}}
+* '''[[Kral IV]]''' - The highly-unusual Kral system is populated by Skrulls fascinated with the culture of 1930s [[Earth]] and who have attempted to duplicate that time period. Skrull inhabitants of Kral maintain human rather than Skrull form.
+* '''[[Skrullos]]''' - Original Skrull home-world.
+* '''[[Tarnax IV]]''' - Former Skrull Throneworld, consumed by [[Galan (Earth-616)|Galactus]].{{r|Fantastic Four #257}}
+* '''[[Tarnax VII]]''' - Home of [[Xavin (Earth-616)|Xavin]]; engaged in a war with the non-Skrull planet [[Majesdane]].
+* '''[[Zaragz'na]]''' - Home of the [[Kl'rt (Earth-616)|Super-Skrull]]'s son, destroyed by [[Annihilation Wave (Earth-616)|Annihilation Wave]].{{r|Annihilation: Super-Skrull #3}}
+* '''[[Satriani]]''' - Throneworld under Empress [[S'Byll (Earth-616)|S'Byll]] and Queen [[Veranke (Earth-616)|Veranke]].
+* '''[[Tarnax II]]''' - The new throneworld under Emperor [[Kl'rt (Earth-616)|Kl'rt]].
+* '''[[Tarnax X]]''' - Base of operations for the religious sect [[Dard'van Sect (Earth-616)|Dard'van]].
+* '''[[Skrell]]''' - World dominated by the Skrull Scientist caste, where the organic supercomputer [[Intelligentsia (Earth-616)|Intelligentsia]] is located.
+
+| Powers                  = 
+[[File:Deviant Skrulls from Young Avengers Vol 1 11 001.jpg|thumb|Skrulls using their shape-shifting to fly]]
+* '''Shapeshifting:''' Skrulls are able to alter their forms into that of anything they can imagine, be it organic or inorganic. It must, however, be solid. They can also use their abilities to grow extra limbs. They have no apparent size limit, as they are been seen to assume the form of a common housefly{{r|Fantastic Four: Unplugged #4}}, and shapes many times larger than their normal selves. Skrulls can also use their shape-shifting capabilities to change their sex: males can become females and vice versa.{{r|Runaways Vol 2 8}}
+**'''Elasticity, Plasticity, Elongation''': Their shape-shifting abilities allow them to alter their bodies in much the same way as [[Reed Richards (Earth-616)|Mr. Fantastic]], so that they can stretch to great lengths, or form other shapes with their bodies, such as balls, parachutes, or anything else.
+***'''Flight:''' They are able to fly by shape-shifting a pair of wings onto their back, or turning their arms into wings.{{r|Young Avengers #11}}
+**'''Size Alteration:''' They are also capable of altering their size independently of altering their form, allowing them to grow or shrink while maintaining their current form.
+**'''Mimicry:''' Skrulls are cunning spies due to their ability to mimic sounds and voices. This is mainly used in conjunction with the shapes they shift into.
+* '''Telepathy:''' Within the Deviant Skrulls there are a minority that possess telepathic abilities. They have been seen to serve the empire in the imperial court as "Priest of the Mind" and in the armed forces.{{r|Fantastic Four Vol 1 348|349}}{{r|New Avengers Vol 1 44}}{{r|Secret Invasion: X-Men Vol 1 4}}
+
+| Abilities               = '''Weapon Formation:''' Skrulls are able to use their shapeshifting abilities to form weapons with parts of their bodies. For instance, they can shape their arms into blades or clubs including guns. This ability makes them dangerous hand-to-hand combatants.
+| AvgStrength             = 
+| Weaknesses              = * '''Shapeshifting Limitations:''' Skrulls can only take on the appearance of person and none of that person’s characteristics or, in the case of superhumans, their powers.{{r|Fantastic Four #2}} When they imitate an inorganic object, they take on its appearance, but not its properties. The inability to replicate powers does not apply to genetically modified [[Super-Skrulls (Earth-616)|Super-Skrulls]].{{r|New Avengers #40}}
+* There is a limit to the size of the object or person a Skrull can imitate. The average Skrull cannot distend his or her mass any more than 1.5 times as large a volume as his or her original volume, nor can he or she contract his or her mass any more than 0.75 a volume as his or her original.{{r|Official Handbook of the Marvel Universe Vol 2 12|; Skrulls entry}}
+* Very high decibel sounds have been shown capable of temporarily disabling a Skrull, and in the case of a [[Super-Skrulls (Earth-616)|Super-Skrull]], will cause them to lose control of their powers.{{r|Runaways Vol 2 18}}
+* At the moment of death, Skrulls revert to their original form.{{r|Mighty Avengers #16}}
+* The natural shape of a Skrull possesses 18 pressure points that "when properly struck will cause pain and injury, even death."{{r|Black Panther Vol 4 40}}
+* Skrull physiology is particularly vulnerable to the [[Legacy Virus]], Skrulls exposed to it, especially the strain created by [[Henry McCoy (Earth-616)|Hank McCoy]] to target them exclusively, show symptoms within an hour and die within two days if not treated with the cure which McCoy also created.{{r|Secret Invasion: X-Men #3|4}}
+| GovernmentType          = Totalitarian monarchy under a single Emperor or Empress (succession disrupted by destruction of Tarnax IV, death of surviving royal family members, and ensuring civil wars, reinstated with the crowning of the new Emperor, [[Kl'rt (Earth-616)|Kl'rt I]]). Assisting the Emperor are ministers and councils.{{r|Skrulls! Vol 1 1}}{{r|Death of Captain Marvel Vol 1 1}}{{r|Fantastic Four Vol 1 358}}. The empire itself is administrated by prelates and governors.{{r|Fantastic Four Vol 1 262}}{{r|Avengers Vol 1 259}} Throughout the Skrull empire, in every world that is ruled by the Skrulls only one race is permitted to represent the inhabitants of that world, the Skrulls.{{r|Silver Surfer Vol 3 13}} Worlds that voluntarily joined the Skrull Empire are granted varying degrees of autonomy. It also maintains profitable trading relationships with pacifist worlds that the empire has peace treaties with.{{r|Official Handbook of the Marvel Universe Vol 2 12}}
+| TechnologyLevel         = Superior to Earth; Advanced warp-drive star-ships,{{r|Avengers Vol 1 94}} intergalactic subspace FTL (nearly instantaneous),{{r|Avengers Vol 1 94}} teleportation,{{r|Force Works Vol 1 13}} force fields,{{r|Iron Man: Director of S.H.I.E.L.D. Vol 1 35}}{{r|Venom: First Host Vol 1 3}} cloaking technology,{{r|Secret Invasion 6}}{{r|Venom: First Host Vol 1 3}} miniaturization technology,{{r|Fantastic Four Vol 1 90}} shape-shifting technology,{{r|Fantastic Four Vol 1 204}} robots,{{r|Fantastic Four Vol 1 204}} mecha (humanoid and multi-legged),{{r|X-Men Vol 3 29}}{{r|Captain Britain and MI-13 Vol 1 3}} cybernetic technology,{{r|Fantastic Four #18}} planet busting weapons,{{r|Black Panther Vol 4 34}}{{r|Runaways Vol 3 12}} star killer weapons,{{r|Avengers Vol 4 18}}{{r|Guardians of the Galaxy Annual Vol 3 1}} genocidal biological weapons,{{r|Venom: First Host Vol 1 3}} intergalactic FTL subspace communications (nearly instantaneous),{{r|Avengers Vol 1 258}} intergalactic radar,{{r|Captain Marvel Vol 1 2}} hyperspace radios,{{r|Unbeatable Squirrel Girl Vol 2 40}} intergalactic sensor grid,{{r|Avengers Annual Vol 1 14}} intergalactic transportation beam,{{r|Fantastic Four Vol 1 32}} missiles,{{r|Runaways Vol 3 12}} space torpedoes,{{r|Fantastic Four Vol 1 206}} genetic manipulation/engineering (Super-Skrulls), quantum weapons,{{r|Fantastic Four Vol 1 383}} interdimensional portals,{{r|Captain Britain and MI-13 Vol 1 2}}, cloning,{{r|Deadpool Vol 4 2|3}} and directed energy weaponry (either beam or pulse weapons and either particle, neutrino or photon weapons).{{r|Silver Surfer Vol 3 6}}{{r|Avengers Vol 1 96}}{{r|Secret Invasion: X-Men Vol 1 1|2}} 
+| CulturalTraits          = Warrior Race. The entire Skrull economy is built around its military pushing their tendency to instigate wars and campaigns of conquest.<ref>Fantastic Four The Universal Guide</ref> Universal conquest is their goal, to bring peace to the cosmos therefore they must conquer and subjugate every inhabited world in the cosmos.{{r|Fantastic Four Vol 1 206}}{{r|Fantastic Four Vol 1 358}} Despite this many Skrulls live peaceful lives.{{r|Starbrand & Nightmask Vol 1 6}} The Skrulls are similar to humans in that they too have ambition, and feel both love and hate.{{r|Fantastic Four Vol 1 37}} Many of them truly believe in their gods and have immense love for their families. [[Charles Xavier (Earth-616)|Professor X]] could sense the goodness and nobility of the teeming mass of billions of Skrulls on Tarnax IV.{{r|X-Men Vol 2 90}} They are a species, that enjoys art and beauty, in which even it's warriors enjoy listening to the intricate social calls and mournful mating calls of wildlife.{{r|Venom: First Host Vol 1 4}} Skrulls have a code of honor, though not all follow said code. Warriors have been known to meet enemies in equal numbers (e.g. one on one or a squad vs a team).{{r|Uncanny X-Men Vol 1 478}}{{r|Captain Britain and MI-13 Vol 1 1}} Respecting and honoring enemies of great valor and skill.{{r|Captain Marvel Vol 1 2}}{{r|Death of Captain Marvel Vol 1 1}} They are also known to repay their debts.{{r|Fantastic Four Vol 1 37}} It is also a race which is known for being vengeful.{{r|Unbeatable Squirrel Girl Vol 2 40}}
+
+| Representatives         = 
+{{Seealso|:Category:Deviant Skrulls}}
+* '''[[Dorrek (Earth-616)|Emperor Dorrek]]''' - He reigned during the first Skrull contact with the [[Kree]].{{r|Avengers #133|134}}
+* '''[[Dorrek VII (Earth-616)|Emperor Dorrek VII]]''' 
+* '''[[Dezan (Earth-616)|Prince Dezan]]''' - The younger brother of [[Dorrek VII (Earth-616)|Dorrek VII]], he is a highly-unusual (for Skrulls) pacifist, and as such, was long imprisoned as a traitor to the Empire.{{r|Avengers Annual #14}}
+* '''[[Kl'rt (Earth-616)|Super Skrull (K'lrt)]]''' - He was the first Super-Skrull, and was later crowned new Emperor of the Skrull Empire following the war with the [[Builders (Race)|Builders]].
+* '''[[Anelle (Earth-616)|Anelle]]''' - Princess and daughter of [[R'Klll (Earth-616)|R'Klll]] and [[Dorrek VII (Earth-616)|Dorrek VII]]. [[Kl'rt (Earth-616)|Super-Skrull]] wanted her for his mate. She died along with her mother and [[Throneworld]].
+* '''[[Hagar (Skrull) (Earth-616)|Hagar]]''' - The High Judicator, the leader of the Skrull judiciary.
+* '''[[Jaketch (Earth-616)|Jaketch]]''' - An apprentice executioner who shot Reed, Sue, and the Thing with an accelerated-aging ray. He detests [[Hagar (Skrull) (Earth-616)|Hagar]] and yearns for the day he can execute him.
+* '''[[R'Klll (Earth-616)|R'Klll]]''' - A Skrull Empress. She avenged her father by assassinating her husband, the [[Dorrek VII (Earth-616)|Emperor Dorrek]]. Her reign following Dorrek's death was marked by several attempts at peace, the end of the war against [[Xandar]], the treaty ending the war against the Kree, and the destruction of [[Throneworld]]. She died along with several billion of her people.
+* '''[[S'Byll|Empress S'Byll]]''' - She acclaimed as Empress following successful restoration of shape-shifting abilities to Skrulls,{{r|Silver Surfer Vol 3 25}} killed in destruction of new Throneworld by [[Devos (Earth-616)|Devos the Devastator]].{{r|Fantastic Four #383}}{{r|Marvel: Ultimate Alliance}}
+* '''[[Jazinda (Earth-616)|Jazinda]]''' - A Super-Skrull who is the daughter of [[K'lrt (Earth-616)|Kl'rt]].
+* '''[[Ethan Edwards (Earth-616)|Ethan Edwards]]'''
+* '''[[Flaw (Earth-616)|Flaw]]''' - Warskrull member of the [[Shi'ar Death Commandos (Earth-616)|Shi'ar Death Commandos]].
+* '''[[De'Lila (Earth-616)|De'Lila]]'''
+* '''[[Talos (Earth-616)|Talos]]''' - A Skrull who cannot shape-shift due to a birth defect he had. The defect also gave him super-strength.
+* '''[[Lyja (Earth-616)|Lyja]]''' the Lazerfist.
+* '''[[Paibok (Earth-616)|Paibok]]''' the Power Skrull.
+* '''[[Replica (Earth-691)|Replica]]''' - Member of the [[Galactic Guardians (Earth-691)|Galactic Guardians]], power mimicker.
+* '''[[Skrull Cows (Earth-616)|Skrull Cows]]''' - A group of Skrulls who initially tried to frame the Fantastic Four, but were eventually turned into Cows and slaughtered.
+* '''[[Sk'ym'x (Earth-712)|Skrullian Skymaster (Sk'ym'x)]]''' - Member of the [[Squadron Supreme (Earth-712)|Squadron Supreme]].
+* '''[[Z'Reg (Earth-616)|Crusader]]'''
+* '''[[Titannus (Earth-616)|Titannus]]''' - A Skrull who cannot shapeshift.
+* '''[[Xavin (Earth-616)|Xavin]]''' - A Super-Skrull in-training.
+* '''[[Cadre K (Earth-616)|Cadre K]]''' - A group of Mutant Skrulls.
+* '''[[Veranke (Earth-616)|Veranke]]''' - The former Skrull Queen. She posed as [[Jessica Drew (Earth-616)|Spider-Woman]] and orchestrated the [[Secret Invasion]].
+* '''[[Criti Noll (Earth-616)|Criti Noll]]''' - One of the Skrulls who posed as [[Henry Pym (Earth-616)|Henry Pym]] during the [[Secret Invasion]]. He not only has the abilities matching Henry Pym, he also has the powers of [[T'Challa (Earth-616)|Black Panther]], [[Pietro Maximoff (Earth-616)|Quicksilver]] and [[Vision (Earth-616)|Vision]].
+* '''[[John Lennon (Skrull) (Earth-616)|John the Skrull]]''' - The last surviving member of the Skrull "Beatles". A member of [[MI13 (Earth-616)|MI13]].
+* '''[[Khn'nr (Earth-616)|Khn'nr]]''' - A Skrull who posed as the original [[Mar-Vell (Earth-616)|Captain Marvel]]. He turned against the other Skrulls during the [[Secret Invasion]].
+* '''[[Pagon (Earth-616)|Pagon]]''' - A Skrull who posed as [[Elektra Natchios (Earth-616)|Elektra]] after [[Siri (Skrull) (Earth-616)|Siri]]'s demise. Killed by [[Maya Lopez (Earth-616)|Echo]] as part of a suicide mission.
+* '''[[Pitt'o Nili (Earth-616)|Pitt'o Nili]]''' - A Skrull who posed as the [[Steven Rogers (Earth-616)|Captain America]] (and brainwashed to be him) who came from a downed ship in the [[Savage Land]]. Killed by [[Shanna O'Hara (Earth-616)|Shanna the She-Devil]] after being hit by a poisonous dart that has a huge effect on Skrulls.
+* '''[[Kreddik (Earth-616)|Kreddik]]''' - Skrull Ambassador to the [[Galactic Council (Earth-616)|Intergalactic Council]].
+* '''[[Krimonn (Earth-616)|Krimonn]]''' - Conspired against [[Dorrek VII (Earth-616)|Dorrek VII]], failed, was condemned to be imprisoned in a crystalline form. The [[En Dwi Gast (Earth-616)|Grandmaster]] turned him into [[Kinji Obatu (Earth-616)|Doctor Spectrum]]'s [[Power Prism]].
+
+| Notes                   = 
+* The Skrulls are somewhat associated with the [[Chitauri]].
+* The native language of the Skrulls is called Skrullos{{r|Runaways Vol 2 8}}
+* Skrulls have a natural lifespan of around 210 years.{{r|Annihilation: Super-Skrull Vol 1 1}}
+| Trivia                  = 
+* The adjective form is both "Skrull"{{citation}} and "skrullian".{{r|Skrulls! #1|; [[Flaw (Earth-616)|Flaw]]'s entry}}
+* The Deviant branch of their species;{{r|Official Handbook of the Marvel Universe Vol 2 12|; Skrulls entry}} it is kind of ironic that they considered [[Dire Wraiths]] as a "Deviant branch of Skrullkind",{{r|Rom #50}} and the [[Mutant Skrulls]] "[[Deviants]]".{{r|Uncanny X-Men #376}}{{r|A + X #16}}
+* The Skrulls were originally set to appear in <i>[[Dark Phoenix (film)|Dark Phoenix]]</i>, but were scrapped, most likely due to the deal between [[Glossary:20th Century Fox|20th Century Fox]] and [[Marvel Studios]], and were replaced with the [[D'bari (Race)|D'bari]], who unlike their comic book counterpart shared many similarities with the Skrulls.{{r|{{cite web|url=https://www.cinemablend.com/news/2474641/original-dark-phoenix-ending-included-skrulls-and-a-huge-new-york-battle-according-to-tye-sheridan|title=Original Dark Phoenix Ending Included Skrulls And A 'Huge' New York Battle, According To Tye Sheridan|first=Sean|last=O'Connell|work=Cinema Blend|date=June 10 2019|accessdate=June 9 2020}}}}
+* It is possible that the idea of the shapeshifting Skrulls was inspired by the paranoia caused from disguised soviet spies during the [[wikipedia:Cold War#Espionage|Cold War]].{{r|{{cite web|url=https://m.youtube.com/watch?v=hA0c3qIMOrw|title=How Captain Marvel Changed the Skrulls...|author=NerdSync|work=YouTube|date=April 13, 2019|accessdate=June 12 2020}}}}{{r|{{Cite web|url=https://www.google.com/amp/s/www.denofgeek.com/comics/captain-marvel-who-are-the-skrulls/%3famp|title=Captain Marvel: Who Are the Skrulls?|first=Marc|last=Buxton|work=Den of Geek|date=March 12, 2019|accessdate=July 5, 2020}}}}
+* Despite being oviparous, some Skrulls seem to possess navels which is a feature exclusive to the viviparous,{{r|Marvel Knights: Spider-Man Vol 1 16}}{{r|Black Panther Vol 4 40|41}}{{r|Empyre: Aftermath Avengers Vol 1 1}} while others lack this feature as it would canonically seem they should.{{r|Secret Invasion Vol 1 1}}{{r|Mighty Avengers Vol 1 15}} It is possible that the presence of navels are errors and artist inconsistencies.
+
+==Recommended Readings==
+* {{cl|Fantastic Four #2}} - First Appearance
+* {{cl|Fantastic Four #18}} - First appearance of the Super-Skrull
+* {{cl|Fantastic Four #37}} - First look at the Skrull home-world.
+* {{cl|Avengers #89}}-{{cl|Avengers #97|97}} First Kree-Skrull War
+* {{cl|Silver Surfer Vol 3 1}}-{{cl|Silver Surfer Vol 3 31|31}} Second Kree Skrull War
+| Links                   = * [http://www.marvel.com/universe/Skrulls Skrulls] at the ''Marvel Universe Wiki''
+* [http://www.marveldirectory.com/alienraces/skrull.htm Skrulls] at the ''MarvelDirectory''
+* [http://www.marvunapp.com/Appendix/skrulls.htm List of less well-known Skrulls] on the ''Appendix'' at marvunapp.com
+* [[wikipedia:Skrull|Deviant Skrulls at Wikipedia.org]]
+}}
+[[it:Devianti Skrull]]
+[[ru:Девиантные скруллы]]
+[[Category:Shapeshifters]]
+[[Category:Deviants by Species or Race]]
+[[Category:Skrulls by Species or Race]]
+[[Category:Evolution-Ended Species]]
+[[Category:Reptiles]]
+[[Category:Skrull Empire Races]]
+[[Category:Genderfluid Characters]]
+[[Category:Kree Empire Races]]
+[[Category:Races of Aliens]]
+[[Category:Races with 4 Limbs]]
+[[Category:Races with 5 Fingers]]
+[[Category:Races with Green Skin]]
+[[Category:Races with 5 Toes]]
+[[Category:Races with 2 Eyes]]
+[[Category:Pointed Ears]]
+[[Category:Furrowed Chin]]

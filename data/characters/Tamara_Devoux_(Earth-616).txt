@@ -1,0 +1,75 @@
+{{Marvel Database:Character Template
+| Image                   = Avengers Vol 5 6 Textless.jpg
+| Name                    = [[Tamara Devoux]]
+| NameRef                 = {{r|Avengers NOW! #1}}
+| CurrentAlias            = [[Captain Universe]]
+| Aliases                 = [[Goddess]],{{Citation}} [[Great Mother]],{{Citation}} the Legend,{{Citation}} [[Mother]],{{Citation}} The Universe Herself{{Citation}}
+
+| Affiliation             = Formerly {{m|Avengers}}
+| Relatives               = unidentified grandparents (deceased);<br>
+Unidentified mother;<br>
+[[Ella Devoux (Earth-616)|Ella Devoux]] (daughter)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Avengers NOW! Vol 1 1}}
+| Gender                  = Female
+| Height                  = 5'6"
+| Weight                  = 140 lbs
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] wielding the [[Glossary:Enigma Force|Enigma Force]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = Waitress; formerly adventurer
+| Education               = 
+| BaseOfOperations        = [[Stark Tower]], [[New York City]], [[New York (State)|New York]]
+
+| Creators                = Jonathan Hickman; Jerome Opeña
+| First                   = Avengers Vol 5 1
+
+| History                 = Little is known of Tamara Devoux's early life, other than that she suffered amnesia during a car crash, and at  some point received the power of the [[Glossary:Enigma Force|Enigma Force]], transforming her into [[Captain Universe (Earth-616)|Captain Universe]]. As Captain Universe, she joined the [[Avengers (Earth-616)|Avengers]] in order to maintain the equilibrium of the whole universe.{{r|Avengers Vol 5 6}}
+
+Her first mission with the Avengers was on [[Mars (Planet)|Mars]] to stop the powerful beings [[Ex Nihilo (Earth-616)|Ex Nihilo]], [[Abyss (Ex Nihilo's) (Earth-616)|Abyss]] and [[Aleph (Garden) (Earth-616)|Aleph]] from terraforming the Earth in their image. When Tamara approached them, both Nihilo and Abyss recognized her as their goddess, and the physical manifestation of the universe itself, immediately submitting and agreeing to her terms. But Aleph did not, and attacked her. Captain Universe turned the robot to ashes with a single touch. Following Nihilo's submission, the Avengers returned to Earth.{{r|Avengers Vol 5 3}}
+[[File:Tamara Devoux (Earth-616) from Avengers NOW! Vol 1 1 002.png|left|thumb|Tamara unmasked]]
+During a therapy session with [[Shang-Chi (Earth-616)|Shang-Chi]], Tamara discovered that she had a daughter who was with her in the crash, whose fate is unknown. After the crash, she was in a coma for ten years. The reason why the universe decided to become sentient was because it was broken and dying, and it chose Tamara because she was broken and dying as well. When Shang-Chi decided to tell the news to [[Iron Man (Anthony Stark)|Tony Stark]], she met [[Adam Blackveil (Earth-616)|"Blackveil"]], and managed to decode the [[:File:Builder Machine Code.jpg|language]] in which he was speaking, discovering he was announcing that the universe was broken, and that the [[White Event]] was coming to Earth.{{r|Avengers Vol 5 6}}
+
+===Infinity===
+When the Avengers embarked on a mission to defeat the [[Builders (Race)|Builders]],{{r|Infinity #1}} Tamara was captured and rendered comatose by enemy forces. After the captured Avengers were freed,{{r|Avengers Vol 5 19}} the rogue [[Gardeners]] managed to use their powers to wake her up. Captain Universe traveled to the Builder Command Vessel and started defeating the Builders, who ordered their [[Alephs]] to auto-destroy along with whatever they could take with themselves as the tide of the battle had been turned.{{r|Avengers Vol 5 21}}
+
+===Time Runs Out===
+At some point, Tony Stark found her daughter, and the two were re-united. Tamara left the Avengers and began working as a waitress. When Tony and [[Steven Rogers (Earth-616)|Steve Rogers]] met to discuss a solution to their conflict, they chose the diner where Tamara worked. In the midst of their discussion, the Captain Universe persona surfaced and attacked Tony, accusing him of knowing the [[Glossary:Incursion|reason]] of the early death of the universe from the start, and failing to stop it.{{r|Avengers Vol 5 44}}
+
+| Powers                  = Captain Universe's powers and power levels vary from partner to partner, presumably to meet the demands of the job at hand. The Uni-Power also enhances the powers and abilities of a host who already has such powers and abilities. Powers that remain relatively constant include:
+*'''Uni-Vision''': a sort of cosmic consciousness. Captain Universe can sense things on a subatomic level or at great distances. This power can also force someone to tell the truth.
+*'''Matter/Energy Manipulation:''' Captain Universe can divert an energy flow in a different direction or convert it into a different type of energy. Diverting the flow of gravitons, for example, allows flight. Captain Universe can also change matter at the atomic level, for instance, to transmute one substance into another or to change an object's shape.
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * Captain Universe has a great love of pies. One of the few things that its host, Tamara, remembered about herself during her amnesia was her fondness for pies.{{r|Avengers Vol 5 6}}
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Captain Universe]]
+[[Category:Teleporters]]
+[[Category:Reality Warpers]]
+[[Category:Concussive Blasts]]
+[[Category:Flight]]
+[[Category:Warp Speed]]
+[[Category:Transmutation]]
+[[Category:Matter Manipulation]]
+[[Category:Optic Blasts]]
+[[Category:Cosmic Beings]]
+[[Category:Energy Manipulation]]

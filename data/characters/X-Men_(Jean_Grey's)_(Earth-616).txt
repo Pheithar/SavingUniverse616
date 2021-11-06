@@ -1,0 +1,45 @@
+{{Marvel Database:Team Template
+| Image                   = X-Men (Jean Grey's) (Earth-616) from X-Men Red Vol 1 5 001.jpg
+| ImageSize               = 250px
+| Name                    = X-Men
+| EditorialNames          = [[X-Men: Red Vol 1|X-Men: Red]]
+| Aliases                 = 
+
+| Status                  = Defunct
+| Identity                = Secret
+| Reality                 = Earth-616
+| BaseOfOperations        = Formerly [[X-Lantis]], [[Atlantis (Kingdom)|Atlantis]]
+
+| Leaders                 = Formerly [[Jean Grey (Earth-616)|Jean Grey]]
+| CurrentMembers          =
+| FormerMembers           = [[Remy LeBeau (Earth-616)|Gambit]], [[Nezhno Abidemi (Earth-616)|Gentle]], [[Jean Grey (Earth-616)|Jean Grey]], [[Gabrielle Kinney (Earth-616)|Honey Badger]], [[Namor McKenzie (Earth-616)|Namor]], [[Kurt Wagner (Earth-616)|Nightcrawler]], [[Sentinel-X (Earth-616)|Sentinel-X]], [[Ororo Munroe (Earth-616)|Storm]], [[Shilpa Khatri (Earth-616)|Trinary]], [[Laura Kinney (Earth-616)|X-23]]
+| Allies                  = [[Atlantean Army (Earth-616)|Atlantean Army]], [[Avengers (Earth-616)|Avengers]], [[T'Challa (Earth-616)|Black Panther]], [[X-Men (Earth-616)|X-Men (Gold Team)]]
+| Enemies                 = [[Cassandra Nova Xavier (Earth-616)|Cassandra Nova]]
+
+| Origin                  = 
+| PlaceOfFormation        = [[Wakanda]]
+| PlaceOfDissolution      = [[Xavier's School for Gifted Youngsters|Xavier Institute for Mutant Education and Outreach]]
+| Creators                = Tom Taylor; Mahmud Asrar
+| First                   = X-Men: Red Vol 1 1
+| First2                  = (In a flashforward)<br>{{sld|X-Men: Red Vol 1 4}}(Formation)
+| Last                    = Extermination Vol 1 5
+
+| HistoryText             = When she returned from the dead, [[Jean Grey (Earth-616)|Jean Grey]] decided to propose the [[United Nations (Earth-616)|United Nations]] to recognize mutants as a nation and bring them into the UN to work together with humans towards a more peaceful future. When she confided this idea with [[Kurt Wagner (Earth-616)|Nightcrawler]], he suggested forming a team to offer her support and protection. After Jean gave a speech at the UN, [[Cassandra Nova Xavier (Earth-616)|Cassandra Nova]] incriminated her with the murder of the [[United Kingdom]]'s ambassador. Nightcrawler teleported Jean to [[Wakanda]] for safety together with [[Laura Kinney (Earth-616)|Wolverine]] and [[Gabrielle Kinney (Earth-616)|Honey Badger]], who spectacted the speech.{{r|X-Men: Red Vol 1 1}}
+
+Jean's attention was soon drawn to help the [[India|Indian]] mutant [[Shilpa Khatri (Earth-616)|Trinary]].{{r|X-Men: Red Vol 1 2}} After Jean and her allies rescued her, they were attacked on their return to Wakanda by [[Ororo Munroe (Earth-616)|Storm]],{{r|X-Men: Red Vol 1 3}} who was under the influence of both Cassandra Nova and one of her [[Nano-Sentinels|Sentinites]]. When Storm tried to kill herself due to the Sentinite's instructions, Wakandan mutant [[Nezhno Abidemi (Earth-616)|Gentle]] stepped in and saved her. After extracting the Sentinite from Storm and learning that an enemy was after her, Jean opted to move her base of operations underwater, where [[Namor McKenzie (Earth-616)|Namor]] had previously offered her asylum. Additionally, Trinary and the Wakanans designed the team special suits that could act as a firewall in case of a Sentinite infection. Jean declared the formation of the team as the beginning of her dream of a mutant nation.{{r|X-Men: Red Vol 1 4}}
+
+After helping a group of Polish mutants find asylum in [[X-Lantis]],{{r|X-Men: Red Vol 1 5}} Jean sent part of her team to retrieve audio files from the deceased ambassador to clear her name. Concurrently, Jean used [[Searebro]] to sweep the world to find the culprit, and managed to learn that Cassandra Nova was behind the scheme. Nova infected [[Jamie Carlson (Earth-616)|Teen Abomination]] with a Sentinite and sent him after Atlantis.{{r|X-Men: Red Vol 1 6}} After the X-Men stopped Teen Abomination's rampage and obtained the recordings from the deployed members, these were broadcast worldwide, clearing Jean's name and doubling down on her message of tolerance.{{r|X-Men: Red Vol 1 7}}
+
+When Trinary attempted to use the Sentinite extracted from Storm to locate its source, she learned that Cassandra Nova intended to release swarms of Sentinites on every major city. Trinary's teammates joined forces with her to sustain the strain of using her powers on such scale, and she managed to destroy all traces of the microscopic robots. In retaliation, Cassandra Nova took control of [[Rachel Summers (Earth-811)|Prestige]], Jean's daughter in an alternate timeline, to have them face-off,{{r|X-Men: Red Vol 1 8}} but Jean managed to rescue her.{{r|X-Men: Red Vol 1 9}}
+
+Using her powers, Cassandra took hostage several commercial planes and hijacked the Helicarrier of the [[South Korea|South Korean]] [[National Intelligence Service (Earth-616)|National Intelligence Service]] to turn it into her personal army. She intended to force Jean to go to war, but before going to Genosha, Jean enlisted [[Anthony Stark (Earth-616)|Tony Stark]]'s help to create a supply of countless replicas of [[Magneto's Helmet]] to force into the people under Nova's sway to set them free.{{r|X-Men: Red Vol 1 10}} Due to this turn of events, Nova caused one of the nuclear reactors aboard the Hellicarier to explode, with the intention to bring down the aircraft on the island. With the help of the [[Avengers (Earth-616)|Avengers]], the X-Men managed to detonate the Helicarrier before it reached the ground. Nova was ultimately defeated when Jean installed a reprogrammed Sentinite into her mind to make her feel empathy for the first time in her life. Cassandra was instantly filled with regret for her actions, and Jean promised to help her atone. With the crisis averted, Jean addressed the United Nations again to share her dream of a unity between mutants and humans.{{r|X-Men: Red Vol 1 11}}
+
+| Equipment               = 
+| Transportation          = Nightcrawler's teleportation and [[Sentinel-X (Earth-616)|Sentinel-X]]
+| Weapons                 = Honey Badger and Wolverine's claws, Gambit's bo staff and playing cards
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:X-Men]]

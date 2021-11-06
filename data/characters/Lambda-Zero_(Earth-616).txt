@@ -1,0 +1,93 @@
+{{Marvel Database:Character Template
+| Image                   = Lambda-Zero (Earth-616) from Annihilation Silver Surfer Vol 1 3 0001.jpg
+| Name                    = Lambda-Zero
+| CurrentAlias            = Stardust 
+| Aliases                 = Entity Lambda-Zero 
+
+| Affiliation             = {{M|Heralds of Galactus}}, {{M|United Front}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Agender
+| Height                  = 7'0"
+| Weight                  = 
+| Eyes                    = Yellow
+| Hair                    = No hair
+| UnusualSkinColor        = Red
+| UnusualSkinColor 2      =; Shifts to [[:Category:Blue Skin|Blue]][[Category:Blue Skin]][[Category:Infobox Skin Color Update Needed]]
+| UnusualFeatures         = Normally translucent red skin; can shift to blue. Aside from chest plating, Stardust seems to be amoeba-like and composed of energy.  
+
+| Origin                  = [[Ethereals (Aliens)|Ethereal]];<br>Galactus's herald gifted with the [[Power Cosmic]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = Ethereals
+| Occupation              = Herald of Galactus
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Mike Oeming; Daniel Berman; Andrea Di Vito
+| First                   = Stormbreaker: The Saga of Beta Ray Bill #1 
+
+| History                 = 
+===Origin===
+The [[Ethereals (Aliens)|Ethereal]] '''Lambda-Zero''' would later become known as '''Stardust'''.
+
+===Herald of Galactus===
+She soon became the current Herald of [[Galan (Earth-616)|Galactus]]. The first planet Stardust fed to Galactus was [[New Korbin]], after she slaughtered most of the planet's inhabitants.{{r|Stormbreaker: The Saga of Beta Ray Bill #1|2}}
+
+This led to the confrontation with [[Beta Ray Bill (Earth-616)|Beta Ray Bill]], who was busy attempting to rescue the [[Korbinites]]. The two fought each other, and after the first confrontation, Stardust sought out Bill after he obtained the Meta-Orb. Planning on crushing Bill with it, the two fought each other until Stardust opened a portal to a dimension filled with the most evil beings of the universe, hoping to trap Bill in there. Bill managed to escape, but a being named [[Asteroth]] escaped and began devouring galaxies. Stardust and Bill joined forces, with Stardust using her powers to open a black hole behind Asteroth hoping to lock Asteroth in it. However, Asteroth resisted and the hole instead sucked both Stardust and Bill to a near death.{{r|Stormbreaker: The Saga of Beta Ray Bill #3}}
+
+As the two recovered, Stardust had earlier fought Alpha Ray. Galactus had empowered Ray to help Stardust take down his opponent. With the black hole still open, Ray managed to do this, but in return was sucked into the hole together with Asteroth. Stardust was later revealed to have returned through unknown means.{{r|Stormbreaker: The Saga of Beta Ray Bill #4|5}}
+
+===Annihilation===
+Stardust was sent by Galactus to ask the [[Norrin Radd (Earth-616)|Silver Surfer]] to meet with Galactus. Stardust meanwhile was under orders to help the other remaining heralds [[Red Shift (Earth-616)|Red Shift]] and [[Pyreus Kril (Earth-616)|Firelord]] as they combatted the [[Annihilation Wave (Earth-616)|Annihilation Wave]]. Later the three heralds joined with Nova's United Front and were able to defeat and capture one of Annihilus' queens. With the Silver Surfer and Galactus captured and Firelord half-dead, Stardust and Red Shift were the only two active heralds.{{r|Annihilation: Silver Surfer Vol 1 2|3}}{{r|Annihilation #1}}
+
+Stardust and Red Shift were presumed dead after holding back a massive energy blast from Galactus' absorbing device. Stardust was able to reform themselves later.{{r|Annihilation #3}}
+
+It was later revealed that Stardust is an Ethereal, a race of beings made up of pure energy, and that by being imbued with the Power Cosmic has, in effect, made Stardust immortal, since the Power Cosmic allows her to reconstitute herself if she were to be "destroyed". She was then confronted by the few remaining members of her race who were nearly made extinct by the Annihilation Wave. Trying to attack Stardust due to her 'treason' for leaving them, Stardust "killed" the remaining members of her race in self-defense and then absorbed their still sentient remains. However, she then found Galactus and, distraught that she had been replaced as Herald by the Silver Surfer, gave up the remains of her race to feed Galactus against their protests; an act that surprised Galactus, as no herald had ever willingly given up their race to him. Stardust was then named Galactus's second herald, as Galactus's now increased hunger required more worlds to devour. It was also then revealed that Galactus was the only creature that Stardust will ever love.{{r|Annihilation: Heralds of Galactus #1}}
+
+| Powers                  = Like other heralds, Stardust was granted the almighty and divine infinite Power Cosmic by Galactus himself. Her abilities before becoming a herald are unknown. 
+
+*'''Energy Form:''' Stardust seems able to recover from any injury and alter her whole physical body into a much stronger and more powerful ethereal form entirely composed of pure life energy.
+*'''Superhuman Strength:''' Stardust possesses vast superhuman strength, as she easily shattered an entire planet when she slammed an asteroid into it.
+*'''Superhuman Durability:''' She is capable of withstanding planetary explosions as well as a clap from Galactus which knocked out [[Beta Ray Bill (Earth-616)|Beta Ray Bill]].
+*'''Interstellar Flight:''' Stardust can reach flight speeds exceeding those of light.
+*'''Cosmic Power:''' Creation, control and manipulation over ''all'' forms of pure energy to limitless and infinite power-levels. 
+*'''Teleportation:''' Stardust is able to open black holes, vortexes, portals, wormholes, and other dimensional rifts
+
+She was deemed to be an "universal" threat level by the [[Nova Corps (Earth-616)|Nova Corps]].{{r|Annihilation: The Nova Corps Files #1}}
+
+| Abilities               = 
+| Strength                = Class 100
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = [[Stardust's Halberd|Some type of halberd]].
+
+| Notes                   = * Stardust has been referred to as a female, although it has also been referred to as male in {{cl|Annihilation: The Nova Corps Files Vol 1 1}}.
+* In {{cl|Annihilation: Heralds of Galactus #1}}, a member of Stardust's species refers to her as Lambda-Zero. Presumably this is her real name, but it's only used once and very unclearly.
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * http://www.marvunapp.com/Appendix3/stardustgalactus.htm
+}}
+[[Category:Power Cosmic]]
+[[Category:Formerly Deceased]]
+[[Category:Energy Form]]
+[[Category:Superhuman Strength]]
+[[Category:Superhuman Durability]]
+[[Category:Flight]]
+[[Category:Energy Manipulation]]
+[[Category:Energy Projection]]
+[[Category:Red Skin]][[Category:Infobox Skin Color Update Needed]]
+[[Category:Blue Skin]][[Category:Infobox Skin Color Update Needed]]
+[[Category:Optic Blasts]]
+[[Category:Teleporters]]
+[[Category:Regeneration]]
+[[Category:Multiple Eyes]][[Category:Infobox Eyes Update Needed]]
+[[Category:Stranger Experiment]]
+[[Category:Universal Threat Level]]

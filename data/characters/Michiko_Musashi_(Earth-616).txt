@@ -1,0 +1,65 @@
+{{Marvel Database:Character Template
+| Image                   = Michiko Musashi (Earth-616) from All-New Official Handbook of the Marvel Universe Vol 1 11 0001.png
+| Name                    = [[Michiko Musashi|Michiko "Mickey" Musashi]]<!--武蔵 美智子 (ミッキー)-->
+| CurrentAlias            = [[Turbo]]
+| Aliases                 = Torpedo Sue{{Citation}}
+
+| Affiliation             = Formerly {{M|Avengers Academy}}; {{M|Loners}}, {{M|New Warriors}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = [[Official Handbook of the Marvel Universe A-Z hardcover Vol. 12]]
+| Gender                  = Female
+| Height                  = 5'6"
+| Weight                  = 120 lbs
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Student, former adventurer
+| Education               = 
+| BaseOfOperations        = [[Avengers Compound]], [[Los Angeles]], [[California (State)|California]]; 
+formerly [[Holy Trinity Church]], [[Los Angeles]]; [[New York City]]
+
+| Creators                = Fabian Nicieza; Darick Robertson
+| First                   = New Warriors #28
+
+| History                 = Mickey's friend, Mike Jeffries, found the Torpedo armor in a box in his family's attic. Preferring to go in his homemade costume, he gave Mickey the suit to wear to a comic book convention. When a team of aliens focused in on the energy signature created by Mickey's suit, they attacked the convention, only to be defeated by Mickey.{{r|New Warriors #73}}
+
+At first, she chose to use the suit only for quick transportation, flying across the ocean to go shop and things like that. However, when she came upon an illegal shipping operation run by [[Sea Urchin]], she teamed up with the [[New Warriors]] to take it down.{{r|New Warriors #28}} The next time Turbo was seen, Mike Jeffries was wearing the armour during the ''Forces of Darkness'' storyline. Mickey would again go into action when [[Air Force]] attempted a hit on [[Richard Rider (Earth-616)|Nova]] and Mike, training in the Turbo armour. She did not actually use the armour, but helped turn the battle in the Warriors' favor.{{r|New Warriors #35}}
+
+It quickly became apparent to Mickey, the Warriors, and eventually Mike, that she was the better Turbo. Therefore, when the new team of Warriors was formed for the ''Time and Time Again'' storyline, she was chosen to go into action. After the adventure, she was offered part time membership with the team, eventually becoming a full member when she and [[Zero G|Alex Power]] were brought in by Nova to help fight the [[Undertow]].{{r|New Warriors #55|57}}
+
+Eventually, it was revealed that the costume was in fact the original Torpedo Armour, commissioned by the United States government, working secretly in conjunction with [[Volx]], the [[Dire Wraiths|Dire Wraith]] queen, as a suitable armour to fight [[Rom]] with. The first volume of New Warriors finished with a story in which Volx killed Mike and stole the armour from him. After the Warriors defeated Volx, Mickey offered to share joint control of the armour with [[Carlton LaFroyge (Earth-616)|Hindsight]], the team's non-powered strategist. However, this would never be followed up on.{{r|New Warriors #73|75}}
+
+Mickey would later become a central part of the team when it reformed. [[Firestrike]] (Dalton Beck), a member of [[Blackwing (Joseph Manfredi)|Joe Silvermane's]] super-powered team [[Heavy Mettle]], was hired to seduce Mickey and kill her. However, he would change his mind after falling in love with her. The team eventually found out his true identity, and he helped them put Joe behind bars, although it caused him to leave Mickey as he went into the Witness Relocation Program.{{r|New Warriors Vol 2 #1|8}}
+
+After a period of absence Mickey resurfaced as the founder/organizer of [[Loners (Earth-616)|Excelsior]]. A team of former teen heroes, Mickey, along with [[Phillip Urich (Earth-616)|Phil Urich]], brought together her old teammate, [[Christopher Powell (Earth-616)|Darkhawk]], and former teen heroes [[Johnathon Gallo (Earth-616)|Ricochet]], [[Julie Power (Earth-616)|Lightspeed]], and [[Geoffrey Wilder (Earth-616)|Chamber]]. Although the idea was to be a community outreach group, and ''not'' a costumed team, immediately after formation a secret benefactor hired Excelsior to hunt down and "help" a group of powered [[Runaways (Earth-616)|Runaways]].{{r|Runaways Vol 2 #1|6}} After their experiences with the Runaways the group continued their meetings but were eventually all drawn back into heroics.{{r|The Loners Vol 1 1|6}}
+
+Alongside the other members of the Loners, Mickey was eventually inducted into the [[Avengers Academy (Earth-616)|Avengers Academy]] by Hawkeye after the school moved into the former headquarters of the West Coast Avengers.
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = *'''[[Torpedo Armor]]:''' 
+
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * When she was first attacked, one of the aliens was referring to the "Torpedo Su--" (Suit, but cut off mid-sentence), which she misunderstood, calling herself "Torpedo Sue."
+* Mickey is a journalism student.
+| Trivia                  = 
+| Links                   = 
+* [http://www.coreyblake.com/NWCC New Warriors Continuity Conundrum] 
+* [http://members3.boardhost.com/NewWarriors New Warriors Message Board]
+}}
+[[Category:Flight]]
+[[Category:Armor Users]]

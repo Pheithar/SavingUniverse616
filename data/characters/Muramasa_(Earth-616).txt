@@ -1,0 +1,56 @@
+{{Marvel Database:Character Template
+| Image                   = Muramasa (Earth-616) from Wolverine Weapon X Files Vol 1 1 001.jpg 
+| Name                    = Muramasa
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = [[Cult of the Black Blade (Earth-616)|Cult of the Black Blade]], [[Hand (Earth-616)|Hand]]
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = {{cl|Wolverine: Weapon X Files #1}}
+| Gender                  = Male
+| Height                  = 5'10"
+| Weight                  = 180 lbs
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Demons|Demon]]<!-- {{r|Marvel Atlas #1|; [[Japan]]'s entry}} -->
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Japan]]
+
+| Identity                = No Dual
+| Citizenship             = Japanese
+| Occupation              = Swordsmith
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Chris Claremont; John Buscema
+| First                   = Wolverine Vol 2 1
+
+| History                 = 
+Muramasa was a legendary{{citation}}<!-- reference that he is indeed legendary --> [[Demons|Demon]] blacksmith in [[Japan]].{{r|Marvel Atlas #1|; [[Japan]]'s entry}} During Japan's century of civil war, starting by mid-15th century, Muramasa forged the [[Black Blade]] using a portion of his own dark soul. The Blade caused its possessors to be overcome with unquenchable bloodlust.{{r|Marvel Atlas #1|; [[Japan]]'s entry}}
+
+In the middle of the 20th century, Marumasa was sought out by [[James Howlett (Earth-616)|Logan]] after his wife, [[Itsu (Earth-616)|Itsu]], and he believed [[Akihiro (Earth-616)|her unborn child]] as well, were killed in [[Jasmine Falls]]. Muramasa agreed to make Logan a sword, forged out of his incredible depths of rage and hatred. The process took many years, but the blade was prepared for Logan when he returned to Muramasa's camp after regaining his full memories after [[Decimation|M-Day]].{{r|Wolverine Vol 3 40}}
+
+| Powers                  = '''Soul Forging:''' Muramasa can forge portions of the spirit and emotions into powerful swords.{{r|X-Force Vol 6 13}}
+
+'''Immortality:''' Muramasa was allegedly immortal.{{citation}}
+
+| Abilities               = Muramasa was a master swordsman,{{citation}} and a legendary swordsmith.{{citation}}
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * [[Wikipedia:Muramasa|Muramasa]] was a [[Earth-1218|real-life]] famed [[Japan]]ese blacksmith whose swords became known as "demonic" and/or "cursed", first in superstition, then in lore and popular culture.
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * [[Wikipedia:Muramasa|Muramasa at Wikipedia]]
+}}
+[[Category:Fencing]]
+[[Category:Historical Figures]]

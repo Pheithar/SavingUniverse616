@@ -1,0 +1,41 @@
+{{Marvel Database:Team Template
+| Image                   = Elite (Imperial Forces) (Earth-616) from Thunderbolts Vol 1 31 0001.jpg
+| Name                    = Elite 
+| Aliases                 = Secret Empire
+| Distinguish1            = Elite 
+
+| Status                  = Active
+
+| Identity                = Secret
+| Reality                 = Earth-616
+| BaseOfOperations        = Mobile
+
+| Leaders                 = 
+| CurrentMembers          = [[William Taurey (Earth-616)|William Taurey]], [[Cheer Chadwick (Earth-616)|Cheer Chadwick]], [[Heshin (Earth-616)|General Heshin]], [[Hesperus Chadwick (Earth-616)|Hesperus Chadwick]], [[Richard Cholmondely (Earth-616)|Richard Cholmondely]], [[Thomas Gloucester (Earth-616)|Thomas Gloucester]], [[Harcourt Vickers (Earth-616)|Harcourt Vickers]]
+| FormerMembers           = [[Calvin Burlingame (Earth-616)|Calvin Burlingame]], [[Mason Harding (Earth-616)|Mason Harding]]
+| Allies                  = 
+| Enemies                 = [[Steven Rogers (Earth-616)|Captain America]], [[Thunderbolts (Earth-616)|Thunderbolts]]
+
+| Origin                  = Founders of the [[Imperial Forces (Earth-616)|Royalist/Imperial Forces]]
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Jack Kirby
+| First                   = Captain America #194
+| Last                    = 
+
+| HistoryText             = The '''Elite''' were a group dedicated to overthrowing the government and placing their selected "Elite" class as the ruling body. Initially, the Elite used [[Madbomb|Mad-Bombs]] to send groups and cities into mad frenzies. Their ultimate goal was to detonate their ''"Big Daddy"'' Mad-Bomb, which would catalyst the entire continental United States into rioting acts of destruction{{r|Captain America #193}}. After this chaos, the Elite would employ their [[Imperial Forces (Earth-616)|Royalist Forces]] and emerge as the ruling class over the "low-born". The Elite's plot was ultimately defeated by [[Steven Rogers (Earth-616)|Captain America]] and [[Samuel Wilson (Earth-616)|the Falcon]]{{r|Captain America #200}}
+
+The Elite initially used ''Royalist'' forces as their militia. These soldiers recognized the Elite as their superiors, but were assured of reward when the Elite would eventually control the country. After their initial defeat, the Elite used ''Imperial Forces'' of super-powered entities as a brigade to enforce their policies{{r|Thunderbolts #31}}.
+
+More recently, founding members of the Elite connected with the [[Secret Empire]].
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = [[Madbomb]], [[Sound Machine]].
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Imperial Forces (Earth-616)]]
+[[Category:Terrorist Organizations]]

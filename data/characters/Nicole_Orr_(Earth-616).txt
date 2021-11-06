@@ -1,0 +1,50 @@
+{{Marvel Database:Character Template
+| Image                   = Nicole Orr (Earth-616) from S.H.I.E.L.D. Vol 3 8 001.jpg
+| Name                    = Nicole Orr
+| CurrentAlias            = 
+| Aliases                 = Detective Nicole Orr
+
+| Affiliation             = {{m|New York City Police Department (Earth-616)|NYPD}}; formerly {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Blue
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Police Detective; former S.H.I.E.L.D. agent
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Mark Waid; Paco Medina
+| First                   = S.H.I.E.L.D. Vol 3 8
+
+| History                 = Nicole Orr was an ex-agent of [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] now working as a detective for the [[New York City Police Department (Earth-616)|NYPD]]. She worked in a case involving the death of teenagers due to faulty surgeries at the hands of [[Lucien Geist (Earth-616)|Lucien Geist]].{{r|S.H.I.E.L.D. Vol 3 8}}
+
+| Personality             = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

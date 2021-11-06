@@ -1,0 +1,54 @@
+{{Marvel Database:Character Template
+| Image                   = Ms. Diaz (Earth-616) from X-Factor Vol 3 15 001.jpg
+| Name                    = Ms. Diaz
+| Name2                   = (full name unrevealed)
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra}}
+| Relatives               = unnamed mother
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = [[Hydra (Earth-616)|Hydra Agent]]
+| Education               = 
+| BaseOfOperations        = Mobile
+
+| Creators                = Peter David; Pablo Raimondi
+| First                   = X-Factor Vol 3 14
+
+| History                 = Not much is known about the past of Miss Diaz. At some point in her life, her own mother recruited her as an agent for [[Hydra (Earth-616)|Hydra]].
+
+She was sent to kidnap [[James Madrox (S.H.I.E.L.D. Agent) (Earth-616)|Agent Madrox]] of [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]]. So she posed as a girl scout who was selling cookies on the streets. Miss Diaz successfully kidnapped Agent Madrox, but he was in fact [[James Madrox (Earth-616)|Madrox Prime]].{{r|X-Factor Vol 3 14}}
+
+Miss Diaz was present as [[Doctor Locke (Earth-616)|Doc Locke]] mentally tortured Madrox and was later most likely killed in a crushing crowd after Madrox created more and more dupes after slapping his own face for a few times.{{r|X-Factor Vol 3 15}}
+
+| Powers                  = 
+| Abilities               = * Miss Diaz speaks German.{{r|X-Factor Vol 3 14}}
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * Her fate is unknown. It is possible that she died because the duplicates of [[James Madrox (Earth-616)|Multiple Man]] crushed her.
+| Trivia                  = * Despite her childlike body, she stated that she's 27.{{r|X-Factor Vol 3 15}}
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Multilingual]]

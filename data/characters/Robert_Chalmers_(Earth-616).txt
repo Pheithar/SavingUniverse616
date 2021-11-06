@@ -1,0 +1,58 @@
+{{Marvel Database:Character Template
+| Image                   = Robert Chalmers (Earth-616) from X-Men Vol 1 58 001.jpg
+| Name                    = [[Robert C. Chalmers]]
+| CurrentAlias            = [[Robert Chalmers]]
+| Aliases                 = [[Judge Chalmers]]
+
+| Affiliation             = 
+| Relatives               = [[Cynthia Chalmers (Earth-616)|Cynthia Chalmers]] (daughter)
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Brown
+| Hair2                   = <br>(white temples and facial hair){{r|X-Men #57}}
+| UnusualFeatures         = Moustache and goatee{{r|X-Men #57}}
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Federal judge{{r|X-Men #57}}
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Roy Thomas; Neal Adams
+| First                   = X-Men #57
+| Death                   = 
+
+| History                 = Judge Chalmers was a close personal friend of [[Bolivar Trask (Earth-616)|Bolivar Trask]]{{r|X-Men #58}} and was the only person except for him who was aware of the fact that Trask's son [[Lawrence Trask (Earth-616)|Larry]] was a [[Homo superior|mutant]] as well, disguised by a medallion that Bolivar had created.{{r|X-Men #59}}
+
+After Bolivar's death, Chalmers aided Larry in creating a new wave of [[Sentinels]],{{r|X-Men #57}} but became disillusioned with Larry's increasingly hate-filled plans. He forcefully removed Larry's medallion, hoping that Larry would cease his attacks on mutants{{r|X-Men #58}} if he learned the truth about his own mutation.{{r|X-Men #59}} This, however, backfired; when a furious Larry gave the order for Sentinels to destroy all mutants, he himself was targeted for annihilation,{{r|X-Men #58}} and Chalmers was accidentally injured by the Sentinels during an encounter with the [[X-Men (Earth-616)|X-Men]].{{r|X-Men #59}}
+
+The Sentinels were eventually outwitted by [[Scott Summers (Earth-616)|Cyclops]], and flew into space to meet their destruction.{{r|X-Men Vol 1 59}} Meanwhile, Larry had plunged into a state of catatonic shock, and Chalmers put the medallion back on him to erase the knowledge of what had happened to him.{{r|X-Men #60}}
+
+Chalmers then devoted his time to undo the damage mutant-hatred Trasks had done: He first overview the release of mutants captured by the Sentinels (and sent the criminal mutants to jail), and then he started protesting when the police intended to blame the mutants, without proof, of a theft performed by [[Karl Lykos (Earth-616)|an unidentified winged individual]].{{r|X-Men #60}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = * Chalmer's hair color was portrayed inconsistently: Sometimes his hair is brown,{{r|X-Men Vol 1 57}} sometimes black;{{r|X-Men Vol 1 58}} sometimes he has white mustache and beard;{{r|Avengers Vol 1 103}} sometimes only white mustache;{{citation}} and sometimes he is seen in shadows so his hair color cannot be identified.{{citation}}
+* His middle initial was revealed in {{cl|X-Men #60}}, where the TV refers to "jurist R.C. Chalmers".
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

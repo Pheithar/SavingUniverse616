@@ -1,0 +1,52 @@
+{{Marvel Database:Character Template
+| Image                   = Huang Zhu (Earth-616) from Super Soldiers Vol 1 7 001.jpg
+| Name                    = Huang Zhu
+| CurrentAlias            = Warlord
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra (Earth-616)}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = China
+| Occupation              = Terrorist, drug lord, crimelord, mobster, warlord, conqueror
+| Education               = 
+| BaseOfOperations        = [[Savage Land]]
+
+| Creators                = Andrew Currie; Lee Stevens
+| First                   = Super Soldiers #7
+
+| History                 = Huang Zhu was with the nationalists in [[China]] during it's civil war, after which he joined [[Hydra (Earth-616)|Hydra]]. The Warlord committed genocide on the
+Mnnzz' Guthir tribe, exterminating them all except for Princess [[Xantia]]. Taking their land, he established his base of operations in an ancient temple complex which had been built by the [[Eternals (Homo immortalis)|Eternals]]. In Hydra's opium fields were genetically-engineered "super-poppies". 
+
+He organized a martial arts tournament, inviting martial artists from around the world to participate, in what they soon learned were death matches. On the night of the tournament, [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] attacked his operation. Xantia took advantage of the opportunity and killed the Warlord, meanwhile SHIELD burned the opium fields.{{r|Super Soldiers Vol 1 6|7}}
+
+| Powers                  = 
+| Abilities               = Martial Arts, Swordsmanship, Leadership
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category: Drug Lords]]

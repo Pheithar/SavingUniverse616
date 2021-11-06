@@ -1,0 +1,85 @@
+{{Plagiarism|[https://en.wikipedia.org/wiki/Red_Ronin Red Ronin on Wikipedia]}}{{Marvel Database:Character Template
+| Image                   = SJ3RX (Earth-616) from Official Handbook of the Marvel Universe Vol 2 10 001.jpg
+| Name                    = SJ3RX
+| CurrentAlias            = Red Ronin
+| Aliases                 = [[SJ3 RX]]
+
+| Affiliation             = {{m|Godzilla Squad (Earth-616)|Godzilla Squad}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = 
+| Height                  = 102'4"
+| Weight                  = 23.5 tons
+| Eyes                    = Silver
+| Hair                    = None
+| UnusualSkinColor        = Silver
+| UnusualFeatures         = Red Ronin is a massive robot with an overall design heavily influenced by the design of traditional Samurai body armor
+
+| Origin                  = [[Robots|Robot]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Robot
+| Education               = 
+| BaseOfOperations        = Mobile
+
+| Creators                = Doug Moench; Herb Trimpe
+| First                   = Godzilla Vol 1 6
+| Death                   = Dark Reign: Zodiac Vol 1 3
+
+| History                 = Red Ronin was developed with the assistance of Stark International by Japanese engineers and scientists [[Tamara Hashioka (Earth-616)|Tamara Hashioka]] and [[Yuriko Takiguchi (Earth-616)|Yuriko Takiguchi]]. It was intended to be used by [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] against the monster [[Godzilla (Earth-616)|Godzilla]]. Before it could be utilized for this purpose, the robot was stolen by Takiguchi's twelve year old grandson [[Robert Takiguchi (Earth-616)|Rob]]. Originally referred to as SJ3RX, the robot was named Red Ronin by the youngster.
+
+After an initial attempt to control the robot failed, Rob succeeded in piloting Red Ronin into battle with Godzilla, in an attempt to drive the beast off. Rob wished to prevent the radioactive creature from being harmed and his attempts to ward the monster off were designed to actually preserve his life. He succeeded in doing so and it was discovered that Ronin had been imprinted with Rob's brain patterns, making the robot useless without him to pilot it.
+
+Rob used Ronin a few more times, aiding Godzilla in battles against creatures such as Yetrigar, Krollar, Rhian, and Triax. During one such battle, [[Rhiahn (Earth-616)|Rhiahn]] decapitated Ronin, leaving the robot inactive.
+
+S.H.I.E.L.D. eventually rebuilt the robot with the aid of [[Stark Industries (Earth-616)|Stark]] technicians. One such technician, [[Earl Cowan (Earth-616)|Earl Cowan]], altered the robot so it would only respond to his brain patterns, similarly to how it had previously been linked to Rob Takaguchi.{{r|Avengers Vol 1 197}} Cowan intended to use Ronin to orchestrate a series of events that would set off World War III. Fortunately, Cowan was completely ignorant of the shortest aerial route to the USSR and went eastward instead of going north and passed over New York City. This allowed the [[Avengers  (Earth-616)|Avengers]] to intercept and defeat Red Ronin, and the robot's remains were carried off by S.H.I.E.L.D.{{r|Avengers Vol 1 198}}{{r|Avengers Vol 1 199}}
+
+[[Stane International]] eventually gained possession of the remains. A scientist named Karaguchi Inoyawa rebuilt the robot, hoping to use it as a force for good. The robot was displayed by Stane at a trade show at the Pontiac Silverdome. While there it was commandeered by vengeful ex-Stane employee Joe Kilman who caused it to go on a rampage. This time Inoyawa guided the [[Janet Van Dyne (Earth-616)|Wasp]] in deactivating Ronin.{{r|Solo Avengers Vol 1 15}}
+
+Ronin eventually wound up in the hands of Fujikawa Electronics. It was altered to look more like a samurai in appearance. Numerous military and criminal organizations such as the [[Hand]] attempted to gain possession of the mechanoid, but were foiled by [[James Howlett (Earth-616)|Wolverine]] and [[Shiro Yoshida (Earth-616)|Sunfire]].{{r|Wolverine Annual Vol 1 #1996}}
+
+When Red Ronin next appeared, it was used by [[Henry Peter Gyrich (Earth-616)|Henry Peter Gyrich]] to lure the Avengers into a battle with the [[Thunderbolts (Earth-616)|Thunderbolts]].{{r|New Thunderbolts #13}}
+
+Red Ronin has since "joined" the Thunderbolts during the [[Civil War (Event)|Civil War]]. [[Anthony Stark (Earth-616)|Tony Stark]] mentioned working on that version and that the [[Fixer]] is likely all over it.{{r|Thunderbolts #107}} Red Ronin was seen in Japan alongside [[Big Hero Six (Earth-616)|Big Hero 6]] and [[Otomo (Earth-616)|Otomo]] during the Japanese version of the [[Superhuman Registration Act]].{{r|Civil War: Battle Damage Report #1}}
+
+When [[Norman Osborn (Earth-616)|Norman Osborn]] dissolved [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] and created [[H.A.M.M.E.R. (Earth-616)|H.A.M.M.E.R.]], he brought Red Ronin along with many of his Thunderbolts back to work under him. Red Ronin was stored as a last resort. It was eventually deployed by Osborn, who was piloting it, when [[Zodiac (Dark Reign) (Earth-616)|Zodiac]] hacked H.A.M.M.E.R.'s satellites and made it look like [[Galan (Earth-616)|Galactus]] was heading to Earth. In reality, Galactus was not near the system. Red Ronin rampaged through the city without any purpose, which in turn incriminated Osborn. It was then attacked by [[Carol Danvers (Earth-616)|Ms. Marvel]] and the [[Fantastic Four (Earth-616)|Fantastic Four]] since they thought it had gone haywire. It was ultimately destroyed when [[Jonathan Storm (Earth-616)|Human Torch]] flew through it and caused it to explode.{{r|Dark Reign: Zodiac Vol 1 3}}
+
+| Powers                  = Red Ronin's design affords it another of superhuman attributes.<br>
+
+'''Superhuman Strength:''' The massive and advanced hydraulics that essentially act as the Ronin's muscles grant it vast superhuman strength sufficient to lift well in excess of 100 tons.<br>
+
+'''Superhuman Speed:''' In spite of its massive size and weight, the Ronin can run and move at speeds beyond the natural physical limits of the finest human athlete. Even while walking at a leisurely pace, the Ronin's stride is such that it can easily outpace the fastest human runner.<br>
+
+'''Superhuman Stamina:''' The Red Ronin's highly advanced hydraulics are far superior to the organic musculature of a human being. At peak operating efficiency, the Ronin can be exerted physically for several days before various systems, particularly the hydraulics, begin to suffer from wear and tear.<br>
+
+'''Superhuman Durability:''' The Red Ronin's metallic body is highly resistant to physical injury. The Ronin can withstand powerful energy blasts from the likes of Godzilla, exposure to temperature extremes, falls from great heights, powerful impact forces, and a combined assault from the Avengers without sustaining damage.<br>
+
+'''Flight:''' Through the use of sophisticated rockets located in its feet, the Ronin can fly through the air at great speeds. Although the actual speed isn't known, it is well under the Speed of Sound.<br>
+
+| Abilities               = The Ronin's sheer size, physical capabilities and weaponry make it a formidable combatant, a foe too powerful for most singular individuals to handle. This is especially true when considering the advanced weaponry used.<br>
+
+| Strength                = 
+| Weaknesses              = Since the Red Ronin was built to fight monsters to begin with, its immense size can be something of a liability while facing enemies of a more normal size. If a normal sized being is able to clamber onto the Red Ronin, damage could possibly be inflicted with the Ronin unable to physically reach the attacker. The Ronin's effectivness in combat is also dependent upon the person actually operating it.<br>
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = In addition to its physical attributes, the Red Ronin houses a number of advanced weapons including a solar powered sword and pulsating shield that doubles as a sophisticated gatling laser. Aside from generating great heat or used as a cutting tool, the gatling laser can be altered to fire blasts of concussive force that can equal up to 100 tons of TNT.
+
+| Notes                   = 
+* A [[SJ3RX (Earth-3752)|version of Red Ronin]] appeared on an Earth visited by the time-hopping heroes known as the [[Exiles]]. On this Earth it was the chief weapon of a group of monster hunters known as the Science Squad and was invented by one of the Squad's members, Bolivar Trask. This version of Ronin was destroyed by this reality's version of Fin Fang Foom.
+
+| Trivia                  = 
+* Red Ronin's design was influenced by those of the super robots that were the staple of anime during the 1970s. Super robots first came into the notice of American pop culture in the form of the Gigantor (Tetsujin 28) anime series that was imported into the United States from Japan during the 1960s. Mattel's line of imported Shogun Warriors toys became popular in the United States during the late 1970s, the same time period that Red Ronin first appeared in Marvel Comics. Indeed, then Marvel Editor-In-Chief Archie Goodwin admitted that Red Ronin's basic design was inspired by the super robots of anime.
+
+| Links                   = 
+* [[w:c:godzilla:Red Ronin|Red Ronin at the Godzilla Wiki]]
+* [http://www.marvunapp.com/Appendix2/redroninrobot.htm Red Ronin at the Marvel Appendix]
+}}
+[[Category:Mecha]]
+[[Category:Japanese Technology]]

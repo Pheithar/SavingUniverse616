@@ -1,0 +1,54 @@
+{{Marvel Database:Character Template
+| Image                   = Paul Kraye (Earth-616) from S.H.I.E.L.D. Vol 3 9 001.png
+| Name                    = Paul Kraye
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}, {{M|Special Threat Assessment for Known Extranormalities (Earth-616)|S.T.A.K.E.}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = Member of [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]]'s tech division
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Al Ewing; Stefano Caselli
+| First                   = S.H.I.E.L.D. Vol 3 9
+
+| History                 = Paul Kraye is a [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] agent, part of the agency's tech division. He was also one of the numerous agents assigned to [[Area 13]]'s [[Special Threat Assessment for Known Extranormalities (Earth-616)|Special Threat Assessment for Known Extranormalities]], a.k.a. S.T.A.K.E.
+
+He was also working with [[Martin Reyna (Earth-616)|Martin Reyna]] on secret projects, for which both decided they had to get rid of the returned [[Timothy Dugan (Earth-616)|Dum Dum Dugan]] [[Life-Model Decoy]] before he discovered them.{{r|S.H.I.E.L.D. Vol 3 9}}
+
+Paul Kraye later discovered [[Orrgo (Earth-616)|Orrgo]] trying to go through his files. He reported this to [[Maria Hill (Earth-616)|Maria Hill]] which led to Orrgo getting imprisoned at [[Pleasant Hill]], where [[Kobik (Earth-616)|Kobik]]'s powers were used to turn him into a dog. After the [[Howling Commandos (S.H.I.E.L.D.) (Earth-616)|Howling Commandos]] ended up teleported back to S.T.A.K.E. HQ by Kobik, it was discovered that Paul Kraye had released all the inmates at S.T.A.K.E. HQ to wreak havoc, forcing the Howling Commandos to spring into action.{{r|Howling Commandos of S.H.I.E.L.D. Vol 1 6}}
+
+| Personality             = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

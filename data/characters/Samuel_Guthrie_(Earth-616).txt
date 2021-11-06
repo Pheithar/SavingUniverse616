@@ -1,0 +1,189 @@
+{{Marvel Database:Character Template
+| Image                   = Samuel_Guthrie_(Earth-616)_from_New_Mutants_Vol_4_2_001.jpg
+| Name                    = [[Samuel Guthrie|Samuel Zachery "Sam" Guthrie]] 
+| NameRef                 = {{r|Official Handbook of the Marvel Universe: X-Men 2005 Vol 1 1}}
+| CurrentAlias            = [[Cannonball]]
+| Aliases                 = The Boy High Lord,{{r|Stryfe's Strike File Vol 1 1}} Farmboy,{{r|Cable & Deadpool Vol 1 17}} Hayseed,{{r|Uncanny X-Men Vol 1 350}} Hick-A-Billy,{{r|Cable & Deadpool Vol 1 17}} [[Kentucky (State)|Kentucky]],{{r|Uncanny X-Men Vol 1 353}} [[Wikipedia:Mason-Dixon_line|Mason-Dixon]],{{r|Cable & Deadpool Vol 1 17}} [[Sam]],{{r|Uncanny X-Men Vol 1 352}} Sammy,{{r|Uncanny X-Men Vol 1 503}} Sammy Boy,{{r|Uncanny X-Men Vol 1 353}} Samson Guthry,{{r|X-Men Vol 2 59}} Samuel Zachary,{{r|X-Men Divided We Stand Vol 1 1}} possibly misspelled) Starshine,{{r|I (heart) Marvel: My Mutant Heart Vol 1 1}} 
+
+| Affiliation             = {{m|New Mutants}} (founding member), {{m|X-Terminators}}; formerly {{m|X-Men}}, [[Shi'ar Empire]], {{m|X-Force}}, {{m|Hounds (Earth-811)|Hounds}}, {{m|U.S.Avengers}}, {{m|American Intelligence Mechanics (Earth-616)|A.I.M. (American Intelligence Mechanics)}}, {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}, {{m|Avengers Idea Mechanics (Earth-616)|A.I.M. (Avengers Idea Mechanics)}}, {{m|New Avengers (A.I.M.) (Earth-616)|New Avengers}}, {{m|Advanced Idea Mechanics (Earth-616)|A.I.M. (Advanced Idea Mechanics)}}, {{m|Avengers}}, {{m|X-Treme Sanctions Executive (Earth-616)|X.S.E.}}, {{m|X-Treme X-Men}}, {{m|X-Corporation}}, {{m|Hellions}}, {{m|Hellfire Knights}}, {{m|Bratpack}}
+| Relatives               = 
+[[Thomas Zebulon Guthrie (Earth-616)|Thomas Guthrie]] (father, deceased);<br>
+[[Lucinda Guthrie (Earth-616)|Lucinda Guthrie]] (mother);<br>
+[[Lucas Guthrie (Earth-616)|Lucas Guthrie]] (paternal uncle);<br>
+Toby (uncle);{{r|X-Treme X-Men Vol 1 24}}<br>
+[[Paige Guthrie (Earth-616)|Paige Guthrie]] (sister);<br>
+[[Joshua Guthrie (Earth-616)|Jay Guthrie]] (brother);<br>
+[[Melody Guthrie (Earth-616)|Melody Guthrie]] (sister);<br>
+[[Jebediah Guthrie (Earth-616)|Jeb Guthrie]] (brother);<br>
+[[Joelle Guthrie (Earth-616)|Joelle Guthrie]] (sister);<br>
+[[Lewis Guthrie (Earth-616)|Lewis Guthrie]] (brother);<br>
+[[Elizabeth Guthrie (Earth-616)|Elizabeth Guthrie]] (sister);<br>
+[[Cissie Guthrie (Earth-616)|Cissie Guthrie]] (sister);<br>
+unnamed sister;<br>
+[[Raymond, Jr. (Earth-616)|Ray Jr.]] (foster brother);<br>
+[[Isabel Kane (Earth-616)|Izzy Kane]] (wife);{{r|X-Force Vol 5 7}}<br>
+[[Josiah Guthrie (Earth-616)|Josiah Guthrie]] (son){{r|Avengers Vol 5 35}}<br>
+Bonnie (maternal 1st cousin once removed);{{r|X-Force Vol 1 83}}
+| MaritalStatus           = Married
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z Vol 1 2}}
+| Gender                  = Male
+| Height                  = 6'0"
+| Weight                  = 181 lbs (82.1 kg)
+| Eyes                    = Blue
+| Eyes2                   = with a greyish tint
+| Hair                    = Blond
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Guthrie Farmhouse]], [[Cumberland County]], [[Kentucky (State)|Kentucky]] 
+
+| Identity                = Secret
+| Citizenship             = American, Krakoan
+| Occupation              = Adventurer; former New Mutant and X-Force leader, teacher, student and coal miner 
+| Education               = College Graduate
+| BaseOfOperations        = [[Krakoa (Earth-616)|Krakoa]], [[Pacific Ocean]]; formerly [[K'rii-VI]]; [[Avenger Base Two]], [[Savage Land]]; [[Stark Tower|Avengers Tower]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]; [[Xavier's School for Gifted Youngsters|Jean Grey School for Higher Learning]], [[Salem Center]], [[Westchester County]], [[New York (State)|New York]]; [[Utopia (X-Men Base)|Utopia]], [[San Francisco Bay]], [[California (State)|California]]; [[Graymalkin Industries]], Marin Headlands, [[San Francisco]], [[California (State)|California]]; [[Murderworld]]; [[Camp Verde]] Reservation, [[Arizona (State)|Arizona]]; [[Adirondack Mountains]], [[New York (State)|New York]]; [[Prosh (Earth-616)|Ship]]; [[Massachusetts Academy]], [[Snow Valley]], [[Massachusetts (State)|Massachusetts]]; [[Guthrie Farmhouse]], [[Cumberland County]], [[Kentucky (State)|Kentucky]]
+
+| Creators                = Chris Claremont; Bob McLeod
+| First                   = Marvel Graphic Novel Vol 1 4
+
+| Quotation               = Nice try, but Ah'm pretty much invulnerable when Ah'm blastin'. You [[Young X-Men (Earth-616)|fellas]] wouldn't happen ta be invulnerable, too, would'ja? Say if I dropped you from five thousand feet?
+| Speaker                 = [[Samuel Guthrie (Earth-616)|Cannonball]]
+| QuoteSource             = Young X-Men
+
+| History                 =
+===Origins===
+Samuel Zachery Guthrie was the eldest son of a large farming [[Kentucky (State)|Kentucky]] family on the 17th of October.{{r|Uncanny X-Men Vol 1 503}} Sam attempted to help out his family by working in a coal mine after his [[Thomas Zebulon Guthrie (Earth-616)|father]] had died there inhaling coal dust. Right on his first day, Sam and his father's friend, Lewis, were trapped in a cave-in. In his panic, Sam manifested his [[Homo superior|mutant]] blasting powers which allowed him and Lewis to escape the collapse.{{r|Marvel Graphic Novel Vol 1 4}}
+
+This incident led to Sam being discovered by [[Donald Pierce (Earth-616)|Donald Pierce]], who recruited him in a plot to attack a young group of mutants [[Charles Xavier (Earth-616)|Professor Charles Xavier]], founder of the [[X-Men (Earth-616)|X-Men]], had assembled. Sam eventually came to his senses and turned against Pierce. Professor Xavier saw the good inside Sam and invited him to join his [[New Mutants (Earth-616)|New Mutants]]. Cannonball left his family to join the team.{{r|Marvel Graphic Novel Vol 1 4}}
+
+===New Mutants===
+At [[Xavier's School for Gifted Youngsters]], the New Mutants were tutored by Professor X and trained in the use of their powers in the [[Danger Room]]. Though the team was originally created because the Professor was possessed by the [[Brood (Race)|Brood]] Queen egg inside of him for future embryos, Cannonball remained with the team for its entire existence. He formed close friendships with his teammates, [[Rahne Sinclair (Earth-616)|Wolfsbane]] and [[Roberto Da Costa (Earth-616)|Sunspot]], and a friendly rivalry with [[Danielle Moonstar (Earth-616)|Danielle Moonstar (Psyche)]] who, along with Cannonball, was the team's co-leader.{{r|New Mutants Vol 1 1|4}}
+
+Cannonball saved the life of international rock star and mutant teleporter [[Lila Cheney (Earth-616)|Lila Cheney]]. The two became romantically involved, but due to the nature of Lila's career, their relationship proceeded slowly.{{r|New Mutants Annual Vol 1 1}} Later, during a trip to [[Asgard]] Sam ended-up in [[Nidavellir]], where he befriended [[Eitri (Earth-616)|Eitri]], King of the [[Dwarves]]. After their adventure in Asgard, the New Mutants found themselves under the guidance of a new teacher, Magneto.{{r|New Mutants Special Edition Vol 1 1}}{{r|X-Men Annual Vol 1 9}}{{r|New Mutants Vol 1 35}}
+
+Sam briefly visited his hometown to introduce Lila to his family. His younger brother, [[Joshua Guthrie (Earth-616)|Josh Guthrie]] (who didn't wish to become a mutant), enjoyed a ride on Sam's back and decided that being a mutant wouldn't be so bad if he would get to fly.{{r|New Mutants Vol 1 42}}
+
+When Illyana accidentally separated the New Mutants through time and space Cannonball, Cypher, Mirage, and Warlock were sent to a [[Earth-87050|future]] where mutants ruled and their former teammates, [[Roberto Da Costa (Earth-87050)|Sunspot]] and [[Amara Aquilla (Earth-87050)|Magma]], were chief [[Arbitrators (Earth-87050)|Arbitrators]] who oppressed humans and even kidnapped their mutant children. They were captured and about to be brainwashed until Illyana returned with Professor Xavier, [[Lilandra Neramani (Earth-161)|Lilandra Neramani]], and [[Carol Danvers (Earth-616)|Binary]].{{r|New Mutants Vol 1 49|51}}
+
+At a friendly soccer game [[Roberto Da Costa (Earth-616)|Bobby da Costa]] accidentally ended-up giving Sam a concussion. Sunspot ran away, fearing he was a danger to his team. Warlock went after Sunspot and this left Sam and the team feeling deeply guilty and worried about Warlock and Sunspot's whereabouts.{{r|Fallen Angels Vol 1 1}}
+
+Sam was allowed to attend another of Lila's concerts, where she was attacked by the alien Intergalactic Red-Tape Brigade. The New Mutants arrived and, after Lila was captured, they met [[Gosamyr (Earth-616)|Gosamyr]], who offered to help get Lila if the New Mutants helped her save her family.{{r|New Mutants Vol 1 67}} While tracking Lila in space, Gosamyr began to play on the emotions of Sam and Bobby, but Warlock and the women seemed to be immune to her powers.{{r|New Mutants Vol 1 68}} After arriving on the planet Lila was on, the New Mutants battled aliens and themselves, until Illyana attacked Gosamyr with her [[Soulsword]] and broke her hold on everyone. The New Mutants were captured by [[Spyder (Earth-616)|Spyder]] and Gosamyr's family was forcefully matured until Gosamyr rescued the New Mutants and Lila seemingly sacrificed herself to teleport Gosamyr's family into a sun.{{r|New Mutants Vol 1 69|70}}
+
+The mutants did not stay under the care of Magneto, as Cannonball and Mirage decided to move the team out from under Magneto's thumb. Magneto revealed that he joined the X-Men, led the New Mutants, and entered the Hellfire Club to build a foundation for control and peace among mutant kind. Magneto explained that the teams were to be his army against the coming war between humans and mutants. Magneto allowed the New Mutants to leave warning that, in time, they would find his ways right.{{r|New Mutants Vol 1 74|76}}
+
+The New Mutants were introduced to X-Factor and began to live on Ship, merging with the [[X-Terminators (Earth-616)|X-Terminators]].{{r|New Mutants Vol 1 76}} One of the new members, [[Tabitha Smith (Earth-616)|Tabitha Smith]], developed a crush on Sam.{{r|New Mutants Vol 1 94}}
+
+===X-Force===
+Cannonball and the other New Mutants left the X-Men's supervision and joined forces with the mysterious war hawk [[Nathaniel Summers (Earth-616)|Cable]] to become the hard-edged [[X-Force (Earth-616)|X-Force]]. Cable made Cannonball Second-In-Command of that team.{{r|New Mutants Vol 1 98}}
+
+It was early during this time that Sam was impaled and killed by the mutant [[Karl Lykos (Earth-616)|Sauron]] during a clash with an incarnation of the [[Brotherhood of Evil Mutants (Earth-616)|Brotherhood of Evil Mutants]]. However, only a few minutes later, Sam was miraculously alive again. It was revealed that Cable had chosen to lead the New Mutants initially because he suspected Cannonball to be an [[External]] - a rare, particular type of mutant who is virtually immortal. Cable had come to train Sam to fight [[En Sabah Nur (Earth-616)|Apocalypse]], another External who, in Cable's future time, had conquered the world.{{r|X-Force Vol 1 5|10}} However, [[Selene Gallio (Earth-616)|Selene]] later claimed that Cannonball was not an External, though an alternate explanation for his surviving the wounds Sauron had inflicted is unknown.{{Citation}}
+
+===X-Men===
+X-Force re-established ties with the X-Men and Cannonball accepted an offer to join the latter team. He began to spend a lot of time with Wolverine.{{r|Wolverine Vol 2 93|100}} During this time, Cannonball defeated the Superman-like [[Shi'ar Empire|Shi'ar]] agent, [[Kallark (Earth-616)|Gladiator]] in single combat--a feat no X-Man had ever matched.{{r|Uncanny X-Men Vol 1 341}}
+
+During his time with X-Men, Cannonball found his relationship with Tabitha strained. It was so strained that Tabitha turned to Sam's best friend, Sunspot, for "support."{{r|X-Force Vol 1 76}} Sam returned to the X-Men for a brief period until he left the team to help his ailing mother. During his time with the X-Men, he also infiltrated the presidential campaign of anti-mutant candidate [[Graydon Creed (Earth-616)|Graydon Creed]], using the alias "Samson Guthry." Despite the rather transparent alias, Sam was able to remain undetected until Creed was assassinated on the eve of the election.{{r|X-Men Vol 2 59}}{{r|X-Factor #130}}
+
+===Rejoining X-Force===
+Cannonball rejoined X-Force, now independent of Cable and operating in [[San Francisco]]. Cannonball eventually became team leader again, after [[Theresa Rourke (Earth-616)|Siryn]] sustained injuries. The team eventually found a new mentor, by the name of [[Peter Wisdom (Earth-616)|Peter Wisdom]], who introduced the team to the world of espionage. During this time, Sam and Tabitha had gotten back together. After Wisdom's alleged death, Sam led the team again and attempted to continue Wisdom's crusade. Eventually, Sam and other members of X-Force had to fake their deaths.{{r|X-Force Vol 1 84|115}}
+
+===Life after X-Force===
+[[File:Samuel Guthrie (Earth-616) from X-Force Vol 1 44 0001.jpg|left|200px|thumb|Cannonball]]
+After X-Force’s dissolution, Cannonball joined several of his former teammates and former members of X-Force and [[Generation X (Earth-616)|Generation]], in the [[Paris (France)|Paris]], [[France]] branch, of Professor X's international mutant task force [[X-Corporation (Earth-616)|X-Corporation]]. His time with the X-Corporation wasn't a pleasant one. En route to one mission later found to involve the [[Weapon Plus (Earth-616)|Weapon Plus]] program, his teammate [[Laynia Petrovna (Earth-616)|Darkstar]] poked fun at him for eating a sandwich that would have rather distasteful consequences for "everybody who went out without an umbrella in downtown Beauvais." This moment of levity at Cannonball's expense did not last, as on that same mission, Darkstar died.{{r|New X-Men Vol 1 128|131}} At the funeral of Darkstar, Xavier gave Cannonball a note, with the whereabouts of Lila Cheney. Sam decided to take time away from the X-Corporation, as the strain of his life began to get to him.{{Citation}}
+
+While away, Sam rekindled his romantic relationship with Lila Cheney for a time. Sam couldn't find peace with his life so he was asked by [[Ororo Munroe (Earth-616)|Storm]] to join her [[X-Men (X-Treme) (Earth-616)|X-Treme X-Men]], a group of X-Men operating outside of Professor X's leadership. During his time with Storm's team, Sam found himself having a reunion of sorts with former teammates, Sunspot and [[Amara Aquilla (Earth-616)|Magma]].{{r|X-Treme X-Men Vol 1 24|34}}
+
+He and his teammates later rejoined the central X-Men.{{r|X-Treme X-Men Vol 1 46}}{{r|X-Men Vol 2 157}} Sam eventually got injured on a mission and once again decided to take a break. He used the time to work on his own farm which he bought with his X-Corporation paychecks. While on the farm, Sam found himself teaming up again with Cable and a reformed X-Force against the threat of the [[Skornn (Earth-616)|Skornn]].{{r|X-Force Vol 2 2|3}} Later, Sam and former X-Force teammate Siryn went in search of Cable with the mercenary Deadpool.{{r|Cable & Deadpool Vol 1}} Deadpool derisively referred to Sam as "Cannonballs."{{Citation}}
+
+===Post M-Day===
+Sam once joined the active roster of the X-Men, whose team was co-led by [[Kurt Wagner (Earth-616)|Nightcrawler]] and [[Lucas Bishop (Earth-1191)|Bishop]]. He participated in helping the [[198 (Earth-616)|198]] and fighting the [[Shi'ar Death Commandos (Earth-616)|Shi'ar Death Commandos]].{{r|Uncanny X-Men Vol 1 466|468}} He soon suffered the death of his brother [[Joshua Guthrie (Earth-616)|Icarus]], who had been killed by [[William Stryker (Earth-616)|William Stryker]].{{r|New X-Men Vol 2 27}}
+
+[[File:X-Men Vol 2 197 Textless.jpg|thumb|right|200px|Cannonball as a member of the X-Men]]
+Cannonball served on [[Rogue (Anna Marie) (Earth-616)|Rogue]]'s team of X-Men. After defeating the [[Children of the Vault (Earth-616)|Children of the Vault]], Rogue announced the departure of her team from the mansion. Sam felt the need to leave because his brother's death made him feel as if every time he walked through the mansion's doors, he felt as if he was stepping on his grave.{{r|X-Men Vol 2 188|204}}
+
+Following the disbanding of the X-Men, Sam returned home and was disgruntled and quickly left. Sam was the target of the [[Young X-Men (Earth-616)|Young X-Men]] after Donald Pierce posed as Cyclops and claimed that Sam had joined the new [[Brotherhood of Evil Mutants (Earth-616)|Brotherhood]].{{r|{{cl|Young X-Men Vol 1 3}}-[[Young X-Men Vol 1 6|6]]}}
+
+===New Mutants X-Men Squad===
+Magik later returned, stating that she was from the not too distant future and that the world and New Mutants would die without her intervention. Cyclops allowed Cannonball to reorganize the original New Mutants squad. Their first mission was to subdue a recently returned Legion.  After battling their resurrected teammate, [[Douglas Ramsey (Earth-616)|Doug Ramsey]], and the Hellions, Doug was freed from [[Eliphas (Earth-616)|Eli Bard]]'s control by Warlock wielding Magik's Soulsword and they both rejoined their former teammates.{{r|New Mutants Vol 3 1|9}}
+
+===Regenesis===
+Sam joined Wolverine's side and apologized to Dani saying that he couldn't lead anymore and needed to go somewhere else.{{r|New Mutants Vol 3 25}}
+
+===Jean Grey School===
+He was hired on part-time by Wolverine for the latter's new school. Cannonball taught a course in flying. Samuel took time to check in with his sister Husk, who worked for the school full-time. He, along with others, was worried about Husk's mental state.{{r|Wolverine and the X-Men Vol 1 9}}
+
+===Joining the Avengers===
+[[File:Samuel Guthrie (Earth-616) from Heist Vol 1 1.jpg|thumb|left|260px|Cannonball with Thor and Black Widow.]]
+After the [[Avengers vs. X-Men (Event)|conflict between the Avengers and the X-Men]], Captain America realized that the Avengers should have done more to help mutants, and not allowed the world to hate them due to their passiveness. As a result, he invited various mutants to be part of the ranks of Earth's Mightiest Heroes as well as forming a [[Avengers Unity Division (Earth-616)|team of Avengers]] lead by [[Alexander Summers (Earth-616)|Havok]]. Cannonball, together with [[Roberto Da Costa (Earth-616)|Sunspot]] joined the main Avengers team as part of [[Anthony Stark (Earth-616)|Tony Stark]]'s plan to make the Avengers bigger.{{r|Avengers Vol 5 2}}
+
+Their first mission was rescuing the main Avengers team, who had been captured on [[Mars]] by [[Ex Nihilo (Earth-616)|Ex Nihilo]] and [[Abyss (Ex Nihilo's) (Earth-616)|Abyss]].{{r|Avengers Vol 5 3}} During the [[Infinity (Event)|Builder War]], Sam fell in love and started dating fellow Avenger, [[Isabel Kane (Earth-616)|Izzy Kane]], the [[Smasher]].{{r|Avengers Vol 5 22}}
+
+===Birth of Josiah Guthrie===
+[[File:Samuel Guthrie (Earth-616), Isabel Kane (Earth-616) and Josiah Guthrie (Earth-616) from U.S.Avengers Vol 1 5 002.jpg|thumb|right|Sam, Izzy and Josiah]]
+Due to the distractions her heroic career caused, Izzy became pregnant with Cannonball's child. As soon as she discovered this, she was called to return to [[Chandilar]], the Shi'ar homeworld, with the Imperial Guard. Via a very briefly holographic transmission, Izzy told Sam that she had to go. Cannonball decided to follow her to the Imperial Guard's ship, with the help of the Starjammer, unwilling to let go of Izzy. After saving their ship from enemy forces, Izzy confessed to Sam that she was pregnant.{{r|Avengers World Vol 1 17}} Months after moving to Chandilar, the baby was supergestated. And in less than 8 months was already born,{{r|Avengers Vol 5 35}} and he was named [[Josiah Guthrie (Earth-616)|Josiah]].{{Citation}}
+
+Due to his progress on investigating the [[Glossary:Incursion|incursions]], [[Roberto Da Costa (Earth-616)|Bobby da Costa]] came to ask Cannonball to return to Earth, Izzy and Josiah went with him.{{r|Avengers Vol 5 35}} Once again on Earth, Izzy and Sam presented the baby to Izzy's father.{{r|Avengers Vol 5 36}}
+
+===U.S.Avengers===
+Following the end of the incursion crisis, Cannonball started to commute, spending roughly five days of the week working with Bobby's [[Avengers Idea Mechanics (Earth-616)|Avengers Idea Mechanics]] on Earth and the rest on the Shi'ar planet colony [[K'rii-VI]] with Izzy and Josiah. Even though he wanted to spend more time with his family, he easily became homesick.{{r|U.S.Avengers Vol 1 5}} When A.I.M. transitioned into a branch of S.H..E.L.D. working for the American government named [[American Intelligence Mechanics (Earth-616)|American Intelligence Mechanics]], Sam joined the [[U.S.Avengers (Earth-616)|U.S.Avengers]].{{r|U.S.Avengers Vol 1 1}}
+
+Cannonball decided to quit the team so he could live with his wife and son.{{r|U.S.Avengers Vol 1 5}} He returned to Earth only to discover the [[Alpha Flight (Space Program) (Earth-616)|Alpha Flight Space Program]], the [[Guardians of the Galaxy (Earth-616)|Guardians of the Galaxy]], and the [[Ultimates (Earth-616)|Ultimates]]' battle against the [[Chitauri]]. He joined the heroes in battle until one of the [[Leviathans (Chitauri)|Chitauri Dragons]] exploded,{{r|U.S.Avengers Vol 1 6}} throwing Sam miles away into the proximity of [[Saturn (Planet)|Saturn]], where he was found unconscious by alien scavengers{{r|U.S.Avengers Vol 1 7}} and sold as a slave. Sam was purchased by a [[Skrull]] that went by the alias of [[Howard Mason (Earth-616)|Howard Mason]], and was taken to [[Kral X]].{{r|U.S.Avengers Vol 1 8}} The Kral System constituted a peculiar portion of the [[Skrull Empire]], a group of planets dedicated solely to the recreation of [[Earth]]'s culture and media. In the case of Kral X, its prince used it to emulate the 50-year-old TV series ''The Ritchie Redwood Show''.{{r|U.S.Avengers Vol 1 12}}
+
+Sam was imprisoned after trying to escape,{{r|U.S.Avengers Vol 1 11}} and made acquaintances with a band of captured subversive Skrulls led by [[Bugface Brown (Earth-616)|Bugface Brown]], from whom he learned the history of Kral X. After escaping from captivity and freeing his new allies in the process, Sam confronted Kral X's prince, [[Ritchie Redwood (Earth-616)|Ritchie Redwood]], and meet up with the U.S.Avengers,{{r|U.S.Avengers Vol 1 12}} who had travelled with Smasher to Kral X in order to save Sam since his Shi'ar medical bio-implants allowed Izzy to track him down.{{r|U.S.Avengers Vol 1 10}} Following Ritchie's defeat at the hands of Bugface Brown, Sam, Izzy and the rest of the U.S.Avengers returned home.{{r|U.S.Avengers Vol 1 12}}
+
+===X-Force Reunites===
+In the wake of Cable's death Sam met at the Xavier Institute with the members of all the X-teams to discuss how to move forward. It was decided that each member of the [[X-Men (Time-Displaced) (Earth-616)|time-displaced X-Men]] would be protected by one of the teams present and [[Jean Grey (Earth-616)|Marvel Girl]] decided to go with the former members of X-Force.{{r|Extermination Vol 1 2}} It was later revealed that they were secretly going after [[Nathaniel Summers (Earth-616)|the young Cable]] who had murdered his older self. When [[Roderick Campbell (Earth-811)|Ahab]] activated his new [[Hounds (Earth-811)|Hounds]]], [[Gaveedra Seven (Mojoverse)|Shatterstar]] was revealed to be one and Cannonball launched them both out of the [[X-Wing]] to protect the others.{{r|Extermination Vol 1 3}} He eventually landed at the Xavier Institute battered and bruised with the unconscious Shatterstar, where he was questioned about the location of the others.{{r|Extermination Vol 1 4}} Cannonball later arrived at the final battle against Ahab in [[X-Lantis]] alongside [[Warren Worthington III (Earth-616)|Angel]], Storm, [[Robert Herman (Earth-616)|Glob Herman]], [[Katherine Pryde (Earth-616)|Kitty]], [[Santo Vaccarro (Earth-616)|Rockslide]], [[Hisako Ichiki (Earth-616)|Armor]], and [[Robert Drake (Earth-616)|Iceman]].{{r|Extermination Vol 1 5}}
+
+X-Force later reformed in an effort to hunt down Cable's killer. They traveled to [[Transia]] after they had interrogated terrorists on young Cable's location, but were attacked by the [[Transian Armed Forces (Earth-616)|Transian Armed Forces]] and framed for the murder of [[Nicolae Brancoveanu (Earth-616)|President Nicolae Brancoveanu]]. Sam questioned Cable on the situation and discovered that Transia had been receiving weapons from [[Earth-4935|the future]].{{r|X-Force Vol 5 1}} X-Force, Cable, and [[Deathlok Prime (Earth-10511)|Deathlok]] later rescued a group of mutant refugees, while Sam tried to convince them all to kill only when absolutely necessary. After bringing them to safety, Cannonball broke up a fight between Shatterstar and Cable, before they were attacked by Transian mechs.{{r|X-Force Vol 5 2}} Following the battle, Sam questioned why they should trust Cable, and after receiving a satisfactory explanation, agreed to follow Cable to the prison Deathlok had discovered at the [[Transian Federal House]].{{r|X-Force Vol 5 3}} After arriving at the prison Cannonball helped dispatch the armed guards.{{r|X-Force Vol 5 4}}
+
+Before X-Force could finish wrapping up the situation in Transia, [[Nathaniel Summers (Stryfe) (Earth-4935)|a young Stryfe]] and his [[Mutant Liberation Army (Earth-4935)|Mutant Liberation Army]] arrived from the future to capture Cable. Cannonball, alongside the other members of X-Force fought the MLA, but they were quickly overwhelmed.{{r|{{cl|X-Force Vol 5 5}}-[[X-Force Vol 5 6|6]]}}
+
+A few days later, he procured an ion engine alongside Shatterstar and headed into the future with everyone else after Deathlok used it to repair Transia's time-machine.{{r|X-Force Vol 5 7}} Upon arriving in the future, X-Force were forced to defend [[Clan Askani (Earth-4935)|Clan Askani]] from the MLA, and Cannonball was the first to notice that some of the fighters seemed to be in a trance.{{r|X-Force Vol 5 8}} After the battle, he infiltrated the New Canaanite Headquarters and rescued Cable alongside [[James Proudstar (Earth-616)|Warpath]] and Deathlok.{{r|X-Force Vol 5 9}} After [[Rachel Summers (Earth-811)|Prestige]] defeated Stryfe and [[Clan Chosen (Earth-4935)|Clan Chosen]] were saved, Sam decided to return to the Shi'ar Empire to be with his wife and son.{{r|X-Force Vol 5 10}}
+
+===Dawn of X===
+When the New Mutants ended up in a Shi'ar [[Criminal Processing Station]], Sam arrived alongside Smasher to escort them out of court. Afterward their [[Shi'ar Dreadnought]] was rerouted in order to escort [[Cal'syee Neramani (Earth-616)|Deathbird]] back to Chandilar.{{r|New Mutants Vol 4 2}} While traveling to the throne world, their ship was ambushed by the [[Shi'ar Death Commandos (Earth-616)|Shi'ar Death Commandos]] and ultimately destroyed.{{r|New Mutants Vol 4 5}}
+
+| Powers = Cannonball is a [[Homo superior|mutant]].
+
+'''Thermo-Chemical Energy Field Propulsion''': Cannonball possesses the ability to bodily generate thermo-chemical energy and release it from his skin. This energy is used as thrust to cause his body to be propelled through the air, like his namesake, at great heights and speeds with considerable maneuverability. He can control his speed and direction through sheer act of will. At first he could only release this energy from his feet, but now he can fire it from almost any part of his body, to a wide variety of effects, such as channeling it into bio-kinetic blasts from his hands. His power levels have varied over the years - but at his peak, he has been able to defeat the [[Imperial Guard (Earth-616)|Shi'ar Imperial Guard]] leader, [[Kallark (Earth-616)|Gladiator]], and devastate several city blocks by plummeting to the ground from high altitude.{{Citation}}
+*'''Blast Field''': This energy also manifests itself as an impenetrable and virtually indestructible "blast field." He can use this blast-field to function as a personal shield or extending it to encompass others, shape the field around another person to imprison them, or absorb outside kinetic impact into his own energy supply and then re-channel it to increase the bludgeoning power of his blows or create explosive shock waves upon impact. Sam is also capable of generating the blast field without actually having to blast off, though it takes him extreme concentration to prevent himself from propelling into the air.{{r|U.S.Avengers Vol 1 3}}
+*'''Superhuman Durability''': When he is using his superhuman powers, Cannonball possesses superhuman durability due to the energy field that forms around his body.{{Citation}}
+
+====External====
+It had been theorized that Cannonball may have been one of the [[Externals (Earth-616)|Externals]], and therefore immortal, although evidence for this was somewhat questionable. [[Nathaniel Summers (Earth-616)|Cable]] was initially unsure about such a statement, due to the fact that Sam's brother [[Joshua Guthrie (Earth-616)|Icarus]] had a healing factor, and that such a factor could run in the family;{{r|X-Men: Future History: Messiah War Sourcebook Vol 1 1}} meanwhile, [[Nathaniel Summers (Stryfe) (Earth-4935)|Stryfe]] was positive that Sam was an External.{{r|Stryfe's Strike File Vol 1 1}} Cable later refuted Sam's possible External status as nothing more than a rumor.{{r|Cable Vol 1 151}}
+
+| Abilities               = 
+| Strength                = Cannonball possesses the normal human strength of a young man of his age, height, and build who engages in [[Strength Scale#Average Human|moderate regular exercise]]. However, when he uses his powers to apply thrust beneath him, the force thus generated enables him to bear aloft over [[Strength_Scale#1_Ton|a ton]] of weight in addition to his own.{{Citation}}
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = [[X-Men Blackbird]], formerly [[Illyana Rasputina (Earth-616)|Magik]], [[Warlock (Technarch) (Earth-616)|Warlock]], [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D]] I.P.A.C.
+| Weapons                 = 
+
+| Notes                   = 
+* Sam was born on the 17th of October as shown by his license in {{cl|Uncanny X-Men Vol 1 503}}, at the time this comic was printed he was born in 1987 and was 21.
+| Trivia                  = 
+* According to original character designs by [[Bob McLeod]], Sam's powers were supposed to be energy blasts from his hands and variants for his alias included Inferno and Holocaust.{{r|X-Men: Archives Sketchbook Vol 1 1}}
+| Links                   = * [http://www.marveldirectory.com Marvel Directory]
+* [http://uncannyxmen.net/characters/cannonball-ii uncannyxmen.net Spotlight On... Cannonball]
+}}
+[[Category:Guthrie Family]]
+[[Category:Kane Family]]
+[[Category:Utopians]]
+[[Category:Formerly Deceased]]
+[[Category:Baptist Characters]]
+[[Category:Force Field]]
+[[Category:Flight]]
+[[Category:Energy Projection]]
+[[Category:Xavier Institute Student]]
+[[Category:Post-M-Day Mutants (The 198)]]
+[[Category:Jean Grey School faculty]]
+[[Category:Possible Externals]]
+[[Category:Significant Threats]]
+[[Category:Invulnerability]]
+[[Category:Energy Absorption]]
+[[Category:Post-Secret Wars Mutants]]
+[[Category:Floating Super-Hero Poker Game participants]]
+[[Category:Time Travelers]]
+[[Category:Interdimensional Travelers]]

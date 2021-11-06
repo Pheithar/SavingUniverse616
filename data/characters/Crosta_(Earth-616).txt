@@ -1,0 +1,77 @@
+{{Marvel Database:Character Template
+| Image                   = Crosta_(Earth-616)_from_X-Men_Battle_of_the_Atom_(video_game)_001.jpg
+| Name                    = [[Crosta]]
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = Formerly {{M|X-Men}} (Jean Grey School member), [[Xavier Institute student body#Jean Grey School students|Jean Grey School student body]]
+| Relatives               = [[Proctidae (Earth-616)|Proctidae]] (mother);<br>
+[[Opistho (Earth-616)|Opistho]] (father)
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Red
+| Eyes2                   = formerly [[:Category:Black Eyes|Black]][[Category:Black Eyes]]
+| Hair                    = No Hair
+| Hair2                   = formerly [[:Category:White Hair|White]][[Category:White Hair]]
+| UnusualFeatures         = Enlarged skull, gills, webbed finger
+| UnusualSkinColor        = Variable
+| UnusualSkinColor 2      = , [[:Category:Blue Skin|Blue]] most of the time, sometimes [[:Category:Green Skin|green]] or [[:Category:Purple Skin|purple]][[Category:Green Skin]][[Category:Purple Skin]][[Category:Blue Skin]]
+
+| Origin                  = [[Homo mermanus|Atlantean]] [[Homo mermanus Mutants|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = Atlantis
+
+| Identity                = No Dual
+| Citizenship             = Atlantean, Krakoan
+| Occupation              = Student
+| Education               = 
+| BaseOfOperations        = [[Krakoa (Earth-616)|Krakoa]], [[Pacific Ocean]]; formerly,[[Jean Grey School For Higher Learning]], [[Salem Center]], [[Westchester County]], [[New York (State)|New York]]; [[New Atlantis]], [[San Francisco Bay]], [[California (State)|California]]
+
+| Creators                = Kieron Gillen; Carmine Di Giandomenico
+| First                   = Dark Reign: The Cabal #1
+
+| Quotation               = Enough of this madness. I am [[Atlanteans|'''Atlantean''']]. I care nothing for your [[Avengers vs. X-Men (Event)|surface disputes]].
+| Speaker                 = [[Crosta (Earth-616)|Crosta]]
+| QuoteSource             = Avengers Academy Vol 1 #30
+
+| History                 = Crosta is a member of the [[Homo mermanus]] race better known as Atlanteans. The Homo mermanus just like their cousins the [[Homo sapiens]] have [[Mutants]] born within their society. Crosta was secreted away by his mother, [[Proctidae (Earth-616)|Proctidae]], after the abandonment of [[Atlantis]], his father [[Opistho (Earth-616)|Opistho]] eventually discovered it. Proctidae brought the affair to the attention of their King [[Namor McKenzie (Earth-616)|Namor]] in order to keep the boy, as Opistho engaged a paternity suit.
+
+When his mutant powers emerged he was ordered by Namor to attend a mutant school in [[San Francisco]] ([[Graymalkin Industries]], current home of the [[X-Men (Earth-616)|X-Men]]), rather than remain with his mother or join his father in [[Latveria]] with the Atlantean military, he violently rejected the idea, attacking Namor. Reined in by Namor, he was sent to the X-Men.{{r|Dark Reign: The Cabal #1}}
+
+[[File:Crosta (Earth-616) from Uncanny X-Men Vol 1 521 0001.jpg|230px|thumb|left]]
+He was later shown in the waters below [[Utopia (X-Men Base)|Utopia]], guiding new Atlantean immigrants to the Citizen Intake Center at the base of the pillar supporting Utopia.{{r|Uncanny X-Men #521}}
+
+===Avengers vs. X-Men===
+After the [[Avengers (Earth-616)|Avengers]] attack on Utopia, Crosta was brought to the [[Avengers Academy (Earth-616)|Avengers Academy]] [[Avengers Compound|place]]. Naturally siding with his fellow X-Men, he tried to avoid the confrontation between the two groups of students in jumping in the sea to rejoin his own kind but was stopped by [[Juston Seyfert (Earth-616)|Juston Seyfert]]'s [[Sentinel (Juston) (Earth-616)|Sentinel]]. Once the mutants were let free to go, he left, intending to return to [[Atlantis]].{{r|Avengers Academy #29|31}}
+
+Although, he joined the [[Xavier Institute student body#Jean Grey School students|Jean Grey School student body]] along the with other Utopian students,{{r|Wolverine and the X-Men #15}} and even attended to the Dance while the grown-ups X-Men and the Avengers confronted the [[Dark Phoenix (Earth-616)|Dark Phoenix]],{{r|Wolverine and the X-Men #18}} and was part of the students for the second year of the Grey School.<ref>{{cl|Wolverine and the X-Men #19}} & {{cl|Wolverine and the X-Men #29|#29}}, {{cl|All-New X-Men #10}}</ref>
+
+| Powers                  = [[File:Crosta (Earth-616) from Dark Reign The Cabal Vol 1 1 0002.jpg|330px|thumb|right|Crosta demonstrating his powers on [[Namor McKenzie (Earth-616)|Namor]]]]
+Crosta was an [[Homo mermanus]], with the [[Atlantean Physiology|capabilities common to his species]]. As a [[Atlantean Mutant]], he also possessed powers unique to him:
+* '''Shockwave Generation:''' Crosta can generate shockwaves from his body when distressed which is powerful enough to shatter solid matter.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = He used to release shockwaves when he got angry or lost his temper.
+
+| Equipment               = * '''[[Water-Breathing System]]:''' He wore an [[Water-Breathing System|inverted scuba]] during his first times at [[Jean Grey School For Higher Learning]].{{r|Wolverine and the X-Men #15}}
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = During his time at the [[Avengers Compound|Avengers Academy]], Crosta was confirmed to be a [[mutant]] by [[Juston Seyfert (Earth-616)|Juston]]'s [[Sentinel (Juston) (Earth-616)|Sentinel]].{{r|Avengers Academy #30}}
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Underwater Breathing]]
+[[Category:Concussive Blasts]]
+[[Category:Utopians]]
+[[Category:Jean Grey School students]]
+[[Category:Enlarged Head]]
+[[Category:Post-M-Day Mutants (Non-Human)]]
+[[Category:Seismokinesis]]
+[[Category:Long range Energy Projection]]

@@ -1,0 +1,53 @@
+{{Marvel Database:Team Template
+| Image                   = Nail (Earth-616) from Shadowland Daughters of the Shadow Vol 1 1 0001.jpg
+| ImageSize               = 300px
+| Name                    = Nail
+| Aliases                 = 
+| EditorialNames          = [[Shadowland: Daughters of the Shadow Vol 1|Daughters of the Shadow]]
+
+| Status                  = Active
+
+| Identity                = Secret
+| Reality                 = Earth-616
+| BaseOfOperations        = [[Shadowland Fortress]]
+
+| Leaders                 = [[Black Lotus (Earth-616)|Black Lotus]]; formerly [[Colleen Wing (Earth-616)|Colleen Wing]], [[Azumi Ozawa (Earth-616)|Azumi Ozawa]]
+| CurrentMembers          = [[Makro (Earth-616)|Makro]], [[Yuki (Earth-616)|Yuki]]
+| FormerMembers           = [[Colleen Wing (Earth-616)|Colleen Wing]], [[Cherry Blossom (Earth-616)|Cherry Blossom]], [[Azumi Ozawa (Earth-616)|Azumi Ozawa]], four unnamed women including [[Black Lotus (Earth-616)|Black Lotus]]' mother
+| Allies                  = [[Hand (Earth-616)|Hand]]
+| Enemies                 = [[Steven Shake (Earth-616)|Councilman Steven Shake]]
+| Affiliation             = {{m|Hand (Earth-616)|The Hand}}
+
+| Origin                  = Elite quintet of female [[Hand (Earth-616)|Hand]] assassins
+| PlaceOfFormation        = [[Japan]] (original)
+; [[Shadowland]], [[Hell's Kitchen]], [[New York City]]
+| PlaceOfDissolution      = 
+| Creators                = Jason Henderson; Ivan Rodriguez
+| First                   = Shadowland: Daughters of the Shadow #1
+| Last                    = 
+
+| HistoryText             = 
+===Origin===
+The original Nail were five women ninjas that served the [[Hand (Earth-616)|Hand]] as an elite strike team for a thousand years.{{r|Shadowland: Daughters of the Shadow #1}}
+
+===Modern era===
+====[[Azumi Ozawa (Earth-616)|Azumi Ozawa]]'s leadership====
+In the modern era, [[Azumi Ozawa (Earth-616)|Azumi Ozawa]] revived and led the team along with four other descendants of the original Nail,{{r|Shadowland: Daughters of the Shadow #1}} which included [[Black Lotus (Earth-616)|Black Lotus]]' mother.{{r|Shadowland: Daughters of the Shadow #2}}
+
+Enemies of the Hand eventually discovered their identities and killed them one by one.{{r|Shadowland: Daughters of the Shadow #1}}
+
+====[[Shadowland]]: [[Colleen Wing (Earth-616)|Colleen Wing]]'s leadership====
+During the events of [[Shadowland]], [[Matthew Murdock (Earth-616)|Daredevil]] re-formed the team with [[Colleen Wing (Earth-616)|Colleen Wing]], Azumi's daughter, as their leader.{{r|Shadowland: Daughters of the Shadow #1}}
+
+<!-- their missions, internal fights, Councilman Shake, etc. -->...{{r|Shadowland: Daughters of the Shadow #2}} ...{{r|Shadowland: Daughters of the Shadow #3}}
+
+<!-- to complete -->Colleen eventually left the group along with the youngest member, Cherry Blossom. The other members stayed on as members of the Hand.{{r|Shadowland: Daughters of the Shadow #3}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = Same as [[Colleen Wing (Earth-616)|Colleen Wing]] and [[Azumi Ozawa (Earth-616)|Azumi Ozawa]], whose mothers were members of the Nail, [[Makro (Earth-616)|Makro]], [[Yuki (Earth-616)|Yuki]], and [[Cherry Blossom (Earth-616)|Cherry Blossom]] are allegedly descendants of members of the Nail,{{r|Shadowland: Daughters of the Shadow #2}} although their exact relations to those are unknown.
+| Trivia                  = 
+| Links                   = 
+}}

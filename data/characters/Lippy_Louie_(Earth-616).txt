@@ -1,0 +1,50 @@
+{{Marvel Database:Character Template
+| Image                   = Lippy Louie (Earth-616) from Fantastic Four Vol 1 91 0001.jpg
+| Name                    = 
+| CurrentAlias            = Lippy Louie
+| Aliases                 = 
+
+| Affiliation             = [[Skrull Empire]]
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = Variable
+| Weight                  = Variable
+| Eyes                    = Green
+| Hair                    = None
+| UnusualSkinColor        = Green
+| UnusualFeatures         = Pointed ears 
+
+| Origin                  = [[Deviant Skrull|Skrull]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Kral IV]], [[Skrull Empire]]
+
+| Identity                = Secret
+| Citizenship             = Skrull Empire
+| Occupation              = Gangster
+| Education               = 
+| BaseOfOperations        = [[Kral IV]], [[Skrull Empire]]
+
+| Creators                = Stan Lee; Jack Kirby;
+| First                   = Fantastic Four #91
+
+| History                 = Lippy Louie was on of the [[Skrulls]] of Kral IV who lived mimicking the lifestyle of Earth in the 1930s. He was the leader of one of the most prominent gangs and the main rival of [[Boss Barker (Earth-616)|Boss Barker]].{{r|Fantastic Four #91|93}}
+
+| Powers                  = * '''[[Skrull Shape-Shifting]]'''
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * [http://www.marvunapp.com/Appendix/kralskrulls.htm#Louie Lippy Louie on Marvunapp]
+}}
+[[Category:Crimelords]]

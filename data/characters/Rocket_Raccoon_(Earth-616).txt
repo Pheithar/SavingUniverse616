@@ -1,0 +1,175 @@
+{{Marvel Database:Character Template
+| Image                   = Rocket Raccoon (Earth-616) from Guardians of the Galaxy Vol 6 14 cover 001.jpg
+| Name                    = [[Rocket Raccoon]]
+| CurrentAlias            = [[Rocket]]
+| Aliases                 = [[Gamora]],{{r|Guardians of the Galaxy: Mother Entropy Vol 1 2|3}} Mammal-Thing,{{r|Annihilation: Conquest - Starlord Vol 1 3}} [[Nova]],{{r|Guardians of the Galaxy Vol 1 146}} Raccoon-Thing,{{r|Annihilation: Conquest - Starlord Vol 1 3}} Ranger Rocket,{{Citation}} [[Rock]],{{r|Guardians of the Galaxy Vol 2 1}} Rocky,{{r|Guardians of the Galaxy Vol 2 5}} Rocky Raccoon,{{Citation}} Sharpshooting Space Racoon,{{Citation}} [[Venom]]{{r|Guardians of the Galaxy Vol 3 22}}
+
+| Affiliation             = {{m|Guardians of the Galaxy}}, partner of [[Groot (Earth-616)|Groot]]; formerly {{m|Nova Corps}}, Timely Inc.
+| Relatives               = [[Venom (Symbiote) (Earth-616)|Venom]] (former symbiote);<br>
+[[Shocket Raccoon (Earth-616)|Shocket]] (clone)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Marvel Avengers: The Ultimate Character Guide Vol 1 2}}
+| Gender                  = Male
+| Height                  = 4'0"
+| Weight                  = 55 lbs
+| Eyes                    = Brown
+| Eyes2                   = (sometimes wears [[:Category:Blue Eyes|Blue]][[Category:Blue Eyes]][[Category:Infobox Eyes Update Needed]] contact lenses)
+| Hair                    = Black
+| Hair2                   = , [[:Category:Brown Hair|brown]][[Category:Brown Hair]], and [[:Category:White Hair|white]][[Category:White Hair]][[Category:Infobox Eyes Update Needed]]
+| UnusualFeatures         = Claws, tail
+
+| Origin                  = [[Halfworlder]] [[Glossary:Mutate|Mutate]] and [[Glossary:Cyborg|Cyborg]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Halfworld]], [[Keystone Quadrant]]
+
+| Identity                = No Dual
+| Citizenship             = Halfworlders
+| Occupation              = Adventurer, law enforcement officer, security guard, member of the Guardians of the Galaxy; formerly mailroom clerk
+| Education               = 
+| BaseOfOperations        = Rakk'n'Ruin [[Halfworld]], [[Keystone Quadrant]]; formerly [[Hala (Planet)|Hala]]; [[Cool Interstellar Travel Travelship|C.I.T.T.]]; [[Knowhere]]; [[Milano]]
+
+| Creators                = Bill Mantlo; Sal Buscema
+| First                   = Incredible Hulk Vol 1 271
+
+| Quotation               = I'll tell [[Nova Corps (Earth-616)|you all]] something I've learned over the years with [[Guardians of the Galaxy (Earth-616)|my friends]]. You can save the galaxy '''and''' take down scores. You can save millions of people by killing a few bad ones. You can do it all -- you just gotta tell yourself, and believe it when you say it -- "I'm the baddest mother @#$&#$% in [[Earth-616|the whole universe]]."
+| Speaker                 = [[Rocket Raccoon (Earth-616)|Rocket Raccoon]]
+| QuoteSource             = Guardians of the Galaxy Vol 1 149
+
+| Overview                = '''Rocket Raccoon''' is a [[Glossary:Mutate|genetically]] and [[Glossary:Cyborg|cybernetically]] enhanced raccoon turned freelance mercenary turned member of the [[Guardians of the Galaxy (Earth-616)|Guardians of the Galaxy]].{{r|Guardians of the Galaxy Vol 2 1}} He is considered to have one of the best tactical minds in the galaxy.{{r|Guardians of the Galaxy Vol 2 1}} He hails from [[Halfworld]] in the [[Keystone Quadrant]] where scientist were able to turn animals into sentient beings.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 9}} Alongside his friend and partner [[Groot (Earth-616)|Groot]], he travels the galaxy picking up bounties.{{r|Guardians of the Galaxy Vol 2 8}}
+
+| History                 = 
+<center>''This is an abridged version of Rocket Raccoon's history. For a complete history see '''[[Rocket Raccoon (Earth-616)/Expanded History|Rocket Raccoon's Expanded History]]'''''</center>
+
+===Origin===
+Centuries ago, a group of [[Shrinks/Loonies|alien humanoids]] settled the largest planet in the [[Keystone Quadrant]] star system. They built a complex to house and treat the insane, recording their medical observations in a psychiatric diary. When the "Shrinks" funding was cut, they abandoned the project, but not before they created a staff of [[Halfworld Robots (Earth-616)|robot stewards]] to provide for the humanoids. They then separated the quadrant from the rest of the galaxy with an impenetrable force field.<!-- {{r|Official Handbook of the Marvel Universe A-Z Vol 1 9}} -->
+
+When a nearby star went nova, ensuing radiation gave sentience to the robots, who quickly chafed at the illogical directives of the humanoids, or "[[Shrinks/Loonies|Loonies]]." Seeking to end their servitude, the robots used genetic engineering to give intelligence and awareness to the animals that had been left as companions for the patients. They charged the animals with the patients' care and protection, then relocated to the far side of the planet, which they proceeded to strip bare through industrial endeavors, one of which was construction of a vast, humanoid spacecraft called Ship. The half-industrial, half-verdant planet became known as "[[Halfworld]]."<!-- {{r|Official Handbook of the Marvel Universe A-Z Vol 1 9}} -->
+
+The animals continued to care for the humans, and the robots provided a lot of equipment, weapons, and parts for toys. The psychiatric diary left by the physicians (now known in legend as the "Shrinks") became an indecipherable icon called Gideon's Bible. Toys played an important part in Halfworld society as entertainment for the Loonies. Without toys, the Loonies lapsed into a deep melancholy, so the animals made certain nothing interrupted production. Two otters formed the first toy factory, and upon their death it was taken over by the mole [[Judson Jakes (Earth-616)|Judson Jakes]], who established his headquarters in the Spacewheel space station built by the tortoise [[Pyko (Earth-616)|Uncle Pyko]]. Pyko designed toys, weapons, an army of robots clowns, and the bat-like Drakillers.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 9}}
+
+===Ranger Days===
+Jakes' first attempt to steal Gideon's Bible, decipher its secrets, and turn them to profit was stopped by the [[Bruce Banner (Earth-616)|Hulk]]. He had been transported to Halfworld by the energies released by the [[Galaxy Master (Earth-616)|Galaxy Master]] and was met by Rocket Raccoon and [[Wal Rus (Earth-616)|Wal Rus]]. The Hulk decided that he liked these two critters and helped defend them against a powerful tank called a Robomower. The three of them fled into Rocket's space ship the Rakk 'n' Ruin and blasted off.<!-- {{r|Incredible Hulk Vol 1 271}} -->
+
+Rocket Raccoon explained to the Hulk that Halfworld is threatened by an insidious mole named Judson Jakes. Jakes sought to acquire the fabled Gideon's Bible, which he believed will enable him to conquer not only Halfworld, but the entire Keystone Quadrant. The Hulk agreed to help Rocket and Wal Rus safeguard Gideon's Bible from Judson Jakes' clutches.<!-- {{r|Incredible Hulk Vol 1 271}} -->
+
+Rocket Raccoon flew to the Cuckoo's Nest, where he discovered that Judson Jakes has not only stolen Gideon's Bible, but he has also kidnapped Rocket's girlfriend [[Lylla (Earth-616)|Lylla]] as well. The three boarded the ship once again and headed towards Judson's satellite headquarters, the Spacewheel.<!-- {{r|Incredible Hulk Vol 1 271}} -->
+ 
+While Rocket Raccoon desperately searched for Lylla, the Hulk had an encounter with Judson's chief scientist Uncle Pyko. Pyko knows that the Hulk's prodigious strength would give the opposition a great advantage, so he convinces the Hulk to return home to [[Earth]]. He provided the Hulk with the means to teleport his body back to his homeworld. Rocket Raccoon meanwhile got the drop on Judson Jakes. Although he failed to recover Gideon's Bible, he did succeed in rescuing Lylla.{{r|Incredible Hulk Vol 1 271}}
+
+===Toy War===
+Jakes' "Mayhem Makaniks" encountered its first competition when the serpentine Lord Dyvyne organized "Dyvynities, Inc." and forced Jakes from Spacewheel. Jakes retreated underground and a Toy War ensued. Both coveted the otter Lylla, who was legal heir to the toy empire and romantically involved with Rocket Raccoon.{{r|Rocket Raccoon Vol 1 1}}
+
+[[File:Rocket Raccoon Vol 1 1.jpg|thumb|left]]
+
+Rocket Raccoon opposed Jakes and Dyvyne and tried to end the war. The two joined forces in a mutual attempt to kill him, even as Pyko joined Rocket. Pyko, Lylla, Rocket, and his first mate, Wal Russ, took Gideon's Bible to the robots and presented it to the Head Robot, who combined the information contained in the volume with the robots' advanced technology to create helmets that would cure the Loonies. The four animals distributed the helmets.{{r|Rocket Raccoon Vol 1 2}} A last assault by Jakes and Dyvyne was narrowly foiled by the animals, the robots, and the newly aware humanoids.{{r|Rocket Raccoon Vol 1 3}}
+
+The grateful humanoids began to plan the future, and offered Rocket, the other animals, and the robots positions as assistants and entertainers. Not interested in those roles, the animals and automatons entered Ship and launched an expedition to explore space and its many worlds.{{r|Rocket Raccoon Vol 1 4}}
+
+He was captured by the enigmatic alien, the [[Stranger (Cosmic Being) (Earth-616)|Stranger]], and were imprisoned in the Stranger's [[Labworld]] for the alien to study him. He remained there until freed by [[Grom (Earth-616)|Overmind]].{{r|Quasar Vol 1 15}}
+ 
+When Rocket stopped by the planet Dandesh Four to refuel his ship, he saw an alien [[D'bari (Race)|D'bari]] shapeshifting into a [[Baseline Xartans|Xartan]] and realized the Xartans were hiding from the [[Skrulls]] by posing as the extinguished D’bari. Because of this discovery, the D'bari started fighting him. Rocket was doing fine until the arrival of [[Taryn O'Connell (Earth-616)|Taryn O'Connell]], a member of the Ovoid race, and the trucker-turned-space explorer [[Buford Hollis (Earth-616)|Razorback]] distracted him and the D'bari [[Vuk (Earth-616)|Vuk]] used a petrifying gun on him.{{r|Sensational She-Hulk Vol 1 45}} When the planet was invaded by Skrulls, Vuk set his device to overload, threatening to petrify everything within 100,000 miles. This had the reverse effect on Rocket, who changed back to flesh and blood and got acquainted with [[Jennifer Walters (Earth-616)|She-Hulk]].{{r|Sensational She-Hulk Vol 1 46}}
+
+===Phalanx Invasion===
+Later, Rocket Raccoon was held prisoner by the [[Kree]] on the planet Aladon Prime. Rocket claimed he was framed for the charges put against him. On [[Aladon Prime]], he was introduced to [[Peter Quill (Earth-616)|Peter Quill]], the former Star-Lord, as one of the members of a strike commando team that Peter would lead against the Phalanx, who had taken over the Kree empire. The rest of the team included [[Bug (Insectivorid) (Earth-616)|Bug]], [[Sharra Neramani (Earth-616)|Deathcry]], [[Mantis (Brandt) (Earth-616)|Mantis]], [[Gabriel Vargas (Earth-616)|Captain Universe]], and [[Groot (Earth-616)|Groot]]. Rocket was presented as the master tactician and the heavy weapons expert of the group. Rocket instantly formed a bond with Groot.{{r|Annihilation: Conquest - Starlord Vol 1 1|2}}
+
+They were sent to Hala to destroy a bio-tech reproduction facility. They'd be attacked once in a while, but Rocket would prove to be a loyal and useful combatant and companion. They were soon attacked by the Phalanx. During the battle, Captain Universe killed Deathcry in an act of self defense, and Groot was killed as they were escaping. This saddened Rocket, as he considered Groot to be his "buddy" at this point.{{r|Annihilation: Conquest - Starlord Vol 1 2}}
+
+A couple days later, while waiting for Quill to get back from a reconnaissance mission, Groot caught up with the team again, but now he was only as big as a twig. Just then, Quill arrived with the news that the Phalanx had already released the virus as a airborne nanovirus - meaning that everyone on the planet are slowly becoming infected. Suddenly, the Phalanx came out of nowhere and attacked the team, and they were forced to flee. They fled out into the open streets of Hala. There, Rocket, Quill, Bug and tiny Groot were captured, while Mantis and Captain Universe evaded capture. Later, imprisoned, Rocket was debating with the team what the Phalanx were going to do them. Rocket was betting on dissection. Mantis and Captain Universe eventually were able to bust them out of their prison cells, and gain more information on the virus. They made their escape, but were engaged by Kree soldiers. The Kree soldiers immediately disobeyed the Phalanx's orders of preventing their escape when they found out they were firing at the legendary Star-Lord. They gave the team their ship, and Rocket piloted it out of Hala to another Kree world, Alon-Gin. After a few days of recuperation, Rocket, a normal sized Groot, a powerless Captain Universe, and the others came to Quill ready for the next mission.{{r|Annihilation: Conquest - Starlord Vol 1 3|4}}
+
+A few days later, Rocket and the crew were back on Hala taking part of an anti-Phalanx resistance, that Quill was secretly leading. Rocket's plan to get [[Blastaar (Earth-616)|Blastaar]] captured, tortured and killed by the Phalanx so that he could release spores inside the Babel Spire, the heart of the Phalanx's power, worked. Not long after, they entered the spire and started planting bombs around the place. Mantis then telepathically communicated to Rocket telling him that Quill had been captured and Captain Universe had been killed. He immediately came up with a plan with Groot that involved Mantis using her abilities to speed up Groot's growing abilities so that he could wrap himself around the spire. Once Groot had wrapped himself around the spire, Rocket, Mantis and Bug went to rescue Quill. They found the nearest balcony and jumped off it, as Groot detonated himself causing the entire spire to crumble. Back on the streets of Hala, they were attacked by the Phalanx's leader, [[Ultron (Earth-616)|Ultron]] (in the body of cosmic hero [[Adam Warlock (Earth-616)|Adam Warlock]]). Ultron attacked and subdued Mantis, but before he could attack the rest of the team, [[Richard Rider (Earth-616)|Nova Prime]], [[Gamora Zen Whoberi Ben Titan (Earth-7528)|Gamora]], and [[Arthur Douglas (Earth-616)|Drax the Destroyer]] came swooping in to save them. Quill's team's mission was now to get themselves out of the fight. Quill brought an unconscious Mantis while Rocket kept a tiny piece of Groot to plant later. They saw that the Phalanx were building another giant structure, which would turn out to be a giant version of Ultron. Before they had time to react, more cosmic powers arrived to defeat Ultron. [[Phyla-Vell (Earth-616)|Quasar]] and Adam Warlock finally managed to defeat Ultron, and the Kree empire was saved. Rocket saw to the regrowth of Groot after the battle.{{r|{{cl|Annihilation: Conquest Vol 1 2}}-[[Annihilation: Conquest Vol 1 6|6]]}}
+
+===Guardians of the Galaxy===
+Afterwards he joined Star-Lord's Guardians of the Galaxy, where he proved essential to holding the team together when Star-Lord's leadership was questioned.{{r|Guardians of the Galaxy Vol 2 1}} The presence of hidden [[Deviant Skrulls|Skrulls]] was revealed on their [[Knowhere]] base, eventually the Skrulls were revealed to be pacifists escaping from the [[Skrull Empire|Skrull Empire's]] religious [[Dard'van Sect (Earth-616)|Dard'van Sect]], Drax revealed to the rest of the team that he had overhead the truth of how the Guardians were formed; that Star-Lord had  had Mantis tamper with their minds to ensure the formation of the team, which led the team to break up and go their separate ways.{{r|Guardians of the Galaxy Vol 2 4|6}}
+
+[[File:Guardians of the Galaxy Vol 2 20 Textless.jpg|thumb|right]]
+
+===Return to Halfworld===
+After Star-Lord's supposed death, the Guardians disbanded and Rocket Raccoon got a job as a mail carrier for Timely Incorporated. After receiving a mysterious package filled with the same killer toy clowns from Halfworld, Rocket quit his job, taking one of the company's sentient shipping and packaging devices with him to quickly access an orbital weapons cache, and immediately set out to locate Groot. When the duo reached Halfworld, they were immediately fired upon and Rocket's ship was destroyed. After regaining his memories of the events that took place on Halfworld, and preventing the mind jumping Star Thief from merging with the organic core of Halfworld, Rocket and Groot vowed to continue to keep Star-Lord's Guardians alive.{{citation}}
+
+===Mojo TV===
+Rocket Raccoon and Groot are having a libation in a low-down dirty spacer bar in low-down dirty spacer space when they are accosted by a group of [[Badoon]] who attempt to arrest them for 'Crimes against the Royal Brotherhood'. A quick shootout ensues and Rocket creates an avenue of escape by shooting holes in the beer barrels causing the saloon patrons to stampede for the free beer. The duo make a hasty exit and are soon rocketing away when they find themselves pursued by Badoon Attack Cruisers. Rocket orders Groot to take evasive action while he goes to boost the stardrive to allow them to escape. He finds the stardrive compartment empty and the scene cuts to a shot of the surprised Rocket with a cliffhanger closing credits and [[Mojo (Mojoverse)|Mojo]] proclaiming "Best Pilot Episode Ever!".{{r|Annihilators: Earthfall Vol 1 1}}
+
+They then find themselves staring at an empty compartment where a stardrive should be and questioning why they are hearing voices like suddenly their lives just got a narrator or something. Their ship blows up and they appear in space in combat space armor bewildered at what just happened and how they got there. They target their [[Badoon]] attackers forcing one of the pilots to eject. They squeeze into his craft and it begins to plummet to an ice planet below. [[Mojo (Mojoverse)|Mojo]] calls for the scene to cut and hit the Bio-Stasis on his stars. He proceeds to plan for the next scene expecting to make enormous money on the show. In the background, Rocket's Timely Inc. Shipment Processing Device analyzes the situation and informs the duo they are caught up in an artificial dramatic construction. They blast through a wall realizing they are in a "Flarkin' TV Studio" and are confronted by a hologram of Mojo who opens fire with real weapons.{{r|Annihilators: Earthfall Vol 1 2}}
+
+Rocket Raccoon and Groot are transported to the [[Mojoverse]] by the inter-dimensional TV producer known as [[Mojo (Mojoverse)|Mojo]]. He has decided to use the pair in his latest reality television show. He recruits various criminals that the heroes have fought in the past. He places the pair in scenarios were they would have to battle them again, however if an innocent life form was caught in the crossfire, they would be killed in the process. {{r|Annihilators: Earthfall Vol 1 3}} As the duo moved from one scenario to another, Mojo began advertising action figures with a collection pack that allows buyers to assemble their own 12" Groot figure after collecting all five. The demand was so high, Mojo stand to make a fortune until the Timely Inc. Shipment Processing and Analysis Device decides to take control of the situation and holds a B-00-M Meson Beam Gun at Mojo's face. It allowed the reality system to stop just enough for the heroes to escape. They confront destroying Mojo who is revealed to be a robot controlled by [[Major Domo (Mojoverse)|Major Domo]]. In exchange for his life, Major Domo agreed to give Rocket and Groot a new starship along with weapons and riches to sweeten the deal.{{r|Annihilators: Earthfall Vol 1 4}}
+
+===Thanos' Return===
+The Guardians followed the returned [[Thanos (Earth-616)|Thanos]] to Earth, where he fought the [[Avengers (Earth-616)|Avengers]] alongside [[Zodiac (Thanos') (Earth-616)|his own Zodiac]]. When the Avengers returned to the [[Stark Tower]] after a battle, the Guardians of the Galaxy suddenly arrived, offering help.{{r|Avengers Assemble Vol 2 4}} The Guardians divulged that Earth was "off-limits" to all extraterrestrials, explaining Thanos used Earthbound-agents in amassing items of power, such as a man-crafted [[Cosmic Cube]]. The Guardians and the Avengers then embarked in a journey through space to find Thanos.{{r|Avengers Assemble Vol 2 5}}
+
+The heroes were attacked by the [[Badoon]], who were working for Thanos, after escaping a near-death experience. They managed to defeat their enemies and found themselves against an intense light, which revealed itself to be a massive Cosmic Cube floating in space at the heart of an astral ghost of Thanos.{{r|Avengers Assemble Vol 2 7}} Thor tried to defeat Thanos, but was apparently killed along his teammates and the Guardians. In reality, they were sent to the [[Earth-10011|Cancerverse]], where they found the [[Elders of the Universe (Earth-616)|Elders of the Universe]], supposedly killed by Thanos to impose his supremacy. There, Tony Stark found that Thanos' weapon wasn't actually a Cosmic Cube and that it had defects.{{r|Avengers Assemble Vol 2 6|8}}
+
+They bargained with the [[Taneleer Tivan (Earth-616)|Collector]]: in exchange for a weapon capable of deactivating the "Cube" and their safe return to Earth, the Avengers and the Guardians would let the Elders take care of Thanos. With the help of other members of the Avengers, Thanos was defeated and sent to punishment by the Elders. Due to his enormous help with the defeat of Thanos, Star-Lord personally offered [[Anthony Stark (Earth-616)|Iron Man]] a spot in his team, which he gladly accepted.{{r|Avengers Assemble Vol 2 8}}
+
+===[[Infinity Wars]]===
+During a meeting set up by [[Stephen Strange (Earth-616)|Doctor Strange]] to discuss what to do with the Infinity Stones, Gamora appeared{{r|Infinity Wars Vol 1 1}} and took possession of all the stones so she could reunite with the piece of her soul trapped in the Soul Stone{{r|Infinity Wars Vol 1 2}} and remake the universe. To prevent opposition, Gamora folded the universe in half, merged those halves together to form [[Warp World]], and placed it inside the Soul Stone.{{r|Infinity Wars Vol 1 3}} Rocket was hiding inside of Groot when this happened, and remained trapped there after Groot and Star-Lord were merged into the being called [[Pete (Warp World) (Earth-616)|Pete]]. Rocket was freed when Star-Lord and Groot were separated by Adam Warlock using the Infinity Stones. Rocket and his allies then fled from the Soul Stone through a portal, but had to leave Drax behind so he could keep the portal open.{{r|Infinity Wars Vol 1 6}}
+
+===[[Faithless]]===
+Rocket, Star-Lord, and Groot traveled together until Rocket discovered that the process that created him was reversing, causing him to slowly die. Not wanting his friends see his condition and wanting to die his own way, Rocket left for Halfworld without saying a word.{{r|Guardians of the Galaxy Vol 5 8}} He was watched over by Gamora, who intended to bury him after his death.{{r|Guardians of the Galaxy Vol 5 4}}
+
+When most of the Guardians of the Galaxy were captured by [[Earth-TRN666|an alternate future]] version of the [[Universal Church of Truth (Earth-TRN666)|Universal Church of Truth]] led by [[J'son (Earth-616)|J'son]], the remaining members Groot and [[Heather Douglas (Earth-18897)|Moondragon]] went to see Rocket and convince him to help.{{r|Guardians of the Galaxy Vol 5 7}} Rocket reluctantly agreed and revealed [[Rocket's Life-Support Mech Suit|a giant battlesuit]] he planned to use,{{r|Guardians of the Galaxy Vol 5 8}} that doubled as a life-support system. After convincing the young [[Magus (Earth-7528)|Magus]] to help them, Rocket and his ragtag group of Guardians attacked [[Cathedral (Vehicle)|the Church's flagship]], where they were confronted by [[Destroyer Horde (Earth-616)|a horde of Drax clones]] and then a large contingent of brainwashed cosmic heroes and villains. Rocket and his allies were quickly overwhelmed, and Rocket's battlesuit was destroyed by [[Beta Ray Bill (Earth-616)|Beta Ray Bill]]'s [[Stormbreaker]]. Thinking Rocket was dead, J'son sent the Guardians and Magus away. However, Rocket survived and was found by miniature clones of Groot.{{r|Guardians of the Galaxy Vol 5 9|11}}
+
+With a weapon provided by the miniature Groots Rocket managed to knock out the guards in the engine room and used his engineering skills to reverse the engines' polarity, gaining control of the targeting systems. Rockets' efforts freed his allies from the Church's captivity while also turning their apathy weapon against them. Rocket and his allies fled the Church's temple using Lockjaw's teleportation power before it traveled back to its native timeline, taking [[Arthur Douglas (Clone) (Earth-616)|a clone of Drax]] with them.{{r|Guardians of the Galaxy Vol 5 12}} In the following weeks, Rocket passed through many surgeries to save his life and the Guardians remained by his side until he was fully recovered.{{r|Guardians of the Galaxy Vol 6 1}}
+
+===Dark Olympians===
+When the Guardians of the Galaxy were approached by Nova for their assistance in stopping the conquering rampage of the [[Olympians]], who had been reborn as bloodthirsty rogue gods, many of the Guardians refused out of concern for the safety of each other. Star-Lord and Rocket were some of the members to sneak behind the others' back to help Nova.{{r|Guardians of the Galaxy Vol 6 1}} Although the mission was successful and the Dark Olympians were exiled to another dimension, Quill seemingly sacrificed himself to detonate the device that made it possible.{{r|Guardians of the Galaxy Vol 6 2}} Blaming Rocket for Peter's death, Gamora temporarily broke off the team with the Guardians that had stayed behind during the Dark Olympians mission.{{r|Guardians of the Galaxy Vol 6 3}} Thinking himself responsbile as well, Rocket took up heavy drinking.{{r|Guardians of the Galaxy Vol 6 7}}
+
+The Guardians were reunited with Star-Lord when he returned from the other-dimensional world of [[Morinus]], where he had spent a hundred of years of his life, albeit unaging, to herald the escape of the Dark Olympians from their imprisonment.{{r|Guardians of the Galaxy Vol 6 9}} Following the ultimate defeat of the Dark Olympians, the Guardians of the Galaxy were sanctioned by the [[Galactic Council (Earth-616)|Galactic Council]] as protectors of the cosmos in light of the increasing uncertainty of the galactic landscape, providing them with headquarters in the space station [[Proscenium]].{{r|Guardians of the Galaxy Vol 6 12}}
+
+| Powers                  = '''Raccoon Physiology:''' Rocket possesses the same enhanced abilities attributed to Earth [[Wikipedia:Raccoon|raccoons]], including an acute sense of smell and sharp eyesight.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 9}} A raccoon's brown coat mostly consists of dense underfur which insulates against cold weather.
+
+* '''Raccoon Senses:''' Being a raccoon, many of Rocket's senses are heightened to levels well above human. He’s able to see much better than the average human and is extremely well adapted to near dark conditions. His enhanced sense of smell allows him to detect subtle changes in scents around him, enabling him to detect the approach of others and increasing his ability to operate in darkness. With his broad auditory range, he can perceive tones outside the range of the human ear as well as subtle sounds caused by vibrations on the ground. His hyper sensitive paws allow him to identify objects before touching them with vibrissae located above his claws.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 9}}
+
+* '''Enhanced Intelligence:''' Rocket's cerebral cortex was genetically enhanced meaning that unlike other members of his species he has a cognitive and intellectual equivalent or superior ability to the most sensitive species in the galaxy. He can talk and communicate with other species, as well as perform extremely complex tasks. Rocket has an affinity for using and forging galactic artillery, piloting spacecrafts, and quickly devising strategies.
+
+* '''Enhanced Strength:''' Due to his augmentations, Rocket is much stronger than a normal Earth raccoon. He is able to physically overpower people many times his size, and carry a weight of artillery weapons that only the average sized humanoid can normally use.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 9}}
+
+* '''Enhanced Durability:''' Due to cybernetic implants, Rocket can survive damage that would normally be sufficient to kill an animal of his size, and injure a normal sized human.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 9}} He withstood getting thrown by Starhawk,{{Citation}} and being shot with energy blasts fired by powerful beings such as an Ultron-possessed Adam Warlock.{{r|Annihilation: Conquest Vol 1 6}}
+
+* '''Enhanced Agility:''' Rocket's entire skeletal structure is cybernetic, allowing him to move more like a human and still be as agile as a raccoon. He can avoid rapid gunfire and escape various prisons.
+
+* '''Enhanced Reflexes:''' Rocket is able to quickly respond to high intensity situations, such as piloting ships.
+| Abilities               = '''Expert Marksman:''' Rocket is well-versed in the use of high-powered firearms, from all over the galaxy.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 9}}
+
+'''Skilled Combatant:''' Rocket is a fair combatant as well as armed proficient fighter.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 9}}
+
+'''Accomplished Tactician and Strategist:''' He is an instinctive tactical genius, though relatively inexperienced in that field. However, Star-Lord once told him, "you got the best tactical mind I ever met."{{r|Guardians of the Galaxy Vol 2 1}} He able to formulate battle strategies with his brilliant tactical sense and allows him to alter many strategies to fit the changing need of the situation.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 9}}
+
+'''Pilot:''' Rocket is an accomplished starship pilot.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 9}}
+
+'''Demolitions Expert:''' One of the Skills that Rocket was considered to bring to the Guardians of the Galaxy team, was his demolition expertise which he displayed in the building of powerful explosive devices.{{r|Guardians of the Galaxy Vol 2 1}}
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = Rocket-powered jet boots.
+| Transportation          = 
+| Weapons                 = At least one laser pistols as well as other assorted heavy weapons.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 9}}
+
+| Notes                   = * [[Gamer's Handbook of the Marvel Universe Vol 1 3|''Gamer's Handbook of the Marvel Universe'' #3]] (1988) mentions, after the Toy Wars, Rocket Raccoon's encounter with Prince Wayfarer of Ithicon on the planet Hallaile to fight rogue animals and a witch, "the outcome of this conflict is unknown". This is apparently a reference to Rocket's appearance in [[Marvel Preview Vol 1 7|''Marvel Preview'' #7]]. However, the list of alternate Earths published in [[Official Handbook of the Marvel Universe A-Z Vol 1 2|'' Official Handbook of the Marvel Universe A-Z'' #2]] (2008) retcons that Wayfarer inhabits [[Earth-7614]]. The paragraph about Wayfarer in ''Gamer's Handbook'' is thus proven incorrect.
+| Trivia                  = * Rocket once attempted to make "Blam! I murdered you!" his catchphrase.{{r|Guardians of the Galaxy Vol 3 8}}
+* Star-Lord once told Rocket: "You got the best tactical mind I ever met."{{r|Guardians of the Galaxy Vol 2 1}}
+* Rocket is named after The Beatles song' [[Wikipedia:Rocky Raccoon|"Rocky Raccoon"]] (which incidentally is also his nickname). The title of his canon debut in {{cl|Incredible Hulk Vol 1 271}} is even a parody of the song's opening lyrics.
+* As seen in {{cl|Rocket Raccoon Vol 3 3}}-[[Rocket Raccoon Vol 3 4|4]], Rocket wears tighty whities.
+| Marvel                  = 
+| Wikipedia               = Rocket Raccoon
+| Links                   = 
+}}
+[[ru:Реактивный енот (616)]]
+[[Category:Superhuman Senses]]
+[[Category:Hyperosmia]]
+[[Category:Telescopic Vision]]
+[[Category:Night Vision]]
+[[Category:Hyperacusia]]
+[[Category:Hyperesthesia]]
+[[Category:Radar Sense]]
+[[Category:Weapons Expert]]
+[[Category:Symbiotes-possessed]]
+[[Category:Collector's Museum]]
+[[Category:Stranger Experiment]]
+[[Category:Strategists]]
+[[Category:Secret Wars (2015 Event) participants]]
+[[Category:Interdimensional Travelers]]
+[[Category:Fur]]
+[[Category:Tail]]
+[[Category:Infobox UnusualFeatures Update Needed]]
+[[Category:Genetically Engineered]]

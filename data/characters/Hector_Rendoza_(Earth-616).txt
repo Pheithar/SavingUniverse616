@@ -1,0 +1,64 @@
+{{Marvel Database:Character Template
+| Image                   = Hector Rendoza (Earth-616) from X-Men Earth's Mutant Heroes Vol 1 1.png
+| Name                    = Hector Rendoza 
+| CurrentAlias            = Wraith
+| Aliases                 =
+
+| Affiliation             = Formerly {{M|X-Men}} (Genoshan assault team)
+| Relatives               =
+| MaritalStatus           =
+
+| CharRef                 = {{cl|X-Men: Earth's Mutant Heroes #1}}
+| Gender                  = Male
+| Height                  = 5'6"
+| Weight                  = 120 lbs
+| Eyes                    = Blue
+| Hair                    = Brown
+| UnusualFeatures         = Transparent skin
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Boston]], [[Massachusetts (State)|Massachusetts]] 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Student
+| Education               =
+| BaseOfOperations        = Formerly [[Xavier's School for Gifted Youngsters|Xavier Institute]], [[Salem Center]], [[Westchester County]], [[New York (State)|New York]]
+
+| Creators                = Scott Lobdell; Salvador Larroca
+| First                   = Uncanny X-Men #392
+
+| History                 = He was on his way to a doctor when a mob attacked him because of his appearance. Fortunately, he was saved by [[Jean Grey (Earth-616)|Phoenix]].{{r|Uncanny X-Men #392}} Jean recruited Hector into a new team of [[X-Men (Earth-616)|X-Men]] she led to [[Genosha]] to rescue [[Charles Xavier (Earth-616)|Charles Xavier]], who had been kidnapped by [[Max Eisenhardt (Earth-616)|Magneto]]. On the way to Genosha, Jean gave Hector a telepathic crash course in using his powers and being an X-Man. During their fight with Magneto, Hector was able to transfer his invisibility field to Magneto, causing him sufficient disorientation for the others to complete the rescue of Xavier.{{r|X-Men Vol 2 #113}}
+
+Despite his pivotal role in the conflict, Hector left the X-Men, in hopes of discovering and learning his abilities on his own. 
+
+Hector lost his mutant powers during [[Decimation|M-Day]].{{r|New Avengers Vol 1 18}}
+
+| Powers                  =
+None, Rendoza is a depowered mutant.
+
+{{Navigation
+| title  = ''Former Powers'' 
+| body   = '''Invisibility Field''': Hector Rendoza's power was to generate a field of invisibility. Unfortunately, when it manifested, the field turned Hector's skin transparent, leaving his muscles, organs and bones showing through. Jean theorized that had his powers been allowed to evolve, he would have been able to render himself and others completely invisible.
+
+*'''''Transference''''': Hector could transfer this field via touch, returning him to normal while disrupting his opponent.
+}}
+
+| Abilities               =
+| Strength                = Human
+| Weaknesses              =
+
+| Equipment               =
+| Transportation          =
+| Weapons                 =
+
+| Notes                   =
+| Trivia                  =
+| Marvel                  =
+| Wikipedia               =
+| Links                   =
+}}
+[[Category:Depowered Mutants]]
+[[Category:Invisibility]]
+[[Category:M-Day Depowered]]

@@ -1,0 +1,48 @@
+{{Marvel Database:Character Template
+| Image                   = Grange_Janssen_(Earth-616)_from_X-Men_Unlimited_Vol_1_14_0001.jpg
+| Name                    = Grange Janssen
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Terry Kavanagh;
+| First                   = X-Men Unlimited #14
+
+| History                 = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

@@ -1,0 +1,67 @@
+{{Marvel Database:Character Template
+| Image                   = Sidney Levine (Earth-616) from Marvel Fanfare Vol 1 16 0001.jpg
+| Name                    = [[Sidney Levine|Sidney E. Levine]]
+| CurrentAlias            = [[Gaffer]]
+| Aliases                 = 
+
+| Affiliation             = {{m|Hydra}}; {{M|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}, formerly the {{M|Sky-Wolves (Earth-616)|Sky-Wolves}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Grey
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] and [[Hydra (Earth-616)|Hydra]] scientist, former Hollywood special effects technician
+| Education               = 
+| BaseOfOperations        = [[Gehenna]], [[New Zealand]]; formerly [[Europe]] circa [[World War II]]
+
+| Creators                = Jim Steranko;
+| First                   = Strange Tales #159
+
+| History                 = 
+===[[WWII]] ===
+As part of the [[Sky-Wolves (Earth-616)|Sky-Wolves]], a [[WWII]] aerial combat team that was funded by industrialist [[Matt Slade Jr. (Earth-616)|Matt Slade Jr.]], Levine flew modified F5U jets against the Nazis just prior to the United States entering the war. Levine flew Flapjack #2 which was the only plane equipped with a holo-projector.{{r|Marvel Fanfare #16}}
+
+===[[Hollywood]]===
+Disarming with his habit of calling everyone 'boychik', Levine, worked as a Hollywood special effects man in addition to being a scientist and expert in computers and robotics prior to joining S.H.I.E.L.D.{{r|Strange Tales #159}}
+
+===[[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]]===
+Levine eventually headed up the "gadget" division at [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] and was responsible for designing many of Fury's most innovative equipment, including later versions of his hover car and a motorbike patterned after Fury's hover car. Levine's vast knowledge afforded him pulling double duty as chief scientist, medical officer or engineer, depending on Fury and S.H.I.E.L.D.'s needs at the moment. His infectious enthusiasm and amazing skills earned Levine the nickname of "Gaff" from an impressed Nick Fury. Among his inventions, Levine devised the transcontinental contra-energy transverser, and a motorbike with hover and stealth abilities.{{r|Strange Tales #167}}
+
+Levine was aboard the helicarrier when it was taken over by the [[Bi-Beast (Original) (Earth-616)|Bi-Beast]], and was instrumental in trying to rid the carrier of its hijacker, bringing the [[Bruce Banner (Earth-616)|Hulk]] aboard with the carrier's vortex beam.{{r|Incredible Hulk #216}}
+
+Levine was among the first to fall prey to the [[Deltite]] LMD, adding Levine's profile in order to gain more knowledge on how to use S.H.I.E.L.D.'s technology to improve its plans. Levine's knowledge and prior experience with not only Life Model Decoys, but more highly advanced human replicas such as the android [[Wolfgang von Strucker (Earth-616)|Baron Von Strucker]] created by [[Samuel Saxon (Earth-616)|Machinesmith]], helped the Deltite LMD to pioneer the second generation of Life Model Decoy, using human genetic material and memory emgrams stored in the ESP division.{{r|Nick Fury vs. S.H.I.E.L.D. #1|6}}
+
+Its therefore unclear how long Levine was placed in stasis and when his Delta LMD was first integrated into S.H.I.E.L.D.. The Deltan Levine was already replaced when Fury was recovering the power core of the downed helicarrier, and had in fact ordered two agents to break open the core as a ways of distracting Nick Fury from plans that were underway with project Delta. the Deltan Levine was on hand during the [[Hydra (Earth-616)|Hydra]] attack on the helicarrier crash site, making it easier to acquire [[Clay Quartermain (Earth-616)|Clay Quartermain]].{{r|Nick Fury vs. S.H.I.E.L.D. #1|6}}
+
+Levine was thought to have died along with countless other agents aboard the S.H.I.E.L.D. satellite but he was later revived and brain washed into a Hydra agent as part of Baron Von Strucker's final gambit against Nick Fury.{{r|Nick Fury, Agent of S.H.I.E.L.D. Vol 3 #44}} He later helped to solve the computer malfunctions aboard the helicarrier caused by the evil spirit [[Ogun (Ninja) (Earth-616)|Ogun]].{{r|Kitty Pryde: Agent of S.H.I.E.L.D. #1}}
+
+===Civil War===
+Levine continued to work for S.H.I.E.L.D. after Nick Fury's [[Secret War]] and the appointing of [[Anthony Stark (Earth-616)|Tony Stark]] as director of S.H.I.E.L.D.. Levine was working with Clay Quartermain and [[Jennifer Walters (Earth-616)|She-Hulk]] in the wake of the passage of the [[Superhuman Registration Act]].{{r|Iron Man: Director of S.H.I.E.L.D. Annual #1}}
+
+===Hydra===
+In the wake of S.H.I.E.L.D.'s disassembly after the [[Secret Invasion]], Nick Fury found information that Levine had been reassigned to [[Gehenna]], a Hydra base in [[New Zealand]], and was listed as a trusted agent among S.H.I.E.L.D. by Hydra.{{r|Secret Warriors #1}}
+
+| Powers                  = 
+| Abilities               = Levine's vast knowledge in the sciences, as well as medical  and engineering fields make him one of S.H.I.E.L.D.'s most valuable scientists, responisble for creating some their most innovative devices. He was also a very talented Hollywood special effects designer before joining the [[Sky-Wolves (Earth-616)|Sky-Wolves]]. He is also a capable pilot and has been trained in the use of firearms.
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = As one of the chief designers of S.H.I.E.L.D. technology, Levine has access to some of the most sophisticated equipment on the planet.
+| Transportation          = [[S.H.I.E.L.D. Helicarrier]], formerly [[XF5U-2]] Flapjack aircraft
+| Weapons                 = Levine has access to the sophisticated arsenal of S.H.I.E.L.D. as needed.
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

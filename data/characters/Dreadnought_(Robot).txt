@@ -1,0 +1,68 @@
+{{Marvel Database:Item Template
+| Image                   = Dreadnought (Robot) from Captain America Sam Wilson Vol 1 23 001.png
+| Name                = Dreadnought
+| Aliases                 = 
+| Model                   = 2
+| Version                 = 2
+
+| Universe                = Earth-616
+| LeadDesigner            = {{m|Hydra (Earth-616)|Hydra}}
+| AdditionalDesigners     = [[Ezekiel Stane (Earth-616)|Ezekiel Stane]], {{m|Maggia (Earth-616)|Maggia}}
+| PlaceOfCreation         = 
+| PlaceOfDestruction      = 
+| Origin                  = The Dreadnought was a robot created by the subversive organization HYDRA for use in various commando operations. 
+| Type                    = Robot
+
+| Dimensions              = 8' 0"
+| Weight                  = 2,200 lbs (1000 kg)
+| Creators                = Jim Steranko; 
+| First                   = Strange Tales Vol 1 154
+
+| HistoryText             = The Dreadnought was a robot created by [[Hydra (Earth-616)|Hydra]]. It was first used in an attempt to breach the [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] [[S.H.I.E.L.D. Helicarrier|Helicarrier]] and assassinate director [[Nicholas Fury (Earth-616)|Nick Fury]]. Thankfully, an arsenal of miniaturized weapons and tools disguised as personal items by his "tailor" [[Desmond Boothroyd (Earth-616)|Boothroyd]] allowed Fury to not only survive the robot's series of attacks but ultimately destroy it with an EMP device (disguised as a ring) dropped down inside the Dreadnought's chassis.{{r|Strange Tales Vol 1 154}}
+
+The Dreadnought's remains were apparently salvaged and repaired by Hydra at some point afterwards, as it later reappeared during [[Silvio Manfredi (Earth-616)|Silvermane]]'s ill-fated stint as Supreme Hydra, serving as the head of Hydra's heavy weapons division.  The Dreadnought successfully kidnapped [[Franklin Nelson (Earth-616)|Foggy Nelson]], a candidate for S.H.I.E.L.D.'s proposed oversight committee, but ultimately was destroyed again, that time by the [[Natalia Romanova (Earth-616)|Black Widow]].{{r|Daredevil Vol 1 121|123}}
+
+Later the design and specifications for it were sold to the criminal cartel, [[Maggia (Earth-616)|The Maggia]].{{r|Iron Man Vol 1 138}} Maggia made at least two advanced Dreadnought models ([[Dreadnought advanced model MK I (Earth-616)|MK I]] & [[Dreadnought advanced model MK II (Earth-616)|MK II]]) that proved inefficient in combat with Iron Man.{{r|Iron Man Vol 1 139}}
+
+[[Radically Advanced Ideas in Destruction (Earth-616)|R.A.I.D.]] later smuggled a disassembled upgraded version of a Dreadnought into [[London (England)|London]] as part of their terrorist attack against that city. Once the robot was reassembled, it went on a rampage in Trafalgar Square. It was defeated by an ad hoc team of superheroes led by [[Joseph Chapman (Earth-616)|Union Jack]] who took advantage of a vulnerability in the new design, puncturing a large canister of liquid nitrogen, encasing the robot in ice.{{r|Union Jack Vol 2 4}}
+
+More recently, a new model of Dreadnoughts was built by [[Ezekiel Stane (Earth-616)|Ezekiel Stane]], and used by [[Mandarin (Earth-616)|Mandarin]] to attack the Three Gorges Dam in China.{{r|Invincible Iron Man Vol 1 513}}
+
+After Hydra took over the United States, they implemented a new kind of Dreadnought that utilized technology used in the [[Super-Adaptoid (Earth-616)|Super-Adaptoid]] that allowed it to adapt to the powers of superhumans. Dreadnoughts hunted down any superhumans that didn't join Hydra.{{r|Secret Empire Vol 1 1}}
+
+==Abilities==
+* Practical reaction time is about two times as fast as an average human being, and it is capable of moving its arms 70 feet per second (about 50 miles per hour) and its entire body at a maximum speed of 35 miles per hour. 
+* Capable of operating at peak capacity for up to 4.5 hours before metal fatigue and motor circuitry failure may impair its functions. 
+* Has a computer-aided laser interferometry guidance system that can be telemetrically overridden by its creators and a stand-alone personality-simulation program of 330 kilo-bites of information. 
+* Has been programmed to fight like an American boxer.
+* Powered by a portable fusion generator, the Dreadnought possesses great strength, able to lift (press) about 10 tons or smash its way through a six-inch thick steel plate.
+* Hydra recently created a Dreadnought that used technology found in the Super-Adaptoid to adapt to the powers of superhumans.
+
+==Weapons==
+* Gauntlets - has nozzles that shoot hydrazine and liquid oxygen like a flamethrower. Its average temperature is about 6,000 degrees Fahrenheit (sufficient to boil iron) and its range is about twenty feet. 
+* Each gauntlet has enough fuel to shoot flames for 3.2 minutes. 
+* Dreadnought's knuckles are studded with spikes which can be shot from his hand like a .30 caliber rifle bullets. Each of the 8 spikes can be fired independently and has a range of 1,200 feet. 
+* Ear modules generate a powerful electrical charge (approximately 100,000 volts (enough to instantly kill a human being)) throughout its metallic body. Although it cannot project electrical bolts, it can send its electrical charge through any conducting medium it touches.
+
+[[File:Dreadnought (Robot) from Iron Man Vol 1 139 001.jpg|thumb|right|Advanced models]]
+* Behind Dreadnought's eyes are gamma ray particle projectors capable of emitting 750 millirems of radiation. 
+* Mouth is connected to a tank of refrigerated Freon gas (-170 f) which it can vent through its mouth to a maximum distance of 10 feet. The gas instantly freezes anything it comes in contact with. The Dreadnought has enough Freon gas for one 15 second discharge.
+* Maggia developed advanced models of Dreadnought with other features, such as a Treadwell motion system.
+{{Clear}}
+==[[Multiverse|Alternate Reality Versions]]==
+===Wolverine and the X-Men & Avengers: EMH! ([[Earth-8096]])===
+[[File:Dreadnought (Robot) from Avengers Micro Episodes Iron Man Season 1 1 001.jpg|thumb|right]]
+The Dreadnoughts were [[Hydra (Earth-8096)|Hydra]]'s battle androids. Their technology were based from Stark Industries tech which angers Iron Man.{{r|Avengers Micro Episodes: Iron Man Season 1 1}}
+{{Clear}}
+===2010s Marvel Animated Universe ([[Earth-12041]])===
+The Dreadnoughts were [[Hydra (Earth-12041)|Hydra]]'s battle androids. Their technology was based from Stark Industries tech, which angered [[Anthony Stark (Earth-12041)|Iron Man]].{{citation}}
+
+| CurrentOwner            = [[Hydra (Earth-616)|Hydra]]
+| PreviousOwners          = [[Maggia (Earth-616)|Maggia]]; [[Radically Advanced Ideas in Destruction (Earth-616)|R.A.I.D.]]; [[Mandarin (Earth-616)|Mandarin]]
+
+| Notes                   = * Is an articulated humanoid form which can simulate the complete range of human movement. 
+| Trivia                  = 
+| Links                   = * {{cl|Official Handbook of the Marvel Universe Vol 2 4}} (March 1986)
+* [[S.H.I.E.L.D. Dreadnoughts]]
+}}
+[[Category:Italian Technology]]

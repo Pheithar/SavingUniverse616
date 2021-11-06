@@ -1,0 +1,47 @@
+{{Marvel Database:Team Template
+| Image                   = Upstarts (Earth-616) from X-Men 1992 Trading Cards 0001.jpg
+| ImageSize               = 300
+| Name                    = [[Upstarts]]
+| Aliases                 = 
+
+| Status                  = Defunct
+| Identity                = Secret
+
+| Reality                 = Earth-616
+| BaseOfOperations        = 
+
+| Leaders                 = Formerly [[Selene Gallio (Earth-616)|Selene]], [[Gamesmaster (Earth-616)|Gamesmaster]] (creators), [[Shinobi Shaw (Earth-616)|Shinobi Shaw]] (team leaders)
+| FormerMembers           = [[Fabian Cortez (Earth-616)|Fabian Cortez]], [[Shinobi Shaw (Earth-616)|Shinobi Shaw]], [[Siena Blaze (Earth-616)|Siena Blaze]], [[Trevor Fitzroy (Earth-1191)|Trevor Fitzroy]], [[Fenris (Earth-616)|Fenris]] ([[Andreas von Strucker (Earth-616)|Andreas von Strucker]] and [[Andrea von Strucker (Earth-616)|Andrea von Strucker]]) (probational members), [[Graydon Creed (Earth-616)|Graydon Creed]]
+
+| Allies                  = 
+| Enemies                 = [[Hellfire Club (Earth-616)|Inner Circle members]], [[Moira MacTaggert (Earth-TRN748)|Moira MacTaggert]], [[New Mutants (Earth-616)|New Mutants]], [[Hellions (Earth-616)|Hellions]], [[New Warriors (Earth-616)|New Warriors]], [[X-Force (Earth-616)|X-Force]].
+
+| Origin                  = A kill-mutants game organized by [[Selene Gallio (Earth-616)|Selene]] and [[Gamesmaster (Earth-616)|Gamesmaster]]
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = John Byrne; Jim Lee; Whilce Portacio
+| First                   = Uncanny X-Men Vol 1 281
+| Last                    = Uncanny X-Men Vol 5 21
+
+| HistoryText             = The Upstarts were part of a secret competition founded by [[Selene Gallio (Earth-616)|Selene]], the Black Queen of the [[Hellfire Club (Earth-616)|Hellfire Club]], who wanted to test potential members for her own Inner Circle. Overseen by the [[Gamesmaster (Earth-616)|Gamesmaster]], the Upstarts would each try to kill as many mutants as possible and the Gamesmaster would award points based on the mutant's power, skills, and general significance in the world. At times he would raise the value of certain mutants so that the Upstarts would all try to assassinate them. At other times Gamesmaster would also reward the death of non-mutants. To gain entry to the Upstarts competition the requirement was to kill a member of the Inner Circle of the Hellfire Club, but later members were not required to do so; usually the Gamesmaster claimed that their participation would make the game more interesting. The member with the most points at the end of the competition would win "the prize". It was never explicitly stated what the prize was (though a statement by [[Andrea Strucker (Earth-616)|Andrea Strucker]] in [[X-Men Vol 2 4|X-Men #4]] and a notation on the back of the Upstarts' X-Men Series I trading card state that the prize was immortality), but it was inferred that the winner would gain control over the other contestants as well as gain a lot of power and influence.{{Citation}}
+
+[[Shinobi Shaw (Earth-616)|Shinobi Shaw]] took the early lead by killing his father [[Sebastian Shaw (Earth-616)|Sebastian Shaw]]. He celebrated with a group of contestants who were never seen again afterward. The time-traveler [[Trevor Fitzroy (Earth-1191)|Trevor Fitzroy]] gained membership with the deaths of [[Donald Pierce (Earth-616)|Donald Pierce]] and the [[Reavers (Earth-616)|Reavers]]. He demanded the ring that signified leadership of the Upstarts from Shaw, but Shaw refused, claiming that he still had more points. Fitzroy would go on to kill the [[Hellions (Earth-616)|Hellions]], but [[Fabian Cortez (Earth-616)|Fabian Cortez]] applied for membership and immediately took first place in the competition for the death of [[Max Eisenhardt (Earth-616)|Magneto]].{{Citation}}
+
+The German twins [[Fenris (Earth-616)|Fenris]] tried to join the competition and gain an advantage by resurrecting [[Arkady Gregorivich (Earth-616)|Omega Red]]. Their plan failed though and they named only probational members by the Gamesmaster. [[Graydon Creed (Earth-616)|Graydon Creed]] joined as well, using the moniker Tribune, and despite not succeeding killing anyone, the Gamesmaster gave him full membership. Trevor Fitzroy had met a woman in the future, named [[Siena Blaze (Earth-616)|Sienna Blaze]], who had told him where she would be one day. Fitzroy knew that Blaze had incredible mutant powers and told her that the Gamesmaster invited her to join the Upstarts.{{Citation}}
+
+Over the next few months, the Upstarts would try to kill as many mutants and other important people (like [[Moira MacTaggert (Earth-TRN748)|Moira MacTaggert)]] as possible, but with no success. In an attempt to reinvigorate the competition, the Gamesmaster started the [[Younghunt]]: the new targets were all surviving members of the [[New Mutants (Earth-616)|New Mutants]] and Hellions. Instead of killing them, the Gamesmaster demanded that they should capture the targets. This competition brought the Upstarts into conflict with the [[New Warriors (Earth-616)|New Warriors]] and [[X-Force (Earth-616)|X-Force]]. At the end of the game, the Upstarts had captured most of their targets, but [[Paige Guthrie (Earth-616)|Paige Guthrie]] convinced the Gamesmaster to play another game: instead of killing mutants, the Upstarts should try to find and train young mutants like herself. The Gamesmaster was intrigued and canceled the competition. The Upstarts disbanded shortly afterward.{{Citation}}
+
+Years later the Upstarts resurfaced to start the game that they created long ago. They killed members of the [[Nasty Boys (Earth-616)|Nasty Boys]] in order to lure out [[Scott Summers (Earth-616)|Cyclops]] and his ragtag team of [[X-Men (Earth-616)|X-Men]] to [[Washington Heights]]. After a brief moment of words, the two groups engaged each other in battle. The X-Men gained the upperhand as the Upstarts retreated but Shinobi was left behind. Not wanting to get captured, Shaw mentioned that he wasn't going to be controlled by the Hellfire Club so he phased his hand into head and then solidified it resulting in his death.{{r|Uncanny X-Men Vol 5 20}}
+
+It is revealed that the remaining members had been captured by [[Office of National Emergency (Earth-616)|O*N*E]], which eventually led to the deaths of [[Siena Blaze (Earth-616)|Siena Blaze]] and [[Trevor Fitzroy (Earth-1191)|Trevor Fitzroy]]. This led to the team's disbandment.{{r|Uncanny X-Men Vol 5 21}}
+
+
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

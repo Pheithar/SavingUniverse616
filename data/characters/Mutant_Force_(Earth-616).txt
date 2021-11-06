@@ -1,0 +1,39 @@
+{{Marvel Database:Team Template
+| Image                   = Mutant Force (Earth-616) from Defenders Vol 1 130 001.jpg
+| Name                    = Mutant Force
+| Aliases                 = [[Resistants (Earth-616)|Resistants]], [[Brotherhood of Evil Mutants (Earth-616)|Brotherhood of Evil Mutants]]
+
+| Status                  = Defunct
+| Identity                = Secret
+| Reality                 = Earth-616
+| BaseOfOperations        = 
+
+| Leaders                 = formerly [[Max Eisenhardt (Earth-616)|Magneto]], [[Jerome Beechman (Earth-616)|Mandrill]]
+| CurrentMembers          = 
+| FormerMembers           = [[Byron Calley (Earth-616)|Burner]], [[Aaron Salomon (Earth-616)|Slither]], [[Peter Quinn (Earth-616)|Peeper]], [[Randall Darby (Earth-616)|Shocker]], [[Ned Lathrop (Earth-616)|Lifter]]
+| Allies                  = {{m|Secret Empire}}
+| Enemies                 = [[Steven Rogers (Earth-616)|Captain America]], [[Carol Danvers (Earth-616)|Captain Marvel]], [[Defenders (Earth-616)|Defenders]], [[New Warriors (Earth-616)|New Warriors]]
+
+| Origin                  = Formerly organized by Magneto as a new Brotherhood of Evil Mutants, later they reorganized themselves as Mutant Force 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Jack Kirby
+| First                   = Captain America Annual Vol 1 4
+| Last                    = Captain Marvel Vol 9 9
+
+| HistoryText             = [[Byron Calley (Earth-616)|Burner]], [[Ned Lathrop (Earth-616)|Lifter]], [[Aaron Salomon (Earth-616)|Slither]], [[Peter Quinn (Earth-616)|Peeper]], and [[Randall Darby (Earth-616)|Shocker]] were originally part of a new [[Brotherhood of Evil Mutants (Earth-616)|Brotherhood of Evil Mutants]] led by [[Max Eisenhardt (Earth-616)|Magneto (Magnus)]].{{r|Captain America Annual Vol 1 4}}
+
+He quickly abandoned them, but the team reorganized into Mutant Force under the [[Jerome Beechman (Earth-616)|Mandrill]].{{r|Defenders #77|78}} Still later, they were employed by the [[Secret Empire (Earth-616)|Secret Empire]] under the leadership of [[Robert Baxter (Earth-616)|Mad-Dog]].{{r|Defenders #125}}
+
+Members of the team re-surfaced later as members of the [[Resistants (Earth-616)|Resistants]].{{r|Captain America Vol 1 343}}
+
+The original five seemed to return to being Mutant Force but were easily apprehended by the [[New Warriors (Earth-616)|New Warriors]].{{r|New Warriors Vol 2 6}} [[Randall Darby (Earth-616)|Shocker]] was later seen in [[Genosha]]. It was presumed that most of the Mutant Force were depowered in the event known as the [[Decimation]]. [[Peter Quinn (Earth-616)|Peeper]] came through it with his powers intact but was killed soon afterward. The rest of the team later resurfaced, their powers also intact, and fought [[Alpha Flight (Space Program) (Earth-616)|Alpha Flight]].{{r|Captain Marvel Vol 9 9}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * [http://www.marvunapp.com/Appendix3/mutantforceboem.html Marvel Appendix entry]
+}}

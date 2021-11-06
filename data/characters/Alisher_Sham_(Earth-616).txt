@@ -1,0 +1,57 @@
+{{Marvel Database:Character Template
+| Image                   = Alisher Sham (Earth-616) from Official Handbook of the Marvel Universe A-Z Update Vol 1 2 0001.jpg
+| Name                    = Alisher Sham
+| Name2                   = {{r|Official Handbook of the Marvel Universe A-Z Update #2}}
+| CurrentAlias            = Skeleton Ki
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = [[Official Handbook of the Marvel Universe A-Z Update Vol 1 2|Official Handbook of the Marvel Universe A-Z Update #2]]
+| Gender                  = Male
+| Height                  = 5'9"
+| Weight                  = 170 lbs
+| Eyes                    = Grey
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = Uzbekistani
+| Occupation              = Mercenary
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Joey Cavalieri; Dave Hoover
+| First                   = Marvel Comics Presents #125
+| Death                   = Guardians of the Galaxy Vol 2 10
+| Death2                  = {{g|Off-panel}}
+
+| History                 = With the ability to open any lock, Skeleton Ki is a master thief. He was hired to steal the [[Anomaly]] from the [[Rand Corporation (Earth-616)|Rand Corporation]], but was captured as he tried to escape by [[Daniel Rand (Earth-616)|Iron Fist]].{{r|Marvel Comics Presents Vol 1 125}}.
+
+After an Earthquake caused by [[Advanced Idea Mechanics (Earth-616)|A.I.M.]] he escaped.{{r|Marvel Comics Presents Vol 1 126}}
+
+Sometime later, he was imprisoned in the [[Negative Zone]], where he opened the doors to allow [[Blastaar (Earth-616)|Blastaar]] in in return for saving himself. After Blastaar took over the prison, he ordered Skeleton Ki to open the locked portal in the prison which led to the [[Baxter Building]], and that his life depended on it. However, the [[Guardians of the Galaxy (Earth-616)|Guardians of the Galaxy]] warned [[Reed Richards (Earth-616)|Mister Fantastic]] and they shut down the portal. Blastaar seemingly killed Skeleton Ki as a result.{{r|Guardians of the Galaxy Vol 2 10}}
+
+| Powers                  =
+
+| Abilities               = Capable of opening any locked door.
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = * Skeleton Ki was one of the candidates on [[Steven Rogers (Earth-616)|Steve Rogers]]' list of supervillains to enroll in [[Luke Cage (Earth-616)|Luke Cage]]'s [[Thunderbolts (Earth-616)|Thunderbolts]] roster{{r|Heroic Age: Villains #1}}.
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

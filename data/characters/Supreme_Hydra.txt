@@ -1,0 +1,37 @@
+{{DisambiguationFull
+| Main Character = [[Steve Rogers|Hydra Supreme / Supreme Leader<br>(Steve Rogers)]]; Secret Empire Vol 1 10 Unknown Comic Books Exclusive Virgin Variant.jpg
+| description    = 
+
+{{Portal 
+| Image Size     = 200px
+| Box1 Image     = Supreme Hydra (Japanese) (Earth-616) Capt. Savage and his Leatherneck Raiders Vol 1 4.jpg
+| Box1 Text      = [[Supreme Hydra (Japanese) (Earth-616)|Original Supreme Hydra]]<br>{{Deceased}}
+| Box2 Image     = Otto Vermis (Earth-616) from Marvel Spotlight Vol 1 32 0001.jpg
+| Box2 Text      = [[Otto Vermis]]<br>{{Deceased}}
+}}
+
+{{Portal
+| Image Size     = 200px
+| Box1 Image     = Wolfgang von Strucker (Earth-616) from Secret Warriors Vol 1 5 001.jpg
+| Box1 Text      = [[Baron von Strucker|Baron Wolfgang von Strucker]]
+| Box2 Image     = Tomi Shishido (Earth-616) from Secret Warriors Vol 1 2.png
+| Box2 Text      = [[Tomi Shishido (Earth-616)|Tomi Shishido]]<br>{{g|Currently [[Gorgon]]}}
+}}
+
+| Others1        = [[Ophelia Sarkissian]]; Ophelia Sarkissian (Earth-616) from All-New X-Men Vol 1 13.jpg
+| Others2        = [[Supreme Hydra (American) (Earth-616)|American Supreme Hydra]]; Supreme Hydra (American) (Earth-616) from Incredible Hulk Vol 1 132 001.jpg
+| Others3        = [[Arnold Brown (Earth-616)|Arnold Brown]]; Arnold Brown (Earth-616) from Official Handbook of the Marvel Universe Vol 2 18 001.jpg
+| Others4        = [[Deltite (Earth-616)|Deltite]]; Deltite (Earth-616) from Nick Fury vs. S.H.I.E.L.D. Vol 1 4 001.jpg
+| Others5        = [[Edgar Lascombe (Earth-616)|Edgar Lascombe]]; Edgar Lascombe (Earth-616) from Amazing Spider-Man Vol 1 520 001.jpg
+| Others6        = [[Supreme Hydra (Freehold) (Earth-616)|Freehold Invader Supreme Hydra]]; Supreme Hydra (Freehold) (Earth-616) from Incredible Hulk Vol 1 400 001.jpg
+| Others7        = [[Richard Fisk (Earth-616)|Richard Fisk]]; Richard Fisk (Earth-616) from Web of Spider-Man Annual Vol 1 3 001.jpg
+| Others8        = [[Silvio Manfredi (Earth-616)|Silvio Manfredi]]; Silvio Manfredi (Earth-616) from Official Handbook of the Marvel Universe Vol 2 12 001.jpg
+| Others9        = [[Steve Perry (Earth-8107)|Steve Perry]]; Steve Perry (Earth-8107) from Incredible Hulk (1982 animated series) Season 1 11 002.jpg
+| Others10       = [[Alexander Luthor (Earth-9602)|Lex Luthor]]; Alexander Luthor (Earth-9602) from Super Soldier Vol 1 1 0001.jpg
+| Others11       = [[Selina Luthor (Earth-9602)|Selina Kyle]]; Selina Luthor (Earth-9602) from Amalgam Comics (Trading Cards) 0001.jpg
+| Others12       = [[Bob Dobalina (Earth-71246)|Bob Dobalina]]; Bob Dobalina (Earth-71246) from Cable & Deadpool Vol 1 46 0001.jpg
+| Others13       = [[Heinrich Zemo (Earth-77105)|Baron Heinrich Zemo]]; Heinrich Zemo (Earth-77105) from What If? Vol 1 5 001.jpg
+
+| Related1       = [[Madame Hydra]]; Ophelia Sarkissian (Earth-616) by Thony Silas 001.jpg
+| Related2       = [[Sensational Hydra (Earth-616)|Sensational Hydra]]; Sn'Tlo (Earth-616) from Captain America Vol 3 3 001.jpg
+}}

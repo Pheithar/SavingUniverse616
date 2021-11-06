@@ -1,0 +1,69 @@
+{{Marvel Database:Character Template
+| Image                   = James Santini (Earth-616) from Avengers The Initiative Featuring Reptil Vol 1 1 0001.jpg
+| Name                    = [[James Santini|James "Jimmy" Santini]]
+| CurrentAlias            = [[Batwing]]
+| Aliases                 = Bat-Boy{{r|Avengers: The Initiative Vol 1 13}}
+
+| Affiliation             = {{m|Batwing and Butterball's Team (Earth-616)|his own team}} (partner of [[Emery Schaub (Earth-616)|Butterball]]); formerly {{m|Avengers Academy}}; {{m|50-State Initiative (Earth-616)|Initiative}}, {{m|Shadow Initiative}}
+| Relatives               = [[Antonio Santini (Earth-616)|Dr. Antonio Santini]] (father, deceased);<br>
+[[Carlotta Santini (Earth-616)|Carlotta Santini]] (mother)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #1}}
+| Gender                  = Male
+| Height                  = 5'6" (currently); 4'2" (as Batwing)
+| Weight                  = 145 lbs (currently); 100 lbs (as Batwing)
+| Eyes                    = Green (human); Red as Batwing)
+| Hair                    = Brown
+| UnusualSkinColor        = Grey
+| UnusualFeatures         = Bat wings, ears, claws, and fangs
+
+| Origin                  = [[Homo sapiens|Human]] [[Glossary:Mutate|mutated]] by chemicals
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Santa Fe]], [[New Mexico (State)|New Mexico]], [[United States of America]]
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = Student
+| Education               = High school
+| BaseOfOperations        = [[Avengers Compound]], [[Los Angeles]] formerly; [[Camp Hammond]], [[Stamford]], [[Connecticut (State)|Connecticut]]; [[New York City]], [[New York (State)|New York]]; [[Santa Fe]], [[New Mexico (State)|New Mexico]]
+
+| Creators                = Kurt Busiek; Pat Olliffe
+| First                   = Untold Tales of Spider-Man #2
+
+| History                 = 
+===Origin===
+Young Jimmy Santini was with his father in an investigation of illegal toxic waste dumping in Carlsbad Caverns National Park where his father was either shot in the back by the polluters or fell to his death in the deep caverns (the full details were murky in Jimmy's diary). Jimmy was lost in the caverns and drank water that "tasted like metal." He was eventually rescued and returned to his mother. Soon the chemicals began to take effect, and Jimmy sprouted wings. His mother proclaimed him a demon, causing Jimmy to run away. He continued to mutate and ended up stealing food to survive. He arrived in New York City and made his home under an old pier. Jimmy began stealing food from people dining on rooftops scaring people in the process. Thus, the people began to dub him "Batwing".
+
+===Spider-Man===
+When New York City [[Randolph Cherryh (Earth-616)|Councilman Randolph Cherryh]] was dining with his girlfriend, Batwing appeared and stole some of his apples, humiliating him. Randolph then placed a bounty on him which Peter Parker (alias [[Peter Parker (Earth-616)|Spider-Man]]) decided to take part in during financial problems. Randolph arranged for a party as part of a trap. When Batwing came, the police sprang and began shooting only for Spider-Man to web up the guns and pursue Batwing. Batwing battled with Spider-Man before fleeing back to where he lived under the pier.
+
+When Spider-Man followed Batwing to the pier, he discovered that Batwing was just a scared kid who was stealing food to survive. Spider-Man read some of his history before Jimmy ran off right into the Councilman who secretly followed in his helicopter. Randolph did not care if Batwing was just a kid, and he was about to kill the boy when Spider-Man webbed down his men. Batwing fled despite Spider-Man's offer to get [[Reed Richards (Earth-616)|Reed Richards]] or [[Henry Pym (Earth-616)|Henry Pym]] to help cure him. Randolph vowed to ruin Spider-Man's life before having his mouth webbed and being shoved into a garbage can.{{r|Untold Tales of Spider-Man #2}}
+
+Spider-Man continued to bring food to Jimmy who still feared people like Randolph Cherryh.{{r|Untold Tales of Spider-Man #7}}
+
+Spider-Man later asked [[Curtis Connors (Earth-616)|Dr. Curt Connors]] to use his expertise to help cure Jimmy. When an accident caused Curt to become the Lizard again, Batwing helped Spider-Man track him down and cure Curt. Curt and Jimmy left New York for someplace quiet where Jimmy could be cured.{{r|Untold Tales of Spider-Man #9}} When Curt's cure failed, Batwing returned to New York and battled Spider-Man again. With his father dead and his mother rejecting him, Jimmy just wanted to die. Spider-Man tracked down Jimmy's mother and told her that Jimmy was still her son, regardless of his condition, and that she was wrong to reject him. Just as Batwing was about to be shot by the [[New York City Police Department (Earth-616)|NYPD]], Jimmy's mother intervened and told her son that she still loved him. Upon hearing this and knowing that he is loved, Jimmy reverted to his human form, and the police backed off. Jimmy went home with his mother, finally receiving the love that he had needed so badly.{{r|Untold Tales of Spider-Man #24}}
+
+===Initiative & Avengers Academy===
+After the superhero [[Civil War]], Batwing entered the 50-state Initiative as one of the recruits at [[Camp Hammond]] along with [[Fahnbullah Eddy (Earth-616)|Gorilla Girl]], [[Richard Gilmore (Earth-616)|Prodigy]], [[Emery Schaub (Earth-616)|Butterball]] and others. During the [[Secret Invasion|Skrull invasion]], Batwing was among the Initiative cadets that were seen fighting the Skrulls.{{r|Avengers: The Initiative #13}}
+
+When [[Delroy Garrett Jr. (Earth-616)|Delroy Garrett Jr.]] left the Initiative after the death of [[Z'Reg (Earth-616)|Crusader]], Batwing was one of the many Initiative cadets who wasn't pleased with Delroy killing him.{{r|Avengers: The Initiative #20}} Batwing was then assigned to the [[Shadow Initiative]].{{r|Avengers: The Initiative #21}} He was later seen as part of the [[Avengers Academy (Earth-616)|Avengers Academy]] after their expansion.{{r|Avengers Academy #20}}
+
+| Powers                  = Batwing has bat wing/arms allowing him to fly, bat-like ears allowing him to use echolocation, and claws on his hands and feet.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = As of {{cl|Avengers: The Initiative Vol 1 13}} he was still considered underage as far as the consumption of alcohol in the state of [[Connecticut (State)|Connecticut]], which is 21, was concerned. 
+| Trivia                  = 
+| Links                   = * http://www.marvunapp.com/Appendix/batwingj.htm
+}}
+[[Category:Trained by Taskmaster]]
+[[Category:Flight]]
+[[Category:Bat Form]]
+[[Category:Radar Sense]]
+[[Category:Camp Hammond Trainees]]

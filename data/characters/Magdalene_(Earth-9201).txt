@@ -1,0 +1,55 @@
+{{Marvel Database:Character Template
+| Image                   = Magdalene (Earth-9201) from All-New Official Handbook of the Marvel Universe A to Z Vol 1 6 001.jpg
+| Name                    = 
+| CurrentAlias            = [[Magdalene]]
+| Aliases                 = [[Magdalene (Earth-398)|Lady Magdalena]]{{r|Avengers Vol 3 2}}
+
+| Affiliation             = partner to [[Philip Javert (Earth-921)|Swordsman]], formerly her world's {{m|Avengers (Earth-9201)}}, [[Gatherers (Multiverse)|Gatherers]][[Category:Gatherers (Multiverse)/Members]], former associate of the [[Earth-616]] {{m|Avengers (Earth-616)|Avengers}}
+| Relatives               = 
+
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 6'7"
+| Weight                  = 203 lbs
+| Eyes                    = White
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-9201
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Adventurer
+| Education               = 
+| BaseOfOperations        = Mobile
+
+| Creators                = Bob Harras; Steve Epting; Tom Palmer
+| First                   = Avengers #343
+
+| History                 = Magdalene served on her world's [[Avengers (Earth-9201)|Avengers]] until the team was destroyed through the manipulations of [[Dane Whitman (Earth-374)|Proctor]].  She felt a strong attraction to her savior, unaware he had caused her world's [[Sersi (Earth-9201)|Sersi]] to go insane.{{r|Avengers #344}}{{r|Avengers #375}}
+
+However, when their next mission ended with [[Philip Javert (Earth-921)|Swordsman]] joining, she soon fell in love with him instead.{{r|Avengers #344}}
+
+When the Gatherers arrived on [[Earth-616]], Magdalene's counterpart [[Marissa Darrow (Earth-616)|Marissa Darrow]] was murdered and 'gathered' by Proctor.{{r|Avengers #348}} As Javert began to lose trust in Proctor, so did Magdalene. She eventually left the Gatherers with Swordsman and became an associate member of the Avengers.{{r|Avengers #363|364}}
+
+She and Javert assisted the Avengers on missions although they still felt they did not belong on this world. They declined Avengers membership and sought to find a new home for themselves. With the assistance of [[Anthony Stark (Earth-616)|Iron Man]], Magdalene used her lance to open a portal to a new dimension; both left and sought to make a new life for themselves.{{r|Avengers/Squadron Supreme Annual Vol 1 '98}}
+
+| Powers                  = Magdalene has superhuman strength, reflexes and agility.
+| Abilities               = Magdalene is a formidable hand-to-hand combatant, and is skilled in using melee weapons like her lance.{{r|Avengers #344}}
+| Strength                = Magdalene possesses superhuman strength, enabling her to lift around 75 tons.{{r|Official Handbook of the Marvel Universe A-Z #7}}
+
+| Equipment               = Magdalene is outfitted in a suit of armor that makes her highly resistant to injury.
+| Transportation          = 
+| Weapons                 = Magdalene wields a power lance of unknown design that enables her to project energy blasts, absorb energy, generate protective energy fields and open portals to other dimensions.{{r|Avengers #344}}
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = *[http://www.marvunapp.com/Appendix2/magdaleneavengers.htm Magdalene profile and history]
+}}
+[[Category:Armor Users]]
+[[Category:Honorary Avengers]]
+[[Category:Strength Class 75]]

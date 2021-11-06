@@ -1,0 +1,52 @@
+{{Marvel Database:Race Template
+| Image                   = Watch-Dragons from Defenders Vol 1 67 0001.jpg
+| Name                    = Watch-Dragons
+| Aliases                 = 
+| Identity                = 
+| Affiliation             = 
+| Universe                = Earth-616
+| BaseOfOperations        = 
+
+| BodyType                = 
+| AvgHeight               = 
+| AvgWeight               = 
+| Eyes                    = 
+| Hair                    = No
+| Skin                    = Red
+| NumberOfLimbs           = 
+| NumberOfFingers         = 
+| NumberOfToes            = 
+| SpecialAdaptations      = 
+| UnusualFeatures         = Wings
+
+| Origin                  = 
+| GalaxyOfOrigin          = 
+| StarSystemOfOrigin      = 
+| HomePlanet              = 
+| PlaceOfBirth            = 
+| Creators                = 
+| First                   = Defenders Vol 1 67
+
+| HistoryText             = {{quote|I had '''DRAGONS''' back in [[Asgard]], [[Patricia Walker  (Earth-616)|you feral whelp!]] Does [[Amora (Earth-616)|Enchantress]] have dragons, I ask you?|Casiolena|Patsy Walker, A.K.A. Hellcat! Vol 1 5}}
+Two large red flying "dragons" created by [[Casiolena (Earth-616)|Casiolena]] to protect the mobile stronghold of [[Ollerus (Earth-616)|Ollerus]]. The creatures resembled pterodactyls but were sentient and could speak. The first was defeated by [[Brunnhilde (Earth-616)|Valkyrie]], enabling the other to capture her, before its death at the hands of [[Harokin (Earth-616)|Harokin]].{{r|Defenders Vol 1 67}}
+
+| Habitat                 = 
+| Gravity                 = 
+| Atmosphere              = 
+| Population              = 
+
+| Powers                  = 
+| Abilities               = 
+| AvgStrength             = 
+| Weaknesses              = 
+
+| GovernmentType          = 
+| TechnologyLevel         = 
+| CulturalTraits          = 
+| Representatives         = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Dragon Races]]

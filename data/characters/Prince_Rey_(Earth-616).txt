@@ -1,0 +1,52 @@
+{{Marvel Database:Character Template
+| Image                   = Prince Rey (Earth-616) from Avengers Vol 1 31 0001.jpg
+| Name                    = Prince Rey
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{M|They Who Wield Power (Earth-616)|They Who Wield Power}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Blue
+| Hair                    = Blond
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = Former Ruler of the Hidden People
+| Education               = 
+| BaseOfOperations        = [[El Dorado (City)]]
+
+| Creators                = Stan Lee; Don Heck
+| First                   = Avengers #30
+| Death                   = Incredible Hulk #141
+
+| History                 = Prince Rey was the Ruler of a hidden people in the so-called Forbidden Land. His people harnessed a fire with Cobalt, which was kept over generations by the [[Lann (Earth-616)|Keeper of the Flame]]. The last Keeper of the Flame became hungry with power and ousted Prince Rey,{{r|Avengers Vol 1 31}} who was first helped by [[Henry Pym (Earth-616)|Goliath]] in regaining control over his people.{{r|Avengers Vol 1 30|31}} When Goliath realised that the Prince was just as power-hungry as the Keeper and that the cobalt fire was a danger to the Earth, he extinguished the flame.{{r|Avengers Vol 1 31}}
+
+He later turned up having re-built the Sacred Flame, when he joined [[They Who Wield Power (Earth-616)|They Who Wield Power]] under the leadership of [[Romulus Augustulus (Earth-616)|Tyrannus]]. Their goal was to manipulate events so that they could build up the Flame to massive power and obtain the person they deemed the strongest to be absorbed by the flame, using that energy themselves to become Immortal and rule the world, where Prince Rey wanted to create a massive War-Machine to conquer the world. They chose the Hulk, but before he could be absorbed by the fire, Tyrannus turned against them and absorbed both Prince Rey and The Keeper of the Flame, turning them both to dust.{{r|Incredible Hulk #240|241}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

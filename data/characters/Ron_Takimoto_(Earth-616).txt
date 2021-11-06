@@ -1,0 +1,53 @@
+{{Marvel Database:Character Template
+| Image                   = Ron Takimoto (Earth-616) Punisher Annual Vol 1 4.jpg
+| Name                    = [[Ron Takimoto]]
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = Subversive, mercenary, assassin
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Gregory Wright; Ron Garney
+| First                   = Daredevil Annual Vol 1 7
+| Death                   = Punisher Annual Vol 1 4
+
+| History                 = Takimoto was a tracker and assassin working for [[Wolfgang von Strucker (Earth-616)|Baron Strucker's]] Hydra. When three genetic experiments escaped Hydra custody, Takimoto was sent to hunt down the bladed [[Nicos Pelletier (Earth-616)|Guillotine]].{{r|Daredevil Annual #7}}
+
+Guillotine had become involved in a disgraced [[Yakuza (Earth-616)|Yakuza]] boss's efforts to enter the New York City drug trade. Takimoto made an alliance with the [[Frank Castle (Earth-616)|Punisher]] to bring down Guillotine. During their battle with the mutate, however, Takimoto was killed by Guillotine.{{r|Punisher Annual Vol 1 #4}}
+
+| Powers                  = None
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

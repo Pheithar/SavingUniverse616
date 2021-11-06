@@ -1,0 +1,52 @@
+{{Marvel Database:Character Template
+| Image                   = Chiron (Inhuman) (Earth-616) from Official Handbook of the Marvel Universe Vol 2 6 001.jpg 
+| Name                    = Chiron
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{m|Inhuman Royal Guard (Earth-616)|Inhuman Royal Guard}}
+| Siblings                = [[Stallior (Earth-616)|Stallior]] (brother)
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = Purple equine lower body (hooves, tail)
+
+| Origin                  = [[Inhomo supremis|Inhuman]] powered by hereditary transfer of attributes
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = Attilan
+| Occupation              = Guardsman
+| Education               = 
+| BaseOfOperations        = [[Attilan]]
+
+| Creators                = Archie Goodwin; John Buscema
+| First                   = Fantastic Four Vol 1 117
+
+| History                 = Chiron was the brother of [[Stallior (Earth-616)|Stallior]], and centaur-like [[Inhomo supremis|Inhuman]] like him. Their family bred true as centaurs after ten generations of selective breeding through Terrigenesis.{{r|Official Handbook of the Marvel Universe Vol 2 6}}
+
+He supported [[Maximus Boltagon (Earth-616)|Maximus]]' rule at one of the points where Maximus took over the throne, Chiron commanded a number of Inhumans, including [[Asmodeus (Inhuman) (Earth-616)|Asmodeus]] and [[Kaliban (Earth-616)|Kaliban]], in the defense of the Great Refuge. The [[Jonathan Storm (Earth-616)|Human Torch]] went there to visit [[Crystalia Amaquelin (Earth-616)|Crystal]], mistakenly believing she was there. Chiron reacted by attacking him with his troops, assuming the Torch was informed of the [[House of Agon|Inhuman Royal Family]] having been exiled: Chiron asked Kaliban to shoot an ion-blast at the Torch and then asked flying Asmodeus to intercept him. When the Torch got rid of them, Chiron ordered his troops to retreat to the city and report the threat, while he himself fought the Human Torch. The Human Torch destroyed Chiron's hand-held gun and made him move to an embankment, where he could no longer retreat. He was then questioned by the Human Torch. The Human Torch, caring only about Crystal, flew away, leaving Chiron relatively unharmed.{{r|Fantastic Four Vol 1 17}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = A hand-held ray gun.{{r|Fantastic Four #117}}
+
+| Notes                   = He resembled a [[Centaurs (Olympus)|Centaur]] of [[Greek]] Legend.
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Inhumans Powered by Hereditary Transfer of Attributes]]

@@ -1,0 +1,71 @@
+{{Marvel Database:Character Template
+| Image                   = Avengers Vol 8 13 Textless.jpg
+| Name                    = [[Fan Fei]]
+| NameRef                 = {{r|Avengers Vol 8 13}}
+| CurrentAlias            = [[Iron Fist]]
+| Aliases                 = 
+
+| Affiliation             = {{m|Avengers (1,000,000 BC) (Earth-616)|Avengers of 1,000,000 BC}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Early human]] that defeated the "undying" dragon [[Shou-Lao (Earth-616)|Shou-Lao]], gaining the power of the Iron Fist from its molten heart
+| Reality                 = Earth-616
+| PlaceOfBirth            = K'un-Lun
+
+| Identity                = Secret
+| Citizenship             = K'un-Lun
+| Occupation              = Criminal
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Jason Aaron; Esad Ribić
+| First                   = Marvel Legacy Vol 1 1
+
+|Quotation                = I only knew that, before I joined my students in the belly of that flaming monstrosity... I was going to punch the mighty [[Shou-Lao (Earth-616)|Shou-Lao]] in his miserable dragon face. And so I did. And then something even more unexpected happened. I didn't die. But I did begin '''burning'''.
+|Speaker                  = [[Fan Fei (Earth-616)|Fan Fei]]
+|QuoteSource              = Avengers Vol 8 13  
+
+| History                 = 
+
+===Early History===
+'''Fan Fei''' was a native to the city of [[K'un-Lun]], born to the Green Lotus House, and trained from childhood in the sacred art of kung-fu. When she was 15 years old, Fan began sneaking out beyond the sacred city's gates, where she encountered early cavemen. Fascinated by these people and seeing their struggles against the beasts preying on them, Fan taught several of them the basics of K'un-Lun Kung-Fu to allow them to defend themselves. After three months of training, Fan was discovered and declared a traitor for sharing the city's secrets with outsiders; a status that left her condemned as the worst criminal in the history of K'un-Lun, causing her to be disavowed by clan and family alike. Fei was brought before [[Lei-Kung (Earth-616)|The Thunderer]] at the cave of [[Shou-Lao (Earth-616)|Shou-Lao]], the holy dragon, where she was forced to watch as her students were executed by the creature. 
+
+In a rage, Fei broke the shackles binding her, and charged the Shou-Lao, with every intention of dying alongside her pupils after punching the dragon in the face, but instead, when she struck the dragon, Fan punched all the way through, blasting through the dragon's mouth and out the back of its head, killing the dragon and coating her hands in its burning blood, leaving her with a dragon shaped mark on the back of her hand and the ability to harness her chi in glowing, burning hands as hard as metal; the first in what would become a long line of [[Iron Fist]]. Declaring the dragon scar her mark of shame, The Thunderer decreed that Fan Fei was to be exiled, never to return to the sacred city. 
+
+Fan wandered the earth for a decade- and while she refused to train any more of the early humans she encountered in her exile, she found herself unable to leave them defenseless. She battled monsters, [[Deviants (Homo descendus)|Deviants]], and eventually found herself in conflict with the Gorgilla Clan of Man-Apes- battles which saw early man start to worship her as a god, and began to attract the attentions of other, more powerful beings. One such being, [[Mephisto (Earth-616)|Mephisto]], approached her one night in an attempt to persuade her to use her powers to conquer the people of Earth, which Fan violently rejected. Spurned by her refusal, Mephisto granted his gifts on the Gorgilla in her place, giving them mastery of his Hellfire and sending them to destroy the clan of humans the Iron Fist had protected the previous day. The Gorgilla attacked, lead by the Ape King wielding a club of diamond, but Fan was able to use her skills to shatter the weapon and rescue the cavemen from the flames. 
+
+Undeterred, Mephisto lead the Ape King to the resting place of [[Power Stone|The Power Stone]], and sent the newly empowered Ape King to destroy the Iron Fist. Despite the gem's immense power, Fan attacked head on, attempting to shatter the Stone, but her attempts backfired, creating a shockwave of pure energy that sent her flying. For all her advanced skills, Fan found herself unable to overcome the raw power of the Infinity Stone, and was left thoroughly beaten. Recovering and bandaging her wounds, Fan Fei found herself wandering, naturally finding her way to the gates of K'un-Lun, having temporarily reappeared on Earth, where she was greeted by the Thunderer. Fan's former jailer explained that the people of the city had watched her exploits, and the Dragon-Kings had declared that their ruling on her trial was wrong; that her powers were a gift and a natural element of the Dragon's life and the culture of K'un-Lun. The Thunderer offered to end her exile and bring Fan home, but the Iron Fist rejected his offer, explaining that the Earth was her home now, and her fight for its people had only just begun. {{r|Avengers Vol 8 13}}
+
+===Avengers 1,000,000 BC===
+At some point Fan Fei joined a team of other super-powered mortals and deities dedicated to protecting Earth. She and the other [[Avengers (1,000,000 BC) (Earth-616)|Stone Age Avengers]] fought an out-of-control [[Celestials (Race)|Celestial]] called the [[Zgreb (Earth-616)|Fallen]], eventually defeating it and later sealing it in an underground chamber in what would become the modern-day country of [[South Africa]].{{r|Marvel Legacy Vol 1 1}} What became of the Iron Fist after that is unknown.
+
+| Personality             = 
+
+| Powers                  = Seemingly those of an average [[Iron Fist]].{{r|Marvel Legacy Vol 1 1}}
+| Abilities               = As an Iron Fist user, it can be assumed that she is skilled in various martial arts. She is also able to understand the grunts of her teammate [[Vnn (Earth-616)|Starbrand]].{{r|Marvel Legacy Vol 1 1}}
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Chi Manipulation]]
+[[Category:Martial Arts]]
+[[Category:Prehistoric characters]]
+[[Category:Iron Fist]]

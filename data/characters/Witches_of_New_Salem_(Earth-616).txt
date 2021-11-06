@@ -1,0 +1,34 @@
+{{Marvel Database:Organization Template
+| Image                   = Witches of New Salem (Earth-616) from Fantastic Four Vol 1 185 0001.jpg
+| Name                    = Witches of New Salem 
+| Aliases                 = 
+
+| OrganizationLeaders     = 
+| CurrentMembers          = [[Agatha Harkness]]
+| FormerMembers           = 
+
+| Identity                = 
+| Affiliation             =
+| Allies                  = 
+| Enemies                 = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| Status                  = 
+| BaseOfOperations        = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+
+| Creators                = Len Wein; George Perez
+| First                   = Fantastic Four #182
+| First2                  = {{g|in shadow}}{{cl|Fantastic Four #185}}{{g|Full}}
+
+| History                 = 
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Mystical Organizations]]

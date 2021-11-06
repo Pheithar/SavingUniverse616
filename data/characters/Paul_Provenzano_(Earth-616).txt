@@ -1,0 +1,69 @@
+{{Marvel Database:Character Template
+| Image                   = Paul Provenzano (Earth-616) from X-Men Earth's Mutant Heroes Vol 1 1.png
+| Name                    = [[Paul Provenzano]]
+| NameRef                 = {{r|X-Men: Earth's Mutant Heroes #1}}
+| CurrentAlias            = [[Omerta]]
+| Aliases                 = 
+
+| Affiliation             = Formerly {{M|X-Men}} (Genoshan assault team), {{M|United States Marine Corps (Earth-616)|U.S. Marine Corps}}
+| Children                = Unnamed baby with [[Wendy Sherman (Earth-616)|Stinger]]{{r|Cable Vol 4 2}}
+| Relatives               = Tony (aunt, last name unrevealed)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|X-Men: Earth's Mutant Heroes #1}}
+| Gender                  = Male
+| Height                  = 6'1"
+| Weight                  = 178 lbs
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Brooklyn]], [[New York]]
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = American, Krakoan
+| Occupation              = Former adventurer, soldier
+| Education               = 
+| BaseOfOperations        = Formerly [[Xavier's School for Gifted Youngsters|Xavier Institute for Higher Learning]], [[Salem Center]], [[Westchester County]], [[New York (State)|New York]]
+
+| Creators                = Scott Lobdell; Salvador Larroca
+| First                   = Uncanny X-Men #392
+
+| History                 = 
+===Origin and X-Men===
+After just being discharged from the United States Marines, '''Paulie Provenzano''' returned to his home in [[Brooklyn]], where he attempted to join the mafia. They rudely rejected him after discovering he was a [[Homo superior|mutant]] with the ability of complete invulnerability, and attempted to murder him.{{r|Uncanny X-Men #392}}
+
+After taking out the goons, Provenzano was invited by [[Jean Grey (Earth-616)|Jean Grey]] to join her interim [[X-Men (Earth-616)|X-Men]] in order to stop [[Max Eisenhardt (Earth-616)|Magneto]]'s madness. Often cracking jokes and flirting with the female members of his team, particularly [[Joanna Cargill (Earth-616)|Frenzy]] and [[Alison Blaire (Earth-616)|Dazzler]]. He also had a rivalry with [[Jean-Paul Beaubier (Earth-616)|Northstar]] as he was extremely uncomfortable with homosexuals.{{r|Uncanny X-Men Vol 1 #392|393}}
+
+The team had little time to train but gambled that their unfamiliarity would be enough of an edge to free Xavier and stop Magneto. Arriving on [[Genosha]], the team confronted Magneto. Overconfident, Provenzano told Magneto he wasn't scared of 'some guy wearing a bucket on his head'. Magneto attempted to manipulate the iron in Provenzano's blood, but it was ineffective due to his invulnerability. However, it did not keep him from being lifted off the ground.{{r|X-Men Vol 2 #113}}
+
+During their battle with Magneto, Provenzano immediately created a diversion for his teammates when he taunted Magneto himself. Magneto then levitated Provenzano into space, coldly asking Northstar if he thought he was fast enough to save his teammate before he suffocated. Northstar was barely able to reach Provenzano in time and took him to a nearby US warship. Provenzano was shocked and a bit uneasy that Northstar had given him mouth to mouth, but thanked Jean-Paul. After the battle, Provenzano declined to remain an X-Man and left the [[Xavier's School for Gifted Youngsters|X-Mansion]] to journey on his own.{{r|X-Men Vol 2 #113}} He was codenamed '''Omerta''' in the X-Men database.{{r|X-Men: Earth's Mutant Heroes #1}}
+
+===Neverland===
+Provenzano was eventually captured by the [[Weapon X (Earth-616)|Weapon X program]] to be interned in [[Neverland]] concentration camp. At the entry, he was deemed useless concerning the possible utilization of his powers, marked with a red M on the hand, and send to the gas chamber alongside with [[Maggott (Japheth) (Earth-616)|Maggot]], with whom he shared his last words.{{r|Weapon X Vol 2 5}}{{r|X-Men: Earth's Mutant Heroes #1}}
+
+===Return===
+Provenzano eventually returned to life through unknown means<!--or he escaped the gas chamber at the last second-->, but did not have his powers. He was living with [[Wendy Sherman (Earth-616)|Stinger]], and they had a baby together. They both have Krakoan citizenship, but do not live there. When they were discussing whether or not to move, their baby was kidnapped.{{r|Cable Vol 4 2}}
+
+| Powers                  = '''Virtual Invulnerability:''' Provenzano was virtually invulnerable, although he was proved to be possibly hurt, as [[Jean-Paul Beaubier (Earth-616)|Northstar]] was able to make him nose-bleed, using his super-speed to punch him. He was also vulnerable to poisonous gas,{{r|Weapon X Vol 2 5}} and possibly to other poisons.{{r|X-Men: Earth's Mutant Heroes #1}} He was even immune to [[Max Eisenhardt (Earth-616)|Magneto]]'s attempt to manipulate the iron within his own blood.{{r|X-Men Vol 2 #113}}
+
+'''Superhuman Strength:''' Provenzano was able to lift about 1 ton.{{r|X-Men: Earth's Mutant Heroes #1}}
+| Abilities               = Military training in the Marine Corps.{{r|Uncanny X-Men #392}}
+| Strength                = Can lift 1 ton.{{r|X-Men: Earth's Mutant Heroes #1}}
+| Weaknesses              = His invulnerability doesn't cover the human basic needs of oxygen, neither they protect him from gas.{{r|Weapon X Vol 2 5}}{{r|X-Men: Earth's Mutant Heroes #1}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * Provenzano never took the name "Omerta" in canon, but that was his original name to begin with in the X-Men database.{{r|X-Men: Earth's Mutant Heroes #1}}
+| Trivia                  = * Provenzano is the second character featured in Marvel comics to use the name Omerta. In ''[[Alpha Flight (Earth-616)|Alpha Flight]]'', an [[Omerta (Earth-616)|Italian superhero]] appeared using this name. In Italian, "omerta" signifies the Southern Italian "code of silence" that places importance on remaining silent when questioned by authorities or outsiders, and on not interfering with the illegal activities of others. In English, it refers to similar codes among Italian-American criminal organizations. How this codename refers to Provenzano's powers is unclear.
+* Paulie may have been named after Bernardo Provenzano, head of the Sicilian Corleonesi crime family from 1993 until his arrest in 2006.
+| Links                   = 
+}}
+[[Category:Neverland]]
+[[Category:Invulnerability]]
+[[Category:Superhuman (800 lbs-25 ton) Strength]]

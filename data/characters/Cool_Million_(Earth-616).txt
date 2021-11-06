@@ -1,0 +1,47 @@
+{{Marvel Database:Character Template
+| Image                   = Cool Million (Earth-616) from Marvel Comics Presents Vol 1 128.png
+| Name                    = 
+| CurrentAlias            = Cool Million
+| Aliases                 = 
+
+| Affiliation             = Formerly {{M|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Yellow
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = 
+| Citizenship             = 
+| Occupation              = Mercenary
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Joey Cavalieri; Dave Hoover
+| First                   = Marvel Comics Presents #128
+
+| History                 = Cool Million was a [[Homo superior|mutant]] mercenary, hired by [[Hydra (Earth-616)|Hydra]] to take the [[Anomaly]] from [[Daniel Rand (Earth-616)|Iron Fist]]. Cool Million took [[Lillian Hsu]] hostage, first using his powers to make her raise a false alarm about a gas leak and then kidnapping her in the confusion. He meant to trade the Anomaly for Lillian, and made his point by blowing up Iron Fists bike with an Uzi, knocking him out. He stole the Anomaly, and took Iron Fist hostage as well, but Iron fist woke up, and choked Cool Million into unconsciousness. Unfortunately for Iron Fist, Cool Million had set the car to autopilot, and it arrived at the Hydra rendezvous point regardless.{{r|Marvel Comics Presents #129}}
+
+| Powers                  = Cool Million could mentally persuade others through eye contact.{{r|Marvel Comics Presents #129}}
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = Uzi
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Mind Control]]

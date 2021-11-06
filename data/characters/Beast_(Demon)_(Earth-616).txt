@@ -1,0 +1,54 @@
+{{Marvel Database:Character Template
+| Image                   = Beast (Demon) (Earth-616) from Daredevil Vol 5 26 001.jpg
+| Name                    = 
+| CurrentAlias            = [[Beast (Demon)|Beast]]
+| Aliases                 = [[Jackal's Son]], the [[Lord]], [[Azazel]],{{r|Daredevil Vol 1 604}} [[Beelzebub]],{{r|Daredevil Vol 1 604}} [[Shaitan]],{{r|Daredevil Vol 1 604}} [[Lucifer]]{{r|Daredevil Vol 1 604}}
+
+| Affiliation             = {{M|Hand (Earth-616)|The Hand}}; (hosts) [[Matthew Murdock (Earth-616)|Daredevil (Matthew Murdock)]], [[Lyle Crawford (Earth-616)|Lyle Crawford]], [[San Conception#Reich (Earth-616)|Ambassador Reich]], [[Ken Wind (Earth-616)|Ken Wind]]
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = [[Demons|Demon]] that is worshipped by [[Hand (Earth-616)|The Hand]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Ginnungagap|The Darkness preceding creation]]
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Nihilist
+| Education               = 
+| BaseOfOperations        = Unnamed extradimensional realm
+
+| Creators                = Frank Miller; Bill Sienkiewicz
+| First                   = Elektra Assassin Vol 1 1
+
+| History                 = "The Beast" is a demon of unknown origin intrinsically tied to the history of the ninja clan known as the [[Hand (Earth-616)|Hand]]. Many of the Hand's mystic powers, such as resurrection, presumably come from the Beast. It rarely takes an active role in the Hand's activities, but generally influences the clan towards nihilism and annihilation.{{r|Elektra Assassin #7}}
+
+[[File:Beast (Demon) (Earth-616) from Elektra Assassin Vol 1 1 001.jpg|thumb|left]]
+The Beast briefly took possession of [[Onehand (Earth-616)|Onehand]]'s corpse to tortured a resurrected [[Tenfingers (Earth-616)|Tenfingers]] in order to punish him for his prior theft with the [[Church of the Sheltering Hands (Earth-616)|Church of the Sheltering Hands]].{{r|Daredevil Vol 5 26}} He also made a deal for [[Lu Wei (Earth-616)|Lu Wei]]'s soul in exchange for restoring [[Samuel Chung (Earth-616)|Sam Chung]]'s sight. Sam then renegotiated the deal, offering the Beast [[Matthew Murdock (Earth-616)|Daredevil]]'s soul in place of his mother's. While escaping with Lu, Sam snapped out of the Hand's dark influence and had a change of heart, deciding to rescue Daredevil instead. Lu reluctantly helped his son confront the Hand and was killed by the Beast. The demon then abruptly teleported the temple away, leaving Sam and Matt alone.{{r|Daredevil Vol 5 27}}
+
+Shortly afterwards, Sam attempted to take down the supervillain [[Muse (Earth-616)|Muse]]. When he was overpowered, the Beast reached out to him and offered to lend Sam its power. Sam initially accepted the Beast's help and defeated Muse, but refused to kill the villain in exchange and rejected the Beast. In retaliation, the Beast launched a massive siege on Manhattan which paralized the entire city.{{r|Daredevil Vol 1 600}} The Hand's primary targets were police officers, security guards and even doormen. Anybody who could serve as a protector to the city.{{r|Daredevil Vol 1 601}} After feasting on the city's terror, the Beast unleashed a cloud of poisonous fog from his temple in Manhattan.{{r|Daredevil Vol 1 603}} The cavalry arrived in the form of the [[Ordo Draconum (Earth-616)|Ordo Draconum]], with whom Daredevil joined forces to attack The Hand's temple, since they had managed to trace the fog back to its source. Despite the assault's initial success, the Beast managed to escape and Daredevil and his allies were cornered.{{r|Daredevil Vol 1 604}} The Beast eventually approached City Hall to demand Blindspot in exchange for the city's safety. The Hand's attack on City Hall was intercepted by Daredevil, the Ordo Draconum, and a handful of the city's vigilantes. Using a magical sword, Daredevil stabbed the Beast, causing it to vanish in a flash of light which took with it the fog and killed all remaining Hand ninja.{{r|Daredevil Vol 1 605}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * http://www.marvunapp.com/Appendix/beasthand.htm
+}}
+[[Category:Possession]]

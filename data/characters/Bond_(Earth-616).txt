@@ -1,0 +1,49 @@
+{{Marvel Database:Character Template
+| Image                   = Bond (Earth-616) from X-Men Unlimited Vol 1 7.png
+| Name                    = 
+| CurrentAlias            = Bond
+| Aliases                 = 
+
+| Affiliation             = [[Candra (Earth-616)|Candra]]
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = Egyptian
+| Occupation              = Hitman
+| Education               = 
+| BaseOfOperations        = Mobile
+
+| Creators                = Howard Mackie; John Romita Jr.
+| First                   = X-Men Unlimited #7
+
+| History                 = Bond was a mutant hired killer in the employ of [[Candra]].{{r|X-Men Unlimited #7}}
+
+| Powers                  = Bond had superhumanly durable skin.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * [http://www.marvunapp.com/Appendix7/bondxmu.htm Bond at the Marvel Appendix]
+}}
+[[Category:Superhuman Durability]]

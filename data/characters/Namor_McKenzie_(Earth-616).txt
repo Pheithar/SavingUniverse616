@@ -1,0 +1,505 @@
+{{Marvel Database:Character Template
+| Image                   = Avengers Vol 8 9 Textless.jpg
+| Name                    = [[Namor McKenzie]]
+| NameRef                 = {{r|Official Handbook of the Marvel Universe Vol 2 12}}
+| CurrentAlias            = [[King Namor]]
+| Aliases                 = [[Sub-Mariner]],{{r|Motion Picture Funnies Weekly #1}}<br> [[Avenging Son]],{{r|Avengers Vol 1 154}}<br> Namor the First,{{r|Fantastic Four Annual #1}}{{r|Marvel Atlas #1|; [[Deviant Lemuria|Lemuria (Deviant)]]'s entry}}{{r|Namor: The First Mutant #11}}<br> Prince of Atlantis,{{r|Fantastic Four Annual #1}}<br> Emperor of the Deep,{{r|Fantastic Four Annual #1}}<br> Lord of the Seven Seas,{{r|Fantastic Four Annual #1}}<br> Supreme Commander of the Undersea Legions,{{r|Fantastic Four Annual #1}}<br> Lord of the Undersea World,{{r|Fantastic Four Annual #1}}<br> Imperius Rex,{{r|Black Panther Vol 6 10}}<br> Sea King,{{r|Hulk Vol 2 10}} [[Namor McKenzie (Earth-398)|Sealord]],{{r|Avengers Vol 3 2}}<br> King Namor The First,{{r|Avengers / Invaders Vol 1 3}} King Of The Seas,{{r|Secret Invasion: Dark Reign #1}} [[Phoenix]],{{r|Avengers vs. X-Men Vol 1 5}}<br> Phoenix King,{{r|Avengers Vol 8 43}}<br> Dr. G.W. Falton,{{r|Fantastic Four Annual #1}}<br> Joe Pierre,{{r|Sub-Mariner Comics #6}} "Mr. Big",{{r|X-Men Vol 1 6}}<br> "[[Rex]]",{{r|Namor the Sub-Mariner #26}} "Subby",{{r|Fantastic Four #219}}<br> "Piscatorial Pirate",{{r|X-Men Vol 1 6}}<br> Ducklips,{{r|Sub-Mariner Vol 2 3}} Fish-Man,{{r|Defenders Vol 2 5}} Gill-Face,{{r|Sub-Mariner Vol 2 3}} Chicken of the Sea,{{r|Sub-Mariner Vol 2 3}} [[Long John Silver]]{{r|Sub-Mariner Vol 2 3}}
+| EditorialNames          = [[Namor: The First Mutant Vol 1|Namor: The First Mutant]], Marvel's First and Mightiest Mutant,{{r|Namor the Sub-Mariner #2}} Scourge of the Seven Seas,{{r|Sub-Mariner #47}} the Savage Sub-Mariner{{r|Sub-Mariner #65}}
+
+| Affiliation             = {{m|Atlantean Royal Family (Earth-616)|Atlantean Royal Family}}, {{m|Defenders of the Deep}}; formerly ally of [[Marcus Milton (Earth-13034)|Hyperion]], {{m|X-Men (Jean Grey's)|X-Men (Red Team)}}, {{m|Cabal (Namor's)|Cabal}} (founder), {{m|Invaders (WWII)|Invaders}}, {{m|Atlantean Army}} [[Atlantis (Kingdom)|Atlantis]], {{m|Illuminati}}, {{m|X-Men}}, {{m|X-Men (New Charles Xavier School) (Earth-616)|Extinction Team}}, {{m|Phoenix Five}}, {{m|Invaders (Modern)}}, {{m|Defenders}}, {{m|X-Men (Osborn)|Osborn's X-Men}}, {{m|Cabal (Dark Illuminati) (Earth-616)|Osborn's Cabal}}, {{m|Avengers}}, {{m|All-Winners Squad}}, {{m|Titans Three}}, {{m|Fantastic Four}}, {{m|Oracle Inc.}}, {{m|Swift Tide}}, {{m|Deep Six (Namor)|Deep Six}} (founder and leader); ally of [[Betty Dean (Earth-616)|Betty Dean]], [[Victor von Doom (Earth-616)|Doctor Doom]]
+| Relatives               = [[Tolan (Earth-616)|Tolan]] (alleged ancestor);<br>
+[[Elanna (Earth-616)|Elanna]] (maternal ancestor);<br>
+[[Tanas (Earth-616)|Tanas]] (maternal ancestor);<br>
+[[Zartra (Atlantean) (Earth-616)|Zartra]] (maternal ancestor);<br>
+[[Orrek (Earth-616)|Orrek]] (maternal ancestor);<br>
+[[Stegor (Earth-616)|Stegor]] (maternal ancestor);<br>
+[[Kamuu (Atlantean) (Earth-616)|Kamuu]] (maternal ancestor);<br>
+[[Harran (Earth-616)|Harran]] (maternal ancestor);<br>
+[[Kalen (Earth-616)|Kalen]] (maternal ancestor);<br>
+[[Ossem (Earth-616)|Ossem]] (maternal ancestor);<br>
+[[Kamar (Earth-616)|Balaal]] (maternal ancestor);<br>
+[[Thallo (Earth-616)|Thallo]] (maternal ancestor);<br>
+[[Immanu (Earth-616)|Immanu]] (maternal great-grandfather, deceased);<br>
+[[Thakorr (Earth-616)|Thakorr]] (maternal grandfather, deceased);<br>
+[[Korra (Earth-616)|Korra]] (maternal grandmother);<br>
+Wa-Korr (grandfather-in-law, presumed deceased);<br>
+[[Zarina (Earth-616)|Zarina]] (maternal great-aunt);<br>
+[[Fen (Earth-616)|Fen]] (mother, deceased);<br>
+[[Leonard McKenzie (Earth-616)|Leonard McKenzie]] (father, deceased);<br>
+Namora's father (uncle);<br>
+[[Daka (Earth-616)|Daka]] (maternal uncle);<br>
+Brynn (aunt-by-marriage/step-grandmother);<br>
+[[Lawrence McKenzie (Earth-616)|Lawrence McKenzie]] (paternal half-brother);<br>
+[[Dorma (Earth-616)|Dorma]] (wife/distant cousin, deceased);<br>
+[[Marrina Smallwood (Earth-616)|Marrina]] (wife, possibly ex-wife);<br>
+three unnamed children (by Marrina);<br>
+[[Kamar (Earth-616)|Kamar]] (son, deceased);<br>
+Wathan (father-in-law, presumed deceased);<br>
+[[Thomas Smallwood (Earth-616)|Tom Smallwood]] (father-in-law);<br>
+[[Gladys Smallwood (Earth-616)|Gladys Smallwood]] (mother-in-law);<br>
+[[Daniel Smallwood (Earth-616)|Dan Smallwood]] (brother-in-law);<br>
+[[Leon McKenzie (Earth-616)|Black Moray (Leon McKenzie)]] (paternal half-nephew);<br>
+[[Llyron McKenzie (Earth-616)|Llyron McKenzie]] (paternal great-nephew);<br>
+[[Aquaria Neptunia (Earth-616)|Namora]] (maternal cousin);<br> 
+[[Beemer (Earth-616)|Beemer]] (maternal cousin);<br>
+[[Bobo (Earth-616)|Bobo]] (maternal cousin);<br>
+Namita (maternal cousin);<br>
+Daro (maternal cousin);<br>
+[[Dara (Earth-616)|Dara]] (maternal cousin);<br>
+[[Seth (Atlantean) (Earth-616)|Seth]] (maternal cousin);<br>
+[[Arkus (Earth-616)|Arkus]] (maternal cousin);<br>
+[[Byrrah (Earth-616)|Byrrah]] (maternal cousin/uncle, deceased);<br>
+[[Namorita Prentiss (Earth-616)|Namorita]] (maternal 1st cousin once removed, deceased)
+[[Namor McKenzie (N2) (Earth-616)|Experiment N2]] (clone);<br>
+| MaritalStatus           = Widowed
+
+| CharRef                 = {{cl|All-New Official Handbook of the Marvel Universe A to Z: Update #3}}
+| Gender                  = Male
+| Height                  = 6'2"
+| Weight                  = 278 lbs
+| Eyes                    = Blue; Grey
+| Hair                    = Black
+| UnusualFeatures         = Small vestigial feathered wings on his ankles, pointed ears, and gills behind his ears
+
+| Origin                  = [[Homo superior|Mutant]] [[Homo sapiens|Human]]/[[Homo mermanus|Atlantean]] (Homo sapiens x Homo mermanus) Hybrid
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Atlantis]]
+| PlaceOfDeath            = 
+
+| Identity                = Public
+| Citizenship             = Atlantean
+| Occupation              = King of Atlantis [[Category:Dictators]] and adventurer; former terrorist, warrior, commando, CEO, murderer
+| Education               = Little or no formal schooling; educated by the royal tutors of the Atlantean court
+| BaseOfOperations        =  [[Atlantis (Modern)|Atlantis]]; formerly [[Searebro]], [[X-Lantis]], [[Atlantis (Kingdom)|Atlantis]]; formerly [[Atlantis (Tha-Korr)|Antarctic Atlantis]]; [[New Atlantis (Atlantean Pillar)|New Atlantis]]; [[Utopia (X-Men Base)|Utopia]], [[San Francisco Bay]], [[California (State)|California]]; [[Necropolis]], [[Wakanda]]; [[Earth-1610|Ultimate Universe]]
+
+| Creators                = Bill Everett
+| First                   = Motion Picture Funnies Weekly #1
+| Death                   = 
+
+| Quotation               = In the name of [[Poseidon Aegaeus (Earth-616)|Father Neptune]], now does Namor the First, Prince of [[Atlantis (Byrrah)|Atlantis]], Emperor of the Deep, Lord of the Seven Seas and Supreme Commander of the [[Atlantean Army (Earth-616)|undersea legions]], duly proclaim for all to witness... the victory is truly mine! Let no man deny that Namor is, and ever shall be, Prince of the Blood!
+| Speaker                 = [[Namor McKenzie (Earth-616)|Namor]]
+| QuoteSource             = Tales to Astonish Vol 1 87
+
+| History                 = 
+{{center|1=''This is an abridged version of Namor McKenzie's history. For a complete history see '''[[Namor McKenzie (Earth-616)/Expanded History|Namor McKenzie's Expanded History]]'''''}}
+
+===Origins===
+In 1915, [[Ernest Shackleton (Earth-616)|Ernest Shackleton]], sent by [[Winston Churchill (Earth-616)|Winston Churchill]], sought out [[vibranium]] in the [[Antarctic Circle|Antarctic]]. His ship, the ''Endurance'', was lost. Later, [[Leonard McKenzie (Earth-616)|Leonard McKenzie]], with the telepath [[Paul Destine (Earth-616)|Paul Destine]] as a passenger, attempted to recover the vibranium.{{r|Iron Man and Sub-Mariner #1}} [[Fen (Earth-616)|Princess Fen]] was sent to investigate explosions near the surface by her father, [[Thakorr (Earth-616)|Emperor Thakorr]]. McKenzie met, fell in love with, and impregnated Princess Fen with the child who became Namor. However, Atlantean soldiers came to retrieve Fen and attacked McKenzie's crew. Leonard McKenzie was believed dead by Fen following the attack and she returned to [[Atlantis (Tha-Korr)|Atlantis]], pregnant.{{r|Sub-Mariner #1}}
+
+The child was named "Namor" which means "Avenging Son".{{r|Fantastic Four Annual #1}} Namor spent his boyhood taunting his cousin [[Dorma (Earth-616)|Dorma]], as well playing with his other cousins [[Aquaria Neptunia (Earth-616)|Namora]] and [[Byrrah (Earth-616)|Byrrah]] as well as his friend [[Meranno (Earth-616)|Meranno]].{{r|Saga of the Sub-Mariner Vol 1 2}}
+
+===Black Tide===
+During Namor's youth, he travelled as a part of the Atlantean diplomatic mission to the [[Orreki Reefs]], the seasonal capital of the [[Skarka Tribe (Earth-616)|Chasm People]]. Here he encountered the prince of Chasm People, [[Attuma (Earth-616)|Attuma]], for the first time, the two initially developed a rivalry. Still, they set aside their differences and began developing a friendship for the sake of peace between their peoples.{{r|King in Black: Namor Vol 1 1}} To encourage diplomatic relations, Attuma, Namor, and Dorma were sent to accompany the [[Swift Tide (Earth-616)|Swift Tide]], a multinational group of underwater heroes, on a mission to recover the [[Unforgotten Stone]], an eldritch artifact created by the [[Great Old Ones]]. The mission ended in disaster when the Swift Tide were mutated into predatory monsters by the Unforgotten Stone's power. {{r|King in Black: Namor Vol 1 2}} Taking the name Black Tide they went on a rampage. First, they attacked the Orreki Reefs, killing everyone present, including Attuma's father, King Attukar. {{r|King in Black: Namor Vol 1 3}} Afterwards, they set their sights on [[Atlantis (Pacific)|Atlantis (Pacific)]].{{r|King in Black: Namor Vol 1 4}} Ultimately they were stopped thanks to Dorma mastering the Unforgotten Stone and sealing the members of the Black Tide. Blaming Atlantis for the destruction, Attuma left, breaking all hopes for negotiations.{{r|King in Black: Namor Vol 1 5}}
+
+===[[World War II]]===
+[[File:Namor McKenzie (Earth-616) from Marvel Mystery Comics Vol 1 21 001.jpg|thumb|left|160px|Namor, circa 1941]]
+Namor was sent to New York after divers were found near Atlantis. However, it was revealed that the divers were [[National Socialist German Workers Party (Earth-616)|Nazis]], and Namor joined the [[Invaders (WWII) (Earth-616)|Invaders]],{{r|Giant-Size Invaders #1}} fighting in [[World War II]] alongside men such as [[Steven Rogers (Earth-616)|Captain America]] and the android [[Human Torch (Android) (Earth-616)|Human Torch]] (in addition to his solo missions), and later the [[All-Winners Squad (Earth-616)|All-Winners Squad]] to oppose the [[Axis (Earth-616)|Axis]]. Namor would at times battle, then befriend, the democratic societies of the surface; the explanation for this was later discovered to be temporary insanity as a result of too much time spent away from the sea. For the most part, however, the Sub-Mariner set his sights on Nazi Germany and [[Imperial Japan (Earth-616)|Imperial Japan]]. The [[Homo mermanus|Atlanteans]] became involved with the Axis-created Human Torch duplicates the [[Firebrand Squadron (Earth-616)|Firebrand Squadron]]. One Atlantean, his friend Meranno, became an Axis agent known as the U-Man.{{Citation}}
+
+===Exile and Return===
+After the end of World War II, Namor decided to return to Atlantis. He was stopped by Atlantean soldiers led by Krang and Byrrah, who during Namor's absence convinced Thakorr to banish him.{{r|Saga of the Sub-Mariner Vol 1 5}} During his first year after the exile, Namor worked with the reporter [[Betty Dean (Earth-616)|Betty Dean]].{{r|Saga of the Sub-Mariner Vol 1 6}} He also spent time living with a man named [[Randall Peterson (Earth-616)|Randall Peterson]], an honorary Invader, and helped raise his daughter Nay.{{r|Invaders Vol 3 4}} During this time he worked with [[All-Winners Squad (Earth-616)|All-Winners Squad]], facing such enemies as [[Simon Meke (Earth-616)|Isbisa]], and [[Card Killers (Earth-616)|Card Killers]]. They also stopped an attempt at the life of [[John F. Kennedy (Earth-616)|John F. Kennedy]], a mission which costed [[William Nasland (Earth-616)|the second Captain America]] his life.{{r|What If? Vol 1 4}} Ultimately, in 1947, Namor was called back to Atlantis, to attend Emperor Thakorr's birthday celebration.<!--Timeline note: The flashback in Invaders Vol. 3 is set soon after the end WW2 per narration, ends with Namor being called to Atlantis, which would fit with the calling him back from exile from the earlier material.--> However, when Namor reached Atlantis, he found not a party, but a scene of slaughter. However, Thakorr managed to escape with only a slight wound. Another survivor was Namora, who informed Namor about the surprise attack of a gang led by a man called [[Brian Richards (Earth-616)|Stoop]]. Together they pursued the perpetrators to the United States where they localised them with the help of local law enforcement. Ultimately they both remained in the surface world, working together as crimefighters until in 1949 Namor decided to permanently return to Atlantis.{{r|Saga of the Sub-Mariner Vol 1 6}}
+
+===1950s===
+In the 1950s, Namor attempted to gain recognition for Atlantis, only for bigots to cause the death of a man named Truffaut. Namor disappeared in 1958 after Destiny, the same Paul Destine who had voyaged with his father, attacked Atlantis. Atlantis was relatively unharmed during the war but soon greatly damaged by powerful earthquakes. Princess Fen and King Thakorr were killed. Paul Destine, who had ordered the explorers on McKenzie's ship to find the 'Helmet of Power' (actually [[Set (Earth-616)|Set]]'s [[Serpent Crown]]), caused the earthquakes. He used the crown to turn Namor into an amnesiac, living as a derelict in various flophouses. Coincidentally, his former teammate [[James Buchanan Barnes (Earth-616)|Bucky]] was also briefly sleeping in the same flophouse. As both men had amnesia, neither man recognized the other.
+
+Despite his amnesia, Namor managed to make his way to Randall Peterson's hometown, where he aided the pregnant Nay Peterson by carrying her back home. He stayed in the Peterson home and his memories started to slowly return but the memories of the war caused PTSD. Eventually [[Charles Xavier (Earth-616)|Charles Xavier]] arrived to see Namor and inform him of his mutant status. Namor then agreed to join Charles on his search for more of their kind. They traveled the country but failed to find any before coming across a mutant surrounded by police and Charles mentally restrained the officers. After learning that the mutant [[Tim Rhodes (Earth-616)|Genus]] could change the species of living things, Namor and Charles argued on how to proceed, weakening Charles' hold on the officers, one of which shot and killed the mutant. When Namor tried to kill the officers in retaliation, Charles restrained him and tried to force him to face his trauma, but Namor broke free of his control. A now further mentally damaged Namor flew off and his amnesia returned.{{r|Invaders Vol 3 4}}
+
+===Modern Age===
+Namor remained a derelict until [[Jonathan Storm (Earth-616)|Johnny Storm]], the third Human Torch, happened to find him in the flophouse and saw him use his super-strength. Johnny felt bad for the amnesiac and offered to help him get back on his feet. He shaved the "bum" with his flame, revealing Namor's true features. Johnny then dumped Namor into the river, successfully restoring Namor's memory. Unfortunately, Namor tried to return to Atlantis, but found an outpost that had been destroyed by nuclear testing during the years he was an amnesiac. He assumed that all his people were scattered where he would never find them.
+
+[[File:Namor the Sub-Mariner Vol 1 12.jpg|left|thumb|Namor and the Invaders]]
+Namor immediately vowed vengeance on the surface world and attacked it, using the giant sea monster [[Giganto (Atlantean Beast)|Giganto]]. The [[Fantastic Four (Earth-616)|Fantastic Four]] were able to stop the Sub-Mariner. During the fight, he became instantly enamored of [[Susan Storm (Earth-616)|Sue Storm]], and offered to make her his bride, and after that, his queen.{{r|Fantastic Four #4}} Namor carried the romantic crush with him for years and she even reciprocated the feelings for awhile, which first became apparent when Namor teamed up with [[Victor von Doom (Earth-616)|Doctor Doom]] to destroy the Fantastic Four.{{r|Fantastic Four #6}}
+
+[[File:Susan Storm (Earth-616) and Namor McKenzie (Earth-616) from Fantastic Four Vol 1 4 0001.jpg|thumb|Namor and Susan]]
+Namor also joined the [[Bruce Banner (Earth-616)|Hulk]] in an attack on the [[Avengers (Earth-616)|Avengers]], but was repulsed when the temperamental Hulk left the fight.{{r|Avengers #3}}{{r|Journey into Mystery #112}} After the battle, Namor stumbled across the still-frozen body of his wartime comrade, Captain America, which was being worshipped by a far-flung Inuit tribe. Enraged, the Sub-Mariner threw the ice block into the ocean. The Avengers happened upon Rogers' thawing body and soon revived the legendary hero.{{r|Avengers #4}} Even though he had been their enemy, Namor had won the Avengers' respect. When the team's original members took a leave of absence, they approached Namor to offer him a place with the Avengers, but he refused.{{r|Avengers #16}}
+
+Shortly thereafter, [[Max Eisenhardt (Earth-616)|Magneto]] approached Namor and asked him to join his first [[Brotherhood of Evil Mutants (Earth-616)|Brotherhood of Evil Mutants]]. Namor fought against the [[X-Men (Earth-616)|X-Men]] in a battle alongside Magneto, but refused to kowtow to the Master of Magnetism and ultimately rejected the offer. {{r|X-Men #6}} Namor disliked the way that Magneto mistreated and threatened the [[Wanda Maximoff (Earth-616)|Scarlet Witch]], and destroyed some of Magneto's equipment in retaliation.{{r|X-Men #6}} Namor felt attracted to the Scarlet Witch, but her beauty reminded him of [[Susan Storm (Earth-616)|Susan Storm]], and he feared that she would hurt him like Susan had done when she rejected him. Namor chose to run away from Wanda.{{r|X-Men #6}}
+
+===Hellfire Club===
+Once [[Sebastian Shaw (Earth-616)|Sebastian Shaw]] was in search of a new person for the title of the White King of the [[Hellfire Club (Earth-616)|Hellfire Club]]. He hosted a party to which he invited the most influential men in the world and tried to decide who would be the best fit for this position. Rejecting the candidacy of [[Iron Man (Anthony "Tony" Stark)|Tony Stark]], he chose Namor, and invited him to join the Club. Namor contemptuously rejected the proposal, saying that if Sebastian once again dared to waste his time on such a minor thing, he would kill him. This drove Shaw into a frenzy, so he ordered [[Emma Frost (Earth-616)|Emma Frost]] to force Namor to join the Club, no matter what the cost. A few days later, she faked a suicide attempt by jumping overboard a yacht to attract Namor's attention. He rescued her and they spent two weeks together in Atlantis. Shaw, however, tired of waiting for news from Emma, and thinking that Namor killed or captured her, decided to send the [[Sentinels]] for her. The Sentinels attacked Namor and Emma and caused damage to Atlantis, and Namor took this as a declaration of war. Finding where the Sentinels came from, Namor, along with Emma, went there and clashed with Shaw, [[Donald Pierce (Earth-616)|Donald Pierce]], and [[Selene Gallio (Earth-616)|Selene]]. Selene mind-wiped Emma to erase the memories of her betrayal and make her loyal to the Club again. Surrounded by two telepaths, Shaw explained to Namor that he would never get close enough to kill him. Namor left but vowed to take revenge one day.{{r|Uncanny X-Men Annual Vol 2 2}}
+
+===Usurper Magneto===
+Later on, Namor, flying near the [[Savage Land]], spotted Magneto lying unconscious near a volcanic eruption. He picked Magneto up and brought him to Atlantis to recuperate. Namor then left Atlantis to join the Fantastic Four on a mission and returned to find that Magneto had usurped his throne. The Fantastic Four and Namor made short work of Magneto, and Namor regained his kingdom.{{r|Fantastic Four #104}}
+
+===Marital Misery===
+Namor returned to Atlantis and became king again, clashing with the surface world on several occasions,{{r|Daredevil #7}} as well as fighting off undersea threats to the city like the rebel leader [[Attuma (Earth-616)|Attuma]].{{r|Fantastic Four #33}} He was supposed to marry his cousin Dorma, with whom he had fallen in love. However, [[Llyra Morris (Earth-616)|Llyra]], an evil princess of [[Lemuria (Pacific Ocean)|Lemuria]], another sub-marine culture, kidnapped and replaced Dorma at the wedding, hoping to usurp Namor's kingdom in that way. Legally, Dorma was the one Namor had married, but he still had to find her. Unfortunately, Llyra had taken Dorma to the surface world in a tank as bait, and when Namor arrived, she smashed the tank to distract him. Namor was unable to save Dorma and nearly went insane from grief.
+
+===Avengers & Defenders===
+[[File:Sub-Mariner Vol 2 1 Textless.jpg|200px|left|thumb|Namor the Sub-Mariner]]
+Unfortunately, trouble brewed often for the Avenging Son of Atlantis, and he lost his kingdom a number of times. He also married [[Alpha Flight (Earth-616)|Alpha Flight]] member [[Marrina Smallwood (Earth-616)|Marrina]], another sea-dweller, but lost her when she turned evil and was killed. During some of his exiles from Atlantis, he joined his former rivals, the Avengers, and helped to found the [[Defenders (Earth-616)|Defenders]]. He also was a member of the short-lived undersea team [[Deep Six (Namor) (Earth-616)|Deep Six]]. During his active membership as an Avenger, his hubris was an obstacle towards teamwork, and his rivalry with [[Hercules Panhellenios (Earth-616)|Hercules]] was particularly notable. His respect for his old comrade Captain America helped to keep this from becoming a major problem. The Defenders, with their looser organizational approach, allowed the Sub-Mariner the "space" he required. It was during his tenure with the Avengers that Namor helped recover the cocoon in which the [[Phoenix Force (Earth-616)|Phoenix Force]] had placed [[Jean Grey (Earth-616)|Jean Grey]], thought to be dead, years earlier. He also fought against Magneto when Magnus tried to rescue his students from Emma Frost and recovered his lost giant horn, which was found by the [[X-Terminators (Earth-616)|X-Terminators]]. Not long afterwards, rogue elements of Atlantean society led by Attuma declared war on the surface, and Namor was presumed killed in the battle, though the Atlantean barbarians were defeated.
+
+===Oracle, Inc.===
+However, Namor had actually survived and surfaced months later in the South Pacific. Nearly mad from his ordeal, he was found by [[Caleb Alexander (Earth-616)|Caleb]] and [[Carrie Alexander (Earth-616)|Carrie Alexander]], a father-daughter team who quickly nursed Namor back to health. It was Caleb who revealed to Namor the truth about his blood chemistry and his "rages," and who equipped him with a monitor that warned him when he had to seek air or water. This allowed Namor to control his metabolism for the first time in his life. Determined to continue to preserve the oceans and his people, but without revealing himself, Namor raided sunken treasures to finance his purchase of an international company he renamed [[Oracle Inc. (Earth-616)|Oracle, Inc.]], using the Alexanders as proxy buyers. Shortly thereafter, however, Namor was forced to reveal his survival when a terrorist bomb detonated on an Oracle submarine super-tanker, threatening the lives of everyone in New York. Then, Namor lost his ankle wings when he unleashed a mutagenic scrambler inside the animated garbage dump called "[[Sluj (Earth-616)|Sluj]]" in order to stop the monster. He dealt with the world of high finance, though it brought him into conflict with the [[Kl'rt (Earth-616)|Super Skrull]], and then to the dimension of [[K'un-Lun]], where he found the hero [[Daniel Rand (Earth-616)|Iron Fist]], who had been presumed dead for many months.
+
+Returning to Earth and investigating the apparent invasion of Earth by the K'un-Lun sentient plant race called the [[H'ylthri]], Namor was forced to fight [[James Howlett (Earth-616)|Wolverine]], who had been captured by the H'ylthri and their associate [[Samuel Smithers (Earth-616)|Plantman]] days before. The battle was fierce, but it was interrupted by the sorcerer [[Khan (Earth-616)|Master Khan]], who destroyed the plant people and returned Wolverine to his place. Khan then wiped Namor's memory{{r|Namor the Sub-Mariner #25}} and dumped him in the American Midwest as punishment for interfering in his plans for Iron Fist. Namor was "missing" for almost a year, and was known as "Rex," until his cousin [[Namorita Prentiss (Earth-616)|Namorita]] was able to track him down using a psychic link to him that she had recently discovered. However, Namor didn't recognize her and rejected her. He didn't regain his memory until a while afterwards, when he and the apparently-resurrected Princess Fen (his mother, who had saved him when he was thrown into the ocean by an explosion) were captured by Dr. Doom's new sonic ram fishing vessel. The boat itself was then magically imprisoned in a bottle by Master Khan, and Khan assumed Namor's form and sold off much of Oracle's holdings. Namor soon broke the bottle and the spell, and then ripped Khan's head off.{{r|Namor the Sub-Mariner #33}}
+
+Immediately thereafter, Namor was called to Atlantis to deal with attacks by the ancient [[Faceless Ones (Earth-616)|Faceless Ones]] on Atlantis' borders. Fen attempted to usurp the throne, and it was soon revealed that she was really the witch-queen [[Artys-Gran (Earth-616)|Artys-Gran]], who had stolen Fen's body in order to release her husband [[Suma-Ket (Earth-616)|Suma-Ket]], a pagan sorcerer-king who had been banished by Namor's ancestor thousands of years earlier. Namor soon confronted Ket and was killed, impaled on Ket's spear. Fortunately, [[Poseidon Aegaeus (Earth-616)|Father Neptune]], the deity worshiped by Atlantis, appeared to resurrect Namor to fight Suma-Ket, whose religion threatened Neptune's existence. In the process, Namor's ankle wings were restored and he was given the sacred golden armor of his ancestor in which to fight. With the help of his people and comrades, Namor defeated Suma-Ket and his forces, though the real Fen, trapped in Artys-Gran's body, died defending her son from a final attack from [[Socus (Earth-616)|Socus]], the villains' servant. Namor eventually returned to both ruling Atlantis and running Oracle, but remained generally out of the surface world. Oracle, Inc. was also funding the charitable super-group [[Heroes for Hire (Oracle Inc.) (Earth-616)|Heroes for Hire]], and the team used an Oracle facility as its headquarters.
+
+Afterwards, Namor was involved in an international dispute with [[Wakanda]] and its King T'Challa (a.k.a. [[T'Challa (Earth-616)|Black Panther]]), and had to deal with Attuma's uprisings again.
+
+===The Order===
+A mystical curse from an old foe, the sorcerer [[Yandroth (Earth-616)|Yandroth]], bound Namor and the three other senior members of the Defenders--[[Stephen Strange (Earth-616)|Doctor Strange]], the Hulk, and the [[Norrin Radd (Earth-616)|Silver Surfer]]--to be transported to scenes of danger and trouble around the world, forcing them into the midst of one deadly crisis after another. Namor and his fellow Defenders eventually freed themselves from this curse, but not before they attempted to take over the world as "The Order," figuring that if they ran the world there would be no crises. The world's heroes tried to stop them, and eventually the curse was lifted. 
+
+===New Invaders===
+Namor allied himself with the [[Invaders (Modern) (Earth-616)|New Invaders]] team, bringing the full might of his Atlantean army to bear wherever needed.
+
+===Reunited With Father===
+Namor was briefly reunited with his father with the help of [[Walter Newell (Earth-616)|Stingray]], although the villainous [[Todd Arliss (Earth-616)|Tiger Shark]] and Llyra later had Leonard killed.
+
+===Llyron===
+Llyra also posed as the Invisible Woman to seduce Namor during a time when [[Reed Richards (Earth-616)|Mister Fantastic]] was believed dead. She later gave birth to a son by [[Leon McKenzie (Earth-616)|Leon McKenzie]], Namor's grandnephew, [[Llyron McKenzie (Earth-616)|Llyron]], and aged him through forbidden magic and technology. Llyron confronted his granduncle over the control of Atlantis, but he and his mother were eventually defeated.
+
+===House of M===
+When the [[Wanda Maximoff (Earth-616)|Scarlet Witch]] altered reality in the event known as the [[House of M]], [[Namor McKenzie (Earth-58163)|Namor]] was idolized by the general public as the first superhero. He was also classified as a superhuman mutant (homo superior). After M-Day, Namor retained his powers. 
+
+===Illuminati===
+Namor was a member of the clandestine policy group the [[Illuminati (Earth-616)|Illuminati]], with Mister Fantastic, Iron Man, Doctor Strange, [[Charles Xavier (Earth-616)|Professor X]], and [[Blackagar Boltagon (Earth-616)|Black Bolt]], although he appeared to be very hostile and arrogant in his opinions and decisions of the group. He violently opposed the group's decision to send the Hulk into outer-space exile, and eventually left the group. 
+
+===Civil War===
+His cousin Namorita was killed with the rest of the [[New Warriors (Earth-616)|New Warriors]] in the [[Stamford]] explosion caused by the super-villain [[Robert Hunter (Earth-616)|Nitro]], which led to the [[Superhuman Registration Act]]. The Illuminati asked Namor back in this light to consider the Act, but Namor refused this as well. For vengeance of his cousin's death, Namor activated sleeper agents of the Atlantean Royal Guard to search for Nitro, who was instead found and captured by the X-Man Wolverine. After his ambassadors were attacked on U.S. soil, Atlantis rebuffed diplomatic overtures. Namor brought an army of Atlanteans to aid [[Secret Avengers (Civil War) (Earth-616)|Captain America's forces]] in the climactic battle between the pro- and anti-registration heroes, but they returned to the sea after Captain America surrendered.
+
+===[[Kamar (Earth-616)|Kamar]]===
+[[File:Namor McKenzie (Earth-616) from Civil War Vol 1 7 0001.jpg|thumb|left]]
+Soon after, Namor discovered he had a long lost son, [[Kamar (Earth-616)|Kamar]], who attempted to usurp the throne of Atlantis by forcing war with the [[United States of America|United States]]. Because most of his former allies had refused to help him during this crisis, Namor was forced to evacuate the entire civilization of Atlantis, ordering his people to emigrate to the surface world to live within sleeper cells, leaving an overcharged Nitro to explode within the empty city-state, assassinating the then-captured Kamar.{{r|Sub-Mariner Vol 2 1|6}} 
+
+===Dark Reign===
+Namor then formed an alliance with the supervillain and European monarch Doctor Doom due to him being the only former ally who offered any assistance after Namor's crisis. This eventually led to an alliance consisting of Emma Frost, Doctor Doom, [[Norman Osborn (Earth-616)|Norman Osborn]], [[Loki Laufeyson (Earth-616)|Loki]], and the [[Parker Robbins (Earth-616)|Hood]], known as the [[Cabal (Dark Illuminati) (Earth-616)|Cabal]].{{r|Secret Invasion: Dark Reign #1}}
+
+As Emma and Namor met again, she finally regained her memories about their first meeting and Shaw's betrayal, so she offered Namor a deal: she would help him kill Shaw, and in return, he would protect and defend mutants as his own people. Namor agreed, so Emma telepathically called Shaw to the Club's mansion. When he arrived, she blinded and immobilized him in illusion, and at the same time showed Namor another illusion in which she killed Sebastian. After convincing Namor that Shaw was dead and enlisting his support for mutants, Emma took Sebastian to [[Graymalkin Industries]] and locked him in the [[Cell Block X|Brig]] for crimes against mutantkind.{{r|Uncanny X-Men Annual Vol 2 2}}
+
+When an Atlantean sleeper cell launched a terrorist attack on [[California (State)|California]], Osborn ordered Namor to publicly denounce the rogues and execute them, leaving one alive to parade before the media. Namor vehemently refused, and walked out on the Cabal.{{r|Dark Avengers #6}} Along with Emma, [[Tyrone Johnson (Earth-616)|Cloak]], and [[Tandy Bowen (Earth-616)|Dagger]], Namor left the [[X-Men (Osborn) (Earth-616)|Dark X-Men]] after helping his lover, Frost, betray the Dark X-Men and Osborn.{{r|Dark Avengers #8}}
+
+Not long after the X-Men relocated to [[Utopia (X-Men Base)|Utopia]], the island base began to slowly sink. To permanently fix the problem, Magneto approached Namor with a plan to build a support pillar to serve the double purpose of preventing the sinking of Utopia and housing the scattered [[Atlanteans]].{{r|Uncanny X-Men #519}} Namor agreed and [[New Atlantis (Atlantean Pillar)|New Atlantis]] was constructed just beneath Utopia.{{r|Uncanny X-Men #519|521}} Soon hundreds of Atlanteans came to their new home. Namor later fought alongside the X-Men during [[Bastion (Earth-616)|Bastion]]'s massive assault on Utopia.{{Citation}}
+
+===Curse of the Mutants===
+When [[Xarus (Earth-616)|Xarus]] led his united vampire nation to [[San Francisco]] to convert the X-Men, Namor was sent to reclaim the head of [[Vlad Dracula (Earth-616)|Dracula]] from the [[Aqueos]]. This provoked the long forgotten horrors into attacking New Atlantis. During the fighting, [[Alani Ryan (Earth-616)|Loa]] almost drowned but was saved by an [[Atlantean Amulet|Atlantean amulet]] which gave her the ability to breathe underwater. After the Aqueos were defeated, Namor was praised as a hero by his people.{{r|{{cl|Namor: The First Mutant Vol 1 1}}-[[Namor: The First Mutant Vol 1 4|4]]}}
+
+===Hell and Back===
+After studying Loa, [[James Bradley (Earth-616)|Dr. Nemesis]] concluded that the Atlantean amulet had permanently changed Alani's physiology due to the way it reacted with her X-Gene; even without it, she could breathe underwater. However, the transformation had not ceased when the amulet was removed. Within four to five hours, she would be unable to breathe air. Namor himself broke the news to Alani, who took it badly. Inexplicably, spectres emerged from the amulet and dragged Namor back inside to Hell. Wolverine's recent escape from [[Hell]] had softened the borders between realms, allowing the spirits to use the amulet as a channel to kidnap Namor.
+
+In Hell, Namor found himself in a desert, taunted by skeleton-headed creatures. Any water he found retreated from him. He then came across the disembodied heads of dead Atlanteans, including [[Kadar (Earth-616)|General Kadar]]. Namor finally found his way to an ocean. Upon diving in, he was assailed by a giant skull-headed octopus and was surprised that the water hadn't restored his strength. The ocean was revealed to be an illusion, and the skeleton-headed creatures revealed their identities to Namor; they were the dead Kings of ancient Atlantis.{{r|Namor: The First Mutant #5|9}}
+
+Back in New Atlantis, the options to rescue Namor proved to be few and difficult. However, an unexpected guest arrived to offer assistance: Doctor Doom. Doom eventually abandoned Namor in Hell and departed alone, leaving Namor and his remaining allies to fend for themselves. They eventually returned, only to find a rebellion led by Krang and his ally, [[Selach (Earth-616)|Selach]]. Krang eventually defected and Selach was defeated, but to do so [[Abira (Earth-616)|Abira]], Namor's latest love, had to become the new Logomancer to replace the [[Logomancer (Earth-616)|old one]], losing her emotions in the process.{{r|{{cl|Namor: The First Mutant Vol 1 10}}-[[Namor: The First Mutant Vol 1 11|11]]}}
+
+===Fear Itself===
+After [[Sinthea Shmidt (Earth-616)|Skadi]] released the malevolent [[Cul Borson (Earth-616)|Serpent]], he summoned the seven hammers of the [[Worthy (Earth-616)|Worthy]] to Earth. One of those hammers transformed Attuma into [[Nerkkod (Earth-616)|Nerkkod]], Breaker of Oceans. He devastated Namor's kingdom, forcing him to turn to Stephen Strange for assistance. The Defenders were reformed, consisting of Namor, Strange, Loa, and [[Lyra (Earth-8009)|Lyra]], daughter of the Hulk and herself a She-Hulk. They later were attacked by the [[Undying Ones]], demons who broke through Earth's dimension as a result of the global panic weakening the barriers between the dimensions, and who made a deal with Nerkkod to help them take over Earth.{{r|{{cl|Fear Itself: The Deep Vol 1 1}}-[[Fear Itself: The Deep Vol 1 4|4]]}}
+
+===Regenesis===
+Namor became a member of [[Scott Summers (Earth-616)|Cyclops']] Extinction Team, helping fight [[Nathaniel Essex (Earth-616)|Mister Sinister]] and his clones, and investigating [[Tabula Rasa]], and dealing with [[Unit (Earth-616)|Unit]].{{Citation}}
+
+===Avengers vs X-Men===
+Namor stood with his fellow X-Men against the Avengers. He fought both [[Luke Cage (Earth-616)|Luke Cage]] and the [[Benjamin Grimm (Earth-616)|Thing]]. After a short battle, the X-Men feigned a surrender and teleported out of Utopia to give them a head start in searching for [[Hope Summers (Earth-616)|Hope Summers]]. The X-Men eventually located Hope on the [[Luna (Moon)|moon]] and Namor, [[Scott Summers (Earth-616)|Cyclops]], Emma Frost, [[Piotr Rasputin (Earth-616)|Colossus]], and [[Illyana Rasputina (Earth-616)|Magik]] teleported to the Moon in order to find her. They were confronted by the Avengers, who were also there to find Hope. Before a fight could break out, [[Thor Odinson (Earth-616)|Thor]] fell from the skies, followed closely by the Phoenix.{{Citation}}
+
+[[File:Phoenix Five (Earth-616) and Hope Summers (Earth-616) from Avengers vs. X-Men Vol 1 5 0001.png|thumb|Phoenix Five]]
+A fight then broke out between the X-Men and the Avengers while Iron Man built a weapon to fight the Phoenix. Iron Man attacked the Phoenix, but instead of destroying it, the Phoenix fragments turned all five of the X-Men into avatars. Namor and the rest of the avatars took Hope back to Earth in order to prepare her.{{Citation}}
+
+The [[Phoenix Five (Earth-616)|Phoenix Five]] built a grand new Utopia, a floating fortress, for mutantkind. They began working to provide power, food, and water for all the Earth. Not content with just that, they outlawed war altogether. The Avengers, however, mistrusted the Five. Wishing to prepare for the day when the Five would lose control and become destructive, they tried to retrieve Hope from Utopia. Cyclops and Emma alone defeated the Avengers, but they were saved by the timely intervention of the Scarlet Witch, who teleported the Avengers and Hope to safety.{{Citation}}
+
+Scott realized they needed to hunt down the Avengers, imprisoning some of their members, while the rest were outlaws. Namor, against Cyclops' will, sought to finish the Avengers. He headed to [[Wakanda]] and raised a massive wall of water from a nearby lake to drown them, destroying almost the entire kingdom and killing an untold number of innocents in the process. Following this was his defeat by the combined forces of all the Avengers present in Wakanda. After Namor fell, his portion of the Phoenix Force was bequeathed to the remaining Phoenix Five.{{Citation}}
+
+Namor returned to Atlantis after his de-powering and remained there for the rest of the battles. He was then approached by Hope, who came seeking files belonging to [[Nathaniel Summers (Earth-616)|Cable]]. Hope asked him if he was okay after his possession and Namor initially defended his actions as a Phoenix, but then remarked on how being possessed made him feel like a single krill lost in endless oceans and departed.{{Citation}}
+
+===The Incursions===
+After an event in Wakanda, Black Panther reconvened the Illuminati, Namor included, to face the threat of colliding universes brought to their attention by the [[Yabbat Ummon Turru (Earth-1365)|Black Swan]]. After facing two incursions, tension built within the group with Wakanda and Atlantis on the brink of all-out war. Namor proposed a peace treaty with T'Challa in the belief that the incursions were too important for them to be distracted by war. T'Challa agreed to bring it before the council, but the Queen of Wakanda, [[Shuri (Earth-616)|Shuri]], rejected the offer, feigning acceptance while preparing her armies. While Namor celebrated the peace with T'Challa, T'Challa revealed the truth, and Namor left to find Atlantis a ruin after an attack by Wakanda.{{r|New Avengers Vol 3 7}}
+
+Moments after discovering the ruins of his city, Namor was approached by [[Proxima Midnight (Earth-616)|Proxima Midnight]] and [[Thanos (Earth-616)|Thanos']] invading army. Proxima had come to kill Namor, raze Atlantis, and take his [[Infinity Gem]], but upon seeing the ruins of Atlantis, she realized that Namor did not have a gem in his possession. She offered to spare Namor and Atlantis in return for the location of the gems and his allegiance to Thanos. Namor pledged his and Atlantis' allegiance to her and told her that the gem was in Wakanda, a lie to trick Thanos into destroying Wakanda for him.{{r|New Avengers Vol 3 9}}
+
+This caused the [[Black Order|Black Order]] to come across the Necropolis and get hold of the Illuminati's anti-matter bombs.{{r|Infinity #5}} However, the Illuminati later defeated their forces and secured their arsenal, albeit somewhat damaged from the ordeal.{{r|Infinity #6}}
+
+The next Incursion pitted the Illuminati against the [[Great Society (Earth-4290001)|Great Society]] of [[Earth-4290001]], a group of noble heroes who had been able to prevent the destruction of their Earth without bloodshed. However, the Society no longer had the means to prevent this Incursion in the same way as the others. While the two groups argued over what to do, Namor dealt the first blow, declaring that a battle for survival was the only possible outcome.{{r|New Avengers Vol 3 19}} When the Illuminati won the battle, they planted the anti-matter injector and returned to Earth. When they had to decide who would activate the anti-matter injector, both Mister Fantastic and Black Panther tried to do it, but failed, realizing they were not capable of such a monstrous act. Namor derided them for holding their own morals above the lives of two universes, and he was the one to finally activate the trigger, destroying the other inhabited Earth.{{r|New Avengers Vol 3 21}} Following this course of action, the Illuminati confronted Namor for what he had done. The friction between Namor and T'Challa escalated, and after revealing that he was the one who led the Black Order into assaulting Wakanda, Namor left the team.{{r|New Avengers Vol 3 22}}
+
+With a new Incursion happening immediately after, and with the Illuminati resigning themselves to their fates, Namor contacted the Inhuman scientist [[Maximus Boltagon (Earth-616)|Maximus]] and freed Thanos, Proxima, [[Corvus Glaive (Earth-616)|Corvus Glaive]], [[Tyros (Earth-13054)|Terrax the Truly Enlightened]], and Black Swan. Together they re-formed the [[Cabal (Namor's) (Earth-616)|Cabal]], willing to destroy other Earths to save both universes, and the new team began destroying these other Earths.{{r|New Avengers Vol 3 23}}
+
+===Time Runs Out===
+Eight months after the re-formation of the Cabal, it had received legitimacy as the world's protectors and been sanctioned by the United Nations. The world allowed the Cabal to raze Wakanda and claim the ruins as their new base of operations. They continued to protect universes by destroying colliding Earths, but despite this, Namor had grown weary. He had quickly become disgusted with the Cabal, as they delighted in bringing murder and mayhem to the worlds they faced rather than quickly and painlessly destroying them as he would have liked. Namor clashed with the Cabal, even going so far as to try and assassinate them during an Incursion, but his plot failed, and after a brutal beating from Thanos, Namor was forced into submission.{{r|Avengers World Vol 1 21}}
+
+He sought out his old ally [[Victor von Doom (Earth-616)|Doctor Doom]] and asked him to join the Cabal, believing that together, they could keep the Cabal under control. Doom refused however, judging Namor as broken and weak, and telling him that he should have to come to him first instead of re-creating the Cabal.{{r|New Avengers Vol 3 24}}
+
+Namor, now willing to turn himself in for his crimes in order to stop the Cabal, devised a plan with the Illuminati to destroy them. A new Incursion was on the horizon, one in which the incursive world had been ravaged by the [[Sidera Maris (Multiverse)|Mapmakers]]. Namor would lead the Cabal to said world, activate the anti-matter injector without their knowledge, and leave them to die with said Earth, preventing them from escaping with the use of an A.I.M. platform capable of creating an impenetrable barrier between the two colliding Earths. However, as Namor was preparing to activate the platform, Black Panther and Black Bolt ambushed him. They incapacitated Namor and threw him off the platform to the soon-to-be-destroyed Earth, unwilling to forgive his past actions.{{r|Avengers Vol 5 40}}
+
+The Cabal confronted Namor over his sudden disappearance, so he lied, claiming he had seen a strange object in the sky and gone to investigate. He warned them about the trap the [[Illuminati (Earth-616)|Illuminati]] had set, omitting his part in it, and luckily, a means of escape presented itself in the form of yet another Incursion happening simultaneously. Namor and the Cabal narrowly fled to the other world, the [[Earth-1610|Ultimate Universe]], where they encountered [[Reed Richards (Earth-1610)|The Maker]], this universe's counterpart of Reed Richards.{{r|Avengers Vol 5 41}}
+
+===Secret Wars===
+In the end, the only two remaining universes were Earth-616 and Earth-1610. During the inevitable final Incursion, the Maker created a vessel to act as a life raft to ensure his and the Cabal's survival following the destruction of the Multiverse.{{r|Secret Wars Vol 1 1}} The life raft ultimately found its way into [[Battleworld (Latverion)|Battleworld]], a patchwork planet composed of the remnants of universes, controlled by the now-omnipotent Doctor Doom.
+
+Eight years after the formation of Battleworld, the life raft was discovered and its passengers were awakened from suspended animation.{{r|Secret Wars Vol 1 2}} The presence of the Maker and the Cabal caught the attention of the [[Thor Corps (Earth-15513)|Thor Corps]], Battleworld's police force, who tracked down the interlopers and confronted them.{{r|Secret Wars Vol 1 3}} The survivors of Earth-616, who had also made their way to Battleworld in a similar protective vessel, joined the brawl. Among the survivors were Mr. Fantastic and Black Panther. When God Emperor Doom stepped in to confront the intruders, [[Stephen Strange (Earth-616)|Doctor Strange]], the sheriff of Battleworld and right hand of Doom, teleported them away to save them from God's wrath.{{r|Secret Wars Vol 1 4}}
+
+Namor and Black Panther made peace with each other and made their way to the hidden [[Isle of Agamotto]], a sanctuary built by Doctor Strange that housed some items of power to challenge Doom, including an Infinity Gauntlet.{{r|Secret Wars Vol 1 6}} Namor and Black Panther subsequently teleported to [[Doomstadt]], the capital of Battleworld, in order to overthrow Doom.{{r|Secret Wars Vol 1 8}} Namor was blasted by Doom in the ensuing battle, killing him. However, he was brought to life together with the rest of [[Earth-616|his universe]] after Mr. Fantastic was given Doom's omnipotent powers and used them to rebuild the Multiverse.{{r|Secret Wars Vol 1 9}}
+
+===Death and Return===
+After having returned to his reborn universe, Namor was targeted by the [[Squadron Supreme (Earth-616)|Squadron Supreme]], a group of heroes from different universes, whose Earths had been destroyed by the Incursions, some of them by Namor himself alongside the Cabal. As part of their plan to preemptively tackle any threat, the Squadron Supreme destroyed Atlantis and killed Namor, under the allegations that due to Namor's past history of trying to invade the surface world, he was a potential danger to the planet.{{r|Squadron Supreme Vol 4 1}}
+
+Namor was revived soon after by the time-distorted phantoms of [[Doctor Spectrum (Nenet) (Earth-4290001)|Doctor Spectrum]] and [[Marcus Milton (Earth-13034)|Hyperion]], and sent backwards in time due to a mishap with Reed Richards' now-magically enhanced time machine.{{r|Squadron Supreme Vol 4 12}} Atlantis was subsequently rebuilt after the return of Namor. The scattered Atlanteans eventually returned to their city, with Namor back on the throne.{{r|Nick Fury Vol 1 4}}
+
+===Secret Empire===
+A short time following Atlantis' restoration, [[Steven Rogers (Earth-61311)|Captain America]] established a Hydra Empire in the United States after having been turned into a Hydra double-agent by a [[Cosmic Cube]].{{r|Secret Empire Vol 1 1}} Even though Atlantis remained neutral, the city came to be at odds with the United States' new government due to having come into possession of a fragment of said Cosmic Cube, which Hydra desperately wanted.{{r|Secret Empire Vol 1 3}} Namor refused to hand over the shard at first and even denied having it,{{r|Captain America: Steve Rogers Vol 1 18}} but after America's forces destroyed an Atlantean temple,{{r|Secret Empire Vol 1 3}} Namor decided to turn over the shard to Rogers to spare Atlantis from further devastation.{{r|Secret Empire Vol 1 4}}
+
+To protect Atlantis from the surface world's growing problems, Namor ruled like a tyrant and placed the entire city on lock-down while suppressing free thought and locking up anyone that didn't comply.{{r|Secret Empire: Brave New World Vol 1 4}} He also locked up his fellow Invaders the Human Torch and [[Thomas Raymond (Earth-616)|Toro]] when they came to Atlantis for refuge from Hydra, so Atlantis wouldn't incur the wrath of Hydra. This caused a rebellion to form to resist Namor's rule and attempts to assassinate him on a number of occasions.{{r|Secret Empire: Brave New World Vol 1 1}} Namor eventually captured the leader of the rebellion: his cousin Namora. Namora requested that she be publicly executed for her treason as she preferred it to prison. Namor complied with the request.{{r|Secret Empire: Brave New World Vol 1 3}}
+
+Namor temporarily lifted Atlantis' lockdown so its people could witness Namora's execution. Namor personally oversaw the ceremony. As he was about to execute Namora with a sword, someone unexpectedly threw a trident at Namor that pierced his right side. The crowd that came to witness the execution then swarmed Namor and shouted that his tyranny end.{{r|Secret Empire: Brave New World Vol 1 4}}
+
+Namor didn't attempt to fight back as he didn't want to hurt his people. Namor was unexpectedly saved by Human Torch and Toro after Torch created a cloud of bubbles with his heat powers. Namora then had the mob stand down and revealed that everything that she had done was set up so Namor could realize that he had shut himself away from his people, causing him to become a dictator, and learn the error of his ways. Namor admitted that he was wrong for imposing authoritarian measures on Atlantis and agreed to end them.{{r|Secret Empire: Brave New World Vol 1 5}}
+
+Angry for being forced to hand over the Cosmic Cube fragment by Hydra, which made him look weak in front of his people, Namor decided to play his final card: Bucky Barnes. Namor had rescued Barnes from drowning after Baron Zemo's attempt to kill Barnes failed. Barnes then secretly lived in Atlantis while impersonating one of Namor's bodyguards.{{r|Captain America Vol 8 25}} When the heroes that opposed Hydra's regime finally reunited after being separated for months, Namor appeared before them and let Barnes join their team.{{r|Secret Empire Vol 1 8}}
+
+===ResurreXion===
+A newly resurrected [[Jean Grey (Earth-616)|Jean Grey]] came to Namor looking for nations to recognize her mutant nation at a [[United Nations|U.N.]] assembly. An [[X-Lantis|abandoned ruin]] near the Atlantean capital subsequently became the base of operations for Jean's [[X-Men (Jean Grey's) (Earth-616)|team]] as they worked to overcome [[Cassandra Nova (Earth-616)|Cassandra Nova]]'s [[Nano-Sentinels|Sentinites]]. Under Nova's direct influence, [[Poland]] passed a law to detain all [[Homo Superior|mutants]]. Under Jean's direction, Namor arrived upon one of Poland's beaches to rescue dozens of mutants and their families, with an ultimatum to a Polish general that air and sea travel over the [[Baltic Sea]] would become unsafe for Poles otherwise.{{r|{{cl|X-Men: Red Vol 1 1}}-[[X-Men: Red Vol 1 5|5]]}}
+
+Harboring the X-Men led Atlantis to be attacked by a mind-controlled [[Jamie Carlson (Earth-616)|Teen Abomination]]. Namor worked to save his people, only to be restrained from doing so by Abomination. The X-Men arrived to rescue the Atlanteans and cure Abomination.{{r|X-Men: Red Vol 1 7}} After the X-Men destroyed all the Sentinites, Namor lent himself and his warriors, equipped with both respirators and replicas of [[Magneto's Helmet|Magneto's helmet]], to battle against Cassandra's mind-controlled military on the beaches of the ruined [[Genosha]].{{r|{{cl|X-Men: Red Vol 1 10}}-[[X-Men: Red Vol 1 11|11]]}}
+
+===War Ghosts===
+An illegal [[Roxxon Energy Corporation (Earth-616)|Roxxon]] whaling ship was attacked by Namor and a cadre of Atlantean warriors. While Namor continued to destroy their submersibles, the warriors were defeated and killed by the heavily-armed Roxxon crew. Namor subsequently captured the ship with a Kraken-sized giant squid.{{r|Avengers Vol 8 8}}
+
+The newly reformed [[Avengers (Earth-616)|Avengers]] descended below the depths to advise Namor on what to do with his Roxxon prisoners. In the obligatory demonstration of might before words, they found Namor to be immune to all of their attacks. The Avengers also saw how Atlantis had been devastated by the [[Final Host]]. Namor agreed to hand over his captives to [[Steve Rogers (Earth-616)|Steve Rogers]]. In the days that followed, a group of homeless, starving Atlantean children tried to escape by emerging from the ocean, only to suffocate in the atmosphere while nearby humans did nothing. Namor subsequently declared war on the surface world and had the Roxxon prisoners executed remotely through [[Glossary:Hydrokinesis|hydrokinesis]].{{r|Avengers Vol 8 9}}
+
+Namor's first act of war was to forcibly evict those he considered to be trespassers within his domain, starting with [[Hydropolis]]. While his [[Defenders of the Deep (Earth-616)|Defenders of the Deep]] terrorized the scientists of Hydropolis, the Avengers returned to talk Namor down again. While parleying, Namor saw his giant piranhas were about to kill some of the civilians. Seeing them ignoring Namor's commands to cease, the Avengers stepped in, beginning a brawl between the two teams. Soon, a newly reformed [[Winter Guard|Russian super-team]] joined the fight against Namor. In the ensuing chaos, Namor was able to move to execute his unruly giant piranhas, and subsequently retreated.{{r|Avengers Vol 8 10}}
+
+====The Best Defense====
+Namor's next step was to gather further allies in his surface war. He, therefore, chased legends of a long-lost sub-species of [[Homo mermanus]], the [[Vodani]]. After a week of travel through dark, crushing depths of the deepest ocean tunnels, he finally discovered the Vodani, who overpowered him. Namor's pleas for an alliance were rejected as foolish by the [[Okun (Earth-616)|Okun]], King of the Vodani.<!--{{r|Namor: The Best Defense Vol 1 1}}-->
+
+Okun's daughter [[Kataw (Earth-616)|Kataw]] thought more of Namor's warnings and continued to plead Namor's case to her father. Thus, Okun set Namor an improbable task to prove his worth: defeating a powerful [[Skrilkrak (Earth-616)|monstrous octopus]]. Kataw, ignorant of the existence of surface dwellers, accompanied Namor on his task to learn more. Namor could not defeat the creature alone, but with Kataw's ability to channel bio-electricity they defeated the octopus.<!--{{r|Namor: The Best Defense Vol 1 1}}-->
+
+Unfortunately, Okun had sent Namor on this mission to be rid of him, and attacked him to succeed where the beast failed. Namor, enraged, grabbed Okun and took them both above the surface of the ocean, only to find that the path he had travelled to [[Vodan]] had taken him via a portal to a water-world with no atmosphere.<!--{{r|Namor: The Best Defense Vol 1 1}}-->
+
+Okun succumbed to the vacuum first, but Namor was too weak to return to the ocean by that point. As he drifted towards his death, he was unexpectedly rescued by the [[Silver Surfer's Surfboard]].{{r|Namor: The Best Defense Vol 1 1}} It took him to fight [[Conductor (Earth-616)|a being]] already engaged in combat by the [[Norrin Radd (Earth-616)|Silver Surfer]], [[Bruce Banner (Earth-616)|the Hulk]], and the future ghost of [[Stephen Strange (Earth-616)|Doctor Strange]].
+
+Vodan was swept into the planet-sized train of destruction directed by the Conductor, but events soon conspired to eject the planet to face an icy doom outside of a star's influence. Namor, now riding the Silver Surfer in lieu of the board, pleaded with him to save Vodan. Incensed by Namor's offer to Kataw to channel some of his life energy to provide the Silver Surfer with enough power to teleport their planet to a safe place, Kataw instead sacrificed her own life without either being able to stop her. Namor later admitted to the Surfer that he intended to sacrifice part of his life to undermine Kataw's rule and forge the very alliance he had first come to Vodan for, but did not understand the Vodani culture or expect her to sacrifice herself.{{r|Defenders: The Best Defense Vol 1 1}}
+
+====Omega Sea====
+Namor's fledgling war upon the surface continued to cause him to be haunted in his dreams by his part in the events of [[World War II]]. He took his adviser [[Machan (Earth-616)|Thomas Machan]] with him to reconquer another of his lost tribes, the [[Sea Blades]]. To defeat them and gain their loyalty, he once again appeared to command the sea to move to his will, parting the water to leave the Sea Blades to suffocate, until their leader [[Karris (Earth-616)|Karris]] acknowledged him as king. Meanwhile, Machan, despite appearing as a normal Atlantean, appeared to be able to breathe air and fly as Namor did. As Karris submitted, he also asked how Namor was able to do so, but Namor was keen to make it appear as if it was solely in his power to control the water. It was soon revealed that Machan was not visible to others, and shared the name and appearance of a [[Machan (Earth-616)|soldier]] that died in Namor's arms on a beach during World War II.{{r|Invaders Vol 3 1}}
+
+Namor then returned to Atlantis with the Sea Blades. He later released Captain America after he was captured so that they could discuss matters but ended up brutally attacking Steve with his own shield when Steve referred to him as a friend. He then displayed that he had stolen [[Morris Bench (Earth-616)|Hydro Man]]'s powers and ordered the Captain to leave and to tell all the other heroes that the seas were now sacrosanct. Later on, he visited Nay Peterson, who revealed that Jim Hammond found the photo of Namor and Xavier. Machan privately suggested that he kill the Peterson family so that they would no longer be liabilities.{{r|Invaders Vol 3 2}}
+
+Namor's advisors informed him that his missiles were almost complete and only lacked a single component, and Machan once again suggested that the Peterson family be dealt with. When Captain America and Jim Hammond arrived at the Peterson residence to talk to Randall, Nay sent a message to Namor, who sent Captain America flying into the ocean when he arrived. Randall berated Namor for his actions, but the stress of the situation caused his heart to give out, and Namor flew away in tears.{{r|Invaders Vol 3 3}}
+
+He would next be seen after having agents within the American navel base instigate a missile attack where-in he would initiate retaliatory strikes in response, after having dispatched the original Human Torch with his trident.{{r|Invaders Vol 3 4}} He was confronted by Captain Rogers whom was disgusted and reviled at the actions he and his soldiers had taken; but had become all the more horrified when his former friend had engineered everything to play out the way it had from the get go.{{r|Invaders Vol 3 5}} Instigating infiltration's of world governmental armed forces, tricking the avengers into playing defense against Atlantis's perceived enemies while at the same time. Having successfully launched a counter assault from an offshore site to bombard the sleepy town turned into a battlefield which they've occupied.
+
+As people steadily transformed into water-breathers under the effects of the missile strikes chemical payload release, the Submariner would make contact with Roman Peterson after the marine base has been flooded and all personal not effected by the transformative compound had been flooded. They would meet up with Nita and Captain America just as the latter had gotten her into the water as she was transforming.{{r|Invaders Vol 3 6}}
+
+In-spite of everything that has happened Namor would seek to reach out and make contact with a fellow war veteran; the Winter Soldier. All while under pressure from the Machan entity whom still coaxed his king to take on the hard choices in effort to save the world from itself. Finding comfort in the arrival of Roman whom finds great relish in becoming Atlantean yet laments that his mother isn't with them.{{r|Invaders Vol 3 7}} Namor returns his affection by promising she will be counted amongst their number one day after the great plan has been enacted. The sea king finds himself dismayed at the sight of Russian converts entering Atlantis as he had not sanctioned any drone delivery system to implement such an operation.
+
+Namor becomes more and more disenchanted with Machan as the psyche apparition continues to work around his wishes without consent. But the ghostly advisor manages to curry favor with his mindscape guide by calling in armed forces to hand their liege the Serpent Crown; supposedly in order to give greater protection of Mr. McKenzie's brittle mind.{{r|Invaders Vol 3 6|7}}
+
+He would later meet up with James Barnes in Saujon, France in order to reminisce about old times. In truth however Namor wished to recall the number of time when the trauma like psyche specter had secretly been influencing his actions since the time he'd bought the surface world company Oracle Inc. about how they would harvest the remains of Tim Rhodes; the mutant whom he and Xavier had encountered some decades prior to Bucky's return. In order to harness his the genetic template with which they could synthesize the transmogrifying [[Genus Formula]] to enact a grand master plan of putting the world under Atlantis's thumb.{{r|Invaders Vol 3 8}}
+
+That the ghost of the past would explain how he'd manipulated events from behind the scenes so Atlanteans turned human could infiltrate world governments on their behalf by undergoing tests to suss out any ill effects the compound will have upon them. All so that he could implement his ideal means of saving the world, Bucky was outraged to hear this as it wasn't any different than the methods used by the genocidal madmen whom they fought against back in WWII. During a heated argument between the former heroes, the Machan effigy would push Namor to kill Bucky so that he doesn't jeopardize the plan that He'd come up with without his core persona's consent. But Namor instead reacted in a violent outburst while arguing with his own dementia as it cuffed him about being the best part of himself which the King made to act on his underlying desires.{{r|Invaders Vol 3 8}} Seeing as things had gone as far afield's of south as can get, James would enact his trump card by calling in Susan Storm-Richards to restrain and try to talk him down. Unbeknownst to them however, Namor plays his own final hand in revealing his secret weapon which Machan had secured for him to better strengthen his ailing mental health. Before taking off to parts unknown the King of Atlantis would impart the final details of his ultimate scheme; all while citing his disappointment with Bucky's seeming shortsightedness. The victim of said tongue-lashing conveying his fear of such a plants execution enough to insight immediate reconnoitering with his fellow Invaders.
+
+While sending Roman out to reconvene with Atlantis, Namor would have another bout with Machan regarding striking out at Roxxon corp using Genus altered Atlanteans in their latest resource exploitation campaign.{{r|Invaders Vol 3 8}} But when his Defenders of the Deep begin slaughtering people left and right without his orders, he is dismayed to find that Machan had ordered the massacre behind his back again.
+
+The escapade is soon preempted by the intervention of the Invaders. Namor would buy time to cover his escape from the scuttled incursion by taking Jim Hammond's sidekick Toro hostage while monologuing that while his actions have broken the bond of trust he had with the Invaders, it would still benefit the whole of the world in the long run before Knocking Toro out and fleeing. Finally having become fed up with the Machan entity, Namor's war ghost confronted him about how Xavier created the mental councilor to help him cope with his trauma but boasted that it had instead taken on a life of its own now. Once having assigned Roman Peterson to meet with them after the Roxxon oil rig raid, Machan leaps from Namor's mind and into the impressionable protege the psychic manifest coaxed his former king into raising to detesting the surface. All so the manifest of Namor's conniving and ruthlessness could usurp their wards body to take on a life of its own.{{r|Invaders Vol 3 9}}
+
+Furious at the way his own mania had played him for a fool, Namor quickly rushes back towards Atlantis to confront his now escaped mental parasite. Only to be waylayed by an invading force whom'd found a way around the protective barrier surrounding his domain. 
+
+After finding out the soldiers whom he'd dispatched were of Roxon's employ, he is later informed that a second wave had never taken up the rear after having dispatched the initial assault. It is then where Namor deduces the attack was a distraction while the main forces went after their real objective. Having risen to the surface to confront the mercenaries of the energy company, Namor finds Captain America making off after having secured a canister of the formula the Submariner had created.{{r|Invaders Vol 3 10}}
+
+During a scuffle between the three clashing factions, the chemical sample Rogers had stolen broke. Causing both Namor and his friend turned enemy human, costing the haughty mariner king his transhuman abilities.{{r|{{cl|Invaders Vol 3 10}}-[[Invaders Vol 3 11|11]]}} 
+
+Having spent several weeks stranded upon an uncharted island Namor began to lose hope for finding escape while Steve secured food and rations for the both of them. But some convincing on Roger's part about acting like a king for once in his life roused action in his being. The two of them would banter a bit about how the whole world would care nothing for seeing him roast over a spit for all the vile things he's done so far, but the Captain feels there is still some good to be found in the broken lord of water.{{r|Invaders Vol 3 11}} But the avenging son has difficulty believing that as Machan might have coaxed all of the happenstances of his insane plans, Namor doubts that he wouldn't have gone through with all of the insidiousness that propagated his latest scheme however. Even without a malignant culmination of all his more despicable traits rutting around in his head convincing him to go through with it. Just as Steve attempts to soothe Namor's newfound guilty conscience, he notices something eerily similar to civilization on the horizon as they trek through the jungles of the island.{{r|Invaders Vol 3 11}} Finding the facility unlocked, they make their way inside; but not before Captain Rogers hands Namor his shield due to having been rendered baseline human due to the serum's effects. But the Submariner quickly became enraged at the sight of Roxxon scientists conducting horrendous experiments involving the Genus Compound and other miscellaneous hybridization tests. Flying off without a plan Namor was quickly beset by a Roxxon thug in an exo-mantle, the good captain demands that Namor secure the compound and flee while he distracts their assailant but the former refuses to abandon his blood brother. Quick thinking on the captains part would restore Namor's lost mutant powers, chucking a mutant sample of the compound just as Namor was getting pummeled by the armored stooge. After dispatching the bodyguard of the scientists, he would feign letting them go while also releasing their feral chimera's right behind them. 
+
+Cap was appalled at such a maneuver after finding the cadavers left in the wake of their creations, only to be further incensed by how Namor had intended to leave the problem he'd created to his former comrades whilst hiding behind his entitlement and dedication to his people to justify it. But Mr. Rogers demanded his former contemporary to follow through on his promise that the two of them made long ago, that being once an Invader always an Invader.
+
+Now aligned with former adversaries to stop the manifest of all his qualities. Namor divulges the true scale of the Omega Sea plan, using [[The Spear]] as a means to pressure the nations of the world into submitting to Atlantean rule and conversion into water-breathers via the Genus Compound.{{r|Invaders Vol 3 12}} Said atlantean device would draw upon the waters from the ancient homeworld of the atlantean race through it. Transforming said waters into a great and heavy rain that would steadily but gradually trigger flash flooding with the intent of turning Earth into a water laden planet to which all would submit to Atlantis' rule.
+
+After being silenced by a few on board still not comfortable with the one whom caused all of this, Namor and his Invader compatriots make ready for battle against his manifested inner demons. After disabling the protective field surrounding the doomsday device, Namor is quickly suborned to Machan by the power of the Serpent Crown.
+
+Having intercepted an attack by Captain America directed towards the Machan possessed Roman. Namor drags Steve into the sea where the two do battle for a brief period, wherein the captain notices his frenemie is pulling his punches. Indicating that Thomas's hold on the puppet king is not completely solidified. Compelled to remember all the times when the odds were stacked against them and they always had each others backs no matter what. Namor was able to break his oppressive phantasms hold on his mind to aid in defeating the worldly assailant. But when after the crisis was averted and the sea king would profess to reverse The Spear's function in order to return the excess waters pulled from another world to Earth and undo the damage done by their plan.{{r|Invaders Vol 3 12}} Captain Rogers opted to dissuade him from bringing his tormentor to Atlantis in order to stand trial for crimes against humanity by stating if he doesn't let surfacers deal him his penance instead. He will still be held accountable for everything that happened putting Atlantis in the cross-hairs of the planets ire for his and Machan's petty schemes. Reminding Namor about how being a king requires sacrifice and in this case, what was to be forsaken for restoring stability to the world was Namor's forgoing his thirst for retribution. Something the good soldier gracefully asked his former comrade if he could do for the sake of his kingdom and for the sake old camaraderie.{{r|Invaders Vol 3 12}}
+
+===War of the Realms===
+During [[Malekith (Earth-616)|Malekith]]'s assault on Midgard in his final bid to conquer the Ten Realms, Namor continued defending his borders.{{r|War of the Realms Vol 1 3}} He wasn't too pleased to find [[Wade Wilson (Earth-616)|Deadpool]]; an initiate of Captain Marvel's [[War Avengers (Earth-616)|War Avengers]], in the belly of a [[Muspelheim Firesharks|Fire-Breathing Shark]] whom Wade had finagled into chasing him into the sea to douse its molten heat.
+
+When Captain Marvel proposed a brief alliance to help mitigate the chaos everyone is beset by, Namor flatly refused her offer while the two made their way out of the besieged Atlantis.{{r|War of the Realms Strikeforce: The War Avengers Vol 1 1}} After the war had concluded and a relative calm was restored to the Earth once more, Namor would corral all the Muspelheim Firesharks he could find around the oceans and headed them into and around the waters of [[Avengers Mountain]] as a mocking gesture to his perceived enemies.{{r|Avengers Vol 8 21}}
+
+===Dawn of X===
+Namor had become privy to the rise of the new mutant homeland [[Krakoa (Earth-616)|Krakoa]] and of its considerable influence on the world stage. However, he refused Charles Xavier's invitation to the sovereign nation, since he didn't believe the mutants' segregation from humankind came from a place of Xavier embracing their superiority to men.{{r|Powers of X Vol 1 5}} This would not prevent Namor from having the habitual contact with his fellow mutants. When Magneto embarked on a jaunt to lease an island owned by Namor on behalf of Emma Frost, Namor asked in exchange to enlist Magnus's aid in searching for a team of scientists in his nation's employ whom disappeared around the Molloy Deep. Finding contention with a kraken controlled by ancient sirens whom lure unsuspecting victims to their doom living within the creature's gullet, Namor and Magneto were forced to solve a riddle. Namor's impulsiveness earned him the wrong answer, but Magneto saved his life and allowed both to escape the Kraken after defeating the sirens' mind game. With the bargain fulfilled, Namor fairly parted with the island.{{r|Giant-Size X-Men: Magneto Vol 1 1}}
+
+He later attended the [[Hellfire Gala]] where Xavier and Magneto offered him a seat in the [[Quiet Council of Krakoa (Earth-616)|Quiet Council of Krakoa]] but he rejected it and went over to talk to the former members of The Illuminati.{{r|X-Men Vol 5 21}}
+
+===Atlantis Attacks===
+When the Atlantis' [[Sea Serpents|Sea Serpent]] was stolen by the [[Big Nguyen Company (Earth-616)|Big Nguyen Company]],{{r|{{cl|Agents of Atlas Vol 3 4}}-[[Agents of Atlas Vol 3 5|5]]}} Ares' son, [[Drakon Ismenios (Earth-616)|Ismenios]], tried to plunder Atlantis' treasure hoard, but Namor was able to capture him.{{r|Sword Master Vol 1 6}} Then Namor and his army attacked city of [[Pan (Portal City)|Pan]], which was created by the company through portals which were powered by the serpents' scales.{{r|Agents of Atlas Vol 3 5}} [[Amadeus Cho (Earth-616)|Brawn]] and the [[Agents of Atlas (Earth-616)|Agents of Atlas]] confronted Namor who ordered them to return the serpent to them in one day or he would declare war.{{r|Atlantis Attacks Vol 1 1}} The serpent was released safely, but upon returning to Atlantis, it attacked them due to an implant embedded in its scales. This prompted Namor to attack [[Mike Nguyen (Earth-616)|Mike Nguyen]] at his personal tower, but was confronted by Brawn and the [[Pan Guard (Earth-616)|Pan Guard]] and was forced to retreat.{{r|Atlantis Attacks Vol 1 2}} He was overpowered and captured by the [[Sirenas]], ancient enemies of Atlantis who were recruited by Nguyen to protect Pan, but was later able to free himself during an argument within the Agents of Atlas.{{r|Atlantis Attacks Vol 1 3}}
+
+| Powers                  = 
+'''Mutant/Atlantean Physiology:''' Namor's powers come from his being a unique hybrid of Atlantean ''[[Homo mermanus]]'' and mutant ''[[Homo superior]]'' physiologies. Because of his unusual genetic heritage, Namor is unique among both ordinary humans and Atlanteans; he is sometimes referred to as "Marvel's first mutant," because, while the majority of his observed superhuman powers come from the fact that he's a hybrid of Human and Atlantean DNA, his ability to fly can't be explained by either side (as Atlanteans are an offshoot of "baseline" humanity).
+
+He has been stated to be an '''[[Mutant Power Level Classification|Alpha-level mutant]]'''.{{r|X-Men Vol 2 94}}
+
+* '''Amphibious Physiological Adaptation:''' Namor's body is specially developed for underwater conditions, granting him specialized blood circulation to withstand freezing temperatures and highly developed vision to see clearly even in murky ocean depths. This hybrid physiology means he can survive indefinitely underwater or on land, though he would still need occasional contact with water to survive.
+
+[[File:Namor McKenzie (Earth-616) from Incredible Hulk and Sub-Mariner Annual Vol 1 1998 001.jpg|thumb|Namor lifting a WWII destroyer with ease]]
+* '''Superhuman Strength:''' Like all Atlanteans, Namor is superhumanly strong, but his physical strength is greater than that of any member of his superhuman race. The exact level of his strength is dependent upon his physical contact with water and his strength diminishes slowly the longer he is out of contact with it. Out of the water, Namor was able to defeat [[Luke Cage (Earth-616)|Luke Cage]] with ease and use his body as a club to knock out the [[Jennifer Walters (Earth-616)|She-Hulk]] by striking her by surprise from behind. He was shown as an even match for the [[Benjamin Grimm (Earth-616)|Thing]] in the same issue.{{r|Uncanny X-Men Vol 2 12}} Underwater, he battered the [[Red Hulk (Earth-616)|Red Hulk]] and stopped him from getting to the surface until he threw him out.{{r|Hulk Vol 2 27}} Namor has on occasion even knocked out the [[Bruce Banner (Earth-616)|Savage Hulk]],{{r|Avengers #3}}{{r|Incredible Hulk #118}} and has also had good performance against other notably powerful opponents such as [[Hercules Panhellenios (Earth-616)|Hercules]].{{r|Avengers #262}}{{r|Namor the Sub-Mariner #58}} Namor once briefly faced the [[Norrin Radd (Earth-616)|Silver Surfer]], withstanding a point blank blast and knocking him down by counter attacking.{{r|Sub-Mariner #34}} He was also able to hold his own against the [[Robert Reynolds (Earth-616)|Sentry]] for a little while, but Emma Frost mentally convinced the Sentry to stop, since Namor couldn't win.{{r|Dark Avengers / Uncanny X-Men: Exodus #1}} He has been seen several times lifting thousands of tons without effort. Namor once swam against a temporal storm for a brief period, even pressing on despite getting dehydrated by that act.{{r|Defenders #3}} Furthermore, Namor's physical prowess is so great that he has been referred to as one of the most powerful beings on the planet.{{r|Black Panther Vol 4 11}} Namor's strength was later increased and far exceeds his normal levels.{{r|Avengers Vol 8 9}}
+
+* '''Superhuman Speed:''' Namor can run and move at speeds greater than even the finest human athlete. His speed is greatest, however, while swimming. Whereas most Atlanteans can swim at speeds greater than 60 miles per hour,{{r|All-New Official Handbook of the Marvel Universe A to Z: Update #3}} Namor has shown that he can reach a speed of over 300 knots or 345 mph.{{r|Sub-Mariner Vol 2 2}}
+
+* '''Superhuman Stamina:''' Namor's advanced musculature produces considerably less fatigue toxins during physical activity than the musculature of normal human beings, and most other Atlanteans for that matter. At his peak, Namor can physically exert himself for at least more than 24 hours before the build up of fatigue toxins in his blood begins to impair him. Namor's stamina, much like his strength, steadily declines the longer he is out of contact with water and will diminish to the point where he only has slightly greater stamina than the finest human athlete.
+
+* '''Superhuman Agility:''' Namor's agility, balance, and bodily coordination are enhanced to levels that are beyond the natural physical limits of even the finest human athlete. He can perform acrobatic feats in the air sufficient to enable him to easily evade/dodge most military aircraft.
+
+* '''Superhuman Reflexes:''' Namor's reflexes are similarly heightened and are superior to those of the finest human athlete since he can react at impressive levels of super speed-as demonstrated through his catching missiles and throwing them back at their point of origin.
+
+* '''Superhuman Durability:''' The tissues of Namor's body are much harder and more resistant to physical injury than those of normal human beings and most other Atlanteans. Namor can withstand tremendous impact forces, high caliber bullets, falls from orbital heights, exposure to temperature and pressure extremes, blows from powerful superhumans, and powerful energy blasts without sustaining injury.
+
+* '''Aquatic Healing:''' If he was somehow injured, Namor's body can heal damaged tissue faster and much more extensively than a human or most Atlanteans. Namor's accelerated healing is at its peak while he is immersed in water, but does diminish the longer he is out of contact with water or if he is completely dry.
+
+* '''Radiation Absorption:''' Namor can absorb certain levels of radiation. His potential is unknown, but the full power of the Radioactive Man is enough to rapidly drain him of his strength.
+
+* '''Extended Longevity:''' Atlanteans age much slower and live much longer than human beings with the average Atlantean lifespan being about 120 years. Namor, at this time, is considered to be in his physical prime.
+
+[[File:Namor McKenzie (Earth-616) from Sub-Mariner Vol 1 18 001.jpg|thumb|right|200px|Namor's gills]]
+* '''Underwater Breathing:''' Like all Atlanteans, Namor can breathe indefinitely underwater due to having gills located behind his ears. Unlike most Atlanteans, however, Namor can also breathe on land indefinitely as well, without the aid of breathing devices, whereas most Atlanteans can only survive being out of the water for a matter of minutes.
+
+* '''Aquatic Telepathy:''' Namor possesses a telepathic rapport with all forms of marine life. He is able to mentally communicate with most forms of marine life and can mentally persuade them to do his bidding. Namor can also mentally communicate with other Atlanteans (giving mental/telepathic orders to all his men{{r|Human Torch #4}}) and possibly humans as well, should he develop his power to its fullest.{{r|Namor the Sub-Mariner #53}}
+
+* '''Electrolocation:''' Like some fish, Namor has a limited ability to navigate by sensing faint electrical currents within the water.{{r|Namor: The Best Defense Vol 1 1}}
+
+* '''Enhanced Senses:'''
+** '''Augmented Vision:''' Namor's enhanced vision enables him to penetrate the ocean's depths and see through murky water.{{r|Human Torch #2}}{{r|Namor: The Best Defense Vol 1 1}}
+** '''Super Hearing:''' Namor once boasted that he could hear a school of fish change direction half an ocean away, that when the ocean currents alter by a single degree he'd know it.{{r|Namor the Sub-Mariner #7}}{{r|All Winners Comics #1}}{{r|Human Torch #2}}{{r|Black Panther Vol 5 11}}
+
+* '''Flight:''' Namor also possesses vestigial "wings" on both of his ankles, by which he seems to fly at the speed of escape velocity when exerting himself fully. His flight speed at "normal" levels is enough to enable Namor to fly faster than military aircraft. Since the "wings" by themselves could never carry Namor, it has been speculated that he uses the wings for steering and flies in some other manner, perhaps by telekinesis. Namor's ability to lift weights when flying is sufficient to enable him carry a 50-ton anchor with one hand without a discernible loss of speed/momentum.
+
+* '''Atmokinesis:''' Without the aid of his Trident, Namor is capable of manipulating weather phenomena in a similar vein to Storm of the X-Men. Having once caused heavy rain showers to douse Johnny Storm's flame form in a brief fight.{{r|Fantastic Four: 1 2 3 4 Vol 1 3}}
+** '''Hydrokinesis:''' Siphoning off the aqua based abilities of [[Morris Bench (Earth-616)|Hydro-Man]] gave Namor hydrokinetic powers.{{r|Invaders Vol 3 2}} Able to wield enough power to part a large section of water with ease as well as flood a prison cell several thousand miles away from water.{{r|Invaders Vol 3 1}}{{r|Avengers Vol 8 9}}
+
+{{Navigation
+| title = Retconned Powers
+
+| body = 
+Namor had displayed a number of powers decades ago that have been written out or simply not shown in many years, including some of the following.
+
+* '''Water Emission/"Sprinkler System":''' Namor displayed the ability to extinguish himself when set aflame, water spraying from his skin in a manner explicitly likened to a sprinkler system.{{r|Marvel Mystery Comics #2}}
+
+* '''Aquatic Life Mimicry:''' The Sub-Mariner has the ability to mimic the characteristics of all the undersea creatures. Some of the abilities he has demonstrated are:
+** '''Sonar:''' Namor possesses a natural form of sonar.
+** '''''Hybrid Sense:''''' He can follow radio beams.{{r|Avengers #40}}
+** '''Lateral Lines:''' Namor can detect subtle movement or vibrations around him, particularly underwater.
+** '''[[Bioelectricity]]:''' Namor can discharge bio-electricity similar to an electric eel, but seldom uses it. He seems to be able to absorb certain energies and convert them into bio-electricity; blasts similar to his own such as from the [[Janet Van Dyne (Earth-616)|Wasp]] seem easiest to absorb. It would appear that he needs to absorb energy from outside sources to produce a charge. 
+*** '''Shield Negation:''' To that end Namor can even use his Bio-Electric aura to short out Susan Storm Richard's invisibility based abilities as well as her force barriers to render her visible to the naked eye.{{r|Fantastic Four: 1 2 3 4 Vol 1 3}}
+}}
+<br/>
+{{Navigation
+	 
+| title = Former Powers	
+
+| body = 
+
+'''Phoenix Force:''' Namor was one of five avatars of the Phoenix Force which granted him the great powers of the Phoenix. Namor only displayed interstellar travel, but as an avatar, he should presumably possess the following abilities as well. During the [[Phoenix Force (Earth-616)|Phoenix Force]]'s tournament, Namor became empowered by a portion of its power once again.{{r|Avengers Vol 8 41}} His portion of the Phoenix Force was eventually taken by [[Maya Lopez (Earth-616)|Echo]] when the Phoenix chose her to become its next host.{{r|Avengers Vol 8 44}}
+
+* '''''Interstellar Travel:''''' A Phoenix Force avatar can fly unaided through the vacuum of space, and can travel interstellar distances faster than the speed of light.
+
+* '''Cosmic Pyrokinesis:''' An avatar of the Phoenix can create 'cosmic' flames under any conditions, even the impossible ones such as vacuum, space, or underwater. These flames do not require oxygen to burn, and burn so intensely that matter is consumed without by-products such as ash. It has perfect control over these flames, and they only consume what it wills. Typically, they manifest as a raptor or part of a raptor such as a claw or wings, in the case of an avatar.
+
+* '''Resurrection:''' As the embodiment of life and death itself, the Phoenix Force can resurrect whomever it wills.
+
+* '''Immortality:''' The avatar of the Phoenix does not age and can be resurrected by the Phoenix Force.
+
+* '''Temporal Manipulation:''' An avatar acting as the Phoenix Force can manipulate the past across large temporal distances and with a profound knowledge of the causal effect his or her actions will have.
+
+* '''Telepathy:''' A Phoenix Force avatar can project their thoughts into the minds of others and read other people’s thoughts at a near-boundless level.
+
+* '''Telekinesis:''' An avatar of the Phoenix can manipulate matter at a molecular scale.
+}}
+
+| Abilities               = 
+'''Expert Combatant:''' Namor's extended lifespan and his involvement in numerous conflicts both under the sea and in human wars have granted him a great deal of experience in hand-to-hand combat. Growing up, he demonstrated natural skill in both armed and unarmed combat and likely received extensive training in both later on. He is a master swordsman, marksman, and is capable of wielding other weapons such as spears but rarely does so due to his preference of hand-to-hand combat. 
+
+'''Bold Diplomat:''' Namor is also a highly skilled leader and capable ruler.
+
+'''[[Diplomatic Immunity]]:''' As the leader of a sovereign nation, he often visits the United States or the United Nations for political reasons. He employs diplomatic immunity during these trips.
+
+'''Expert Tactician:''' He is a highly accomplished tactician.
+
+'''[[Multilingual]]:''' Namor speaks virtually every language on Earth.
+
+'''Skilled Engineer:''' He is adept at designing and improving Atlantean technology.
+
+'''Talented Business Executive:''' Ever since he was a teenager, he proved to be very adept in the field of business, as it came easy to him.
+
+| Strength                = Class 75-100.{{r|Official Handbook of the Marvel Universe A-Z #8}} Exactly class 100 underwater and class 85 on the surface.{{r|All-New Official Handbook of the Marvel Universe A to Z: Update Vol 1 3}} (This scale is only for comparison purposes between characters, and not to be taken remotely literally). Later Namor's strength was increased even further, surpassing his normal levels, what allowed him to match opponents such as Thor, She-Hulk, and Iron Man simultaneously.{{r|Avengers Vol 8 9}}
+| Weaknesses              = Due to his mingled bloodline of Atlantean and human breeding, a number of natural dependence and unique vulnerabilities has occurred.
+
+'''Water Deficiency:''' When not exposed to water, many of Namor’s physical attributes gradually decline and can reach a point where he possesses only a small fraction of his powers. Namor's strength, stamina, and durability are affected most and, at their minimum known level, are much closer to the levels possessed by the vast majority of other Atlanteans. Renewed exposure to water will immediately restore his abilities. He does not need to be submerged; even a spray is sufficient.{{r|Incredible Hulk Vol 1 371}}
+
+'''Oxygen Imbalance:''' Namor has demonstrated a vulnerability to oxygen imbalance when remaining too long in either water or air, resulting in manic-depressive mood swings.
+
+* '''Bipolar Tendencies:''' Namor is believed to be in the midst of an imbalance during the times in which he becomes angry very easily, which he is well known for, and is unable to think clearly and logically. He can prevent this imbalance, however, by dividing his time between the two atmospheres. He has occasionally used scientific or magical means to regulate his oxygen levels. With the imbalance properly controlled, Namor has shown himself to be a much more capable leader and generally much easier to be in contact with.
+
+* '''Head Problems:''' Though the complete circumstances are unknown, if hit just right, Namor has at times succumbed to physical head injuries very easily, such as being knocked out by a lead pipe wielded by a normal human man. This may come from oxygen imbalance or after the permanent head damage he suffered by the psychic [[Paul Destine|Destiny]]. Still, there are times he has withstood constant high force attacks, such as the Hulk's fist.
+
+'''PTSD (Post Traumatic Stress Disorder):''' Part of the real reason why Namor suffers from a deeper mental and emotional imbalance is due to the psychological scaring he'd incurred at the atrocities committed by both sides of the conflict during World War II. He is chronically stuck reliving the harsh memories of all the horrors seen back in the day and as a result was left severely damaged as a person, causing him to fly off in fits of rage whenever such memories are triggered.
+
+'''Dehydration:''' Very powerful heat-based attacks are somewhat of a concern, as they cause dehydration, causing his body to dry faster, and weaken at an accelerated rate. 
+
+'''Pollution:''' If Namor is immersed in or exposed to polluted water, it can have a negative effect both on his physiology and the efficiency of his physical attributes. 
+
+'''Wings:''' Despite being incapable of providing lift, Namor's wings seem to be essential to his flying abilities, and their loss renders him grounded. These appendages seem to be slow to heal when damaged, given that after losing them, he required an extended period of time to regrow them.
+
+| Equipment               = * [[Horn of Proteus]].
+{{Navigation
+| title = Former Equipment
+| body = * [[Power Stone|Power Gem]], [[Time Stone|Time Gem]], [[Serpent Crown]], [[Cosmic Cube]].
+}}
+| Transportation          = 
+{{Navigation
+| title = Former Transportation
+| body = * [[X-Men Blackbird]]; [[Illyana Rasputina (Earth-616)|Magik]].
+}}
+| Weapons                 = * [[Trident of Neptune|Neptune's Trident]].
+
+| Notes                   = * Namor was the very first Marvel character who has a history that spans over 70 years of publication, appearing in {{cl|Motion Picture Funnies Weekly #1}}.
+* Namor's first modern appearance was in {{cl|Fantastic Four #4}}.
+* Namor has been repeatedly identified as Marvel's first mutant. However, his status as the first mutant is subject to some question. He was the first mutant to be introduced in Marvel Comics (in 1939) and has been described in-comic as the first official mutant, but there are actually a number of mutants that predate 1939 in the Marvel timeline, including [[En Sabah Nur (Earth-616)|Apocalypse]] (born in the 30th Century BC), Wolverine (late 19th Century CE), [[Raven Darkholme (Earth-616)|Mystique]], and [[Irene Adler (Earth-616)|Destiny]] (dates of birth unknown, but known to have been active at the "Dawn of the 20th Century"), and the group of mutants known as the [[Externals]], among others. While Namor could have been old by the time he was first seen in 1939, there is no indication he was already centuries old. Furthermore, Namor is not only a human, but rather a human-merman hybrid. His unusual features not present in both Humans and Atlanteans can be result of hybridism than mutation. In comparison to non-human creatures, a human-merman hybrid is equivalent to hybrid animals like mules (horse and donkey hybrid) and ligers (lion and tiger hybrid) meanwhile a mutant human is equivalent to animals that developed a mutation not present in their parents (these parents being of the same species), like white lions (albine lions) or black panthers (melanistic jaguar or leopard).
+*[[Max Eisenhardt (Earth-616)|Magneto]] secretly observed one of Namor's temper tantrums. He noted that "Namor's inhuman rage" exceeded the anger of anyone he had previously met.{{r|X-Men Vol 1 6}}
+
+| Trivia                  = [[File:Sub-Mariner Marvel Value Stamp.jpg|thumb|right|Marvel Value Stamp #63]]
+* The Sub-Mariner was one of the characters featured in Series A of the Marvel Value Stamps issued in the 1970s. 
+* Namor was the second Marvel character who was revealed to have the power of flight after the original Human Torch, whose story in [[Marvel Comics Vol 1 1|''Marvel Comics'' #1]] came first.
+* Years before Namor became a part of the [[Defenders (Earth-616)|Defenders]] with the [[Bruce Banner (Earth-616)|Hulk]], [[Stan Lee]] considered merging their solo features in ''[[Tales to Astonish Vol 1|Tales to Astonish]]'' by making them form a team called "the Invaders." The idea was dropped, and years later, the name of the [[Invaders (WWII) (Earth-616)|Invaders]] was used by [[Roy Thomas]] when he pitched the idea of a team of superheroes set during WWII.{{r|{{cite web|url=https://www.cbr.com/hulk-namor-invaders/|title=Comic Legends: Did the Hulk and Namor Almost Form Their Own Team?|work=CBR.com|first=Brian|last=Cronin|date=31 August 2018|accessdate=31 August 2018}}}}
+* Namor feels ugly about being a mutant.{{r|Dark X-Men: The Beginning Vol 1 3}}
+* Namor is a sculptor, a fact he doesn't like to share with 'surface dwellers'. Some of his works include busts of [[Susan Storm (Earth-616)|Sue Storm]].{{r|Spider-Man: Lifeline #2}}
+* In {{cl|Tarot Vol 1 3}} the two halves of Namor merged with the halves of [[Thor Odinson (Earth-616)|Thor]] and [[Wanda Maximoff (Earth-616)|Scarlet Witch]] to create [[Sturm Meister (Earth-616)|Sturm Meister]] and [[Imperius Hex (Earth-616)|Imperius Hex]].
+| Wikipedia               = Namor
+| Links                   = 
+* [http://www.marveldirectory.com/individuals/s/submariner.htm Official Marvel Directory: Namor]
+* [http://www.toonopedia.com/subbie.htm Don Markstein's Toonpedia: The Sub-Mariner]
+* [http://www.chivian.com/chivian/SubMariner.shtml JC's Comic Collection Page: The Sub-Mariner]
+}}
+[[hu:Namor McKenzie (616)]]
+[[Category:WWII Characters]]
+[[Category:Utopians]]
+[[Category:McKenzie Family]]
+[[Category:Atlantean Royal Family]]
+[[Category:Crown Heirs]]
+[[Category:Superhuman Stamina]]
+[[Category:Superhuman Agility]]
+[[Category:Superhuman Reflexes]]
+[[Category:Regeneration]]
+[[Category:Energy Absorption]]
+[[Category:Advanced Longevity]]
+[[Category:Zoopathy]]
+[[Category:Flight]]
+[[Category:Radar Sense]]
+[[Category:Electrokinesis]]
+[[Category:Gills]]
+[[Category:Hydrokinesis]]
+[[Category:Phoenix Force]]
+[[Category:Atlantean/Human Hybrids]]
+[[Category:Ebony Blade User]]
+[[Category:Millionaires]]
+[[Category:Alpha Class/Level Mutants]]
+[[Category:Acrobats]]
+[[Category:Post-M-Day Mutants (Registration Status Unknown)]]
+[[Category:Multilingual]]
+[[Category:Underwater Breathing]]
+[[Category:Diplomatic Immunity]]
+[[Category:Secret Wars (2015 Event) participants]]
+[[Category:Post-Secret Wars Mutants]]
+[[Category:Timely Mutants]]
+[[Category:Formerly Deceased]]
+[[Category:Power Stone wielders]]
+[[Category:Time Stone wielders]]
+[[Category:Interdimensional Travelers]]
+[[Category:Floating Super-Hero Poker Game participants]]
+[[Category:Smallwood Family]]
+[[Category:Atlantean Monarchs]]
+[[Category:Elementals]]
+[[Category:Gestalt Characters]]
+[[Category:Atmokinesis]]
+[[Category:Greek Religion]]

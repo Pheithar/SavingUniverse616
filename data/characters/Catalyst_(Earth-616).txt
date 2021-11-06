@@ -1,0 +1,48 @@
+{{Marvel Database:Character Template
+| Image                   = Catalyst (Earth-616) from Sabretooth and Mystique Vol 1 4.png
+| Name                    = 
+| CurrentAlias            = Catalyst
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra (Earth-616)|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Bald
+| UnusualSkinColor        = Purple
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Scientist
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Jorge Gonzales
+| First                   = Sabretooth and Mystique #1
+
+| History                 = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

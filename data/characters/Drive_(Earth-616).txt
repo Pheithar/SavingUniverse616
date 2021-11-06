@@ -1,0 +1,55 @@
+{{Marvel Database:Character Template
+| Image                   = Drive (Earth-616) from Inhumanity Vol 1 2 0001.jpg
+| Name                    = 
+| CurrentAlias            = Drive
+| Aliases                 = 
+
+| Affiliation             = {{M|Inhuman Royal Guard (Earth-616)|Inhuman Royal Guard}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = [[Inhumans (Inhomo supremis)|Inhuman]] subjected to the [[Terrigen Mists]] 
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Attilan]]
+
+| Identity                = Secret
+| Citizenship             = Attilan, New Attilan
+| Occupation              = Adventurer, body guard
+| Education               = 
+| BaseOfOperations        = [[New Attilan]]; formerly [[Attilan]]
+
+| Creators                = Matt Fraction; Nick Bradshaw
+| First                   = Inhumanity #2
+
+| History                 = Drive was part of a strike-force put together by [[Medusalith Amaquelin (Earth-616)|Medusa]] and [[Gorgon Petragon (Earth-616)|Gorgon]] in order to free the cocooned [[Inhumans (Inhomo supremis)|Inhumans]] from the terrorist organization [[Advanced Idea Mechanics (Earth-616)|A.I.M.]].{{r|Inhumanity #2}}
+
+| Powers                  = '''Superhuman Speed:''' Drive is capable of moving and accelerating at speeds far greater than any normal person.
+
+*'''''Superhuman Stamina:''''' Drive's physiology grants him greater stamina when compared to an ordinary person, allowing him to operate at peak capacity for at least several hours before he begins to grow tired.
+
+*'''''Superhuman Agility:''''' Drive's balance, bodily coordination, and flexibility are greater than that of any normal person.
+*'''''Superhuman Reflexes:''''' His reflexes are similarly enhanced, allowing him to react several times faster than any normal person.
+*'''''Superhuman Durability:''''' Drive's physiology also provides him with limited protection against impact forces and the high levels of friction that are produced when he moves at superhuman speed.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Superhuman Speed]]

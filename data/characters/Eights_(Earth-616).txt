@@ -1,0 +1,36 @@
+{{Marvel Database:Team Template
+| Image                   = Eights (Earth-616) from Daredevil Vol 5 2 001.jpg
+| Name                    = Eights
+| EditorialNames          = 
+| Aliases                 = 
+
+| Status                  = Defunct
+| Identity                = Secret
+| Reality                 = Earth-616
+| BaseOfOperations        = [[Temple of the Sheltering Hands]], [[Chinatown (New York)|Chinatown]], [[New York City]]
+
+| Leaders                 = Formerly [[Tenfingers (Earth-616)|Tenfingers]]
+| CurrentMembers          = 
+| FormerMembers           = [[Lu Wei (Earth-616)|Lu Wei]], two unidentified members
+| Allies                  = {{M|Church of the Sheltering Hands (Earth-616)|Church of the Sheltering Hands}}
+| Enemies                 = [[Hand (Earth-616)|The Hand]], [[Matthew Murdock (Earth-616)|Daredevil]], [[Samuel Chung (Earth-616)|Blindspot]]
+
+| Origin                  = Select individuals given a portion of [[Tenfingers (Earth-616)|Tenfingers]]' power
+| PlaceOfFormation        = [[Temple of the Sheltering Hands]], [[Chinatown (New York)|Chinatown]], [[New York City]]
+| PlaceOfDissolution      = [[Temple of the Sheltering Hands]], [[Chinatown (New York)|Chinatown]], [[New York City]]
+| Creators                = Charles Soule; Ron Garney
+| First                   = Daredevil Vol 5 2
+| Last                    = Daredevil Vol 5 5
+
+| HistoryText             = The Eights were a select group of individuals within the [[Church of the Sheltering Hands (Earth-616)|Church of the Sheltering Hands]], who had had a portion of [[Tenfingers (Earth-616)|Tenfingers]]' power bestowed on them. One of the Eights was [[Lu Wei (Earth-616)|Lu Wei]], the mother of Chinatown vigilante [[Samuel Chung (Earth-616)|Blindspot]].{{r|Daredevil Vol 5 2}} 
+
+When a [[Fist (Hand) (Earth-616)|Fist]] of [[Hand (Earth-616)|The Hand]] attacked Tenfingers to reclaim the power he had stolen from them, he ordered the Eights to kill several of his followers that had witnessed him fail. Blindspot stood in their way to protect the innocents. In the end, as an act of faith, Lu Wei killed her two fellow Eights fighting Blindspot and walked away.{{r|Daredevil Vol 5 5}} 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = Swords
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

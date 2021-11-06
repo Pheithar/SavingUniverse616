@@ -1,0 +1,49 @@
+{{Marvel Database:Character Template
+| Image                   = Joseph Hauer (Earth-616) from Revolutionary War - Supersoldiers Vol 1 1 cover.jpg
+| Name                    = Joseph Hauer 
+| CurrentAlias            = Major Hauer
+| Aliases                 = Invincible
+
+| Affiliation             = {{M|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}} (Europe Division), {{M|Super-Soldiers (Earth-616)|Super-Soldiers}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = United Kingdom
+| Occupation              = Adventurer, Director of S.H.I.E.L.D European Division.
+| Education               = 
+| BaseOfOperations        = Mobile
+
+| Creators                = Michael Bennent; Lee Stevens;
+| First                   = Super Soldiers #1
+
+| History                 = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * http://www.marvunapp.com/Appendix/joseph.htm
+}}
+[[Category:Weapons Expert]]

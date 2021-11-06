@@ -1,0 +1,45 @@
+{{Marvel Database:Character Template
+| Image                   = Yagyu Kojiro (Earth-616) from Punisher Vol 8 3 001.png
+| Name                    = Yagyu Kojiro
+
+| Affiliation             = {{m|Hand (Earth-616)|Hand}}, {{m|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Black
+| UnusualFeatures         = Scarring around eyes
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616 
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = Japanese
+| Occupation              = Killer
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Larry Hama; Marc Silvestri
+| First                   = Wolverine Vol 2 56
+
+| History                 = After being injured in battle by [[James Howlett (Earth-616)|Wolverine]],{{r|Wolverine Vol 2 56|57}} Yagyu Kojiro got a new pair of eyes from the [[Shaolin Scientist Squad (Earth-616)|Shaolin Scientist Squad]].{{r|Punisher Vol 8 #3}}
+
+| Powers                  = None, human.
+
+| Abilities               = 
+| Strength                = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Scarred]]

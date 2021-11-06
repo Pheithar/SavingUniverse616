@@ -1,0 +1,45 @@
+{{Marvel Database:Team Template
+| Image                   =Enforcers (Earth-616) from Amazing Spider-Man Vol 5 11 001.jpg
+| Name                    = The Enforcers
+| Aliases                 = 
+
+| Status                  = Active
+| Identity                = Public
+| Reality                 = Earth-616
+| BaseOfOperations        = [[New York City]]
+
+| Leaders                 = [[Jackson Brice (Earth-616)|Montana]]
+| CurrentMembers          = [[Daniel Brito (Earth-616)|Fancy Dan]], [[Raymond Bloch (Earth-616)|Ox (Raymond)]]
+| FormerMembers           = [[Willard Harrison (Earth-616)|Hammer Harrison]], [[Ronald Bloch (Earth-616)|Ox (Ronald)]], [[Sylvester Marston (Earth-616)|Snake Marston]]
+| Allies                  = [[Frederick Foswell (Earth-616)|The Big Man (Frederick)]], [[Janice Foswell (Earth-616)|The Big Man (Janice)]], [[Nicholas Lewis, Jr. (Earth-616)|Crime Master]], [[Norman Osborn (Earth-616)|Green Goblin]], [[Wilson Fisk (Earth-616)|Kingpin]], [[William Baker (Earth-616)|Sandman]], [[Edward Lavell (Earth-616)|Eel]], [[Lawrence Cranston (Earth-616)|Mister Fear]]
+| Enemies                 = [[Avengers (Earth-616)|Avengers]], [[Matthew Murdock (Earth-616)|Daredevil]], [[Alison Blaire (Earth-616)|Dazzler]], [[Peter Parker (Earth-616)|Spider-Man]]
+
+| Origin                  = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Stan Lee; Steve Ditko
+| First                   = Amazing Spider-Man #10
+
+| HistoryText             = The Enforcers were a small team of career criminals and were among [[Peter Parker (Earth-616)|Spider-Man]]'s earliest foes. Originally, they consisted of [[Jackson Brice (Earth-616)|Montana]], [[Daniel Brito (Earth-616)|Fancy Dan]], and [[Raymond Bloch (Earth-616)|the Ox]] and first appeared as henchmen of the crime kingpin [[Frederick Foswell (Earth-616)|Big Man]], being defeated by Spider-Man.{{r|Amazing Spider-Man Vol 1 #10}} Later, they teamed up with the [[Norman Osborn (Earth-616)|Green Goblin]]{{r|Amazing Spider-Man Vol 1 #14}} and [[William Baker (Earth-616)|Sandman]]. They also clashed with other superheroes, including the [[Jonathan Storm (Earth-616)|Human Torch]]{{r|Amazing Spider-Man Vol 1 #19}} and [[Matthew Murdock (Earth-616)|Daredevil]]. 
+
+After Ox's apparent death,{{r|Daredevil #86}} Montana and Fancy Dan teamed with a new [[Janice Foswell (Earth-616)|Big Man]], Sandman, and a new [[Nicholas Lewis, Jr. (Earth-616)|Crime Master]] (Nick Lewis, Jr. son of the original). They were defeated once again by Spider-Man and the Human Torch. During the battle, Crime Master shot the new Big Man, unaware "he" was really Janice Foswell, Nick's own girlfriend and the daughter of [[Frederick Foswell (Earth-616)|Frederick Foswell]], the original Big Man.{{r|Marvel Team-Up #39|40}}
+
+The Enforcers recruited{{r|Peter Parker, The Spectacular Spider-Man #19|20}} Raymond Bloch's [[Ronald Bloch (Earth-616)|twin brother, Ronald]], as the new Ox, soon clashing with [[Alison Blaire (Earth-616)|Dazzler]]. The Enforcers later returned with two new members [[Sylvester Marston (Earth-616)|Snake Marston]], a master contortionist and [[Willard Harrison (Earth-616)|Hammer Harrison]], an expert boxer who used two steel gloves. They were defeated by Spider-Man and the Sandman (then a reformed criminal).<ref>{{cl|Marvel Team-Up #138}} This lineup only appears one more time in {{cl|Daredevil Vol 1 356}} and {{cl|Daredevil Vol 1 357}}.</ref>
+
+The original Ox (Raymond Bloch) returned,{{r|Spider-Man Vol 1 94|95}} revived by [[Wilson Fisk (Earth-616)|the Kingpin]], and stayed with the team thereafter.<ref> He was present for their next appearance in ''Spider-Man'', (2nd series) #28, though Ronald also continued using the Ox name (in ''[[She-Hulk]]'', (4th series) #1).</ref>
+
+During the superhuman [[Civil War (Event)|Civil War]], Ronald and Snake Marston were recruited into the latest incarnation of the [[Thunderbolts (Earth-616)|Thunderbolts]]. The Thunderbolts were apprehending established super-criminals and giving them the choice of joining the team or facing incarceration. The Ox and Marston apparently took the former choice, becoming Thunderbolts-in-training. The absence of the other Enforcers might be explained by the fact that all Thunderbolts recruits thus far all possessed some degree of superhuman or near-superhuman ability, or employed technology to simulate such powers; while the Ox and Marston fall loosely under that definition, Fancy Dan, Montana and Hammer Harrison do not.{{r|Thunderbolts Vol 1 103|104}}
+
+Following the resurrection of Montana and the original Ox by the new [[Benjamin Reilly (Earth-616)|Jackal]], the Enforcers were reformed. During their involvement with the Jackal, they overheard the also-resurrected [[Edward Leeds (Earth-616)|Ned Leeds]] tipping off his wife [[Elizabeth Brant (Earth-616)|Betty Brant]] on a story he was working on before his death. The Enforcers warned the man the investigation would lead to, the [[Maggia (Earth-616)|Maggia]] leader [[Ernesto Karnelli (Earth-616)|Ernesto Karnelli]], and worked with him to cover his tracks. They kidnapped [[Wayne Childs (Earth-616)|Dr. Wayne Childs]] as well as [[Mr. Prescott (Earth-616)|Mr. Prescott]], two of Ned's contacts, and eventually Brant herself. The Enforcers protected Karnelli as he escaped from the radius of a powerful explosive he was going to set off remotely, and confronted Spider-Man. When Karnelli decided to set off the explosive before being at a safe distance, Montana himself snatched the detonator from Karnelli's hands. All Enforcers were subsequently apprehended and imprisoned.{{r|Amazing Spider-Man Annual Vol 1 42}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * The Enforcers appear often in the early issues of ''Amazing Spider-Man'', debuting in #10, returning in #14, and again in #18 and #19.
+| Trivia                  = 
+| Links                   = 
+* {{cl|Amazing Spider-Man Vol 1 10}} - First Appearance
+* {{cl|Amazing Spider-Man Vol 1 14}} - Teamed with the [[Norman Osborn (Earth-616)|Green Goblin]] to battle [[Peter Parker (Earth-616)|Spider-Man]]. 
+* {{cl|Amazing Spider-Man Vol 1 19}} - Teamed with the [[William Baker (Earth-616)|Sandman]]; captured [[Jonathan Storm (Earth-616)|Human Torch]]; battled and defeated by Spider-Man.
+}}

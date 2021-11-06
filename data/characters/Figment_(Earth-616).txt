@@ -1,0 +1,59 @@
+{{Marvel Database:Character Template
+| Image                   = Figment (Earth-616) from King in Black Thunderbolts Vol 1 3 001.jpg
+| Name                    = 
+| CurrentAlias            = Figment
+| Aliases                 = 
+
+| Affiliation             = {{m|Thunderbolts}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = White
+| Hair                    = Red
+| UnusualFeatures         = Eyes are pupil-less and enlarged
+
+| Origin                  = [[Homo sapiens|Human]] [[Mutates|Mutate]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = 
+| Citizenship             = 
+| Occupation              = Criminal
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Dan Slott; Paul Pelletier
+| First                   = She-Hulk Vol 1 5
+
+| Quotation               = She can create illusions on a massive scale. And [[Wilson Fisk (Earth-616)|you]] and [[Norman Osborn (Earth-616)|Osborn]] happened to have her locked away in your little dungeon.
+| Speaker                 = [[Anthony Masters (Earth-616)|Taskmaster]]
+| QuoteSource             = King in Black: Thunderbolts Vol 1 3
+
+| History                 = A criminal with illusion-casting powers, Figment found herself imprisoned in the [[Big House]]. The [[Mad Thinker (Android) (Earth-616)|Mad Thinker]] recruited her for assistance in escaping the miniaturized prison. He noted that Figment and a few others would have to remain behind, but promised that they would be "handsomely compensated". Figment used her powers to trick the guards, which enabled the majority of the other convicts to escape.{{r|She-Hulk Vol 1 5}}
+
+===King in Black===
+Years later, Figment was seen in the [[Ravencroft Institute]], where she was held prisoner alongside several other supervillains. When [[Knull (Earth-616)|Knull]]'s forces attacked, the [[Thunderbolts (Earth-616)|Thunderbolts]] were sent to investigate. [[Lawrence Cranston (Earth-616)|Mister Fear]] recognized Figment, as he had previously slept on her couch for two months. When the [[Hive (Symbiotes) (Earth-616)|Symbiote Hive]] attacked, the Thunderbolts released Figment and the other prisoners and escaped. [[Anthony Masters (Earth-616)|Taskmaster]] ordered Figment to stay on their escape bus while the Thunderbolts investigated.{{r|King in Black: Thunderbolts Vol 1 2}}
+
+After the Thunderbolts found the bisected corpse of [[Robert Reynolds (Earth-616)|Sentry]], they returned to the Ravencroft inmates on the bus. When the bus broke down, Taskmaster reluctantly made Figment and the other inmates honorary members of the Thunderbolts. The group fought their way through Knull's forces in New York City. Figment used her illusory powers to make [[Wilson Fisk (Earth-616)|Kingpin]] believe the Thunderbolts had perished while defeating Knull. Taskmaster later confronted Kingpin and [[Mary Walker (Earth-616)|Typhoid Mary]], blackmailing Kingpin into funding the Thunderbolts, including Figment, on a regular basis.{{r|King in Black: Thunderbolts Vol 1 3}}
+
+| Powers                  = '''Illusion Casting'''
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Illusionists]]
+[[Category:Ravencroft Institute Patients]]

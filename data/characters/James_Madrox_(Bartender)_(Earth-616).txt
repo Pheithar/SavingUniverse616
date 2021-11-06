@@ -1,0 +1,73 @@
+{{Marvel Database:Character Template
+| Image                   = Uncanny X-Men Vol 5 2 Textless.jpg
+| Name                    = [[James Madrox|James "Jamie" Arthur Madrox]]
+| CurrentAlias            = [[Multiple Man]]
+| Aliases                 = 
+
+| Affiliation             = {{m|X-Men (Earth-616)|X-Men}}
+| Relatives               = [[James Madrox (Emperor Prime) (Earth-616)|Jamie Madrox]] (source);<br>
+[[James Madrox (Cable) (Earth-616)|Cable]], [[James Madrox (Cloak) (Earth-616)|Cloak]], [[James Madrox (Deadpool) (Earth-616)|Deadpool]], [[James Madrox (Hulk) (Earth-616)|Hulk]], [[James Madrox (Time-Traveler) (Earth-616)|Jamie Madrox]], [[James Madrox (Juggernaut) (Earth-616)|Juggernaut]], [[James Madrox (Lieutenant) (Earth-616)|Lieutenant Madrox]] (fellow duplicates, deceased)
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 5' 11"
+| Weight                  = 155 lbs.
+| Eyes                    = Green
+| Hair                    = Brown
+| UnusualFeatures         = "M" shaped tattoo over right eye
+
+| Origin                  = [[Homo superior|Mutant]] duplicate [[Glossary:Mutate|transformed]] into a [[Killcrops (Mutants)|Changeling]][[Category:Killcrops (Mutants)]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[New York City]], [[New York (State)|New York]]
+| PlaceOfDeath            = 
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = Adventurer; former bartender
+| Education               = 
+| BaseOfOperations        = Mobile; formerly [[Bobbie's Beach Bar]]
+
+| Creators                = Matthew Rosenberg; Andy MacDonald
+| First                   = Multiple Man Vol 1 2
+| Death                   = Uncanny X-Men Vol 5 22
+
+| Quotation               = Trouble? What trouble could I cause?
+| Speaker                 = [[James Madrox (Bartender) (Earth-616)|Jamie Madrox]]
+| QuoteSource             = Multiple Man Vol 1 5
+
+| History                 = Sometime before [[James Madrox (Earth-616)|Jamie Madrox]] set out to create his own [[X-Factor Investigations (Earth-616)|detective agency]],<!-- {{r|Madrox Vol 1 1}} --> a [[James Madrox (Emperor Prime) (Earth-616)|duplicate]] embodying the treacherous, megalomaniacal aspects of Jamie's personality locked himself in a bunker on [[Muir Island]] where he spent the following years attempting to find a way to become the "Madrox Prime."{{r|Multiple Man Vol 1 1}}{{r|Multiple Man Vol 1 3}}
+
+When the Madrox Prime died from [[M-Pox]],<!-- {{r|Death of X Vol 1 1}} --> his duplicates died as well, except for the dupe locked in the bunker. The airtight bunker managed to delay the adverse health effects, but after the [[New Mutants (Earth-616)|New Mutants]] found the bunker, the dupe resumed his decay. In an effort to put off his inevitable death, the dupe convinced [[Henry McCoy (Earth-616)|Beast]] to create a serum which would not only prevent his death, but also allow for the creation of dupes of his own, just like a prime, then stole a [[Temporal Beacon]] from [[Lucas Bishop (Earth-1191)|Bishop]] and traveled into the future.{{r|Multiple Man Vol 1 1}}
+
+Due to Madrox's meddling, he came to rule a totalitarian regime that was policed by his own duplicates in that future, dubbing himself "Emperor Prime," though his rule was opposed by a Resistance, which was largely made up of other Madri.{{r|Multiple Man Vol 1 2}}
+
+One dupe, a member of the Resistance, was part of a select group who were sent into the [[Glossary:Timestream|timestream]] to find help by a heroic time-traveling Madrox, that was actually the Emperor from further in the future that had had a change of heart. This dupe was specifically sent to find Tony Stark<!-- Emperor Madrox Universe -->, but found himself instead in a reality where the heroes were on spring break.{{r|Multiple Man Vol 1 3|4}}
+
+When [[James Madrox (Cloak) (Earth-616)|Cloak]] collected the Resistance dupes who had been sent into the timestream,  for some unknown reason he did not collect the Jamie sent to find Stark; meanwhile, this Jamie ended up making himself at home on his new [[Earth]], getting a job as a bartender at [[Bobbie's Beach Bar]]. After the death of the heroic Emperor resulted in the deaths of all the other Madri, good and bad, the bartender Jamie returned to [[Earth-616|the past]], having survived due to his not being in the reality at the time, and explained to the [[X-Men (Earth-616)|X-Men]] that he left his new world after it "took a real turn towards... not fun" as evidenced by the M tattoo over his eye identical to that the original Jamie had received in [[Earth-1191]]. Taking the serum Beast had created, Jamie set out to meet the original Madrox's widowed [[Layla Miller (Earth-616)|wife]] and [[Davey Miller (Earth-616)|child]], telling the X-Men that he'd send them a postcard.{{r|Multiple Man Vol 1 4|5}}
+
+===Last X-Men and Death===
+Jamie then rejoined the last group of [[X-Men (Earth-616)|X-Men]] and helped with taking down the list of threats [[Scott Summers (Earth-616)|Cyclops]] had composed.{{r|Uncanny X-Men Vol 5 13}} After events, casualties, and a lot of violence, [[Emma Frost (Earth-616)|Emma Frost]] ultimately decided to remove mutants from every persons' minds.{{r|Uncanny X-Men Vol 5 21}} It was revealed that the [[Office of National Emergency (Earth-616)|O*N*E]] had not forgotten about mutants at all. Soon they sent out [[Sentinel Squad O*N*E (Earth-616)|Sentinel Squad O*N*E]] to kill them all. After a good number of additional casualties, he finally decided to be a human shield for the bigger plan to work. Once he decided, he multiplied into great numbers. None of the dupes nor the prime made it out alive, all were killed by the [[Sentinels]].{{r|Uncanny X-Men Vol 5 22}}
+
+| Personality             = 
+
+| Powers                  = Seemingly [[James Madrox (Earth-616)#Powers|those]] of [[James Madrox (Earth-616)|Jamie Madrox]].
+| Abilities               = Seemingly [[James Madrox (Earth-616)#Abilities|those]] of [[James Madrox (Earth-616)|Jamie Madrox]].
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Madrox Family]]
+[[Category:Dupes]]
+[[Category:Time Travelers]]
+[[Category:Interdimensional Travelers]]
+[[Category:Duplication]]

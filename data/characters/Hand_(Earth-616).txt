@@ -1,0 +1,175 @@
+<!-- 
+To be investigated:
+* ...Ghost Rider/Zugaikotsu...{{r|Shadowland #1}}{{r|Shadowland #3}}
+
+ -->{{Marvel Database:Organization Template
+| Image                   = Hand (Earth-616) from Deadpool Vol 4 50 002.jpg
+| Name                    = [[The Hand]]
+| Aliases                 = [[Hand]]
+
+| OrganizationLeaders     = [[Beast (Demon) (Earth-616)|Beast]]
+{{Navigation
+| title              = <br>Faction Leaders
+| body               = Formely [[Victor Creed (Earth-616)|Sabretooth]] (Japanese branch), [[Wilson Fisk (Earth-616)|Kingpin]] (American branch), [[Matsu'o Tsurayaba (Earth-616)|Matsu'o Tsurayaba]], [[Elektra Natchios (Earth-616)|Elektra]], [[Matthew Murdock (Earth-616)|Daredevil]], [[Mandarin (Earth-616)|Mandarin]], [[Kagenobu Yoshioka (Earth-616)|Kagenobu Yoshioka]], [[Tomi Shishido (Earth-616)|Gorgon]]
+}}
+{{Navigation
+| title              = <br>Hand Daimyos
+| body               = Formely:<br>'''Hand Daimyos of South America:''' [[Bakuto (Earth-616)|Bakuto]], [[Carlos LaMuerto (Earth-616)|Black Tarantula]], [[Izanagi (The Hand) (Earth-616)|Izanagi]];<br>
+[[Takashi (Earth-616)|Takashi, '''Hand Daimyo of Japan''']];<br>
+[[Makoto (Earth-616)|Makoto, '''Hand Daimyo of Eurasia''']];<br>
+[[Yutaka (Earth-616)|Yutaka, '''Hand Daimyo of Africa''']];<br>
+[[Angela del Toro (Earth-616)|White Tiger, '''Hand Daimyo of North America''']]
+}}
+| CurrentMembers     =  
+{{Navigation
+| title              = <br>[[Nail (Earth-616)|The Nail]]
+| body               = [[Black Lotus (Earth-616)|Black Lotus]], [[Makro (Earth-616)|Makro]], [[Yuki (Earth-616)|Yuki]]
+}}
+{{Navigation
+| title              = <br>American Branch
+| body               = [[Makoto (Earth-616)|Makoto]] (Daimyo of Eurasia), [[Takashi (Earth-616)|Takashi]] (Daimyo of Japan), [[Yagyu Kojiro (Earth-616)|Yagyu Kojiro]], [[Yutaka (Earth-616)|Yutaka]] (Daimyo of Africa), Hiroshi
+}}
+| FormerMembers      = [[Samuel Chung (Earth-616)|Blindspot]], [[Arthur Perry (Earth-616)|Arthur Perry]], [[Azuma Gōda (Earth-616)|Azuma Gōda]], [[Arthur Perry (Earth-616)#Chuck the Dwarf (Earth-616)|Chuck the Dwarf]], [[Matsu'o Tsurayaba (Earth-616)|Matsu'o Tsurayaba]],  [[Elizabeth Braddock (Earth-616)|Psylocke]], [[Kwannon (Earth-616)|Revanche]], [[Jean-Paul Beaubier (Earth-616)|Northstar]], [[Maya Lopez (Earth-616)|Echo]], [[James Howlett (Earth-616)|Wolverine]], [[Izanagi (The Hand) (Earth-616)|Izanagi]], [[Bakuto (Earth-616)|Bakuto]], [[Azumi Ozawa (Earth-616)|Azumi Ozawa]], [[Matthew Murdock (Earth-616)|Daredevil]], [[Carlos LaMuerto (Earth-616)|Black Tarantula]], [[Arkady Rossovich (Earth-616)|Omega Red]], [[Elektra Natchios (Earth-616)|Elektra]], [[Tiberius Stone (Earth-616)|Tiberius Stone]], [[Wilson Fisk (Earth-616)|Kingpin]], [[Phillip Urich (Earth-616)|Hobgoblin]], [[Bruce Banner (Earth-616)|Hulk]], [[Reflex (The Hand) (Earth-616)|Reflex]], [[Jonin (WWII) (Earth-616)|Jonin]], [[Raven Darkholme (Earth-616)|Mystique]], [[Victor Creed (Earth-616)|Sabretooth]], [[Maki Matsumoto (Earth-616)|Lady Bullseye]], [[Mary Walker (Earth-616)|Typhoid Mary]], [[Lord Deathstrike (Earth-616)|Lord Deathstrike]], [[Shingen Harada II (Earth-616)|Silver Samurai]], [[Angela del Toro (Earth-616)|White Tiger]], [[Fist (Hand) (Earth-616)|Fist]], [[Lu Wei (Earth-616)|Lu Wei]], [[Drake (Earth-616)|Drake]], [[Tomi Shishido (Earth-616)|Gorgon]], [[Grigori Sovchenko (Earth-616)|Ghost Maker]]
+
+{{Navigation
+| title              = <br>[[Nail (Earth-616)|The Nail]]
+| body               = [[Colleen Wing (Earth-616)|Colleen Wing]], [[Cherry Blossom (Earth-616)|Cherry Blossom]], [[Azumi Ozawa (Earth-616)|Azumi Ozawa]], Four unnamed women including [[Black Lotus (Earth-616)|Black Lotus]]'s mother
+}}
+
+
+| Identity                = Secret
+| Affiliation             =
+| Allies                  = [[Muramasa (Earth-616)|Muramasa]], [[Masters of Evil (Earth-616)|Masters of Evil]], [[Goblin Nation (Earth-616)|Goblin Nation]], [[Nail (Earth-616)|The Nail]], [[Daniel Drumm (Earth-616)|Daniel Drumm]], [[Hydra (Earth-616)|Hydra]], [[Clan Yashida (Earth-616)|Clan Yashida]]; Formerly [[Dawn of the White Light (Earth-616)|Dawn of the White Light]], [[H.A.M.M.E.R. (Earth-616)|H.A.M.M.E.R.]], [[Advanced Idea Mechanics (Earth-616)|A.I.M.]], [[Dark Avengers (Earth-616)|Dark Avengers]]
+| Enemies                 = [[Thunderbolts (Earth-616)|Thunderbolts]], [[Elizabeth Braddock (Earth-616)|Psylocke]], [[Hercules Panhellenios (Earth-616)|Hercules]], [[Matthew Murdock (Earth-616)|Daredevil]], [[Elektra Natchios (Earth-616)|Elektra]], [[James Howlett (Earth-616)|Wolverine]], [[Clinton Barton (Earth-616)|Hawkeye]], [[Chaste (Earth-616)|Chaste]], [[X-Men (Earth-616)|X-Men]], [[New Avengers (Earth-616)|New Avengers]], [[Ghost Rider]], [[Kaine Parker (Earth-616)|Scarlet Spider]], [[Peter Parker (Earth-616)|Spider-Man]], [[Spiderlings (Earth-616)|Spiderlings]], [[New Warriors (Earth-616)|New Warriors]], [[Avengers (Earth-616)|Avengers]], [[S.P.E.A.R. (Earth-616)|S.P.E.A.R.]], [[Anthony Stark (Earth-616)|Iron Man]], [[Ascendants (Earth-616)|Ascendants]], [[Rogue (Anna Marie) (Earth-616)|Rogue]], [[Alpha Flight (Earth-616)|Alpha Flight]], [[Church of the Sheltering Hands (Earth-616)|Church of the Sheltering Hands]], [[Eights (Earth-616)|Eights]], [[True Believers (Cult) (Earth-616)|True Believers]], [[Leviathan (Earth-616)|Leviathan]], [[Wade Wilson (Earth-616)|Deadpool]], [[Drake (Earth-616)|Drake]], [[Solem (Earth-616)|Solem]]
+
+| Origin                  = The Hand is a clan of ninjas, with the traditional training in martial arts, camouflage, and subterfuge. In addition, they serve a demonic master known as the [[Beast (Demon) (Earth-616)|Beast]], who has given them magical abilities. They are opposed by another band of warriors called the [[Chaste (Earth-616)|Chaste]].
+| Reality                 = Earth-616
+| Status                  = Active
+| BaseOfOperations        = [[Valley of Mercy and Wrath]], [[Japan]]<!-- {{r|Official Handbook of the Marvel Universe A-Z #5|; Hand's entry}} -->
+| PlaceOfFormation        = [[Japan]]
+| PlaceOfDissolution      = 
+
+| Creators                = Frank Miller
+| First                   = Daredevil #174
+
+| Overview                = The Hand is a ninja clan and the current iteration of a pseudo-religious cabal worshiping the demon known as [[Beast (Demon) (Earth-616)|the Beast]]. The clan is made up of several different factions which are each led by a faction leader and overseen by a single supreme leader or ''jonin.'' Rank and file individual members of the clan are known as ''genin.''{{r|Elektra Megazine Vol 1 1}} Originally formed as a secret society by [[Kagenobu Yoshioka (Earth-616)|Kagenobu Yoshioka]] in 1588 and dedicated to Japanese nationalism, the group was infiltrated and corrupted by outside forces: [[Sickly Ones (Earth-616)|The Sickly Ones]] (primordial entities responsible for the knowledge and worship of the Beast on earth), [[Five (Hand) (Earth-616)|the Five]] (the Sickly Ones' acolytes), and the [[Snakeroot (Earth-616)|the Snakeroot]] ninja clan (an older iteration of the Beast's cabal). [[Chaste (Earth-616)|The Chaste]], a group of mystical warriors, fought the spread of the Beast and its evil.
+
+In the early 20th century, they attempted to secure a foothold in [[Madripoor]] at least on two occasions. During [[World War II]], they set out to expand and form connections to other groups, and started working with [[Romulus (Earth-616)|Romulus]] and [[National Socialist German Workers Party (Earth-616)|Nazi]] [[Wolfgang von Strucker (Earth-616)|Baron Strucker]], but were opposed by the likes of [[James Howlett (Earth-616)|Wolverine]] and other adventurers and heroes. They were then involved in the foundation of the modern iteration of [[Hydra (Earth-616)|Hydra]], but were soon purged of it by Baron Strucker, setting uneasy relations between the two groups, though some elements of both organizations collaborated on occasion or on the longer term, even such as high-level as Strucker's wife [[Elsbeth von Strucker (Earth-616)|Baroness Elsbeth von Strucker]] (who served the agenda of the Sickly Ones) or Hand's Grandmaster [[Shoji Soma (Earth-616)|Shoji Soma]] (who enlisted Hand ninja in a strike he conducted with Strucker against [[USSR|Soviet]] spy organization [[Leviathan (Earth-616)|Leviathan]], and recited Hydra's motto).
+
+Expanding their criminal activities over the world, they soon became regular enemies of many adventurers and heroes, most prominently [[Matthew Murdock (Earth-616)|Daredevil]], [[Elektra Natchios (Earth-616)|Elektra]], and Wolverine (all part of the organization at some point).
+
+| History                 = 
+===Origins===
+Allegedly four billion years ago,{{r|Wolverine Vol 3 29}} at the time the [[Elder Gods of Earth|Elder Gods]] still roamed the [[Earth]], the [[Sickly Ones (Earth-616)|Sickly Ones]], possibly the [[Elderspawn|spawn of the Elder Gods]], pre-humanity, or something else entirely,{{r|Official Handbook of the Marvel Universe A-Z #5|; Hand's entry}} started their activism, worshiping the [[Beast (Demon) (Earth-616)|Beast]] and killing what lived. Under various forms, they carried on their mission: ''"Dishonor God by destroying what He's made"''.<!-- {{r|Wolverine Vol 3 29}} --><!-- most of it also in {{r|Official Handbook of the Marvel Universe A-Z #5|; Hand's entry}} --> The Sickly Ones presented themselves as the ''"veterans of the [[Oldest War]]"''.{{r|Wolverine Vol 3 29}} The Beast hungered to end humanity{{r|Shadowland #3}}
+
+===Early years===
+The operatives were directed by [[Five (Hand) Earth-616)|the Five]], an inner circle{{r|Official Handbook of the Marvel Universe A-Z #5|; Hand's entry}} of the Sickly Ones' acolytes,{{r|Marvel Fact Files #3|; Ninja Clan: The Hand}} while the Sickly Ones remained in a secret city shrouded by forest deep, in the [[Valley of Mercy and Wrath]] ("where time and space seem to meet their whims"){{r|Official Handbook of the Marvel Universe A-Z #5|; Hand's entry}} of [[Japan]], where they waited almost four billion years for some chosen individual.{{r|Wolverine Vol 3 26}}
+
+It is also possible that the Sickly Ones were a cabal of cold-blooded [[Glossary:Alien|alien]] reptiles arrived on [[Earth]] in prehuman times, planning to start a legacy of evil by planting a seed that would later gave birth to future evil empires, at the origin of the organization known as [[Hydra (Earth-616)|Hydra]], and participated in the corruption of the Eastern society of wise and clever men known as the [[Brotherhood of the Spear]] that came to be known as "The Beast" to their enemies, the [[Brotherhood of the Shield (Earth-616)|Brotherhood of the Shield]].{{r|[https://news.marvel.com/comics/63447/history-hydra-pt-1/ History of Hydra, Part 1]}}
+
+The [[Nail (Earth-616)|Nail]] allegedly operated for thousands of years.{{r|Shadowland: Daughters of the Shadow #1}}
+
+In 91 AD, [[Yamato-Take (Earth-616)|Prince Yamato-Take]] defeated [[Kyushu]] rebels while wielding the sacred sword [[Grasscutter|Kusanagi-No-Tsuguri (also known as Grasscutter)]], that had been imbued with his warrior's soul. The Five coveted the sword, intending to use it to master all of Japan. Their forces (not yet the modern Hand) were defeated by the [[Chaste (Earth-616)|Chaste]], mystic warriors holding evil for centuries. Their conflict would go on, as a stalemate, for over two millennia.{{r|Official Handbook of the Marvel Universe A-Z #5|; Hand's entry}}
+
+===Feudal times and origin of the modern Hand===
+Despite its multi-billion years long origin, the Hand had its formal organization in feudal Japan,{{r|Wolverine Vol 3 29}} with various sources providing contradictory accounts of the exact date.
+
+====10th century====
+Both the Hand and the [[Snakeroot (Earth-616)|Snakeroot Clan]], affiliated ninja clans were stated to have emerged sometimes in the 10th century, worshiping the Beast and learning to resurrect their fallen members as [[undead]] assassins{{r|Marvel Atlas #1|; [[Japan]]'s entry}} (though it was also stated to be used for first time only in 1594).{{r|Elektra: The Hand #5}} The Chaste was also stated to form only soon after that event.{{r|Marvel Atlas #1|; [[Japan]]'s entry}} The Snakeroot were the Beast's cabal of the era.<!-- {{r|Official Handbook of the Marvel Universe A-Z #5|; Hand's entry}} -->
+
+In 934,{{r|Elektra #2}}<!-- About nearly nine centuries later --> the sword [[Sakki]] was imbued with human brutality and was acquired by the Snakeroot Clan.{{r|Official Handbook of the Marvel Universe A-Z #5|; Hand's entry}} The evil sword became their sacred relic, bringing back to life slain Snakeroot, though more cadaverous with each resurrection.{{r|Marvel Fact Files #3|; Ninja Clan: The Hand}}
+
+====13th century====
+800 years ago the Hand was allegedly a cadre of ninjas, thieves, and assassins formed to fight the oppressive system of feudal Japan, later falling to corruption and darkness{{r|{{cl|Shadowland: Daughters of the Shadow Vol 1 2}}'s recap}} when they were corrupted by the [[Snakeroot (Earth-616)|Snakeroot clan]].{{r|{{cl|Shadowland Vol 1 1}}'s recap}}
+
+====15th and 16th century: Japan's civil wars====
+{{MessageBox
+| Message = That tale of the Hand's origin is the most commonly mentioned, with the formation of the Hand organization, and its subsequent fall to the influence and corruption of the [[Snakeroot (Earth-616)|Snakeroot Clan]], the [[Five (Hand) (Earth-616)|Five]], and the [[Sickly Ones (Earth-616)|Sickly Ones]].
+}}
+Circa mid-15th century, Japan descended into a century of civil war. During that period, the immortal warrior [[Black Axe (Earth-616)|Black Axe]] participated in many of the battles and opposed the Hand.{{r|Marvel Atlas #1|; [[Japan]]'s entry}}
+
+The modern Hand was stated to be originated from the end of the 16th century,{{r|Elektra: The Hand #3}} and has taken its recognizable form in Kyushu in 1588 under [[Kagenobu Yoshioka (Earth-616)|Kagenobu Yoshioka]].{{r|Official Handbook of the Marvel Universe A-Z #5|; Hand's entry}}<!-- {{r|Marvel Fact Files #3|; Ninja Clan: The Hand}} --> The story behind the formation of the modern Hand started in 1575, in Kyushu, with Kagenobu Yoshioka, who killed a foreigner threatening his mother. The blame went to her, and Kagenobu was taken in the custody of [[Saburo Ishiyama (Earth-616)|Saburo Ishiyama]] who trained him in the ways of the Samuraï at the [[Ishiyama School]].<!-- graduate in 1584-85 (ten years later, and #2 start in 1587, 3 years later) -->{{r|Elektra: The Hand #1}} A masterless Samuraï, Kagenobu served Japan, opposing corruption and injustice for three years. At his sensei's death, he returned to the School to lead it in 1588, offering a role of co-leader to his former rival [[Daisuke Sasaki (Earth-616)|Daisuke Sasaki]].<!-- {{r|Elektra: The Hand #2}} -->
+
+Learning that the Daimyos implemented regulations to the schools, Kagenobu decided to send messengers to other like-minded schools and form a secret society opposing the government:{{r|Elektra: The Hand #2}} it was the the resurgence of the Hand.{{r|Marvel Atlas #1|; [[Japan]]'s entry}} The inner circle of Kagenobu's organizations were formed of himself, Sasaki, and five others, so called "heathens and heretics", who could be the Five of legend of the Hand.{{r|Official Handbook of the Marvel Universe A-Z #5|; Hand's entry}} In autumn 88, he attacked a foreigner ship in Kyushu, slaughtering the whole crew.{{r|Elektra: The Hand #2}} The organization's symbol, a bloody handprint, soon struck terror into any Japanese dealing with foreigners.{{r|Marvel Fact Files #3|; Ninja Clan: The Hand}}
+
+Over the six following years, the Hand spread across the five isles of Japan, but splintered into multiple sects.{{r|Official Handbook of the Marvel Universe A-Z #5|; Hand's entry}} As the group fell under the sway of the Snakeroot clan who corrupted the organization from within,{{r|Marvel Fact Files #3|; Ninja Clan: The Hand}} some diverging from Yoshioka's objectives, acting as mercenaries or exploring occult secrets perhaps shared by the Sickly Ones,{{r|Official Handbook of the Marvel Universe A-Z #5|; Hand's entry}} doing their bidding, and practicing [[black magic]],{{r|Marvel Fact Files #3|; Ninja Clan: The Hand}} drawing them to worship the Beast.{{r|Official Handbook of the Marvel Universe A-Z #5|; Hand's entry}}
+
+In summer 1590, the Inner Circle of the Hand gathered at the Ishiyama School. Kagenoby later accepted [[Eliza Martinez (Earth-616)|Eliza Martinez]], a half-breed Japanese girl, to join the school, using [[Sr. Martinez (Earth-616)|her father]] to gather information but growing feeling for her.{{r|Elektra: The Hand #3}} On autumn 1592, she was accepted among the Hand (and in Kagenobu's bed). Soon, the Hand grew so large that it became hard to control it: Communication between the sects broke off, Hand agents sold their skill as mercenaries and committing crimes against Japanese, spreading rumors or dissension. Eliza's lineage was revealed to some.<!-- {{r|Elektra: The Hand #4}} -->
+
+In 1594, Hand members tried to kill Eliza, seeing her as a disease infecting the Hand and corrupting Kagenobu. Kagenobu confronted Sasaki (who had called the Inner Circle to discuss the Hand without Kagenobu), killed his rival and soon confronted the Inner Circle.{{r|Elektra: The Hand #4}} Despite killing many members, the duo was defeated, and ended their lives rather than be killed by their enemies. The remaining Inner Circle members then brought them back to life, using the resurrection ritual for the first time, as the Hand's deadly weapons{{r|Elektra: The Hand #5}} sacrificing low-ranking members to resurrect them. Upon those actions, the Hand firmly joined the Beast as a ninja assassin guild, both pursuing its dark agendas and serving as mercenaries to those who could afford their services.{{r|Official Handbook of the Marvel Universe A-Z #5|; Hand's entry}}
+
+Believing they could serve the Beast better, one faction of the Hand split as a separate cult, the [[True Believers (Cult) (Earth-616)|True Believers]], and relocated to [[Korea]].{{r|Marvel Atlas #1|; [[Japan]]'s entry}} They forged a blood feud with the Hand, which still endures in modern days.{{r|Official Handbook of the Marvel Universe A-Z #5|; Hand's entry}}<!-- 
+
+possibly to be moved elsewhere
+...Ghost Rider/Zugaikotsu...{{r|Shadowland #1}}{{r|Shadowland #3}}-->
+
+===Early 20th century===
+In the early 20th century, the Hand attempted to gain a foothold in the island nation of [[Madripoor]], but were opposed by adventurer [[Seraph (Earth-616)|Seraph]], then, in 1932, by her protégé [[James Howlett (Earth-616)|Logan (later known as Wolverine)]].{{r|Official Handbook of the Marvel Universe A-Z #5|; Hand's entry}}
+
+====[[World War II]]====
+In 1941, the Hand broke an agreement with [[Romulus (Earth-616)|Romulus]], wanting to form new alliances. It consequently contacted [[National Socialist German Workers Party (Earth-616)|Nazi]] [[Wolfgang von Strucker (Earth-616)|Baron Strucker]] on Madripoor.{{r|Wolverine: Origins #16}}{{r|Wolverine: Origins #18}}{{Verify source}}<!-- verify that all the events are mentioned in both references and restructure the paragraph if not --> To gain the Hand's loyalty, Strucker captured young Soviet agent [[Natalia Romanova (Earth-616)|Natalia Romanova]] (in fact an agent of Romulus sent to kill the [[Jonin (WWII) (Earth-616)|Jonin]] of the Hand) and brought her to Madripoor, as a gift for the Hand, where they intended to turn her into a master assassin. The ceremony was interrupted by Wolverine (himself an agent of Romulus), along with [[Steven Rogers (Earth-616)|Captain America]] and [[Ivan Petrovich Bezukhov (Earth-616)|Ivan Petrovich]], and killed the Jonin while Strucker escaped.{{r|Wolverine: Origins #16}}{{r|Uncanny X-Men #268}}{{Verify source}}<!-- verify that all the events are mentioned in both references and restructure the paragraph if not --><!-- other sources:
+* allied itself with [[National Socialist German Workers Party (Earth-616)|Nazi]] [[Wolfgang von Strucker (Earth-616)|Baron Strucker]] on Madripoor, but were opposed by Wolverine, [[Steven Rogers (Earth-616)|Captain America]], and [[Ivan Petrovich Bezukhov (Earth-616)|Ivan Petrovich]],{{r|Marvel Atlas #1|; [[Madripoor]]'s entry}}
+* who foiled their attempt at turning young [[Natalia Romanova (Earth-616)]] into a master assassin.{{r|Official Handbook of the Marvel Universe A-Z #5|; Hand's entry}} -->
+
+Some time before 1943,<ref>According to Japan's entry in {{cl|Marvel Atlas #1}} it happened at least before August 1945, but {{cl|Sgt. Fury Vol 1 29}} set Baron Strucker's exile in Japan in 1943. {{cl|Fury #1}}'s reference of those events happening in 1944 should be considered a continuity mistake.</ref> the Nazi officer known as the [[Johann Shmidt (Earth-616)|Red Skull]], observing the Reich's fall, set up a secret organization in Japan merging several underground criminal societies, including the Hand, with fugitive members of Nazi Germany and [[Imperial Japan (Earth-616)|Imperial Japan]],{{r|Secret Warriors #1|; Hydra Timeline}}{{r|Secret Warriors #12}} and based in the [[Pacific Ocean]]. He assigned leadership of this new organization to a [[Supreme Hydra (Japanese) (Earth-616)|Shinto Imperialist]].{{r|Capt. Savage and his Leatherneck Raiders Vol 1 #4}} Falling out of Hitler's favor, Strucker fled and joined the Skull's organization, renamed it Hydra,{{r|Marvel Atlas #1|; Japan's entry}} and killed the Supreme Leader, seizing control of the organization.{{r|Capt. Savage and his Leatherneck Raiders Vol 1 #4}}{{r|Secret Warriors #1|; Hydra Timeline}}
+
+The new [[Jonin (Earth-616)|Jonin]] of the Hand attempted to unify the two organizations, introducing the occult arts and the worship of the Beast inside Hydra, but Strucker, who knew that occultism had previously driven Hitler near to madness, broke ties with the Hand, opposed him,<!-- {{r|Daredevil #295}} --> winning the battle, setting the stage for later Hand/Hydra interactions, keeping them separated for a time.{{r|Daredevil #295}}<!-- {{r|Official Handbook of the Marvel Universe A-Z #5|; Hand's entry}} -->{{Verify source}}<!-- what is explicitly told in the Daredevil issue -->
+
+===1950s===
+In the late 1950s, the Hand recruited rejected Chaste student [[Drake (Earth-616)|Drake]], who wished to destroy the Hand from within, but was eventually won over to its ways.{{r|Official Handbook of the Marvel Universe A-Z #5|; Hand's entry}}
+
+In 1957, [[:Category:Satanists|satanist]] and fourth richest person in the world [[Elsbeth von Strucker (Earth-616)|Elsbeth von Strucker]] married Baron Strucker and started funding Hydra,{{r|Wolverine Vol 3 23}} seemingly incorporating her own agenda about the Sickly Ones in the organization.{{r|Wolverine Vol 3 26}}<!-- about Hydra but relevant due to the influence of the Hand-->
+
+===1961: The Wheel of [[Fury Secret Base 7|Pieta]]===
+In 1961, the Hand's Grandmaster was [[Shoji Soma (Earth-616)|Shoji Soma]]. He was invited by the [[Brotherhood of the Shield (Earth-616)|Brotherhood of the Shield]]'s Grandmaster [[Leonardo da Vinci (Earth-616)|Leonardo da Vinci]], who organized several important people in espionage's world in a loose partnership known as the [[Zodiac (Great Wheel) (Earth-616)|Great Wheel of Zodiac]]. Led by Da Vinci himself as [[Aries]], the Wheel included Shoji Soma (Pisces), Hydra's Baron Strucker and [[Daniel Whitehall (Earth-616)|Daniel Whitehall, Aka Kraken]], [[Nicholas Fury (Earth-616)|Nick]] and [[Jacob Fury (Earth-616)|Jake Fury]], [[Leviathan (Earth-616)|Leviathan]]'s founders [[Viktor Uvarov (Earth-616)|Viktor Uvarov]] and [[Vasili Dassaiev (Earth-616)|Vasili Dassiev]], [[Thomas Davidson (Earth-616)|Thomas Davidson]], [[Timothy Dugan (Earth-616)|Timothy Dugan]], [[Jonathan Garrett (Earth-616)|John Garrett]], and [[Cornelius van Lunt (Earth-616)|Cornelius van Lunt]].<!-- {{r|Secret Warriors #25}} -->
+
+The Great Wheel accomplished several missions for Aries, including the discover by Shoji Soma, Vasili Dassiev, Dum-Dum Dugan and Kraken of a [[Brood (Race)|The Brood]] power drive in [[Egypt]], as well as other pieces of technology in [[Zargos Mountains]] and [[France]].{{r|Secret Warriors #25}} In France, the Fury brothers and Thomas Davidson found the Brood's replicant technology, which originated the first two [[Life-Model Decoy]]s.{{r|Secret Warriors #26}} However, Uvarov and Dassiev started operating behind the scenes using the alien technology, able to enhance one possibly above the result of the [[Project Rebirth (Earth-616)|American Super-Soldier program]] for Leviathan's own purposes, betraying the Great Wheel after having learned from Davidson how to activate Pieta's secret protocols. After a shooting, Strucker, Kraken, and Soma fled. As a consequence, the Wheel was de facto disbanded.<!-- {{r|Secret Warriors #25}} -->
+
+One month after the breaking of the Great Wheel, Strucker and Soma, bringing along Hand ninjas, attacked [[Leviathan (Earth-616)|Leviathan]], and Strucker used the [[Spear of Imhotep]] to stab [[Viktor Uvarov (Earth-616)|Viktor Uvarov]]. Soma also stole the power drive, causing the machine intending to boost up the Leviathan agents, and mutating them horribly.{{r|Secret Warriors #25}} At some point afterwards, feeling that he was about to die, Shoji Soma came to the [[Clan Yashida (Earth-616)|Clan Yashida]] to open the box held in secret by the Yashida, older for the Yashida themselves and almost as old as Japan. The box was stated to be tied to a legacy of death and madness, and that none had lived to see open twice. The next day, Soma was killed by Magadan, looking for the power drive.{{r|Secret Warriors #26}}
+
+{{Quote|We are committed. If we lose one hand, two more will take his place.|[[Shoji Soma (Earth-616)|Grandmaster Shoji Soma]]|Secret Warriors #25}}
+
+===Modern times===
+[[Elektra Natchios (Earth-616)|Elektra]] originally belonged to the [[Chaste (Earth-616)|Chaste]]. As a self-imposed test, she joined the Hand. When they forced her to assassinate her former mentor, she abandoned the Hand and the Chaste and became a freelance assassin. In that capacity she encountered [[Matthew Murdock (Earth-616)|Daredevil]], who once trained under the Chaste's leader, [[Stick (Earth-616)|Stick]], and helped both of them survive an attack by the Hand.{{r|Daredevil #177}}
+
+In an offensive against the Chaste, the Hand lost its best warrior, [[Kirigi (Earth-616)|Kirigi]]. A later battle brought forth the Chaste's ultimate weapon, a ritual that literally drained the life from the Hand's attackers. Unable to contain so much energy, however, Stick and [[Shaft (Chaste) (Earth-616)|Shaft]] also died.{{Citation}}<!--Daredevil #?-->
+
+The Hand tried to prevent the reincarnation of Stick. The Chaste enlisted Daredevil once again, who traveled to Japan and helped to protect the infant who bore his sensei's spirit.{{r|Daredevil: Ninja #1|3}}
+
+The Hand has also crossed swords with [[James Howlett (Earth-616)|Wolverine]], [[Peter Parker (Earth-616)|Spider-Man]], the [[Avengers (Earth-616)|Avengers]], and the [[X-Men (Earth-616)|X-Men]]. More than anyone else (excepting Elektra), however, they have interacted with [[Elizabeth Braddock (Earth-616)|Psylocke]].{{r|Uncanny X-Men #256|258}}
+
+====Gorgon's Leadership====
+At some point, legendary [[Hydra (Earth-616)|Hydra]] agent [[Daniel Whitehall (Earth-616)|Kraken]] went (on his own) to [[Kobe (Japan)|Kobe]], [[Japan]], and gave the [[Godkiller (Sword)|Godkiller blade]] to [[Tomi Shishido (Earth-616)|Tomi Shishido, aka the Gorgon]], to help him achieve his destiny.{{r|Secret Warriors #11}} Gorgon then went to the Hand and committed suicide (in order to be resurrected).{{r|Wolverine Vol 3 26}}
+
+Gorgon became the High Priest of the Hand, their leader, and allied the Hand and the [[Brotherhood of Evil Mutants (Earth-616)|Brotherhood]] splinter group the [[Dawn of the White Light (Earth-616)|Dawn of the White Light]] (that he formerly led as well) with Hydra.{{r|Wolverine Vol 3 24}} Elsbeth von Strucker soon considered Gorgon as being the one awaited by the [[Sickly Ones (Earth-616)|Sickly Ones]].{{r|Wolverine Vol 3 26}}
+
+As Gorgon left to follow their goals in leading Hydra, ''"ushering in the end with infinite resources"'', the sickly masters of the Hand erected a resurrected "[[Pagon (Earth-616)|Elektra]]" as a queen to rule from the East. Elektra, along with [[James Howlett (Earth-616)|Wolverine]], soon killed the masters and decimated the Hand's ranks.{{r|Wolverine Vol 3 29}} Wolverine later killed Gorgon.{{r|Wolverine Vol 3 30|31}}
+
+[[File:Dark_Reign_The_List_-_Daredevil_Vol_1_1_page_37_The_Hand_(Earth-616).jpg|thumb|left|150px|[[Matthew Murdock (Earth-616)|Daredevil]] inspired uniform]]
+Elektra led the Hand for some time but was killed and found out to be a [[Deviant Skrulls|Skrull]], temporarily leaving the Hand without a warlord. One faction, led by [[Hirochi (Earth-616)|Lord Hirochi]] and his lieutenant, [[Maki Matsumoto (Earth-616)|Lady Bullseye]], aimed to make Daredevil their new leader, an offer the latter rejected, only to be told that "the Hand doesn't take no for an answer."{{Citation}}
+
+They then instigated the return of the [[Wilson Fisk (Earth-616)|Kingpin]] to [[New York City]], with the goal of offering him the leadership instead. However, this was preempted by Daredevil, who accepted their offer, on the condition that the Hand should not do business with the Kingpin or Lady Bullseye again. The three remaining ninja-lords accepted this arrangement through a twisted turning of events, a battle waged between Lady Bullseye, the Kingpin and Daredevil.{{Citation}}
+
+====[[Shadowland]] and Kingpin's Leadership====
+Proclaimed the winner, the Hand was then under the leadership of Daredevil. With assassins obeying every order, time will tell if this clan will allow the fighter of the great-good lead them into a new era. In observance of their new master, the ninjas adorned themselves with Daredevil inspired regalia. With [[Norman Osborn (Earth-616)|Norman Osborn]] in control of law enforcement and the justice system, and criminals secretly doing their business with Osborn's blessing, Daredevil seeks to use the Hand to fight back Osborn's system of corruption and power.{{Citation}}
+
+After the Beast was dispossessed from Daredevil, Kingpin took the leadership of the ninja group, with Lady Bullseye, [[Mary Walker (Earth-616)|Typhoid Mary]], [[Jackson Brice (Earth-616)|Montana]], and [[Phillip Urich (Earth-616)|Hobgoblin]] as his henchmen. For some time Fisk used the Hand for his criminal purposes.{{Citation}}
+
+====Alliance with HYDRA====
+The Hand crowned Gorgon as their leader in [[Madripoor]], as he woke "the Beast" (not the Demon), the dragon on whose head Madripoor rested.{{r|Avengers World #1}} Gorgon was recruited by the new [[Elisa Sinclair (Earth-61311)|Madame Hydra]] into the new formation of the [[High Council of Hydra (Earth-616)|Hydra's High Council]], making a new alliance between Hydra and the Hand.{{r|Captain America: Steve Rogers #14}}
+
+Gorgon subsequently left the Hand for the mutant nation of [[Krakoa (Earth-616)|Krakoa]], becoming one of the [[Great Captains of Krakoa (Earth-616)|Great Captains]]. The Beast itself seems to have assumed direct leadership over the Hand.{{r|X-Force Vol 6 13}}
+
+| Equipment               = Cybernetics,{{r|Wolverine Vol 2 108}} red shinobi shozoku (ninja clothing)
+| Transportation          = Madripoor dragon,{{r|Avengers World Vol 1 1}}{{r|Avengers World Vol 1 13|14}} flying winged dragons,{{r|Avengers World Vol 1 13|14}} conventional vehicles
+| Weapons                 = High-tech firearms (comparable to Hydra or S.H.I.E.L.D.),{{r|Wolverine Vol 2 108}} traditional ninjutsu weapons
+
+| Notes                   = 
+| Trivia                  = * The Foot Clan from Teenage Mutant Ninja Turtles were originally based off the Hand.{{r|[http://theweek.com/captured/446321/fascinating-origin-story-teenage-mutant-ninja-turtles The fascinating origin story of the Teenage Mutant Ninja Turtles]}}
+* The Red Ninjas of Marvel Comics' G.I.Joe series were a toned-down pastiche of the Hand. Far less violence and without the occult.
+| Links                   = 
+}}
+[[Category:Criminal Organizations]]
+[[Category:Terrorist Organizations]]
+[[Category:Japanese Organizations]]
+[[Category:Mystical Organizations]]

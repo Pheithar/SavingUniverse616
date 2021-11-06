@@ -1,0 +1,50 @@
+{{Marvel Database:Character Template
+| Image                   = Demon of the Dark (Earth-616) from Defenders Vol 1 1 001.png
+| Name                    = 
+| CurrentAlias            = Demon of the Dark
+| Aliases                 = 
+
+| Affiliation             = [[Necrodamus (Earth-616)|Necrodamus]]
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Brown
+| UnusualSkinColor        = Orange
+| UnusualFeatures         = Scaled skin, claws
+
+| Origin                  = [[Demons|Demon]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = [[New Jersey (State)|New Jersey]]
+
+| Creators                = Steve Englehart; Sal Buscema
+| First                   = Defenders #1
+
+| History                 = The Demon of the Dark attacked the [[Defenders (Earth-616)|Defenders]] in an underground cave where [[Necrodamus (Earth-616)|Necrodamus]] was waiting for the precise star alignment to sacrifice the [[Namor McKenzie (Earth-616)|Sub-Mariner]] to the [[Undying Ones]], but it was easily defeated by the [[Bruce Banner (Earth-616)|Hulk]].{{r|Defenders #1}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * http://www.marvunapp.com/Appendix3/necrodamusdef.htm#demon
+}}
+[[Category:Giant Monsters]]

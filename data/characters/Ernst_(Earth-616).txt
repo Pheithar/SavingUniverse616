@@ -1,0 +1,72 @@
+{{Marvel Database:Character Template
+| Image                   = Ernst (Earth-616) from Extraordinary X-Men Vol 1 9 002.jpg
+| Name                    = [[Ernst]]
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = Formerly {{m|X-Men}}, [[Xavier Institute student body#Jean Grey School students|Xavier Institute student body]], [[Peter Parker (Earth-616)|Spider-Man]]'s {{m|Special Class}}, partner of [[Nathaniel Essex (Earth-616)|Mister Sinister]], [[Kuan-Yin Xorn (Earth-616)|Xorn]]'s {{m|Special Class}}, {{m|Brotherhood of Evil Mutants (Earth-616)|Brotherhood of Mutants}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Grey
+| Hair                    = Grey
+| UnusualFeatures         = Her appearance suggests [[Wikipedia:Progeria|progeria]]
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Student, adventurer
+| Education               = Various courses at Xavier Institute for Higher Learning, Westchester, New York
+| BaseOfOperations        = Formerly [[Xavier's School for Gifted Youngsters|Xavier Institute for Mutant Education and Outreach]], [[Central Park]], [[Manhattan]], [[New York City]], [[New York]]; [[Xavier's School for Gifted Youngsters|Jean Grey School for Higher Learning]], [[X-Haven]], [[Limbo (Demonic)|Limbo]] (formerly [[Salem Center]], [[Westchester County]], [[New York (State)|New York]]); [[Utopia (X-Men Base)|Utopia]], [[San Francisco Bay]], [[California (State)|California]]; [[Graymalkin Industries]], Marin Highlands, [[San Francisco]], [[California (State)|California]]
+
+| Creators                = Grant Morrison; Frank Quitely
+| First                   = New X-Men Vol 1 135
+
+| Quotation               = I just '''ripped''' my [[Martha Johansson (Earth-616)|best friend]]'s brain out so I could save her. How 'bout I do the same to '''[[Nathaniel Essex (Earth-616)|you]]?'''
+| Speaker                 = [[Ernst (Earth-616)|Ernst]]
+| QuoteSource             = Spider-Man and the X-Men Vol 1 6
+
+| History                 = Ernst first appeared as a student of [[Kuan-Yin Xorn (Earth-616)|Xorn]]'s "[[Special Class (Earth-616)|Special Class]]", and had a close friendship with fellow student [[Martha Johansson (Earth-616)|No-Girl]]. After [[M-Day]] she retained her powers though she didn't make the cut for the New X-Men because she was excused by Emma Frost from the battle royale.
+
+===Spider-Man===
+When [[James Howlett (Earth-616)|Logan]] died, he asked [[Peter Parker (Earth-616)|Spider-Man]] to find a mole within the school. To do so, Spider-Man reformed the Special Class, composing it with students that he thought would be the mole. Ernst was eventually revealed to be the mole, as she had made a deal with [[Nathaniel Essex (Earth-616)|Mr. Sinister]] to give Martha a new body, however, it was a devious plan as Martha's brain was placed into a cloned body of [[Ororo Munroe (Earth-616)|Storm]] and forced to do Sinister's bidding, resulting in Ernst getting it out to save her. While the teachers planned to expel her, Spider-Man and her friends vouch for her to stay, and she received five months of detention instead.{{r|Spider-Man and the X-Men #1|5}}
+
+===Becoming an X-Man===
+In the wake of a massive wave of anti-mutant sentiment combined with the discovery that the [[Terrigen Mist|Terrigen Mists]] spread in the atmosphere were harmful to mutants, Ernst, as well as many other mutants, were sheltered on a sanctuary called [[X-Haven]]. Once the X-Men were rebuilt, Ernst and a few other young mutants ([[Victor Borkowski (Earth-616)|Anole]], [[Robert Herman (Earth-616)|Glob]], and No-Girl) were assembled by [[Piotr Rasputin (Earth-616)|Colossus]] to be trained in order to become X-Men.{{r|Extraordinary X-Men #1|8}}
+
+===Omega World===
+When [[Cerebra (A.I.) (Earth-616)|Cerebra]] detected the sudden appearance of six-hundred new mutant signatures in [[Tokyo]], Storm sent Colossus and his team of young mutants to investigate it. Cerebra took them to the warehouse where all the mutant signatures were coming from, and for their surprise, it served as the base of the [[Sugar Man (Earth-295)|Sugar Man]], an old enemy of the X-Men. Sugar Man had genetically engineered six hundred mutant embryos in total isolation from the Terrigen Mists and planned to send them to the future, where they would be safe from the [[M-Pox]] caused by the Mists and would grow to become the next generation of mutants, with Sugar Man as their leader; however, Colossus' interference separated Sugar Man from his ark and Colossus, along with his team, ended up being teleported with the embryos to [[Earth-16558|A.D. 3167]].{{r|Extraordinary X-Men #8}}
+
+Arriving more than a thousand years into [[Earth]]'s future, Colossus and his team ended up on [[Omega World]], composed of what had remained of Earth after [[En Sabah Nur (Earth-16558)|Apocalypse]]'s uprising. After Colossus sacrificed himself in order to save his students from the [[Horsemen of Apocalypse (Earth-16558)|Horsemen of Apocalypse]], Ernst and the other young mutants spent an entire year fighting their way through Apocalypse's Omega World to try and find a way to return to [[Earth-616|their own time]], but in vain.{{r|Extraordinary X-Men #9}} While wandering a destroyed [[New York City]], now home to one of the races that survived Apocalypse's trials, the [[Moloids]], Ernst and her friends encountered the X-Men, who had followed them through the [[Glossary:Timestream|timestream]] to Omega World. They were attacked by the Horsemen of Apocalypse and their newest member, Colossus now calling himself War, soon afterwards.{{r|Extraordinary X-Men #8}}
+
+| Powers                  = *'''Superhuman Strength'''{{r|New X-Men #135}}<br>
+* '''Psychic Resistance'''{{r|Spider-Man and the X-Men #6}}<br>
+* '''Superhuman Durability'''{{r|Spider-Man and the X-Men #6}}<br>
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * Grant Morrison originally conceived Ernst as a rehabilitated [[Cassandra Nova Xavier (Earth-616)|Cassandra Nova]].{{r|{{cite web|url=https://www.cbr.com/x-men-cassandra-nova-ernst-grant-morrison/|title=Comic Legends: Was Ernst in New X-Men Supposed to be Cassandra Nova?|work=CBR.com|first=Brian|last=Cronin|date=18 December 2017|accessdate=18 December 2017}}}} The most blatant hint to this comes from {{cl|New X-Men Vol 1 153}}, set in the alternate future of [[Earth-15104]], in which [[Cassandra Nova Xavier (Earth-15104)|Cassandra Nova]] tells [[Martha Johansson (Earth-15104)|No-Girl]] that she "can still call [her] Ernst." This hint also establishes that as an alias, Ernst would've originated from the German artist [[wikipedia:Max Ernst|Max Ernst]].
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Post-M-Day Mutants (The 198)]]
+[[Category:Utopians]]
+[[Category:Jean Grey School students]]
+[[Category:Superhuman Strength]]
+[[Category:Significant Threats]]
+[[Category:Post-Secret Wars Mutants]]
+[[Category:Xavier Institute Student]]

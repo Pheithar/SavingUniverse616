@@ -1,0 +1,43 @@
+{{Marvel Database:Team Template
+| Image                   = 
+| Name                    = Godzilla Squad
+| Aliases                 = Godzilla Task Force
+
+| Status                  = Defunct
+| Identity                = Public
+
+| Reality                 = Earth-616
+| BaseOfOperations        = Behemoth IV Helicarrier 
+
+| Leaders                 = 
+| CurrentMembers          = 
+| FormerMembers           = [[Timothy Dugan (Earth-616)|"Dum Dum" Dugan]], Dr. [[Tamara Hashioka (Earth-616)|Tamara Hashioka]], [[Gladstone Hawkins (Earth-616)|Dr. Gladstone Hawkins]], [[Hugh Howards (Earth-616)|Hugh Howards]], [[Gabriel Jones (Earth-616)|Gabe Jones]], Dr. [[Yuriko Takiguchi (Earth-616)|Yuriko Takiguchi]], [[James Woo (Earth-616)|Jimmy Woo]], [[Robert Takiguchi (Earth-616)|Robert Takiguchi]]
+| Allies                  = [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]]
+| Enemies                 = [[Douglas Birely (Earth-616)|Doctor Demonicus]]
+
+| Origin                  = Formed to study and capture Godzilla.
+| PlaceOfFormation        = [[Alaska (State)|Alaska]]
+| PlaceOfDissolution      = [[New York City]]
+| Creators                = Doug Moench; Herb Trimpe
+| First                   = Godzilla Vol 1 1
+| Last                    = Godzilla Vol 1 24
+
+| HistoryText             = When [[Godzilla (Earth-616)|Godzilla]] surfaced off the coast of Alaska and began causing massive amounts of damage, [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] was called in to stop it. [[Nicholas Fury (Earth-616)|Nick Fury]] called in Dr. [[Yuriko Takiguchi (Earth-616)|Yuriko Takiguchi]] who had spent years studying Godzilla in his home country of Japan. Along with Takiguchi came his assistant [[Tamara Hashioka (Earth-616)|Tamara Hashioka]] and his grandson [[Robert Takiguchi (Earth-616)|Robert Takiguchi]]. Fury placed one of his most trusted agents in [[Timothy Dugan (Earth-616)|Dum-Dum Dugan]] in command of the Godzilla Squad as well as [[Gabriel Jones (Earth-616)|Gabe Jones]] and [[James Woo (Earth-616)|Jimmy Woo]].
+
+The Godzilla Squad spent many months following Godzilla throughout his exploits across the United States, trying to figure out ways to safely capture the monster and prevent it from destroying several large American cities. These cities included Seattle, Salt Lake City and San Francisco, where the Godzilla Squad was hindered in its mission by the well-meaning interference of the super hero team, The [[Champions of Los Angeles (Earth-616)|Champions]]. Soon After this debacle, the Squad followed Godzilla to the Aleutian Islands where they, along with Godzilla, stopped the evil schemes of [[Douglas Birely (Earth-616)|Dr. Demonicus]], prompting several members of the team, including the hard-headed Dugan, to question the true intentions of the beast.
+
+[[Iron Man (Anthony "Tony" Stark)|Tony Stark]] was commissioned by S.H.I.E.L.D. to build a machine to help stop Godzilla based upon the plans of Dr. Takiguchi which would come to be known as [[SJ3RX (Earth-616)|Red Ronin]]. Prior to the weapon's deployment, however, Takiguchi's grandson Rob, stole the giant robot, fearing that S.H.I.E.L.D. wished to use it to harm Godzilla. Rob instead used Red Ronin to help Godzilla on several missions, until it was decapitated in a battle with the Mega Monster known as [[Rhiahn (Earth-616)|Rhiahn]].
+
+The Squad later approached [[Henry Pym (Earth-616)|Hank Pym]] for help in dealing with the giant monster. They used his [[Pym Particles]] to shrink Godzilla down in size and proceeded to bring him back to New York City while they decided what to do with him. Godzilla, however, escaped into the Hudson River and soon began re-growing in size as the particles began to wear off. The Squad eventually had no choice but to accept the help of the [[Fantastic Four (Earth-616)|Fantastic Four]] and their scientific genius leader, [[Reed Richards (Earth-616)|Reed Richards]]. They subdued the monster and used [[Victor von Doom (Earth-616)|Dr. Doom]]'s time machine to send him back to his own time period. (Due to his readioactive nature, the machine actually transported him to the extra-dimensional Dinosaur World). Godzilla's radioactivity also caused the time machine to malfunction and Godzilla was soon returned to the present at his full size in the middle of New York City. After a battle against the combined efforts of the Godzilla Squad, the Fantastic Four and the [[Avengers (Earth-616)|Avengers]], Rob, Godzilla's only true friend, persuaded the monster to return to the sea and to leave the United States peacefully. The Squad was presumably disbanded soon after this occurance.
+
+| Equipment               = 
+* [[Red Ronin]]
+| Transportation          = Behemoth IV Helicarrier
+| Weapons                 = The Godzilla Squad had all of the weaponry of S.H.I.E.L.D. at thier disposal.
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * http://www.marvunapp.com/Appendix/godzilsq.htm
+* http://en.wikipedia.org/wiki/Godzilla_Squad
+}}
+[[Category:S.H.I.E.L.D. Projects]]

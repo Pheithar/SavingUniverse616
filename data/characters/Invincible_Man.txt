@@ -1,0 +1,13 @@
+{{DisambiguationFull
+| New Header1     = [[Kl'rt]]
+| New Header1_1   = [[Kl'rt (Earth-616)|Kl'rt]]; Kl'rt (Earth-616) from Fantastic Four Vol 1 32 001.jpg
+| New Header1_2   = [[Kl'rt (Earth-20051)|Kl'rt]]; Kl'rt (Earth-20051) Marvel Adventures Super Heroes Vol 2 23.jpg
+| New Header1_3   = [[Kl'rt (Earth-77640)|Kl'rt]]; Kl'rt (Earth-77640) from Fantastic Four Roast Vol 1 1 0001.jpg
+| New Header1_4   = [[Kl'rt (Earth-534834)|Kl'rt]]; Kl'rt (Earth-534834) from Fantastic Four (1994 animated series) Season 2 11 001.jpg
+
+| New Header2     = Others
+| New Header2_1   = [[Victor von Doom (Earth-616)|Doctor Doom]]; Susan Storm, Victor von Doom (Earth-616) from Fantastic Four Vol 1 287.jpg
+| New Header2_2   = [[Reed Richards (Earth-616)|Mister Fantastic]]; Reed Richards (Earth-616) from Avengers Vol 5 43 cover.jpg
+| New Header2_3   = [[Norman McArthur (Earth-616)|Norman McArthur]]; Norman MacArthur (Earth-616) from Fantastic Four Vol 1 288.jpg
+| New Header2_4   = [[Takuya Yamashiro (Earth-51778)|Spider-Man]]; Takuya Yamashiro (Earth-51778) from Supaidaman (TV series) 003.jpg
+}}

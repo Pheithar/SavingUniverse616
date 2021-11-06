@@ -1,0 +1,46 @@
+{{Marvel Database:Character Template
+| Image                   = Adjunct (Earth-616) from Uncanny X-Men Vol 1 284 0001.jpg
+| Name                    = 
+| CurrentAlias            = Adjunct
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Purple
+| Hair                    = Purple
+| UnusualFeatures         = 
+
+| Origin                  = Extra-dimensional rebel from the Void dimension.
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = Void Dimension
+| Occupation              = Rebel
+| Education               = 
+| BaseOfOperations        = [[Void (Dimension)|Void dimension]]
+
+| Creators                = John Byrne; Whilce Portacio
+| First                   = Uncanny X-Men #284
+
+| History                 = Adjunct is an extra-dimensional rebel from the [[Void (Dimension)|Void dimension]].
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

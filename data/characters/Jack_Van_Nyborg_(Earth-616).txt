@@ -1,0 +1,50 @@
+{{Marvel Database:Character Template
+| Image                   = Jack Van Nyborg (Earth-616) from Incredible Vol 1 126 001.jpg
+| Name                    = Jack Van Nyborg
+| CurrentAlias            = Van Nyborg
+| Aliases                 = 
+
+| Affiliation             = Undying Ones
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = Cult Leader
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Roy Thomas; Herb Trimpe
+| First                   = Incredible Hulk Vol 1 126
+
+| History                 = Van Nyborg was the leader of a cult who worshiped the [[Nameless One (Undying Ones Leader) (Earth-616)|Nameless One]] and the [[Undying Ones]]. His cult kidnapped an unconscious [[Bruce Banner (Earth-616)|Bruce Banner]] after he battled the [[Carl Creel (Earth-616)|Absorbing Man]].{{r|Incredible Hulk Vol 1 125}} Van Nyborg wanted to use Banner's alter-ego of the Hulk to battle the Nameless One's mortal enemy, the [[Dark-Crawler (Earth-616)|Night-Crawler]].{{r|Incredible Hulk Vol 1 126}}
+
+Van Nyborg later resurfaced in Cobbler's Roost, [[Vermont (State)|Vermont]], in another attempt to bring the Nameless One to Earth. [[Celestia Denton (Earth-616)|Celestia Denton]] promised her daughter, [[Barbara Norriss (Earth-616)|Barbara Norriss]]' soul to the Nameless One in exchange for her youth and beauty back. The cultists made a headquarters beneath Barbara's old family homestead. The scheme was thwarted by the [[Benjamin Grimm (Earth-616)|Thing]] and [[Kyle Richmond (Earth-616)|Nighthawk]], and [[Stephen Strange (Earth-616)|Doctor Strange]] hypnotized van Nyborg and the other cultists.{{r|Defenders Vol 1 20}}
+
+| Powers                  = It appears that van Nyborg has at least some skill in the mystical arts as he was able to call on such mystical entities as [[Satannish (Earth-616)|Satannish]], [[Dormammu (Earth-616)|Dormammu]], and [[Watoomb (Earth-616)|Watoomb]] when sending Banner into the Night-Crawler's dimension. He could also fire mystical bolts from his hands that were powerful enough to stagger even Doctor Strange.{{r|Defenders Vol 1 20}}
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

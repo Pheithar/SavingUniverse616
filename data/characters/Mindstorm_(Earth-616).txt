@@ -1,0 +1,50 @@
+{{Marvel Database:Character Template
+| Image                   = Mindstorm (Earth-616).jpg
+| Name                    = 
+| CurrentAlias            = Mindstorm
+| Aliases                 = 
+
+| Affiliation             = [[Johann Shmidt (Earth-616)|Red Skull]]; formerly {{M|Advanced Idea Mechanics (Earth-616)|A.I.M.}}, {{M|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Mercenary, assassin, scientist
+| Education               = 
+| BaseOfOperations        = Mobile
+
+| Creators                = Archie Goodwin; Gerry Conway; Don Perlin
+| First                   = Marvel Super-Heroes Vol 2 4
+| Death                   = Marvel Super-Heroes Vol 2 4
+
+| History                 = Mercenary who invented a special rifle with drug-filled darts to drive people insane.
+
+| Powers                  = 
+| Abilities               = Excellent Marksman
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = Special rifle
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

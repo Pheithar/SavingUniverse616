@@ -1,0 +1,70 @@
+{{Marvel Database:Race Template
+| Image                   = Nuwali from Official Handbook of the Marvel Universe A-Z Update Vol 1 4 001.jpg 
+| Name                    = Nuwali
+| Aliases                 = 
+| Identity                = Secret
+| Affiliation             = [[Beyonders]]
+| Universe                = Earth-616
+| BaseOfOperations        = Tomriv
+
+| BodyType                = Humanoid
+| AvgHeight               = 10'2"
+| AvgWeight               = 790 lbs
+| Eyes                    = 4
+| Hair                    = None
+| Skin                    = Yellow
+| NumberOfLimbs           = 4
+| NumberOfFingers         = 3
+| NumberOfToes            = 3
+| SpecialAdaptations      = They do possess a Vulcan-like nerve touch, that can render a foe insensate on contact
+| UnusualFeatures         = Have forked tongues.
+
+| Origin                  = Alien recruited by the Beyonders to create game reserves on various planet 
+| GalaxyOfOrigin          = Lenra 
+| StarSystemOfOrigin      = 
+| HomePlanet              = [[Tomriv]]
+| PlaceOfBirth            = 
+| Creators                = Michael Carlin
+| First                   = Ka-Zar the Savage Vol 1 34
+
+| HistoryText             = 
+
+The Nuwali are one of the oldest intelligent races in the Universe, they achieved high levels of technology and development millions years before most species.
+
+The species is about ten feet tall, but with wiry frames and no major combat capabilities, and are pacifists in nature. They have a nerve touch that can render their enemies comatose for some time.
+
+250 million years ago, the extra-dimensional beings known as the [[Beyonders]] contacted the Nuwali via the artifact. The Beyonders offered to pay the Nuwali gold if they would create game preserves on Earth and other planets, stocked with flora and fauna from different periods of that planet's history. The Nuwali agreed and created the [[Savage Land]] on Earth, a tropical area circled by volcanoes within [[Antarctica]].
+
+The Nuwali over time stocked the Savage Land with dinosaurs and other life forms, and even with human beings known as the [[Homo neanderthalensis|Man-Apes]]. For tens of millions of years the Nuwali watched over the Savage Land, in time they also created similar environments on other planets.
+
+The Nuwali after some time lost contact with the Beyonders and were replaced by the [[Fortisquians|Fortisquian]], artificial beings created by the Beyonders as servants. 
+
+The Nuwali had received "squendags of gold" for millions of years, but when the Beyonders ceased contact with them, they ceased payment as well. 
+
+The Nuwali became vengeful due to their loss of their steady income, and though they had never actually seen or met their employers, learned that the Beyonders are allergic to adrenaline.
+Though they themselves did not secrete adrenaline, the Nuwali learned that humans did secrete the chemical.
+
+Disguising an intra-dimensional transporter as a fossilized bone, the Nuwali began to collect the humans that touched the fossil and were transported to their world. 
+
+The fossil was located in a region close to the Savage Land's [[Karems]] tribe, and the primitive Karem came to believe that the [[Motyka Bone]] would send those who touched it to Heaven. The Nuwali then imprisoned those sent to them, and began to drain their adrenaline. About forty years previous, one of the [[Karems]], [[Schoed]], was taken by the [[Motyka Bone]], in view of his son, [[Beel]].
+
+| Habitat                 = 
+| Gravity                 = 
+| Atmosphere              = 
+| Population              = 
+
+| Powers                  = 
+| Abilities               = 
+| AvgStrength             = 
+| Weaknesses              = 
+
+| GovernmentType          = 
+| TechnologyLevel         = 
+| CulturalTraits          = 
+| Representatives         = [[Balvo (Earth-616)|Balvo]], [[Giam (Earth-616)|Giam]], [[Pro-Kopeo (Earth-616)|Pro-Kopeo]]
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Savage Land Races]]

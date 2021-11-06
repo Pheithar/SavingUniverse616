@@ -1,0 +1,65 @@
+{{Marvel Database:Character Template
+| Image                   = Cordyceps Jones (Earth-616) from X-Men Vol 6 1 001.jpg
+| Name                    = Cordyceps Jones
+| NameRef                 = {{r|Rocket Vol 1 4}}
+| CurrentAlias            = 
+| Nicknames               = Cordy{{r|Rocket Vol 1 4}}
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = {{cl|Rocket Vol 1 4}}
+| Gender                  = Male
+| Height                  = Variable
+| Weight                  = Variable
+| Eyes                    = Variable
+| Hair                    = Variable
+| UnusualFeatures         = Fungal spore that can control host bodies{{r|Rocket Vol 1 4}}
+
+| Origin                  = Extraterrestrial parasitic fungal spore
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = Crime Boss; Casino Owner
+| Education               = 
+| BaseOfOperations        = '''[[Gameworld]]'''{{r|X-Men Vol 6 1}}<br>
+Formerly:
+* ''[[Galaxy Is Yours|The Galaxy Is Yours]]'', [[Digriz]]{{r|Rocket Vol 1 4}}
+
+| Creators                = Al Ewing; Adam Gorham
+| First                   = Rocket Vol 1 4
+
+| Quotation               = See, Cordyceps Jones...he's '''alien'''. He's not like you and me. You ever hear about that fungus that takes over ants? It starts out as a spore on the breeze...then it gets into an ant, and it lodges in his teeny tiny little '''brain'''. And it grows. And while it's growing, it makes Mr. Ant climb -- higher, right to the top of the nearest plant. Where the fungus can spore again. Doesn't end too well for the ant. And that Cordyceps. He's not a humanoid -- he's a '''spore'''. A fungus, taking over host bodies and making them climb, right to the top.
+| Speaker                 = [[Wade Wilson (Earth-616)|Deadpool]]
+| QuoteSource             = Rocket Vol 1 4
+
+| Overview                = Cordyceps Jones was a parasitic fungal spore and intergalactic casino proprietor and notorious crime boss.{{r|Rocket Vol 1 4}}
+
+| History                 = Cordyceps Jones was a 30,000 year old parasitic fungal spore. During his long life, Jones has accumulated massive amounts of wealth through illegitimate means and from his many casinos. He's also gained a reputation as ''not'' a nice guy and someone willing to do anything for more money and power.<!-- {{r|Rocket Vol 1 4}} -->
+
+When [[Rocket Raccoon (Earth-616)|Rocket Raccoon]] needed a big score to buy out his bounty from [[Technet (Multiverse)|Technet]], he and [[Wade Wilson (Earth-616)|Deadpool]] teamed up to rob Cordyceps Jones. Only Jones' unique brain waves could access his bank account, so Deadpool killed Jones' host and absorbed the Jones' spores into himself. Deadpool's [[Healing Factor|healing factor]] and unique physiology allowed Jones to inhabit his body without completely controlling him. After cleaning out Jones' account, Deadpool vomited out all the Jones spores into a gutter. As Jones washed away, he swore vengeance on Rocket and Deadpool.{{r|Rocket Vol 1 4}}
+
+Cordyceps Jones reemerged sometime later running [[Gameworld]], a casino near a black hole. On Gameworld, Jones has been running bets on who can destroy [[Earth]] overseeing the arrival of the [[Mind Reaver (Earth-616)|Mind Reaver]] and the [[Annihilation Wave (Earth-616)|Annihilation Wave]].{{r|X-Men Vol 6 1|2}}
+
+Cordyceps Jones was planning on bulldozing an orphanage, but his plans were foiled by when the [[Otherone (Earth-616)|Prince of Power]] stole and ate the priceless emerald that would have paid for the operation. Jones sent his goons after him, but they were defeated when the Prince of Power teamed up with [[Hercules Panhellenios (Earth-616)|Hercules]].{{r|Guardians of the Galaxy Annual Vol 4 1}}
+
+| Personality             = Cordyceps Jones is ruthless and would '''compulsively''' do anything to gain more money and power.{{r|Rocket Vol 1 4}}
+
+| Powers                  = * '''Parasitic Possession''': As a fungal spore, Cordyceps Jones can be inhaled into victims. Once inside a body, Jones can completely taken control of his host and overwrite their consciousness with his own.{{r|Rocket Vol 1 4}}
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = * '''Healing Factor Resistance''': If a host body has a [[Healing Factor|healing factor]], Jones cannot fully control the host and overwrite their consciousness. However, the mental strain of resisting Jones does appear to reduce neurological abilities of the host.{{r|Rocket Vol 1 4}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * [[Wikipedia:Cordyceps|Cordyceps]] is a genus of fungi with most of the species parasitizing on insects and other arthropods.
+| Trivia                  = * Cordyceps Jones' bank was [[Shrooman's Savings & Loam]].{{r|Rocket Vol 1 4}}
+| Links                   = 
+}}
+[[Category:Advanced Longevity]]

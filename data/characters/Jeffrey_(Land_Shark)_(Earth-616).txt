@@ -1,0 +1,57 @@
+{{Marvel Database:Character Template
+| Title                   = [[Jeff the Land Shark]]
+| Image                   = Jeffrey (Land Shark) (Earth-616) from Marvel Comics Vol 1 1000 001.jpg
+| Name                    = Jeffrey the First of His Name of the Former Staten Island
+| NameRef                 = {{r|Deadpool Vol 8 6}}
+| CurrentAlias            = 
+| Aliases                 = Jeff the Baby Land Shark{{r|West Coast Avengers Vol 3 8}}
+
+| Affiliation             = [[Wade Wilson (Earth-616)|Deadpool]]; formerly [[Gwendolyn Poole (Earth-TRN565)|Gwenpool]], [[Elsa Bloodstone (Earth-616)|Elsa Bloodstone]], {{M|Avengers West Coast (Earth-616)|West Coast Avengers}}, {{m|Hive (Symbiotes) (Earth-616)|Symbiote Hive}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Black
+| Hair                    = None
+| UnusualSkinColor        = Grey
+| UnusualFeatures         = Fins and gills[[Category:Fins]][[Category:Gills]][[Category:Shark Form]]
+
+| Origin                  = [[Land Sharks|Land Shark]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = Pet[[Category:Pets]]
+| Education               = 
+| BaseOfOperations        = [[Battery Weed|Honor Guard Headquarters]]{{r|Deadpool Vol 8 2}}; formerly [[Hawkeye Investigations Office|West Coast Avengers HQ]]{{r|West Coast Avengers Vol 3 7}}
+
+| Creators                = Kelly Thompson; Daniele Di Nicuolo
+| First                   = West Coast Avengers Vol 3 7
+
+| History                 = '''Jeff''' was a [[Land Sharks|Land Shark]] adopted by [[Gwendolyn Poole (Earth-TRN565)|Gwenpool]] during her time on the [[Avengers West Coast (Earth-616)|West Coast Avengers]].{{r|West Coast Avengers Vol 3 7}}
+
+Jeff later ended up with [[Elsa Bloodstone (Earth-616)|Elsa Bloodstone]], who promised to always take care of him;{{r|Marvel Comics Vol 1 1000}} however, Gwen transported Jeff to [[Gwenpool's Island]], where he stayed in her viewing box with her friends instead of being forced to fight. He then watched as Gwenpool fought and defeated the [[Bruce Banner (Earth-616)|Hulk]].{{r|Gwenpool Strikes Back Vol 1 4}}
+
+Gwen then decided to leave Jeff with [[Wade Wilson (Earth-616)|Deadpool]] after she had doubts that she would have a solo series again, causing her to be worried about his future.{{r|Deadpool Vol 8 1}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * Jeff was likely created by [[M.O.D.O.K. Superior (Earth-616)|B.R.O.D.O.K.]] along with all the other [[Land Sharks]] that attacked [[Santa Monica]].{{r|West Coast Avengers Vol 3 1}}
+| Trivia                  = * Jeff was named after [[Gwendolyn Poole (Earth-TRN565)|Gwen]]'s [[Jeff (Cat) (Earth-616)|kitten]].{{r|West Coast Avengers Vol 3 7}}
+* Jeff took an immense liking to [[Quintavius Quire (Earth-616)|Quentin Quire]], [[Gwendolyn Poole (Earth-TRN565)|Gwen]]'s boyfriend when Jeff was discovered.{{r|West Coast Avengers Vol 3 9|10}}
+| Links                   = 
+}}
+[[tr:Jeffrey (Karasal Köpek Balığı) (Dünya-616)]]
+[[Category:Genetically Engineered]]
+[[Category:A.I.M. Projects]]
+[[Category:Symbiotes-possessed]]

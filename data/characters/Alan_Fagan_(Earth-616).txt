@@ -1,0 +1,67 @@
+{{Marvel Database:Character Template
+| Image                   = Alan Fagan (Earth-616) from Thunderbolts Vol 1 168 0001.jpg
+| Name                    = Alan Fagan
+| CurrentAlias            = Mister Fear
+| Aliases                 = 
+
+| Affiliation             = None; formerly {{m|Crossfire's Crew}}, {{m|Hood's Gang (Earth-616)|Hood's criminal army}}, Inner Circle of the {{m|New Enforcers}}
+| Relatives               = [[Lawrence Cranston (Earth-616)|Larry Cranston]] (uncle), [[Ariel Tremmore (Earth-616)|Ariel Tremmore]] (daughter)
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 5'11"
+| Weight                  = 165 lbs.
+| Eyes                    = Hazel
+| Hair                    = Silver
+| UnusualFeatures         = Had a significant portion of the skin from his face cut off
+
+| Origin                  = [[Homo sapiens|Human]], Inherited his costume from the previous Mister Fear, his uncle Lawrence Cranston
+| Reality                 = Earth-616
+| PlaceOfBirth            = Madison, Wisconsin
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Professional criminal; former businessman
+| Education               = Expelled from various colleges
+| BaseOfOperations        = 
+
+| Creators                = Steven Grant; Carmine Infantino
+| First                   = Marvel Team-Up #92
+
+| History                 = Alan Fagan was born in Madison, [[Wisconsin (State)|Wisconsin]]. He is the nephew of the third Mister Fear, [[Lawrence Cranston (Earth-616)|Larry Cranston]]. When Larry seemingly died, Alan came into possession of his fear gas and other equipment. Unlike the other Fears, Fagan's primary adversary was [[Peter Parker (Earth-616)|Spider-Man]], not [[Matthew Murdock (Earth-616)|Daredevil]].{{r|Web of Spider-Man #63}}{{r|Web of Spider-Man #100}}
+
+Fagan attempted to use his fear-gas in blackmail schemes which were stymied by Spider-Man, once with the aid of [[Clinton Barton (Earth-616)|Hawkeye]].{{r|Marvel Team-Up #92}} Fagan was brutally attacked in prison. Much of the skin was carved from his face by men in the employ of his daughter, [[Ariel Tremmore (Earth-616)|Ariel Tremmore]], who used the skin to draw out fear-gas residue. She used the residue to turn herself into the villainess Shock, Mistress of Fear.{{r|Daredevil #314|315}}
+
+Fagan recovered from these injuries and received improved weaponry from the interim ruler of [[Latveria]], [[Lucia von Bardas (Earth-616)|Lucia von Bardas]]. The weaponry, including a suit of body armor resembling a metallic version of the traditional Mr. Fear costume, was destroyed.{{r|Secret War #3|5}}
+
+Fagan was one of the many criminals to escape from the [[Raft]] prison facility, becoming a thrall of the villain [[William Cross (Earth-616)|Crossfire]]. During his efforts in service to Crossfire, Fagan was again defeated by Spider-Man.{{r|Spider-Man: Breakout #1|2}}
+
+After the super-human [[Civil War (Event)|Civil War]] he joined the [[Parker Robbins (Earth-616)|Hood]]'s criminal army.{{r|New Avengers #35}} The team is currently defunct after being defeated by [[Avengers (Earth-616)|The Avengers]] during the Siege on [[Asgard]].
+
+| Powers                  = Mister Fear uses compounds based on pheromones, chemicals produced by most animals, used to communicate a variety of simple messages over distances. The particular pheromone he uses is the flight-scent pheromone, which stimulates fear reactions in herd animals. This drug, tailored for human beings, whose reactions to pheromones are not completely understood, induces severe anxiety, fear, and panic in his victims, rendering them incapable of fighting or resisting his will. The drug is most commonly used in the form of gas pellets shot from a gun. The pellets rupture on contact, releasing the flight scent, which is inhaled by the victim. The dosage contained in one pellet is enough to incapacitate a normal adult male for about 15 minutes, or an exceptionally fit male, such as Daredevil, for about five minutes. The side effects of anxiety, edginess, and mild nausea can persist for several days. 
+
+<table style="float:right;"><tr><td>
+
+
+</td></tr></table>
+
+| Abilities               = Fagan was a skilled businessman
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = * '''[[Fear Gas]]:''' Chronic exposure to his various chemicals has resulted in accumulation of his fear drug within his skin. Though he has not proven able to utilize this himself, samples of his skin were used by Ariel Tremmore to gain superhuman powers as Shock.
+
+Mister Fear uses compounds based on pheromones, chemicals produced by most animals, used to communicate a variety of simple messages over distances. The particular pheromone he uses is the flight-scent pheromone, which stimulates fear reactions in herd animals. This drug, tailored for human beings, whose reactions to pheromones are not completely understood, induces severe anxiety, fear, and panic in his victims, rendering them incapable of fighting or resisting his will. The drug is most commonly used in the form of gas pellets shot from a gun. The pellets rupture on contact, releasing the flight scent, which is inhaled by the victim. The dosage contained in one pellet is enough to incapacitate a normal adult male for about 15 minutes, or an exceptionally fit male, such as Daredevil, for about five minutes. The side effects of anxiety, edginess, and mild nausea can persist for several days. The flight scent can be administered in other ways: Fagan has used a miniature hypodermic needle mounted on his ring to inject a large dose of the liquid directly into his victim’s bloodstream. He has also used a hand-held weapon that fires capsules of the fear gas. Small but effective doses of the flight scent can be absorbed through the pores in the skin within an enclosed space, but the length of time it takes limits its usefulness. Fagan has also adapted other pheromones to his use, including one that makes a man sexually irresistible to women. He briefly wore a suit of armor, which presumably at least provided protection from injury.
+
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = http://en.wikipedia.org/wiki/Mister_Fear
+| Links                   = 
+}}
+[[Category:Pheromones]]
+[[Category:Businesspeople]]

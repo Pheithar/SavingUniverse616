@@ -1,0 +1,77 @@
+{{Marvel Database:Character Template
+| Image                   = Infinity Vol 1 1 Generals Variant Textless.jpg
+| Name                    = Supergiant
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{m|Black Order}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Yellow
+| Hair                    = None
+| UnusualFeatures         = 
+| UnusualSkinColor        = Blue
+
+| Origin                  = [[Alien]], later transformed into a <nowiki>psionic</nowiki> entity
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Jonathan Hickman; Jerome Opeña
+| First                   = Infinity Vol 1 1
+| Death                   = Avengers Vol 1 680
+
+| History                 = ===Invading Earth===
+Supergiant was a member of [[Thanos (Earth-616)|Thanos]]' [[Black Order (Earth-616)|Black Order]]; she was a mentally unstable omnipath and telepathic parasite who seeks out intellect and devours it. In the search for [[Thane (Earth-616)|Thanos' son]], Supergiant and [[Corvus Glaive (Earth-616)|Corvus Glaive]] laid siege to the [[Jean Grey School]] and easily dispatched of the [[X-Men (Earth-616)|X-Men]]. They left after realising that Thanos' son was not there.{{r|New Avengers Vol 3 9}}
+
+When the Black Order seized [[Wakanda]], Supergiant was left in control of [[Blackagar Boltagon (Earth-616)|Black Bolt]], whom she would mentally order to activate the bombs the [[Illuminati (Earth-616)|Illuminati]] hid in Wakanda's [[Necropolis]].{{r|Infinity Vol 1 5}} When the Illuminati arrived to save Black Bolt, Supergiant used the Inhuman King's ability to defeat the heroes. Upon activating the bomb, Supergiant was faced by [[Maximus Boltagon (Earth-616)|Maximus]], who had the trigger. Maximus triggered the bomb, but also used [[Lockjaw (Earth-616)|Lockjaw]] to transport Supergiant along with the bomb to a distant uninhabited planet, where she perished in the explosion of the bomb.{{r|Infinity Vol 1 6}}
+
+===The Challengers' Contest===
+When the [[Challenger (Elder of the Universe) (Earth-616)|Challenger]] reassembled the Black Order to have it fight the [[En Dwi Gast (Earth-616)|Grandmaster]]'s [[Lethal Legion (Grandmaster) (Earth-616)|Lethal Legion]],{{r|Avengers Vol 1 681}} Supergiant appeared returned, though in the form of a mental projection with no physical body. When both teams were teleported to Earth, the planet that served as battleground, to survey it, they ended up breaking into a fight. During its brief duration, Supergiant attempted to take over the body of [[Glah-Ree (Earth-616)|Captain Glory]], but was stopped by [[Mentacle (Earth-616)|Mentacle]]. The skirmish was stopped by the gamemasters since the competition hadn't started yet.{{r|Avengers Vol 1 676}}
+
+Before the first round started, the Black Order attacked the [[Avengers Mansion]] to get rid of the heroes so they didn't get in their way. They failed, since [[Va Nee Gast (Earth-616)|Voyager]] managed to teleport them to safety in the nick of time. Once the contest started, the competing teams were divided in half to fight for the possession of the two [[Pyramoids]] deployed by the Grandmaster and the Challenger.{{r|Avengers Vol 1 677}} Supergiant was among the members of the Black Order that confronted one of the halves of the Lethal Legion in [[Rome (Italy)|Rome]], [[Italy]]. In the fight, she used her powers to incapacitate the [[Molyn (Earth-616)|Metal Master]], forcing him to relieve dark memories. The members of the Black Order teleported away after [[Black Dwarf (Earth-616)|Black Dwarf]] touched the Pyramoid, claiming the first point. He was telelported away to the Grandmaster's Cosmic Game Room, though it seemed like he had been disintegrated.{{r|Avengers Vol 1 678}}
+
+Following the end of the first round, the Black Order regrouped.{{r|Avengers Vol 1 679}} In the second round, the entirety of what remained of the Black Order set their sights on [[Antarctica]] to claim one of the new pair of Pyramoids deployed on Earth. The Black Order was attacked by the Avengers and forced to retreat after [[Rogue (Anna Marie) (Earth-616)|Rogue]] killed Corvus Glaive. Supergiant remained behind and set out to take control of [[Jane Foster (Earth-616)|Thor]]'s mind. However, she was ambushed by the Lethal Legion's [[Ferene (Earth-616)|Ferene]] and dissipated, putting an end to her.{{r|Avengers Vol 1 680}}
+
+| Powers                  = 
+'''Omnipathy:''' Supergiant has the ability to read and control the minds of people of any race.
+* '''[[Mind Control]]:''' Supergiant is described as a "mental parasite", she can control, "steal" and "devour" the minds of her victims.{{r|New Avengers Vol 3 9}}
+* '''Psychic Possession:''' Another attribute to her vast psionic ability is the capacity to project a mental energy surge that overwhelms her victims' conscious minds, making them more subservient to her will.{{r|What If? Infinity - X-Men Vol 1 1}}
+** '''Mass Possession:''' Can possess and control multiple individuals at will.
+** '''Remote Possession:''' Commandeering the host bodies of those she has taken over from a great distance away.
+'''Psionic Entity:''' As a psionic entity, Supergiant has the following powers:
+* '''Intangibility:''' Supergiant can phase through almost anything, including opponents and obstacles.
+* '''Damage Immunity:''' Supergiant is immune to all forms of physical damage.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Infinity casualties]]
+[[Category:Psychic Vampires]]
+[[Category:Telepaths]]
+[[Category:Telekinesis]]
+[[Category:Mind Control]]
+[[Category:Hypnosis]]
+[[Category:Intangibility]]
+[[Category:Psionic Entities]]

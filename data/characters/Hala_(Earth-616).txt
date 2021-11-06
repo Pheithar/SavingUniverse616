@@ -1,0 +1,68 @@
+{{Marvel Database:Character Template
+| Title                   = [[Hala the Accuser]]
+| Image                   = Hala (Earth-616) from Guardians of the Galaxy Vol 4 3 001.jpg
+| Name                    = 
+| CurrentAlias            = [[Hala]]
+| Aliases                 = 
+
+| Affiliation             = [[Kree Empire]], {{m|Accuser Corps|Kree Public Accuser Corps}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Blue
+| Hair                    = Black
+| UnusualSkinColor        = Blue
+| UnusualFeatures         = 
+
+| Origin                  = [[Kree]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Hala (Planet)|Hala]], [[Pama|Pama System]], [[Kree Empire]] in the [[Greater Magellanic Cloud]]
+
+| Identity                = No Dual
+| Citizenship             = Kree Empire
+| Occupation              = Accuser of the Kree Empire
+| Education               = 
+| BaseOfOperations        = [[Kree Empire]]
+
+| Creators                = Brian Michael Bendis; Valerio Schiti
+| First                   = Guardians of Knowhere Vol 1 3
+
+| Quotation               = I am the only survivor of the great [[Kree]] warriors... I am the [[Accuser Corps (Earth-616)|last accuser]]... I am Kree. I am Hala. I am all that's left. And [[Guardians of the Galaxy (Earth-616)|you]] will atone!!
+| Speaker                 = [[Hala (Earth-616)|Hala the Accuser]]
+| QuoteSource             = Guardians of the Galaxy Vol 4 2
+
+| History                 = '''Hala''' is one of the last of the [[Kree]] and the lone surviving member of the [[Accuser Corps (Earth-616)|Accuser Corps]] following the fall of the [[Kree Empire]] as a result of the destruction of the [[Hala (Planet)|Kree Homeworld]].{{r|Guardians of the Galaxy Vol 3 25}}
+
+===[[Secret Wars (2015 Event)|Secret Wars]]===
+After the [[Multiverse]] was destroyed by [[Glossary:Incursion|incursions]] and recreated in the form of [[Battleworld (Latverion)|Battleworld]], Hala appeared on [[Knowhere]] shortly after the [[Guardians of the Galaxy (Earth-616)|Guardians of Knowhere]] had defeated [[Yotat (Earth-616)|Yotat the Destroyer]].{{r|Guardians of Knowhere Vol 1 3}}
+
+[[Gamora Zen Whoberi Ben Titan (Earth-7528)|Gamora]] and [[Aldrif Doomsdottir (Earth-15513)|Aldrif Doomsdottir]] of the [[Thor Corps (Earth-15513)|Thor Corps]] tried talking with Hala, but as she spoke only Kree, neither one could understand her. Gamora advised Aldrif to act peacefully, but the Thor didn't listen, so Hala attacked the pair and defeated them quite easily. The [[Nova Corps (Earth-71535)|Nova Corps]] came in to subdue her, but Hala defeated them as well, killing many of them in the process. When Hala saw the Kree symbol on [[Carol Danvers (Earth-71535)|Captain Marvel]]'s uniform, she paused for a moment, allowing Aldrif and Gamora to recover and seize the opportunity to attack by striking her in the back with their swords, which seemingly killed her.
+
+After that, Gamora and Aldrif conversed about Gamora staying on Knowhere and obeying [[Victor von Doom (Earth-616)|God Emperor Doom]]'s laws. Suddenly Hala sprang back to life and impaled Aldrif with her weapon, killing the Thor. Gamora angrily attacked the woman but was almost killed herself. Fortunately, [[Arthur Douglas (Earth-616)|Drax the Destroyer]] and [[Rocket Raccoon (Earth-616)|Rocket Raccoon]] came to help, and together the Guardians finally defeated her.{{r|Guardians of Knowhere Vol 1 4}}
+
+[[File:Hala (Earth-616) from Guardians of the Galaxy Vol 4 2 002.jpg|thumb|left]]
+===[[All-New, All-Different Marvel]]===
+After [[Reed Richards (Earth-616)|Reed Richards]] restored the Multiverse,{{r|Secret Wars Vol 1 9}} Hala tracked Gamora to [[Spartax (Planet)|Spartax]].{{r|Guardians of the Galaxy Vol 4 1}} There she engaged the Guardians of the Galaxy in a brief skirmish. After being knocked unconscious by [[Benjamin Grimm (Earth-616)|The Thing]], Drax the Destroyer unintentionally engaged fail-safes built into Hala's [[Universal Weapon]], allowing the Accuser to regain the upper hand. Hala then placed [[Peter Quill (Earth-616)|Emperor Peter Quill]] in a escape pod, so that he could watch from afar as she destroyed Spartax, before heading to his other homeworld, [[Earth]], as punishment for his alleged involvement in the genocide of her people.{{r|Guardians of the Galaxy Vol 4 2}}
+
+Hala continued wreaking havoc through Spartax, defeating the Royal Guard before shifting her attention to the defeat Guardians; however, they had been able to escape and regroup. The Guardians distracted Hala long enough to reach [[Cool Interstellar Travel Travelship|their ship]] and recover Quill. Gamora sacrificed herself and confronted Hala in order to buy the Guardians time to retreat.{{r|Guardians of the Galaxy Vol 4 3}} As soon as she discovered Peter Quill was not in her grasp, Hala continued storming Spartax while beating up Gamora, who was already in a bad shape, demanding to know the location of the [[Spartax Empire]] emperor. The Guardians returned to aid Gamora and tried to talk Hala out of destroying the planet, but she refused. [[Katherine Pryde (Earth-616)|Kitty Pryde]] snuck up on her and partially phased her through the ground, pinning her down, allowing The Thing to jump from the ship at a great altitude and crash into Hala with incredible force, knocking her down for good. [[Eugene Thompson (Earth-616)|Venom]] then proceeded to seize her staff and destroy it.{{r|Guardians of the Galaxy Vol 4 4}}
+
+During the subsequent havoc wreaked by the arrival of Yotat the Destroyed, Hala fled from the battlefield. She was found crawling in the subway system of Spartax, and eventually arrested, though the Spartax Council ultimately decided to send her back to whatever remained of the Kree Empire.{{r|Guardians of the Galaxy Vol 4 5}}
+
+| Powers                  = '''[[Kree|Kree Physiology]]'''
+| Abilities               = '''Kree Combat Training:''' Hala is well versed in hand-to-hand combat being raised in the Kree education system.{{r|Guardians of the Galaxy Vol 4 2}}
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = '''Energy Staff:''' Weapon capable of projecting devastating energy. Cannot be safely wielded by others. Hala can summon her staff from a distance as well. Because the staff does not appear to be a traditional hammer-style [[Universal Weapon]], it's unknown if it has the same capabilities.{{r|Guardians of the Galaxy Vol 4 2}}
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Secret Wars (2015 Event) participants]]
+[[Category:Interdimensional Travelers]]

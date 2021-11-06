@@ -1,0 +1,74 @@
+{{Marvel Database:Organization Template
+| Image                   = Quiet Council of Krakoa (Earth-616) from House of X Vol 1 6 001.jpg
+| Name                    = The Quiet Council of Krakoa
+| Aliases                 = 
+
+| OrganizationLeaders     = 
+| CurrentMembers          = [[Sebastian Shaw (Earth-616)|Black King]], [[Piotr Rasputin (Earth-616)|Colossus]], [[Douglas Ramsey (Earth-616)|Cypher]], [[Irene Adler (Earth-616)|Destiny]], [[Bennet du Paris (Earth-616)|Exodus]], [[Krakoa (Earth-616)|Krakoa]], [[Max Eisenhardt (Earth-616)|Magneto]], [[Kurt Wagner (Earth-616)|Nightcrawler]], [[Charles Xavier (Earth-616)|Professor X]], [[Katherine Pryde (Earth-616)|Red Queen]], [[Nathaniel Essex (Earth-616)|Mister Sinister]], [[Raven Darkholme (Earth-616)|Mystique]], [[Ororo Munroe (Earth-616)|Storm]], [[Emma Frost (Earth-616)|White Queen]]
+| FormerMembers           = [[En Sabah Nur (Earth-616)|Apocalypse]], [[Jean Grey (Earth-616)|Marvel Girl]]
+
+| Identity                = Secret <!-- No evidence that this is public knowledge worldwide. -->
+| Affiliation             =
+| Allies                  = [[Great Captains of Krakoa (Earth-616)|Great Captains of Krakoa]], [[Excalibur (Earth-616)|Excalibur]], [[Five (Earth-616)|The Five]], [[Great Ring of Arakko (Earth-616)|Great Ring of Arakko]], [[Hellfire Club (Earth-616)|Hellfire Trading Company]], [[Hellions (Essex) (Earth-616)|Hellions]], [[New Mutants (Earth-616)|New Mutants]], [[S.W.O.R.D. (Earth-616)|S.W.O.R.D.]], [[Swordbearers of Krakoa (Earth-616)|Swordbearers of Krakoa]], [[X-Corporation (Earth-616)|X-Corp]], [[X-Factor Investigations (Earth-616)|X-Factor]], [[X-Force (Earth-616)|X-Force]], [[X-Men (Earth-616)|X-Men]]
+| Enemies                 = [[Victor Creed (Earth-616)|Sabretooth]], [[Orchis (Earth-616)|Orchis]]
+
+| Origin                  = Group of [[Homo superior|mutants]] that serve as the government on [[Krakoa (Earth-616)|Krakoa]].
+| Reality                 = Earth-616
+| Status                  = Active
+| BaseOfOperations        = [[Grove (Krakoa)|The Grove]], [[Krakoa (Earth-616)|Krakoa]]
+| PlaceOfFormation        = [[Grove (Krakoa)|The Grove]], [[Krakoa (Earth-616)|Krakoa]]
+| PlaceOfDissolution      = 
+
+| Creators                = Jonathan Hickman; Pepe Larraz
+| First                   = House of X Vol 1 6
+
+| Overview                = The '''Quiet Council of Krakoa''' was the governing body tasked with creating and enforcing the laws of the nation-state upon [[Krakoa (Earth-616)|Krakoa]].{{r|House of X Vol 1 5}}
+
+| History                 = 
+===First Meeting===
+The Council's inaugural meeting was for drafting and implementing a set of initial laws for Krakoa. After much discussion, often revolving around the complication of mutants such as [[Victor Creed (Earth-616)|Sabretooth]], the Council decided upon three basic laws for the fledgling nation: 1) Make more mutants; 2) Murder no man; 3) Respect the sacred land of Krakoa.{{r|House of X Vol 1 6}}
+
+Due to Sabretooth's violent nature, repeated and longtime disregard for life, and resistance to following orders, the Council voted to exile him to the unseen depths of Krakoa and left in a stasis-like condition; he could not be executed as his death would violate their new laws as well as make him eligible for the "[[Resurrection Protocols|resurrection protocols]]", and he could not be released back into the outside world because mutants no longer fell under jurisdiction of humanity.{{r|House of X Vol 1 6}}
+
+After the end of the meeting, the Council joined the celebrations taking place upon island for the recognition of Krakoa as a sovereign nation under the [[United Nations (Earth-616)|United Nations]].{{r|House of X Vol 1 6}}
+
+===Dawn of X===
+[[Katherine Pryde (Earth-616)|Kate Pryde]] accepted the role of the Red Queen of the Hellfire Trading Company and was assigned the initially undetermined seat in the Quiet Council of Krakoa.{{r|Marauders Vol 1 1}}{{r|Marauders Vol 1 3}}
+
+The Council also led the successful reformation of [[X-Factor Investigations (Earth-616)|X-Factor]], [[Hellions (Essex) (Earth-616)|Hellions]], [[X-Force (Earth-616)|X-Force]], and [[S.W.O.R.D. (Earth-616)|S.W.O.R.D.]]{{r|X-Factor Vol 4 1}}{{r|Hellions Vol 1 1}}{{r|X-Force Vol 6 1}}{{r|S.W.O.R.D. Vol 2 1}}
+
+The council made the controversial decision not to resurrect [[Madelyne Pryor (Earth-616)|Madelyn Pryor]] due to her being a clone of Jean Grey and therefore not considered an actual person.{{r|Hellions Vol 1 4}} [[Five (Earth-616)|The Five]] later petitioned them to change this ruling after the death and unsanctioned resurrection of fellow clone [[Gabrielle Kinney (Earth-616)|Gabby Kinney]].{{r|New Mutants Vol 4 21}} Emma Frost later convinced them to officially overturn their decision not to resurrect Madelyn as a favor to [[Alexander Summers (Earth-616)|Havoc]] after her Hellions mole, [[Manuel de la Rocha (Earth-616)|Empath]] used him to destroy a clone lab containing [[Kwannon (Earth-616)|Psylok's]] daughters mind.{{r|Hellions Vol 1 16}}
+
+===X of Swords===
+Following [[Opal Luna Saturnyne (Earth-9)|Saturnyne]]'s [[X of Swords|Tournaments of Swords]] and battle in [[Otherworld]], the Quiet Council lost two of its members with [[En Sabah Nur (Earth-616)|<nowiki>• --|A|-- •</nowiki>]] staying in [[Amenth]] with his [[Genesis (Earth-616)|his wife]] and [[Jean Grey (Earth-616)|Jean]] resigning to co-lead the [[X-Men (Earth-616)|X-Men]] into Otherworld to save her [[Nathaniel Summers (Earth-616)|son]], deciding that a team of X-Men was needed to act heroically without the hindrance of Council's politics.{{r|X-Men Vol 5 15}}{{r|X of Swords: Destruction Vol 1 1}}
+
+===Planet Arakko===
+In an effort to solve the situation of Arakko's presence on Earth, the Council receiving support from [[Great Ring of Arakko (Earth-616)|the Great Ring]], approved to move the island and its inhabitants to [[Mars (Planet)|Mars]], which would be terraformed and declared the capital of the Sol system, giving mutantkind an upper hand in negotiations with alien civilizations. The Council offered three of its members, [[Bennet du Paris (Earth-616)|Exodus]], [[Max Eisenhardt (Earth-616)|Magneto]], and [[Ororo Munroe (Earth-616)|Storm]], to aid in the project, which was successful.{{r|Planet-Size X-Men Vol 1 1}} 
+
+===Inferno===
+After consulting with [[Moira MacTaggert (Earth-TRN748)|Moira]], Magneto and Professor X were urged to remove [[Raven Darkholme (Earth-616)|Mystique]] from her position of power in order to prevent her from resurrecting [[Irene Adler (Earth-616)|Destiny]]. A meeting was arranged to discuss changes in the Council, Mystique instead proposed a candidate for one of the vacant seats: the seemingly resurrected Destiny.{{r|Inferno Vol 2 1}} Destiny was voted in 6 to 4 due to Mystique having gone behind Xavier and Magneto's backs and procuring the votes of Exodus, Sinister, Shaw and Emma, quickly putting a dampener on their plans to remove Mystique. In order to take back control Moira, Xavier, Magneto and the recently brought in on their secrets Emma Frost brought in [[Piotr Rasputin (Earth-616)|Colossus]] to fill Jeans seat and he was voted in 7 to 3.{{r|Inferno Vol 2 2}}
+
+==Council Structure==
+The Council itself is divided up into four sections of three seats along with an adjunct section:
+* Autumn originally consisted of [[En Sabah Nur (Earth-616)|Apocalypse]], [[Charles Xavier (Earth-616)|Professor X]], and [[Max Eisenhardt (Earth-616)|Magneto]], representing the three greatest traditional and historical heads of [[Homo superior|mutant]] society.{{r|House of X Vol 1 6}} [[Irene Adler (Earth-616)|Destiny]] replaced Apocalypse on the Council after he left Krakoa to join his family in [[Amenth]].{{r|X of Swords: Destruction Vol 1 1}}{{r|Inferno Vol 2 1|2}}
+* Spring consists of the [[Sebastian Shaw (Earth-616)|Black King]], the [[Emma Frost (Earth-616)|White Queen]], and the initially undetermined [[Red King]], representing Krakoa's economic interests through the [[Hellfire Club (Earth-616)|Hellfire Trading Company]].{{r|House of X Vol 1 6}} [[Katherine Pryde (Earth-616)|Kate Pryde]] joined after being given the position of [[Red Queen]].{{r|Marauders Vol 1 2}}
+* Summer originally consisted of [[Jean Grey (Earth-616)|Marvel Girl]], [[Kurt Wagner (Earth-616)|Nightcrawler]], and [[Ororo Munroe (Earth-616)|Storm]], representing the more empathetic, level-headed, and just members of mutantkind (coincidentally, all former [[X-Men (Earth-616)|X-Men]]).{{r|House of X Vol 1 6}} [[Piotr Rasputin (Earth-616)|Colossus]] replaced Marvel Girl after she left the Council to reform the X-Men.{{r|X-Men Vol 5 15}}{{r|Inferno Vol 2 2}}
+* Winter originally consists of [[Bennet du Paris (Earth-616)|Exodus]], [[Nathaniel Essex (Earth-616)|Mister Sinister]], and [[Raven Darkholme (Earth-616)|Mystique]], representing the more zealous, radical, and morally ambiguous elements of mutant society.{{r|House of X Vol 1 6}}
+* Lastly, an adjunct to the council consists of [[Douglas Ramsey (Earth-616)|Cypher]] and Krakoa, representing the interests and needs of the entity itself.{{r|House of X Vol 1}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = * Potential candidate(s) for the Quiet Council included:
+** [[Shinobi Shaw (Earth-616)|Black Bishop]]{{r|Marauders Vol 1 3}}
+** [[Scott Summers (Earth-616)|Cyclops]]{{r|X-Men Vol 5 16}}
+** [[Namor McKenzie (Earth-616)|Namor]]{{r|X-Men Vol 5 21}}
+* Members of the Quiet Council receive priority in the [[Resurrection Protocols|resurrection queue]].{{r|Excalibur Vol 4 6}}
+* The Quiet Council of Krakoa mirrors the [[Great Ring of Arakko (Earth-616)|Great Ring of Arakko]], including similar laws, seats and table placement, and a representative of Arakko itself.
+** [[Ororo Munroe (Earth-616)|Storm]] has a seat on both the Quiet Council and the Great Ring, as well as one on the [[Galactic Council (Earth-616)|Galactic Council]], simultaneously.
+| Links                   = * [[Great Ring of Arakko (Earth-616)|Great Ring of Arakko]]
+}}
+[[Category:Krakoa]]
+[[Category:Krakoan Organizations]]

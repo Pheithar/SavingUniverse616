@@ -1,0 +1,52 @@
+{{Marvel Database:Character Template
+| Image                   = Connely (Earth-616) New Avengers Vol 1 14.jpg
+| Name                    = [[Connely]]
+| Name2                   = (first name unrevealed)
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Blue
+| Hair                    = Blonde
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = Terrorist
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Brian Michael Bendis; Rick Mays
+| First                   = New Avengers #6
+| First2                  = {{g|Voice only}}{{sld|Giant-Size Spider-Woman #1}}{{g|Fully seen}}
+
+| History                 = 
+
+| Personality             = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

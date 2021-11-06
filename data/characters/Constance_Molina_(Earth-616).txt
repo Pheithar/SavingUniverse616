@@ -1,0 +1,55 @@
+{{Marvel Database:Character Template
+| Image                   = Constance Molina (Earth-616) from Mighty Avengers Vol 2 11 002.jpg 
+| Name                    = Constance Molina
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = Formerly {{m|Mighty Avengers (1970s) (Earth-616)|Mighty Avengers (1970s)}}, {{m|Mighty Avengers (Cage) (Earth-616)|Mighty Avengers}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Former reporter
+| Education               = 
+| BaseOfOperations        = [[New York City]]
+
+| Creators                = Al Ewing; Greg Land
+| First                   = Mighty Avengers Vol 2 11
+
+| History                 = In the 1970s, Constance Molina was a reporter for numerous tabloids, specially focusing on sightings of metahumans. On November 7, 1972, detective [[James Lucas (Earth-616)|James Lucas]] discovered the corpse of a bat-like monster, and Constance offered to help him, by contacting him with [[Adam Brashear (Earth-616)|Adam Brashear]].
+
+[[File:Constance Molina (Earth-616) from Mighty Avengers Vol 2 11 001.jpg|thumb|left|Contance in the 70s]]
+When she, Lucas and Brashear arrived to the morgue where the body was being kept, they discovered [[Eric Brooks (Earth-616)|Blade]] fighting [[Kaluu (Earth-616)|Kaluu]]. The fight was stopped, and as they began investigating, [[Bear (Hybrid) (Earth-616)|the Bear]] appeared, and presented herself as the killer of that creature, in self-defense, as she wanted to prevent the [[Vampires|Deathwalkers]] from using it for a sacrifice.{{r|Mighty Avengers Vol 2 11}}
+
+The Bear explained that she herself was the result of a failed attempt of the Deathwalkers to extinguish humanity in 1908, and that they would try to do it again. With the mystery solved, the people present formed the [[Mighty Avengers (1970s) (Earth-616)|Mighty Avengers]], and went to find the Deathwalkers. Kaluu tracked down the magic they used in the were-bat to a secret subway below the City Hall. The Mighty Avengers then attacked the Deathwalkers before they could make their sacrifice. After [[Eric Brooks (Earth-616)|Blade]] recovered the Talisman of Kamar-Taj, which was required to perform the sacrifice, [[Adam Brashear (Earth-616)|Adam Brashear]] caused the subway to collapse above the Deathwalkers. With the Deathwalkers stopped, the team disbanded.{{r|Mighty Avengers Vol 2 12}} 
+
+In the present day, Constance and Kaluu returned to New York City in order to contact [[Luke Cage (Earth-616)|Luke Cage]]'s [[Mighty Avengers (Infinity) (Earth-616)|Mighty Avengers]],{{r|Mighty Avengers Vol 2 11}} and inform them that the Deathwalkers had returned.{{r|Mighty Avengers Vol 2 12}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

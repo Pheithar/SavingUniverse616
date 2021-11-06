@@ -1,0 +1,55 @@
+{{Marvel Database:Character Template
+| Image                   = Jonin (WWII) (Earth-616) Wolverine Origins Vol 1 16.jpg
+| Name                    = Unknown
+| CurrentAlias            = [[Jonin]]
+| Aliases                 = 
+
+| Affiliation             = Formerly {{m|Hand}}, ally of [[Wolfgang von Strucker (Earth-616)|Baron Wolfgang von Strucker]]
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Bald
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+| KilledBy                = James Howlett (Earth-616)
+
+| Identity                = Secret
+| Citizenship             = Japanese
+| Occupation              = Former leader of the [[Hand (Earth-616)|Hand]]
+| Education               = 
+| BaseOfOperations        = Formerly [[Madripoor]].
+
+| Creators                = Chris Claremont; Jim Lee
+| First                   = Uncanny X-Men #268
+| Death                   = Uncanny X-Men #268
+
+| History                 = The Jonin was the leader of the [[Hand (Earth-616)|Hand]] in 1941.{{r|Uncanny X-Men #268}}{{r|Wolverine: Origins #16}}
+
+After the Hand broke a long-time agreement in [[Madripoor]] with the criminal mastermind [[Romulus (Earth-616)|Romulus]], the Jonin was searching for other allies, and he found them in the person of [[Wolfgang von Strucker (Earth-616)|Baron Wolfgang von Strucker]].{{r|Wolverine: Origins #16}}{{r|Wolverine: Origins #18}}
+
+As an act of loyalty to the Hand, Strucker brought to the Jonin the young Russian killer [[Natalia Romanova (Earth-616)|Natalia Romanova]], sought by the Hand who wanted to make her their ''Master Assassin''. However, Strucker did not knew that Natalia was secretly an agent of Romulus, who had assigned her the mission to kill the Jonin. The Hand performed a ritual where the Jonin gave Natalia his sacred sword; she was going to kill him, but [[James Howlett (Earth-616)|Logan]], another agent of Romulus who had trained and saved Natalia several times, popped up from shadows and killed the Jonin instead, avoiding making Natalia kill.{{r|Wolverine: Origins #16}}{{r|Uncanny X-Men #268}}
+
+| Personality             = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

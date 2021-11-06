@@ -1,0 +1,67 @@
+{{Marvel Database:Character Template
+| Title                   = [[Leo Fitz|Agent Leo Fitz]]
+| Image                   = Leopold Fitz (Earth-616) SHIELD Vol 3 9.png
+| Name                    = [[Leo Fitz|Leopold "Leo" Fitz]]
+| Aliases                 = 
+
+| Affiliation             = {{M|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}
+| Relatives               = 
+| MaritalStatus           = Single 
+
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Blue
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = British
+| Occupation              = S.H.I.E.L.D. gagdeteer
+| Education               =  
+| BaseOfOperations        = 
+
+| Creators                = Mark Waid; Carlos Pacheco
+| First                   = S.H.I.E.L.D. Vol 3 1
+
+| History                 = 
+=== Dormammu Arc ===
+Leo Fitz was one of the [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] field agents who formed part of [[Phillip Coulson (Earth-616)|Phil Coulson]]'s team to investigate how the terrorist [[Abu Mussan (Earth-616)|Abu Mussan]] got hold of an [[Hofund|Uru sword]]. Fitz helped [[Heimdall (Earth-616)|Heimdall]] (the owner of the Uru sword) break free from Mussan's terrorist group. When Heimdall revealed to have been possessed by an alien rock encrusted in his chest, Coulson ordered Fitz to get the [[Vision (Earth-616)|Vision]], so the android could sneak up on Heimdall and remove the alien rock.
+
+After Heimdall was dispossessed from the influence of an alien rock, and [[Jemma Simmons (Earth-616)|Jemma Simmons]] recovered fragments of it, Fitz began investigating it on the Helicarrier.{{r|S.H.I.E.L.D. Vol 3 1}} Some times later, Fitz and [[Melinda May (Earth-616)|Agent Melinda May]] were appointed to protect [[William Kaplan (Earth-616)|Wiccan]] from [[Ethan Slaughter (Earth-616)|Ethan Slaughter]], who shot most of [[Earth|Earths]] most powerful sorcerers. With the help of [[Wanda Maximoff (Earth-616)|Scarlet Witch]], the S.H.I.E.L.D. agents were able to do so. Together with May and the Scarlet Witch, Fitz travelled to the [[Antarctica]], where the team found out about [[Horguun (Earth-616)|Horguun]], who produced the magic bullets with whom Slaughter gunned the sorcerers down. They were able to stop Horguun and his workers. Shortly before they left, Fitz turned out to be possessed by [[Dormammu (Earth-616)|Dormammu]]'s mindless plague and shot the Scarlet Witch.{{r|S.H.I.E.L.D. Vol 3 5}} He was cured after his teammates managed to defeat Dormammu. 
+
+===Triple Agent===
+Some time later, Fitz was assigned by Coulson go undercover as a triple agent against the Department of Defense's [[Walter Strakovsky (Earth-616)|General Strakovsky]].{{r|Agents of S.H.I.E.L.D. Vol 1 9}} One of his tasks as a double agent involved deliberately sending Agents May and [[Barbara Morse (Earth-616)|Morse]] into a set-up wrong location when they were searching for the [[Quantum Drive]], allowing [[Jonathan Walker (Earth-616)|John Walker]] and the U.S. Military to secure the Drive for themselves.{{r|Agents of S.H.I.E.L.D. Vol 1 4}}
+
+Even though S.H.I.E.L.D. managed to get the Quantum Drive back into their possession, they weren't able to identify the mole inside their ranks, prompting [[Maria Hill (Earth-616)|Director Maria Hill]] to hire outsider [[Elektra Natchios (Earth-616)|Elektra Natchios]] to investigate the team. However, Hill had previously destituted Coulson, the only person to know about Leo's true alleigance. Thus, he didn't have anybody within S.H.I.E.L.D. to fall back on, and he was quickly found out by Elektra.{{r|Agents of S.H.I.E.L.D. Vol 1 8}} He escaped the airbase by using a [[teleportation]] device and joined former Agent Coulson. When Elektra and Coulson's former subordinates apprehended them, Fitz was able to flee with [[Daisy Johnson (Earth-616)|Quake]] in [[Levitating Over Land Automobile|Lola]].{{r|Agents of S.H.I.E.L.D. Vol 1 9}}
+
+After Maria Hill decided to cut Coulson loose, he resorted to Leo and Quake to bring General Strakovsky to justice. Fitz visited the General, and managed to get a confession out of him that he was planning to illegally sell weapons to [[Russia]]. Following Strakovsky's arrest, Fitz was reinstated as an agent together with Coulson and Quake.{{r|Agents of S.H.I.E.L.D. Vol 1 10}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * Leo Fitz is a Level 5 S.H.I.E.L.D. agent <ref>[[S.H.I.E.L.D. Vol 3 1]]</ref>
+| Trivia                  = * Leo Fitz is a character originally created for the [[Earth-199999|Marvel Cinematic Universe]]. He is modeled after his [[Leopold Fitz (Earth-199999)|MCU counterpart]]'s actor, [[wikipedia:Iain De Caestecker|Iain De Caestecker]].
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+
+}}
+[[it:Leopold Fitz (Terra-616)]]
+[[Category:S.H.I.E.L.D. Agents Level 5]]
+[[Category:Scottish]]
+[[Category:Engineers]]
+[[Category:Inventors]]
+[[Category:Robotics]]
+[[Category:Government Agents]]
+[[Category:Content Adapted from Other Media]]

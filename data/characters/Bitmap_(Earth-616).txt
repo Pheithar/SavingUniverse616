@@ -1,0 +1,51 @@
+{{Marvel Database:Character Template
+| Image                   = Bitmap (Earth-616) Daredevil Vol 1 329.jpg
+| Name                    = 
+| CurrentAlias            = Bitmap
+| Aliases                 = 
+
+| Affiliation             = {{M|System Crash}}; {{M|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = None
+| UnusualFeatures         = Liquid form
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Terrorist
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = D.G. Chichester; Scott McDaniel
+| First                   = Daredevil Vol 1 326
+| Death                   = 
+
+| History                 = 
+
+| Powers                  = Bitmap has a liquid form which is held together by his bodysuit. 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+
+}}

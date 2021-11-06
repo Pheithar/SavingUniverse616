@@ -1,0 +1,72 @@
+{{Marvel Database:Character Template
+| Image                   = Codename Bravo (Richard) (Earth-616) from Captain America Vol 6 1 001.jpg
+| Name                    = Richard
+| Name2                   = (last name unknown)
+| CurrentAlias            = Codename: Bravo
+| Aliases                 = Bravo
+
+| Affiliation             = {{m|Hydra (Earth-616)|Hydra}}
+| Relatives               = [[Hydra Queen (Nowhere) (Earth-616)|Hydra Queen]] (wife)
+| MaritalStatus           = Married
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Blue
+| Hair                    = White
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] enhanced by variant of the Super Soldier Serum{{r|Captain America Vol 6 4}}
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Mercenary; formerly U.S. army soldier
+| Education               = 
+| BaseOfOperations        = None; formerly [[Nowhere|Nowhere Land]]
+
+| Creators                = Ed Brubaker; Steve McNiven
+| First                   = Captain America Vol 6 1
+| Death                   = 
+
+| History                 = A Super Soldier from the 1920s and '40s, Codename: Bravo was part of a team built by [[Nicholas Fury (Earth-616)|Nick Fury]] along with [[Steven Rogers (Earth-616)|Captain America]], [[Margaret Carter (Earth-616)|Peggy Carter]], [[Timothy Dugan (Earth-616)|Dum-Dum Dugan]] and [[Jimmy Jankovicz (Earth-616)|Jimmy Jankovicz]] to attack [[Hydra (Earth-616)|Hydra]]. However, Bravo grew to hate Captain America, as Peggy preferred Steve over him. After Jimmy used his powers to open a portal to [[Nowhere]] (a dimension different from ours), a [[Hydra (Earth-616)|Hydra]] agent bashed Jimmy's head in, rendering him comatose, and trapping Bravo along other soldiers in Nowhere.{{r|Captain America Vol 6 4}}
+
+===Return with a Vengeance===
+After many years trapped in [[Nowhere]], he was able to escape when Jimmy waked from coma, and started working with [[Helmut Zemo (Earth-616)|Baron Zemo]] and Hydra to destroy Captain America, blaming him for his accidental imprisonment, as well taking Peggy Carter from him. This resulted in Bravo using a machine connected to the again-catatonic Jankovicz to enter [[Nowhere]], where he trapped Captain America, and proclaimed himself king of this dimension.
+
+[[Sharon Carter (Earth-616)|Agent 13]], [[Nicholas Fury (Earth-616)|Nick Fury]] and [[Samuel Wilson (Earth-616)|Falcon]] rescued Captain America with the help of Jimmy's last act of will and Bravo was imprisoned. 
+
+===Captain America: Powerless===
+Under [[Hydra Queen (Nowhere) (Earth-616)|Hydra Queen's]] orders, [[Helmut Zemo (Earth-616)|Baron Zemo]], along with Hydra soldiers, freed Bravo from the [[Raft]]. He joined them in a plot to unleash mobile, "Omega"-class [[Madbomb|Madbombs]] upon America, but when a gunshot from the Hydra Queen ricocheted off of Captain America's shield and struck him. Richard along with [[Helmut Zemo (Earth-616)|Zemo]] were taken into captivity.{{r|Captain America Vol 6 18}}
+
+| Powers                  = 
+*'''[[Super-Soldier Serum|Super Soldier Serum]]:''' Codename: Bravo was enhanced by the variant of the Super-Soldier Serum. Although his powers are not comparable with [[Steven Rogers (Earth-616)|Captain America's]]. However, his bodily conditions was supposed to be superior to any Olympic-level athlete.{{r|Captain America Vol 6 4}} He also apparently has control of the reality of [[Nowhere]]. He has twice the speed and strength than that of a normal human.{{r|Captain America Vol 6 7}}
+*'''Peak Human Strength:''' Richard's strength was twice as strong as an Olympic-level athlete.{{r|Captain America Vol 6 4}}
+*'''Peak Human Speed:''' Richard's speed was twice as fast as an Olympic-level athlete.{{r|Captain America Vol 6 4}}
+*'''Peak Human Durability:''' Bravo's body was twice as durable as an Olympic-level athlete.{{r|Captain America Vol 6 4}}
+*'''Peak Human Reflexes:''' Bravo's reaction speed was two times faster than a Olympic-level athlete. He was able to catch Captain America's shield at mid-air,{{r|Captain America Vol 6 3}} and also able to dodge gunfire at mid-range.
+
+| Abilities               = *'''Master Marksman:''' Bravo's sharpshooting skills is twice the speed above than that of a normal human. Through his years of training, he's was an highly skilled marksman.{{r|Captain America Vol 6 3|4}}{{r|Captain America Vol 6 5}}
+*'''Skilled Combatant:''' Bravo is proficient in martial arts. He was able to hold his own against [[Steve Rogers (Earth-616)|Captain America]].{{r|Captain America Vol 6 5}}
+| Strength                = Bravo's strength was twice as strong as an Olympic-level athlete.{{r|Captain America Vol 6 4}}
+
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = On multiple occasions, it is revealed that he was shown using many weapons throughout his career.{{r|Captain America Vol 6 4|5}}
+
+| Notes                   =
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Nowhere]]
+[[Category:WWII Characters]]
+[[Category:Super-Soldiers]]
+[[Category:Peak Human Strength]]
+[[Category:Enhanced Durability]]

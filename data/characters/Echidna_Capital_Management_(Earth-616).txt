@@ -1,0 +1,42 @@
+{{Marvel Database:Organization Template
+| Image                   = Echidna_Capital_Management_(Earth-616)_from_Secret_Warriors_Vol_1_1.jpg
+| Name                    = Echidna Capital Management
+| Aliases                 = 
+
+| OrganizationLeaders     = [[John Allen Adams (Earth-616)|John Allen Adams]]
+| CurrentMembers          = Augustus Karma
+| FormerMembers           = 
+
+| Identity                = 
+| Affiliation             =
+| Allies                  = [[Hydra (Earth-616)|Hydra]]
+| Enemies                 = 
+
+| Origin                  = Founded in 1985 by [[Hydra (Earth-616)|Hydra]]
+| Reality                 = Earth-616
+| Status                  = Active
+| BaseOfOperations        = Westport, CT
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+
+| Creators                = Brian Michael Bendis; Jonathan Hickman
+| First                   = Secret Warriors #1
+
+| History                 = After observing the success of [[Typhon Group (Earth-616)|The Typhon Group]], [[Hydra (Earth-616)|Hydra]] became committed to creating a second company to feed its ambitions, and founded Echidna.
+
+It's a venture capital firm whose objective is to fund and gain control of companies that are
+on the cutting edge in specific key areas. Which are Nanotechnology, Aerospace Engineering
+and Manufacturing, Genetic Engineering, Next Generation Military Systems, and New Media.
+
+Among the companies they have funded have been Lernaean Strategies, Canaan Incorporated,
+Argolid, and The Black Atlas Foundation. By the year 2009, it was managing $2.3 billioni in capital.{{r|Secret Warriors Vol 1 1}}
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+| Notes                   = * Echidna Capital Management is presumably named for the legendary [[Echidna (Earth-616)|Echidna]], Mother of Monsters.
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Hydra Projects]]
+[[Category:Companies]]
+[[Category:Financial Institutions]]

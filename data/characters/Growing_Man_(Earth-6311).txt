@@ -1,0 +1,61 @@
+{{Marvel Database:Character Template
+| Image                   = Growing Man (Earth-6311) from Young Avengers Vol 1 3 0001.jpg
+| Name                    = 
+| CurrentAlias            = Growing Man
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = 
+| Height                  = Variable
+| Weight                  = Variable
+| Eyes                    = Black
+| Hair                    = 
+| UnusualFeatures         = 
+| UnusualSkinColor        = Orange
+
+| Origin                  = [[Robots|Robot]]
+| Reality                 = Earth-6311
+| PlaceOfBirth            = 
+
+| Identity                = Public
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Stan Lee; Jack Kirby
+| First                   = Thor #140
+
+| History                 = The Growing Man is an android built by the [[Kosmosians]], an extradimensional race, on behalf of the time-traveling villain known as [[Nathaniel Richards (Kang) (Earth-6311)|Kang the Conqueror]], who had subjugated their planet, [[Kosmosians|Kosmos]]. Knowing that the android would be used as a weapon in the past, the scientists of Kosmos built a device into the android which would deliver a warning message to their people and hopefully lead their ancestors to prepare for Kang's coming. However, the device was somehow damaged, as Kang used the Growing Man many times without the alert beacon functioning.{{r|Thor #140}}
+
+In the Growing Man's first recorded appearance on [[Earth-616|Earth]], it battled the [[Asgardians|Asgardian]] god [[Thor Odinson (Earth-616)|Thor]] on Earth. Thor rid himself of both the Growing Man and Kang by entrapping them in a dimensional warp created by his [[Mjolnir|enchanted hammer.]]{{r|Thor #140}}
+
+Months later, Kang used the Growing Man to abduct millionaire inventor [[Anthony Stark (Earth-616)|Tony Stark]] (secretly the hero [[Iron Man]]) from a hospital after Stark had suffered a heart attack. Iron Man's teammates in [[Avengers (Earth-616)|The Avengers]] attacked and followed the Growing Man, as Kang had intended, enabling him to transport them to his own future time period, where he involved them in his competition against the alien [[En Dwi Gast (Earth-616)|Grandmaster]].{{r|Avengers #69}}
+
+Still later, members of the alien Colonizers of Rigel removed the Growing Man from Kang's time ship, which had apparently been abandoned in the 20th century following one of Kang's defeats. The [[Rigellians]] sent the Growing Man to Earth, where it battled Iron Man, who defeated it by using electrical cables to drain its power, rendering it inert.{{r|Iron Man #108}}
+
+Kang revived the Growing Man and sent it into [[New York City]] during a demonic invasion. In order to maintain his continued existence, Kang believed he had to ensure that the Avengers, whose ranks were then depleted, would be reborn. Therefore, his Growing Man constantly fought to bring the heroes [[Steven Rogers (Earth-616)|Captain America]] (then "The Captain"), Thor, [[Gilgamesh (Earth-616)|Gilgamesh]], [[Reed Richards (Earth-616)|Mr. Fantastic]], and the [[Susan Storm (Earth-616)|Invisible Woman]] into conflict as the Avengers. Mister Fantastic, who had recently joined the team temporarily, used his scientific talents to devise a means of reversing the process enabling the Growing Man to enlarge its size. As a result, the Growing Man shrank to such a degree that it vanished from sight.{{r|Avengers #300}}
+
+The Growing Man was later recovered by the subversive organization [[Hydra (Earth-616)|HYDRA]], led by terrorist [[Wolfgang von Strucker (Earth-616)|Baron Strucker]]. Strucker ordered the Growing Man to be let loose in New York as part of a ploy to destroy the formative team called the [[Thunderbolts (Earth-616)|Thunderbolts]], who were attempting to fill the shoes of the missing Avengers following the [[Onslaught (Psychic Entity) (Earth-616)|Onslaught]] incident. The Thunderbolts managed to not only defeat the android, but to activate its warning beacon, which depleted the Growing Man's energy reserves, returning it to dormancy.{{r|Thunderbolts #6}} The Kosmosian aliens later traced the beacon to the Thunderbolts, in hopes of learning more about Earth and the 616, and kidnapped the team to Kosmos, embroiling them in their civil war.{{r|Thunderbolts #13|14}}
+
+| Powers                  = The Growing Man is a stimuloid, a form of android created by the scientific genius of Kang the Conqueror, the ruler of an alternate [[Earth-6311|future Earth]]. A stimuloid absorbs most forms of kinetic energy directed against it; therefore, the energy causes it no physical harm. Moreover, the absorption of the energy stimulates the rapid multiplication of the stimuloid's artificial cells, causing it to grow significantly in size, with a proportionate increase in strength and resistance to damage. Presumably, the stimuloid draws its additional mass from an extradimensional source in order to grow. Kang can project an unknown form of energy from a gun that will cause the Growing Man to revert to its original size, in which it resembles an action figure. When reducing in size, the Growing Man dispatches the mass it loses back to the extradimensional source. The Growing Man has been shown to be capable of achieving a height equal to that of a building several stories tall. Presumably there is a limit to the size it can reach, for at a certain point its mass would become too great for its legs to support. The Growing Man's true form is only 8 inches tall, at which size he is immobile.
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Pym Particles]]
+[[Category:Characters Displaced to Earth-616]]
+[[Category:Artificial Intelligences]]

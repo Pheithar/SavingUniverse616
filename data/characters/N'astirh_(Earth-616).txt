@@ -1,0 +1,67 @@
+{{Marvel Database:Character Template
+| Image                   = N'astirh (Earth-616) from Official Handbook of the Marvel Universe A-Z Update Vol 1 2 0001.jpg
+| Name                    = N'astirh
+| NameRef                   = {{r|Official Handbook of the Marvel Universe A-Z Update Vol 1 2}}
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = Demons of "Otherplace"
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z Update Vol 1 2}}
+| Gender                  = Male
+| Height                  = Variable
+| Weight                  = Variable
+| Eyes                    = Red
+| Hair                    = Green
+| UnusualSkinColor        = Green
+| UnusualFeatures         = Claws, scales, reptilian wings, muzzle, long, pointed ears, hooves, fangs and goat-like legs.
+
+| Origin                  = [[Demons (Limbo)|Demon]], birthed with the capacity for magic-use.
+| Reality                 = Earth-616
+| PlaceOfBirth            = Presumably "Otherplace"
+| PlaceOfDeath = 
+
+| Identity                = No Dual
+| Citizenship             = Otherplace/Limbo
+| Occupation              = Conqueror, sorcerer; former servant of [[Belasco]] and [[S'ym (Earth-616)|S'ym]]
+| Education               = 
+| BaseOfOperations        = The realm of "[[Limbo (Demonic)]]Otherplace" 
+
+| Creators                = Tom DeFalco; Louise Simonson
+| First                   = X-Factor #32
+
+| History                 = N'astirh was a demon who helped [[Madelyne Pryor (Earth-616)|Madelyne Pryor]] get her baby back from [[Nathaniel Essex (Earth-616)|Mr. Sinister]], and then fought the [[X-Men (Earth-616)|X-Men]].{{r|Uncanny X-Men #240}}
+
+During ''Inferno'', he decided to send a demon to possess the body of [[Hobgoblin]], thus creating [[Demogoblin (Earth-616)|Demogoblin]].{{r|Spectacular Spider-Man #147}}
+
+He was supposedly killed by a lightning bolt from [[Ororo Munroe (Earth-616)|Storm]].{{r|Uncanny X-Men #241}}
+
+However a demon called N'astirh later appeared in New X-Men alongside [[Illyana Rasputina (Earth-616)|Magik]] and it is assumed that it is the same demon.{{r|New X-Men Vol 2 #41}}
+
+During the [[Second Coming]] event, N'astirh and S'ym cut a deal with [[Bastion]]'s forces and provided them with a "weaponized ritual" that sent Magik back to Limbo. When the X-Men sent a team to rescue her, S'ym and N'astirh approached [[Megan Gwynn (Earth-616)|Pixie]] to make another deal: if Pixie would kill Magik, and take her Soulsword to N'astirh, he would return the missing piece of Pixie's soul and free her from Limbo's darkness forever.{{r|X-Men: Hellbound #1|3}}
+
+| Powers                  = N'stirh can fly using his wings, for an undefined period of time. His body is highly resilient to superhuman attacks. He can inflict serious injuries with his claws.{{Citation}}
+
+'''Techno-organic Nature''': The [[Techno-Organic Virus|Transmode Virus]] grants N'astirh the ability to alter his own shape; infect others with the virus, converting them into "techno-organic" beings; absorb the life energy from converted beings, after which they crumble into inert dust.{{Citation}}
+
+| Abilities               = N'astirh is a sorcerer, self-taught in the arts of black magic. His sorcery is said to nearly be as powerful as Belasco and have the potential to rival Illyana Rasputin (Magik) in Limbo.{{Citation}}
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = Computer created by [[Wiz Kid]] that allowed him to "spell check" his spells, [[Belasco (Earth-616)|Belasco]]'s Ancient Book of Spells, and power-sensing goggles.
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * A demon of similar appearance named "N'astirh" has shown up with the soulless [[Illyana Rasputina (Earth-616)|Magik]]. This new N'astirh seems to have limited intelligence, and it's unclear whether or not it's the same demon.{{Citation}}
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Shapeshifters]]
+[[Category:Flight]]
+[[Category:Superhuman Durability]]
+[[Category:Techno-Organic Virus]]
+[[Category:Formerly Deceased]]
+[[Category:Dragon Form]]

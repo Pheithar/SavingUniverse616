@@ -1,0 +1,54 @@
+{{Marvel Database:Character Template
+| Image                   = Clown (Franklin) (Earth-616) from Dark Reign Zodiac Vol 1 2 001.jpg
+| Name                    = Franklin
+| Name2                   = (first name unrevealed)
+| CurrentAlias            = Clown
+| Aliases                 = 
+
+| Affiliation             = {{m|Circus of Crime}}; formerly {{m|Hood's Gang}}, [[Zodiac (Dark Reign) (Earth-616)|Zodiac]], {{m|Sinister Six (Earth-616)|Sinister Sixteen}}
+| Relatives               = [[Eliot Franklin (Clown) (Earth-616)|Eliot Franklin]] (half-brother),<br>
+[[Corky Franklin (Earth-616)|Corky Franklin]] (father),<br>
+Unnamed mother
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Terrorist
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Joe Casey; Nathan Fox
+| First                   = Dark Reign: Zodiac #1
+
+| History                 = The man currently calling himself The Clown is the half-brother of [[Eliot Franklin (Clown) (Earth-616)|Eliot Franklin]], the clown who was part of the [[Circus of Crime (Earth-616)|Circus of Crime]] and is now--in mutated form--part of the [[Gamma Corps (Earth-616)|Gamma Corps]] as the Griffin. Like Franklin, this Clown has displayed psychopathic and sociopathic traits in the little time he has been on the proverbial radar.{{r|Dark Reign: Zodiac Vol 1 3}}
+
+After Franklin stopped wearing the Clown costume, this Clown took it up, using the reputation built by his sibling for his benefit. He has been recruited by the enigmatic anarchist [[Zodiac (Dark Reign) (Earth-616)|Zodiac]] as part of a group bent on bringing chaos to other superhumans, heroic or not.{{r|Dark Reign: Zodiac Vol 1 1|3}}
+
+| Powers                  = None
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = Gun
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Tobacco Smokers]]

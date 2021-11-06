@@ -1,0 +1,118 @@
+{{Merge|Lucifer (Earth-616)}}{{Marvel Database:Character Template
+| Image                   = Marduk Kurios (Earth-616) from Marvel Zombies The Book of Angels, Demons & Various Monstrosities Vol 1 1 001.jpg
+| Name                    = [[Marduk Kurios]]
+| NameRef                 = {{r|Hellstorm: Prince of Lies #16}}
+| CurrentAlias            = [[Satan]]
+| CurrentAliasRef         = {{r|Journey into Mystery #627}}{{r|Marvel Zombies: The Book of Angels, Demons & Various Monstrosities #1|; Satan's entry}}
+| Aliases                 = Lord Marduk the Morningstar,{{r|Avengers Vol 8 14}} [[Lord Marduk]],{{r|Spirits of Vengeance #4}} [[Adversary]],{{r|Marvel Zombies: The Book of Angels, Demons & Various Monstrosities #1|; Satan's entry}} [[Great Red Dragon]],{{r|Wolverine Vol 4 4}} [[Morningstar]],{{r|Wolverine Vol 4 4}} [[Lord of the Pit]],{{r|Wolverine Vol 4 4}} God of the End of all Things,{{r|Wolverine Vol 4 4}} [[Lucifer]],{{r|Hellstorm: Prince of Lies #13}}{{r|Spirits of Vengeance #4}} [[Simon Garth]],{{r|Hellstorm: Prince of Lies #11}} [[Lord of Darkness]],{{r|Marvel Zombies: The Book of Angels, Demons & Various Monstrosities #1|; Satan's entry}} Lord of Damnation, Torment and Ruin,{{r|Hellstorm: Prince of Lies #4}} [[Angel of Light]],{{r|Hellstorm: Prince of Lies #3}}{{r|Marvel Zombies: The Book of Angels, Demons & Various Monstrosities #1|; Satan's entry}} The [[Tempter]],{{r|Hellstorm: Prince of Lies #3}}{{r|Marvel Zombies: The Book of Angels, Demons & Various Monstrosities #1|; Satan's entry}} [[Lord of the Flies]],{{r|Hellstorm: Prince of Lies #3}}{{r|Marvel Zombies: The Book of Angels, Demons & Various Monstrosities #1|; Satan's entry}} [[Lord of Lies]],{{r|Defenders #111}}{{r|Marvel Zombies: The Book of Angels, Demons & Various Monstrosities #1|; Satan's entry}} [[Master]],{{r|Marvel Zombies: The Book of Angels, Demons & Various Monstrosities #1|; Satan's entry}} [[Prince of Darkness]],{{r|Marvel Zombies: The Book of Angels, Demons & Various Monstrosities #1|; Satan's entry}} [[Prince of Evil]],{{r|Defenders #111}} [[Prince of Hell]],{{r|Marvel Zombies: The Book of Angels, Demons & Various Monstrosities #1|; Satan's entry}} [[Lou]],{{r|Marvel Zombies: The Book of Angels, Demons & Various Monstrosities #1|; Satan's entry}} the [[Devil]],{{r|Hellstorm: Prince of Lies #2}}{{r|Marvel Zombies: The Book of Angels, Demons & Various Monstrosities #1|; Satan's entry}} [[B.L. Zeebub]],{{r|Marvel Zombies: The Book of Angels, Demons & Various Monstrosities #1|; Satan's entry}} [[Nicholis Eblis]],{{r|Defenders #111}}{{r|Marvel Zombies: The Book of Angels, Demons & Various Monstrosities #1|; Satan's entry}} [[Miles Gorney]],{{r|Marvel Zombies: The Book of Angels, Demons & Various Monstrosities #1|; Satan's entry}} [[Trachos]],{{r|Marvel Zombies: The Book of Angels, Demons & Various Monstrosities #1|; Satan's entry}} [[Fallen One]],{{citation}} Uninvited Guest,{{citation}} [[Black Halo]],{{r|Marvel Zombies: The Book of Angels, Demons & Various Monstrosities #1|; Satan's entry}} Old Scratch{{r|Hellstorm: Son of Satan Vol 1 2}}
+
+| Affiliation             = {{m|Hell Lords|Hell-Lords}}; Lord of the {{m|Infernal Armies of Hell}};{{r|Spirits of Vengeance #4}} {{m|Lords of the Splinter Realms}};{{citation}} formerly The Four; {{M|Six-Fingered Hand}}; Hell Incorporated
+| Relatives               = [[Sinifer (Earth-616)|Sinifer]] (alleged great-great-grandfather)<br>
+[[Dormammu (Earth-616)|Dormammu]] (alleged great-grandfather)<br>
+[[Satannish (Earth-616)|Satannish]] (alleged grandfather)<br>
+[[Victoria Wingate Hellstrom (Earth-616)|Victoria Wingate Hellstrom]] (former wife);<br>
+[[Daimon Hellstrom (Earth-616)|Daimon Hellstrom]] (son);<br>
+[[Satana Hellstrom (Earth-616)|Satana Hellstrom]] (daughter);<br>
+[[Demona Hellstrom (Earth-616)|Demona]] (granddaughter);<br>
+Other Hell-lords (brethren) and their offspring
+| MaritalStatus           = Widowed
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = Variable
+| Weight                  = Variable
+| Eyes                    = Variable
+| Hair                    = Variable
+| UnusualFeatures         = Horns
+| UnusualSkinColor        = Red
+
+| Origin                  = [[Arch Demon|Arch]] [[Demons|Demon]]{{r|Official Handbook of the Marvel Universe: Women of Marvel 2005 Vol 1 1|; [[Satana Hellstrom (Earth-616)|Satana]]'s entry}} formed from primeval energies and/or [[fallen angel]] turned into [[Demons (Angels)|demon]] (''see [[Marduk Kurios (Earth-616)#Origin|origin]]''){{r|Spirits of Vengeance #4}}
+| Reality                 = Earth-616
+| PlaceOfBirth            = Unrevealed ([[Earth]]){{r|Marvel Zombies: The Book of Angels, Demons & Various Monstrosities #1|; Satan's entry}}
+
+| Identity                = Secret
+| Citizenship             = Hell
+| Occupation              = Former lord of a realm of Hell; president of Consolidated Electronics
+| Education               = Extensively self-taught
+| BaseOfOperations        = [[Hell]];{{r|Wolverine Vol 4 1|5}} formerly [[Fire Lake]], [[Massachusetts (State)|Massachusetts]], [[United States of America]]; [[Heaven (Paradise)|Heaven]].{{r|Chaos War: Chaos King #1}}
+
+| Creators                = Mike Friedrich; Herb Trimpe
+| First                   = Marvel Spotlight Vol 1 13
+
+| Quotation               = Even the Devil can bleed.
+| Speaker                 = [[James Howlett (Earth-616)|Wolverine]]
+
+| History                 = 
+
+===Origin===
+Two origins have been presented regarding the origins of Marduk Kurios:
+* He was one of the many [[demons]] and [[Hell Lords (Earth-616)|Hell-Lords]] who arose from the primeval concentration of energy left behind by the ousting of the [[Elder Gods of Earth|Elder Gods]] by the [[Atum (Earth-616)|Demogorge]], then shaped by the unconscious desires of the early [[human]] worshippers.{{r|Marvel Zombies: The Book of Angels, Demons & Various Monstrosities #1|; Satan's entry}}
+* He was [[Lucifer (Earth-616)|Lucifer]], and led the rebellion against [[Heaven (Paradise)|Paradise]]. Still having the form of an angel, Marduk/Lucifer was proposed the [[Covenant (Event)|Covenant]] by God, and defied him, stating that as a supreme being, he could change the rules whenever he wished. God consequently agreed to step away.{{r|Spirits of Vengeance #4}} He then degenerated into becoming a [[Demons|demon]], who ruled one of the several realms of [[Hell]].
+[[File:Marduk Kurios (Earth-616) from Spirits of Vengeance Vol 1 4 001.png|left|thumb|Satan (Marduk Kurios)]]
+
+<!-- Marduk? This Satan treat Daimon as his son, no other clue -->According to himself, in ancient times Satan tried to amass power, possibly from [[Heaven (Paradise)|Heaven]].{{r|Chaos War: Chaos King #1}}
+
+===Pre-Cataclymic Age===
+Marduk Kurios was presumably worshiped prior to the [[Great Cataclysm]], circa 18,000 BC.{{r|Marvel Zombies: The Book of Angels, Demons & Various Monstrosities #1|; Satan's entry}}
+
+===[[Antiquity]]===
+Some time after the [[Great Flood]], the battles between the [[Hell Lords (Earth-616)|Hell-Lords]] used to take place on [[Earth]]. After having seen Marduk's power during a battle, the [[Sumeria]]ns started worshiping him, also recording his real name. Intrigued by this new worship, he kept track of the mortal realm over the centuries.{{r|Hellstorm: Prince of Lies #16}} Much if his following may have been usurped by the [[Mesopotamian god]] [[Marduk (Earth-616)|Marduk]].{{r|Marvel Zombies: The Book of Angels, Demons & Various Monstrosities #1|; Satan's entry}}
+
+Through time, Marduk took control of a very large part of Hell, falsely adopting the titles of [[Satan]], [[Lucifer]], and the [[Devil]] in order to further strengthen his power and devotion.{{r|Defenders #100}}{{r|Hellstorm: Prince of Lies #16}}
+
+===[[Modern Age]]===
+====The Hellstrom====
+He became enamoured by a family of satanists called [[:Category:Hellstrom Family|Hellstrom]] and took the shape of one of them. In this guise he married the mortal [[Victoria Wingate Hellstrom (Earth-616)|Victoria Wingate]] and soon after moved to [[Fire Lake]], [[Massachusetts (State)|Massachusetts]]. There Victoria gave birth to [[Daimon Hellstrom (Earth-616)|Daimon Hellstrom]], and a year and a half later gave birth again, this time to [[Satana Hellstrom (Earth-616)|Satana Hellstrom]]. Over the years Marduk could see that his son did not care for his dark family legacy and instead lavished affection to his daughter who did. While performing a ritual with his daughter involving animal sacrifice, Victoria accidentally walked in and discovered Marduk's true nature. Driven insane, Victoria spent the remainder of her life in an asylum where she kept a diary she meant to give to Daimon once he was old enough to understand.{{r|Marvel Spotlight #13}}{{r|Hellstorm: Prince of Lies #2}}
+
+Marduk took Satana with him to his Hell realm while he left Daimon on Earth to be cared for by servants. Upon his 21st birthday Marduk invited his son to rule by his side, offering eternal life and power. Daimon rejected his father's wishes and stole Marduk's [[Hellstrom's Trident|Netheranium trident]], taking with him a portion of Marduk's power. Thus the rivalry between father and son began.{{r|Marvel Spotlight #13}}
+
+Marduk then tested Satana's loyalty by having her battle four sorcerers. Killing them she discovered that her father was behind the plot. When she was confronted by him Satana failed to kill one of her new allies in honor of her father. This angered Marduk and he banished Satana to remain on Earth until her first mortal death.{{r|Haunt of Horror Vol 2 2}}
+
+In a battle with the [[Defenders (Earth-616)|Defenders]], Daimon's evil soul was released and he agreed to serve his father in Hell. During Daimon's final training Marduk asked Daimon to kill a human in his honor. When Daimon failed to comply Marduk revealed that although he has lived under many faces over the centuries that not all of them have been evil. He told Daimon that he was secretly pleased with his choice but then banished him to Earth, no longer under his care.{{r|Defenders #100|105}}
+
+
+Daimon eventually learned his father's true name from the witch [[LaVoisin (Earth-616)|LaVoisin]].{{r|Hellstorm: Prince of Lies #16}} When next he confronted his father,{{r|Hellstorm: Prince of Lies #11}} he used this name and received a black halo over his head and became the new ruler of his father's realm in Hell.{{r|Hellstorm: Prince of Lies #16}}
+
+Greatly reduced in power, Marduk tricked the male witch [[Andrew Kale (Earth-616)|Andrew Kale]] into opening the [[Tome of Zhered-Na]]. In doing so the demon [[Hellphyr (Earth-616)|Hellphyr]] was released. The Hellphyr then began to attack various magical persons in order to steal their power and kill them shortly after. In causing this, Marduk had hoped to rid the world of a good percentage of its magic users in order for him to acquire a better rank among magic's stairway. Marduk offered Satana the opportunity to help him in this scheme and thus receive a higher standing herself in the realm of magic. Refusing his offer, Satana killed the Hellphyr with the help of her fellow witches [[Jennifer Kale (Earth-616)|Jennifer Kale]] and [[Topaz (Earth-616)|Topaz]]. In doing so Marduk made enemies of both his children as he searches for another way to regain his previous level of power.{{r|Witches #1|3}}
+
+Despite the continuing conflict he has with his children, Marduk still receives offerings of human souls from his daughter Satana. For every nine souls she devours, she offers her tenth victim's soul to her father.{{r|Legion of Monsters: Satan #1}}
+
+Throughout time, he possibly started believing himself to his own lies, claiming to be the [[Lucifer (Earth-616)|original Satan]],{{r|Journey into Mystery #627}} and also acting like him.{{r|Chaos War: Chaos King #1}}{{r|Wolverine Vol 4 1|5}}
+
+On one such occasions, he tried to oppose the [[Amatsu-Mikaboshi (Earth-616)|Chaos King]] from taking over Hell, but his power was not enough, and he was temporarily absorbed by the entity.{{r|Chaos War: Chaos King #1}} He was presumably freed after the Chaos King was defeated.
+
+Marduk appeared again at the [[Devil's Advocacy]], the Hell's "executive council", where he, among the other Hell-Lords, discussed about how to treat the [[Cul Borson (Earth-616)|Serpent]]'s situation.{{r|Journey into Mystery #627}}
+[[File:Infernal Armies of Hell (Earth-616) from Spirits of Vengeance Vol 1 4 002.png|thumb|right|250px|Satana and Daimon Hellstrom looking at their father's hellish horde.]]
+
+====Wolverine in Hell====
+Marduk later reappeared when the soul of [[James Howlett (Earth-616)|Wolverine]] went to Hell and was tortured by demons. In Wolverine's place was a [[Hellverine (Earth-616)|demon who possessed Wolverine's body]]. With the help of the [[X-Men (Earth-616)|X-Men]] and Daimon Hellstrom, Wolverine eventually returned to his body.{{r|Wolverine Vol 4 1|6}}
+
+====Spirits of Vengeance====
+Later, in the Covenant between Hell and Heaven, Satana and Daimon Hellstrom paid a visit to their father while seeking information about the Covenant. After explaining what the Covenant was and his millennial role in it, he revealed to his children his plan to take over Earth once the Covenant was voided by Nostradamus. While, the hordes of Hell waited to raise after his command.{{r|Spirits of Vengeance #4}}
+
+| Powers                  =
+* Shapeshifting.
+* Can show others the past.
+* Can grant the ability of second sight (see into the future).
+* Many other magical  powers on par with [[Mephisto (Earth-616)|Mephisto]] or [[Satannish (Earth-616)|Satannish]].
+* His powers are greatly enhanced when he's in his own realm.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * Marduk more than many other demons claims to be the true ''[[Satan]]'' or ''[[Devil]]'' which may have been an actual entity but also refers to the absolute ruler of evil. Currently, no [[Hell Lords (Earth-616)|Hell-Lord]] has amassed enough power to rightfully claim that title.{{r|Journey into Mystery #627}}
+| Trivia                  = * "Kurios" or "Kyrios" is a Greek word which is usually translated as "lord" or "master". In the Septuagint version of the Bible, Kurios is a title applied to [[Yahweh (Earth-616)|God]].
+| Links                   = * [http://www.marvunapp.com/Appendix/mardukkurios.htm Satan on Appendix]
+}}
+[[Category:Hellstrom Family]]
+[[Category:Magicians]]
+[[Category:Demonic Form]]
+[[Category:Dimensional Rulers]]
+[[Category:Shapeshifters]]
+[[Category:Size Alteration]]
+[[Category:Chaos War casualties]]
+[[Category:Pre-Cataclysmic Age Deities]]

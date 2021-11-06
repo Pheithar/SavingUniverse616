@@ -1,0 +1,56 @@
+{{Marvel Database:Organization Template
+| Image                   = Department X (Earth-616) from Black Widow Vol 1 1 001.png
+| Name                    = Department X
+| Aliases                 = Отдел X
+
+| OrganizationLeaders     = 
+| CurrentMembers          = [[Vasily Karpov (Earth-616)|Vasily Karpov]]
+| FormerMembers           = [[James Buchanan Barnes (Earth-616)|Winter Soldier]]
+
+| Identity                = Known to Authorities 
+| Affiliation             =
+| Allies                  = [[KGB]]
+| Enemies                 = [[S.H.I.E.L.D.]], [[Weapon X]], [[CIA]]
+
+| Origin                  = Covert Soviet government agency that created the [[Red Room]] and the [[Winter Soldier]]
+| Reality                 = Earth-616
+| Status                  = Active
+| BaseOfOperations        = [[Moscow]], [[Russia]]
+| PlaceOfFormation        = [[Moscow]], [[Russia]]
+| PlaceOfDissolution      = 
+
+| Creators                = 
+| First                   = Captain America Vol 5 45
+
+| History                 = Department X (Отдел X) was a covert Soviet agency that was created to train and produce Super-Soldiers to battle the west for the [[Komitet Gosudarstvennoy Bezopasnosti (Earth-616)|KGB]]. 
+
+===Project: Winter Soldier===
+One of their first projects was the "Winter Soldier". General [[Vasily Karpov (Earth-616)|Vasily Karpov]] and his crew of a Russian patrol submarine found [[James Buchanan Barnes (Earth-616)|Bucky]]'s cold-preserved body missing an arm. Bucky was revived in Moscow, but suffered brain damage with amnesia as a result of the explosion. Scientists attached a bionic arm, upgrading it as technology improved. He was sent on covert wetwork missions and became increasingly ruthless and efficient as he killed in the name of the state. The Winter Soldier was kept in cryogenic stasis while not on missions. 
+
+In 1968, Department X sent the Winter Soldier to kill Professor [[Zhang Chin (Earth-616)|Zhang Chin]], whom he had met over 20 years earlier. He was thwarted by an intangible being called the [[Philip Wing (Earth-616)|Man with no Face]], though he was able to escape.{{r|Captain America Vol 5 45}}
+
+On assignment in the 1970s, he suffered a breakdown and went missing for days after assassinating his target.{{r|Captain America Vol 5 11}}
+
+====Weapon X====
+The Winter Soldier also aided in [[James Howlett (Earth-616)|Wolverine]]'s escape from the Weapon X laboratory and later murdered [[Itsu (Earth-616)|Itsu]], Wolverine's wife, seemingly killing their unborn son [[Akihiro (Earth-616)|Daken]], who survived the attack after being cut from his mother's womb.{{r|Wolverine Vol 3 40}}
+
+===[[Red Room Academy (Moscow)|Red Room]]===
+Department X was also responsible for creating the Red Room and training facility to create the perfect assassin. 
+
+====Black Widow Ops Program====
+The [[Black Widow Ops Program (Earth-616)|Black Widow Ops Program]] initially recruited 28 little orphan girls to make them undetectable deep-cover agents to infiltrate [[China]] and the West. The Winter Soldier, was brought in to assist in the training of the Red Room's Black Widows – including Natalia Romanova. The assignment consisted of hand-to-hand combat training, English language instruction, and most likely lessons in American mannerisms. All in all, routine training that Department X had conducted numerous times.{{r|Captain America Vol 5 27}} 
+
+====Wolf Spider Ops Program====
+They also created the Wolf Spider Ops Program, a male equivalent, but this project was stopped and was considered a failure.{{r|Captain America #617}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:KGB Projects]]
+[[Category:Government Organizations]]
+[[Category:Soviet Organizations]]
+[[Category:Super-Soldier Programs]]

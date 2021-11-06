@@ -1,0 +1,82 @@
+{{Marvel Database:Character Template
+| Title                   = [[Ty Stone]] 
+| Image                   = Tiberius Stone (Earth-616) from Amazing Spider-Man Vol 1 686.JPG
+| Name                    = [[Ty Stone|Tiberius "Ty" Stone]]
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{m|Alchemax}}; formerly {{m|Horizon Labs}}, {{m|Hand (Earth-616)|The Hand}}, {{m|Viastone Corporation (Earth-616)|Viastone Corporation}}, {{m|Stone, Inc. (Earth-616)|Stone, Inc.}}; former ally to the [[Phineas Mason (Earth-616)|Tinkerer]]
+| Relatives               = [[Tiberius Stone's father (Earth-616)|Unnamed father]] (deceased)<br>[[Tiberius Stone's mother (Earth-616)|Unnamed mother]] (deceased)
+| MaritalStatus           = Single
+
+| Gender                  = Male
+| Height                  = 6'1"
+| Weight                  = 181 lbs
+| Eyes                    = Blue; Green (formerly){{r|Spider-Man 2099 Vol 3 18|19}}
+| Hair                    = Brown
+| UnusualFeatures         = Tattoos;{{r|Amazing Spider-Man Vol 3 16}} formerly claws, fangs,
+prehensile tongue{{r|Spider-Man 2099 Vol 3 18|19}}
+| CharRef                 = {{cl|Iron Manual Mark 3 Vol 1 1}}
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Long Island]], [[New York (State)|New York]]
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Criminal, engineer, head of [[Alchemax (Earth-616)|Alchemax]]'s R&D department, inventor, scientist; formerly CEO of Viastone, CEO of Stone, Inc.
+| Education               = BA in business administration
+| BaseOfOperations        = [[Oscorp Tower|Alchemax Tower]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]
+
+| Creators                = Frank Tieri; Alitha Martinez
+| First                   = Iron Man Vol 3 37
+
+| Quotation               = And it also tells me... that gramps here was the cause of all this. What some kind of signal that set [[Otto Octavius (Earth-616)|Spider-Man]] off. And endangered that [[Norman Harold Osborn (Earth-616)|boy]]'s life! Just like a [[:Category:Stone Family|'''Stone''']]. Anything to save his own skin. 
+| Speaker                 = [[Miguel O'Hara (Earth-928)|Spider-Man (Miguel O'Hara)]]
+| QuoteSource             = Superior Spider-Man Vol 1 18
+
+| History                 = 
+===Early Life===
+[[File:Tiberius Stone (Earth-616) from Iron Man Vol 3 39.jpg|left|thumb|Tiberius Stone]]
+'''Tiberius " Ty" Stone''' was a scientist and CEO of [[Viastone Corporation (Earth-616)|Viastone]]. He was also the childhood friend of [[Anthony Stark (Earth-616)|Tony Stark]]. The pair grew up very competitive with each other always fighting over girls, sports, and grades.{{r|Iron Man Vol 3 37}}
+
+===Battling the Starks===
+Their parents were business rivals and [[Howard Stark (Earth-616)|Howard Stark]] eventually drove Stone to the verge of bankruptcy. Years later Ty returned from [[Europe]] where he had been hiding for years, planning on returning the day he was richer than Tony. Stone used his media empire to turn public opinion against Stark. He even stole Tony's girlfriend [[Rumiko Fujikawa (Earth-616)|Rumiko Fujikawa]].{{r|Iron Man Vol 3 37|40}}
+
+===The Hand===
+He later worked for [[Hand (Earth-616)|The Hand]], and started working for [[Horizon Labs (Earth-616)|Horizon Labs]] as a double-agent. He also worked with the [[Wilson Fisk (Earth-616)|Kingpin]] and provided him with schematics for spider-sense jammers, which he stole from Horizon Labs. He also had an important role in creating [[Andrew Maguire (Earth-616)|Alpha]]. When his spider-sense jammers failed to stop Spider-Man and his involvement with the Kingpin was discovered by his boss at Horizon Labs [[Max Modell (Earth-616)|Max Modell]], he was fired by both of his employers and went into hiding out of fear for his life.{{r|Amazing Spider-Man #695|697}}
+
+He was taken in by [[Phineas Mason (Earth-616)|the Tinkerer]] until news that the Kingpin was dead and [[Phillip Urich (Earth-616)|Hobgoblin]] was on the run had reached him. Hobgoblin, a frequent customer of the Tinkerer's came to him in need of weapons. Out for revenge, Ty made alterations to his gear, which ultimately worked against him during a confrontation with [[Otto Octavius (Earth-616)|Spider-Man]].{{r|Superior Spider-Man #15}}
+
+===Forming Alchemax===
+By combining his own funds with those of [[Elizabeth Allan (Earth-616)|Liz Allan]] and her son [[Norman Harold Osborn (Earth-616)|Normie Osborn]] in Oscorp, he created the organization [[Alchemax (Earth-616)|Alchemax]], which allied secretly with [[Norman Osborn (Earth-616)|the Goblin King]] and his [[Goblin Nation (Earth-616)|Goblin Nation]] during their brief takeover of New York City.{{r|Superior Spider-Man #17|19}}
+
+===Trans-Sabal===
+[[File:Tiberius Stone (Earth-616) from Spider-Man 2099 Vol 2 4 001.jpg|250px|right|thumb]]
+After [[Trans-Sabal]]'s government won the bidding for Alchemax's [[Spider-Slayer Mark XXI|Spider-Slayers]], Ty Stone traveled to Trans-Sabal to personally sell the robots to the country's [[Jalfaha Dahn (Earth-616)|ruler]]; however, he was kidnapped by a group of rebels as soon as he arrived in [[Jaffan]]. He was taken to their [[Mussaret (Earth-616)|leader]], who initially tried to force him to cancel the sale, but she then tried to convince him to use the spider-slayers to over throw Dahn instead. When the [[MacDonald Gargan (Earth-616)|Scorpion]]
+and [[Miguel O'Hara (Earth-928)|Spider-Man]] attempted to rescue Stone, they began to fight each other. Their battle caused the building they were in to collapse and Mussaret gave her life to save Ty. Having a change of heart, he used the slayers to force Dahn out of the country.{{r|Spider-Man 2099 Vol 2 #3|4}}
+
+===Confronting Dario Agger===
+As head of research and development at Alchemax he represented the company at the [[Universal Bank]] where the richest people in the world met to discuss matters. In one such meeting, the heads of various companies came from across the globe to discuss [[Dario Agger (Earth-616)|Dario Agger]]'s and [[Roxxon Energy Corporation (Earth-616)|Roxxon]]'s operations in the [[Glossary:Ten Realms|Ten Realms]]. The true reason for the meeting was revealed when Shingen attacked Dario and they were about to fight when [[Oubliette Midas (Earth-616)|Oubliette Midas, a.k.a. the Exterminatrix]], of the [[Midas Foundation (Earth-616)|Midas Foundation]], arrived and knocked him out, declaring herself as the new member of the group afterwards.{{r|Mighty Thor Vol 3 8}}
+
+| Powers                  = 
+Tiberius Stone is an otherwise normal man with a gifted intellect but no superhuman powers. He is an accomplished business administrator, with an advanced degree in Business administration, and is a skilled planner. For some time, he has had full access to the advanced technology of the super-corporation Alchemax.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Stone Family]]
+[[Category:Millionaires]]
+[[Category:Tattoos]]
+[[Category:Businesspeople]]
+[[Category:Robotics]]

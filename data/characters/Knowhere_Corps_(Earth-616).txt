@@ -1,0 +1,38 @@
+{{Marvel Database:Team Template
+| Image                   = Knowhere Corps (Earth-616) from Guardians of the Galaxy Vol 4 5 001.jpg
+| ImageSize               = 250px
+| Name                    = Knowhere Corps
+| EditorialNames          = 
+| Aliases                 = 
+
+| Status                  = Defunct
+| Identity                = Public
+| Reality                 = Earth-616
+| BaseOfOperations        = [[Knowhere]]
+
+| Leaders                 = 
+| CurrentMembers          = 
+| FormerMembers           = [[Bug (Insectivorid) (Earth-616)|Bug]], [[Cosmo (Dog) (Earth-616)|Cosmo]], [[Mantis (Brandt) (Earth-616)|Mantis]], [[Heather Douglas (Earth-616)|Moondragon]], [[Prism (Majesdanian) (Earth-616)|Prism]]
+| Allies                  = Formerly the [[Guardians of the Galaxy (Earth-616)|Guardians of the Galaxy]]
+| Enemies                 = Formerly [[Yotat (Earth-616)|Yotat]]
+
+| Origin                  = 
+| PlaceOfFormation        = [[Knowhere]]
+| PlaceOfDissolution      = [[Knowhere]] (presumably)
+| Creators                = Brian Michael Bendis; Valerio Schiti
+| First                   = Guardians of the Galaxy Vol 4 5
+| Last                    = Guardians of the Galaxy Vol 4 5
+
+| HistoryText             = The Knowhere Corps was a team of vigilantes dedicated to maintaining the peace and law in [[Knowhere]]. They apprehended [[Yotat (Earth-616)|Yotat the Destroyer]] after the [[Guardians of the Galaxy (Earth-616)|Guardians of the Galaxy]] dealt with him.{{r|Guardians of the Galaxy Vol 4 5}}
+
+The team seemingly disbanded with the destruction of Knowhere,{{r|Guardians of the Galaxy Vol 5 6}} which the [[Black Order (Earth-616)|Black Order]] stole in order to attack the reading of the last will and testament of [[Thanos (Earth-616)|Thanos]].{{r|Guardians of the Galaxy Vol 5 1}} Some of its members were later captured and brainwashed by the [[Universal Church of Truth (Earth-TRN666)|Universal Church of Truth]].{{r|Guardians of the Galaxy Annual Vol 3 1}}{{r|Guardians of the Galaxy Vol 5 11|12}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Interplanetary Organizations]]

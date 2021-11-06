@@ -1,0 +1,50 @@
+{{Marvel Database:Character Template
+| Image                   = Makoto (The Hand) (Earth-616).jpg
+| Name                    = 
+| CurrentAlias            = Makoto
+| Aliases                 = 
+
+| Affiliation             = {{M|Hand (Earth-616)|The Hand}}, {{M|Snakeroot (Earth-616)|Snakeroot Clan}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Black
+| UnusualFeatures         = Makoto has a long scar running from his left eye down to his chin
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = [[Jigoku-Chu Castle]], [[Japan]]
+
+| Identity                = 
+| Citizenship             = 
+| Occupation              = Hand Daimyo<ref>"Leader"</ref> of Eurasia, crimelord
+| Education               = 
+| BaseOfOperations        = Eurasia
+
+| Creators                = Andy Diggle; Antony Johnston; Marco Checchetto
+| First                   = Daredevil #505
+| Death                   = Shadowland: Ghost Rider Vol 1 1
+
+| History                 = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

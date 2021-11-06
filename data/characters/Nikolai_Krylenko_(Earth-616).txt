@@ -1,0 +1,78 @@
+{{Marvel Database:Character Template
+| Image                   = Nikolai Krylenko (Earth-616) from Avengers Vol 8 10 002.jpg
+| Name                    = [[Nikolai Krylenko|Nikolai Sergeievich Krylenko]]
+| CurrentAlias            = [[Vanguard]]
+| CurrentAliasRef         = {{r|Avengers Vol 8 10}}
+| Aliases                 = Krylov, [[Red Guardian]]{{r|Darkstar and the Winter Guard Vol 1 3}}
+
+| Affiliation             = {{m|Winter Guard (Earth-616)|Winter Guard}}; formerly {{m|Soviet Super-Soldiers (Earth-616)}}, {{m|Protectorate (Earth-616)|Protectorate}}, {{m|Siberforce (Earth-616)}}, {{m|Neo-Soviets (Earth-616)|Neo-Soviets}}
+| Relatives               = [[Sergei Krylov (Earth-616)|Sergei Krylov]] (father);<br>
+[[Marya Krylova (Earth-616)|Marya Krylova]] (mother, deceased);<br>
+[[Laynia Petrovna (Earth-616)|Laynia Petrovna]] (twin sister);<br>
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Captain America: America's Avenger #1}}
+| Gender                  = Male
+| Height                  = 6' 3"
+| Weight                  = 230 lbs 
+| Eyes                    = Blue
+| Hair                    = Red
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Minsk]], [[USSR|Belarus]]
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = Belarussian, Russian, Soviet
+| Citizenship3           = (formerly)
+| Occupation              = Government Agent
+| Education               = Private School
+| BaseOfOperations        = [[Winter Guard Mansion]], [[Moscow]], [[Russia]]; formerly [[Khystym]], Siberia, [[Russia]]
+
+| Creators                = Bill Mantlo; Carmine Infantino
+| First                   = Iron Man Vol 1 109
+
+| History                 = Born in Minsk, the son of Russian nuclear physicist [[Sergei Krylov (Earth-616)|Sergei Krylov]], '''Nikolai Krylenko''' (Russian: '''Николай Крыленко''') and his twin sister [[Laynia Petrovna (Earth-616)|Laynia Petrovna]] were taken from birth by the then-Soviet government to be trained as soldiers after their mutant natures manifested. Joining the KGB-sponsored [[Soviet Super-Soldiers (Earth-616)|Soviet Super-Soldiers]], Nikolai adopted the identity of Vanguard while Laynia became Darkstar. The team came into conflict with many American heroes, including [[Anthony Stark (Earth-616)|Iron Man]].{{r|Iron Man #109}}
+
+After Sergei was transformed into the [[Presence]], the government sent Vanguard and Darkstar to murder him, who were unaware that their target was their father. When they learned this, Nikolai and Laynia turned against the Soviet regime. Vanguard, Darkstar, and [[Mikhail Ursus (Earth-616)|Ursa Major]] became agents on their own, fighting for the good of the people.{{r|Incredible Hulk #265}}
+
+At one point, finally fed up with the communist system, the three heroes defected to the United States, only to be captured and returned to the Soviet states by the government-sponsored [[People's Protectorate (Earth-616)|People's Protectorate]]. They were rendered comatose for some time, and held in a research facility for study.{{r|Captain America #352|353}} They were rescued from there by [[Alexi Garnoff (Earth-616)|Blind Faith]] and his band of mutant exiles in order to form an underground team that would fight for the people under a government that hated and feared them, and, ultimately, became members of the [[Siberforce (Earth-616)|Siberforce]].{{r|Soviet Super Soldiers Vol 1 1}}
+
+Later, Vanguard and Darkstar were asked by [[Wendell Vaughn (Earth-616)|Quasar]] for help in defeating the threat of the alien [[Starblasters]], who coveted the power of the mysterious [[Star Brand]], hosted in the body of Quasar's girlfriend. Vanguard was killed in battle.{{r|Starblast #4}} A grieving Darkstar blamed Quasar for her brother's death, and fled back to Russia. Later encountering her father again, Darkstar shared her feelings with him, and the Presence forced Quasar to flee Earth or risk his vengeance.{{r|Quasar #60}} The Presence visited the memorial to his son and sought to revive him. He shifted his atoms to microscopically enter the body of his son and discovered a trace of his mutant energy remained, keeping him faintly alive. The Presence nearly exhausted his own power, but managed to resurrect his son.{{r|Avengers Vol 3 #43}}
+
+A staunch communist despite the fall of the Soviet Union, Vanguard once aided communist sympathizer General Tskarov in his efforts to undermine the American economy and replace it with communism, starting with its businesses on the East Coast. He also agreed to aid Tskarov in order that Tskarov would help him find his then-missing sister. When Ursa Major discovered Tskarov was actually hiding Darkstar from them, Vanguard joined with his friends and Daredevil and the Black Widow to defeat Tskarov.{{r|Daredevil #369|370}} Under circumstances yet to be revealed, Vanguard agreed to membership in the Russian Federation's newest super team, the [[Winter Guard (Earth-616)|Winter Guard]]. One of the first adventures of the Winter Guard consisted of stopping the [[Mandarin (Earth-616)|Mandarin]]'s giant dragon-shaped war machine with Iron Man's help.{{r|Iron Man Vol 3 #9|10}}
+
+The Presence, in the meantime, had been cast adrift in the subatomic reality he had entered through his son upon resurrecting him. There, he discovered new aspects of his power and atomic particles, and, when he had sufficiently regenerated, resumed his normal size and returned to the Forbidden Zone. There, he embarked on a plan to unite all of the former Soviet Union by transforming its people into a race of zombie-like radioactive beings living under a communal mind. He managed to convert several Siberian scientists, Vanguard and the rest of the Winter Guard, and the [[Avengers (Earth-616)|Avengers]], who investigated the disturbance. The Presence's companion, [[Tania Belinskaya (Earth-616)|Starlight]], ultimately offered a surrender and used her own power to revive those who had been transformed and remand herself and the Presence to Russian custody.{{r|Avengers Vol 3 #41|43}}
+
+After Darkstar was killed while serving with the X-Corporation in Paris,{{r|New X-Men #130}} Vanguard's desire to avenge or restore his sister led to a schism in the Winter Guard. Leading a new group called the Protectorate, Vanguard and his teammates made their way into Limbo, suffering losses and were betrayed by [[Fantasia (Earth-616)|Fantasma]], who regained her lost memories and was revealed as a Dire Wraith. Upon returning to normal space, the Protectorate joined forces with the Winter Guard against Fantasma and the Presence, who intended to spawn a new generation of Wraiths. Darkstar was indeed resurrected during this mission, but several members of the Protectorate and Guard were killed or lost in the conflict. Vanguard took up the shield and identity of the Red Guardian in the aftermath, becoming the eighth to use the name.{{r|Darkstar and the Winter Guard #1|3}} Nikolai would later take back the identity of Vanguard while keeping his Red Guardian equipment.{{r|Avengers Vol 8 10}}
+
+| Powers                  = Vanguard is a mutant who possesses an energy field that repels virtually all electromagnetic, kinetic and gravitonic energy. Originally he could only access his powers by crossing his hammer and sickle weapons in front of his body, whenever they left his side he'd be virtually defenseless.{{r|Incredible Hulk #259}} With time however he would learn he can access his powers without need of a conduit, simply crossing his arms to engage its effect. Nikolai could also redirect any energy repelled by his natural force field back at its source. The full potential of his powers had not been tested. He has displayed the ability to fly by repelling the Earth.{{r|Soviet Super Soldiers Vol 1 1}}
+
+| Abilities               = Vanguard is skilled in hand-to-hand combat, having been trained by the KGB.
+| Strength                = Vanguard possessed the normal human strength of a man of his age, height, and build who engages in intensive regular exercise.
+| Weaknesses              = 
+
+| Equipment               = '''[[Red Guardian's Shield|Red Guardian / Vanguard's Shield]]''': Krylenko wields a modified [[Vibranium]] shield that serves as a lens for his powers and intensifies the repulsion of energy. Inside the shield is a high-density computer that uses a laser gyroscope to track its flight path from its point of origin. Activating this mechanism can make the shield return to its take-off point.{{r|Darkstar and the Winter Guard #3}}
+
+'''Red Guardian Suit''': Adorning the Red Guardian's outfit since his introduction into the Winter Guard. The mesh lining of is suit has been outfitted with circuitry that allows Nikolai to channel the impact force directed at the shield into it, in order to bolster his natural powers. As demonstrated in his fight against Hyperion the shield and circuitry can be overwhelmed.{{r|Age of Heroes #3}}
+
+| Transportation          = Motorcycle
+| Weapons                 = * '''Hammer & Sickle (formerly)''': In the original version of his Vanguard identity, Nikolai often wielded a pair of technologically enhanced pole arms with which he could channel his energy field through.{{r|Incredible Hulk #258}} The micromechanics within both of these weapons enabled a recall feature which, in tandem with Vanguards powers, enabled him to throw and return his weapons back to his hand at will.{{r|Incredible Hulk #259}} useful as a ranged means of offense which gained in power and destructive capacity the further along they flew thanks to his kinetic repulsion field.
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = Vanguard (comics)
+| Links                   = 
+}}
+[[Category:Post-M-Day Mutants (The 198)]]
+[[Category:Flight]]
+[[Category:Twins]]
+[[Category:Force Field]]
+[[Category:Soviets]]
+[[Category:Krylov Family]]
+[[Category:Significant Threats]]
+[[Category:Russians]]
+[[Category:Post-Secret Wars Mutants]]

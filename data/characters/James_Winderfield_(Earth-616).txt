@@ -1,0 +1,51 @@
+{{Marvel Database:Character Template
+| Image                   = James Winderfield (Earth-616) Team America Vol 1 11.jpg
+| Name                    = [[James Winderfield]]
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra}}
+| Relatives               = [[Nancy Winderfield (Earth-616)|Nancy Winderfield]] (wife)<br>[[Mary-Michelle Winderfield (Earth-616)|Mary-Michelle Winderfield]] (daughter)
+| MaritalStatus           = Married
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = White
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Subversive
+| Education               = 
+| BaseOfOperations        = Unnamed town in [[Oklahoma (State)|Oklahoma]]
+
+| Creators                = Jim Shooter; Tom DeFalco; Dave Simons
+| First                   = Team America #11
+
+| History                 = 
+
+| Personality             = 
+
+| Powers                  = None
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+* http://www.marvunapp.com/Appendix5/winderfields.htm#james
+}}

@@ -1,0 +1,51 @@
+{{Marvel Database:Character Template
+| Image                   = Erik Saltz (Earth-616) Nick Fury, Agent of S.H.I.E.L.D. Vol 3 27.jpg
+| Name                    = Erik Saltz
+| CurrentAlias            = Lt. Saltz
+| Aliases                 = 
+
+| Affiliation             = Formerly {{m|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Public
+| Citizenship             = 
+| Occupation              = Hydra Lieutenant
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = D.G. Chichester; Ernie Stiner
+| First                   = Nick Fury, Agent of S.H.I.E.L.D. Vol 3 27
+| Death                   = Nick Fury, Agent of S.H.I.E.L.D. Vol 3 46
+
+| History                 = 
+
+| Powers                  = None
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Shooting]]

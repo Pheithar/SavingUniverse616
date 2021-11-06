@@ -1,0 +1,68 @@
+{{Marvel Database:Character Template
+| Image                   = Mitchell Tanner (Earth-616) from Luke Cage Vol 1 2 001.jpg
+| Name                    = [[Mitchell Tanner]]
+| CurrentAlias            = [[Warhawk]]
+| Aliases                 = 
+
+| Affiliation             = {{M|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}, {{m|Project Power (Earth-616)|Project Power}}
+| Relatives               = Liu (wife, deceased)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z Vol 1 13}}
+| Gender                  = Male
+| Height                  = 6'3"
+| Weight                  = 550 lbs
+| Eyes                    = Blue
+| Hair                    = Black
+| UnusualFeatures         = [[:Category:Metal Body|Metal Skin]][[Category:Metal Body]]
+
+| Origin                  = [[Homo sapiens|Human]], Mutated by a variant of the [[Super-Soldier Serum]] developed by [[Noah Burstein (Earth-616)|Noah Burstein]]. 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Mercenary
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Chris Claremont; Pat Broderick
+| First                   = Marvel Premiere #23
+
+| History                 = After Tanner was critically wounded in the [[Vietnam War]], [[Noah Burstein (Earth-616)|Dr. Burstein]] used his variation of the [[Super-Soldier Serum]] on Tanner to save his life.  The result was granite like skin and super-strength.  In some regard, Burstein sees Tanner as an "older brother' to his later test subject [[Luke Cage (Earth-616)|Luke Cage]].  Perhaps the stress of seeing his home village in Vietnam being destroyed and his wife being murdered or perhaps a side effect of Burstein's experiment, Mitchell Tanner soon became mentally unbalanced.{{r|Power Man and Iron Fist Vol 1 83}}
+
+Warhawk became an assassin used for the C.I.A. in [[Vietnam]]. He later went further insane and battled Iron Fist.{{r|Marvel Premiere #23}} After Warhawk somewhat regained his sanity he was hired to assassinate [[Ronald English (Earth-616)|Atom-Smasher]].{{r|Black Goliath #2|3}}
+
+Warhawk was hired by the [[Hellfire Club (Earth-616)|Hellfire Club]] to test the [[X-Men (Earth-616)|X-Men]] and bug their mansion.  He snuck into the school posing as a telephone repair man and quickly took down [[Moira MacTaggert (Earth-TRN748)|Moira MacTaggert]] with a tranquilizer gun.  Then he caught [[Charles Xavier (Earth-616)|Professor X]] and [[Phoenix Force (Earth-616)|Phoenix]] off guard. Warhawk took control of the [[Danger Room]], trapping the rest of the X-Men inside. After [[Kurt Wagner (Earth-616)|Nightcrawler]] teleported out of the Danger Room with [[James Howlett (Earth-616)|Wolverine]], Warhawk battled Wolverine one on one. The rest of the X-Men escaped the Danger Room and defeated Warhawk, who was handed over to the police.{{r|X-Men #110}}
+
+Warhawk soon became even more imbalanced and racially bigoted.  He took hostages in Chinatown in [[New York City]]. He gave Iron Fist a severe beating and assassinated several citizens before being defeated and captured by Luke Cage.{{r|Power Man and Iron Fist Vol 1 83}}
+
+While being treated by [[Alexander Ryking (Earth-616)|Alexander Ryking]], Warhawk confronted the Barrington agent [[Christoph Nord (Earth-616)|Maverick]], who was there to kill Ryking. In the end, it appeared that both Warhawk and Ryking were killed in an explosion.{{r|X-Men Vol 2 #10|11}}
+
+Warhawk agreed to work for [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] in exchange for a reduced sentence. They had him attack an [[Advanced Idea Mechanics (Earth-616)|AIM]] facility.{{r|Wolverine Vol 3 #30}}
+
+| Powers                  = * ''' [[Super-Soldier Serum|Burnstein Process]]:''' He possesses various superhuman physical attributes after undergoing an experiment designed to increases his body's cellular regeneration process.
+** '''Superhuman Strength:''' After undergoing the original experiment, his strength was increased to superhuman levels sufficient to lift approximately 3 tons. 
+**'''Superhuman Stamina:''' His muscles generate less fatigue toxins than the muscles of ordinary humans, granting him superhuman stamina. He can exert himself at peak capacity for about 24 hours before fatigue begins to affect him.
+**'''Superhuman Durability:''' His  skin is as hard as titanium steel and his muscle and bone tissues are considerably denser than the tissues of an ordinary human, granting him much greater resistance to physical injury than an ordinary human. He can withstand conventional handgun fire at a range of 4 feet and cannot be cut by any blade forged of conventional material, although in the event of required surgery his skin can be lacerated by an overpowered medical laser. He can withstand up to one-ton impacts or blasts of 150 pounds of TNT without serious injury, and is highly resistant to extreme temperatures and electrical shocks. His current level of durability enables him to withstand gun fire at point-blank range, and can withstand being lit on fire without suffering any serious or permanent injuries. 
+**'''Accelerated Healing Factor:''' Despite his near invulnerability, it is possible for him to be hurt. If injured, he is capable of recovering from mild injuries in 1/3rd the time it would take an ordinary human.
+
+| Abilities               = Expert marksman and hand to hand combatant.
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Metal Body]]
+[[Category:Super-Soldiers]]
+[[Category:Noah Burstein Experiment]]
+[[Category:Post-Traumatic Stress Disorder]]
+[[Category:Vietnam War Characters]]

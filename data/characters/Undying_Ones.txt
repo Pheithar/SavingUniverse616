@@ -1,0 +1,76 @@
+{{Marvel Database:Race Template
+| Image                   = Nameless One (Undying Ones Leader) (Earth-616) from Defenders Vol 1 3 0001.jpg
+| Name                    = Undying Ones
+| Aliases                 = 
+| Identity                = 
+| Affiliation             = 
+| Universe                = Earth-616
+| BaseOfOperations        = Formerly the [[Himalayas]]
+
+| BodyType                = 
+| AvgHeight               = 
+| AvgWeight               = 
+| Eyes                    = 
+| Hair                    = 
+| Skin                    = 
+| NumberOfLimbs           = 
+| NumberOfFingers         = 
+| NumberOfToes            = 
+| SpecialAdaptations      = 
+| UnusualFeatures         = 
+
+| Origin                  = [[Demons]]
+| GalaxyOfOrigin          = 
+| StarSystemOfOrigin      = 
+| HomePlanet              = 
+| PlaceOfBirth            = 
+| Creators                = Roy Thomas; Gene Colan
+| First                   = Doctor Strange #183
+
+| HistoryText             = 
+===Origins and early years===
+At the time [[Earth]]'s oceans were still burning like fire, the Undying Ones, [[demons]] spawned in another dimension, opened a portal and invaded the planet.<!-- {{r|Sub-Mariner #22}} -->
+
+For ages, they held sway and monitored the planet, under the rule of the [[Nameless One (Undying Ones Leader) (Earth-616)|Nameless One]], including early [[Humans|Man]], using their mystic powers to kill cavemen.{{r|Sub-Mariner #22}}
+
+They carved (or had others do it) weird geometric forms in what is a valley in the [[Himalayas]], and had three demons, "[[Creatures of the Night (Earth-616)|Creatures of the Night]]" guard over the [[Idol of the Nameless One]],{{r|Doctor Strange #183}} a gateway between the worlds of demons and men.<!-- {{r|Sub-Mariner #22}} -->
+
+They were present allegedly in each pagan ceremony and heathen ritual, and it is said that men sold their souls for power.<!-- {{r|Sub-Mariner #22}} -->
+
+Then, a thousand years ago, their powers waned. To replenish them, the Undying returned to their world for a thousand years. They persisted as legends (including the mention of the idol), and those who were suspected of worshiping them were arrested without more motive than their accusation.{{r|Sub-Mariner #22}}<br>''The Undying Ones' powers waning and them fleeing was mentioned in the [[Necronomicon]]''{{r|Fear Itself: The Deep #2}}'' (though that event was stated to occur 1000 years ago, and the Necronomicon was written earlier, during the 8th century).''
+
+===[[Modern Age]]===
+They were discovered by [[Kenneth Ward (Earth-616)|Kenneth Ward]] who found statues representing the Undying Ones on an expedition.<!-- {{r|Doctor Strange #183}} -->
+
+Ward asked [[Stephen Strange (Earth-616)|Dr. Strange]] for aid after he had translated an inscription on the statues which made him fear for humanity.{{r|Doctor Strange #183}} Their invasion was stopped by Strange and [[Namor McKenzie (Earth-616)|Namor]].{{r|Sub-Mariner #22}}
+
+Later, they were briefly taken over by the [[Dark-Crawler (Earth-616)|Dark Crawler]],{{citation}} before being taken over by a second demon with the title [[Nameless One (Undying Ones Successor) (Earth-616)|Nameless One]]. The Undying Ones were attacked by a mystically enhanced [[James Howlett (Earth-616)|Wolverine]].{{citation}}
+
+Many of the Undying Ones were killed in the battle along with their ruler, the second Nameless One. The first Nameless One once again took leadership of the Undying Ones and led them on another failed invasion of Earth.{{citation}}<!-- 
+
+Cross-bred demons/sea creature hybrids with connection to the Undying Ones, mass-produced.{{r|Fear Itself: The Deep #1}} -->
+
+| Habitat                 = 
+| Gravity                 = 
+| Atmosphere              = 
+| Population              = 
+
+| Powers                  = Varies but often have super strength and limited magic abilities. some have shown the ability to shapeshift into human form  
+| Abilities               = 
+| AvgStrength             = Unknown but stronger than humans
+| Weaknesses              = 
+
+| GovernmentType          = 
+| TechnologyLevel         = 
+| CulturalTraits          = 
+| Representatives         = The [[Dark Gods (Kai)|Dark Gods]] worshiped by [[Psyklop (Earth-616)|Psyklop]] are unidentified, and might be the Undying Ones.{{r|Marvel Legacy: The 1970s Handbook #1|; [[Psyklop (Earth-616)|Psyklop]]'s entry}}
+
+| Notes                   = * According to [[Roy Thomas|Roy Thomas]], who created the Undying Ones in {{cl|Doctor Strange #183}} (November, 1969), the Undying Ones were created in the "[[:Category:Cthulhu Mythos Pastiches|Lovecraftian tradition]]" (Thomas even started the issue with a quote from "The Call of Cthulhu", by [[Howard Phillips Lovecraft|H.P. Lovecraft]]), though the storyline had to be ended in two other books, ''[[Sub-Mariner Vol 1 22|Sub-Mariner]]'' and ''[[Incredible Hulk Vol 1 126|Incredible Hulk]]'', where it lost of its impact due to the use of other characters, artists, etc.{{r|Marvel Age #75|; Doctor Strange}}
+** In {{cl|Fear Itself: The Deep #2}} (July 27, 2011), it was mentioned that they were a topic in the [[Necronomicon]].
+| Trivia                  = 
+| Links                   = * [http://www.marvunapp.com/Appendix/undyingo.htm Undying Ones at the Marvel Appendix]
+}}
+[[Category:Races of Demons]]
+[[Category:Undying Ones]]
+[[Category:Cthulhu Mythos Pastiches]]
+[[Category:Demons]]

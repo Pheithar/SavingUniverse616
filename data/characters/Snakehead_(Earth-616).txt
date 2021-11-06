@@ -1,0 +1,54 @@
+{{Marvel Database:Character Template
+| Image                   = Snakehead (Earth-616) from King in Black Thunderbolts Vol 1 1 0001.jpg
+| Name                    = 
+| CurrentAlias            = [[Snakehead]]
+| Aliases                 = 
+
+| Affiliation             = Formerly {{M|Thunderbolts (Earth-616)|Kingpin's Thunderbolts}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Known to Authorities
+| Citizenship             = 
+| Occupation              = Criminal
+| Education               = 
+| BaseOfOperations        = [[New York City]], [[New York (State)|New York]]
+
+| Creators                = Matthew Rosenberg; Juan Ferreyra
+| First                   = King in Black: Thunderbolts Vol 1 1
+| Death                   = King in Black: Thunderbolts Vol 1 1
+
+| History                 = [[File:Snakehead (Earth-616) from King in Black Thunderbolts Vol 1 1 0002.jpg|thumb|left|100px]]Snakehead was a costumed villain selected by the [[Wilson Fisk (Earth-616)|Kingpin]] to join his [[Thunderbolts (Earth-616)|Thunderbolts]] squad. On the first outing in the group, Snakehead was quickly bitten in half and eaten by a [[Symbiote Dragons|Dragon]] of [[Knull (Earth-616)|Knull]].{{r|King in Black: Thunderbolts Vol 1 1}}
+
+| Personality             = 
+
+| Powers                  = Teleporter
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Teleporters]]
+[[Category:King in Black casualties]]

@@ -1,0 +1,48 @@
+{{Marvel Database:Character Template
+| Image                   = Agent M (Earth-616) from Micronauts Vol 1 12 0001.JPG
+| Name                    = 
+| CurrentAlias            = Agent M
+| Aliases                 = 
+
+| Affiliation             = {{M|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Blue
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = S.H.I.E.L.D. Agent
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Bill Mantlo; Michael Golden
+| First                   = Micronauts Vol 1 12
+
+| History                 = Agent M was a [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] agent who specialized in the [[Microverse]].{{r|Micronauts #12}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+
+}}
+[[Category:Microverse Characters]]

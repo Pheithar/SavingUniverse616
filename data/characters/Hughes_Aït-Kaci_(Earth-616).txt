@@ -1,0 +1,55 @@
+{{Marvel Database:Character Template
+| Image                   = Tiger (Earth-616) from Avengers World Vol 1 8 001.png
+| Name                    = Hughes Aït-Kaci.{{r|Marvel Atlas #1}}
+| CurrentAlias            = Tiger
+| Aliases                 = 
+
+| Affiliation             = {{M|Euroforce (Earth-616)|Euroforce}}; Formerly {{M|Task Force (Earth-616)|Task Force}}, {{M|Strategic Homeland Intervention, Enforcement and Logistics Division|S.H.I.E.L.D.}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = French, Algerian
+| Occupation              = Adventurer
+| Education               = 
+| BaseOfOperations        = Mobile
+
+| Creators                = Xavier Marturet; Paco Diaz
+| First                   = Europa #0
+
+| History                 = Tiger is an ex-[[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] agent and a veteran soldier with impenetrable artificial skin. He was originally part of [[Task Force (Earth-616)|Task Force]] and then joined [[Euroforce (Earth-616)|Euroforce]] along with other Task Force members and [[EuroLab (Earth-616)|EuroLab]].{{r|Europa #0|3}}
+
+Years after, Tiger and his colleague [[Geyr Kluge (Earth-616)|Key]], recruited [[Dane Whitman (Earth-616)|Black Knight]] to lead a new incarnation of Euroforce, and Tiger became a member of the newly revamped team.{{r|Avengers World #12}}
+
+In one of their first missions, they were dispatched to [[Italy]] to investigate the magical disturbances that were being created there. Along the way, Tiger and his teammates came across some members of the [[Avengers (Earth-616)|Avengers]] and originally thought they were beyond what was going on until the Black Knight stepped in to intervene. Soon after, they were attacked by the sorceress [[Morgan Le Fay (Earth-616)|Morgan Le Fay]] and her army of the dead.{{r|Avengers World #8}}
+
+Some time later, Black Knight left to [[Weirdworld (Battleworld)|Weirdworld]] and Key returned to the team and was appointed new leader.{{r|Captain America: Steve Rogers #18}}
+
+| Powers                  = Invulnerability
+| Abilities               = He is an expert in hand-to-hand combat and is fond of rifles and heavy weapons. He has military training and years of field experience in warzones.
+| Strength                = While he doesn't have real "super strength", his size and muscular density make him stronger and with more stamina than a normal human being. His physical stats can be compared with that of Super Soldiers such as Nuke or U.S.Agent.
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Peak Human Strength]]
+[[Category:Enhanced Durability]]
+[[Category:Weapons Expert]]

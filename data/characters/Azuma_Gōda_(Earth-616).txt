@@ -1,0 +1,57 @@
+{{Marvel Database:Character Template
+| Image                   = Azuma_Gōda_(Earth-616)_from_Wolverine_Vol_2_303_0001.jpg
+| Name                    = Azuma Gōda
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{M|Hand}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Green
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = Japanese
+| Occupation              = Crimelord, former ninja
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Jason Aaron; Steven Sanders
+| First                   = Wolverine Vol 2 #300
+| Death                   = Wolverine Vol 2 #303
+
+| History                 = Azuma Gōda, was a former ninja, and leader of a dissident part of [[Hand (Earth-616)|The Hand]], that hated being ruled by the [[Wilson Fisk (Earth-616)|Kingpin]]. Using sleeper ninjas that were better trained then the average Hand members, he started a war with the Yakuza clan.{{r|Wolverine Vol 2 #300}}
+
+[[James Howlett (Earth-616)|Wolverine]] travelled then to Japan to stop the war, and fought Azuma's ninjas and [[Victor Creed (Earth-616)|Sabretooth]] and [[Raven Darkholme (Earth-616)|Mystique]] who were hired to stop Logan. Meanwhile, Gōda blackmailed the new [[Shingen Harada II (Earth-616)|Silver Samurai]] and made him betray the Yashida clan.{{r|Wolverine Vol 2 #301|302}}
+
+Finally, Wolverine killed every single ninja, and went to murder their leader. Gōda wasn't scared because he was being protected by Sabretooth and Mystique, and his plan of becoming the invisible head of Asia's crime was close to be fullfiled. But Sabretooth betrayed him, and left him without protection, allowing Logan to kill him with a Katana in his own building.{{r|Wolverine Vol 2 #303}}
+
+Creed, using Azuma's plan killed the members of the other Asian's mafias and became the invisible king of all Asia.{{Citation}}
+
+| Powers                  = 
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

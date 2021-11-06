@@ -1,0 +1,51 @@
+{{Marvel Database:Character Template
+| Image                   = Zius_(Earth-616)_from_Fantastic_Four_Vol_1_518_0001.jpg
+| Name                    = Zius
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = Alien
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Mark Waid; Mike Wieringo
+| First                   = Fantastic Four Vol 1 518
+| Death                   = Fantastic Four Vol 1 519
+
+| History                 = A [[Galactus]] survivor who uses technology to cloak planets from being detected and devoured.{{r|Fantastic Four Vol 1 518|519}}[[Category:History Expansion Needed]]
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  =* The name appears to be intended to evoke [https://en.wikipedia.org/wiki/Zeus Zeus].
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Avengers Disassembled Casualties]]

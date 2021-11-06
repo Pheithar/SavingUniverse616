@@ -1,0 +1,236 @@
+{{Marvel Database:Character Template
+| Image                   = Carl Creel (Earth-616) from Gamma Flight Vol 1 1 cover 001.jpg
+| Name                    = [[Carl Creel|Carl "Crusher" Creel]]
+| NameRef                 = {{r|Journey into Mystery #114}}
+| CurrentAlias            = [[Absorbing Man]]
+| CurrentAliasRef         = {{r|Journey into Mystery Vol 1 114}}
+| Codenames               = [[Lightningbolt]],{{r|Amazing Spider-Man Vol 1 429}} Red Dog{{r|Immortal Hulk Vol 1 9}}
+| EditorialNames          = 
+| Nicknames               = Duplicating Man{{r|She-Hulk Vol 2 23}}
+| Impersonations          = [[Greithoth]],{{r|Fear Itself Vol 1 3}} [[Rocky Davis]]{{r|Daredevil Vol 1 1}} 
+| Aliases                 = Dynamite Davis,{{Citation}} Harold,{{r|Avengers Standoff: Assault On Pleasant Hill Alpha #1}} The Island Spirit,{{r|Dazzler #18}} Prisoner #24957{{Citation}}
+
+| Affiliation             = [[Mary MacPherran (Earth-616)|Titania]], {{m|Gamma Flight (Alpha Flight Space Program) (Earth-616)|Gamma Flight}}; formerly {{m|United States Hulk Operations (Earth-616)|U.S. Hulk Operations}}, {{m|Army of Evil (Earth-616)|Army of Evil}}, {{m|Illuminati (Hood's) (Earth-616)|Illuminati}}, {{m|Masters of Evil}}, {{m|Lethal Legion (Grim Reaper) (Earth-616)|Lethal Legion}},{{r|Hawkeye: Blind Spot #1}} {{m|Astonishing Avengers (Earth-616)|Astonishing Avengers}}, {{m|Worthy}}, {{m|New World Order}}, {{m|Frightful Four}}, {{m|Legion Accursed (Earth-616)|Legion Accursed}}, {{m|Hydra}}; former agent of [[Loki Laufeyson (Earth-616)|Loki]] and [[They Who Wield Power (Earth-616)|They Who Wield Power]]
+| Parents                 = Unnamed mother (deceased);{{Citation}}<br>
+[[Character Index/C#Creel|Unnamed father]] (estranged)
+| Spouses                 = [[Mary MacPherran (Earth-616)|Mary MacPherran]] (wife)
+| Children                = [[Jerry Sledge (Earth-616)|Jerry Sledge]] (son)
+| Relatives               = Unnamed uncle;{{Citation}}<br>
+Betsy (aunt);{{Citation}}<br>
+[[Rockwell Davis (Earth-616)|Rocky Davis]] (cousin)
+| MaritalStatus           = Married
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #1}}
+| Gender                  = Male
+| Height                  = 6'4" ; Variable
+| Weight                  = 270 lbs.; Variable
+| Eyes                    = Blue; Variable
+| Hair                    = Bald; Blond (in youth)
+| UnusualSkinColor        = Red (as a Gamma Mutate)
+| UnusualFeatures         = His "armor" made out of materials he absorbed
+
+| Origin                  = [[Homo sapiens|Human]] [[Glossary:Mutate|enhanced]] by [[Loki Laufeyson (Earth-616)|Loki]]; later transformed using gamma energy but was eventually depowered
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Bronx]], [[New York City]], [[New York (State)|New York]]
+| PlaceOfDeath            = 
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = Professional criminal; former professional boxer
+| Education               = Grade 9, Bronx High School
+| BaseOfOperations        = Formerly [[Hood's House of Hell]], [[Hell]]; [[Bronx]], [[New York City]], [[New York (State)|New York]]
+
+| Creators                = Stan Lee; Jack Kirby
+| First                   = Daredevil Vol 1 1
+| First2                  = (As Rocky Davis)<br>{{sld|Journey into Mystery Vol 1 114}}(As the Absorbing Man)
+| Death                   = 
+
+| Quotation               = You know what that felt like? Carl Creel from [[Bronx]], standing over the [[Thor Odinson (Earth-616)|God of Thunder]]? I couldn't explain it if I tried.
+| Speaker                 = [[Carl Creel (Earth-616)|Absorbing Man]]
+| QuoteSource             = Black Bolt Vol 1 4
+
+| Overview = '''Carl "Crusher" Creel''' aka the '''Absorbing Man''' was an American professional Heavyweight boxer turned enforcer.{{r|Official Handbook of the Marvel Universe A-Z #1}} While locked up in prison he was mutated using [[Asgardians|Asgardian]] [[glossary:magic|magic]] by the trickster [[Gods of Earth|god]] [[Loki Laufeyson (Earth-616)|Loki]] using a special potion. Creel obtained his ability to absorb the properties of anything he touches and used his new-found power to break free from prison and soon became a villain for hire.{{r|Journey into Mystery #114}} He was later recruited into the [[Masters of Evil (Earth-616)|Masters of Evil]].{{r|Avengers Vol 1 270}}<!-- I haven't read the comics, but in the page for Avengers #273, it says Creel joined in that issue.-->
+
+| History                 = 
+===Early Life===
+Carl Creel was raised in the [[Bronx]], but his mother encouraged him, telling Carl to always set expectations for himself. Following the death of his mother when he was still young, Carl's father became abusive,{{r|Black Bolt Vol 1 4}} but still taught him some things about being an automotive mechanic,{{r|Black Bolt Vol 1 3}} and even bought him a pair of boxing gloves. Carl finally found the strength to fight back when he was sixteen, for which his father kicked him out of their home. From then on, Carl lived on the streets and the gym. On the streets he turned to a life of crime, namely breaking into houses and cars, while in the gym he discovered his talent for boxing.
+
+===Boxing Career===
+The ring gave Carl an opportunity to let out his anger for the death of his mother and his relationship with his father. His aggressiveness earned him the nickname of "Crusher Creel." His boxing career lead him into a fight with [[Jonathan Murdock (Earth-616)|Battlin Jack Murdock]].{{r|Daredevil Vol 1 1}} Creel's attitude caught the attention of the local criminal element, leading him to become an enforcer for the [[Leland Owlsley (Earth-616)|Owl]]'s men. Carl felt remorseful for the innocent people he hurt doing shakedowns, but felt stopping was beyond his control.{{r|Black Bolt Vol 1 4}}
+
+===Becoming Absorbing Man===
+[[File:Carl Creel (Earth-616) from Official Handbook of the Marvel Universe Vol 1 1 0002.jpg|left|thumb]]
+Creel was eventually arrested, and served his first time in prison for aggravated assault and extortion.{{r|Black Bolt Vol 1 4}} Some time into his sentence, Carl was selected by [[Loki Laufeyson (Earth-616)|Loki]], the [[Asgardians|Asgardian]] God of Mischief, as his unwitting agent in a scheme against [[Thor Odinson (Earth-616)|Thor]], God of Thunder. By adding an enchanted potion composed of rare Asgardian herbs to Creel's drinking water in the prison commissary, Loki granted the brutal convict a bizarre power he hoped would enable him to defeat Thor, the power to absorb the physical properties of anything with which he came in contact. Creel used his new-found power to break free from prison and soon became engaged in battle with Thor. Due to his ability to absorb the properties of [[Mjolnir|Thor's hammer]] and Thor himself, Creel, now called the Absorbing Man, became one of the strongest mortal foes Thor ever combated.{{r|Journey into Mystery #114}}
+
+Thor was forced to concede the fight when Creel kidnapped Jane Foster. Creel then ransacked a house and attacked the residents, at which point Thor and him had a rematch. He was defeated when Thor tricked him by hitting the ground with Mjolnir and turning it (and Creel) to Helium, causing him to float harmlessly into the atmosphere.{{r|Journey into Mystery #115}} He remained in [[Earth Orbit|orbit]] for some time.{{r|Thor King-Size Special Vol 1 2 }}
+
+He was restored and returned to Earth by Loki using Asgardian tech and battled Thor again following the knockout of an Asgardian warlock.{{r|Journey into Mystery #120|121}} Loki transported him to [[Asgard (City)|Asgard]] where the criminal could be used in his scheme to take over Asgard.{{r|Journey into Mystery #122}} But when the Absorbing Man dared to challenge [[Odin Borson (Earth-616)|Odin]], lord of the Asgardians, Odin summarily dispatched him into space.{{r|Journey into Mystery #123}}
+
+===Hulk===
+Creel eventually managed to return to Earth by hitching a ride on a comet. He soon encountered the [[Bruce Banner (Earth-616)|Hulk]]; however, and was defeated while in the process of absorbing the Hulk's power during his transformation to the human Bruce Banner.{{r|Incredible Hulk #125}} The Absorbing Man then challenged Thor again and was defeated when he was tricked into turning into water.{{r|Thor #206|207}}
+
+A short time later, Thor defeated him again by tricking him into absorbing the properties of a cardboard replica of Thor's hammer.{{r|Thor #235|236}} Serving a short prison sentence, Creel managed to escape and was contacted by [[They Who Wield Power (Earth-616)|They Who Wield Power]], a cabal of power seekers from [[El Dorado (City)|El Dorado]], who hired him to destroy the Hulk.{{r|Incredible Hulk Vol 1 #208|209}} He failed and inadvertently absorbed the properties of glass while falling.{{r|Incredible Hulk Vol 1 241}}
+
+Eventually reassembling the shards of his body, the Absorbing Man decided that he was tired of fighting against and losing to superhuman champions. Seeking to flee the country, Creel foolishly took a hostage, thereby bringing the [[Avengers (Earth-616)|Avengers]] after him.{{r|Avengers Vol 1 183}} To escape them, he jumped into the ocean and transformed himself into water. When he finally regained his natural form, his mind was addled from his prolonged intermingling with the ocean and he was frightened of anyone with superhuman power.{{r|Avengers Vol 1 184}}
+
+He hid on Easter Island but ended up fighting the Hulk. He absorbed the island itself, planning to conquer the world. But Hulk threw him to the middle of the ocean where the villain becomes an island. This fight cured him of his paranoia, however.{{r|Incredible Hulk Vol 1 261}}
+
+===Dazzler===
+[[File:Dazzler Vol 1 18.jpg|thumb|right]]
+Returning to America, he stalked the mutant [[Alison Blaire (Earth-616)|Dazzler (Alison Blaire)]] to acquire her light-powers to use against the Avengers.{{r|Dazzler Vol 1 #17|19}} He was defeated, however, by the Dazzler and the [[Inhumans (Inhomo supremis)|Inhuman]] [[Blackagar Boltagon (Earth-616)|Black Bolt]].{{r|Dazzler Vol 1 32}}
+
+===Secret Wars===
+Creel was abducted from prison by the omnipotent being known as the [[Beyonder (Earth-616)|Beyonder]] to fight the so-called [[Secret Wars (1984 Event)|Secret Wars]], after which he returned to Earth. During this time, Creel met the villainous [[Mary MacPherran (Earth-616)|Titania (Mary MacPherran)]], and the two developed a romantic relationship.{{r|Marvel Super Heroes Secret Wars Vol 1 1|12}} 
+
+===Masters of Evil===
+Upon their return, Creel and Titania were contacted by [[Helmut Zemo (Earth-616)|Baron Zemo (Helmut Zemo)]], who was forming a new team called the [[Masters of Evil (Earth-616)|Masters of Evil]].{{r|Avengers Vol 1 270}}  After several independent assignments, they were defeated by [[Scott Lang (Earth-616)|Ant-Man (Scott Lang)]] and the [[Janet Van Dyne (Earth-616)|Wasp]].{{r|Avengers Vol 1 273}} Later, now engaged, the two criminals committed various crimes together, mostly just to simply kill time. The duo would eventually run into Spider-Man, who Titania was absolutely terrified of, due to the emotional trauma of her humiliating defeat at his hands during the Secret Wars. After fleeing, Titania explained to Creel her reason for why she ran, and the whole reason she feared the wall-crawler in the first place. Shortly after, Creel and Titania went to LaGuardia airport on a mission to pick up a new member for the Masters of Evil, only to once again be confronted by Spider-man. Titania attempted again to flee, but the Absorbing Man acted as if he was injured, and in need of help, which convinced Titania to confront her fear, and fight Spider-Man. In the end, the villains win the battle by using a plane full of civilians as hostages, and forcing Spidey to surrender in return for the peoples' safety. Spidey, seeing no other option, ended up leaving the airport, understandably feeling miserable about his defeat.{{r|Amazing Spider-Man Vol 1 283}} 
+
+===Marriage to Titania===
+After several months, Titania and Creel got married.{{r|Avengers: Unplugged Vol 1 4}} Both villains had turned away from more malicious actions, preferring to quietly keep each other company. Creel and Titania occasionally came into conflict with superheroes, such as when the [[Natalia Romanova (Earth-616)|Black Widow]] was on a vendetta to dispose of all of the Avenger's foes. Another time, Creel was duped by the villain [[Brock Rumlow (Earth-616)|Crossbones]] to keep [[Steven Rogers (Earth-616)|Captain America]] busy while Crossbones ignited a bomb. Creel, however, claiming not to be a murderer, absorbed the properties of [[Captain America's Shield]] and saved the city from the explosion. Creel escaped to seek revenge on Crossbones.{{r|Captain America Vol 3 24}}
+
+===Titania's Cancer===
+When Titania was diagnosed with cancer, they kidnapped a doctor but were confronted by Thor, who convinced them to seek professional care. About this time, Thor assumed the rule of Asgard and brought it into Earth's plane of existence. He attracted a religious following while helping humanity, and Creel became one of his followers.{{r|Thor Vol 2 55}}
+
+[[File:Carl Creel (Earth-616) from Amazing Spider-Man Vol 1 429 0001.jpg|thumb|left|Carl Creel as Lightningbolt]]
+===Drug Use===
+The Absorbing Man eventually became very highly addicted to narcotics, especially painkillers and cocaine. When he was in need of a high he demonstrates no concern for the safety of others and will work for whatever criminal can supply him with narcotics. During a period when he allied with the [[Leland Owlsley (Earth-616)|Owl]] as an enforcer{{r|Marvel Knights: Spider-Man Vol 1 13}} he found himself opposed by [[Peter Parker (Earth-616)|Spider-Man]] and new hero [[Ethan Edwards (Earth-616)|Ethan Edwards]] (later revealed to be a disguised Skrull). He was briefly trapped and converted into a new form of cocaine by one of the Owl's operatives when they become frustrated with his unprofessional approach,{{r|Marvel Knights: Spider-Man Vol 1 16}} with Creel's body being dispersed by industrial fans and sold off, the new drug briefly giving those who snorted him a degree of his powers, but he eventually managed to reassemble himself in a sewer and went after the Owl for revenge.{{r|Marvel Knights: Spider-Man Vol 1 17}} Spider-Man managed to defeat Creel by tricking him into running a gauntlet where he absorbed multiple objects thrown at him, culminating in Creel absorbing two different chemicals that caused him to explode.{{r|Marvel Knights: Spider-Man Vol 1 18}}
+
+===Civil War===
+The Absorbing Man later battled and was dissolved into atoms by the hero [[Robert Reynolds (Earth-616)|Sentry]] during the [[Civil War (Event)|Civil War]]. The Sentry knew he would eventually reform and he was later seen at the funeral of the villain [[Wilbur Day (Earth-616)|Stilt-Man]] not long after.{{r|Civil War: The Return Vol 1 1}}{{r|Punisher War Journal Vol 2 #4}}
+
+===She-Hulk===
+Creel and Titania later came into conflict with the [[Jennifer Walters (Earth-616)|She-Hulk]] and her Skrull partner [[Jazinda Kl'rt-Spawn (Earth-616)|Jazinda]] after they attempted to arrest Creel's cousin [[Rockwell Davis (Earth-616)|Hi-Lite]].{{r|She-Hulk Vol 2 #22|23}}
+
+===Cosmic Cube===
+Creel was taken by [[Project P.E.G.A.S.U.S. (Earth-616)|Project Pegasus]] to bond him with a fragment of the [[Cosmic Cube]] in order to shift reality; Loki gave [[Norman Osborn (Earth-616)|Norman Osborn]] a chance to show up when [[Henry Pym (Earth-616)|Hank Pym]] and his [[Mighty Avengers (Pym) (Earth-616)|Avengers]] cut the power, disabling Creel's thought scrambler; the following incident allowed Creel to become all-powerful and deal 'Reality Punches' that caused [[Vision (Jonas) (Earth-616)|Vision]] to split into [[Nathaniel Richards (Iron Lad) (Earth-6311)|Iron Lad]] and the original [[Vision (Earth-616)|Vision]], also causing the Sentry and the [[Void (Dark Sentry) (Earth-616)|Void]] to become separate entities. Loki gave Osborn a spell breaker that he used, which apparently left Creel powerless.{{r|Mighty Avengers Vol 1 33}}
+
+===Regain Powers===
+Creel regained his powers and stormed [[Stark Tower|Avengers Tower]] to recover his ball and chain. He was defeated by [[Maria Hill (Earth-616)|Maria Hill]], [[Sharon Carter (Earth-616)|Sharon Carter]], and [[Victoria Hand (Earth-616)|Victoria Hand]] after absorbing the latter's cold.{{r|Age of Heroes Vol 1 3}}
+
+===[[Fear Itself]]===
+[[File:Carl Creel (Earth-616) from Fear Itself Vol 1 3 001.png|thumb|right|Greithoth: Breaker of Wills]]
+When [[Sinthea Shmidt (Earth-616)|Skadi]] freed the [[Cul Borson (Earth-616)|Serpent]], he called the Hammers of the [[Worthy (Earth-616)|Worthy]] to Earth.{{r|Fear Itself Vol 1 1}} [[Hammer of Greithoth|One of these hammers]] transformed the Absorbing Man into [[Greithoth (Earth-616)|Greithoth]], Breaker of Wills.{{r|Fear Itself Vol 1 3}}
+
+After the final battle where Thor killed the Serpent, Absorbing Man's hammer was taken from him as well as the hammers of the other Worthy.{{r|Fear Itself Vol 1 7}} He was latter seen attacking the Museum of Natural History in the search of a Moon rock, believing that would give him Moon powers, but he was defeated by Steve Rogers and the new [[Carol Danvers (Earth-616)|Captain Marvel]].{{r|Captain Marvel Vol 7 1}}
+
+===AXIS===
+Absorbing Man was among the villains recruited by [[Max Eisenhardt (Earth-616)|Magneto]] to help fight [[Johann Shmidt (Clone) (Earth-616)|Red Onslaught]].{{r|Avengers & X-Men: AXIS Vol 1 2}}
+
+After the [[Wanda Maximoff (Earth-616)|Scarlet Witch]] and [[Victor von Doom (Earth-616)|Doctor Doom]] successfully cast an inversion spell on Red Onslaught, the spell ended up blanketing the entire island of [[Genosha]], resulting in not only bringing [[Charles Xavier (Earth-616)|Xavier]]'s mind (a product of the Red Onslaught having stolen the late [[X-Men (Earth-616)|X-Men]] founder's brain) to the fore and reverting the Red Skull to his normal, now unconscious form - but also the inversion of the moral compass of every hero and villain on the island of Genosha.{{r|Avengers & X-Men: AXIS Vol 1 3}} As a result of this spell, many villains have started acting more heroic - with Creel being one of them, even joining the [[Astonishing Avengers (Earth-616)|Astonishing Avengers]], founded in a bid to stop the now evil X-Men from killing every human on Earth with the use of a gene bomb.{{r|Avengers & X-Men: AXIS Vol 1 6}}
+
+The Astonishing Avengers fought the X-Men and managed to prevent the gene bomb from exploding, but were defeated.{{r|Avengers & X-Men: AXIS Vol 1 7}} The appearance of the [[Axis (Avengers) (Earth-616)|Axis]] gave them a second wind to keep on fighting.{{r|Avengers & X-Men: AXIS Vol 1 8}} When a reinversion spell was cast, the Absorbing Man became evil once again.{{r|Avengers & X-Men: AXIS Vol 1 9}}
+
+===Pleasant Hill===
+After one too many times of getting caught by the Avengers and imprisoned, Absorbing Man reluctantly agreed with Titania to attempt to be released on parole in order to go legit and stop his criminal career.{{r|Illuminati Vol 1 1}} However, before being able to change his ways, Creel was transferred to [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]]'s newest reality-warping prison named [[Pleasant Hill]], where Creel was turned into a model citizen, and lived a normal life as an ice cream vendor named Harold.{{r|Avengers Standoff: Assault On Pleasant Hill Alpha Vol 1 1}} While in Pleasant Hill, Creel fell in love with another inmate, [[Elektra Natchios (Earth-616)|Elektra Natchios]], who had been turned into the Sheriff Eva.
+
+When [[Helmut Zemo (Earth-616)|Baron Zemo]] assaulted the small town, its inhabitants recovered their original appearances and memories. Infuriated for his life having being rewritten, Absorbing Man began to wreak havoc together with fellow inmate [[David Cannon (Earth-616)|Whirlwind]]. He was convinced by Elektra to spare innocent lives, and Titania and her partner [[Parker Robbins (Earth-616)|Hood]] soon appeared to retrieve him, after having learned of his whereabouts.
+
+Creel was deeply affected by his experience in Pleasant Hill, mainly emerging with the desire to live a normal life, noting that he had never been as happy as he was when being Harold. However, he decided to assemble any and every one of the former inmates from Pleasant Hill and get revenge on S.H.I.E.L.D. for manipulating their lives.{{r|Illuminati Vol 1 6}} Following a schism between Titania and the Hood that broke up the Hood's [[Illuminati (Hood's) (Earth-616)|Illuminati]], Titania realized that she could never live a normal life again, and decided to embrace her criminal life with Absorbing Man.{{r|Illuminati Vol 1 7}}
+
+===Space Prison===
+Following his latest capture, Creel was sent to a secret deep-space torture prison. There, he made acquaintances with fellow prisoners [[Molyb (Earth-616)|Metal Master]], [[Blinky (Earth-616)|Blinky]], [[Raava (Earth-616)|Raava]], and [[Blackagar Boltagon (Earth-616)|Black Bolt]],{{r|Black Bolt Vol 1 2}} with whom he attempted to carry out an escape.{{r|Black Bolt Vol 1 3}} Even though the initial attempt failed, Black Bolt's pet [[Lockjaw (Earth-616)|Lockjaw]] came to his aid,{{r|Black Bolt Vol 1 4}} giving the captives the chance to try again. The Absorbing Man seemingly sacrificed himself to kill the [[Jailer (Inhuman) (Earth-616)|Jailer]], absorbing the essence of Black Bolt's sonic scream in order to deal the killing blow against their captor. Carl's final request to his allies before his apparent demise was for them to visit Titania and tell her he lamented that he had to leave her.{{r|Black Bolt Vol 1 6}} Unbeknownst to Carl's allies, a portion of his essence remained trapped within his ball and chain.{{r|Black Bolt Vol 1 12}}
+
+When Black Bolt returned to Earth with Blinky, he passed on the news of Carl's apparent death to Titania. Using Blinky's telepathy, they showed her how Carl held on to his love for Mary to survive. They then held a funeral at the Parkwood Cemetery, where Carl's belongings were buried; the sports section of a newspaper, a bottle of whiskey, a picture of Titania, and his ball and chain.{{r|Black Bolt Vol 1 9}} Carl's weeks-long struggle to gather himself together paid off, and he managed to regenerate his body in the grave.{{r|Black Bolt Vol 1 12}}
+
+The Jailer had also survived his encounter with Creel, having escaped death by implanting himself in Blinky's mind. He took over her body as well, and fought Black Bolt. When Titania went to search for help, Lockjaw teleported to her and took her to Parkwood Cemetery, where she found Carl crawling out of his grave.{{r|Black Bolt Vol 1 11}} They reunited, and went to help Black Bolt fight the Jailer. Absorbing Man and Titania's assistance gave Black Bolt the final push he needed to regain his strength and kill the Jailer.{{r|Black Bolt Vol 1 12}}
+
+===Immortal Hulk===
+After being arrested for committing another crime, he was convinced by his lawyer to join the [[United States Hulk Operations (Earth-616)|U.S. Hulk Operations]] to avoid going back to prison. He was injected with a drug based on the [[Hulk Plug-In]] that turned him into a gamma mutate that increased his physical attributes and allowed him to absorb gamma energy but turned his skin red so he could fight the Hulk. Creel got his opportunity to fight Hulk after he killed one of the Operations' scientists following his escape from their base. Creel fought Hulk at [[Los Diablos Missile Base]] and weakened Hulk greatly after absorbing his gamma energy. However, Creel also unintentionally absorbed a demonic being called the [[One Below All (Multiverse)|One Below All]] that had been inside Hulk while posing as [[Brian Banner (Earth-616)|Brian Banner]]'s ghost. After the One Below All taunted Creel, the demon seemingly ripped Creel in half.{{r|Immortal Hulk Vol 1 9}}
+
+[[File:Carl Creel (Earth-616) from Immortal Hulk Vol 1 9 001.jpg|Possessed by the One Below All|thumb|right|250px]]
+
+Still alive due to the One Below All's possession and traumatized because of it, Creel began to apologize profusely as his body acted beyond his will. Hulk continued to fight Creel and even used his spine and cranium as a weapon, destroying them both. Creel then ran off while Hulk was distracted by the arrival of reporter Jackie McGee, Dr. Langkowski, and [[Eugene Judd (Earth-616)|Puck]]. Hulk eventually realized that the One Below All was planning to fully open an interdimensional door that was partially opened by the exploding of the [[Gamma Bomb]] that turned Bruce Banner into the Hulk by absorbing the leftover gamma energy at the bomb site. By then, it was too late, and the One Below All successfully opened the door, causing everyone close by to be absorbed into the [[Below-Place|One Below All's hellish realm]] while Creel sobbed.{{r|Immortal Hulk Vol 1 10}}
+
+Creel was later found by Puck and convinced Creel to help him close the interdimensional doorway he opened up. They eventually found the doorway where the One Below All planned to use to emerge on Earth take it over. As they got closer, they discovered the One Below All in the form of [[Brian Banner (Earth-616)|Brian Banner]] and Bruce Banner split from the Hulk, which the One Below All planned to use as a conduit to enter Earth. Creel confronted the One Below All but didn't plan on fighting the being, knowing he didn't stand a chance. Instead, he absorbed the gamma energy the One Below All was using to get to Earth and transferred it to Hulk, repowering him. Hulk then unleashed a thunderclap that dispersed the One Below All, stopping the demon and returning everyone and their surroundings to Earth. Puck praised Creel for his actions and offered him a position in [[Gamma Flight (Alpha Flight Space Program) (Earth-616)|Gamma Flight]], which Creel accepted.{{r|Immortal Hulk Vol 1 11|13}}
+
+Following [[Shadow Base Site A|Shadow Base]]'s latest attack on the Hulk, Gamma Flight retrieved [[Richard Jones (Earth-616)|Rick Jones]]'s Abomination shell. Absorbing Man was reunited with Titania and the two talked. However, [[Reginald Fortean|General Fortean]] in the [[Redeemer Armor]] arrived at their base and incapacitated them and the rest of the team and got the shell.{{r|Immortal Hulk Vol 1 21}}
+
+As they recover themselves, they discovered that their teammate, [[Walter Langkowski (Earth-616)|Walter Langkowski]] had died during the attack and decide to attack the Shadow Base. As they battled Fortean and his soldiers, they were joined by Hulk, [[Elizabeth Ross (Earth-616)|Harpy]], Rick Jones, and reporter [[Jacqueline McGee (Earth-616)|Jackie McGee]]. However, they were eventually overwhelmed. The battle ended when Hulk killed General Fortean and took control of Hulk Operations.{{r|Immortal Hulk Vol 1 23|24}}
+
+Creel and Gamma Flight later aided Hulk and his allies in fighting monsters sent to wreak havoc in [[Phoenix (Arizona)|Phoenix]], [[Arizona (State)|Arizona]] by [[Roxxon Energy Corporation (Earth-616)|Roxxon]]. When Hulk began attacking the alien [[Xemnu (Earth-616)|Xemnu]] as he was protecting civilians from parasites that emerged from one of the monsters, Creel was forced to intervene and force Hulk off Xemnu.{{r|Immortal Hulk Vol 1 30|31}}
+
+[[File:Carl Creel (Earth-616) from Immortal Hulk Vol 1 36 002.jpg|thumb|left|300px]]
+
+After Hulk destroyed a surrounding area and killed many people in a gamma blast, Creel and Gamma Flight arrived to apprehend him. Creel restrained Hulk while draining him of gamma energy. Hulk at first didn't fight back until Titania pushed down Jackie McGee. Hulk flew into a rage and ripped off Creel's arm and punched him into the ground. Titania battled Hulk but was defeated. Fearing for Titania's safety, Creel decided to absorb the surrounding gamma energy, transforming into a gamma-powered giant.{{r|Immortal Hulk Vol 1 36}}
+
+Creel battled Hulk in his giant form. When Rick swatted away Titania while under the control of the [[Samuel Sterns (Earth-616)|Leader]], Creel became enraged and threatened to attack Rick after he was done fighting Hulk. Creel pinned Hulk down with a windstorm, allowing Puck to fire a second shot at Hulk, severely injuring him.{{r|Immortal Hulk Vol 1 37|38}}
+
+Hulk was taken in custody and held in prisoner in Alpha Flight's [[Alpha Flight Low-Orbit Space Station|space station]], but he was able to escape right in front of Gamma Flight by smashing open one of the space station's windows.{{r|Immortal Hulk Vol 1 40}} Creel refused to come back on the space station until it got stronger windows. He and Titania later quit Gamma Flight when Alpha Flight's new commander [[Henry Gyrich (Earth-616)|Henry Gyrich]] became too obnoxious to work for, especially when Gyrich threatened to have Creel arrested.{{r|Immortal Hulk Vol 1 42}}
+
+Creel and Titania later rejoined Gamma Flight and teleported to [[Manhattan]] to aid Hulk and Betty in their fight with the [[Avengers (Earth-616)|Avengers]]. Creel briefly fought [[Steven Rogers (Earth-616)|Captain America]] before Gamma Flight, Hulk, Betty, and new ally She-Hulk teleported away to a warehouse in [[Brooklyn]].{{r|Immortal Hulk Vol 1 47}}
+
+Due to choosing to aid Hulk instead of apprehend him, Gamma Flight became wanted by the Alpha Flight Space Program and forced to go on the run. After Samson and Creel retrieved supplies and equipment from [[Shadow Base Remote Facility FN34]], Gamma Flight witnessed a news report of a Gamma Mutate running amuck in [[Austin]], [[Texas (State)|Texas]]. Samson, Creel, Titania, and Puck teleported to Austin to help the person. Samson was able to talk down the mutate and learned that her name was [[Dionne Fortean (Earth-616)|Dionne]] but was called Stockpile by the organization she escaped from, [[Green Spring (Earth-616)|Green Spring]]. Puck and Creel were teleported by Dr. McGowan but was unable to teleport Stockpile as well. After that, Skaar appeared seemingly repowered to retrieve Stockpile for Green Spring.{{r|Gamma Flight Vol 1 1}}
+
+Creel and Puck couldn't teleport back to Austin to aid their team in fighting Skaar as their translocator lacked the power. Creel solved the problem by using his powers to turn himself into a translocator. Creel and Puck then teleported to Austin and helped fight Skaar. When Skaar focused his attention on the newly arrived [[United States Hulkbuster Force (Earth-616)|United States Hulkbuster Force]], Gamma Flight and Dionne decided to leave by teleporting through Creel. However, damage done to Creel by Skaar caused a malfunction that seemingly caused everyone to disintegrate.{{r|Gamma Flight Vol 1 2}}
+
+Gamma Flight and Dionne were transported to an astral plane-like dimension for gamma energy connected to the [[Below-Place]]. After fighting off gamma-mutated creatures and zombies, Dionne revealed that they were in [[Thomasville]], [[Texas (State)|Texas]] where Green Spring conducted experiments with gamma mutation that turned the citizens into zombies. They then met [[Reginald Fortean (Earth-616)|General Fortean]]'s spirit who revealed that someone was using his identity to use Green Spring to create an army of gamma mutates. Then everyone was teleported to Gamma Flight's hideout by [[Charlene McGowan (Earth-616)|Dr. McGowan]].{{r|Gamma Flight Vol 1 3}}
+
+| Powers                  = '''Omni-Morph Duplication:''' The Absorbing Man possesses the ability to bodily duplicate at will the physical properties of anything he touches or that touches him. This power extends to both animate and inanimate objects and certain forms of energy. The matter of the Absorbing Man's body magically undergoes a material and physiological change so that his body actually becomes composed of the matter or energy with which he is making contact. While he is in this altered state, he still possesses his sentience despite the fact that his brain is now composed of the same material as the rest of him. Among the more ordinary materials he has been transformed into include steel, stone, wood and glass. More unusual have been his transformations into water, fire, snow, and silk. His most powerful transformations have been into energy-states such as cosmic, nuclear, thermal, or light.{{r|Official Handbook of the Marvel Universe Vol 2 1}}
+
+The Absorbing Man has learned through practice to only absorb the properties of objects that he wishes to absorb. Originally, he could be tricked into absorbing the properties of objects that would render him relatively vulnerable. There appears to be no time limit to how long he can retain a given property. When he is rendered unconscious or in a coma, he retains the form which he last consciously assumed. There would also not appear to be a minimum amount of time he must retain one form before assuming another. He can even become more than one substance at once.{{r|Official Handbook of the Marvel Universe Vol 2 1}}
+
+The Absorbing Man can also absorb specific properties relating to the form or mass of an object he touches. For example, he can assume the height of a skyscraper or the spikes of a mace. He can also assimilate mystic properties of objects or beings. He was able to mimic the properties of [[Mjolnir|Thor's Hammer]] and the strength of [[Thor Odinson (Earth-616)|Thor]] himself, and also the power of the [[Glossary:Odin-Force|Odin-Force]] as well as the powers of the Sentry.{{r|Official Handbook of the Marvel Universe Vol 2 1}}{{r|Civil War: The Return Vol 1 1}}
+
+The Absorbing Man can alter the molecular structure of his body, his clothes, and his wrecking ball to mimic the properties of any material he touches. This process also gives him enhanced strength, endurance, and in most cases, resistance to injury. If the object touched holds some form of energy, such as a battery or a blast furnace, Creel absorbs these properties as well. He also has limited shape-changing abilities when absorbing certain objects, such as forming hammer-like fists when touching a hammer or growing to enormous size when copying items of massive power or strength themselves.{{r|Official Handbook of the Marvel Universe Vol 2 1}}{{r|Marvel Knights: Spider-Man #15}}
+
+While escaping the [[Project P.E.G.A.S.U.S. (Earth-616)|Project Pegasus]] where he was held captive, and intending to loot it, he was designated as an '''[[Omega Level Threat]]'''.{{r|Mighty Avengers #32}}
+
+{{Navigation
+| title = Former Powers
+| body  = 
+'''Mind Control:''' After prolonged isolation in a prison that nullified his power, the Absorbing Man developed the ability to take control of a person's mind, even across vast distances.{{r|Incredible Hulk Vol 2 #55|59}}
+'''Further Enhancements:''' After being injected with the [[Bannerman Gene-Enhancement Package]], Creel's physical attributes were greatly enhanced and allowed him to absorb gamma energy. He is able to extend his gamma-absorbing power into his ball and chain.{{r|Immortal Hulk Vol 1 9}} He apparently lost this power afterward.{{r|Immortal Hulk Vol 1 10}}
+}}
+
+| Abilities               = 
+| Strength                =  When he is not absorbing the properties of anything, the Absorbing Man possesses the normal human strength of a man his age, height and build who engages in intensive regular exercise. Depending on what he absorbs and how long he can remain in contact with it, his strength can increase into the Class 100 range, allowing him to lift (press) over 100 tons.{{r|Official Handbook of the Marvel Universe Vol 2 1}}
+| Weaknesses              = '''Automatic Absorption:''' Ironically, his own power is also his biggest weakness. Originally, Creel had little to no control of his power and automatically absorbed any kind of matter and energy around him. As a result, there has been in numerous occasions where his adversaries had successfully tricked him into absorb random materials that makes him weaker or non-solid; on at least one occasion, he was defeated when he was tricked into absorbing two unspecified elements that triggered an explosive reaction. He eventually learned how to absorb a specific material without absorbing other materials by simple touch, and was even capable of absorbing more than one material at once.{{r|Official Handbook of the Marvel Universe Vol 2 1}} However, as noticed by [[Jennifer Walters (Earth-616)|She-Hulk]], there are limits by how much he can "''ignore''" matter around him and will still absorb it if there's too much of it surrounding him.{{r|She-Hulk Vol 2 23}}
+
+'''Non-Solid Absorption:''' Though he can absorb almost all kinds of matter and energy, Creel has trouble in maintain a stable physical body if the material itself is not on solid state and will likely fuse and dissipate with the material (Ex: If he absorbs helium or other gases, he will float and decompose in atmosphere).{{r|Avengers #275}}
+
+'''Narcotic Absorption:''' Creel will automatically take on the properties of narcotics he takes, giving him an even greater high. However while in the state he is highly vulnerable as any user would be. While in a narcotic state Creel can and has been reduced to powder and sold to junkies. Those who take Creel while he is in this state will temporarily gain his powers and absorb the properties of whatever they are touching at the time, which since they don't get all of Creels powers has proven fatal.{{r|Marvel Knights: Spider-Man #15}}
+
+'''Magic:''' Though he can, and has, absorbed any kind of supernatural and cosmic energy, Creel is not immune to spells and can be affected by it if the magic user is experienced enough (if anything, his absorption powers only makes the effect worse.). Indeed, [[Loki Laufeyson (Earth-616)|Loki]] even managed to forge a sword that temporarily stripped him from his absorbing powers.{{Citation}}
+
+'''Absorption Limit:''' Once Creel has 'discarded' an element that he has absorbed, he cannot manifest it again without contact with that material. This was a particular problem during a confrontation with Thor where he absorbed the mystic vortex Thor was using against him and was left trapped in another dimension until he was rescued.
+
+| Equipment               = A ring made of [[Adamantium|Secondary Adamantium]]
+| Transportation          = 
+| Weapons                 = 
+[[File: Carl Creel (Earth-616) from Amazing Spider-Man Vol 1 429 cover 001.jpg|thumb|right]]
+'''[[Absorbing Man's Ball and Chain|Ball and Chain]]''', which he was wearing at the time of his original transformation, magically also possesses the same properties of transformation as his body, providing he is in contact with it.{{r|Official Handbook of the Marvel Universe Vol 2 1}}
+
+{{Navigation
+| title = Former Weapons
+| body =  '''[[Hammer of Greithoth]]'''.{{r|Fear Itself #4}}
+}}
+
+| Notes                   = * Carl Creel cried the first couple of nights the first time he served a prison sentence when he was already a professional criminal. He is not ashamed to admit it.{{r|Black Bolt Vol 1 4}}
+* Creel likes cooking. He cooked for Titania when she got sick.{{r|Black Bolt Vol 1 4}}
+* [[Centrally Located Organic Computer (Earth-616)|CLOC]] assessed Creel as suffering from 'delusional paranoia'.{{r|Civil War: The Return Vol 1 1}}
+| Trivia                  = * The Absorbing Man's powers made it into the Hulk movie in the form of [[David Banner (Earth-400083)|David Banner]], father of [[Bruce Banner (Earth-400083)|Bruce Banner]].{{r|Hulk (film)}}
+* The Absorbing Man was one of the candidates on [[Steven Rogers (Earth-616)|Steve Rogers]]' list of supervillains to enroll in [[Luke Cage (Earth-616)|Luke Cage]]'s [[Thunderbolts (Earth-616)|Thunderbolts]] roster.{{r|Heroic Age: Villains #1}}
+| Marvel                  = 
+| Wikipedia               = Absorbing Man
+| Links                   = 
+}}
+[[it:Carl Creel (Terra-616)]]
+[[Category:Matter Absorption]]
+[[Category:Matter Manipulation]]
+[[Category:Superhuman Strength]]
+[[Category:Superhuman Durability]]
+[[Category:Strength Class 100]]
+[[Category:Silver-Age Characters]]
+[[Category:Magic-Based Mutates]]
+[[Category:Asgardian Magic]]
+[[Category:Omega Level Threats]]
+[[Category:Object-Based Powers]]
+[[Category:Secret Wars (1984 Event) participants]]
+[[Category:Pym Particles]]
+[[Category:Cosmic Cube Enhanced]]
+[[Category:Regeneration]]
+[[Category:Characters who have used Drugs]]
+[[Category:Drug Addicts]]
+[[Category:Energy Absorption]]
+[[Category:Depowered Mutates]]
+[[Category:Power Mimicry]]

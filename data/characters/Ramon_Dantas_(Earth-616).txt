@@ -1,0 +1,52 @@
+{{Marvel Database:Character Template
+| Image                   = Ramon Dantas (Earth-616) from X-Men Vol 1 25 0001.jpg
+| Name                    = Ramon Dantas
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = 
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Roy Thomas; Werner Roth
+| First                   = X-Men #25
+| Death                   = 
+
+| History                 = Ramon was hired by [[Juan Meroz (Earth-616)|El Tigre]] to find the Mayan treasure. [[Toloc (Earth-616)|Toloc]] and he tried to steal the treasure from Tigre once they found it, but he neutralized them with his mental powers and bound them to his will. The mercenaries then followed El Tigre to New York. In the New York City museum Ramon used his bolas against the [[Henry McCoy (Earth-616)|Beast]], binding his feet and knocking him down.{{r|X-Men #25}}
+
+Ramon and Toloc tried to take the Pendant to Kukulcan, but they were knocked down by the solar powers of the God.{{r|X-Men #26}}
+
+| Powers                  = Ramon is a normal human skilled in the use of the bolas.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = Bolas
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

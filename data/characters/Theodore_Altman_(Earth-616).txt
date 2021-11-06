@@ -1,0 +1,219 @@
+{{Marvel Database:Character Template
+| Image                   = Lords of Empyre Emperor Hulkling Vol 1 1 Vecchio Variant Textless.jpg
+| Name                    = [[Dorrek VIII]]
+| Name2                   = <br>(Skrull name)<br>[[Theodore Altman|Theodore Rufus "Teddy" Kaplan-Altman]]<br>(Earth name)<br>Dorrek-Vell<br>(Kree/Skrull name)
+| NameRef                 = {{r|Empyre: Aftermath Avengers Vol 1 1}}{{r|Last Annihilation: Wiccan & Hulkling Vol 1 1}}
+| CurrentAlias            = Emperor Dorrek-Vell
+| CurrentAliasRef         = {{r|Lords of Empyre: Emperor Hulkling Vol 1 1}}{{r|Last Annihilation: Wiccan & Hulkling Vol 1 1}}
+| Codenames               = [[Hulkling]]{{r|Young Avengers Vol 1 1}} 
+| EditorialNames          = [[Lords of Empyre: Emperor Hulkling Vol 1|Emperor Hulkling]]
+| Nicknames               = The Half-Breed Prince,{{r|Secret Invasion: Runaways/Young Avengers Vol 1 1}}{{r|Last Annihilation: Wiccan & Hulkling Vol 1 1}} Princess Muscles,{{r|Lords of Empyre: Emperor Hulkling Vol 1 1}} Skrulling,{{r|S.W.O.R.D. Vol 1 3}} Ted,{{r|Young Avengers Vol 1 7}} Teddy,{{r|Young Avengers Vol 1 1}} Teen-Hulk{{r|Young Avengers Vol 1 1}} 
+| Impersonations          = [[William Kaplan (Earth-616)|Billy Kaplan]],{{r|Young Avengers Presents Vol 1 3}} [[Death's Head]],{{r|Death's Head Vol 2 4}} [[Human Torch]],{{r|Young Avengers Special Vol 1 1}} [[Iron Man]],{{r|Young Avengers Special Vol 1 1}} [[Spider-Man]],{{r|Young Avengers Vol 2 1}} [[Super-Skrull]]{{r|Young Avengers Vol 1 12}}
+| Aliases                 = Child of the Impossible Prophecy,{{r|Empyre: Fallout Fantastic Four Vol 1 1}} [[Dorrek Supreme]],{{r|Empyre: Fallout Fantastic Four Vol 1 1}} Dorrek the eighth,{{r|Empyre: Fallout Fantastic Four Vol 1 1}} [[Dorrek VIII|Emperor Dorrek VIII]],{{r|Incoming Vol 1 1}} Emperor Hulkling,{{r|Lords of Empyre: Emperor Hulkling Vol 1 1}}{{r|Empyre: Fallout Fantastic Four Vol 1 1}}{{r|Last Annihilation: Wiccan & Hulkling Vol 1 1}} The King of All Space,{{r|Empyre Vol 1 3}} Our King of Space,{{r|Empyre: Fallout Fantastic Four Vol 1 1}} Pacifist Hybrid King,{{r|Lords of Empyre: Emperor Hulkling Vol 1 1}} Princeling,{{r|Lords of Empyre: Emperor Hulkling Vol 1 1}} Savior,{{r|Secret Invasion: Runaways/Young Avengers Vol 1 2}} The Uniter{{r|Secret Invasion: Runaways/Young Avengers Vol 1 2}}
+
+| Affiliation             = {{m|Kree/Skrull Alliance (Earth-616)|Alliance}}, partner and husband of [[William Kaplan (Earth-616)|Wiccan]]; formerly {{m|Avengers World}}{{citation}}, {{m|New Avengers (A.I.M.) (Earth-616)|New Avengers}}, {{m|Avengers Idea Mechanics (Earth-616)|A.I.M. (Avengers Idea Mechanics)}}, {{m|Young Avengers}}, {{m|Secret Avengers (Civil War)|Secret Avengers}}
+| Ancestors               = [[Dorrek (Earth-616)|Dorrek I]] (ancestor, deceased)<br>
+[[Ryga'a (Earth-616)|Ryga'a]] (ancestor, deceased){{r|New Avengers Vol 4 4}}<br>
+[[Soh-Larr (Earth-616)|Soh-Larr]] (ancestor, deceased){{r|New Avengers Vol 4 4}}<br>
+[[Dorrek Supreme (Earth-616)|Dorrek Supreme]] (ancestor, deceased){{r|New Avengers Vol 4 4}}
+| Grandparents            = [[Dorrek VII (Earth-616)|Emperor Dorrek VII]] (maternal grandfather, deceased)<br>
+[[R'Klll (Earth-616)|R'Klll]] (maternal grandmother)<br>
+Unidentified paternal grandparents
+| Parents                 = [[Mar-Vell (Earth-616)|Mar-Vell]] (father, deceased){{r|Young Avengers Vol 1 10}}<br>
+[[Anelle (Earth-616)|Princess Anelle]] (mother, deceased){{r|Young Avengers Vol 1 10}}<br>
+[[Mary-Jo Altman (Earth-616)|Mary-Jo Altman]] (foster mother, deceased){{r|Young Avengers Vol 1 9}}
+| Siblings                = [[Genis-Vell (Earth-616)|Genis-Vell]] (paternal half-brother, deceased)<br>
+[[Phyla-Vell (Earth-616)|Phyla-Vell (Earth-616)]] (paternal half-sister, deceased)<br>
+[[Phyla-Vell (Earth-18897)|Phyla-Vell (Earth-18897)]] (alternate reality paternal half-sister){{r|Last Annihilation: Wiccan & Hulkling Vol 1 1}}
+| Spouses                 = [[William Kaplan (Earth-616)|Billy Kaplan]] (husband){{r|Empyre Vol 1 4}}
+| Relatives               = [[Talos (Earth-616)|Talos]] (maternal great grand uncle)<br>
+[[Dezan (Earth-616)|Dezan]] (maternal grand uncle)<br>
+[[Minister Marvel (Earth-616)|Minister Marvel]] (paternal cousin)<br>
+[[Skrull Cows (Earth-616)|Skrull Cows]] (maternal relatives)<br>
+[[Xavin (Earth-616)|Xavin]] (distant maternal cousin){{r|Secret Invasion: Runaways/Young Avengers Vol 1 2}}<br>
+[[Ewe'fareek (Earth-616)|Ewe'fareek]] (distant maternal relative){{r|Runaways Vol 2 8}}
+| MaritalStatus           = Married
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z Vol 1 5}}
+| Gender                  = Male
+| Height                  = 6'0"; Variable
+| Weight                  = 170 lbs; Variable
+| Eyes                    = Blue; Variable
+| Hair                    = Blond; Variable
+| UnusualSkinColor        = Green (Hulkling form)
+| UnusualFeatures         = 
+
+| Origin                  = [[Deviant Skrulls|Skrull]]/[[Kree]] hybrid
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Tarnax IV|Tarnax IV, the Skrull Throneworld]]
+
+| Identity                = Secret
+| Citizenship             = Kree Empire, Skrull Empire, American
+| Occupation              = Emperor; former adventurer, student
+| Education               = High school student
+| BaseOfOperations        = [[Wiccan and Hulkling's Apartment]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]; formerly [[Barbuda|Avengers Island]], [[Austin]], [[Texas (State)|Texas]]; [[Bishop Publishing]], [[New York City]], [[New York (State)|New York]]; [[Manhattan]], [[New York City]], [[New York (State)|New York]]; [[Tarnax IV]]
+
+| Creators                = Allan Heinberg; Jim Cheung
+| First                   = Young Avengers Vol 1 1
+
+| Quotation               = So, I'm half-[[Kree]], half-[[Deviant Skrulls|Skrull]]?
+| Speaker                 = [[Theodore Altman (Earth-616)|Hulkling]]
+| QuoteSource             = Young Avengers Vol 1 11
+
+| History                 = [[File:Anelle (Earth-616), Dorrek VII (Earth-616), Mary-Jo Altman (Earth-616) and Theodore Altman (Earth-616) from Young Avengers Vol 1 10 001.jpg|thumb|left|[[Anelle (Earth-616)|Anelle]] sending her son to Earth with her [[Mary-Jo Altman (Earth-616)|nursemaid]]]]
+===Origin===
+During the [[Kree-Skrull War]], the [[Kl'rt (Earth-616)|Super-Skrull]] kidnapped [[Mar-Vell (Earth-616)|Captain Marvel]], [[Pietro Maximoff (Earth-616)|Quicksilver]] and the [[Wanda Maximoff (Earth-616)|Scarlet Witch]] and presented them to the [[Dorrek VII (Earth-616)|Skrull Emperor]]. While being imprisoned, Captain Marvel and the Emperor's daughter, [[Anelle (Earth-616)|Princess Anelle]], had a brief affair and she conceived a child. Fearing for his safety, Anelle sent the child away with her [[Mary-Jo Altman (Earth-616)|nursemaid]] immediately after his birth.{{r|Young Avengers Vol 1 10}} The servant took the child to [[Earth]] to be raised by his father, but after arriving on Earth she learned that Captain Marvel had died.{{r|Road to Empyre: The Kree/Skrull War Vol 1 1}} Mrs. Altman decided to raise the child as her own and posed as a single mother working in real estate and named the child '''Theodore "Teddy" Rufus Altman'''.{{r|Avengers: The Children's Crusade Vol 1 1}}
+
+On Earth, Teddy was able to shapeshift from a very young age,{{r|Road to Empyre: The Kree/Skrull War Vol 1 1}} and used his powers mainly in an effort to fit in with his high school classmates, particularly the class president and basketball team captain, [[Greg Norris (Earth-616)|Greg Norris]]. Fitting in for Teddy included using his shapeshifting to provide access to [[New York City]] high life by impersonating various superheroes and celebrities. Finally, when Greg coerced him into breaking into the ruins of [[Avengers Mansion]], Teddy decided that some things were more important than fitting in, and rather than let Greg loot the mansion, he ended the friendship.{{r|Young Avengers Special Vol 1 1}}
+
+===Young Avengers===
+Teddy was one of the people listed in the [[Avengers Fail-Safe Program]], compiled by the [[Vision (Earth-616)|Vision]] to be used to form a new team of superheroes in the event of the destruction or disbandment of the [[Avengers (Earth-616)|Avengers]]. [[Nathaniel Richards (Iron Lad) (Earth-6311)|Iron Lad]], a younger version of [[Nathaniel Richards (Kang) (Earth-6311)|Kang the Conqueror]], found Teddy using the Vision’s Fail-Safe Program and requested his help in preventing his future self from returning him to the future. Teddy joined the [[Young Avengers (Earth-616)|Young Avengers]] and adopted the super-hero identity of the '''[[Hulkling]]'''.{{r|Young Avengers Vol 1 3}} He began dating his teammate, [[William Kaplan (Earth-616)|Wiccan]].{{r|Young Avengers Vol 1 6}}{{r|Last Annihilation: Wiccan & Hulkling Vol 1 1}}
+
+Teddy's life changed again when the shape-shifting extraterrestrial known as the Super-Skrull showed up, claiming that Teddy was a [[Deviant Skrulls|Skrull]]. The Super-Skrull was surprised to learn that Teddy had super strength and wondered if "perhaps the rumors about his father [were] true."{{r|Young Avengers Vol 1 9}}
+
+[[File:Kl'rt (Earth-616) and Theodore Altman (Earth-616) from Young Avengers Vol 1 9 001.jpg|thumb|left|The Super-Skrull capturing Hulkling]]
+The Super-Skrull followed the Young Avengers to the home of Wiccan, where Teddy's mother was waiting for him. The Super-Skrull released a device designed to turn Teddy into his true form, trying to prove to him his Skrull heritage. However, the device didn't change Teddy's physical appearance. Instead, Ms. Altman, who was also caught in the device's beam, revealed her true Skrull form. When the Super Skrull accused her of being a traitor to her race, she responded by saying that the Empress ordered her to protect Teddy. Before she could say much else, the Super-Skrull killed her and kidnapped Teddy.{{r|Young Avengers Vol 1 9}}
+
+The Super-Skrull broadcasted to all Skrull worlds that he had located Dorrek VIII, though Teddy insisted that he was not a Skrull. Kl'rt insisted that was and revealed the truth about his past. He insisted that he must return to his people so that they could reunite the Skrull Empire. Kree soldiers then arrived to help Teddy, stating that the [[Kree]] looked after their own.{{r|Young Avengers Vol 1 10}} A battle then erupted between the Kree and the Skrulls, both claiming Teddy as their own.{{r|Young Avengers Vol 1 11}} The only solution that Teddy saw to end the battle was surrender. It was settled that Teddy would spend half an Earth-year with the Kree and the other half with the Skrull, at which time he would declare his ultimate allegiance, while also being able to make scheduled visits to Earth. It was later revealed that the "Teddy" who left with the Kree was actually the Super-Skrull disguised as him, and therefore the real Teddy stayed on Earth.{{r|Young Avengers Vol 1 12}}
+
+===Civil War===
+During the [[Civil War (Event)|Civil War]], [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] arrested the Young Avengers. However, [[Samuel Wilson (Earth-616)|Falcon]] and [[Steven Rogers (Earth-616)|Captain America]] intercepted the S.H.I.E.L.D bus which was transporting the prisoners, and Wiccan teleported the team out of the situation, into the [[Secret Avengers (Civil War) (Earth-616)|Secret Avengers]] [[S.H.I.E.L.D. Safe House 23|base]].{{r|Civil War Vol 1 2}}
+
+When the [[Runaways (Earth-616)|Runaways]] tried to stay out of the conflict, they barely managed to escape from the government forces. Hearing of this development in the news, the Young Avengers decided to help the Runaways even though Captain America vetoed the plan. Wiccan used his magic to locate and teleport to the Runaways. However, the Runaways believed that the Young Avengers had come to capture them and a fight ensued until [[Elijah Bradley (Earth-616)|Patriot]] succeeded in convincing [[Nico Minoru (Earth-616)|Nico Minoru]] to stop the hostilities. The two teams were later attacked by [[Noh-Varr (Earth-200080)|Marvel Boy]], who captured Wiccan, [[Karolina Dean (Earth-616)|Karolina]] and Hulkling, and almost killed [[Xavin (Earth-616)|Xavin]]. The young heroes became the prisoners of the [[Cube Warden (Earth-616)|Warden]], who proceeded to practice vivisection on the unconscious Teddy. The boys were rescued by Xavin, whose Skrull physiology allowed him to recover from Noh-Varr's attack. Billy came close to killing the Warden, but Teddy stopped him.{{r|{{cl|Civil War: Young Avengers and Runaways Vol 1 1}}-[[Civil War: Young Avengers and Runaways Vol 1 4|4]]}}
+
+Teddy played a pivotal role in Captain America's plan for the final confrontation with Iron Man's forces, impersonating [[Criti Noll (Clone) (Earth-616)|Yellowjacket]] in order to free the imprisoned heroes of [[Prison 42]].{{r|Civil War Vol 1 6}}
+
+===Meeting Captain Marvel===
+[[File:Theodore Altman (Earth-616) and Mar-Vell (Earth-616) from Young Avengers Presents Vol 1 2 002.jpg|thumb|right|Hulkling meeting "Captain Marvel"]]
+Shortly after the return of [[Khn'nr (Earth-616)|"Captain Marvel"]], Teddy and Billy saw him battling giant robots alongside the Avengers on a broadcast in [[Times Square]]. Teddy quickly arranged a meeting with the Captain to explain their biological relationship. Captain Marvel was shocked by the news as he never knew a child was conceived during his and Anelle's secret union. Captain Marvel needed to process this new information and almost immediately departed. He returned later to again speak with Teddy. The two discussed the Captain and Anelle's brief courtship, Marvel's cancer and his quest to return to his own time period. Before separating, Marvel told Teddy that he was proud of him for having become a warrior and the two agreed to meet again, though Teddy never again saw him alive.{{r|Young Avengers Presents Vol 1 2}}
+
+===[[Secret Invasion]] and [[Siege (Event)|Siege]]===
+[[File:Theodore Altman (Earth-616) and Xavin (Earth-616) 001.jpg|thumb|left|[[Xavin (Earth-616)|Xavin]] saving Hulkling from invading [[Deviant Skrulls|Skrulls]]]]
+When the Skrulls invaded Earth, Hulkling joined the Young Avengers on the front-lines of the battle. Because he is Skrull royalty, Hulkling attempted to speak with the Skrulls leaders. The Skrulls ignored him and swiftly took him out. He later became targeted for execution by the [[Veranke (Earth-616)|Skrull Queen]] because of his royalty. Before he could be executed, Xavin, a Runaway and a Skrull, intervened to save Hulkling's life.{{r|{{cl|Secret Invasion: Runaways/Young Avengers Vol 1 1}}-[[Secret Invasion: Runaways/Young Avengers Vol 1 3|3]]}}
+
+Hulkling, along with the other Young Avengers, helped rescue the fallen from [[Asgard (City)|Asgard]] during [[Norman Osborn (Earth-616)|Norman Osborn]]'s Siege. Together, he and Wiccan also battled the [[Wrecking Crew (Earth-616)|Wrecking Crew]].{{r|Siege: Young Avengers Vol 1 1}}
+
+===Children's Crusade===
+After Wiccan's powers overloaded and the Avengers decided to keep him under observation, Hulkling and the other Young Avengers broke Wiccan out of holding and began the search for the Scarlet Witch. Accompanied by [[Max Eisenhardt (Earth-616)|Magneto]] and Quicksilver, the team traveled to [[Transia]] and then to [[Latveria]] before discovering a depowered and amnesiac Wanda engaged to [[Victor von Doom (Earth-616)|Doctor Doom]]. The rediscovery of Wanda did not go unnoticed though, as the Avengers soon arrived on the scene. A battle with Doom's [[Doombot|Doombot army]] soon broken out and was only stopped by the arrival of Iron Lad.{{r|Avengers: The Children's Crusade Vol 1 1|4}}
+
+Iron Lad teleported the Young Avengers and Wanda into the timestream. They all went into the past, and met reanimated [[Jonathan Hart (Earth-616)|Jack of Hearts]], who was to explode. After that, Wanda remembered who she was, regained her powers and returned herself along with the Young Avengers and [[Scott Lang (Earth-616)|Scott Lang]] to the present.{{r|Avengers: The Children's Crusade Vol 1 5}} She then finally confirmed that Billy and [[Thomas Shepherd (Earth-616)|Tommy]] were indeed her reincarnated sons.{{r|Avengers: The Children's Crusade Vol 1 6}}
+
+Wanda's increased powers were revealed to be the result of her gaining a connection to the life force itself. A ritual intended to undo the [[Decimation]] was interrupted by [[Elijah Bradley (Earth-616)|Patriot]], leading to the powers being transferred to Doctor Doom. He intended to turn the world into a utopia, a utopia in that he would rule.{{r|Avengers: The Children's Crusade Vol 1 7}} The Avengers and X-Men teamed up to defeat him, in the process, [[Cassandra Lang (Earth-616)|Stature]] was killed by Doom, and the villain escaped after losing his powers when they overloaded.{{r|Avengers: The Children's Crusade Vol 1 8}}
+
+[[File:William Kaplan (Earth-616) and Theodore Altman (Earth-616) from Avengers The Children's Crusade Vol 1 9 001.jpg|thumb|right|Wiccan and Hulkling kissing]]
+Iron Lad proposed to save Stature through the time stream, but [[Vision (Jonas) (Earth-616)|Vision]] refused, ending with both of them battling each other and Iron Lad destroying Vision and then taking off to the time stream, even after Wiccan warned that this was the moment in time where he became Kang the Conqueror.{{r|Avengers: The Children's Crusade Vol 1 9}}
+
+In the aftermath of the battles, the Young Avengers disbanded and stayed in low profile during the major events that transpired in the world (the [[Spider-Island (Event)|Spider-Island]] infestation, the [[X-Men (Earth-616)|X-Men]]'s [[Schism (Event)|Schism]] and the resurrection of the [[Jonathan Storm (Earth-616)|Human Torch]]). Billy fell into a severe state of depression, but Teddy brought him out of it by proposing to him. However, their moment of joy was interrupted by [[Carol Danvers (Earth-616)|Ms. Marvel]] who called them to the [[Avengers Mansion]]. After a few words from Captain America, all the remaining Young Avengers were officially named as full-fledged [[Avengers (Earth-616)|Avengers]].{{r|Avengers: The Children's Crusade Vol 1 9}}
+
+===Return to Heroics===
+For a period of time, Wiccan and Hulkling retired from being super-heroes. However, they are unexpectedly brought back into the fray when Wiccan, in an attempt to patch an argument with Hulkling, accidentally let an interdimensional parasite called [[Mother (Interdimensional Parasite) (Earth-TRN287)|Mother]] into their world.{{r|Young Avengers Vol 2 1|5}}
+
+After escaping from Mother,{{r|Young Avengers Vol 2 5}} thwarting [[Deviant Skrulls|Skrull]] impersonating [[Skifflefuffles]],{{r|Young Avengers Vol 2 7}} and traveling across the [[Multiverse]] to rescue Speed,{{r|Young Avengers Vol 2 8|9}} Hulkling decided to spend some time away from Wiccan and the Young Avengers to figure out if he really loved Wiccan or it was merely his reality-warping power. He then relocated to [[Austin]], [[Texas (State)|Texas]] and began meeting with a therapist, [[Leah (Construct) (Earth-616)|Leah]].{{r|Young Avengers Vol 2 9}} However, Leah was an ally of Mother, who tricked Hulkling into returning to New York City, an occurrence that allowed the parasite to return to the universe.{{r|Young Avengers Vol 2 10}}
+
+The rest of the Young Avengers were caught off-guard by Mother's return, and the only hope to stop her was for Wiccan to achieve his full potential as the [[Demiurge]].{{r|Young Avengers Vol 2 11}} When the Young Avengers returned to Mother's dimension to stop her, Wiccan tried but failed to turn into the Demiurge.{{r|Young Avengers Vol 2 12}} After Hulkling was rescued, Teddy comforted Billy, and reconciled with him. Their reunion allowed Billy to become the Demiurge and destroy Mother, saving the day.{{r|Young Avengers Vol 2 13}}
+
+[[File:Bruce Banner (Earth-616) and Theodore Altman (Earth-616) from Hulk Vol 3 7 001.jpg|300px|thumb|right|Meeting [[Bruce Banner (Earth-616)|Hulk]] (as "Doc Green")]]
+
+When the [[Bruce Banner (Earth-616)|Hulk]] developed a super-genius persona named Doc Green, he set out to depower all [[Glossary:Gamma Mutates|gamma mutates]]. Despite being aware that Hulkling's powers were not related to gamma radiation, Doc Green visited him. He expressed flattery for Teddy's codename and warned him against playing with gamma radiation in the future.{{r|Hulk Vol 3 7}}
+
+Hulkling, along with Marvel Boy and Prodigy, investigated the blast site where the Watcher's eye detonated after his murder. {{r|Original Sins Vol 1 1}} 
+
+===King of Space===
+Eventually both Teddy and Billy returned to full-time superheroes when they joined [[Roberto Da Costa (Earth-616)|Roberto Da Costa]]'s team of [[New Avengers (A.I.M.) (Earth-616)|New Avengers]].{{r|New Avengers Vol 4 1}} After saving [[Paris]] from an epidemic called Life-Minus that engulfed most of the nation and turned living beings into living-dead crystal headed entities,{{r|New Avengers Vol 4 2}} Hulkling and his teammates were at [[Hydrobase|Avengers Island]] when a group of aliens using both Kree and Skrull technology kidnapped him, taking Wiccan with him by accident. The aliens, like Hulkling, were Kree/Skrull hybrids and called themselves the [[Knights of the Infinite (Earth-616)|Knights of the Infinite]]. They took him to their base, the Forbidden Asteroids, so he could pass a test in order to see if he was truly the chosen one, which was pulling [[Excelsior (Star-Sword)|the sword Excelsior]] from a stone. Hulkling passed the test, and the Knights kneeled before him.{{r|New Avengers Vol 4 3}}
+
+When Hulkling and Wiccan were taken to the Knights' home, [[Castle Tarnala]], they discovered the corpse of [[M'ryn (Earth-616)|M'ryn the Magus]] possessed by the evil wizard [[Moridun (Earth-616)|Moridun]]. Any of their attempts at damaging Moridun were in vain, and the creature soon absorbed enough power to grow in size, destroying the castle from the inside out. Soon afterwards, the rest of the New Avengers showed up and joined the brawl against Moridun, to no avail. After accidentally absorbing an energy blast from Moridun with Excelsior, Hulkling realized he could use it against the evil wizard. The New Avengers distracted Moridun long enough to allow Hulkling to stab him in the face, seemingly killing the creature.
+
+Once the dust settled, the Knights buried those lost to Moridun and allowed Hulkling to leave, explaining that the young hero had a duty to his friends, and he wouldn't be their king if he was capable of abandoning that. Before biding farewell, [[Lan-Zarr (Earth-616)|Lan-Zarr]] promised that when the time was right, the Knights of the Infinite would fight at his side.{{r|New Avengers Vol 4 4}}
+
+===Avengers from 20XX===
+While the New Avengers believed Moridun had been killed and done for, he actually had hidden himself within Wiccan, who was now the Demiurge. Hulkling soon realized how strange his fiancé was acting during a mission in [[Tokyo]]. Meanwhile, Roberto and [[Doreen Green (Earth-616)|Squirrel Girl]] were visited by the [[A.V.E.N.G.E.R.S. Initiative (Earth-15061)|Avengers from 20XX]], which included a future version of Hulkling with the new alias of [[Dorrek VIII (Earth-15061)|King Hulk]], [[Jako Krangsen (Earth-15061)|Iron Mariner]], [[Marlene Brashear (Earth-15061)|Marvel Woman]], [[Manu Chauhan (Earth-15061)|Collapsar]], and [[Luke Cage]] and [[Jessica Jones]]'s daughter [[Danielle Cage (Earth-15061)|Danielle Cage]], who came to the future to prevent Billy from becoming fully the evil Demiurge.{{r|New Avengers Vol 4 5}}
+
+[[File:William Kaplan (Earth-616) and Theodore Altman (Earth-616) kissing from New Avengers Vol 4 6 001.jpg|thumb|left|Hulkling kissing Wiccan]]
+After Hulkling and the other New Avengers returned from Tokyo, Hulkling realized that the people from the future were actually the Avengers. After King Hulk tried to reconcile with Hulkling about Moridun possessing Wiccan, Hulkling soon realized the only person who could actually get Moridun out: Wiccan. Hulkling reached out to Wiccan, which prompted him to fight against Moridun inside his mind. After Moridun was expelled from Wiccan, Hulkling pulled Wiccan into a kiss. With the the terrible future averted, the future Avengers were sent back to their reality, and the timestream was fixed.{{r|New Avengers Vol 4 6}}
+
+===Wiccan's Kookie Quartet===
+When A.I.M. decided to rescue and shelter hacktivist [[Richard Jones (Earth-616)|Rick Jones]], [[Roberto Da Costa (Earth-616)|Sunspot]] decided to put to vote this decision, which would be considered an act of war against both S.H.I.E.L.D. and the [[United States of America|United States]]. The three members that opposed the idea, Teddy, Billy and [[Doreen Green (Earth-616)|Squirrel Girl]], were all exiled from the team for their own safety.{{r|New Avengers Vol 4 8}} This new smaller incarnation of the New Avengers confronted the [[Parnival Plunder (Earth-616)|Plunderer]], an adventure after which [[Clinton Barton (Earth-616)|Hawkeye]] joined their ranks,{{r|New Avengers Vol 4 11}} and assisted numerous other heroes in fighting the [[Celestial Destructor (Earth-616)|Celestial Destructor]], with Billy helping [[Stephen Strange (Earth-616)|Doctor Strange]] and [[Wanda Maximoff (Earth-616)|Scarlet Witch]] to banish it.{{r|New Avengers Vol 4 12}}
+
+Once the New Avengers freed A.I.M. agent [[Melissa Gold (Earth-616)|Songbird]] from S.H.I.E.L.D. captivity,{{r|New Avengers Vol 4 15}} they assisted A.I.M. in fending off an attack from the [[New Revengers (Earth-616)|New Revengers]] at their [[Avenger Base Two]] in the [[Savage Land]].{{r|New Avengers Vol 4 16}} When Sunspot set out to shut down rogue A.I.M. splinter cells, he requested Wiccan's and Hulkling's help, and lured them to an empty luxurious apartment in [[Central Park]], under the pretense that said location housed the headquarters for one of the cells. When the two young heroes arrived there, they found a note from Sunspot, which revealed the apartment was a parting gift for their help. With Hawkeye having left the team after being put on trial for the murder of [[Bruce Banner (Earth-616)|Bruce Banner]],{{r|New Avengers Vol 4 13}} and Squirrel Girl deciding to rejoin A.I.M. to keep an eye on Sunspot, Hulkling and Wiccan opted to disband the New Avengers and focus on their personal lives for the time being.{{r|New Avengers Vol 4 18}}
+
+===Death's Head===
+While hanging out with Wiccan, Teddy witnessed [[Death's Head (Styrakos)|Death's Head]] wreaking havoc and decided to battle the robot bounty hunter. After Wiccan transported the knocked out Death's Head to their bathroom, Teddy discussed the possibility of returning to heroism, but the discussion was left hanging. As Teddy prepared to go to sleep, Death's Head awakened and tried to assassinate him, but when Teddy used the mattress to defend himself, they both uncovered [[Death's Head V (Earth-616)|a younger version of Death's Head]] under the bed.{{r|Death's Head Vol 2 1}} After Billy explained to them how he got "Vee" from the [[Project P.E.G.A.S.U.S. Facility]], and another battle with Death's Head, they were joined by Kate, and decided to go to the facility. However, [[Evelyn Necker (Earth-616)|Dr. Evelyn Necker]] was waiting for them and sent her robots to attack them. After Kate and Teddy were split from Death's Head and Billy, they faced the [[Fearmongers (Earth-616)|Fearmongers]]. During the battle, Teddy admitted to Kate that his relationship with Billy had been rocky, since Billy had been unstable. They were reunited, but Necker reprogrammed Vee, and attacked them. Billy teletransported all of them, but unintentionally left Death's Head behind.{{r|Death's Head Vol 2 2|3}} After landing at the lunchroom, Teddy took the appearance of one of the Fearmongers and got Death's Head and Vee to the others to safety. They decided to free the Fearmongers and were successful in stopping the self-destruction countdown of the facility. Afterwards, Teddy and Billy reconciled and Vee began living with them.{{r|Death's Head Vol 2 4}}
+
+After the [[Vridai]] kidnapped Wiccan and replaced him with one of their own,{{r|Strikeforce Vol 1 2}} [[Aldrif Odinsdottir (Earth-616)|Angela]] tied Hulking up as she didn't want another shapeshifter involved in their problem. Following the death of the impostor at the hands of [[Eric Brooks (Earth-616)|Blade]], he stabbed Teddy in the neck, temporarily knocking him out so he wouldn't go after Wiccan before they had dealt with the Vridai.{{r|Strikeforce Vol 1 3}}
+
+===Empyre===
+While going through a slump, staying at home in the dark while Billy was on a special mission with the newly-formed [[Strikeforce (Earth-616)|Strikeforce]], Teddy was approached by [[Raksor (Earth-616)|Raksor]] and [[Bel-Dann (Earth-616)|Bel-Dann]], a Kree/Skrull duo who inducted Hulkling into the [[Kree/Skrull Alliance (Earth-616)|Kree/Skrull Alliance]] that had formed between the two warring empires to stop their common enemy, the plant-based race called the [[Cotati]]. As the prophesized unifier of the Kree and the Skrull, Teddy was enlisted to become a figurehead to strengthen the alliance, with [[Tanalth (Earth-616)|Tanalth the Pursuer]] and Super-Skrull holding the actual power.{{r|Lords of Empyre: Emperor Hulkling Vol 1 1}} Before Teddy left to the Alliance, he and Billy arranged a hasty wedding that was attended by the Young Avengers.{{r|Empyre Vol 1 5}}
+
+[[File:Theodore Altman (Earth-616) and William Kaplan (Earth-616) from Empyre Vol 1 4 001.jpg|thumb|right|Teddy and Billy's wedding]]
+
+When the Alliance approached the [[Blue Area of the Moon]], where the Cotati had set base, they were intercepted by the Avengers and the [[Fantastic Four (Earth-616)|Fantastic Four]] since the Cotati were previously known for their pacifism, which led Earth's heroes to believe an attack on the Cotati from the Kree and the Skrull was an unwarranted move to consolidate power. The intervention of the Avengers and the Fantastic Four bought the Cotati enough time for the flowering of a [[Death Blossom]], a powerful flower that amplified the Cotati's ability to control plants, giving their leader [[Sequoia (Earth-616)|Quoi]] enough power to cripple the Alliance fleet using deadly vines. Afterward, the Cotati invaded Earth to turn it into the centerpiece of their [[Empyre (Earth-616)|Empyre]], from which they intended to eradicate all animal life.{{r|Empyre Vol 1 1}}
+
+Hulkling's compassion and humanity was quickly frowned upon by his [[Alliance Royal Guard (Earth-616)|royal guard]], especially after Super-Skrull revealed that it was in Teddy's hands the decision to trigger the [[Pyre (Item)|Pyre]], a weapon capable of detonating the Earth's Sun, which they expected Hulkling to use to stop the Cotati before they could expand once they conquered the Earth.{{r|Empyre Vol 1 3}} Teddy's grandmother [[R'Klll (Earth-616)|R'Klll]], who was secretly alive, had been posing as Tanalth to help ensure the success of an unified Kree/Skrull empire under Hulkling's rule since he was of her bloodline. Seeing Teddy's softness as a weakness, R'Klll allied with [[Glah-Ree (Earth-616)|Captain Glory]] to imprison and replace Hulkling to command the deployment of the Pyre,{{r|Empyre Vol 1 4}} forcing him into a [[Inhibitor Mask|inhibitor mask]] to prevent him from changing shape.
+
+[[File:Kree Skrull Alliance (Earth-616) from Empyre Vol 1 6 001.jpg|thumb|left|The Alliance standing victorious]]
+
+After Captain Marvel and the Human Torch tipped off Wiccan that something was wrong with Hulkling, Billy used magic to rescue Teddy and bring him to confront R'Klll and the royal guard. The countdown to the Pyre's detonation coincided with the final battle against Quoi and the Cotati in [[Wakanda]].{{r|Empyre Vol 1 5}} After Tony Stark stopped the detonation of the Pyre, Hulkling defeated R'Klll and neutralized her with the inhibitor mask that had been used on him. Following the defeat of the Quoi and the destruction of the Death Blossom he attempted to plant in Wakanda, the Cotati surrendered and were apprehended by the Alliance. The Kree/Skrull coallition was cemented, as well as Hulkling's role as a proper king instead of a figurehead.{{r|Empyre Vol 1 6}} In the aftermath of the war, Hulkling and Wiccan redid their wedding in the Alliance's flagship with a royal celebration, and Billy was formally inducted into the Alliance as prince consort and court wizard.{{r|Empyre: Aftermath Avengers Vol 1 1}}
+
+===The Last Annihilation===
+[[Throneworld II]] was under attack by [[Mindless Ones]] sent by [[Dormammu]]. The Emperor sent out a distress signal to several organizations including [[Alpha Flight (Earth-616)|Alpha Flight]]. Unknown to him, it was intercepted by [[Abigail Brand (Earth-616)|Brand]] in hopes that him owing her a favor would keep their alliance strong when he eventually found out about the death of his [[Wanda Maximoff (Earth-616)|mother-in-law]].{{r|S.W.O.R.D. Vol 2 7}}
+
+| Powers                  = Teddy is a hybrid of both [[Kree]] and [[Deviant Skrulls|Skrull]]. As a result, Hulkling has inherited powers and abilities from each race, though some are more potent due to his hybrid nature. Hulkling's alien physiology also protects him from being manipulated by pheromone-based powers, such as those of Daken.{{r|Dark Reign: Young Avengers Vol 1 5}}
+* '''[[Superhuman Strength]]''': Hulkling is much stronger than an average human, and stronger than even most Krees are because of his partial Skrull background. His top strength is unknown, though it is likely that he can lift at least 75 tons but no more than 100 tons.
+* '''[[Superhuman Durability]]''': Hulkling's skin can become much denser and thicker than any normal human's, giving him a very strong resistance to pain and injury. He is able to withstand great impact forces, such as falls from great heights, repeated bludgeoning from superhumanly strong beings, and powerful energy blasts without sustaining injury. High caliber bullets and bladed weapons are also unable to pierce his skin.
+* '''[[Superhuman Stamina]]''': Due to his partial Kree heritage and recuperative powers, it is likely that Hulkling possesses greater stamina than any ordinary human.
+[[File:Theodore Altman (Earth-616) from Young Avengers Presents Vol 1 3 002.jpg|thumb|right|300px|Hulkling shapeshifting into Wiccan]]
+* '''[[Shape-shifting|Shape-Shifting]]''': Hulkling is a shapeshifter of remarkable ability. While he most commonly shifts into a teenaged version of the [[Bruce Banner (Earth-616)|Hulk]], he has also been known to impersonate well-known superheroes such as the [[Jonathan Storm (Earth-616)|Human Torch]], [[Reed Richards (Earth-616)|Mister Fantastic]], and [[Anthony Stark (Earth-616)|Tony Stark]]. In the heat of battle — or of the moment — he has evidenced a less refined style of shapeshifting: growing claws, extending his reach and growing wings in a protoplasmic manner.
+** '''[[Flight]]''': Using his metamorphic powers, Hulking often grows wings strong enough to propel him into the air.
+** '''Subconscious Metamorphic Adaptation''': Hulkling has shown the (subconscious) ability to adapt his body depending on his situation at the time. One being his body shifting biomass to protect vital organs, while [[Cube Warden (Earth-616)|the Warden of The Cube]] was attempting to vivisect him.{{r|Civil War: Young Avengers and Runaways Vol 1 4}}
+[[File:Theodore Altman (Earth-616) from Civil War Young Avengers and Runaways Vol 1 4 001.jpg|thumb|left|Hulkling surviving vivisection]]
+* '''Regenerative Healing Factor''': Hulkling's ability to regenerate injured tissue and brain cells to an extraordinary degree. It is likely that this healing factor also makes him highly resistant to toxins and poisons, as well as immune to Earthly diseases.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = [[File:Theodore Altman (Earth-616) and William Kaplan (Earth-616) with Nega-Bands from Last Annihilation Wiccan & Hulkling Vol 1 1 001.jpg|thumb|right|The grooms with their wedding rings.]]
+'''[[Nega-Bands|Nega Wedding Rings]]''': Dorrek had some alliance scouts scavenge the detonation site of the [[Nega-Bombs|Nega Bomb]] that devastated Shi'Ar space decades prior. When they came back with the slagged remains of his fathers Nega Bands used to build the atrocious device. He had their remains fashioned into a pair of engagement rings which he would share with his husband Wiccan.{{r|Last Annihilation: Wiccan & Hulkling Vol 1 1}}
+*'''Matter Substitution:''' When the two choose to initiate the warping function, the rings enable their wearers to swap places between the wielders current destination. Allowing one to take the place of the other rings bearer and vice versa.{{r|Last Annihilation: Wiccan & Hulkling Vol 1 1}}
+| Transportation          = 
+| Weapons                 = '''[[Excelsior (Star-Sword)|Excelsior]]''': An alien sword belonging to the very first Kree/Skrull hybrid and Teddy's great ancestor Dorrek Supreme, it is a magical blade of unspeakable cosmic power that gives whosoever wields it; the right to rule all of space.{{r|New Avengers Vol 4 3}}
+
+| Notes                   = * Hulking and [[William Kaplan (Earth-616)|Wiccan]] are in a romantic relationship.
+* Teddy is the eldest child of [[Mar-Vell (Earth-616)|Captain Mar-Vell]], as [[Genis-Vell (Earth-616)|Genis-Vell]] and [[Phyla-Vell (Earth-616)|Phyla-Vell]] were artificially aged by their mother.
+[[File:Theodore Altman (Earth-616) from New Avengers Vol 4 11 001.jpg|thumb|right|300px|Explaining his codename]]
+* Hulkling chose his codename because he's part [[Hulk]] (green-skinned and super strong) and part changeling (shapeshifter).{{r|Young Avengers Vol 1 6}}
+** When Teddy first revealed his powers to Billy, Billy noted that Teddy is "like a small, little, baby mini-Hulk!"{{r|Last Annihilation: Wiccan & Hulkling Vol 1 1}}
+** Hulkling later explained his codename by saying ''"It's like '''changeling''' or '''Earthling''', I guess. But with more '''Hulk'''. Well, '''I''' think it's cool."''{{r|New Avengers Vol 4 11}}
+* In {{cl|Young Avengers Vol 1 3}} Teddy was sixteen years old
+| Trivia                  = 
+* Theodore "Teddy" Altman shares his human name with [[Wikipedia:Teddy Altman|Doctor Theodora "Teddy" Altman]] from [[Wikipedia:Grey's Anatomy|ABC's ''Grey's Anatomy'']]. [[Allan Heinberg]], the creator of the [[Young Avengers (Earth-616)|Young Avengers]], was one of the producers of ''Grey's Anatomy''.
+* Teddy once had a crush on his high school class president and basketball team captain, [[Greg Norris (Earth-616)|Greg Norris]]. Because of this crush, Teddy allowed Greg to convince him to engage in impersonating super-heroes for personal gain.{{r|Young Avengers Special Vol 1 1}}{{r|Last Annihilation: Wiccan & Hulkling Vol 1 1}}
+* When his powers first manifested, Teddy assumed he was a [[Homo superior|mutant]].{{r|Young Avengers Special Vol 1 1}}{{r|Young Avengers Vol 1 9}}
+* The [[Young X-Men (Earth-616)|Young X-Man]] [[Santo Vaccarro (Earth-616)|Rockslide]] has said he'd like to take on Hulkling.{{r|New X-Men Vol 2 34}}
+[[File:Theodore Altman (Earth-616), William Kaplan (Earth-616), Theodore Altman (Earth-721), and William Kaplan (Earth-721) from She-Hulk Vol 2 21 001.jpg|thumb|right|200px|Hulkling and Wiccan facing their [[Earth-721|Alpha]] counterparts]]
+* [[Dorrek VIII (Earth-721)|Hulking]] was shown to be a member of the [[50-State Initiative (Earth-616)|Initiative]], along with [[William Kaplan (Earth-721)|Wiccan]].{{r|Avengers: The Initiative Vol 1 1|2}} However, it was later revealed most of the Young Avengers did not actually join The Initiative or even register. They were registered by their [[Earth-721|Earth-A]] counterparts; both Wiccan and Hulking were seen complaining about being registered to their "A Selves".{{r|She-Hulk Vol 2 21}}
+* His favorite milkshake flavor is strawberry.{{r|Young Avengers Vol 2 2}}
+* At the age of nine, Teddy was a fan of the Japanese video game franchise ''Pokémon''.{{r|Young Avengers Presents Vol 1 2}}
+* Teddy is a fan of George R.R. Martin's ''A Song of Fire and Ice'' book series, as well as its TV series adaptation ''Game of Thrones'', and Tyrion Lannister is his favorite character.{{r|Young Avengers Vol 2 3}}
+* Teddy attended Episcopal school for six years and has memorized several Bible verses.{{r|Avengers: The Children's Crusade Vol 1 1}} However, his current religious preference and affiliation is unknown. After the death of his [[Mary-Jo Altman (Earth-616)|"mother"]], Teddy had her body cremated and spread her ashes, which is a typical, although not exclusively, Christian rite.{{r|Young Avengers Vol 1 12}}
+* There is some discrepancy about what Hulkling's "mother" told him about his father's death:
+** In {{cl|Young Avengers Vol 1 9}}, Hulkling told his teammates his father died of cancer before he was born. It should also be noted that [[Mar-Vell (Earth-616)|Mar-Vell]] did, in fact, die from cancer.{{r|Death of Captain Marvel Vol 1 1}}
+** In {{cl|Young Avengers Presents Vol 1 2}}, when meeting [[Khn'nr (Earth-616)|"Captain Marvel"]], Teddy said he had believed his father was killed in an automotive accident.
+* In {{cl|Young Avengers Presents Vol 1 2}}, Teddy met a man he believed was [[Mar-Vell (Earth-616)|Mar-Vell]], but who was actually a [[Skrull]] sleeper agent [[Khn'nr (Earth-616)|Khn'nr]]. However, Khn'nr was programmed with the real Captain Marvel's memories and genetics, causing him to believe he truly was Mar-Vell. Teddy eventually learned the truth about Khn'nr.{{r|Lords of Empyre: Emperor Hulkling Vol 1 1}}
+* Teddy's biggest fear is fighting Wiccan.{{r|Death's Head Vol 2 3}}
+* Teddy is a morning person.{{r|War of the Realms: War Scrolls Vol 1 2}}
+| Wikipedia               = Hulkling
+| Links                   = * [https://gayleague.com/hulkling/ Hulkling - GAY LEAGUE]
+}}
+[[ru:Теодор Альтман (616)]]
+[[Category:Homosexual Characters]]
+[[Category:Shapeshifters]]
+[[Category:Regeneration]]
+[[Category:Skrull Royal Family]]
+[[Category:Maximoff Family]]
+[[Category:Avengers Fail-Safe Program recruit]]
+[[Category:Flight]]
+[[Category:Stretching]]
+[[Category:Crown Heirs]]
+[[Category:Skrull/Kree Hybrids]]
+[[Category:Vell Family]]
+[[Category:Time Travelers]]

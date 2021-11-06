@@ -1,0 +1,56 @@
+{{Marvel Database:Character Template
+| Image                   = Stygorr (Earth-616) from Fantastic Four Vol 1 231 cover 001.jpg
+| Name                    = Stygorr
+| NameRef                 = {{r|FF: Fifty Fantastic Years #1}}
+| CurrentAlias            = 
+| Aliases                 = The Nightlord; Lord of Sub-Space
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = {{cl|FF: Fifty Fantastic Years #1}}
+| Gender                  = Male
+| Height                  = 7'4"
+| Weight                  = 280 lbs
+| Eyes                    = Violet
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = [[Alien]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = 
+| Citizenship             = 
+| Occupation              = Self-proclaimed ruler
+| Education               = 
+| BaseOfOperations        = [[Distortion Zone]]
+
+| Creators                = Doug Moench; Doug Moench; Roger Stern; Bill Sienkiewicz; Jerome Moore
+| First                   = Fantastic Four #231
+| Death                   = Fantastic Four #231
+
+| History                 = Stygorr is a warlord of the [[Distortion Zone]], the world between Earth and the [[Negative Zone]], his past history and origins are unknown. When the [[Fantastic Four (Earth-616)|Fantastic Four]] battled the negative energy being known as the [[Xanth (Earth-81049)|Ebon Seeker]], they were forced to transport their [[Baxter Building]] headquarters and the surrounding block into the Negative Zone in order to save the Earth, leaving them stranded and scrambling to find a way back to their native universe.{{r|Fantastic Four #230}} Detecting these intruders, Stygorr was determined to destroy them as a show of power, seeking to rival the Negative Zone's ruler [[Annihilus (Earth-616)|Annihilus]] and his rival [[Blastaar (Earth-616)|Blastaar]].  He began attacking the floating city block, threatening to compromise the energy barrier that protected the positive matter within from been destroyed by the anti-matter without. This led to a clash with the Fantastic Four's [[Reed Richards (Earth-616)|Mister Fantastic]] and the [[Benjamin Grimm (Earth-616)|Thing]]. But the pair were no match for Stygorr's powers, and fought for their lives.{{r|Fantastic Four #231}}
+
+While this was occurring, a group of New Yorkers inadvertedly transported along with them were inflamed into a riot by demolition foreman Lew Shiner. Shiner, more concerned with a building demolition project being finished on time, believed that their trip into the Negative Zone was an intentional experiment conducted by Reed Richards, and sought to force the Fantastic Four to return them home, unaware of how grave their situation was. When the FF forced the rioters back, Reed determined the best way to get back home was to detonate the section of city block with the derelict building slated for destruction, the force of the explosion pushing them through the Negative Zone's distortion area and returning them home. To this end, they used TNT from the construction site and after the [[Susan Storm (Earth-616)|Invisible Girl]] used her powers to break off the portion of the city block containing the expendable building after it was rigged to explode. Unknown to all, Shiner was hiding out within the building plotting his next move. All the while Stygorr continued to bombard the energy barrier around the block. When the building was unmoored, Shiner was knocked free and crashed into Stygorr. The two were being forcefully merged together due to their conflicting natures, but before the merger could be completed, the explosives went off, seemingly destroying Stygorr and Shiner in the process.{{r|Fantastic Four #231}} 
+
+Although the Fantastic Four have been leery of a potential encounter with Stygorr during their next venture into the Negative Zone,{{r|Fantastic Four #251}} he has yet to resurface.
+
+| Powers                  = 
+* '''Energy Blast''': Stygorr can alter his bodily substance from positive to anti-matter creating a blast of energy.{{r|Fantastic Four #231}}
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * [http://www.marvunapp.com/Appendix6/stygorrff.htm Stygorr at the Marvel Appendix]
+}}
+[[Category:Negative Zoner]]

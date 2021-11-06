@@ -1,0 +1,34 @@
+{{Marvel Database:Team Template
+| Image                   = Twisted Sisters (Earth-616) from X-Men Vol 2 105 001.jpg
+| Name                    = Twisted Sisters
+| Aliases                 = 
+
+| Status                  = 
+
+| Identity                = 
+| Reality                 = Earth-616
+| BaseOfOperations        = [[Shadow City]], [[Negative Zone]]
+
+| Leaders                 = [[Helix (Negative Zone) (Earth-616)|Helix]]
+| CurrentMembers          = [[Coil (Earth-616)|Coil]]; [[Gyre (Twisted Sisters) (Earth-616)|Gyre]]; [[Ringlet (Earth-616)|Ringlet]]; [[Torque (Twisted Sisters) (Earth-616)|Torque]];
+| FormerMembers           = 
+| Allies                  = 
+| Enemies                 = [[Fantastic Four (Earth-616)|Fantastic Four]]; [[X-Men (Earth-616)|X-Men]];
+
+| Origin                  = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Chris Claremont
+| First                   = Fantastic Four Vol 3 17
+| Last                    = 
+
+| HistoryText             = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

@@ -1,0 +1,52 @@
+{{Marvel Database:Character Template
+| Image                   = Soul-Skinner (Earth-616) from X-Men Vol 2 18.jpg
+| Name                    = 
+| CurrentAlias            = Soul Skinner
+| Aliases                 = Skinner of Souls
+
+| Affiliation             = 
+| Relatives               = Oskana (daughter, deceased), unnamed mother (deceased)
+| MaritalStatus           = Widowed
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo Superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = Russian
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = [[Siberia]]
+
+| Creators                = Fabian Nicieza; Andy Kubert
+| First                   = X-Men Vol 2 17
+| Death                   = X-Men Vol 2 19
+
+| History                 = 
+
+| Powers                  = Able to psionically attack and kill others; however his ability does not seem to affect children.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = [http://www.rayeye.nl/ Ocean X]
+}}
+[[Category:Telepaths]]
+[[Category:Deceased Characters]]

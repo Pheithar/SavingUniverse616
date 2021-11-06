@@ -1,0 +1,294 @@
+{{Marvel Database:Character Template
+| Image                   = Reed Richards (Earth-616) from Fantastic Four Vol 6 25 cover 001.jpg
+| Name                    = [[Reed Richards|Dr. Reed Richards]]
+| CurrentAlias            = [[Mister Fantastic]]
+| CurrentAliasRef         = 
+| Codenames               = [[Man in the Mystery Mask]],{{Citation}} [[Scion]]{{r|Fantastic Four Vol 6 35}}
+| EditorialNames          = 
+| Nicknames               = Brain-Box,{{r|Fantastic Four Vol 1 554}} Brains,{{r|Secret Invasion #7}} The Explorer,{{r|Mighty Avengers #30}} Mr. F,{{r|Cable & Deadpool Vol 1 50}} Mr. Look-At-Me-I'm-So-Fantastic,{{r|Sensational Spider-Man Vol 2 35}} [[w:c:dc:Patrick O'Brian (New Earth)|Plastic Man]],{{r|Marvel Comics Presents Vol 2 2}} [[Stretch]]{{r|Fantastic Four #23}}
+| Impersonations          = [[Doctor Doom]],{{r|Fantastic Four Vol 3 #26}} [[Invincible Man]],{{r|Fantastic Four #196}} [[Nathaniel Richards]]{{r|Fantastic Four Vol 6 35}}
+| Aliases                 = [[Big Brain]],{{r|Fantastic Four #262}} Doctor Fantastic,{{r|Marvel Comics Presents Vol 2 2}} Doctor Richards{{r|Heroes for Hire Vol 2 2}} Mr Elastic,{{Citation}} Mr. Fantastical,{{r|Cable & Deadpool Vol 1 50}} Professor Richards,{{r|Civil War: Front Line Vol 1 3}} Reed Benjamin,{{r|Fantastic Four #276}} The Rubber Man{{r|Secret Invasion #7}}
+| Identity                = Public
+| Affiliation             = {{m|Fantastic Four}} (founder and leader); formerly {{m|Future Foundation}}, {{m|50-State Initiative|Initiative}}, {{m|Illuminati}} (founder), {{m|Avengers}}, {{m|Defenders}}, [[Interdimensional Council of Reeds (Multiverse)|Interdimensional Council of Reeds]][[Category:Interdimensional Council of Reeds (Multiverse)/Members]], {{m|Knights of the Atomic Round Table}}, {{m|Headbangers}}
+| Grandparents            = [[John Richards (Earth-616)|John Richards]] (paternal grandfather);<br>
+[[Laura Richards (Earth-616)|Laura Richards]] (paternal grandmother, presumed deceased){{r|1939 Daily Bugle Vol 1 1}}
+| Parents                 = [[Nathaniel Richards (Earth-616)|Nathaniel Richards]] (father);<br>
+[[Evelyn Richards (Earth-616)|Evelyn Richards]] (mother, deceased);<br>
+[[Cassandra Richards (Earth-6311)|Cassandra Richards]] (stepmother, deceased)
+| Siblings                = [[Warlord's Son (Richards) (Earth-6311)|unnamed paternal half-brother]];<br>
+[[Tara Richards (Earth-6311)|Tara Richards]] (paternal half-sister);<br>
+[[Kristoff Vernard (Earth-616)|Kristoff Vernard]] (alleged paternal half-brother)
+| Spouses                 = [[Susan Storm (Earth-616)|Sue Storm]] (wife)
+| Children                = [[Franklin Richards (Earth-616)|Franklin Richards]] (son);<br>
+[[Valeria Richards (Earth-616)|Valeria Richards]] (daughter)
+| Relatives               = [[Ted Richards (Earth-616)|Ted Richards]] (paternal uncle, deceased);<br>
+[[Franklin Storm (Earth-616)|Franklin Storm]] (father-in-law, deceased);<br>
+[[Mary Storm (Earth-616)|Mary Storm]] (mother-in-law, deceased);<br>
+[[Jonathan Storm (Earth-616)|Johnny Storm]] (brother-in-law);<br>
+[[Hamish Richards (Earth-616)|Hamish Richards]] (first cousin);<br>
+[[Angus Richards (Earth-616)|Angus Richards]] (first cousin once removed);<br>
+[[Automatic-Neuro-Robot in charge of Tidying-Up with Increased Efficiency (Earth-616)|A.U.N.T.I.E.]] (creation);<br>
+[[Highly Engineered Robot Built for Interdimensional Exploration (Earth-616)|H.E.R.B.I.E.]] (creation);<br>
+[[Hyper-Ultronic Brain Employing Randomized Tracings (Earth-616)|H.U.B.E.R.T.]] (creation);<br>
+[[Venom (Symbiote) (Earth-616)|Venom]] (former symbiote){{r|Spider-Man / Fantastic Four Vol 1 2}}
+| Reality                 = Earth-616
+| BaseOfOperations        = [[4 Yancy Street]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]; formerly [[Pier 4]], [[Manhattan]]; [[Antarctica|Antarctic]] lab; [[Four Freedoms Plaza]], [[Manhattan]]; [[Baxter Building]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]
+
+| Gender                  = Male
+| Height                  = 6'1"; Variable
+| Weight                  = 180 lbs
+| Eyes                    = Brown
+| Hair                    = Brown; White (at his temples)
+| UnusualFeatures         = When asleep, parts of Mr. Fantastic's body relaxes to the point where they "sag."
+
+| Citizenship             = American
+| MaritalStatus           = Married
+| Occupation              = Scientist, adventurer, formerly cosmic being
+| Education               = Reed attended such prestigious universities such as the California Institute of Technology, Harvard University, Columbia University, and State University, acquiring multiple scientific doctorates in fields such as engineering, math, and physics. He has claimed to have 18 Doctorates.{{r|Marvel Comics Presents Vol 2 2}}
+| Origin                  = [[Homo sapiens|Human]] [[Glossary:Mutate|mutated]] via exposure to [[Glossary:Cosmic Radiation|cosmic rays]]
+| PlaceOfBirth            = [[Central City]], [[California (State)|California]]
+| Creators                = Stan Lee; Jack Kirby
+| First                   = Fantastic Four #1
+
+| Quotation               = I learned that the difference between living and dying is managing fear. Not being afraid so afraid of losing the things you love that you hold them too tight. I used to believe in universal contraction. Entropy and the end of all things. Well, I changed my mind. I'm letting go. Because now I believe in expansion. I believe we endure. Don't you see? Everything lives.
+| Speaker                 = [[Reed Richards (Earth-616)|Mister Fantastic]]
+| QuoteSource             = Secret Wars Vol 1 9
+
+| Overview                = '''Dr. Reed Richards''' is a scientist and inventor, better known as Mister Fantastic, who has been considered the smartest [[Homo sapiens|man]] on [[Earth]].{{r|Fantastic Four #580}} He is a [[Wikipedia:Polymath|polymath]] with mastery of all the sciences including; electrical, mechanical, aerospace engineering, electronics, chemistry, physics, biology and beyond.{{r|Fantastic Four: Unplugged #2}} Richards was exposed to high levels of [[Glossary:Cosmic Radiation|cosmic radiation]] along with his best friend [[Benjamin Grimm (Earth-616)|Ben Grimm]], then girlfriend [[Susan Storm (Earth-616)|Sue Storm]] and her younger brother [[Jonathan Storm (Earth-616)|Johnny Storm]], during a trip to space in the stolen rocket, the ''[[Marvel-1]]''. The radiation mutated him and his friends, allowing him to stretch and mold his body at will.{{r|Fantastic Four #1}} Together they became the [[Fantastic Four (Earth-616)|Fantastic Four]], a team of adventurers who explored [[Glossary:Space|space]], [[Glossary:Time|time]] and [[Glossary:Dimension|alternate dimensions]] and saved the world along the way from science-based threats.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 7}}
+
+| History                 = <center>''This is an abridged version of Reed Richards' history. For a complete history see '''[[Reed Richards (Earth-616)/Expanded History|Reed Richards' Expanded History]]'''''</center>
+
+===Early Years===
+Reed Richards was born in [[Central City]], [[California (State)|California]] the only son of wealthy physicist [[Nathaniel Richards (Earth-616)|Nathaniel Richards]] and his wife [[Evelyn Richards (Earth-616)|Evelyn]], was a child prodigy with special aptitude in mathematics, physics, and mechanics. Evelyn died when Reed was seven.{{r|Fantastic Four: Unplugged #2}}
+
+===Education===
+Nathaniel encouraged and guided young Reed in his scientific studies, and Reed was taking college-level courses. Reed entered college at fourteen at [[California Institute of Technology|CalTech (California Institute of Technology)]].{{r|Official Handbook of the Marvel Universe Vol 1 7}} He also attended [[Harvard University]]{{r|Official Handbook of the Marvel Universe Vol 1 7}} and [[Massachusetts Institute of Technology|M.I.T.]].{{Citation}} He studied abroad at the [[University of Vienna]] in [[Austria]]. It is their he met fellow "super-genius" [[Alyssa Moy (Earth-616)|Alyssa Moy]].{{r|Fantastic Four #555}} By the time he was eighteen, he had obtained four degrees in fields such as engineering, math, and physics.{{r|Official Handbook of the Marvel Universe: Fantastic Four 2005 Vol 1 1}}
+
+It was when he was working on his fifth at [[State University (Hegeman)|State University]] in [[Hegeman]], [[New York (State)|New York]], that Reed Richards first met two of the most important individuals in his life. He was assigned to room with a foreign student, a scientific genius named [[Victor von Doom (Earth-616)|Victor von Doom]]. The imperious Von Doom, taking an immediate dislike to Richards, decided to take other quarters. Instead, Richards gained as his roommate former high school football star [[Benjamin Grimm (Earth-616)|Benjamin J. Grimm]], who became Richards’ closest friend. Richards was already intending to build a starship for interstellar travel. When he told his ambitions to Grimm, Grimm jokingly said that he would pilot the starship for Richards someday.{{r|Fantastic Four Annual #2}}
+
+While attending State University, Richards rented living quarters at the [[Manhattan]] boarding house owned by the aunt of a young woman named [[Susan Storm (Earth-616)|Susan Storm]].{{r|Fantastic Four Vol 1 291}}{{r|Thing Vol 1 2}}{{r|Fantastic Four Vol 4 4}} Reed instantly fell in love with Sue, although he soon deemed it prudent to move out, because he was too distracted from his work due to his romance with Sue.{{r|Fantastic Four Vol 4 4}}
+
+Doom became obsessed with developing a machine that could project the astral form of a being into other dimensions. Reed pointed out a flaw in Doom's calculations, but Doom arrogantly ignored his warning, feeling that Reed was trying to upstage him. The machine exploded, scarring Doom's face. He was soon expelled for conducting unethical experiments. As Doctor Doom, von Doom would later become Richards’ greatest rival and enemy.{{r|Fantastic Four #5}}{{r|Fantastic Four Annual #2}} Doom blamed Reed for his deformities and he continually tried to prove himself superior to Reed, especially intellectually. They battled many times, but Reed almost always emerged triumphantly.{{r|Fantastic Four #5}}{{r|Fantastic Four Annual #2}}{{r|Fantastic Four Special #1}} Reed and Ben later served in the military together. Their time in war increased their trust in each other.{{r|Fantastic Four #11}}
+
+Three years before Reed Richards tested his starship, his father mysteriously disappeared. In fact, Nathaniel Richards had devised a time machine which he had used to attempt to journey into the future of his own world. However, the machine actually transported him to an alternate Earth with a history considerably different from their own. Reed Richards would be reunited with him while visiting this alternate Earth years later. Before Nathaniel Richards left his own time, he made arrangements that left two billion dollars to his son. Reed Richards spent most of the money on his project to build and launch his starship. This project, based in [[Central City]], [[California (State)|California]], received further funding from the federal government.{{r|Fantastic Four #1}}{{r|Fantastic Four #271}}
+
+===Fantastic Four===
+Richards recruited his old friend Ben Grimm, who had become a successful test pilot and astronaut, to pilot the starship, which was named the ''[[Marvel-1]]''. Richards was joined in California by Susan Storm. Richards and Storm were dating at the time.{{r|Fantastic Four #1}} Shortly before the starship was to be launched, Richards used his scientific knowledge to defeat the extraterrestrial being [[Gormuu (Earth-616)|Gormuu]], who had intended to conquer Earth. Richards’ encounter with Gormuu strengthened his resolve to finish the starship, which he saw as a first step for mankind to defend itself from extraterrestrial threats.{{r|Fantastic Four #271}}
+
+However, the federal government then threatened to withdraw its funding from the project. Richards decided to take the ''Marvel-1'' on a test flight himself before the funding was withdrawn. Grimm was opposed to the idea, warning that the starship's shielding might prove inadequate protection from the intense radiation storms. Nevertheless, Grimm was persuaded to serve as pilot, and Susan Storm and her adolescent brother [[Jonathan Storm (Earth-616)|Johnny]] insisted on accompanying Richards as passengers. The four friends stole onto the launch facility, entered the starship, and blasted off. They intended to travel through hyperspace in the ship to another solar system and back in order to convince the government to reconsider. However, when the ship passed through a [[Glossary:Cosmic Radiation|cosmic ray]] storm, it was met with an unexpected level of intensity. Since the ship was designed to shield against ordinary levels of radiation, the cabin volume was subjected to intense cosmic ray bombardment which irradiated the four passengers and wrought havoc on the ship's controls. Pilot Grimm was forced to abort the flight and return to Earth.
+
+Once back on Earth, the four passengers discovered that the cosmic radiation had triggered mutagenic changes in their bodies. Reed Richards discovered that his body had become malleable and that he now had the ability to elongate his body at will. Richards convinced the others that the four of them should use their new-found powers for the good of humanity as members of a team he named the [[Fantastic Four (Earth-616)|Fantastic Four]]. Richards, who became the team’s leader, named himself Mister Fantastic, while Ben Grimm, Susan Storm, and Johnny Storm named themselves the Thing, the Invisible Girl (later the Invisible Woman), and the Human Torch, respectively.{{r|Fantastic Four #1}} The profits from Richard's patents and royalties funded the team's activities.
+
+Under Richards’ leadership the Fantastic Four has become Earth’s most honored team of superhuman adventurers, and has saved the world from conquest or destruction many times. Richards proposed to{{r|Fantastic Four #35}} and eventually married Susan Storm in a wedding ceremony attended by most of the world's heroes,{{r|Fantastic Four Annual #3}} and they had a son, [[Franklin Richards (Earth-616)|Franklin]].{{r|Fantastic Four Annual #6}}
+
+Franklin proved to be a vastly powerful [[Homo superior|mutant]] whose fluctuating abilities have alternately saved or menaced both the Fantastic Four and the world, forcing Reed to take steps to contain Franklin's powers. On one such occasion, Franklin's mind was temporarily shut down. An outraged Sue, already resentful of Reed at this point because she felt that he did not regard her as an equal, left her husband and quit the team. She was replaced in the Fantastic Four for an extended period by [[Medusalith Amaquelin (Earth-616)|Medusa]] of the [[Inhumans]], but Sue reclaimed her spot on the roster after she and Reed finally reconciled. However, Reed and Sue were separated.<ref>From the end of FF #130 until the end of FF #149</ref>
+
+A number of Earth's most powerful heroes -- Mister Fantastic, Doctor Strange, Black Bolt, Professor X, Iron Man, and Namor -- traveled to Skrullos to confront the Skrull King, informing him that the Earth was strictly off-limits. Upon arrival, however, the heroes were captured and experimented upon before they were able to escape. Mr. Fantastic would later blame himself for the Skrulls increased transforming powers. While the meeting predictably turned violent, the experience would provide the basis for the later establishment of the [[Illuminati (Earth-616)|Illuminati]]. The secretive group of Earth's most influential heroes would meet only a few times, and these, only to tackle events of extraordinary importance. Reed added the viewpoint and perspective of a scientist.{{r|New Avengers #7}}
+
+After losing his powers for a time, Reed was imprisoned and impersonated by the [[Reed Richards (Earth-1123)|Brute]], his then-criminally insane counterpart from the [[Herbert Wyndham (Earth-616)|High Evolutionary]]'s [[Counter-Earth (Earth-1123)|Counter-Earth]], who ultimately exiled himself to the [[Negative Zone]] after finally regaining his senses.
+
+The Fantastic Four even broke up for a while, during which time Doom hypnotized Reed into capturing his former teammates as the Invincible Man. The team regrouped after Reed took a solo space flight into the Van Allen radiation belts, guided by information from colleague Stephen Beckley (later [[Stephen Beckley (Earth-616)|Comet Man]]), regaining his powers at amplified levels, and the Fantastic Four foiled Doom's latest world-conquering plot. Later, seeking a more normal family life, Reed and Sue established a household in small town [[Belle Porte]], Connecticut for a while, living quietly in disguise there as the Benjamin family while continuing to serve with the Fantastic Four in their original identities.
+
+[[File:Fantastic Four Vol 1 200.jpg|left|200px|thumb]]
+After a conflict during which he mercifully spared the life of the planet-eater [[Galan (Earth-616)|Galactus]], Reed found himself placed on trial in an interstellar court by survivors of the many worlds Galactus had consumed; but Reed was exonerated once the last-minute testimony of [[Eternity (Earth-616)|Eternity]] proved to the court that Galactus was a necessary aspect of the cosmos.
+
+On the family front, Sue's second child was stillborn despite Reed's frantic efforts to save their unborn baby; Reed discovered that his own long-lost father Nathaniel was living a new life with a new family on Other Earth; and an embittered Thing quit the Fantastic Four, partly because a well-intentioned Reed had withheld information from him regarding the state of Ben's ability to resume human form, an ability Ben lost due in part to Reed's misinformation. Ben's hand-picked replacement, [[Jennifer Walters (Earth-616)|She-Hulk]], served a long stint with the Fantastic Four, but eventually left after Ben finally reconciled with the group and rejoined their ranks.
+
+During the period She-Hulk replaced The Thing as member of the Fantastic Four, the [[Venom (Symbiote) (Earth-616)|symbiote]] escaped from the [[Baxter Building]] with the help of [[Kristoff Vernard (Earth-616)|Kristoff Vernard]]. It possessed Reed briefly before deciding to use Franklin as its new host. The symbiote fought the Fantastic Four and Spider-Man until it managed to successfully possess Franklin, but the child was able to reject the symbiote thanks to his father and Spider-Man's help.{{r|Spider-Man / Fantastic Four Vol 1 2}}
+
+Seeking a more normal family life again, Reed and Sue retired from the Fantastic Four altogether to concentrate on raising Franklin, leaving Ben in charge of the group. To replace them, Ben recruited his friend [[Sharon Ventura (Earth-616)|Ms. Marvel]] (Sharon Ventura) and [[Crystalia Amaquelin (Earth-616)|Crystal]] (who had already served as Sue's substitute during and after Sue's first pregnancy); however, Reed and Sue's retirement was short-lived. After teaming with several Avengers to rescue a captured Franklin during a [[Inferno (Event)|demonic invasion]], Reed and Sue reluctantly agreed to join the [[Avengers (Earth-616)|Avengers]], who were critically short-handed at the time. But Reed was too accustomed to leadership himself to serve smoothly under [[Steven Rogers (Earth-616)|Captain America]] for long, so Reed and Sue amicably stepped down from active Avengers membership after only a few missions with the team. They later resigned their Avengers membership altogether after rejoining the Fantastic Four. They remained friends and allies to the Avengers, though.
+
+When Reed and Doom seemingly died{{r|Fantastic Four #394}} as a result of their conflict with the alien [[Hunger]], they were actually spirited away by the space-time-warping [[Jonathan Richards (Earth-967)|Hyperstorm]], mad son of an alternate-future Franklin Richards. Hyperstorm kept Doom as a tortured captive and trapped Reed in the distant past for months, during which time the world believed both Reed and Doom to be dead. In Reed's absence, Sue took over leadership of the Fantastic Four and served capably in the role, recruiting [[Scott Lang (Earth-616)|Ant-Man]] as the team's new scientist. However, she refused to believe Reed was truly dead, and she rebuffed romantic advances from [[Namor McKenzie (Earth-616)|Namor]]. Reed was eventually rescued.
+
+The entire Fantastic Four appeared to die in battle with the psychic monster [[Onslaught (Psychic Entity) (Earth-616)|Onslaught]]. Instead they (and the Avengers) found themselves on [[Counter-Earth (Heroes Reborn)|Counter-Earth]], in a pocket universe Franklin had created to save them. In a sense, they had been reborn and had to start their lives over.{{r|Fantastic Four Vol 2}} Once the heroes on Counter-Earth realized what had happened, they returned to their original homes.{{r|Heroes Reborn: The Return #1}}
+
+An even more surprising resurrection unfolded during the team's reality-warping conflict with the cosmic being [[Abraxas (Multiverse)|Abraxas]] when Franklin revealed he had used his powers to rescue Sue's seemingly stillborn second child years earlier, and that this child had been raised in an alternate future to become the [[Valeria von Doom (Earth-99315)|Marvel Girl]] (Valeria Von Doom) who was now an ally of the present-day Fantastic Four. As a side-effect of Abraxas's defeat, Marvel Girl was restored to her original state, as an unborn child in Sue's womb. This time, Sue's pregnancy resulted in the birth of a healthy baby girl, christened [[Valeria Richards (Earth-616)|Valeria]] in memory of Doctor Doom's first love. (Doom had insisted on naming the child in exchange for assisting with the difficult birth.) Later, Doom would exploit his special bond with the child to employ her as a mystical familiar, using sorcery to mount one of his most ruthless and terrifying attacks on the Fantastic Four ever.
+
+In the end, Doom was taken by his own demonic benefactors, but not before he hideously disfigured Reed's face as a petty parting gesture. Physically and emotionally scarred, Reed led the Fantastic Four into Doom's now-leaderless [[Latveria]], where he worked obsessively to dismantle Doom's regime, neutralize his arsenal, erase Doom's legacy and create a better state, becoming increasingly tyrannical himself in the process and ignoring threats of international criminal charges from the [[United Nations]]. At the same time, unknown even to his teammates, Reed was secretly plotting to retrieve Doom from Hell and place him in a specially prepared other-dimensional prison from which he could never escape; but this transfer was unwittingly interrupted by the rest of the Fantastic Four, allowing Doom to escape long enough to kill the Thing.
+
+[[File:Reed Richards (Earth-616) from Fantastic Four Vol 1 570 0002.png|right|200px|thumb]]
+Devastated, the remaining Fantastic Four returned to America, where their standing with the authorities and their reputation with the general public had taken a terrible beating due to the Latverian controversy. The Fantastic Four broke up, Reed and Sue split up, and Reed was even forced to sign over most of his patents to the government as part of a deal to escape prosecution. However, Reed was certain that Ben could be resurrected. He convinced Sue and Johnny to join him in this quest, which ultimately led them to the gates of Heaven itself using a modified model of Doom's old afterlife machine. Persuaded it was not yet his time, Ben agreed to return to the land of the living with his friends-and the Creators allowed it, even healing Reed's facial scars as a parting gift. With the Fantastic Four back together, Reed led them in rebuilding their reputations and their finances. For a time, he also steered the team into taking on more conventional civilian occupations as life experience; but his chief goals continued to be raising a family, protecting humanity and seeking knowledge in all corners of the universe and beyond.
+
+===Civil War===
+During the [[Civil War (Event)|Civil War]], Reed Richards was one of the leading figures, along with [[Anthony Stark (Earth-616)|Iron Man]], on the side favoring the [[Superhuman Registration Act]]. Reed's true motive for supporting the registration act was due to his development of a working version of Isaac Asimov's (fictional) [[wikipedia:psychohistory (fictional)|Psychohistory]] concept. His application of this science indicated to him that billions would die in escalating conflicts without the presence of the act.{{r|Fantastic Four #542}} He speculated that this would lead to conflict with his wife, which came true when a [[Thor (Clone) (Earth-616)|clone of Thor]], created by him and Iron Man, lost control, killed [[William Foster (Earth-616)|Goliath]] and nearly killed all the rest of the [[Secret Avengers (Earth-616)|Secret Avengers]] as well until Sue stepped in and saved them.{{r|Civil War #4}}
+[[File:Reed Richards (Earth-616) Peter Parker (Earth-616) Civil War Vol 1 7.png|thumb|left]]
+Soon after, Sue left Reed, along with Johnny, to join the Secret Avengers in hopes that it would drive Reed to end the conflict quickly. In the final battle of the war, Reed was shot by [[Anthony Masters (Earth-616)|Taskmaster]] as he was saving Invisible Woman's life.{{r|Civil War #7}} He survived, however, and Sue returned to him in the aftermath of the battle, having been granted amnesty. With their marriage in jeopardy, Reed and Sue agreed to “take a break” from the Fantastic Four to focus on each other. While away on a second honeymoon Reed asked [[T'Challa (Earth-616)|The Black Panther]] and [[Ororo Munroe (Earth-616)|Storm]] to take their places on the team.{{r|Fantastic Four #543}}
+[[File:Criti Noll (Clone) (Earth-616) and Reed Richards (Earth-616) and Secret Invasion Vol 1 1 0001.jpg|thumb|left|Betrayed by a [[Skrull]] disguised as [[Henry Pym (Earth-616)|Hank Pym]].]]
+
+===World War Hulk===
+Reed and Sue reunited with the Four when the [[Bruce Banner (Earth-616)|Hulk]] returned to Earth seeking revenge on the Illuminati.{{r|World War Hulk #1}} Reed was defeated and thrown into Madison Square Garden, which had been turned into a gladiatorial arena by the Hulk. Hulk implanted the Illuminati members with obedience discs and forced them to fight each other. However the Hulk spared them from being forced to kill each other, deciding that he had shown them and that he had proved his point to the world. They survived the encounter by Hulk's mercy and the timely intervention of the [[Robert Reynolds (Earth-616)|Sentry]], who weakened Hulk enough for Stark to use prototype defense satellites to negate the Hulk's powers.
+
+===Secret Invasion===
+Mister Fantastic was at the Illuminati's meeting discussing the threat of the Skrulls when the Black Bolt with them was revealed to be a Skrull in disguise.
+
+Mister Fantastic and [[Criti Noll (Clone) (Earth-616)|Hank Pym]] autopsy the body of the Skrull who impersonated [[Elektra Natchios (Earth-616)|Elektra]] (with Reed pretending to be seeing the corpse for the first time, thus keeping the secret of the Illuminati). After completing the dissection, Reed claimed to have discovered the secret of how the Skrulls have been able to conceal their identities. Before he could elaborate, "Hank Pym" revealed himself to be a Skrull and shot Richards with a weapon that violently left his elastic body in a state of chaotic disarray.{{r|Secret Invasion #1}}
+
+A conscious but still mostly shapeless Reed Richards was later forcibly stretched in all directions to cover the floor of a medium-sized arena aboard a Skrull ship, with all of the seats filled by Skrull onlookers. He was freed by [[Abigail Brand]], and then traveled with her to the [[Savage Land]] and used a device to reveal all the Skrull invaders present. After helping the Avengers to defeat the imposters and return to New York, Reed aided the heroes and villains of Earth in their battle against the Skrulls.{{r|Secret Invasion #4|6}}
+
+===The Bridge===
+Reed created a device called [[Bridge (Alternate Reality Viewer)|The Bridge]] to explore alternate realities. Meanwhile, Johnny, Sue, and Ben fought off the agents of [[H.A.M.M.E.R. (Earth-616)|H.A.M.M.E.R.]] Reed's machine sent Johnny, Ben and Sue to a different reality where a superhero Civil War was happening sometime in the Hyborian Age. Reed continued to study parallel worlds where the Civil War ended differently to find the reason his reality had become the way it was while Ben, Sue, and Johnny traveled throughout collapsed space-time. When Reed shut down the Bridge and the others returned, Sue told Reed to destroy The Bridge. He did so, but then secretly put it back together, and met beings from another reality who told him how he could fix things.{{r|{{cl|Dark Reign: Fantastic Four Vol 1 1}}-[[Dark Reign: Fantastic Four Vol 1 5|5]]}}
+
+===Future Foundation===
+[[File:Future Foundation.jpg|thumb|200px|Reed and the Future Foundation.]]
+After the Human Torch sacrificed himself to save the Baxter Building from the [[Annihilus (Earth-616)|Annihilus]]'s Annihilation Wave, the Fantastic Four disbanded. The Future Foundation started acting in its place.{{r|FF #1}}
+
+Due the presence of Reed Richards of alternate universes, Mr. Fantastic made an alliance with many villains such as Mad Thinker, AIM, Wizard, Diablo and High Evolutionary to plan how to stop them. Then they lead the battle to the High Evolutionary's city where one of the Richards escaped with Doctor Doom and the others two were captured by the Kree army. After returning to [[Baxter Building]], Richards reunited other heroes to fight the Inhumans in Attilan, but at the time they where preparing to go at the rooftop, a Kree invasion started. Reed used Iron Man's armor and Sue's power to create a force field around Manhattan, at the same time the [[Cult of the Negative Zone (Earth-616)|Cult of the Negative Zone]] opened the portal to the [[Negative Zone]] after [[Spider-Man (Peter Parker)|Spider-Man]] failed at stop them, the portal revealed a living Johnny Storm with a enslaved Annihilus.{{r|Fantastic Four #600}}
+
+Then Johnny gathered the team drawing with fire the symbolical "4" at the sky above the Baxter Building. Reed, Sue, Ben and Peter boarded one of the Annihilation Wave's ships controlled by Johnny, who used the rest of the ships to battle the Kree army until the Inhumans asked to finish them by their own hand.{{r|Fantastic Four #602}} Meanwhile the other heroes on Earth where dealing with the scraps of the battle which could damage the Earth, Reed and Sue summons Galactus, who destroys completely the Kree army. That moment, the [[Celestials#Mad Celestials .28Earth-4280.29|Mad Celestials]] appeared to destroy this universe. Although the team tried to use the Hub (a weapon of mass destruction created by the Reeds), they couldn't defeat the Mad Celestials. Then, a future version of [[Franklin Richards (Earth-10774)|Franklin]] and [[Valeria Richards (Earth-10774)|Valeria]] appeared as part of [[Nathaniel Richards (Earth-616)|Nathaniel Richards]]'s plan.{{r|Fantastic Four #603}} The Future Franklin used his power to heal Galactus and destroy the Mad Celestials, saving the day.{{r|Fantastic Four #604}} Later, the Baxter Building was easily rebuilt, Mr. Fantastic showed a new secondary headquarters called [[Foundation (Space Station)|Foundation]] and new costumes were given to the members of the Future Foundation, as part of the reformation of the Fantastic Four.{{r|FF #16}}
+
+===Voyagers===
+[[File:Fantastic Four (Earth-616) from Fantastic Four Vol 4 1 0001.jpg|thumb|250px|left|Reed's cells begin degenerating.]]
+After finding out that during one of their explorations he developed a sickness which caused the cells of his body to start degenerating, Reed decided to disguise a travel through time and space to find a cure as a family excursion.{{r|Fantastic Four Vol 4 1}}
+
+They discovered their sickness had been caused by an overload of their powers, as the abilities of an [[Earth-13266|alternate reality]] version of [[Fantastic Four (Earth-13266)|themselves]] had them stripped from them when trying to stop [[Victor von Doom (Earth-13266)|Doctor Doom]], who had conquered their Earth.{{r|Fantastic Four Vol 4 13}} After helping their depowered [[Fantastic Four (Earth-TRN379)|counterparts]] from that [[Earth-TRN379|alternate universe]] defeat [[Victor von Doom (Earth-13266)|Doom the Annihilating Conqueror]], the Fantastic Four re-stabilized their powers and returned home.{{r|Fantastic Four Vol 4 14|16}}
+
+===The Quiet Man===
+The Fantastic Four were systematically attacked by the mysterious [[Quiet Man (Earth-616)|Quiet Man]], a figure who revealed that he had been behind many of the villain attacks the FF have faced over the years, now stepping forward to take a more active role as he shut down Johnny's powers, framed the Thing for murder, had Reed and Sue Richards declared unfit guardians for their children, and then abducted Reed with the intention of framing him for a series of attacks committed by the heroes created in Franklin's pocket universe. However, Reed was able to defeat the Quiet Man's plan to proclaim himself the hero who defeated Reed's 'attack' on the world when he realized that the [[Psycho-Man]] -- one of the Quiet Man's allies -- intended to betray him, forcing Reed and the Quiet Man to work together to deactivate the Psycho-Man's equipment.
+
+===Time Runs Out===
+Reed had returned to form part of the [[Illuminati (Earth-616)|Illuminati]] with the presence of a new threat: the [[Glossary:Incursion|Incursions]],{{r|New Avengers Vol 3 1}} events in which universes collided with their respective planet Earths as the focal point, and the only way to prevent the death of one's own Earth was to destroy the colliding one,{{r|New Avengers Vol 3 2}} for which the Illuminati had to prepare themselves to do "the unthinkable," destroy an innocent planet.{{r|New Avengers Vol 3 7}}
+
+Soon after being forced to confront a colliding Earth inhabited by [[Great Society (Earth-4290001)|noble heroes]],{{r|New Avengers Vol 3 18}} an event after which none of the Illuminati were willing to destroy that Earth, Namor decided to take matters to his hands and do it.{{r|New Avengers Vol 3 21}}
+
+After [[Steven Rogers (Earth-616)|Captain America]] discovered the Illuminati's activities regarding the possible destruction of worlds,{{r|Avengers Vol 5 29}} he decided that the Illuminati's actions shouldn't be tolerated, and disposed the Avengers to hunt them down.{{r|Avengers Vol 5 34}}
+
+While on the run, the Illuminati attempted to find numerous times a way to solve the problem of Incursions, from trying to create a new Earth with a Cosmic Cube and then with Franklin Richards' powers, to asking for help to the Celestials. However, all of their plans failed.{{r|New Avengers Vol 3 29}} After setting a trap to Steve Rogers and his forces,{{r|Avengers Vol 5 39}}{{r|New Avengers Vol 3 28}} both parties managed to reach a middle ground{{r|Avengers Vol 5 40}} and started working together.{{r|Avengers Vol 5 41}}
+
+===Secret Wars===
+Reed and the Future Foundation began working on vessels capable of surviving the imminent destruction of the [[Multiverse]].{{r|Free Comic Book Day Vol 2015 Secret Wars}} When the final incursion took place between [[Earth-616]] and [[Earth-1610]], Mister Fantastic gathered in the life raft every person he could and deployed its measures. When the vessel approached the central point of the incursion, it suffered a hull breach that led to the death of Reed's family.{{r|Secret Wars #1}}
+
+The life raft reached its destination, whatever thing which was left of the [[Multiverse]], namely [[Battleworld (Latverion)|Battleworld]], a patchwork planet composed of the remnants of different realities, created by Doctor Doom, who had seized the power of the [[Beyonders]] as his own.{{r|Secret Wars #2}} The raft was found five years after Battleworld's creation by [[Stephen Strange (Earth-616)|Stephen Strange]], the sheriff of this planet and right hand to Doom, who kept it hidden in his sanctuary, the [[Isle of Agamotto]], fearing something of great consequence was inside it, but not knowing it was the bodies in stasis of the few other survivors of Earth-616.
+
+[[File:Secret Wars Vol 1 9 Textless.jpg|thumb|right]]
+With the public discovery of another similar vessel, which was revealed to contain the survivors of [[Earth-1610]], the [[Reed Richards (Earth-1610)|Maker]] and the [[Cabal (Namor's) (Earth-616)|Cabal]], Strange investigated the one he had found, and freed Mr. Fantastic and the other survivors. After learning about Battleworld, Reed immediately opposed the idea of such a man as Doom governing everything that was left of reality,{{r|Secret Wars #3}} and began working together with the Maker, Reed's own counterpart from Earth-1610, to bring him down.{{r|Secret Wars #6}}
+
+When discord arose in Battleworld as a consequence of the Cabal's meddling, Mr. Fantastic and the Maker infiltrated Doom's castle in [[Doomstadt]] while the God Emperor was dealing with the marching forces that opposed him.{{r|Secret Wars #8}} Mr. Fantastic and the Maker came across an alternate version of Sue Storm who was married to Doom and had his children, realizing that Doom had basically stolen his life. The two Reeds soon came across the [[Owen Reece (Earth-616)|Molecule Man]], the source of Doom's power.
+
+After discovering Richards' meddling, Doom confronted him, but as he wished to make the fight fair, the Molecule Man reduced his powers. During a furious battle, Doom accused Richards of believing he could've done better had he had Doom's power, and when Reed conceded he did, so did Doom. On the grounds that both agreed, Molecule Man gave his power to Reed, destroying Battleworld in the process. With the power of a god in his hands, Reed rebuilt Earth-616, bringing all of its inhabitants back with no memories of what had occurred. Mr. Fantastic also brought his family back from the dead, and together with their help, began to reconstruct the entire [[Multiverse]].{{r|Secret Wars Vol 1 9}} Since he came to terms with the fact that Victor would eternally resent him, Reed decided to alter his memories so he believed he was dead, in hopes that Victor would walk a fairer path if he no longer pursued ultimate power and believed his greatest rival was gone.{{r|Marvel 2-In-One Annual Vol 1 1}} Before returning Doom to Earth-616, Reed also healed his scars.{{r|Secret Wars Vol 1 9}} Hoping they could keep Victor in check, Reed also left behind Johnny and Ben on their native universe.{{r|Marvel 2-In-One Annual Vol 1 1}} Because of this, to the inhabitants of Reed's native universe, it seemed like he and those accompanying him in his journey of reconstruction had perished.{{r|Uncanny Avengers Vol 3 4}}{{r|Marvel 2-In-One Vol 1 1}}
+
+===The Fate of the Four===
+Years into the Future Foundation's multiversal adventures, Franklin became depleted of his ability to create entirely new realities. At this moment the team was confronted by an abstract entity called the [[Griever at the End of All Things (Multiverse)|Griever at the End of All Things]] who repudiated their mission of creating new universes. She caused the collapse of the hundreds of universes charted by the Future Foundation, forcing the team to make a final stand. The Fantastic Four were reunited when Mister Fantastic tricked the Griever into giving them the chance to summon the remaining members of the Fantastic Four for backup. In addition to teleporting Ben and Johnny, Reed also brought every superhero who had been part of the team at one point in order to defeat the new foe.{{r|Fantastic Four Vol 6 2}} After the Griever was driven away, the Future Foundation continued their multiversal travels, but Reed, Sue, Franklin and Valeria returned with Ben and Johnny to Earth, where only months had passed since the Foundation's years-long journey.{{r|Fantastic Four Vol 6 3}}
+
+Some time after returning to Earth, Reed was filled with the desire to resume the team's original failed flight that had given them powers. Building a ''[[Marvel-2]]'',{{r|Fantastic Four Vol 6 14}} Mister Fantastic took the rest of the Fantastic Four to their original destination, the planet [[Spyre]]. They faced a group of superpowered protectors named the [[Unparalleled (Earth-616)|Unparalleled]], who had been imbued with cosmic radiation to face the Fantastic Four. Spyricans had been aware of the team's initial failed attempt to reach their planet and had prepared for a second try.{{r|Fantastic Four Vol 6 15}} The Fantastic Four initially became at odds with the patriarch of Spyre, the [[Revos (Earth-616)|Overseer]], after discovering that he had been responsible for the intensity of the cosmic ray storm that gave them powers during their first flight due to an attempt to scuttle their mission.{{r|Fantastic Four Vol 6 17}} After making peace with the Spyricans, the Fantastic Four returned to Earth.{{r|Fantastic Four Vol 6 19}} Although no longer held responsible by Ben Grimm for turning him into The Thing, Reed remained remorseful for the kind of dangerous adventures that he took his family into. Reed swore to prepare himself of every eventuality in order to keep his loved ones safe.{{r|Fantastic Four Vol 6 20}}
+
+| Personality             = Reed is an intellectual who prefers to examine foes and if possible negotiate with them before actually fighting them. He is often intrigued by the scientific implications of a problem, so much so that he almost forgets there is a problem in the first place. As Ben once put it, "...if an alien stubbed his toe, Reed would want to spend ten years studying it." Reed is an extremely likable fellow who keeps a pleasant smile on his face and cares deeply about those he is close to, particularly his extended family. However, he does occasionally lapse into depression and self-hatred over long-standing unsolved problems, most notably Ben’s inability to return to human form and Franklin’s mysterious potential. Reed is a humanitarian who will try to prevent any intelligent being from suffering. This can lead him to do controversial things that fly in the face of all apparent logic, such as when he once saved Galactus from dying due to exhaustion from his hunger and attacking Earth. Susan once speculated that Reed's eccentric behavior to be due to autism.{{r|Fantastic Four: 1 2 3 4 Vol 1 2}}<ref group="note">While Reed's autism has been explicitly confirmed in {{cl|Fantastic Four: Season One Vol 1 1}}, which takes place on [[Earth-TRN563]], an alternate universe, it has not yet been confirmed on [[Earth-616]], the Prime Marvel Universe.</ref>
+
+| Powers                  = Gifted superhuman powers by cosmic rays bombarding his body.
+
+'''Plasticity:''' Mister Fantastic possesses the ability to convert the mass of his entire body into a highly malleable state at will. How his body's respiration and circulatory systems function at these distorted extremes is as yet unknown. Mister Fantastic can alter his form in a matter of seconds, often much less (depending on the complexity of the shape), and revert to his normal humanoid shape within a similar time. The greater the distance he stretches or the more extended the size of the object he becomes, the weaker his overall strength becomes. Mister Fantastic's transformation to a malleable state is reflexive and nearly instantaneous: if he was at his normal form and taken unaware by machine gun fire, his body would still absorb the bullets' impact through radical deformation. In fact, it was revealed that it was Mr. Fantastic, despite being in a weakened state, who protected all the heroes other than Hulk from the impact of the 150 billion ton mountain falling on them before the Jade Giant caught the mountain, although the strain caused him to pass out.{{Citation}}Mister Fantastic's skin is virtually impervious to laceration or punctures unless he willfully relaxes his reflexive control over small areas of his body. In that case, scalpels and ordinary needles can penetrate his skin.
+* '''Dense Flesh:''' Due to the great malleability and elasticity of his molecular structure, Mister Fantastic is able to absorb the impact of any type of man-made ballistic projectile by deforming his body along the path of the projectile's trajectory at the point of initial impact.
+** '''Contain Explosions:''' Mister Fantastic may use his elastic form to contain explosions by enveloping them and allowing their force to expand him. He can enclose and absorb the energy of a large explosive, on the order of 8 to 12 pounds of TNT (excluding exotic, high density explosives). Such shocks to his system are physically exhausting.
+** '''Redirect Projectiles:''' After his body absorbs the kinetic energy of a ballistic projectile's impact, Mister Fantastic can expel the object back along its trajectory by flexing his body like a trampoline if he is adequately braced.
+* '''Elongation:''' Mister Fantastic can extend his limbs, torso, or neck to great distances: the maximum length he can distend before his body segments become painful is about 1,500 feet. (Although he can extend discrete body parts, such as a single finger, an ear, or an eye, he seldom if ever isolates such parts in his elongations.)
+** '''Grappling:''' Mister Fantastic may restrain opponents very efficiently by using his elastic form to entangle them.
+** '''Movement:''' Mister Fantastic can move at great speeds by stretching to his destination.
+* '''Shape Changing:''' Mister Fantastic can stretch, deform, expand, or compress his entire body or parts into any contiguous shape he can imagine for a variety of uses.
+** '''Imitation:''' Mister Fantastic may alter his basic physical features, allowing him to take on the appearance of any other man with similar hair and skin tone. One time, Mister Fantastic actually increased his size and mass density, in effect bulking his body to "Thing"-like proportions while increasing his strength to the same levels as well. The force of his strikes was enough to stagger even Onslaught.{{r|Onslaught Marvel Universe #1}}
+** '''Canopy, Parachute or Sheath:''' Mister Fantastic can extend his body in two directions, creating a canopy, parachute, or sheath, its thickness determined by the extent of its distention.
+** '''Gliding:''' Mister Fantastic can transform himself into aerodynamic shapes such as parachutes or hang-gliders. In this form he can support an additional 1000 pounds (enough to hold the rest of Fantastic Four, even the Thing).
+** '''Cushion:''' Mister Fantastic may form his elastic form into a trampoline and other cushion-like objects, allowing him to safely catch falling people and objects.{{r|Marvel Two-In-One Vol 1 36}}
+** '''Sling Shot:''' Mister Fantastic may use his elastic form as a slingshot to hurl objects with great force. Johnny Storm used his body to hurl the Thing and Medusa ten New York City blocks.{{r|Fantastic Four Vol 1 133}}
+** '''Geometric Shapes:''' Mister Fantastic has compressed his body into the shape of a solid sphere, a cylinder, a cube, a toroid, and a rectangular prism: he can assume the shape of any solid that he can envision clearly, of a volume no greater than 1.7 cubic feet (a sphere about 18 inches in diameter). He can generate thin-walled shapes that enclose great volumes of space.
+** '''Fist Weapons:''' Mister Fantastic may form his fists into large hammers, maces, etc., which improve his physical effectiveness in hand-to-hand combat.
+** '''Bouncing Ball:''' Mister Fantastic can transform himself into any of a number of resilient shapes, such as balls or springs that allow him to leap or bounce great distances.{{r|Marvel Two-In-One Vol 1 36}}
+** '''Two-Dimensionality:''' Mister Fantastic can flatten himself to the thickness of an average sheet of typing paper (.0035 inch) or narrow himself to a diameter small enough to pass through the eye of a #10 beading needle (about .045 x .06 inches).
+** '''Infiltration:''' Mister Fantastic can lower his body’s cohesion to such an extent that he can actually flow through minute openings.
+** '''Open Locks:''' Mister Fantastic may form his fingers into various types of keys, allowing him to open most forms of mechanical locks.
+** '''Wind Generation:''' Mister Fantastic may form his hands into fans, allowing him to generate wind by twirling them at great speeds.
+** '''Semi-Solid Liquid State:''' Mister Fantastic can willfully reduce his body into an almost liquid state in order to flow out of small cracks or passages, even through needle-sized holes.
+
+{{Navigation
+| title = Former Powers
+| body = '''Nigh Omnipotence:''' Reed Richards acted as a vessel to the [[Owen Reece (Earth-616)|Molecule Man]]'s unlimited source of power. He showed the ability to create, together with his son [[Franklin Richards (Earth-616)|Franklin]], entire realities.{{r|Secret Wars #9}}
+
+'''[[Glossary:Cosmic Beings|Cosmic Being]]:''' During the battle against Galactus' [[Antithesis (Earth-616)|Antithesis]], Reed and the Fantastic Four were able to banish Antithesis back to the Negative Zone, but in the aftermath Reed temporarily became the new Galactus.{{r|Fantastic Four: Antithesis Vol 1 3}} However, he then decided to give this power back to Galan, along with a silver of his mind.{{r|Fantastic Four: Antithesis Vol 1 4}}
+}}
+
+| Abilities               = [[File:Avengers Vol 1 300.jpg|right|200px|thumb|Reed in the Avengers]]
+'''Super-Genius Intelligence:''' Dr. Richards is one of the most intelligent beings on the planet. Reed possesses a mastery of electrical, mechanical and aerospace engineering, electronics, chemistry, all levels of physics, and human and alien biology. A visionary theoretician and inspired machine smith, he has made breakthroughs in such varied fields as space travel, time travel, extra-dimensional travel, biochemistry, robotics, computers, synthetic polymers, communications, mutations, transportation, holography, energy generation, spectral analysis and more. He is one of the few people on Earth to be an expert on other dimensions and the methods by which to travel to and through them. Reed’s patents are so valuable that he is able to bankroll the Fantastic Four, Inc., without any undue financial stress. Not only has Reed proven himself to be a genius in virtually every science native to Earth, he has shown himself to be more knowledgeable than even some of the most highly advanced alien civilizations in the known universe as well.{{r|New Avengers #44}} He has often been stated to be the smartest man on Earth,{{r|Fantastic Four #580}} and possesses a photographic memory.{{r|Spectacular Spider-Man Vol 1 161}}
+
+'''Hypnotism''': Mister Fantastic is trained in hypnosis.{{r|Fantastic Four #2}}
+
+'''Martial Arts''': Mister Fantastic is one of Earth's best Judo experts.{{r|Fantastic Four Vol 1 17}} He is the master of Atemi-Waza (body-striking techniques).{{Citation}}
+| Strength                = Mister Fantastic possesses the normal human strength and build of a man of his age, height, and build who engages in moderate exercise, but thanks to his malleable body, he can mold himself into stronger, more attack-based forms.
+
+| Weaknesses              = '''Fantastic Four Power Synergism:''' The original members of the Fantastic Four are tethered to each other, and act as as their own conduits of power. They can be apart within their own universe and retain a connection, but prolonged periods cut off from each other in other universes result in a gradual decline in power levels. If they spend too much time separated this way, they would eventually become powerless.{{r|Marvel 2-In-One Vol 1 3}}
+
+| Equipment               = Although the Fantastic Four have numerous devices, crafts, and weapons, there are some items that Reed Richards carries with him at all times:
+
+'''[[Fantasti-Flare]]:''' Launches a fiery "4" symbol into the sky that is used during combat situations to let other members of the group know their location.
+
+'''[[Fantastic Four Uniforms]]:''' Like all the Fantastic Four's costumes and the rest of Reed's wardrobe, his suit is made of "[[Unstable Molecules|unstable molecules]]". This means that the suit is attuned to his powers, which is why Reed's costume stretches with him. The costume also insulates them from electrical assaults. In addition, the team's uniforms are also, in essence, wearable computers. Their costumes have a complete data processing and telemetry system woven into the material of the uniform on a molecular level. This forms a network with the entire team, providing a constant, real-time uplink of everyone's physical condition as well as their location and current situation. The suit is capable of displaying data and touch-pad controls on the gauntlets. Its sensors can track all of the team's uniforms and provide a picture of their immediate vicinity. The suit has an intricate scanner system which can detect things around the wearer, from how many people are in the next room to what dimension or planet they are on. Reed can also up-link the bodysuit to any computer by stretching his fingertips to filament size and plugging them in to an I/O data-port. With this, Reed can establish a fairly comprehensive database of any computer's cybernetic protocols and encryption algorithms.
+
+'''[[Universal Translator]]:''' Reed has a Universal Translator that can decipher and interpret languages, both alien and terrestrial, into the native language of the user.{{r|Fantastic Four #237}}
+
+'''[[Memorium Device]]:''' This device allowed the Fantastic Four to look through the memories of individuals.{{r|Annihilation - Scourge: Fantastic Four Vol 1 1}}
+
+
+
+{{Navigation
+| title = Former Equipment
+| body = * The [[Reality Stone|Reality Gem]].
+
+* '''[[Mister Fantastic's Armor]]:''' During the [[Cotati]] [[Empyre (Earth-616)|Empyre]] and the [[Kree/Skrull Alliance (Earth-616)|Kree/Skrull Alliance]]'s attacks, Tony Stark built a new suit of armor specifically for Reed which still allowed Richards to use his elastic powers.{{r|{{cl|Empyre Vol 1 4}}-[[Empyre Vol 1 5|5]]}} Reed then decided to give the armour to his son Franklin after he had lost his power.{{r|Fantastic Four Vol 6 27}}
+}}
+
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+* Along with his penchant for inventing, Dr. Richards is often known to rewrite works of Stephen Hawking and decode alien languages.{{citation}}
+* Reed allegedly won [[:Category:Nobel Prizes|Nobel prizes]].{{r|FF Vol 2 14}} One of which was for the discovery of the [[Negative Zone]].{{r|Secret Invasion Vol 1 1}}[[Category:Nobel Prizes]]
+* Reed Richard is [[Religion|Agnostic]], he stated he is well aware that [[Abstract Entities]] exist but would in no way worship them, he treats them as highly evolved life forms{{Citation}} but at the same time also stated that he believed in a higher power that guided the universe, '''Something bigger than us; something we can't totally comprehend''' and when asked by his son if he believed in God he answered '''Yes I do Franklin. Because I believe religion and science go hand-in-hand'''.{{r|Marvel Double Shot #3}}
+** Reed has stated that the accident that gave him and the other members of the Fantastic Four their powers, as well as the fact that they survived the exposure and crash landing, led him to believe that there was '''Something or someone bigger and more mysterious than us, who was watching us that day, protecting us'''.{{r|Marvel Holiday Special 2004 Vol 1 1}}
+** He later identified himself personally as an [[Religion|Agnostic]]. He also didn't believe any human religion could be the one true religion.{{r|Daredevil Vol 6 9}}
+* Mr. Fantastic was one of the characters featured in Series A of the Marvel Value Stamps issued in the 1970's. [[File:Mr. Fantastic Marvel Value Stamp.jpg|thumb|right|Marvel Value Stamp #34]]
+* Despite the clear and obvious use of Magic in the Marvel Universe, Reed admits to having a poor understanding of magic. Often calling it a form of other dimensional science he doesn't understand..."yet"
+* Based on the novel "Foundation" by Isaac Asimov, Reed put into practice one of the fictional concepts presented by said book, "Psychohistory:" the ability to use equations to predict future trends by mathematically modeling history. It was the first field ever created by Richards, and with it he can predict social trends to an extremely high degree of accuracy.{{r|Fantastic Four #542}}
+| Trivia                  = 
+* The powers of all of the Fantastic Four are based on one of the four elements; in [[Neil Gaiman]]'s ''[[Marvel 1602 Vol 1|Marvel 1602]]'', his power is associated with the classical element of water. The association to the element of water was also brought up in ''[[Fantastic Four Vol 2|Heroes Reborn Fantastic Four]]'', [[X-Men / Fantastic Four Vol 1|''X-Men / Fantastic Four'']], [[Ultimate Fantastic Four Vol 1|''Ultimate Fantastic Four'']] and in the [[Marvel Boy Vol 2|''Marvel Boy'']] mini-series by [[Grant Morrison]].
+* Reed failed his driving test four times.{{r|Fantastic Four Vol 6 11}}
+| Links                   = 
+*[http://www.marvelpics.co.uk Official Marvel Picture site]
+*[http://www.fantasticfourdvd.com Official Fantastic Four movie webpage]
+}}
+[[pt-br:Reed Richards (Terra-616)]]
+[[Category:Tobacco Smokers]]
+[[Category:Richards Family]]
+[[Category:Storm Family]]
+[[Category:Geneticists]]
+[[Category:Super-Genius Intelligence]]
+[[Category:Cosmic Ray Exposure]]
+[[Category:Stretching]]
+[[Category:Shapeshifters]]
+[[Category:Flat Body]]
+[[Category:Chemists]]
+[[Category:Engineers]]
+[[Category:Robotics]]
+[[Category:Physicists]]
+[[Category:Artificially Enhanced Intelligence]]
+[[Category:Inventors]]
+[[Category:Millionaires]]
+[[Category:Secret Wars (1984 Event) participants]]
+[[Category:Consciousness Transferred]]
+[[Category:Time Travelers]]
+[[Category:Secret Wars (1984 Event) casualties]]
+[[Category:Secret Wars (2015 Event) participants]]
+[[Category:Legally Deceased]]
+[[Category:Harvard University Student]]
+[[Category:Columbia University Student]]
+[[Category:State University Student]]
+[[Category:Agnostic Characters]]
+[[Category:Atheist Characters]]
+[[Category:Infinity Gauntlet wielders]]
+[[Category:Power Stone wielders]]
+[[Category:Time Stone wielders]]
+[[Category:Floating Super-Hero Poker Game participants]]
+[[Category:Liquid Form]]
+[[Category:Interdimensional Travelers]]
+[[Category:Symbiotes-possessed]]
+[[Category:Souls Sold to Mephisto]]
+[[Category:Armor Users]]
+[[Category:Apotheosized Mortals]]
+[[Category:Power Cosmic]]
+[[ru:Рид Ричардс (616)]]

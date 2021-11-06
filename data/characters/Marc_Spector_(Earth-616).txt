@@ -1,0 +1,367 @@
+{{Marvel Database:Character Template
+| Image                   = Moon Knight Vol 7 3 Stegman Variant Textless.jpg
+| Name                    = [[Marc Spector]]
+| CurrentAlias            = [[Moon Knight]]
+| Codenames               = [[Mr. Knight]]{{r|Moon Knight Vol 7 1}}
+| Nicknames               = Knight of Moons,{{r|Avengers Vol 8 36}} Marky Mark,{{r|Moon Knight Vol 5 12}} Mooney,{{r|Moon Knight Vol 5 7}} "Moony",{{r|Moon Knight Vol 5 1}} Stupid Moon Man{{r|Defenders Vol 1 49}}
+| Impersonations          = [[Bullseye]],{{r|Moon Knight Vol 6 3}} [[Spider-Man]]{{r|Moon Knight Vol 6 2}}
+| Aliases                 = Asset Prime,{{r|Moon Knight Vol 5 2}} Cowled Avenger,{{r|Moon Knight Vol 5 2}} Crescent Crusader,{{Citation}} Crescent Wrench,{{Citation}} Fist of Khonshu,{{r|Moon Knight Vol 2 1}} [[Phoenix|Fist of the Phoenix]],{{r|Avengers Vol 8 36}} Fist of Vengeance,{{r|Avengers Vol 8 34}} Hero-Boy,{{r|Moon Knight Vol 5 12}} Ian Waller,{{r|Marc Spector: Moon Knight Vol 1 3}} [[Jake Lockley]],{{r|Moon Knight Vol 1 1}} Lunar Legionnaire,{{r|Moon Knight Vol 5 2}} Moon Demon,{{r|Moon Knight Vol 2 3}} [[Moon Knight One]],{{r|Moon Knight Vol 8 6}} [[Moon Man|The Moon Man]],{{r|Moon Knight Vol 5 13}} Sergeant Spector,{{r|Moon Knight Vol 5 8}} Sheet Face,{{r|Hulk Vol 2 8}} [[Steve Grant|Steven 'Steve' Grant]],{{r|Moon Knight Vol 1 1}} White Knight,{{r|Moon Knight Vol 5 22}} Yitzak Topol{{r|Moon Knight Vol 1 19}}
+
+| Affiliation             = {{m|Midnight Mission}}; formerly {{m|Midnight Sons}}, [[Khonshu (Earth-616)|Khonshu]], [[Cult of Khonshu (Earth-616)|Cult of Khonshu]] (allies); employer of [[Buck Lime (Earth-616)|Buck Lime]], {{m|Secret Avengers (Black Ops Unit) (Earth-616)|Secret Avengers}}, {{m|United States Marine Corps (Earth-616)|U.S. Marine Corps}}, {{m|Central Intelligence Agency (Earth-616)|CIA}}, partner of [[Jean-Paul Duchamp (Earth-616)|Frenchie]], partner of [[Raul Bushman (Earth-616)|Bushman]], partner of [[Jeffrey Wilde (Earth-616)|Midnight]], partner of [[Maya Lopez (Earth-616)|Echo]], {{m|Avengers West Coast}}, {{m|Marvel Knights}}, {{m|Defenders}}, {{m|Heroes for Hire (Knight & Wing) (Earth-616)|Heroes For Hire}}, {{m|Committee}}
+| Ancestors               = [[Seth Phalkon (Earth-616)|Seth Phalkon]] (alleged great-great-grandfather)
+| Grandparents            = Unnamed paternal grandfather (deceased);<br>
+Unnamed paternal grandmother
+| Parents                 = [[Elias Spector (Earth-616)|Elias Spector]] (father, deceased);<br>
+[[Mrs. Spector (Earth-616)|Unnamed mother]]
+| Siblings                = [[Randall Spector (Earth-616)|Randall Spector]] (brother, deceased)
+| Spouses                 = [[Marlene Alraune (Earth-616)|Marlene Alraune]] (wife)
+| Children                = [[Diatrice Alraune (Earth-616)|Diatrice  Alraune]] (daughter)
+| Relatives               = [[Peter Alraune (Earth-616)|Peter Alraune]] (father-in-law, deceased)<br>
+[[Peter Alraune, Jr. (Earth-616)|Peter Alraune, Jr.]] (brother-in-law, deceased)
+| MaritalStatus           = Married
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe: Marvel Knights 2005 Vol 1 1}}
+| Gender                  = Male
+| Height                  = 6'2"
+| Weight                  = 225 lbs
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         = Scar over his left eye
+
+| Origin                  = [[Hellbent]]{{r|All-New Official Handbook of the Marvel Universe A to Z #5|; [[Hellbent]]'s entry}} left for dead in the desert, on a mercenary mission in [[Egypt]], where an idol of the [[Gods of Egypt|Egyptian moon god]] [[Khonshu (Earth-616)|Khonshu]], saved him and gave him his moon-based powers.
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Chicago (Illinois)|Chicago]], [[Illinois (State)|Illinois]]
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = Adventurer, vigilante, millionaire entrepreneur, dictator, ruler, conqueror; former boxer, spy, soldier, mercenary, government agent, cab driver
+| Education               = High-school graduate, extensive C.I.A. training
+| BaseOfOperations        = [[Manhattan]], [[New York City]], [[New York (State)|New York]]; formerly [[Moon Knight's Mansion|Spector Mansion]], [[Long Island]], [[New York City]], [[New York (State)|New York]]; [[Avengers Compound]], [[Los Angeles]], [[California (State)|California]]; [[Mercy Hospital for the Mentally Ill]], [[Hell's Kitchen]], [[Manhattan]], [[New York City]], [[New York (State)|New York]].
+
+| Creators                = Doug Moench; Don Perlin
+| First                   = Werewolf by Night Vol 1 32
+
+| Quotation               = Told [[Clinton Barton (Earth-616)|him]] I don't wear white to hide myself. I wear it so they'll see me coming. So they'll know who it is. 'Cause when they see the white, it doesn't matter how good a target I am. Their hands shake so bad, they couldn't hit the moon.
+|Speaker                  = [[Marc Spector (Earth-616)|Moon Knight]]
+| QuoteSource             = Moon Knight Vol 5 1
+
+| Overview                = '''Marc Spector''' is better known as the vigilante '''Moon Knight'''. Once a mercenary, Marc Spector was left for dead in the desert, where he was revived by the Moon god [[Khonshu (Earth-616)|Khonshu]]. Appointed as Khonshu's fist and high priest, Moon Knight enacts justice to protect those who travel at night. Spector also suffers from [[wikipedia:Dissociative identity disorder|dissociative identity disorder]], which has paved the way for his use of other identities, including millionaire Steven Grant and cab driver Jake Lockley.{{r|Moon Knight Vol 1 1}}{{r|Moon Knight Vol 8 11}}
+
+In the beginning of his career, Marc fought crime on the streets with the help of a network of informants, including his best friend [[Jean-Paul Duchamp (Earth-616)|"Frenchie" Duchamp]], the homeless [[Bertrand Crawley (Earth-616)|Bertrand Crawley]] and [[Gena's Diner|diner]] owner [[Gena Landers (Earth-616)|Gena Landers]].{{r|Marvel Spotlight Vol 1 28}}{{r|Moon Knight Vol 1 1}} Since the early days, Marc has mostly worked alone, but he's also been a member of a few superhero teams, including the [[Avengers (Earth-616)|Avengers]] (both the [[Secret Avengers (Black Ops Unit) (Earth-616)|Black Ops Unit]]{{r|Secret Avengers Vol 1 1}} and the [[Avengers West Coast (Earth-616)|West Coast branch]]){{r|{{cl|West Coast Avengers Vol 2 21}}-[[West Coast Avengers Vol 2 23|23]]}} and the [[Heroes for Hire (Knight & Wing) (Earth-616)|Heroes For Hire]].{{r|Heroes for Hire Vol 3 1}}
+
+Recently, Marc discovered he had a daughter named [[Diatrice Alraune (Earth-616)|Diatrice]] with his long-time lover [[Marlene Alraune (Earth-616)|Marlene Alraune]],{{r|Moon Knight Vol 1 190}} but when Khonshu sensed [[Mephisto (Earth-616)|Mephisto]]'s plans for world domination, Marc left her to fight by his god's side and prevent that from coming true. When Khonshu succumbed to madness, however, Marc had to turn against him and help the Avengers defeat him.{{r|Avengers Vol 8 33|37}} Following Khonshu's imprisonment, Spector established the [[Midnight Mission (Earth-616)|Midnight Mission]] to offer his help to any night dweller who might need his assistance.{{r|Moon Knight Vol 9 1}}
+
+| History                 = 
+===Early Life===
+Marc Spector was born in the [[United States of America|United States]], the son of a rabbi who as a child had managed to escape [[National Socialist German Workers Party (Earth-616)|Nazi]] prosecution after [[Adolf Hitler (Earth-616)|Hitler]] invaded [[Czechoslovakia]]. Marc grew up on the poor side of [[Chicago (Illinois)|Chicago]], where his father [[Elias Spector (Earth-616)|Elias]] was the target of discrimination; Marc couldn't understand why his father would never fight back against persecution.{{r|Moon Knight Vol 1 37}}
+
+During the last years of his childhood, Marc discovered by chance that a close friend of his family, [[Ernst (Nazi) (Earth-616)|Rabbi Yitz Perlman]], was in reality a Nazi deserter and secretly a serial killer of Jews named Ernst. Marc's fighting instinct kicked off for the first time when he fended off against Perlman to escape his grasp. Perlman later disappeared without a trace. This traumatic event also caused Marc to develop a [[wikipedia:Dissociative identity disorder|dissociative identity disorder]].{{r|Moon Knight Vol 1 194}} The first alters developed by Marc were Steven Grant and Jake Lockley. Shortly before Elias decided to intern Marc at the [[Putnam Psychiatric Hospital]], Marc was approached for the first time by the Egyptian deity [[Khonshu (Earth-616)|Khonshu]], claiming to be Marc's true progenitor.{{r|Moon Knight Vol 8 10}}
+
+After his father's death, Marc was allowed to leave the hospital temporarily to attend the funeral and a late luncheon, but, after hearing Khonshu's voice, he ran way.{{r|Moon Knight Vol 8 11}}
+
+===Mercenary Life===
+Marc enlisted in the [[United States Marine Corps (Earth-616)|Marines]] and served for three years. On his second tour in [[Iraq]], his superiors caught notice of Marc's bizarre behavior. After his past was dug up, Marc was dishonorably discharged.{{r|Moon Knight Vol 8 11}} He later joined the [[Central Intelligence Agency (Earth-616)|CIA]], and worked with several people who would later interact with Moon Knight, including [[William Cross (Earth-616)|William Cross]], [[Amos Lardner (Earth-616)|Amos Lardner]], and his own brother, [[Randall Spector (Earth-616)|Randall Spector]]. Randall killed Spector's girlfriend [[Character Index/L#Lisa|Lisa]] with a hatchet to keep her from exposing a gun-running scheme; Spector retaliated with a grenade and assumed Randall was dead.{{r|Hulk! Vol 1 17}}
+
+Once he left the CIA, Spector enrolled in illegal fights, where he befriended [[Jean-Paul Duchamp (Earth-616)|"Frenchie" Duchamp]] and both became soldiers-for-hire.{{r|Moon Knight Vol 8 12}} They took on several assignments, mainly in [[Africa]] and [[South America]]. Spector later went to trial for assassinating the president of [[Bosqueverde]], a South American country.{{r|{{cl|Marc Spector: Moon Knight Vol 1 15}}-[[Marc Spector: Moon Knight Vol 1 18|18]]}}{{r|Moon Knight Vol 8 11}}
+
+[[File:Marc Spector (Earth-616) from Moon Knight Vol 9 1 004.jpg|180px|thumb|right|Dying at the feet of Khonshu's statue]]
+After Spector and Frenchie met [[Raul Bushman (Earth-616)|Raul Bushman]] in [[Egypt]],{{r|Moon Knight Vol 8 12}} they travelled to North [[Sudan]], near the egyptian border,{{r|Moon Knight Vol 8 13}}{{r|Moon Knight Vol 9 1}} for a raid on archaological site. When Bushman killed the lead archaeologist, [[Peter Alraune (Earth-616)|Peter Alraune]], to find an Egyptian pharaoh's tomb, Spector punched Bushman to protect Alraune's daughter, [[Marlene Alraune (Earth-616)|Marlene]]. Furious, Bushman mortally wounded him in the desert, killing everyone in the place except for Marlene, Frenchie and a villager willing to tell him the secrets of the tomb. Spector managed to reach the tomb before he collapsed, and Marlene and the crew laid him beneath an [[Statue of Khonshu|idol of Khonshu]]. His spirit had an encounter with Khonshu, who promised to save his life in exchange for his service. Spector agreed, although he later considered this encounter a hallucination. Restored to life, he punished Bushman's men, while Bushman himself escaped.{{r|Moon Knight Vol 1 1}}{{r|Moon Knight Vol 8 13|14}}
+
+===Becoming Moon Knight===
+Having finally found a purpose in life, Spector applied himself fully. He moved to [[New York City|New York]] with Frenchie and Marlene (now his lover), and developed the costume, equipment, and persona of Moon Knight. With a fortune made from gambling, in addition to support his new career of fighting crime, he began using his Steven Grant persona as a financier and Jake Lockley as a cab driver whose purpose was to gather information at street level. His original persona, with its multiple facets, faded into the background. Still, leading four separate lives put great mental stress on Spector. Lockley developed a network of informants, including the homeless [[Bertrand Crawley (Earth-616)|Bertrand Crawley]], [[Gena's Diner|diner]] owner [[Gena Landers (Earth-616)|Gena Landers]], and her two sons, [[Richard Landers (Earth-616)|Ricky]] and [[Raymond Landers (Earth-616)|Ray]].{{r|Marvel Spotlight Vol 1 28}}{{r|Moon Knight Vol 1 1|2}}
+
+[[File:Marc Spector (Earth-616) from Werewolf by Night Vol 1 32 0001.jpg|180px|thumb|left|As Moon Knight]]
+Spector's first major job as Moon Knight came when the [[Committee (Earth-616)|Committee]] hired him to capture a werewolf named [[Jack Russell (Earth-616)|Jack Russell]]. He succeeded, in large part thanks to the [[Moon Knight's Cestus|silver cesti]] he was equipped with.{{r|Werewolf by Night Vol 1 32}} However, he learned that the Committee planned to turn [[Lissa Russell (Earth-616)|Russell's sister]] into another werewolf and use them both as weapons. He did the honorable thing and switched sides; Spector and Russell shut down the Committee.{{r|Werewolf by Night Vol 1 33}}
+
+Spector faced [[Conquer-Lord (Quinn) (Earth-616)|Conquer-Lord]] on his own{{r|Marvel Spotlight Vol 1 28|29}} before briefly joining the [[Defenders (Earth-616)|Defenders]] to battle a [[Life-Model Decoy]] version of the [[Zodiac Cartel (Earth-616)|Zodiac]].{{r|Defenders Vol 1 47|51}} The first skeleton from Spector's closet to bedevil Moon Knight was William Cross (now the villain Crossfire), from whom Spector rescued the [[Benjamin Grimm (Earth-616)|Thing]].{{r|Marvel Two-In-One #52}} He met [[Peter Parker (Earth-616)|Spider-Man]] for the first time when they teamed up against the [[Frank Farnum (Earth-616)|Masked Marauder]], who at the time called himself "Big M" and employed the original [[André Gerard (Earth-616)|Cyclone]].{{r|{{cl|Peter Parker, The Spectacular Spider-Man Vol 1 22}}-[[Peter Parker, The Spectacular Spider-Man Vol 1 23|23]]}}
+
+Moon Knight had reached the big time and encountered super-villains with more frequency. Very early on, he had to face a serial killer dubbed the Hatchet-Man, who claimed to be his brother Randall.{{r|Hulk! Vol 1 17|18}}
+
+Spector investigated the death of Amos Lardner when his body arrived in a crate on Spector's doorstep. He learned that Amos' brother [[James Lardner (Earth-616)|James]] had become a test subject in a CIA experiment (one that Spector himself had participated in), and when Amos investigated, he was forced to undergo the same treatment and committed suicide as a result.{{r|Marvel Preview Vol 1 21}}
+
+Spector faced other menaces: some super-powered, some insane, some simply ambitious, but all dangerous. He confronted the [[Jimmy Crawley (Earth-616)|Slasher]], a man slaying homeless people in a effort to find his father. He tracked down Bushman and sent him to jail,{{r|Moon Knight Vol 1 1}} but Bushman struck back by having [[Anton Mogart (Earth-616)|Midnight Man]] (a more recent foe){{r|Moon Knight Vol 1 3}} destroy Spector's idol of Khonshu. By this time Spector was convinced that Khonshu had given him his powers, as well as a focus in life. His precarious self-control broke down until Marlene produced another idol, which she claimed was the original.{{r|Moon Knight Vol 1 9|10}}
+
+[[File:Robert Markham (Earth-616) from Moon Knight Vol 1 23 001.jpg|180px|thumb|right|The threat of Morpheus]]
+Moon Knight's next major foe, [[Robert Markham (Earth-616)|Morpheus]], turned out to be a patient of [[Peter Alraune (Earth-616)|Doctor Peter Alraune]], Marlene's brother.{{r|Moon Knight Vol 1 12}} The idol of Khonshu sustained Spector again when he first encountered the [[Carson Knowles (Earth-616)|Black Spectre]], who tried to terrorize people into supporting his bid for mayor. Nobody, including Dr. Alraune, believed Spector when he claimed that Knowles was the Black Spectre, but Khonshu gave him the strength to prevail.{{r|Moon Knight Vol 1 25}}
+
+A battle with the [[Richard Deacon (Earth-616)|Fly]] left Spector unable to walk, but he quickly recovered.{{r|Moon Knight Vol 1 35}} To stop an ancient Egyptian curse, Spector briefly hosted the spirit of a priest of Khonshu, which helped to integrate his personalities,{{r|Moon Knight Vol 1 36}} but later Spector suffered another serious mental breakdown and decided to abandon all of his alternate identities to settle down with Marlene; by reconciling with his father's legacy, though, he found a measure of peace and decided to retire from crime-fighting.{{r|{{cl|Moon Knight Vol 1 37}}-[[Moon Knight Vol 1 38|38]]}}
+
+[[File:Marc Spector (Earth-616) from Moon Knight Vol 2 1 cover.jpg|180px|thumb|left|Fist of Khonshu]]
+As part of his new life, Spector gave up his Grant identity and sold the idol at a gallery in [[Paris (France)|Paris]]. He had a vision, however, telling him that "the image is delivered up to evil." Called back to action as Moon Knight, he learned that Marlene could no longer tolerate his schizophrenic behavior, and she left him. In the Egyptian [[Valley of the Kings]], Spector met three ancients priests of Khonshu, who told him that Khonshu had chosen him as an earthly champion and gave him new weapons. Only later did Spector realize that Khonshu himself was influencing him subconsciously.{{r|Moon Knight Vol 2 1}}
+
+===West Coast Avengers===
+Spector joined the [[Avengers West Coast (Earth-616)|West Coast Avengers]] for a time after rescuing some of their members who had been time-shifted to Pharaonic [[Egypt]]. [[Clinton Barton (Earth-616)|Hawkeye]] got help from Khonshu, in exchange for designing Moon Knight's new weaponry. Khonshu alerted Spector in the present day, who helped the Avengers return home safely.{{r|{{cl|West Coast Avengers Vol 2 21}}-[[West Coast Avengers Vol 2 23|23]]}}
+
+[[File:Marc Spector (Earth-616) and Greer Grant (Earth-616) from West Coast Avengers Vol 2 27 001.jpg|200px|thumb|right|With Tigra]]
+While an Avenger, Spector became romantically involved with [[Greer Nelson (Earth-616)|Tigra]],{{r|West Coast Avengers Vol 2 27}}{{r|West Coast Avengers Vol 2 31}}, who he'd met some time before on a visit to the [[Avengers Mansion]].{{r|Avengers Vol 1 211}} After a while, there was a controversy amongst the team upon the discovery that Hawkeye's wife [[Barbara Morse (Earth-616)|Mockingbird]] had allowed the [[Lincoln Slade (Earth-616)|Phantom Rider]] (who had sexually assaulted her) to die while cast away in time. Spector, Tigra, and Mockingbird left the team as a splinter group. Together with [[William Foster (Earth-616)|Bill Foster]] they daunted the [[Herbert Wyndham (Earth-616)|High Evolutionary]], and they also fought the [[Night Shift (Earth-616)|Night Shift]]. When they consulted with [[Daimon Hellstrom (Earth-616)|Hellstorm]] about Phantom Rider's ghost haunting Mockingbird, Spector learned of Khonshu's presence in his own psyche, and Hellstorm convinced the moon god to depart.{{r|West Coast Avengers Vol 2 37|41}}
+
+===Midnight===
+Back in New York, Spector reunited with Marlene and went back to less-cosmic crime-fighting.{{r|Marc Spector: Moon Knight Vol 1 1}} He soon learned that [[Jeffrey Wilde (Earth-616)|Jeff Wilde]], the son of his old foe Midnight Man, had tried to take his place during his time on the West Coast and now wanted to become an ally as Midnight. The new Midnight fought crime for some time together with Spector, until Midnight was seemingly disintegrated during battle with the [[Secret Empire (Earth-616)|Secret Empire]]. Wilde had survived, however, and was turned into a cyborg soldier by the Secret Empire, told that Moon Knight had been responsible for his father's death. These difficulties with the Empire drew Spector (as well as [[Christopher Powell (Earth-616)|Darkhawk]], [[New Warriors (Earth-616)|New Warriors]] [[Dwayne Taylor (Earth-616)|Night Thrasher]] and [[Richard Rider (Earth-616)|Nova]], the [[Frank Castle (Earth-616)|Punisher]], and Spider-Man) into a near war.{{r|Amazing Spider-Man Vol 1 354|358}} At the end of the climactic battle, Wilde again seemingly perished, this time crushed by debris when the Empire's headquarters collapsed around him.{{Citation}}
+
+===Shadowknight===
+Spector underwent another near-death experience.{{r|Marc Spector: Moon Knight Vol 1 28}} He then found that his brother, Randall had survived, and in addition had been trying to take his place as Khonshu's champion. Randall (as Shadowknight) succeeded in usurping Spector's powers temporarily. With the Punisher's help, Spector defeated Shadowknight.{{r|Marc Spector: Moon Knight Vol 1 35|38}} The power levels of his foes kept increasing, so Spector continually upgraded his own equipment. He retooled his Kevlar armor and steel [[Moon Knight's Crescent Darts|crescent darts]] with [[Adamantium]], and his public persona with a firm named Spectorcorp.{{Citation}}
+
+===[[Infinity War]] & [[Infinity Crusade]]===
+During the [[Infinity War]], Spector had to contend with [[Moon Shade (Earth-616)|Moon Shade]], an evil twin of himself created by the [[Magus (Earth-7528)|Magus]] (himself an evil twin of [[Adam Warlock (Earth-616)|Adam Warlock]]). Luckily, Moon Shade suffered from the same blunted focus caused by Spector's multiple personalities, while Moon Shade's threat had the effect of sharpening Spector's own focus. Moon Shade also had an Achilles' heel: the adamantium in Spector's new weapons.{{r|Marc Spector: Moon Knight Vol 1 41|44}}{{r|{{cl|Infinity War Vol 1 2}}-[[Infinity War Vol 1 4|4]]}} During another cosmic event, the [[Infinity Crusade]], the [[Goddess (Earth-616)|Goddess]] (another aspect of Warlock) selected Spector as one of the most spiritual beings on Earth, thanks to his near-death experiences and his devotion to Khonshu.{{r|Marc Spector: Moon Knight Vol 1 56|57}}{{r|Thor Vol 1 464}}{{r|Infinity Crusade Vol 1 1|6}}
+
+===Second Death===
+[[Seth Phalkon (Earth-616)|Seth Phalkon]] attacked Spectorcorp with a computer virus. Rather than let it destroy the entire conglomerate and his employees, Spector quarantined it in his own building, Shadowkeep, along with himself. He died in the ensuing meltdown.{{r|Marc Spector: Moon Knight Vol 1 60}}
+
+===Second Resurrection===
+Khonshu resurrected Spector again to counter another plot by Seth, who had recruited Spector's old foes Bushman, the Black Spectre, and Morpheus. Using an idol of [[Seth (Earth-616)|Seth]], they tried to break up a peace conference at the [[United Nations (Earth-616)|U.N.]] Spector foiled the plot by destroying the idol.{{r|Moon Knight Vol 3}} The CIA tried to assassinate Spector because he knew too much about their mind-control programs. With an old flame from the agency, [[Candace Calder (Earth-616)|Candace Calder]], he exposed the latest refinements in their sinister schemes.{{r|Moon Knight Vol 4}}
+
+[[File:Marc Spector (Earth-616) from Moon Knight Vol 3 1 cover.jpg|180px|thumb|left|The Moon Knight returns]]
+Spector journeyed back to the spirit realm to help the [[T'Challa (Earth-616)|Black Panther]] reconnect with [[Bast (Earth-616)|Bast]], his own patron deity. Although [[Nightmare (Earth-616)|Nightmare]] impersonated Khonshu and tried to divert them from their purpose, the real Khonshu helped them finish the quest.{{r|Black Panther Vol 3 20|22}}
+
+===Marvel Knights===
+Despite his mistrust of teams, Spector joined a group that tried to bring in the Punisher for his excessive vigilantism, and he put up the funds for a headquarters. [[Maximillian Zaran (Earth-616)|Zaran]] wounded Spector severely, and the team's building exploded in the same attack. Drained of money, health, and enthusiasm, Spector retired again.{{r|{{cl|Marvel Knights Vol 1 4}}-[[Marvel Knights Vol 1 14|14]]}}
+
+===Bushman & Initiative===
+Spector finally exorcised one of his demons after a brutal rooftop battle, when he killed Bushman and used the sharp end of his crescent dart to carve off Bushman's face, unaware that the battle had been set up by a new generation of the [[Committee (Earth-616)|Committee]].{{r|Moon Knight Vol 5 3}} Moon Knight survived, albeit with damaged knees. Crippled and despondent, he turned to pills and alcohol for a time after pushing away his loved ones and keeping himself isolated.{{r|Moon Knight Vol 5 2}} After [[Jean-Paul Duchamp (Earth-616)|Frenchie]] was severely beaten right after meeting with Marc and coming out of the closet to him, Marc tracked down his assailant and then returned to his role as Moon Knight.{{r|Moon Knight Vol 5 3|4}} These events forced Spector to shake off his lethargy, at the price of some of his psychological stability.{{Citation}}
+[[File:Marc Spector (Earth-616) from Moon Knight Vol 5 3 0001.jpg|250px|thumb|right]]
+
+He still believed that he was Khonshu's champion, but in his mind Khonshu wore the mutilated face of Bushman as well as appearing as others from Spector's past.{{r|Moon Knight Vol 5 4}} The Committee sent [[Anthony Masters (Earth-616)|Taskmaster]] to kill Spector but was shot out of a window instead with help from Marlene and [[Samuels (Earth-616)|Samuels]]. After returning home Spector had his wounds bandaged and, despite his injuries, dressed in his costume and flew one of his [[Moon Knight's Helicopter|Moon-copters]] into their Manhattan office building and resumed his fight with Taskmaster.{{r|Moon Knight Vol 5 4|5}} After defeating a terrified Taskmaster he left the destroyed office with the Committee's file on him and cleaned up his life including going to physical therapy. Despite this he didn't feel ready to fully act as Moon Knight again and in an argument with the Bushman hallucination, Khonsu revealed that he had planted the seeds of vengeance in the minds of the New Committee and subtly manipulated them so Marc would pray to him, believe in him more and become more vengeful.{{r|Moon Knight Vol 5 6}}
+
+The [[Civil War (Event)|Civil War]] mostly passed him by, although [[Steven Rogers (Earth-616)|Captain America]] told him to stay on the sidelines because he thought Spector belonged in a straitjacket,{{r|Moon Knight Vol 5 7|8}} and Tony Stark approached him shortly before the final battle in the [[Superhuman Registration Act]] conflict, knowing that Captain America had contacted him and requested that he tell him if he heard from him again.{{r|Moon Knight Vol 5 11|12}}
+[[File:Moon Knight Vol 5 11 Textless.jpg|180px|thumb|left|Registered Superhero]]
+
+Around this time he also went up against the new [[Jeffrey Wilde (Earth-616)|Midnight]] who was obsessed with him and wanted to be his arch enemy, killing people to get his attention until Moon Knight ultimately killed him after being freed by [[Lynn Church (Earth-616)|Lynn Church]] who believed Midnight was going too far after he began trying to remove Moon Knights vertebra from his back with a pair of pliers instead of allowing him to kill them as they actually wanted.{{r|{{cl|Moon Knight Vol 5 7}}-[[Moon Knight Vol 5 12|12]]}}
+
+Soon after, with the Civil War now over, Marc made the decision to register with the government to ensure that no one would be trying to arrest him while he was 'working'. He used information gathered by Profile on the Doctor who was going to perform his interview to frighten, intimidate and essentially blackmail him into passing his application, as he knew the authorities would initially try to arrest and or commit him otherwise. Spector was registered as an independent with little oversight as he had aimed for.{{r|Moon Knight Vol 5 13}}
+
+Moon Knight had to fake his own death when [[Norman Osborn (Earth-616)|Osborn]] sent his [[Thunderbolts (Earth-616)|Thunderbolts]] to kill him. After that, he fled to [[Mexico]] using the name Jake Lockley for a while.{{r|Moon Knight Vol 5 22|24}} He eventually met up with the Punisher and the [[Zapata Brothers (Earth-616)|Zapata Brothers]] to help save [[Carmen Alcantara (Earth-616)|Carmen Alcantara]] from [[Gilberto Alcantara (Earth-616)|her father]]'s drug cartel.{{r|Moon Knight Vol 5 26|30}}
+
+===[[Dark Reign]]===
+Sometime after, Moon Knight returned to New York with the intention of being a hero, but still struggled against his violent nature and was hounded by a small imaginary Khonshu. While trying to walk the path of good, he made a bold return by stopping a bank robbery without killing any of the robbers.{{r|Vengeance of the Moon Knight Vol 1 1}} Much to Norman Osborn's disdain, Moon Knight was now a hero and not a murderous vigilante, so he summoned the [[Parker Robbins (Earth-616)|Hood]] and [[Profile (Earth-616)|Profile]] to take care of him.{{r|Vengeance of the Moon Knight Vol 1 2}} The Hood supernaturally revived Bushman and recruited him as part of his force to combat Moon Knight.{{r|Vengeance of the Moon Knight Vol 1 3}} When investigating a warehouse at the docks, Moon Knight was ambushed and shot by Bushman. The two engaged in a violent fight and Bushman ended up impaled by a machine gun. As Moon Knight was about to carve off Bushman's face once more, a vision of Khonshu appeared, yelling at Moon Knight to obey him. Bushman then pleaded for Moon Knight not to take his face off and Moon Knight reluctantly did not.{{r|Vengeance of the Moon Knight Vol 1 6}}
+
+===[[Secret Avengers (Black Ops Unit) (Earth-616)|Secret Avengers]]===
+[[File:Secret Avengers Vol 1 3 Wraparound Textless.jpg|250px|thumb|right]]
+After Norman Osborn's defeat in the [[Siege (Event)|Siege]] of [[Asgard]], Steve Rogers was appointed as his replacement. He reorganized the [[Avengers (Earth-616)|Avengers]], recruiting Moon Knight to be on his team of [[Secret Avengers (Black Ops Unit) (Earth-616)|Secret Avengers]]. Their first mission sent the team to [[Mars]]. Later on Moon Knight was part of a team that infiltrated a Secret Empire undercity beneath [[Cincinnati]].{{r|Secret Avengers Vol 1 16}} Some of his teammates, such as [[Henry McCoy (Earth-616)|Beast]], did not trust Spector due to his mental illness.{{Citation}}
+
+===The One-Man Avenger===
+Spector moved to [[Los Angeles]] to work as a television producer. Marc Spector was at a party celebrating the success of his new show, "the Legend of Khonshu", which he based on his own past. His celebration was interrupted by a call, and he went outside to meet [[James Howlett (Earth-616)|Wolverine]], Spider-Man and Captain America. Cap informed Spector that criminals had been migrating to Los Angeles, and as he now operates there he wanted Spector to figure out why. He reminded Marc that as an Avenger he never has to work alone.{{Citation}}
+
+At the docks, Moon Knight spied two armed henchmen, making a pickup for a mysterious employer. They approached [[Calvin Zabo (Earth-616)|Mr. Hyde]], who demanded payment. When it is not given, Zabo killed the two men. Moon Knight attacked Zabo. The fight moved onto Hyde's boat, and Moon Knight discovered that Hyde was selling a [[Ultron (Earth-616)|Ultron]]'s head. He made off with the Ultron's head, diving into the water.{{Citation}}
+
+The henchman's employer appeared above the boat as Moon Knight dove deeper. He refused to pay Hyde. In revenge for killing the henchmen, he attacked with a massive burst of energy and absconded with the rest of the Ultron body. Moon Knight took the Ultron head back to Captain America, Wolverine, and Spider-Man to discuss the situation. However, he was in fact completely alone, and the three Avengers were mere hallucinations.{{r|Moon Knight Vol 6 1}}
+
+Dressed as Spider-Man, and thinking that he was in fact Spider-Man, Marc confronted the criminal [[Sheoke Sanada (Earth-616)|Snapdragon]] at a strip club she operated. Partway through the fight, his Wolverine personality took over. He was defeated, but saved by [[Maya Lopez (Earth-616)|Echo]], who was undercover there.{{r|Moon Knight Vol 6 2}} She explained that she had briefly been an Avenger and they had mutual friends. He later asked her out on a date at Pink's Hotdogs to make up for blowing her cover.{{Citation}}
+
+Spector had hired [[Buck Lime (Earth-616)|Buck Lime]], an ex-[[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] agent, to assist him, having tested him by pretending to be [[Bullseye (Lester) (Earth-616)|Bullseye]].{{r|Moon Knight Vol 6 3}} Buck confirmed the authenticity of the Ultron's head and encouraged him to give it to the Avengers; at the same time, the new kingpin of L.A. ordered Snapdragon to kill Moon Knight. For that, Snapdragon hired the team [[Night Shift (Earth-616)|Night Shift]].{{Citation}}
+
+Meanwhile, the assassin known as [[Akihiro (Earth-616)|Daken]] moved to L.A. He had wanted to become lord of the city's crime scene, but found a new kingpin already in place. A string of murders committed by a 'Claws Killer' were falsely attributed to Daken.{{r|Daken: Dark Wolverine #13}} Moon Knight was also hunting the Claws Killer, who ended up being [[Marcus Roston (Earth-616)|Marcus Roston]].{{Citation}}
+
+Night Shift attacked Moon Knight and Echo on their date. The police tried to arrest them, and at the suggestion of his Cap persona he initially surrendered. When a handful of officers tried to unmask him he fought back and escaped. Echo also escaped, stealing a cop car. He later tried to kiss Echo, angering her. Later, Echo showed up at his house and apologized. The real Avengers arrived, having been contacted by Buck and informed of the Ultron's head. Rogers told Marc he trusted him and his plan for catching the mysterious kingpin, but emphasized the riskiness of the plan.{{r|Moon Knight Vol 6 6}}
+
+[[File:Marc Spector (Earth-616) from Moon Knight Vol 6 9 001.jpg|thumb|left|200px|Battling Count Nefaria, the kingpin of L.A.]]
+Buck went to Snapdragon's club to offer the kingpin the head. Although he knew this was a trap, the kingpin revealed himself: [[Luchino Nefaria (Earth-616)|Count Nefaria]]. The Ultron head was a fake, filled with a drug that weakened Nefaria.{{r|Moon Knight Vol 6 7}} They battled, but Nefaria fled. However, Echo had recorded everything; they now had hard evidence of the kingpin's identity and his intentions. She also witnessed Moon Knight talking to his other personalities. Moon Knight took Snapdragon to the police. Although the evidence was solid, the captain didn't want to anger Nefaria and thus did nothing.{{Citation}}
+
+Whilst out defeating criminals, Moon Knight and Echo were ambushed by Nefaria. They tried to flee with little success. Standing their ground, they knew it was an impossible fight. Nefaria slew Echo with his optic beams, enraging Moon Knight as he had developed an infatuation with her. His Wolverine personality slew the other two Avenger persona's and took control.{{r|Moon Knight Vol 6 9}} He savagely attacked Nefaria, wounding him. Nefaria's blast backfired, seriously harming both himself and Moon Knight. The police found Spector and took him to a hospital. He woke up to discover himself handcuffed to a bed. Buck Lime gassed the hospital and rescued him.{{Citation}}
+
+[[File:Marc Spector (Earth-616) Moon Knight Vol 6 12.png|thumb|right|200px|Marc and his new personalities.]]
+Nefaria asked his daughter, [[Giuletta Nefaria (Earth-616)|Madame Masque]], for assistance. She traced the [[Vibranium]] in Echo's staff and found Buck and Moon Knight's hideout. She retrieved the Ultron head. Together, Buck and Moon Knight defeated Masque and reclaimed the head. During the fight, Moon Knight manifested another personality, this one based on Echo.{{r|Moon Knight Vol 6 11}} When [[Los Angeles Police Department (Earth-616)|L.A.P.D.]] showed up to arrest Count Nefaria, he attacked their station. Moon Knight followed him but was defeated. This lead Nefaria into a trap, as Spector had called the Avengers. [[Thor Odinson (Earth-616)|Thor]] knocked out Nefaria and he was taken into custody. The Ultron head was given to Tony Stark, who made quite an impression on Marc. Moon Knight manifested a new Iron Man personality. Three months later, "Legend of Khonshu" was cancelled, and Moon Knight abandoned L.A. for New York.{{r|Moon Knight Vol 6 12}}
+
+===[[Avengers vs. X-Men]]===
+Moon Knight took the side of his fellow Avengers against the [[X-Men (Earth-616)|X-Men]]. He was sent to keep an eye on the [[Xavier's School for Gifted Youngsters|Jean Grey School]] together with [[Samuel Wilson (Earth-616)|Falcon]] and [[Jennifer Walters (Earth-616)|She-Hulk]]. He took an aggressive attitude to his job, and after exchanging barbs with [[Joanna Cargill (Earth-616)|Frenzy]], he attacked her, leading to a fight. After She-Hulk injured some kids in the belief that they were a greater threat, a full scale conflict erupted with the rest of the school's faculty joining in the battle.{{r|X-Men: Legacy Vol 1 266}}
+
+===Return to New York===
+With laundered old money, Marc paid himself his return to New York and new technological equipment. He developed a new "Mister Knight" persona with which he started working along with [[New York City Police Department (Earth-616)|NYPD]] [[Flint (Earth-616)|Detective Flint]] in numerous different cases, while with his Moon Knight persona he continued his normal vigilante activities. He was also told by a psychologist that he didn't suffer from Dissociative Identity Disorder, but his mind had been "colonized" by Khonshu, with each of Khonshu's four aspects taking on one of the three personalities he has at a time or his more psychotic moments. The apparent multiple personalities were his brain's way of making sense of what was happening to him.{{r|Moon Knight Vol 7 1}}
+
+[[File:Moon Knight Vol 7 3 Stegman Variant Textless.jpg|thumb|left|New suit]]
+During his following adventures, Moon Knight faced a sniper on revenge against his former employers;{{r|Moon Knight Vol 7 2}} battled a gang of punk ghost terrorizing downtown [[Manhattan]], for which he needed to use a magical skeleton armor;{{r|Moon Knight Vol 7 3}} investigated apparent paranormal-activities caused by the death of an infected patient of [[Doctor Skelton (Earth-616)|Doctor Skelton]];{{r|Moon Knight Vol 7 4}} raided an abandoned building where a gang had kidnapped a little girl name [[Scarlet (Earth-616)|Scarlet]];{{r|Moon Knight Vol 7 5}} and a new [[Ryan Trent (Earth-616)|Black Spectre]], a NYPD officer set out to kill Moon Knight in order to replace him as a vigilante to gain the approval of Detective Flint.{{r|Moon Knight Vol 7 6}}
+
+After thwarting the assassination attempt of a mercenary hired by Spector's psychologist [[Elisa Warsame (Earth-616)|Elisa Warsame]] to murder [[Aliman Lor (Earth-616)|General Aliman Lor]],{{r|Moon Knight Vol 7 7}} Marc was intervened by Elisa, who used hypnosis to claim Khonshu from him in order to have her revenge.{{r|Moon Knight Vol 7 9}} Marc lost all of his multiple personalities, and was captured and kept in an undisclosed prison, from where he managed to escape, after another act of saving Aliman Lor's life caused him to be blamed for the attack.{{r|Moon Knight Vol 7 10|11}} Once Khonshu gave up on Warsame, he returned to Marc, and helped him finally stop her from killing Lor.{{r|Moon Knight Vol 7 12}}
+
+===Khonshu's Illusion===
+[[File:Marc Spector (Earth-616) from Moon Knight Vol 8 9 001.jpg|thumb|right]]
+After this series of events, Khonshu seemingly sent Marc and his allies to an illusory mental hospital{{r|Moon Knight Vol 8 1}} designed to wear away the last of Marc's mind, this way freeing his body for Khonshu to inhabit and use to enter our world.{{r|Moon Knight Vol 8 5}} But in reality, it was all an imaginary scenario used to cure Marc of his insanity.<ref name="Bemis Tweet">{{cite web|url=https://twitter.com/maxbemis/status/936218223996837888|title=Max Bemis Tweet|work=Twitter|date=30 November 2017|accessdate=27 December 2017}}</ref> In it, Marc had a confrontation with his alternate personas and realized that, to become whole again, he couldn't just ignore them, but had to embrace them instead.{{r|Moon Knight Vol 8 9}} After returning to the hospital, he crushed an illusory Khonshu's head and thus reconciled his illness, gaining control over his his other personalities once and for all.{{r|Moon Knight Vol 8 14}}<Ref name="Bemis Tweet" />
+
+===The Return of Ernst===
+Marc reappropriated Khonshu and resumed his normal life as well as his Moon Knight persona, but, unbeknownst to him, [[Sun King (Patient 86) (Earth-616)|Sun King]] (the avatar of [[Atum (Earth-616)|Amon Ra]]) and [[Raul Bushman (Earth-616)|Bushman]] had joined efforts and were planning to kill him.{{r|Moon Knight Vol 1 189}} To accomplish this, they went to Marlene's house to use her as leverage, but ended up discovering she and Marc had a daughter together named [[Diatrice Alraune (Earth-616)|Diatrice]]. They forced Marlene to get Marc to her house, where they revealed Diatrice's existence.{{r|Moon Knight Vol 1 190}} After a fight, the villains escaped with Marlene. After taking Diatrice to safety, Marc was contacted by the villains and forced to follow them to their base of operations, [[Saint Palaemon Island|Isla Ra]].{{r|Moon Knight Vol 1 191}}
+
+[[File:Marc Spector (Earth-616) from Moon Knight Vol 1 194 002.jpg|200px|thumb|left|Getting close to his daughter]]
+Once welcomed to Isla Ra, Marc engaged Sun King in a spiritual battle during which Sun King successfully made Marc doubt everything he knew, and consider that Khonshu was wrong.{{r|Moon Knight Vol 1 192}} However, during ritual combat against Sun King, Marc caught a second wind by believing in Diatrice. Marc's strength manifested in a berserker rage he used to defeat Sun King and break his spirit. Following Sun King's admission of defeat, Moon Knight took his followers for himself.{{r|Moon Knight Vol 1 193}}
+
+Shortly afterwards, Moon Knight infiltrated a gathering of the cultist [[Societe des Sadiques (Earth-616)|Société des Sadiques]] after learning that their leader was Ernst. When Marc confronted him, Ernst revealed he had pulled the strings behind their reunion, and intended Marc to join him.{{r|Moon Knight Vol 1 197}} After overcoming the Société's physical trials,{{r|Moon Knight Vol 1 198}} Marc's beliefs were attacked in a personal confrontation with Ernst. Spector managed to reject Ernst and killed him.{{r|Moon Knight Vol 1 199}} Afterwards, Moon Knight joined forces with Sun King to take down the remaining acolytes of the Société before they could kill Diatrice in revenge.{{r|Moon Knight Vol 1 200}}
+
+===Contagion===
+When a [[Urchin (Earth-616)|mysterious disease]] from [[K'un-Lun]] began infecting [[Manhattan]], Moon Knight was the last to arrive in the scene where some heroes had killed the carrier. [[Jessica Jones (Earth-616)|Jessica Jones]] told Moon Knight that the threat was neutralized, but Marc told them that another carrier was wreaking havoc at the hospital.{{r|Contagion Vol 1 3}} He, alongside the other heroes, tried to fight it, but it managed to spread to a number of them forcing the rest to retreat. After six days of containment thanks to the [[League of International Magic Practitioners (Earth-616)|League of International Magic Practitioners]] who used their power to contain the infection, the heroes didn't know what to do to cure the infected, since if more time passed it would eat away their bodies. After [[Señor Mágico (Earth-616)|Señor Mágico]] told the heroes that the infecteds' minds had gone somewhere within the Urchin, Moon Knight had the idea to let himself get infected due to his broken mind which could allow him to free the others' minds. Jessica protested the idea, but when the magic containment was broken, the infected individuals attacked the remaining heroes.{{r|Contagion Vol 1 4}} Moon Knight went with his plan and allowed the virus to infect him, sending his mind within the Urchin. While there he witnessed all the other infected individuals trapped in Urchin. After fellow hero [[Pei (Earth-616)|Pei]] was infected, he freed her mind from the Urchin which allowed her to fight back from within. Then Moon Knight tried to free the mind of the girl who had become the second carrier, but was knocked out during the struggle. Thankfully, Pei was able to free all of the infecteds' minds allowing to get rid of the infection and finally contain what was left of the Urchin.{{r|Contagion Vol 1 5}}
+
+===Serpent War===
+After Marc suffered a prophetic dream, Khonshu also felt it, and ordered Marc to investigate the place he saw in the dream. Upon entering the abandoned house, he saw the cult of [[Set (Earth-616)|Set]] digging up the grave of [[James Allison (Earth-616)|James Allison]]. He attacked them, but during the battle the cult disappeared, and Moon Knight was transported to [[England]] in 1584, where he met [[Solomon Kane (Earth-616)|Solomon Kane]].{{r|Conan: Serpent War Vol 1 1}} Then that era's corpse of James convinced them to join forces and fight the threat of Set. After going through Northumberland, they awaited for the Shandy boat to take them to their destination, but the crew had already been possessed by Set. After killing the crew,{{r|Conan: Serpent War Vol 1 2}} they used another ship to [[Rotterdam]] and made their way to [[Italy]].<!--{{r|Conan: Serpent War Vol 1 3}}-->
+
+[[File:Conan Serpent War Vol 1 1 Lee Variant Textless.jpg|180px|thumb|right]]
+Upon finding the lair of the cult, they ambushed them and were able to get the bracelet that needed to be destroyed. However, when Khonshu was able to reach Moon Knight again, the god told him that he needed to wear the bracelet instead. After doing so, Moon Knight's soul was transported to Eternal Egypt where Set awaited.{{r|Conan: Serpent War Vol 1 3}} After Khonshu defeated Set, Moon Knight returned back to his body, and alongside Solomon he went to [[Hyboria]] where they met [[Conan (Earth-616)|Conan]] and [[Agnes de Chastillon (Earth-616)|Dark Agnes]]. After finding out that they all had been manipulated by the [[Worm (Country of the Worm) (Earth-616)|Wyrm]], they prepared to fight the being. During the battle, Khonshu gave Moon Knight enough power to defeat Wyrm, and returned him to his time, but with a sliver of Khonshu's power still within him.{{r|Conan: Serpent War Vol 1 4}}
+
+===[[Age of Khonshu|The Age of Khonshu]]===
+When Khonshu became plagued by visions of the end of the world at the hands of an army of the demon [[Mephisto (Earth-616)|Mephisto]] and his pandimensional alternate selves, Marc was affected by these horrific premonitions. Confronting Khonshu, Moon Knight discovered his master was as much of a victim as himself.{{r|Avengers Vol 8 34}} With assistance from the [[Cult of Khonshu (Earth-616)|Cult of Khonshu]], Moon Knight reluctantly embarked on a quest to absorb the powers of the modern-age counterparts of a group of [[Avengers (1,000,000 BC) (Earth-616)|Avengers of the Stone Age]] into mystical ankhs in order to prepare to defend the Earth. His victims were [[Daniel Rand (Earth-616)|Iron Fist]], [[Stephen Strange (Earth-616)|Doctor Strange]], [[Roberto Reyes (Earth-616)|Ghost Rider]] and [[Thor Odinson (Earth-616)|Thor]].{{r|Avengers Vol 8 33}}
+
+[[File:Marc Spector (Earth-616) from Avengers Vol 8 36 002.jpg|thumb|left|180px|Imbued with the Phoenix Force]]
+After Moon Knight killed Mephisto and handed over his new powers to Khonshu, the Moon God took over Manhattan, rechristening it New Thebes City and using it as the starting point of a global conquest, with the Avengers becoming fugitives due to harboring one of Khonshu's targets, the infant [[Brandy Selby (Earth-616)|Starbrand]].{{r|Avengers Vol 8 35}} As Khonshu began to succumb to madness and paranoia, Moon Knight was encouraged by the [[Nicholas Fury (Earth-616)|Unseen]] during a visit on the Moon to seek out a different power. In a battle against the [[T'Challa (Earth-616)|Black Panther]], Spector used the physical beating as a token of devotion while praying to the [[Phoenix Force (Earth-616)|Phoenix Force]].{{r|Avengers Vol 8 36}} Becoming the Phoenix's host, Moon Knight used its power to attack Khonshu, leaving him to be defeated and have the stolen powers strippd off him by the Avengers. After the Phoenix Force tried to persuade Marc into razing the Earth, Marc began to reject the cosmic force, and allowed Thor to knock him out, becoming free of the Phoenix.{{r|Avengers Vol 8 37}} As Manhattan recovered from Khonshu's short-lived rule, the Avengers decided to leave Moon Knight unincarcerated, with Black Panther even offering him a place in the team to help avoid the prophesied future. Marc refused since the Avengers had interfered in his own attempt to stop Mephisto.{{r|Avengers Vol 8 38}}
+
+Following his rejection of Khonshu as an object of worship, Spector appropriated his former master's mission, that of protecting night travelers. Remaining in Manhattan, he claimed a portion of the city as his territory and brutally protected anybody within it. He also established a congregation named the [[Midnight Mission (Earth-616)|Midnight Mission]] whose doors were open to anybody who needed his help.{{r|Moon Knight Vol 9 1}}
+
+| Personality             = Moon Knight can be best characterized by his relationship with Khonshu, and whether that is derived from his own mental illness or from actual divine inspiration. When Marc Spector first awakened at the foot of Khonshu's statue, it was ambiguous whether his survival was truly Khonshu's doing or if Spector merely attributed it to the Moon God.{{r|Moon Knight Vol 1 1}} Later stories introduced Khonshu as an undeniably real god, employing Moon Knight as his agent.{{r|Moon Knight Vol 2 1}}{{r|West Coast Avengers Vol 2 21}} Subsequent takes on Moon Knight would attempt to "walk back" the revelation that Khonshu was real, once again questioning whether the drive to be "the moon's knight of vengeance" was all in Spector's head.{{r|Moon Knight Vol 3 1}}{{r|Moon Knight Vol 5 1}}
+
+Presently, it seems as if Marc Spector is both mentally ill and an agent of a higher power. Khonshu does exist, and has chosen Marc as his avatar, but Marc's mental illness sometimes causes him to experience conversations with a Khonshu that is only in his mind, not with the actual god. There are also discrepancies over whether Marc Spector was already schizophrenic or dissociative from an early age (making him a convenient host for Khonshu){{r|Moon Knight Vol 8 10}} or if Khonshu imposed this mental condition upon Marc.{{r|Moon Knight Vol 7 1}} Khonshu is a god of multiple facets, and Marc Spector has taken on multiple identities in the past in order to properly represent all aspects of his god. This includes his original alter egos of Steven Grant, Jake Lockley, and Moon Knight,{{r|Moon Knight Vol 1 1}} the representations of Captain America, Wolverine, and Spider-Man communicating with him,{{r|Moon Knight Vol 6 1}} or his recent set of identities and attire like Mr. Knight.{{r|Moon Knight Vol 7 1}}
+
+Unlike most superheroes, Moon Knight is willing to brutally hurt and maim his opponents, and sometimes has even killed his enemies, as is seen by his ripping the face off [[Raul Bushman (Earth-616)|Raul Bushman]],{{r|Moon Knight Vol 5 2}} or carving crescents on his victims' foreheads.{{r|Moon Knight Vol 5 16}}
+
+| Powers                  = As a testament to the human brain, Moon Knight's state of mind has always caused his "Powers and Abilities from Khonshu" to come into question, as he himself, at times, is not a reliable source. It's been stated that he may suffer from a madness so powerful it can only be described as magic.<ref>"[https://comicvine.gamespot.com/moon-knight-12-midnight-sun-chapter-six-this-trap-/4000-114432/ Moon Knight Vol 1 12 - Midnight Sun, Chapter 6: This Trap, My Body]", Marvel, November 1st, 2007</ref>
+
+{{Navigation
+| title  = Former Powers
+| body   = 
+'''Divine Empowerment:''' After Marc was imbued with a sliver of Khonshu's power he displayed these powers:{{r|Conan: Serpent War Vol 1 4}}
+* '''Power Absorption:''' Employing a set of divine ankhs Moon Knight was able to absorb the mystical powers of the [[Daniel Rand (Earth-616)|Iron Fist]], the [[Glossary:Sorcerer Supreme|Sorcerer Supreme]], Ghost Rider's [[Glossary:Spirit of Vengeance|Spirit of Vengeance]], and was seemingly able to absorb the [[Star Brand (Object)|Starbrand]] and the [[Phoenix Force (Earth-616)|Phoenix Force]] if he had been given the chance. This power seems limited as Moon Knight was unable to absorb [[T'Challa (Earth-616)|Black Panther]]'s powers due to the later's powers being embedded in his blood.{{r|Avengers Vol 8 33}}
+* '''Necromancy:''' Moon Knight was able to control an entire army of undead mummies.{{r|Avengers Vol 8 10}}{{r|Avengers Vol 8 33}}
+* '''Lunakinesis:''' Moon Knight was able to control the universe's different moons and objects made out of them, which allowed him to take control of Mjolnir despite not being worthy.{{r|Avengers Vol 8 33}}
+** '''Geokinesis:''' As most orbital astral bodies are comprised entirely out of mineral, rock and dead terrafirma, this indicates an underlying ability to control different earthen elements by sheer will.{{r|Avengers Vol 8 33}}
+* '''Phase Transformation:''' After the Serpent War where he was jettisoned across time & space and back, and realizing his retention of Khonshu's power after seeing the world through a god's perception, Marc stepped through solid glass while transforming into his caped semblance, coming out the other side.{{r|Conan: Serpent War Vol 1 4}}
+* '''Moon Empowerment''': Marc once mentioned that the supermoon feeds into the strength level of his abilities. Giving him enough power to best the likes of Earths greatest champions single handed.{{r|Avengers Vol 8 33}}
+* '''Self Sustenance''': Moon Knight can survive indefinitely without need of a breathable atmosphere.{{r|Avengers Vol 8 33}}
+
+'''Phoenix Force:''' Marc came under the thrall of the Phoenix Force as a replacement deity to Khonshu.{{r|Avengers Vol 8 36}}
+
+'''Lunar Strength:''' Through the power of Khonshu, Marc Spector received increased strength at night and under the light of the moon. His strength naturally increased after nightfall and whenever he was away from direct sunlight. Under the new moon, when the moon was not visible in the sky, his strength increased so that he could lift 1000 lbs. Over the next two weeks, his strength would increase even further as the moon became larger in the night sky. Under the light of the full moon, his strength reached its peak, allowing him to lift 4000 lbs, or 2 tons.{{r|Moon Knight Vol 2 1}}{{r|Official Handbook of the Marvel Universe Vol 2 9}}
+
+'''Immortality:''' Marc Spector’s pact with Khonshu comes with the advantages of immortality. Moon Knight has been brought back to life by Khonshu on numerous occasions. Fatal wounds that would end any other mortal superhero are restored by the God to full health, allowing Moon Knight to continue his vengeful spree.{{r|Official Handbook of the Marvel Universe Vol 1 7}}<ref>[https://www.cbr.com/marvel-moon-knight-trivia/ CBR's Moon Knight: 20 Things Fans Should Know About]</ref>
+}}
+| Abilities               = Over the course of his life as a boxer, U.S. Marine, mercenary, and costumed superhero, Marc Spector has become an expert at hand-to-hand combat techniques and various martial arts. He is an Olympic-level athlete and a skilled acrobat and gymnast, and excels as a combat strategist.{{r|Official Handbook of the Marvel Universe Master Edition Vol 1 9}}
+
+'''Expert Pilot:''' He is an excellent pilot and aviator due to his years as a U.S. Marine and a mercenary.{{r|Official Handbook of the Marvel Universe Vol 1 7}}{{r|Official Handbook of the Marvel Universe Vol 2 9}}
+
+'''Expert Detective:''' Spector is a good detective/private investigator with broad skills, knowledge and understanding of the criminal underworld. He also knows many of the streets of New York very well due to being a cab driver in the alias of Jake Lockley.{{r|Official Handbook of the Marvel Universe Vol 1 7}}
+
+'''Interrogation Expert:''' He is an expert at interrogation often employing military secret police methods of torture.{{r|Official Handbook of the Marvel Universe Vol 1 7}}
+
+'''Master Marksman:''' He is capable of hurling all types of projectiles with great aim and pin point accuracy as well as an excellent sharpshooter/marksman. He is able to slice a bullet in half with a crescent disc.{{r|Moon Knight Vol 7 2}}
+
+'''Weapons Master:''' Spector is adept with nearly every weapon ever invented ranging from many types swords, combat knives, batons, chains, brass knuckles, thrown projectiles such as shuriken, longbows, bolos, boomerangs to use of all types of firearms such as pistols, sniper rifles, automatic assault rifles, submachine guns, machine guns, grenade launchers, anti-tank bazooka, and even electronic remote firing stations such as 20/30mm anti-aircraft full auto chain guns, Gatling cannons, mechanized mortars, missile launchers etc.{{r|Official Handbook of the Marvel Universe Vol 1 7}}
+
+'''[[Master Martial Artist]]:''' Spector is a former heavyweight boxing champion who underwent intense training as a commando, intelligence operative and mercenary. He is skilled in armed and unarmed combat with training in Boxing, Judo, Krav Maga, Silat, Dambe, Savate, Escrima, Karate, Muay Thai and Kung Fu; his knowledge is extensive enough that it has been shown that he can use pressure points against his opponents, striking nerve clusters to stun or even instantly incapacitate. On more than one occasion without powers he has fought the [[Frank Castle (Earth-616)|Punisher]] to a stand still.{{r|Official Handbook of the Marvel Universe Vol 1 7}}
+
+'''[[Multilingual]]:''' In addition to English, Spector is fluent in Arabic{{r|Moon Knight Vol 1 28}} and has demonstrated his proficiency in both the Egyptian and Sudanese dialects of it.
+
+'''Pain Resistance:''' Insanity, torture, spiritually gifted, or simply numb from all the years of damage to his body, Moon Knight has an incredibly strong threshold for pain.{{r|{{cl|Moon Knight Vol 5 5}}-[[Moon Knight Vol 5 6|6]]}}
+
+'''Telepathic Resistance:''' Spector's multiple personalities give him some protection against certain psychic powers such as possession or mental control.{{r|West Coast Avengers Vol 2 30}}{{r|West Coast Avengers Vol 2 36}}
+
+| Strength                = Currently, Spector has the strength of a normal human male of his age, height, and build who engages in intensive regular exercise. He could formerly press lift twice his bodyweight; 450 lbs, but since losing his powers he has been routinely weightlifting and is likely stronger. According to the Official Handbook of the Marvel Universe Vol 1 9, at his strongest, under the light of the full moon, he can lift about 2 tons.{{r|Official Handbook of the Marvel Universe Vol 1 7}}
+| Weaknesses              = '''Brain damage/mental illness:''' While it was initially believed Marc suffered from dissociative identity disorder, it was determined that the different personas he has developed throughout his life are a consequence of having become Khonshu's avatar. Khonshu is said to have four aspects; Pathfinder, Embracer, Defender, and the Watcher of overnight travelers. Spector cycles through these aspects, and his brain applies identities to them in order to explain them. In essence, Marc's mind has been "colonized" by Khonshu, and the different personalities Marc displays are a way to cope with the damage.{{r|Moon Knight Vol 7 1}} Despite this, Marc has also been shown to have experienced dissociative episodes from a young age.{{r|Moon Knight Vol 8 10}}
+
+| Equipment               = 
+[[File:Marc Spector (Earth-616) from Moon Knight Vol 1 189 001.jpg|thumb|right]]
+[[File:Marc Spector (Earth-616) from Marc Spector Moon Knight Vol 1 45 cover.jpg|thumb|right|Armored costume]]
+'''[[Moon Knight's Suit]]:''' Spector's original costume included Kevlar armor. It had a built-in two-way radio system so that Spector could summon du Champ, who typically provided backup in a helicopter. Spector later upgraded the Kevlar to [[Adamantium]], and du Champ added dart launchers to the gauntlets.{{r|Marc Spector: Moon Knight Vol 1 38|39}} More recently, he added a flashlight so he could explore dark places, like the subway.{{r|Moon Knight Vol 1 189}}
+* '''Glider Cloak:''' Although Spector cannot fly, he can spread his cloak and slow his descent from great heights. To a slight extent he can steer his fall. Because it must be flexible, the cloak is not armored. Du Champ created the cloak.{{r|Official Handbook of the Marvel Universe Vol 1 7}}
+* '''[[Carbonadium Armored Vestment]]:''' Before he moved to the West Coast to operate there, he was wearing a costume that was made of carbonadium which he claimed was almost as tough as adamantium but more flexible. The suit had several features identified: Crescent Dart Launchers in his wrist, Crescent Cable line used for swinging or for grappling, jump jets, laser cutting torch, and a few other features.{{r|Official Handbook of the Marvel Universe Vol 1 7}}
+
+{{Navigation
+| title = Former Equipment
+| body  = 
+'''[[Avengers Identicard]]'''{{r|Official Handbook of the Marvel Universe Vol 1 7}}
+
+'''[[Eye of Agamotto]]:''' After absorbing Doctor Strange's powers Moon Knight was able to use the Eye of Agamotto.{{r|Avengers Vol 8 33}}
+}}
+| Transportation          = Flying drone (As Moon Knight), Modified limousine (As Mr. Knight); formerly [[Moon Knight's Helicopter]], [[Avengers Quinjet]], [[Moon Knight's Angel Wing]]
+{{Navigation
+| title  = Former Transportation
+| body   = 
+[[Hell Charger]]{{r|Avengers Vol 8 33}}
+}}
+| Weapons                 = Although he has mastered almost every weapon ever invented, Moon Knight displays an obvious fondness for certain moon-themed objects referred to as his toys. These include throwing darts, nunchaku, and a truncheon.{{r|Official Handbook of the Marvel Universe Master Edition Vol 1 9}}
+
+'''[[Moon Knight's Crescent Darts|Crescent Darts]]:''' Most likely his favorite weapon, these symmetrical throwing blades function as "calling cards" as well as weapons. Spector keeps a dozen of them in protective holsters spaced around his belt.{{Citation}}
+
+'''Truncheon:''' This ingenious device functions as a simple club, nunchaku, and a grappling hook. By itself, it can be wielded as a blunt instrument or thrown. It separates into two shorter clubs (linked by a chain) to entangle a weapon or limb, or to lengthen the club's arc of travel and thus its force. The hook springs forth from one end and, with a cable attached, allows Moon Knight to climb to, descend from, or swing around a fixed point. It weighs 12 pounds (5.5 kg) and is 12 inches (30 cm) long. When not in use, it fits into a holster on his left calf. Later improvements include upgrading the stainless steel to adamantium, incorporating the cable with the hook, and adding the option to extend to 8 feet (242 cm) long.{{Citation}}
+
+'''Crescent Launcher Pistols:''' He also used 2 pistols which fired crescent darts with cables that allowed him to grapple, trip or pin his enemies to surfaces. These had enough force to push a man back into a wall and pin him there.{{Citation}}
+
+'''[[Energy Shield]]:''' Buck Lime built him an energy shield similar to Captain America's Vibranium shield.{{Citation}}
+
+'''Web-Shooters/Wolverine's Claws:''' Buck Lime created a pair of bracers which can be used as Web-Shooters (like Spider-Man's) or metal claws (like Wolverine's).{{Citation}}
+
+'''[[Moon Knight's Cestus|Silver Cestus]]:''' On his first mission as Moon Knight (bringing in the Werewolf By Night for the Committee), Spector wore two silver cesti on his arms.{{Citation}}
+
+During his time as the Fist of Khonshu, Spector used another set of weapons, keeping them in a leather pouch or on his person.{{r|Official Handbook of the Marvel Universe Vol 2 9}}
+
+'''Ankhs:''' This Egyptian symbol made of gold lit up in the face of imminent danger. Like the truncheon above, it could serve as a thrown or hand-held club. It weighed 12 pounds (5.5 kg) and was 12 inches (30 cm) long.{{r|Moon Knight Vol 2 1}} Moon Knight then used some Divine Ankhs which allowed Moon Knight to absorb the heroes mystical powers and containing them in individual ankhs.{{r|Avengers Vol 8 33}}
+
+'''Other Weapons:''' Moon Knight also used other weapons such as scarab darts, an ivory boomerang, grappling hook and lariat, bola, san-setsu-kon (three-piece staff), and a truncheon with built-in taser.{{r|Moon Knight Vol 2 1}}
+
+{{Navigation
+| title                   = Former Weapons
+| body                    =  '''[[Mjolnir]]:''' Thanks to his powers of manipulating moon rocks Moon Knight was able to use the mighty hammer, despite not being worthy.{{r|Avengers Vol 8 33}}
+}}
+
+| Notes                   = * In 1999, [[Moon Knight Vol 4]] was nominated for favorite limited series by the Comics Buyer's Guide Fan Award.{{r|{{cite web|url=http://www.hahnlibrary.net/comics/awards/cbg98.php|title=17th Annual Comics Buyers Guide Fan Awards (1999)|work=The Hahn Library|first=|date=1999|accessdate=19 October 2017}}}}
+| Trivia                  = * Moon Knight is Jewish, but non-practicing.{{r|Marvel Holiday Special #2011}}{{r|Moon Knight Vol 1 189}} When asked by  [[Solomon Kane (Earth-616)|Solomon Kane]] if he was a Christian or a Heathen, he joked that he was "Pagan Christian-Compatible".{{r|Conan: Serpent War Vol 1 2}}
+* Mistakenly called Mark Spector in his first appearance;{{r|Werewolf by Night Vol 1 32}} in the following issue he was called Marc.{{r|Werewolf by Night Vol 1 33}}
+* He is combined with [[Peter Parker (Earth-616)|Spider-Man]] to become the amalgamation [[Peter Parker (Warp World) (Earth-616)|Arachknight]] in the 2018 comic ''[[Infinity Wars]]''.
+* During ''[[Damnation]]'', Moon Knight was seemingly able to lift Mjolnir before [[Jane Foster (Earth-616)|Thor]] called it back. The co-writer of Damnation, [[Donny Cates]], cleared the confusion confirming that Moon Knight wasn't worthy of Mjolnir, and that the hammer was just returning to Thor.{{r|{{cite web|url=https://www.google.com/amp/s/www.cbr.com/thor-moon-knight-cannot-lift-mjolnir-says-donny-cates/amp/|title=No, Moon Knight Is NOT Worthy To Lift Thor's Hammer Mjolnir|date=March 16 2020|work=CBR|first=Ian|last=Cardona}}}}
+| Marvel                  = 
+| Wikipedia               = Moon Knight
+| Links                   = * [http://www.toonopedia.com/moonkngt.htm Moon Knight article at Don Markstein's Toonopedia]
+* [http://moonknightfan.tripod.com/ Ultimate Moon Knight resource]
+*[http://www.comicfoundry.com/modules/wfsection/article.php?articleid=191 Comic Foundry - The Conversation: Doug Moench + Charlie Huston]
+*[http://users.rcn.com/aardy/comics/awards/cbg.shtml Comics Buyer's Guide Fan Awards]
+* [http://www.comixfan.com/xfan/forums/showthread.php?t=35259 "Charlie Huston: Shining Light on Moon Knight", ''Comixfan,'' August 17, 2005]
+* [http://buzzcomics.net/showthread.php?t=11597 Summary of Moon Knight's earliest appearances (in French)]
+}}
+[[Category:Jewish Characters]]
+[[Category:Alraune Family]]
+[[Category:Spector Family]]
+[[Category:Multilingual]]
+[[Category:Weapons Expert]]
+[[Category:Acrobats]]
+[[Category:Gymnasts]]
+[[Category:Athletic Skills]]
+[[Category:Martial Arts]]
+[[Category:Strategists]]
+[[Category:Regeneration]]
+[[Category:Fear-Based Powers]]
+[[Category:Chi Manipulation]]
+[[Category:Egyptian Religion]]
+[[Category:Dissociative Identity Disorder]]
+[[Category:Advanced Longevity]]
+[[Category:Telepathic Immunity]]
+[[Category:Millionaires]]
+[[Category:Insanity]]
+[[Category:Thrown Weapons]]
+[[Category:Iraq War Characters]]
+[[Category:Damnation participants]]
+[[Category:Totemic Avatars]]
+[[Category:Time Travelers]]
+[[Category:Scarred]]
+[[Category:Paralyzed Characters]]
+[[Category:Power Absorption]]
+[[Category:Iron Fist]]
+[[Category:Sorcerers Supreme of the Marvel Universe]]
+[[Category:Spirits of Vengeance]]
+[[Category:Necromancy]]
+[[Category:Geokinesis]]
+[[Category:Object-Based Powers]]
+[[Category:Intangibility]]
+[[Category:Self Sustenance]]
+[[Category:Phoenix Force]]
+[[Category:Self-Resurrection]]
+[[Category:Immortals]]
+[[Category:Pyrokinesis]]
+[[Category:Telepaths]]
+[[Category:Telekinesis]]
+[[Category:Detectives]]
+[[Category:Shooting]]
+[[Category:Pilots]]
+[[Category:Depowered Mutates]]
+[[Category:Adventurers]]
+[[Category:Vigilantes]]
+[[Category:Dictators]]
+[[Category:Conquerors]]
+[[Category:Boxers]]
+[[Category:Spies]]
+[[Category:Government Agents]]
+[[Category:Mercenaries]]
+[[Category:Resurrection]]
+[[Category:Fighting Ability - Master of several forms of combat]]
+[[Category:Normal Strength]]

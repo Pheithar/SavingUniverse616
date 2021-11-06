@@ -1,0 +1,60 @@
+{{Marvel Database:Character Template
+| Image                   = Charles Dalton (Earth-616) from Secret Avengers Vol 2 6 001.jpg 
+| Name                    = Charles Dalton
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{m|World Security Council}}; {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}; formerly {{m|MI13 (Earth-616)|MI13}}, {{m|United Nations}}' {{m|United Nations Security Council (Earth-616)|Security Council}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Blue
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = [[The Shard]], [[London (England)|London]], [[England]], [[United Kingdom]]
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Government official
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Nick Spencer; Luke Ross
+| First                   = Secret Avengers Vol 2 5
+| Death                   = Captain America: Steve Rogers #9
+
+| Quotation               = So that guy was creepy, right?
+| Speaker                 = [[Maria Hill (Earth-616)|Maria Hill]]
+| QuoteSource             = Secret Avengers Vol 2 6
+
+| History                 = Charles Dalton was a member of the [[MI13 (Earth-616)|MI13]], and once met [[Maria Hill (Earth-616)|Maria Hill]].<!-- {{r|Secret Avengers Vol 2 6}} -->
+
+After the death of [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] liaison [[Robert Ralston (Earth-616)|Senator Robert Ralston]] at the hands of [[Advanced Idea Mechanics (Earth-616)|A.I.M.]],{{r|Secret Avengers Vol 2 3}} Charles Dalton became S.H.I.E.L.D.'s new interim liaison between the organization and the [[United Nations (Earth-616)|United Nations]] [[United Nations Security Council (Earth-616)|Security Council]].{{r|Secret Avengers Vol 2 6}}
+
+Sometime thereafter, Dalton became a member of the [[World Security Council (Earth-616)|World Security Council]] and was present for the trial of [[Maria Hill (Earth-616)|Maria Hill]]. Around the same time, Charles had also coordinated a joint operation between [[Joseph Chapman (Earth-616)|Union Jack]] and [[Steven Rogers (Earth-61311)|Captain America]] to root out the [[Darkholders (Earth-616)|Cult of the Darkhold]], who had established a presence in [[Scotland]], after a fracking operation by a company tied to Dalton had unearthed a [[Demons|demon]] which called to them. Rogers then led the Darkholders directly to Minister Dalton's office in [[The Shard]] in order to use his inopportune death to sway the outcome of the World Security Council's vote regarding Maria Hill's tribunal.{{r|Captain America: Steve Rogers #9}}
+
+After he was murdered, [[Phillip Coulson (Earth-616)|Agent Phil Coulson]] began to suspect Captain America's involvement.{{r|Deadpool Vol 6 27}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

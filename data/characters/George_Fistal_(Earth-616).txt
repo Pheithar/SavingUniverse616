@@ -1,0 +1,51 @@
+{{Marvel Database:Character Template
+| Image                   = George Fistal (Earth-616) Daredevil Vol 1 207.jpg
+| Name                    = [[George Fistal]]
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra (Earth-616)|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 6'
+| Weight                  = 170 lbs.
+| Eyes                    = Brown
+| Hair                    = Blond
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Terrorist, mercenary
+| Education               = [[United States Military Academy|West Point]]
+| BaseOfOperations        = [[New York City]], [[New York (State)|New York]]
+
+| Creators                = Denny O'Neil; William Johnson
+| First                   = Daredevil Vol 1 207
+
+| History                 = 
+
+| Personality             = 
+
+| Powers                  = None
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * http://www.marvunapp.com/Appendix8/fistalgeorgedd.htm
+}}
+[[Category:Tobacco Smokers]]

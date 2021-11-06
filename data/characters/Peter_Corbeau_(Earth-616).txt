@@ -1,0 +1,61 @@
+{{Marvel Database:Character Template
+| Image                   = Peter Corbeau (Earth-616) from Captain America & the Mighty Avengers Vol 1 8 001.png
+| Name                    = [[Peter Corbeau]]
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = [[Charles Xavier (Earth-616)|Charles Xavier]], [[Bruce Banner (Earth-616)|Bruce Banner]]
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Scientist, pilot, astronaut
+| Education               = 
+| BaseOfOperations        = [[Starcore One]]; formerly, [[Lunar Receiving Laboratory]]
+
+| Creators                = Archie Goodwin; Herb Trimpe
+| First                   = Incredible Hulk Vol 1 148
+
+| History                 = 
+===Early Life===
+Peter Corbeau was a brilliant man who gained a scholarship to [[Pennsylvania State University]]. It was there he met fellow genius [[Bruce Banner (Earth-616)|Bruce Banner]] and the two became room mates.{{r|Incredible Hulk Vol 1 148}} An old friend of [[Charles Xavier (Earth-616)|Charles Xavier]],{{r|X-Men Vol 1 98}} and is the creator of [[Starcore One]].{{r|Incredible Hulk Vol 1 148}} 
+
+He also was a lead reseacher on a [[National Aeronautics and Space Administration (Earth-616)|NASA]] project, where they researched and performed experiments on the [[Cavorite]] crystals. The ultimate goal of the project was to try to harness the power of the Cavorite, it would have allowed them to build a faster than light stardrive, it was based in the [[Lunar Receiving Laboratory]] in [[Houston]]. [[Carol Danvers (Earth-616)|Carol Danvers]] also worked at the laboratory as a security officer.{{r|Ms. Marvel Vol 1 6}}
+
+===The Hulk===
+Peter Corbeau became a world-renowned physician, Nobel Prize winner. When the [[Bruce Banner (Earth-616)|Hulk]] was captured by the army with tranquilizer bombs and taken to Dr. Corbeau. He used a device that manipulates the sun's energy, thus neutralizing the gamma rays in Hulk, curing Dr.Banner. Meanwhile, [[Jarella (Earth-616)|Jarella]] is sent to [[Earth]] by her wizards in search for her lover, the Hulk. She needs him by her side to defeat the tyrant [[Visis (Earth-616)|Lord Visis]]. Somehow, Corbeau's process and Jarella's appearance caused an adverse effect in the sun, threatening its very existence. Instead of sending the princess back to her microscopic world, the army creates a replicate. But before they send it, Visis sends [[Fialan (Earth-616)|Fialan]] the assassin to kill Jarella. Hulk fights Fialan but an explosion kills Jarella's replicate. The green monster thinks the girl is dead and smashes Fialan. When Jarella appears, the army uses gas to knock the Hulk out, and the princess is sent willingly back to K'ai.{{r|Incredible Hulk Vol 1 148}} 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Bronze-Age Characters]]
+[[Category:Engineers]]
+[[Category:Inventors]]
+[[Category:Physicists]]
+[[Category:Doctors]]
+[[Category:Pilots]]
+[[Category:Nobel Prizes]]
+[[Category:Astronauts]]

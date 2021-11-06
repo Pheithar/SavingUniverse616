@@ -1,0 +1,43 @@
+{{Marvel Database:Organization Template
+| Title                   = Howling Commandos Private Military Company
+| Image                   = Howling Commandos PMC.jpg
+| Name                    = Howling Commandos Private Military Company
+| Aliases                 = [[Howling Commandos]]
+
+| Status                  = Active
+| Identity                = Public
+| Reality                 = Earth-616
+| BaseOfOperations        = Mobile
+
+| OrganizationLeaders     =  
+| CurrentMembers          = [[Timothy Dugan (Earth-616)|Dum Dum Dugan]], [[Jonathan Garrett (Earth-616)|John Garrett]], [[Olivia Hook (Earth-616)|Olivia Hooks]], Beowulf
+| FormerMembers           = [[Nicholas Fury (Earth-616)|Nick Fury]], [[Gabriel Jones (Earth-616)|Gabe Jones]], [[Eric Koenig (Earth-616)|Eric Koenig]], [[Jasper Sitwell (Earth-616)|Jasper Sitwell]]
+| Allies                  = [[Secret Warriors (Earth-616)|Secret Warriors]], [[Natalia Romanova (Earth-616)|Black Widow]]
+| Enemies                 = [[H.A.M.M.E.R. (Earth-616)|H.A.M.M.E.R.]], [[Hydra (Earth-616)|Hydra]], [[Leviathan (Earth-616)|Leviathan]]
+
+| Origin                  = Formed by a cadre of disgruntled ex-S.H.I.E.L.D. and H.A.M.M.E.R. agents
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Brian Michael Bendis; Jonathan Hickman; Stefano Caselli
+| First                   = Secret Warriors #4
+
+| History                 = After the [[Secret Invasion]], when [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] was deemed "compromised" and dismantled, most of the agents were given the option to join the newly-formed [[H.A.M.M.E.R. (Earth-616)|H.A.M.M.E.R.]] organization. But not everybody accepted. They refused to serve under [[Norman Osborn (Earth-616)|Norman Osborn]], and so, they formed the Howling Commandos Private Military Company.
+
+Though at first the Company tried to be selective in their clients, they soon realized what a rough business it is.
+
+When [[Nicholas Fury (Earth-616)|Nick Fury]] made contact with the Howling Commandos, he offered to employ them full-time. Their first target would be [[Dock (Location)|the Dock]], a H.A.M.M.E.R. Helicarrier facility. After the battle, which also included an assault from [[Hydra (Earth-616)|Hydra]], most of the surviving H.A.M.M.E.R. agents defected to the Howling Commandos.
+
+The team was later hired, along with [[Natalia Romanova (Earth-616)|Black Widow]], to rescue journalist [[Uri Friedman (Earth-616)|Uri Friedman]] kidnapped by a terrorist group in [[Somalia]] by his newspaper's insurance company. They successfully attacked the vehicle the terrorists were using to move Friedman and took down to enemy helicopters. They were successful in rescuing Friedman and getting him to safety.{{r|Black Widow Vol 5 12}}
+| Equipment               = 
+| Transportation          = Helicarrier
+| Weapons                 = 
+| Notes                   = * The Howling Commandos have a camp in Sudan, near a UN staging post.
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:2009 Team Debuts]]
+[[Category:Companies]]
+[[Category:Private Military Companies]]
+[[Category:Brian Michael Bendis/Creator]]
+[[Category:Jonathan Hickman/Creator]]
+[[Category:Stefano Caselli/Creator]]

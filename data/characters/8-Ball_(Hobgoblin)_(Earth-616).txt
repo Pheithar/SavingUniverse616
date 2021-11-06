@@ -1,0 +1,58 @@
+{{Marvel Database:Character Template
+| Image                   = 8-Ball (Hobgoblin) (Earth-616) from Superior Spider-Man Vol 1 26 0001.jpeg
+| Name                    = Unknown
+| CurrentAlias            = [[8-Ball]]
+| Aliases                 = 
+
+| Affiliation             = Formerly {{m|Inklings (Earth-616)|Inklings}}, [[Roderick Kingsley (Earth-616)|Hobgoblin]], {{m|Black Cat's Gang (Earth-616)|Black Cat's Criminal Army}}, {{m|Sinister Six (Earth-616)|All-New Sinister Six}}, {{m|Goblin Nation (Earth-616)|Goblin Nation}}
+| Relatives               = [[Mania (Symbiote) (Earth-616)|Mania]] (former symbiote){{r|Amazing Spider-Man Vol 1 792}}
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Criminal
+| Education               = 
+| BaseOfOperations        = [[New York City|New York]], [[New York (State)|New York]]
+
+| Creators                = Dan Slott; Christos N. Gage
+| First                   = Superior Spider-Man Vol 1 26
+
+| History                 = ===Becoming 8-Ball===
+After [[Jeff Hagees (Earth-616)|Jeff Hagees]] was killed by the [[Dirk Garthwaite (Earth-616)|Wrecker]], his gear he used as 8-Ball was sold by the [[Roderick Kingsley (Earth-616)|Hobgoblin]] to an unnamed criminal, who later came to serve under him.
+
+===Goblin War===
+8-Ball was present during a battle between Hobgoblin's forces and the [[Goblin Underground (Earth-616)|Goblin Underground]]. He, along with every other Hobgoblin franchise, joined Team Goblin when [[Norman Osborn (Earth-616)|Green Goblin]] apparently killed Hobgoblin, really Kingsley's butler [[Hobgoblin (Claude) (Earth-616)|Claude]].{{r|Superior Spider-Man Vol 1 26}}
+
+===Sinister Six===
+8-Ball later appeared as a member of [[Fritz von Meyer (Earth-616)|Swarm]]'s incarnation of the [[Sinister Six (Earth-616)|Sinister Six]].{{r|Spider-Man and the X-Men Vol 1 4}}
+
+===Returning to Hobgoblin===
+After dealing with [[Roger Gocking (Earth-616)|Porcupine]], Hobgoblin regained 8-Ball's allegiance to him.{{r|Spider-Woman Vol 6 14}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = Seemingly [[Jeff Hagees (Earth-616)#Equipment|those]] of [[Jeff Hagees (Earth-616)|Jeff Hagees]].
+| Transportation          = 
+| Weapons                 = Seemingly [[Jeff Hagees (Earth-616)#Weapons|those]] of [[Jeff Hagees (Earth-616)|Jeff Hagees]].
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Hobgoblin Franchises]]
+[[Category:Symbiotes-possessed]]

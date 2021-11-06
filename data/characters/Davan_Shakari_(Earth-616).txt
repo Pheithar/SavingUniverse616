@@ -1,0 +1,59 @@
+{{Marvel Database:Character Template
+| Image                   = Davan_Shakari_(Earth-616)_from All-New Official Handbook of the Marvel Universe A to Z Vol 1 4_0001.jpg
+| Name                    = Davan Shakari
+| CurrentAlias            = [[Erik the Red|Eric the Red]]
+| Aliases                 = 
+
+| Affiliation             = {{m|Shi'ar Imperial Intelligence|Imperial Intelligence}}, {{M|Crystal Claws}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #4}}
+| Gender                  = Male
+| Height                  = 6'2"
+| Weight                  = 180 lbs
+| Eyes                    = White
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Shi'ar]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = Somewhere in the Shi'ar Imperium 
+
+| Identity                = Secret
+| Citizenship             = Shi'ar Empire
+| Occupation              = Spy/agent of the Imperial Intelligence
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Chris Claremont; Dave Cockrum
+| First                   = X-Men #97
+
+| History                 = Davan Shakari was an agent of the [[Shi'ar Empire|Shi'ar]] [[Shi'ar Imperial Intelligence (Earth-616)|Imperial Intelligence]] and [[D'ken Neramani (Earth-616)|Emperor D'Ken]]'s hand on Earth. He operated out of a hidden base inside a lifeless volcano in upstate [[New York (State)|New York]]. [[Gabriel Summers (Earth-616)|Gabriel Summers]] was sent to Earth to become a slave for Shakari, but he escaped to be found by [[Moira MacTaggert (Earth-TRN748)|Moira MacTaggart]], eventually becoming an [[X-Men (Earth-616)|X-Man]] of sorts.{{r|X-Men: Deadly Genesis #4}}
+
+Later, Shakari was ordered by Emperor D'Ken to kill [[Charles Xavier (Earth-616)|Charles Xavier]] and stop [[Lilandra Neramani (Earth-616)|Lilandra]] from enlisting the aid of the X-Men. Lilandra hoped to prevent her brother D'Ken from destroying the universe in his attempt to claim the power of the [[M'kraan Crystal|M'Kraan Crystal]]. Davan took on the identity of Eric the Red, and struck first by mind-controlling [[Lorna Dane (Earth-616)|Lorna Dane]] and [[Alexander Summers (Earth-616)|Havok]], sending them to assassinate Xavier. A massive battle ensued at Kennedy International Airport between the duo and the X-Men. Lorna (now calling herself Polaris) and Havok were defeated, but Shakari managed to escape with both of them under his control.{{r|X-Men #97}}
+
+Next, Shakari freed [[Thomas Cassidy (Earth-616)|Black Tom]] and the [[Cain Marko (Earth-616)|Juggernaut]] from prison. He gave them the money and knowledge to take over [[Cassidy Keep (Earth-616)|Cassidy Keep]], the ancestral home of [[Sean Cassidy (Earth-616)|Banshee]], and turn it into a deathtrap for the X-Men. The X-Men fell into that trap, but managed to defeat the two villains.{{r|X-Men #101}}
+
+Following that failure, Shakari, with Havok and Polaris, travelled to [[Muir Island]], where the de-aged [[Magneto (Eric Magnus Lehnsherr) (Earth-616)|Magneto]] was being kept. Shakari used some kind of ray on the young Magneto, turning him into a grown man once again. The two formed an alliance. Magneto attacked the X-Men while Shakari made plans to have Xavier killed. The X-Men barely escaped with their lives.{{r|X-Men #104}}
+
+The X-Men caught up with Shakari in New York, only to discover he was now allied with the powerful [[Pyraeus Kril (Earth-616)|Firelord]]. Freeing Havok and Polaris from his mind-control, Shakari used them to trick Firelord into believing the X-Men were villains trying to rule the world. Firelord confronted Xavier just as Lilandra finally reached him. [[Phoenix Force (Earth-616)|Phoenix]] defeated Firelord, however Shakari escaped with Lilandra through a star-gate.  Phoenix repowered the star-gate with her powers and the X-Men followed him to the world of the M'Kraan Crystal.{{r|X-Men #105}} There, the X-Men were able to stop D'Ken's plan, rescue Lilandra, and repair the M'Kraan crystal, leaving Shakari defeated at last.{{r|X-Men #107|108}}
+
+| Powers                  = '''[[Shi'ar Physiology]]'''
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = Davan Shakari was a Shi'ar whose powers derived from his techno-armor. It provided him great strength and resistance to injury and telepaths. It could fire energy blasts and came with a hypnotic/telepathic weapon that could place others in a "cerebral lock"
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = Shakari hinted at an unexplored history Lorna Dane had with the Shi'ar when he first brainwashed her. This was never followed up on, however, and may have merely been part of the brainwashing.{{r|X-Men #97}}
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Armor Users]]
+[[Category:Telepathic Immunity]]
+[[Category:Hypnosis]]
+[[Category:Telepaths]]

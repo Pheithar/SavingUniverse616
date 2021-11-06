@@ -1,0 +1,81 @@
+{{Marvel Database:Character Template
+| Image                   = Vostok (Anatoly) (Earth-616) from Avengers Vol 8 46 001.jpg 
+| Name                    = Anatoly
+| Name2                   =  (full name unrevealed)
+| CurrentAlias            = Vostok
+| Aliases                 = [[Sputnik]]
+
+| Affiliation             = {{m|Winter Guard}}; formerly {{m|People's Protectorate}}, {{m|Supreme Soviets}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Bald
+| UnusualSkinColor        = Silver
+| UnusualFeatures         = 
+
+| Origin                  = [[Synthezoids|Synthezoid]];{{r|Avengers Vol 8 10}} amalgamation of human, computer, and extra-terrestrial technologies
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = [[Siberia]]
+| CauseOfDeath            = Killed by [[Jennifer Walters (Earth-616)|Hulk]]{{r|Avengers Vol 8 47}}
+| KilledBy                = Jennifer Walters (Earth-616)
+
+| Identity                = Public
+| Citizenship             = Russian
+| Occupation              = Government operative
+| Education               = 
+| BaseOfOperations        = [[Winter Guard Mansion]], [[Moscow]], [[Russia]]
+
+| Creators                = Mark Gruenwald; Kieron Dwyer
+| First                   = Captain America Vol 1 352
+| Death                   = Avengers Vol 8 47
+
+| History                 = Originally a Soviet scientist, Vostok was formed in an unexplained incident involving extra-terrestrial technology. Radically transformed by the encounter, Vostok became a new lifeform of synthetic matter and tech who no longer answered to his previous identity.{{r|Soviet Super Soldiers #1}} Vostok became a founding member of the Supreme Soviets, the officially sanctioned super-team of the USSR who replaced the Soviet Super-Soldiers. Indeed, his first mission with the Soviets was to retrieve the Super-Soldiers before they defected to the West.{{r|Captain America Vol 1 352|353}}
+
+[[File:Anatoly (Earth-616) from Iron Man Vol 3 9 001.jpg|thumb|left]]
+During the Waterwind Incident, Vostok was present while the [[Avengers (Earth-616)|Avengers]], the [[People's Protectorate (Earth-616)|People's Protectorate]] and [[Alpha Flight (Earth-616)|Alpha Flight]] all tried to stop Russian terrorists from causing a nuclear explosion. The [[Combine (Earth-616)|Peace Corpse]] did succeed in initiating the stolen nuclear warhead.{{citation}}
+
+[[Michael Twoyoungmen (Earth-616)|Shaman]] was able to shunt the entire area affected by the explosion into his pouch. While lost in the other dimensional worlds contained in Shaman's pouch, Alpha Flight, the Avengers and the People's Protectorate faced the Combine; an amalgamation of the two leaders of the terrorist group who wanted to create war on earth to promote financial growth. The Combine was eventually won over when the other terrorists joined it and all that was affected by the explosion was returned to earth, leaving the Combine to explore the various dimensions in Shaman's pouch.{{r|Avengers Vol 1 319|324}}
+
+In light of an increase of global tensions in the superhuman community, marked by the Avengers answering to [[T'Challa (Earth-616)|King T'Challa]] of [[Wakanda]] and the formation of the [[Defenders of the Deep (Earth-616)|Defenders of the Deep]] by [[Namor McKenzie (Earth-616)|Namor]] to drive off human presence in the oceans, a mission that included the attack of Russian submarines in the [[Black Sea]], the Russian government decided to revamp the Winter Guard. As part of the expanded roster, Vostok rejoined the Winter Guard.{{r|Avengers Vol 8 10}}
+
+
+After the violent battle between [[Jennifer Walters (Earth-616)|Hulk (Jen Walters)]] and [[Namor McKenzie (Earth-616)|Namor]] spread destruction across [[Moscow]],{{r|Avengers Vol 8 44}} the Winter Guard decided that Walters had to pay for her crimes, so they invaded [[Avengers Mountain]] to capture her and bring her to justice. [[Kenneth Hale (Earth-616)|Gorilla-Man]] betrayed the Avengers by arranging for the Guard to enter undetected, and, after an intense fight with Hulk, they eventually succeeded in subduing her when Vostok forced his liquid metal into Jennifer's eyes, ears, nose and mouth.{{r|Avengers Vol 8 46}}
+
+After a mock trial where she was deemed guilty,{{r|Avengers Vol 8 46}} she was then placed in a "mind oven", where she was subjected to torture and high doses of radiation in an attempt to mind wash her into a weapon. Her mental defenses proved much higher than anticipated, and, with the Avengers coming to rescue her, they had to accelerate the procedure. As expected, things went wrong and Vostok, who was overseeing Jen, was killed by her as he broke lose of her restraints. Vostok's corpse was later found by [[Anthony Stark (Earth-616)|Tony Stark]].{{r|Avengers Vol 8 47}}
+
+
+| Powers                  = He is capable of low-speed flight, has enhanced strength, various scanning & homing functions ending with his most prominent ability being the remote manipulation of any mechanical system,{{r|Avengers Vol 1 319|324}} be it silicon or organic in nature.{{r|Captain America Vol 1 352|353}} More recent iterations have Anatoly showcasing new facilities to his biomechanical being; such as phasing through solid matter and discharging energy from his hands/eyes.{{r|Avengers Vol 8 10}} Another new addition to his ability roster include melting himself into amorphous liquid metal to permeate physical orifices for the sake of pacification or otherwise.{{r|Avengers Vol 8 46}} He can also use this facet of his abilities for tactile telepathy; invading the mindscape of those whom he is bonded too through this method, as well as create armaments made out of the same biometallic alloy comprising is liquid metallic body.{{r|Avengers Vol 8 47}} 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * Changed his name from Sputnik (the first unmanned Soviet space mission) to Vostok (first manned Soviet mission) to reflect his growing humanity.{{citation}}
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Flight]]
+[[Category:Technopaths]]
+[[Category:Optic Blasts]]
+[[Category:Soviets]]
+[[Category:Self Sustenance]]
+[[Category:Metal Body]]
+[[Category:Superhuman Durability]]
+[[Category:Superhuman Strength]]
+[[Category:Superhuman Stamina]]
+[[Category:Energy Projection]]
+[[Category:Intangibility]]
+[[Category:Biological Manipulation]]
+[[Category:Russian Technology]]
+[[Category:Energy Manipulation]]
+[[Category:Shapeshifters]]
+[[Category:Liquid Form]]
+[[Category:Telepaths]]

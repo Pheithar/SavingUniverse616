@@ -1,0 +1,66 @@
+{{Marvel Database:Character Template
+| Image                   = Maya Jackson (Earth-616) from Extraordinary X-Men Vol 1 17 001.jpg
+| Name                    = [[Maya Jackson]]
+| CurrentAlias            = [[Lucid]]
+| Aliases                 = 
+
+| Affiliation             = {{m|X-Men}}
+| Relatives               = [[Mrs. Jackson (Earth-616)|Mrs. Jackson]] (unnamed mother);<br>
+[[Alisha Jackson (Earth-616)|Alisha Jackson]] (sister)
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Blue
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+| PlaceofDeath            = [[X-Haven]], [[Limbo (Otherplace)|Limbo]]
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = Student
+| Education               = 
+| BaseOfOperations        = [[X-Haven]], [[Limbo (Otherplace)|Limbo]]; formerly [[Philadelphia (Pennsylvania)|Philadelphia]], [[Pennsylvania (State)|Pennsylvania]], [[United States of America]]
+
+| Creators                = Jeff Lemire; Eric Koda
+| First                   = Extraordinary X-Men Vol 1 17
+| Death                   = Extraordinary X-Men Vol 1 17
+
+| History                 = Maya Jackson was a [[Homo superior|mutant]] whose powers developed faster compared to most people of her species. By the age of ten, she already possessed the ability to see through solid objects. Ever since she was little, Maya loved super heroes, and always wanted to be one. She was especially a big fan of [[Ororo Munroe (Earth-616)|Storm]], to the point she collected any kind of pictures of Storm, and closely followed her personal life.
+
+When the [[M-Pox]] crisis broke out, Maya was visited by [[Robert Drake (Earth-616)|Iceman]] and [[Illyana Rasputina (Earth-616)|Magik]] of the [[X-Men (Earth-616)|X-Men]] at her family's home in [[Philadelphia (Pennsylvania)|Philadelphia]], and she was offered the chance to move to the safe zone of [[X-Haven]] in [[Limbo (Otherplace)|Limbo]]. Maya's [[Mrs. Jackson (Earth-616)|mother]] refused to leave her home, so the X-Men left her a communicator in case they changed their mind. Maya later fell ill to M-Pox, and when their neighbors discovered she was a mutant, they decided to leave for X-Haven.
+
+Even though she was ill, Maya saw a silver lining in going to X-Haven, believing that she was going to meet her idol and become an X-Man. Unfortunately, Maya's condition had worsened to the point not even mutant healers could help her, and the X-Men were so busy Storm could never find time to be introduced to Maya.
+
+On her deathbed, Maya's sister, [[Alisha Jackson (Earth-616)|Alisha]], rushed to try and get Storm to meet Maya. She was successful, and Storm talked with her. A few moments before she died, Maya was officially made a member of the X-Men under the alias she had created for herself, Lucid.{{r|Extraordinary X-Men Vol 1 17}}
+
+| Personality             = 
+
+| Powers                  = Maya was a [[Homo superior|Mutant]] whose power, which developed before puberty, was the following:
+*'''X-Ray Vision:''' Maya possessed the ability to see through "everything," as she described it.{{r|Extraordinary X-Men Vol 1 17}}
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * Maya was ten years old when she died.{{r|Extraordinary X-Men Vol 1 17}}
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:X-Ray Vision]]
+[[Category:Mutants activated after M-Day]]
+[[Category:Post-Secret Wars Mutants]]
+[[Category:M-Pox Victims]]
+[[Category:Honorary X-Men]]

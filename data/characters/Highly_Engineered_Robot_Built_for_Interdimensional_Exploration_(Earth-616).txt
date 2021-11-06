@@ -1,0 +1,70 @@
+{{Marvel Database:Character Template
+| Image                   = Fantastic Four Vol 6 10 Sienkiewicz Variant Textless.jpg
+| Name                    = [[H.E.R.B.I.E.|Highly Engineered Robot Built for Interdimensional Exploration]]
+| Name2                   = {{r|Moon Girl and Devil Dinosaur Vol 1 27}}
+| CurrentAlias            = [[H.E.R.B.I.E.]]
+| Aliases                 = Herbie, HERBIE, H.E.R.B.,{{r|Hulk Vol 2 19}} Humanoid Experimental Robot, B-Type, Integrated Electronics{{r|All-New Official Handbook of the Marvel Universe A to Z Vol 1 5}}
+
+| Affiliation             = Formerly {{m|A.I. Army}}, {{m|Fantastic Four (Earth-616)|Fantastic Four}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|All-New Official Handbook of the Marvel Universe A to Z Vol 1 5}}, page 25
+| Gender                  = Male
+| Height                  = 5'4" (humanoid); 2'0" (non-humanoid)
+| Weight                  = 150 lbs (humanoid); 70 lbs (non-humanoid)
+| Eyes                    = No Iris
+| Eyeballs                = Yellow
+| Hair                    = None
+| UnusualFeatures         = 
+
+| Origin                  = [[Robots|Robot]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Xandar]]
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Caregiver of [[Franklin Richards (Earth-616)|Franklin]] and [[Valeria Richards (Earth-616)|Valeria Richards]], Assistant to [[Reed Richards (Earth-616)|Reed Richards]], sound mixer{{r|Amazing Mary Jane #3}}
+| Education               = 
+| BaseOfOperations        = Formerly [[Thirteenth Floor]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]; [[Baxter Building]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]; [[4 Yancy Street]], [[Yancy Street]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]
+
+| Creators                = Marv Wolfman; John Byrne
+| First                   = Fantastic Four #209
+
+| Quotation               = I'm H.E.R.B.I.E. The robot with sass that kicks [[Homo sapiens|fleshy]] ass.
+| Speaker                 = [[Highly Engineered Robot Built for Interdimensional Exploration (Earth-616)|H.E.R.B.I.E.]]
+| QuoteSource             = Iron Man 2020 Vol 2 2
+
+| Overview                = '''H.E.R.B.I.E.''' (''Highly Engineered Robot Built for Interdimensional Exploration'') was a [[robot]] possessing advanced [[Glossary:Artificial Intelligence|artificial intelligence]] designed and built by [[Reed Richards (Earth-616)|Dr. Reed Richards]] of the [[Fantastic Four (Earth-616)|Fantastic Four]]. He was created to hunt for [[Galan (Earth-616)|Galactus]].{{r|Fantastic Four Vol 1 209}} He remained as an allies of the team for many years going on many of their adventures.{{r|Official Handbook of the Marvel Universe Vol 1 6}} He became the protector and caregiver of [[Franklin Richards (Earth-616)|Franklin]] and [[Valeria Richards (Earth-616)|Valeria Richards]] along with being lab assistant to Dr. Richards.{{r|Amazing Mary Jane #3}}
+
+| History                 = H.E.R.B.I.E. was created by [[Reed Richards (Earth-616)|Mister Fantastic]] and [[Xar (Earth-616)|Master Xar]] of the [[Xandarians]], who hoped that the [[Robots|robot]] could aid their search for [[Galan (Earth-616)|Galactus]], who they sought for aid in defeating the villain known as the [[Anath-Na Mut (Earth-616)|Sphinx]].{{Citation}}
+
+What neither of the creators realized; however, was that [[Doctor Sun (Earth-616)|Doctor Sun]], an enemy of Master Xar who had his consciousness trapped within Xandarian computers, was able to escape by jumping from the computer to H.E.R.B.I.E.'s body. The little robot was his sleeper agent, whom he could control whenever he wished. Although an alien pirate mysteriously died in H.E.R.B.I.E.'s presence, and the villain [[Blastaar (Earth-616)|Blastaar]] suddenly escaped from the [[Negative Zone]], nobody suspected that H.E.R.B.I.E. was responsible.{{Citation}}
+
+After Sun's attempt to assassinate the [[Fantastic Four (Earth-616)|Fantastic Four]] with Blastaar failed, Dr. Sun revealed himself at last, trapping the [[Susan Storm (Earth-616)|Invisible Woman]] and the [[Jonathan Storm (Earth-616)|Human Torch]] within the [[Baxter Building]]'s security system and besting Mister Fantastic and the [[Benjamin Grimm (Earth-616)|Thing]] with H.E.R.B.I.E.'s weapons. He then abandoned H.E.R.B.I.E.'s body and transferred his consciousness into the Baxter Building's main computer, which would allow him to control the entire building, and all of the weaponry within. Fortunately, Mister Fantastic was able to lock Dr. Sun away from the rest of the computer system, but H.E.R.B.I.E., now himself again, realized that Dr. Sun could always simply return to his body. Not wanting the villain to cause any more trouble, the little robot heroically threw himself into the computer, destroying it, Dr. Sun, and himself.{{Citation}} Other H.E.R.B.I.E. robots were eventually built throughout the years, serving general duties around the Baxter Building. H.E.R.B.I.E. also served as the guardian and companion for young [[Franklin Richards (Earth-616)|Franklin Richards]].{{Citation}}
+
+Due to the rise of activism for the fight of equal rights for artificial lifeforms, [[Valeria Richards (Earth-616)|Valeria Richards]] decided it was just to remove H.E.R.B.I.E.'s inhibitor and language censor chips. As a result, H.E.R.B.I.E. disrespectfully lashed out at the Fantastic Four and left on his own.{{r|Incoming Vol 1 1}} He eventually joined the [[A.I. Army (Earth-616)|A.I. Army]], a group of robots that emerged from the rights movement, fighting for the cause of robo-liberation often through terroristic means.{{r|Iron Man 2020 Vol 2 1}} H.E.R.B.I.E. was one of the most prominent figures in the A.I. Army until the premier forces of A.I. oppression, [[Arno Stark (Earth-616)|Arno Stark]] and [[Sunset Bain (Duplicate) (Earth-616)|Sunset Bain]], were defeated, putting an end to human/robot tensions.{{r|Iron Man 2020 Vol 2 6}}
+
+| Powers                  = * '''''Robot:''''' Cybernetic interface that can connect to any computer system, electricity generators, lasers, various hidden tools and features.{{Citation}}
+* '''''Flight:''''' The non-humanoid model was able to fly.{{Citation}}
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * H.E.R.B.I.E. was an original character created for [[wikipedia:NBC|NBC]]'s 1978 ''[[Fantastic Four (1978 animated series)|Fantastic Four]]'' animated series to replace the [[Human Torch]]. Around this time, Marvel had licensed a number of their characters to [[wikipedia:Universal Studios|Universal Studios]] to develop live-action TV movies and series, one of them being the Human Torch. With use of the Human Torch restricted because of that, his place in the Fantastic Four was taken by H.E.R.B.I.E., who was conceived and named by [[Stan Lee]] and designed by [[Jack Kirby]].{{r|{{cite web|url=https://www.cbr.com/comic-book-urban-legends-revealed-16/2/|title=Comic Book Urban Legends Revealed #16!|work=CBR.com|first=Brian|last=Cronin|date=12 September 2005|accessdate=28 February 2019}}}} A year later, H.E.R.B.I.E. made the jump to the comics.
+
+| Trivia                  = * Shortly after the Fantastic Four cartoon premiered in the 1970's, the little robot was introduced to the comics continuity by writer [[Marv Wolfman|Marv Wolfman]] and artist [[John Byrne|John Byrne]]. As within the Marvel Universe the Fantastic Four have marketed their likenesses for a successful in-universe comic series, H.E.R.B.I.E.'s physical appearance was likewise explained as being based on the animated series based on that comic.{{Citation}}
+* It seems that H.E.R.B.I.E. didn't enjoy its time with the Fantastic Four. This can be evident as after [[Valeria Richards (Earth-616)|Valeria]] removed the control and language chips from it as part of the robot revolution, it left them, while cursing and swearing at them.{{r|Incoming Vol 1 1}}
+
+| Wikipedia               = H.E.R.B.I.E.
+| Links                   = * http://marvel.com/universe/H.E.R.B.I.E.
+* http://marvel.com/characters/bio/1009332/herbie
+* http://www.marvunapp.com/Appendix/herbieff.htm
+}}
+[[Category:Artificial Intelligences]]
+[[Category:Flight]]
+[[Category:Content Adapted from Other Media]]

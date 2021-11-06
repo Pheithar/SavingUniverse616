@@ -1,0 +1,36 @@
+{{Marvel Database:Team Template
+| Image                   = Captain America Vol 5 28 Textless.jpg
+| ImageSize               = 300
+| Name                    = Serpent Squad
+| Aliases                 = 
+| Status                  = Active
+
+| Identity                = 
+| Reality                 = Earth-616
+| BaseOfOperations        = 
+
+| Leaders                 = [[Piet Voorhees (Earth-616)|King Cobra]]
+| CurrentMembers          = [[Piet Voorhees (Earth-616)|King Cobra]], [[Leon Murtaugh (Earth-616)|Viper]], [[Edward Lavell (Earth-616)|Eel]]
+| FormerMembers           = [[Sinthea Shmidt (Earth-616)|Sin]]
+| Allies                  = [[Johann Shmidt (Earth-616)|Red Skull]]
+| Enemies                 = 
+
+| Origin                  = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Ed Brubaker; Steve Epting
+| First                   = Captain America Vol 5 #28
+
+| HistoryText             = 
+The fifth Serpent Squad surfaced with the Red Skull’s daughter [[Sinthea Shmidt (Earth-616)|Sin]] as the leader, a new [[Leon Murtaugh (Earth-616)|Viper]], the [[Edward Lavell (Earth-616)|Eel]], and [[Piet Voorhees (Earth-616)|King Cobra]]. They attacked the Senate offices by order of the [[Johann Shmidt (Earth-616)|Red Skull]], but the new [[James Buchanan Barnes (Earth-616)|Captain America]] attacked and defeated them all except for Sin.{{r|Captain America Vol 5 #35}}
+
+Later, they regrouped and worked for the new [[Hydra (Earth-616)|Hydra]] and battled Captain America.{{r|Captain America Vol 6 #6|8}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

@@ -1,0 +1,53 @@
+{{Marvel Database:Character Template
+| Image                   = Gregory Belial (Earth-616) from Nightstalkers Vol 1 3 001.jpg
+| Name                    = Gregory Belial
+| CurrentAlias            = Belial
+| Aliases                 = Lt. Belial
+
+| Affiliation             = {{m|Hydra}}, formerly {{m|Department of Occult Armaments|D.O.A.}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] magician
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+| KilledBy                = Bloodstorm One (Earth-616)
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Terrorist, sorcerer
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = D.G. Chichester; Ron Garney
+| First                   = Nightstalkers #2
+| Death                   = Nightstalkers #16
+
+| History                 = Lt. Gregory Belial was a member of the terrorist group known as [[Hydra (Earth-616)|Hydra]]. He worked in the division known as the [[Department of Occult Armaments (Earth-616)|Department of Occult Armaments]] or D.O.A. along with, [[Ayla Ranefer (Earth-616)|Rotwrap]], [[Alizon Baunacha (Earth-616)|Pyre]], [[Josef Pohlmann (Earth-616)|Malpractice]], and [[Rupert Helona (Earth-616)|Innards]].{{r|Nightstalkers #2}}
+
+D.O.A. first encountered the [[Nightstalkers (Earth-616)|Nightstalkers]] when they tracked down team member [[Hannibal King (Earth-616)|Hannibal King]] to kidnap as a lab rat for the experiments. HYDRA needed his blood to develop and army of [[Vampire|vampiric]] stormtroopers.{{r|Nightstalkers #2}}
+
+| Powers                  = 
+| Abilities               = * Lt. Belial has vast knowledge of various forms of magic.
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

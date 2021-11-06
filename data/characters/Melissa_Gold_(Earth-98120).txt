@@ -1,0 +1,60 @@
+{{Marvel Database:Character Template
+| Image                   = Melissa_Gold_(Earth-98120).jpg
+| Name                    = Melissa Gold
+| CurrentAlias            = Songbird
+| Aliases                 = 
+
+| Affiliation             = {{m|Avengers}}; Formerly {{m|Avengers (Earth-616)|Destiny War Avengers}}
+| Relatives               = [[Genis-Vell (Earth-98120)|Genis-Vell]] (husband);<br>
+[[Ely-Vell (Earth-98120)|Ely]] (son, deceased);<br>
+[[Mimi-Vell (Earth-98120)|Mimi]] (daughter, deceased);<br>
+[[Elysius (Earth-98120)|Elysius]] (mother-in-law, deceased)
+| MaritalStatus           = Married
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 5' 5"
+| Weight                  = 145lbs
+| Eyes                    = Green
+| Hair                    = White
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] [[Glossary:Mutate|mutate]]
+| Reality                 = Earth-98120
+| PlaceOfBirth            = 
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Kurt Busiek; Carlos Pacheco
+| First                   = Avengers: Forever #1
+
+| History                 = During the [[Destiny War]], Songbird was one of the [[Avengers]] drawn from time to help [[Richard Jones (Earth-616)|Rick Jones]].{{r|Avengers: Forever #1}}
+
+In this reality, Melissa married the [[Genis-Vell (Earth-98120)|Genis-Vell]] of her Earth and they had two children, Ely and Mim.{{r|Captain Marvel Vol 5 #24}}
+
+| Powers                  = Seemingly [[Melissa Gold (Earth-616)#Powers|those]] of the [[Melissa Gold (Earth-616)|Melissa Gold]] of [[Earth-616]].
+| Abilities               = Seemingly [[Melissa Gold (Earth-616)#Abilities|those]] of the [[Melissa Gold (Earth-616)|Melissa Gold]] of [[Earth-616]].
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Acoustikinesis]]
+[[Category:Flight]]
+[[Category:Force Field]]
+[[Category:Superhuman Strength]]
+[[Category:Jewish Characters]]
+[[Category:Vell Family]]
+[[Category:Destiny War Participants]]

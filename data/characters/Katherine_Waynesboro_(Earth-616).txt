@@ -1,0 +1,81 @@
+{{Marvel Database:Character Template
+| Image                   = Katherine Waynesboro (Earth-616) from World War Hulk Gamma Files Vol 1 1 001.jpg
+| Name                    = [[Katherine Waynesboro|Katherine 'Kate' Waynesboro]]
+| CurrentAlias            = [[Kate Oldstrong]]
+| CurrentAliasRef         = {{r|World War Hulk Aftersmash: Warbound Vol 1 5}}
+| Aliases                 = Agent Waynesboro, Ms. MODOK,{{r|Incredible Hulk #290}} Dr. Waynesboro{{r|World War Hulk Aftersmash: Warbound Vol 1 3}}
+
+| Affiliation             = {{m|Deadpool, Inc.}}, {{m|Warbound}}; formerly {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 5'9"
+| Weight                  = 134 lbs
+| Eyes                    = Brown; Blue (with Old Power)
+| Eyeballs                = Black (with Old Power)
+| Hair                    = Black
+| UnusualFeatures         = [[:Category:Enlarged Head|Enlarged Head]][[Category:Enlarged Head]]. As Ms. M.O.D.O.K., Kate Waynesboro's body was reconfigured into the physical manifestation of pure intellect. As such, her head appeared several times larger than normal, and she was forced to wear a special hover containment device to support her body.
+| UnusualSkinColor        = Grey
+| UnusualSkinColor2      = (After receiving the Old Power)
+
+| Origin                  = [[Homo sapiens|Human]], formerly [[Mutate]] and [[Cyborgs|Cyborg]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Collinwood]], [[Tennessee (State)|Tennessee]]
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Arms Dealer, scientist; former government agent
+| Education               = College graduate; S.H.I.E.L.D. cadet training; Ph.D. in physics specializing in gamma radiation
+| BaseOfOperations        = [[S.H.I.E.L.D. Helicarrier U.S.S. Deadpool]]
+
+| Creators                = Bill Mantlo; Sal Buscema
+| First                   = Incredible Hulk #287
+
+| History                 = 
+When the mind of Banner appeared to take permanent control of Hulk, he was offered a presidential pardon for his past offenses. To insure that Hulk no longer posed a threat to National Security, S.H.I.E.L.D. assigned scientist Katherine Waynesboro to monitor Banner's condition. Surprisingly, Waynesboro found herself attracted to the Hulk, much to the chagrin of Banner's jealous sentient [[Recordasphere]]. The Recordasphere discovered that Waynesboro was an undercover S.H.I.E.L.D. agent and attempted to kill her by sabotaging her car. Kate survived the attack, but later found herself the victim of Hulk's old nemesis, Abomination.{{r|Incredible Hulk #288}}
+
+The Abomination kidnapped Kate and brought her to an A.I.M. facility in Maine in the hopes of baiting Hulk into a trap. A.I.M. scientists injected Kate with implants designed to make her subservient to their commands. They then placed her inside of a conversion chamber, transforming her into Ms. M.O.D.O.K. They ordered Ms. M.O.D.O.K. to kill her predecessor, the original M.O.D.O.K. The mind-control implants failed however, and she turned against her A.I.M. creators. Instead of killing M.O.D.O.K., she instead bonded with him, seeing him as an intellectual equal. This changed however, when she witnessed M.O.D.O.K.'s brutal assassination of the helpless Abomination. She turned against him and attacked him with blasts of mental energy. M.O.D.O.K. returned fire, driving Ms. M.O.D.O.K. back into the conversion chamber. The chamber reversed the alteration process, transforming Ms. M.O.D.O.K. back into the human form of Kate Waynesboro.{{r|Incredible Hulk #290}}
+
+Shortly after this incident, Kate resigned her position as a scientist for S.H.I.E.L.D. She pursued a romantic relationship with Banner, but he was very unnerved by the fact that S.H.I.E.L.D. initially sent Kate to spy on him.{{Citation}}
+
+The two traveled to Mexico City where Banner was offered financing in the further development of gamma ray technology. During the trip, Kate painfully watched her lover become a puppet of the [[Maynard Tiboldt (Earth-616)|Ringmaster]] and his [[Circus of Crime (Earth-616)|Circus of Crime]]. Although Hulk proved victorious, Kate was forced to console Banner over the fact that the Ringmaster forced him to revert into a monstrous savage once again.{{r|Incredible Hulk #292}}
+
+Returning to the United States, Kate became Banner's lab assistant at Northwind Observatory. She aided him in the construction of a large device called the [[Gammascope]]. The Gammascope possessed the ability to collect ambient gamma ray particles from outer space and concentrate them for medical uses. 
+
+A dying crime lord named [[Max Stryker (Earth-616)|Max Hammer]] hired the mercenary [[Frederick Myers (Earth-616)|Boomerang]] to kidnap Kate in order to blackmail Dr. Banner into using his Gammascope technology to save Hammer's life. It was at this time that the cosmic entity known as the [[Beyonder (Earth-616)|Beyonder]] kidnapped Hulk, among other heroes, to participate in his Secret Wars. Several weeks later when Hulk returned, Kate was still a prisoner of Boomerang.{{Citation}}
+
+Hulk fought with Boomerang and rescued Kate, but a large portion of Northwind Observatory was destroyed during the battle.{{Citation}}
+
+When it became apparent that Hulk was reverting to his former savage self, Kate returned to S.H.I.E.L.D. and collaborated with agent [[Gabriel Jones (Earth-616)|Gabe Jones]], in determining a means of stopping him. She provided Gabe with Banner's [[Gamma Gun]] in the hopes that a dose of gamma radiation might enable Banner's psyche to reassert dominance over Hulk, but this tactic proved futile and the Gamma Gun was destroyed.{{r|Incredible Hulk #298}}
+
+Kate tried once again to draw Banner's psyche out from under Hulk's control, but Hulk retaliated and attacked her. When the last vestiges of Banner's consciousness disappeared, Kate began to realize that the man she loved was gone forever, and that there was nothing left of him but Hulk.{{r|Incredible Hulk #300}}
+
+Kate stayed out of the limelight for several years, but rumors circulated that she may have resumed the identity of Ms. M.O.D.O.K. on at least one occasion. While she was no longer connected to S.H.I.E.L.D., she had maintained contact with Gabriel Jones and was believed to have worked with him on several projects.{{r|World War Hulk: Gamma Files #1}}
+
+Kate was later seen receiving information regarding the Warbound members by their former teammate [[Miek (Earth-616)|Miek]] to find their weaknesses. Using a telepathic ability called "chemming" that Sakaaran Natives possess, Miek secretly found out Kate's true intentions, including her relationship with Hulk and told her to be careful but didn't report her. Three weeks later she was sent to aid fellow S.H.I.E.L.D. agents in capturing the Warbound but ends up being kidnapped by the Warbound to help one of their members who is wounded. She was caught in the middle of a plot by the [[Samuel Sterns (Earth-616)|Leader]] to irradiate the world with gamma rays and create a new gamma world. Assisting the Warbound to help stop this threat, her goal was mainly because an entire town had already been exposed to the radiation and had begun mutating. Almost dying, due to a mix of radiation poisoning and her wounds, she gained the Old Power from [[Hiroim (Earth-616)|Hiroim]] after he perished in battle.{{r|World War Hulk Aftersmash: Warbound Vol 1 1|5}}
+
+| Powers                  = Initially, Kate Waynesboro did not possess any superhuman abilities. As Ms. M.O.D.O.K. she was capable of producing concentrated blasts of pure psychic energy, and could transmit her thoughts into the minds of others. She eventually gained the [[Glossary:Old Power|Old Power]], increasing some of her natural attributes and giving her tectonic and rock based powers.
+
+| Abilities               = Kate Waynesboro was an accomplished biophysicist with some S.H.I.E.L.D. training, albeit not enough to function as a field agent.  
+
+| Strength                = Kate Waynesboro possessed the strength level of a woman her age, size and weight who engaged in moderate regular exercise.
+
+| Weaknesses              = Kate's faith in Banner's ability to control Hulk nearly caused her grave injury on at least three separate occasions. On all three instances, Hulk rebuked Kate's affection and struck her with the back of his hand.{{Citation}}
+
+| Equipment               = [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]]-issue holographic communications watch. 
+* formerly a [[Doomsday Chair]] 
+| Transportation          = Kate Waynesboro drove a sports car
+| Weapons                 = As a S.H.I.E.L.D. agent, she carried an ion-disruptor weapon
+
+| Notes                   = 
+* Kate's Ms. M.O.D.O.K. identity is not to be confused with [[Olinka Barankova (Earth-616)|M.O.D.A.M.]], another female variant of M.O.D.O.K. 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Old Power]]
+[[Category:Advanced Idea Mechanics Experiment]]
+[[Category:Arms Dealers]]
+[[Category:Black Eyeballs]]
+[[Category:Blue Eyes]][[Category:Infobox Eyes Update Needed]]

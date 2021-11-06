@@ -1,0 +1,38 @@
+{{Marvel Database:Team Template
+| Image                   = Young Avengers (Constructs) (Earth-616) from Young Avengers Vol 2 11 001.jpg
+| Name                    = Young Avengers
+| EditorialNames          = "Young Avengers"
+| Aliases                 = 
+
+| Status                  = Defunct
+| Identity                = Public
+| Reality                 = Earth-616
+| BaseOfOperations        = [[Earth-TRN287|Mother's Dimension]]
+
+| Leaders                 = Formerly [[Leah (Construct) (Earth-616)|Leah]]
+| CurrentMembers          = 
+| FormerMembers           = [[Ultimate Nullifier (Construct) (Earth-616)|Ultimate Nullifier]], [[Oubliette Midas (Construct) (Earth-616)|Oubliette Midas]], [[Annie (Noh-Varr, Construct) (Earth-616)|Annie]], [[Merree (Construct) (Earth-616)|Merree]], [[Patriot (Entity) (Earth-616)|"Patriot"]]
+| Allies                  = [[Mother (Interdimensional Parasite) (Earth-TRN287)|Mother]]
+| Enemies                 = [[Young Avengers (Earth-616)|Young Avengers]]
+
+| Origin                  = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Kieron Gillen; Jamie McKelvie
+| First                   = Young Avengers Vol 2 10
+| Last                    = Young Avengers Vol 2 13
+
+| HistoryText             = This team of Young Avengers was created by the living embodiment of [[Loki Laufeyson (Ikol) (Earth-616)|Loki]]'s guilt. They took the form of the former love interests of the real [[Young Avengers (Earth-616)|Young Avengers]],{{r|Young Avengers Vol 2 13}} and allied themselves with [[Mother (Interdimensional Parasite) (Earth-TRN287)|Mother]], an interdimensional parasite the Young Avengers had recently faced, in order to get revenge on Loki.
+
+The construct based on [[Leah (Construct) (Earth-616)|Leah]] tricked [[Theodore Altman (Earth-616)|Hulkling]] into meeting her Young Avengers, who posed as a therapy group, and magically teleported him to New York, which was one of the conditions that allowed Mother to enter Earth-616.{{r|Young Avengers Vol 2 10}} Leah contacted Loki, and informed him that Mother was planning on unleashing into the world all of the evil alternate reality version of the Young Avengers she had trapped.{{r|Young Avengers Vol 2 11}}
+
+The real Young Avengers arrived to Mother's dimension in order to rescue Hulkling and defeat their exes, and when Loki was cornered by Leah, he discovered she was the manifestation of his guilt.{{r|Young Avengers Vol 2 12}} When Loki confessed to his teammates the crimes he had committed and the chaos he had sown, Leah and her Young Avengers faded away.{{r|Young Avengers Vol 2 13}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * These Young Avengers formed by the construct of Leah were an homage to the League of Evil Exes from the ''[[wikipedia:Scott Pilgrim|Scott Pilgrim]]'' book series.<ref>{{cite web|url=http://gillen.cream.org/wordpress_html/5732/writer-notes-young-avengers-10/#more-5732|title=Kieron Gillen's Workblog Writer Notes: Young Avengers 10|first=Kieron|last=Gillen|work=Wordpress|date=26 Setpember 2013|accessdate=24 August 2015}}</ref>
+| Trivia                  = 
+| Links                   = 
+}}

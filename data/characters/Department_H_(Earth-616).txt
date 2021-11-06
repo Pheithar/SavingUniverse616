@@ -1,0 +1,55 @@
+{{Marvel Database:Organization Template
+| Image                   = Department H (Earth-616) from Alpha Flight Vol 1 97.jpg
+| Name                    = [[Department H]]
+| Aliases                 = H, the Department
+
+| OrganizationLeaders     = Formerly [[Director X (Department H) (Earth-616)|Director X]], [[James Hudson (Earth-616)|James Hudson]]
+| CurrentMembers          = Agent Porter, [[Coordinator Proctor (Earth-616)|Coordinator Proctor]], [[Kelsey Mobius (Earth-616)|Kelsey Mobius]], [[Linderman Oculus (Earth-616)|Lt. Oculus]], [[Pierre Cloche (Earth-616)|Pierre Cloche]] (Director of Foreign Affairs), [[Warwick Jamieson (Earth-616)|Warwick Jamieson]], [[Character Index/G#Garson|Garson]], [[Character Index/K#Krypt|Dr. Krypt]]
+| FormerMembers           = [[Agent K (Earth-616)|Agent K]], [[Robert Michaud (Earth-616)|Agent Robert Michaud]], [[Gary Cody (Earth-616)|Gary Cody]], [[Horatio Huxley (Earth-616)|Horatio Huxley]], [[Jeremy Clarke (Earth-616)|General Clarke]], [[James MacDonald Hudson (Earth-616)|James Hudson]], [[Mr. Gentry (Earth-616)|Mr. Gentry]], [[Myra Haddock (Earth-616)|Myra Haddock]] (Director of Prometheus Division)
+
+| Identity                = Public
+| Alignment               = 
+| Affiliation             =
+| Allies                  = [[Alpha Flight (Earth-616)|Alpha Flight]], [[Beta Flight (Earth-616)|Beta Flight]], [[Omega Flight (Heroes) (Earth-616)|Omega Flight]]
+| Enemies                 = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| Status                  = Active
+| BaseOfOperations        = [[Department H Headquarters]], [[Toronto]], [[Ontario]], [[Canada]]; formerly [[Department H Complex]], [[Ottawa]], [[Ontario]], [[Canada]].
+| PlaceOfFormation        = [[Ottawa]], [[Ontario]], [[Canada]]
+| PlaceOfDissolution      = 
+
+| Creators                = Chris Claremont; John Byrne
+| First                   = X-Men Vol 1 109
+
+| History                 = Department H is a branch of the Canadian government that sanctioned, supported, and monitored all the superhuman activity in [[Canada]]. It also oversaw the superhuman team [[Alpha Flight (Earth-616)|Alpha Flight]].
+
+[[Parliament Hill]] created Department H as a research and development program under the umbrella of the Ministry of Defense, and selected [[James Hudson (Earth-616)|James Hudson]] to act as the department's administrator. During this time, he met [[James Howlett (Earth-616)|Wolverine]]. When James Hudson saw a newspaper article of the [[Fantastic Four (Earth-616)|Fantastic Four]] having been formed in the United States, he decided to form a defensive response team for Canada.{{r|Alpha Flight Vol 1 3}} When the [[Flight (Earth-616)|Flight]] became Alpha Flight, Wolverine joined up with them amongst others.{{r|Wolverine: First Class Vol 1 5}}
+
+Department H sent James Hudson in his Weapon Alpha suit to capture Wolverine and bring him back to Canada. When James Hudson found Wolverine hunting a deer, he reminded Wolverine that he was still the property of the Canadian government.{{r|X-Men Vol 1 109}}
+
+In the next attempt to reclaim Wolverine, James Hudson as Vindicator led Alpha Flight to down the [[X-Jet]], forcing it to land using a blizzard summoned by [[Michael Twoyoungmen (Earth-616)|Shaman]]. Alpha Flight managed to capture Wolverine and [[Kurt Wagner (Earth-616)|Nightcrawler]]. Following a fight between the X-Men and Alpha Flight, Wolverine decided to surrender himself to Alpha Flight and Department H. Yet Wolverine managed to escape from Department H and reunite with the X-Men on the X-Jet.{{r|X-Men Vol 1 121}}
+
+Department H unofficially sent [[Walter Langkowski (Earth-616)|Sasquatch]], [[Jeanne-Marie Beaubier (Earth-616)|Aurora]], and [[Jean-Paul Beaubier (Earth-616)|Northstar]] to the United States to detain [[Aaron Stack (Earth-616)|Machine Man]] after seeing the footage where they thought he defeated [[Bruce Banner (Earth-616)|Hulk]].{{r|Machine Man Vol 1 18}}
+
+[[File:Alpha Flight Vol 1 1 001.JPG|thumb|left|James Hudson muses on the first closing of Department H]]
+The Department was shut down due to operating costs, forcing the disbandment of Alpha Flight.{{r|Alpha Flight Vol 1 1}} Some time later, the decision was reversed, to a degree, with the Department being re-established solely as an organization to support Alpha Flight.{{r|Alpha Flight Vol 1 29}}
+
+Department H sent [[Omega Flight (Heroes) (Earth-616)|Omega Flight]] (consisting of [[Validator (Earth-616)|Validator]], [[Boxx (Earth-616)|Boxx]], [[Kingdom (Earth-616)|Kingdom]], and a [[Wendigo (Omega Flight) (Earth-616)|Wendigo]]) to investigate one of the Origin Bomb sites left by [[Ex Nihilo (Earth-616)|Ex Nihilo]] in Regina, Canada. Validator was changed by the Origin Bomb site while the rest of the Omega Flight members were killed in action by the hostile organisms.{{r|Avengers Vol 5 10}}
+| Equipment               = Various
+| Transportation          = Helicarrier, Airship, Omnijet, Scamper Jet, Turbo Copter, Hovercar, Armoured Locomotive, Alphajet, Flight Platform, Personnel Carrier and Transport Ship
+| Weapons                 = Sonic Rifles
+| Notes                   = 
+| Trivia                  = 
+* According to [[Alpha Flight Vol 2 1]] (August, 1997), the Department H's official date of inception is July 2. If bureaucratic organizations had astrological signs, its sign would be cancer. {{r|Alpha Flight Vol 2 1}} This indicates the Department was created under this sign of the zodiac, sometime between June 20 and July 22. 
+| Links                   = 
+* [[Alpha Flight (Earth-616)|Alpha Flight]]
+* [[Beta Flight (Earth-616)|Beta Flight]]
+* [[Gamma Flight (Earth-616)|Gamma Flight]]
+* [[Epsilon Flight (Earth-616)|Epsilon Flight]]
+* [[Department K (Earth-616)|Department K]]
+}}
+[[Category:Government Organizations]]
+[[Category:Canadian Organizations]]
+[[Category:Department H]]

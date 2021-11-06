@@ -1,0 +1,36 @@
+{{Marvel Database:Team Template
+| Image                   = Demi-Men (Earth-616) from X-Men Vol 1 49 0001.jpg
+| Name                    = Demi-Men
+| Aliases                 = 
+
+| Status                  = 
+| Identity                = 
+| Reality                 = Earth-616
+| BaseOfOperations        = 
+
+| Leaders                 = [[Mesmero (Vincent) (Earth-616)|Mesmero]]
+| CurrentMembers          = 
+| FormerMembers           = 
+| Allies                  = 
+| Enemies                 = [[X-Men (Earth-616)|X-Men]]
+
+| Origin                  = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Arnold Drake; Don Heck
+| First                   = X-Men #49
+| Last                    = X-Men #52
+
+| HistoryText             = The Demi-Men were [[Mesmero (Vincent) (Earth-616)|Mesmero]]'s minions when he first appeared. At this time Mesmero believed himself to be working for Magneto, but it was actually an [[Magneto (Machinesmith Android) (Earth-616)|android]] created by [[Machinesmith]]. Machinesmith also supplied the unsuspecting Mesmero with advanced equipment, transportation, and secret base in the desert. Mesmero used this equipment to send out a signal that controlled and summoned latent mutants to him. One of these latent mutants was [[Lorna Dane]], who was saved from walking blindly into traffic by [[Iceman]] of the X-Men. Iceman took her back to the apartment he shared with the [[Beast]], where a quick shower revealed her green hair. Mesmero then sent some Demi-Men to retrieve Lorna Dane from the X-Men because he believed she was the daughter of Magneto. The Demi-Men were able to succeed in this task and took Lorna back to their base where Mesmero used an apparatus to trigger her powers. Thinking she might be Magneto's daughter Lorna considered joining them.The X-Men attacked the Demi-Men's base and after a series of events, including [[Cyclops]] pretending to a character named Erik the Red, they defeated the Demi-Men and blew up the base. The Demi-Men have not been seen since. 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = At least some of the Demi-Men were mutants and could increase their powers through physical contact with each other
+| Trivia                  = 
+| Links                   = [[X-Men Vol 1 49]]
+}}
+[[Category:Machinesmith Experiment]]
+[[Category:Robots]]
+[[Category:Robots (Full Listing)]]

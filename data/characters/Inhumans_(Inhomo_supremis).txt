@@ -1,0 +1,127 @@
+{{Marvel Database:Race Template
+| Title                   = [[Inhumans]]
+| Image                   = Inhuman Annual Vol 1 1 Textless.jpg
+| Name                    = ''[[Inhomo supremis]]''{{r|Inhumanity #1}} (also written ''Inhomo Supremis''){{r|Inhuman #5}} or ''[[Homo sapiens inhumanus]]''{{r|Karnak #1}}
+| Aliases                 = Earthbound Inhumans{{r|Fantastic Four #577}}
+| Identity                = Public
+| Affiliation             = 
+| BaseOfOperations        = [[Attilan]]
+
+| BodyType                = Humanoids
+| AvgHeight               = Same as humans
+| AvgWeight               = Same as humans
+| Eyes                    = Variable
+| Hair                    = Variable
+| Skin                    = Variable
+| NumberOfLimbs           = Variable
+| NumberOfFingers         = Variable
+| NumberOfToes            = Variable
+| SpecialAdaptations      = Most Inhumans are used to living in a pollution-free, germ-free environment and have difficulty tolerating Earth's current level of air and water pollution for any length of time. Exposure to the Terrigen Mist can both enhance and in some cases reduce these physical capabilities.
+
+| Origin                  = Kree genetic experiment on early [[humans]]{{r|What If? #28}} (''[[Homo antecessor]]'',{{r|Fantastic Four #577}} ''[[Homo neanderthalensis]]'',{{r|Inhumanity #1}} or ''[[Homo sapiens]]''){{r|Squadron Supreme Vol 4 8}}
+| GalaxyOfOrigin          = Milky Way
+| StarSystemOfOrigin      = Sol
+| HomePlanet              = Earth
+| PlaceOfBirth            = 
+| Creators                = Stan Lee; Jack Kirby
+| First                   = Fantastic Four #45
+
+| HistoryText             = * [[Inhuman History]]
+==[[Inhuman Culture]]==
+* [[Inhuman Culture]]
+** [[Inhuman Law|Law]]
+** [[Inhuman Religion|Religions]]
+
+==Inhuman Biology==
+===[[Terrigenesis]]===
+The [[Terrigenesis]] is the source of most of the Inhumans' powers.
+''Please consult the following pages for more information: [[Inhuman Law]], [[Terrigenesis]]''
+
+===Diseases===
+Inhumans are subject to diseases, among them "Gral's disease", a hereditary disease that expresses as extreme weakness in the sick Inhuman. It is not fatal if caught in time.{{r|Guardians of the Galaxy #27}}
+
+==[[Inhumans (Inhomo_supremis)/Alternate Universe Inhumans|Alternate Universe Inhumans]]==
+The Inhumans are present in many realities, with more or less important variations in their history, appearances, and biology.
+| Habitat                 = [[Attilan]], same as Earth
+| Gravity                 = Same as Earth
+| Atmosphere              = Same as Earth, though with no germs or pollution
+| Population              = At present there are about 1,230 living Inhumans, all of whom dwell in Attilan.
+
+| Powers                  = Varies, if any. Even without using the [[Terrigen Mist]], centuries of selective breeding have given some Inhumans certain advantages. Their average lifespan is 150 years.{{r|Official Handbook of the Marvel Universe #5}}
+
+Without Terrigenesis, [[Karnak Mander-Azur (Earth-616)|Karnak]] possess strength, reaction time, speed, or endurance superior to humanity's most perfect physical specimen, [[Steven Rogers (Earth-616)|Captain America]], due to his eugenically superior Inhuman heritage and intensive training.{{r|Official Handbook of the Marvel Universe Vol 2 6|; [[Karnak Mander-Azur (Earth-616)|Karnak]]'s entry}} Other Inhumans haven't been clearly shown to possess such powers originated from training and eugenics solely.
+
+[[Medusalith Amaquelin (Earth-616)|Medusa]] claimed that "her people" didn't really feel cold.{{r|Inhuman #11}} It is unknown if it is a power common to Inhumans or if she is referring to the Attilans who lived for centuries in the [[North Atlantic]], then decades in the [[Himalayas]].
+
+The Inhumans were meant by the Kree scientist who created them to be a ''"deadly weapon of cosmic scale"'', ''"[[Galactus]]-level weapons"''.{{r|Marvel Knights Millennial Visions #2001}}
+| Abilities               =
+| AvgStrength             = Inhumans' strength levels can vary regarding their powers, originated from [[Terrigenesis]] or hereditary transmission.
+
+Without Terrigenesis, [[Karnak Mander-Azur (Earth-616)|Karnak]] can lift 1 ton and is physically slightly superior to the peak of normal human physical achievement, due to his eugenically superior Inhuman heritage and intensive training.{{r|Official Handbook of the Marvel Universe Vol 2 6|; [[Karnak Mander-Azur (Earth-616)|Karnak]]'s entry}}
+
+Other Inhumans, without Terrigenesis or extensive training, haven't been shown to display any degree of superhuman strength.
+| Weaknesses              = Due to their closed society, Inhumans have a far lower threshold to disease and pollution than ordinary humans.{{r|Inhumans Special #1}}{{r|Vision and the Scarlet Witch Vol 2 10}}
+
+| GovernmentType          = Monarchy. Inhuman society is formatted in the style of a genocracy; ruled by the genetically fittest. As such, the elected Genetics Council is the major ruling body of the Inhumans besides the Royal Family.{{r|Official Handbook of the Marvel Universe #5}}
+| TechnologyLevel         = Mostly Genetic Manipulation, though in general superior to Earth standard. Echo-Technology, which utilizes power from [[vibranium]] capacitors that store [[Black Bolt (Earth-616)#Powers|whispers of Black Bolt]], including [[Echo-Skeleton Armor]] and [[Echo-Weapons]] (designed by [[Maximus Boltagon (Earth-616)|Maximus]]).{{r|Secret Invasion: War of Kings #1}}
+| CulturalTraits          = Miscegenation Prohibition, Rigid Caste System based on abilities, Conformists. Marriages have long been arranged by the government to eugenically further the race with couples only allowed to have a maximum of two offspring.{{r|Official Handbook of the Marvel Universe #5}} Those born with powers not useful enough to Inhuman society are cast off to live in the Darkward End of Attilan as rejected outcasts and unmentionables to be detached from their former associates and family members.{{r|Inhumans Vol 2 7}}
+| Representatives         = 
+* [[Black Bolt]]
+* [[Medusa]]
+* [[Xiaoyi Chen (Earth-616)|Iso]]
+
+| Notes                   = * Inhumans were once stated by [[Dal Damoc (Earth-616)|Dal Damoc]] to be the products of [[Kree]] experiments on ''[[Homo antecessor]]''.{{r|Fantastic Four #577}}
+** [[Karnak Mander-Azur (Earth-616)|Karnak]] later stated that ''Inhomo supremis'' was the product of manipulations on ''[[Homo neanderthalensis]]'',{{r|Inhumanity #1}} and [[Medusalith Amaquelin (Earth-616)|Medusa]] on early ''[[Homo sapiens]]''.{{r|Squadron Supreme Vol 4 8}}
+* The Inhumans can be considered a byproduct of the [[Celestials (Race)|Celestials]]' tampering, by sparking a "recessive genetic potential for greatness in the human DNA code".{{r|X-Men Forever #4}}
+* It was stated by the [[Kree]] that the Inhumans were of Kree lineage and that they had Kree blood{{r|Inhumans Vol 3 1}} and genes.{{r|Inhumans Vol 3 3}}
+** On [[Earth-199999]], the Inhumans were created using Kree blood.{{r|Marvel's Agents of S.H.I.E.L.D. Season 3 19}}
+| Trivia                  =* When asked if there was a way to distinguish Inhumans from [[Homo superior|mutants]], [[Tom Brevoort|Tom Brevoort]] (presumably joking) stated that all Inhumans were left-handed.<ref>[[Tom Brevoort|Tom Brevoort]]'s [http://brevoortformspring.tumblr.com/post/87983986028/are-there-any-visual-indicators-to-tell-the-difference response]</ref>
+
+==Recommended Readings==
+*{{cl|Fantastic Four #45}}-{{cl|Fantastic Four #48|48}} (1965-1966)
+*{{cl|Fantastic Four #59}}-{{cl|Fantastic Four #63|63}} (1967)
+*{{cl|Thor #146}}-{{cl|Thor #152|152}} (back-up stories) (1967-1968)
+*{{cl|Amazing Adventures Vol 2 1}}-{{cl|Amazing Adventures Vol 2 #10|10}}, (August 1970 - January 1972)
+*{{cl|Inhumans #1}}-{{cl|Inhumans #12|12}}, (October 1975 - August 1977)
+*{{cl|What If? #29}}-{{cl|What If? #30|30}} (back-up stories) (1981)
+*{{cl|Marvel Graphic Novel Vol 1 39}} (1988) aka ''The Inhumans: A Marvel Graphic Novel''
+* {{cl|Inhumans Special Vol 1 1}} (April 1990) aka ''The Inhumans: The Untold Saga''
+*{{cl|Marvel Comics Presents #168}} (1994)
+*{{cl|Inhumans: The Great Refuge #1}} (1995)
+*{{cl|Alpha Flight / Inhumans Vol 1 '98}} (1998)
+*{{cl|Inhumans Vol 2 1}}-{{cl|Inhumans Vol 2 #12|12}} (1998-1999)
+*{{cl|Inhumans Vol 3 1}}-{{cl|Inhumans Vol 3 #4|4}} (2000)
+*{{cl|Inhumans Vol 4 1}}-{{cl|Inhumans Vol 4 #12|12}} (2003-2004)
+*{{cl|Son of M #1}}-{{cl|Son of M #6|6}} (2006)
+*{{cl|Silent War #1}}-{{cl|Silent War #6|6}} (2007)
+*{{cl|Secret Invasion: Inhumans #1}}-{{cl|Secret Invasion: Inhumans #4|4}} (2008)
+*{{cl|Secret Invasion: War of Kings Vol 1 1}} (2009)
+*{{cl|War of Kings #1}}-{{cl|War of Kings #6|6}} (2009)
+*{{cl|FF #6}}-{{cl|FF #11|11}} (2009)
+*{{cl|Realm of Kings: Inhumans #1}}-{{cl|Realm of Kings: Inhumans #5|6}} (2010)
+*{{cl|Fantastic Four #600}}-{{cl|Fantastic Four #603|603}} (2011)
+*{{cl|Infinity #1}}-{{cl|Infinity #6|6}} (2013)
+*{{cl|New Avengers Vol 3 #12}} (2013)
+*{{cl|New Avengers Vol 3 #18}} (2014)
+*{{cl|Inhumanity Vol 1 1}}-{{cl|Inhumanity Vol 1 2|2}} (2014)
+*{{cl|Inhuman #1}}-{{cl|Inhuman #14|14}} (2014-2015)
+*{{cl|Inhuman Annual Vol 1 1}} (2015)
+*{{cl|Inhuman Special Vol 1 1}} (2015)
+*{{cl|Uncanny Inhumans #1}}-{{cl|Uncanny Inhumans #20|20}} (2015-2017)
+*{{cl|All-New Inhumans Vol 1 1}}-{{cl|All-New Inhumans Vol 1 11|11}} (2016)
+*{{cl|IVX Vol 1 1}}-{{cl|IVX Vol 1 6|6}} (2016-2017)
+
+| Links                   = 
+*[[:Category:Inhumans_(Inhomo_supremis)|List of Inhomo supremis]]
+*[[:Category:Terrigen_Bomb_Activations|List of NuHumans activated by the Terrigen Bomb]]
+}}
+[[hu:Embertelenek]]
+[[pt-br:Inumanos (Raça)]]
+[[es:Inhumanos (Raza)]]
+[[ru:Нелюди]]
+[[Category:Genus Homo]]
+[[Category:Factions In The Game Of Worlds]]
+[[Category:Inhumans by Species or Race]]
+[[Category:Hyborian Age Races]]
+[[Category:Pre-Cataclysmic Age Races]]
+[[Category:Earth/Races]]

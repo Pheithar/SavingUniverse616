@@ -1,0 +1,296 @@
+{{Marvel Database:Character Template
+| Image                   = Excalibur Vol 4 2 Unknown Comic Books and Comics Elite Exclusive Virgin Variant.jpg
+| Name                    = [[Remy LeBeau|Remy Etienne LeBeau]]
+| Name2                   = {{r|Wolverine: Weapon X Files Vol 1 1}}
+| CurrentAlias            = [[Gambit]]
+| EditorialNames          = [[Mr. X]]
+| Aliases                 = Le Diable Blanc,{{r|Gambit Vol 3 #1}} [[Robert Lord]],{{Citation}} Dirge,{{Citation}} [[Death]],{{r|X-Men Vol 2 184}} Gumbo,{{Citation}} [[Cajun]],{{Citation}} Loverbayou,{{r|X-Men Vol 2 6}} Swamp Rat,{{r|X-Men Vol 2 82}} [[Clint Barton]],{{Citation}} "Gamby Baby",{{r|Uncanny X-Men Vol 1 348}} Sir Anthony Ellis{{r|Gambit Vol 5 6}}
+
+| Affiliation             = {{m|Thieves Guild (Earth-616)|Thieves Guild}} (leader), {{m|X-Men}}, {{m|Excalibur (Earth-616)|Excalibur}}; formerly {{m|X-Men (Jean Grey's) (Earth-616)|X-Men (Red Team)}}, {{m|X-Factor (Serval Industries) (Earth-616)|X-Factor}} ({{m|Serval Industries}}), {{m|Marauders}}, {{m|Horsemen of Apocalypse}}, {{m|Chevaliers}}, {{m|X-Treme X-Men}}, {{m|X-Treme Sanctions Executive (Earth-616)|X.S.E.}}, {{m|Unified Guild (Earth-616)|Unified Guild}} of [[New Orleans]], Crimson Pirates
+| Grandparents            = [[Jacques LeBeau (Earth-616)|Jacques LeBeau]] (foster grandfather, deceased);<br>
+[[Rochelle LeBeau (Earth-616)|Rochelle LeBeau]] (foster grandmother, possibly deceased)
+| Parents                 = [[Jean-Luc LeBeau (Earth-616)|Jean-Luc LeBeau]] (adoptive father)
+| Siblings                = [[Henri LeBeau (Earth-616)|Henri LeBeau]] (foster brother, deceased)
+| Spouses                 = [[Bella Donna Boudreaux (Earth-616)|Bella Donna Boudreaux]] (ex-wife);<br>
+[[Rogue (Anna Marie) (Earth-616)|Anna Marie LeBeau]] (wife)
+| Relatives               = [[Mercy LeBeau (Earth-616)|Mercy LeBeau]] (foster sister-in-law);<br>
+Mrs. LeBeau-Marceaux (foster aunt);<br>
+[[Rouler Marceaux (Earth-616)|Rouler Marceaux]] (foster grandfather-in-law);<br>
+[[Belize Marceaux (Earth-616)|Belize Marceaux]] (foster uncle);<br>
+[[Theoren Marceaux (Earth-616)|Theoren Marceaux]] (foster cousin);<br>
+[[Etienne Marceaux (Earth-616)|Etienne Marceaux]] (foster cousin, deceased);<br>
+Mrs. LeBeau-Lapin (foster aunt);<br>
+[[Emil Lapin (Earth-616)|Emil Lapin]] (foster cousin);<br>
+[[Marius Boudreaux (Earth-616)|Marius Boudreaux]] (ex-father-in-law, deceased);<br>
+[[Julien Boudreaux (Earth-616)|Julien Boudreaux]] (ex-brother-in-law, deceased);<br>
+| MaritalStatus           = Married
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z Vol 1 4}}
+| Gender                  = Male
+| Height                  = 6'2"
+| Weight                  = 179 lbs
+| Eyeballs                = Black
+| Eyes                    = Red
+| Hair                    = Auburn; White (briefly)
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[New Orleans]], [[Louisiana (State)|Louisiana]]
+
+| Identity                = Secret
+| Citizenship             = American, Krakoan
+| Occupation              = Adventurer, Professional Thief, Guildmaster of the International [[Thieves Guild (Earth-616)|Thieves Guild]]; former teacher
+| Education               =
+| BaseOfOperations        = [[Krakoa (Earth-616)|Krakoa]], [[Pacific Ocean]]; [[Searebro]], [[X-Lantis]], [[Atlantis (Kingdom)|Atlantis]]; [[New Tian]], [[California (State)|California]]; [[Xavier's School for Gifted Youngsters|Jean Grey School for Higher Learning]], [[X-Haven]], [[Limbo]] (formerly [[Salem Center]], [[North Salem]], [[Westchester County]], [[New York (State)|New York]]); [[Serval Industries (Earth-616)|Serval Industries]], [[Virginia (State)|Virginia]]; [[Utopia (X-Men Base)|Utopia]], [[San Francisco Bay]], [[California (State)|California]]; [[New Orleans]], [[Louisiana (State)|Louisiana]]; [[Paris (France)|Paris]], [[France]]; [[Cairo (Egypt)|Cairo]], [[Egypt]]; [[Illinois (State)|Illinois]]
+
+| Creators                = Chris Claremont; Mike Collins; Jim Lee
+| First                   = X-Men Annual Vol 1 14
+| First2                  = (Cameo)<ref group="note">While set chronologically after {{cl|Uncanny X-Men Vol 1 266}}, it was published before said issue)</ref><br>{{sld|Uncanny X-Men Vol 1 266}}(Full appearance)
+
+| Quotation               = Admit it, [[Lucas Bishop (Earth-1191)|mon ami]], we actu'ly make a pretty good team... when we ain't tryin' t'kill each other. 
+| Speaker                 = [[Remy LeBeau (Earth-616)|Gambit]] 
+| QuoteSource             = X-Men Vol 2 47
+
+| History                 = 
+===Thieves Guild===
+Abandoned at birth due to his burning red eyes, the [[Homo superior|mutant]] child who would one day become Remy LeBeau was kidnapped from his hospital ward by members of the [[New Orleans]] [[Thieves Guild (Earth-616)|Thieves Guild]] who referred to the child as "le diable blanc" - the white devil. They believed he was the child that had been prophesied to unite the warring Guilds of New Orleans. Soon after, Remy was placed in the care of a gang of street thieves who raised the child and taught him the ways of thievery. Later, when he was around ten years old, Remy attempted to pick the pocket of [[Jean-Luc LeBeau (Earth-616)|Jean-Luc LeBeau]], then-patriarch of the Thieves' Guild. Jean-Luc took the boy off the streets and adopted him as his own son.{{r|Gambit Vol 3 #1}}
+
+The young Gambit was commissioned to recover the diary of [[Nathaniel Essex (Earth-616)|Nathaniel Essex]] from the [[Weapon X Facility]] in Canada. He was discovered by guards, but got away with the diary in the confusion caused by [[James Howlett (Earth-616)|Logan]]'s escape. Appalled by the experiments he had seen at the Facility, he burned the diary. Back in New Orleans, Essex accepted Remy's claim that the diary could not be found, but predicted that they would have a bright future together.{{r|Weapon X: First Class Vol 1 3}}
+
+As part of a peace pact between the Thieves’ Guild and their rivals, the Assassin’s Guild, a marriage was arranged between Remy and [[Bella Donna Boudreaux (Earth-616)|Bella Donna Boudreaux]], the granddaughter of the head of the [[Assassins Guild (Earth-616)|Assassins Guild]]; however, Bella Donna's brother [[Julien Boudreaux (Earth-616)|Julien]] objected to the marriage and challenged Gambit to a duel. Remy killed Julien in self-defence, but was excommunicated and banished from New Orleans in an attempt to maintain the non-aggression pact between the two guilds.{{r|X-Men Vol 2 #8}}
+
+===Mutant Massacre===
+Remy wandered the world as he plied his skills as a master thief, aided by his mutant power to charge objects with explosive energy. He employed playing cards he charged with kinetic energy as his trademark weapon. At one point Remy had approached the master geneticist [[Nathaniel Essex (Earth-616)|Mr. Sinister]] for help in controlling his powers. Sinister removed some of Remy's brain tissue to reduce his power to manageable levels.{{r|Uncanny X-Men #350}}
+
+As a result, Remy was now in the geneticist's debt, and Sinister subsequently charged the thief with assembling the team of mercenaries called the [[Marauders (Earth-616)|Marauders]]. With the team assembled, Sinister charged Remy with leading them down into the [[Morlocks|Morlock]] tunnels. Remy was unaware that Sinister's true intentions were to massacre the Morlocks. When this came to light, Remy attempted to stop them, but a Marauder named [[Victor Creed (Earth-616)|Sabretooth]] grievously injured him and left him for dead, as they began to massacre the helpless Morlocks. All Remy could do was to save one young Morlock girl who would one day grow up to become the X-Man named [[Marrow (Sarah) (Earth-616)|Marrow]].{{r|Uncanny X-Men #350}}
+
+[[File:X-Men Vol 2 24 Textless.jpg|left|thumb|200px|Gambit and Rogue]]
+===X-Men===
+Eventually, Remy encountered [[Ororo Munroe (Earth-616)|Storm]], a member of the outlaw team of mutant adventurers known as the [[X-Men (Earth-616)|X-Men]]. Storm had been transformed into an amnesiac child who had turned to theft as a means to survive. Remy helped her escape her enemy, the malevolent psionic entity known as the [[Shadow King (Multiverse)|Shadow King]], and they became partners.{{r|Uncanny X-Men #266|267}} Later, when the X-Men's founder [[Charles Xavier (Earth-616)|Professor Charles Xavier]] returned from a long period of traveling in outer space, Storm, now restored to her true adult state, sponsored Remy's admission into the X-Men.{{r|Uncanny X-Men #273}}
+
+Remy soon fell in love with his fellow X-Man, [[Rogue (Anna Marie) (Earth-616)|Rogue]], blessed and cursed with the ability to absorb other mutants' thoughts and abilities through skin-on-skin contact. The feeling was mutual, but the two were condemned never to touch.{{r|X-Men Vol 2 #4}}
+
+In an alternate future over 70 years from the present day, in which the X-Man [[Lucas Bishop (Earth-1191)|Bishop]] was born, Remy had seemingly become an aged figure named the Witness, so-called because he had apparently witnessed the betrayal of the X-Men by one of their own members. He was also thought to be the last surviving member of the X-Men. Upon joining the X-Men himself, Bishop suspected Remy to be the traitor{{r|X-Men Vol 2 8}} until it was discovered that the merging of Xavier and Magneto's minds had spawned the corrupt psionic entity known as [[Onslaught (Psychic Entity) (Earth-616)|Onslaught]], the true traitor.{{r|Uncanny X-Men Vol 1 335}}
+
+At one point, Rogue left the X-Men after kissing Remy, confused and scared by the memories that she absorbed from him.{{r|X-Men Prime Vol 1 1}}
+
+Remy was subsequently captured and brought before a mock trial held by [[Max Eisenhardt (Earth-616)|Magneto]], the mutant master of magnetism, then disguised as [[Erik the Red]]. During the course of the trial, Remy's past with Sinister and his role in the [[Mutant Massacre]] was brought to light. He was summarily cast out of the X-Men and was abandoned in the frozen wastes of [[Antarctica]] by Rogue.{{r|Uncanny X-Men Vol 1 350}} Nearly starving to death, Remy made his way back into Magneto's citadel where he came upon the psionic essence of a dead mutant named [[Mary Purcell (Earth-616)|Mary Purcell]].{{r|Gambit Annual Vol 1 1999}}
+
+The wraith-like Mary bonded with him, allowing him to survive until he reached the [[Savage Land]], a hidden jungle nestled in the icy wasteland. There, Remy struck a deal with the enigmatic being known as the [[New Sun (Earth-9921)|New Sun]]. In exchange for passage back to America, Remy agreed to run errands for the New Sun.{{r|Gambit Vol 3 #1}}
+
+Remy returned home and encountered the X-Men again when he attempted to steal the fabled [[Crimson Gem of Cyttorak]] for his new employer.{{r|Uncanny X-Men #361}} He agreed to return to the team, mainly for his self-respect and for his love for Rogue; however, Mary began to threaten Remy and his friends if he didn't agree to stay with her forever. When the X-Men finally found out about Mary, the wraith fled with Remy to her old hometown, where she tried to force him to merge with her and become a new hybrid life form. While Remy wrestled with her, Rogue charged in with a containment unit, which ultimately dispersed Mary.{{r|Gambit Annual Vol 1 1999}}
+
+During a trip back in time, Remy's powers were restored to their maximum potential by Sinister and he was able to utilise them to return to the present.{{r|Gambit Vol 3 #12|14}} Soon after his return, Remy served for a time as patriarch of the Thieves' Guild in his father's stead, as well as leading one of two teams of X-Men. Remy was also responsible for the unification of the Thieves' and Assassins' Guilds into the [[Unified Guild (Earth-616)|Unified Guild]], of which he also served briefly as patriarch.{{r|{{cl|Gambit Vol 3 16}}-[[Gambit Vol 3 19|19]]}}
+
+Meanwhile, the New Sun revealed his true nature after organizing an assassination game for a cadre of super-powered mercenaries with Remy as the target. When Remy took the fight back to the New Sun, he was shocked to learn that the New Sun was actually an alternate reality version of himself.{{r|Gambit Vol 3 #23}}
+
+In his own reality, the New Sun's kinetic charging powers had flared out of control, burning the world and killing everyone. As a result, the New Sun hunted down and killed versions of himself in other realities to ensure that they would not repeat his mistakes. During their final battle, Remy burned out his enhanced powers to defeat the New Sun, ending his threat and returning his powers to their normal level.{{r|Gambit Vol 3 #24}}
+
+===X-Treme X-Men===
+Remy was later framed by mutant businessman [[Sebastian Shaw (Earth-616)|Sebastian Shaw]] for the death of the Australian crime lord [[Miles Warbeck (Earth-616)|Viceroy]]. With the assistance of Rogue, her team of [[X-Men (X-Treme) (Earth-616)|X-Treme X-Men]], and former Triad member [[Paul Hark (Earth-616)|Red Lotus]], Remy was able to clear his name. Soon after, Remy became embroiled in the X-Treme X-Men's fight against an alien invasion of Earth. He was captured and used as a power source for the invaders to open a portal that would allow their full invasion fleet to pass through and complete the conquest of Earth. The process was halted by the enigmatic villain known as [[Vargas (Earth-616)|Vargas]], who plunged his sword into Remy's chest. Remy survived, but found that he had lost his mutant abilities. As a result, he and the also-powerless Rogue sought to live a normal life together and retired from the X-Men.{{r|{{cl|X-Treme X-Men Vol 1 5}}-[[X-Treme X-Men Vol 1 18|18]]}}
+
+However try as they might, a normal life was not for them to lead as the pair soon became embroiled in the X-Treme X-Men's fight against the mutant predator [[Elias Bogan (Earth-616)|Elias Bogan]]. After Bogan was defeated, the X-Man named [[Sage (Earth-616)|Sage]] used her mutant ability to "jumpstart" Remy's mutant powers and he rejoined the team.{{r|X-Treme X-Men #41|46}}
+
+===Back at the School===
+After Storm's X-Men team rejoined the rest of the X-Men at the school, Remy took up a teaching position, now in charge of his own small team of students, [[Chevaliers (Earth-616)|the Chevaliers]]. Gambit and Rogue began experiencing relationship problems at this time, as they were once again unable to touch.{{r|X-Men Vol 2 #171}}
+
+Under the influence of [[Golgotha]], a madness inducing alien being, Gambit expressed his frustration with their relationship, after which Rogue and Wolverine shared a kiss. The two reconciled, however, with both realizing that what had happened had been due to Golgotha's influence.{{r|X-Men Vol 2 #166|170}}
+
+The two attempted to find a telepathic solution to their intimacy problem through help from [[Emma Frost (Earth-616)|Emma Frost]], who offered them telepathic therapy. The treatments were difficult and generally fruitless, which strained the couple's relationship further.{{r|X-Men Vol 2 #171|172}}
+
+The issue was made all the worse by the intervention of [[Raven Darkholme (Earth-616)|Mystique]]. Mystique believed Gambit wasn't good enough for her daughter, and posed as a new student named Foxx assigned to Gambit's squad. She attempted to seduce Gambit, causing drama in his squad, and raising tensions between him and Rogue and the rest of the X-Men. Gambit continued to resist the temptation however, until Mystique revealed her true identity. She then took Rogue's shape, offering to help Gambit "relieve tension" by allowing him to fulfil his fantasy of sleeping with Rogue. While Mystique would remain silent on whether or not Gambit accepted her offer, Gambit would vehemently deny it. The incident had irreparably damaged his relationship with Rogue, who had confronted Mystique and learned that Gambit had known her true identity and kept silent for days.{{r|X-Men Vol 2 #171|174}}
+
+===Horseman of Apocalypse===
+When [[En Sabah Nur (Earth-616)|Apocalypse]] re-awoke after the events of [[M-Day]] and attempted to restore mutantkind, Gambit sought him out, sensing that Apocalypse's intentions had changed, and that he might indeed be the saviour their kind needed. Apocalypse chose to make Gambit his new Horseman of Death and Gambit refused any sedation during the process, to ensure that Apocalypse did not tamper with his mind. Gambit's attempt to maintain his personality appeared fruitless however, as the transformation did alter Gambit's intentions, making him forget his original plan to keep an eye on Apocalypse from inside, and instead making him another servant of Apocalypse. Gambit did succeed in rescuing portions of his old self however. He still remembered his love for Rogue, and claimed that he was "both Death and Gambit."{{r|X-Men Vol 2 #182|186}}
+
+Gambit was knocked unconscious and taken away by [[Shiro Yoshida (Earth-616)|Sunfire]] (who had become the Horseman Famine, but had overcome his programming with the help of Emma Frost). Gambit awoke in a temple in [[Japan]], where Sunfire encouraged him to abandon his master Apocalypse, the X-Men, and his past. To do this they launched an attack on the X-Mansion to recover their fellow Horseman [[Lorna Dane (Earth-616)|Polaris]]. Remy showed his willingness to abandon his past as he tried to murder Rogue; however, the attack failed and they retreated to the Buddhist Temple in Japan, where they were greeted by Mr. Sinister, who offered to help them overcome Apocalypse's control.{{r|X-Men Vol 2 #187}}
+
+===Back With the Marauders===
+Sinister's treatments succeeded and Gambit was restored to his old self, now once more a member of the Marauders. Gambit and Sunfire tracked down [[Nathaniel Summers (Earth-616)|Cable]] on the recently evacuated island of [[Providence (Island)|Providence]]. The pair attacked Cable, badly injuring him and forcing him to retreat to the island's computer system. Gambit and Sunfire apparently wanted information from the computer for unknown reasons. Cable consequently activated a self-destruct sequence, but Gambit and Sunfire escaped.{{r|X-Men Vol 2 #200}}
+
+Gambit stayed on as a member of the Marauders, joining them in [[Alaska (State)|Alaska]] to fight the [[Purifiers (Earth-616)|Purifiers]] over the [[Hope Summers (Earth-616)|mutant child]]. Gambit and Sunfire found no problem in murdering them but soon had to evacuate when Cable and [[Predator X]] showed up. When Bishop betrayed the X-Men and tried to kill the mutant child, believing that it would be responsible for the horrible future he hailed from, Gambit and the Marauders were able to save the baby from him after he ambushed [[Forge (Earth-616)|Forge]] and Cable. Gambit revealed his true intentions, to work together with Mystique to use the child to heal Rogue from a coma, betraying Sinister in the process. After the fight with the Marauders over the child, Gambit went his own way to rediscover himself.<ref>[[Messiah Complex]] crossover.</ref>
+
+===Back With the X-Men===
+Gambit took some time to himself to travel. He met [[Charles Xavier (Earth-616)|Charles Xavier]], who was trying to rebuild his mind when they were attacked by agents of [[Black Womb]]. Along with Sebastian Shaw, they discovered the Chronos Machine was trying to reincarnate Mr. Sinister in the body of Xavier, Shaw, or [[Cain Marko (Earth-616)|Juggernaut]]. Gambit and his allies prevented Sinister's resurrection (at least, from this mechanism).{{r|X-Men: Legacy #211|214}}
+
+Gambit later joined Xavier in Australia to aid Rogue, and Xavier was finally able to help her control her powers. After this, Rogue was hesitant to continue her relationship with Remy due to all that had recently happened between them, but they shared a kiss.{{r|X-Men: Legacy #220|224}}
+
+When the X-Men became engaged in a conflict with [[Norman Osborn (Earth-616)|Norman Osborn]]'s [[Dark Avengers]], Xavier, Rogue, and Danger decided to return to the X-Men and help them out with the riots. Gambit decided to join them, but realised that the rest of the X-Men were finding it hard to accept him again after all that he had done. He considered leaving, but decided to stay.{{r|X-Men: Legacy #226|227}}
+
+During a fight with a low-level telepath, Gambit's Death Persona re-emerged after the telepath probed the section of his mind where the persona had been repressed. Gambit instantly reverted to his old appearance as the Horseman of Death and trapped the telepath in a playing card before reverting back to his normal self and leaving the scene.{{r|X-Men: Legacy Annual #1}}
+
+[[File:Remy LeBeau (Earth-616) from X-Termination Vol 1 1.jpg|thumb|right|150px|Gambit back with the X-Men]]
+During a mission to Limbo to rescue [[Illyana Rasputina (Earth-616)|Magik]], Gambit was fully taken over by his Death Persona. As Death, Gambit decided to conquer all of Limbo, using a theretofore unused power to corrupt other creatures - even the demonic denizens of Limbo - into his servants. Gambit fought the other X-Men that had accompanied him, converting [[Jean-Paul Beaubier (Earth-616)|Northstar]] and [[Alison Blaire (Earth-616)|Dazzler]] into his servants. The rest of the X-Men managed to defeat Gambit and his corrupted servants however, as Gambit narrowly managed to regain control of his Death Persona, which promised to return.{{Citation}}
+
+When [[Marius St. Croix (Earth-616)|Emplate]] returned to find new victims to feed on, Rogue volunteered to venture into his stronghold in order to rescue [[Roxanne Washington (Earth-616)|Bling!]] who had been taken captive by Emplate. Gambit was angered by this and blamed [[Scott Summers (Earth-616)|Cyclops]]. During an argument between them, Gambits Death Persona once again began to surface and, now afraid of himself and the power growing inside him, he sequestered himself. He was later sought out by [[Ruth Aldine (Earth-616)|Blindfold]] who had a vision which featured Gambit, [[Julian Keller (Earth-616)|Hellion]], and [[David Haller (Earth-616)|Legion]], one of whom she predicted would greatly hurt the X-Men. After speaking to Gambit's Death Persona, which expressed its wishes to be free from its prison in Gambit's mind, she determined that it was not the most immediate threat.{{Citation}}
+
+===Mentoring X-23===
+Despite struggling to control his Death persona, Gambit took an interest in [[Laura Kinney (Earth-616)|X-23]]. Seeing clearly that she was struggling after her time in [[X-Force (Strike Team) (Earth-616)|X-Force]], and that the X-Men's attempts at helping her were not working, [[Ororo Munroe (Earth-616)|Storm]] asked him to keep an eye on her. {{r|X-23 Vol 3 1}} After she left Utopia to find herself, Gambit came with her and took her under his wing. {{r|X-23 Vol 3 4}}
+
+===Regenesis===
+After the [[Schism (Event)|Schism]] between [[James Howlett (Earth-616)|Wolverine]] and Cyclops caused Wolverine to leave and reform the Westchester school, Gambit decided to accept his offer to join him, declaring that he had already done all there was to do in the west and he might as well head back east. He took up a teaching position at the [[Xavier's School for Gifted Youngsters|Jean Grey School]].{{Citation}}
+
+===Avengers vs X-Men===
+Gambit supported his fellow mutants in this conflict but initially declined to join the battle, instead volunteering to stay at the school to keep the students safe. When [[Falcon]], [[Jennifer Walters (Earth-616)|She-Hulk]], and [[Marc Spector (Earth-616)|Moon Knight]] arrived at the school to keep an eye on them to make sure none of them joined the battle, Gambit expressed his dislike of the situation. After She-Hulk seriously injured a couple of students who attacked her, mistaking them for monsters, the X-Men attacked and defeated them. After the battle Gambit decided to join the war against the [[Avengers (Earth-616)|Avengers]]. After the [[Phoenix Five (Earth-616)|Phoenix Five]] began losing control of themselves due to the Avengers, Gambit and the other X-Men decided to side with the Avengers in a successful effort to rid their friends of the Phoenix.{{Citation}}
+
+===Back to the World of Thieves===
+Gambit returned to his thieving habits, pulling off heists during his spare time away from the X-Men. While stealing from the crime lord [[Borya Cich (Earth-616)|Borya Cich]], Gambit discovered an ancient artifact which proceeded to burrow into his chest.{{r|Gambit Vol 5 1}} Having failed to remove the embedded device, Gambit decided to search for the secret behind it. While looking into the device's history Gambit came upon a mysterious thief that was also trying to discover the secrets of the device.{{r|Gambit Vol 5 2}} Gambit and the other thief, [[Joelle (Earth-616)|Joelle]], then traveled to [[Guatemala]] in search of a hidden city that contained the other half of the device. Once they discovered the other half of the device the piece removed itself from Gambit's chest and proceeded to open a portal, in which giant winged snakes began to emerge.{{r|Gambit Vol 5 3}}
+
+===Corporate X-Factor===
+While undertaking a heist to "liberate" an ancient artifact from a wealthy collector, Gambit was confronted by [[James Howlett (Earth-616)|Wolverine]], who escorted Gambit out and told him that his thievery was unacceptable as long as he had duties as an X-Man. While drinking in a bar, Gambit was approached by [[Lorna Dane (Earth-616)|Polaris]], who offered him a spot in the new [[X-Factor]] team she was leading, on behalf of [[Serval Industries (Earth-616)|Serval Industries]]. Despite his suspicions towards the supposed altruism of Serval, their CEO [[Harrison Snow (Earth-928)|Harrison Snow]], and fellow team member [[Pietro Maximoff (Earth-616)|Quicksilver]], Gambit agreed to join the team.{{r|All-New X-Factor Vol 1 1}}
+
+===Marriage===
+Gambit's romance with Rogue reignited when [[Katherine Pryde (Earth-616)|Kitty Pryde]] sent them undercover to couples' therapy, at the Paraíso Island Retreat Center, where [[Charmaine Grand (Earth-616)|Charmaine]]'s powers forced them to confront the events of their past from each other's point of view.{{r|Rogue & Gambit Vol 1 1|5}}
+
+Not long afterwards, Kitty Pryde and [[Piotr Rasputin (Earth-616)|Colossus]] held a wedding ceremony after becoming engaged; however, Kitty backed down at the last second and left Piotr at the altar. During the would-be reception, Gambit became inspired by Storm's words on marriage, and decided to propose to Rogue on the spot. She accepted, and they were married shortly afterwards by the rabbi that was going to officiate the marriage that was originally planned for that day.{{r|X-Men: Gold Vol 2|30}}
+
+Just as they began to spend their honeymoon in space, they were interrupted by a call from Kitty Pryde who told them that they needed to find a secret package which involved the [[Shi'ar Empire|Shi'ar]].{{r|Mr. and Mrs. X Vol 1|2}} They soon discovered that the package was [[Xandra Neramani (Earth-616)|Xandra]], who took the form of an egg; Kitty explained to them that she was the bio-engineered daughter of [[Charles Xavier (Earth-616)|Xavier]] and [[Lilandra Neramani (Earth-616)|Lilandra]], able to change her appearance and other's at will.{{r|Mr. and Mrs. X Vol 1 3}}
+
+Having read Rogue's mind, Xandra offered to fix her abilities so she could touch anyone, however Rogue refused, and when Gambit questioned her about her decision, she explained that the last time it happened, she never learned to control it herself.{{r|X-Men: Legacy Vol 1 224}} The ground was interrupted by the [[Imperial Guard]] and [[Cal'syee Neramani (Earth-616)|Deathbird]] and a fight ensued.{{r|Mr. and Mrs. X Vol 1 4}} Realizing they were losing the fight, Xandra used her abilities to make everyone involved think she and Rogue were killed. After the Imperial Guard and Deathbird left, they returned only to have Rogue's powers become uncontrollable as she began absorbing memories without touching anyone. Xandra explained that her powers had evolved and Rogue would have to learn to control it on her own. Together Gambit and Rogue returned to Earth.{{r|Mr. and Mrs. X Vol 1 5}}
+
+Opening an unknown gift during their wedding celebration, Gambit and Rogue were teleported to the [[Mojo (Mojoverse)|Mojoverse]],{{r|Mr. and Mrs. X Vol 1 6}} but before they were able to figure out what was going on, Mojo reset their lives to a noir setting called ''"Honey Moonlighting"''. However, since Rogue's abilities had evolved, she became aware of what was going on, destroying the fake reality and killing Remy by absorbing him.{{r|Mr. and Mrs. X Vol 1 7}} Mojo reset their lives several times to different genres, but they all ended with Rogue killing Gambit. Discussing their relationship on a reality TV show, Gambit left for a bar where he met a strange brunette woman whom he quickly brushed off. The woman revealed herself to be [[Rita Wayword (Earth-616)|Spiral]] and restored his memories.
+
+She explained to Gambit that she brought them there since Mojo wanted a famous superhero couple for his newest programming, but Spiral needed a great thief to steal something for her, but she was unaware that Rogue's abilities had changed. Spiral wouldn't tell Gambit what she wanted stolen, but if he helped her, she promised to help Rogue with her powers and the couple's escape.{{r|Mr. and Mrs. X Vol 1 8}}
+
+| Powers                  = [[File:Remy LeBeau (Earth-616) from Ultra X-Men (Trading Cards) 1995 Set 001.jpg|thumb|200px|Showing his hand]]
+Gambit is a [[Homo superior|mutant]]:
+
+'''Molecular Acceleration''': Remy has the power to take the potential energy stored in an object and convert it to kinetic energy, thus “charging” that item with explosive results. He prefers to charge smaller objects, such as his ever-present playing cards, as the time required to charge them is greatly reduced and they are much easier for him to throw. The only real limitation to this ability is the time required to charge the object. The larger it is, the more time it takes.{{r|Uncanny X-Men #266}}
+
+Most charging takes place through direct skin contact. The power of his explosions is dependent on the mass of the object he is charging, for example, a charged playing card explodes with the force of a grenade. He typically cannot utilize his powers on living matter or organic molecules.{{r|Gambit Vol 3 #16}}
+
+These powers have been altered on various occasions; sometimes bolstered while other times weakened.{{r|Gambit Vol 3 6}}{{r|Gambit Vol 5 2}} They were most notably augmented once by [[Sage (Earth-616)|Sage]] to enable him to accelerate his own regeneration process and better control his kinetic shifting,{{r|X-Men Vol 2 165}} and again by [[Faiza Hussain (Earth-616)|Faiza]] when he was shot through the head by a crime lord and spat a bullet back at him that eviscerated the latter.{{r|Gambit Vol 5 17}}
+
+*'''''Dissolution''''': Gambit can also cause objects to pull themselves apart instead of exploding violently making them harmlessly melt down to nothing. Once having focused charging on dissolving shrapnel in a victims stomach and at times when jumpstarted able to overcharge falling debris from crumbling buildings. His control over this has increased to the point he can shatter ice he was encased in without blowing up.{{r|Gambit Vol 5 17}}
+
+*'''''Disruption''''': Gambit can tame his explosive acceleration to temporarily scramble the sensory awareness of a person, knocking them out cold.{{r|X-Men Vol 2 34}}
+
+*'''''Enhanced Conditioning''''': Gambit's ability to tap energy also grants him increased speed, strength, reflexes and reactions, flexibility, dexterity, coordination, balance, and endurance as a side effect,{{r|Gambit Vol 3 6}}{{r|Gambit Vol 3 25}} bestowing him an added edge he has used to his advantage by developing a unique acrobatic fighting style. Under normal circumstances, the physical "charge" he receives makes his abilities exceptional, but not quite superhuman.{{r|Official Handbook of the Marvel Universe Master Edition #28}}
+:*'''''Accelerating Regeneration''''': Gambit can enhance his own recovery rate by stimulating his own cellular activity. Through this process he once healed after removing a bone slag lodged in his chest.{{r|Gambit Annual Vol 1 1999}} Another time, when his eyes were damaged by a charged card exploding in his face, Sage augmented his powers and enabled him to restore his sight, indicating his regenerative powers are innate yet sparsely used.{{r|X-Men Vol 2 165}}
+:*'''''Speed Augmentation''''': LeBeau can use his kinetic abilities to vastly increase his reflexes and locomotion to incredible extremes. Shown by dodging bullets,{{r|Uncanny X-Men Vol 1 276}}{{r|Gambit Vol 3 8}}{{r|Gambit Vol 4 12}} lasers,{{r|Gambit Vol 3 5}}{{r|Mr. and Mrs. X Vol 1 3}} catching a bullet and throwing it back,{{r|X-Men Vol 2 1}} blocking bullets with his staff,{{r|X-Men Vol 2 3}}{{r|Gambit Vol 4 10}} able to dodge missiles,{{r|Gambit Vol 1 1}} spotting a magical bullet and knocking it out of the air scant moments before it struck him in the eye.{{r|Excalibur Vol 4 22}}
+
+*'''''Enhancement''''': Can supercharge the energy both converted and accelerated to get more of a bang out of even the smallest objects as well as giving them greater concussive or stopping power.{{r|Gambit Vol 5 17}}
+
+*'''''Static Interference''''': Creates natural static, because of the charged potential energy always in his body, that shields his mind from intrusion by telepaths. Can increase the effect by holding a charged object near his head.{{r|Gambit Vol 3 8}} Although reportedly uncomfortable for the parties involved, this shield does not ''totally'' prevent telepathic invasion.{{r|Gambit Vol 3 5}}
+
+*'''''Vibration Emission''''': Gambit, through kinetic acceleration instead of conversion, can emit a shockwave accompanying a bright flashbang which leaves a sizable crater in the ground.{{r|Gambit Vol 5 15}}
+
+*'''''Remote Charging''''': At the height of his power, Mr. LeBeau could activate the potential/kinetic conversion process of matter from a distance with nothing but direct eye contact.{{r|Gambit Vol 3 #18}} He seems to possesses a similar skill to focus his accelerating abilities with a gesture while out in the field with Excalibur.{{r|Excalibur Vol 4 4|10}}
+
+*'''''Shearing/Cutting''''': By charging his cards, Remy can use them to slice through objects as dense as solid steel without worry of them exploding.{{r|Gambit Vol 3 6}}
+
+*'''''Acceleration Bestowal''''': Gambit can take the energy locked within a charged slug and use it in order to continue pushing it forwards and onward in a given direction with enough concentration, even through a solid energy field while withholding its explosive reaction.{{r|X-Treme X-Men #13}}{{r|X-Treme X-Men #15}}
+
+*'''''Delayed Charge''''': With some effort, Gambit can prolong the detonation time of his activated discharge,{{r|Gambit Vol 3 #2}} causing a slight lag when he's preparing his potential/kinetic conversion of matter into a volatile state.{{r|Mr. and Mrs. X Vol 1 12}}
+
+'''''Hypnotic Charm''''': Subliminal psionic talent channeled through his voice that allows a subtle influence over any sentient mind. This power allows Gambit to compel others to believe what he says and agree with anything he suggests.{{r|Uncanny X-Men Vol 1 266}} More powerful minds have proven immune to Gambit's charm, and people who are consciously aware of what he's doing can shake off the effects.{{r|Rogue Vol 3 4}}
+
+'''Death Seed Powers''': As the Horseman of Death, Remy received new abilities and a new appearance.{{r|X-Men Vol 2 185}} Sinister allegedly removed Apocalypse's influence from Gambit,{{r|X-Men Vol 2 200}} but the Death personality and look resurfaced intermittently for several months.{{r|X-Men: Legacy Annual Vol 1 1}} It has been some time since Gambit's last reversion into Death, but the second power set was never explicitly removed again.
+
+* '''Toxic Transmutation''': As Death, he has the ability to convert breathable air into poisonous gases. He could either create clouds out of the surrounding air, or transmute the oxygen already inside someone's lungs.{{r|X-Men Vol 2 #186}}
+
+* '''Death Charge''': As Death, Gambit could charge objects in a manner differently than his regular kinetic charge. This "death charge" caused his cards to break down living matter on contact, totally disintegrating a victim.{{r|X-Men: Legacy Annual #1}}
+** '''Trajectory Manipulation''': Gambits Death persona also seemed capable of guiding these charged cards to their target mentally.{{r|X-Men: Legacy Annual #1}}
+
+* '''Enhanced Psychic Resistance''': As Death, Gambit was unaffected by psionic manipulations that would affect him normally. When his Death personality surfaced, Remy was no longer fooled or distracted by Input's telepathic distortions.{{r|X-Men: Legacy Annual Vol 1 1}}
+
+* '''Corruption''': When reverting to Death in Limbo, Gambit displayed the ability to corrupt other creatures and subvert them to his will. When used on [[Jean-Paul Beaubier (Earth-616)|Northstar]] and [[Alison Blaire (Earth-616)|Dazzler]] they began to resemble him, gaining pitch-black skin and white hair.{{r|X-Men: Hellbound #2}}
+
+'''Mutant Energy Control''': Taking a new perspective on how Remy's kineitc abilities work, Julio Richter endorsed his aid in using the shared energy in which mutants harness in order to utilize their superpowers. Working his own abilities in conjunction with those on the Excalibur team in order to facilitate a summoning spell so as to retrieve fallen comrade.{{r|Excalibur Vol 4 16}} 
+
+{{Navigation
+| title  = Former Powers
+| body   = 
+'''Total Kinetic Control''': Gambit's classic power set is a reduction of his true power levels. Unable to control his growing powers as a youth, Remy LeBeau turned to Mister Sinister for help. Sinister surgically extracted a portion of Gambit's brain, dampening and regulating his powers to a more manageable level. The surgically removed grey matter was preserved by Gambit and Sinister in case he ever wanted his powers restored. The occasion did arise, and Gambit's powers and brain were surgically restored to their original levels.{{r|Uncanny X-Men #350}}{{r|{{cl|Gambit Vol 3 14}}-[[Gambit Vol 3 16|16]]}} Gambit eventually burned out these excess powers in conflict with the New Sun.{{r|Gambit Vol 3 #24}} During this period, Gambit's enhanced powers included: 
+*'''Superhuman Physical Prowess:''' Normally operating at peak human levels, Gambit now possessed genuinely superhuman levels of physical activity, especially endurance. This was dependent on active use of his abilities, however -- Remy would be full of energy and stamina so long as he continued employing his powers. If he stopped using his powers for a few minutes, though, he risked crashing as his excess endurance faded.{{r|{{cl|Gambit Vol 3 17}}-[[Gambit Vol 3 19|19]]}}
+*'''No Limitations:''' Gambit could now use his powers to affect organic molecules, including living beings, and could exert his kinetic powers over a distance. Initially, this resulted in an unstable kinetic field that accidentally charged objects in his vicinity.{{r|Gambit Vol 3 #16}} Over time, however, Gambit essentially learned to use his powers to charge anything in his line of sight.{{r|{{cl|Gambit Vol 3 17}}-[[Gambit Vol 3 18|18]]}}
+
+*'''Variable Charge:''' Gambit could manipulate the intensity of his kinetic charges far more than before. At the low end, he could charge a human being so they experienced physical discomfort{{r|Gambit Vol 3 #21}} or a burning sensation from the charge, even Colossus's metal skin.{{r|Gambit Vol 3 #16}} A tiny charge could even be benignly placed on a target, allowing Gambit to sense that person through the charge and track them over a distance.{{r|Gambit Vol 3 #22}} At the far end, Gambit could utterly destroy targets, causing them to incinerate without violently exploding, or explode far more violently than normal.{{r|Gambit Vol 3 #19}}
+* '''Time-delayed Explosions''': While Gambit’s charge normally has a bit of a delay before the chain reaction goes critical, at one point his powers could delay explosions by minutes and potentially hours.{{r|Gambit Vol 3 #2}}
+
+'''Precognition''': Gambit was temporarily blinded due to a card in his hand being hit and exploding. During this period, he was able to 'see' images in his cards.{{r|X-Men Vol 2 162}}
+}}
+
+| Abilities               = 
+
+'''Multilingual:''' He is fluent in English and [[Cajun]] French.{{r|Official Handbook of the Marvel Universe Master Edition #28}} He also knows some Japanese though he is not very fluent.{{Citation}}
+
+'''Master Marksman:''' He is extremely skilled in throwing small objects such as cards, bolas, knives, and balls with great accuracy.{{r|Official Handbook of the Marvel Universe Master Edition #28}}
+
+'''Master Martial Artist:''' A profound fighter, often employing martial arts, street fighting, and acrobatics. He is well adept in the martial arts Savate (French kickboxing), and Bojutsu, the art of using a Bo staff.
+
+'''Master Stick Fighter:''' Remy's extreme skills in Bojutsu makes him dangerously skilled in the use of his bo staff.{{r|X-Men Vol 2 #38}}
+
+'''Master Thief'''{{r|Gambit Vol 1 #1}}
+
+'''Gifted Intellect:''' Gambit is a born strategist, and without studying, he managed to prove himself to be one of the greatest strategists of the X-Men. It is possible that he is as good a strategist as Wolverine or Beast. He also seems to have a resistance to deceit, for having a very good language and for having lived with villains like Mister Sinister and Sabretooth.
+
+| Strength                = Gambit is a mutant who possesses the normal human strength of a man of his age, height, and build who engages in [[Strength Scale#Athlete|intense regular exercise]].{{r|Official Handbook of the Marvel Universe Master Edition #28}}
+| Weaknesses              = 
+Under classic conditions, Gambit's powers cannot affect living things and require physical contact to function. His abilities have occasionally been augmented so that these limitations are no longer applicable. Indeed, these limits were artificially imposed on him by Mister Sinister's surgery when his true power levels proved too much for Remy to master.{{r|Gambit Vol 3 #16}}
+
+'''Formerly:''' For some time, he was unable to completely control his powers, which is why he had Sinister remove a piece of his brain stem. According to Captain America, Gambit's powers cannot affect organic beings,{{r|AVX: Vs Vol 1 2}} though this,{{r|Daken: Dark Wolverine Vol 1 8}} is debatable.{{r|X-Men: Legacy #214}}
+
+| Equipment               = Gambit's guild costume is armored, providing better protection than a normal X-Men uniform.{{r|Official Handbook of the Marvel Universe Master Edition #28}} On his recent adventures Remy LeBeau stole a magic deck of Tarot Cards from Lady Saturnyne's keep, each one having the magical ability represented by the mystical arcana based upon the various characters who represent them, such as Longshot's visage on the wheel of fate governing good fortune.{{r|Excalibur Vol 4 22}}  
+| Transportation          = [[X-Men Blackbird]]
+| Weapons                 = Gambit usually employs throwing spikes and playing cards. He also often uses a telescoping bo-staff. At some point he commissioned himself a copy of the [[Gambit's Jennings Volition Repeating|Rifle]] [[Remy LeBeau (Earth-11326)]] had during his time in [[Fortress X]].{{r|X-Men: Legacy Vol 1 252}}
+
+| Notes                   = 
+* In {{cl|X-Men Vol 2 1}}, Gambit was referred to as an Acadian, hinting at him being a descendant of the original seventeenth-century French colonists who settled in Acadia. As a fact, the Louisiana Cajun descendants mostly speak English, but some still speak Cajun French, a French dialect diversified in Louisiana.
+* Gambit had a piece of his brain stem removed in the present time, but had it re-implanted in Victorian era England, which resulted in a predestination paradox for his surgeon, Mister Sinister -- while reattaching the brain matter in the 19th century, Essex recognized his own work and realized he would perform the surgery that originally removed the brain matter sometime in his future but Gambit's past.{{r|{{cl|Gambit Vol 3 14}}-[[Gambit Vol 3 16|16]]}}{{r|Uncanny X-Men Vol 1 350}}
+* Gambit carries [[Clint Barton (Earth-616)|Clint Barton]]'s [[Avengers Identicard]], which he stole from him.{{r|A + X Vol 1 3}}{{r|Gambit Vol 5 15}}
+*Gambit has three cats, given to him by [[Raven Darkholme (Earth-616)|Mystique]].{{r|Astonishing X-Men Vol 3 62}} They are all named after cats from Disney films ([[Oliver (Cat) (Earth-616)|Oliver]], [[Lucifer (Cat) (Earth-616)|Lucifer]], and [[Figaro (Cat) (Earth-616)|Figaro]]).{{r|All-New X-Factor Vol 1 3}}
+| Trivia                  = * [[Chris Claremont]] initially planned for Gambit to be an older clone of the character that was originally going to be behind Mister Sinister, a 60-year-old man in a 11-year-old body who used Sinister as a proxy. This character would've fallen in love with Rogue, and would've created Gambit in order to approach her. Gambit falling in love with Rogue would've caused him to develop a human side and become at odds with his creator, eventually becoming a good guy.<ref>{{cite web|url=http://www.cbr.com/gambit-cyclops-mister-sinister-chris-claremont-clone/|title=Comic Legends Revealed: Was Gambit Originally a Clone of Cyclops?|work=CBR|first=Brian|last=Cronin|date=24 March 2017|accessdate=30 March 2017}}</ref>
+
+* Writer [[James Asmus]] pitched the idea to reveal Gambit as being bisexual during his [[Gambit Vol 5|''Gambit'']] series. Had the idea been greenlight, at one point in the series, Remy would've been seen seducing a man on one of his missions, and later on meeting a male member of the Thieves Guild with whom he would've had had a relationship in the past.{{r|{{cite web|url=https://www.cbr.com/gambit-bisexual-x-men-marvel/|title=Comic Legends: Would Marvel Not Allow Gambit to be Bisexual?|work=CBR.com|first=Brian|last=Cronin|date=5 January 2018|accessdate=6 January 2017}}}}
+| CustomSection2          = Related Articles
+| CustomText2             = 
+* [[Rogue (Anna Marie) (Earth-616)|Rogue]]
+* [[Jacob Gavin, Jr. (Earth-616)|Courier]]
+* [[X-Men (Earth-616)|X-Men]]
+* [[Chevaliers (Earth-616)|Chevaliers]]
+* [[New Sun (Earth-9921)|New Sun]]
+* [[X-Factor (Serval Industries) (Earth-616)|X-Factor]]
+
+| Links                   = *[http://www.marvelgambit.wordpress.com #1 Gambit Blog!] 
+* [http://uncannyxmen.net/characters/gambit uncannyxmen.net Spotlight On... Gambit]
+* [http://www.mutanthigh.com/gambit.html Mutant High]
+* [http://marveldirectory.com/individuals/g/gambit.htm Marvel Directory] 
+* [http://marvel.com/characters/bio/1009313/gambit Marvel]
+}}
+[[pt-br:Remy LeBeau (Terra-616)]]
+[[Category:Boudreaux Family]]
+[[Category:LeBeau Family]]
+[[Category:Post-M-Day Mutants (The 198)]]
+[[Category:Energy Manipulation]]
+[[Category:Precogs]]
+[[Category:Poisonous]]
+[[Category:Power Negation]]
+[[Category:Telepathic Immunity]]
+[[Category:Multilingual]]
+[[Category:Street Fighting]]
+[[Category:Thrown Weapons]]
+[[Category:Utopians]]
+[[Category:Catholic Characters]]
+[[Category:Jean Grey School faculty]]
+[[Category:Hypnosis]]
+[[Category:Mister Sinister Experiment]]
+[[Category:Apocalypse Experiment]]
+[[Category:Formerly Deceased]]
+[[Category:Transmutation]]
+[[Category:High Threats]]
+[[Category:Weapons Expert]]
+[[Category:Lockpicking]]
+[[Category:Acrobats]]
+[[Category:Transformed by the Death Seed]]
+[[Category:Mutants activated at birth]]
+[[Category:Thieves]]
+[[Category:Post-Secret Wars Mutants]]
+[[Category:Horsemen of Death]]
+[[Category:Martial Arts]]
+[[Category:Floating Super-Hero Poker Game participants]]
+[[Category:Darkholme Family]]
+[[Category:Adler Family]]
+[[Category:Interdimensional Travelers]]
+[[Category:Tobacco Smokers]]
+[[Category:Time Travelers]]

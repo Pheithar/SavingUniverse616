@@ -1,0 +1,152 @@
+{{Marvel Database:Character Template
+| Image                   = Leonard Samson (Earth-616) from Immortal Hulk Vol 1 46 cover 001.jpg
+| Name                    = [[Leonard Samson|Dr. Leonard Samson]]
+| Name2                   = <br>([[Category:Name legally changed]][[:Category:Name legally changed|legally changed]] from Leonard Skivorski, Jr.)
+| CurrentAlias            = [[Sasquatch|Doc Sasquatch]]
+| Aliases                 = [[Doc Samson]], Brother Leonard,{{r|Doc Samson Vol 2 2}} Green-Hair,{{r|Defenders Vol 2 5}} Len,{{r|Incredible Hulk #141}} Lennie,{{r|Doc Samson Vol 2 1}} [[Red Hulk]] (mistakenly),{{r|Hulk Vol 2 6}} [[Samson]]{{r|Incredible Hulk #141}}
+| Identity                = Secret
+| Affiliation             = {{m|Gamma Flight (Alpha Flight Space Program)}}; formerly {{m|Intelligencia (Earth-616)|Intel}}, {{m|50-State Initiative|Initiative}}, [[Ravencroft Institute]], {{m|United States Hulk Operations}}
+| Parents                 = [[Leonard Skivorski (Earth-616)|Leonard Skivorski]] (father);<br>
+Mrs. Skivorski (mother)
+| Children                = [[Ricky Myers (Earth-616)|Ricky Myers]] (son, deceased)
+| Reality                 = Earth-616
+| BaseOfOperations        = Mobile; formerly [[Gamma Base]], [[New Mexico (State)|New Mexico]]; [[Area 51|Shadow Base Site B]], [[Groom Lake]], [[Nevada (State)|Nevada]]; [[Shadow Base Site G]], [[New Mexico (State)|New Mexico]]
+
+| Gender                  = Male
+| Height                  = 6'6"
+| Weight                  = 380 lbs
+| Eyes                    = Green (as Doc Sasquatch); Brown (in original body)
+| Hair                    = Green; Brown (originally)
+| UnusualFeatures         = Long green hair (as Doc Samson); wide shoulders, green fur all around him, claws, no neck (in Sasquatch's body)
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #3}}
+
+| Citizenship             = American
+| MaritalStatus           = Single
+| Occupation              = Psychologist, psychiatrist, adventurer, fugitive; former special consultant to Gamma Base. teacher
+| Education               = PhD in psychology,{{r|Official Handbook of the Marvel Universe: Hulk 2004 Vol 1 1|Official Handbook of the Marvel Universe Hulk 2004|'s [http://marvel.com/universe/OHOTMU:Data_Corrections_Hulk_2004 corrections]}} M.D.,{{r|Hulk Vol 2 1}} extensively self-taught in engineering.{{r|Civil War: Battle Damage Report Vol 1 1}}
+| Origin                  = [[Homo sapiens|Human]] [[Glossary:Mutate|mutated]] by [[Glossary:Gamma Radiation|Gamma ray exposure]] through use of a [[Cathexis Ray]],{{r|Incredible Hulk #141}} later took over the body of [[Walter Langkowski (Earth-616)|Walter Langkowski]], transforming into the [[Great Beasts|Great Beast]] [[Tanaraq (Earth-616)|Tanaraq]]
+| PlaceOfBirth            = [[Tulsa]], [[Oklahoma (State)|Oklahoma]] 
+| PlaceOfDeath            = 
+| Creators                = Roy Thomas; Herb Trimpe
+| First                   = Incredible Hulk #141
+| Death                   = 
+
+| Quotation               = I've got reason to believe, monster -- that anything you can do -- I can do better --
+| Speaker                 = [[Leonard Samson (Earth-616)|Samson]]
+| QuoteSource             = Incredible Hulk Vol 1 610
+
+| History                 = 
+===Early Life===
+Leonard Skivorski, Jr. was born and raised in [[Tulsa]], [[Oklahoma (State)|Oklahoma]]. He was of Jewish descent and regularly attended yeshiva.{{r|Incredible Hulk #373}} He was the son of [[Leonard Skivorski (Earth-616)|Dr. Leonard Skivorski, Sr.]] a successful psychiatrist in his own right. His father specialized in treating young women and had affairs with them. His was nicknamed "Samson" by his wife because of his long hair.{{r|Hulk Vol 2 18}} Leonard at first wanted nothing to do with psychology, but in college like his father he gained a PhD in psychology.<ref>{{cl|Official Handbook of the Marvel Universe: Hulk 2004 Vol 1 1|Official Handbook of the Marvel Universe Hulk 2004}} and [http://marvel.com/universe/OHOTMU:Data_Corrections_Hulk_2004 official corrections]</ref>
+
+===Gamma Exposure===
+He came to [[Thaddeus Ross (Earth-616)|General "Thunderbolt" Ross]] with a plan to cure Ross's daughter Betty, who had been transformed into a crystalline form{{r|Incredible Hulk #141}} through a blood transfusion with [[William Baker (Earth-616)|Sandman]].{{r|Incredible Hulk #139}} Samson had technicians devise a [[Cathexis Ray]] projector that would drain off gamma particle energy and psionic energy from Bruce Banner as he transformed into the monstrous [[Bruce Banner (Earth-616)|Hulk]] whom General Ross had long hunted. Samson theorized that as a result of this process, Banner would be cured of the physiological instability that continually transformed him into the Hulk. Hoping to save Betty and to be cured himself, Banner willingly participated in the experiment. The cathexis ray succeeded in turning Betty Ross back to normal, employing Banner's psionic energy.{{r|Incredible Hulk #141}}
+
+[[File:Doc Samson Vol 2 1 Textless.jpg|left|thumb|150px|Doc Samson's Gamma Form]]
+However, most of the psionic energy drained from Banner (as well as a considerable amount of his excess gamma radiation) remained within the cathexis ray projector. Motivated by scientific curiosity, and probably by a subconscious desire to gain superhuman powers for himself, Samson irradiated himself with the energies remaining within the projector. The result was that the slim, brown-haired psychiatrist was transformed into a massively-muscled, green-haired superhuman with Gamma-boosted strength. Banner himself seemed permanently cured, but he broke emotionally under the strain of seeing Betty, the woman he loved, being romanced by Samson. Banner then exposed himself to Gamma radiation, thereby undoing the cure. Samson then fought the Hulk, being defeated in his first real superhero combat, but Betty sympathized with the weaker Samson much to the Hulk's chagrin.{{r|Incredible Hulk #141}}
+
+Samson later lost his superhuman physique and power when he took a blast of concentrated gamma radiation intended for the Hulk.{{r|Incredible Hulk #147}} However, months later Samson regained his gamma-mutated form and superhuman strength when he was bombarded by intensive radiation from an exploding gammatron, an experimental gamma-ray generator.{{r|Incredible Hulk #193}} He has remained in this form ever since. '''"Doc" Samson''', as he has been nicknamed, has long sought to capture and permanently cure the Hulk. Samson worked as a teacher at the [[Evanston]] campus of the Northwestern University during the recent time that the Hulk was traveling through different dimensions, unable to return to Earth. However, Samson often neglected his academic duties and returned to his pursuit of the Hulk once the monster reappeared on Earth.{{r|Incredible Hulk #314}}
+
+Doc Samson was also briefly the Director of Ravencroft Institute, a facility for the criminally insane, following the removal of [[Ashley Kafka (Earth-616)|Doctor Ashley Kafka]] as head of the facility.{{r|Spectacular Spider-Man #246}}
+
+===Civil War & World War Hulk===
+During the [[Superhuman Civil War]] Samson joined the Registered heroes and fought against the Secret Avengers.{{r|Civil War #3}} Shortly afterwards, the Hulk returned to seek revenge on the [[Illuminati (Earth-616)|Illuminati]], who exiled him to space. Doc Samson helped evacuate the people of New York. Then he battled the Hulk and the [[Warbound (Earth-616)|Warbound]]. He was defeated by the Warbound and imprisoned.{{r|World War Hulk #1}}
+
+===Thunderbolts===
+[[File:Hulk Vol 2 18 Textless Portacio.jpg|200px|right|thumb|Not Doctor, just Samson]]
+Following the [[Secret Invasion|Skrull invasion]], Doc Samson led a support group meeting with those that had been replaced by Skrulls.{{r|Avengers: The Initiative #20}} Later, on Air Force One, he attempted to disclose the full activities of [[Norman Osborn (Earth-616)|Norman Osborn]] within Thunderbolts Mountain to the new United States President. Before Samson was able to play the evidence, Osborn's new [[Thunderbolts (Earth-616)|Thunderbolts]] hijacked the plane: the [[Ghost (Earth-616)|Ghost]] took the evidence, [[Eric O'Grady (Earth-616)|Eric O'Grady]] implanted a gamma-emitter on the back of Samson's neck causing him to grow angry and more powerful in a Hulk-like manner, and someone wearing the Green Goblin's costume attacked the airplane.{{r|Thunderbolts #128|129}} Samson's increased anger caused him to attack the President, but he was phased out of the plane by the Ghost. Osborn reasoned that, in his enhanced state, Doc Samson probably survived the fall, and released a global warrant for his arrest, suggesting that Samson attempted to kill the President.{{r|Thunderbolts #129}}
+
+===Red Hulk===
+A new [[Thaddeus Ross (Earth-616)|Red Hulk]] appeared, and revealed that Bruce was no longer comatose, and was being imprisoned by the US military.{{r|Hulk Vol 2 #1}} However, the Helicarrier crashed near [[New Jersey (State)|New Jersey]].{{r|Hulk Vol 2 #2}} [[Anthony Stark (Earth-616)|Tony Stark]] ordered [[Maria Hill (Earth-616)|Maria Hill]] to investigate and search for survivors. [[Clay Quartermain (Earth-616)|Clay Quartermain]]'s corpse was found mangled and ravaged, and the area bathed with gamma radiation. General Ross and Samson's bodies were missing. Leonard's coat was found ripped and shredded in a Hulk-like fashion, exhibiting higher Gamma Radiation values than every other item in the wreckage.{{r|Hulk Vol 2 #4}}
+
+[[George Tarleton (Earth-616)|M.O.D.O.K.]] placed Samson under mind control producing a split personality. This led to a powerless Leonard who was defined as the good one and an evil Samson whose abilities are greater than [[Jennifer Walters (Earth-616)|She-Hulk]]'s. Samson shot [[Richard Jones (Earth-616)|Rick Jones]] and dragged him away after he attempted to reveal who the Red Hulk really was.{{r|Hulk Vol 2 6}} He then engaged She-Hulk in combat but it was cut short by M.O.D.O.K. who fired a laser, knocking both unconscious and reverting Samson to Leonard. A battle between Red Hulk and Hulk caused an explosion.{{r|Incredible Hulk Vol 1 600}} After the Red Hulk depowered the true Hulk, Samson double crossed Red Hulk to punish him for his disobedience.{{r|Hulk Vol 2 16}} Afterward, Samson's darker persona took control once again, under M.O.D.O.K.'s surveillance.{{r|Hulk Vol 2 #18}} Reverted, Doc Samson was killed attempting to help a returned Hulk contain all of the Gamma radiation from the Hulked-Out Heroes.{{r|Incredible Hulk #610}}
+
+===Chaos War===
+Doc Samson was among the many deceased resurrected during the [[Chaos War]], along with [[Glenn Talbot (Earth-616)|Glenn Talbot]], [[Hiroim (Earth-616)|Hiroim]], [[Jarella (Earth-616)|Jarella]], [[Rebecca Banner (Earth-616)|Rebecca Banner]], the [[Emil Blonsky (Earth-616)|Abomination]], and [[Brian Banner (Earth-616)|Brian Banner]], who had the ability to transform into a replica of the Devil Hulk at will. They returned to the realm of the dead afterwards, with the exception of the Hulk's mother.{{r|Incredible Hulks #619|620}}
+
+===Immortal Doc Samson===
+Samson eventually returned to life due to his nature as a gamma mutate and their connection to the mysterious [[Green Door]]. Tormented by the meaning behind his return and feeling purposeless, Samson kept a low profile and refrained from contacting his closest friends. During this time, the [[Civil War II|second superhuman civil war]] took place and Bruce Banner died at the hands of the archer [[Clinton Barton (Earth-616)|Hawkeye]] as part of a form of assisted suicide. Following the death of Rick Jones, Samson contacted Betty Ross.
+
+[[File:Leonard Samson (Earth-616) from Immortal Hulk Vol 1 33 001.jpg|thumb|left]]
+
+Banner returned to life again not long afterward, and Samson set out to find him in search for answers regarding his own immortality.{{r|Immortal Hulk Vol 1 15}} Moments after Betty had been shot by an operative of the covert [[United States Hulk Operations (Earth-616)|Shadow Base]], Samson confronted the Hulk at the scene,{{r|Immortal Hulk Vol 1 14}} meeting latest alter in control, the meticulous and vicious Devil Hulk, who shared with Samson his vision to tear down the human world for their abuse of the environment. Together with the Hulk, Samson investigated Shadow Base and the disappearance of Rick Jones' body.{{r|Immortal Hulk Vol 1 15}} When they reached the abandoned [[Shadow Base Site A]], Samson was shot down by [[Carl Burbank (Earth-616)|Bushwacker]], the operative who had killed Betty.{{r|Immortal Hulk Vol 1 16}} He returned to life after the Hulk had collapsed the facility and left, and was picked up by the task force [[Gamma Flight (Alpha Flight Space Program) (Earth-616)|Gamma Flight]] on their way to investigate the Hulk.{{r|Immortal Hulk Vol 1 18}} Samson joined Gamma Flight in tracking down the Hulk, and at the scene of a battle between the Hulk and a mutated Rick Jones, they retrieved the mutagenic [[Gamma-Activated Tissue]] after the Hulk dug up Rick from it.{{r|Immortal Hulk Vol 1 20}}
+
+In order to retrieve the gamma tissue, the Shadow Base's commander, [[Reginald Fortean (Earth-616)|Reginald Fortean]], assaulted Gamma Flight and killed Samson in the process.{{r|Immortal Hulk Vol 1 21}} After Samson had returned, Gamma Flight retaliated against Shadow Base,{{r|Immortal Hulk Vol 1 22}} involuntarily joining forces with the Hulk and his allies when his raid on Shadow Base coincided with Gamma Flight's incursion.{{r|Immortal Hulk Vol 1 23}} In the aftermath of the confrontation, Banner seized command of Shadow Base and repurposed it for his and Devil Hulk's vision. Doc Samson defected from Gamma Flight in order to keep an eye on the Hulk.{{r|Immortal Hulk Vol 1 24}}
+
+As part of his efforts, the Hulk waged war against [[Roxxon Energy Corporation (Earth-616)|Roxxon]].{{r|Immortal Hulk Vol 1 27}} Samson aided him in fighting giant monsters unleashed by Roxxon in [[Phoenix (Arizona)|Phoenix]], [[Arizona (State)|Arizona]],{{r|Immortal Hulk Vol 1 29}} and also in stopping [[Xemnu (Earth-616)|Xemnu]]'s mind control over the United States.{{r|Immortal Hulk Vol 1 33}}
+
+Following Xemnu's defeat, the Hulk's popularity skyrocketed, but he eventually fell to the scheming of the Leader, who had already taken control of Rick Jones.{{r|Immortal Hulk Vol 1 35}} The Leader also took control of [[Delbert Frye (Earth-616)|Del Frye]], a gamma mutate in custody of Shadow Base, and used it to wreak havoc while the Hulk was away.{{r|Immortal Hulk Vol 1 36}} Using Frye, the Leader killed Samson, plunging him into the [[Below-Place]], a layer of [[Hell]] through which Gamma mutates travel between death and resurrection. The Leader had used the Green Door to take control of Jones, Frye, and the Hulk. When Samson's own Green Door manifested, the Leader somehow affected it to turn it into a Red Door, preventing Samson's return to the land of the living.{{r|Immortal Hulk Vol 1 37}} When the Leader was distracted from controlling so many beings at once, Samson took the opportunity to strike him with a piece of debris, inflicting a severe head injury. As Leader cursed him, Samson ran off.{{r|Immortal Hulk Vol 1 38}}
+
+Unable to resurrect into his own body due to the Leader's meddling with the Green Door, Samson managed to resurrect into the body of the deceased [[Walter Langkowski (Earth-616)|Walter Langkowski]] aboard the [[Alpha Flight Low-Orbit Space Station]], resulting in him becoming a green-haired version of Sasquatch. He reunited with Gamma Flight and Jackie McGee and told them how the Leader had been manipulating events behind the scenes. Samson and Gamma Flight then confronted the Joe Fixit persona in Banner's body. However, Joe Fixit was able to escape by destroying one of the space station's windows and escaping into outer space. Samson prevented anyone else from being sucked out into space.{{r|Immortal Hulk Vol 1 40}}
+
+[[File:Leonard Samson (Earth-616) from Immortal Hulk Vol 1 40 001.jpg|thumb|right|As Doc Sasquatch]]
+
+Later, Samson went with [[Eugene Judd (Earth-616)|Puck]] and [[Michael Twoyoungmen (Earth-616)|Shaman]] to retrieve his body from Shadow Base Site G so he could return to it and leave Walter Langkowski's body. As the three entered Los Diablos Missile Base where Site was built below, they witnessed Rick Jones and Del Frye, who were forcibly merged, emerge from belowground.{{r|Immortal Hulk Vol 1 43}} Samson immediately attacked the pair out of the belief that they were still under the Leader's control and due to the fury from Sasquatch's body. Doc Samson eventually stopped when he realized that Rick and Frye weren't fighting back.{{r|Immortal Hulk Vol 1 44}}
+
+Samson and a recently arrived Dr. McGowan then went into Shadow Base to recover Samson's body only to discover that the body had gone missing. Samson correctly believed that Walt Langkowski had resurrected in his body and had left. When Shaman's radio reported that the Hulk was fighting the U-Foes, Samson, Jackie McGee, McGowan, Rick Jones, Del Frye, and Puck decided to reform Gamma Flight to help Hulk.{{r|Immortal Hulk Vol 1 45|46}}
+
+After picking up Absorbing Man and Titania, Gamma Flight teleported to [[Manhattan]] where Hulk and Betty were fighting the Avengers. Samson didn't participate in the fight. Instead, he try to convince the Avengers to place Hulk and Betty in his care, but the Avengers refused. Gamma Flight, Hulk, Betty, and new ally She-Hulk later teleported away to a warehouse in [[Brooklyn]].{{r|Immortal Hulk Vol 1 47}}
+
+Due to choosing to aid Hulk instead of apprehend him, Gamma Flight became wanted by the Alpha Flight Space Program and forced to go on the run. After scavenging supplies from [[Shadow Base Remote Facility FN34]] with Absorbing Man, Samson, Absorbing Man, Titania, and Puck teleported to [[Austin]], [[Texas (State)|Texas]] to help a Gamma Mutate running amuck. Samson was able to talk down the mutate and learned that her name was [[Dionne Fortean (Earth-616)|Dionne]] but was called Stockpile by the organization she escaped from, [[Green Spring (Earth-616)|Green Spring]]. Samson was then forced to stop Titania from fighting with the [[Austin Police Department (Earth-616)|Austin Police Department]] while Puck and Absorbing Man were teleported away by Dr. McGowan but was unable to teleport Stockpile as well. After that, Skaar appeared seemingly repowered to retrieve Stockpile for Green Spring.{{r|Gamma Flight Vol 1 1}}
+
+Skaar went on the attack, and Samson and Titania were eventually able to restrain Skaar with help from Dionne. Later, Creel and Puck were able to arrive after Creel used his powers to turn himself into a translocator. When the [[United States Hulkbuster Force (Earth-616)|United States Hulkbuster Force]] arrived to break up the fight, Skaar focused his attention on them. When Gamma Flight and Dionne tried teleporting away through Creel, damage done to Creel by Skaar caused a malfunction that seemingly caused them to disintegrate.{{r|Gamma Flight Vol 1 2}}
+
+Gamma Flight and Dionne were transported to an astral plane-like dimension for gamma energy connected to the [[Below-Place]]. After fighting off gamma-mutated creatures and zombies, Dionne revealed that they were in [[Thomasville]], [[Texas (State)|Texas]] where Green Spring conducted experiments with gamma mutation that turned the citizens into zombies. They then met [[Reginald Fortean (Earth-616)|General Fortean]]'s spirit who revealed that someone was using his identity to use Green Spring to create an army of gamma mutates. Then everyone was teleported to Gamma Flight's hideout by [[Charlene McGowan (Earth-616)|Dr. McGowan]].{{r|Gamma Flight Vol 1 3}}
+
+| Powers = * '''Gamma Radiation Enhancements:'''
+**'''Self-Resurrection:''' Samson has recently obtained the ability to resurrect himself after dying by passing through the [[Green Door]].{{r|Immortal Hulk #15}}{{r|Immortal Hulk #18}}{{r|Immortal Hulk #21}} According to Gen. Fortean, the time it takes for Samson to resurrect himself shortens after every death.{{r|Immortal Hulk #22}}
+
+*'''Telepathic Defenses:''' Doc Samson has learned to recognize when his mind is being probed by telepathy, as well as having learned techniques to forcefully shock someone out of his mind by bringing his Gamma induced feelings of rage to the forefront of his thoughts, thus overwhelming the telepath and forcing them to retreat from his mind.{{r|Thunderbolts Vol 1 119}}
+
+* '''Sasquatch Form:''' After resurrecting into the body of Walter Langkowski, Samson presumably enjoys the same powers Langkowski gained in his Sasquatch form:
+** '''Superhuman Strength'''
+** '''Superhuman Durability'''
+** '''Superhuman Speed'''
+** '''Superhuman Stamina'''
+** '''Regenerative Healing Factor'''
+
+{{Navigation
+| title = Former Powers
+| body  = 
+[[File:Doc Samson Vol 2 3 Textless.jpg|right|thumb|Doc Samson with [[Carmilla Black (Earth-616)|the Scorpion]]]]
+* '''Gamma Radiation Enhancements:''' Doc Samson possesses great superhuman strength, endurance, and resistance to injury. The gamma radiation that transformed Doc Samson fortified his cellular structure, added roughly two hundred pounds of enhanced muscle, bone, and connecting tissue to his body, and turned his hair green (The source of Samson's added mass is unknown, but probably extra-dimensional). [[Nicholas Fury (Earth-616)|Nick Fury]]'s intel classified him as power level 8.{{r|Secret War: From the Files of Nick Fury #1}}
+** '''Superhuman Strength:''' While not exposed to a dosage of gamma radiation as great as the [[Bruce Banner (Earth-616)|Hulk]], the [[Emil Blonsky (Earth-616)|Abomination]], or even the [[Jennifer Walters (Earth-616)|She-Hulk]], Samson was granted great superhuman strength. As a result of his gamma ray exposure, he possessed sufficient superhuman strength to lift about [[Strength Scale#70 tons|70 tons]]. Samson's strength doesn't fluctuate with surges of adrenaline during periods of heightened emotional states, such as the Hulk does while angry, and as a result he is far less powerful. His strength was dependent upon the length of his hair: the longer it was, the stronger he was. His great strength also extends into the powerful muscles of his legs, allowing him to leap great heights and distances, though far less than the Hulk or Abomination. Samson has been known to leap approximately 580 feet straight up into the air, and to a maximum reported distance of 910 feet. His strength no longer depends on the length of his hair, but it may still be affected by it.
+** '''Superhuman Stamina:''' As in the case of the Hulk, She-Hulk and Abomination, the gamma ray exposure has dramatically increased the efficiency of Samson's musculature, though not as greatly. As a result, his musculature produces considerably less fatigue toxins during physical activity than the musculature of a normal human. Samson can physically exert himself at peak capacity for about 24 hours before the build up of fatigue toxins in his blood begins to impair him.
+** '''Superhuman Durability:''' Samson's gamma ray enhanced physique is much harder and more resistant to physical injury than a normal human. Samson's skin is able to resist penetration wounds from high caliber bullets or blades composed of most conventional materials. Samson is also physically durable enough to withstand multiple blows from the Hulk, while in an enraged emotional state, and sustain little to no injury. His bones and muscles are strong and resilient enough to be able to survive a fall at terminal velocity reached after free-falling 4,000 feet in a feet-first attitude at 145 miles per hour against sidewalk concrete, provided he lands upright. Even if he doesn't land upright, Samson wouldn't sustain serious physical injury.
+** '''Retained Consciousness:''' Samson still contains his memories and cognitive abilities. Samson's superhuman physique isn't the physical manifestation of an alternate personality brought about by exposure to high levels of gamma radiation, whereas the Hulk is an alternate personality of Bruce Banner. This is also a factor as to why Samson doesn't revert to a non-superhuman form.
+
+[[Image:Leonard Samson (Earth-616) from Incredible Hulk Vol 1 600 001.jpg|200px|right|thumb|The evil Samson form]]
+* '''Samson form:''' This new form seemed to possess the same powers as Doc Samson but claimed to have strength and speed surpassing [[Jennifer Walters (Earth-616)|She-Hulk]].
+**'''Superhuman Strength:''' Samson's strength was said to surpass that of the She-Hulk, and he was therefore capable of lifting far in excess of 100 tons.
+** '''Superhuman Stamina:''' It was unknown if Samson's stamina is greater than the Doc Samson's form, like his strength.
+** '''Superhuman Durability:''' Samson's durability had not been stated to have changed, but it likely was, as he was capable of receiving blows from She-Hulk without sustaining injury.
+}}
+
+| Abilities               = Doc Samson is a skilled psychiatrist, said to be one of the most renowned on Earth.{{r|Incredible Hulk #227}} He is also an M.D. as well as a PhD.{{r|Official Handbook of the Marvel Universe: Hulk 2004 Vol 1 1|Official Handbook of the Marvel Universe Hulk 2004|'s [http://marvel.com/universe/OHOTMU:Data_Corrections_Hulk_2004 corrections]}} He has used a nutrient bath to separate Banner and the Hulk{{r|Incredible Hulk #315}} and placed a rem-integrator in the Hulk's head to put him to sleep.{{r|Incredible Hulk #227}} While he's had no formal training, his powers make him a formidable hand-to-hand combatant. He typically uses street fighting techniques that allow him to make full use of his strength.
+| Strength                = 
+* Doc Samson: [[Strength Scale#70 tons|70 tons]].{{r|Official Handbook of the Marvel Universe A-Z #3}}
+* Samson: In excess of 70 tons.{{r|Fall of the Hulks: Gamma #1}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * Doc Samson is partly based on the biblical hero [[Samson (Biblical) (Earth-616)|Samson]], sharing a name and having the same relation between their strength and their hair's length.
+| Trivia                  = * Samson is considered the leading expert on the effects of gamma radiation on both the body and mind. As of {{cl|She-Hulk Vol 2 19}} he had published 38 peer reviewed papers on both the psychotropic and physiological aspects of gamma transformations.
+| Links                   = 
+}}
+[[hu:Doktor Sámson]]
+[[Category:Jewish Characters]]
+[[Category:Dissociative Identity Disorder]]
+[[Category:Power Level 8]]
+[[Category:Doctors]]
+[[Category:Scientists]]
+[[Category:Engineers]]
+[[Category:Inventors]]
+[[Category:Ravencroft Institute Faculty]]
+[[Category:Formerly Deceased]]
+[[Category:Self-Resurrection]]
+[[Category:Strength Class 70]]
+[[Category:Psychiatrists]]
+[[Category:Consciousness Transferred]]
+[[Category:Fur]]

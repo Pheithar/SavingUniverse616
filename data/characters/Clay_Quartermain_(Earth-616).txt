@@ -1,0 +1,85 @@
+{{Marvel Database:Character Template
+| Name                    = Clay Quartermain
+| CurrentAlias            = 
+| Aliases                 = Special Agent Aspen{{r|Secret War: From the Files of Nick Fury Vol 1 1}}
+
+| Affiliation             = {{M|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}, {{M|Hulkbusters (US Military) (Earth-616)|Military Hulkbusters}}, {{M|Hulkbusters (S.H.I.E.L.D.) (Earth-616)|S.H.I.E.L.D. Hulkbusters}}, {{m|Howling Commandos (S.H.I.E.L.D.) (Earth-616)|Howling Commandos (S.H.I.E.L.D.)}}. formerly {{M|United States Air Force}}, {{m|Hydra}} (brainwashed)
+| Relatives               = [[Alan Quartermain (Earth-616)|Alan Quartermain]] (brother),<br/> [[June Quartermain (Earth-616)|June Quartermain]] (sister-in-law),<br/> [[Henrietta Quartermain (Earth-616)|Henrietta Quartermain]] (niece),<br/> [[Jinete Quartermain (Earth-616)|Jinete "Jenny" Quartermain]] (niece)
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 6'1"
+| Weight                  = 198 lbs
+| Eyes                    = Blue
+| Hair                    = Blond
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] S.H.I.E.L.D. agent
+| Reality                 = Earth-616
+| PlaceOfBirth            = Sleepy Gap, [[Kansas (State)|Kansas]]
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = S.H.I.E.L.D. agent; former bodyguard, big game hunter, soldier, others
+| Education               = High school graduate, Air Force Academy, Level -8 S.H.I.E.L.D. training
+| BaseOfOperations        = [[S.H.I.E.L.D. Helicarrier]], [[Area 13]], [[Pine Barrens]], [[New Jersey (State)|New Jersey]]
+
+| Creators                = Jim Steranko
+| First                   = Strange Tales #163 
+| Death                   = Hulk Vol 2 4
+
+| Quotation               = You'll find there is very little Clay Quartermain can't do --
+| Speaker                 = [[Clay Quartermain (Earth-616)|Clay Quartermain]]
+| QuoteSource             = Incredible Hulk Vol 1 322
+| Image                   = Clay Quartermain (Earth-616) from World War Hulk Gamma Files Vol 1 1 001.jpg
+
+| History                 = 
+===Early Life===
+Clay Quartermain was a member of the [[United States Air Force (Earth-616)|United States Air Force]]. Due to good luck and quick-wit, he was recruited into the intelligence service. Despite his competence, he has been noted by several co-workers and supervisors to be extremely arrogant and at times difficult to work with.{{r|Strange Tales Vol 1 #163}}
+
+===S.H.I.E.L.D.===
+Agent Quartermain  first worked with S.H.I.E.L.D.'s storied executive director, [[Nicholas Fury (Earth-616)|Nick Fury]], during S.H.I.E.L.D.'s first conflict with would-be world tyrant the [[Yellow Claw]], later discovered to have been an [[Androids|android]] simulacrum of the Chinese-national [[Mandarin (Earth-616)|Mandarin]]. {{r|Strange Tales Vol 1 #163|167}}
+
+===Hulkbusters===
+Agent Quartermain  was assigned on a mission to rescue [[Glenn Talbot (Earth-616)|Glenn Talbot]] from his Russian imprisonment.{{r|Incredible Hulk #187|188}} After this, he became part of the U.S. military's "[[Hulkbusters (US Military) (Earth-616)|Hulkbusters]]" operation, which attempted to capture and contain the [[Bruce Banner (Earth-616)|Hulk]].  Among the more dangerous assignment resulted in a takeover by the [[Bi-Beast (Earth-616)|Bi-Beast]] of the [[S.H.I.E.L.D. Helicarrier]].{{r|Incredible Hulk #215|216}} Agent Quartermain helped in uncovering a government stockpiling of [[Gamma Bomb|Gamma Bombs]] and a plot by the [[Samuel Sterns (Earth-616)|Leader]] to explode them across the country. Agent Quartermain decided to team up with the Hulk and [[Richard Jones (Earth-616)|Rick Jones]]. Despite their best efforts they were unable to stop one destroying [[Middletown (Arizona)|Middletown]], [[Arizona (State)|Arizona]]. {{r|Incredible Hulk #341|345}} Agent Quartermain was wanted by the government but the media attention made him a hero and Fury told him no charges would be brought against him.{{r|Incredible Hulk #346}}
+
+===Deltite Saga===
+Agent Quartermain, along with many other agents, was seemingly killed by a self-aware, renegade "Deltan" variety of S.H.I.E.L.D.'s artificial-human "[[Life-Model Decoy]]s", and replaced by one such LMD.{{r|Nick Fury vs. S.H.I.E.L.D. #2}} The most advanced of the Deltite LMDs, it rebelled upon learning it was not human, and after several confrontations, perished.{{r|Nick Fury vs. S.H.I.E.L.D. #6}} The real Quartermain was later found alive in cold storage in S.H.I.E.L.D. headquarters, brainwashed by a faction of the terrorist organization [[Hydra (Earth-616)|Hydra]]. He was deprogrammed.{{citation}}
+
+===Jessica Jones===
+Agent Quartermain was close with private investigator [[Jessica Jones (Earth-616)|Jessica Jones]], both using each other to gain information for their respective needs. Clay used Jones to bring down a conspiracy against the [[President of the United States]], personally making sure to allow her to escape a mass-criminal round-up.{{r|Alias Vol 1 5}} She later contacted him when the superhero [[Martha Franklin (Earth-616)|Mattie Franklin]] made a mysterious appearance in her apartment.{{r|Alias Vol 1 16}} He allowed her to travel to [[The Raft]] off the coast of [[Ryker's Island]] to confront the [[Zebediah Killgrave (Earth-616)|Purple Man (Zebediah Killgrave)]] in his holding cell.{{r|Alias Vol 1 #26}} Quartermain contacted her when he learned Killgrave escaped an hour after she left The Raft. Clay told Jessica that S.H.I.E.L.D. was tracing her phone in order to pick her up, but Jessica insisted that she would only come in after Killgrave had been captured.{{r|Alias Vol 1 #27}}
+
+===Supernatural squads===
+[[File:Nick_Fury%27s_Howling_Commandos_Vol_1_1_Textless.jpg|left|thumb|Howling Commandos]]
+Despite not believing in magic Clay was assigned to lead a team of monsters dubbed the "[[Howling Commandos (S.H.I.E.L.D.) (Earth-616)|Howling Commandos]]". The team was sent to [[Afghanistan]] to stop a deal between the [[Lords of the Living Lightning (Earth-616)|Lords of the Living Lightning]] and then intervened when [[Merlyn (Otherworld)|Merlyn]] attempted to take over [[England]]. Quatermain was reluctant in his command and had limited contact with the people working under him, was dismissive towards them, told them they weren't people and failed to plan for the existence of magic when facing off against Merlyn during this time, which led to an invasion of their [[Area 13]] base and got him to start doing his job properly.{{r|Nick Fury's Howling Commandos Vol 1 #1|6}}
+
+Agent Quartermain then later became the leader of S.H.I.E.L.D.'s Paranormal Containment Unit. He was the agent sent to inform Jennifer Walters ([[Jennifer Walters (Earth-616)|She-Hulk]]) that she had been pressed into service as a S.H.I.E.L.D. agent.{{r|She-Hulk Vol 2 14}} He next led a new incarnation of [[Hulkbusters (S.H.I.E.L.D.) (Earth-616)|S.H.I.E.L.D.'s "Hulkbusters" unit]], consisting of She-Hulk, Agent Crimson, and [[Agent Cheesecake]].{{r|She-Hulk Vol 2 15}}
+
+===Secret War & Death===
+Agent Quartermain was involved in the interrogation of [[Deborah Bertrand (Earth-616)|Diamondback]] that lead to them learning of the black market of advanced weapons being traded in [[Latveria]]. Fury's unsanctioned mission was labelled his "[[Secret War]]".{{r|Secret War #1}} When Jessica Jones was investigating [[Hydra (Earth-616)|Hydra]] due to an attack on Luke Cage, operatives led by Agent Quartermain stormed the building and kill the Hydra agents, and Quartermain explains that S.H.I.E.L.D. triangulated Jessica's location after she was kidnapped, but waited for her to reject Hydra's offer. Jessica asked him about the "[[Secret War]]," but Quartermain declined to answer. {{r|The Pulse #8}}
+
+At a meat packing plant, Quartermain was supposedly found dead in a suspected [[Thaddeus Ross (Earth-616)|Red Hulk]] attack,{{r|Hulk Vol 2 4}} but was actually revealed to have been killed by [[Leonard Samson (Earth-616)|Samson]] after Quartermain discovered the Red Hulk's true identity.{{r|Hulk Vol 2 23}}
+
+| Powers                  = 
+| Abilities               = Clay Quartermain was an exceptional athlete, hand-to-hand combatant and pilot.
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = He was adept with most weapons, including S.H.I.E.L.D.'s advanced technology; for a time he wielded a specially constructed bola in battle.
+
+| Notes                   = * Clay Quartermain was a Level 5 agent at the time of the [[Secret War]],{{r|Secret War: From the Files of Nick Fury #1}} and later was granted a Level 8 Clearance.{{r|Wolverine Files #1}}
+| Trivia                  = 
+| Links                   = 
+| Wikipedia               = Clay_Quartermain
+}}
+[[Category:S.H.I.E.L.D. Agents Level 5]]
+[[Category:S.H.I.E.L.D. Agents Level 8]]
+[[Category:Martial Arts]]
+[[Category:Shooting]]
+[[Category:Spies]]
+[[Category:Thrown Weapons]]
+[[Category:Government Agents]]

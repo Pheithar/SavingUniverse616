@@ -1,0 +1,48 @@
+{{Marvel Database:Character Template
+| Image                   = Recording Observation Bot (Earth-616) 001.jpg
+| Name                    = Recording Observation Bot
+| CurrentAlias            = [[R.O.B.]]
+| Aliases                 = 
+
+| Affiliation             = {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}; {{m|Temporal Irregularity Management and Eradication (Earth-616)|T.I.M.E.}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Agender
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = [[Robots|Robot]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Public
+| Citizenship             = 
+| Occupation              = Molecular engineer, S.H.I.E.L.D. scientist
+| Education               = 
+| BaseOfOperations        = [[S.H.I.E.L.D. Helicarrier]]
+
+| Creators                = Mark Waid; Lenil Yu
+| First                   = Indestructible Hulk #3
+
+| History                 = A friendly robot created by [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] in order to monitor the activities of the agency's newest member [[Bruce Banner (Earth-616)|Bruce Banner]], in his activities both as a scientist and as the [[Hulk]].{{r|Indestructible Hulk #3}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * R.O.B. possesses a virtual display with the form of eyes and eyebrows in order to show human-like emotions.
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

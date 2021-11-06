@@ -1,0 +1,278 @@
+{{Marvel Database:Character Template
+| Title                   = [[Loki]]
+| Image                   = Loki Vol 3 1 Textless.jpg
+| Name                    = Loki Laufeyson
+| CurrentAlias            = 
+| Codenames               = [[Thor]]{{r|Avengers & X-Men: AXIS #9}}
+| EditorialNames          = [[Loki: Agent of Asgard Vol 1|Loki: Agent of Asgard]], Loki: Agent of Axis{{r|In the covers of {{cl|Loki: Agent of Asgard Vol 1 8}}-[[Loki: Agent of Asgard Vol 1 9|9]]}}
+| Nicknames               = Chico,{{r|Young Avengers Vol 2 1}} Constable Laufeyson,{{r|Wolverine: Infinity Watch Vol 1 3}} Cosplay Boy,{{r|Young Avengers Vol 2 1}} Hipster Viking,{{r|Ms. Marvel Vol 3 12}} One-Direction{{r|Loki: Agent of Asgard #9}} 
+| Aliases                 = [[Loki: Agent of Asgard Vol 1|Agent of Asgard]],{{r|All-New Marvel NOW! Point One #1.NOW}} God of Evil,{{r|Loki: Agent of Asgard #8}} God of Lies,{{r|Loki: Agent of Asgard #13}} God(dess) of Stories,{{r|Loki: Agent of Asgard #14}} [[Ikol]],{{r|Journey into Mystery #622}} [[Loki Odinson]],{{r|Thor Vol 6 9}} "[[Lord of Lies]],"{{r|Doctor Strange #387|'s recap}} Mistress of Strategies,{{r|Original Sin #5.3}} Moon-King/Queen,{{r|Loki: Agent of Asgard #16}} Trixie the Hacker{{r|Loki: Agent of Asgard #2}}
+
+| Affiliation             = [[Frost Giants]] (leader); formerly {{m|Cosmic Avengers (Earth-616)|Cosmic Avengers}}, {{m|Dark Council (Earth-616)|Dark Council}}, {{m|Young Avengers (Earth-616)|Young Avengers}}, {{m|Braddock Academy (Earth-616)|Braddock Academy}} (under disguise), {{m|Astonishing Avengers (Earth-616)|Astonishing Avengers}}
+| Parents                 = [[Laufey (Earth-616)|Laufey]] (father, deceased);<br>
+[[Farbauti (Earth-616)|Farbauti]] (mother, deceased);<br>
+[[Odin Borson (Earth-616)|Odin Borson]] (adoptive father);<br>
+[[Freyja Freyrdottir (Earth-616)|Frigga]] (adoptive mother)
+| Siblings                = [[Thor Odinson (Earth-616)|Thor]], [[Balder Odinson (Earth-616)|Balder]], [[Hermod Odinson (Earth-616)|Hermod]] (paternal adoptive brothers);<br>
+[[Vidar Odinson (Earth-616)|Vidar]], [[Tyr Odinson (Earth-616)|Tyr]] (paternal adoptive brothers, deceased)
+| Spouses                 = [[Sigyn (Earth-616)|Sigyn]] (wife, separated, deceased)
+| Children                = [[Son of Satan (Loki's son) (Earth-616)|Son of Satan]] (son);<br>
+[[Tess Black (Earth-616)|Tess Black]] (daughter);<br>
+[[Hela (Earth-616)|Hela]] (alleged daughter);<br>
+[[Fenris Wolf (Earth-616)|Fenris Wolf]], [[Jormungand (Earth-616)|Midgard Serpent (Jordmungand)]] (alleged sons)
+| Descendants             = [[Hoarfen (Earth-616)|Hoarfen]], [[Sturm (Earth-616)|Sturm]], [[Drang (Earth-616)|Drang]] (alleged grandsons);<br>
+[[Wolf Gods]] (alleged grandchildren)
+| Relatives               = [[Cul Borson (Earth-616)|Cul]], [[Vili Borson (Earth-616)|Vili]], [[Ve Borson (Earth-616)|Ve]] (paternal adoptive uncles, all deceased);<br>
+[[Loki Laufeyson (Earth-616)|Loki Laufeyson]], [[Loki Laufeyson (Kid Loki) (Earth-616)|Kid Loki]] (previous incarnations, both deceased);<br>
+[[Arkin (Earth-616)|Arkin]] (cousin);<br>
+[[Hoder Vilison (Earth-616)|Hoder]] (paternal adoptive cousin)
+| MaritalStatus           = Separated
+
+| CharRef                 = 
+| Gender                  = Genderfluid
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Green
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = Deity; reincarnation of a [[Frost Giant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = Jotun
+| Occupation              = King of the [[Frost Giants]], Deity, Adventurer, [[Gods of Earth|God]] of Outcasts;{{r|Loki Vol 3 5}} formerly God of Mischief,{{r|Young Avengers Vol 2 1}} God of Stories,{{r|Loki: Agent of Asgard #13}} God of Lies,{{r|Loki: Agent of Asgard #11}} Agent of Asgardia,{{r|All-New Marvel NOW! Point One #1.NOW}} janitor at [[Braddock Academy (Earth-616)|Braddock Academy]] (briefly while undercover),{{r|All-New Marvel NOW! Point One #1.NOW}} [[Sorcerer Supreme of the Marvel Universe|Sorcerer Supreme]] of [[Earth]]{{r|Doctor Strange #381|385}}
+| Education               =
+| BaseOfOperations        = [[Jotunheim]]; formerly [[New York City]] ([[New York (State)|New York]], [[United States of America|USA]]); [[Asgardia]]
+
+| Creators                = Kieron Gillen; Stephanie Hans
+| First                   = Journey into Mystery Vol 1 622
+
+| Quotation               = There's still that '''gravity.''' What people '''expect.''' But...'''birds''' feel gravity, too. And '''acrobats,''' and '''dancers.''' And they dive and swoop and tumble '''anyway.''' Loop the loop, walk the wire...do '''tricks.''' Nah. No more evil. '''Mischief,''' now. '''That's''' still got '''legs.'''
+| Speaker                 = [[Loki Laufeyson (Ikol) (Earth-616)|Loki]]
+| QuoteSource             = Loki: Agent of Asgard Vol 1 17
+
+| History                 = Before dying at the hands of the [[Void (Dark Sentry) (Earth-616)|Void]] during the [[Siege|Siege on Asgard]], the Trickster God [[Loki Laufeyson (Earth-616)|Loki]] laid schemes to break free from the chains of destiny, manipulating [[Hela (Earth-616)|Hela]] into taking his name out of the Book of Hel, allowing himself to be reborn instead of truly dying, and return as [[Loki Laufeyson (Kid Loki) (Earth-616)|a completely new Loki]], free of the weight of his past.{{r|Journey into Mystery #622}}
+
+===Beginning as Ikol===
+When he was trying to find the motive of his past incarnation for his sacrifice at the hands of the Void, the new Kid Loki found himself transported to a hidden chamber where he encountered an echo of his elder self. The spirit revealed the elder Loki desired to have a new start, a fresh page with fresh ink to write a free future. The echo had come to help the Kid Loki guard the [[Glossary:Ten Realms|Nine Realms]] through upcoming hard times, "because a trickster is naught without a playground." Kid Loki reduced his elder self into the form of a magpie, condemned to a lifetime as "Ikol," his minion and his opposite.{{r|Journey into Mystery #622}}
+
+[[File:Loki Laufeyson (Kid Loki) (Earth-616) and Loki Laufeyson (Ikol) (Earth-616) from Journey into Mystery Vol 1 622 0001.png|thumb|left|Loki turns the echo of his elder self into Ikol]]
+Determined not to become like his past self, Kid Loki went on several adventures to gain [[Thor Odinson (Earth-616)|Thor]]'s and everyone else's trust and affection. These adventures included hiding the World's Heart so [[Galan (Earth-616)|Galactus]] would give up his war against Asgard, helping save [[Earth|Midgard]] from the [[Fear Itself|War of the Serpent]],{{r|Journey into Mystery #629}} bringing Thor back from the dead by being the only person to remember him, helping Daimon Hellstrom save people from [[Nightmare (Earth-616)|Nightmare]],{{r|Journey into Mystery #636}} assisting in the war with the [[Manchester Gods]],{{r|Journey into Mystery #640}} and helping Thor and [[Leah (Earth-616)|Leah]], Hela's handmaiden and his best friend, against Surtur. However, Ikol appeared displeased with his new incarnation's desire to be his own person, as well as his new personality.{{r|Journey into Mystery #642|644}}
+
+During Kid Loki's adventure to help Daimon combat Nightmare, who was harvesting "fear clots" from people's mind that had been left as a residue from the War of the Serpent, the young trickster harvested his own abundant fear clot and gave it to Nightmare, so the Fear Lord would stop threatening innocent lives.{{r|Journey into Mystery #635}} Nightmare proceeded to create a Fear Crown from Loki's fear clot, to empower himself over his fellow [[Fear Lords (Earth-616)|Fear Lords]]. However, Loki warned them, and they attacked Nightmare, ultimately leading the Fear Lords to be caught in a never-ending conflict to try to take the Fear Crown from each other.{{r|Journey into Mystery #636}}
+
+[[File:Loki Laufeyson (Ikol) (Earth-616) from Journey into Mystery Vol 1 639 001.jpg|thumb|left|Ikol]]
+Kid Loki finally gained the trust he fought so hard to earn when he helped kill [[Surtur (Earth-616)|Surtur]] and save the entire universe from destruction, however, his victory was short-lived.{{r|Mighty Thor Vol 2 21}} During Loki's adventure to help defeat Surtur, a second scheme laid by the elder Loki had been put in action, and [[Mephisto (Earth-616)|Mephisto]] was alerted of the existence of the Fear Crown. Mephisto defeated the Fear Lords, took possession of the item, and planned to use his new-found power to become the next [[Satan]] and unleash Hell on Earth. After noticing his bird's absence, the young trickster returned to the hidden chamber and confronted Ikol, who was revealed to only exist in Kid Loki's mind.
+
+With only a few hours before Mephisto stepped in as Satan, Kid Loki was presented by Ikol with the only way at hand to destroy the Fear Crown. The fear clot that made up the crown had come from Kid Loki's mind, thus if Kid Loki's mind was destroyed, so was going to be the crown. And due to the elder Loki's past machinations, the only way for Kid Loki to die was to let Ikol overwrite his mind, take his body, and make Kid Loki's good name his own. The boy questioned Ikol for the motive of this scheme, and the echo revealed that he himself desired to change, and not for the child Loki to do so.
+
+[[File:Loki Laufeyson (Ikol) (Earth-616) from Journey into Mystery Vol 1 645 0001.png|thumb|left|Ikol takes over Kid Loki's body.]]
+Before submitting to his fate, the young boy taunted Ikol, reminding the echo that he had changed, and even if Ikol wanted to change, he had already lost due to this selfish machination. As his mind was replaced with Ikol's, Kid Loki firmly stated that he had won. Ikol, now Loki, acknowledged his guilt of having killed the young Loki, and said, "''Damn me. Damn you all.''"{{r|Journey into Mystery #645}}
+
+===Young Avengers Assemble===
+After learning of [[William Kaplan (Earth-616)|Wiccan]], a young hero destined to become the omnipotent [[Demiurge]], Loki decided he needed to control him.{{r|Young Avengers Vol 2 10}} Loki reached out to the interdimensional parasite called [[Mother (Interdimensional Parasite) (Earth-TRN287)|Mother]] and made a deal with her.{{r|Young Avengers Vol 2 13}} The God of Mischief manipulated Wiccan into bringing the Mother to this dimension through a magic spell that had the purpose of bringing back to life the adoptive mother of Wiccan's boyfriend [[Theodore Altman (Earth-616)|Hulkling]].{{r|Young Avengers Vol 2 10}}{{r|Young Avengers Vol 2 1}}
+
+However, Loki betrayed Mother, and interfered with the spell, causing it to tie it Wiccan, Hulkling and himself and bring back their dead parents. Under the guise of trying to help, Loki rescued Wiccan and Hulkling from Mother.{{r|Young Avengers Vol 2 2}} They were soon joined by other young heroes, who became infected by the link of the spell, leading to the reformation of the [[Young Avengers (Earth-616)|Young Avengers]].{{r|Young Avengers Vol 2 3}} When they were cornered in [[Central Park]] by their resurrected parents and an army of mind-controlled adults only they could see, Loki convinced Wiccan to lend him his power for ten minutes to save them all with his better skill at magic than Wiccan. As soon as Loki was given Billy's powers, he teleported away, leaving the other young heroes to their deaths.{{r|Young Avengers Vol 2 4}}
+
+[[File:Loki Laufeyson (Ikol) (Earth-616) from Young Avengers Vol 2 9 001.jpg|thumb|right]]
+Confronted by his guilty conscience, in the form of the deceased Kid Loki, Loki decided to come back, save his fellows, empower them to fend off Mother's army of adults. Mother faded away after the Young Avengers escaped. Loki explained they couldn't go back to any place their parents were or had died (in the case of any deceased parent brought back by Mother) or Mother would return, as her powers were distance based. The young heroes decided to stay together and travel through the universe.{{r|Young Avengers Vol 2 5}}
+
+In the next three months, Loki trained Billy to prepare him to fight Mother, with the ulterior motive of gaining his trust. The Young Avengers were joined by [[David Alleyne (Earth-616)|Prodigy]], who informed them [[Thomas Shepherd (Earth-616)|Speed]] had been kidnapped by a strange [[Patriot (Entity) (Earth-616)|entity]] dressed as [[Patriot]].{{r|Young Avengers Vol 2 7}} The Young Avengers chased the entity through the Multiverse, and were brought to [[Earth-TRN287|Mother's Dimension]]. They escaped, but accidentally left Prodigy and Hulkling behind.{{r|Young Avengers Vol 2 8}} Using numerous evil alternate version of themselves as a distraction, the Young Avengers distracted Mother and save Hulkling and Prodigy. Back to Earth-616, Hulkling left the team.{{r|Young Avengers Vol 2 9}}
+
+[[File:Loki Laufeyson (Earth-616) from Young Avengers Vol 2 11 0001.png|thumb|left|Wiccan helps Loki age]]
+Using a magic hologram, Loki met up with Mother, who was holding a grudge against Loki for his interference in the spell that didn't allow her to return freely to Earth-616, and questioned her about the mysterious "Patri-not," though she had no idea. Before leaving, the God of Mischief taunted Mother, stating everything was going according to his plan. However, Loki didn't know that Mother was working with what seemed to be an older, vengeful [[Leah (Construct) (Earth-616)|Leah]], who had tricked Hulkling into returning to New York, allowing Mother to come back to Earth-616, and threaten to unleash all of the evil version of the Young Avengers to the world.{{r|Young Avengers Vol 2 10}}
+
+Since Billy was still too weak to end the spell which had brought Mother, Loki suggested that he would be able to do it if his body was older, thus making Wiccan age him into a young adult. Unfortunately, Loki's powers didn't remain. The trickster had to resort to a second plan, to turn Wiccan temporarily into the Demiurge. Prodigy called all of the teenager heroes available to fight the army of alternate Young Avengers, while the real Young Avengers took care of Mother.{{r|Young Avengers Vol 2 11}}
+
+When the Young Avengers faced Mother, Leah and her own team of [[Young Avengers (Constructs) (Earth-616)|Young Avengers]] (a league of evil exes, including those of [[Noh-Varr (Earth-200080)|Noh-Varr]] and [[America Chavez (Earth-616)|America Chavez]]), Loki was easily overpowered by Leah. To Loki's shock, he realized Leah was actually the physical manifestation of his guilt and missing powers which he subconsciously gave up due to his guilt over killing his younger self.{{r|Young Avengers Vol 2 12}}
+
+Loki confessed his crimes, the murder of Kid Loki and the manipulations the Young Avengers had been victim of. His confession made Leah and the evil exes disappear, which were also manifestations of Loki's guilt, thus regaining his powers and freeing Teddy. After Billy and Teddy managed to destroy Mother, the team returned to Central Park. Loki fled unceremoniously, wracked with guilt over his actions.{{r|Young Avengers Vol 2 13}}
+
+Celebrating Mother's defeat, the Young Avengers threw a New Years' party, along with many young heroes that had come to their rescue. During the party, Loki was spotted by David, who confronted him only to find out that Loki was the one who secretly paid for the party. Loki didn't want to stay with the team because they could forgive him; thus, by leaving he wouldn't give them the chance. While talking to David, Loki admitted that he was different than who he was, but he couldn't avoid being Loki, and even if he killed himself, he would eventually come back probably worse; therefore he would be the best story he could.
+
+At the end of the party, after watching the Young Avengers leave through one of America's portals, Loki searched through his phone and smiled fondly at the team photo he took.{{r|Young Avengers Vol 2 15}}
+
+[[File:Loki Laufeyson (Ikol) (Earth-616) from All-New Marvel NOW! Point One Vol 1 1.NOW 0001.png|thumb|right|Loki claims the sword Gram]]
+===Agent of Asgard===
+Loki started working for the [[All-Mothers of Asgardia (Earth-616)|All-Mothers of Asgardia]] in different missions in exchange of his Asgardian crime record to be erased, one crime for each successful mission.{{r|Loki: Agent of Asgard #1}} The All-Mothers required Loki to return to Asgardia numerous Asgardians who were roaming freely on Earth, including [[Lorelei (Earth-616)|Lorelei]] and [[Sigurd (Bor) (Earth-616)|Sigurd]]. Even though he let Lorelei go, Loki forced Sigurd back to Asgard. However, Loki later with Thor, his new ally [[Verity Willis (Earth-616)|Verity Willis]] and Lorelei learnt about how Sigurd didn't commit any crime and planned to break him out of Asgardia.{{r|Loki: Agent of Asgard #4}}
+
+After Thor distracted Heimdall by battling the Technocracy and using Willis to see which traps were real, Sigurd and Lorelei escaped together while Loki stayed to find what the All-Mother have been keeping secret. He found an [[Loki Laufeyson (Ikol) (Earth-14412)|older version of himself]] who had been influencing events in history for his bidding. He told Loki that he wasn't his past but his future, being helped by the All-Mothers to prevent Loki and Asgardia's future from changing. Displeased by the All-Mothers' desire to be bound by destiny, Loki quit working for them.{{r|Loki: Agent of Asgard #5}}
+
+===[[Avengers & X-Men: AXIS|AXIS]]===
+Loki had had a scuffle with Doctor Doom, who believed Loki would one day bring about the end of [[Latveria]] due to the manipulations of the Old Loki, when Magneto arrived to Latveria to ask for help to defeat the recently-unleashed [[Johann Shmidt (Clone) (Earth-616)|Red Onslaught]].{{r|Loki: Agent of Asgard #6|7}} The trickster God helped a group of villains defeat the [[Stark Sentinels]], while Doom and the Scarlet Witch cast an inversion spell to alter the moral compass of the Red Skull and defeat him. The inversion spell had a stronger effect than expected, and affected all of those in the island, including Loki, who became heroic. Loki's role of "hero" was dubious at best as he turned his back on Verity, due to feeling mortals were beneath him,{{r|Loki: Agent of Asgard #8}} and betrayed Lorelei and Sigurd, putting Asgardian law before their friendship, earning the disappointment and disapproval of Odin. He also became incapable of feeling guilt for his past misdeeds. As the inversion spell turned what was evil good, it also took what was good and made evil of it. Loki, who had been on a path of personal redemption, had lost the aspects of himself that had "grown" (as Odin put it).{{r|Loki: Agent of Asgard #9}}
+
+[[File:Loki Agent of Asgard Vol 1 8 Textless.jpg|thumb|left|Inverted Loki]]
+Loki rejoined the (now-inverted) [[Astonishing Avengers (Earth-616)|villains]] to stop the inverted X-Men from detonating a gene bomb which would've killed everyone in the planet who wasn't a mutant.{{r|Avengers & X-Men: AXIS #6}} Even though they failed,{{r|Avengers & X-Men: AXIS #7}} the arrival of the [[Axis (Avengers) (Earth-616)|inverted Avengers]] (including Odinson) gave them a second wind to keep on fighting. In order to prevent him from going on a murderous rampage, Loki tricked Odinson into following him to the Moon.{{r|Avengers & X-Men: AXIS #8}} There, Loki found Mjolnir as it had been left [[Original Sin (Event)|after Thor became unworthy]]. Using Mjolnir, Loki became Thor and fought his half-brother until (back on Earth) a reinversion spell was cast, and Loki became his old self once again and when his guilt for past misdeeds returned, he became unworthy as well.{{r|Avengers & X-Men: AXIS #9}}
+
+===Ego Death===
+After returning to his apartment, Loki discovered that for unknown reasons, he was no longer able to tell a lie, no matter how little or harmless. Due to this, while having a conversation with Odinson, Loki revealed against his will the fate of his younger self, [[Loki Laufeyson (Kid Loki) (Earth-616)|Kid Loki]]. Fueled by rage, Odinson brutally beat Loki up, and brought him to Asgardia for punishment.{{r|Loki: Agent of Asgard #10}}
+
+The rest of the Asgardians turned their back on him, and Frigga exiled Loki from the Ten Realms. While wandering the space between the Ten Realms, Loki encountered Odin, who admitted his love for Loki even after knowing what he had done. The All-Father then sent Loki back to Earth, where his trial would start, and he would to become worthy of his power once again. When he returned to Manhattan, Loki encountered his evil future self in his apartment, who strapped Loki in order to tell him his story.{{r|Loki: Agent of Asgard #11}}
+
+After revealing his motives to his younger self, King Loki set Loki on a magical fire{{r|Loki: Agent of Asgard #12}} that sent him back to the hidden chamber where Kid Loki had first met him. Loki was confronted by the ghosts of the original Loki and Kid Loki, who offered him two options, the original Loki offered him to accept his nature as a villain and the God of Lies, and Kid Loki offered him to destroy himself like he did to save the world from himself. After being motivated by Verity Willis via his phone with magic cell reception, Loki chose a third path. Loki realized that a lie was nothing more than a story, a story he could choose to rewrite, to tell a different one. On the real world, King Loki witnessed as Loki burned to the ground, seemingly dying.{{r|Loki: Agent of Asgard #13}}
+
+===Last Days===
+Eight months into the future, with the final [[Glossary:Incursion|incursion]] looming, Loki returned to Verity, reborn as the God of Stories.{{r|Loki: Agent of Asgard #13}} With the world about to end, Loki prompted Verity to tell her story, and used the moment to trap her soul into a piece of magic jewelry to save her from death.{{r|Loki: Agent of Asgard #14|15}}
+
+[[File:Loki Laufeyson (Ikol) (Earth-616) from Loki Agent of Asgard Vol 1 13 001.jpg|thumb|right|Loki returned]]
+Loki proceeded to travel to [[Asgardia]], where King Loki had allied himself with Asgard's enemies to destroy the Earth, and the Asgardians as well. With the unexpected appearance of his younger self and the arrival of reinforcements brought by [[wikipedia:Gjallarhorn|Gjallarhorn]], King Loki fled. Loki's return was acclaimed, but he had no longer interest in the judgement of the fellow Asgardians, taking no sides but his own, so he stepped aside while the Asgardians battled their enemies until the universe ended as a consequence of the incursion. Loki used his powers to trap the essence of the Asgardians and their enemies, keeping them safe from annihilation.
+
+Loki and Verity's ghost found themselves in the middle of [[Land of Couldn't-Be Shouldn't-Be|a blank void]], confronted by [[Those Who Sit Above in Shadow (Earth-616)|Those Who Sit Above in Shadow]],{{r|Loki: Agent of Asgard #16}} who demanded the God of Stories to give them the essence of the gods, which was what they feed on. Loki was able to scare Those Who Sit Above in Shadows away by putting into question their origin and existence. If the gods such as the Asgardians come from the stories that have been told about them, it was posible that the gods of the gods didn't create the gods, but had been created by them.
+
+With the threat of Those Who Sit Above in Shadow averted, Loki found another person in the middle of nothingness: a sobbing and defeated King Loki. Loki confronted his future self, and made King Loki realize that in the end, he helped Loki change and grow away from being the God of Lies, a path King Loki was not able to change for himself. Both Lokis reconciled, and the younger one contained King Loki's essence in his scepter. Loki proclaimed that he needed a break, and decided to skip ahead in time until the universe was brought back, for which he used his magic to create a door into the future, and invited Verity to come with him through it.{{r|Loki: Agent of Asgard #17}}
+
+===Dark Council===
+When [[Earth-616]] was brought back to existence and the [[War of the Realms]] was put into motion by [[Malekith (Earth-616)|Malekith the Accursed]] and his [[Dark Council (Earth-616)|Dark Council]],{{r|Mighty Thor Vol 3 1}} Loki was sent by Frigga to infiltrate this alliance, under the pretense of having returned to his bad ways.{{r|Mighty Thor Vol 3 5}}
+
+After introducing himself to the [[Jane Foster (Earth-616)|new Thor]] in a mission which objective was to kill her,{{r|Mighty Thor Vol 3 3}} Loki was returned to [[Asgardia]] in chains when Frigga was going to be put in trial for having helped said new Thor evade Odin's wrath.{{r|Mighty Thor Vol 3 4}} In the middle of a confrontation between Odin's forces and Frigga and the Asgardians who sided with her, Loki stabbed his adoptive mother with a poisoned dagger that left her on the brink of death.{{r|Mighty Thor Vol 3 5}} Loki had learned that Malekith was planning on killing Frigga, thus he had decided to neutralize her with the best alternative which wouldn't involve killing but allowed him to remain in Malekith's side.{{r|Mighty Thor Vol 3 9}}
+
+[[File:Vote Loki Vol 1 1 Schiti Variant Textless.jpg|thumb|left|Presidential campaign]]
+===Vote Loki===
+Loki eventually set his sights on the Presidency of the United States. After staging an attack on the two candidates, a situation which Loki himself defused, his popularity skyrocketed, fueled by his claims to the press regarding politics. After initially claiming falsely to have no desire to run, Loki announced the beginning of his campaign. While the masses were enamored with Loki, [[Daily Bugle (Front Line) (Earth-616)|Daily Bugle]] reporter [[Nisa Contreras (Earth-616)|Nisa Contreras]] was not convinced and and attempted to defame Loki.{{r|Vote Loki #1}} However, all of Nisa's attempts to expose Loki proved to be futile and even counterproductive, to the point Loki spinned them in his favor. These attempts including the revelation that Loki's fundraising organization was secretly a worshiping cult,{{r|Vote Loki #2}} and the discovery that he had directly been involved in the [[Latveria|Latverian]] civil war, aiding one of the two factions.{{r|Vote Loki #3}}
+
+After Contreras exposed Loki's involvement in the attack on the two candidates, both polar opposites in the public opinion on Loki inflated, leading to a state of unrest. Loki contacted Nisa and set up a live interview with hopes to make people regain their composure. Nisa's remarks and a series of questions from the audience displayed that Loki didn't really have any actual policies or plan to run the country. The next day, when the elections were carried out, the support for Loki tanked, and he lost the election.
+
+Loki spoke to Contreras later, remarking that his plan all along may have been to help her become a rising star as a reporter who exposed bad politicians, an idea which Contreras was somewhat skeptical towards. They then parted on somewhat friendly terms. However, as he flew away, he was shown talking on the phone to one of the rival candidates. He had actually been in a secret deal with them all along to cause a split in the votes by running and then conceding, thus helping even out the votes a bit more and give them a better chance to win the election. The candidate he spoke to presumably granted a reward to Loki, which he expressed he was most pleased with. He then officially conceded the political race.{{r|Vote Loki #4}}
+
+===[[Infinity Quest]]===
+Loki would next turn his attention in gathering the [[Infinity Stones]]. He first paid the [[Ord Zyonz (Earth-616)|Gardener]] a visit, and drove him mad in an attempt to get him to divulge the location of the [[Soul Stone]], which he didn't know.{{r|All-New Guardians of the Galaxy Vol 1 11}} Loki subsequently assembled a group of dwarf Frost Giants, the [[Black Ice Berserkers (Earth-616)|Black Ice Bersekers]], and manipulated them into attacking a S.H.I.E.L.D. storage facility which contained the [[Space Stone]], but they failed their mission.{{r|Marvel Legacy Vol 1 1}} When the [[Guardians of the Galaxy (Earth-616)|Guardians of the Galaxy]] visited Earth seeking help to search for the Infinity Stones, Loki prevented them from meeting [[Nathaniel Summers (Earth-616)|Cable]] by impersonating him, discovering they hadn't acquired any of the Stones yet in the process.{{r|All-New Guardians of the Galaxy Vol 1 12}}
+
+===Sorcerer Supreme===
+[[File:Doctor Strange Vol 1 381 Textless.jpg|thumb|right]]
+Being aware of the upcoming threats that would menace the Earth, Loki determined that the [[Sorcerer Supreme]] [[Stephen Strange (Earth-616)|Doctor Strange]] wasn't ready for these challenges. As part of a ploy to help Strange prepare and push his boundaries, Loki cast an illusion to trick Strange into believing the [[Vishanti (Earth-616)|Vishanti]] had decided to bequeath the mantle to him during a magical tournament for the possession of the title.{{r|Doctor Strange Vol 1 385}} Strange subsequently handed over to Loki his magical possessions, namely the [[Sanctum Sanctorum]]. Loki also repaired the Cloak of Levitation using Asgardian thread he spun himself{{r|Doctor Strange Vol 1 381}} months after it was torn to pieces by the [[Imperator (Earth-616)|Imperator]].{{r|Doctor Strange Vol 4 6}}
+
+While being the Sorcerer Supreme, Loki began obsessing over a spell known as the [[Exile of Singhsoon]], which would transfer all the magic on Earth to him.{{r|Doctor Strange Vol 1 384}} Since magic was striving to flourish following the Imperator's near purge of it, Loki's intention was to use the spell's power to jump-start magic itself and at least temporarily fix the damage done to it by the [[Empirikul (Earth-616)|Empirikul]].{{r|Doctor Strange Vol 1 385}} Doctor Strange had locked the spell away inside the soul of [[Zelma Stanton (Earth-616)|Zelma Stanton]], his apprentice, and not only feared Loki would use the spell for sinister motives, but also that he could kill Zelma trying to excise it from her. Stephen's first attempt at stopping Loki resulted in the accidental death of his talking pet dog [[Bats (Earth-616)|Bats]].{{r|Doctor Strange Vol 1 382}} In order to stop Loki, Stephen joined forces with [[Wong (Earth-616)|Wong]] and the [[Robert Reynolds (Earth-616)|Sentry]]. After becoming empowered by [[Yggdrasill]],{{r|Doctor Strange Vol 1 383}} Strange and Loki battled until Zelma revoked their magic for three minutes; however, Loki was still a god, allowing him to overpower Strange physically until he relented. Strange unleashed the Void instead, the entity that had killed Loki's previous incarnation.{{r|Doctor Strange Vol 1 384}}
+
+The Void goaded Loki by revealing the location of the Exile of Singhsoon, prompting him to take the spell and immediately use it to bring all magic into himself. After separating Strange from the Void, Loki brought back magic as he had intended, and joined forces with Strange and the Sentry to recapture the Void. After Zelma angrily forced Loki to reveal that his stint as Sorcerer Supreme had been a ploy, he explained his intentions, and determined he had succeeded since Strange had learned to break the rules. Loki relinquished his role as Sorcerer Supreme back to Strange. As he was apologizing for Bats' death and explaining that he had been trying to remedy the situation by bringing him back as a ghost, Loki was abruptly teleported to an unknown, but unpleasant location by Stephen.{{r|Doctor Strange Vol 1 385}}
+
+===Final Host===
+Having recalled a story he had learned during his previous incarnation's childhood involving [[Odin Borson (Earth-616)|Odin]]'s fight against the [[Dark Celestials (Horde)|Dark Celestial]] [[Zgreb (Earth-616)|Zgreb]] a millennia ago,{{r|Free Comic Book Day Vol 2018 Avengers}} Loki unearthed the fallen Celestial and freed it from its confinement deep beneath the Earth's surface.{{r|Marvel Legacy Vol 1 1}} After summoning Zgreb's fellow Dark Celestials, Loki facilitated their arrival to Earth in order to purge the planet,{{r|Avengers Vol 8 2}} arguing the Earth was ridden with a disease brought about by an agonizing Celestial named the [[Progenitor (Celestial) (Earth-616)|Progenitor]] four billion years ago. Infected by the [[Horde (Race)|Horde]], the Progenitor fell on Earth and died. Loki claimed the percolation of the Progenitor's ill-ridden fluids through the planet's primeval surface forever altered the Earth's evolutionary trajectory, and constituted the primordial cause for the emergence of superhuman beings once humanity existed.{{r|Avengers Vol 8 5}}
+
+The Dark Celestials were confronted by a group of heroes reluctant to work together despite their shared past as Avengers. After Loki revealed himself as the facilitator of the Dark Celestial's arrival,{{r|Avengers Vol 8 2}} [[Steven Rogers (Earth-616)|Captain America]] attempted to use [[Omega-Level Warp Grenades]] to teleport the invaders to the [[Sun (Star)|Sun]]. The plan failed, and Loki and the Dark Celestials returned to Earth. While the Dark Celestials made preparations for Earth's destruction, which included awakening a dormant infestation of Horde creatures on the planet's core,{{r|Avengers Vol 8 3}} Loki disclosed to Captain America the secret past of the planet.{{r|Avengers Vol 8 4}} The heroes eventually managed to work together to take a final stand against the Dark Celestials before they destroyed the planet.{{r|Avengers Vol 8 5}} They emerged victorious and took down the invaders as well as the Horde, with Loki being apprehended in the final battle. Despite the apparent thwarting of his plan, Loki beamed with pride as he welcomed back the Avengers to action. He was then taken away by the Celestials to be punished for what he done,{{r|Avengers Vol 8 6}} but he was able to escape thanks to the aid of a [[Phoenix Force (Earth-616)|Phoenix Force]]-possessed [[James Howlett (Earth-14412)|Wolverine]].{{r|Avengers Vol 8 10}}
+
+===[[Infinity Wars]]===
+One day, Loki looked through Asgardian texts kept in [[Omnipotence City]] about him and became upset that none of the stories ended well for him. The tombkeeper [[Flowa (Earth-616)|Flowa]] recalled a certain story and showed Loki it, but most of the pages were ripped out. All that Flowa remembered about the story was that it involved the [[Quarry of Creation|God Quarry]]. Intrigued, Loki decided he wanted to go there and invited Flowa to come with him, which she accepted.{{r|Infinity Wars Prime Vol 1 1}}
+
+After Loki and Flowa arrived at the God Quarry and witnessed the [[Coven (Witches) (Earth-616)|Coven]] burst into flames, they encountered an alternate reality Loki who wielded both his universe's Mjolnir and Infinity Stones. After the alternate Loki mentioned an "original universe", Loki stated that he needed the Infinity Stones.{{r|Infinity Wars Vol 1 1}}
+
+Loki later approached [[Gamora Zen Whoberi Ben Titan (Earth-7528)|Gamora]] who had claimed all the Infinity Stones after defeating the [[Infinity Watch (Earth-616)|Infinity Watch]] and their allies and offered his counsel.{{r|Infinity Wars Vol 1 2}} Loki and Gamora talked about the God Quarry. Gamora decided to go the God Quarry to investigate what laid beneath it. Loki wanted to accompany her, but Gamora banished Loki to [[Warp World]], a pocket dimension inside the Soul Stone she created by folding the universe in half and merging those halves together.{{r|Infinity Wars Vol 1 3}}
+
+[[File:Infinity Gems from Infinity Wars Vol 1 5 001.jpg|thumb|left|Loki wielding the Infinity Gems]]
+Not giving up, Loki assembled [[Cosmic Avengers (Earth-616)|a team]] to aid him fight Gamora and save the universe. Finding duplicates of the Infinity Stones Gamora unintentionally created when she created Warp World, Loki and his team escape the Soul Stone and confront Gamora, who had attempted and failed to enter the realm below the Quarry of Creation. Loki's team defeated Gamora, but they were then tricked by Loki who used his sorcery to take Gamora's Infinity Stones. Loki banished Gamora into Soul World and traveled into the realm below the Quarry of Creation to investigate the forces that manipulated his destiny. Loki discovered that the Infinity Stones didn't work in the dimension and that the realm was the home of numerous Celestials.{{r|Infinity Wars Vol 1 4|5}}
+
+Loki was allowed by a Celestial to glimpse his future. After learning that his future wasn't what he had wanted, he laughed and accepted his fate. He then went back up to the Quarry of Creation and returned the Infinity Stones to the Cosmic Avengers so they could restore the universe while he returned to Omnipotence City with Flowa.{{r|Infinity Wars Vol 1 6}}
+
+===God of Nothing===
+Having always intended to betray the Dark Council, Loki turned against Laufey during the Dark Council's assault on Midgard in order to save Freyja from his clutches. In retaliation, Laufey devoured Loki.{{r|War of the Realms Vol 1 1}} While struggling to survive digestion inside Laufey's stomach, Loki looked back on key events on his life and met past and future incarnations of himself. He discovered that a war his past self had instigated had led to Malekith becoming a villain, thus indirectly causing the War of the Realms. He expressed remorse over what he had done in the past and what he had become and swore not to become like King Loki.{{r|Thor Vol 5 12}}
+
+During the final battle of the War of the Realms, Loki carved his way out of his fathers insides using Heimdall's sword, [[Hofund]], barely holding himself together with magic.{{r|War of the Realms Vol 1 6}} With Laufey dead, Loki returned to Jotunheim to inherit the throne while Thor became the All-Father of Asgard after being handed over the title by Odin.{{r|Thor Vol 5 15}} Reluctant to take up the responsibilities of a king and bored by his new circumstances, Loki neglected his royal duties, spending most of his time in Midgard.{{r|Loki Vol 3 1}} In an attempt to comfort Loki, Thor took him to the [[Halls of All-Knowing]] and shared with him the previously-restricted ''[[Books of Loki]]'', a single tome that prophesied a long and peaceful life for Loki, in which he was no longer the God of Evil, nor Mischief, Chaos or Stories.{{r|Loki Vol 3 2}}
+
+Two young cosmic entities, [[Now (Cosmic Being) (Earth-616)|Now]] and [[Then (Earth-616)|Then]], heeded the desire in Loki's heart to do more with his life, and took him to the [[House of Ideas]],{{r|Loki Vol 3 2}} a place that archived the exploits of countless heroes in books. Loki struck up a deal with the children to ensure his exploits had more pages, therefore giving him more time for adventures, also granting him the ability to turn untold tales into reality by telling them. The cost for his books being rewritten into a hero's stories became the promise of an eventual hero's death.{{r|Loki Vol 3 3}} After returning to Earth from the House of Ideas with no memory of his visit, Loki was confronted [[Nightmare (Earth-616)|Nightmare]], whom he had previously fended off from Jotunhiem, and killed him.{{r|Loki Vol 3 4}}
+
+Loki was afterwards imprisoned in the [[Raft]], where he called Verity Willis after becoming unsure whether the memories he recalled were real. Loki shared with her a fabricated story, one in which he recovered his memories of the House of Ideas, unlocking within him the ability to consciously alter his past by telling "untold" stories that became true once relayed. Loki additionally came to a realization about his godhood and the constant struggles of his life, and proclaimed himself the God of Outcasts. Loki broke free from his cell, and invited Verity to join him in his further adventures, now that he had discovered that everything he could remember happening was real.{{r|Loki Vol 3 5}}
+
+| Personality             = 
+
+| Powers                  = '''Asgardian / Frost Giant Physiology''' Despite being part [[Frost Giants|Frost Giant]], Loki also possesses [[Asgardians|Asgardian]] attributes.
+* '''Superhuman Strength:''' Loki, without the aid of anything, through his own biology, possesses superhuman strength that is substantially superior to that of an average Asgardian male. He possesses sufficient physical strength to lift up to 50 tons.{{r|Thor & Hercules: Encyclopaedia Mythologica #1}}
+* '''Superhumanly Dense Tissue:''' Like Asgardians, Loki's bodily tissues have roughly 3 times the density of the same tissues in a human being. While he has the looks and physical proportions of a much smaller person, the increased density of his body actually makes him several hundred pounds heavier than he appears. This increased density also contributes to his superhuman strength to a limited degree.{{r|Thor & Hercules: Encyclopaedia Mythologica #1}}
+* '''Superhuman Durability:''' The tissues of Loki's body are superhumanly durable and are roughly equal to those possessed by the average Asgardian male. He has been able to survive taking a punch from the Hulk in the face with only a black eye,{{r|Loki: Agent of Asgard #1}} and a beating from his enraged brother Thor with only a broken arm.{{r|Loki: Agent of Asgard #10}}
+* '''Regenerative Healing Factor:''' Although he is inhumanly durable, at least by human standards, Loki can still be injured by sufficient force. However, like all Asgardians, his metabolism enables him to rapidly regenerate damaged tissue much faster and more extensively than a human being.
+* '''Superhuman Stamina:''' Loki's Frost Giant metabolism grants him superhuman levels of physical stamina in practically all activities. He can exert himself at peak capacity for about 24 hours before fatigue begins to impair him. However, much like his physical strength and durability, Loki can temporarily augment his stamina through magical means.
+* '''Superhuman Longevity:''' Like all Asgardians, Loki ages at a far slower rate than humans. However, unlike some other god pantheons like the [[Olympians]], who stop aging completely at a certain point, Loki isn't fully immune to aging. Although he has recently been "reborn", he still has his memories of his previous life. While he is several millennia old, at least, he has the appearance and vitality of a young Asgardian man in his physical prime. Loki is immune to the effects of all known Earthly diseases and infections.
+
+'''Sorcery:''' Loki has the ability to generate and control a great quantity of mystical abilities for a variety of purposes: He can create objects out of thin air,{{r|All-New Marvel NOW! Point One #1.NOW}} bypass detection from [[Johann Shmidt (Clone) (Earth-616)|Red Skull]]'s telepathy,{{r|All-New Marvel NOW! Point One #1.NOW}} and create powerful illusions.{{r|All-New Marvel NOW! Point One #1.NOW}}{{r|Loki: Agent of Asgard #2}}
+
+'''Shapeshifting:''' Like a number of gods or goddesses, Loki possesses highly developed shapeshifting capabilities. However, the forms he can change to are limited to those that represent him in nature. He has displayed the ability to adapt the form of a man, a woman, or a fox.{{r|Loki: Agent of Asgard #5}} When he had his moral compass magically inverted, he could shapeshift into a unicorn.{{r|Loki: Agent of Asgard #8}} Later, after his rebirth as the God of Stories, he has been shown shapeshifting to forms other than a fox or a woman, such as a snake,{{r|Mighty Thor Vol 3 3}} or Cat Thor.{{r|Unbeatable Squirrel Girl Vol 1 8}}
+
+'''[[Allspeak]]:''' Thanks to the Allspeak, Asgardians can communicate and be understood by all races.{{r|Thor #617}}
+
+'''Story Creation:''' As a result of striking up a deal with [[Now (Cosmic Being) (Earth-616)|Now]] and [[Then (Earth-616)|Then]] within the [[House of Ideas]], Loki gained the ability to turn into reality whichever story he could fabricate about the past by virtue of telling it, retroactively altering history so it happened. While every person who strikes up a deal with Now and Then gain this ability, they also forget their visit to their House of Ideas.{{r|Loki Vol 3 3}} However, after regaining his memories of the House of Ideas, Loki became aware that whatever he remembers happening becomes real.{{r|Loki Vol 3 5}}
+
+{{Navigation
+| title = Former Powers
+| body  = 
+[[File:Loki Laufeyson (Earth-616) from Loki Agent of Asgard Vol 1 9 001.jpg|thumb|right|Loki as Thor]]
+For a brief time, Loki wielded [[Mjolnir]],{{r|Loki: Agent of Asgard #9}} and possessed the powers given by the magical hammer:
+* '''Flight''' 
+* '''Energy Manipulation''' 
+** '''Lightning/Electrokinesis:'''
+** '''Rain''' 
+* '''Matter Manipulation'''
+* '''Dimensional Portals'''
+* '''Chronokinesis'''
+}}
+| Abilities               = '''[[Genius Intelligence]]:''' Loki has a genius level intellect and possesses a great deal of knowledge of the mystic arts. He is also extremely cunning and skilled, an expert battle strategist, and highly skilled and charismatic manipulator.{{r|Loki: Agent of Asgard #5}}
+
+'''Skilled Combatant:''' Loki is a formidable combatant in his own right, particularly as a swordsman.{{r|Loki: Agent of Asgard #4}}
+
+'''Hacking Skills:''' Loki was shown hacking the most top secured database of Avengers.{{r|Loki: Agent of Asgard #1}} He also hacked into the casino security system, using the identity of "Trixie the Hacker."{{r|Loki: Agent of Asgard #2}}
+
+'''Skilled Cook:''' Loki enjoys preparing Midgardian foods, finding mortal cuisine vastly more exciting than its Asgardian counterpart.{{r|Loki: Agent of Asgard #4}}
+| Strength                = Class 50.{{r|Thor & Hercules: Encyclopaedia Mythologica #1}}
+| Weaknesses              = 
+{{Navigation
+| title = Former Weaknesses
+| body  = '''Inability to Lie:''' After the [[Avengers & X-Men: AXIS|cast of the reinversion spell]], Loki found himself unable to tell lies, no matter how little or harmless, being even unable to tell a joke. According to himself, Loki wasn't sure whether this limitation was a secondary effect of the reinversion spell or unconscious self-destructive behavior due to feeling guilt for having killed [[Loki Laufeyson (Kid Loki) (Earth-616)|Kid Loki]].{{r|Loki: Agent of Asgard #10}}
+}}
+
+| Equipment               = A special coat created from shadow-thread stolen from [[Svartalfheim]] which lets him become invisible;{{r|Loki: Agent of Asgard #1}} Lorelei's amulet of invisibility;{{r|Loki: Agent of Asgard #4}} Lightbender-Tech Invisibility Belt taken from Sigurd, who had stolen it from A.I.M.;{{r|Loki: Agent of Asgard #4}} [[Loki's Sceptre#Alternate Realities|Loki's Sceptre]]{{r|Loki: Agent of Asgard #16}}
+
+{{Navigation
+| title = Former Equipment
+| body  = * [[Cloak of Levitation]],{{r|Doctor Strange Vol 1 381}} [[Eye of Agamotto]]{{r|Doctor Strange Vol 1 381}}
+
+* [[Infinity Stones]]{{r|Infinity Wars Vol 1 5|6}}
+** [[Mind Stone]]
+** [[Power Stone]]
+** [[Reality Stone]]
+** [[Space Stone]]
+** [[Soul Stone]]
+** [[Time Stone]]
+
+* [[Seven-League Boots]], which allowed Loki to walk through surfaces such as waterfalls or rainbows, and walk vertically.{{r|Loki: Agent of Asgard #1}} They were destroyed by [[Laufey (Earth-616)|Laufey]]'s digestion after he attempted to devour Loki.{{r|Loki Vol 3 1}}
+}}
+
+| Transportation          = 
+| Weapons                 = [[Jarnbjorn]], [[Laevateinn]]; formerly [[Gram]]
+
+| Notes                   = * Loki's birthday is on December 17.{{r|[http://alewing.tumblr.com/post/105424981254/kneel-to-maria-i-asked-al-ewing-if-december-17 Al Ewing - Tumblr] ([https://web.archive.org/web/20141220231516/https://alewing.tumblr.com/post/105424981254/kneel-to-maria-i-asked-al-ewing-if-december-17 archived])}}
+| Trivia                  = * Loki's [[Loki: Agent of Asgard Vol 1|Agent of Asgard]] costume was designed by [[Jamie McKelvie]].{{r|[http://mckelvie.tumblr.com/post/64884796991/redesign-spoilers-for-young-avengers-11 Jamie McKelvie - Tumblr]}}
+* Loki's "God of Stories" design was created by [[Lee Garbett]],{{r|[http://leegarbettart.tumblr.com/post/116467048922/final-concept-for-new-loki Lee Garbett - Tumblr]}} who also designed the "inverted variation" of his Agent of Asgard costume.{{r|{{cite web|url=https://www.cbr.com/tragedy-looms-as-inversions-impact-ewings-loki-agent-of-asgard/|title=Tragedy Looms as Inversions Impact Ewing's "Loki: Agent of Asgard"|work=CBR|first=Dave|last=Richards|date=October 29, 2014|accessdate=July 30, 2021}}}}
+* Loki's scepter in {{cl|Loki: Agent of Asgard Vol 1 16}} resembles a magpie's skull.
+* Loki has admitted that he once wrote a badly-written slash fan-fiction and posted it online.{{r|Loki: Agent of Asgard Vol 1 1}}
+* {{cl|Vote Loki Vol 1}} originated as a pitch by {{cl|Vision Vol 2}} writer [[Tom King]] for a 12-issue series called ''Loki for America'', and it was originally going to be penciled by cover artist [[Tradd Moore]]. Unlike ''Vote Loki'', King's original pitch saw Loki actually become President of the United States. The first issue would have featured a cold opening of Loki being shot on the day of the election after being conceded the victory, followed by a flashback to one year before where the main bulk of the story begins. The concept evolved into ''Vote Loki'' after Tom King accepted an exclusive contract to write for [[DC Comics]], and Marvel paid him to use the concept. King's initial successor was [[Chip Zdarsky]], but [[Christopher Hastings]] ended up writing ''Vote Loki''.{{r|{{cite web|url=https://www.gamesradar.com/inside-the-secret-marvel-comics-project-by-tom-king-that-inspired-disney-plus-loki-and-almost-made-loki-us-president/|title=Inside the secret Marvel Comics project by Tom King that inspired Disney Plus' Loki (and almost made Loki US President)|work=Gamesradar|first=Chris|last=Arrat|date=July 19, 2021|accessdate=July 19, 2021}}}}
+* Loki's favorite movie is ''[[wikipedia:The Wizard of Speed and Time|The Wizard of Speed and Time]]'', which was shown to him by [[Verity Willis (Earth-616)|Verity Willis]].{{r|Loki Vol 3 5}}
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Worthy of Mjolnir]]
+[[Category:Shapeshifters]]
+[[Category:Superhuman Stamina]]
+[[Category:Energy Manipulation]]
+[[Category:Energy Projection]]
+[[Category:Fencing]]
+[[Category:Genderfluid Characters]]
+[[Category:Bisexual Characters]]
+[[Category:Comic Awareness]]
+[[Category:Advanced Longevity]]
+[[Category:Odin Family]]
+[[Category:Laufey Family]]
+[[Category:Loki Family]]
+[[Category:Illusionists]]
+[[Category:Frigga Family]]
+[[Category:Farbauti Family]]
+[[Category:Regeneration]]
+[[Category:Soul Stone wielders]]
+[[Category:Power Stone wielders]]
+[[Category:Space Stone wielders]]
+[[Category:Reality Stone wielders]]
+[[Category:Time Stone wielders]]
+[[Category:Mind Stone wielders]]
+[[Category:Jotunheim Monarchs]]
+[[Category:Reincarnation]]
+[[Category:Asgardians]]
+[[Category:Mythological Figures]]

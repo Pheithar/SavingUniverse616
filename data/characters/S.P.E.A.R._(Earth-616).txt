@@ -1,0 +1,41 @@
+{{Marvel Database:Organization Template
+| Quotation               = This battle will be our moment in time. When the world sets itself right. This is order restored. As it always has been, as it always should be. '''[[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|The shield]]''' in the west-- '''[[S.P.E.A.R. (Earth-616)|The spear]]''' in the East. Together we must answer this challenge, and prove ourselves worthy.
+| Speaker                 = [[Xian Zheng (Earth-616)|Xian Zheng]]
+| QuoteSource             = Avengers World Vol 1 7
+| Image                   = Avengers World Vol 1 7 page 11.jpg
+| Name                    = S.P.E.A.R.
+| Aliases                 = The Spear
+
+| Status                  = Active
+| Identity                = Known to Authorities
+| Reality                 = Earth-616
+| BaseOfOperations        = [[Circle (S.P.E.A.R.)|The Circle]], [[China]]
+
+| OrganizationLeaders     = [[Xian Zheng (Earth-616)|Director Zheng]]
+| CurrentMembers          = [[Devastator (Ascendants) (Earth-616)|Devastator]], [[Saber (Earth-616)|Saber]], [[Grace Tam (Earth-616)|Vector]], [[Weather Witch (Earth-616)|Weather Witch]], numerous unnamed members
+| FormerMembers           = [[Sun Wukong (Earth-616)|Monkey King]]
+| Allies                  = [[Samuel Wilson (Earth-616)|Falcon]], presumably [[George Tarleton (M.O.D.O.K. Superior) (Earth-616)|M.O.D.O.K.'s]] faction of [[Advanced Idea Mechanics (Earth-616)|A.I.M.]] and its [[Broseph Simpkins the Seventh (Earth-616)|agents]] 
+| Enemies                 = [[Hand (Earth-616)|Hand]], [[Tomi Shishido (Earth-616)|Gorgon]]
+
+| Origin                  = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Nick Spencer; Stefano Caselli
+| First                   = Avengers World Vol 1 7
+
+| History                 = S.P.E.A.R. was a Chinese intelligence gathering organization created for homeland security. It possessed over 150,000 operatives, analysts, and overseers, sixteen airships, and a science division. Commanded by director [[Xian Zheng (Earth-616)|Xian Zheng]], the organization was built after the [[Infinity (Event)|invasion]] by [[Thanos (Earth-616)|Thanos]],{{r|Avengers World #7}} in which the super-powered team [[Dynasty (Earth-616)|Dynasty]] was decimated,{{r|Avengers World #13}} Feeling that they needed to be able to protect themselves, [[China]] wanted to be on the same level as [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]]. So they appointed Zheng to head up the new project.
+
+[[Samuel Wilson (Earth-616)|Falcon]] first encountered them during Gorgon's attempt to launch an attack on [[China]] using a giant dragon. When the [[Hand (Earth-616)|Hand]] attacked their flying headquarters, the [[Circle (S.P.E.A.R.)|Circle]], they deployed their own dedicated superhuman response team, the [[Ascendants (Earth-616)|Ascendants]].{{r|Avengers World #7}}
+
+A supposedly rogue group in S.P.E.A.R. agents and scientists committed around 300 telepaths in a secure location somewhere in China to the task of making a psychic recreation of the destroyed [[Kowloon Walled City Park|Kowloon Walled City]].{{r|Secret Avengers Vol 3 9}} This simulacrum would act as an incubator for the Fury and its offspring as part of a elaborate plot by [[M.O.D.O.K. Superior (Earth-616)|M.O.D.O.K.]] to infiltrate S.H.I.E.L.D.{{r|Secret Avengers Vol 3 10}}
+| Equipment               = Various examples of comparable quality to S.H.I.E.L.D.
+| Transportation          = [[Circle (S.P.E.A.R.)|The Circle]] and other examples of comparable quality to S.H.I.E.L.D.
+| Weapons                 = Various examples of comparable quality to S.H.I.E.L.D.
+| Notes                   = * The [[Empire State University]] proposed the course "International Relations 220: [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] vs. S.P.E.A.R.--a course dissecting the history and conflicts between the two competing planetary security agencies".{{r|Starbrand & Nightmask #1}}
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Government Organizations]]
+[[Category:Chinese Organizations]]
+[[Category:Nick Spencer/Creator]]
+[[Category:Stefano Caselli/Creator]]

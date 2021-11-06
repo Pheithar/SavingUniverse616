@@ -1,0 +1,59 @@
+{{Marvel Database:Character Template
+| Image                   = Vladimir Korda (Earth-616) Captain America Vol 1 321.jpg
+| Name                    = [[Vladimir Korda]]
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{M|Underground Liberated Totally Integrated Mobile Army To Unite Mankind (Earth-616)|U.L.T.I.M.A.T.U.M.}}; formerly {{M|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = Krakow, [[Poland]]
+| PlaceOfDeath            = 
+| CauseOfDeath            =  Killed by [[Steven Rogers (Earth-616)|Captain America]]
+| KilledBy                = Steven Rogers (Earth-616)
+
+| Identity                = No Dual
+| Citizenship             = Poland
+| Occupation              = Terrorist, mercenary
+| Education               = 
+| BaseOfOperations        = Mobile
+
+| Creators                = Mark Gruenwald; Paul Neary
+| First                   = Captain America Vol 1 321
+| Death                   = Captain America Vol 1 321
+
+| History                 = Born in Poland, Korda was a [[Hydra (Earth-616)|Hydra]] agent for five years, then a mercenary in [[Africa]] for three years before enlisting with the terrorist organization [[Underground Liberated Totally Integrated Mobile Army To Unite Mankind (Earth-616)|U.L.T.I.M.A.T.U.M.]].{{r|Captain America #326}}
+
+Korda was assigned to guard the 110 American hostages hijacked by U.L.T.I.M.A.T.U.M. with orders to kill them if someone interfered in the group's plan. Thus, when [[Steven Rogers (Earth-616)|Captain America]] appeared, Korda began to open fire on hostages, thus forcing Captain America to kill him before he could complete his massacre.{{r|Captain America Vol 1 321}}
+
+Later, Captain America would seemingly be confronted with Korda's ghost, alongside those of M.O.D.O.K., Porcupine, and the Scourge of the Underworld, but in fact they were holograms created by Doctor Faustus as part of a revenge plot against Captain America.{{r|Captain America Vol 1 326}}
+
+| Personality             = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+* http://www.marvunapp.com/Appendix/kordavladimir.htm
+}}

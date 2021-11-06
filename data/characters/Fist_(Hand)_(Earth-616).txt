@@ -1,0 +1,60 @@
+{{Marvel Database:Character Template
+| Image                   = Daredevil Vol 5 5 Textless.jpg
+| Name                    = N/A
+| CurrentAlias            = Fist
+| Aliases                 = 
+
+| Affiliation             = {{m|Hand (Earth-616)|Hand}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = 
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = A corpse brought back to life by the [[Hand (Earth-616)|Hand]] to due to its bidding
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = 
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = Mobile
+
+| Creators                = Charles Soule; Ron Garney
+| First                   = Daredevil Vol 5 4
+| Death                   = Daredevil Vol 5 5
+
+| Quotation               = Don't know if I can kill it. Don't know if it '''can''' be killed. But no one likes a boot to the face.
+| Speaker                 = [[Matthew Murdock (Earth-616)|Daredevil]]
+| QuoteSource             = Daredevil Vol 5 5
+
+| History                 = A Fist is a magical creature, a sentient corpse that can be created through rituals by [[Hand (Earth-616)|The Hand]]. It is the result of a sacrifice of one-hundred of their members to the [[Beast (Demon) (Earth-616)|Beast]].
+
+A Fist, possessing the body of [[Church_of_the_Sheltering_Hands_(Earth-616)|Sheltering Hand]] follower [[Onehand (Earth-616)|Onehand]], was sent by The Hand to kill the [[Chinatown (New York)|Chinatown]] crime boss [[Tenfingers (Earth-616)|Tenfingers]], a former member of The Hand who had stolen power from them. The Fist then targeted several followers of the Tenfingers's church when he bestowed his power upon them to escape. The civilians were eventually rescued by [[Matthew Murdock (Earth-616)|Daredevil]], who neutralized the Fist by impaling it with its own weapon.{{r|Daredevil Vol 5 5}}
+
+| Personality             = 
+
+| Powers                  = Fist possessed high levels of strength and endurance as it was able to fight off Daredevil and make him doubt he could kill it.{{r|Daredevil Vol 5 5}}
+| Abilities               = Fist was a skilled fighter in terms of both unarmed and armed combat.{{r|Daredevil Vol 5 5}}
+| Strength                = 
+| Weaknesses              = While it was a reanimated corpse, it could still be killed.{{r|Daredevil Vol 5 5}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = Varied; the one that possessed Onehand wielded a sword and a [[Wikipedia:Scissor (gladiator)|scissor]] in place of his left arm, which further connected to scythe via a long chain.{{r|Daredevil Vol 5 5}}
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Possession]]
+[[Category:Fencing]]

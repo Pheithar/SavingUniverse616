@@ -1,0 +1,250 @@
+{{Marvel Database:Character Template
+| Image                   = Fantastic Four Vol 6 1 The Thing Variant Textless.jpg
+| Name                    = [[Thing|Benjamin Jacob "Ben" Grimm]]
+| CurrentAlias            = [[Thing|The Thing]]
+| Aliases                 = [[Angrir]],{{r|Fear Itself #3}} Aunt Petunia's favorite nephew,{{r|Fantastic Four Vol 1 119}} B,{{r|Fantastic Four Vol 1 538}} Bashful Benjy,{{r|Marvel Two-In-One #62}} [[Benjamin J. Grimm]],{{r|Official Handbook of the Marvel Universe Vol 2 #13}} Benny,{{r|Fantastic Four Vol 3 #56}}  Big Orange [[Stephen Hawking]],{{r|Fantastic Four Vol 1 538}} [[Blackbeard]] the Pirate,{{r|Fantastic Four #5}} [[Butch]],{{r|Fantastic Four Vol 1 535}} Brick Man,{{r|Fantastic Four Vol 1 558}} [[Commander Grimm|Commander Benjamin J. Grimm]],{{r|Avengers: The Initiative #3}} Count Crag,{{r|Avataars: Covenant of the Shield #2}} Dr. Josiah Verpoorteen,{{r|Strange Tales #132}} El Morrito,{{r|Fantastic Four: ¡Isla de la Muerte! #1}} The Ever-Lovin' Blue-Eyed Thing,{{r|Marvel Two-In-One Annual #1}} Grim Ben,{{r|Official Handbook of the Marvel Universe: Fantastic Four 2005 Vol 1 1}} Grimm Reaper,{{r|Fantastic Four #11}} Immortal Thing,{{r|Empyre Vol 1 5}} Orange Slice,{{r|Black Panther Vol 4 33}} Rock-Man,{{r|Fantastic Four Vol 1 558}} [[Rocky Grimm]],{{r|Thing #11}} [[Uncle Ben]],{{r|Fantastic Four #301}} [[Uncle Ben|Uncle Benjy]]{{r|Fantastic Four #94}} 
+
+| Affiliation             = {{m|Fantastic Four}} (founding member); formerly {{m|Yancy Street Gang}}, {{m|United States Marine Corps (Earth-616)|USMC}}, {{m|United States Air Force|USAF}}, {{m|National Aeronautics and Space Administration (Earth-616)|NASA}}, [[Defenders (Earth-616)|Defenders]] (associate), {{m|Project P.E.G.A.S.U.S.|Project Pegasus}} (staff), {{m|Thunderiders}}, {{m|Unlimited Class Wrestling Federation}}, {{m|Avengers West Coast}}, {{m|New Avengers}}, {{m|50-State Initiative|Initiative}} (guest instructor), ally of [[Les Heroes de Paris (Earth-616)|Les Heroes de Paris]], {{m|Future Foundation}}, {{m|Worthy}}, {{m|Guardians of the Galaxy (Earth-616)|Guardians of the Galaxy}}, {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}, {{m|Underground (Secret Empire) (Earth-616)|Underground}}, {{m|Fantastic Three}}, {{m|Terrific Three (Earth-TRN799)}}, {{M|Monster Mob (Earth-616)}}, {{m|Hive (Symbiotes) (Earth-616)|Symbiote Hive}}
+
+| Relatives               = [[Benjamin Grimm (Ben's Grandfather) (Earth-616)|Benjamin Grimm]] (paternal grandfather, presumed deceased){{r|1939 Daily Bugle Vol 1 1}};<br>
+[[Mary Grimm (Earth-616)|Mary Grimm]] (paternal grandmother, presumed deceased){{r|1939 Daily Bugle Vol 1 1}};<br>
+unnamed maternal grandmother (deceased);<br>
+[[Petunia Grimm (Earth-616)|Petunia Grimm]] (aunt by marriage);<br>
+[[Sophie Grimm (Earth-616)|Sophie Grimm]] (paternal aunt, deceased);<br>
+[[Alyce Grimm (Earth-616)|Alyce Grimm]] (paternal aunt and former legal guardian, deceased);<br>
+[[Jacob Grimm (Earth-616)|Jake Grimm]] (paternal uncle and former legal guardian);<br>
+[[Daniel Grimm (Earth-616)|Daniel Grimm]] (father, deceased);<br>
+[[Elsie Grimm (Earth-616)|Elsie Grimm]] (mother, deceased);<br>
+[[Daniel Grimm Jr. (Earth-616)|Daniel Grimm Jr]] (brother, deceased);<br>
+unnamed cousin;{{r|Jessica Jones Vol 2 18}}<br>
+[[Alicia Masters (Earth-616)|Alicia Masters]] (wife);<br>
+[[Jo-Venn (Earth-616)|Jo-Venn]] (adopted son);{{r|Empyre: Fallout Fantastic Four Vol 1 1}}<br/>[[N'Kalla (Earth-616)|N'Kalla]] (adopted daughter);{{r|Empyre: Fallout Fantastic Four Vol 1 1}}<br/>
+[[Franklin Richards (Earth-616)|Franklin Richards]] (godson)<br>
+[[Carnage (Symbiote) (Earth-616)|Carnage]] (former symbiote);{{r|Carnage, U.S.A. Vol 1 2}}<br>
+[[:Category:Grimm Family|Grimm Family]] (relatives)
+| MaritalStatus           = Married
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 6'0"
+| Weight                  = 500 lbs
+| Eyes                    = Blue
+| Hair                    = None; Brown (originally)
+| UnusualFeatures         = Body is covered with an orange, flexible, rock-like hide; No apparent neck; Only four fingers (including the thumb) on each hand and four toes on each foot. The increase in the volume of his fingers has not decreased his manual dexterity. His skin is apparently susceptible to "drying" or what in a normal human being would be called the loss of skin oil, for his skin can be "chipped" under certain circumstances. The Thing has no outer ear structure.
+| UnusualSkinColor        = Orange
+
+| Origin                  = [[Homo sapiens|Human]] [[Glossary:Mutate|Mutate]] (exposed to cosmic rays, formerly powered by the [[Hammer of Angrir]]) [[Category:Cosmic Ray Exposure]][[Category:Asgardian Magic]][[Category:Object-Based Powers]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[New York City]], [[New York (State)|New York]]
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = Adventurer; former construction worker, security guard, astronaut, test pilot, college football player, student, wrestler
+| Education               = College graduate (State University), U.S. Air Force pilot training, NASA astronaut training
+| BaseOfOperations        = [[4 Yancy Street]], [[Lower East Side]], [[Manhattan]], [[New York City]], [[New York (State)|New York]] Formerly; [[Moon Girl's Secret Laboratory]], [[Public School 20 Anna Silver]], [[Lower East Side]], [[Manhattan]], [[New York City|New York]], [[New York (State)|New York]]; formerly [[Mount|The Mount]], [[Nevada (State)|Nevada]]; [[S.H.I.E.L.D. Helicarrier]], [[Cool Interstellar Travel Travelship|C.I.T.T.]], [[Baxter Building]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]; [[Pier 4]]; Antarctic lab; [[Four Freedoms Plaza]]; [[Avengers Compound]], [[Los Angeles]], [[California (State)|California]]
+
+| Creators                = Stan Lee; Jack Kirby
+| First                   = Fantastic Four #1
+
+| Quotation               = It's Clobberin' Time!
+| Speaker                 = [[Benjamin Grimm (Earth-616)|Thing]]
+| QuoteSource             = Fantastic Four Vol 1 22
+
+| Overview                = Ben Grimm was an astronaut and former [[United States Air Force (Earth-616)|USAF]] test pilot.{{r|Fantastic Four Vol 1 11}} Grimm was exposed to high levels of [[Glossary:Cosmic Radiation|cosmic radiation]] when his best friend, scientist [[Reed Richards (Earth-616)|Dr. Reed Richards]] took him and his friends [[Susan Storm (Earth-616)|Sue Storm]] and her younger brother [[Jonathan Storm (Earth-616)|Johnny Storm]], into space in the stolen rocket; [[Marvel-1]]. The radiation mutated him and his friends, turning him into a super-strong rock like monster with a "Heart of Gold".{{r|Fantastic Four #1}} Together they became the [[Fantastic Four (Earth-616)|Fantastic Four]], a team of adventurers who explored [[Glossary:Space|space]], [[Glossary:Time|time]] and [[Glossary:Dimension|alternate dimensions]] and saved the world along the way from science-based threats.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 7}}
+
+| History                 = <center>''This is an abridged version of Ben Grimm's history. For a complete history see '''[[Benjamin Grimm (Earth-616)/Expanded History|Ben Grimm's Expanded History]]'''''</center>
+
+===Early Life===
+Benjamin J. Grimm was born on [[Yancy Street]] on [[Manhattan]]'s Lower East Side, where he grew up in poverty. His father, an alcoholic, was unable to hold a job. Much of the family's income came from Grimm's older brother, [[Daniel Grimm Jr. (Earth-616)|Daniel]], who obtained funds illegally as leader of the [[Yancy Street Gang (Earth-616)|Yancy Street Gang]]. Grimm, who idolized his brother, became embittered against the world when Daniel was killed in a battle between rival gangs. Grimm was only eight years old at the time. Within ten years, he had succeeded his brother as leader of the Yancy Street Gang. After his parents died, Grimm was taken in by his Uncle [[Jacob Grimm (Earth-616)|Jake]], who had risen from poverty to become a successful physician. At first, Grimm resisted his new guardians' kindness toward him. But eventually, he came to return their love. He left his life with the Yancy Street Gang behind, entered high school, and became a football star there. While he was a senior at Stuyvesant High School, Ben received a football scholarship to [[State University (Hegeman)|State University]] in [[Hegeman]], [[New York (State)|New York]]. On the football field, Ben received the nickname "Grimm Reaper."{{r|Fantastic Four #11}} 
+
+===Early Years===
+Grimm's freshman year roommate was the brilliant science student [[Reed Richards (Earth-616)|Reed Richards]], who became his closest friend. During their first meeting, Richards confided in Grimm his intention someday to build a starship for interstellar travel. Grimm jokingly promised that he would pilot the starship for Richards if he ever built it.{{r|Fantastic Four Annual #2}}
+
+Upon graduating, Grimm went into the U.S. Air Force and became a highly skilled fighter pilot,{{r|Fantastic Four #11}} as well as a test pilot and an astronaut. In the meantime, Richards went ahead with his project to build a starship, using both his own fortune and funding from the federal government. On the day that Grimm left the military, Richards came to him to remind him of his promise to pilot the starship.
+
+===Fantastic Four===
+Richards' project was based in [[Central City]], [[California (State)|California]]. When the federal government threatened to withdraw its funding from Richards' project, Richards decided to take the starship on a test flight himself as soon as possible. Grimm was opposed to the idea, warning that the star ship's shielding might prove to be inadequate protection from intense radiation storms. Nevertheless, Grimm was persuaded to serve as the pilot, and Richards' future wife [[Susan Storm (Earth-616)|Sue Storm]] and her teenage brother [[Jonathan Storm (Earth-616)|Johnny]] insisted on accompanying Richards' as passengers. The four friends stole into the launch facility, entered the starship, and launched it. They intended to travel through hyperspace to another solar system and back. However, when the ship passed through a [[Glossary:Cosmic Radiation|cosmic ray]] storm, they were met with an unexpected intensity. Since the ship was designed to shield against ordinary levels of radiation, the cabin interior was subject to intense cosmic ray bombardment which irradiated the four passengers and wrought havoc on the ship's controls. Pilot Grimm was forced to abort the flight and return to Earth.
+
+Once back on Earth, the four passengers discovered that the cosmic radiation had triggered mutagenic changes in their bodies. Grimm was transformed into an orange-colored, thick-skinned, heavily-muscled, and superhumanly strong "thing." Richards convinced the three others that the four of them should use their new powers for the good of humanity as members of a team named the [[Fantastic Four (Earth-616)|Fantastic Four]]. Richards called himself Mister Fantastic, Susan and Johnny Storm took the names of the Invisible Girl (later Invisible Woman) and the Human Torch, and Grimm, morose over his new grotesque appearance, named himself the Thing.{{r|Fantastic Four #1}} Under Richards' leadership the Fantastic Four has become Earth's most honored team of superhuman adventurers and has saved the world from conquest or destruction many times. Their incorporation heralded the modern age of superheroes.
+
+[[File:Benjamin Grimm (Earth-616) from Fantastic Four Vol 1 3 0001.jpg|left|thumb|Ben's early costume]]
+
+The Fantastic Four were not just Ben's friends, they became his surrogate family, and he was like a beloved uncle to Reed and Sue's children, [[Franklin Richards (Earth-616)|Franklin]] (whose middle name is Benjamin, after the Thing) and [[Valeria Richards (Earth-616)|Valeria]]. He also often assisted his teammate Johnny during the young man's solo adventures.
+
+===Alicia Masters===
+Over the years, the mutations to the Thing's body have continued to progress slowly. The composition of his epidermis changed from an abnormally dense, somewhat-lumpy-but-still-comparatively smooth hide to a flexible, interlocking network of rock-like lumps. His superhuman strength increased considerably over time. Early in Grimm's life as the Thing, he would sometimes revert to his original human form unexpectedly. But neither these changes nor those induced by Richards in his efforts to turn Grimm back to human form ever proved to be permanent. Eventually, Grimm always reverted to his monstrous, superhumanly powerful form. Appalled by his appearance, Grimm was at first filled with anger at his situation, but he eventually became resigned to his fate, although he continued to be disturbed by his appearance and to hope for a means of regaining his human form that would last. Instrumental in helping Grimm to adjust to his life as the Thing was the blind sculptress [[Alicia Masters (Earth-616)|Alicia Masters]], whom he met during the Fantastic Four's confrontation with her step-father, the [[Phillip Masters (Earth-616)|Puppet Master]],{{r|Fantastic Four #8}} and who became his girlfriend.{{r|Fantastic Four #10}}
+
+After a battle with the Hulk, where he had been exposed to the Hulk's Gamma radiation, Ben was permanently transformed back into his human form{{r|Fantastic Four #167}} and was replaced in the Fantastic Four by [[Luke Cage (Earth-616)|Luke Cage]].{{r|Fantastic Four #168}} He returned to the team using an exoskeleton constructed by Reed Richards that emulated his old powers,{{r|Fantastic Four #170}} however, he was soon changed back into the Thing as a punishment by [[Galan (Earth-616)|Galactus]].{{r|Fantastic Four #175}}
+
+Reed Richards eventually discovered that Grimm had reached a state in which he could transform from his Thing form to human form and back at will. However, Grimm feared that Alicia Masters would only love him as the Thing, for she had not known him before his initial transformation. Hence, Grimm suffered from a subconscious mental block that prevented him from becoming human.
+
+===Secret Wars===
+The relationship between Grimm and Masters was suffering from strains when Grimm was transported to the distant "[[Battleworld (Beyonder)|Battleworld]]" by the alien [[Beyonder (Earth-616)|Beyonder]] for the first of the so-called "[[Marvel Super Heroes: Secret Wars|Secret Wars]]." On that planet, Grimm found himself able to change to human form and back. Concealing his discovery of Grimm's mental block for fear of hurting his feelings, Richards claimed that the nature of the planet itself was somehow responsible for Grimm's ability to transform back and forth. Once the "secret war" was over, Grimm remained on the planet for months. Eventually, however, he found himself trapped once again in his monstrous form, unable to change to human form, and he returned to Earth. There, Grimm learned that his teammate Johnny Storm and Alicia Masters had become lovers, and that Reed Richards had concealed the information about his mental block from him. Furious and distraught, Grimm quit the Fantastic Four. He worked for a time as a superhumanly strong wrestler for the [[Unlimited Class Wrestling Federation (Earth-616)|Unlimited Class Wrestling Federation]], and also participated in missions with the [[Avengers West Coast (Earth-616)|West Coast Avengers]]. 
+
+===Mole Man's Realm===
+Grimm was about to accept membership in the West Coast Avengers when he began to undergo further mutation, becoming, at least in his own mind, still more grotesque. Greatly disturbed, Grimm journeyed to [[Monster Isle]], where he had first encountered his foe, the [[Harvey Elder (Earth-616)|Mole Man]]. Now, however, the Mole Man befriended the Thing and welcomed him into the society he had organized in his underground realm, composed of physically ugly people like himself who had believed themselves to be outcasts in the surface world. Grimm agreed to help the Mole Man in his attempt to use an earth shifting machine to raise a small continent in the Pacific Ocean to serve as a homeland for the Mole Man's society. While Grimm lived in the Mole Man's realm, his most recent mutations went into remission, leaving him looking little different than before these recent mutations had begun.
+
+The three other original members of the Fantastic Four found the Thing in the Mole Man's realm, where Reed Richards realized that by raising a continent in the Pacific, the Mole Man would trigger earthquakes that would destroy California. The Thing joined Mister Fantastic, the Invisible Woman, and the Human Torch in destroying the Mole Man's earth-shifting machine, and rejoined the Fantastic Four.
+
+[[File:Benjamin Grimm (Earth-616) from Heroic Age Advertisement.jpg|left|thumb|Ben in his Fantastic Four uniform.]]
+
+===Sharon Ventura===
+When Reed and Sue retired from active Fantastic Four duty to focus on raising their son, they left Ben in charge. He recruited [[Crystalia Amaquelin (Earth-616)|Crystal]]  and [[Sharon Ventura (Earth-616)|Ms. Marvel (Sharon Ventura)]] to replace them and served capably as team leader, starting a romance with Sharon that deepened after new cosmic radiation exposure further mutated them both, turning Sharon into a sort of "She-Thing" and Ben into an even stronger, more hideous spiky-hided Thing. Their romance continued through several more changes of form (with Ben eventually settling back into his classic Thing form), even after Reed and Sue rejoined the group; but they were estranged after Sharon accepted [[Victor von Doom (Earth-616)|Doctor Doom]]'s aid in regaining human form. Ben has not yet had a serious relationship since his split with Sharon, though he has flirted with Reed's old friend [[Alyssa Moy (Earth-616)|Alyssa Moy]] and briefly dated [[Damage Control (Earth-616)|Damage Control]] executive [[Kathleen O'Meara (Earth-616)|Kathleen O'Meara]]. When the Alicia who had eventually married Johnny was revealed to be the shape-shifting [[Skrull]] spy [[Lyja (Earth-616)|Lyja]], the Fantastic Four found and rescued the real Alicia, but she and Ben have remained only good friends.
+
+===Back to Roots===
+Ben maintained a bizarre enmity with the Yancy Street Gang, his former peers having passed down their resentment of Grimm to the next generation of Yancy punks. Over the years, the gang perpetrated a seemingly endless series of practical jokes, verbal abuse and petty assaults on Grimm, though many of the practical jokes credited to the Yancy crowd were actually played by a sneaky Johnny Storm. At the same time, the Yancy Streeters took a perverse pride in their distinguished alumnus and were known to come to Ben's aid on occasion. They seemed to think only they had the right to abuse him. Though estranged from the gang, Ben remained friendly with some of his childhood chums from Yancy Street, including [[Cholly (Earth-616)|Cholly]] (now owner of the Yancy Street Bar and Grill), helicopter pilot [[Hopper Hertnecky (Earth-616)|Hopper Hertnecky]] and old high school buddy [[William Sokolowski (Earth-616)|"Slugger" Sokolowski]]. Ben also kept in touch with his uncle Jake, who married a new wife - the much younger [[Petunia Grimm (Earth-616)|Petunia "Penny" Grimm]] - after Alyce died. Ben took a great liking to Petunia, whom he often jokingly described as a little old lady until the Fantastic Four actually got to meet the beautiful Mrs. Grimm in person. [[Alynn Chambers (Earth-616)|Alynn Chambers]] also renewed her friendship with Ben (though not their romance), seeking his guidance and support after a stroke left her disfigured and partially crippled.{{r|Thing #2}}
+
+===To Heaven and Back===
+Ben was once killed during a battle with Doctor Doom. However, Reed was certain that Ben could be resurrected. He convinced Sue and Johnny to join him in this quest, which ultimately led them to the gates of Heaven itself using a modified model of Doom's old afterlife machine. Persuaded it was not yet his time, Ben agreed to return to the land of the living with his friends - and the Creator allowed it.
+
+===Fame===
+Things soon changed for Ben when he became aware the market value of stock that Reed gave him had skyrocketed This rise in value made Ben a multi-millionaire. In light of his newfound wealth, Ben began living the good life. He dated a movie star, made trips with his godson Franklin and even took [[Lockjaw (Earth-616)|Lockjaw]] as his pet for some time. It was also during this time that he went to work for a grumpy old grocery-clerk, whom he had known as a youth, on Yancy Street to make amends for destroying the clerk's property. After he had repaid his debt in work (for the damage he done), Ben and the clerk parted ways. Ben was exhausted and took a nap on the bus stop at Yancy Street waiting to go home. During this time, the Yancy Street Gang sprayed his whole body over with graffiti and other filthy things. When Ben woke up, he was reminded why he rarely visited Yancy Street anymore.
+
+Some time later, the owner of the market where Ben worked talked to the rabbis of the synagogue and asked if Ben had an interest in having his bar mitzvah, because as he had completed 13 years of his second life as the Thing, they made him an exception. Ben accepted and began to study. He invited his friends, including several super heroes such as Avengers, X-Men, Spider-Man, Impossible Man, Defenders, Champions, Great Lakes Avengers / X-Men / Defenders / Champions. for the ceremony and then to celebrate, a poker tournament in its luxury penthouse.
+
+The Thing also used his newfound wealth to build a community center in his old neighborhood on Yancy Street, the "Grimm Youth Center". Thinking the center was named after the Thing himself, the Yancy Street Gang planned to graffiti the building exterior, but discovered the building was actually named after Daniel Grimm, Ben's deceased older brother and former leader of the gang.{{Citation}}
+
+===Civil War===
+Initially in the Super Hero [[Civil War]], Ben was a reluctant member of [[Anthony Stark (Earth-616)|Iron Man]]'s side, until the Thing witnessed a battle on Yancy Street where [[Steven Rogers (Earth-616)|Captain America]]'s forces tried to rescue captured allies held by Iron Man's forces. Old Fantastic Four foes the [[Mad Thinker (Julius) (Earth-616)|Mad Thinker]] and the [[Phillip Masters (Earth-616)|Puppet Master]] tried to escalate the battle, using a mind-controlled Yancy Streeter to deliver a bomb. The young man died and the Thing verbally blasted both sides for not caring about the civilians caught in the conflict.{{r|Fantastic Four #539}} He announced that while he thought the registration was wrong, he was also not going to fight the government and was thus leaving the country for France. While in France he met [[Les Heroes de Paris (Earth-616)|Les Heroes de Paris]] (The Heroes of Paris), and perform a few missions with them. He was also proposed a romance by [[Anaïs (Earth-616)|Anaïs]] but rejected the offer.{{r|Fantastic Four #541|542}}
+
+[[File:Fantastic Four Vol 3 61 Textless.jpg|right|thumb|"Are you lookin' at me?"]]
+
+Ben returned to [[New York City|New York]] as both sides of the SHRA battled in the city. Ben was oblivious to either side that got in his way, choosing to protect the civilians from harm.{{r|Civil War #7}} At the conclusion of the war, Reed and Sue Richards decided to “take a break” from the Fantastic Four, leaving an opening on the team. With the Wakanda embassy in New York destroyed, [[T'Challa (Earth-616)|the Black Panther]] and his wife [[Ororo Munroe (Earth-616)|Storm]] were invited to stay in the [[Baxter Building]] and along with the Thing and the Human Torch, they formed a new Fantastic Four.{{r|Fantastic Four #543}}
+
+===Secret Invasion===
+During the [[Secret Invasion|Skrull invasion]], the Skrull Lyja, posing as Sue, sent the Baxter Building, with Ben, Johnny, Franklin, and Valeria inside, into the Negative Zone. With the aid of the [[Phineas Mason (Earth-616)|Tinkerer]], Ben broke out of the Negative Zone Prison,{{r|Secret Invasion Vol 1 1}}{{r|Secret Invasion: Fantastic Four Vol 1 1|3}} and they were able to return home just after the invasion had ended.{{r|Secret Invasion #8}}
+
+===New Avengers===
+Following the Siege of Asgard, Ben was asked by [[Luke Cage (Earth-616)|Luke Cage]] to become a member of the [[New Avengers (Earth-616)|New Avengers]]. Cage assured Ben that he could maintain joint membership with both teams just as Wolverine served as a member of the Avengers and the X-Men at the time.{{Citation}}
+
+[[File:Fear Itself FF Vol 1 1 Solicit.jpg|thumb|left|Angrir, Breaker of Souls.]]
+When [[Sinthea Shmidt (Earth-616)|Skadi]] released the [[Cul Borson (Earth-616)|Serpent]], he called the Hammers of [[Worthy (Earth-616)|the Worthy]] to Earth. One of these hammers fell on Yancy Street and transformed the Thing into Angrir, Breaker of Souls. After destroying Yancy Street, [[Future Foundation (Earth-616)|the Future Foundation]] attempted to free Ben's mind, but he was too far gone and too powerful for them to stop. Later, he noticed Spider-Man swinging to a hospital to help a [[Karen Anderson (Earth-616)|pregnant woman]] and followed him, hoping to make an example of him to all who opposed the Serpent. Spider-Man convinced Angrir to leave the hospital, even though Spider-Man could have taken him down, but instead, he outsmarted Angrir, though barely surviving the ordeal. [[Thaddeus Ross (Earth-616)|Red Hulk]] then challenged him, but of the two goliaths, Angrir emerged victoriously and destroyed [[Stark Tower|Avengers Tower]].{{Citation}}
+
+Eventually, he, alongside the hammer-possessed Hulk, now Nul, engaged Thor and was mortally wounded in the fight. The blow was enough to bring him back to his senses and was freed completely from the hammer's influence by Franklin Richards, who broke his promise to not use his powers to save Ben.{{r|Fear Itself #5}}
+
+===The Kree Attack and the Celestial Invasion===
+During a Kree attack to New York, Ben fought along the Future Foundation and other heroes against the alien army and went to Soho to see if Alicia Master was well. After the return of Johnny Storm,{{r|Fantastic Four #600}} Ben reunited with the rest of the team. Spider-Man informed Johnny the situation here and in way of marking his comeback he draw the famous "4" in fire on the sky. He reunited with the other members of the Future Foundation and used Annihilation Wave's ships to fight Kree's ones until the Inhumans asked permission to finish the Kree army by their own.{{r|Fantastic Four #602}} Meanwhile the other heroes on Earth where dealing with the scraps of the battle which could damage the Earth, Reed and Sue summons Galactus, who completely destroys the Kree army. That moment, the [[Celestials (Race)#Mad Celestials (Earth-4280)|Mad Celestials]] appeared to destroy this universe. Although the team tried to use the Hub (a weapon of mass destruction created by the Reeds), they couldn't defeat the Mad Celestials. Then, a future version of [[Franklin Richards (Earth-10774)|Franklin]] and [[Valeria Richards (Earth-10774)|Valeria]] appeared as part of [[Nathaniel Richards (Earth-616)|Nathaniel Richards]]'s plan.{{r|Fantastic Four #603}} The Future Franklin used his power to heal Galactus and destroy the Mad Celestials, saving the day.{{r|Fantastic Four #604}} Later, the Baxter Building was easily rebuilt, Mr. Fantastic showed a new secondary headquarters called [[Foundation (Space Station)|Foundation]] and new costumes were given to the members of the Future Foundation, as part of the reformation of the Fantastic Four.{{r|FF #16}}
+
+===Original Sin===
+After learning from the eye of the murdered [[Uatu]] that Johnny unintentionally sabotaged an experiment that could have allowed him to become human again,{{r|Fantastic Four Vol 5 5}} Ben was found having apparently murdered the Puppet Master; the crime was committed in a sealed room that even Reed could barely penetrate with Alicia as the only witness.{{r|Fantastic Four Vol 5 7}} Although Ben claimed innocence, his depression over recent events and the lack of alternative evidence led to him being incarcerated in the Raft.{{r|Fantastic Four Vol 5 8}} Although power-dampeners in the Raft restricted his strength to a more manageable level, he was attacked by various other thick-skinned superhumans- including the [[Antonio Rodriguez (Earth-616)|Armadillo]] and [[Michael Steel (Earth-616)|Ironclad]] - on orders of the current 'boss' of the prison - [[Sharon Ventura (Earth-616)|Sharon Ventura, the She-Thing]].{{r|Fantastic Four Vol 5 9}} However, after confirming that he had been framed, Ben broke out of prison with the aid of [[William Baker (Earth-616)|Sandman]], [[Jennifer Walters (Earth-616)|She-Hulk]] and [[Scott Lang (Earth-616)|Ant-Man]].{{r|Fantastic Four Vol 5 13}}
+
+It was later revealed the Puppet Master found dead was the corpse of the Puppet Master's counterpart from the [[Counter-Earth (Heroes Reborn)|Counter-Earth]], and the real Masters was found alive, having being kidnapped by the person who had framed Ben, the [[Quiet Man (Earth-616)|Quiet Man]]. In the end, Ben was proved innocent.{{r|Fantastic Four Vol 1 645}}
+
+[[File:Benjamin Grimm (Earth-616) from Guardians of the Galaxy Vol 4 7 001.jpg|thumb|right|Guardians' uniform]]
+===Guardians of the Galaxy===
+When the universe, and the entirety of the [[Multiverse]], came to an end as a consequence of a phenomena known as [[Glossary:Incursion|incursions]], Reed Richards was one of the few survivors.{{r|Secret Wars Vol 1 1}} Following a subsequent adventure in [[Battleworld (Latverion)|Battleworld]], Reed took omnipotent power from Battleworld's creator Doctor Doom and began to restore the Multiverse together with Sue and most of the Future Foundation.{{r|Secret Wars Vol 1 9}} Since he knew Doom would eternally resent him, Reed altered his memories to make him think he was dead, hoping Victor would become a better man if he didn't pursue ultimate power and also believed his greatest rival to be gone. Reed decided to also alter the memories of the Human Torch and The Thing, leaving them behind on Earth-616 with Victor so they could keep him in check.{{r|Marvel 2-In-One Annual Vol 1 1}} Since Ben and Johnny believed the rest of their family to be dead, the Fantastic Four were disbanded.{{r|Marvel 2-In-One Vol 1 1}} In the aftermath of the Fantastic Four's end, The Thing joined the [[Guardians of the Galaxy (Earth-616)|Guardians of the Galaxy]].{{r|Guardians of the Galaxy Vol 4 1}}
+
+His membership, however, didn't last long. The Guardians were called in by [[Carol Danvers (Earth-616)|Captain Marvel]] to help her forces fight [[Anthony Stark (Earth-616)|Iron Man]]'s during the [[Civil War II|second superhuman civil war]].{{r|Guardians of the Galaxy Vol 4 11}} In the middle of the ensuing fight between both factions, the Guardian's [[Cool Interstellar Travel Travelship|ship]] was accidentally destroyed.{{r|Guardians of the Galaxy Vol 4 12}} Now stranded on Earth for the time being, the Guardians parted ways due to internal conflict in the team. The Thing was approached by [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] director [[Maria Hill (Earth-616)|Maria Hill]] to ask him to investigate for her the new antics of Victor von Doom, who had now turned over a new leaf and began to commit heroic acts.{{r|Guardians of the Galaxy Vol 4 15}}
+
+===The Fate of the Four===
+In order to help Johnny cope with the loss of their family, Ben convinced him to go on a multiversal journey using the [[Multisect]], claiming that the device could help them find their family.{{r|Marvel 2-In-One Vol 1 1}} During their journey, Johnny found out that Ben didn't actually believe the rest of their family was alive.{{r|Marvel 2-In-One Vol 1 8}} The duo eventually returned to their native universe empty-handed.{{r|Fantastic Four Vol 6 1}}
+
+Shortly after Ben had decided to move on from the loss of his family by proposing to Alicia Masters, he and Johnny were reunited with Reed, Sue and the rest of the Future Foundation after Reed summoned them to help them fight a mysterious powerful being called the [[Griever at the End of All Things (Multiverse)|Griever at the End of All Things]] who repudiated the Future Foundation's mission of creating new universes, and confronted the team as soon as Franklin was depleted of his ability to create entirely new realities.{{r|Fantastic Four Vol 6 2}} Together with other alumni of the Fantastic Four, the core team managed to drive away the Griever.{{r|Fantastic Four Vol 6 1}} When the heroes returned to Earth, Ben and Alicia decided to move their wedding forward,{{r|Fantastic Four Vol 6 4}} and married days later with a small cemerony.{{r|Fantastic Four Vol 6 5}}
+
+Ben and Alicia attempted to hold their honeymoon during the one yearly week that Ben reverted to his human form and start a family, but the Puppet Master interrupted it and attacked The Thing with a mind-controlled Hulk.{{r|Fantastic Four Vol 6 12}} After an arduous battle, Ben managed gather enough strength to defeat the Hulk a few seconds before reverting to normal, breaking his arm in the process. Ben also lost consciousness for the following week, missing his window to spend time with Alicia in his human form.{{r|Fantastic Four Vol 6 13}}
+
+Not long afterward, Reed sought to resume the Fantastic Four's original flight whose failure granted them their powers.{{r|Fantastic Four Vol 6 14}} When the Fantastic Four reached their original destination, the planet Spyre, they faced a group of superpowered protectors named the [[Unparalleled (Earth-616)|Unparalleled]], who had been imbued with cosmic radiation to face the Fantastic Four. Spyricans had been aware of the team's initial failed attempt to reach their planet and had prepared for a second try.{{r|Fantastic Four Vol 6 15}} The Fantastic Four initially became at odds with the patriarch of Spyre, the [[Revos (Earth-616)|Overseer]], after discovering that he had been responsible for the cosmic ray storm that gave them powers during their first flight due to an attempt to scuttle their mission.{{r|Fantastic Four Vol 6 17}} When he was faced with this revelation, The Thing tried to kill the Overseer, but was stopped by Sue. After making peace with the Spyricans, the Fantastic Four returned to Earth. Ben made amends with Reed since he no longer blamed him for becoming The Thing.{{r|Fantastic Four Vol 6 19}}
+
+| Personality             = The Thing is often depicted with a gruff, tough exterior and can appear grim, but is actually very kind-hearted and often well liked among other heroes. Stubborn and sometimes hot tempered, although that often turns out to make him very determined, enthusiastic and brave, rarely, if ever, gives up a fight. 
+
+Despite his tough and gruff attitude and personality, he has at times, although seldom, shown to lightly tear up during extremely touching moments, proving he does have a sensitive side beneath his hard disposition. He is also often sarcastic, quick to throw a wise crack.
+
+| Powers                  = The Thing received his powers when cosmic rays bombarded his body. He is extremely strong and durable. [[Nicholas Fury (Earth-616)|Nick Fury]]'s intel classified him as power level 8.{{r|Secret War: From the Files of Nick Fury #1}}
+
+*'''Rock-Like Skin:''' The Thing possesses a smooth, orange, rock-like hide as a result of exposure to cosmic rays. The mutagenic process caused his musculature, bone structure, internal organ composition, soft tissue structure, and skin to greatly increase in toughness and density. After being subjected to a serum, he now reverts to human form once a year, which is now the only time he ages.{{r|Fantastic Four #605}}
+*'''Superhuman Strength:''' The Thing's primary superhuman power is his great physical strength. Initially, he was only strong enough to rate as a class 5. Over the years, through rigorous training and further mutation, his strength dramatically increased to the point where he rated as a class 85 (the rating system is only for comparing characters with each other, and should not remotely be taken literally). His latest rating put him as class 100.{{r|Avengers: The Initiative #2}} His feats include successfully holding back a giant alien spacecraft from jettisoning from Earth,{{r|4 #7}} lifting an oil rig and stopping a multiple story building (weighing roughly 30,000 tons) from falling over and lifting it back into place.{{r|Fantastic Four #95}} Another feats include holding bridges main cables together for an extended period of time (which support about 10,000 tons).{{r|Strange Tales #131}}{{r|Fantastic Four #234}} The Thing was also able to overpower a pile driver mechanism stated to be powerful enough to push through a planet.{{r|Fantastic Four #92}} Underwater, the Thing proved a match for Namor in several instances, even gaining the upper hand.{{r|Fantastic Four #9}}{{r|Marvel Two-In-One #28}}{{r|Uncanny X-Men Vol 2 12}} Impressively, even being less powerful, the Thing proved strong enough to send an attacking Savage Hulk flying with a powerful hit,{{r|Fantastic Four #112}} to draw blood from the Green Scar, who had a much higher base strength level than the Savage Hulk's,{{r|World War Hulk #2}} and to knock out the Immortal Hulk, who was also one of the most powerful incarnations of the Green Goliath (who punished the Puppet Master, and therefore was not fully consenting with the Puppet Master's control).{{r|Fantastic Four Vol 6 13}} Indeed, the Thing has consistently been portrayed as a rival to the Hulk, even though usually being less powerful.{{r|Fantastic Four #112}}{{r|World War Hulk #2}}{{r|Fantastic Four #25}}{{r|Marvel Feature #11}}{{r|Fantastic Four #320}}
+*'''Superhuman Stamina:''' The Thing's advanced musculature produces considerably less fatigue toxins during physical activity than the musculature of a normal human. At his peak, he can exert himself for about 24 hours before the build up of fatigue toxins in his blood begins to affect him.{{r|Official Handbook of the Marvel Universe #11}} Incidentally, The Thing's lungs are of greater volume and efficiency than a normal man's, enabling him to hold his breath underwater for up to 9 minutes, despite the fact that he used to smoke.{{r|Official Handbook of the Marvel Universe #11}}
+*'''Superhuman Durability:''' The rock-like composition of the Thing's body renders him highly resistant to physical injury. The Thing's body can resist extremely powerful impact forces, such as the force of the Hulk's punches (the Hulk is far above class 100, which makes his punches devastatingly strong).{{r|Fantastic Four #25}} He can also withstand exposure to high levels of explosives, such as being struck with bazooka shells or being shot point-blank with a high-caliber firearm without sustaining injury. His body can also withstand extreme temperatures. However he couldn't withstand being slashed by [[James Howlett (Earth-616)|Wolverine]]'s [[Adamantium]] claws, and sustained facial injury, making adamantium one of the few things that can pierce the Thing's nearly impenetrable body.
+*'''Superhuman Sensory Adaptation:''' Though his senses aren't superhumanly acute, his five senses can withstand greater amounts of sensory stimuli than he could when he was a normal human being, with no reduced sensitivity. This was demonstrated during the Fantastic Four's first fight with the Hulk. While the sonic boom caused by Hulk's thunderclap knocked out the rest of the group, Ben was barely phased, only sent slightly back due to the accompanying shockwaves.{{r|Fantastic Four #12}}
+*'''Immortality:''' The Thing cannot age. The only way for him to age is by being in his human form. If he's not turned back to human or decides not to turn back to human one day a year as he's able to, The Thing would theoretically never die.{{r|Fantastic Four #605}}
+
+{{Navigation
+| title = Former Powers
+| body = '''[[Power Cosmic]]:''' When Galactus' [[Antithesis (Earth-616)|Antithesis]] from the Negative Zone depowered the devourer of worlds and began spreading his influence over the universe, Galactus imbued the Fantastic Four with the power cosmic in order to defeat his antithesis.{{r|Fantastic Four: Antithesis Vol 1 3}}
+
+*'''Energy Absorption:''' While imbued with the Power Cosmic, Thing was able to absorb Antithesis' energy from the possessed victims of the cosmic being.
+* ''Telekinesis:''' While imbued with the Power Cosmic, when Thing threw a punch the hit would echo through his enemies.
+}}
+| Abilities               = *'''Expert Pilot:''' Ben is an exceptionally skilled and experienced pilot, proficient with many varieties of both conventional and exotic aircraft.
+*'''Experienced Astronaut:''' Ben has also trained as an astronaut and was piloting Reed Richard's spacecraft during the team's fateful bombardment with cosmic rays.
+*'''Master Combatant:''' He is uniquely gifted in the art of hand-to-hand combat (a skill Ben honed long before he became the Thing), though his fighting style tends to be a rather loose brawling technique all his own. This style often incorporates collegiate wrestling techniques, Boxing (as he has been stated to have spent hours upon hours honing his boxing skills in the gym during college), and on at least one occasion even Jujutsu. In his youth, Ben was a talented football player.
+*'''Peak Human Speed and Agility:''' Despite his abnormal size and weight, Ben is able to move as fast and as freely as he did when he was human.{{r|4 Vol 1 22}}
+*'''Indomitable Will:''' One of Ben's remarkable qualities is his extreme willpower. Whatever obstacles may come, he would try until he overcomes them or dies. In fact, during his fight with the [[Champion]] of the universe, despite suffering severe injuries, he kept coming back, making the Champion remark that while he could break every bone in Ben's body, he could never defeat him, as he could never break Ben's spirit, and forfeited the fight so that he wouldn't be forced to hurt Ben anymore. This implacable determination was also demonstrated in the battle against the Immortal Hulk. During this battle, Ben had to overcome a superior foe, who was been controlled by the Puppet Master, in order to save himself and Alicia. 
+*'''Musical Skill:''' The Thing can play the saxophone.{{r|Dazzler Vol 1 18}}
+| Strength                =  Class 100.{{r|Avengers: The Initiative #2}}
+| Weaknesses              = '''Handicap:''' Ben is limited in his capacity to use normal, everyday appliances due to his sheer size, weight and strength or interact with normal objects. His powers are also implied to have robbed him of his sense of touch.
+*'''Fantastic Four Power Synergism:''' The original members of the Fantastic Four are tethered to each other, and act as their own conduits of power. They can be apart within their own universe and retain a connection, but prolonged periods cut off from each other in other universes result in a gradual decline in power levels. If they spend too much time separated this way, they would eventually become powerless.{{r|Marvel 2-In-One Vol 1 3}}
+
+| Equipment               = 
+<big>'''Fantastic Four uniform'''</big>
+{{Main|Fantastic Four Uniforms}}
+The Thing's costume, and the rest of his wardrobe, is constructed of [[Unstable Molecules|unstable molecules]]. The Thing's costume has a complete data processing and telemetry system woven into its fabric on a molecular level, making it like a wearable computer. The costume forms a network with the rest of the Fantastic Four, providing a constant, real time uplink of everyone’s physical condition as well as their location and current situation. The costume is capable of displaying data and has touch-pad controls on the gauntlets. Its sensors can track all of the team's uniforms and provide a picture of their immediate vicinity. The costume has an intricate scanner system which can detect things around the wearer, from how many people are in the next room to what dimension or planet they are on.
+
+<big>'''Fantasti-Flare'''</big>
+{{Main|Fantasti-Flare}}
+The Thing normally carries a miniature flare pistol capable of creating a fiery “4" signal in the sky. Used as a weapon, the incendiary charge will ignite flammable materials.
+
+<big>'''Universal translator'''</big>
+{{Main|Universal Translator}}
+Ben has a universal translator that can decipher and interpret languages, both alien and terrestrial, into the native language of the user.{{r|Fantastic Four Vol 1 237}}
+
+{{Navigation
+| title = Former Equipment
+| body  = [[Avengers Identicard]]
+}}
+| Transportation          = {{Seealso|Vehicles of the Fantastic Four}}
+* [[Fantasti-Car MK II]], [[Pogo Plane MK I]].
+{{Navigation
+| title = Former Transportation
+| body  = [[Avengers Quinjet]].
+}}
+| Weapons                 = 
+{{Navigation
+| title = Former Weapons
+| body  = [[Hammer of Angrir]].
+}}
+
+| Notes                   = * During early publications during the 1960s and 1970s, Ben Grimm has made references to fighting during [[World War II]]. As per Marvel's [[Glossary:Sliding Timescale|Sliding Timescale]] on [[Earth-616]], these references should be considered topical for the era in which they were published. This is supported by the most current [[Official Handbook of the Marvel Universe|Official Handbooks]] which provides his history in more vague terms.
+* The Thing is officially listed as 6 feet tall and 500 pounds, however, he is often depicted as being much taller (and presumably heavier). Usually he is drawn taller than the 6'1" Mr. Fantastic and is often the same height as the 6'7" She-Hulk.
+| Trivia                  = * Benjamin Grimm is Jewish as is his creator [[Jack Kirby|Jack Kirby]].{{r|Fantastic Four Vol 3 56}}{{r|Thing Vol 2 8}} Jack Kirby also featured the Thing in his [[Wikipedia:Hanukkah|Hanukkah]] card.{{r|{{cite web|url=https://twitter.com/saladinahmed/status/940625085051875329|title=Saladin Ahmed on Twitter: "Jack Kirby's family Hanukkah card (1978)."|work=Twitter|first=Saladin|last=Ahmed|date=12 December 2017|accessdate=10 May 2020}}}} Coincidentally, or not, the Thing resembles the [[wikipedia:Golem|Golem]] from Jewish Forklore, who acted as a protector to the Jews.
+* The Thing was able to defeat [[James Howlett (Earth-616)|Wolverine]] with one punch before the latter's healing factor advanced over time to its current level.{{r|Fantastic Four vs. the X-Men Vol 1 4}}
+* The Thing's favorite food is pizza, especially New York Pizza.{{citation}}
+* He dislikes mayonnaise, at least in his sandwiches.{{r|Fantastic Four #585}}
+*The powers of all of the Fantastic Four are based on one of the four classical elements, with Ben's element being earth.
+* Ben's address growing up was 7135 Yancy Street.{{r|Ms. Marvel Vol 2 22}}
+* His favourite meal when he was young was corned beef & cabbage.{{r|Ms. Marvel Vol 2 22}}
+* In an interview with Stan Lee it was discussed if the Thing's "dork" was also rocky orange like the rest of his body.{{r|{{cite web|url=https://www.google.com/amp/s/www.vanityfair.com/hollywood/2011/03/spidey-bites/amp|title=Spidey Bites: Stan Lee’s Secret for Saving Spider-Man the Musical? More Stan Lee!|work=Vanity Fair|first=Eric|last=Spitznagel|date=10 March 2011|accessdate=10 May 2020}}}}
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * [http://www.adherents.com/lit/comics/Thing.html Religious Affiliation of Comic Book Characters : The Thing]
+* [http://www.beliefnet.com/story/113/story_11303_1.html BeliefNet article on Ben Grimm and Jewish comic book writers]
+* [http://www.TwoInOne76.com Website dedicated to the comic book series 'Marvel Two-in-One', starring the Thing]
+* http://www.marveldirectory.com/individuals/t/thing.htm
+* [http://www.toybiz.com Toybiz]
+}}
+[[es:Benjamin Grimm (Tierra-616)]]
+[[Category:Asgardian Magic]]
+[[Category:Object-Based Powers]]
+[[Category:Jewish Characters]]
+[[Category:Rock Body]]
+[[Category:Superhuman Stamina]]
+[[Category:Superhuman Strength]]
+[[Category:Grimm Family]]
+[[Category:Masters Family]]
+[[Category:Tobacco Smokers]]
+[[Category:Power Level 8]]
+[[Category:Millionaires]]
+[[Category:Secret Wars (1984 Event) participants]]
+[[Category:Time Travelers]]
+[[Category:State University Student]]
+[[Category:Secret Wars (1984 Event) casualties]]
+[[Category:Astronauts]]
+[[Category:Wind Breath]]
+[[Category:Symbiotes-possessed]]
+[[Category:Floating Super-Hero Poker Game participants]]
+[[Category:Interdimensional Travelers]]
+[[Category:Souls Sold to Mephisto]]
+[[Category:Virtual Immortals]]
+[[Category:Power Cosmic]]
+[[Category:Energy Absorption]]
+[[Category:Telekinesis]]

@@ -1,0 +1,55 @@
+{{Marvel Database:Character Template
+| Image                   = Redwing (Earth-616) from Avengers Vol 1 675 001.jpg
+| Name                    = Redwing
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = Partner of [[Samuel Wilson (Earth-616)|Falcon (Sam Wilson)]]
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 0'10"; 0'22" (wingspan)
+| Weight                  = 3.9 oz
+| Eyes                    = Yellow
+| Hair                    = Red
+| UnusualFeatures         = 
+
+| Origin                  = [[Falcons|Falcon]] [[Vampires|Vampire]]{{r|All-New Captain America #5}}
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Rio de Janeiro]]
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = Adventurer
+| Education               = Trained Falcon
+| BaseOfOperations        = [[New York City]], [[New York (State)|New York State]]
+
+| Creators                = Stan Lee; Gene Colan
+| First                   = Captain America #117
+
+| History                 = '''Redwing''' is a falcon that was bought by [[Samuel Wilson (Earth-616)|Sam Wilson]] in Rio. The two share a telepathic link, a result of the [[Johann Shmidt (Earth-616)|Red Skull]]'s manipulation of the [[Cosmic Cube]].{{r|Captain America #186}}
+
+As Sam Wilson became the new Captain America, Redwing remained on his side. In the first task of Wilson as Cap, Redwing helped his friend fighting some [[Hydra (Earth-616)|Hydra]] agent in the Ecuador basement.{{r|All-New Captain America #1}}
+
+When it was discovered that [[Karlin Malus (Earth-616)|Karl Malus]] used Redwing's DNA in his experiment on [[Joaquín Torres (Earth-616)|Joaquin Torres]], [[Claire Temple (Earth-616)|Claire Temple]] stated to Captain America that Redwing had some vampiric traits which explained why Joaquin Torres' mutations haven't reverted.{{r|Captain America: Sam Wilson Vol 1 4}}
+
+| Powers                  = '''[[Telepathy|Telepathic link]]:''' Thanks to the [[Cosmic Cube]], Redwing shares a telepathic link with the [[Samuel Wilson (Earth-616)|Sam Wilson]] alias the Falcon. This link allows Redwing to understand orders given to him in English, whether verbally or telepathically by the Falcon. Due to the link, the Falcon can telepathically see through the eyes of Redwing and other birds in his vicinity, allowing him to psychically "see" what Redwing sees.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Telepaths]]
+[[Category:Cosmic Cube Enhanced]]
+[[Category:Winged Characters]]
+[[Category:Pets]]
+[[Category:Flight]]

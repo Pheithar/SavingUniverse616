@@ -1,0 +1,57 @@
+{{Marvel Database:Character Template
+| Image                   = Georges Baptiste (Earth-616) from X-Men Vol 1 139 0001.jpg
+| Name                    = Georges Baptiste
+| CurrentAlias            = [[Wendigo]]
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = Single 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = [[:Category:White Hair|White]][[Category:White Hair]][[Category:Infobox Eyes Update Needed]]
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] transformed into a [[Wendigo (Race)|Wendigo]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = Canadian
+| Occupation              = Cannibalistic hunter, assassin 
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Steve Englehart; Herb Trimpe
+| First                   = Incredible Hulk Vol 1 162
+
+| History                 = 
+Georges Baptiste became the [[Wendigo (Race)|Wendigo]] when trying to free his friend [[Paul Cartier (Earth-616)|Paul Cartier]] from the Wendigo curse.{{r|Incredible Hulk #162}} Baptiste eluded capture due to the ongoing conflict between the [[Bruce Banner (Earth-616)|Hulk]] and [[James Howlett (Earth-616)|Wolverine]].{{r|Incredible Hulk #180|181}}
+
+Baptiste's Wendigo went undetected for months, turning up when he began attacking campers near Hudson Bay. [[James Hudson (Earth-616)|Vindicator]], [[Michael Twoyoungmen (Earth-616)|Shaman]] and [[Narya (Earth-616)|Snowbird]] were dispatched to find and capture the Wendigo. [[James Howlett (Earth-616)|Wolverine]], along with his fellow [[X-Men (Earth-616)|X-Man]] [[Kurt Wagner (Earth-616)|Nightcrawler]], joined the hunt.{{r|X-Men #139}} Working together, they were able to capture the Wendigo, free his captives and Shaman was able to then cure him of his curse. Georges Baptiste was then placed under arrest for the crimes he committed as the Wendigo as he had knowingly taken the form.{{r|X-Men #140}}
+
+| Powers                  = The Wendigo is immune to all natural diseases and aging and may even have a healing factor thanks to its magical nature. It also has enhanced senses, strength, and reflexes. Seemingly the same abilities as Cartier possessed.
+
+| Abilities               = 
+| Strength                = Superhuman: 50 - 75 ton range{{r|Official Handbook of the Marvel Universe Master Edition #14}}
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Regeneration]]
+[[Category:Superhuman Strength]]
+[[Category:Superhuman Reflexes]]
+[[Category:Superhuman Senses]]
+[[Category:Strength Class 100]]
+[[Category:Magic-Based Mutates]]
+[[Category:Wendigos]]

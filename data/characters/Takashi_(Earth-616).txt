@@ -1,0 +1,52 @@
+{{Marvel Database:Character Template
+| Image                   = Takashi (Earth-616) from Daredevil Vol 1 505 001.jpg
+| Name                    = 
+| CurrentAlias            = Takashi
+| Aliases                 = 
+
+| Affiliation             = {{M|Hand (Earth-616)|The Hand}}, {{M|Snakeroot (Earth-616)|Snakeroot Clan}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Grey
+| Hair2                   = Bald on top
+| UnusualFeatures         = Long grey beard
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = [[Jigoku-Chu Castle]], [[Japan]]
+
+| Identity                = 
+| Citizenship             = 
+| Occupation              = Hand Daimyo<ref>"Leader"</ref> of Japan, crimelord
+| Education               = 
+| BaseOfOperations        = [[Japan]]
+
+| Creators                = Andy Diggle; Antony Johnston; Marco Checchetto
+| First                   = Daredevil #505
+| Death                   = Shadowland: Ghost Rider Vol 1 1
+
+| History                 = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Leaders]]

@@ -1,0 +1,50 @@
+{{Marvel Database:Character Template
+| Image                   = Resurrection Stone Woman (Earth-616) from Defenders Vol 1 105 0001.jpg
+| Name                    = 
+| CurrentAlias            = [[Resurrection Stone Woman]]
+| Aliases                 = Giver of Life, Raiser of the Dead
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = Crystaline form
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Mistress of the Resurrection Stone realm
+| Education               = 
+| BaseOfOperations        = [[Resurrection Stone]]
+
+| Creators                = J.M. DeMatteis; Don Perlin
+| First                   = Defenders Vol 1 105
+
+| History                 = 
+
+| Personality             = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

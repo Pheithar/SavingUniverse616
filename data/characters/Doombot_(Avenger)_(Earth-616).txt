@@ -1,0 +1,74 @@
+{{Marvel Database:Character Template
+| Title                   = [[Doombot (Avenger)|Doombot]]
+| Image                   = Doombot (Avenger) (Earth-616) from Runaways Vol 5 8 001.jpg
+| Name                    = Doombot
+| Name2                   = (designation unrevealed){{r|Avengers NOW! Vol 1 1}}
+| CurrentAlias            = 
+| Aliases                 = [[Doctor Doom]],{{r|Avengers NOW! Vol 1 1}} [[Doom]],{{r|Avengers A.I. Vol 1 1}} Doomguy,{{r|Runaways Vol 5 11}} "His Righteous Majesty von Doom! First of his Name! Rightful Lord of Earth!" (incomplete full title),{{r|Avengers A.I. Vol 1 4}}{{r|Avengers NOW! Vol 1 1}} [[Tin Man]],{{r|Avengers A.I. Vol 1 8.NOW}} [[Victor von Doom]]{{r|Runaways Vol 5 8|9}}
+
+| Affiliation             = Formerly {{m|Avengers Artificial Intelligence Squad (Earth-616)|Avengers A.I.}}
+| Relatives               = [[Victor von Doom (Earth-616)|Doctor Doom]] (template and creator);<br>
+[[:Category:Doombots|Doombots]] ("siblings");<br>
+[[Henry Pym (Earth-616)|Hank Pym]] (later reprogrammer)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Avengers NOW! Vol 1 1}}
+| Gender                  = Male
+| Height                  = 6'7"
+| Weight                  = 415 lbs.
+| Eyes                    = Brown
+| Eyes2                   = (glows [[:Category:Red Eyes|red]][[Category:Red Eyes]])
+| Hair                    = No Hair
+| UnusualFeatures         = Has a micro black hole in his chest installed by Hank Pym as a failsafe device{{r|Avengers A.I. Vol 1 1}}
+
+| Origin                  = [[Doombot]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Castle Doom (Doomstadt)|Castle von Doom]], [[Doomstadt]], [[Latveria]]
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = Adventurer
+| Education               = Programmed by [[Victor von Doom (Earth-616)|Doctor Doom]]{{r|Avengers NOW! Vol 1 1}}
+| BaseOfOperations        = [[Hostel (Bronson Canyon)|The Hostel]], [[Bronson Canyon]], [[Los Angeles]]; [[California (State)|California]];{{r|Runaways Vol 5 32}} formerly mobile; Hank Pym's Research Lab, [[Crofton University]], [[Washington, D.C.]]
+
+| Creators                = Mark Waid; André Lima Araújo
+| First                   = Age of Ultron Vol 1 10A.I.
+
+| Quotation               = Bah! The '''indignity!''' Doom taking orders from [[Vision (Earth-616)|an '''Avenger''']]'''!''' Forced to work side by side with '''simpering peons!'''
+| Speaker                 = [[Doombot (Avenger) (Earth-616)|Doombot]]
+| QuoteSource             = Avengers A.I. Vol 1 1
+
+| History                 = '''[[Doombot]]''' had been imprisoned by [[Henry Pym (Earth-616)|Dr. Hank Pym]]. However, after the defeat of [[Ultron (Earth-616)|Ultron]], Pym changed his policy about keeping artificially intelligent prisoners and began reprogramming the Doombot.{{r|Age of Ultron Vol 1 10A.I.}}{{r|Avengers A.I. Vol 1 1}} As a failsafe precaution to maintain Doombot's loyalty, Pym implanted a micro black hole in Doombot's chest.{{r|Avengers A.I. Vol 1 1|2}}
+
+[[File:Henry Pym (Earth-616) and Doombot (Avenger) (Earth-616) from Age of Ultron Vol 1 10A.I. 001.jpg|thumb|left|[[Henry Pym (Earth-616)|Hank Pym]] working on Doombot]]
+
+When a new A.I. threat calling itself [[Dimitrios (Earth-616)|Dimitrios]] surfaced, Dr. Pym decided to create a special [[Avengers Artificial Intelligence Squad (Earth-616)|A.I. division of the Avengers]]. In addition to [[Vision (Earth-616)|Vision]] and [[Victor Mancha (Earth-616)|Victor Mancha]], Pym added Doombot to the roster.{{r|Avengers A.I. Vol 1 1}}
+
+As part of the Avengers A.I. Squad, Doombot helped rescue [[Alexis (Earth-616)|Alexis]] in [[Atlanta]],{{r|Avengers A.I. Vol 1 1}} defeat a [[Kilgore Sentinel (Earth-616)|Sentinel]] attacking the [[Washington Monument]],{{r|Avengers A.I. Vol 1 2|3}} and infiltrate [[Diamond (City)|The Diamond]].{{r|Avengers A.I. Vol 1 5}}{{r|Avengers A.I. Vol 1 8.NOW|12}} During his time with the Avengers A.I., Doombot became close friends with Victor Mancha.{{r|Avengers A.I. Vol 1 2|5}}{{r|Runaways Vol 5 9}}
+
+Following the death of Pym and the disbanding of the Avengers A.I. team, the [[Avengers (Earth-616)|Avengers]] seemingly lost track of Doombot.{{r|Runaways Vol 5 11}} When Doombot learned of the "death"{{r|Vision Vol 2 11}} and reactivation of Victor Mancha,{{r|Runaways Vol 5 3}} he traveled to the [[Hostel (Bronson Canyon)|Hostel]] where Victor lived with the [[Runaways (Earth-616)|Runaways]] to offer to create him a new body.{{r|Runaways Vol 5 9}} Despite the quality of a body Doombot provided Victor, the teenager had become traumatized by the events that had led to his deactivation so he turned it down.{{r|Runaways Vol 5 11}}
+
+[[File:Runaways (Earth-616) and Doombot (Avenger) (Earth-616) from Runaways Vol 5 11 001.jpg|thumb|left|Helping Chase Stein rebuild Victor Mancha]]
+
+When the Runaways celebrated Christmas, they invited Doombot.{{r|Runaways Vol 5 16}} During this time, the Runaways had become besieged by the children of the [[Gibborim]], and one of the Gibborim left by his nestmates to guard the Runaways, [[Gib (Earth-616)|Gib]], attacked and thrashed Doombot.{{r|Runaways Vol 5 17}} After turning against his nestmates and following their defeat, Gib warned the Runaways that he had destroyed Doombot.{{r|Runaways Vol 5 18}} [[Chase Stein (Earth-616)|Chase Stein]] worked on fixing Doombot and removed the micro black hole, which prompted the robot to become violent when he was reactivated. Victor, who had regrown his body, wired himself to Doombot.{{r|Runaways Vol 5 22}} Finding himself inside Doombot's mind, Victor managed to convince him not to resume his old programming just because his kill switch had been removed, but to embrace his uniqueness and his benevolence.{{r|Runaways Vol 5 23}}
+
+Although he turned down Victor's offer to move to the Hostel,{{r|Runaways Vol 5 25}} Doombot eventually changed his mind after the Runaways had a run-in with [[Los Angeles]] hero [[Doc Justice (Earth-616)|Doc Justice]] and became their sidekicks only to discover that he routinely had his protégés killed for publicity. Once the Runaways returned to the Hostel, Doombot invited himself in to keep an eye on Victor and his teammates for their safety.{{r|Runaways Vol 5 32}}
+
+| Powers                  = Seemingly [[Doombot#Powers|those]] of other [[Doombot]]s.
+| Abilities               = Seemingly [[Doombot#Abilities|those]] of other [[Doombot]]s.
+| Strength                = 
+| Weaknesses              = '''Micro [[Glossary:Black Hole|Black Hole]] (formerly):''' As a failsafe precaution, [[Henry Pym (Earth-616)|Hank Pym]] implanted a micro black hole in Doombot's chest.{{r|Avengers A.I. Vol 1 1|2}} To maintain its size, the black hole had to be occasionally be treated with [[Pym Particles]].{{r|Avengers A.I. Vol 1 2}}{{r|Avengers A.I. Vol 1 5}} The micro black hole was later removed by [[Chase Stein (Earth-616)|Chase Stein]].{{r|Runaways Vol 5 22}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = * Doombot became close friends with [[Avengers Artificial Intelligence Squad (Earth-616)|Avengers A.I.]] member [[Victor Mancha (Earth-616)|Victor Mancha]]. The pair even started their very own ''"Victor Club"''.{{r|Runaways Vol 5 9}}
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Von Doom Family]]
+[[Category:Artificial Intelligences]]
+[[Category:Pym Family]]

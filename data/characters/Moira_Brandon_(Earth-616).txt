@@ -1,0 +1,52 @@
+{{Marvel Database:Character Template
+| Image                   = Moira_Brandon_(Earth-616)_from_Marvel_Legacy_The_1990's_Handbook_Vol_1_1.gif
+| Name                    = [[Moira Brandon]]
+| Aliases                 = 
+
+| Affiliation             = Honorary member of the {{m|Avengers West Coast}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #2}}
+| Gender                  = Female
+| Height                  = 5'0"
+| Weight                  = 98 lbs
+| Eyes                    = Brown
+| Hair                    = Grey; Brown (formerly)
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Chicago (Illinois)|Chicago]], [[Illinois (State)|Illinois]]
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Actress, Former movie star
+| Education               = 
+| BaseOfOperations        = Her estate in [[Avengers Compound|Palos Verdes Estate]],  [[Palos Verdes]], [[Los Angeles]], [[California (State)|California]]
+
+| Creators                = Roy Thomas; Don Hudson
+| First                   = Avengers West Coast Vol 2 100
+| First2                  = {{g|First Appearance}}<br>{{sld|Avengers #246}}{{g|First Mentioned}}
+| Death                   = Avengers West Coast Vol 2 100
+
+| History                 = Moira Brandon was born and raised in [[Chicago (Illinois)|Chicago]], [[Illinois (State)|Illinois]]. She traveled to [[Hollywood]], [[California (State)|California]] to become an actress. She made many films becoming a movie star. But overtime her career dried up and she retired to her [[Palos Verdes]] estate.{{r|Avengers #246}}
+
+The estate was purchased by the [[Avengers West Coast (Earth-616)|West Coast Avengers]] turning the building into the new [[Avengers Compound]]. When [[Clinton Barton (Earth-616)|Hawkeye]] and his wife [[Barbara Morse (Earth-616)|Mockingbird]] came to visit the mansion in order to check it out, they were attacked by the villain [[William Cross (Earth-616)|Crossfire]], and the two heroes were at the villain's mercy. Moira Brandon ended up saving them when she used Crossfire's crossbow against him, but collapsed afterwards. In her final moments, Hawkeye made her an honorary Avenger.{{r|Avengers: West Coast #100}}
+
+| Powers                  = 
+| Abilities               = She was a talented actress.
+| Strength                = Normal human female with minimal regular exercise.
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   =
+}}
+[[Category:Actors]]
+[[Category:Millionaires]]
+[[Category:Honorary Avengers]]

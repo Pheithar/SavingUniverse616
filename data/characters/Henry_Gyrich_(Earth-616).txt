@@ -1,0 +1,118 @@
+{{Marvel Database:Character Template
+| Image                   = Immortal Hulk Vol 1 44 Textless.jpg
+| Name                    = [[Henry Peter Gyrich]]
+| NameRef                 = {{r|Avengers Vol 1 168}}
+| Title                   = [[Henry Gyrich]]
+| CurrentAlias            = 
+| Aliases                 = Secretary Gyrich,{{r|Avengers: The Initiative #1}} Carrot Top,{{r|Avengers: The Initiative #1|; [[United States Army (Earth-616)|U.S. Army]] Codename}} Bad News Pete,{{r|Avengers #231}} Petey,{{r|Avengers: The Initiative #2|; by [[Henry McCoy (Earth-616)|Beast]]}} Pete,{{r|Uncanny X-Men #346|; by [[Peter Parker (Earth-616)|Spider-Man]]}} H.P.G.{{r|Uncanny X-Men #346|; by [[Peter Parker (Earth-616)|Peter Parker]]}}
+
+| Affiliation             = {{m|Orchis (Earth-616)|Orchis}}{{r|S.W.O.R.D. Vol 2 2}} ,{{m|Alpha Flight (Space Program) (Earth-616)|Alpha Flight}}'s Interstellar Defense and Diplomacy Initiative; formerly Alpha Flight's {{m|Alpha Flight's Board of Governors (Earth-616)|Board of Governors}}, Co-Director of {{m|Sentient World Observation and Response Department (Earth-616)|S.W.O.R.D.}}, {{m|Commission on Superhuman Activities (Earth-616)|Commission on Superhuman Activities}}, {{m|Shadow Initiative (Earth-616)|Shadow Initiative}}, {{m|50-State Initiative (Earth-616)|The Initiative}}, {{m|Thunderbolts (Earth-616)|Thunderbolts}}, {{m|Superhuman Armed Forces (Earth-616)|Superhuman Armed Forces}}, {{m|Project Wideawake (Earth-616)|Project Wideawake}}, {{m|National Security Council (Earth-616)|National Security Council}}, {{m|United States Department of State (Earth-616)|US Department of State}},{{r|Iron Man #325}} {{m|United Nations (Earth-616)|United Nations}},{{r|Avengers Vol 3 66}} former government liaison to the [[Avengers (Earth-616)|Avengers]]
+| Relatives               = [[Mr. Gyrich (Earth-616)|Unnamed father]] (deceased)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #5}}
+| Gender                  = Male
+| Height                  = 6'1"  
+| Weight                  = 205 lbs
+| Eyes                    = Green
+| Hair                    = Red
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Pittsburgh]], [[Pennsylvania (State)|Pennsylvania]]
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Commander of Alpha Flight's Interstellar Defense and Diplomacy Initiative; former criminal, government agent, government official, usually serving as liaison to a superhero team, secretary of Superhuman Armed Forces
+| Education               = University graduate
+| BaseOfOperations        = [[Alpha Flight Low-Orbit Space Station]]; formerly [[Peak VII|The Peak]]; [[Washington, D.C.]]; [[Camp Hammond]]
+
+| Creators                = Jim Shooter; George Perez
+| First                   = Avengers Vol 1 165
+
+| Quotation               = Every alien present makes us more vulnerable. They have no business here. We need to send them home. We need to send them '''all''' home.
+| Speaker                 = [[Henry Gyrich (Earth-616)|Commander Gyrich]]
+| QuoteSource             = S.W.O.R.D. Vol 1 1
+
+| History                 =
+==Early Life==
+'''Henry Peter Gyrich'''  was an ambitious and ruthless government official who served under [[James Murch (Earth-616)|James Murch]] in his early years with the [[National Security Council (Earth-616)|National Security Council]], where he became infamous among his colleagues as "Bad News Pete" for his hardline tactics and career-driven mindset.{{r|Official Handbook of the Marvel Universe A-Z #5}}
+'
+Gyrich grew in fear of contracting Alzheimer's disease-like his [[Mr. Gyrich (Earth-616)|father]] did.{{r|Avengers: The Initiative #5}} He took a year's leave to care for his father, rather than letting strangers deal with him, strangers that he couldn't even afford.{{r|Incredible Hulk #456}} Gyrich stayed with him till the end,{{r|Avengers: The Initiative #5}} taking care of him, washing him, and his last words to his son were ''"Who in the heck are you?"''.{{r|Incredible Hulk #456}}
+
+===National Security Council===
+He was appointed by the National Security Council to investigate unofficial reports of irregularities in the operations of the [[Avengers (Earth-616)|Avengers]]. The Avengers were granted by the U.S. government certain privileges such as exemptions from air traffic regulations, access to certain classified intelligence information, and a special priority status enabling them to operate with a minimum of bureaucratic red tape.{{r|Avengers Vol 1 168}}
+
+When Gyrich went to investigate the reports in person, he discovered a gaping hole in the wall of [[Avengers Mansion]] caused in a recent battle with [[Luchino Nefaria (Earth-616)|Count Nefaria]], and none of the Avengers present. Overpowering the Avengers' butler [[Edwin Jarvis (Earth-616)|Edwin Jarvis]], Gyrich bound him to a chair and deliberately set off a security alarm. When the Avengers responded, he introduced himself, lectured them about their lax security, claiming that anyone could have walked in and stolen their sophisticated technology or classified records. He explained that their priority status could only be revoked by two people, the President of the U.S. and himself.{{r|Avengers Vol 1 168}} After reporting his findings to the council in Washington, Gyrich returned to New York, finding that [[Clinton Barton (Earth-616)|Hawkeye]] had left the front door open when he entered. Although he was detained by a security device, Gyrich was still unimpressed by the Avengers' security. He told them he was revoking their priority status and all accompanying privileges, effectively denying them use of their [[Quinjet|quinjets]], monitors, and data files, as well as curtailing certain extralegal activities. Despite their protests, the Avengers could not persuade him to relent.{{r|Avengers Vol 1 172}} Weeks later, after the Avengers struggled to operate under restrictions, Gyrich returned to tell them his requirements for the reinstatement of their security clearance. Among other things, he demanded that the Avengers limit their membership to seven, and that he determine who that seven would be. Despite general dissent, [[Steven Rogers (Earth-616)|Captain America]] convinced the others that the reinstatement of priority status was of prime consideration and worth any other inconvenience. Consequently, the Avengers allowed Gyrich to determine that the African-American [[Samuel Wilson (Earth-616)|Falcon]], who had never been an Avenger before, be asked to join to satisfy equal-opportunity employment.{{r|Avengers Vol 1 181}} Gyrich also instituted a security screening and identification for all members.{{r|Avengers Vol 1 183}}
+
+Gyrich oversaw Avengers activities in person for several months,{{r|Avengers Vol 1 182|184}} and at one point forbade the Avengers to travel to Bulgaria in response to former member [[Pietro Maximoff (Earth-616)|Quicksilver]]'s summons. Captain America spoke to the President in order to overrule Gyrich's decision and enable them to go.{{r|Avengers Vol 1 186}} Gyrich's intervention in Avengers affairs culminated when he participated in a Senate investigation to determine if the Avengers were a threat to national security.{{r|Avengers Vol 1 190}} After various testimonies and defeating [[Paul Duval (Earth-616)|Grey Gargoyle]], who derailed the senate hearing, the committee concluded that the Avengers needed a certain amount of freedom to carry out their operations which were of proven value to the government.{{r|Avengers Vol 1 191}} 
+
+Gyrich would be eventually replaced by [[Raymond Sikorski (Earth-616)|Raymond Sikorski]] as their new security liaison,{{r|Avengers Vol 1 243}} who was initially incredulous at the existence of superheroes and especially the Avengers.{{r|Avengers Vol 1 235}} Sikorski would be eventually replaced by [[Duane Freeman (Earth-616)|Duane Jerome Freeman]], whose attitude was a 180-degree turn from that of Gyrich. Duane was pleasant, and he saw it as his mission to help the Avengers do their work better. He was even a bit of a fan of Earth's Mightiest Heroes, although he didn't let his admiration impact his professionalism. Gyrich was appointed to supervise the implementation of the new guidelines under which the Avengers were to operate.{{Citation}}
+
+===Project Wideawake===
+Gyrich then requested a transfer in his responsibilities and was made a special consultant to [[Project Wideawake (Earth-616)|Project Wideawake]], a covert governmental commission to deal with the problems posed by the growing number of mutants in America.{{r|New Mutants Vol 1 1|2}} Project Wideawake was spearheaded by National Security Advisor, Judge Petrie, and its members included [[Frank Lowell (Earth-616)|Frank Lowell]] of the [[Central Intelligence Agency]], [[Raven Darkholme (Earth-616)|Raven Darkholme]] (actually a mutant by the name of Mystique) of the Defense Department, and Dr. [[Valerie Cooper (Earth-616)|Valerie Cooper]], among other representatives of military and civilian security departments. The project noted that America no longer had a virtual monopoly on superhuman mutants, and decided to investigate the feasibility of employing a special team of mutants to counter the threat of foreign mutants.{{r|Uncanny X-Men Vol 1 176}} (Eventually Mystique's [[Brotherhood of Evil Mutants (Earth-616)|Brotherhood of Evil Mutants]] were drafted to fill this position and were renamed [[Freedom Force (Earth-616)|Freedom Force]].){{r|Uncanny X-Men Vol 1 199|200}}
+
+Gyrich became involved with the threat of the alien [[Dire Wraiths]], and met with the man named [[Forge (Earth-616)|Forge]], a special weapons maker contracted by [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] and the U.S. government, based out of the [[Eagle Plaza]]. During a government meeting with Cooper and Darkholme, Gyrich was given a [[Neutralizer (Forge)|prototype]] of a gun based on the device carried by the [[Galadorians|Galadorian]] Spaceknight [[ROM (Earth-616)|Rom]], which neutralized Wraiths' abilities. This gun could be adjusted to neutralize superhuman powers in human beings as well, making it perfectly suited to combat the mutant menace. Despite being brand-new and untested, Gyrich wanted to use the Neutralizer in his attempt to try and apprehend the mutant [[Rogue (Anna Marie) (Earth-616)|Rogue]] for breaking into a S.H.I.E.L.D. installation. In their confrontation on the banks of the [[Mississippi River]], Gyrich tried to neutralize Rogue, but [[Ororo Munroe (Earth-616)|Storm]] jumped in front of the shot, sacrificing her own mutant powers as a result. Gyrich has since continued to serve on the staff of Project Wideawake.{{r|Uncanny X-Men Vol 1 184|186}}
+
+===[[Wraith War]]===
+Before Gyrich could continue his work on the Wideawake project, he was sent by the President to the [[Wraith-Hunter Rangers]]'s camp to rendezvous with [[Merriwether Locklin (Earth-616)|General Locklin]] and [[Rom (Earth-616)|Rom]]. They met in response to the Dire Wraiths who were attacking Earth, using the [[Earth]]'s [[Sun (Star)|Sun]] as a weapon, in their final assault. Rom proclaimed this would be the end of the world if they didn't defeat the extraterrestrial forces. Gyrich was brought up to speed by the General, who had been fighting the cosmic threat for months. In return, Gyrich informed them of a special prototype Forge had previously made, convinced that it was capable of combating the alien menace.{{r|Rom Vol 1 61}}
+
+Undeterred by his previous encounters with the Dire Wraiths, Forge refused to give his fifth iteration of the weapon he made to the authorities. He was still angry with Gyrich for taking his prototype and using it on another human being, which fuelled his distrust of the government. Forge remained defiant even when General Locklin started threatening him. He changed his tune, however, following a series of events, making him realize how apocalyptic the situation really was: a heart-felt conversation with Rom; more people being attacked by the Dire Wraiths; and lastly, the blackening of the Sun.{{r|Rom Vol 1 62}}
+
+Forge and Rom started neutralizing the Dire Wraiths outside of the [[Eagle Plaza]], [[Dallas]]. They drove away from the creatures for now. In less than 24 hours, led by Forge, Earth’s nations started building a [[Neo-neutralizer|giant neutralizer]] capable of wiping out the Dire Wraiths in one fell swoop. Gyrich was also involved in the project that was being built in Earth’s orbit. When construction was near-completion, a group of human-disguised wraiths tried to sabotage the project and kill Forge, but Forge was saved by Gyrich and Rom dispatched the rest of the group.{{r|Rom Vol 1 63}}
+
+Even though havoc reigned on Earth, as [[Wraithworld]] continued its approach to Earth, Forge and his colleagues were putting the final touches on their enormous machine.{{r|Rom Vol 1 64}} In the final moments of the huge battle, the combined forces of the [[Defenders (Earth-616)|Defenders]], the [[Soviet Super-Soldiers (Earth-616)|Soviet Super-Soldiers]], the Avengers, the X-Men, and other superheroes, held off the Dire Wraiths long enough, just in time for Rom and Forge to activate their machine and banish the invaders from existence. But before they could activate it, Gyrich first tried to use the weapon on the superheroes as well, but his plan was thwarted.{{r|Rom Vol 1 65}} Afterwards, Gyrich lamented his own failure.{{r|Rom Vol 1 66}} 
+
+===Thunderbolts & Black Panther===
+While working for the [[Commission on Superhuman Activities (Earth-616)|Commission on Superhuman Activities]] Gyrich grew to have a vendetta against the [[Thunderbolts (Earth-616)|Thunderbolts]] and was one of the people responsible for denying them pardons for their crimes when the former [[Avengers (Earth-616)|Avenger]] [[Clinton Barton (Earth-616)|Hawkeye]] approached the Commission to make a deal on their behalf.{{r|Thunderbolts Vol 1 21}} 
+
+Gyrich was targeted by [[Wolfgang von Strucker (Earth-616)|Wolfgang von Strucker]], who used nanites to control him into acting on his long time fantasies of destroying all superhumans. Gyrich turned [[Jack Monroe (Earth-616)|Jack Monroe]] into a new [[Jack Monroe (Earth-616)|Scourge]], who he sent after the Thunderbolts leading to the temporary death of [[Helen Takahama (Earth-616)|Jolt]].{{r|Thunderbolts Vol 1 35|36}} This eventually led to a showdown between Gyrich, the Thunderbolts, and a new team the [[Redeemers (Earth-616)|Redeemers]] who were formed specifically to deal with the conspiracy within the CSA. Working together they managed to take down Gyrich. who they then discovered had been under nanite mind control, rather than being the mastermind as they first believed.{{r|Thunderbolts Vol 1 50}}
+
+After his fall from grace at the CSA, Gyrich was transferred to the [[United States Department of State (Earth-616)|U.S. State Department]] where he briefly took over [[Everett Ross (Earth-616)|Everett K. Ross]]'s role as State Department liaison to the [[T'Challa (Earth-616)|Black Panther]].{{r|Black Panther Vol 3 34|49}} He unsuccessfully attempted to negotiate with [[M'Baku (Earth-616)|Man-Ape]] to avoid a confrontation,{{r|Black Panther Vol 3 34|35}} and later attempted to seize [[King Solomon's Frogs]]{{r|Black Panther Vol 3 45}} which led to him and others time traveling and getting involved in a scheme of [[Loki Laufeyson (Earth-616)|Loki]]'s.{{r|Black Panther Vol 3 46|47}} After returning to his time he testified in Washington,{{r|Black Panther Vol 3 48}} then shortly after a period when Black Panther disappeared and was presumed dead, he got what he really wanted and was reassigned to the [[Avengers (Earth-616)|Avengers]] when Black Panther rejoined the team.{{r|Avengers Vol 3 58}}
+
+===Avengers===
+When the newest [[Scorpio (Brotherhood of the Ankh) (Earth-616)|Scorpio]] placed the world's capitol in another dimension, the Avengers were given by the [[United Nations (Earth-616)|United Nations]] the task of protecting the world, with Gyrich again acting as their official U.N. liaison.{{r|Avengers Vol 3 58}} During this time, the United States Secretary of Defense, [[Johann Shmidt (Earth-616)|Dell Rusk]], secretly the Red Skull who had infiltrated the U.S. government, tried to use Gyrich as a spy within the Avengers; Gyrich allied himself with [[Samuel Wilson (Earth-616)|Falcon]], who spied Rusk with [[Redwing (Earth-616)|Redwing]]'s help and discovered he was in charge of [[Project Bloodwash (Earth-616)|Project Bloodwash]]. Rusk shot Gyrich and Falcon, revealing his identity as the Red Skull.{{r|Avengers Vol 3 66|68}}
+
+===Initiative===
+After the [[Civil War]], Gyrich served as the government liaison in [[Camp Hammond]] responsible for training new recruits as part of the [[50-State Initiative (Earth-616)|Initiative]]. Gyrich saw the events of [[Decimation|M-Day]] as the ultimate U.S. strategic advantage. Prior to M-Day, [[Mutants]] existed and were distributed all over the world, spurring fears of a superpower arms race of nations or terrorist organizations indoctrinating mutants for their military and terror groups. After M-Day the mutant population was effectively eliminated as a threat, but the United States even in the absence of significant mutants worldwide still possessed a sizeable population of superpowered humans (powered by various other means and effectively winning the superpower arms race).
+
+Abusing his power, he created the [[Shadow Initiative (Earth-616)|Shadow Initiative]], a black ops team within the Initiative consisting of [[Duc No Tranh (Earth-616)|Bengal]], [[Frank Schlichting (Earth-616)|Constrictor]], [[Terrance Ward (Earth-616)|Trauma]], the [[Scarlet Spiders (Earth-616)|Scarlet Spiders (Red Team)]], and [[Mary Walker (Earth-616)|Mutant Zero]], mostly to be used as he saw fit.{{Citation}}
+
+Feeling that he was not seeing any progress at Camp Hammond he ordered another [[Michael van Patrick (Earth-616)|MVP]] be cloned and outfitted with the [[Tactigon]], creating the mad [[Michael van Patrick (KIA) (Earth-616)|KIA]]. This situation escalated to the point of involving the [[Mighty Avengers (Initiative) (Earth-616)|Mighty Avengers]]. Held responsible for the damage and deaths, Gyrich was fired after a heated argument with Iron Man in which Gyrich yelled "I don't have Captain America's blood on MY hands!". Following his inquiry, Gyrich announced his retirement at a press conference and walked off, in fact, expelled by Stark.{{r|Avengers: The Initiative #12}}
+
+===Alien Menaces===
+After the [[Skrulls|Skrull]] invasion, Gyrich had been appointed Co-Director of the U.N. space security agency [[Sentient World Observation and Response Department (Earth-616)|S.W.O.R.D.]]. He focused on potential alien threats already on Earth.{{r|S.W.O.R.D. Vol 1 #1}}
+
+Gyrich managed to kidnap several notable aliens including [[Noh-Varr (Earth-200080)|Captain Marvel]], [[Adam Neramani (Earth-616)|Adam-X]], [[Jazinda Kl'rt-Spawn (Earth-616)|Jazinda]], [[Karolina Dean (Earth-616)|Karolina Dean]], and [[Hepzibah (Earth-616)|Hepzibah]], all in his desire to send aliens home. He also arrested both [[Abigail Brand (Earth-616)|Abigail Brand]] and [[Lockheed (Earth-616)|Lockheed]].{{r|S.W.O.R.D. Vol 1 #2}} Gyrich survived an alien takeover of the installation simply by being too dosed on intruder-neutralization gas to be much of a threat. Brand, with the assistance of several superpowered beings, took back the job and blackmailed Gyrich into leaving S.W.O.R.D. alone.{{r|S.W.O.R.D. Vol 1 #5}}
+
+===Helping the new Scourge===
+Fired he was adducted and brainwashed by the [[Hydra Queen (Nowhere) (Earth-616)|Hydra Queen]] and [[Codename: Bravo (Richard) (Earth-616)|Codename: Bravo]]  serving as the handler to the similarly affected [[Dennis Dunphy (Earth-616)|Dennis Dunphy]] (the former D-Man), who was made to be the new [[Scourge]], in order to kill criminals and "fix the system". This brought Gyrich into conflict with [[Steven Rogers (Earth-616)|Captain America]] and his eventual arrest by [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]].{{r|Captain America Vol 6 11|14}}
+
+===Alpha Flight===
+He was later released by S.H.I.E.L.D., presumably deprogramed, means and became a [[Alpha Flight's Board of Governors (Earth-616)|director]] of [[Alpha Flight (Space Program) (Earth-616)|Alpha Flight]].{{r|Captain Marvel Vol 9 7}} The Board of Governors was disbanded after it was revealed that Canadian representative [[Eshu (Earth-616)|Philippe Beaulieu]] was actually the villain [[Eshu]] in disguise, to prevent it from being compromised again.{{r|Captain Marvel Vol 9 10}}
+
+After [[Abigail Brand (Earth-616)|Abigail Brand]] stepped down from commanding Alpha Flight due to her dissatisfaction with the program's handling, Gyrich was appointed acting commander.{{r|S.W.O.R.D. Vol 2 1}} Gyrich's new reach extended to [[Gamma Flight (Alpha Flight Space Program) (Earth-616)|Gamma Flight]], Alpha Flight's division for monitoring [[Glossary:Gamma Radiation|gamma]] mutates. Following the [[Bruce Banner (Earth-616)|Hulk]]'s capture by Gamma Flight, Gyrich visited him at his holding facility aboard the [[Alpha Flight Low-Orbit Space Station|Alpha Flight Space Station]] to taunt him. The Hulk managed to escape by switching to his Joe Fixit persona, who got around the Hulk's manacles by emerging from the monster's body like a cocoon. Joe then knocked out Gyrich and the guards that were with him and made his escape.{{r|Immortal Hulk Vol 1 40}} After learning that Gamma Flight let Hulk escape, Gyrich became irate with the team. Before he could take punitive actions against them, Gyrich was forced to stand down when [[Leonard Samson (Earth-616)|Doc Sasquatch]] threatened to bust open one of the space station's windows. Gamma Flight's leave of absence prompted Gyrich to enlist the [[U-Foes (Earth-616)|U-Foes]] to go after the Hulk.{{r|Immortal Hulk Vol 1 42}}
+
+===Hellfire Gala===
+Gyrich was an American representative to the [[Hellfire Gala]] on [[Krakoa]].{{r|S.W.O.R.D. Vol 2 6}}
+
+| Powers                  =
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = * Intolerance for lack of efficiency.
+* He used to have the fear of contracting Alzheimer's.
+
+| Equipment               = Badge
+| Transportation          = 
+| Weapons                 = A handgun
+
+| Notes                   = * Gyrich has been certified by [[Terrance Ward (Earth-616)|Trauma]] to be clean of Alzheimer's disease, contrary to his [[Mr. Gyrich (Earth-616)|father]] who died of it.{{r|Avengers: The Initiative #5}}
+| Trivia                  = * When Henry Peter Gyrich was first introduced, some fans believed he was intended to be the same character as [[Peter Doogle (Earth-616)|Peter the Little Pest]], all grown up. This was based mainly on the two characters similar hairstyles (red hair in a crew-cut) and temperaments.<ref>[http://funnybookbabylon.com/2012/09/30/5-10-15-20-comic-book-history-for-august-2012/ 5-10-15-20: Comic Book History for August 2012]</ref> As time has passed and no official link has been made, this theory seems unlikely.
+| Marvel                  = 
+| Wikipedia               = Henry Peter Gyrich
+| Links                   = 
+}}
+[[it:Henry Gyrich (Terra-616)]]
+[[Category:Camp Hammond Staff]]
+[[Category:Government Liaisons]]

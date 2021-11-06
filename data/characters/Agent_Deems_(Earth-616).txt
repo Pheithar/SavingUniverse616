@@ -1,0 +1,51 @@
+{{Marvel Database:Character Template
+| Image                   = Agent Deems (Earth-616) from Secret Invasion Who Do You Trust? Vol 1 1 0001.jpg
+| Name                    = [[Deems]]
+| Name2                   =  (full name unrevealed)
+| CurrentAlias            = [[Agent Deems]]
+| Aliases                 = 
+
+| Affiliation             = {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}; {{m|Sentient World Observation and Response Department (Earth-616)|S.W.O.R.D.}}
+
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Bald
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Secret agent
+| Education               = 
+| BaseOfOperations        = [[Peak VII|Peak]]
+
+| Creators                = Joss Whedon; John Cassaday
+| First                   = Astonishing X-Men Vol 3 16
+| Death                   = Astonishing X-Men Vol 3 24
+
+| History                 = Deems was an agent of [[Sentient World Observation and Response Department (Earth-616)|S.W.O.R.D.]]. As [[Abigail Brand (Earth-616)|Agent Brand]]'s right hand man, Agent Deems provided the human Ying to Brand's cynical Yang. With nothing but a sensible and grounded attitude, Deems fought at Brand's side through most of her battles. While she was prone to anger and tempestuousness Deems was always calm and considered.{{r|Astonishing X-Men Vol 3 16}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = Deems stated he has 'high functioning' autism. As a result, he struggles with metaphors.{{r|Secret Invasion: Who Do You Trust? Vol 1 1}}
+| Links                   = 
+}}
+[[Category:Autism spectrum]]

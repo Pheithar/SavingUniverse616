@@ -1,0 +1,66 @@
+{{Marvel Database:Character Template
+| Image                   = Space Phantom (Temporal Limbo) from Beyond! Vol 1 3 001.jpg
+| Name                    = Unknown
+| CurrentAlias            = [[Space Phantom]]
+| Aliases                 = [[Henry Pym (Earth-616)|Giant-Man]],{{r|Avengers Vol 1 2}} [[Bruce Banner (Earth-616)|Hulk]],{{r|Avengers Vol 1 2}} [[Anthony Stark (Earth-616)|Iron-Man]],{{r|Avengers Vol 1 2}} [[Jean-Paul Beaubier (Earth-616)|Northstar]],{{r|Beyond! Vol 1 4}} [[Peter Parker (Earth-616)|Spider-Man]],{{r|Beyond! Vol 1 1}} [[Supreme Hydra]],{{r|Avengers Vol 1 107}} [[Janet Van Dyne (Earth-616)|Wasp]],{{r|Avengers Vol 1 2}} [[Xemnu (Earth-616)|Xemnu the Titan]]{{r|Beyond! Vol 1 4}}
+
+| Affiliation             = {{m|Hydra (Earth-616)|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Black
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Space Phantoms|Phantom]]
+| Reality                 = Limbo (Temporal)
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = 
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = [[Limbo (Temporal)|Limbo]]
+
+| Creators                = Stan Lee; Jack Kirby
+| First                   = Avengers #2
+| Death                   = 
+
+| Quotation           = If I can destroy the [[Avengers (Earth-616)|Avengers]] single-handed, then no power on Earth can stop the total invasion of my people!
+| Speaker                 = [[Space Phantom (Temporal Limbo)|Space Phantom]]
+| QuoteSource             = Avengers Vol 1 2
+
+| History                 =
+The being who would become the "Space Phantom", as with other members of his [[Space Phantoms|race]], presumably entered [[Limbo (Temporal)|Limbo]] and remained there too long. He was transformed into a Space Phantom.{{r|All-New Official Handbook of the Marvel Universe A to Z: Update Vol 1 3}}
+
+Upon debuting, The Space Phantom claimed he was a member of an unknown alien race, coming to Earth to defeat the [[Avengers (Earth-616)|Avengers]] as a means of testing if the planet could be invaded by his people. Taking the shape of several Avengers, he tried to sow dissent among their ranks. He was defeated when his power backfired, trying to duplicate Thor, sending him to Limbo.{{r|Avengers Vol 1 2}}
+
+Through subsequent appearances, this classic "extraterrestrial invader" origin has proven something of a falsehood. At one time, The Space Phantom claimed to be a citizen of the planet Phantus{{r|Thor Vol 1 281}} as an elaborate hoax when truly he is a denizen of Limbo. In fact, the identity of "Space Phantom" isn't that of an individual being but more of a generic term given to the transformative state wherein anyone lost for duration in that timeless nonplace can physically and mentally become one.
+
+Space Phantoms have traditionally serve as the pawns of [[Nathaniel Richards (Immortus) (Earth-6311)|Immortus]], ruler of Limbo, who uses sophisticated technologies to ply them to his will (and no doubt stave off the Space Phantom-effect from affecting his own person). Throughout the years, the outlandish words and actions of various Space Phantom agents have all been orchestrated by Immortus in a continuous effort to create confusion among The Avengers, shepherding their activities for his own byzantine ends.
+
+| Powers                  = The Space Phantom had the power to take on the shape of another person. That person would then be sent to a dimension called [[Limbo (Temporal)|Limbo]] while he was in their guise. Furthermore, Space Phantoms have the ability to take other non-humanoid forms as well. An example would be the revelation that the "Synchro-Staff" devices employed by Immortus to guide the Avengers through the respective origins of both [[Mantis (Brandt) (Earth-616)|Mantis]] and the [[Vision (Earth-616)|Vision]] were in fact Space Phantoms.
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+*The true nature of the multiple Space Phantoms as agents of [[Nathaniel Richards (Immortus) (Earth-6311)|Immortus]] was revealed in {{cl|Avengers: Forever Vol 1 8}}.
+*It is unknown whether there is a connection between Immortus' temporal Limbo and [[limbo|the greater number of other dimensions called Limbo]].  
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Time Travelers]]
+[[Category:Destiny War Participants]]

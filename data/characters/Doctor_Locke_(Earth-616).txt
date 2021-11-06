@@ -1,0 +1,54 @@
+{{Marvel Database:Character Template
+| Image                   = Doctor Locke (Earth-616) from X-Factor Vol 3 15 001.jpg
+| Name                    = 
+| CurrentAlias            = Doc Locke
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra}}; formerly {{M|Singularity Investigations}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Doctor, Hydra Agent
+| Education               = 
+| BaseOfOperations        = Mobile
+
+| Creators                = Peter David; Pablo Raimondi
+| First                   = X-Factor Vol 3 15
+
+| History                 = Not much is known about the past of Doc Locke. At some point in his life, he became a medical expert and was recruited by [[Singularity Investigations (Earth-616)|Singularity Investigations]]. After one of [[James Madrox (Earth-616)|Multiple Man]]s dupes destroyed Singularity Investigations, Doc Locked joined [[Hydra (Earth-616)|Hydra]].{{r|X-Factor Vol 3 15}}
+
+Soon after, [[Ms. Diaz (Earth-616)|Ms. Diaz]] kidnapped Madrox Prime, believing he was his [[James Madrox (S.H.I.E.L.D. Agent) (Earth-616)|dupe]] who was working for [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]], Doc Locke tortured him mentally. He discovered that Multiple Man's powers are not just cellular duplications.{{r|X-Factor Vol 3 15}}
+
+Doc Locke was most likely killed in a crushing crowd after Madrox created more and more dupes after slapping his own face more than a few times.{{r|X-Factor Vol 3 15}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+* His fate is unknown. It is possible that he died crushed by the duplicates of [[James Madrox (Earth-616)|Multiple Man]]. <ref>[[X-Factor Vol 3 15]]</ref>
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Hydra (Earth-616)/Members]]

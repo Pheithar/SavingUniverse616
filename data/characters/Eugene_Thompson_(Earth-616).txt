@@ -1,0 +1,376 @@
+{{Marvel Database:Character Template
+| Image                   = Extreme Carnage Alpha Vol 1 1 616 Comics and Jolzar Collectibles Exclusive Variant Textless.jpg
+| Name                    = [[Eugene Thompson|Eugene "Flash" Thompson]]
+| CurrentAlias            = [[Anti-Venom|Agent Anti-Venom]]
+| CurrentAliasRef         = {{r|Amazing Spider-Man Vol 1 796}}
+| Codenames               = [[Agent Venom]],{{r|Venom Vol 2 1}} [[Anti-Venom]],{{r|Amazing Spider-Man: Venom Inc. Alpha Vol 1 1}} [[Venom]],{{r|Amazing Spider-Man Vol 1 654}}
+| EditorialNames          = [[Venom: Space Knight Vol 1|Venom: Space Knight]]
+| Nicknames               = Agent A-V,{{r|Amazing Spider-Man Vol 1 796}} Flash-Man,{{r|Amazing Spider-Man Vol 1 800}} Flesh Thom-Sen,{{r|King in Black Handbook Vol 1 1}} Hail Mary,{{r|Venom Vol 2 17}} The Mother Superior of Punishment{{r|Venom Vol 2 31}}
+| Impersonations          = [[Spider-Man]]{{r|Amazing Spider-Man #5}}
+| Aliases                 = Agent of the Cosmos,{{r|Venom: Space Knight Vol 1 2}} Codename: 4563,{{Citation}} Contingency C,{{r|Carnage, U.S.A. Vol 1 3}} Corporal Thompson,{{r|Amazing Spider-Man Vol 1 574}} Gene Heisman,{{r|King in Black Handbook Vol 1 1}} [[Hobgoblin]],{{r|Amazing Spider-Man #275}} [[Victor Edward]],{{r|King in Black Handbook Vol 1 1}} [[White Knight]]{{r|Venom Vol 1 159}} 
+
+| Affiliation             = Allied with [[Andrea Benton (Earth-616)|Andi Benton]] and [[Bren Waters (Earth-616)|Bren Waters]]; Formerly {{m|Guardians of the Galaxy}}, {{m|Agents of the Cosmos}}, [[803 (Earth-616)|803]], {{m|Avengers}} (honorary), temporary partner of [[Edward Brock (Earth-616)|Toxin]], [[Jack O'Lantern (Crime-Master's) (Earth-616)|Jack O' Lantern]], and [[Thaddeus Ross (Earth-616)|Red Hulk]], {{m|Thunderbolts (Red Hulk)|Thunderbolts (Red Hulk)}}, {{m|Oscorp}}, {{m|Secret Avengers (Black Ops Unit) (Earth-616)|Secret Avengers}}, {{m|Project Rebirth|Project: Rebirth 2.0}}, {{m|Sym-Soldier Program}}, [[Midtown High School]], {{m|United States Army|U.S. army}}, ally of the [[Mercury Team (Earth-616)|Mercury Team]]
+| Parents                 = [[Harrison Thompson (Earth-616)|Harrison Thompson]] (father, deceased);<br>
+[[Rose Thompson (Earth-616)|Rose Thompson]] (mother)
+| Siblings                = [[Jessica Thompson (Earth-616)|Jessie Thompson]] (sister)
+| Relatives               = 
+'''Uncles and Aunts:'''<br>
+[[Lea Thompson (Earth-616)|Lea Thompson]] (aunt);<br>
+[[Howard Deutch (Earth-616)|Howard Deutch]] (uncle);<br>
+'''Symbiotes:'''<br>
+[[Anti-Venom III (Symbiote) (Earth-616)|Agent Anti-Venom II]] (current symbiote/former body);<br>
+[[Anti-Venom II (Symbiote) (Earth-616)|Agent Anti-Venom]] (current symbiote through the Anti-Venom III symbiote);<br>
+[[Mania (Symbiote) (Earth-616)|Mania/Venom]] (former symbiote through the Venom symbiote);<br>
+[[Venom (Symbiote) (Earth-616)|Venom]] (former symbiote)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z Vol 1 12}}
+| Gender                  = Male
+| Height                  = 4'1"
+| Height2                 =, formerly 6'2", variable as Venom, 6'3" as Anti-Venom
+| Weight                  = 160 lbs
+| Weight2                 =, formerly 185 lbs, variable as Venom, 195 lbs as Anti-Venom
+| Eyes                    = Blue
+| Eyes2                   = ([[:Category:Black Eyes|Black]], [[:Category:Red Eyes|Red]], [[:Category:Green Eyes|Green]], or [[:Category:White Eyes|White]] as Venom)
+| Hair                    = Reddish Blond
+| UnusualFeatures         = Legs replaced with mechanical versions, fangs, claws and prehensile tongue while bonded to the symbiote
+
+| Origin                  = [[Homo sapiens|Human]] [[Cyborgs|Cyborg]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Forest Hills]], [[Queens]], [[New York City]], [[New York (State)|New York]]{{r|King in Black Handbook Vol 1 1}}
+
+| Identity                = Known to Authorities
+| Citizenship             = American
+| Occupation              = Former Assistant Coach (teacher), Adventurer, Black Ops Agent, Vigilante, U.S. Army Corporal, Special Advisor to the Mayor's Office of Veteran Affairs, Boxer, football player
+| Education               = High School graduate, some college courses, military training
+| CauseOfDeath            = Electrocuted by the [[Carnage (Symbiote) (Earth-616)|Red]]/[[Norman Osborn (Earth-616)|Green Goblin]]; Resurrected by a [[Symbiote Dragons|symbiote-dragon]] containing his [[Glossary:Symbiote Codex|codex]]
+| KilledBy                = [[Norman Osborn (Earth-616)|Norman Osborn]]
+| BaseOfOperations        = Formerly [[Cool Interstellar Travel Travelship|C.I.T.T.]], [[Philadelphia (Pennsylvania)|Philadelphia]], [[Pennsylvania (State)|Pennsylvania]]; [[New York City]], [[New York (State)|New York]]
+
+| Creators                = Stan Lee; Steve Ditko
+| First                   = Amazing Fantasy Vol 1 15
+| First2                  = (As Flash Thompson)<br>{{sld|Amazing Spider-Man Vol 1 654}}(As Venom)<br>{{sld|Amazing Spider-Man: Venom Inc. Alpha Vol 1 1}}(As Anti-Venom)
+
+| Quotation               = Coaching the life and death struggle in terms straight out of the glory day playbook... It's all a bunch of smoke and mirrors... A cover up for the fear. Because when it comes to being a hero... When it comes to helping people... I'm terrified by what happens when I fail.
+| Speaker                 = [[Eugene Thompson (Earth-616)|Flash Thompson]]
+| QuoteSource             = Venom Vol 2 29
+
+| Overview                = '''Flash Thompson''' is a bully-turned selfless-soldier better known as '''Agent Anti-Venom.''' Initially the high school tormentor of [[Peter Parker (Earth-616)|Peter Parker]],{{r|Amazing Spider-Man Vol 1 15}} whose secret alter-ego of the super hero [[Spider-Man]] also happened to be Flash's biggest idol,{{r|Amazing Spider-Man Vol 1 3}} Thompson grew out of his abusive behavior and befriended Peter in college.{{r|Amazing Spider-Man Vol 1 39}} Flash joined the Army and was stationed in Southeast Asia,{{r|Amazing Spider-Man Vol 1 47}} but had trouble finding a place to fit when he returned to the States.{{r|Peter Parker, The Spectacular Spider-Man Vol 1 91}} Flash spiralled into depression and combated alcoholism,{{r|Spectacular Spider-Man Vol 1 249}} an addiction that was exploited by the villainous [[Norman Osborn (Earth-616)|Norman Osborn]] to involve him in a car crash.{{r|Peter Parker: Spider-Man Vol 1 45}} This left Flash in a near-vegetative state after waking up from a coma.{{r|Spectacular Spider-Man Vol 2 2}} Flash eventually regained his full faculties, and became a gym teacher at his old school.{{r|Friendly Neighborhood Spider-Man Vol 1 4}}
+
+Thompson returned to service and earned a Medal of Honor, although for the same mission that cost him his legs.{{r|Amazing Spider-Man Vol 1 574}} Becoming bonded to the [[Venom (Symbiote) (Earth-616)|Venom symbiote]], Flash served as '''Agent Venom''' for [[Project Rebirth (Earth-616)|Project Rebirth 2.0]].{{r|Amazing Spider-Man Vol 1 654}} He struck out on his own after it was shut down{{r|Venom Vol 2 10}} and also joined the [[Secret Avengers (Black Ops Unit) (Earth-616)|Secret Avengers]].{{r|Venom Vol 2 15}} After returning to Earth following a stint in space with the [[Guardians of the Galaxy (Earth-616)|Guardians of the Galaxy]],{{r|Guardians of the Galaxy Vol 3 14}} Flash lost the symbiote.{{r|Venom Vol 1 150}} He ultimately gained a new symbiotic companion and became '''Agent Anti-Venom.'''{{r|Amazing Spider-Man: Venom Inc. Alpha Vol 1 1}} Dying at the hands of the [[Norman Osborn (Earth-616)|Red Goblin]],{{r|Amazing Spider-Man Vol 1 800}} Flash's consciousness survived in the [[Astral Plane|Symbiote Hive-Mind]],{{r|Venom Vol 4 32|33}} and his body was later resurrected, returning him to fighting form as Agent Anti-Venom.{{r|Venom Vol 4 34}}
+
+| History                 = 
+===Early Life===
+Eugene "Flash" Thompson was a classmate of [[Peter Parker (Earth-616)|Peter Parker]]. Flash grew up in [[Forest Hills]], [[Queens]], [[New York (State)|New York]]. He lived only a few blocks from Peter's house. He lived with his father [[Harrison Thompson (Earth-616)|Harrison Thompson]], a police officer in the [[New York City Police Department (Earth-616)|New York Police Department]], his mother [[Rose Thompson (Earth-616)|Rose Thompson]] and his little sister [[Jessica Thompson (Earth-616)|Jessie]]. Flash was physically abused by his alcoholic father, leading to Flash's own violent, bullying nature.{{r|Amazing Spider-Man Vol 1 574}}
+
+===Midtown High School===
+Like Peter Parker, Flash attended [[Midtown High School]], where he bullied Peter daily.{{r|Amazing Fantasy Vol 1 15}} The bullying continued for a long time even after Peter gained his Spider powers who never used them against Flash, even when tempted to do so.{{r|Amazing Spider-Man #4}} The only exception was a boxing match between the two in the school gym, where Peter evaded Flash's punches with his reflexes and knocked him out with a single punch. However, this was passed off as an accident and any suspicion of Parker actually being Spider-Man was moved onto Flash himself due to events involving the [[Living Brain (Earth-616)|Living Brain]].{{r|Amazing Spider-Man #8}} After this, Flash stopped his physical abuse, although he continued to taunt Peter.{{r|Amazing Spider-Man #9|10}}
+
+[[File:Peter Parker, Eugene Thompson and Sally Avril (Earth-616) from Amazing Fantasy Vol 1 15 0001.jpg|thumb|left|Flash in high school.]] 
+Flash's wide circle of friends included [[Brian McKeever (Earth-616)|Brian "Tiny" McKeever]], [[Jason Ionello (Earth-616)|Jason Ionello]], [[Seymour O'Reilly (Earth-616)|Seymour O'Reilly]], [[Character Index/C#Charlie|Charlie]] and numerous female admirers such as [[Sally Avril (Earth-616)|Sally Avril]] and [[Elizabeth Allan (Earth-616)|Liz Allan]]; the latter was Flash's steady girlfriend for some time.{{r|Amazing Spider-Man Vol 1 1}} Flash was Midtown High's star quarterback, where his speed on the football field earned him the lifelong nickname "Flash". This gained him popularity and respect, but he still remained jealous of Peter's book smarts.{{r|Amazing Spider-Man Vol 1 2}} Ironically, Flash became an ardent supporter of Spider-Man, despite popular opinion against him.{{r|Amazing Spider-Man Vol 1 3}} He even formed a Spider-Man Fan Club while still in high school and invited everyone except Peter Parker to join{{r|Amazing Spider-Man Vol 1 17}} and scared away [[Daily Bugle (The DB!) (Earth-616)|Daily Bugle]] staffers when they tried to interview people about their reasons for hating Spider-Man.{{r|Amazing Spider-Man #24}}
+
+Flash once tried to play a trick on Peter by dressing in a Spider-Man costume and attempting to frighten him. Before Flash could surprise Peter, he was abducted by [[Victor von Doom (Earth-616)|Doctor Doom]], who mistakenly believed he was the real Spider-Man. Peter was forced to save his own worst rival.{{r|Amazing Spider-Man Vol 1 5}}
+
+Flash dressed up as Spider-Man again to redeem his hero who was seen as a coward after having run from a confrontation with the [[Norman Osborn (Earth-616)|Green Goblin]]. Flash confronted three car thieves, hoping to draw out the real Spider-Man, but was beaten up by the three thugs.{{r|Amazing Spider-Man Vol 1 18}}
+
+When Flash's girlfriend Liz became attracted to Peter and started snubbing him, calling him a "muscle-bound goop", this only made Flash hate Peter all the more.{{r|Amazing Spider-Man Vol 1 12|15}} He threatened Parker not to hang around Liz too much,{{r|Amazing Spider-Man #25}} but when Peter got into trouble with the school principal, [[Andrew Davis (Earth-616)|Mr. Davis]], over their fight, Flash took responsibility for the incident.{{r|Amazing Spider-Man #26}} He still continued to pursue Liz, even though she made it clear that she wanted nothing to do with him.{{r|Amazing Spider-Man #30}}
+
+===Empire State University===
+Flash graduated from high school and enrolled at [[Empire State University]] on an athletic scholarship, becoming once more a classmate to Peter.{{r|Amazing Spider-Man Vol 1 28}} Even though at first he continued his rivalry with Peter, turning his new classmates [[Harold Osborn (Earth-616)|Harry Osborn]] and [[Gwendolyne Stacy (Earth-616)|Gwen Stacy]] against him,{{r|Amazing Spider-Man Vol 1 #31}}{{r|Amazing Spider-Man #36|38}} eventually, they became close friends, also because Gwen befriended Peter and made the two bury the hatchet.{{r|Amazing Spider-Man #39}}{{r|Amazing Spider-Man Vol 1 41}}
+
+===[[United States Army (Earth-616)|United States Army]]===
+By the time Flash left college to join the army, he and Peter parted as friends. During his tour of duty, Flash was stationed in Southeast Asia, where he stumbled across a hidden temple whose residents, notably the beautiful [[Sha Shan Nguyen (Earth-616)|Sha Shan]], nursed a wounded Flash back to health; however, after American forces mistakenly shelled the temple despite Flash's efforts to protect it, Flash left the army to return to America, where temple survivors who mistakenly blamed him for the tragedy made attempts on his life. With the aid of Spider-Man, Flash lived to convince the temple survivors of his innocence, and was briefly reunited with Sha Shan.{{r|Amazing Spider-Man #108|109}}
+
+===Return to Civilian Life===
+Flash returned to civilian life and college and was among the many friends who paid their respects with Peter at Gwen Stacy's funeral.{{r|Amazing Spider-Man #123}} He was injured in a car crash when a new [[Clifton Shallot (Earth-616)|Vulture]] kidnapped his and Peter's friend [[Mary Jane Watson (Earth-616)|Mary Jane Watson]]. He befriended Liz Allen once more and they went on a cruise together with Peter and Mary Jane. However, the cruise ship was kidnapped by the [[Anton Miguel Rodriquez (Earth-616)|Tarantula]].{{r|Amazing Spider-Man #134}} They were rescued by Spider-Man, which caused Flash to become suspicious of Parker's double life.{{r|Amazing Spider-Man #135}}
+
+When Harry Osborn became the Green Goblin and found out about his secret identity, he blew up Peter's apartment and kidnapped Flash, Mary Jane and Peter's [[Maybelle Parker (Earth-616)|Aunt May]] before being defeated by Spider-Man.{{r|Amazing Spider-Man #136|137}} His apartment in ruins, Flash took Peter in{{r|Amazing Spider-Man #138}} and helped him move when Peter had found a new apartment.{{r|Amazing Spider-Man #140}} When Harry Osborn was released, apparently cured from the insanity that had caused him to become the Green Goblin, Flash took him in as his new roommate.{{r|Amazing Spider-Man #152}}
+
+Later, Sha Shan returned to the [[United States of America|United States]] as Sister Sun, the reluctant bride of cult leader [[Achmed Korba (Earth-616)|Achmed Korba]], [[Brother Power]], who was himself a pawn of the evil [[Man-Beast (Earth-616)|Man-Beast]]. Sha Shan ultimately turned on Korba, and the Man-Beast was thwarted through the combined efforts of Spider-Man, [[Buford Hollis (Earth-616)|Razorback]] and Flash. Korba having died in the battle, Sha Shan became Flash's lover and lived with him for some time.{{r|Peter Parker, The Spectacular Spider-Man Vol 1 4}}
+
+===The Hobgoblin===
+As time passed, Flash struggled to find his place in his adult life, missing the feeling of importance he'd had as a high school football star, while his relationship with Sha Shan began to sour as she settled into the US and became more independent.{{r|Peter Parker, The Spectacular Spider-Man Vol 1 91}} When Sha Shan turned to Peter for help, Flash misconstrued it as an affair, deepening the rift. He began seeing [[Elizabeth Brant (Earth-616)|Betty Brant]] who was estranged from her husband, [[Edward Leeds (Earth-616)|Ned Leeds]], rationalizing themselves as just two lonely people supporting each other.{{r|Peter Parker, The Spectacular Spider-Man Vol 1 98}} In retaliation, Ned framed Flash as the Hobgoblin,{{r|Amazing Spider-Man Vol 1 276}} and later attacked Flash while he was hiding out in Betty's apartment.{{r|Amazing Spider-Man Vol 1 288}} Exhausted and despondent, Flash tried to turn himself in, and was nearly killed saving Spider-Man from one of the new Hobgoblin's (Macendale's) bombs.{{r|Amazing Spider-Man Vol 1 288}} However, Spider-Man convinced him not to give up, and Flash's name was cleared.
+
+Flash attempted to continue his relationship with Betty, but found her distraught and in denial about her husband's death. When a cult leader took advantage of Betty in her vulnerable state, Flash helped Spider-Man find and rescue her.{{r|Web of Spider-Man Vol 1 40|43}} As Betty had given away all her possessions to the cult, Flash gave her a place to stay, and together, they were able to repel an attack by demons during [[Inferno (Event)|Inferno]].{{r|Spectacular Spider-Man Vol 1 148}} However, their romantic relationship didn't last, and Flash would later admit that he hadn't known what to do or say around Betty after Ned's death.{{r|Spider-Man 75}}
+
+Though Flash was still recovering from his encounter with the Hobgoblin, Peter asked Flash to be the best man at his wedding. Flash agreed, and organized an impromptu bachelor's party at the Coffee Bean, where he and Harry Osborn helped talk Peter through some of his doubts.{{r|Amazing Spider-Man Annual 21}}
+
+===Black Cat===
+To get back at Peter for choosing Mary Jane over her, [[Felicia Hardy (Earth-616)|Felicia Hardy]] began dating Flash Thompson, with the intent of breaking his heart,{{r|Amazing Spider-Man Vol 1 329|331}} but over time, she found herself developing genuine feelings for him. While working as an ambulance driver, Flash refused to let Tombstone steal his vehicle and as badly beaten as a result.{{r|Spectacular Spider-Man Vol 1 204|205}} Shaken by the thought of losing Flash, Felicia asked him to marry her. However, Flash turned her down, admitting that he'd only approached her because she'd previously dated Spider-Man. He'd known she was the Black Cat all along, but was sure she'd eventually leave him to return to her old glamorous lifestyle.{{r|Spectacular Spider-Man Vol 1 209|210}}
+
+===Oscorp===
+After a bout of severe depression, Flash went drunk-driving and was badly injured in a car crash.{{r|Spectacular Spider-Man Vol 1 249|250}} Soon afterward Norman Osborn offered him a job at Oscorp as his personal aide in order to annoy Peter, and Flash became loyal to Norman for giving him a second chance and turning his life around.{{r|Spectacular Spider-Man Vol 1 255}} Later, as part of a plan of driving Spider-Man to murderous violence by attacking his family and friends, Osborn kidnapped Flash (under the pretense of picking him up from an Alcoholics Anonymous meeting), force-fed him whiskey and had him crash a truck into Midtown High School, where Peter worked.{{r|Peter Parker: Spider-Man Vol 1 45}} Flash survived but he suffered severe brain damage that left him in a coma. Flash awakened from the coma shortly thereafter, but remained in a largely catatonic state. Liz Allen became his caretaker, but was at a loss as to how she could give him the attention he needed as she was both running a company and raising her son, Normie. Peter's aunt, May hit on the idea to have Flash moved in to Peter's apartment building, in the belief that being surrounded by friends would aid in his recovery. Peter was eager to help and began spending his free time with his best friend and slowly, Flash started to show signs of improvement.
+
+===A ‘Perfect World’===
+When Mysterio attempted to divulge Spider-Man's identity by trapping everyone connected with him in an illusory world, Flash's mind proved the strongest, turning the illusion into a his own 'perfect world' where Flash was a celebrity superhero and Spider-Man's partner.{{r|Amazing Spider-Man Vol 2 7}} However, Peter managed to figure out the world wasn't real and convinced Flash to break free of it, despite the lure of the illusion.{{r|Amazing Spider-Man Vol 2 8}}
+
+===Post-Civil War===
+When Flash came out of his coma he had forgotten much of what had happened between him and Peter after high school.{{r|Friendly Neighborhood Spider-Man #4}} He was given the position as coach by the new Principal [[Roger Harrington (Earth-616)|Roger Harrington]] at Midtown High School where Peter was working as a teacher. Due to his memory loss, he was confused over how to think about Peter, and was initially reluctant to believe that 'Puny Parker' could really be Spider-Man when Peter made his identity public.{{r|Amazing Spider-Man Vol 1 533}} However, after an attack by [[Quentin Beck (Earth-616)|Mysterio]], he realized that he and Peter were on good terms and they became friends again.{{r|Friendly Neighborhood Spider-Man #13}}
+
+While "[[Other (Spider-Totem) (Multiverse)|Miss Arrow]]" was posing as a nurse at Peter's high school,{{r|Friendly Neighborhood Spider-Man #11}} she identified Flash as an ideal victim in which to incubate her eggs, due to his time spent in a coma. When he turned down her advances she kidnapped him and webbed him to the roof of a deconsecrated church in preparation, but he was rescued by Spider-Man and Betty Brant before it was too late.{{r|Friendly Neighborhood Spider-Man #22}} During the same events, he and Betty Brant began seeing each other again.
+
+===Iraq War===
+[[File:Eugene Thompson (Earth-616) from Amazing Spider-Man Extra! Vol 1 3 0001.jpg|thumb|left|Flash after the Iraq war]]
+Flash returned to the battlefield in the war in [[Iraq]], and lost his legs after saving his partner from enemy forces. Flash's sacrifice is enough to earn him a recommendation for the Medal of Honor.{{r|Amazing Spider-Man Vol 1 574}} He returned to the United States and started dating [[Elizabeth Brant (Earth-616)|Betty Brant]].
+
+Flash went through the so-called "stages of grief" backwards, even so far as to use dangerous experimental procedures to regain his legs, but seemed to come to terms with his condition, thanks to the support of his friends, family, and his new rehabilitation trainer Sha Shan.{{r|Amazing Spider-Man Vol 1 622}}
+
+===The New Venom===
+Flash became the new Venom when he was enlisted as a part of [[Project Rebirth (Earth-616)|Project: Rebirth 2.0]].{{r|Amazing Spider-Man Vol 1 654}} Flash was bonded with the [[Venom (Symbiote) (Earth-616)|symbiote]], recently acquired by the U.S. government after [[MacDonald Gargan (Earth-616)|Mac Gargan]]'s arrest after the [[Siege (Event)|Siege of Asgard]]. While bonded, Flash was able to reproduce his legs and had powers comparable to Spider-Man.
+
+[[File:Eugene Thompson (Earth-616) from Amazing Spider-Man Vol 1 654 page 36.jpg|thumb|right|Flash tests his new abilities.]]
+Thompson was sent to the Eastern European country [[Nrosvekistan]] to recover [[Ferid Ekmecic (Earth-616)|Dr. Ekmecic]], a specialist in developing weapons made from [[Vibranium#Anti-Metal|Antarctic Vibranium]]. During his mission, he encountered the new [[Jack O'Lantern (Crime-Master's) (Earth-616)|Jack O'Lantern]], who was also trying to recover Dr. Ekmecic for his boss, the new [[Bennett Brant (Earth-616)|Crime-Master]]. Neither was able to take Ekmecic alive but the encounter made Venom and Jack O'Lantern long-time enemies.{{r|Venom Vol 2 1}} 
+
+He was later sent to the [[Savage Land]] to destroy Crime-Master's Antarctic Vibranium shipment. Venom was attacked by [[Sergei Kravinoff (Earth-616)|Kraven the Hunter]], who believed that the Spider's Shadow would be able to end his curse. Upon learning his opponent was handicapped, Kraven was outraged and attempted to kill Flash outright to assuage his honor, but was carried away by a swarm of giant bats.{{r|Venom Vol 2 2}} Flash was separated from the symbiote by the bats,{{r|Venom Vol 2 2}} which lead Crime-Master to learn Venom's identity. However, the symbiote returned to Flash much to his surprise, assuring him that it won't abandon him and reminding him that they still have a mission to complete. Eventually, Venom took control of the helicopter containing the Vibranium shipment, but he was forced to deliver it to Crime-Master when Crime-Master used his knowledge of Venom's identity to hold Betty Brant, his long-time girlfriend, hostage. In return, Crime-Master told Venom where Betty was being kept, but Spider-Man, who was also trying to save Betty, mistook him for the enemy and the old foes fought.{{r|Venom Vol 2 3}} 
+
+[[File:Venom Vol 2 4 Textless.jpg|thumb|left]]
+After their brief battle, they continued their search for Betty together, but as soon as Venom arrived at the warehouse where Betty was being kept, it blew up. Spidey left the destruction with Betty. Returning to Project Rebirth headquarters, he lied to his superior about Crime-Master discovering his identity to a moment when he lost control of the symbiote so that they wouldn't take it away from him.{{r|Venom Vol 2 4}} Back home, Flash learned that his father had cirrhosis of the liver and did not have much time to live.{{r|Venom Vol 2 5}}
+
+===[[Spider-Island (Event)|Spider-Island]]===
+All of [[Manhattan]] later succumbed to a virus that gave New Yorkers spider-powers. Project Rebirth dispatched Venom to stop [[Steven Rogers (Earth-616)|Spider-King]] from breaching the quarantine and infecting others. After defeating him and bringing Spider-King to headquarters, Venom was sent to infiltrate their enemies' headquarters. There, he learned that [[Edward Brock (Earth-616)|Anti-Venom]] was capable of curing infected New Yorkers and took him to [[Horizon Labs (Earth-616)|Horizon Labs]] to synthesize a cure. Later on, Flash was able to visit his father in the hospital right before he passed away.{{r|Venom Vol 2 6}}
+
+Back in action, Venom tried to kill the [[Adriana Soria (Earth-616)|Queen]], the one responsible for the spider-power infestation, with help from Steve Rogers.{{r|Venom Vol 2 7}} Venom stabbed the Queen with Rogers' shield, but she mutated to a giant spider. Other heroes came to battle the Queen, but it was [[Kaine Parker (Earth-616)|Kaine]] who struck the killing blow while Spider-Man distributed the cure around the city with the help of [[Otto Octavius (Earth-616)|Doctor Octopus]]' [[Octobot|Octobots]].{{r|Venom Vol 2 8}} In the aftermath of the infestation, Venom battled the [[Howard Mitchell (Earth-616)|Hijacker]], who exploited the confusion to commit a series of bank robberies while murdering several innocent civilians; Thompson killed the villain in a rage.{{r|Venom Vol 2 9}}
+
+===Rogue Venom===
+Jack O'Lantern showed up at Flash's father's funeral and was taken to Crime-Master's headquarters. Now that he knows who Flash is he forced him to go on a mission for him in [[Las Vegas]], threatening to kill Betty and his family if he didn't comply. To make matters worse, Captain America shut down Project Rebirth and tried to confiscate the symbiote from Flash. He evaded him and left to complete his mission, with Jack O'Lantern tagging along. Meanwhile, Captain America sent [[Thaddeus Ross (Earth-616)|Red Hulk]] to bring Venom in.{{r|Venom Vol 2 10}}
+
+Jack gave Flash instructions to enter a casino called The Devil's Den, where the Venom symbiote would do the rest. Totally controlled by his instincts, Venom broke into a secret lab in the casino, where the [[Toxin (Symbiote) (Earth-616)|Toxin symbiote]] is contained. Venom tried to kill it, but Jack O'Lantern put it in a container and flew away with it.{{r|Venom Vol 2 11}}
+
+===[[Circle of Four]]===
+Flash broke up with Betty so that she could be safe and started drinking again. Eventually, Red Hulk tracked Flash all the way to Las Vegas so that he could take the symbiote and bring him in for court-martial.{{r|Venom Vol 2 12}}
+
+[[File:Venom Vol 2 13 Textless.jpg|thumb|right|Venom, Red Hulk, X-23 and Ghost Rider.]]
+In the midst of their fight, [[Blackheart (Earth-616)|Blackheart]] created a portal that brought [[Hell]] to Earth, but [[Johnathon Blaze (Earth-616)|Johnny Blaze]] stopped it from spreading past Las Vegas. Venom and Red Hulk fought alongside [[Laura Kinney (Earth-616)|X-23]] and the new [[Alejandra Jones (Earth-616)|Ghost Rider]] to defeat Blackheart.{{r|Venom Vol 2 13}} Along the way they fought their [[Antitheses (Earth-616)|Antitheses]], polar opposites of themselves created with a magic mirror, and died while trying to defeat them.{{r|Venom Vol 2 #13.1}}
+ 
+Their dark pasts brought them to Hell, where [[Mephisto (Earth-616)|Mephisto]] offered to return them to Earth if they agreed to help him at a later date.{{r|Venom Vol 2 #13.2}} The four agreed and challenged Blackheart again.{{r|Venom Vol 2 #13.3}} The symbiote briefly seized control of Flash in an attempt to seize the Spirit of Vengeance for itself, but was stopped by Blackheart. Venom and Ghost Rider surrendered their powers to Red Hulk, giving him the power to defeat Blackheart.{{r|Venom Vol 2 #13.4}}
+
+Shortly after, Captain America and the [[Secret Avengers (Black Ops Unit) (Earth-616)|Secret Avengers]] arrived to bring Venom in, but his heroic deeds convinced Cap to give him a chance and he welcomed him onto the team. [[Daimon Hellstrom (Earth-616)|Daimon]] meanwhile notices that Flash, Red Hulk, and X-23 are marked with [[Hell-Mark|Hell Marks]], invisible pentagrams on their chests, indicating their pact with Mephisto.{{r|Venom Vol 2 14}}
+
+===Joining the Secret Avengers===
+[[File:Secret Avengers Vol 1 25 Textless.jpg|thumb|left|With the Secret Avengers]]
+Still, Rogers wanted Thompson to be stationed at the [[Lighthouse (Space Station)|Lighthouse Station]] and use the symbiote in short periods of time, joining the Secret Avengers along with the original [[Human Torch (Android) (Earth-616)|Human Torch]].{{r|Venom Vol 2 15}} But [[Clinton Barton (Earth-616)|Hawkeye]]'s skepticism didn't allow Venom to take part in the team's new mission.{{r|Secret Avengers Vol 1 23}} Venom participated in the mission regardless and played a pivotal role in a later mission, eventually earning Hawkeye's trust. Over time, a secret relationship developed between him and fellow teammate [[Brunnhilde (Earth-616)|Valkyrie]].
+
+His tenure with the Secret Avengers brought him into conflict with the homicidal [[Cletus Kasady (Earth-616)|Carnage]] when he tried to take over the town of [[Doverton]], [[Colorado (State)|Colorado]]. 
+
+===The Gauntlet of the Savage Six===
+When Crime-Master was gathering other four villains to form a team called the [[Savage Six (Crime-Master's) (Earth-616)|Savage Six]], Venom sneaked in to Crime-Master's HQ and tries to kill him. Eddie Brock interfered trying to kill Thompson, which ruined Flash's plan.{{r|Venom Vol 2 16}} Before escaping from the five villains, Master stated that he will kill Flash's loved ones. Eddie Brock was knocked out during battle and was forced by Crime-Master to become the new Toxin and complete the Savage Six.{{r|Venom Vol 2 17}}
+
+[[File:Venom Vol 2 21 Textless.jpg|thumb|right|Defeated by the Savage Six]]
+Flash started searching for Betty, and found her talking with Jack O'Lantern, he protected her from him, [[Gregory Nettles (Earth-616)|Megatak]] and Toxin. Knowing that there could be any way for her to trust him, Venom revealed his identity to Betty.{{r|Venom Vol 2 18}} The Savage Six then attacked Flash and Betty at the home of her parents.{{r|Venom Vol 2 19}} Flash then engaged in his last fight with the Savage Six, resulting in the deaths of [[Roland Burroughs (Earth-616)|Death Adder]] and Toxin, who Venom attempted to save.{{r|Venom Vol 2 20}} He then witnessed Crime Master reveal his identity to Betty and Venom as Betty's brother and became shocked when Betty shot and killed him.{{r|Venom Vol 2 21}} Later fought Jack O' Lantern and brought him to the [[Raft]].{{r|Venom Vol 2 22}}
+
+===Hellish Encounter===
+While looking into the activities of the [[Department of Occult Armaments (Earth-616)|Department of Occult Armaments]], Flash was knocked out by Daimon Hellstrom, who implanted a demon into him to transform the symbiote into one of his [[Monsters of Evil (Earth-616)|Monsters of Evil]]. Flash was able to subjugate the demon and the Monsters of Evil using the Hell Mark, arresting Hellstrom. He sought to get the demon, which begged to be removed from his body, exorcised, but was unable to remove it due to the Hell Mark's presence.{{r|Venom Vol 2 #23|25}}
+
+===[[Minimum Carnage]]===
+Flash followed the escaped serial killer Carnage to a [[National Aeronautics and Space Administration (Earth-616)|NASA]] research center, where the villain used a interdimensional transport called Prometheus Pit with the help of beings from the [[Microverse]] to be transported there. The Scarlet Spider, who also was following Carnage's steps, joined Venom in the search for Kasady, and they were transported to the Microverse by the Prometheus Pit.{{r|Minimum Carnage: Alpha Vol 1 1}}
+
+[[File:Venom Vol 2 26 Textless.jpg|thumb|left|Venom and Scarlet Spider vs. Carnage]]
+Both are separated once they passed through the Pit, Venom was found by the [[Micronauts (Earth-616)|Enigma Force]], who needed Venom's help to oppose [[Radu (Microverse) (Earth-616)|Marquis Radu]], the leader of Carnage's allies,{{r|Scarlet Spider Vol 2 10}} and get Carnage out of the Microverse, because his symbiote (as well as Venom's) was corrupting the environment.{{r|Venom Vol 2 26}} They were attacked and subdued by Marquis Radu's forces.{{r|Scarlet Spider Vol 2 11}}
+
+Venom was brought to Marquis Radu's base along Carnage, in order to replicate their symbiotes and create an army which could make him control the Microverse. But Carnage managed to take control over the symbiote army and used it to escape to the regular universe,{{r|Venom Vol 2 27}} where he was finally defeated by the combined efforts of Venom and Scarlet Spider, and a special weapon given to them by the Enigma Force. After being stung by the Scarlet Spider, Cletus cured his wounds, but was left in a catatonic state, meaning that the symbiote was now in full control of his body, although it put in custody once more and sedated.{{r|Minimum Carnage: Omega Vol 1 1}}
+
+===Philadelphia===
+After facing the [[U-Foes (Earth-616)|U-Foes]],{{r|Venom Vol 2 29}} Flash bid farewell to [[New York City|New York]] and moved to [[Philadelphia (Pennsylvania)|Philadelphia]],{{r|Venom Vol 2 31}} not knowing that Eddie Brock had survived the flames and was tracking him down.{{r|Venom Vol 2 28}} Flash received a job as an assistant gym coach to West Philadelphia High School and also became "the Spider-Man of Philly".{{r|Venom Vol 2 32}} When trying to capture a victim of one of [[Simon Utrecht (Earth-616)|Vector]]'s experiments with [[Symbiote Slayers|alien-machine hybrids]], Venom was confronted by Toxin, who killed the hybrid.{{r|Venom Vol 2 33}} Using a sedative he was saving for his own symbiote, Flash managed to incapacitate Brock, who left the scene vowing a new encounter soon.{{r|Venom Vol 2 34}} Toxin tracked down Flash to the high school, wanting to confront him, but the creature Toxin killed managed to spawn and infect new people, people who were now looking for both Toxin and Venom, their new natural enemies. In order to save innocent lives, Flash convinced Brock to temporarily team-up and defeat the monsters, who were ultimately killed. Realizing he was doing good with Venom, Brock offered Flash a deal, he would let him live as long as he had control over the symbiote.{{r|Venom Vol 2 35}}
+
+[[File:Venom Vol 2 42 Textless.jpg|thumb|right|Mania]]
+In order to save [[Andrea Benton (Earth-616)|Andi Benton]], one of his students, from being killed by [[Jack O'Lantern (Impostor) (Earth-616)|Jack O'Lantern]], Flash gave her a portion of the symbiote, which mysteriously bonded with Andi faster than it could have bonded to any other host and turned her into Mania.{{r|Venom Vol 2 38}} Andi proceeded to brutally attack Jack O'Lantern, but after removing his mask, Venom realized it was actually an impostor brainwashed by the real Jack O'Lantern into replacing him while he was in prison. After a furious battle in which numerous supervillains looking for Venom stepped in, Mania started suffocating the fake Jack with the symbiote, but Venom convinced her not to cross that line.
+
+Andi moved with her aunt to Jenkintown although she remained in touch with Flash, who let her have the symbiote, which mysteriously bonded to Andi faster than it could've bonded to any other host.{{r|Venom Vol 2 39}} After facing the D.O.A. once more when they, allied with [[Brock Rumlow (Earth-616)|Crossbones]], tried to get the Venom symbiote's hell-mark it acquired during the fight against Blackheart in Las Vegas, Flash discovered the symbiote that was attached to Mania was the [[Mania (Symbiote) (Earth-616)|symbiote's clone]] that was spit back out by the original symbiote to remove the demon planted in him by Hellstrom. Flash promised he would help Andi remove the hell-mark at any cost.{{r|Venom Vol 2 42}}
+
+===Thunderbolts===
+Following the events of the Phoenix War, Flash was recruited by General Thaddeus Ross to join [[Thunderbolts (Red Hulk) (Earth-616)|his Thunderbolts team]].{{r|Thunderbolts Vol 2 1}} However, the group's violent methods, which allowed the symbiote to influence him into eating people,{{r|Thunderbolts Vol 2 17}} caused him to become disenchanted. Flash decided to leave the team, but not before testing their ability to take him down should he lose control by willingly allowing the symbiote to take over. While the symbiote easily overwhelmed the Thunderbolts individually, they were able to work together to subdue it.{{r|Thunderbolts Vol 2 23}}
+
+===Superior Venom===
+Venom returned temporarily to New York City in order to investigate the sighting of Crime-Master's henchmen. He had an encounter with Spider-Man, at the time Otto Octavius in Peter Parker's body, but managed to escape from him and his [[Spiderlings (Earth-616)|Spiderlings]].{{r|Superior Spider-Man Vol 1 22}} As Flash, he sought "Peter"'s help in giving him a place to stay. Octavius later convinced Flash to allow him to perform a procedure that would give him robotic leg implants, though during the procedure he forcefully removed the symbiote from Flash. The symbiote escaped and re-bonded to its "old" host, but communicated that Spider-Man "tasted" wrong. Flash attempted to recall the symbiote to him, but was thwarted even with [[Elias Wirtham (Earth-616)|Cardiac]]'s assistance.{{r|Superior Spider-Man Vol 1 23}}
+
+[[File:Eugene Thompson (Earth-616) from Superior Spider-Man Vol 1 25 001.png|thumb|left|150px|Flash recovers the symbiote]]
+[[Sajani Jaffrey (Earth-616)|Sajani Jaffrey]] of [[Parker Industries (Earth-616)|Parker Industries]] found that the drugs they used to suppress the symbiote and keep Flash in control had made his body reliant on the symbiote to survive and he would die without it, inspiring him to get back into action and find Spider-Man.{{r|Superior Spider-Man Vol 1 24}} When the [[Avengers (Earth-616)|Avengers]] decided to confront Spider-Man after he started showing a more violent behavior, Flash, clad in an [[Iron Man Armor]], helped them defeat Spider-Man. Flash also convinced the symbiote to return to him, becoming Venom once more. Back at the [[Stark Tower|Avengers Tower]], [[Natalia Romanova (Earth-616)|Black Widow]] asked Flash if he could access the symbiote's memories when it was temporarily bonded with Spider Man, but when he tried, Flash told the Avengers that he was not getting a conclusive result. After being recommended by Captain America to stay far away from Spider Man, Flash left to settle matters in Philadelphia, satisfied that the Avengers were on the case. He also gained honorary membership on the team.{{r|Superior Spider-Man Vol 1 25}}
+
+===Guardians of the Galaxy===
+Seeking to maintain a connection with the [[Guardians of the Galaxy (Earth-616)|Guardians of the Galaxy]], the Avengers placed Flash on the team as their new envoy.{{r|Guardians of the Galaxy Vol 3 14}} Flash quickly befriended [[Arthur Douglas (Earth-616)|Drax the Destroyer]], who advised him to swap his [[Multi-Gun]] for more powerful alien weaponry, though Wrapje the arms dealer initially refused to trade due to Flash possessing a symbiote.{{r|Guardians of the Galaxy Vol 3 16}} Taking on a new appearance, Flash was later abducted by [[Deviant Skrulls|Skrulls]], who separated him from the symbiote and tried to take it for themselves. Flash reclaimed the symbiote and escaped from their ship, but decided not to return to the team.{{r|Guardians of the Galaxy Vol 3 17}} While in hiding at a bar, Flash overheard a drunk [[Kree]] ranting about having been to Earth and confronted him in an alley outside, demanding to be taken there. When the Kree tried to attack him, Flash transformed into a monstrous, winged version of Venom and killed the Kree when he admitted to have been bluffing about having been to Earth. Flash returned to Wrapje's dealership demanding to learn more about the symbiote. [[Gamora Zen Whoberi Ben Titan (Earth-7528)|Gamora]] entered and the symbiote took over Flash, attacking her until being subdued by the other Guardians and put into containment. Flash apologized for his loss of control over the creature and asked to be returned to Earth. While Flash rested, the Guardians debated launching the symbiote into deep space, but it broke free of its container and took over [[Groot (Earth-616)|Groot]].{{r|Guardians of the Galaxy Vol 3 21}} Flash remained comatose during the symbiote's subsequent rampage, with it passing up a chance to rebond to him in order to take over [[Rocket Raccoon (Earth-616)|Rocket Raccoon]] and later Drax.{{r|Guardians of the Galaxy Vol 3 22}}
+
+[[File:Guardians of the Galaxy Vol 3 22 Textless.jpg|thumb|right|With the Guardians of the Galaxy]]
+After using Drax to defeat the rest of the Guardians, the symbiote used the ship to get to the [[Klyntar (Location)|Planet of Symbiotes]]. The Venom symbiote separated from Drax and joined with its kind, which appeared to be harmless. After deciding to attempt to communicate with the symbiotes, Flash and the Guardians learned of the true origin of these aliens. The symbiotes, or [[Symbiotes (Race)|Symbiotes]] (as they preferred to be called), are a race of peaceful creatures whose goal is to use symbiosis with other beings to create an order of noble warriors to maintain peace across the Cosmos. However, the host needs to be a perfect blend of moral and physical ideals; if not, the resulting symbiosis will corrupt both the Symbiotes and the host. Events like this caused the spawning of the murderous symbiotes the Symbiotes are known for, like Venom and Carnage. Once the Venom symbiote returned to space, the Symbiotes managed to reconnect as a collective to it, causing it to act irrationally, but ultimately being able to reunite with their species. The reunion fixed the corruption in the Venom Symbiote, which rebonded to Flash, creating a more powerful Agent Venom who was inducted into the [[Agents of the Cosmos (Earth-616)|Agents of the Cosmos]].{{r|Guardians of the Galaxy Vol 3 23}}
+
+===Agents of the Cosmos===
+Concurrently with his adventures with the Guardians of the Galaxy, Flash and the Venom symbiote began travelling to planets they sensed were in trouble, such as saving a family of aliens from smugglers,{{r|Venom: Space Knight Vol 1 1}} and disabling devices that were destroying the ecosystems of various planets. In doing so he acquired a suicidal robot, [[803 (Earth-616)|803]]; and won the affections of the queen of the [[Wugin]], [[Iqa (Earth-616)|Iqa]]; but earned the animosity of [[Gramosians|Gramosian]] space-pirate and warlord [[Mercurio (Earth-616)|Mercurio]], who was behind the ecosystem-destroying machines. He was contacted by [[Tarna (Earth-616)|Tarna]] and [[Myntril (Earth-616)|Myntril]], representatives of the Agents of the Cosmos, who explained what his new duties were: responding the voice of the Cosmos and defending those who needed help, and discovered the Venom symbiote had developed the ability to manifest in humanoid form without a host.{{r|Venom: Space Knight Vol 1 2|3}}
+
+[[File:Venom Space Knight Vol 1 1 Lim Variant Textless.jpg|thumb|left|Venom: Agent of the Cosmos]]
+Mercurio, angered by Venom for interfering with his plans and coveting the Venom symbiote, sent [[Ruu'lto]] warrior [[Pik Rollo (Earth-616)|Pik Rollo]] after him, but Venom persuaded her to turn against Mercurio to rescue her child, [[Hilla Rollo (Earth-616)|Hilla]].{{r|Venom: Space Knight Vol 1 4}} Venom and Pik Rollo attacked Mercurio's base and were easily defeated, with Mercurio taking the Venom symbiote.{{r|Venom: Space Knight Vol 1 5}} This proved to be a ploy on Flash's and the symbiote's part, buying time for 803 to gather their allies and attack Mercurio's base. Pik reunited with her daughter and Flash reclaimed the symbiote, but its brief period bonded to Mercurio undid the Symbiotes hive-mind's cleanse, eventually causing it to relapse into its old rage-filled state and go on a rampage across the planets it had helped in order to antagonize Flash.{{r|Venom: Space Knight Vol 1 6|8}} Fortunately, Flash managed to subdue the symbiote and brought it to the homeworld of the Symbiotes, believing there was still a chance for its redemption.{{r|Venom: Space Knight Vol 1 9}}
+
+During the symbiote's trial, it was discovered it had succumbed to rage again because the original cleanse was incomplete as a consequence of having detached Mania, which had been further corrupted by the hell-mark. While Flash's crew volunteered to find a purifying elixir on the planet [[Wenb]], he and the Venom symbiote set out to return to Earth and save Mania.{{r|Venom: Space Knight Vol 1 10}}
+
+===Civil War II===
+[[File:Eugene Thompson (Earth-616), Pik Rollo (Earth-616), Hilla (Earth-616) and Iqa (Earth-616) from Venom Space Knight Vol 1 10 001.jpg|thumb|Flash and some of his intergalactic allies: Pik Rollo, Hilla and Iqa.|250px|right]]
+Flash's return to Earth coincided with [[Carol Danvers (Earth-616)|Captain Marvel]]'s request for the Guardians of the Galaxy to aid her against [[Anthony Stark (Earth-616)|Iron Man]] during the second [[Civil War II|superhuman Civil War]].{{r|Civil War II Vol 1 4}} During the conflict, Flash came to blows with [[Miles Morales (Earth-1610)|Miles Morales]] over whether the latter was a true inheritor of the original Spider-Man, but was incapacitated by Miles' Venom-Blast.{{r|Civil War II Vol 1 5}} Briefly visiting his mother at the Rose Manor Wellness Center, Flash traveled to Philadelphia and investigated Mania's activities. While searching for her he was ambushed by Spider-Man, who was unaware that the Venom symbiote was no longer evil and wanted to save his friend from it.{{r|Venom: Space Knight Vol 1 11}} After the misunderstanding was cleared by the symbiote, Venom and Spider-Man teamed up to confront Mania. Her symbiote was contained, but it turned out the hell-mark had transferred to Andi herself.{{r|Venom: Space Knight Vol 1 12}} Andi attempted to kill Flash and take both the Mania and Venom symbiotes for herself, but Flash's allies arrived just in time with a portion of the elixir to temporarily neutralize her malady and bring her back to her senses. Now reunited with Mania, Venom decided to bid farewell to his allies and remain on Earth until Andi could be properly cured.{{r|Venom: Space Knight Vol 1 13}}
+
+===Agent Anti-Venom===
+Taking Mania to New York, Flash resumed his Agent Venom form and took to fighting crime alongside his protégé. However, Agent Venom was attacked by the FBI using a specialized anti-symbiote suit of armor. Agent Venom was struck by a beam that separated him from the symbiote, which relapsed into its murderous state and abandoned him.{{r|Venom Vol 1 150}} Falling into depression with the loss of his friend and what had made him a superhero, Flash was able to renew his determination to rescue the symbiote from whoever had taken it.{{r|Amazing Spider-Man Vol 1 789}}
+
+After learning that Mania had her symbiote stolen, Flash assumed the culprit was the one responsible for separating him from the Venom symbiote. Using the traces of the Venom symbiote inside his body as a compass, Flash tracked it to [[Oscorp Tower|Alchemax Tower]], where he discovered it had re-bonded to Eddie Brock. Flash confronted Brock and attempted to have the symbiote return to him. While the symbiote was struggling to decide which host to go to, and latched to both men at the same time, Spider-Man appeared on the scene. He overturned a vat of artificial Anti-Venom serum developed by [[Alchemax (Earth-616)|Alchemax]] on Flash and Eddie in an attempt to kill the symbiote. Instead of killing the symbiote, the serum turned the portion of it bonded with Flash into a new [[Anti-Venom II (Symbiote) (Earth-616)|Anti-Venom]], which transformed Flash into a color-inverted version of his Agent Venom form.{{r|Amazing Spider-Man: Venom Inc. Alpha Vol 1 1}} Flash was able to use the Anti-Venom symbiote to completely remove the Venom symbiote from Eddie, but couldn't bond with it himself. Leaving the symbiote at [[Barbara Morse (Earth-616)|Bobbi Morse]]'s apartment for safekeeping, Anti-Venom and Spider-Man set out to track down the Mania symbiote and traced it to [[Felicia Hardy (Earth-616)|Black Cat]]'s hideout, where they discovered Felicia's gang had been infected with the symbiote by its new host, [[Lee Price (Earth-616)|Maniac]].{{r|Amazing Spider-Man Vol 1 792}}
+
+[[File:Amazing Spider-Man Vol 1 792 Textless.jpg|thumb|left]]
+
+Spider-Man and Anti-Venom were defeated,{{r|Venom Vol 1 159}} and Maniac tried to burn Flash and his symbiote alive. They were rescued by Andi, who was using the powers derived from the Hell-Mark to keep fighting without her symbiote. Anti-Venom and Andi then tracked down Spider-Man, who had fallen under Maniac's control, and tried to free him. They were assisted by Black Cat and Eddie Brock, who had merged back with the Venom symbiote after it escaped Morse's apartment.{{r|Amazing Spider-Man Vol 1 793}} The heroes then followed Maniac to a gathering of the five biggest crime families in the world, where he had used his symbiote to take control of all attendees. Using weaponry coated in Alchemax's Anti-Venom serum and Flash's own symbiote, the heroes freed those under Maniac's control, prompting him to have the remains of the symbiote return to him to make him stronger.{{r|Venom Vol 1 160}} Maniac initially overpowered the heroes until Black Cat noticed those freed from his control by Anti-Venom developed an immunity to him. Spider-Man had Flash's symbiote absorb a sample of his blood to absorb its "Anti-Maniac" properties, giving Flash the boost necessary to strike Maniac down and neutralize him. With Maniac defeated, Flash called his contacts from the government to take him away. Before they disbanded their alliance, Anti-Venom gave Brock his blessing to keep the symbiote, arguing he displayed his heroism when fighting Maniac.{{r|Amazing Spider-Man: Venom Inc. Omega Vol 1 1}}
+
+===Poison Invasion===
+When word got out that the [[Poisons]] were using Symbiotes to attack superheroes, Alchemax called in a favor from Flash to use his anti-symbiote properties to help out. Flash agreed initially, despite Venom's angry protests and concern for the victimized Symbiotes, but no alternative could be found. Agent Anti-Venom then accompanied Venom and Spider-Man to aid several superheroes in fighting off the Poisons, and attempted to capture one of the bound Poisons to strip them of their symbiote and interrogate them. However, when Agent Anti-Venom tried to rid [[Hive (Poisons) (Earth-17952)/Members#Poison Punisher|Poison Punisher]] of his symbiote, he was horrified when his Anti-Venom powers caused the Poison to shriek in pain and collapse into a puddle, with no sign of the human host inside.{{r|Venomized Vol 1 3}}
+
+Despite his new concerns about using his powers against the Poisons and harming any innocent humans within, Agent Anti-Venom was assigned to one of two teams to attack [[Thanos' Ship]] in [[Earth Orbit]]. After fighting off an assault on Alchemax by a group of Poisons, Agent Anti-Venom boarded a [[Quinjet]] with his team and set off to the Poisons' ship, only for the Quinjet to be destroyed mid-air by [[Hive (Poisons) (Earth-17952)/Members#Poison Thanos|Poison Thanos]]. Agent Anti-Venom, having survived the crash and having no qualms about using his powers on one such as Thanos, leapt into battle against the Poison, shrugging off attempts by Poisons to assimilate him, but was quickly struck down by Poison Thanos' power. As Flash's companions were also laid low by the former Mad Titan, [[Kei Kawade (Earth-616)|Kid Kaiju]] summoned his monsters to attack.{{r|Venomized Vol 1 4}}
+
+Unfortunately one of Kid Kaiju's monsters, [[Scragg (Earth-616)|Scragg]], was forcibly bonded to [[Scragg's Symbiote (Earth-616)|a symbiote]] during the battle and consumed by a Poison, creating [[Hive (Poisons) (Earth-17952)/Members#Poison Scragg|Poison Scragg]]. Recognizing the threat such a beast posed to New York, Agent Anti-Venom reluctantly used his powers to destabilize Poison Scragg and allowing him to be mercy-killed by [[Slizzik (Earth-616)|Slizzik]]. Agent Anti-Venom then set about healing his injured companions, and witnessed the systematic self-destruction of the Poisons after the death of [[Hive (Poisons) (Earth-17952)/Members#Poison Queen|their Queen]].{{r|Venomized Vol 1 5}}
+
+===Rise of the Red Goblin===
+As Agent Anti-Venom, Flash experienced unprecedented popularity surpassing that of Spider-Man. However, he was blackmailed by Liz Allan - who had seen and destroyed footage of Flash bonding to the altered symbiote - into providing extra security at her company's new off-site testing facility, where she was going to do a demonstration on the potency of tritium. Flash reluctantly agreed, worried she would expose him if he refused; and when the [[Phillip Urich (Earth-616)|Goblin King]] and several of his thugs attacked to steal the tritium Agent Anti-Venom teamed up with Spider-Man to try to stop them - though as a result of Flash leaving to heal one of the guards the Goblin King was able to make off with a small amount.{{r|Amazing Spider-Man Vol 1 796}} Liz blackmailed Flash once more into helping her track it down,{{r|Amazing Spider-Man Vol 1 797}} and he arrived at an old nightclub once used as a hideout by the [[Norman Osborn (Earth-616)|Green Goblin]]. Inside, he discovered Urich's mutilated corpse and a tied-up [[John Jonah Jameson (Earth-616)|J. Jonah Jameson]], who informed him that Osborn had not only become the Green Goblin again but had bonded to the Carnage symbiote.{{r|Amazing Spider-Man Vol 1 798}}
+
+Contacted by Spider-Man, Agent Anti-Venom was asked to watch over Jameson - who used the distraction to sneak away.{{r|Amazing Spider-Man Vol 1 799}} When the Red Goblin mortally wounded the [[Jonathan Storm (Earth-616)|Human Torch]], [[Clayton Cole (Earth-616)|Clash]], [[Cindy Moon (Earth-616)|Silk]], and [[Miles Morales (Earth-1610)|Ultimate Spider-Man]]; Flash chose to sacrifice his opportunity to defeat Osborn using the Anti-Venom symbiote's cleansing properties to heal Spider-Man's friends, and was badly mauled as a result of overusing its healing powers. Using the last of his energy to heal Spider-Man's leg,{{r|Amazing Spider-Man Vol 1 799}} Flash was taken to the hospital, where he learned that Spider-Man was Peter Parker from a delirious Cindy Moon, and used the last of his power to save Spider-Man's friends and loved ones from Carnage. Arriving to confront the Red Goblin alongside Spider-Man - who had bonded to the Venom symbiote - Flash tried to use the last of the Anti-Venom symbiote to purge Osborn of the Carnage symbiote. In retaliation to Flash ruining his plans, Osborn mortally wounded Flash with his Sparkle Blast gauntlets before being punched across the city by a berserk Venomized Spider-Man. Flash managed to calm Venom down and asked Peter to not give into rage lest he corrupt the symbiote, refusing to rebond to it out of concern that the remaining Anti-Venom in his body would kill it or he would die before it could heal him, killing it and depriving Spider-Man of the advantage it conferred. Flash died of his injuries, and was later given a military funeral with full honors.{{r|Amazing Spider-Man Vol 1 800}}
+
+===Post-Mortem===
+Despite having met his demise at the hands of the Red Goblin, Flash left much behind. Both Spider-Man and the Venom symbiote wished to live up to Flash's ideals and legacy;{{r|Amazing Spider-Man Vol 1 800}}{{r|Venom Vol 1 154}} Like all symbiote hosts, Flash's consciousness was stored in the [[Astral Plane|Symbiote Hive-Mind]], and due to having spent several years bonded to the Venom and Anti-Venom symbiotes he was able to roam freely but was unable to influence the world around him.{{r|{{cl|Venom Vol 4 32}}-[[Venom Vol 4 33|33]]}} When the Venom symbiote became brain dead, it erased Eddie's memories of Flash's death to evade his grief. While under the [[Reed Richards (Earth-1610)|Maker]]'s custody, Eddie was confronted with the news of Flash's death, and Brock expressed the belief that it had preferred Flash as a host, which he found depressing.{{r|Venom Vol 4 8}} 
+
+The Maker had acquired a sample of Flash's blood taken during his time as Agent Venom and extracted remnants of the symbiote that had been left in Flash's body, which he referred to as a codex. After the Maker told Eddie that he planned to exhume and vivisect Flash's body for additional samples and data, the symbiote attacked him to retrieve the codex. When confronted by soldiers wielding sonic weapons,{{r|Venom Vol 4 8}} the symbiote absorbed the codex -- enabling Flash's consciousness to bond to the symbiote and fill the void of its lost awareness.{{r|Venom Vol 4 33}} The symbiote adopted the appearance of Agent Venom while under the control of Flash, who helped Eddie escape to escape. While the codex seemingly burnt out, Eddie was left with an increased respect for Flash, calling him "brother" while paying respects at his grave.{{r|Venom Vol 4 8}}
+
+When the demonic entity known as [[Gabriel Stacy (Earth-616)|Kin]][[Sarah Stacy (Earth-616)|dred]] set the stage for his confrontation against Spider-Man, his target of torment, the body of Flash was among those of dead friends and family of Peter disinterred by the villain and placed at a dining table.{{r|Amazing Spider-Man Vol 5 51}} 
+
+[[File:Symbiote Dragons (Earth-616) from Venom Vol 4 33 001.jpg|thumb|right|Flash as a Symbiote Dragon]]
+Within the Symbiote hive-mind, Flash joined [[Rex Strickland (Earth-616)|Rex Strickland]]'s army of former symbiote hosts when the dark symbiote god [[Knull (Earth-616)|Knull]] started [[King in Black (Event)|invading]] [[Earth]], recovering his Anti-Venom symbiote replica. When Eddie Brock died and joined Rex's army, Flash was there to greet him.{{r|Venom Vol 4 32}} When [[Thor Odinson (Earth-616)|Thor]] and Eddie's son [[Dylan Brock (Earth-616)|Dylan]] began freeing hosts from their symbiotes and fighting Knull, a red gash appeared - formed from the dissolved symbiotes of the recently freed hosts - and Flash followed Eddie and Rex through it into the core of the Hive-Mind, the place where they were before having been a "purgatory" for codices. The three of them noticed that the symbiotes freed from Knull's control were being imprisoned and formulated a plan to bond to them the way Flash once had the Venom symbiote. Despite Eddie's protests, Flash volunteered to free the imprisoned symbiotes and "download" himself into one of them, acknowledging this was his mission from the beginning and that Eddie was a hero too. Their plan worked, and Flash was incarnated in the world of the living as a [[Symbiote Dragons|symbiote dragon]] resembling his Anti-Venom symbiote.{{r|Venom Vol 4 33}} Informed by Eddie of what had happened when Cletus Kasady's corpse had bonded to a symbiote-dragon, Flash flew to the cemetery where his body had been buried and reanimated himself, bursting from his grave in a recreation of his human form.{{r|Venom Vol 4 34}}
+
+===[[Extreme Carnage]]===
+After returning to life, Flash was absent for a while because Earth was recovering from Knull's Symbiont Invasion, after confronting some Alchemax Guardsmen because he thought he was the target but was in fact the barista. Seeing the terror of the people around him, he decides to leave, although unknowingly people have taken pictures of him as an Anti-Venom Agent with his face exposed.{{r|Venom Vol 4 35}} Flash got a job helping unload supplies for a local shelter when he was helping a coworker when he suddenly found himself in a car driven by a man with the voice of [[Cletus Kasady (Earth-616)|Cletus Kasady]] who was trying to reclaim his "[[Anti-Venom II (Symbiote) (Earth-616)|cousin]]" to join his hive, but failed. After coming to, he almost killed his partner Hank who proceeded to flee in horror at what he was about to do, he met Iron Man who needed his help against the Symbiote threat on Earth after showing him a series of unpleasant images, it was concluded that it was because of Cletus piloting the [[Carnage IV (Symbiote) (Earth-616)|Dark Carnage Symbiote]] through the Hive-Mind and that his target was [[Peter Krane (Earth-616)|Senator Peter Krane]] due to his growing anti-extraterrestrial influence. Flash attended one of Senator Krane's political rallies when he heard the voice of Cletus in his head and several of his hive symbiotes mentioning that they were around him, transformed into Agent Anti-Venom and fled Alchemax's security forces and informed Iron Man that Carnage's symbiotes were everywhere and possibly that Krane was Carnage.{{r|Extreme Carnage Alpha Vol 1 1}}
+
+| Personality             = {{Quote|I've taken '''beatings''' in my life. Had body and mind put to the test. Football. Dad. Boot camp. Mosul. Both legs amputated above the knee. An entire '''lifetime''' of getting my '''ass kicked''' to the ground can't '''begin''' to measure up to these past twelve hours.|[[Eugene Thompson (Earth-616)|Venom (Flash Thompson)]]|Venom Vol 2 9}}
+
+As a result of chronic abuse by his violent, alcoholic father, Flash Thompson became a bully during his high-school years, picking on students weaker than himself — namely Peter Parker — in order to vent his anger and frustration.{{r|Venom Vol 2 5}} Nevertheless desiring his father's approval above all else, Flash pushed himself to excel in sports, embodying the stereotype of a dumb jock.{{r|Venom Vol 2 32}} 
+
+Inspired by Spider-Man's selfless heroism, Flash eventually straightened himself out and joined the military in order to prove himself a hero,{{r|Venom: Space Knight Vol 1 5}} but was ashamed and haunted by his past as a bully.{{r|Venom: Space Knight Vol 1 9}} Remaining hot-tempered and lapsing into alcoholism, Flash despaired at the parallels he saw between himself and his father.{{r|Venom Vol 2 5}} Upon becoming Agent Venom, Flash's aspirations to be a superhero clashed with both his military superiors' orders — eventually leading to him going AWOL to protect his family;{{r|Venom Vol 2 10}} and with the predatory urges of the symbiote, which was kept suppressed by a [[Symbiote Suppressant Drug|suppressant chemical]] but would resurface if Flash became too angry.{{r|{{cl|Venom Vol 2 1}}-[[Venom Vol 2 2|2]]}}{{r|Venom Vol 2 4}}
+
+After joining the Secret Avengers and the Thunderbolts, Flash came to realize just how heavy the burden of being a hero was when his new rogues galley and the feral symbiote attacked his family; eventually leaving for Philadelphia to protect them and try to leave his past behind. Upon the Venom symbiote being cleansed, Flash's relationship with it began anew and he came to consider it his comrade and partner, to the point that even when it was re-corrupted he endeavored to save it from itself.{{r|Venom: Space Knight Vol 1 10|11}}
+
+Flash blamed himself for the death of Andrea Benton's father, and despite having never wanted children out of fear he'd turn out like his own dad he became a surrogate father and mentor to her.{{r|Venom Vol 2 42}}
+
+Thompson sank into a deep depression when he was separated from Venom. Not only was he worried sick about his friend and partner, he also missed being a superhero. He was eventually brought out of his depression by his determination to reunite with his former symbiote. Flash initially rejected the notion of the symbiote having returned to Eddie Brock,{{r|Amazing Spider-Man: Venom Inc. Alpha Vol 1 1}} but learned to respect Brock and accept him as the symbiote's host after he showed his heroic side while fighting Maniac.{{r|Amazing Spider-Man: Venom Inc. Omega Vol 1 1}}
+
+| Powers                  = '''White Symbiotic Costume:''' The [[Anti-Venom III (Symbiote) (Earth-616)|Anti-Venom symbiote]] grants Flash the following powers;
+* '''Superhuman Strength'''
+* '''Superhuman Speed'''
+* '''Superhuman Stamina'''
+* '''Superhuman Durability'''
+* '''Superhuman Agility'''
+* '''Superhuman Reflexes'''
+* '''Webbing Generation'''
+* '''Accelerated Healing Factor'''
+* '''Wall-Crawling'''
+* '''ESP (Spider-Sense)'''
+* '''Spider-Sense Immunity'''
+* '''Adaptive Camouflage'''
+* '''Constituent-Matter Generation'''
+* '''Constituent-Matter Manipulation'''
+* '''Shapeshifting'''
+* '''Genetic Memory'''
+* '''Night Vision'''
+* '''External Symbiote Rejection:''' As with [[Anti-Venom (Symbiote) (Earth-616)|the original]], the artificial Anti-Venom symbiote is caustic to the Venom symbiote, to the extent that prolonged physical contact will kill it. His touch also kills [[Poisons]], as they are a predator species who thrive on assimilated symbiote biomass.{{r|Venomized Vol 1 3}}
+* '''Healing Touch:''' The suit allows Flash to purge a person's body of impurities such as drugs, toxins, and diseases. However, unlike with the original Anti-Venom symbiote, Flash can also heal physical injuries and doesn't have the random power negation effect.{{r|Amazing Spider-Man: Venom Inc. Omega Vol 1 1}}
+
+{{Navigation
+| title = Former Powers
+| body  = '''Black Symbiotic Costume:''' The [[Venom (Symbiote) (Earth-616)|Venom symbiote]] granted Flash the following powers:
+* '''Superhuman Strength'''
+* '''Superhuman Speed'''
+* '''Superhuman Stamina'''
+* '''Superhuman Durability'''
+* '''Superhuman Agility'''
+* '''Superhuman Reflexes'''
+* '''Webbing Generation'''
+* '''Accelerated Healing Factor'''
+* '''Wall-Crawling'''
+* '''ESP (Spider-Sense)'''
+* '''Spider-Sense Immunity'''
+* '''Invisibility'''
+* '''Constituent-Matter Generation'''
+* '''Constituent-Matter Manipulation'''
+* '''Shapeshifting'''
+* '''Genetic Memory'''
+* '''Night Vision'''
+
+'''[[Hell-Mark]]:''' The Hell Mark bestowed upon the Venom symbiote by [[Mephisto (Earth-616)|Mephisto]] marked Flash as a potential candidate to become a [[Hell Lords (Earth-616)|Hell-Lord]] during the Descent and granted him the ability to subjugate and control lesser demons, though powerful demons are able to resist this.{{r|Venom Vol 2 41}} When the symbiote realized the demon implanted into them by [[Daimon Hellstrom (Earth-616)|Daimon Hellstrom]] was slowly taking over, it passed the Hell Mark on to its [[Mania (Symbiote) (Earth-616)|clone]] and bonded it to [[Andrea Benton (Earth-616)|Andrea Benton]].
+
+'''Demon:''' Flash was possessed by a demon through [[Daimon Hellstrom (Earth-616)|Daimon Hellstrom]]'s attempt to turn the symbiote into one of his [[Monsters of Evil (Earth-616)|Monsters of Evil]]. The demon initially wanted to be released from Flash's body since possessing a person who bore the Hell Mark had been forbidden, but couldn't be exorcised due to the Hell Mark's presence.{{r|Venom Vol 2 25}} Flash theorized that the symbiote and demon were cooperating to overcome their respective handicaps (drugs and the Hell Mark),{{r|Venom Vol 2 29}} but the symbiote realized that the demon was slowly overcoming the Hell Mark's suppression and expelled it along with the Hell Mark into its clone.{{r|Venom Vol 2 41}}
+}}
+| Abilities               = '''Skilled Marksman:''' Flash has been trained in sharpshooting and marksmanship from the U.S. Army.
+
+'''Skilled Combatant:''' Due to formal training as a boxer and a soldier, Flash is an exceptional combatant and easily combines his abilities with the use of symbiote powers.
+| Strength                = 
+| Weaknesses              = '''Alcoholism:''' Flash had been known to have a drinking problem.
+
+{{Navigation
+| title = Former Weaknesses
+| body  = '''Incomplete bonding:''' While under the oversight of Project Rebirth 2.0, Flash could not remain bonded to the Venom symbiote for more than 48 hours without fully bonding with the symbiote and risking it taking over him. The US Government had installed a fail-safe protocol through the use of a kill switch should Flash lose control. Flash later removed the failsafe protocol and fully bonded with the symbiote.
+
+'''Missing limbs:''' He lost his legs from the knees down in the Iraq war and was confined to a wheelchair afterwards. While wearing the Venom symbiote, Flash was able to regenerate his legs. Was not a problem after Flash obtained robotic prosthesis,{{r|Superior Spider-Man Vol 1 23}} but he did get rid of them. [[803 (Earth-616)|803]] later constructed a pair of prosthetics for Flash to use while not wearing the symbiote.{{r|Venom: Space Knight Vol 1 3}}
+
+'''Sonic and Heat:''' The Venom symbiote, like all others of its kind, is extremely vulnerable to heat and sonic based attacks. They can cause the symbiote physical pain and discomfort, where as "more powerful" attacks might be completely ineffective.
+
+'''Symbiote dependency:''' Because of sustained bonding with the symbiote and the effects of the drugs he uses to keep it in control, Flash's biology was modified to the point he depends on the symbiote to live. If Flash doesn't possesses the symbiote for a prolonged period of time, he could die.{{r|Superior Spider-Man Vol 1 24}} This issue was apparently removed by the Symbiotes hive-mind,{{r|Guardians of the Galaxy Vol 3 23}} as he has spent prolonged periods separated from the Venom symbiote without any adverse effects.{{r|Venom: Space Knight Vol 1 7}}
+}}
+
+| Equipment               = '''Prosthetic legs:''' A pair of prosthesis gifted to him by [[803 (Earth-616)|803]] to walk on his own while not bonded to the Venom symbiote.{{r|Venom: Space Knight Vol 1 3}}
+
+{{Navigation
+| title = Former Equipment
+| body  = '''Robotic prosthesis:''' Flash had acquired robotic implants replacing his missing legs.{{r|Superior Spider-Man Vol 1 23}} However, he later disposed of them.{{r|Thunderbolts Vol 2 20.NOW}}
+}}
+| Transportation          = Formerly [[Captain America's Motorcycle|a motorcycle]] owned by [[Steven Rogers (Earth-616)|Captain America]].
+| Weapons                 = [[Multi-Gun]] developed for Agent Venom by [[Aaron MacKenzie (Earth-616)|Aaron MacKenzie]].
+
+| Notes                   = * When Flash loses control of the suit, his appearance frequently changes to that of the "classic" Venom, Eddie Brock, occasionally retaining the spikes on his shoulders, arms, and legs and white-rimmed black eyes. Other times the white spider emblems have remained the same, or reverted to their appearance of Mac Gargan's Venom form. He can generate two mouths from the side of his neck, although he has only done so once.
+* As a member of the Red Hulk's Thunderbolts, Flash recolored the white areas of the symbiote red, making it resemble Randy Schueller's original concept art for the black suit.
+| Trivia                  = * Flash is the nephew of actress [[Lea Thompson (Earth-616)|Lea Thompson]].{{r|Howard the Duck Vol 6 9}}
+* Flash had an [[Federal Bureau of Investigation (Earth-616)|F.B.I]] file when he was still in high school, after starting one of only three Spider-Man fan clubs.{{r|Amazing Spider-Man Vol 1 574}}
+* Dan Slott revealed on Twitter that the ''[[Go Down Swinging]]'' was going to end with the implication that Flash may have survived being electrocuted by the [[Norman Osborn (Earth-616)|Red Goblin]], but this was removed when the editors pointed out it would cheapen his sacrifice.{{r|{{cite web|url=https://twitter.com/DanSlott/status/1310252210274676737|title=Dan Slott on Twitter: "@ScreamCassStan and @Te_Gillispie We originally had a scene where you saw that Flash might not really be dead at the end of ASM #800. But the editor made the call that we should cut that scene because it minimized Flash's sacrifice earlier in the story. I saw editorial's point and agreed to the cut.|work=Twitter|first= Dan|last= Slott|date=27 September 2020|accessdate=27 September 2020}}}}
+| Marvel                  = flash-thompson
+| Wikipedia               = Flash Thompson
+| Links                   = 
+}}
+[[es:Eugene Thompson (Tierra-616)]]
+[[it:Eugene Thompson (Terra-616)]]
+[[pt-br:Eugene Thompson (Terra-616)]]
+[[ro:Eugene Thompson (Pământ-616)]]
+[[Category:Alcoholism]]
+[[Category:Paralyzed Characters]]
+[[Category:Sonic Weakness]]
+[[Category:Fire Weakness]]
+[[Category:Symbiotes-possessed]]
+[[Category:Cannibals]]
+[[Category:Thompson Family]]
+[[Category:Weapons Expert]]
+[[Category:Demonic Form]]
+[[Category:Doctor Octopus Experiment]]
+[[Category:Web-Slinging]]
+[[Category:Wallcrawling]]
+[[Category:Midtown High School Students]]
+[[Category:Empire State University Student]]
+[[Category:Honorary Avengers]]
+[[Category:Military Personnel]]
+[[Category:Vietnam War Characters]]
+[[Category:Iraq War Characters]]
+[[Category:Medal of Honor]]
+[[Category:Super-Soldiers]]
+[[Category:Stretching]]
+[[Category:Organic Webbing]]
+[[Category:Camouflage]]
+[[Category:Superhuman Strength]]
+[[Category:Superhuman Speed]]
+[[Category:Superhuman Stamina]]
+[[Category:Superhuman Durability]]
+[[Category:Superhuman Agility]]
+[[Category:Superhuman Reflexes]]
+[[Category:Regenerative Durability]]
+[[Category:Precogs]]
+[[Category:Night Vision]]
+[[Category:Shooting]]
+[[Category:Fighting Ability - Experienced fighter]]
+[[Category:Regeneration]]
+[[Category:Healers]]
+[[Category:Dragon Form]]
+[[Category:Undead]]
+[[Category:Legally Deceased]]

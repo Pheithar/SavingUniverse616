@@ -1,0 +1,52 @@
+{{Marvel Database:Character Template
+| Image                   = Tapping_Tommy_(Earth-616)_from_Defenders_Strange_Heroes_Vol_1_1_0001.png
+| Name                    = Unknown
+| CurrentAlias            = Tapping Tommy
+| Aliases                 = 
+
+| Affiliation             = His henchman and robot-builder, Hodges
+| Relatives               = Parents (unnamed)
+| MaritalStatus           = 
+
+| CharRef                 = {{cl|Defenders: Strange Heroes #1}}
+| Gender                  = Male
+| Height                  = 6'1"
+| Weight                  = 170 lbs
+| Eyes                    = Blue
+| Hair                    = Blond
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = Criminal, former Tap Dancer
+| Education               = 
+| BaseOfOperations        = Formerly a studio in Los Angeles, now unknown
+
+| Creators                = Bill Mantlo; Sam Grainger
+| First                   = Defenders Vol 1 #30
+
+| History                 = When Tommy was five years old, his parents were arrested by the L.A.P.D. for operating a distillery during the Prohibition period on the location where his theater was located. Tommy was raised by a man named Hodges and scraped out a living as an extra in stage performances. Later he got a job in musicals but they soon went broke as well.
+
+Finally, when his film studio was bought out and shut down by Richmond Industries and was slated to become a housing project, Tommy swore revenge on [[Kyle Richmond (Earth-616)|Kyle Richmond]]. He and Hodges contacted the [[Maggia (Earth-616)|Maggia]], built or acquired a large number of humanoid robots, and used gas grenades to capture the [[Defenders (Earth-616)|Defenders]]. Binding them to a large set piece from one of his studio's failed musicals, he had the robots surround them and begin dancing while beating the Defenders with steel cane-bludgeons. The Defenders escaped, and fought the robots until [[Brunnhilde (Earth-616)|Valkyrie]] knocked the robots' control device from Hodges' hands. [[Stephen Strange (Earth-616)|Doctor Strange]] and the [[Bruce Banner (Earth-616)|Hulk]] then defeated Tommy.{{r|Defenders Vol 1 #30}}
+
+| Powers                  = None
+
+| Abilities               = Expert tap dancer with superb agility
+skilled swordsman
+| Strength                = Normal human with intensive exercise
+| Weaknesses              = 
+
+| Equipment               = A legion of tap-dancing robots as well as a larger robot used to attack the Hulk.
+| Transportation          = 
+| Weapons                 = Steel cane with a retractable bladed tip 
+sleeping gas grenades hidden in his top hat.
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * [http://www.marvunapp.com/Appendix/tappingt.htm Tapping Tommy at the Marvel Appendix]
+
+}}

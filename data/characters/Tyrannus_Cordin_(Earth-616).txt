@@ -1,0 +1,53 @@
+{{Marvel Database:Character Template
+| Image                   = Tyrannus Cordin (Earth-616) Nick Fury, Agent of S.H.I.E.L.D. Vol 3 27.jpg
+| Name                    = [[Tyrannus Cordin]]
+| CurrentAlias            = [[Garotte]]
+| Aliases                 = Colonel Strang{{r|Daredevil Vol 1 299}}; Garrote{{r|Daredevil Vol 1 331}}
+
+| Affiliation             = {{M|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Bald
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Public
+| Citizenship             = 
+| Occupation              = Hydra Lieutenant, assassin, terrorist
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = D.G. Chichester; Jackson Guice
+| First                   = Nick Fury, Agent of S.H.I.E.L.D. Vol 3 23
+
+| Quotation               = You are only a criminal, Mr. Fisk. And [[Hydra (Earth-616)|we]]... We are conquerors.
+| Speaker                 = [[Tyrannus Cordin (Earth-616)|Lieutenant Garotte]]
+| QuoteSource             = Daredevil Vol 1 299
+
+| History                 = As one of [[Wolfgang von Strucker (Earth-616)|Baron Strucker's]] chief lieutenants, Garotte led Hydra's successful attack on [[Wilson Fisk (Earth-616)|Kingpin's]] criminal empire.{{r|Daredevil Vol 1 299}}
+
+| Powers                  = 
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

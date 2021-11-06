@@ -1,0 +1,384 @@
+{{Marvel Database:Character Template
+| Image                   = New Mutants Vol 3 21 Textless.jpg
+| Name                    = [[David Haller|David Charles Haller]]
+| CurrentAlias            = [[Legion]]
+| Aliases                 = [[Jack Wayne (Legion Personality) (Earth-616)|Jack Wayne]],{{r|New Mutants #26}} [[Cyndi (Legion Personality) (Earth-616)|Cyndi]],{{r|New Mutants #26}} [[Jemail Karami (Earth-616)|Jemail Karami]],{{r|New Mutants #26}} Daniel,{{r|Uncanny X-Men #254}} God-Mutant,{{r|New Mutants Vol 3 21}} Bighair356,{{r|X-Men: Legacy Vol 2 8}} Numerous Splinter Personalities (''[[David Haller (Earth-616)#Powers|see powers]]'')
+
+| Affiliation              = [[Kurt Wagner (Earth-616)|Kurt Wagner]], [[Kuan-Yin Xorn (Earth-616)|Xorn]] & [[Shen Xorn (Earth-616)|Zorn]]; Formerly {{m|X-Men}}, {{m|Muir Island X-Men}}
+| Ancestors                = [[Charles Graymalkin (Earth-616)|Charles Graymalkin]] (Paternal Collateral Ancestor, deceased);<br>
+[[Marcia Graymalkin (Earth-616)|Marcia Graymalkin]] (Paternal Collateral Ancestor, deceased);<br>
+[[Jonas Graymalkin (Earth-616)|Jonas Graymalkin]] (Paternal Collateral Ancestor)
+| Grandparents             = [[Brian Xavier (Earth-616)|Brian Xavier]] (Paternal Grandfather, deceased);<br>
+[[Sharon Xavier (Earth-616)|Sharon Xavier]] (Paternal Grandmother, deceased);<br>
+[[Kurt Marko (Earth-616)|Kurt Marko]] (Paternal Step-Grandfather, deceased)
+| Preants                  = [[Charles Xavier (Earth-616)|Charles Xavier]] (Father);<br>
+[[Gabrielle Haller (Earth-616)|Gabrielle Haller]] (Mother);<br>
+[[Daniel Shomron (Earth-616)|Daniel Shomron]] (Stepfather, deceased){{r|Official Handbook of the Marvel Universe A-Z Update #2}}
+| Siblings                 = [[Xandra Neramani (Earth-616)|Xandra]] (Paternal Half-Sister);<br>
+[[Charles Xavier II (Earth-616)|Charles Xavier II]] (Paternal Half-Brother)
+| Relatives                = [[Cain Marko (Earth-616)|Cain Marko]] (Paternal Step-Uncle);<br>
+[[Cassandra Nova Xavier (Earth-616)|Cassandra Nova Xavier]] (Paternal Aunt);<br>
+[[:Category:Xavier Family|Xavier Family]] (Paternal Relatives);<br>
+[[Ruth Aldine (Earth-616)|Ruth Aldine]] (Lover/Former Body, deceased)
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 5'9"
+| Weight                  = 130 lbs
+| Eyes                    = Green (Right); Blue (Left)
+| Hair                    = Black
+| UnusualFeatures         = Both eyes have different irises ([[Wikipedia:Heterochromia|complete heterochromia]]), unusually tall flat-top haircut that resist all attempt at restyling it.
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Israel]]
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = Israeli, British, Krakoan
+| Occupation              = Adventurer; Former Student
+| Education               = 
+| BaseOfOperations        = Formerly [[Ruth Aldine (Earth-616)|Blindfold]]'s Mind; [[Utopia (X-Men Base)|Utopia]], [[San Francisco Bay]], [[California (State)|California]]; [[Westcliffe]], [[Colorado (State)|Colorado]]; "No-Time"; [[Moira MacTaggert (Earth-TRN748)|Moira MacTaggart]]'s [[Mutant Research Center]], [[Muir Island]], Off The Coast Of [[Scotland]]; [[Haifa]]; [[Paris (France)|Paris]], [[France]]
+
+| Creators                = Chris Claremont; Bill Sienkiewicz
+| First                   = New Mutants #25
+| First2                  = (Moira's Notes)<br>{{sld|New Mutants #26}}(Full Appearance)
+| Death                   = 
+
+| Quotation               = My name is Legion, for '''we''' are many!
+| Speaker                 = [[David Haller (Earth-616)|Legion]]
+
+| History                 = 
+===Early life===
+David Haller is the son of [[Charles Xavier (Earth-616)|Professor Charles Xavier]] and [[Gabrielle Haller (Earth-616)|Gabrielle Haller]], who later became the [[Israel]]i ambassador to the [[United Kingdom]]. Charles and [[Gabrielle Haller (Earth-616)|Gabrielle Haller]] had an affair in Israel nearly two decades ago, and Charles was unaware when he left Israel that Haller was pregnant with his son. Haller concealed the fact that Charles was the father of her son, David, and Charles himself only learned that he was David's father some time after founding the [[New Mutants (Earth-616)|New Mutants]]. David was born a [[mutant]] with the potential for superhuman powers.{{r|New Mutants #1}}
+
+It was later suggested by [[Moira MacTaggert (Earth-TRN748)|Moira MacTaggert]]'s journals that David's birth had been engineered by Moira and Xavier. Xavier had identified the need for a mutant with the power to warp reality, and Moira had identified potential matches for herself and Xavier that might result in such a mutant.{{r|Powers of X #6}}
+
+===Power Development===
+When David was living in [[Paris (France)|Paris]] with his mother, who was a member of the Israel diplomatic service, her home was invaded by a terrorist assassination team out to kill every Israeli they could find there. They murdered David's stepfather, [[Daniel Shomron (Earth-616)|Daniel Shomron]], before his eyes. David's terror catalyzed his latent psionic powers, which he used to incinerate the brains of the assassins. However, as he did so, he found himself making telepathic contact with each of his victims, thus experiencing their thoughts and emotions as they died. The horror of all this deeply traumatized the gentle, loving David, forcing him into a catatonic state. The consciousness of the leader of the assassins, Jemail Karami, was absorbed into David's mind.{{r|New Mutants #28}}
+
+Karami's consciousness merged with David's, and it took Karami years to separate his consciousness from his psychic captor's. Nevertheless, although Karami regained his sense of self, his consciousness remained trapped within David's mind. Karami discovered that he somehow gained control of David's mutant telepathic power and used it to read David's mind. Karami thus discovered that David was essentially a gentle, innocent person. Karami then read the minds of Gabrielle Haller and others, and with a better understanding of those around him, decided to restore David's mind to normalcy. The terrible trauma that David had suffered had splintered David's personality into multiple personalities. Each of these personalities controlled a different psionic power, many of which are as yet unknown. Karami began re-integrating these personalities into David's core personality, which was that of a little boy desperately needing parental help.{{r|New Mutants #28}}
+
+However, some of these personalities resisted Karami's efforts, and two proved to be particularly formidable opponents: Jack Wayne, a swaggering adult roustabout adventurer who commanded David's telekinetic power, and Cyndi, a temperamental, rebellious girl who controlled David's pyrokinetic power. Wayne was especially hostile, and intended to destroy Karami's consciousness in order to preserve his own independent existence within David's mind. Karami found himself fighting a war against Wayne and the other resisting personalities in a dreamscape world within David's mind resembling a mad blend of Paris (from David's childhood memories) and Beirut (from Karami's memories).{{r|{{cl|New Mutants Vol 1 26}}-[[New Mutants Vol 1 28|28]]}}
+
+===On Muir Island===
+When David was in his late teens he had gone from being catatonic to being autistic and had been placed by his mother in the care of Dr. [[Moira MacTaggert (Earth-TRN748)|Moira MacTaggart]], a renowned scientist engaged in the study of mutants, and a longtime colleague of Charles Xavier. David began to manifest his psionic abilities uncontrollably in the real world, and absorbed the psyches of two of MacTaggart's friends, Tom Corsi and Sharon Friedlander. MacTaggart summoned Xavier to her research center on Muir Island off the coast of Scotland, bringing with him several of the New Mutants, including [[Douglas Ramsey (Earth-616)|Cypher]], [[Danielle Moonstar (Earth-616)|Mirage]], and [[Rahne Sinclair (Earth-616)|Wolfsbane]]. David absorbed MacTaggart and Wolfsbane's consciousnesses, or their astral selves, into his mind. Xavier's attempted to probe David's mind, bringing Mirage's astral self with him for assistance. David's mind then absorbed the astral selves of Cypher and Gabrielle Haller, and those of Xavier and Mirage followed them. It was just before Xavier actually entered David's mind that he learned that David was his son and that the multiple personalities called themselves Legion (after the Biblical quotation Mark 5:9, "My name is Legion for we are many").{{r|New Mutants #26}}
+
+All of the consciousnesses that Legion had just "captured" retained their independent existences within David's mind. The new arrivals found themselves teaming up with Wayne and Cyndi against Karami, having been deceived by Wayne as to Karami's true motives. However, Mirage prevented Wayne from destroying Karami, who told her and Gabrielle Haller how he had been trying to help David. Working with the reluctant Wayne, Mirage and Karami completed the task of restoring David's mind to near-normalcy, and Mirage and Karami returned the consciousnesses absorbed from outside (including Mirage's own) back to their own bodies. (Since Karami's body was long dead, his psyche remained within David's mind.){{r|New Mutants #28}}
+
+However, Karami was unable to integrate the Wayne and Cyndi personalities into David's core persona, and so they remained separate personalities within David's mind. Wayne and Cyndi sometimes spoke to people in the real world through David, as could Karami, whose consciousness also remained an independent entity within David's mind. However, David himself was no longer autistic, and his normal, core personality was in control of his mind and body. David's dominant personality was still that of a ten-year-old boy, just as it was before he suffered the trauma. Apparently the conflict within David's mind among his splinter personalities affected his physiognomy, accounting for his unusual appearance. (Perhaps one of his personalities controlled shapeshifting powers.) It is not known whether or not David would have been more normal in appearance if his normal personality had retained control of his body.{{r|Official Handbook of the Marvel Universe Vol 2 7}}
+[[File:David Haller (Earth-616) from X-Men Vol 2 40 (Cover).jpg|left|thumb]]
+Some time later, an accident happened that would have killed Wolfsbane and Moira if David hadn't used his telekinetic power to save them. However, by doing this David allowed Jack to take control over his body and escape to Scotland to indulge himself. The New Mutants tracked him down and fought him. Jack forced Cyndi to help him. Cyndi didn't like being "anyone's puppet," but she didn't want to be locked up for only wanting to live. Sunspot had Magik take him and Legion into Limbo, warning Jack that unless he relinquished control, Magik would remove him from Legion's mind and obliterate him; in response, Jack retreated into David's subconscious, allowing David to resume control.{{r|New Mutants #44}}
+
+Months later, Muir Island was attacked by Donald Pierce and his Reavers during their ongoing campaign against Wolverine and his friends. David was in the nursery playing with Sunder and the Warpies, who were taken in when the island became a safe haven for the lost souls. Again, David reached out with his telekinetic powers, hoping to defend his friends from harm, but once more allowed Jack Wayne to reach the surface of his mind. Now in control, Wayne thought it would be cute to reshape the telekinetic shield to protect only him, leaving Sunder vulnerable to the gunfire.{{r|Uncanny X-Men #254}}
+
+Jack and Cyndi ran wild during the attack, doing as they pleased without any thought of the consequences, even after Freedom Force arrived to help fend off the Reavers. By snuffing out Pyro’s flame at a key moment, Cyndi accidentally ensured the death of Stonewall. Legion, while under the control of the [[Shadow King (Multiverse)|Shadow King]], also assaulted the elderly precog, Destiny, who had sensed him in advance and sent her protector Forge away so that he would not suffer the same fate. Legion probed Destiny’s mind, only to see visions of his own uncertain future reflected in her precognitive sight. Panicking, Legion struck out with a telepathic blast and killed Destiny before she could show him anymore.{{r|Uncanny X-Men #255}}{{r|X-Men Forever #2}}
+
+Legion's part in the day's tragedies remained unknown; due to the fortifying of the island's defenses and the overall negative emotional influence of Lorna Dane’s new powers no one noticed his changes. Jack Wayne assumed control over David’s body and all of his powers and decided to have some fun with the island’s inhabitants. He began by imprisoning Polaris in the Mutant X detention cell, since she was the only one unaffected by her own “negativity” force and therefore could discover the truth about him.{{r|Uncanny X-Men #257}}
+
+Jack acted like David Haller in the presence of others, and so he allowed himself to be used by Forge in an experiment to locate the missing X-Men with a Cerebro unit. Unfortunately, they made telepathic contact with something else, the Shadow King.{{r|Uncanny X-Men #259}} For unknown reason the Shadow King let go of his hold of the island when the New Warriors and New Mutants descended on Muir Island. Legion tried to use his power to reabsorb [[Kevin MacTaggert (Earth-616)|Proteus]]'s energy from [[Gilbert Benson (Earth-616)|Piecemeal]]. Unfortunately, the depth of Piecemeal's pain telepathically bled through Legion's mind, causing him to drop his telekinetic fields. The plan fell apart when Proteus’s energy burned out Piecemeal and re-birthed MacTaggart himself, who banished the heroes to a dimension of nothingness.{{r|X-Men Annual Vol 1 15}}
+
+X-Factor, who had made a failed attempt to stop Proteus and reclaim Edinburgh, were also banished. Jean Grey had been exposed to Proteus’s thoughts during the fight. She used Legion and Jemail’s telepathy to share the experience with everyone, showing them the peace Proteus had achieved in his incorporeal state and that his efforts to restructure Edinburgh were an attempt to recreate the same peace in the real world. Tragically, the gathering of heroes were forced to convince Proteus he could never find the same happiness in life that he found in death so Proteus chose to die again.{{r|X-Factor Annual #6}}
+
+After returning to the Muir Island, the Shadow King, using Jack Wayne’s captive, Polaris, as a nexus for negative energy, expanded his influence over the globe, pushing the darkness within humanity to the surface. The X-Men, who had just returned from space with Professor X, attempted to infiltrate the island but were quickly discovered. Legion personally confronted Storm. David Haller resisted the Shadow King’s demands, but Jack Wayne was more than willing to carry out Farouk’s commands. The negative influence made Wayne strong enough to access all of Legion’s powers and he shot down Storm with a combination of telepathic, telekinetic and pyrokinetic power.{{r|Uncanny X-Men #278}} After the death of his primary host, the Shadow King took a new host, Legion himself and used his immense power to unleash a devastating blast that destroyed more than two-thirds of Muir Island.{{r|X-Factor #69}}
+
+The Shadow King used David's body to torment Prof. X, mocking him while he thought that he was corrupting David. The Shadow King revealed that he'd merely given David self-control by healing his fractured mind, and that David enjoyed it. David's physical body was hurt by Storm and needed time to heal so the Shadow King retreated. When the Shadow King was finally defeated and pushed from David's mind, David was left in a vegetative state.{{r|Uncanny X-Men #280}} Prof. X didn't want to lose his son so he desperately searched for any trace of consciousness inside David's mind. Unable to locate any signs of activity, he reluctantly accepted that David was gone.{{r|X-Factor #70}}
+
+===Legion Quest===
+[[File:David Haller (Earth-616), X-Men (Earth-616), Max Eisenhardt (Earth-616), and Irene Adler (Earth-616) from X-Men Vol 2 38.jpg|thumb|David's vision and awakening from his coma]]
+David was consigned to an intensive care ward at a hospital in Tel Aviv, his body receiving the best of care in the hopes that his mind might someday return. Many months later, David awakened with his mind completely healed after visions of Destiny urged him on towards his true destiny.{{r|X-Men #38}} For a time David faked being in a coma while using his telepathic power to link his mind to his father's dreams. In them, he appeared as Magneto to try to convince his father that if Magneto was out of the way his dream of human/mutant unity would come true. However, David's attempts failed when Xavier refused to accept that Magneto's death would help realize his dream. Hearing this, David revealed himself and told his father he disagreed.{{r|Uncanny X-Men #319}} When Mystique came to murder David for killing Destiny, he stopped pretending to be in a coma, telekinetically blasted her away, and claimed he was expecting her.{{r|X-Factor #108}}
+
+Mystique fled, promising to return, and was pursued by X-Factor. Shortly afterwards, Gabrielle Haller was shocked and overjoyed when David called her mother, thinking that her son was finally whole again. David fainted again and in his mind made a tombstone for his splinter personality while having another vision of Destiny. When he awakened he seemed incoherent, and when his mother brought Forge to help him, he was gone. When David found Mystique battling Forge and Wolfsbane he stopped them so he could deliver Destiny's message to Mystique. He then teleported X-Factor away, saying they needed to be somewhere else. When Mystique questioned David, he said he would fix everything and "make it all better" before flying away.{{r|X-Factor #109}}
+
+David flew to Negev Desert where he had another vision of Destiny. In it she claimed it was his destiny to heal the rift between humans and mutants thus making the world as his father had always wanted. Believing the visions, he started to construct a "psychic bunker".{{r|X-Men Vol 2 39}} In an effort to learn his goals, the military sent vehicles into the dome David constructed only to have them destroyed. Gabrielle Haller contacted the X-Men for help. Failing to enter David's "bunker," the X-Men's Blackbird was caught in a telekinetic field. David claimed to be happy to see his "step-siblings," thinking they were there to support him. Legion told the heroes to say what they wanted, but to watch their tone as he was no longer insane. Jean Grey tried to convince him that he was still not fully healed, but David disagreed. The young mutant insisted that he was whole at last and that he would complete his father's work. When Storm questioned him again, David pulled her through a time portal, arriving at the moment her parents perished. David told her she could save them which she tried to do, only to be wrenched back to the future. Storm claimed that what she saw was an illusion, but David insisted it was real time travel and that she simply was not fast enough to save her family. Realizing what Legion was trying to do, Storm asked Psylocke to link her mind with Bishop (who had just tried to absorb Legion's energy) and a moment later the mutants were dragged to the past with David.{{r|Uncanny X-Men #320}}
+
+An alternate future dubbed the "[[Earth-295|Age of Apocalypse]]" was created when Legion went back in time to kill [[Max Eisenhardt (Earth-616)|Magneto]] before he could oppose Xavier's dream, but instead inadvertently killed Xavier himself.{{r|X-Men Vol 2 41}} Only [[Lucas Bishop (Earth-1191)|Bishop]] remembered the proper timeline, so he traveled to the moment of Xavier's murder and used Legion's own power to create a psionic loop, forcing the young mutant to see the damage he had caused. The energy released by this event was so intense that David apparently died. Since Bishop had prevented Legion from killing Xavier, the normal timeline was restored.{{r|X-Men Omega #1}}
+
+===Return of Legion===
+After [[Lucas Bishop (Earth-1191)|Bishop]]'s attack, Legion disappeared into somewhere called the "no-time." Here David encountered and absorbed the psyches of many others, splintering many more times to create hundreds of new personas. He was found here by [[Illyana Rasputina (Earth-616)|Magik]]. She made contact with his Legion-personality and brought him back to [[Earth-616|Earth]] in exchange for his promise to help her destroy the [[Elder Gods]] and reclaim her soul.{{r|New Mutants Vol 3 1|21}} David emerged near Westcliffe, [[Colorado (State)|Colorado]] where he met [[Marci Sabol (Earth-616)|Marci Sabol]]. She helped David, gave him water and played games with him. Unfortunately, one of Legion's murderous personalities emerged, killed the girl and absorbed her psyche into Legion's mind.{{r|{{cl|New Mutants Vol 3 1}}-[[New Mutants Vol 3 5|5]]}}
+
+After embarking on a mission to investigate a report of mutant activity in Colorado, Danielle Moonstar and [[Xi'an Coy Manh (Earth-616)|Karma]] went missing. Karma attempted to reach out psychically for Marci and ended up trapped in Legion's mind. Meanwhile, Moonstar was arrested.{{r|New Mutants Vol 3 2}} Upon learning of his former teammates' disappearance, [[Samuel Guthrie (Earth-616)|Cannonball]] formed a team to investigate, consisting of [[Roberto Da Costa (Earth-616)|Sunspot]], [[Illyana Rasputina (Earth-616)|Magik]], and [[Amara Aquilla (Earth-616)|Magma]]. Cannonball and Sunspot found Karma's unconscious body in a backroom at a bar. Meanwhile, Magik and Magma found Karma's mind inhabiting Legion's body inside a metal box kept in the cellar of a private residence.{{r|New Mutants Vol 3 1}}
+
+While the rest of the team was battling Legion's body and numerous evil personas, Magik entered Legion's mind and killed Jack Wayne with her [[Soulsword]]. After finding Karma, Marci brought the girls to the cell holding David. The four then gained possession of a Moira doll and thereby gained control of David's body. Before leaving David's body, however, Karma used Magik's Soulsword to kill the persona who murdered Marci. [[Emma Frost (Earth-616)|Emma Frost]] and [[Scott Summers (Earth-616)|Cyclops]] arrived soon afterward to help transport Legion and to "clean" the minds of the civilians.{{r|New Mutants Vol 3 1|4}}
+
+Once on [[Utopia (X-Men Base)|Utopia]], the [[X-Club (Earth-616)|X-Club]] along with [[Rogue (Anna Marie) (Earth-616)|Rogue]] and [[Danger (Earth-616)|Danger]], began repairing David's mind by cataloging and trapping the other personalities one by one.{{r|New Mutants Vol 3 5}} After [[Charles Ulysses (Earth-616)|General Ulysses]] of the U.S. Marines returned from Limbo, captured the soul gems, and unleashed the Elder Gods, Magik put her plan into action. She sent Karma, armed with the Soulsword, back into Legion's mind, and freed his reality-warping Legion-personality. Legion honored his part of their bargain, using his powers to remove the Elder Gods from reality once and for all.{{r|New Mutants Vol 3 1|21}}
+
+===Legion joins the X-Men===
+During [[Bastion (Earth-616)|Bastion]]'s [[Second Coming|attacks on the X-Men]], Cyclops asked Professor X to recruit Legion for the battle. Professor X reluctantly agreed and Legion was able to use his various powers to fight [[Nimrod (Earth-10076)|Nimrod Sentinels]] alongside the other X-Men.{{r|New Mutants Vol 3 14}}
+
+Not long afterwards, [[James Bradley (Earth-616)|Doctor Nemesis]] began killing off Legion's sub-personalities, seemingly without any negative effects.{{r|X-Men: Legacy #244}} However, unbeknownst to Nemesis, Legion's mind created a [[Moira MacTaggert (Earth-11326)|powerful new persona]] to protect itself.{{r|X-Men: Legacy #247}} This new persona used it's reality-warping powers to create a [[Earth-11326|world]] where David was a beloved hero.{{r|X-Men: Legacy #247}} David eventually became conscious of the fact that this reality was a fake created by him. He re-absorbed his rogue personality, and used its powers to restore reality to its original state.{{r|New Mutants Vol 3 24}}
+
+===Lost Legion===
+As a consequence of his restoration of reality, several of David's personas escaped in corporeal bodies. With a small team of X-Men, Legion began to hunt down and reabsorb all of these rogue personas, but while capturing the last one he accidentally absorbed Rogue. Upon releasing her, he suffered a massive shock to his nervous system, leaving him in a coma.{{r|X-Men: Legacy #249|253}}
+
+===Quest for Control===
+David recovered from his catatonic state at some point and was seen on the shores of [[Ibiza]], [[Spain]] together with his father. He suffered intense pain - just as many other psychics did - when the Phoenix arrived to claim its host.{{r|Avengers vs. X-Men #5}}
+
+After waking up, Professor Xavier sent Legion away to a commune for spiritualists in the [[Himalayas]]. Studying under a guru, [[Merzah (Earth-616)|Merzah the Mystic]], David gained a far greater level of control over his powers and split personalities. This would all come tumbling down however, when his father died. The psychic shockwaves caused by his father's death tore down the delicate system of control David had established inside his mind, and caused him to lose control over his powers, leading him to destroy the commune.{{r|X-Men: Legacy Vol 2 1}}
+
+His various personalities began struggling for control over his body, while David himself hid within his own mind. He received aid from a [[Luca Aldine (Earth-616)|mysterious stranger]], who saved his life, buying David time to subdue one of his rogue personas and claiming its power, telepathy, for himself. Reading the stranger's mind, David detected a great hatred for mutants, and learned of two imprisoned mutant twins in Japan, before the stranger disappeared.{{r|X-Men: Legacy Vol 2 2}}
+
+David tracked the twins down in Japan, only to learn that they - Karasu-Tengu and Sojobo-Tengu - were not captives but the heirs of one of [[James Logan (Earth-616)|Wolverine's]] enemies, [[Ogun (Ninja) (Earth-616)|Ogun]], a yakuza leader that was told Legion would come to destroy their clan. David was captured, but managed to convince the twins that he meant them no harm, and offered them freedom from the oppressive legacy of their father and the clan's demands of them. The twins accepted his offer to come with him, but the [[X-Men (Earth-616)|X-Men]] arrived, having been deceived by the [[Luca Aldine (Earth-616)|stranger]] into believing David was going to hurt the twins. A fight broke out, and David realized he was endangering the children, prompting him to leave them in the X-Men's care.{{r|X-Men: Legacy Vol 2 3}} {{r|X-Men: Legacy Vol 2 4}}
+
+===Fighting for Mutantkind===
+Seeking to follow the example of his father, but disagreeing with the reactive methods he and the X-Men espoused, David vowed to use his powers proactively, to snuff out threats to mutantkind before they had the chance to strike. David's growing confidence allowed him greater control over his powers, allowing him to subdue stronger personas within his mind. During his battle with the X-Men, David's mind had been invaded by [[Ruth Aldine (Earth-616)|Blindfold]]. She declared herself his nemesis, before kissing him, only to suddenly be ejected by one of his personas. {{r|X-Men: Legacy Vol 2 4}} David became determined to learn more about her, prompting him to make his way into the [[Xavier's School for Gifted Youngsters|Jean Grey School]]. In the process, he learned that the mysterious, mutant-hating stranger that had aided him was in fact Blindfold's brother Luca Aldine, who had stolen some of his sister's powers, and was using them to manipulate David, as his visions of the future had shown him that David would bring about the end of the mutant race. He had also killed Sojobo-Tengu, and used his body as a puppet to allow him the opportunity to kill his sister.{{r|X-Men: Legacy Vol 2 5}}
+
+David managed to foil the scheme, saving Blindfold's life. The X-Men offered to let him stay with them, but still disagreeing with their methods, he set off on his own. The rogue personality that had kicked Blindfold out of his mind, and had also briefly possessed him during his battle with Luca, made its presence known, assuming the form of David's father, [[Charles Xavier (Earth-616)|Charles Xavier]]. David would thenceforth refer to the personality as [[Charles Xavier (Legion Personality) (Earth-616)|the Fiend]]. {{r|X-Men: Legacy Vol 2 6}}  
+
+[[File:David Haller (Earth-616) from X-Men Legacy Vol 1 21.jpg|left|thumb|250px|Legion merged with his personalities]]
+In an effort to aid mutantkind, David went in search for the journals of Luca Aldine, containing his visions of how David would bring about the end of the mutant race. He tracked down the group that turned Luca into a rabid mutant-hater and framed them for his summoning of a pack of [[Dire Wraiths]] to serve as a distraction when infiltrating the Jean Grey School. He hid the fact that he had retrieved Luca's journal from Blindfold, with whom he had a burgeoning romance.{{r|X-Men: Legacy Vol 2 7}} Later he helped a new mutant whose power is to take credit for other people's work, setting him on the path towards happiness.{{r|X-Men: Legacy Vol 2 8}}
+[[File:David Haller (Earth-616), Karasu-Tengu (Earth-616), Sojobo-Tengu (Earth-616) from X-Men Legacy Vol 2 3 0001.png|right|thumb]]
+
+While generally doing good things for the benefit of mutantkind and the world at large, David had issues trusting others. Luca's journals alerted him to the danger posed by [[Aarkus (Earth-616)|Aarkus]], a maddened protector of Earth who was planning to wipe mutantkind from the face of the planet. While on a date with Blindfold on the Moon, near Aarkus' base, David revealed to her that he had telepathically shut Aarkus' mind down, placing him in a coma, while the couple had been having an argument on whether or not David would be justified in doing so. He asked Ruth to take Aarkus to the X-Men, in the hopes that they would be able to heal his mind.{{r|X-Men: Legacy Vol 2 9}}
+
+After manipulating [[Peter Wisdom (Earth-616)|Pete Wisdom]] into helping him combat anti-mutant sentiment in the [[United Kingdom]], Wisdom had him arrested and turned over to the custody of his mother, [[Gabrielle Haller (Earth-616)||Gabrielle Haller]]. Finally re-united with his mother, David was initially angry with her for abandoning him, but the two reconciled, moments before Gabrielle was killed by a stray bullet aimed for David. David killed the assassins, an anti-mutant despot David had humiliated, and his bodyguard. {{r|X-Men: Legacy Vol 2 16}}
+
+In order draw out and stop Luca, David manipulated [[Scott Summers (Earth-616)|Cyclops]] and the [[X-Men (Earth-616)|X-Men]] by making them think he had come to kill Cyclops to avenge  his father. The scheme worked, as David was able to fool Luca into thinking that the moment when David ended mutantkind had arrived, allowing David to incapacitate him. However, David's trust issues would come back to haunt him. By not informing Cyclops of his plans, he and the X-Men had believed that David had lost control again and was a threat to the world. [[Emma Frost (Earth-616)|Emma Frost]] and the [[Stepford Cuckoos (Earth-616)|Cuckoos]] implanted a telepathic virus in David's mind, set to destroy his mind in case the X-Men failed to stop him. Learning too late that David had meant them no harm, the virus ravaged his barely restrained psyche, allowing the Fiend to escape his mind and possess the disembodied form of Luca Aldine. {{r|X-Men: Legacy Vol 2 18}} The Fiend began wreaking havoc on the [[Astral Plane]], enhancing humanity's hatred in subtle ways that escaped the notice of most superheroes, but which would quickly result in the end of the world. {{r|X-Men: Legacy Vol 2 19}}
+
+David survived the virus, and was remanded into [[Sentient World Observation and Response Department (Earth-616)|S.W.O.R.D.'s]] custody. S.W.O.R.D. commander [[Abigail Brand (Earth-616)|Abigail Brand]], together with a recovered Aarkus and Karasu Tengu, created a scenario in David's mind, allowing him to not only gain control of his personalities' powers, but to re-absorb them into his core personality. {{r|X-Men: Legacy Vol 2 20}} Realizing how his paranoia and lack of trust had been holding him back, David gradually began reaching out to and re-absorbing his personalities peacefully, in order to gain enough power to destroy the Fiend. {{r|X-Men: Legacy Vol 2 21}} Despite his massive power, David was unable to overcome the Fiend. He subconsciously called out to the X-Men and other heroes that had aided him during his quest to save mutantkind, and they arrived just in time to stop a nuclear attack orchestrated by the Fiend. Together, they were abled to defeat the Fiend, who merged with David.{{r|X-Men: Legacy Vol 2 22}}
+
+Merging with the Fiend caused David to lose control. Just as he had begun drawing in his different personas, he now began to draw in all mutants on Earth, merging them into a monstrosity that would soon bring about the end of the Earth, unless Ruth could kill him. Ruth's love however, inspired David, allowing him to come to terms with his life of struggles, and allowing him to merge with his final remaining persona [[Weaver (Legion Personality) (Earth-616)|The Weaver]], possessing his powers to warp reality. Now complete, David used his godlike powers to undo the events that had caused him to end mutantkind. He re-wrote reality, attempting to right as many of the wrongs he had brought about, while keeping as much of the good he had accomplished, as possible. Finally, he wrote himself out of reality, leaving Ruth the only person that remembered him.{{r|X-Men: Legacy Vol 2 24}} 
+
+However, this would not prove to be permanent. Others' memories of him eventually returned, and finally, {{r|Phoenix Resurrection: The Return of Jean Grey Vol 1 2}}{{r|Astonishing X-Men Vol 4 7}} so did David himself.{{r|Legion Vol 1 1}}
+
+===Lord Trauma===
+After his resurrection, a personality of David's by the name Lord Trauma tried to take over his mind while David was taken into hospital after being found by an Amish couple. David manages to temporarily defeat Lord Trauma and heads to see Dr. Hannah Jones, a psychotherapist known for mainly working with celebrities.<!-- {{r|Legion Vol 1 1}} -->
+
+As David is heading in her direction, Lord Trauma seeks her out and warns her not to treat David and trying to scare her through visual hallucinations. David pulls her out of one of the hallucinations and introduces himself, asking for her help.{{r|Legion Vol 1 1}}
+
+Hannah accepts David's ask for help, and quickly is transported into his mind. Hannah is attacked by creatures sent by Lord Trauma and meets with Tami Haar, another of David's personalities. She leads Hannah away from the creatures and to the ancient cities, structures containing past memories.<!-- {{r|Legion Vol 1 2}} -->
+
+Hannah witnesses a memory where David caused a psychiatric doctor to commit suicide after his temper snapped. Trying to help young David, Hannah and Tami are flung out of the memory by the young David and down to nightmare beach. The pair move past the bitter-sweet spores after Hannah unwittingly touches one and falls sick.<!-- {{r|Legion Vol 1 2}} -->
+
+Back at the hospital, Lord Trauma keeps speaking to David and causes him to unknowingly shout at a patient, causing him to be taken away by security. This episode of paranoia causes his mindscape to become overwhelmed with voices in the form of extreme wind.{{r|Legion Vol 1 2}}
+
+===X-Men Disassembled===
+Legion witnessed a vision of the future where [[Nathaniel Grey (Earth-295)|X-Man]] and his [[Horsemen of Salvation (Earth-616)|Horsemen of Salvation]] attacked the world in order to bring about X-Men's vision for the world. So, Legion took Multiple Man prison so he could make and take control of hundreds of Multiple Man dupes and sent them throughout the world. The dupes wreaked havoc, forcing the X-Men to intervene. When confronted by Jean Grey, Legion told her of his vision. However, it was too late, and the Horsemen of Salvation attacked.{{r|Uncanny X-Men Vol 5 1|3}}
+
+X-Man fought the X-Men and Legion, who teleported X-Man to a copy of his home reality inside his subconsciousness.{{r|Uncanny X-Men Vol 5 8}} X-Man saw past the ruse and took control of Legion so he could use his power to kill the X-Men. After deciding nothing would improve with the X-Men around, X-Man made all the X-Men present disappear including Legion, leaving himself alone and unconscious.{{r|Uncanny X-Men Vol 5 10}}
+
+===Age of X-Man===
+Legion and the X-Men who vanished were transported to a [[Age of X-Man (Plane)|different reality]] created by X-Man who attempted to create a utopia where all mutants lived in peace. The mutants sent there had their memories erased so they wouldn't resist.{{r|Age of X-Man Alpha Vol 1 1}}
+
+Legion was placed in the [[Danger Room|Danger Room Prison Complex]] and was its most dangerous prisoner. Because of his abilities, he was placed in solitary confinement and not allowed out. He had been the one who has been altering the other prisoners' memories, and he was largely in control of all aspects of the prison.<!-- {{r|Age of X-Man: Prisoner X Vol 1 3}} -->
+
+Legion was found by [[Lucas Bishop (Earth-1191)|Bishop]] who was also put in solitary. Bishop said he was crazy, but this was way beyond even David. Legion laughed at Bishop as he said Bishop wouldn't even remember their encounter the following day.{{r|Age of X-Man: Prisoner X Vol 1 3}}
+
+Legion was later freed by X-Man and allowed to return to the real world after deciding to release the mutants he had trapped there.{{r|Age of X-Man Omega Vol 1 1}}
+
+===Legion Reborn===
+He was later listed as an active member of the [[X-Men (Earth-616)|X-Men]], presumably on [[Krakoa (Earth-616)|Krakoa]],{{r|X of Swords Handbook Vol 1 1}} but this turned out to be false.{{r|Way of X Vol 1 1}}
+
+It turned out that David had been captured by [[Orchis (Earth-616)|Orchis]] and had his brain harvested for the use of creating multiple probability scenarios in which to bring down the nation of Krakoa. Now stuck in an astral form, he reached out to [[Kurt Wagner (Earth-616)|Kurt]] for a favor in return, as Kurt himself had a psionic coin implanted in his mind and causing him mental distress. David got rid of it in return for Kurt gathering [[Megan Gwynn (Earth-616)|Pixie]] and Doctor Nemesis to help him find his brain and destroy it. After David died at Kurt's hands, his husk was reborn on Krakoa, causing waves of emotion and power that could be felt by the Krakoans all throughout the island. His father, [[Charles Xavier (Earth-616)|Professor X]], decided not to put his essence (mind) in his body because he was afraid that David still wasn't stable and could not be controlled. To everyone's surprise, he restored his own mind without the use of [[Cerebro]] after hearing everything that his father had said about him.
+
+[[Max Eisenhardt (Earth-616)|Magneto]] approached him about his plans for his fellow Omega-level mutants during the Hellfire Gala, but he rejected him and his father as he didn't trust either of them or the others on Krakoa due to the numerous secrets he claimed were floating around, with the exception of Kurt. David offered to help Kurt uncover the new secrets and mysteries that had occurred since Krakoa became a nation, revealing that the Patchwork Man was [[Onslaught (Psychic Entity) (Earth-616)|Onslaught]].{{r|Way of X Vol 1 2}}
+
+Legion employed [[Shen Xorn (Earth-616)|Zorn]] and [[Kuan-Yin Xorn (Earth-616)|Xorn]] to follow him around and disintegrate his mind if he ever lost control.{{r|Way of X Vol 1 4}} When [[Alani Ryan (Earth-616)|Loa]] and [[Cessily Kincaid (Earth-616)|Mercury]] sought him out to teach them mental intimacy, like he used to do with Blindfold, he saw this as a good way to trap Onslaught. He allowed Onslaught to invade the mental fusion but he couldn't contain him and he escaped to [[Miranda Leevald (Earth-616)|Stacy X]]'s orphanage where he caused a fight between [[Lost (Earth-616)|Lost]] and [[Fabian Cortez (Earth-616)|Fabian Cortez]].{{r|Way of X Vol 1 3}}
+
+David took the twins with him when he met with his father at the [[Green Lagoon]], the meeting was tense and aggressive with David admitting he loved his dad but refusing to tell him anything about his recent attempts to stop Onslaught. The meeting was cut short when Onslaught possessed everyone in the bar and tried to attack David and the twins and they casually disintegrated them all with their combined powers before leaving.{{r|Way of X Vol 1 4}} When resurrected with no memory of being possessed, Xavier went to [[Mars (Planet)|Planet Arakko]] to confront his son about his behavior and tell him not to return to Krakoa but David ignored him because he was trying to contact Nightcrawler telepathically. They were almost crushed when [[Phobos (Moon)|Phobos]] fell out of orbit but were saved by Nightcrawler.{{r|Way of X Vol 1 5}}
+
+| Powers                  = {{quote|I'll simplify: Legion is an omega level mutant who, when whole, can bend '''time''' to his will. Causing a spontaneous mutation is most likely '''well''' within his capabilities. Whether he's conscious of it or not.|[[James Bradley (Earth-616)|Doctor Nemesis]]|New Mutants Vol 3 5}}
+
+[[File:David Haller (Earth-616) from New Mutants Vol 3 14 0001.png|thumb|325px|right|One of the various representation of Legion's mindspace]]
+Legion is an [[Mutant Power Level Classification|Omega Level mutant]],{{r|New Mutants Vol 3 4}}{{r|New Mutants Vol 3 5}}{{r|Uncanny X-Men #525}}{{r|New Mutants Vol 3 14}}{{r|House of X #1}} with the ability to create '''spontaneous mutations''' with varying attributes. Due to either his immense powers, mental instability or combination of the two, David creates a new persona (or sub-personality) to govern each one of these new mutations.
+
+He stated that he had in his mind ''"200 Omega-level split personalities"''.{{r|X-Men: Legacy Vol 2 5}}<!-- Not precise which-->
+
+Rogue stated that while she was inside Legion, she was connected to thousands of types of powers and there were more "being born" all the time.{{r|X-Men: Legacy #254}}
+
+''See here the [[:Category:Legion Subpersonalities|list of Legion's personas]].''
+David's known personas/power combinations include:
+* '''''[[Jemail Karami (Earth-616)|Jemail Karami]]'' (Personality 002)''': A terrorist leader who once tried to restructure David's fractured personality in his own image. He possesses '''[[telepathy]]'''. Jemail was once a real man, but died near David and thereby became the first psyche David absorbed.
+
+* '''''[[Jack Wayne (Legion Personality) (Earth-616)|Jack Wayne]]'' (Personality 003)''': A swaggering adult roustabout adventurer with the ability of '''[[telekinesis]]'''. He was killed by [[Illyana Rasputina (Earth-616)|Magik]] with her [[Soulsword]] during her attempt to rescue [[Xi'an Coy Manh (Earth-616)|Karma]]{{r|New Mutants Vol 3 3}} but was proved to be still alive later.{{r|X-Men: Legacy #250}} He was later subsumed by [[Lord Trauma (Legion Personality) (Earth-616)|Lord Trauma]].{{r|Legion Vol 1 3}}
+
+* '''''[[Cyndi (Legion Personality) (Earth-616)|Cyndi]]'' (Personality 004)''': A temperamental, rebellious girl with '''pyrokinesis'''. She had a crush on [[Douglas Ramsey (Earth-616)|Cypher]].{{r|New Mutants #28}}
+
+* '''''The Legion'' (Personality 005)''': He is self described as "real me" and by [[Illyana Rasputina (Earth-616)|Magik]] as a "God-Mutant". He is able to '''warp-reality''' to his will and '''manipulate time'''. Using these powers he created the [[Earth-295|Age of Apocalypse]] and eliminated the [[Elder Gods of Limbo]].
+
+* '''''[[Sally (Legion Personality) (Earth-616)|Sally]]'' (Personality 067)''': She is an obese, lonely woman with Hulk-like '''super strength''' and '''increased muscle mass'''.{{r|New Mutants Vol 3 3}}{{r|X-Men: Legacy #251}}
+
+* '''[[115 (Legion Personality) (Earth-616)|(Personality 115)]]''': She is a British punk rocker who appears to '''channel sound into energy blasts'''.{{r|New Mutants Vol 3 14}}
+
+* '''[[181 (Legion Personality) (Earth-616)|(Personality 181)]]''': Little is known about this persona, but it can '''enlarge itself to an undetermined size'''. This was the first power Legion utilized with the ''Neural Switchboard Wristband''.{{r|X-Men: Legacy #248}}
+
+* '''''[[Johnny Gomorrah (Legion Personality) (Earth-616)|Johnny Gomorrah]]'' (Personality 186)''': He able to '''transmute objects and enemies into salt'''.{{r|X-Men: Legacy #249}}
+
+* '''''[[Time-Sink (Legion Personality) (Earth-616)|Time-Sink]]'' (Personality 227)''': One of the sub-personalities who escape from Legion's consciousness after the [[Age of X]].{{r|X-Men: Legacy #249}} He was apprehended and reabsorbed by Legion with help from the X-Men.{{r|X-Men: Legacy #250}} He can '''manipulate time'''.
+
+[[File:David Haller (Earth-616) showing other sub personalities from X-Men Legacy Vol 1 249 001.jpg|thumb|220px|right|Legion as Delphic showing his personality which escaped from his consciousness after the [[Age of X]]]]
+
+* '''[[302 (Legion Personality) (Earth-616)|(Personality 302)]]''': Little is known about this persona, but Legion used this persona's '''rapid punching''' powers while battling Time-Sink.{{r|X-Men: Legacy #250}} Later, in [[London (England)|London]], [[Rogue (Anna Marie) (Earth-616)|Rogue]] borrowed this power to subdue [[Max Eisenhardt (Earth-616)|Magneto]].{{r|X-Men: Legacy #251}}
+
+* '''''[[Styx (Legion Personality) (Earth-616)|Styx]]'' (Personality 666)''': Styx power is to use a '''touch of death''' to absorb the spirits' of his victims. After absorbing a spirit, Styx can continue to control the victim's body.{{r|X-Men: Legacy #250}}{{r|X-Men: Legacy #252}} He was the ring leader of the sub-personalities to escape from Legion's consciousness after the [[Age of X]].{{r|X-Men: Legacy #249}} After parting ways, Styx set his headquarters in the catacombs beneath [[Paris (France)|Paris]]. To lure Legion to him, Styx kidnapped [[Charles Xavier (Earth-616)|Professor X]], but left a lily (his calling card) and coordinates to locate him.{{r|X-Men: Legacy #251|252}}
+
+* '''(Personality 749)''': Little is known, but Legion used this persona's '''electrical discharge''' powers while battle Time-Sink.{{r|X-Men: Legacy #250}}
+
+* '''[[762 (Legion Personality) (Earth-616)|(Personality 762)]]''': A pirate that appears to '''belch an acid gas'''.{{r|New Mutants Vol 3 14}}
+
+* '''(Personality 898)''': He is a '''centaur'''.{{r|New Mutants Vol 3 5}}
+
+* '''[[933 (Legion Personality) (Earth-616)|(Personality 933)]]''': Little is known about this persona, but in [[London (England)|London]], Legion used this persona's power to '''emit gaseous material at high speeds''' powers while battling [[Max Eisenhardt (Earth-616)|Magneto]]. It was also one of the powers [[Rogue (Anna Marie) (Earth-616)|Rogue]] siphoned from him.{{r|X-Men: Legacy #251}}
+
+* '''''[[Delphic (Legion Personality) (Earth-616)|Delphic]]'' (Personality 1012)''': She is a blue skinned seemingly '''omniscient''' seer willing to answer ''three questions'' to supplicants. She also gives off what appears to be electric discharges.{{r|X-Men: Legacy #249}}
+
+* '''''"Absence"'' (Personality ???)''': Absence is an Alien/[[Demons|Demon]] creature who claims to have traveled through realities and stars. Absence's power is to '''siphon off heat and love'''.{{r|New Mutants Vol 3 4}}
+
+* '''''[[Bleeding Image (Legion Personality) (Earth-616)|Bleeding Image]]'' (Personality ???)''': A '''living voodoo doll'''. He blew himself up with a bomb and nearly killed [[Rogue (Anna Marie) (Earth-616)|Rogue]] in the process.{{r|X-Men: Legacy #252}} One the sub-personalities to escape from Legion's consciousness after the [[Age of X]].{{r|X-Men: Legacy #249}}
+
+* '''''[[Gestalt (Legion Personality) (Earth-616)|Gestalt]]'' (Personality ???)''': Not a true split personality but an avatar of which Legion created for himself within his own mindscape. David Haller uses this form to assimilate with his other missing personalities and utilize their powers as well as repairing a great deal of the psychological damage he's suffered from most of his life.{{r|X-Men: Legacy Vol 2 20}}
+
+* '''''[[Chain (Legion Personality) (Earth-616)|Chain]]'' (Personality ???)''': He is a human '''virus, turning anyone he touches into a copy of himself with a new weapon.''' The only way to stop him and revert his victims is to capture the 1(A) iteration.{{r|X-Men: Legacy #251}} He is one the sub-personalities to escape from Legion's consciousness after the [[Age of X]].{{r|X-Men: Legacy #249}} He found taking over [[London (England)|London]] with Susan in Sunshine, but was stopped by the [[X-Men (Earth-616)|X-Men]].{{r|X-Men: Legacy #251}}
+
+*'''''[[Charles Xavier (Legion Personality) (Earth-616)|The Fiend/"Charles Xavier"]]'' (Personality ???)''': One of many personalities of the mutant Legion, '''precognition and postmortem power absorption'''. Created from the psionic trauma caused by [[Charles Xavier (Earth-616)|Xavier]]'s death. Originally, he took the shape of a small gold glowing goblin-like creature, its first act was to kill and devour another personality in order to gain its powers. After that, it spent most of it time stalking David inside his mind but made no move against him. When Blindfold entered David's mind and restrained him, this persona got angry and attacked her, telling her to get out. This was the first time David glimpsed this persona. Later while chasing Luca in the Jean Grey School David almost killed another student but was stopped by the devil of his mind, who took control and told Luca that he will be useful one day. As David was leaving the school grounds the persona told him about his future where he will eradicate mutant kind and Ruth was destined to try to kill him to prevent it. Revealing himself to have taken the shape of Charles Xavier calling David his son, greatly horrify David in the process.{{r|{{cl|X-Men: Legacy Vol 2 1}}-[[X-Men: Legacy Vol 2 5|5]]}}
+
+* '''''[[Chronodon (Legion Personality) (Earth-616)|Chronodon]]'' (Personality ???)''': He is a large dinosaur with a clock for a face. David attempted unsuccessfully to capture him and use his powers to break free from the Yamaugichi-Kai Clan.{{r|X-Men: Legacy Vol 2 3}} His powers are undefined, but based on his name and appearance his powers are based on '''time manipulation'''.
+
+* '''''[[Weaver (Legion Personality) (Earth-616)|The Weaver]]'' (Personality ???)''': A large arachnid like creature whose massive limbs are connected to a main body wreathed in bright light. As its name suggests Weaver has the all-powerful ability to '''change, morph and otherwise refabricate reality itself'''. Arguably it is the most powerful personality within David's shattered psyche, and one of the only other personas he can neither coax into his service nor assimilate with.{{r|X-Men: Legacy Vol 2 3}} At the end his run, David tried one last time to bond with him only to find out the weaver was his own reflection. That now with his otherself accepting who he is the two can be made whole again.{{r|X-Men: Legacy Vol 2 24}}
+
+* '''''[[Clown (Legion Personality) (Earth-616)|The Clown]]'' (Personality ???)''': He is a surly looking circus clown that can blast a '''light-energy from his mouth'''.{{r|New Mutants Vol 3 2}} He was killed by [[Illyana Rasputina (Earth-616)|Magik]] with her [[Soulsword]] during her attempt to rescue [[Xi'an Coy Manh (Earth-616)|Karma]].{{r|New Mutants Vol 3 3}} However he was proved to be still alive later.{{r|X-Men: Legacy #250}}
+
+* '''''[[Compass Rose (Legion Personality) (Earth-616)|Compass Rose]]'' (Personality ???)''': Can '''locate any person and teleport to them'''. Rogue used this power to find [[Rachel Summers (Earth-811)|Rachel Grey]] and the others.{{r|X-Men: Legacy #253}}
+
+* '''''[[Drexel (Legion Personality) (Earth-616)|Drexel]]'' (Personality ???)''': He seems to be a foul-mouthed simpleton with '''super strength'''.{{r|New Mutants Vol 3 2}} He was killed by [[Illyana Rasputina (Earth-616)|Magik]] with her [[Soulsword]] during her attempt to rescue [[Xi'an Coy Manh (Earth-616)|Karma]].{{r|New Mutants Vol 3 3}}
+
+* '''''[[Endgame (Legion Personality) (Earth-616)|Endgame]]'' (Personality ???)''': An armor who can '''counter any attack''' executed against it.{{r|X-Men: Legacy #253}} One of the sub-personalities to escape from Legion's consciousness after the [[Age of X]].{{r|X-Men: Legacy #249}}
+
+* '''''[[Findle the Finder (Legion Personality) (Earth-616)|Findle the Finder]]'' (Personality ???)''': He can '''find anyone''' across the galaxy. David used this power to find the [[Dire Wraiths]] he used to distract the [[X-Men (Earth-616)|X-Men]].{{r|X-Men: Legacy Vol 2 5}}
+
+* '''''Hugh Davidson'' (Personality ???)''': He is a stereotypical prepster with a '''long prehensile tongue'''.{{r|New Mutants Vol 3 3}}
+
+*'''[[Hunter (Legion Personality) (Earth-616)|Hunter]]''': A typical macho-man cowboy persona that David created after Jack Wayne was consumed by Lord Trauma. He seems to '''manifest a psionic gun''' as his power. According to [[Hannah Jones (Earth-616)|Hannah Jones]], he's trying too hard.{{r|Legion Vol 1 4}}
+
+* '''''[[Hypnobloke (Legion Personality) (Earth-616)|Hypnobloke]]'' (Personality ???)''': A strange gentlemen with flashing swirls for eyes in a top hat and carrying a pocket watch, his powers are that of '''hypnotic suggestion'''.
+
+*'''[[Joe Fury (Legion Personality) (Earth-616)|Joe Fury]]''': A man with anger management problems. Joe seems to be able to '''generate flame and other types of energy''' from his body. Restraining him takes a lot of energy according to David.{{r|Legion Vol 1 1}}
+
+* '''''[[Kirbax the Kraklar (Legion Personality) (Earth-616)|Kirbax the Kraklar]]'' (Personality ???)''': A demonic creature with the ability of '''flight and electricity generation'''. After Legion lost control of his powers, Kirbax briefly took control over his body and flew from the [[India]]n [[Himalayas]] to [[China]] until another sub-personality took over.{{r|X-Men: Legacy Vol 2 2}}
+
+* '''''[[Ksenia Nadejda Panov (Legion Personality) (Earth-616)|Ksenia Nadejda Panov]]'' (Personality ???)''': Moscow heiress, discus champion, exporter of caviar, torturer of puppies. She has the ability to '''generate ionic scalpels from her fingers'''. She briefly gained control of Legion's body, but was restrained by Merzah the Mystic long enough to allow Legion to reclaim his body. She was later killed by another sub-personality.{{r|X-Men: Legacy Vol 2 1}}
+
+* '''''[[K-Zek the Conduit (Legion Personality) (Earth-616)|K-Zek the Conduit]]'' (Personality ???)''': He appears to be an android with the ability of '''wireless energy transfer (or WET) and electrical absorption'''. David used this power to defeat [[Ororo Munroe (Earth-616)|Storm]].{{r|X-Men: Legacy Vol 2 4}}
+
+*'''[[Lord Trauma (Legion Personality) (Earth-616)|Lord Trauma]]''': A personality that looks much like David, but with slicked back hair and faces of anguish seemingly tattooed on his body. He possessed multiple abilities including '''telepathy, the ability to manifest physically and to subsume other personalities''' within David.{{r|Legion Vol 1 1}}
+
+* '''''[[Marci Sabol (Earth-616)|Marci Sabol]]'' (Personality ???)''': A little girl and the first person to meet David after his return. She helped David, but was killed by another personality. She then became trapped within David's mind. Her parents were later killed by another of Legion's personalities. She is a human with no mutant powers.{{r|{{cl|New Mutants Vol 3 1}}-[[New Mutants Vol 3 5|5]]}}
+
+* '''''[[Max Kelvin (Legion Personality) (Earth-616)|Max Kelvin]]'' (Personality ???)''': Max Kelvin has the appearance of an crotchety old man. His eyes protrude when he uses his powers of '''plasmatic flame generation'''. Legion managed to defeat him in his mind and used his powers to break free from the Yamaugichi-Kai Clan.{{r|X-Men: Legacy Vol 2 3}}
+
+* '''''[[Moira MacTaggert (Earth-11326)|Moira/X]]'' (Personality ???)''': Created to protect Legion's mind from [[James Bradley (Earth-616)|Doctor Nemesis]]' meddling. She was able to best [[Charles Xavier (Earth-616)|Professor X]] in '''psychic battle''' and '''warp reality'''. She single-handily created the [[Age of X]] where David would be seen as a hero and placed herself as the "mother" of David.
+
+* '''''[[Mycolojester (Legion Personality) (Earth-616)|Mycolojester]]'' (Personality ???)''': A plant like entity with the attire of a jester, has the mutant power to emit '''toxic spores''' from the skin pores on his body which acts as a powerful nerve gas. Its effects can be dissipated however by water.{{r|X-Men: Legacy Vol 2 6}}
+
+*'''''[[Non-Newtonian Annie (Legion Personality) (Earth-616)|Non-Newtonian Annie]]'' (Personality ???)''': She is a skinny purple women dressed in pink clothes. She has the power to be '''cloaked in a zero-tainullskin''' that deflects any attack and according to the law of the conversation of energy, kinetic energy is redirected. David used this power to defeat [[Joanna Cargill (Earth-616)|Frenzy]]. [[Karasu-Tengu (Earth-616)|Karasu]] and [[Sojobo-Tengu (Earth-616)|Sojobo]] describe her as a slippery one.{{r|X-Men: Legacy Vol 2 4}}
+
+*'''[[Nurse Good (Legion Personality) (Earth-616)|Nurse Good]]''': A typical protector type personality according to Hannah Jones, Nurse Good was subsumed by Lord Trauma's minions shortly after appearing.{{r|Legion Vol 1 3}}
+
+*'''''[[Origamist (Legion Personality) (Earth-616)|The Origamist]]'' (Personality ???)''': The Origamist is a sumo wrestler and '''reality-changer with space-folding powers'''. He is one of the most powerful sub-personalities in Legion's mind. During the jailbreak inside Legion's mind, he attempted to overpower the Origamist, but initially failed.{{r|X-Men: Legacy Vol 2 3}} Later however, Legion manages to defeat him and use his powers.{{r|X-Men: Legacy Vol 2 4}}
+
+* '''''[[Protozoan Porter (Legion Personality) (Earth-616)|Protozoan Porter]]'' (Personality ???)''': A strange looking near octopoid like personality with physiological resemblances akin to that of a leech. Has the ability to '''teleport by disassembling into multiple little bits of ameboid like particles, then reassembling them at a given destination'''.{{r|X-Men: Legacy Vol 2 10}}
+
+* '''''[[Pukatus Jr. (Legion Personality) (Earth-616)|Pukatus Jr.]]'' (Personality ???)''': He is a small cherub-like [[Demons|Demon]] which can '''vomit an acidic substance'''. David attempted unsuccessfully to capture him and use his powers to break free from the Yamaguchi-Kai Clan.{{r|X-Men: Legacy Vol 2 3}}
+
+* '''''[[Skinsmith (Legion Personality) (Earth-616)|Skinsmith]]'' (Personality ???)''': He can '''create skin''' to cover individuals. However, the skin appears to peel off. David used this power to defeat [[Jonothon Starsmore (Earth-616)|Chamber]].{{r|X-Men: Legacy Vol 2 4}}
+
+* '''''[[Susan in Sunshine (Legion Personality) (Earth-616)|Susan in Sunshine]]'' (Personality ???)''': One the sub-personalities to escape from Legion's consciousness after the [[Age of X]].{{r|X-Men: Legacy #249}} Susan '''amplifies emotions''' of those around her, and then '''turns those emotions into raw energy'''. She can only be stop by being teased.
+
+*'''[[Tami Haar (Legion Personality) (Earth-616)|Tami Haar]]''': A young woman with a French accent. Her name is an anagram of Mata Hari. She possesses the power to '''manifest in the real world''' outside of David's mindscape.{{r|Legion Vol 1 4}}
+
+* '''''[[Tyrannix the Abominoid (Legion Personality) (Earth-616)|Tyrannix the Abominoid]]'' (Personality ???)''': A Cthulu-like creature with the power of '''telepathy''' and astral projection.{{r|X-Men: Legacy Vol 2 1}} He pursued Legion inside the maze of his mind in an attempt to take control of his body while Legion lost control of his personalities. Legion overpowers him however, and takes his powers of telepathy for himself.{{r|X-Men: Legacy Vol 2 2}} Legion now wears him as a backpack and accesses his powers frequently.{{r|{{cl|X-Men: Legacy Vol 2 3}}-[[X-Men: Legacy Vol 2 5|5]]}}
+
+* '''''[[Wormwhole Wodo (Legion Personality) (Earth-616)|Wormwhole Wodo]]'' (Personality ???)''': He can '''open wormwholes''' across the galaxy. David used this power to summon the [[Dire Wraiths]] to distract the [[X-Men (Earth-616)|X-Men]].{{r|X-Men: Legacy Vol 2 5}}
+
+*'''[[Wounded Boy (Legion Personality) (Earth-616)|Wounded Boy]]''': A personality that appears as a young boy with multiple injuries over his body.{{r|Legion Vol 1 3}}
+
+*'''Zari Zap''': A young punk woman with short, spiked hair. She seems to possess the ability to '''manipulate electricity'''.{{r|Legion Vol 1 4}}
+
+* '''''[[Zero G. Priestly (Legion Personality) (Earth-616)|Zero G. Priestly]]'' (Personality ???)''': He can '''control gravity'''. David used his power to remove [[Max Eisenhardt (Earth-616)|Magneto]]'s helmet.
+
+* Other unnamed personalities:
+** '''''unknown'' (Personality ???)''': Little is known about this persona, but it has ability to '''teleport''' itself and others by unknown means and with unknown limits. Legion used this ability in [[London (England)|London]] to help himself and the X-Men escape Chain's army.{{r|X-Men: Legacy #251}}
+** '''''unknown'' (Personality ???)''': Little is known about this persona, but it appears to be capable of '''mass mind control''' though on smaller scale with possibly only a few yards range or a limit of three to five victims. The limits of this power have not been tested. Legion used this ability in [[London (England)|London]] while battling Chain's army.{{r|X-Men: Legacy #251}}
+** '''''"3554"'' (Personality ???)''': He is an African-American marathon runner with '''super-speed'''.{{r|New Mutants Vol 3 4}} Legion used his or a similar persona/power to attack the 1(A) iteration of Chain in [[London (England)|London]].{{r|X-Men: Legacy #251}}
+** '''''"Clnk"'' (Personality ???)''': He appears to be an android with the ability of '''make mobile telephone calls'''. David used this power to contact his [[Gabrielle Haller (Earth-616)|mother]] in [[London (England)|London]]. While using this power, David hair becomes shaped like a satellite dish and his hand morphs into a mobile phone.{{r|X-Men: Legacy Vol 2 5}}
+** '''''[[Cowboy (Legion Personality) (Earth-616)|"The Cowboy"]]'' (Personality ???)''': He has the ability to '''create psionic guns and fire psionic bullets'''. After Legion lost control of his powers, "the Cowboy" briefly took control over his body in [[China]] until another sub-personality took over.{{r|X-Men: Legacy Vol 2 2}}
+** '''''[[Nazi Doctor (Legion Personality) (Earth-616)|"The Nazi Doctor"]]'' (Personality ???)''': He is a blond, monocled Nazi doctor with a thick German accent, and appears to '''disrupt/negate mutant power by touch'''.{{r|New Mutants Vol 3 4}}
+** '''''[[Oxy (Legion Personality) (Earth-616)|"Oxy"]]'' (Personality ???)''': Able to create an '''oxygen bubble''' around himself and others. David used to this power to sustain himself and Blindfold while on the [[Luna (Moon)|Moon]].{{r|X-Men: Legacy Vol 2 9}}
+** '''''"Small purple good one"'' (Personality ???)''': He is a small bald purple humanoid with black eyes. He claims to have been trapped in Legion's mind like [[Jemail Karami (Earth-616)|Jemail Karami]] and Marci Sabol. He appears to have the power of '''geokinesis''' and can use it over a wide distance. Although he claims to be a "good one" and to hate killing, he almost murdered [[Danielle Moonstar (Earth-616)|Moonstar]].{{r|New Mutants Vol 3 3}}
+** '''''[[Specs (Legion Personality) (Earth-616)|"Specs"]]'' (Personality ???)''': He is a nervous young man with large glasses and the ability to '''see through solid objects'''. He seems to be very practical, and has a romantic interest in Magma.{{r|New Mutants Vol 3 4}}
+** '''''"Spike"'' (Personality ???)''': He is an African-American with the power to turn his '''limbs into spikes'''. He is responsible for murdering Mel and Brett Sabol (Marci's parents).
+** '''''"Stutter"'' (Personality ???)''': He is a young man with a stutter along with both emotional and physical deformities. His power is '''self-propelled flight'''.{{r|New Mutants Vol 3 2}}
+** '''''"Vampire"'' (Personality ???)''': He appears as a classical and cliché 19th century vampire. He was killed by [[Illyana Rasputina (Earth-616)|Magik]] with her [[Soulsword]] during her attempt to rescue [[Xi'an Coy Manh (Earth-616)|Karma]].{{r|New Mutants Vol 3 4}}
+** '''''[[White Witchdoctor (Legion Personality) (Earth-616)|The White Witchdoctor]]'' (Personality ???)''': He is a white man dress as a witchdoctor. He was the sub-personality that killed Marci Sabol. He was in turned killed by [[Xi'an Coy Manh (Earth-616)|Karma]] with [[Illyana Rasputina (Earth-616)|Magik]]'s [[Soulsword]].{{r|New Mutants Vol 3 5}} Although not confirmed, his power is possibly '''psyche absorption''' by which he absorbs the astral forms of anyone who dies around him. This power is how individuals such as Marci Sabol and [[Jemail Karami (Earth-616)|Jemail Karami]] became trapped in Legion's mind.
+** '''''"The Wolfman"'' (Personality ???)''': He is an older man wearing a dhoti and handcuffs with '''self-healing''' and '''lycanthropy''' powers.{{r|New Mutants Vol 3 4}}
+** '''''"unknown"'' (Personality ???)''': An unseen personality with the ability Legion calls '''Astral Harpoon Projection''' which seems not to leave any physical repercussions but leaves it's victims in a cataleptic & convulsive state, as if hit with a surge of lightning.{{r|X-Men: Legacy Vol 2 6}}
+
+Originally, all of Legion's powers were psychically based, but since his resurrection Legion has also manifested physical mutations. Also, since his return, Legion's mind is shown as being inhabited by thousands of sub-personalities.
+
+Some of Legion's persona's are in fact individual psyche absorbed by Legion upon their deaths (i.e. [[Marci Sabol (Earth-616)|Marci Sabol]] and [[Jemail Karami (Earth-616)|Jemail Karami]]), but many more are creations of Legion's own mind.
+
+It is likely that after a sub-personality is killed or reabsorbed that Legion retains their powers, though this has not been confirmed.
+
+However, killed personas were seen alive after their apparent death, such as [[Clown (Legion Personality) (Earth-616)|The Clown]] and [[Jack Wayne (Legion Personality) (Earth-616)|Jack Wayne]].{{r|X-Men: Legacy #250}}
+
+[http://marvel.wikia.com/Legion_(Earth-616)_Personality_Index Index]
+
+| Abilities               = 
+| Strength                = * Legion possessed the normal human strength of a young man of his age, height, and build, who engaged in no exercise for half his life, but thereafter began to engage in moderate regular exercise.
+| Weaknesses              = '''[[Dissociative Identity Disorder]]:''' He suffers from dissociative identity disorder, also known as multiple personality disorder, which was triggered after the death of his step-father. His powers allowed him to hear and feel the thoughts of all the people killed around him. This led to the creation of first three personalities with a distinct psychic power. One was [[telekinetic]], one was [[telepathic]], one was [[pyrokinetic]]. This was later expanded to an [[:Category:Legion Subpersonalities|unnamed number of personalities]], possibly thousands, all with a unique power.{{r|{{cl|New Mutants Vol 1 25}}-[[New Mutants Vol 1 28|28]]}}
+
+| Equipment               = * ''[[Neural Switchboard Wristband]]'' - engineered by a collaboration of [[James Bradley (Earth-616)|Doctor Nemesis]], [[Madison Jeffries (Earth-616)|Madison Jeffries]] and [[Reed Richards (Earth-616)|Reed Richards]]. By keying in a number this device stimulates cells in the thalamus and neocortex, creating a one-way link between Legion's own mind and one of his sub-selves. This allows Legion to utilize power sets without being overwhelmed by the personality.{{r|X-Men: Legacy #248}}
+| Transportation          = 
+| Weapons                 =
+
+| Notes                   = * Legion gets his name from a Biblical tale. According to the Bible, Jesus met a man who was possessed by several demons. When Jesus asked the man his name, he replied, "My name is Legion, for we are many."
+* David himself has stated that he dislikes being called Legion and wish others would stop calling him that.{{r|X-Men: Legacy Vol 2 2}}
+*David is the first X-Men character to receive a live-action TV series.
+* The X-Men files once previously classified Legion as an [[Mutant Power Level Classification|Alpha-Level mutant]] (though the list was including many Omega-Levels as well).{{r|X-Men Vol 2 94}}
+| Trivia                  = * Legion was originally going to be a founding member of the government-sponsored [[X-Factor (Government) (Earth-616)|X-Factor]]. However, then-incoming writer [[Peter David]] felt it was impossible to work him into the group in a way that didn't feel was contrived.<ref>{{cite web|url=http://www.cbr.com/comic-legends-was-legion-going-to-be-a-member-of-x-factor/|title=Comic Legends: Was Legion Going to be a Member of X-Factor?|work=CBR|first=Brian|last=Cronin|date=17 February 2017|accessdate=3 March 2017}}</ref>
+* Legion's other splinter personalities could each control other psionic powers. Perhaps these powers died when these splinter personalities were absorbed into David's core personality.
+* David appears to be a Star Wars fan.{{r|X-Men: Legacy Vol 2 3}}
+
+| Marvel                  = * http://marvel.com/universe/Legion_(David_Haller)
+| Wikipedia               = Legion (Marvel Comics)
+| Links                   = * [http://www.adherents.com/lit/comics/Legion.html Religious Affiliation of Comics Book Characters : David Charles Haller (Legion)]
+* [http://uncannyxmen.net/characters/legion uncannyxmen.net Spotlight On... Legion]
+}}
+
+==References==
+{{Reflist}}
+
+[[it:David Haller (Terra-616)]]
+[[Category:Telepaths]]
+[[Category:Teleporters]]
+[[Category:Telekinesis]]
+[[Category:Time Travelers]]
+[[Category:Chronokinesis]]
+[[Category:Jewish Characters]]
+[[Category:Xavier Family]]
+[[Category:Insanity]]
+[[Category:Geokinesis]]
+[[Category:Acoustikinesis]]
+[[Category:Omega Level Mutants]]
+[[Category:Dissociative Identity Disorder]]
+[[Category:Utopians]]
+[[Category:Lupine Form]]
+[[Category:Shapeshifters]]
+[[Category:Flight]]
+[[Category:X-Ray Vision]]
+[[Category:Thermokinesis]]
+[[Category:Transmutation]]
+[[Category:Prehensile Tongue]]
+[[Category:Heterochromia]]
+[[Category:Psychic Vampires]]
+[[Category:Leaders]]
+[[Category:Reality Warpers]]
+[[Category:Haller Family]]
+[[Category:Alpha Class/Level Mutants]]
+[[Category:Post-M-Day Mutants (Unregistered)]]
+[[Category:Scottish]]
+[[Category:Autism spectrum]]
+[[Category:Regeneration]]
+[[Category:Age of X-Man participants]]
+[[Category:Shadow King]]

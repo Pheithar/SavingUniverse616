@@ -1,0 +1,61 @@
+{{Marvel Database:Team Template
+| Image                   = Acolytes (Earth-616) from X-Men Vol 2 25 001.jpg
+| ImageSize               = 300
+| Name                    = Acolytes
+| Aliases                 = 
+
+| Status                  = Defunct
+
+| Identity                = Public
+| Reality                 = Earth-616
+| BaseOfOperations        = Formerly [[Asteroid M]], [[Avalon]], [[Genosha]] , [[Mont Saint Francis]]
+
+| Leaders                 = Formerly [[Bennet du Paris (Earth-616)|Exodus]], [[Max Eisenhardt (Earth-616)|Magneto]], [[Fabian Cortez (Earth-616)|Fabian Cortez]], [[Amelia Voght (Earth-616)|Voght]], [[Max Eisenhardt (Joseph) (Earth-616)|Joseph]]
+| CurrentMembers          = 
+| FormerMembers           = [[Amelia Voght (Earth-616)|Amelia Voght]], [[Anne-Marie Cortez (Earth-616)|Anne-Marie Cortez]], [[Mortimer Everett (Earth-616)|Barnacle]], [[Allen Marc Yuricic (Earth-616)|Chrome]], [[Piotr Rasputin (Earth-616)|Colossus]], [[Fabian Cortez (Earth-616)|Fabian Cortez]], [[Jacob Lashinski (Earth-616)|Decay]], [[Marco Delgado (Earth-616)|Delgado]], [[Eric Kleinstock (Earth-616)|Eric Kleinstock]], [[Bennet du Paris (Earth-616)|Exodus]], [[Harlan Kleinstock (Earth-616)|Harlan Kleinstock]], [[Sven Kleinstock (Earth-616)|Sven Kleinstock]], [[Lavinia LeBlanc (Earth-616)|Gargouille]], [[Isaac Javitz (Earth-616)|Javitz]], [[Joanna Cargill (Earth-616)|Joanna Cargill]], [[Max Eisenhardt (Joseph) (Earth-616)|Joseph]], [[Kamal el Alaoui (Earth-616)|Kamal]], [[Katu (Acolyte) (Earth-616)|Katu]], [[Max Eisenhardt (Earth-616)|Magneto]], [[Seamus Mellencamp (Earth-616)|Mellencamp]], [[Francisco Milan (Earth-616)|Milan]], [[Nance Winters (Earth-616)|Nance Winters]], [[Simon Hall (Earth-616)|Neophyte]], [[Karima Shapandar (Earth-616)|Omega Sentinel]], [[Victor Ludwig (Earth-616)|Orator]], [[Lorna Dane (Earth-616)|Polaris]], [[Zachary Williams (Earth-616)|Projector]], [[Marshall Stone III (Earth-616)|Random]], [[David Anthony Rice (Earth-616)|Rakkus]], [[Marcus Andrews (Earth-616)|Rem-Ram]], [[Russell Collins (Earth-616)|Rusty Collins]], [[Sarah Ryall (Earth-616)|Scanner]], [[Suvik Senyaka (Earth-616)|Senyaka]], [[Sally Blevins (Earth-616)|Skids]], [[Andrew Graves (Earth-616)|Spoor]], [[Gianna Esperanza (Earth-616)|Static]], [[Heather Tucker (Earth-616)|Tempo]], [[Carmella Unuscione (Earth-616)|Unuscione]], [[Venkat Katragadda (Earth-616)|Vindaloo]], numerous other unnamed members
+| Allies                  = 
+| Enemies                 = [[Avengers (Earth-616)|Avengers]], [[Nathaniel Summers (Earth-616)|Cable]], [[Excalibur (Earth-616)|Excalibur]], [[Heroes for Hire (Oracle Inc.) (Earth-616)|Heroes for Hire]], [[Pietro Maximoff (Earth-616)|Quicksilver]], [[X-Force (Earth-616)|X-Force]], [[X-Men (Earth-616)|X-Men]]
+
+| Origin                  = 
+
+| PlaceOfFormation        = [[Asteroid M]]
+| PlaceOfDissolution      = New Avalon
+| Creators                = Chris Claremont; Jim Lee
+| First                   = X-Men Vol 2 1
+| Last                    = X-Men: Legacy Vol 1 225
+
+| HistoryText             = The Acolytes started as a small group of mutants loyal to [[Max Eisenhardt (Earth-616)|Magneto]] and his teachings. Originally led by [[Fabian Cortez (Earth-616)|Fabian Cortez]], they stole a space shuttle to join Magneto on his orbital base [[Asteroid M]]. The Acolytes pledged to follow Magneto's principles, particularly the mutant right of superiority over normal humans. Some members of the Acolytes even worshipped Magneto with a religious fervor and regarded him as the “mutant messiah.”  Upon learning of their intentions, Magneto allowed them to stay and become his Acolytes.{{r|X-Men Vol 2 1}}
+
+Magneto was betrayed by Fabian Cortez.{{r|X-Men Vol 2 3}} Cortez was actually a member of  the [[Upstarts (Earth-616)|Upstarts]], a group of mutants organized by the [[Gamesmaster (Earth-616)|Gamesmaster]] who were awarded points for killing other mutants. As Asteroid M plummeted towards Earth, the Acolyte [[Allen Marc Yuricic (Earth-616)|Chrome]] used his powers to shield Magneto from harm. Thanks to Chrome's intervention, Magneto survived the crash, however all of the remaining Acolytes died.{{r|Uncanny X-Men Vol 1 304}}
+
+Fabian Cortez's seeming elimination of Magneto established him as ranking competitor among the Upstarts. Believing Magneto to be dead, Cortez gathered a second group of Acolytes to unwittingly aid him in the competition by playing Magneto off as a martyr. Among his new recruits were [[Joanna Cargill (Earth-616)|Cargill]], [[Carmella Unuscione (Earth-616)|Unuscione]], and the brothers [[Eric Kleinstock (Earth-616)|Eric]], [[Harlan Kleinstock (Earth-616)|Harlan]], and [[Sven Kleinstock (Earth-616)|Sven Kleinstock]].{{r|Uncanny X-Men #298}}
+
+This new team of Acolytes attacked a school wanting to secure an unidentified mutant boy. When they discovered the boy had [[Down Syndrome]] they judged him as worthless. After they killed the X-Men's ally [[Sharon Friedlander (Earth-616)|Sharon Friedlander]], they X-Men intervened. Eric Kleinstock was killed by [[Thomas Corsi (Earth-616)|Tom Corsi]].{{r|Uncanny X-Men Vol 1 298}} The Acolytes then grew to [[Amelia Voght (Earth-616)|Amelia Voght]], [[Francisco Milan (Earth-616)|Milan]], [[Sarah Ryall (Earth-616)|Scanner]], [[Suvik Senyaka (Earth-616)|Senyaka]], [[Andrew Graves (Earth-616)|Spoor]], [[Katu Kath (Earth-616)|Katu]], [[Seamus Mellencamp (Earth-616)|Mellencamp]], and [[Isaac Javitz (Earth-616)|Javitz]].{{r|Uncanny X-Men #300}}
+
+The Acolytes split into factions on several occasions. When Exodus revealed himself and the truth behind Cortez, some refused to believe him and continued to follow Cortez, while most others followed [[Bennet du Paris (Earth-616)|Exodus]]. Upon Magneto's return however, Exodus 'cured' [[Russell Collins (Earth-616)|Rusty Collins]] and [[Sally Blevins (Earth-616)|Skids]] from [[Nathaniel Summers (Stryfe) (Earth-4935)|Stryfe]] and they chose to follow him.{{r|X-Force #25}}
+
+When all Acolytes aligned with Magneto went to [[Illyana Rasputina (Earth-616)|Illyana Rasputin]]'s funeral, [[Piotr Rasputin (Earth-616)|Colossus]] grew outraged at [[Charles Xavier (Earth-616)|Xavier]], and joined them.{{r|Uncanny X-Men #304}} Not much later, the X-Men attacked Avalon and when Magneto ripped all of the [[Adamantium]] out of [[James Howlett (Earth-616)|Wolverine]]'s skin, Xavier left Magneto in a vegetative state.{{r|X-Men Vol 2 #25}}
+
+The Acolytes soon realized that [[Simon Hall (Earth-616)|Neopyhte]] betrayed them and held a 'trial' for him. Colossus was his 'lawyer', and Voght was his 'prosecutor'.  Exodus wished to kill the boy for his crime, but Colossus was very convincing and Exodus just banished him from Avalon instead.{{r|Uncanny X-Men #315}}
+
+After the reality warp known as the [[Age of Apocalypse]] ended, a villain escaped through to [[Earth-616]] named [[Nemesis (Earth-295)|Holocaust]]. Exodus saw him in space and wished to pull him in. Milan was scared and when he learned of him being a mutant, Exodus was even more pleased. Meanwhile, Skids and Rusty had some doubts about joining, but they were too late. Milan was absorbed by Holocaust and soon Rusty was too. Holocaust soon started tearing the place apart, thinking he was still in his own reality. Voght called the [[X-Men (Earth-616)|X-Men]] for help, and help they did. [[Jean Grey (Earth-616)|Jean Grey]] managed to escape with Skids, while [[Scott Summers (Earth-616)|Cyclops]] escaped with the Kleinstock brothers, Scanner, Unuscione and Frenzy; whom all agreed to turn themselves in exchange for his help. Exodus and Holocaust fought on, even as Avalon finally was destroyed. Colossus escaped with Magneto's body, but when he awoke later from [[Callisto (Earth-616)|Callisto]], Magneto's body was gone.{{r|X-Men Vol 2 #42|44}}
+
+Soon [[Max Eisenhardt (Joseph) (Earth-616)|Joseph]] -- a clone of Magneto created by [[Astra (Mutant) (Earth-616)|Astra]] who was trying to get back at Magneto -- emerged. Several Acolytes attempted to follow Joseph, who they believed to be an amnesiac Magneto. {{r|Magneto #1|4}}
+
+Many of the Acolytes were on the island of [[Genosha]] during the massive [[Wild Sentinels]] attack sent by [[Cassandra Nova Xavier (Earth-616)|Cassandra Nova]]. [[Mortimer Everett (Earth-616)|Barnacle]], Katu, Mellancamp, [[Marcus Andrews (Earth-616)|Rem-Ram]], Spoor, and [[Gianna Esperanza (Earth-616)|Static]] were all killed.{{r|New X-Men #115}}
+
+Exodus then reformed the Acolytes at the request of an unnamed backer after [[M-Day]], including new members [[Marshall Stone III (Earth-616)|Random]] and [[Heather Tucker (Earth-616)|Tempo]]. The Acolytes played a large role in the search for the first mutant child born since M-Day. Afterwards, [[Karima Shapandar (Earth-616)|Karima]] was added to the ranks and Amelia Voght returned as well. Recently, Exodus, convinced by Professor X, disbanded the Acolytes again. {{r|X-Men: Legacy #225}}
+
+When [[Selene Gallio (Earth-616)|Selene]] reanimated many dead mutants many Acolytes were brought back including: Barnacle, Fabian Cortez, [[Marco Delgado (Earth-616)|Delgado]], Firefist, Katu, Mellencamp, Rem-Ram, Spoor, and Static.{{r|X-Force Vol 3 #22|25}}
+
+Exodus later reunited several of the surviving Acolytes. When the X-Men relocated to [[Krakoa (Earth-616)|Krakoa]], the Acolytes were invited to join them alongside the rest of Earth's mutants.{{r|Powers of X Vol 1 5}}
+
+| Equipment               = 
+| Transportation          = Various stolen space shuttles and other vehicles.
+| Weapons                 = Many Acolytes have used energy rifles and other guns in the past.
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Acolytes]]

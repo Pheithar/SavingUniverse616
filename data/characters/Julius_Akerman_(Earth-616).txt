@@ -1,0 +1,48 @@
+{{Marvel Database:Character Template
+| Image                   = Julius_Akerman_(Earth-616)_from_Fantastic_Four_Vol_1_274.jpg
+| Name                    = [[Julius Akerman]]
+| CurrentAlias            = [[Monster Maker]]
+| Aliases                 = [[Monster Master]]
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = White
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Public
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = John Byrne;
+| First                   = Fantastic Four Vol 1 274
+
+| History                 = When the god-like being known as the [[Beyonder (Earth-616)|Beyonder]] gathered a group of super-heroes and villains from Earth to participate in his [[Marvel Super Heroes: Secret Wars|Secret Wars]], he created a patchwork world called [[Battleworld (Beyonder)|Battleworld]] for them to battle upon. Comprised portions of various alien worlds it also shaped beings based on the subconscious whims of those gathered to battle in the Secret Wars. {{R|Marvel Super Heroes Secret Wars #1}} When the Wars ended, the [[Fantastic Four (Earth-616)|Fantastic Four's]] [[Benjamin Grimm (Earth-616)|Thing]] opted to stay on Battleworld as he discovered that he could change back and forth between his human and Thing forms. {{r|Marvel Super Heroes Secret Wars #12}} While exploring Battleworld, the Thing's mind created beings for him to interact with. {{R|Thing #11}}. During his travels, Ben crossed paths with beings based on the various villains and monsters featured in films that Grimm watched while growing up. One of these constructs was based upon a film version of the [[Frankenstein's Monster (Battleworld) (Earth-616)|Frankenstein's Monster]]. {{r|Thing #19}} The two came to blows until they were captured by [[Julius Akerman (Earth-616)|Julius Akerman]] the so-called Monster Maker. They were taken prisoner along with the lycanthrope named [[Gregor Lupus (Earth-616)|Gregor Lupus]]. Changing into his human form, Ben broke free from his bonds and knocked out Akerman's assistant. When he went to attack Akerman, the Monster Maker used his powers to force Gregor to change into his werewolf form and attack Ben. While the Thing battle the werewolf, Akerman also tried to command the Frankenstein's Monster. The monster instead snapped Akerman's neck, killing him and freeing Lupus from his control. Shortly thereafter, the Thing continued on his quest, leaving the Frankenstein's Monster and Lupus behind where they faded off into the mists. {{R|Fantastic Four #274}}
+
+| Powers                  = Julius Akerman had the ability to control monsters in his general proximity. He used these abilities to force a lynathrope to transform into his werewolf form in broad daylight. His powers, for some reason, had no effect on the Frankenstein's Monster construct.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * In the real world, John Byrne based Julius Akerman (partially) on magazine editor {{WP|Forrest J Ackerman}}. It is unknown if, in the story, Julius Akerman was created from Ben Grimm's memories of Forrest J Ackerman, or even if Forrest J Ackerman existed on Earth-616.
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

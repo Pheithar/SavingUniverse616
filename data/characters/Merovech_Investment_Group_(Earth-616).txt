@@ -1,0 +1,34 @@
+{{Marvel Database:Organization Template
+| Image                   = 
+| Name                    = Merovech Investment Group
+| Aliases                 = 
+
+| OrganizationLeaders     = Formerly [[Wolfgang von Strucker (Earth-616)|Baron Wolfgang von Strucker]]
+| CurrentMembers          = 
+| FormerMembers           = Hilary{{r|New Thunderbolts #1}}
+
+| Identity                = 
+| Affiliation             =
+| Allies                  = Formerly [[Hydra (Earth-616)|Hydra]], [[Thunderbolts (Earth-616)|Thunderbolts]]
+| Enemies                 = Formerly [[Andreas von Strucker (Earth-616)|Swordsman (Andreas von Strucker)]], [[Thunderbolts (Earth-616)|Thunderbolts]]
+
+| Origin                  = 
+| Reality                 = Earth-616
+| Status                  = Defunct
+| BaseOfOperations        = Merovech Investment Group Building, [[Manhattan]], [[New York City]], [[New York (State)|New York]].
+| PlaceOfFormation        = Merovech Investment Group Building, [[Manhattan]], [[New York City]], [[New York (State)|New York]]
+| PlaceOfDissolution      = 
+
+| Creators                = Fabian Nicieza; Kurt Busiek; Tom Grummett
+| First                   = New Thunderbolts #1
+
+| History                 = The Merovech Investment Group was an organization founded and funded by [[Wolfgang von Strucker (Earth-616)|Baron Wolfgang von Strucker]]; it was used as a cover to [[Hydra (Earth-616)|Hydra]]'s activities in [[New York City|New York]] and to secretly fund [[Abner Jenkins (Earth-616)|Abe Jenkins]]' new [[Thunderbolts (Earth-616)|Thunderbolts]] team.{{r|New Thunderbolts #1}}
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Companies]]
+[[Category:Hydra Projects]]

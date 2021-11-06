@@ -1,0 +1,52 @@
+{{Marvel Database:Character Template
+| Image                   = Inhumans Vol 4 8 Textless.jpg
+| Name                    = Tonaja
+| CurrentAlias            = 
+| Aliases                 = Archaeopteryx
+
+| Affiliation             = {{m|Inhuman Royal Guard}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Red
+| Hair                    = Brown
+| UnusualSkinColor        = Green
+| UnusualFeatures         = Feathered wings, no visible irises or pupils
+
+| Origin                  = [[Inhomo supremis|Inhuman]] powered by [[Terrigenesis]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Attilan]]
+
+| Identity                = No Dual
+| Citizenship             = Attilan
+| Occupation              = Guardsman; Former student
+| Education               = 
+| BaseOfOperations        = [[Attilan]]
+
+| Creators                = Paul Jenkins; Jae Lee 
+| First                   = Inhumans Vol 2 2
+
+| History                 = '''Tonaja''' was a young [[Inhumans (Inhomo supremis)|Inhuman]], part of a class prior to exposure to [[Terrigen Mist]], which included Nahrees, [[Dinu (Earth-616)|Dinu]] (who Tonaja liked), [[Dewoz (Earth-616)|Woz]] and  [[Kalikya (Earth-616)|Kalikya]], her best friend. Tonaja was very afraid of changing in the mists, and confided in her grandmother. After Terrigenesis, though, she became the first Inhuman flier evolved naturally in 30-years. Tonaja chose the alias '''Archaeopterix''', like the prehistoric bird and, along with Dinu and [[Nahrees (Earth-616)|Nahrees]] entered in the Royal Guard. [[Gorgon Petragon (Earth-616)|Gorgon]] repeatedly insulted them and assigned ridiculous tasks, such as taking care of [[Lockjaw (Earth-616)|Lockjaw]].{{r|Inhumans Vol 2 2}}
+
+When the army led by [[Yuri Stalyenko (Earth-616)|Yuri Stalyenko]] attacked [[Attilan]] according to a plan that [[Maximus Boltagon (Earth-616)|Maximus]] devised, and which king [[Blackagar Boltagon (Earth-616)|Black Bolt]] already knew beforehand but sought to use in their favor, Tonaja and her companions were assigned to the front line of battle, where she was reunited with her other friends and Kalikya, discovering that she had healing powers. Tonaja tried to ask forgiveness for what she had said after their mutation but this time she was rejected, realizing she had been cruel to her friend. Tonaja and her companions fought until Black Bolt ordered the withdrawal.{{r|Inhumans Vol 2 #11|12}}
+
+Tonaja was later chosen among a group of Inhuman exchange students to visit and study on Earth.{{r|Inhumans Vol 4 1}}
+
+| Powers                  = Tonaja has wings which allow her to fly.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * http://www.marvunapp.com/Appendix4/tonajainhum.htm
+}}
+[[Category:Flight]]

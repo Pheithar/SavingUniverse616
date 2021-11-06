@@ -1,0 +1,65 @@
+{{Marvel Database:Character Template
+| Image                   = Infinity Vol 1 2 Generals Variant Textless.jpg
+| Name                    = Black Dwarf
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{m|Black Order (Earth-616)|Black Order}}
+| Relatives               = [[Corvus Glaive (Earth-616)|Corvus Glaive]] (brother);<br>
+[[Proxima Midnight (Earth-616)|Proxima Midnight]] (sister-in-law)
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Yellow
+| Hair                    = None
+| UnusualSkinColor        = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Alien]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| KilledBy                = Ronan (Earth-616)
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = Mobile
+
+| Creators                = Jonathan Hickman; Jerome Opeña<!-- See Notes -->
+| First                   = New Avengers Vol 3 8
+
+| History                 = 
+===Invading Earth===
+Black Dwarf was a member of [[Thanos (Earth-616)|Thanos]]' [[Black Order (Earth-616)|Black Order]], being the powerhouse of the Mad Titan's army.{{r|Infinity Vol 1 1}} When Thanos targeted Earth as the next planet he would raze, Black Dwarf arrived in [[Wakanda]].{{r|New Avengers Vol 3 8|9}} To his surprise, Black Dwarf found great resistance in that country, and was forced to retreat. For his failure, Thanos expelled him from the Black Order.{{r|New Avengers Vol 3 10}} Thanos gave him one more chance to prove himself, by sending him to protect [[Peak VII|The Peak]] from being reclaimed by the [[Avengers (Earth-616)|Avengers]].{{r|Avengers Vol 5 22}} During the battle, Black Dwarf was killed by [[Ronan (Earth-616)|Ronan the Accuser]] with a severe blow to the head from his [[Universal Weapon]].{{r|Avengers Vol 5 23}}
+
+===The Challenger's Contest===
+When the [[Challenger (Elder of the Universe) (Earth-616)|Challenger]] confronted the [[En Dwi Gast (Earth-616)|Grandmaster]], both assembled teams to fight on their behalf in a contest. The Grandmaster assembled the [[Lethal Legion (Grandmaster) (Earth-616)|Lethal Legion]], while the Challenger reformed the Black Order, and brought back to life its deceased members, including Black Dwarf.{{r|Avengers Vol 1 681}} Before the game started, both teams were teleported to Earth to survey it, since it had been chosen as battleground. A brief fight broke out between the competing teams, but was cut short by their masters. In preparation for the start of the contest, the Black Order launched a surprise attack on the [[Avengers Mansion]], making it explode during an assembly of the [[Avengers (Earth-616)|Avengers]].{{r|Avengers Vol 1 676}} The heroes survived, however, having been teleported to safety at the last second by [[Va Nee Gast (Earth-616)|Voyager]].
+
+For the first round, the teams were divided in half to compete for the possession of two [[Pyramoids]] placed in two different locations on Earth. Black Dwarf was part of the half of the Black Order that fought for the Pyramoid in [[Rome (Italy)|Rome]], [[Italy]].{{r|Avengers Vol 1 677}} When the [[Avengers (Earth-616)|Avengers]] intercepted both confrontations, the members of the Black Order in Rome took advantage of the Lethal Legion being distracted with the Avengers to secure the first Pyramoid. Black Dwarf touched it and scored a point for his team.{{r|Avengers Vol 1 678}} He was also teleported to the [[Grandmaster's Cosmic Game Room]] in such a manner it seemed like he had been disintegrated. He was placed in stasis, encased in some kind of crystal.{{r|Avengers Vol 1 679}} Following the end of the contest and the Avengers' victory over the Challenger, Black Dwarf was freed from the crystal construct. The Black Order regrouped and escaped to the planet [[Angargal]], where they were approached by the Grandmaster with an offer.{{r|Avengers Vol 1 690}}
+
+| Powers                  = '''[[Superhuman Strength]]'''{{r|New Avengers Vol 3 9}}
+
+'''Superhuman Density'''{{r|New Avengers Vol 3 9}}
+
+'''Superhuman Durability:''' Black Dwarf's skin is unbreakable.{{r|New Avengers Vol 3 9}} It allowed him to withstand attacks from Ronan, [[Kl'rt (Earth-616)|Super-Skrull]], and [[Annihilus (Earth-616)|Annihilus]] at the same time and not even flinch.{{r|Avengers Vol 5 23}}
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = '''His Head:''' Dwarf's defensive strength appears to be weakest around his head as this was the spot where Ronan deliver his fatal blow.{{r|Avengers Vol 5 23}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = Dwarf wields a giant two-bladed ax. He also once wielded a giant mace, but the mace was destroyed by [[Kallark (Earth-616)|Gladiator]].
+
+| Notes                   = * Black Dwarf was designed by [[Jerome Opeña]].{{r|{{cite web|url=https://www.cbr.com/exclusive-introducing-the-black-order-of-infinity-part-two/|title=EXCLUSIVE: Introducing The Black Order of “Infinity” Part Two|work=CBR.com|first=Steve|last=Sunu|date=8 May 2013|accessdate=9 May 2018}}}}
+| Trivia                  = * Black Dwarf, just like his brother, also harbored feelings for Proxima Midnight, but allowed his brother to marry her, and eventually set his sights on [[Yabbat Ummon Turru (Earth-1365)|Black Swan]].{{r|Black Order Vol 1 3}}
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Infinity casualties]]
+[[Category:Formerly Deceased]]

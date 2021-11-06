@@ -1,0 +1,72 @@
+{{Marvel Database:Character Template
+| Image                   = Frank McGee (Earth-616) from Inhuman Vol 1 7 0001.png
+| Name                    = [[Frank McGee]]
+| CurrentAlias            = <!-- he is named "Frank McGee" in recent issues (IvX #3), and he refused the name -->
+| Aliases                 = [[Nur]]
+
+| Affiliation             = formerly {{M|New York City Police Department (Earth-616)|NYPD}}, {{m|New Attilan Security Force}}
+| Relatives               = Unnamed ex-wife;{{r|Hunt for Wolverine: Weapon Lost Vol 1 4}}<br>Unnamed daughters{{r|Hunt for Wolverine: Weapon Lost Vol 1 1}}
+| MaritalStatus           = Divorced
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Yellow;  Blue (formerly)
+| Hair                    = Black (Grey at his temples.)
+| UnusualFeatures         = No visible irises or pupils, eyes constantly glow
+
+| Origin                  = [[Homo sapiens|Human]] with [[Inhumans (Inhomo supremis)|Inhuman]] lineage[[Category:Human/Inhuman Hybrids]] activated by a [[Terrigen Bomb]][[Category:Terrigen Bomb Activations]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = American, New Attilan
+| Occupation              = Private investigator, leader; former police detective, security personnel
+| Education               = 
+| BaseOfOperations        = [[New Attilan]]
+
+| Creators                = Charles Soule; Pepe Larraz; Ryan Stegman
+| First                   = Inhuman Vol 1 7
+
+| History                 = '''Frank McGee''' was a decorated police officer for the [[New York City Police Department (Earth-616)|NYPD]] for twenty-six years{{r|Hunt for Wolverine: Weapon Lost Vol 1 1}} until the day the [[Inhumans (Inhomo supremis)|Inhuman]] city of [[Attilan]] blew up over the [[Hudson River]] which released the [[Terrigen Mist]] over the entire area. Frank was one among many who became encased in a cocoon undergoing metamorphosis. After breaking out, Frank noticed a change in himself his eyes began to illuminate a bright yellow color which he was able to control the intensity of it.<!-- {{r|Inhuman Vol 1 7}} -->
+
+[[File:Frank McGee (Earth-616) from Inhuman Vol 1 7 0002.jpg|left|thumb|Nur's powers]]
+He tried to return to a normal life but he was prematurely forced into early retirement and his wife soon left him after that. Frank ended up making his way to [[New Attilan]]'s bazaar for sanctuary where he came upon [[Auran (Earth-616)|Auran]], a member of the original city's security force. Learning of his ability and experience as a cop, Auran and Frank became partners, with her giving him a new name, '''Nur'''. After stopping a sale of fake [[Terrigen Crystals]], they were summoned to the palace by [[Medusalith Amaquelin (Earth-616)|Queen Medusa]] and tasked with the job of locating her husband, [[Blackagar Boltagon (Earth-616)|Black Bolt]], as the [[New Attilan Security Force (Earth-616)|New Attilan Security Force]].<!-- {{r|Inhuman Vol 1 7}} -->
+
+Nur and Auran's search lead them to a nightclub where they started to canvas the area for clues to the Kings whereabouts. Due to Auran's acoustic abilities, they were able to locate Black Bolt since he had been in range of his brother [[Maximus Boltagon (Earth-616)|Maximus]]' proximity. As Nur pulled out his weapon, Maximus used his mind control abilities to make Black Bolt speak, blowing up the entire room of the building in which they were standing.{{r|Inhuman Vol 1 7}}
+
+Nur survived the blast from Black Bolt's scream but Auran did not, which gave ample time for the two brothers to escape. Nur made his was back to New Attilan to inform the Queen of her husband's survival but at the loss of his partner. Nur wanted to be the one to tell Auran's daughters of her death, and that he would help look after them.{{r|Inhuman Vol 1 8}}
+
+Some time later, after Nur had resigned from his job as the head of the New Attilan Security Force, he agreed to help [[Matthew Murdock (Earth-616)|Daredevil]] topple [[Wilson Fisk (Earth-616)|Mayor Wilson Fisk]]'s administration and recruited [[Douglas Ramsey (Earth-616)|Cypher]], [[Reader (Inhuman) (Earth-616)|Reader]], and [[Forey (Dog) (Earth-616)|Forey]] to the cause.{{r|Daredevil Vol 1 606}}
+
+| Powers                  = '''Photokinetic Projection:''' Nur is a [[Nuhuman]] who possesses the ability to project powerful blinding glares of light from his eyes. So far he is capable of controlling the level of illumination he projects and the distance/width within his line of sight of his target. Also his powers can produce a calm, soothing effect on others depending on the pulsation of light from his eyes.
+* '''Photographic Memorization:''' Nur can use his powers to "photograph" surroundings into his mind. He then can view the scene from different angles, and zoom any part if needed.{{r|Uncanny Inhumans Vol 1 7}}
+* '''Optic Blasts:''' Frank's able to concentrate the energy from his eyes as a high impact force projection with enough potency to punch through demons.{{r|IVX Vol 1 4}}
+
+| Abilities               = 
+'''Detective Skill''': Nur is a skilled detective, capable of observation, forensic investigation, and inductive and deductive reasoning of the highest caliber.  Given any mystery, he can arrive at the correct conclusions with a fraction of the data.
+
+'''Interrogation Expert''': Due to his experience and training as a police officer, he has an extensive knowledge of interrogation methods.
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = '''Sun Glasses:''' ordinarily used to wear a set of shades to obscure his constantly active power, eventually having them modified to feed two siphoning cables into his pistols channeling and magnifying his photokinetic power through them at the cost of serious eyestrain.
+
+'''Refraction Lens:''' Frank once made use of a magnification glass made by a Nuhuman with silicon abilities in order focus the light he projects into scattered lasers.{{r|Uncanny Inhumans Vol 1 1}}
+| Transportation          = 
+| Weapons                 = '''Attilan Pistols:''' advanced laser pistols accommodated to all the veteran police forces of the Inhuman local law enforcement of new New Attilan, Frank recently had them modified to channel his illuminating gaze through them via his shades increasing their striking and blasting power several fold.
+
+| Notes                   = * "Nur" derives from the Arabic word for "Light."
+| Trivia                  = * Frank McGee hates the [[Boston Red Sox (Earth-616)|Boston Red Sox]].{{r|Hunt for Wolverine: Weapon Lost Vol 1 1}}
+* Frank knows at least enough French to consider himself good at it.{{r|Hunt for Wolverine: Weapon Lost Vol 1 1}}
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Photokinesis]]
+[[Category:Medium range Energy Projection]]
+[[Category:Optic Blasts]]
+[[Category:Weapons Expert]]
+[[Category:Photographic Memory]]
+[[Category:Multilingual]]

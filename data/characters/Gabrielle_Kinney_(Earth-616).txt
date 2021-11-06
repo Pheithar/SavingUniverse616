@@ -1,0 +1,163 @@
+{{Marvel Database:Character Template
+| Image                   = Gabrielle (The Sisters) (Earth-616) from X-Men Red Vol 1 6 001.jpg
+| Name                    = [[Gabrielle Kinney|Gabrielle "Gabby" Kinney]]
+| NameRef                 = {{r|All-New Wolverine Vol 1 25}}
+| CurrentAlias            = [[Scout]]
+| CurrentAliasRef         = {{r|X-23 Vol 4 12}}
+| Codenames               = Honey Badger{{r|All-New Wolverine Vol 1 28}}
+| Aliases                 = Fleur Ramsey,{{r|All-New Wolverine Vol 1 28}} X23_4GAB,{{r|All-New Wolverine Vol 1 2}} Roberta Boford{{r|X-23 Vol 4 6}}
+
+| Affiliation             = Partner of [[Laura Kinney (Earth-616)|Wolverine (Kinney)]]; formerly {{m|Champions (Earth-616)|Champions Reinforcement Roster}},{{r|Champions Vol 3 1}} {{m|X-Men}},{{r|Uncanny X-Men Vol 5 9}} {{m|Hounds (Earth-811)|Hounds}},{{r|Extermination Vol 1 4}} {{m|X-Men (Jean Grey's) (Earth-616)|X-Men (Red Team)}}, {{m|Sisters (Earth-616)|The Sisters}}, {{m|Alchemax}}
+| Relatives             =  [[James Howlett (Earth-616)|Logan]] (genetic template's father);<br>
+[[Sarah Kinney (Earth-616)|Sarah Kinney]] (genetic template's mother, deceased);<br>
+[[Deborah Kinney (Earth-616)|Deborah Kinney]] (genetic template's maternal aunt);<br>
+[[Laura Kinney (Earth-616)|Laura Kinney]] (genetic template / "sister");<br>
+[[Bellona (The Sisters) (Earth-616)|Bellona]] (fellow clone / "sister");<br>
+[[Zelda (The Sisters) (Earth-616)|Zelda]] (fellow clone / "sister", deceased);<br>
+[[X23 3PAR (The Sisters) (Earth-616)|X23_3PAR]] (fellow clone "sister", deceased);<br>
+[[Sisters (Earth-616)|Six unnamed "sisters"]] (deceased);<br>
+[[Akihiro (Earth-616)|Akihiro]] (genetic template's paternal half-brother);<br>
+[[Megan Kinney (Earth-616)|Megan Kinney]] (genetic template's cousin);<br>
+Extended family via [[Laura Kinney (Earth-616)|Laura Kinney]]
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|All-New Wolverine Vol 1 25}}
+| Gender                  = Female
+| Height                  = 4'6"
+| Weight                  = 
+| Eyes                    = Green
+| Hair                    = Black
+| UnusualFeatures         = Facial scarring, retractable bone claws
+
+| Origin                  = [[Homo superior|Mutant]] [[Glossary:Clone|clone]] of [[Laura Kinney (Earth-616)|Laura Kinney]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = Unknown [[Alchemax (Earth-616)|Alchemax Genetics]] [[North America|North American]] location
+| PlaceofDeath            = [[Krakoa (Earth-616)|Krakoa]]
+| CauseofDeath            = Unknown{{r|New Mutants Vol 4 19}}
+
+| Identity                = Secret
+| Citizenship             = American, Krakoan
+| Occupation              = Adventurer; former vigilante, assassin
+| Education               = Extensive training in skills useful to assassination
+| BaseOfOperations        = [[Krakoa (Earth-616)|Krakoa]], [[Pacific Ocean]]; formerly [[Searebro]], [[X-Lantis]], [[Atlantis (Kingdom)|Atlantis]]
+
+| Creators                = Tom Taylor; David López; David Navarrot
+| First                   = All-New Wolverine Vol 1 2
+| First2                  = (as Gabby)<br>{{sld|All-New Wolverine Vol 1 28}}(as Honey Badger)<br>{{sld|X-23 Vol 4 12}}(as Scout)
+| Death                   = 
+
+| Quotation               = I '''really''' want to hurt [[Robert Chandler (Earth-616)|you]]. But [[Laura Kinney (Earth-616)|Wolverine]] wants me to be a good person. [[Zelda (The Sisters) (Earth-616)|Zelda]] wanted me to be a good person too. Despite everything [[Alchemax (Earth-616)|you]] did to [[Sisters (Earth-616)|us]], I '''want''' to be a good person.
+| Speaker                 = [[Gabrielle Kinney (Earth-616)|Gabby]]
+| QuoteSource             = All-New Wolverine Vol 1 6
+
+| Overview                = '''Gabby Kinney''' was a clone of [[Laura Kinney (Earth-616)|Laura Kinney]] created by [[Alchemax (Earth-616)|Alchemax Genetics]].{{r|All-New Wolverine Vol 1 2}} After rebelling against Alchemax with her [[Sisters (Earth-616)|Sisters]] and taking revenge on them,{{r|All-New Wolverine Vol 1 4}} fellow clone [[Bellona (The Sisters) (Earth-616)|Bellona]] left Gabby in Laura's care, allowing Gabby to pursue a career in heroics.{{r|All-New Wolverine Vol 1 6}}
+
+| History                 = 
+===Origin===
+Gabrielle is one of at least ten clones of [[Laura Kinney (Earth-616)|Wolverine]],{{r|All-New Wolverine Vol 1 4}} youngest of the [[Sisters (Earth-616)|Sisters]], created by Alchemax Genetics, a division of [[Alchemax (Earth-616)|Alchemax]]. The project was overseen by [[Robert Chandler (Earth-616)|Robert Chandler]], with security provided by Captain Mooney. The girls were created and trained to serve as bodyguards for humanitarian missions and other personnel.{{r|All-New Wolverine Vol 1 2}} Much like Laura before them, they were often abused by their handlers, particularly Mooney,{{r|All-New Wolverine Vol 1 3}} but the elder Sisters did their best to protect her from the worst of the abuse. She was incapable of feeling pain, the result of nanites implanted in her body that were slowly killing her. With six of her sisters dead due to fatalities on missions, or as a result of the nanites, she escaped along with [[Zelda (The Sisters) (Earth-616)|Zelda]], [[Bellona (The Sisters) (Earth-616)|Bellona]], and [[X23 3PAR (The Sisters) (Earth-616)|X23_3PAR]].{{r|All-New Wolverine Vol 1 4}} They were assisted in their escape by [[Kimura (Earth-616)|Kimura]], who armed and equipped them before sending them after Alchemax for revenge for stealing property from the [[Facility (Earth-616)|Facility]].{{r|All-New Wolverine Vol 1 6}}
+
+===Revenge on Alchemax Genetics===
+With the arms supplied by Kimura, the Sisters launched a campaign against Alchemax, targeting their personnel for assassination. Gabby, however, quickly grew disillusioned with her sisters' more extreme measures. So when 3PAR headed to [[Paris (France)|Paris]] to assassinate Chandler's son, she sent an anonymous note to Wolverine tipping her off.{{r|All-New Wolverine Vol 1 2}} Laura successfully foiled the assassination attempt, however 3PAR committed suicide rather than be captured.{{r|All-New Wolverine Vol 1 1}}
+
+Gabby sought Laura out directly in the aftermath and confronted her about 3PAR's death, as well as admitted that she was the one who sent the note. She then fled Laura's apartment after setting a fire as a distraction, and returned to the sewers where the rest of the girls were hiding. Laura followed her, and against Gabby's objections Bellona shot her four times in the chest to incapacitate her; however, Laura herself was unknowingly being followed by Captain Mooney, and the Sisters freed her to help them deal with the Alchemax soldiers swarming their hideout, before [[Anthony Masters (Earth-616)|Taskmaster]] arrived and shot the three fugitive clones.{{r|All-New Wolverine Vol 1 2}}
+
+[[File:Gabby (The Sisters) (Earth-616) from All-New Wolverine Vol 1 3 002.jpg|thumb|left|Gabby survives Taskmaster.]]
+They survived because of their body armor and with Laura's aid escaped into the streets of [[New York City|New York]]. She took them to the [[Sanctum Sanctorum]] to seek the help of [[Stephen Strange (Earth-616)|Doctor Strange]] with what was killing the girls.{{r|All-New Wolverine Vol 1 3}} After a misadventure with a monster Bellona inadvertently set loose from a cupboard of horrors, Strange teleported the group to [[New York Hospital]], where he successfully located the nanites which were killing Zelda. Unable to operate on them himself, he sent the girls on to [[Henry Pym (Earth-616)|Pym]]'s laboratory to borrow an [[Ant-Man's Suit|Ant-Man Suit]], so Laura could enter Zelda's body to fight the nanites directly.{{r|All-New Wolverine Vol 1 4}} They were interrupted by [[Janet Van Dyne (Earth-616)|Wasp]]; however, Jan was ultimately convinced to help them. She and Laura were successfully able to fight the devices off, but their attack tripped a warning beacon, alerting Mooney to the girls' location. He attacked them at the lab, and was able to fatally wound Zelda before Laura and Jan could restrain him.{{r|All-New Wolverine Vol 1 5}}
+
+Taking advantage of their prisoner, Laura hatched a plan to destroy Alchemax Genetics for good by allowing Mooney to escape and lead them to their secret bunker. She and Bellona switched outfits, and Laura allowed herself to be "killed" and brought into the base. Gabby and Bellona later entered the bunker with her assistance, and she then helped Bellona take out Captain Mooney. Bellona refused to allow Gabby to watch her kill him, and after the deed was done said her farewells. Gabby protested, but Bellona reminded her they had an agreement with Kimura. Gabby then hurried to meet up with Laura and came across her making a point to Chandler about the girls' powerlessness. As they were about to leave, Gabby asked to have a moment alone with Chandler, to which Laura agreed.
+
+Gabby approached the director of the project which created her, and admitted that she really wanted to kill him; however, because Laura and Zelda wanted her to be a good person, and Gabby ''herself'' desired to be good, she refrained from doing so, and satisfied herself with scaring him instead by extending a claw — which Chandler didn't believe any of the girls had manifested — in his face. She then left him there and hurried to catch up with Laura, admitting she was afraid at the idea of having to decide her own future. Laura expressed her understanding, and her pride that Gabby held herself back from killing Chandler as they walked away from the base hand-in-hand before [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] arrived.{{r|All-New Wolverine Vol 1 6}}
+
+===Moving On===
+In the aftermath of the takedown of Alchemax Genetics, Gabby briefly stayed at Laura's apartment while it was decided what would become of her next. Driven by Logan's example, Laura preferred finding her a new home that offered her greater safety and a chance at the normal life both had been denied, and which Gabby was unlikely to find with her. However Gabby was upset by this prospect, as she felt that with Zelda and Bellona gone Laura was all the family she had left; however, Laura ultimately realized that Logan was wrong when he sent ''her'' away to the [[Xavier's School for Gifted Youngsters|Xavier Institute]], and reconsidered. She agreed that the best place for Gabby would be with her, asking her to stay on permanently. The new home also came with a new pet when Gabby gleefully adopted a wolverine named Jonathan that [[Doreen Green (Earth-616)|Squirrel Girl]] rescued from a lab.{{r|All-New Wolverine Vol 1 7}}
+
+[[File:Gabrielle (The Sisters) (Earth-616) from All-New Wolverine Vol 1 11 001.PNG|thumb|180px|right|Logan lashes out]]
+Despite growing closer with her new sister, Gabby declined to tell Laura the full truth about herself. She was unable to hide it upon encountering [[James Howlett (Earth-21923)|an alternate future Logan]]: he revealed that he had known her in ''his'' [[Earth-21923|home reality]]. Logan immediately demanded to know whether Gabby intended Laura harm. She denied his accusation, and Logan appeared to accept it. However, he later tried to warn Laura of Gabby's actions in his own future. She refused to even listen, pointing out that the two realities are not the same. Any further debate was ended when [[Steven Rogers (Earth-61311)|Captain America]] arrived in pursuit of Logan because the [[Inhumans (Inhomo supremis)|Inhuman]] [[Ulysses Cain (Earth-616)|Ulysses]] predicted that Logan would kill Gabby, and S.H.I.E.L.D. scrambled to intercept him before he could carry out the killing. However S.H.I.E.L.D.'s efforts to prevent Ulysses' vision ultimately led directly to its apparent fulfillment: After their attempts to restrain Logan only drove him into a blind rage, Gabby took it upon herself to reach out and attempt to calm him. Unfortunately, Logan mistook her for the [[Gabrielle Kinney (Earth-21923)|Gabrielle of his reality]] and lashed out, impaling her on his claws.{{r|All-New Wolverine Vol 1 10|11}}
+
+Although pronounced dead on the scene by Rogers, Gabby in actuality survived her wounds because, unlike her other sisters, she ''did'' inherit Laura's healing factor. She rushed to intervene in the fight between Laura and Logan that ensued in the wake of her apparent death and managed to defuse the situation. Gabby revealed her powers to Laura and apologized for not telling her before. Laura broke off any possibility of a relationship with Logan, and Gabby warned him never to bother or upset her again, otherwise, she would "put him down" like a rabid dog. She subsequently joined Laura as she withdrew from the brewing [[Civil War II|Second Superhero Civil War]].{{r|All-New Wolverine Vol 1 12}}
+
+===[[Enemy of the State II (Wolverine Story Arc)|Enemy of the State II]]===
+After seemingly killing the entire civilian population of [[Daylesville]], [[California (State)|California]],{{r|All-New Wolverine Vol 1 13}} Laura was arrested by S.H.I.E.L.D.; however, her behavior had been influenced by [[Trigger 42|trigger scent]] released from a Madripoorian aircraft. After escaping custody, Laura and Gabby sought passage upon a pirate ship to reach [[Madripoor]] to search for answers. Unfortunately [[Captain Ash (Earth-616)|Captain Ash]] turned out to be part of an underground child trafficking ring, and although Gabby and Laura saved the children, it was not before being sold out to Kimura, who was responsible for having dropped the trigger in the first place.{{r|All-New Wolverine Vol 1 14}} Laura was then captured by [[Roughouse (Earth-616)|Roughouse]] and Bellona, who were working for Kimura.{{r|All-New Wolverine Vol 1 15}}
+
+Gabby was put in a shipping container with the children,{{r|All-New Wolverine Vol 1 16}} but escaped with Jonathan and returned to Madripoor with [[Remy LeBeau (Earth-616)|Gambit]], [[Warren Worthington III (Earth-616)|Angel]], and [[Jean Grey (Earth-616)|Marvel Girl]].{{r|All-New Wolverine Vol 1 17}} Gabby later saved Bellona's life and convinced her to stop fighting for Kimura, who had heavily experimented on her. After Laura drowned Kimura in the ocean with her bare hands, Gabby reached the water as Bellona admitted she had actually murdered the Californians whom Laura was blamed for. Bellona was then arrested by S.H.I.E.L.D. after telling Laura to take care of Gabby.{{r|All-New Wolverine Vol 1 18}}
+
+=== Further Adventures with Laura ===
+After returning to New York City, the pair began to track down those responsible for the child trafficking ring they'd encountered during their trip to Madripoor when [[Arfesia (Earth-616)|an alien child]] crash-landed on [[Roosevelt Island]], speaking Laura's name to [[Riri Williams (Earth-616)|Ironheart]] with her dying breath.{{r|All-New Wolverine Vol 1 19}} The child had brought a deadly contagion which came to be known as the [[Laura Kinney Virus]] and forced the island into quarantine. Against Laura's wishes, Gabby smuggled herself onto Roosevelt Island and helped to thwart [[American Intelligence Mechanics (Earth-616)|A.I.M.]]'s attempt to steal the alien's corpse.{{r|All-New Wolverine Vol 1 20}} They were then joined by Logan, [[Akihiro (Earth-616)|Daken]], and [[Wade Wilson (Earth-616)|Deadpool]] and the combined healing factors of the five helped to cure all the infected.{{r|All-New Wolverine Vol 1 21}}
+
+Sometime later, Gabby, now going by '''Honey Badger''', was on a walk with Jonathan, when they stumbled upon the lab where Jonathan had been abused. She decided to call Deadpool, afraid that Laura wouldn't approve, and together they began trashing the place. When Laura realized Gabby still hadn't return from her walk, she tracked her down and found them battling zombie animals. After talking to Gabby and assuring her that she would have helped her is she asked, they set the building alight and watched it burn together.{{r|All-New Wolverine Vol 1 31}}
+
+[[File:X-Men Red Vol 1 1 Fried Pie Exclusive Variant Textless.jpg|thumb|180px|left|With her sister]]
+After their time with Jean Grey's [[X-Men (Jean Grey's) (Earth-616)|X-Men]],{{r|X-Men: Red Vol 1 1}} Laura and Gabby, with the help of Hank McCoy, began to track down people who were involved in the cloning of Laura and subsequent projects. At the same time, Gabby became fixated on the idea of a birthday after learning that the [[Stepford Cuckoos (Earth-616)|Cuckoos]] celebrated one. For their birthday the remaining three Cuckoos had planned to bring their two sisters back from the dead. Because their psychic powers were incompatible with the cloned bodies they constructed, [[Esme Cuckoo (Earth-616)|Esme]] transferred her consciousness to a kidnapped Gabby, hoping to use her healing factor. Meanwhile, [[Sophie Cuckoo (Earth-616)|Sophie]], whose body's destruction had been accelerated by Esme, contacted Laura telepathically and offered her assistance.{{r|X-23 Vol 4 1|4}}
+
+When [[Irma Cuckoo (Earth-616)|Mindee]] came to find Laura, Sophie persuaded her to their side, and they drove to the X-Mansion to face the others. In the midst of the fight between Laura and Esme, Mindee slipped into the mansion to use Cerebro, and together with [[Phoebe Cuckoo (Earth-616)|Phoebe]] and [[Celeste Cuckoo (Earth-616)|Celeste]], they trapped her in the psychic plane after being removed from Gabby. Later on, Gabby invited some X-Men friends to their apartment for a 'funeral party' for Esme, which included cake and party hats.{{r|{{cl|X-23 Vol 4 4}}-[[X-23 Vol 4 5|5]]}}
+
+=== [[Age of X-Man (Event)|Age of X-Man]] ===
+Gabby was one of [[Nathaniel Grey (Earth-295)|Nate]]'s prisoners at the [[Danger Room|Danger Room Prison Complex]] under the supervision of [[Forge (Earth-616)|Warden Forge]]. She was with a fellow prisoner when Forge brought in former [[X-Men (Age of X-Man) (Earth-616)|X-Man]], [[Lucas Bishop (Earth-1191)|Bishop]],{{r|Age of X-Man: Prisoner X Vol 1 1}} after he was arrested by [[Department X (Age of X-Man) (Earth-616)|Department X]].{{r|Age of X-Man Alpha Vol 1 1}}
+[[File:Gabrielle Kinney (Earth-616) from Age of X-Man Prisoner X Vol 1 1 001.png|thumb|160px|right|Gabby in the [[Danger Room|Danger Room Prison Complex]]]]
+
+Gabby then pushed Bishop out of her way in the breakfast line as she told him she was still hungry, but was ignored by him as he thought he was in a conversation with [[Shard Bishop (Earth-1191)|someone else]], which turned out to be no one. Gabby said that he was like [[Lorna Dane (Earth-616)|Lorna]], as they both knew the same invisible people. Gabby later played basketball with the other prisoners in the yard but was interrupted by Bishop who said that they both got off on the wrong foot and wondered if he had scared her or something. Gabby cut him off and said she could take him out. Bishop then asked her if they knew each other before she got the prison since he had flashes or memories of it.<!-- {{r|Age of X-Man: Prisoner X Vol 1 1}} -->
+
+She disagreed with him and told him she would remember someone as annoying as him, then reaffirmed that he was just like Lorna. Gabby said he should take a nap, as it helped her when she got the brain fuzzies, also she wouldn't tell [[Henry McCoy (Earth-616)|Hank]] that he came around again. Later on, Bishop was attacked by Hank because Gabby had lied to Bishop about not telling on him.{{r|Age of X-Man: Prisoner X Vol 1 1}}
+
+=== Krakoa ===
+Gabby was later seen on Krakoa, playing a version of spin the bottle with Logan and Daken but instead of kissing whoever the bottle lands on, the person has to shed his claws into their head.{{r|X-Force Vol 6 9}}
+
+She later began training with other young mutants in an effort to synergise their powers. However, after learning that [[Madelyne Pryor (Earth-616)|Madelyne Pryor]] would not be resurrected due to being a clone, Gabby began to wonder if she would be resurrected in case she died.{{r|New Mutants Vol 4 14}}
+
+She would eventually become concerned with all the time her friends [[Martha Johansson (Earth-616)|No-Girl]], [[Carl Aalston (Earth-616)|Rain Boy]], [[Natashia Repina (Earth-616)|Cosmar]], and [[Victor Borkowski (Earth-616)|Anole]] were spending with [[Shadow King (Multiverse)|The Shadow King]] [[Amahl Farouk (Earth-616)|(Amahl Farouk)]], but she couldn't tell Laura about it because she was on a mission in [[The City]], and the other adults were of little help. Eventually she was forced to confront Farouk directly about these concerns, but the next day she was found dead.{{r|New Mutants Vol 4 19}}{{r|New Mutants Vol 4 18}}
+
+Her corpse was possessed by [[Martha Johansson (Earth-616)|No-Girl]]. She didn't believe that Gabby would be resurrected by the five as she was a clone. Anole, No-Girl, Cosmar, and Rain Boy attempted to resurrect her by themselves using skills they learned from The Shadow King.{{r|New Mutants Vol 4 20}} When [[Five (Earth-616)|The Five]] learned of Gabby's death they decided to follow their consciences and resurrect her despite her initially being a clone. When she was re-born she said that the last thing she remembered was seeing The Shadow King and [[Rahne Sinclair (Earth-616)|Rahne Sinclair]], pain, despite being resistant to pain, and then nothingness.{{r|New Mutants Vol 4 21}} 
+
+|Personality = Although abused by Alchemax Genetics the same as her sisters, Gabby was largely shielded from the worst of their treatment. As a result, she survived their training and escaped with her innocence more or less intact. Doctor Strange confirmed with the [[Eye of Agamotto]] that although Gabby had done some questionable things, she was indeed an innocent, and Zelda called her what the Sisters ''should'' have been.{{r|All-New Wolverine Vol 1 4}}
+
+[[File:Gabrielle (The Sisters) (Earth-616) from All-New Wolverine Vol 1 3 001.png|thumb|180px|left]]
+This contributed to the growing discomfort with her sisters' more extreme actions that led to her tipping Wolverine off to the assassination attempt in Paris, and because of her trusting nature she accepted Laura's assertion she didn't kill 3PAR in Paris at face value.{{r|All-New Wolverine Vol 1 2}} She can also be naive. After Bellona sardonically questioned Laura's refusal to kill despite maiming Alchemax Genetics' soldier by asking what would happen if a man whose fingers Laura severed was a part-time pianist, Gabby gathered up the severed digits and left them where he could easily find them again ''just in case'' it was actually true.{{r|All-New Wolverine Vol 1 3}} She also has a tendency towards frank honesty about the unusual situation the group is in. She berated Doctor Strange for keeping a cupboard full of horrors in his living room instead of decorating with paintings when questioned by an orderly why she and Bellona are standing around a restricted area, she unhesitatingly responded with the truth about Strange and her Sisters,{{r|All-New Wolverine Vol 1 4}} and when Zelda awakened after Laura and Wasp successfully destroyed the nanites killing her, she rambled about "teeny-tiny warrior women" attacking the "teeny-tiny machines."{{r|All-New Wolverine Vol 1 5}}
+
+She cares deeply for her sisters and was upset both by Zelda's death, and Bellona's decision to leave and surrender to Kimura once their mission was complete. Gabby confessed affection and admiration for Laura herself to Director Chandler.{{r|All-New Wolverine Vol 1 6}} After Zelda's death and Bellona's departure, she came to view Laura as the only family she had left and was deeply upset when Laura considered sending her away someplace safer, and where she could live a normal life.{{r|All-New Wolverine Vol 1 7}} Though Laura has taken it upon herself to act as Gabby's guardian, Gabby has also become protective of Laura in turn, and warned [[James Howlett (Earth-21923)|Old Man Logan]] against bringing any more pain to Laura's life.{{r|All-New Wolverine Vol 1 12}}. She is also highly-protective of [[Jonathan (Earth-616)|Jonathan]] the wolverine, and when the animal was shot during a botched burglary viciously attacked the perpetrators.{{r|All-New Wolverine Vol 1 10}}
+
+| Powers                  = [[File:Gabrielle Kinney (Earth-616) from All-New Wolverine Vol 1 6 001.png|thumb|300px|Gabby reveals her claw.]]
+Gabrielle Kinney was cloned from the [[Homo Superior|Mutant]] [[Laura Kinney (Earth-616)|Laura Kinney]],{{r|All-New Wolverine Vol 1 4}} therefore she possesses powers similar to those of Laura's father, [[James Howlett (Earth-616)|Logan]].{{Citation}} Gabrielle's accelerated cellular regeneration augments her natural strength, speed, agility, endurance, and reflexes.{{Citation}}
+* '''[[Healing Factor|Regenerative Healing Factor]]:''' Gabby’s body naturally regenerates most (if not all) damaged or destroyed tissue and organs at a rate which exceeds that of any baseline human. Although Alchemax believed otherwise, Gabrielle possesses this ability. Strangely, she still possesses her facial scarring.{{r|All-New Wolverine Vol 1 12}} It is currently unclear whether her healing abilities provide the same secondary effects (enhanced strength, senses, endurance, etc.) as Laura's, or how it is affected by the nanites infesting her bloodstream.{{Citation}}
+** '''Decelerated Aging:''' Gabby inherited a lifespan similar to her father's.{{Citation}}
+* '''Retractable Bone Claws:''' Gabby’s skeleton includes two retractable foot-long bone claws, one in each arm, that are housed beneath the skin and muscle of her forearms. Gabrielle could, at will, release these slightly curved claws through her skin between the knuckles on each hand. The bone claws are naturally sharp and tougher than normal human bone, allowing them to penetrate most flesh and many natural materials.{{r|All-New Wolverine Vol 1 6}}{{r|All-New Wolverine Vol 1 20}}
+* '''Superhumanly Acute Senses:''' Gabby’s super-human senses are a combination of a separate mutant ability and her Healing Factor since her sense organs atrophy at a much slower rate than baseline humans. Her most improved senses are sight, hearing and smell.{{r|X-23 Vol 4 8}}
+* '''Insensitivity to Pain:''' As a result of Alchemax Genetics' experiments, Gabby is unable to feel pain.{{r|All-New Wolverine Vol 1 2}}
+| Abilities               = '''Expert Covert Ops Training:''' Gabby was extensively trained as an assassin and bodyguard. She demonstrated sufficient skill that even Wolverine found it difficult to track her.{{r|All-New Wolverine Vol 1 2}}
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = * Gabby was equipped with body armor and an armored mask.{{Citation}}
+* Like all of the Sisters, Gabby's bloodstream is infested with nanomachines. This provides her with complete insensitivity to pain, however, in the other girls it resulted in a greatly reduced lifespan. It is unclear how the nanites are affected by (or effect) her healing factor.{{Citation}}
+| Transportation          = 
+| Weapons                 = While on the run with the other Sisters, Gabby carried a pair of MAC-10 machine pistols;{{Citation}} however, after coming under Laura's care she has abandoned firearms, and more recently has begun carrying nunchucks,{{Citation}} and a pair brass knuckles that spell the words "HONEY" and "BADGER."{{Citation}}
+
+| Notes                   = * According to creator Tom Taylor, each of The Sisters represented an aspect of Laura's personality. Gabby was described as the innocence that was stolen from her, and the girl she ''could'' have been.{{r|[http://www.comicbookresources.com/article/x-position-tom-taylor-declassifies-all-new-wolverines-deadly-sisters Tom Taylor Declassifies All-New Wolverine's Deadly Sisters]}}
+* Gabby was said to have a greatly reduced life expectancy due to the presence of foreign nanites in her bloodstream;{{r|All-New Wolverine Vol 1 2|5}} though, it is unknown what greatly reduced based upon her genetic source material actually means. However, this was prior to the revelation that she was Laura's only clone to inherit her healing factor, meaning she is likely protected from this.
+* Gabby was once infected by the [[Brood (Race)|Brood]].{{r|All-New Wolverine Vol 1 23}}
+| Trivia                  = * {{cl|All-New Wolverine Vol 1 10}} revealed that Gabby existed in at least one other universe, [[Earth-21923]]. Whether Logan knew her before or after the villain uprising has not been disclosed, but she appeared to have at least some of Gabby's powers, and both killed and was killed by the Wasteland's [[Laura Kinney (Earth-21923)|Laura Kinney]].
+* Gabby is a member of the [[The Forums|Forums]] social media network.{{r|Champions Vol 3 1}}
+* Gabby was 13 years old as of {{cl|All-New Wolverine Annual Vol 1 1}}.
+* The grave marker for Gabby's [[Gabrielle Kinney (Earth-21923)|counterpart]] on [[Earth-21923]] gives her the full name of Gabby Zelda Kinney, though this is not necessarily true for [[Earth-616]].{{r|All-New Wolverine Vol 1 12}}
+* Daken dubbed her Honey Badger based on how sweet she was and her two retractable claws.{{r|All-New Wolverine Vol 1 28}}
+* Gabby had confused feelings about a girl she saw once on a bus that she has yet to completely explore, suggesting she may be bisexual or a lesbian.{{r|X-Men: Red Vol 1 2}}
+* Gabby was not be eligible for resurrection by the [[Five (Earth-616)|Five]] due to her status as a clone.{{r|New Mutants Vol 4 20|21}}
+** In spite of this, they brought her back anyways.{{r|New Mutants Vol 4 21}}
+}}
+[[ru:Габриэль Кинни (616)]]
+
+[[Category:Alchemax Experiment]]
+[[Category:Mutants cloned/created after M-Day]]
+[[Category:Clones of Laura Kinney]]
+[[Category:Kinney Family]]
+[[Category:Post-Secret Wars Mutants]]
+[[Category:Scarred]]
+[[Category:Regeneration]]
+[[Category:Social Network Users]]
+[[Category:The Forums Users]]
+[[Category:Howlett Family]]
+[[Category:Logan Family]]
+[[Category:Hudson Family]]
+[[Category:Age of X-Man participants]]
+[[Category:Superhuman Senses]]
+[[Category:Brood-infected]]
+[[Category:Pain Suppression]]

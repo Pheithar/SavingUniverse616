@@ -1,0 +1,71 @@
+{{Marvel Database:Character Template
+| Image                   = Richard Janus (Earth-616) from Fantastic Four Vol 1 108.jpg
+| Name                    = Richard Janus
+| CurrentAlias            = Nega-Man
+| Aliases                 = 
+
+| Affiliation             = [[Reed Richards (Earth-616)|Reed Richards]]
+| Relatives               = 
+| MaritalStatus           = Single 
+
+| CharRef                 = {{cl|[[Marvel Encyclopedia Vol 1 Fantastic Four]]}}
+| Gender                  = Male
+| Height                  = 5'10"
+| Weight                  = 170 lbs
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]], [[Mutate]], Scientist mutated by Negative Energy
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[New York (State)|New York]]
+| PlaceOfDeath            = 
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = Physicist, engineer, inventor
+| Education               = PhD in Physics
+| BaseOfOperations        = [[New York (State)|New York]]
+
+| Creators                = Stan Lee; John Buscema
+| First                   = Fantastic Four Vol 1 107
+| Death                   = 
+
+| History                 = Dr. Richard Janus was a college student and a research scientist and friend of [[Reed Richards (Earth-616)|Reed Richards]] at [[State University (Hegeman)|State Univeristy]] in [[Hegeman]]. Janus was  obsessed with finding a new source of energy, and sought Richards' help to harness this Negative Energy, or "Nega-Power" as he likes to call it.{{r|Fantastic Four Vol 1 107|109}}
+
+When Richards moved on to new experiments when results showed no results, Dr. Janus  continued his work, and eventually discovered his new "Nega-Power". Dr. Janus was exposed to the energy and was split into two separate beings; Janus and the Nega-Man. The Nega-Man overpowered Dr. Janus, and set out to conquer the planet.{{r|Fantastic Four Vol 1 107|109}}
+
+The Nega-Man clashed with the [[Fantastic Four (Earth-616)|Fantastic Four]] and developed a module capable of harnessing anti-matter energy. He then attempted to enter the [[Negative Zone]] to increase his power. Janus encountered the Negative Zone's ruler, [[Annihilus (Earth-616)|Annihilus]], who easily defeated him. Overwhelmed in the face of such power, Janus cravenly offered to guide Annihilus back to Earth, even while knowing the cataclysmic consequences of doing so.{{r|Fantastic Four Vol 1 107|109}}
+
+However, Annihilus also allowed Janus on one of his ships to venture out into Negative Zone space to absorb the negative energy he was seeking even as the male members of the Fantastic Four ventured into the Negative Zone themselves to stop him. Janus achieved that goal, only to learn that the crew Annihilus assigned to convey him had subsequent orders to restrain him for Annihilus' own purposes. Janus was easily able to strike them down, but even as Janus steered the ship back to confront Annihilus with his new strength, a dying minion was able to have Janus ejected out of the ship with the last of his strength. Despite the pursuing Reed Richards' best efforts to save him, Janus was instead seemingly killed when he was pulled into an anti-matter interface.{{r|Fantastic Four Vol 1 107|109}}
+
+Dr. Richard Janus many years later revealed to have survived the experience and faked his death to continue his experiments. Dr. Janus plotted to siphon the power of the Negative Zone, however he was apparently destroyed this time by an energy disruption.{{r|Fantastic Four Vol 3 43|44}}
+
+| Powers                  = '''Negative Pym Particle/Energy Enhancement''': It was theorized that Janus's special powers stem from an inverted variant of Dr. Pym's [[Pym Particles|Kosmos material]] physics derived from his exposure to the Negative Zone.{{r|FF Vol 2 16}} Through the interaction of this foreign particle matter, coupled with a special device made to channel it properly, Janus the Negative Man could properly channel the residual force begotten from the destructive collision of matter & antimatter known as Negative Energy to vastly augment himself to incredible degrees.{{r|Fantastic Four Vol 1 108}}
+* '''Superhuman Strength'''{{r|Fantastic Four Vol 1 108}}
+* '''Superhuman Durability'''{{r|Fantastic Four Vol 1 108}}
+* '''Mass Enhancement'''{{r|Fantastic Four Vol 1 108}}
+** '''Size Alteration'''{{r|Fantastic Four Vol 1 108}}
+* '''Antimatter Stabilization''': Repetitive exposures to negative energies have made Janus resilient to the effects of the Negative Zone, enabling him to survive there indefinitely.{{r|Fantastic Four Vol 1 108|109}}
+* '''Bi-Location''': Somehow Janus found a means of recreating his negative self at will.{{r|Fantastic Four Vol 3 40}} Casting the manifesto of all his worst personal traits outward whilst remaining in control of his own personal facilities.{{r|Fantastic Four Vol 3 43|44}}
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = '''Crippled Legs''' Janus had a malady that left him with nearly inoperable legs.{{r|Fantastic Four Vol 1 108}}(''Formerly'')
+
+| Equipment               = '''Nega-Ray Control Module''': A power transference device which Janus fabricated to better channel the nega particle forces used to empower him, as bas matter could not survive a direct infusion of anti-energy.{{r|Fantastic Four Vol 1 107}} With the modular apparatus feeding him the necessary energies, Janus initially created a doppelganger of himself which embodied all of his worse psychological traits before it dissipated upon death.{{r|Fantastic Four Vol 1 108}} Now he can harness the power by his lonesome.  
+* '''Mass Transference'''{{r|Fantastic Four Vol 1 108}} 
+* '''Energy Projection'''{{r|Fantastic Four Vol 1 108}}
+** '''Cold Blasts'''
+* '''Electricity Generation'''{{r|Fantastic Four Vol 1 108}}
+* '''Suit Transformation'''{{r|Fantastic Four Vol 1 109}}
+
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * http://www.marvunapp.com/Appendix/janus2.htm
+}}
+[[Category:State University Student]]

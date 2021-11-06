@@ -1,0 +1,73 @@
+{{Marvel Database:Character Template
+| Image                   = Sack (Earth-616) from Uncanny X-Men Vol 1 323.png
+| Name                    = 
+| CurrentAlias            = Sack
+| Aliases                 = Glass
+
+| Affiliation             = {{M|198}}, {{M|Gene Nation (Earth-616)|Gene Nation}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 5'7"
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = No Hair
+| UnusualFeatures         = Body made out of transparent blue gelatin.
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = [[Morlock Tunnels]]
+
+| Creators                = Scott Lobdell; Bryan Hitch
+| First                   = Uncanny X-Men #323
+| Death                   = New Mutants Vol 3 #14
+
+| History                 = 
+===Gene Nation===
+When the mentally unstable [[Mikhail Rasputin (Earth-616)|Mikhail Rasputin]] flooded the [[Morlock Tunnels]], many were believed dead. However, at the last instant, Mikhail used his powers to open a portal into a parallel dimension dubbed The Hill. In this dimension, time moved at a faster rate, and even though it was a manner of months in the main Marvel Universe, it had been between 10-20 years on the Hill.{{r|Uncanny X-Men #325}}
+
+The members of [[Gene Nation (Earth-616)|Gene Nation]] reappeared on [[Earth-616]]. Their mission was to destroy one hundred humans for every Morlock life that had been lost. Sack and [[Vessel (Earth-616)|Vessel]] were the first members to show themselves, killing a number of civilians at a nightclub. Sack had suffocated a coroner and an innocent bystander when the [[X-Men (Earth-616)|X-Men]] arrived. They battled with [[James Howlett (Earth-616)|Wolverine]], [[Ororo Munroe (Earth-616)|Storm]], [[Samuel Guthrie (Earth-616)|Cannonball]], and later [[Henry McCoy (Earth-616)|Beast]], and were hardly fazed by their show of force. Finding their luck changing, the two Gene Nationals fled.{{r|Uncanny X-Men #323|324}}
+
+Later, on the anniversary of the [[Mutant Massacre]], a horrific event in which [[Nathaniel Essex (Earth-616)|Mr. Sinister]]'s henchmen, the [[Marauders (Earth-616)|Marauders]], killed many Morlocks, a team of X-Men and the Morlock [[Callisto (Earth-616)|Callisto]] confronted an attack group from Gene Nation including Sack, threatening the lives of several civilians by attaching incendiary devices to them that were regulated by [[Marrow (Sarah) (Earth-616)|Marrow]]'s heartbeat. Seeing it as the only way of stopping the terrorist, Storm ripped out Marrow's heart. Defeated, Callisto took Sack, along with the remaining members of Gene Nation, back to The Hill.{{r|Uncanny X-Men #325}}
+
+A few months later, Storm was kidnapped by Mikhail and taken to The Hill. Once there she had to fight her way to the top of the hill where Mikhail lived, where she successfully overpowered him. Sack was one of the team that successfully reached the top, yet he had decided to take on the moniker of "Glass". Having won the victory, Storm forced Mikhail to take all of the people living on The Hill back to the real world. In an effort to give the mutants a new start, she settled them in a village outside of her home town in [[Africa]].{{r|Storm #3|4}}
+
+===M-Day===
+Sack was one of the few mutants that was unaffected by the [[Wanda Maximoff (Earth-616)|Scarlet Witch]]'s tampering on [[Decimation|M-Day]], and was next seen on the grounds of the [[Xavier's School for Gifted Youngsters|Xavier Institute]] as one of the [[198 (Earth-616)|198]]. He was seen associating with former Gene National [[Fever Pitch (Earth-616)|Fever Pitch]] and former Morlock [[Erg (Earth-616)|Erg]], and almost incited a riot against their [[Sentinel Squad O*N*E (Earth-616)|Sentinel "protectors"]]. If not for the intervention of [[Absolon Mercator (Earth-616)|Mister M]], it could have escalated into a bloody battle. When [[Office of National Emergency (Earth-616)|O*N*E*]] offered to let the mutants into [[Salem Center]] in exchange for being implanted with "tracking" chips, Sack was one of the mutants that had it implanted. When the device's true purpose was revealed he attempted to remove the device, discovering that he couldn't and it was bonded to his skull. Fortunately Mr. M, who did not have one implanted, removed Sack's along with everyone else's.{{r|X-Men: The 198 #5}}
+
+===Utopia and Second Coming===
+Sack later made his way west, showing up on [[Utopia (X-Men Base)|Utopia]] where he attempted to take control of a corner of the island before being stopped by [[Elizabeth Braddock (Earth-616)|Psylocke]], [[Alison Blaire (Earth-616)|Dazzler]], and several of the younger members of the X-Men.{{r|Psylocke #1}}
+
+Sack was killed by a Nimrod during [[Second Coming]].{{r|New Mutants Vol 3 #14}}
+
+| Powers                  = Sack is a being composed entirely of a gelatinous body that covers his skeleton. He is able to shift his fluid form to cover and control his host while going about his business virtually undetected. Due to the fact that his body is not made of solid matter, it helps to reduce the pain of physical impact.{{r|Uncanny X-Men #323|325}}
+
+| Abilities               = 
+| Strength                = Human
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Gel Manifestation]]
+[[Category:Possession]]
+[[Category:Superhuman Durability]]
+[[Category:Goo Body]]
+[[Category:Utopians]]
+[[Category:Post-M-Day Mutants (The 198)]]
+[[Category:Second Coming casualties]]
+[[Category:High Threats]]

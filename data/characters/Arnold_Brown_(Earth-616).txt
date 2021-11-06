@@ -1,0 +1,72 @@
+{{Marvel Database:Character Template
+| Image                   = Arnold Brown (Earth-616) from Official Handbook of the Marvel Universe Vol 2 18 001.jpg
+| Name                    = Arnold Brown
+| CurrentAlias            = [[Supreme Hydra|Imperial Hydra]]
+| Aliases                 = [[Supreme Hydra]], [[Master]]
+
+| Affiliation             = Formerly {{m|Hydra}}, {{m|Imperial Industries (Earth-616)|Imperial Industries}}
+| Relatives               = [[Laura Brown (Earth-616)|Laura Brown]] (daughter); wife (name unrevealed, deceased)
+| MaritalStatus           = Widowed; {{r|Official Handbook of the Marvel Universe Vol 2 18}}
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 5'9"
+| Height2                 = in costume 6'1"{{r|Official Handbook of the Marvel Universe Vol 2 18}}
+| Weight                  = 180 lbs.
+| Weight2                 = {{r|Official Handbook of the Marvel Universe Vol 2 18}}
+| Eyes                    = Brown
+| Eyes2                   = {{r|Official Handbook of the Marvel Universe Vol 2 18}}
+| Hair                    = Brown
+| Hair2                   = white temples
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = American
+
+| Occupation              = Second-in-command of HYDRA operations; executive secretary to Leslie Carrington, member of the board of directors of Imperial Industries International
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Stan Lee; Jack Kirby
+| First                   = Strange Tales #135
+| Death                   = Strange Tales #141
+
+| History                 = 
+Little is known about the past of Arnold Brown before he became the ''Imperial Hydra'' of the subversive organization known as [[Hydra (Earth-616)|Hydra]].{{r|Strange Tales #140}}
+
+When his wife died in poverty, Brown vowed that he would give his daughter, [[Laura Brown (Earth-616)|Laura]], everything that his wife had lacked. It is not exactly known exactly when after his wife's death that Brown joined Hydra or the powerful [[Imperial Industries (Earth-616)|Imperial Industries]]. Brown worked his way up in both organizations, eventually becoming the executive secretary to [[Leslie Carrington (Earth-616)|Leslie Carrington]], a member of the Board of Directors of Imperial Industries. Brown used his position to divert money and resources secretly to Hydra.{{r|Strange Tales #137}}
+
+The true leader of Hydra, [[Wolfgang von Strucker (Earth-616)|Baron Wolfgang von Strucker]], was impressed by Brown's achievements as a member of Hydra. Seeking to remain behind the scenes as the Grand Imperator of [[THEM (Earth-616)|THEM]], the central committee secretly governing Hydra, Strucker and his fellow members of THEM appointed Brown to supervise Hydra operations as the Imperial Hydra, perhaps because he was not Hydra's true leader.
+
+Moreover, the fact that the Imperial Hydra was Arnold Brown was kept secret from all Hydra personnel except Strucker and the members of THEM. The sole exception to this rule was Brown's daughter Laura, whom Brown had inducted as an Hydra agent herself.
+
+Although of slight stature, Brown worn a padded costume and lifts in his boots when he appeared as the masked Imperial Hydra in order to make himself appear more impressive.{{r|Strange Tales #141}}
+
+Although Brown appeared to be an introverted milquetoast as Carrington's secretary, he was actually an ambitious, ruthless leader, although be was loyal to Strucker. Brown had no friends, but he cared deeply for his daughter, and sincerely believed that he was leading Hydra towards achieving world domination to benefit Laura. In Brown's mind, giving Laura power over the whole world would make up for his wife's misery in poverty.{{r|Strange Tales #137}}
+
+Under Brown's brilliant leadership, Hydra developed an arsenal of weaponry, submarines, and fighter aircraft greater than those of most nations. He succeeded even in constructing a [[Manhattan]] headquarters for Hydra that was secretly linked to the offices of Imperial Industries.{{r|Strange Tales #141}} On Brown's orders [[Rick Stoner (Earth-616)|Rick Stoner]],{{r|Fury #1}} the first Public Director of [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]], the international law-enforcement agency founded to combat Hydra, was assassinated. However, Brown's men failed in their attempts to kill the next Director, [[Nicholas Fury (Earth-616)|Nick Fury]].{{r|Strange Tales #136}}
+
+Brown directed Operation: Doomsday, in which Hydra launched a Betatron Bomb into [[Earth Orbit]]. Hydra then demanded that the nations of the Earth surrender to its control or else the bomb would release leathal radiation over the planet.{{r|Strange Tales #137}} However, inventor [[Anthony Stark (Earth-616)|Tony Stark]], manning his Brainousaur craft, succeeded in deactivating the bomb in orbit, and Fury led S.H.I.E.L.D. agents in capturing Hydra's Manhattan headquarters.{{r|Strange Tales #140}}
+
+Brown, recognizing defeat, returned to the offices of Imperial Industries, from which he could trigger a mechanism that would destroy Hydra headquarters. He removed his Imperial Hydra costume,{{r|Strange Tales #140}} but then hesitated activating the destruct device, knowing that to destroy Hydra headquarters, would mean killing his daughter, who was still there and had aided Fury. Suddenly two fleeing Hydra agents broke in upon Brown. Brown told them he was the Imperial Hydra, but they refused to believe him, since they had never seen the Imperial Hydra unmasked and since Brown's costume had made him look bigger and taller than he actually was. Nearly hysterical in despair over his defeat, Brown began reciting the Hydra Oath. Tiring of what he considered a nuisance, one of the agents told the other to kill Brown, who was shot dead. The next moment, Fury, Laura Brown and other S.H.I.E.L.D. agents came through the passageway linking the corporate officers with Hydra headquarters and dealt with the two Hydra agents. Laura Brown held her father's corpse in her arms, mourning his self delusion in trying to conquer the world for her when all she wanted was his love.{{r|Strange Tales #141}}
+
+| Powers                  = None.
+| Abilities               = Criminal strategist and organizer.{{r|Official Handbook of the Marvel Universe Vol 2 18}}
+| Strength                = Normal human level, with no regular exercise.{{r|Official Handbook of the Marvel Universe Vol 2 18}}
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+
+}}
+[[Category:Strategists]]

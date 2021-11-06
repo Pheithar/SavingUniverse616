@@ -1,0 +1,68 @@
+{{Marvel Database:Character Template
+| Image                   = Harek Korgon (Earth-616) from Fantastic Four Vol 1 225 001.jpg
+| Name                    = Harek Korgon
+| CurrentAlias            = The Blind God
+| Aliases                 = Korgon
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 15' 
+| Weight                  = 1300
+| Eyes                    = Red
+| Hair                    = Blond
+| UnusualFeatures         = Blind
+
+| Origin                  = [[Homo sapiens|Human]] [[Glossary:Mutate|mutated]] by radiation from an extra-terrestrial explosion, that blinded Korgon and gave him the ability to emit energy known as "darkfield illumination"
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = 
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = Arctic near Northern Magnetic Pole
+
+| Creators                = Doug Moench; Bill Sienkiewicz
+| First                   = Fantastic Four #224
+
+| History                 = 
+
+Harek Korgon is a viking who was mutated by an extraterrestrial energy source, and became a leader of a settlement near the North Pole. He lives with his people in a crystal dome powered by his mutant energy that creates an artificial habitable climate.
+
+===As a Mortal===
+Harek Korgon was once a mortal man living in a kingdom in the Arctic many centuries ago. He was in love with a princess named Valthjona. Valthjona's father, King Rothgar, disapproved of the relationship because of Korgon's status. Fleeing their home village by night, Korgon and the Princess were caught in an extra-terrestrial explosion that rendered Korgon blind and killed Princess Valthjona. A furious King Rothgar allowed Korgon to remain in the village, but the mutations caused by exposure to the radiation from the explosion caused him to grow in height and "cry" energy from his eyes. He eventually came to refer to the energies as the "Darkfield Illumination". This made the villagers wary of him, and he was eventually exiled. Wandering the arctic, Korgon gathered together a group of followers and established a settlement near the North Magnetic Pole to isolate themselves from society. There Korgon constructed the crystal dome powered by Korgon's energy emissions where his followers and their descendants would live undetected for a thousand years. Korgon would send out his followers to observe society and bring back technology, which allowed his people to make significant technological advancements. 
+
+===Insanity===
+Korgon's location was revealed to the the [[Fantastic Four (Earth-616)|Fantastic Four]] when a strange mist appeared in [[New York City]]. [[Reed Richards (Earth-616)|Reed Richards]] analyzed the mist tracked it back to the dome. When the Fantastic Four show up to investigate, Korgon's followers captured them and explained that after one thousand years, the effort of maintaining the dome has weakened him to the point of near death and insanity. {{r|Fantastic Four #224}} Korgon sought Reed's help, but his followers sabotaged Reed's plans, causing Korgon's powers to be amplified. Meanwhile, [[Odin Borson (Earth-616)|Odin]] had been monitoring Korgon's situation. Odin intervened by sending his son [[Thor Odinson (Earth-616)|Thor]] when Korgon finally went insane and began going on a rampage. Eventually Thor and the Fantastic Four were able to subdue Korgon long enough for Odin to restore his mental and physical health by stabilizing his powers. Odin explained that Korgon had a responsibility to his people to maintain the dome and govern with wisdom, which Korgon acknowledged and accepts. With the crisis over, the Fantastic Four and Thor departed, leaving Korgon and his followers to continue their lives in seclusion.{{r|Fantastic Four #225}} The subsequent fate of Harek Korgon and his people are unknown.
+
+| Powers                  = 
+* '''Darkfield Illumination''': Korgon emits an energy which allows him to power a large crystal dome in the Arctic and shoot blasts of energy from his eyes. 
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+* '''Darkfield Rod''': This rod is capable of nullifying the powers of the [[Fantastic Four (Earth-616)|Fantastic Four]].{{r|Fantastic Four Vol 1 224}}
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+
+==References==
+{{Reflist}}
+[[Category:Mutates]]
+[[Category:Optic Blasts]]
+[[Category:Energy Manipulation]]
+[[Category:Advanced Longevity]]
+[[Category:Power Negation]]
+[[Category:Vikings]]

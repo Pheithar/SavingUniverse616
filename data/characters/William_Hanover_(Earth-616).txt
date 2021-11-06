@@ -1,0 +1,58 @@
+{{Marvel Database:Character Template
+| Image                   = William Hanover (Earth-616) from New X-Men Vol 1 140 001.png
+| Name                    = William Hanover
+| Name2                   = <ref>{{cl|Official Handbook of the Marvel Universe A-Z Vol 1 13}}, X-Men entry</ref>
+| CurrentAlias            = Longneck
+| Aliases                 = 
+
+| Affiliation             = [[Xavier Institute student body]]
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Brown
+| UnusualFeatures         = Has a long neck
+
+| Origin                  = Depowered [[Homo superior|mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Student
+| Education               = 
+| BaseOfOperations        = Formerly the [[Xavier Institute]], [[Westchester County]], [[New York (State)|New York State]].
+
+| Creators                = Grant Morrison; Phil Jimenez
+| First                   = New X-Men #140
+| Death                   = 
+
+| History                 = Longneck was a mutant with a slightly longer than normal neck. He was a student at [[Xavier's School for Gifted Youngsters]]. He helped [[Scott Summers (Earth-616)|Cyclops]] oppose [[Kuan-Yin Xorn (Earth-616)|Xorn]]'s rampage. He was de-powered due to the effects of [[Decimation|M-Day]].{{r|New Avengers #18}}
+
+| Powers                  = None, Hanover is a depowered mutant.
+{{Navigation
+| title = Former Powers	
+| body =            
+'''Extra Long Neck''' A neck slightly longer than normal}}
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Depowered Mutants]]
+[[Category:Xavier Institute Student]]
+[[Category:M-Day Depowered]]

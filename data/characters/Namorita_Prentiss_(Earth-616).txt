@@ -1,0 +1,144 @@
+{{MessageBox
+| Message = This page documents Namorita until her {{cl|Civil War Vol 1 1|death}} at the [[Stamford]] incident which triggered the [[Civil War (Event)|Civil War]].<br>For the Namorita currently present on [[Earth-616]], please consult '''[[Namorita Prentiss (Earth-TRN343)|this page]]'''.
+}}{{Marvel Database:Character Template
+| Title                   = [[Namorita]]
+| Quotation               = Namorita is <b>dead</b>...<b>Kymaera</b> has taken her place!
+| Speaker                 = [[Namorita Prentiss (Earth-616)|Kymaera]]
+| QuoteSource             = New Warriors Vol 1 44
+| Image                   = Namorita Prentiss (Earth-616) from 1994 Marvel Masterpieces (Trading Cards) 0001.jpg
+| Name                    = Namorita Prentiss 
+| CurrentAlias            = 
+| Aliases                 = Sub-Mariner,{{r|Defenders Vol 1 5}} 'Nita,{{r|New Warriors Vol 3 1}} [[Kymaera]],{{r|New Warriors Vol 1 44}} [[Tiger Shark|Tigress Shark]],{{Citation}} Hard,{{r|New Warriors Vol 1 65}} Goldfish Girl{{r|Civil War Vol 1 1}}
+
+| Affiliation             = Formerly {{m|New Warriors}}, [[Atlantean Royal Family (Earth-616)|Atlantean Royal Family]], {{m|Secret Defenders}}, Council of Three, {{m|Fantastic Four}}, {{m|Soldiers of Misfortune}}, Water Children 
+| Relatives               = 
+[[Aquaria Neptuna (Earth-616)|Namora]] (genetic template, mother)<br>
+[[Talan (Earth-616)|Talan]] (legal father, deceased)<br>
+[[Betty Dean (Earth-616)|Betty Dean-Prentiss]] (adoptive mother, deceased)<br>
+[[Yvette Dean McCarthy (Earth-616)|Baby Dean]] (aunt, adoption)
+[[Namor McKenzie (Earth-616)|Namor]] (cousin)<br>
+[[Byrrah (Earth-616)|Byrrah]], [[Dara (Earth-616)|Dara]], & [[Arkus (Earth-616)|Arkus]] (first cousins once removed)<br>
+[[Thakorr (Earth-616)|Thakorr]] (great-grandfather, deceased)<br>
+[[Korra (Earth-616)|Korra]] (great-grandmother, presumed deceased)<br>
+[[Fen (Earth-616)|Fen]] (great aunt, deceased)<br>
+unnamed grandparents<br>
+[[:Category:Atlantean Royal Family|Atlantean Royal Family]] (relatives)
+| MaritalStatus           = Single
+
+| Gender                  = Female
+| Height                  = 5'6"
+| Weight                  = 225 lbs 
+| Eyes                    = Blue
+| Hair                    = Blonde
+| UnusualSkinColor        = Blue
+| UnusualFeatures         = Blue skin with white full body tattoos. Pointed ears, small vestigial feathered wings on her ankles
+
+| Origin                  = Clone of half-[[Homo sapiens|human]] [[Homo superior|mutant]]/half-[[Homo mermanus|Atlantean]] hybrid
+| Reality                 = Earth-616
+| PlaceOfBirth            =
+| PlaceOfDeath            = [[Stamford]], [[Connecticut (State)|Connecticut]]
+| KilledBy                = Robert Hunter (Earth-616)
+
+| Identity                = No Dual
+| Citizenship             = Atlantean
+| Occupation              = Adventurer; Formerly co-leader of [[Atlantis]], board member of Oracle Inc.
+| Education               =
+| BaseOfOperations        = formerly [[New Warriors (Earth-616)|New Warriors]] headquarters, [[Atlantis]] 
+
+| Creators                = Bill Everett;
+| First                   = Sub-Mariner Vol 1 50
+| Death                   = Civil War Vol 1 1
+
+| History                 =
+===Early Years===
+Namorita was born over 30 years ago to [[Aquaria Neptuna (Earth-616)|Namora]],{{r|Namor the Sub-Mariner Vol 1 19}} half-human cousin of Atlantis' [[Namor McKenzie (Earth-616)|Prince Namor]]. Unknown to her husband [[Talan (Earth-616)|Talan]], Namora became pregnant via genetic manipulation by Atlantean scientist [[Vyrra (Earth-616)|Vyrra]], who implanted her with her own clone (infused with genes from Atlantis's greatest warriors). Talan died when Namorita was three, and she and Namora relocated to [[Lemuria (Pacific Ocean)|Lemuria]]. Eventually Namora was poisoned by her rival, [[Llyra Morris (Earth-616)|Llyra]], when Namorita was still a pre-adolescent. Llyra assumed the throne of Lemuria soon after, and Namorita remained in her care, suspecting her of Namora's supposed death but unable to prove it.{{r|Sub-Mariner Vol 1 50|51}}
+
+When Namor reunited with the cousin he had not seen since her infancy, he entrusted her welfare to his longtime surface friend, [[Betty Dean (Earth-616)|Betty Prentiss]]. Under Prentiss' guidance, Namorita attended high school and college. Namorita eventually considered Betty to be her second mother and took her last name when she died. [[Annie Christopher (Earth-616)|Annie Christopher]] was her college roommate. For a time they cared for Wundarr when he had childlike intelligence,{{r|Marvel Two-In-One Vol 1 4}} and briefly joined his spiritual movement, the Water Children. 
+
+[[File:New Warriors (Earth-616) from New Warriors Vol 1 1 0001.jpg|left|thumb|200px]]
+===New Warriors===
+While a student attending Empire State University, Nita found herself coincidentally at the site of the reborn [[Tyros (Earth-616)|Terrax]]. She was forced into action, and was soon joined by a group of other teen heroes. This group became the [[New Warriors (Earth-616)|New Warriors]]. As a founding member of the team, she played an important part in their quest to "change the world". Namorita frequently brought ecological concerns to the team's attention.{{r|New Warriors Vol 1 5|9}}
+
+Nita also spent time with her cousin, Namor, who had recently returned to the surface world and started his own company, Oracle Inc.{{r|Namor the Sub-Mariner Vol 1 2|3}}
+
+While operating on her own Namorita confronted [[Jeremy Swimming-Bear (Earth-616)|Sea Urchin]], who was looting Atlantean property from the seabed. She came ''very'' close to killing him after an initial conflict in which he scalped her, and was left seriously wounded physically and emotionally for some time after their encounter.{{r|New Warriors Vol 1 14}}
+
+===Trouble with the Team===
+After Night Thrasher abandoned the New Warriors to pursue his own goals, Namorita rose to become the team's new leader.{{r|New Warriors Vol 1 22}} She supported the team with her own money with also supervising Oracle, Inc after Namor went missing.{{r|New Warriors Vol 1 28}}{{r|Namor the Sub-Mariner Vol 1 25}}
+
+Nita has two great regrets from her time with the team. The first was the team's mission to ''[[Trans-Sabal]]''. In this nation, the Warriors found themselves involved in an armed insurrection, forced to choose sides. At one point, Nita was in a position to prevent one of the army leaders from being killed, but because of the situation ([[Peter van Zante (Earth-616)|Aqueduct]] was aiming at [[Alim Halladah (Earth-616)|Halladah]] who was aiming at [[Mezdbadah]]) she could not decide how to act, and allowed Halladah to be killed by her inaction.{{r|New Warriors Vol 1 29|30}}
+
+[[File:Namorita Prentiss (Earth-616) from New Warriors Vol 1 39 001.jpg|thumb|150px|right]]
+
+The second time Nita regrets to have messed up was during the "Poison Memories" crisis. [[Dwayne Taylor (Earth-616)|Night Thrasher]] had gotten on the wrong side of a gang called the ''[[Poison Memories]]''. One night, Nita drank too much and wound up sleeping (unknowingly) with a member of that gang. He used his access to her apartment to steal all the personal data she had on the Warriors, and arranged the kidnappings of her teammate's family. In the course of the Mems' missions, [[Elvin Haliday (Earth-616)|Rage]]'s Granny Staples was murdered, [[Angelica Jones (Earth-616)|Firestar]]'s father was shot, and [[Richard Rider (Earth-616)|Nova]]'s younger brother had a finger cut off.{{r|New Warriors Vol 1 35|38}}
+
+[[File:Namorita Prentiss (Earth-616) from New Warriors Vol 1 44 001.jpg|thumb|150px|left]]
+
+===[[Kymaera]]=== 
+Namorita underwent great emotional turmoil after the Trans-Sabal and Poison Memories incidents. She had been experiencing emotional difficulty, and directly after the Poison Memories affair was over, left the team.{{r|New Warriors Vol 1 39}} She went to her home of Atlantis, and there learned that her emotional problems were the result of physical change: When the doctor had originally cloned Namora, he had spliced in genetic codes from ancient Atlantean warriors, the idea being to prevent Nita from undergoing the same difficulty of being a hybrid that her mother faced. However, those dormant Atlantean genes were re-activated by Nita's physical and emotional stress, and it caused her to transform into the blue-skinned Kymaera (which means "ghost-shark"). She and Nova officially began a relationship with one another after Nita returned to the Warriors.{{r|New Warriors Vol 1 43}}
+
+[[Vance Astrovik (Earth-616)|Justice]] became roommates with Nita for a short time after his release from prison.{{r|New Warriors Vol 1 47}}
+
+===Soldiers of Misfortune===
+During a relief mission in Africa, the New Warriors were captured by a para-military organization called Undertow, and their operatives, the Soldiers of Misfortune. The Soldiers were actually helpless puppets, superhumans captured and mind-controlled by the Undertow military. Undertow attempted to do the same to the Warriors, but Nova arrived with the reserve Warriors to stop the process. Unfortunately, all the Warriors were rescued except Namorita, who remained in Undertow's control.{{r|New Warriors Vol 1 54|56}}
+
+Made part of a Soldiers' pairing, Hard and [[Fast (Sparrow) (Earth-616)|Fast]], Nita was forced to battle her own teammates.{{r|New Warriors Vol 1 65}} She was eventually rescued by Night Thrasher and Rage, and freed of her mind control. She rejoined the Warriors and renewed her relationship with Nova.{{r|New Warriors Vol 1 73|75}}
+
+===Human Torch===
+Nova and Nita continued their relationship, but it fell apart later when Nita began undergoing the next change in appearance/powers, and needed Rich's support, he turned away from her because of his own personal problems. When her appearance stabilized as the classic "Namorita" look, she slept with [[Bernie Dillon (Earth-616)|Bernie Dillon]] to get back at his best friend Nova.{{r|Nova Vol 3 1|4}} She did not forgive Rich for a long time, and pursued a relationship with the [[Jonathan Storm (Earth-616)|Human Torch]] of the [[Fantastic Four (Earth-616)|Fantastic Four]].{{r|Fantastic Four Vol 3 23}}
+
+[[File:Namorita Prentiss (Earth-616) from New Warriors Vol 2 1 001.png|thumb|left]]
+
+Johnny Storm peripherally knew Namorita through her cousin's contact with the Fantastic Four. The two dashing young heroes (and popular tabloid topics) began a very public relationship. Nita became somewhat of a "tag-along" with Johnny's team. She would accompany them on a number of missions,{{r|Fantastic Four Vol 3 42|50}} but eventually the couple broke up.<ref>Off-panel prior to [[Fantastic Four Vol 3 60]].</ref>
+
+[[Christopher Bradley (Earth-616)|Bolt]] was Namorita's next roommate.{{r|New Warriors Vol 2 9}}
+
+Nita later became part of her cousin Namor's ruling council in Atlantis.{{r|Defenders Vol 2 11}}
+
+===Death===
+[[File:Namorita Prentiss (Earth-616) and Robert Hunter (Earth-616) from Civil War Vol 1 1 0001.jpg|right|thumb|225px]] During a televised raid by the New Warriors of a building in which [[Ralph Roberts (Earth-616)|Cobalt Man]], [[Joss Shappe (Earth-616)|Speedfreak]], [[Kateri Deseronto (Earth-616)|Coldheart]], and [[Robert Hunter (Earth-616)|Nitro]] resided, Namorita followed after Nitro. Slamming him into a bus, Namorita taunted him, which made him let off a massive explosion that killed the New Warriors (save for [[Robert Baldwin (Earth-616)|Speedball]], whose powers caused him to be launched away by the blast), all of the children at the nearby elementary school and almost all residents in the surrounding neighborhood where the fight took place.{{r|Civil War Vol 1 1}}
+
+| Powers                  =
+===Current Powers===
+*'''Human/Atlantean Physiology:''' Namorita's powers came from being a hybrid of Atlantean ''[[Homo mermanus]]'' and mutant ''[[Homo superior]]'' physiologies.
+**'''''Amphibious Physiological Adaptation:''''' Namorita's body was specially developed for underwater conditions, granting her specialized blood circulation to withstand freezing temperatures and highly developed vision to see clearly even in murky ocean depths. This hybrid physiology meant she could survive indefinitely underwater or on land, though she would still need occasional contact with water to survive.{{Citation}}
+***'''Aquatic Healing:''' If injured, Namorita's body could heal damaged tissue faster and more extensively than an ordinary human or most Atlanteans. Namorita's accelerated healing was at its peak while she was immersed in water and diminished the longer she was out of contact with water or if she was completely dry.{{Citation}}
+***'''Amphibious Breathing:''' Like all Atlanteans, Namorita could breathe indefinitely underwater due to having gills located behind her ears. Unlike most Atlanteans, however, Namorita could also breathe on land indefinitely as well without the aid of breathing devices (whereas most Atlanteans could only survive being out of the water for a matter of minutes).{{Citation}}
+**'''''Superhuman Strength:''''' Like all Atlanteans, Namorita was superhumanly strong. While Namorita was immersed in water she was capable of lifting 75 tons (although prolonged surface activity could reduce her strength to 33% or lower).{{Citation}}
+**'''''Superhuman Speed:''''' Namorita could run and move at speeds greater than even the finest human athlete. Her speed was greatest, however, while swimming.{{Citation}}
+**'''''Superhuman Stamina:''''' Namorita's advanced musculature produced considerably less fatigue toxins during physical activity than the musculature of normal human beings, and most other Atlanteans for that matter. Namorita's stamina, much like her strength, steadily declined the longer she was out of contact with water and would diminish to the point where she only had slightly greater stamina than the finest human athlete.{{Citation}}
+**'''''Superhuman Agility:''''' Namorita's agility, balance, and bodily coordination were enhanced to levels that were beyond the natural physical limits of even the finest human athlete.
+**'''''Superhuman Reflexes:''''' Namorita's reflexes were similarly heightened and were superior to those of the finest human athlete.
+**'''''Superhuman Durability:''''' The tissues of Namorita's body were much harder and more resistant to physical injury than those of normal human beings and most other Atlanteans. She could withstand tremendous impact forces, high caliber bullets, falls from great heights, exposure to temperature and pressure extremes, and powerful energy blasts without sustaining injury though it was still possible to injure her.
+**'''''Extended Longevity:''''' Atlanteans aged much slower and lived much longer than human beings with the average Atlantean lifespan being about 120 years.
+*'''Flight:''' Namorita also possessed vestigial "wings" on both of her ankles, by which she seemed to fly. As these tiny wings were insufficient to keep her aloft it was theorized that her flight capacity was a mental power akin to telekinesis, and the wings merely assisted in the process of "steering" her flight.
+*'''Mental Detection''': Namorita could sense when her cousin, Namor, was in danger within an undefined radius of herself by perceiving the distinctive mental radiations emitted by him.
+*'''Acute Hearing''': Namorita has sensitive Hearing
+*'''Electricity Absorption'''.{{r|New Warriors Vol 1 14}}{{r|New Warriors Vol 1 26}}[[File:Namorita Prentiss (Earth-616) from New Warriors Vol 1 14 001.png|thumb|none]]
+===Former Powers===
+*'''Offensive Secretion:''' Namorita could secrete corrosive acid or paralyzing toxin from her hands.
+*'''Animal Mimicry (Aquatic Life):''' Octopoid Camouflage--Namorita had the ability to change her skin color as camouflage (the effect was so convincing it seemed as though she could actually turn invisible)---this is evidence that she has Namor's ability to mimic the abilities of sea animals.[[File:Tigress Shark (Earth-616).png|thumb|Tigress Shark|none]]
+
+| Abilities               = Trained in Atlantean combat methods and fluent in English, Atlantean, and Lemurian languages.
+| Strength                = Class 75; Namorita can lift up to 75 tons when well hydrated.
+| Equipment               = * '''Atlantean Armor''': [[File:Namorita Prentiss (Earth-616) from New Warriors Vol 1 14 001.png|thumb|Nita wearing an Atlantean Blood Code Carapace.|none|thumb]]
+Namorita wore the Atlantean Blood-Code Carapace after a humiliating defeat by Sea Urchin. Atlantean tradition states that the armor should only be worn when one intends to kill their foe.{{r|New Warriors Vol 1 14}}
+* '''Communication Earring''': Namorita formerly wore a [[Namorita's Magic Earring|magic buccaneer earring]] that she could used to contact Namor (who wore an identical version).
+| Transportation          =
+| Weapons                 =
+| Notes                   =
+| Trivia                  = 
+| Links                   =
+}}
+[[Category:Flight]]
+[[Category:Acid Generation]]
+[[Category:Paralysis]]
+[[Category:Camouflage]]
+[[Category:Underwater Breathing]]
+[[Category:Atlantean Royal Family]]
+[[Category:Media-Driven Characters]]
+[[Category:Atlantean/Human Hybrids]]
+[[Category:Clones of Namora]]
+[[Category:Stamford casualties]]
+[[Category:Post-M-Day Mutants (Registration Status Unknown)]]
+[[Category:Empire State University Student]]

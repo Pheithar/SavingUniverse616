@@ -1,0 +1,50 @@
+{{Marvel Database:Character Template
+| Image                   = Wirehead (Earth-616) from Daredevil Vol 1 328 0001.jpg
+| Name                    = 
+| CurrentAlias            = Wirehead
+| Aliases                 = 
+
+| Affiliation             = {{M|System Crash}}, {{M|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Terrorist
+| Education               = 
+| BaseOfOperations        = Formerly [[Bronx]], [[New York City]]
+
+| Creators                = D.G. Chichester
+| First                   = Daredevil Vol 1 326
+| Death                   = 
+
+| History                 = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = Wirehead's helmet and armour allowed him to generate energy weapons.
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * http://www.marvunapp.com/Appendix3/systemcrashdd.htm#Wirehead
+}}

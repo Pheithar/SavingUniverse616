@@ -1,0 +1,48 @@
+{{Marvel Database:Character Template
+| Image                   = August Masters (Earth-616) from Captain America Vol 1 268 001.jpg
+| Name                    = August Masters
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{m|Secret Empire}}, formerly {{M|Central Intelligence Agency (Earth-616)|CIA}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = 
+| Citizenship             = American
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = J.M. DeMatteis; Don Perlin
+| First                   = Defenders #102
+
+| History                 = August Masters was an agent of Professor Anthony Power, overseeing an experiment involving psychics. He often posed as a government agent to manipulate people into doing his bidding. Power and Masters intended to launch a lethal telepathic strike on the Soviet Union, but were stopped by Captain America and the Defenders.{{r|Captain America #268}}{{r|Defenders #106}}
+
+| Powers                  = None
+| Abilities               = 
+| Strength                = Normal human
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

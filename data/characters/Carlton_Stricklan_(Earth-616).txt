@@ -1,0 +1,54 @@
+{{Marvel Database:Character Template
+| Image                   = Karl Striklan (Earth-616) 1.jpg
+| Name                    = [[Carlton Stricklan]]
+| CurrentAlias            = [[Crippler]]
+| Aliases                 = [[Karl Striklan]]
+
+| Affiliation             = Formerly {{m|Wild Pack}}, {{M|Hydra}}, {{m|United States Marine Corps|U.S. Marine Corps}}, {{M|50-State Initiative}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe Master Edition #33}}
+| Gender                  = Male 
+| Height                  = 5' 6"
+| Weight                  = 125 lbs
+| Eyes                    = Blue
+| Hair                    = Brown
+| UnusualFeatures         = Pointed ears
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Mercenary, formerly Marine, police officer, Hydra agent
+| Education               = U.S. Marine
+| BaseOfOperations        = 
+
+| Creators                = Gregory Wright; Ron Garney
+| First                   = Daredevil Annual #7
+
+| History                 = <!-- ===...===
+ -->'''Karl Striklan''' was an [[United States Marine Corps (Earth-616)|U.S. Marine]] but was dishonorably discharged for unspecified reasons. Striklan later became a cop but was dismissed for excessive brutality and violent towards criminals. He even joined [[Hydra (Earth-616)|Hydra]] for a short period and in that time he battled [[Matthew Murdock (Earth-616)|Daredevil]].{{r|Daredevil Annual #7}}
+
+Striklan took up the name '''Crippler''', quit Hydra and went freelance. He eventually joined [[Silvija Sablinova (Earth-616)|Silver Sable]]'s International mercenary team [[Wild Pack (Earth-616)|Wild Pack]].{{r|Silver Sable and the Wild Pack #2}}
+
+<!-- ===Civil War aftermaths===
+ -->After the [[Civil War (Event)|Civil War]], he was listed as a potential recruit for the [[50-State Initiative (Earth-616)|Initiative]].{{r|Civil War: Battle Damage Report #1}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = [[Cobrabaton]], a retractable club
+
+| Notes                   = He's a sadomasochist; he enjoys torture both as a torturer and as a victim.{{citation}}
+| Trivia                  = * The Crippler's overalls and speech (specifically the line "looks like I finally found someone who likes to play as rough as I do" from his first appearance) suggest he is patterned after the character Raven Shaddock from the film [[wikipedia:Streets of Fire|''Streets of Fire'']], portrayed by [[wikipedia:Willem Dafoe|Willem Dafoe]]. 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

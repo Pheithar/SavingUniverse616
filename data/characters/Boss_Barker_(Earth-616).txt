@@ -1,0 +1,54 @@
+{{Marvel Database:Character Template
+| Image                   = Boss Barker (Earth-616) from Fantastic Four Vol 1 92 0001.jpg
+| Name                    = 
+| CurrentAlias            = Boss Barker
+| Aliases                 = 
+
+| Affiliation             = [[Skrulls]] of [[Kral]]
+| Relatives               = Unnamed sons
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = Variable
+| Weight                  = Variable
+| Eyes                    = Green
+| Hair                    = None
+| UnusualSkinColor        = Green
+| UnusualFeatures         = Pointed ears
+
+| Origin                  = [[Deviant Skrull|Skrull]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Kral IV]], [[Skrull Empire]]
+
+| Identity                = Public 
+| Citizenship             = Skrull Empire
+| Occupation              = Gangster
+| Education               = 
+| BaseOfOperations        = [[Kral IV]], [[Skrull Empire]]
+
+| Creators                = Stan Lee; Jack Kirby
+| First                   = Fantastic Four #91
+
+| History                 = '''Boss Barker''' was one of the [[Skrulls]] of Kral IV, who lived a life mimicking the lifestyle of Earth's 1930s. He lead on of the prominent gangs and regularly bought slaves to fight as gladiators for him and fight over territory with rival gangs, foremost amongst them the gang of [[Lippy Louie (Earth-616)|Lippy Louie]]. One of these slaves was [[Benjamin Grimm (Earth-616)|The Thing]] who had been kidnapped by the [[Slave-Master (Earth-616)|Slave-Master]].{{r|Fantastic Four #91}}
+
+| Powers                  = * '''Skrull Shape-Shifting''': Like other [[Skrulls]], is a shape-shifter. They can mentally cause the unstable molecules that comprise his or her body to become pliant, enabling him or her to assume other forms through muscular expansion and contraction. Once a new shape has been assumed, it takes a conscious act of will to assume another form or revert to natural. Hence, Skrulls do not spontaneously lose their assumed form when asleep or unconscious. Skrulls in altered form will, however, revert to their original forms at the moment of death. 
+| Abilities               = * '''Skrull Military Training''':  is a trained [[Skrulls|Skrull]] soldier.
+** '''Aviation''': is trained in the use of the advanced warp-drive starships of the [[Skrulls|Skrull]]-military.
+** '''Unarmed Combat''': is trained in the unarmed combat of the [[Skrulls|Skrull]]-military.
+** '''Marksmanship''':  is trained in the use of the ranged energy-weaponry of the [[Skrulls|Skrull]]-military.
+| Strength                = 
+| Weaknesses              = * '''Skrull Shape-Shifting''': Skrulls only take on the appearance of an object or person and none of that object or person’s characteristics. There is a limit to the size of the object or person a Skrull can imitate. The average Skrull cannot distend his or her mass any more than 1.5 times as large a volume as his or her original volume, nor can he or she contract his or her mass any more than 0.75 a volume as his or her original. 
+
+| Equipment               = * '''[[Skrulls|Skrull]]-Military Uniform''': wears a [[Skrulls|Skrull]]-military uniform, which alters as he changes shape and size.
+| Transportation          = * '''[[Skrulls|Skrull]]-Military Transport''': will frequently use the advanced warp-drive starships of the [[Skrulls|Skrull]]-military.
+| Weapons                 = 
+* '''[[Skrulls|Skrull]]-Military Weaponry''': will frequently use the ranged energy-weaponry of the [[Skrulls|Skrull]]-military.
+
+| Notes                   =  
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * [http://www.marvunapp.com/Appendix/bossbarker.htm Boss Barker on Marvunapp]
+}}
+[[Category:Crimelords]]

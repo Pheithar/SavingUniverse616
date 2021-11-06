@@ -1,0 +1,57 @@
+{{Marvel Database:Race Template
+| Title                   = Kosmosians
+| Image                   = Kosmosians from Official Handbook of the Marvel Universe A-Z Update Vol 1 5 001.jpg
+| Name                    = Kosmosians{{r|Official Handbook of the Marvel Universe A-Z Update Vol 1 5}}
+| Aliases                 = 
+| Identity                = Public
+| Affiliation             = 
+| Universe                = Earth-616
+| BaseOfOperations        = [[Kosmos (Dimension)|Kosmos Dimension]]
+
+| BodyType                = Insectoid
+| AvgHeight               = 
+| AvgWeight               = 
+| Eyes                    = 2
+| Hair                    = None
+| Skin                    = Green
+| NumberOfLimbs           = 4
+| NumberOfFingers         = 4
+| NumberOfToes            = 4
+| SpecialAdaptations      = Wings, antenna
+| UnusualFeatures         = Insect-like appearance
+
+| Origin                  = Alien
+| GalaxyOfOrigin          = 
+| StarSystemOfOrigin      = 
+| HomePlanet              = 
+| PlaceOfBirth            = 
+| Creators                = Kurt Busiek; Mark Bagley
+| First                   = Thunderbolts #13
+
+| HistoryText             = 
+
+| Habitat                 = 83% surface covered with water
+| Gravity                 = 180% [[Earth]] standard
+| Atmosphere              = 40% nitrogen, 30% oxygen, high humidity content
+| Population              = Unknown
+
+| Powers                  = 
+| Abilities               = 
+| AvgStrength             = 
+| Weaknesses              = 
+
+| GovernmentType          = Hereditary monarchy
+| TechnologyLevel         = Slightly more advanced than [[Earth]]
+| CulturalTraits          = 
+| Representatives         = <br>
+* [[Primotur Jekuakkekt (Earth-616)|Primotur Jekuakkekt]]
+* [[Keka'Akeluak (Earth-616)|Keka'Akeluak]]
+* [[Jikekt (Earth-616)|Jikekt]]
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = [http://www.marvunapp.com/Appendix/kosmosdi.htm Kosmosians on Marvunapp]
+}}
+[[Category:Interdimensional Races]]
+[[Category:Insectoid Races]]
+[[Category:Pym Particles]]

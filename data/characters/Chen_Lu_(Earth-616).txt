@@ -1,0 +1,135 @@
+{{Marvel Database:Character Template
+| Image                   = Thor First Thunder Vol 1 4 Textless.jpg
+| Name                    = [[Chen Lu]]
+| CurrentAlias            = [[Radioactive Man]]
+| Aliases                 = Greenie,{{r|New Thunderbolts Vol 1 14}} R-Man{{r|New Thunderbolts Vol 1 12}} 
+
+| Affiliation             = {{m|Thunderbolts}}, {{m|Qeng Enterprises}}, {{m|People's Defense Force (China) (Earth-616)|People's Defense Force}}; formerly {{m|50-State Initiative}}, {{m|Lethal Legion (Grim Reaper) (Earth-616)|Lethal Legion}}, {{m|Masters of Evil}}, {{m|Titanic Three (Earth-616)|Titanic Three}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|All-New Official Handbook of the Marvel Universe A to Z Vol 1 9}}
+| Gender                  = Male
+| Height                  = 6'6"
+| Weight                  = 290 lbs
+| Eyes                    = Brown
+| Hair                    = Bald
+| UnusualSkinColor        = Green
+| UnusualFeatures         = No visible pupils, Constantly gives off radiation; Iridescent green skin which he can cause to appear normal by lowering his radiation level for short periods.
+
+| Origin                  = [[Homo sapiens|Human]] who harnessed the power of controlled radiation and turned it upon himself becoming a [[Glossary:Mutate|Mutate]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = Lanzhou, [[People's Republic of China]]
+
+| Identity                = Known to Authorities
+| Citizenship             = Chinese
+| Occupation              = Nuclear physicist
+| Education               = PhD in Nuclear Physics
+| BaseOfOperations        = [[Beijing]], [[China]]; formerly [[Vietnam]], [[New York]]
+
+| Creators                = Stan Lee; Robert Bernstein; Jack Kirby
+| First                   = Journey into Mystery Vol 1 93 
+| Quotation               = Passport! Papers! Bah! Use your guns on me! They cannot stop me! Nothing can!
+| Speaker                 = [[Chen Lu (Earth-616)|Radioactive Man]]
+| QuoteSource             = Journey into Mystery Vol 1 93
+| Overview            = '''Dr. Chen Lu''', [[Wikipedia:Ph.D|Ph.D]], (''Chinese:''陈露) aka '''Radioactive Man''' (''Chinese:''放射性人) was a Chinese Nuclear Physicist working for the [[Communist Party of China (Earth-616)|Communist Party]] of the [[People's Republic of China]].{{r|All-New Official Handbook of the Marvel Universe A to Z Vol 1 9}} He was exposed to high levels of radiation and [[Glossary:Mutate|mutated]] into a superhuman with the ability to control and emit deadly forms of radiation. Now a Chinese superhero his nationality lead into conflict with many American heroes.{{r|Journey into Mystery Vol 1 93}} He was a founding member of the [[Masters of Evil (Earth-616)|Masters of Evil]] who were created to destroy the [[Avengers (Earth-616)|Avengers]].{{r|Avengers #6}} He later joined the [[People's Defense Force (China) (Earth-616)|People's Defense Force]], charged with protecting his homeland.{{r|Mighty Avengers Vol 1 27}}
+
+| History                 = 
+===Early Life===
+Dr. Chen Lu was a respected nuclear physicist for the People's Republic of China. After the thunder god [[Thor Odinson (Earth-616)|Thor]] thwarted a Chinese military incursion into [[India]], the Chinese government called upon its scientists and military strategists for a way to retaliate against Thor. Chen Lu had already been experimenting for several years with a way of harnessing nuclear radioactivity to induce superhuman powers in human beings. Chen Lu, concealing his own aspirations of world conquest, volunteered to become China's human weapon against Thor.{{r|Journey into Mystery #93}}
+
+===Origin===
+[[File:Chen Lu (Earth-616) from Journey into Mystery Vol 1 93 0002.jpg|thumb|left|Radioactive Man's first appearance]]
+Having already spent months immunizing himself against the harmful effects of radiation, Chen Lu exposed himself to massive doses of specific-particle radiation, thereby mutating his body. After impressing his superiors with a demonstration of the new superhuman powers he had gained, Chen Lu, calling himself the Radioactive Man.<ref>{{cl|Journey into Mystery #93}} & {{cl|Thor: First Thunder #4}}. Journey into Mystery #93 states that [[Chen Lu (Earth-616)|Radioactive Man]] was created in response to Thor's clash with Chinese forces, while Thor: First Thunder #4 states that Radioactive Man's creation happened prior to the battle. Also, elements of the story in Journey into Mystery #93 are subject to the [[Glossary: Sliding Timescale|Sliding Timescale]]. Namely, the conflict along the border between India and China is told in a narrative in which the [[Cold War (Event)|Cold War]] was still on going. This should be considered a topical reference relative to the date of publication. Thor: First Thunder #4 modernizes this plot element by stating that the border was in dispute. Another topical reference in Journey #93 is the depiction of [[Mao Tse Tung (Earth-616)|Chairman Mao]] as the ruler of China in the story. This is another topical reference in relation to the year of publication.</ref> There are two different accounts as to what happened next. In the original account, the Radioactive Man was smuggled into New York City where he battled Thor. Thor used a massive vortex to send the Radioactive Man back to China before he could reach critical mass and explode.{{r|Journey into Mystery #93}} The second account states that the Radioactive Man attacked Thor along the India/China border. During the battle the Radioactive Man forced Thor to recall how he was banished to Earth, causing a brief reversion back to Donald Blake. However Blake regained his hammer and defeated the Radioactive Man. In the aftermath of the battle the American government -- through Tony Stark -- thanked Thor for his assistance, but their ability to make a connection between Donald Blake and himself did not sit well with the thunder god.{{r|Thor: First Thunder #4}}
+
+===Masters of Evil I===
+In fact however, the Radioactive Man went into hiding until [[Heinrich Zemo (Earth-616)|Baron Heinrich Zemo]] located him and enlisted him in his criminal organization, the original [[Masters of Evil (Earth-616)|Masters of Evil]]. By this time, the Radioactive Man was no longer serving China's Communist leaders. The [[Avengers (Earth-616)|Avengers]] defeated the Masters of Evil.{{r|Avengers #6}}
+
+===Masters of Evil II===
+Years later the Radioactive Man joined a new Masters of Evil organized by the Crimson Cowl who was revealed to be the robot [[Ultron (Earth-616)|Ultron]]. This second Masters of Evil was also defeated by the Avengers, and the Radioactive Man was imprisoned in a cell designed especially to restrain a being with his powers.{{r|Avengers #54|55}}{{r|Avengers #83}}
+
+===Titanic Three===
+After breaking out of prison, the Radioactive Man fled to Communist controlled [[Vietnam]], where he briefly teamed up with the [[Boris Bullski (Earth-616)|Titanium Man]] and the third [[Alex Nevsky (Earth-616)|Crimson Dynamo]] as the [[Titanic Three (Earth-616)|Titanic Three]], champions of Eastern Communism. These three former Communist agents had decided to serve their former masters no longer and wanted no longer to be considered criminals. In Communist controlled Vietnam, the Titanic Three instead acted to punish criminals.{{r|Avengers #130}} However, the Titanic Three later broke up under circumstances that have yet to be revealed.{{r|Iron Man #73|74}}{{r|Giant-Size Avengers #4}}{{r|Iron Man #135}}
+
+===Masters of Evil III===
+Eventually, the Radioactive Man was contacted by criminal scientist [[Elihas Starr (Earth-616)|Elihas Starr]], otherwise known as "Egghead", and agreed to join yet another incarnation of the Masters of Evil.{{r|Avengers #228|229}} But after Dr. [[Henry Pym (Earth-616)|Henry Pym]] defeated the group single-handedly, the Radioactive Man was deported by the United States government.{{r|Avengers #230}}
+
+===Solo activities===
+He later entered the service of the [[Mandarin (Earth-616)|Mandarin]], who sent him up against [[James Rhodes (Earth-616)|James Rhodes]], the second Iron Man.{{r|Iron Man #179|181}}
+
+Radioactive Man captured Spider-Man for his experiments, and discovered his radioactive powers could temporarily cancel the wall-crawler's own. However, Spider-Man was rescued by Iron Man.{{r|Iron Man #234}}
+
+Radioactive Man was one of the many villains imprisoned in the [[Vault]].{{r|Avengers: Death Trap, The Vault #1}}
+
+He also clashed with the [[Jennifer Walters (Earth-616)|She-Hulk]] and [[Death's Head (Styrakos)|Death's Head]].{{r|Sensational She-Hulk Vol 1 24}} Radioactive Man, along with many other villains, battled the newly formed [[Thunderbolts (Earth-616)|Thunderbolts]].{{r|Thunderbolts Annual #1997}}
+
+===Thunderbolts===
+Chen Lu joined the [[Thunderbolts (Earth-616)|Thunderbolts]] after they declared their intention to stop [[Fathom Five (Earth-616)|Fathom Five]], Atlantean terrorists who had attacked China.{{r|{{cl|New Thunderbolts Vol 1 3}}-[[New Thunderbolts Vol 1 4|4]]}} The Radioactive Man helped the Thunderbolts when [[Hydra]] staged a major attack on New York City.{{r|New Thunderbolts #5|6}}
+
+Lu became very close to [[Melissa Gold (Earth-616)|Songbird]], who succeeded MACH-IV as leader of the Thunderbolts. They made a deal with the Commission on Superhuman Activities to test the New Avengers (who refused to work under government jurisdiction, making them loose cannons).{{r|New Thunderbolts #13|18}}{{r|Thunderbolts #100|103}}{{r|Amazing Spider-Man #533}}{{r|Thunderbolts #104}}
+
+===Civil War===
+During the [[Civil War]] Chen Lu helped [[Henry Pym (Earth-616)|Hank Pym]] and [[Reed Richards (Earth-616)|Reed Richards]] build a holding prison for dissenting super powered individuals. He and his team also battled the [[Anti-Registration Underground (Earth-616)|Anti-Registration Underground]].{{r|{{cl|Civil War Vol 1 3}}-[[Civil War Vol 1 4|4]]}} The team encountered the [[Elders of the Universe (Earth-616)|Elders of the Universe]] member the [[En Dwi Gast (Earth-616)|Grandmaster]], whose manipulations of the [[Well of All Things|Wellspring of Power]] critically limited their manpower, reducing the existing roster of Thunderbolts to three.{{r|Thunderbolts #105|109}}
+
+[[File:Chen Lu (Earth-616) from Thunderbolts Breaking Point Vol 1 1 001.jpg|thumb|180px|right|New Costume]]
+The Thunderbolts reformed after Civil War as both the Colorado branch of the Initiative and the CSA's official unregistered superhuman hunters. Lu remained with the Thunderbolts voluntarily, unlike many of their members, on loan from the Chinese government. He wore a radiation suit as part of his costume as part of public relations maneuvering to make him seem more threatening while disguising his Asian features to improve the team's approval numbers in the more racist parts of America. He helped the Thunderbolts bring in various unregistered heroes such as [[Jack Harrison (Earth-616)|Jack Flag]] and the [[Oliver Osnick (Earth-616)|Steel Spider]].{{r|Thunderbolts #110|115}}
+
+The Radioactive Man was disheartened to learn that his activities with the Thunderbolts were not just a "good will" mission -- Beijing actively wanted him away from China to avoid any further deaths or instability due to his powers. His ally the Collective Man told Lu he was still a favored son of China, but was not welcome home.{{r|Thunderbolts: International Incident #1}}
+
+Chen and the team battled Spider-Man and [[Edward Brock (Earth-616)|Anti-Venom]]. But during the fight, Chen had a portion of his radiation drained by Anti-Venom.{{r|Amazing Spider-Man #568|573}} 
+
+Chen continued with the group however, going after the superhero [[Marc Spector (Earth-616)|Moon Knight]].{{r|Moon Knight Vol 5 #22}}{{r|Moon Knight Vol 5 #24|25}}
+
+===Secret Invasion===
+During the [[Secret Invasion]] of the [[Deviant Skrulls|Skrulls]], Osborn and [[Karla Sofen (Earth-616)|Moonstone (Karla Sofen)]] began a plan to neutralize the Thunderbolts who would oppose him in his planned to exploit the invasion for his own personal agenda, in order to gain more power.{{r|Thunderbolts #124|125}} Osborn arranged for Chen to be deported back to China, destroying his relationship with Songbird. Melissa was forced to let him go without much of a goodbye because Bullseye was secretly threatening her with a knife during Lu's departure.{{r|Thunderbolts #126}}
+
+===People's Defense Force===
+He joined China's [[People's Defense Force (China) (Earth-616)|People's Defense Force]] a group of superhumans created to protect his home country.{{r|Mighty Avengers #27}} Radioactive Man demonstrated that at close proximity he can safely absorb the radiation of [[Inhumans]]; [[Xerogen Crystals]] and also, presumably, safely absorb [[Terrigen Mist]].{{r|Mighty Avengers #28|29}} However, the People's Defense Force is largely defeated by an invading entity known as The [[Unspoken (Earth-616)|Unspoken]], a deposed former king of the Inhumans. The Unspoken is defeated in China by the [[Mighty Avengers (Initiative) (Earth-616)| Mighty Avengers]].{{r|Mighty Avengers #30|31}}
+
+===Thunderbolts Return===
+[[Hydra (Earth-616)|Hydra]]'s leader [[Helmut Zemo (Earth-616)|Baron Zemo]] and [[Wilson Fisk (Earth-616)|Mayor Fisk]] came up with a plan to deal with the [[Frank Castle (Earth-616)|Punisher]] once and for all. Along with other villains, Chen Lu was recruited by Zemo to join a new incarnation of the Thunderbolts. He was introduced at a press conference with the other members as Citizen V pronounced that they will end the Punisher's reign of terror and restore order to the city of [[New York City|New York]].{{r|Punisher Vol 12 13}}
+
+| Powers                  =
+'''Radiation Absorption & Manipulation:''' Exposure to high levels of radiation has mutated Chen Lu's body. As a result, Lu's primary superhuman power is the ability to absorb and manipulate high levels of radiation for a number of purposes and effects. In the case of other beings that have received powers based from exposure to radiation, Lu can manipulate the radiant energies of those individuals usually for the purposes of temporarily shutting down their powers. Lu can also purposely lower the levels of radiation within himself. Although he can only do so for short periods of time, he can cause his skin to look normal.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 9}}
+* '''Energy Blasts:''' Lu can expel radiation from himself in a number of ways such as firing blasts of solid radiation in the form of powerful concussive blasts or emitting radiation in the form of intense heat that, at maximum temperature, is said to be hot enough to incinerate a city block. Lu can also purposely generate radioactive energy for the purposes of generating extremely bright light, bright enough to cause at least temporary blindness.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 9}} More creatively, Dr. Chen once used his powers in order to revert Jen Walters to human form.{{r|Avengers Vol 1 228}}
+** '''Radiation Breath:''' Prof. Chen learned he could also discharge radiation as an oral projection.{{r|Deadpool & the Mercs for Money Vol 2 2}}
+* '''Persuasion:''' Through the power of his radiation emissions Lu can lull people into a state of suggestibility. These waves are potent enough to compel even the Prince of Thunder himself, The Mighty Thor.{{r|Journey into Mystery Vol 1 93}}{{r|Thor: First Thunder Vol 1 4}}
+* '''Nigh-Invulnerability:''' In the same venue that Chen can redistribute radioactivity in order to bolster physical sinew, he can also use it to greatly magnify his resilience enough to resist greater blunt force trauma.{{r|Deadpool & the Mercs for Money Vol 2 2}}  Making him bullet proof, slash proof, larrup proof, even making him immune to the high concussion force of Lu's own nuclear blasts.{{r|Journey into Mystery Vol 1 93}}
+* '''Phasing Negation:''' Radioactive man can use his rad control to determine and manipulate the frequency at which a ghostly body turns solid again. Rendering the immaterial tangible within dense matter the very second it passes through.{{r|Thunderbolts Vol 1 124}} 
+* '''Atomic Discharge:''' In the past, the Radioactive Man would self-detonate with the force of a nuclear bomb if struck with great enough force.{{r|Journey into Mystery Vol 1 93}} Likewise if Mr. Chen were to absorb either too much rad energy or temper it to initiate critical mass, he will run the risk of triggering self-detonation.{{r|Thunderbolts Vol 1 123}} 
+* '''Radiological Constructs:''' Dr. Lu is an adept manipulator of solidified radiological energies, when properly empowered by them the Radioactive Man can give physical shape to the nucleic force his body emits in order to increase the versatility of his ability use.  
+** '''Force Fields:''' Lu can manipulate the radioactive energy of his body to generate solid force fields around his body. While in these fields, Lu is very well protected from most forms of attacks. The force fields are powerful enough to withstand multiple hits from [[Thor Odinson (Earth-616)|Thor]]'s enchanted hammer [[Mjolnir]].{{r|Official Handbook of the Marvel Universe A-Z Vol 1 9}}
+** '''Entity Creation:''' The Prof. can utilize his energies to create massive simulacrum of himself in order to aid in battle. The titanic doppelgangers made are incredibly strong and impervious to physical harm, while smaller ones can take more rudimentary to complex shapes like samurai or the like to act on his behalf.{{r|Deadpool & the Mercs for Money Vol 2 2}} 
+** '''Tendril Generation:''' In the same vein Chen can manifest effigies of himself or others to act on his behalf. He can even manifest sprawling coils which carry lethal radiation burns upon any/all whom they make contact with.{{r|Deadpool & the Mercs for Money Vol 2 2}} 
+* '''Hard Radiation:''' Lu can also emit high levels of "hard" radiation from his body toward others. This has the effect of causing extreme disorientation and nausea in other people and, if he chooses to do so, Lu can emit high enough levels of hard radiation to facilitate radiation poisoning.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 9}}
+* '''EMP Emission:''' With enough concentration Radioactive Man can emit a wide arcing electromagnetic pulse potent enough to cover vast expanses.{{r|Iron Man: Legacy Vol 1 5}}
+* '''Superhuman Strength:''' Lu can channel the radioactive energies in his body for the purpose of temporarily increasing his strength to superhuman levels. At his peak, Lu can increase his strength sufficiently to lift at least 2 tons.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 9}}	
+
+| Abilities               = *'''[[Genius Intelligence]]:''' Chen Lu is an expert on radiation and nuclear physics. He is among the world's foremost authorities on the effects radiation has on human anatomy.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 9}}
+
+| Strength                =
+| Weaknesses              = * Lu emits nuclear radiation at all times and can only remain in the presence of other individuals for short periods of time if he's wearing his null-radiation body harness. Also, absorbing large quantities of radiation can affect his emotional state.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 9}}
+* Radioactive Man would often go off like a nuclear warhead should he be struck with sufficient force. This was in part due to the unstable nature of his initially volatile powerset having yet to properly subsidize.{{r|Journey into Mystery Vol 1 93}}{{r|Thor: First Thunder Vol 1 4}}{{Green|Formerly}}
+| Equipment               =
+| Transportation          =
+| Weapons                 =
+
+| Notes                   = 
+| Trivia                  = * Doctor Lu kept a count of the people he killed over the course of his life due to his powers, those he has killed both intentionally and unintentionally.{{r|New Thunderbolts #9}}
+
+| Links                   = 
+}}
+[[Category:Radioactive]]
+[[Category:Energy Absorption]]
+[[Category:Energy Manipulation]]
+[[Category:Superhuman Strength]]
+[[Category:Force Field]]
+[[Category:People's Defense Force (China) (Earth-616)/Members]]
+[[Category:Physicists]]
+[[Category:Inventors]]
+[[Category:Engineers]]
+[[Category:Genius Intelligence]]
+[[Category:Scientists]]
+[[Category:Duplication]]
+[[Category:Radioactive]]
+[[Category:Hypnosis]]

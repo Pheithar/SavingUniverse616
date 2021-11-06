@@ -1,0 +1,65 @@
+{{Marvel Database:Character Template
+| Image                   = Daniel Berkhart (Earth-616) from Friendly Neighborhood Spider-Man Vol 1 12 0001.jpg
+| Name                    = [[Daniel Berkhart]]
+| CurrentAlias            = [[Mysterio]]
+| Aliases                 = [[Danny Berkhart]],{{Citation}} [[Jack O'Lantern]],{{r|Spectacular Spider-Man #241}} [[Mad Jack]],{{Citation}} Misty,{{r|Friendly Neighborhood Spider-Man Vol 1 13}} Wizard of Oz{{Citation}}
+
+| Affiliation             = Formerly {{m|Sinister Six}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 5'10"
+| Weight                  = 160 lbs
+| Eyes                    = Blue
+| Hair                    = Brown
+| UnusualFeatures         = Receding hairline, goatee, and mustache
+
+| Origin                  = [[Homo sapiens|Human]], technology user
+| Reality                 = Earth-616
+| PlaceOfBirth            = United States
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Criminal
+| Education               = Unknown, presumably a degree in acting
+| BaseOfOperations        = [[New York City]], [[New York (State)|New York]]
+
+| Creators                = Gerry Conway; Ross Andru
+| First                   = Amazing Spider-Man Vol 1 141
+| First2                  = (As Mysterio)<br>{{sld|Spectacular Spider-Man Vol 1 241}}(As [[Jack O'Lantern]])
+| Death                   = Venom Vol 2 11
+| Death2                  = (Mentioned)
+
+| History                 = Danny Berkhart was paid by [[John Jonah Jameson (Earth-616)|J. Jonah Jameson]] to make [[Peter Parker (Earth-616)|Spider-Man]] think he was the ghost of the first [[Quentin Beck (Earth-616)|Mysterio]], who was faking his death at the time.{{r|Amazing Spider-Man #141|142}} After Berkhart was jailed, Jameson abandoned him, leading to Berkhart resenting Jameson.
+
+When [[Norman Osborn (Earth-616)|Norman Osborn]] returned, an enigmatic [[Jack O' Lantern]] appeared, calling himself [[Mad Jack]]. He seemed to have a grudge with Jameson, and saved Spider-Man's life after having him defeated. Mad Jack's cat, [[Maguire (Cat) (Earth-616)|Maguire]], was very well-trained, obeyed Jack's every command. Jack beat Jameson to a pulp and blackmailed him into selling the [[Daily Bugle (The DB!) (Earth-616)|Bugle]] to Osborn. When Osborn attempted to pay him for his services, Jack rejecting payment saying he did it for pleasure.{{Citation}}
+
+[[File:Daniel Berkhart (Earth-616) from Spectacular Spider-Man Vol 1 241 001.jpg|thumb|left|Berkhart as the [[Jack O'Lantern]].]]
+Mad Jack would eventually turn out to be Daniel Berkhart, working with [[Maguire Beck (Earth-616)|Maguire Beck]] (cousin to the original Mysterio), who provided tech support.<ref>Shortly after the Clone Saga</ref> Both had been tutored by Quentin Beck in his illusionist arts, and both took turns using the Mad Jack. Maguire was rarely in the costume, preferring to stay behind the scenes instead. For the riskiest assignments, they would send an android with Berkhart's face out in the costume.
+
+Berkhart met Conundrum, and it was revealed that they were old acquaintances with a common past.<ref>Identity Crisis - Prodigy!</ref> They shared an "old man" as their tutor, who was now dead.<ref>This indicates Conundrum was also Mysterio's student</ref>  While fighting Prodigy (who was actually Spidey at the time), Conundrum mentioned Jack's reflexes getting slower due to his age (indicating Berkhart was the one in costume at that time). Prodigy/Spidey eventually figured out that by closing his eyes and relying on his Spider-Sense, he had better chances against the villains' illusionist attacks. While Peter knocked Conundrum out, Mad Jack was seemingly shot dead by one of Norman's bodyguards. Jack's death was actually faked to serve the purposes of both Berkhart and Osborn.
+
+Mad Jack and a new Mysterio, would later torment Spidey, Jameson, [[Matthew Murdock (Earth-616)|Daredevil]], and Just A Guy Named [[Joseph Smith (Earth-616)|Joe]].{{r|Spider-Man: Mysterio Manifesto Vol 1 1}} During these transgressions, it was revealed that Maguire had become the solo Jack O' Lantern, while Danny Berkhart assumed Mysterio's legacy and became Quentin Beck's heir, reassuming his position as the second Mysterio. Maguire was captured as Mad Jack, while Berkhart escaped with his cat (also named Maguire).{{citation}} He apparently also sold a spare Mysterio costume to the [[Wilson Fisk (Earth-616)|Kingpin]], who in turn sold it to [[Francis Klum (Earth-616)|Francis Klum]]. Berkhart later would battle Klum for the right to be called Mysterio, even though he was the one who sold the costume originally. At this point, Berkhart stopped calling himself Mad Jack and continued on being only Mysterio.{{r|Friendly Neighborhood Spider-Man Vol 1 11|13}}
+
+[[Jack O'Lantern (Crime-Master's) (Earth-616)|The most recent man to go by "Jack O'Lantern"]] claimed that he had liquidated every other holder of the mantle. Whether this included Berkhart is unknown, as he had long since given up that identity.{{r|Venom Vol 2 1}}
+
+| Powers                  = 
+| Abilities               = Like the original Mysterio, minimally enhanced speed/agility.
+| Strength                = Slightly more than the original Mysterio's.
+| Weaknesses              = 
+
+| Equipment               = '''[[Mysterio Suit]]:''' Projectors, Gas Gloves, Invisi-Mask and Image Inducers, plus all the tricks of the original Mysterio 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = * When [[J.M. DeMatteis]] introduced the character of Mad Jack in {{cl|Spectacular Spider-Man #241}}, he had no plan for who would be under the mask. DeMatteis intended to fill in the character's identity when he came up with a good idea for it, but had not yet decided who Mad Jack was going to be by the time that he left the book.{{r|{{cite web|url=https://www.cbr.com/spider-man-mad-jack-o-lantern-secret-identity-jm-dematteis/|title=Was Spider-Man Foe, Mad Jack, Created Without a Secret Identity?|work=CBR.com|first=Brian|last=Cronin|date=11 August 2019|accessdate=9 October 2019}}}} [[Tom DeFalco]] later decided to connect Mad Jack with Daniel Berkhart in {{cl|Spider-Man: Mysterio Manifesto Vol 1 1}}.
+| Marvel                  = 
+| Wikipedia               = Mysterio#Daniel_Berkhart
+| Links                   = 
+}}
+[[Category:Illusionists]]
+[[Category:Killed Off-Panel]]

@@ -1,0 +1,43 @@
+{{Marvel Database:Team Template
+| Image                   = Emissaries of Evil (Egghead) (Earth-616) from Alpha Flight Special Vol 2 1 001.jpg
+| ImageSize               = 250px
+| Name                    = Emissaries of Evil
+| Aliases                 = Egghead's Emissaries of Evil
+| Distinguish1            = Emissaries of Evil
+
+| Status                  = Defunct
+
+| Identity                = Public
+| Reality                 = Earth-616
+| BaseOfOperations        = NASA space-station
+
+| Leaders                 = [[Elihas Starr (Earth-616)|Egghead]]
+| CurrentMembers          = 
+| FormerMembers           = [[Ralph Roberts (Earth-616)|Cobalt Man]], [[Leopold Stryke (Earth-616)|Eel]], Egghead, [[Alexander Gentry (Earth-616)|Porcupine]], [[Erik Josten (Earth-616)|Power Man]], [[Aleksei Sytsevich (Earth-616)|Rhino]], [[Silas King (Earth-616)|Solarr]], [[Jacques Duquesne (Earth-616)|Swordsman]]
+| Allies                  = 
+| Enemies                 = [[Flight (Earth-616)|Flight]], [[Defenders (Earth-616)|Defenders]]
+
+| Origin                  = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Gerry Conway; Keith Giffen
+| First                   = Defenders #42
+| Last                    = Alpha Flight Special Vol 2 #1
+
+| HistoryText             = [[Elihas Starr (Earth-616)|Egghead]] assembled several costumed supervillains to aid him in his scheme to blackmail the United States. They gathered together in [[Canada]] where Egghead had constructed a nuclear bomb. Egghead then demanded that the president relinquish control of the country to him or he would destroy [[New York City]]. [[James Hudson (Earth-616)|James Hudson]]'s new team, the Flight, saw the broadcast and opposed the group. Despite their lack of training, the Flight defeated the Emissaries of Evil. The bomb, however, was activated during the altercation and [[Saint Elmo (Earth-616)|Saint Elmo]] sacrificed himself to safely end the nuclear threat.{{r|Alpha Flight Special Vol 2 #1}}
+
+Later, when Egghead was released on parole after attacking his niece, [[Patricia Starr (Earth-616)|Trish Starr]], he sought revenge on [[Henry Pym (Earth-616)|Yellowjacket]] and the [[Defenders (Earth-616)|Defenders]]. He was able to steal a [[National Aeronautics and Space Administration (Earth-616)|NASA]] space-lab from its launching base in [[Florida (State)|Florida]] by tricking a guard. NASA was unaware of this as Egghead transmitted false computer reports to them while making his own modifications to the ship, transforming it into a giant arsenal.{{r|Defenders #42}}
+
+Egghead decided that he would require help, so he sought out some of the criminals he had worked with in the past to form his Emissaries of Evil. He found the [[Aleksei Sytsevich (Earth-616)|Rhino]] wandering around in the [[Mojave Desert]] after his battle with the [[Bruce Banner (Earth-616)|Hulk]]. Egghead then located [[Silas King (Earth-616)|Solarr]] and recruited him to help in his quest. Lastly, Egghead completed his roster when he found the [[Ralph Roberts (Earth-616)|Cobalt Man]] floating through outer space in a state of suspended animation. Egghead used his technology to place one overpowering thought into his head, to destroy the Defenders.{{r|Defenders #42}}
+
+Egghead sent his emissaries to the [[Sanctum Sanctorum]] of [[Stephen Strange (Earth-616)|Doctor Strange]] searching for the mystical artifact known as the [[Star of Capistan]]. The Rhino and Solarr attacked the Defenders until they realized that the Defenders had never even heard of the Star. They returned to the space station, though Egghead punished them for failing to retrieve the gem. He then sent the Cobalt Man to destroy the Defenders, programming him to achieve critical mass.{{r|Defenders #42}} The Cobalt Man was freed of his brainwashing by [[Clea (Earth-616)|Clea]] and the [[Tania Belinskaya (Earth-616)|Red Guardian]]. After Solarr and the Rhino were defeated by the "Red Rajah" (Doctor Strange while possessed by the Star of Capistan), Egghead tried to defeat the Defenders by himself. The Cobalt Man, sick of being used as a pawn in the schemes of others, grabbed Egghead as he melted down, apparently killing them both.{{r|Defenders #43}}
+
+| Equipment               = 
+| Transportation          = NASA space station
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * [http://www.marvunapp.com/Appendix3/emissariesofevilegg.htm Egghead's Emissaries of Evil at the Marvel Appendix]
+}}
+[[Category:Emissaries of Evil]]

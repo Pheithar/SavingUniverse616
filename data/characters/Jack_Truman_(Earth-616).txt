@@ -1,0 +1,78 @@
+{{Marvel Database:Character Template
+| Image                   = Jack_Truman (Earth-616) Vengeance Vol 1 6.png
+| Name                    = Jack Truman
+| NameRef                 = {{r|Cable #59}}
+| CurrentAlias            = 
+| Aliases                 = [[Deathlok]],{{citation}} L.O.K. (Logarithmic Organic Kinetics),{{citation}} [[Lawrence Young (Earth-616)|Larry Young]],{{r|Vengeance #3}} Schiffler,{{citation}} Billy Bailey,{{citation}} Ted Bailey,{{citation}} [[Agent 18]]<!-- {{r|Cable #58}} -->{{r|Cable #59}}
+
+| Affiliation             = Ally of the [[Teen Brigade (Earth-616)|Teen Brigade]]; formerly {{M|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}, {{M|United States Army (Earth-616)|United States Army}}
+| Relatives               = Lillian Trubane (sister)
+| MaritalStatus           = 
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #3}}
+| Gender                  = Male 
+| Height                  = 6'2"
+| Height2                 = (Young body); 6'4" (Truman)
+| Weight                  = 170 lbs
+| Weight2                 = (Young body); 200 lbs (Truman)
+| Eyes                    = Blue
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] whose mind was swapped into another [[Homo sapiens|human]]'s body;<br>formerly [[Homo sapiens|Human]] [[Cyborgs|Cyborg]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Former S.H.I.E.L.D. manhunter
+| Education               = College graduate
+| BaseOfOperations        = [[Bowery|The Bowery]], [[New York City]], [[New York (State)|New York]]
+
+| Creators                = Joe Casey; Jose Ladronn
+| First                   = Cable #58
+| First2                  = (Mentioned)<br>{{sld|Cable #59}}
+
+| History                 = 
+===S.H.I.E.L.D.===
+'''Jack Truman''' was a manhunter for the international espionage agency [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]],{{r|Cable #59}} known as '''Agent 18''' (and only to a few people{{r|Cable #58}} probably less than a dozen). He was so deep inside and covert as his name wasn't attached to anything in S.H.I.E.L.D.'s database.<!-- {{r|Cable #59}} -->
+
+Truman despised desk-jobs agents, as well as [[George Washington Bridge (Earth-616)|G.W. Bridge]] (the feeling being mutual), whose leadership skills were questioned by Truman.{{r|Cable #59}}
+
+====Early Missions====
+<!-- Years before the Cable mission -->He once had for mission to prevent an allegedly insane [[Timothy Dugan (Earth-616)|Timothy Dugan]], in fact an unstable [[Life-Model Decoy]], from killing the [[Presidents of the United States of America|Presidents of the United States]]<!-- unknown which one -->, and consequently tracked him down and cut his throat.<!-- {{r|Cable #59}} -->
+
+Truman went into a stakeout for six months in [[Tunisia]] to catch an embassy bomber who was also a manic depressive: by the time he had closed in, his target had committed suicide. Truman felt cheated of six months of his life, and went in vacation in [[Sudan]] to unwind.{{r|Cable #59}}
+
+====Cable====
+On the proposition of [[Seth Waters (Earth-616)|Seth Waters]],{{r|Cable #58}} and despite his vacation, he was deployed to capture the [[Homo superior|mutant]] "terrorist" [[Nathaniel Summers (Earth-616)|Cable]], and was handed all information by [[Agent Gerard (Earth-616)|Agent Gerard]] of [[S.H.I.E.L.D. Foreign Operations Division (Earth-616)|Foreign Operations]]. Though he dismissed him abruptly, he welcomed the mission, as he wanted (and was aware S.H.I.E.L.D. knew that) a challenge to compensate the Tunisia operation. Truman consequently started his manhunt, heading for the [[Swiss Alps]], where Cable had been active and met with Bridge there. From the intel, Truman understood that Cable wasn't a terrorist as alleged, but a hero, which could provide an even better challenge for him. In [[Hell's Kitchen]] (when the [[S.H.I.E.L.D. Psi Division (Earth-616)|Psi-Division]] had lost track of Cable, Truman had the agency to buy the [[Ranco Scrap]] abandoned junkyard to use as a cover. Using a [[Psionic Transponder]], Truman unleashed [[Zzzax (Earth-616)|Zzzax]] upon Hell's Kitchen{{r|Cable #59}} in order to test Cable before confronting him. After a brief fight, they were interrupted by [[Lawrence Young (Earth-616)|Laurence Young]], commander of [[S.H.I.E.L.D. Air Cavalry (Earth-616)|S.H.I.E.L.D. Air Cavalry]], deployed as Truman was possibly deemed ineffective. Cable was able to grab Truman's weapons, attack the Air Cav, and flee underground. Truman catch up with him and overpowered him.{{r|Cable #60}} As Cable was captured, Truman realized he had been sent to find Cable only, while the Air Cav was to retrieve it, for the purpose of the [[Nemesis Program (Earth-616)|Nemesis Program]].{{r|Cable #61}} He was badly injured during the mission.{{citation}}
+
+He was subsequently transformed into a cyborg to battle the [[Johann Shmidt (Earth-616)|Red Skull]].{{citation}}
+
+He later swapped his mind into the body of another former S.H.I.E.L.D. agent, [[Lawrence Young (Earth-616)|Larry Young]].{{citation}}
+
+===Teen Brigade===
+Truman reappeared later, and played a role in shepherding the [[Teen Brigade (Earth-616)|Teen Brigade]] against the [[Young Masters (Earth-616)|Young Masters]]. He assisted them in their battle against the Masters in the capital of [[Latveria]], where the Young Masters intended to assassinate [[Kristoff Vernard (Earth-616)|Kristoff Vernard]].{{r|Vengeance #1|6}}
+
+| Personality             = <!-- a lot to tell, righy from his first appearance in {{r|Cable #59}} -->
+
+| Powers                  = 
+| Abilities               = Truman was a skilled manhunter and marksman.{{r|Cable #59}}
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = On the field, he wore S.H.I.E.L.D. uniform.{{r|Cable #59}}<!-- 
+
+could have ajunkyard bought for him by S.H.I.E.L.D.,{{r|Cable #59}}
+
+[[Psionic Transponder]]{{r|Cable #59}} -->
+| Transportation          = <!-- S.H.I.E.L.D. and civilians transports -->
+| Weapons                 = Truman used various makes and calibers of firearms, including a Evans .470 and a .45. He also access to S.H.I.E.L.D. tech weapons.{{r|Cable #59}}
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Deathloks]]

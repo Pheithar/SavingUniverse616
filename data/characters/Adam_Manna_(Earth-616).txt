@@ -1,0 +1,49 @@
+{{Marvel Database:Character Template
+| Image                   = Adam Manna (Earth-616) from Iron Man Vol 1 118 0001.jpg
+| Name                    = [[Adam Manna]]
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = Formerly {{M|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Government agent
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = David Michelinie; John Romita Jr.
+| First                   = Iron Man Vol 1 117
+| Death                   = Iron Man Vol 1 118
+
+| History                 = Adam Manna was a [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|SHIELD ]] agent involved in a conspiracy to assassinate [[Anthony Stark (Earth-616)|Tony Stark]] which failed. While in prison Adam died of cancer.{{r|Iron Man Vol 1 117|118}}
+
+| Powers                  = None
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Cancer (disease)]]

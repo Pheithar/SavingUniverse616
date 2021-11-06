@@ -1,0 +1,73 @@
+{{Marvel Database:Character Template
+| Image                   = Louis Hamilton (Earth-616) from New Mutants Vol 3 7 001.jpg
+| Name                    = Louis Hamilton
+| CurrentAlias            = Stonewall
+| Aliases                 = 
+
+| Affiliation             = {{M|Freedom Force}}, partner of [[Martin Fletcher (Earth-616)|Super Sabre]] and [[Frank Bohannan (Earth-616)|Crimson Commando]]
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Black
+| UnusualFeatures         = Mustache
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Massachusetts (State)|Massachusetts]]
+| PlaceOfDeath            = [[Muir Island]], [[Scotland]]
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Government agent, former vigilante, soldier
+| Education               = Law school
+| BaseOfOperations        = [[Freedom Force HQ]], [[Pentagon]], [[Washington DC]]; formerly [[Adirondack State Park]], [[New York (State)|New York State]]
+
+| Creators                = Chris Claremont; Alan Davis
+| First                   = Uncanny X-Men #215
+| Death                   = Uncanny X-Men #255
+
+| History                 = '''Louis Hamilton''' and two other [[Homo superior|mutants]], [[Frank Bohannan (Earth-616)|Crimson Commando (Frank Bohannan)]] and [[Martin Fletcher (Earth-616)|Super Sabre (Martin Fletcher)]], served as a super-powered team on the Allied side in [[World War II]]. They did not receive permission to continue their activities against the Communists and were mustered out. Hamilton returned to his home town in [[Massachusetts (State)|Massachusetts]], received a law degree, and became an attorney.{{r|Uncanny X-Men #215}}
+
+Like Bohannan and Fletcher, however, he missed the excitement of using his powers in combat. The three became vigilantes. Hamilton would learn of a criminal who had escaped prosecution; they would then abduct him, release him in a nearby state park, chase him down, and mete out their own justice. This illegal scheme went on for some time, but it ended when they picked the wrong target: [[Ororo Munroe (Earth-616)|Storm]] of the [[X-Men (Earth-616)|X-Men]]. She turned the tables on them, apparently killing Fletcher and subduing Hamilton and Bohannan. She convinced them to turn themselves in.{{r|Uncanny X-Men #215|#16}}
+
+Fortunately, the federal government had recently formed a group of mutants known as [[Freedom Force (Earth-616)|Freedom Force]], most of whom had received pardons for their past bad acts. Hamilton took the same deal and joined the team, along with Bohannan and an unexpectedly living Fletcher.{{r|Uncanny X-Men #223}}
+
+Hamilton's first assignment as a new member of Freedom Force was daunting: the event known as [[The Fall of the Mutants]].{{r|Uncanny X-Men #225|227}}
+
+Other missions involved attempts to capture mutants (such as [[Nathaniel Summers (Earth-616)|Cable]]{{r|New Mutants #65}}{{r|X-Factor #30|31}} and [[Russell Collins (Earth-616)|Rusty Collins]]){{r|New Mutants #78}} and to enforce the [[Registration Acts|Mutant Registration Act]].{{r|X-Factor #33}} Hamilton applied his legal skills when [[Jonathan Walker (Earth-616)|Captain America (John Walker)]] helped Freedom Force set a trap for a group of mutant terrorists called the [[Mutant Force|Resistants]]: the government staged a trial of [[Pietro Maximoff (Earth-616)|Quicksilver]] to bring them out of hiding.{{r|Captain America #346}}
+
+Hamilton joined a mission to help Freedom Force protect [[Muir Island]] from the [[Reavers (Earth-616)|Reavers]]. During that battle, [[Donald Pierce (Earth-616)|Donald Pierce]] of the Reavers killed Hamilton with a massive charge of electricity.{{r|Uncanny X-Men #255}}
+
+Hamilton appeared once more, when [[James Howlett (Earth-616)|Wolverine]] had a near-death experience and encountered several deceased enemies - apparently just Wolverine's imagination, not a real appearance of Hamilton.{{r|Wolverine Vol 2 176}}
+
+Hamilton, along with many other deceased villains, was resurrected by [[Selene Gallio (Earth-616)|Selene]] and [[Eliphas (Earth-616)|Eli Bard]] with the [[Transmode Virus]]. He was seen with [[Martin Fletcher (Earth-616)|Super Sabre]] fighting [[Piotr Rasputin (Earth-616)|Colossus]] among others.{{r|X-Force Vol 3 22}} It was assumed that he returned to death once more upon Selene's defeat and destruction.
+
+| Powers                  = * '''Superhuman Strength''' 
+* '''Superhuman Endurance''' 
+* '''Superhuman Durability'''
+* '''Gravitikinesis''':  He could adjust his center of gravity so as to become virtually immovable; his power in this respect surpassed that of the [[Frederick Dukes (Earth-616)|Blob]], his Freedom Force teammate.
+| Abilities               = 
+| Strength                = Superhuman, maximum unknown
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = [[Freedom Force Helicopter]], other air vehicles
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = * Hamilton may have taken his codename from [[Confederate States Army (Earth-616)|Confederate]] general Thomas "Stonewall" Jackson.
+* Hamilton enjoyed reading books by James Joyce.
+| Links                   = 
+}}
+[[Category:WWII Characters]]
+[[Category:Gravitikinesis]]
+[[Category:Superhuman Durability]]
+[[Category:Superhuman Strength]]
+[[Category:Superhuman Stamina]]
+[[Category:Formerly Deceased]]
+[[Category:Post-M-Day Mutants (Pre-M-Day Deaths)]]

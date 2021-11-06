@@ -1,0 +1,59 @@
+{{Marvel Database:Character Template
+| Image                   = Major_Domo_(Mojoverse)_from_X-Men_Black_-_Mojo_Vol_1_1_001.jpg
+| Name                    = 
+| CurrentAlias            = Major Domo
+| Aliases                 = Domo
+
+| Affiliation             = {{m|Mojo News Network (Earth-616)|Mojo News Network}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Grey
+| UnusualFeatures         = 
+
+| Origin                  = [[Androids|Android]]
+| Reality                 = Mojoverse
+| PlaceOfBirth            = [[Mojoworld]], [[Mojoverse]]
+
+| Identity                = No Dual
+| Citizenship             = Mojoworlder
+| Occupation              = Mojo's Right-hand Man
+| Education               = 
+| BaseOfOperations        = [[Mojoworld]], [[Mojoverse]]
+
+| Creators                = Ann Nocenti; Arthur Adams
+| First                   = Longshot Vol 1 4
+
+| Quotation               = Lawsuit city dead ahead!
+| Speaker                 = [[Major Domo (Mojoverse)|Major Domo]]
+| QuoteSource             = Marvel Comics Presents Vol 1 119
+
+| History                 = 
+===Early Life===
+Major Domo is [[Mojo (Mojoverse)|Mojo]]'s right-hand man. Possessed of a sarcastic wit, Major Domo is one of the only people who can get away with criticizing Mojo, as Mojo is usually too distracted to notice.{{r|Longshot #4}}{{r|Uncanny X-Men Annual #15}}
+
+===[[Mojo Worldwide]]===
+When [[Max Eisenhardt (Earth-616)|Magneto]] and [[Lorna Dane (Earth-616)|Polaris]] created a massive electromagnetic pulse on [[Mojoworld]], it severed Mojo's ties to the [[Mojoverse]] and stranded he and his followers in [[Earth-616|the Prime Marvel Universe]]. There they established a new base in the sewers beneath the [[Empire State Building]] with plans to begin broadcasting the [[Mojo News Network (Earth-616)|Mojo News Network]].{{r|X-Men: Blue Vol 1 15}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Characters Displaced to Earth-616]]
+[[Category:Interdimensional Travelers]]

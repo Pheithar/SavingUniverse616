@@ -1,0 +1,62 @@
+{{Marvel Database:Character Template
+| Image                   = S'ym (Earth-616) from Wolverine Weapon X Files Vol 1 1 001.jpg 
+| Name                    = [[S'ym]]
+| CurrentAlias            = 
+| Aliases                 = [[Duke Bleys]]
+
+| Affiliation             = Limbo
+| Relatives               = [[Despair (Earth-616)|Despair/Dessy]] (daughter) 
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Wolverine: Weapon X Files Vol 1 1}}
+| Gender                  = Male
+| Height                  = 7'5"
+| Height2                 = (formerly variable)
+| Weight                  = 1500 lbs
+| Weight2                 = (formerly variable)
+| Eyes                    = Red
+| Eyes2                   = (formerly variable)
+| Hair                    = Grey
+| Hair2                   = (formerly variable)
+| UnusualSkinColor        = Purple
+| UnusualFeatures         = 
+
+| Origin                  = [[Demons (Limbo)|Demon]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Limbo (Otherplace)|Limbo]] 
+
+| Identity                = No Dual
+| Citizenship             = [[Limbo (Otherplace)|Limbo]] 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = Limbo
+
+| Creators                = Chris Claremont; Brent Anderson
+| First                   = Uncanny X-Men #160
+
+| History                 = S'ym is the most physically potent native demon of the demonic realm called [[Limbo]], also known as "Otherplace."
+
+Along with [[N'astirh]], S'ym is one of the better known demons of [[Limbo]]. He used to serve under [[Belasco (Earth-616)|Belasco]], an ancient evil sorcerer serving the Elder Gods. Belasco was seemingly killed by [[Kevin Plunder (Earth-616)|Ka-Zar]], after which S'ym became Limbo's de facto ruler.{{Citation}}
+
+S'ym and [[N'astirh]] took in [[Madelyne Pryor (Earth-616)|Madelyne Pryor]]. She was a clone of [[Jean Grey]], and the demons were going to use her in a demonic invasion of Earth starting with [[Manhattan]].{{Citation}}
+
+At one point, S'ym posed as the green two-headed Duke Bleys.{{Citation}}
+
+S'ym was last seen when Illyana Nikolievna Rasputina, formerly known as [[Magik]], returns to rule Limbo in her Darkchylde persona. S'ym, who used to be infected with the [[Techno-Organic Virus|Transmode virus]], is shown to be one of her servants now free of the techno-organic virus.{{Citation}}
+
+| Powers                  = S'ym possesses great superhuman strength. He is stronger than [[Piotr Rasputin (Earth-8280)|Colossus]] and easily snapped off one of [[James Howlett (Earth-8280)|Wolverine]]'s claws.{{r|Uncanny X-Men #160}} This strength level makes him nearly invulnerable. Illyana Rasputin's Soulsword was one of the few weapons that could kill him, before having been infected by the techno-organic virus. S'ym, now a techno-organic being himself, can repair himself and reform from a single molecule, should he be destroyed. Also due to his techno-organic state, S'ym can also infect other objects and feed off its life energies, and/or turn them into techno-organic beings as well. During the Inferno story line Illyana tried killing S'ym with her Soulsword but it proved ineffective against his new circuitry body.{{Citation}}
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Techno-Organic Virus]]
+[[Category:Horns]]

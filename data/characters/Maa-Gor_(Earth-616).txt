@@ -1,0 +1,54 @@
+{{Marvel Database:Character Template
+| Image                   = Maa-Gor (Earth-616) from Daredevil Vol 1 13 001.jpg
+| Name                    = Maa-Gor
+| CurrentAlias            = 
+| Aliases                 = Man-Ape, Man-God
+
+| Affiliation             = {{m|Man-Apes (Earth-616)|Man-Apes}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = Missing an eye
+
+| Origin                  = [[Homo neanderthalensis|Neanderthal]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Savage Land]]
+
+| Identity                = No Dual
+| Citizenship             = Homo neanderthalensis, Savage Lander
+| Occupation              = Warrior
+| Education               = 
+| BaseOfOperations        = [[Savage Land]], [[Antarctica]]
+
+| Creators                = Stan Lee; Jack Kirby
+| First                   = X-Men Vol 1 10
+
+| History                 = '''Maa-Gor''' was the former leader and last surviving member of the [[Homo neanderthalensis|Man-Apes]] in the [[Savage Land]]. He was responsible for leading his people to exterminate the saber tooth tigers. Among them was the mate of [[Zabu (Earth-616)|Zabu]], who tracked them down to get revenge. He found them about to attack a young [[Kevin Plunder (Earth-616)|Ka-Zar]], but arrived just in time to save the boy. He then scattered the rest of the tribesmen. Maa-Gor had regained consciousness and targeted the tiger with his spear, but Ka-Zar picked up his father's gun and shot Maa-Gor in the shoulder, saving Zabu's life. Maa-Gor held a grudge against them both that would last to the adult life of Ka-Zar.{{r|X-Men Vol 1 10}}
+
+He was later exposed to strange mists that briefly transformed him into the Man-God, granting him telepathic and telekientic powers, as well as the ability to revive his old tribe. Maa-Gor was eventually turned back into a brutish caveman and suffered the loss of an eye. He has not been seen since, and it is unknown if he still lives.{{r|Ka-Zar Vol 2 #3|5}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = * Maa-Gor suffered from bipolar disorder, but being a caveman living in a hidden valley in Antarctica, had no way of getting a diagnosis.{{r|Ka-Zar the Savage Vol 1 15}}
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Homo neanderthalensis]]
+[[Category:Telepaths]]
+[[Category:Telekinesis]]
+[[Category:Mutates]]

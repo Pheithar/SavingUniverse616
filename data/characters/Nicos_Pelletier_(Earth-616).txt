@@ -1,0 +1,56 @@
+{{Marvel Database:Character Template
+| Image                   = Nicos Pelletier (Earth-616) Daredevil Annual Vol 1 7.jpg
+| Name                    = [[Nicos Pelletier]]
+| CurrentAlias            = [[Guillotine]]
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Bald
+| UnusualFeatures         = Various sharp appendages implanted within his flesh
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Assassin, terrorist
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Gregory Wright; Ron Garney
+| First                   = Daredevil Annual Vol 1 7
+| Death                   = Nick Fury, Agent of S.H.I.E.L.D. Vol 3 #29
+
+| History                 = 
+[[Image:Nicos Pelletier (Earth-616) Punisher Annual Vol 2 4.jpg|thumb|left|Nicos Pelletier]]
+Guillotine was one of three human-enhancement experiments created by Hydra. [[Wolfgang von Strucker (Earth-616)|Baron Strucker]] released these experiments into the world and sent three mercenaries after them in a Darwinian test of strength to see who would emerge victorious. Guillotine went on to become one of Strucker's lieutenants.{{r|Daredevil Annual #7}}
+
+| Powers                  = Organic body blades and claws
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Deceased Characters]]
+[[Category:Hydra (Earth-616)/Members]]
+[[Category:Claws]][[Category:Infobox UnusualFeatures Update Needed]]

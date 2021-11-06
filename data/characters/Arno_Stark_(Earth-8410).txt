@@ -1,0 +1,94 @@
+{{Marvel Database:Character Template
+| Image                   = Thunderbolts_Vol_2_8_Many_Armors_of_Iron_Man_Variant_Textless.jpg
+| Name                    = [[Arno Stark]]
+| CurrentAlias            = Iron Man 2020
+| Aliases                 = Iron Man
+
+| Affiliation             = {{m|Stark Industries}}; formerly {{m|Heralds (Earth-9997)|Heralds}}, {{m|Iron Bots}} (leader), possibly Immortus' {{m|Legion of the Unliving (Kang) (Earth-616)|Legion of the Unliving}}, [[Chronos Corps (Multiverse)|Chronos Corps]][[Category:Chronos Corps (Multiverse)/Members]]
+| Relatives               = [[Anthony Stark (Earth-8410)|Tony Stark]] (unconfirmed relation);<br>
+[[Morgan Stark (Earth-8410)|Morgan Stark]] (father);<br>
+Unnamed sister;<br>
+Bill (brother-in-law);<br>
+Cynthia Stark (wife, deceased);<br>
+Melodi (wife);{{r|Astonishing Tales Vol 2 2}}<br>
+Arno Stark Jr. (son, deceased);<!-- Should this be spelt with or without a comma before 'Jr."? Cause both spellings have been used on the wiki. -->
+| MaritalStatus           = Married
+
+| CharRef                 = {{cl|Iron Manual Mark 3 Vol 1 1}}
+| Gender                  = Male
+| Height                  = 5'11"
+| Weight                  = 185 lbs
+| Eyes                    = Blue
+| Hair                    = Brown
+| Hair2                   = ; sometimes [[:Category:Dyed Hair|Dyed]][[Category:Dyed Hair]] [[:Category:Black Hair|Black]][[Category:Black Hair]][[Category:Infobox Eyes Update Needed]]
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]; Arno inherited his predecessor Tony Stark's company, including the Iron Man armor. 
+| Reality                 = Earth-8410
+| PlaceOfBirth            = Levittown, [[Long Island]], [[New York]]
+| PlaceOfDeath            = 
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = CEO of Stark International, adventurer; former mercenary 
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Tom DeFalco; Herb Trimpe
+| First                   = Machine Man Vol 2 2
+| Death                   = Marvel Zombies 5 Vol 1 4
+
+| History                 = Arno Stark bought out his predecessor [[Anthony Stark (Earth-8410)|Tony]]'s company after it appeared he had died. After being hired on a mercenary mission to raise money, he found that he enjoyed the work. He employed a number of other armored personnel, whom he called the Iron Bots.
+
+He was set to unveil a new ''time displacement device'', but he had to undertake munitions jobs to help finance the project. One of these was a large-scale nuke nicknamed the ''Planet Buster''. Terrorists found the plant where the bomb was located and attempted to detonate it. Cynthia Stark and Arno Jr. were visiting the plant during the attack. Arno suited up and killed the terrorists, but learned a retinal scan was needed to disarm the bomb. Arno went back in time to try and gain the scan from the lead man as a child, but was stopped by [[Peter Parker (Earth-616)|Spider-Man]]. Ironically this caused the man to grow up with an intense hatred of corporations. The bomb exploded, killing Arno's wife and child as well as many employees.{{r|Amazing Spider-Man Annual #20}}
+
+Some time later, Arno was hired by one of an elite group of rich game players called the Dicemen, and duped into fighting the time travelling bounty hunter [[Death's Head (Styrakos)|Death's Head]]. When the pair realised they had been lied to, they teamed up to go after their mutual employer, but he had already been eliminated by his own organisation, though he had left the balance of their fees behind. Death's Head gave Arno, who had been plagued by self doubt, some confidence boosting advice before leaving.{{r|Death's Head Vol 1 10}}
+
+At one point, outside of time, Immortus summoned a Legion of the Unliving to Limbo, including Iron Man 2020. Arno faced the original [[Anthony Stark (Earth-616)|Iron Man]]. Although his armor was superior, Arno could not match Tony's skill and was outwitted.<ref>{{cl|Avengers: West Coast #61}}, although this Arno was likely a Space Phantom.</ref>
+
+Arno was later hired by [[Sunset Bain (Earth-8410)|Sunset Bain]] to destroy the rebuilt [[X-51 (Earth-8410)|Machine Man]] and the [[Midnight Wreckers (Earth-8410)|Midnight Wreckers]].{{r|Machine Man Vol 2 2}} He failed and was humiliated by the automaton.{{r|Machine Man Vol 2 3|4}} However it seemed he and his Iron Bots battled the Wreckers and Machine Man on multiple occasions.
+
+Later, he took a request by Marcus Amalgamated to rescue the [[Marcus Wellington (Earth-8410)|owner's]] [[Melodi MacLain (Earth-8410)|daughter]] from kidnappers. He was concerned that events in the Middle East and [[Russia]] would impact his company due to rising oil prices, and also wanted to take advantage of a new technology Marcus promised him if he rescued Micki. However, it was a ploy. Micki was actually fleeing her father's company with data on a destructive new computer virus and the kidnappers were hired by Marcus. Arno confronted Marcus and was able to defeat him by infecting both their armors with the virus.{{r|Iron Man 2020 Vol 1 1}}
+
+Arno finally decided to be a hero. Unknown to him, Marcus's advisor ''Howard'' was actually the elderly Tony Stark, pleased with his nephew's new direction.
+
+Arno was briefly summoned by the [[Time-Keepers]] as part of their forces opposing the team of Avengers summoned from various realities by [[Richard Jones (Earth-616)|Rick Jones]].{{r|Avengers: Forever Vol 1 11}}
+
+Arno Stark was then pulled from his own reality by [[X-51 (Earth-9997)|X-51]] of [[Earth-9997]] to be a member of his [[Heralds (Earth-9997)|Heralds]], a group of super-humans from alternate realities. He had gathered them to warn alternate realities of the danger of the [[Celestials (Race)|Celestials]] who reproduced by impregnating worlds and manipulating the DNA of the planets' dominant species into being unwilling antibodies. Each member of the Heralds were promised their fondest wish upon completion of their mission. As payment for his agreement to join the Heralds, Stark wished to be given the opportunity to be a hero on his own terms without living in his uncle's shadow. He was teamed-up with [[James Howlett (Earth-811)|Wolverine]] of [[Earth-811]], [[Ororo Munroe (Earth-1298)|Bloodstorm]] of [[Earth-1298]], [[Luther Manning (Earth-7484)|Deathlok]] of [[Earth-7484]], [[May Parker (Earth-1122)|Spider-Girl]] of [[Earth-1122]], [[Jonathan Raven (Earth-691)|Killraven]] of [[Earth-691]], and [[Hyperion (Earth-1121)|Hyperion]] of [[Earth-1121]]. The team was split into groups of two with Bloodstorm and Iron Man traveling to [[Earth-2010]], a reality where everyone on Earth is a [[Vampires|vampire]].
+
+There they seeked out that world's version of [[Reed Richards (Earth-2010)|Reed Richards]] to deliver their warning of Celestial prorogation. Learning that Reed (and most of the superhero population) had fallen victim to vampirism, their information came too little too late to the damned of this world. However, their information gave Reed the resolve to drop a bomb into his Earth's core that would destroy the entire planet and wipe out all the vampires before they could take their curse to the stars.
+
+Returning to Earth-9997, each pair of the group having varying degrees of success with warning their realities, they arrived to find that the [[Uatu (Earth-9997)|Watcher of Earth-9997]] was being judged by his alternate reality counterparts. After a brief battle against the collective of [[Watchers]], they were beaten when X-51 had them all teleported to the surface of their own Earths, making them guilty of the same crimes that Watcher-9997 was guilty of.
+
+With their missions completed, X-51 took all the Heralds to Earth to grant them their wishes. There, Arno met the [[Guardians of the Galaxy (Earth-691)|Guardians of the Galaxy]] who had traveled back in time from [[Earth-691]] because they had found an ancient book that told of a point in the 21st century when all of humanity was mutated. As their Earth had been conquered by the [[Badoon]], they sought to learn the secret in order to win their war in their own reality. Unknown to them, this was a manipulation planned by [[Mephisto (Earth-9997)|Mephisto]] to create another divergent reality. Upon hearing of the Guardians' plight, X-51 suggested that Arno accompany them back to their own time, as in his own reality he created a bomb that caused massive mutations on his own world. Arno agreed and left with the Guardians back to their own reality.
+
+It is unknown if Arno succeeded in aiding the Guardians in their quest, however since he was never seen on Earth-691, it can be presumed that the Guardians' trip to Earth-9997 created a divergence from their home reality, and whatever Arno may or may not have done for the Guardians happened in a reality different from that of Earth-691.
+
+However, for unknown reasons he was briefly imprisoned by the [[Time Variance Authority (Null-Time Zone)|Time Variance Authority]]. He was seen by [[Jennifer Walters (Earth-616)|She-Hulk]] when the [[Matthew Hawk (Earth-616)|Two-Gun Kid]] was released. It is entirely possible that he was plucked from reality from the TVA en route to his mission, thereby preserving Earth-691. However, the true reason why Arno was in the custody of the TVA and the fate of his mission with the Guardians remain unrevealed at this time.{{r|She-Hulk Vol 2 3}}
+
+At some point in his life, Iron Man was recruited by [[Nathaniel Richards (Kang) (Earth-6311)|Kang]] to be a part of his [[Chronos Corps (Multiverse)|Chronos Corps]].{{r|Uncanny Avengers #14}}
+
+Arno was later affected by a technologic version of the [[Hunger (Virus)|zombie virus]] which invaded his universe, and it caused him to mutate into one of them, being later devoured by his own armor.{{r|Marvel Zombies 5 Vol 1 4}}
+
+| Powers                  = Arno Stark has no powers of his own but they are derived from his [[Iron Man 2020 Armor|Iron Man Armor]]. 
+
+| Abilities               = Arno is an inventive genius, particularly in weapons, computers and flight technology.
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = His own futuristic version of the Iron Man armor called experimental ''tractor clamps''. 
+| Transportation          = Custom-built Stealth jet with a hanger designed for armor storage. 
+| Weapons                 = Extendable high caliber pistol.  ''Flying Star Blade'', a controllable edged projectile 
+
+| Notes                   = * Arno Stark's exact relationship to Tony Stark has been reported several different ways. 
+** In {{cl|Avengers: West Coast #61}}, Arno referred to Tony as his great-uncle (meaning Tony was his grandparent's brother), although this version of Arno may have been a Space Phantom.
+** In {{cl|Paradise X: Heralds #3}}, Iron Man 2020 simply called him Uncle Tony. Both references are suspect since Tony Stark had no known siblings at the time of these issues' release.
+** In {{cl|What If? Vol 2 #53}} (spinning off of events from {{cl|Amazing Spider-Man Annual #20}}), Arno is identified as the son of Tony's cousin, Morgan Stark, making him and Tony first cousins, one generation removed. Unfortunately, that story inaccurately identifies Tony and Morgan as brothers, and so Tony is called Arno's "uncle" again.
+** {{cl|Official Handbook of the Marvel Universe A-Z Vol 1 1}} has Morgan as Tony's cousin and Arno as Mogan's son.
+| Trivia                  = 
+| Links                   = * [http://www.marvunapp.com/Appendix/ironman2020.htm Iron Man 2020 in Marvunapp]
+}}
+[[Category:Armor Users]]
+[[Category:Stark Family]]
+[[Category:Force Field]]
+[[Category:Flight]]

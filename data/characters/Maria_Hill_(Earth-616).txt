@@ -1,0 +1,130 @@
+{{Marvel Database:Character Template
+| Image                   = Maria Hill (Earth-616) from Avengers World Vol 1 14 001.png
+| Name                    = [[Maria Hill]]
+| CurrentAlias            =
+| Aliases                 = Agent/Special Agent Hill,{{r|New Avengers Vol 1 4}} Commander Hill,{{r|Civil War Vol 1 1}} Deputy Commander Hill,{{r|Civil War Vol 1 7}} Deputy Director Maria Hill,{{r|Mighty Avengers Vol 1 5}} Director Hill,{{r|Captain America Vol 5 22}} [[Mary Huell]],{{r|Hulk Vol 3 2}} Sub-Director Hill{{r|Iron Man Vol 4 15}}
+
+| Affiliation             = {{m|Force Works}}, {{m|Central Intelligence Agency|CIA}}, formerly {{m|New York City Police Department (Earth-616)|NYPD}} {{m|Deadpool Task Force}}, {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}} (director), {{m|Secret Avengers (S.H.I.E.L.D.) (Earth-616)|Secret Avengers (S.H.I.E.L.D.)}}, {{m|Avengers}}, {{m|United States Marine Corps}}
+| Relatives               = [[Ed Vernon (Earth-616)|Ed Vernon]] (father);<br>
+Unnamed mother (deceased);<br>
+Unnamed stepmother
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #5}}
+| Gender                  = Female
+| Height                  = 5'10"
+| Weight                  = 135 lbs
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Chicago (Illinois)|Chicago]], [[Illinois (State)|Illinois]]
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Former director of [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]], marine
+| Education               = United States Military Academy{{r|Invincible Iron Man Vol 2 8}}
+| BaseOfOperations        = Formerly [[S.H.I.E.L.D. Helicarrier]]; [[Stark Tower|S.H.I.E.L.D. Station: Golgotha]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]; [[Georgetown]], [[Virginia (State)|Virginia]]
+
+| Creators                = Brian Michael Bendis; David Finch
+| First                   = New Avengers #4
+
+| Quotation               = I'm the director of S.H.I.E.L.D.. Lying to the entire world is in the job description. Right next to "'''some overtime required'''," which I would like to point out is a '''severe''' understatement.
+| Speaker                 = [[Maria Hill (Earth-616)|Maria Hill]]
+| QuoteSource             = Avengers Standoff: Assault On Pleasant Hill Alpha Vol 1 1
+
+| History                 = 
+===Early Life===
+Maria Hill was born in [[Chicago (Illinois)|Chicago]], [[Illinois (State)|Illinois]],{{r|Secret War Vol 1 5}} on a cold night when temperatures hit -44°F. While still in the hospital, Maria's mother died, and her father [[Ed Vernon (Earth-616)|Ed]] blamed her for it.{{r|Invincible Iron Man Vol 2 8}} The abuse Maria endured from her father turned her into cold and troubled person. After finally falling out with her father,{{r|Jessica Jones Vol 2 11}} Maria joined the [[United States Marine Corps (Earth-616)|Marine Corps]].{{r|Invincible Iron Man Vol 2 13}}
+
+===S.H.I.E.L.D.===
+After serving with the Marines, and while still being fairly young, Maria joined [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]]. One of her earliest missions involved rescuing Agents [[Agent Bradley (Earth-616)|Bradley]] and [[John Reynolds (Earth-616)|Reynolds]], whose mission of infiltrating the ranks of the terrorist organization [[Hydra (Earth-616)|Hydra]] became compromised. Even though Reynolds was a senior agent, Hill decided to follow S.H.I.E.L.D.'s rules and relieve him, deeming him mentally unfit to take command. Reynolds refused to listen to Hill, and a skirmish resulted in Reynolds being caught in enemy fire.
+
+Reynold's partner, Agent Bradley, accused Hill of field misconduct, but a tribunal found her innocent. Maria's conviction caught the attention of Director [[Nicholas Fury (Earth-616)|Nick Fury]],{{r|Jessica Jones Vol 2 11}} who presented Hill with the chance to be promoted. As it turned out, both Bradley and Reynolds were in reality triple agents, and Fury asked Maria to carry out the kill order against Agent Bradley. Hill accomplished the mission, and was subsequently promoted to the rank of Colonel. The assignment and the precursory incident left Hill haunted by images of Reynolds and Bradley's families, and the feeling that she had betrayed her beliefs and didn't deserve to continue living. Because of this, Fury gave her a pill to induce amnesia and forget the episode. Before taking the pill, Maria put a hit on herself that would only trigger as soon as she retired.{{r|Jessica Jones Vol 2 12}}
+
+After the scandalous affair of the [[Secret War]] and its disastrous effect on [[New York City]], Nick Fury went into hiding.{{r|Secret War #5}} Maria Hill, viewed by the leaders of several nations as being both an efficient agent and, more importantly in their eyes, not directly loyal to Fury or any of his personal cadre, was appointed interim Executive Director. Hill's role had apparently not been announced to the public as yet; a [[Life-Model Decoy]] of Fury was regularly used in public to maintain an illusion of normalcy within the Directorate's ranks. Hill was expected to be loyal to United States interests before those of the United Nations, which S.H.I.E.L.D. was supposed to serve before any other country.{{r|New Avengers #4}} Hill quickly established new policies on super-powered heroes, as requested by the President of the United States and his peers in other national governments: to end S.H.I.E.L.D. support for the heroes. These policies were in full effect when Hill tried to prevent the [[Avengers (Earth-616)|Avengers]] from re-forming.{{r|New Avengers #6}}
+
+In the wake of events in the [[Savage Land]] that led to their reorganization, the Avengers suspected her of being complicit in various crimes, but lacked the evidence to prove her malfeasance.{{r|New Avengers #7|8}} For her part, Hill had suspected the latest incarnation of the Avengers of harboring an illicit agenda in connection with, among other things, [[Decimation|M-Day]].{{r|New Avengers #19}}
+
+===Civil War===
+While her tough attitude had not made her very popular among the superhero community, she earned [[Anthony Stark (Earth-616)|Iron Man]]'s respect when she ignored the president's orders to nuke an island the Avengers were on.{{r|New Avengers #20}}
+
+Maria Hill was directly responsible for [[Steven Rogers (Earth-616)|Captain America]] going underground to lead the opposition against the [[Superhuman Registration Act]]. Weeks before the act became law, Hill summoned Captain America to gain insight into the developments inside the superhero community. When the Captain informed her that the registration issue was dividing heroes and setting them against each other, Hill attempted to force him into leading the Avengers in a preemptive measure to capture and detain heroes who would not consent to having their identities revealed. Since the act had not yet become law, the Captain dismissed her command as politically skewed, saying that heroes needed to "stay above" such affairs. Following Captain America's refusal, Hill summoned a battalion of soldiers armed with tranquilizers. Left with no other choice, Captain America fought his way out of the Helicarrier, becoming a fugitive.{{r|Civil War #1}}{{r|Marvel Team-Up Vol 3 #20}} As S.H.I.E.L.D. Director, Hill was one of the leading enforcers of the Superhuman Registration Act, a task she carried out with relish and absolute ruthlessness. She blackmailed [[Simon Williams (Earth-616)|Wonder Man]] into actively supporting S.H.I.E.L.D.'s crusade to hunt down the super-heroes opposed to the Registration Act. She sent [[Kree]] supersoldier [[Noh-Varr (Earth-200080)|Noh-Varr]], already brainwashed, to capture the [[Runaways (Earth-616)|Runaways]]{{r|New Avengers #25}} and directed the murderous [[Thunderbolts (Earth-616)|Thunderbolts]] to capture [[Peter Parker (Earth-616)|Spider-Man]] after he went rogue.{{r|Civil War #2}}
+
+After foiling an attack on [[Stark Tower]], Maria Hill admitted to Tony Stark (with the film A Few Good Men in mind; she had tried to make this exact speech a few weeks prior to this following their skirmish with Magneto) that she didn't want her job as director of S.H.I.E.L.D. and thought she shouldn't have been offered it in the first place. She suggested that the only other person besides Nick Fury who should lead the organization was Stark himself.{{r|New Avengers #25}} At the conclusion of the [[Civil War (Event)|first superhero Civil War]], the president of the United States appointed Tony Stark the new director of S.H.I.E.L.D., with Maria Hill as his acting deputy director. Stark seemed somewhat dismissive of her, offhandedly asking her to get him a cup of coffee. She did not seem pleased.{{r|Civil War #7}}
+
+===Secret Invasion===
+When the alien [[Deviant Skrulls|Skrulls]] attacked the Earth as part of their long-term [[Secret Invasion|secret invasion]], Maria Hill abandoned the S.H.I.E.L.D. Helicarrier after its systems had been infected by a Skrull posing as the Avengers' butler, [[Edwin Jarvis (Earth-616)|Edwin Jarvis]].{{r|Secret Invasion #1}}
+
+Later, Maria reunited with [[Nicholas Fury (Earth-616)|Nick Fury]] who had not been seen in many months. Fury suspected Hill of being a Skrull, but this was later shown to not be the case.{{r|Mighty Avengers #18}}
+
+===Dark Reign===
+Following the Secret Invasion, S.H.I.E.L.D. was decommissioned and Maria was let go. The organization was replaced with a new peacekeeping agency known as [[H.A.M.M.E.R. (Earth-616)|H.A.M.M.E.R.]]. The group's new director, [[Norman Osborn (Earth-616)|Norman Osborn]], knew that Maria was still colluding with Tony Stark after the latter deleted that Superhuman Registration Act database, and declared her a fugitive of justice.{{r|Invincible Iron Man Vol 2 9}}
+
+Maria was sent on a mission by Tony, having found the [[Basil Sandhurst (Earth-616)|Controller]] holed up in the basement of Futurepharm, hooked into a large machine holding many people in containers.{{r|Invincible Iron Man Vol 2 11}} She herself fell victim and was placed under his control. She eventually fought off his control and freed his mind slaves and managed to acquire the hard drive Stark sent her for. She then made her way to New York, where she enlisted the aid of a reluctant [[Natalia Romanova (Earth-616)|Black Widow]] in delivering the drive to [[James Buchanan Barnes (Earth-616)|Captain America (Bucky Barnes)]]. Unfortunately, the trauma during her time as a thrall of the Controller made her paranoid and disturbed.{{r|Invincible Iron Man Vol 2 #14|17}}
+
+While trying to deliver the drive, H.A.M.M.E.R., having intercepted an email sent from Stark to Hill, captured them and locked them in Avengers Tower. Luckily, Pepper Potts, disguised as Madame Masque, rescued them. After managing to steal back the drive, Maria demanded to the H.A.M.M.E.R. agents waiting to shoot as to why they should take orders from a madman like Osborn, thus the agents let them leave.{{r|{{cl|Invincible Iron Man Vol 2 18}}-[[Invincible Iron Man Vol 2 19|19]]}}
+
+===[[Siege]]===
+Maria was looking after an unconscious Tony Stark with [[Donald Blake (Earth-616)|Doctor Don Blake]] when all of a sudden an explosion happened nearby from the neighboring town of [[Broxton]], [[Oklahoma (State)|Oklahoma]] - Don Blake left to protect [[Asgard (City)|Asgard]]. Later on, when [[Thor Odinson (Earth-616)|Thor]] was beaten down by Osborn and his [[Dark Avengers (Earth-616)|Dark Avengers]], Hill showed up with a local named Jason to rescue him. She launched many bazooka rounds on Osborn and laid down cover fire for Jason to grab Thor. Later, she transmitted images and reports on Asgard to the President. She then went back to Stark to protect him when [[Thomas Shepherd (Earth-616)|Speed]] arrives with the [[Iron Man Armor MK III|Iron Man Armor]].{{r|Siege #2|3}}{{r|Invincible Iron Man Vol 2 24}}
+
+===Heroic Age===
+[[File:Maria Hill (Earth-616) from Avengers Vol 4 1 0001.jpg|thumb|left|Maria Hill as an Avenger]]
+After Osborn's reign was over, Hill was put in charge of the Avengers.{{r|Avengers Vol 4 1}} She was later replaced by [[Steven Rogers (Earth-616)|Captain America (Steve Rogers)]] when the war against [[Cul Borson (Earth-616)|the Serpent]] was over.{{r|Avengers Vol 4 18|19}}
+
+===Return to S.H.I.E.L.D.===
+After the attack of the Serpent was over, Rogers decided to reactivate S.H.I.E.L.D., with Maria again in the charge of deputy director.{{r|Secret Avengers Vol 2 1}} After director [[Daisy Johnson (Earth-616)|Daisy Johnson]] broke the protocols by sending the [[Secret Avengers (S.H.I.E.L.D.) (Earth-616)|Secret Avengers]] to kill [[Advanced Idea Mechanics (Earth-616)|A.I.M.]] leader [[Andrew Forson (Earth-616)|Andrew Forson]], Quake was suspended indefinitely and Maria was put in charge of S.H.I.E.L.D. once more.{{r|Secret Avengers Vol 2 5}}
+
+Fueled by his desire to make up for all the destruction he caused as the Hulk, [[Bruce Banner (Earth-616)|Bruce Banner]] approached Hill and offered to lend S.H.I.E.L.D. the Hulk's destructive capacity in exchange for resources to make inventions to benefit mankind. To ensure S.H.I.E.L.D. wouldn't try anything against him, he had an insurance policy: if he didn't call his secret contact [[Matthew Murdock (Earth-616)|Matt Murdock]] every week, he would release to the world documents which could seriously damage the U.S. Government. Hill agreed to his proposal.{{r|Indestructible Hulk Vol 1 1}} Both sides kept their promises until Bruce was shot twice in the head by a lab assistant named [[Melinda Leucenstern (Earth-616)|Melinda Leucenstern]], who was acting under orders from the group [[Brotherhood of the Shield (Earth-616)|Brotherhood of the Shield]].{{r|Indestructible Hulk Vol 1 20}}{{r|Hulk Vol 3 8}}
+
+===Pleasant Hill===
+Following the final reality-threatening event known as an [[Glossary:Incursion|incursion]], Maria Hill initiated a program known as the Kobik Initiative, which consisted on the use of [[Cosmic Cube]] fragments to rewrite reality as S.H.I.E.L.D. could deem necessary without public knowledge. Several weeks later, the existence of this project was leaked to the public by the hacktivist known as [[Richard Jones (Earth-616)|the Whisperer]]. The program was met with universal criticism, forcing Hill to shut it down and destroy the Cosmic Cube fragments,{{r|Captain America: Sam Wilson #2}} or at least that was what she made the world believe.
+
+The Kobik Initiative carried on in utmost secrecy. When the Cube fragments were being experimented on, they abruptly merged together into a sentient being with its consciousness so fractured it manifested itself as a small girl, the girl became known as [[Kobik (Earth-616)|Kobik]]. While Kobik wouldn't be used to rewrite reality in a global scale, she became the power behind a new project, known as [[Pleasant Hill]]. Pleasant Hill was a small town in [[Connecticut (State)|Connecticut]] which served as a special prison for super villains. The inmates had their memories and appearances tampered with by Kobik's power, turning them into productive members of society, living a happy suburban life in Pleasant Hill. Maria Hill oversaw the prison by posing as the Mayor.{{r|Avengers Standoff: Welcome to Pleasant Hill #1}}
+
+The Whisperer tipped off [[Samuel Wilson (Earth-616)|Captain America (Sam Wilson)]] over the town while the [[James Buchanan Barnes (Earth-616)|Winter Soldier]] warned Steve Rogers about the town, just in time for Maria to pick him up and take him to Pleasant Hill in an attempt to convince him it was a good cause. Despite her reassurances, Steve proved to be disgusted by the place and ordered her to have it shut down. Before anything could come to that, a group of villains that had reverted back to their normal selves, led by [[Helmut Zemo (Earth-616)|Baron Zemo]], began a revolt, gravely wounded Maria during an attack at the main S.H.I.E.L.D. outpost in the town hall.{{r|Avengers Standoff: Assault On Pleasant Hill Alpha #1}}
+
+Knowing Maria wouldn't survive too much longer, Steve convinced Zemo to allow him to get Maria medical attention. With the aid of a priest named Father Patrick (who was actually the [[Johann Shmidt (Clone) (Earth-616)|Red Skull]] in disguise), Steve was able to get Maria to a doctor within the town.{{r|Captain America: Sam Wilson #7}} However, Maria attempted to escape only to be recaptured and returned to Zemo. Whatever plans he had were scuttled when the [[Avengers (Earth-616)|Avengers]] and the [[Avengers Unity Division (Earth-616)|Avengers Unity Division]] worked together to rescue the hostages and end the standoff.{{r|Avengers Standoff: Assault On Pleasant Hill Omega #1}}
+
+===The Trial of Maria Hill===
+Soon afterwards, Hill was brought before the [[World Security Council (Earth-616)|World Security Council]], and was reprimanded for her incompetence. For her actions, Maria Hill was placed on administrative watch only acting as Director of S.H.I.E.L.D. while the World Security Council decided if she should be brought before a tribunal.{{r|Avengers Standoff: Assault On Pleasant Hill Omega #1}}
+
+A tribunal was eventually held by the World Security Council to determine if Hill should remain as Director of S.H.I.E.L.D.. Even though Hill brought in several civilian witnesses who provided compelling testimonies in her favor, [[Steven Rogers (Earth-61311)|Captain America]]'s attestation represented a major hit against Hill. In a final attempt to convince the tribunal, she proposed the creation of the [[Planetary Defense Shield]]. She additionally argued that the then-current state of affairs in the world meant that the transition between directors could represent a liability for S.H.I.E.L.D.'s efficacy.{{r|Captain America: Steve Rogers Vol 1 9}} In spite of her testimony, the Council ruled that Hill be removed.
+
+While being escorted out of the Helicarrier, Hill made her escape with the plans for the planetary force field and took them to the [[Alpha Flight (Space Program) (Earth-616)|Alpha Flight]] space initiative on a [[S.H.I.E.L.D. Flying Car|flying car]],{{r|Captain America: Steve Rogers Vol 1 10}} subsequently running off.{{r|Civil War II: The Oath Vol 1 1}}
+
+Following her outing, Hill's self-imposed hit came into effect.{{r|Jessica Jones Vol 2 12}} After avoiding several murder attempts, and without the knowledge she was the person behind it, Maria came to the aid of super-powered private investigator [[Jessica Jones (Earth-616)|Jessica Jones]].{{r|Jessica Jones Vol 2 7}} Jessica eventually learned the truth, and so did Maria.{{r|Jessica Jones Vol 2 11}} Hill shut down the hit, remarking that her past self was an angrier and more self-righteous person who naively thought the deaths of Agents Reynolds and Bradley were as bad as it was going to get.{{r|Jessica Jones Vol 2 12}}
+
+===Rubicon Trigger===
+Hill began working on the Rubicon Trigger, an old H.A.M.M.E.R. mainframe for some unknown purpose. However, she was then apparently killed by someone for this, who had [[Anthony Masters (Earth-616)|Taskmaster]] framed for her murder.{{r|Taskmaster Vol 3 1}} After Taskmaster gained the Kinesic signatures of [[Phillip Coulson (Earth-616)|Phil Coulson]], [[Ami Han (Earth-616)|Ami Han]], and [[Okoye (Earth-616)|General Okoye]], she appeared alive, stopping [[Natalia Romanova (Earth-616)|Black Widow]] from killing Taskmaster. She explained that she had faked her assassination and framed Taskmaster in order to get him to retrieve the Kinesic signatures, with which she could destroy the Rubicon Trigger.{{r|Taskmaster Vol 3 5}}
+
+| Powers                  = 
+| Abilities               = Trained S.H.I.E.L.D. agent, experienced in espionage, hand-to-hand combat and the use of a variety of weapons.
+| Strength                = Possesses the normal strength for a woman of her complex reinforced with continuous exercises.
+| Weaknesses              = 
+
+| Equipment               = [[Life-Model Decoy]]s
+| Transportation          = 
+| Weapons                 = Handguns
+
+| Notes                   = * [[Joe Quesada|Joe Quesada]]: "''Hill is such a strong personality, she's like a force of nature and quite frankly, while perhaps not immediately loved by all involved, she's certainly as strong and imposing a figure as Nick Fury. Right now I feel that people view her as the outsider but while I don't think she’s any harsher than Fury has ever been, what's different is that we aren't quite clear about her motives''".
+* In {{cl|New Avengers #4}}, Tony Stark addresses Hill as "Agent Hill," and she quickly corrects him, saying "''Special'' Agent Hill ''and'' Acting Director of S.H.I.E.L.D."; the heads-up display identifies her as "Maria Hill, S.H.I.E.L.D. Deputy Director" and "Super Power Division Class 8."
+* She was promoted to S.H.I.E.L.D. agent level nine while becoming S.H.I.E.L.D. director,{{r|Marvel Fact Files #7}} and had the Code clearance white at least six hour after the one-year-anniversary/retaliation of [[Lucia von Bardas (Earth-616)|Lucia von Bardas]] for the [[Secret War]].{{r|Secret War #5}}
+* In {{cl|Avengers Standoff: Assault On Pleasant Hill Omega Vol 1 1}} (released in 2016), Hill mentions to have grown up during [[Ronald Reagan (Earth-616)|Ronald Reagan]]'s presidency, which indicates she's meant to be in her mid-to-late thirties.
+| Trivia                  = * Hill's favorite pizza is Vinnie's of Savannah, Georgia.{{r|Avengers A.I. #6}}
+* Maria had a crush on [[Scott Summers (Earth-616)|Cyclops]].{{r|Uncanny X-Men Vol 3 20}}
+* Maria played Fantasy Football.{{r|Spider-Man Vol 2 11}}
+* [[Peter Parker (Earth-616)|Spider-Man]] measured the severity of disasters and international incidents on a scale of 1 to 5 Maria Hills.{{r|Amazing Spider-Man Vol 5 34}}
+| Links                   = 
+}}
+[[Category:Weapons Expert]]
+[[Category:S.H.I.E.L.D. Agents Level 9]]
+[[Category:Code Clearance White]]
+[[Category:Shooting]]
+[[Category:Martial Arts]]
+[[Category:Government Agents]]
+[[Category:S.H.I.E.L.D. Directors]]
+[[Category:Fantasy Football Users]]
+[[Category:Spies]]

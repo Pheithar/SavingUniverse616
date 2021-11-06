@@ -1,0 +1,168 @@
+{{Marvel Database:Character Template
+| Image                   = Paige Guthrie (Earth-616) from Fallen Angels Vol 2 6 cover 001.jpg
+| Name                    = [[Paige Guthrie|Paige Elisabeth Guthrie]]
+| NameRef                 = {{r|Official Handbook of the Marvel Universe A-Z Vol 1 5}}
+| CurrentAlias            = [[Husk]]
+| Nicknames               = Hayseed{{r|Generation X Vol 1 1}}
+| Aliases                 = 
+
+| Affiliation             = Formerly {{M|X-Men}}, {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}} ({{m|S.H.I.E.L.D. Non-Human Resources Department|Non-Human Resources Department}}), {{M|Hellfire Academy}}, {{M|Mutantes Sans Frontières}}, {{M|X-Corps}}, {{M|Generation X}}
+| Parents                 = [[Thomas Zebulon Guthrie (Earth-616)|Thomas Guthrie]] (father, deceased);<br>
+[[Lucinda Guthrie (Earth-616)|Lucinda Guthrie]] (mother)
+| Siblings                = [[Samuel Guthrie (Earth-616)|Samuel Guthrie (Cannonball)]] (brother);<br>
+[[Joshua Guthrie (Earth-616)|Joshua Guthrie (Icarus)]] (brother);<br>
+[[Melody Guthrie (Earth-616)|Melody Guthrie (Aero)]] (sister);<br>
+[[Jebediah Guthrie (Earth-616)|Jebediah Guthrie]] (brother);<br>
+[[Elizabeth Guthrie (Earth-616)|Elizabeth Guthrie]] (sister);<br>
+[[Joelle Guthrie (Earth-616)|Joelle Guthrie]] (sister);<br>
+[[Lewis Guthrie (Earth-616)|Lewis Guthrie]] (brother);<br>
+[[Cissie Guthrie (Earth-616)|Cissie Guthrie]] (sister);<br>
+unnamed sister;<br>
+[[Raymond, Jr. (Earth-616)|Ray Jr.]] (foster brother)
+| Relatives               = [[Lucas Guthrie (Earth-616)|Lucas Guthrie]] (paternal uncle);<br>
+Bonnie (maternal 1st cousin once removed);{{r|X-Force #83}}<br>
+[[Isabel Kane (Earth-616)|Izzy Kane]] (sister-in-law)<br>
+[[Josiah Guthrie (Earth-616)|Josiah Guthrie]] (nephew)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z Vol 1 5}}
+| Gender                  = Female
+| Height                  = 5'7"; Variable
+| Weight                  = 128 lbs; Variable
+| Eyes                    = Blue; Variable
+| Hair                    = Blonde; Variable
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Guthrie Farmhouse]], [[Cumberland County]], [[Kentucky (State)|Kentucky]]{{r|Official Handbook of the Marvel Universe A-Z Vol 1 5}}
+| CauseOfDeath            = Killed in an explosion{{r|House of X Vol 1 4}} (resurrected by “[[Five (Earth-616)|The Five]]”){{r|House of X Vol 1 5}}
+
+| Identity                = Secret
+| Citizenship             = American, Krakoan
+| Occupation              = Adventurer; former guidance counselor, librarian, lunch-lady, teacher, student, activist
+| Education               = High School graduate at Xavier Institute; PhD applicant{{r|Generation X Vol 2 8}}
+| BaseOfOperations        = '''[[Krakoa (Earth-616)|Krakoa]]''';{{r|House of X Vol 1 5}}<br>
+formerly:
+*[[Xavier's School for Gifted Youngsters|Summers Institute for Higher Learning]], [[Age of X-Man (Plane)|Age of X-Man]]{{r|Age of X-Man: Nextgen Vol 1 1}}
+*[[Xavier's School for Gifted Youngsters|Xavier Institute for Mutant Education and Outreach]], [[Central Park]], [[New York (State)|New York]];{{r|Generation X Vol 2 8}}
+*[[Xavier's School for Gifted Youngsters|Jean Grey School for Higher Learning]], [[Salem Center]], New York;{{r|Nightcrawler Vol 4 4}}
+*[[Utopia (X-Men Base)|Utopia]];{{r|New Mutants Vol 3 25}}
+*[[Massachusetts Academy]]{{r|Generation X Vol 1 1}}
+*[[Guthrie Farmhouse]], [[Kentucky (State)|Kentucky]]{{r|Generation X Vol 1 24}}
+
+| Creators                = Bill Mantlo; William Johnson
+| First                   = Rom Annual #3
+
+| History                 = 
+===Early Life===
+After her older brother [[Samuel Guthrie (Earth-616)|Sam]]'s mutant powers manifested and he joined the New Mutants, Paige tried many things to discover whether she was also a mutant, but became frustrated after many failures. Venting her anger, Paige finally found that her power was to shed her skin.{{r|Generation X Vol 1 24}}
+
+She kept her nature secret until the day Sam and his [[X-Force (Earth-616)|X-Force]] teammate [[Tabitha Smith (Earth-616)|Boom Boom]] visited the farm. They were abducted by the Fenris twins as part of the "Younghunt," a contest involving the capture of young mutants. The X-Force teamed up with the New Warriors, whose member Firestar had also been captured. Together they opposed the organizer of the contest, the Gamesmaster. Paige secretly followed them and confronted the Gamesmaster, defeating him in a game of wits.{{citation}}
+
+===Generation X===
+Soon after, Paige was kidnapped by the techno-organic alien [[Phalanx (Race)|Phalanx]], who sought to learn how to assimilate mutants into their collective.{{r|X-Men Vol 2 36}} Paige and her fellow abductees were rescued by an ad-hoc X-Men team, and subsequently became founding members of [[Generation X (Earth-616)|Generation X]], a team of mutants enrolled at the new Massachusetts branch of Xavier's School.{{r|X-Men Vol 2 37}}{{r|Uncanny X-Men Vol 1 318}}
+[[File:Paige Guthrie (Earth-616) and Jonothon Starsmore (Earth-616) from Generation X Vol 1 5 001.jpg|thumb|left|180px|With Jono]]
+
+During her time there, Paige studied to become a better X-Man than Sam.{{r|Generation X Vol 1 1}}{{r|Uncanny X-Men Annual #1995}} She also romanced her teammate [[Jonothon Starsmore (Earth-616)|Chamber]], although their relationship was strained and terminated more than once because of his self-sabotaging.{{r|Generation X Vol 1 5|7}}{{r|Generation X Vol 1 23}}{{r|Generation X Vol 1 30}}{{r|Generation X Vol 1 44}}{{r|Generation X Vol 1 48}}
+
+===Xavier Institute===
+Some time after the school was closed, Paige was recruited by her former headmaster [[Sean Cassidy (Earth-616)|Banshee]] into his paramilitary [[X-Corps (Earth-616)|X-Corps]].{{r|Uncanny X-Men Vol 1 403|406}} After that group was dismantled, Paige went to study at the re-established Xavier Institute. Her interest in environmental issues led to her discovering corruption within Worthington Enterprises, the company owned by the X-Man [[Warren Worthington III (Earth-616)|Archangel]]. Investigating, she and Archangel encountered the Dominant Species, and she was almost killed. Archangel saved her with his healing ability, after which they became romantically involved.{{citation}}
+
+[[File:Uncanny X-Men Vol 1 439 Textless.jpg|thumb|right|180px|With Angel]]
+Having finally graduated to the ranks of the X-Men, Paige later aided Archangel in establishing the global mutant outreach program [[Mutantes Sans Frontières (Earth-616)|Mutantes Sans Frontières]]. Setting up office in [[Zanzibar]], they became involved in an attempt by the [[Hellfire Club (Earth-616)|Hellfire Club]] to destabilize the country by employing the mercenary [[Weaponeers (Earth-616)|Weaponeers]]. Alongside the country's President, who was secretly the superhero [[Jono Baraka (Earth-616)|Askari]], as well as reinforcements from [[Genosha]], the heroes managed to repel the invaders.{{citation}}
+
+Her younger brother [[Joshua Guthrie (Earth-616)|Josh]] later joined the [[New Mutants Squad (Earth-616)|New Mutants Squad]] under the codename [[Joshua Guthrie (Earth-616)|Icarus]].{{r|New X-Men Vol 2 2}}{{r|New X-Men Vol 2 6}} Her sister [[Melody Guthrie (Earth-616)|Melody]] also joined the school as Aero after discovering she could fly, but was depowered on [[Decimation|M-Day]],{{r|New X-Men Vol 2 20}} although Paige herself retained her powers.{{r|X-Men: The 198 Files Vol 1 1}}
+
+===San Francisco===
+Husk later clashed with the [[Office of National Emergency|O*N*E]] after they attempted to confiscate her personal items, and hacked into their computers in retaliation. Following the murder and subsequent funeral of her brother [[Joshua Guthrie (Earth-616)|Jay]], Husk returned home to Kentucky before re-joining the X-Men in [[San Francisco]] to help repel the [[Secret Invasion|Skrulls invasion]]. She was also seen in Utopia, fighting against [[Norman Osborn (Earth-616)|Norman Osborn]]'s [[Dark Avengers (Earth-616)|Dark Avengers]].{{citation}}
+
+===Necrosha===
+During the Necrosha event, Husk was part of the team that was sent to Muir Island to investigate.{{r|X-Men: Legacy Vol 1 231}} Paige fought,{{r|X-Men: Legacy Vol 1 232}} but she too was possessed by the villain Proteus, who gained the ability to possess more than just one host. While possessing her, he demonstrated husking into a flaming form. Eventually, Paige was freed from Proteus, and he was defeated by Magneto.{{r|X-Men: Legacy Vol 1 233}}
+
+===Second Coming===
+Later, she was seen in the San Francisco Subway, fighting Nimrods alongside [[Dominikos Ioannis Petrakis (Earth-616)|Avalanche]], [[Roberto Da Costa (Earth-616)|Sunspot]], and [[Tabitha Smith (Earth-616)|Boom-Boom]]. As the team seemed to be struggling with the Nimrod, Paige tried Husking into a corrosive form to try and corrode the Nimrod. The robot used his technology to get used to this form and literally ripped it from her body. It took the combined efforts of the whole team to defeat the robot. But just as it was destroyed, two more arrived and the team was forced to fight. Later, it seemed the team defeated the Nimrods in the tunnels as Paige joined the fight on the Golden Gate Bridge where she witnessed the defeat of the Nimrods, wondering what had caused them to malfunction.{{citation}}
+
+===Curse of the Mutants===
+After Paige's old teammate [[Jubilation Lee (Earth-616)|Jubilee]] was turned into a vampire, Paige made it her mission to find her. Pretending to be a helpless girl, she let a vampire take her to an abandoned warehouse where he tried to bite her. However, under her skin, she assumed a wooden form. Throwing him off her, she demanded to know where Jubilee was. The lights turned on, revealing a group of vampires in the room. After they refused to give her information, Paige shredded her skin to reveal the wooden, spiked form. She attacked the vampires, staking them with her arms and legs, one by one, but they didn't have any information on her friend.{{r|X-Men: Curse of the Mutants - X-Men vs. Vampires Vol 1 1}}
+
+After this, Paige returned to Utopia where she joined the strike force against the vampires. Paige yet again assumed her spiked, wooden form and took down several vamps before she was taken out by a possessed [[James Howlett (Earth-616)|Wolverine]].{{r|X-Men Vol 3 5 }}
+
+===Regenesis===
+Paige was with the mutants who chose to side with Wolverine in the aftermath of his climactic battle with [[Scott Summers (Earth-616)|Cyclops]] for leadership of the X-Men. She seemed content to turn her back on the life of a soldier that she had been living. It was during a conversation with Sam that she seemed to make the final decision of accompanying her brother. After she left, he revealed to [[Danielle Moonstar (Earth-616)|Dani Moonstar]] that Paige's powers hadn't been working correctly and that she had been molting everywhere.{{r|X-Men: Regenesis Vol 1 1}}
+
+Paige joined the [[Xavier's School for Gifted Youngsters|Jean Grey School for Higher Learning]] as a Junior staff member, teaching History of Mutant Art and Mutant Literature. On the first day of school, Paige had to 'husk' into a more aggressive form and shout at her students in order to make them start paying attention to her.{{r|Wolverine and the X-Men Vol 1 1}} Later during the class, the school was attacked by the [[Hellfire Club (Earth-616)|Hellfire Club]] and Paige had to husk once again, this time into her fire form, to eliminate the threats and protect her students.{{r|Wolverine and the X-Men Vol 1 2}} Once the threat was dealt with, she was seen holding a class outside, thanking [[Krakoa III (Earth-616)|Krakoa]] for the shade it provided.{{r|Wolverine and the X-Men Vol 1 3}}
+
+[[File:Paige Guthrie (Earth-616) and Mortimer Toynbee (Earth-616) from Wolverine and the X-Men Vol 1 15 001.jpg|180px|thumb|left|Spending time with Toad.]]
+At a faculty meeting a week later, Paige tried to express her insecurity about teaching and shared that the kids weren't listening to her, but she was ironically cut off by [[Henry McCoy (Earth-616)|Beast]] before she could finish.{{r|Wolverine and the X-Men Vol 1 4}} As her condition worsened, her relationship with her brother Sam also suffered some setbacks.{{r|X-Men: Legacy Vol 1 260.1}}{{r|Wolverine and the X-Men Vol 1 9}} The only person she was close to during this time was [[Mortimer Toynbee (Earth-616)|Toad]], the janitor, who had impressed her by rescuing a student{{r|Wolverine and the X-Men Vol 1 9}} and had gone on a few dates with her.{{r|Wolverine and the X-Men Vol 1 15}}
+
+===Hellfire Academy===
+Eventually, she quit the school, believing Kitty would fire her,{{r|Wolverine and the X-Men Vol 1 18}} and joined the [[Hellfire Academy (Earth-616)|Hellfire Academy]]. Seemingly in love with Toad, she also made him betray the School and recruit [[Quintavius Quire (Earth-616)|Quentin Quire]], [[Robert Herman (Earth-616)|Glob Herman]], and [[Idie Okonkwo (Earth-616)|Idie]].{{r|Wolverine and the X-Men Vol 1 30}}
+
+At the Academy, she assumed the functions of lunch-lady, librarian, and hall monitor, enjoying screaming at the students. She also humiliated Toad, sending him back to his previous job as janitor.{{r|Wolverine and the X-Men Vol 1 31}}
+
+[[File:Paige Guthrie (Earth-616) from Wolverine and the X-Men Vol 1 31 0001.png|180px|thumb|right|Shouting at the students.]]
+When the Hellfire Academy fell under the assault of Wolverine and his teachers, seeking to rescue their students, Husk fought against Toad and Quire, who were trying to escape. Husk charged against Toad and hit him with everything she had, but Toad refused to fight back against her. After seeing she couldn't be reasoned with, however, he apologized and began ripping layer after layer of her skin, until she finally regained her senses. Unfortunately, she also lost the memories of her relationship with him.{{r|Wolverine and the X-Men Vol 1 32|35}} 
+
+After the battle, she was allowed to return to the Jean Grey School as the new guidance counselor, but the rest of the staff didn't trust Toad anymore and told him to leave. Before his departure, Paige asked him out so she could get to know him again, but he was afraid she'd realize she was too good for him and instead left for parts unknown with [[Maximilian Frankenstein (Earth-616)|Doctor Frankenstein]], after the teenager escaped from the school. Paige was shaken that he'd leave her without saying goodbye, but chose to focus on getting her mood change under control and excelling in her new position at the school.{{r|Wolverine and the X-Men Vol 1 41}}
+
+===S.H.I.E.L.D.===
+Husk start moonlighting for [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] [[S.H.I.E.L.D. Non-Human Resources Department (Earth-616)|Non-Human Resources Department]] at [[Tabula Rasa (Montana)|Tabula Rasa]]. After S.H.I.E.L.D. was dismantled, she remained there to care after the fauna, but they were soon disturbed by "Fakepool" (<!-- possibly -->the [[Dmitri Smerdyakov (Earth-616)|Chameleon]] posing as [[Wade Wilson (Earth-616)|Deadpool]], stealing and selling S.H.I.E.L.D. weapons). She teamed up afterwards with Deadpool and [[Peter Parker (Earth-616)|Spider-Man]], coming under attack by "Fakepool" and the creatures of Tabula Rasa.{{r|Spider-Man/Deadpool Vol 1 24}}
+
+===Back to School===
+While working on her Ph.D., Paige returned to [[Xavier's School for Gifted Youngsters|Xavier's Institute]]. She helped out in the counseling office and worked with [[Roxanne Washington (Earth-616)|Bling!]] to overcome her insecurities.{{r|Generation X Vol 2 8}} After [[Krakoa (Earth-616)|Krakoa]]'s arrival in Manhattan caused the Museum of Natural History to collapse, Husk helped find Jubilee and Bling! in the rubble.{{r|Generation X Vol 2 9}} Later, along with Jubilee and Chamber, she helped take down [[Monet St. Croix (Earth-616)|Monet]] while she was possessed by her [[Marius St. Croix (Earth-616)|brother]].{{r|Generation X Vol 1 87}}
+
+===Age of X-Man===
+Husk was one of the many mutants that opposed the crazed [[Nathaniel Grey (Earth-295)|X-Man]] from remaking the world in his image. When X-Man realized that his vision of the world would never come about with the X-Men around, X-Man made his enemies vanish in an instant, including Husk.{{r|Uncanny X-Men Vol 5 9|10}}
+[[File:Paige Guthrie (Earth-616) from Age of X-Man Nextgen Vol 1 1 001.png|180px|thumb|left|In the Age of X-Man reality.]]
+
+Husk and the mutants that vanished were sent to a [[Age of X-Man (Plane)|different reality]] created by [[Nathaniel Grey (Earth-295)|Nate Grey]] and a [[Life Seed]], a world where everyone on Earth was a mutant and relationships were strongly discouraged or illegal.{{r|Age of X-Man Alpha Vol 1 1}}
+
+Husk became a teacher in the Agricultural Division at the [[Xavier's School for Gifted Youngsters|Summers Institute for Higher Learning]]. She was showing some students, like [[Robert Herman (Earth-616)|Glob Herman]] and [[Iara Dos Santos (Earth-616)|Shark-Girl]], that it fell to them to nurture the produce and livestock they manufactured there, so that their community could prosper from it.{{r|Age of X-Man: Nextgen Vol 1 1}}
+
+While not seen, Husk was presumably allowed to return to the real world when X-Man decided to release the mutants he trapped in his reality.{{r|Age of X-Man Omega Vol 1 1}}
+
+===House of X===
+At some point, Paige was invited to the Mutant nation of [[Krakoa (Earth-616)|Krakoa]], created by [[Charles Xavier (Earth-616)|Charles Xavier]], [[Max Eisenhardt (Earth-616)|Magneto]], and [[Moira MacTaggert (Earth-TRN748)|Moira X]]. While there, she joined Cyclops' team on a mission to destroy [[Mother Mold (Earth-616)|Mother Mold]] before the creation of [[Nimrod (Earth-811)|Nimrod]]. The whole team was killed, but not before they managed to destroy Mothermold.{{r|House of X Vol 1 3|4}}
+[[File:Paige Guthrie (Earth-616) from House of X Vol 1 3 001.png|right|left|180px]]
+
+The team was later resurrected by a group of mutants known as “[[Five (Earth-616)|the Five]]”, who were able to transfer the deceased X-Men's minds into cloned bodies. As they were reborn, they were later proclaimed as heroes of Krakoa.{{r|House of X Vol 1 5}}
+
+| Powers                  = * '''Transitional Omni-morph:''' Husk has the mutant ability to shed her outer layer of skin and reveal a new state or shape underneath. Her power can cause random changes if she activates it without thinking, but by concentrating on specific chemical or elemental formulas, she can control the nature of her transformation.{{r|Generation X Vol 1 4}} She can become any solid that she has studied and can imitate metal,{{r|X-Men Vol 2 37}} diamond,{{r|Generation X Vol 1 2|3}} granite,{{r|Generation X Annual Vol 1 1995}} wood,{{r|X-Men: Curse of the Mutants - X-Men vs. Vampires VOl 1 1}} rubber,{{r|Excalibur Vol 3 11}} and even glass.{{r|Generation X Vol 1 51}} Morphing has caused her to take on various powers such as:
+** '''Superhuman Strength'''{{r|Official Handbook of the Marvel Universe A-Z Vol 1 5}}
+** '''Superhuman Speed'''{{r|Official Handbook of the Marvel Universe A-Z Vol 1 5}}
+** '''Flame projection'''{{r|Official Handbook of the Marvel Universe A-Z Vol 1 5}}
+* When Paige sheds the outer layer of her skin she can husk away sweat, grime, or minor injuries, but deeper ones will stay with her.{{r|Generation X Vol 1 1}} She can hold a form for about an hour before she needs to revert back to her original form. She can morph repeatedly and is not required to stay in any one form, but too many transformations can become very painful. In great stress or trauma, Paige can shed without control, revealing patchwork forms. When Paige ‘husks’, she often sheds her clothing as well. This has the unintended side effect of leaving her nude when she returns to her normal form.{{r|Uncanny X-Men Vol 1 420}}
+
+* [[Secondary Mutation]]: Her powers cause excessive mood swings that cause her to act out and have blackouts.{{r|Wolverine and the X-Men Vol 1 41}}
+
+| Abilities               = Husk is adept at the programming and operation of computers, including computer hacking which she has a known reputation for.{{r|Generation X Vol 1 74}}{{r|Uncanny X-Men Vol 1 469}}
+| Strength                = At her strongest, she appears to have Class 10 strength.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 5}}
+| Weaknesses              = '''Insanity & depression:''' For a few months, Paige proved to be psychologically unstable, with gradual physical evidences due to her mutation, first molting{{r|X-Men: Regenesis Vol 1 1}}{{r|Wolverine and the X-Men Vol 1 1}} and later combining multiple skin forms simultaneously.{{r|Wolverine and the X-Men Vol 1 30}} The power and personality swings appeared related, as she was able to change personality just by shedding her skin. It was later stated that those blackout and personality swings were due to a [[Secondary Mutation]].{{r|Wolverine and the X-Men Vol 1 41}}
+
+| Equipment               = 
+| Transportation          = "Jerry", a feathered steed from [[Tabula Rasa (Montana)|Tabula Rasa]].{{r|Spider-Man/Deadpool Vol 1 24}}
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = * Husk appears to be extremely intolerant to alcohol. She is seen becoming drunk after drinking just one bottle of beer.{{r|Generation X Vol 1 5}}
+* Husk is currently the only mutant in the Guthrie family whose powers don't allow flight.
+| Links                   = 
+* [http://husk.insanitysandwich.com Perpetual Metamorph - Husk Fansite]
+* [http://uncannyxmen.net/characters/husk uncannyxmen.net Spotlight On... Husk]
+}}
+[[Category:Post-M-Day Mutants (The 198)]]
+[[Category:Shapeshifters]]
+[[Category:Telepathic Immunity]]
+[[Category:Guthrie Family]]
+[[Category:Pyrokinesis]]
+[[Category:Utopians]]
+<!--[[Category:Baptist Characters]] Citation needed-->
+[[Category:Xavier Institute Student]]
+[[Category:Jean Grey School faculty]]
+[[Category:Insanity]]
+[[Category:Depression]]
+[[Category:Secondary Mutations]]
+[[Category:General Threats]]
+[[Category:Age of X-Man participants]]
+[[Category:Strength Class 10]]

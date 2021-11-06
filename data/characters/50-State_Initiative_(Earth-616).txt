@@ -1,0 +1,514 @@
+{{Marvel Database:Organization Template
+| Image                   = Avengers The Initiative Vol 1 1 Textless Joined.jpg
+| Name                    = 50-State Initiative
+| Aliases                 = [[Initiative (Event)|The Initiative]], The Fifty State Initiative, Superhuman Armed Forces,{{r|Avengers: The Initiative #2}} [[Avengers]],{{r|Avengers: The Initiative #16}} [[Skrull Kill Krew]],{{r|Avengers: The Initiative #18}} Thunderbolts Initiative
+
+| OrganizationLeaders     = Formerly [[Richard Gilmore (Earth-616)|Prodigy]] under [[Steven Rogers (Earth-616)|Commander Steve Rogers]]'s instructions; [[Norman Osborn (Earth-616)|Norman Osborn, Director of H.A.M.M.E.R.]]; [[Anthony Stark (Earth-616)|Tony Stark, Director of S.H.I.E.L.D]] & [[Henry Gyrich (Earth-616)|Henry Peter Gyrich, Secretary of the Superhuman Armed Forces]]
+| CurrentMembers          = 
+| FormerMembers           = 
+<br>'''[[Camp H.A.M.M.E.R.]] / [[Camp Hammond]]:'''
+{{Navigation
+| title                  = <br>Staff
+| body                   = [[Wernher von Blitzschlag (Earth-616)|Baron Von Blitzschlag]], [[Joseph Green (Earth-616)|Gauntlet]], [[Patricia Walker (Earth-616)|Hellcat]], [[Henry Gyrich (Earth-616)|Henry Peter Gyrich]], [[Parker Robbins (Earth-616)|Hood]], [[Vance Astrovik (Earth-616)|Justice]], [[Physique (Earth-616)|Physique]], [[Anthony Masters (Earth-616)|Taskmaster]], [[Terrance Ward (Earth-616)|Trauma]], [[Melee (Earth-616)|Melee]], [[James Rhodes (Earth-616)|War Machine]], [[Criti Noll (Earth-616)|"Yellowjacket"]]
+}}
+{{Navigation
+| title                  = <br>Trainees
+| body                   = [[Michael van Patrick (Earth-616)|MVP]], [[Violet Lightner (Earth-616)|Armory]], [[Robert Baldwin (Earth-8101)|Speedball]], [[Fahnbullah Eddy (Earth-616)|Gorilla-Girl]]
+}}
+{{Navigation
+| title                  = <br>[[Shadow Initiative (Earth-616)|Shadow Initiative]]
+| body                   = [[Badd Axe (Earth-616)|Badd Axe]], [[James Santini (Earth-616)|Batwing]], [[Barracuda (Heavy Mettle) (Earth-616)|Barracuda]], [[Duc No Tranh (Earth-616)|Bengal]], [[Blackwing (Heavy Mettle) (Earth-616)|Blackwing]], [[Emery Schaub (Earth-616)|Butterball]], [[Frank Payne (Earth-616)|Constrictor]], [[Firearms (Earth-616)|Firearms]], [[Melati Kusuma (Earth-616)|Komodo]], [[Mary Walker (Earth-616)|Mutant Zero]], [[Keith Kraft (Earth-616)|Ringer]], [[Riot (Heavy Mettle) (Earth-616)|Riot]], [[Stronghold (Heavy Mettle) (Earth-616)|Stronghold]], [[Terrance Ward (Earth-616)|Trauma]], [[Warbow (Heavy Mettle) (Earth-616)|Warbow]]<br>'''[[Scarlet Spiders (Team Red) (Earth-616)|Scarlet Spiders]]:''' [[Michael van Patrick (Patrick) (Earth-616)|Patrick]], [[Michael van Patrick (Van) (Earth-616)|Van]], & [[Michael van Patrick (Michael) (Earth-616)|Michael]]
+
+}}
+'''States Teams:'''
+{{Navigation
+| title                  = <br>[[Alaska Initiative (Earth-616)|Alaska Team]]
+| body                   = [[Patricia Walker (Earth-616)|Hellcat]]
+}}
+{{Navigation
+| title                  = <br>[[Desert Stars (Earth-616)|Desert Stars]] ([[Arizona (State)|Arizona]] Team)
+| body                   = [[John Hashimoto (Earth-616)|Johnny Cool]], [[Edward Black Wolf (Earth-616)|Supermax]], [[Matthew Liebowicz (Earth-616)|Two-Gun Kid]], [[Melati Kusuma (Earth-616)|Komodo]], [[Blacksmith (Earth-616)|"Blacksmith"]]
+}}
+{{Navigation
+| title                  = <br>[[Battalion (Earth-616)|Battalion]] ([[Arkansas (State)|Arkansas]] Team)
+| body                   = [[Jennifer Walters (Earth-616)|She-Hulk]], [[Buford Hollis (Earth-616)|Razorback]], [[Buford Hollis (Skrull) (Earth-616)|"Razorback"]]
+}}
+{{Navigation
+| title                  = <br>[[Order (Initiative) (Earth-616)|Order/Champions]] ([[California (State)|California]] Team)
+| body                   = [[Virginia Potts (Earth-616)|Hera]], [[Henry Hellrung (Earth-616)|Anthem/Apollo]], [[Rebecca Ryan (Earth-616)|Aralune]], [[James Wa (Earth-616)|Calamity/Hermes]], [[Milo Fields (Earth-616)|Supernaut]], [[Magdalena Neuntauben (Earth-616)|Veda]], [[Aphrodite (CSA) (Earth-616)|Aphrodite]], [[Pamela Pierce (Earth-616)|Pierce/Artemis]], [[Avery Allen (Earth-616)|Avona/Athena]], [[Bannerman Green (Earth-616)|Bannerman Green]], [[Bannerman Brown (Earth-616)|Bannerman Brown]], [[Carlos Carvalho (Earth-616)|Corona/Helios]], [[Jamal Peoples (Earth-616)|Maul/Hephaestus]], [[Hercules (CSA) (Earth-616)|Hercules]], [[Dennis Murray (Earth-616)|Heavy/Poseidon]], [[Mulholland Black (Earth-616)|Mulholland Black]]
+}}
+{{Navigation
+| title                  = <br>[[Women Warriors (Earth-616)|Women Warriors]] ([[Delaware (State)|Delaware]] Team)
+| body                   = [[Rachel Leighton (Earth-616)|Diamondback]], [[Quicksand (Nguyet) (Earth-616)|Quicksand]], [[Cleopatra Nefertiti (Earth-616)|Asp]], [[Tanya Sealy (Earth-616)|Black Mamba]], [[Sybil Dvorak (Earth-616)|Skein]]
+}}
+{{Navigation
+| title                  = <br>[[Command (Earth-616)|The Command]] ([[Florida (State)|Florida]] Team)
+| body                   = [[Jennifer Kale (Earth-616)|Jennifer Kale]], [[Wundarr (Earth-616)|Aquarian]], [[John Kelly (Earth-616)|Siege]], [[Conquistador (Command) (Earth-616)|Conquistador]], [[Conquistador II (Command) (Earth-616)|Conquistador II]], [[Devil Dinosaur (Skrull) (Earth-616)|"Conquistador"]]
+}}
+{{Navigation
+| title                  = <br>[[Cavalry (Earth-616)|The Cavalry]] ([[Georgia]] Team)
+| body                   = [[Steven Brooks (Earth-616)|Stunt-Master]], [[Tsu-Zana (Earth-616)|Ultragirl]], [[Wallace Jackson (Earth-616)|Red 9]], [[Tarene (Earth-616)|Thor Girl]], [[Eugene Mason (Earth-616)|Crime-Buster]], [[Tarene (Skrull) (Earth-616)|"Thor Girl"]]
+}}
+{{Navigation
+| title                  = <br>[[Point Men (Earth-616)|The Point Men]] ([[Hawaii (State)|Hawaii]] Team)
+| body                   = [[Delroy Garrett Jr. (Earth-616)|3-D Man]], [[Walter Newell (Earth-616)|Stingray]], [[Eric Payne (Earth-616)|Devil-Slayer]], [[Star Sign (Earth-616)|Star Sign]], [[Paydirt (Earth-616)|Paydirt]], [[Magnitude (Earth-616)|"Magnitude"]]
+}}
+{{Navigation
+| title                  = <br>[[Spaceknights (Initiative) (Earth-616)|Spaceknights]] ([[Illinois (State)|Illinois]] Team)
+| body                   = 
+}}
+{{Navigation
+| title                  = <br>[[Force Works (Initiative) (Earth-616)|Force Works]]
+([[Iowa (State)|Iowa]] Team)
+| body                   = [[Suzi Endo (Earth-616)|Cybermancer]]
+}}
+{{Navigation
+| title                  = <br>[[Harvesters (Earth-616)|The Harvesters]] ([[Kansas (State)|Kansas]] Team)
+| body                   = [[Pioneer (Earth-616)|Pioneer]], [[Topeka (Earth-616)|Topeka]], [[Grain Belt (Earth-616)|Grain Belt]], [[Meadowlark (Earth-616)|Meadowlark]], [[Sunflower (Earth-616)|Sunflower]]
+}}
+{{Navigation
+| title                  = <br>[[Action Pack (Earth-616)|Action Pack]] ([[Kentucky (State)|Kentucky]] Team)
+| body                   = [[Vox (Earth-616)|Vox]], [[Eugene Patilio (Earth-616)|Frog-Man]], [[Prima Donna (Earth-616)|Prima Donna]], [[Eugene Patilio (Skrull) (Earth-616)|"Frog-Man"]]
+}}
+{{Navigation
+| title                  = <br>[[Psionex (Earth-616)|Psionex]] ([[Maryland (State)|Maryland]] Team)
+| body                   = [[James Sharp (Earth-616)|Coronary]], [[Heidi Franklin (Earth-616)|Pretty Persuasions]], [[Thomas Sorenson (Earth-616)|Mathemanic]], [[Dwight Hubbard (Earth-616)|Impulse]], [[Asylum (Initiative) (Earth-616)|Asylum]]
+}}
+{{Navigation
+| title                  = <br>[[Freedom Force (Initiative) (Earth-616)|Freedom Force]] ([[Montana]] Team)
+| body                   = [[William Waring (Earth-616)|Challenger]], [[Abigail Boylen (Earth-616)|Cloud 9]], [[Spinner (Earth-616)|Spinner]], [[Think Tank (Earth-616)|Think Tank]], [[Terrance Sorenson (Earth-616)|Equinox]], [[Terrance Sorenson (Skrull) (Earth-616)|"Equinox"]]
+}}
+{{Navigation
+| title                  = <br>[[Nebraska Initiative (Earth-616)|Nebraska Team]]
+| body                   = [[Griffin Gogol (Earth-616)|Captain Ultra]], [[Lucy Cervantes (Earth-616)|Gadget]], [[Cooper Roth (Earth-616)|Paragon]]
+}}
+{{Navigation
+| title                  = <br>[[Heavy Hitters (Earth-616)|Heavy Hitters]] ([[Nevada (State)|Nevada]] Team)
+| body                   = [[Richard Gilmore (Earth-616)|Prodigy]], [[Greg Willis (Earth-616)|Gravity]], [[Roger Brokeridge (Earth-616)|Hardball]], [[Madeleine Michaels (Earth-616)|Nonstop]], [[Marina Zane (Earth-616)|Telemetry]], [[Frederick Myers (Earth-616)|Outback]]
+}}
+{{Navigation
+| title                  = <br>[[Defenders (Initiative) (Earth-616)|Defenders]] ([[New Jersey (State)|New Jersey]] Team)
+| body                   = [[Kyle Richmond (Earth-616)|Nighthawk (Kyle Richmond)]], [[Jennifer Walters (Earth-616)|She-Hulk]], [[Daimon Hellstrom (Earth-616)|Son of Satan]], [[Piotr Rasputin (Earth-616)|Colossus]], [[Erik Josten (Earth-616)|Atlas]], [[Mark Todd (Earth-616)|Blazing Skull]], [[Krang (Earth-616)|Krang]], [[Manuel Vicente (Earth-616)|Junta]], [[Paladin (Earth-616)|Paladin]], [[Joaquin Pennysworth (Earth-616)|Nighthawk (Joaquin Pennysworth)]]
+}}
+{{Navigation
+| title                  = <br>[[Mavericks (Earth-616)|Mavericks]] ([[New Mexico (State)|New Mexico]] Team)
+| body                   = [[Jocasta Pym (Earth-616)|Jocasta]], [[Delilah Dearborn (Earth-616)|Geiger]], [[Alexander Ellis (Earth-616)|Anex]], [[Sharon Ventura (Skrull) (Earth-616)|"She-Thing"]]
+}}
+{{Navigation
+| title                  = <br>[[U-Foes (Earth-616)|U-Foes]] ([[North Carolina (State)|North Carolina]] Team)
+| body                   = [[James Darnell (Earth-616)|X-Ray]], [[Ann Darnell (Earth-616)|Vapor]], [[Simon Utrecht (Earth-616)|Vector]], [[Michael Steel (Earth-616)|Ironclad]]
+}}
+{{Navigation
+| title                  = <br>[[Ohio Initiative (Earth-616)|Ohio Team]]
+| body                   = [[Howard the Duck (Earth-791021)|Howard the Duck]]
+}}
+{{Navigation
+| title                  = <br>[[Force of Nature (Earth-616)|Force of Nature]] ([[Oregon (State)|Oregon]] Team)
+| body                   = [[Andrea Roarke (Earth-616)|Sunstreak]], [[Peter van Zante (Earth-616)|Aqueduct]], [[Aireo (Earth-616)|Skybreaker]], [[Terraformer (Force of Nature) (Earth-616)|Terraformer]]
+}}
+{{Navigation
+| title                  = <br>[[Liberteens (Earth-616)|Liberteens]] ([[Pennsylvania (State)|Pennsylvania]] Team)
+| body                   = [[Whiz Kid (Earth-616)|Whiz Kid]], [[Erika Kelley (Earth-616)|Ms. America]], [[Darell Paine (Earth-616)|2-D]], [[Ariana Diamante (Earth-616)|Hope]], [[Jack Pierce (Iceberg) (Earth-616)|Iceberg]], [[Blue Eagle (Earth-616)|Blue Eagle]], [[Revolutionary (Skrull) (Earth-616)|"Revolutionary"]]
+}}
+{{Navigation
+| title                  = <br>[[Rhode Island Initiative (Earth-616)|Rhode Island Team]]
+| body                   = [[Miles Flatt (Earth-616)|Miles Flatt]]
+}}
+{{Navigation
+| title                  = <br>[[Rangers (Earth-616)|The Rangers]] ([[Texas (State)|Texas]] Team)
+| body                   = [[Drew Daniels (Earth-616)|Texas Twister]], [[Victoria Star (Earth-616)|Shooting Star]],[[Miguel Santos (Earth-616)|Living Lightning]], [[William Talltrees (Earth-616)|Red Wolf]], [[Lobo (William Talltrees' 1st) (Earth-616)|Lobo]] [[Bonita Juarez (Earth-616)|Firebird]], [[Hamilton Slade (Rider) (Earth-616)|Phantom Rider]], [[Antonio Rodriguez (Earth-616)|Armadillo]], [[Lobo (Skrull) (Earth-616)|"Lobo"]]
+}}
+{{Navigation
+| title                  = <br>[[Utah Initiative (Earth-616)|The Called]] ([[Utah (State)|Utah]] Team)
+| body                   = 
+}}
+{{Navigation
+| title                  = <br>[[Garrison (Earth-616)|The Garrison]] ([[Vermont (State)|Vermont]] Team)
+| body                   = [[Fin (Intruders) (Earth-616)|Fin]], [[Malcolm Murphy (Earth-616)|Man-Eater]]
+}}
+{{Navigation
+| title                  = <br>[[Earth Force (Earth-616)|Earth Force]] ([[Washington (State)|Washington State]] Team)
+| body                   = [[Winston Manchester (Earth-616)|Skyhawk]], [[Kyle Brock (Earth-616)|Earth Lord]], [[Pamela Shaw (Earth-616)|Wind Warrior]], [[Winston Manchester (Skrull) (Earth-616)|"Skyhawk"]]
+}}
+{{Navigation
+| title                  = <br>[[Great Lakes Initiative (Earth-616)|Great Lakes Initiative]] ([[Wisconsin (State)|Wisconsin]] Team)
+| body                   = [[Ashley Crawford (Earth-616)|Big Bertha]], [[Val Ventura (Earth-616)|Flatman]], [[Craig Hollis (Earth-616)|Mr. Immortal]], [[DeMarr Davis (Earth-616)|Doorman]], [[Doreen Green (Earth-616)|Squirrel Girl]], [[Greg Willis (Earth-616)|Gravity]], [[Grasshopper (Skrull) (Earth-616)|"Grasshopper"]]
+}}
+
+| Identity                = Public
+| Affiliation             =
+| Allies                  = U.S. Government, [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]]; [[H.A.M.M.E.R.]]
+| Enemies                 = Any criminal or terrorist threat
+
+| Origin                  = After the tragedy in Stamford and the Civil War, it was created to train young heroes, and to put a super team on each state.
+| Reality                 = Earth-616
+| Status                  = Defunct
+| BaseOfOperations        = [[Virginia (State)|Virginia]]; formerly [[Camp H.A.M.M.E.R.]], [[New Mexico (State)|New Mexico]]; [[Camp Hammond]], [[Stamford]], [[Connecticut (State)|Connecticut]]
+| PlaceOfFormation        = [[Washington, D.C.]]
+| PlaceOfDissolution      = 
+
+| Creators                = Dan Slott; Stefano Caselli
+| First                   = Civil War #5
+
+| HistoryText             = 
+===[[Anthony Stark (Earth-616)|Tony Stark]]'s Initiative===
+====Formation====
+In the aftermath of the [[Civil War]], the pro-registration side stood victorious over the anti-registration and [[Anthony Stark (Earth-616)|Tony Stark]] was appointed Director of [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] The 50-States Initiative was launched, which called for one S.H.I.E.L.D. sponsored superhuman team for each state. The first group of young heroes were sent to 'Hero Boot Camp' located at Camp Hammond, in Stamford, Connecticut, the site of the explosion that launched the Civil War. There, the trainees learned how to respond and adapt to different situations. Before, the US Government feared of the potential of a Superhuman arms race; with mutants being the most diverse candidates to be used by terrorist groups, rogue and hostile nations. With the advent of [[M-Day]] the mutant society were no longer an issue; most of the ones still powered were largely consolidated in the United States. However, the US did lead the world in ''Other phenomena'' that created superhumans. The result, the US won the Superpower Arms Race unopposed.
+
+[[Henry Peter Gyrich (Earth-616)|Henry Peter Gyrich]] oversaw the entire project. [[James Rhodes (Earth-616)|James Rhodes]] participated in the Initiative recruitment and training program and [[Vance Astrovik (Earth-616)|Justice]] headed the youth outreach arm.
+
+Camp director [[Henry Pym (Earth-616)|Henry Pym]] was secretly a [[Skrull]] impostor called [[Criti Noll (Earth-616)|Criti Noll]], who invited Nazi supervillain [[Wernher von Blitzschlag (Earth-616)|Baron Von Blitzschlag]] to the camp.
+
+There was a special "black ops" team within the Initiative, known as the [[Shadow Initiative (Earth-616)|Shadow Initiative]], that reported only to Gyrich. The team eventually consisted of [[Duc No Tranh (Earth-616)|Bengal]], [[Terrance Ward (Earth-616)|Trauma]], [[Frank Schlichting (Earth-616)|Constrictor]], [[Mary Walker (Earth-616)|Mutant Zero]], and the [[Scarlet Spiders (Team Red) (Earth-616)|Scarlet Spiders]].
+
+====First Class====
+Among the first wave of recruits were [[Michael van Patrick (Earth-616)|MVP]], [[Abigail Boylen (Earth-616)|Cloud 9]], [[Violet Lightner (Earth-616)|Armory]], and [[Terrance Ward (Earth-616)|Trauma]]. MVP was one of the most capable young heroes. During a training exercise, however, Trauma's fear targeting powers accidentally caused Armory to lose control of her weapon, the [[Tactigon]], and MVP was killed pushing Cloud 9 out of the way. In response, the Initiative had the Tactigon stripped from Armory's arm, and threw her out of the program. Gyrich informed everyone present that the mishap had "never happened".{{r|Avengers: The Initiative #1}} Later, Baron Von Blitzschlag discovered that instead of being enhanced by the [[Super Soldier Serum]] as everyone believed, MVP was actually an "Übermensch", the ultimate human specimen.{{r|Avengers: The Initiative #2}} Von Blitzschlag used MVP's body to clone several duplicates, three of which served as the [[Scarlet Spiders (Team Red) (Earth-616)|Scarlet Spiders]]. Another clone was sent back the MVP's home to resume his life.
+
+When a crisis involving the [[Presidents of the United States of America|president]] and the [[Hydra (Earth-616)|Hydra]] terror-carrier arose in [[Texas (State)|Texas]] required the new recruits to join the fray, Cloud 9, [[Melati Kusuma (Earth-616)|Komodo]], [[Roger Brokeridge (Earth-616)|Hardball]], Gauntlet, [[James Rhodes (Earth-616)|War Machine]], Justice, and [[Criti Noll|Yellowjacket]] all arrived on the scene. As the attack escalated, Yellowjacket deployed the secret weapon he had developed to infiltrate the carrier's shields, a small [[vibranium]] capsule he hid inside of. When he breached the shields, he grew to enormous size and forcibly redirected the carrier to crash, purposely riding it out.
+
+Hardball was forced by a Hydra agent with knowledge of his real name to steal a piece of the [[S.P.I.N.]] tech -- a new type of nanotechnology that, when fired in projectile form, could cause a superhuman to lose access to his or her superpowers instantly. As the most promising of the new recruits, Komodo was given an official assignment to take down [[Peter Parker (Earth-616)|Spider-Man]] with S.P.I.N. While Spider-Man was fighting the [[Sinister Syndicate (Earth-616)|Sinister Syndicate]], consisting [[Morris Bench (Earth-616)|Hydro-Man]], [[Herman Schultz (Earth-616)|The Shocker]], and [[Frederick Myers (Earth-616)|Boomerang]], both War Machine and Komodo headed to the scene of the battle. Komodo and War Machine caused the Sinister Syndicate to flee, and Spider-Man was left to battle the duo. The Scarlet Spiders, who had been cloaked during the fight, revealed themselves. They took down the Syndicate while Spider-Man escaped.{{r|Avengers: The Initiative #3}}
+
+When the [[Bruce Banner (Earth-616)|Hulk]] [[World War Hulk|returned]] from space with his [[Warbound (Earth-616)|Warbound]], the missing cartridge of S.P.I.N. technology remained undiscovered by Tony Stark. Stark's attempt to remove Hulk's powers during their conflict failed, making Hardball directly responsible for the early failure to contain the Hulk and prevent massive amounts of damage and casualties. Initiative members were assigned to protect the crowd and refrain from engaging the Hulk, though opted to disregard orders and engage Hulk and his Warbound. Henry Gyrich ordered his Shadow Initiative to save the Initiative trainees.{{r|Avengers: The Initiative #4|5}} The Shadow Initiative infiltrated into Madison Square Garden, where the Hulk had built an arena to deliver captured heroes for their punishment. It was there where they were confronted by some of the Hulk's Death's Head guards, and Mutant Zero defeated them all. Soon the team was confronted by the Hulk, himself, in which he defeated almost all of the Shadow team members. The crisis ended when Hulk was defeated and placed into S.H.I.E.L.D. confinement.
+
+The camp's drill-instructor, Gauntlet, who had made several nasty remarks about the dead [[New Warriors (Earth-616)|New Warriors]], was brutally attacked by the former New Warrior [[Steven Harmon (Earth-616)|Slapstick]], who left a mark on his body: 'NW'. Following speculation that the attacker was an Initiative recruit who was a former New Warrior, Justice, [[Deborah Fields (Earth-616)|Debrii]], Slapstick, [[Tsu-Zana (Earth-616)|Ultra-Girl]] and [[Elvin Haliday (Earth-616)|Rage]] were imprisoned and interrogated. When Gauntlet awoke he claimed he was attacked by the [[Ghost (Earth-616)|Ghost]], and the suspects were released.
+
+[[Anthony Masters (Earth-616)|Taskmaster]] replaced Gauntlet as Camp Hammond's drill instructor. Several new Initiative recruits arrived at Camp Hammond, including [[Eric O'Grady (Earth-616)|Ant-Man]], [[Z'Reg (Earth-616)|Crusader]], [[Melee (Earth-616)|Melee]], [[Geldoff (Earth-616)|Geldoff]], Dragon Lord, [[Delilah Dearborn (Earth-616)|Geiger]], Red Nine, and [[Rachel Leighton (Earth-616)|Diamondback]]. Taskmaster studied MVP's and Spider-Man's moves, in order to teach the MVP clones, in their role as Scarlet Spiders. However, the result of the previous clonings of MVP impressed Initiative administrators enough to attempt to fill places within the Fifty-State Initiative with further clones of MVP. A new Michael Van Patrick clone was fitted with the Tactigon and set forth, but lost control. Under the name "[[Michael van Patrick (KIA) (Earth-616)|KIA]]", the clone went on a murderous rampage throughout Camp Hammond in an attempt to seek revenge for MVP's death.{{r|Avengers: The Initiative #8}} The KIA clone caused destruction killing and injuring many Initiative trainees and staff. The [[Mighty Avengers (Initiative) (Earth-616)|Mighty Avengers]] showed up to help and Cloud 9 and MVP defeated K.I.A.{{r|Avengers: The Initiative #11}} However, Justice's team, with the exception of Ultra-Girl, left the Initiative. Justice could no longer go along with the Initiative's lies and cover-ups. He planned to use his team, [[Counter Force (Earth-616)|Counter Force]], to make sure the Initiative didn't abuse its power. He agreed to turn himself in if he broke any laws.{{r|Avengers: The Initiative #12}}
+
+Hardball, Komodo, Cloud 9, Ultra Girl, 3-D Man, and Thor Girl graduated and were given states to protect as members of The Initiative, along with new costumes. Trauma graduated and became a member of the Initiative staff.
+
+====[[Secret Invasion]]====
+In addition to the Hank Pym impostor, the Skrulls had infiltrated on each of every superhero team of the Initiative. While the cadets were dispatched to fight the Skrulls, "Yellowjacket" welcomed the Skrulls to use all the Initiative bases to create a massive [[Negative Zone]] portal that would take the entire country. [[Delroy Garrett Jr. (Earth-616)|3-D Man (Delroy Garrett)]] joined up with the [[Skrull Kill Krew (Earth-616)|Skrull Kill Krew]] to kill the imposters on every superhero team. Komodo, Hardball, [[Jocasta Pym (Earth-616)|Jocasta]], Cloud 9, [[Greg Willis (Earth-616)|Gravity]], and [[Eric Payne (Earth-616)|Devil-Slayer]] joined the team as well. Devil-Slayer's teleportation ability aided them in killing all Skrull impostors within the Initiative. At the final fight at Camp Hammond, [[Z'Reg (Earth-616)|Crusader (Z'Reg)]], a Skrull with good intentions and an Initiative cadet, killed Criti Noll. Then 3-D Man shot Crusader after discovering his identity as a Skrull.{{r|Avengers: The Initiative #19}}
+
+===[[Norman Osborn (Earth-616)|Norman Osborn]]'s Initiative: The [[Dark Reign]]===
+Following the aftermath of the Secret Invasion, the Fifty-State Initiative was shut down and the Thunderbolts Initiative was established when [[Norman Osborn (Earth-616)|Norman Osborn]] took over as director.{{r|Dark Reign #1}} Gauntlet took control as head of Camp Hammond because of his position as the highest ranking officer left. Despite an offer by the Gauntlet, the real Hank Pym chose to leave the camp, as he was never really there in the first place.{{r|Avengers: The Initiative #20}} Those that had been replaced by Skrulls met with [[Leonard Samson (Earth-616)|Doc Samson]] at Camp Hammond as part of a support group. While noting the hostilities over the shooting of Crusader, 3-D Man left the Initiative to hunt down any Skrulls still hiding out on Earth.
+
+Some of the latest recruits graduated and were assigned to different teams. [[James Santini (Earth-616)|Batwing]] became a member of the Shadow Initiative, Melee was assigned to additional training to become a Camp Hammond instructor for martial arts, Annex became a member of the [[Mavericks (Earth-616)|Mavericks]] (New Mexico) and Red Nine of [[Cavalry (Earth-616)|The Cavalry]] (Georgia). Geiger also graduated. Camp Hammond instructor [[Walter Newell (Earth-616)|Stingray]] became the new leader of the [[Point Men (Earth-616)|Point Men]] (Hawaii). Because of their villainous pasts, [[Andrea Roarke (Earth-616)|Sunstreak]] and [[Richard Gilmore (Earth-616)|Prodigy]] were not assigned to an Initiative State Team yet, but had to remain under training at Camp Hammond. Since [[Fahnbullah Eddy (Earth-616)|Gorilla Girl]] felt she was typical cannon fodder she decided to go home and be listed as a reserve member.
+
+Under repair at Camp Hammond, the [[Thor (Clone) (Earth-616)|Thor-clone]] (now dubbed Ragnarok) was activated by a safety measure built into it by the Skrull that posed as Henry Pym, Criti Noll. Thinking he was [[Thor Odinson (Earth-616)|Thor]], Ragnarok retook his hammer and went on a rampage easily dispatching the Initiative and Counter Force, who rushed to stop his violent march of destruction. Ragnarok killed Michael, a Scarlet Spider. Baron dismissed the notion as futile, pointing out that while Ragnarok could easily kill everyone, he would not change the fact he was an android-clone based off of the real Thor. Unconvinced, Ragnarok was shown proof that such methods were possible when one of the Scarlet Spiders revealed he and his "brothers" were all clones as well. Ragnarok resolved that it mattered not whether he was or wasn't a clone, but rather that his warrior's resolve was true. He flew off to presumably confront Thor and his fellow Asgardians.{{r|Avengers: The Initiative #22}}
+
+Following Ragnarok's attack, Counter Force decided to bury Michael Van Patrick's body and confess to the world about Michael's death and the clones. This gave Norman Osborn the opportunity to shut down Camp Hammond in his plans to dissolve Tony Stark's 50-State Initiative.{{r|Avengers: The Initiative #23}}
+
+====Siege====
+...
+
+===[[Richard Gilmore (Earth-616)|Prodigy]] & [[Steven Rogers (Earth-616)|Steve Rogers]]'s Initiative: [[Fear Itself]]===
+...{{r|Fear Itself: Youth in Revolt #1|6}}
+
+== Recruits ==
+Members of The 50-State Initiative included:
+
+* 5 unnamed S.H.I.E.L.D. Agents
+* [[Action Pack (Earth-616)|Action Pack]]
+** [[Eugene Patilio (Earth-616)|Frog-Man]]
+** [[Prima Donna (Earth-616)|Prima Donna]]
+** [[Vox (Action Pack) (Earth-616)|Vox]]
+* [[Alaska Initiative (Earth-616)|Alaska Initiative]]
+** [[Patricia Walker (Earth-616)|Hellcat]]
+* [[Eric O'Grady (Earth-616)|Ant-Man (Eric O'Grady)]]
+* [[Anya Corazon (Earth-616)|Araña]]
+* [[Violet Lightner (Earth-616)|Armory]]
+* [[Wernher von Blitzschlag (Earth-616)|Baron Von Blitzschlag]]
+* [[Battalion (Earth-616)|Battalion]]
+** [[Buford Hollis (Earth-616)|Razorback]]
+** [[Greer Grant (Earth-616)|Tigra]]
+* [[Lucas Bishop (Earth-1191)|Bishop]]
+* [[Eric Brooks (Earth-616)|Blade]]
+* [[Brian Braddock (Earth-616)|Captain Britain]]
+* [[Cavalry (Earth-616)|Cavalry]]
+** [[Eugene Mason (Earth-616)|Crime-Buster]]
+** [[Wallace Jackson (Earth-616)|Red Nine]]
+** [[Steven Brooks (Earth-616)|Stunt-Master]]
+** [[Tarene (Earth-616)|Thor Girl]]
+** [[Tsu-Zana (Earth-616)|Ultra-Girl]]
+* [[Command (Earth-616)|Command]]
+** [[Wundarr (Earth-616)|Aquarian]]
+** [[Conquistador (Command) (Earth-616)|Conquistador]]
+** [[Jennifer Kale (Earth-616)|Jennifer Kale]]
+** [[John Kelly (Earth-616)|Siege]]
+* [[Z'Reg (Earth-616)|Crusader]]
+* [[Wade Wilson (Earth-616)|Deadpool]]
+* [[Deborah Fields (Earth-616)|Debrii]]
+* [[Defenders (Initiative) (Earth-616)|Defenders]]
+** [[Kyle Richmond (Earth-616)|Nighthawk]]
+** [[Jennifer Walters (Earth-616)|She-Hulk]]
+** [[Mark Todd (Earth-616)|Blazing Skull]]
+** [[Piotr Rasputin (Earth-616)|Colossus]]
+* [[Desert Stars (Earth-616)|Desert Stars]]
+** [[Blacksmith (Skrull) (Earth-616)|Blacksmith]]
+** [[John Hashimoto (Earth-616)|Johnny Cool]]
+** [[Melati Kusuma (Earth-616)|Komodo]]
+** [[Edward Black Wolf (Earth-616)|Supermax]]
+** [[Matthew Hawk (Earth-616)|Two-Gun Kid]]
+* [[Leonard Samson (Earth-616)|Doc Samson]]
+* [[Tako Shamara (Earth-616)|Dragon Lord]]
+* [[Fantastic Four (Earth-616)|Fantastic Four]]
+** [[T'Challa (Earth-616)|Black Panther]]
+** [[Jonathan Storm (Earth-616)|Human Torch]]
+** [[Susan Storm (Earth-616)|Invisible Woman]]
+** [[Reed Richards (Earth-616)|Mister Fantastic]]
+** [[Ororo Munroe (Earth-616)|Storm]]
+** [[Benjamin Grimm (Earth-616)|Thing]]
+* [[Force of Nature (Earth-616)|Force of Nature]]
+** [[Peter van Zante (Earth-616)|Aqueduct]]
+** [[Aireo (Earth-616)|Skybreaker]]
+** [[Andrea Roarke (Earth-616)|Sunstreak]]
+** [[Terraformer (Force of Nature) (Earth-616)|Terraformer]]
+* [[Force Works (Initiative) (Earth-616)|Force Works]]
+** [[Suzi Endo (Earth-616)|Cybermancer]]
+* [[Freedom Force (Initiative) (Earth-616)|Freedom Force]]
+** [[William Waring (Earth-616)|Challenger]]
+** [[Abigail Boylen (Earth-616)|Cloud 9]]
+** [[Terrance Sorenson (Earth-616)|Equinox]]
+** [[Spinner (Earth-616)|Spinner]]
+** [[Think Tank (Earth-616)|Think Tank]]
+* [[Isaac Christians (Earth-616)|Gargoyle]]
+* [[Garrison (Earth-616)|Garrison]]
+** [[Fin (Intruders) (Earth-616)|Fin]]
+** [[Malcolm Murphy (Earth-616)|Man-Eater]]
+* [[Joseph Green (Earth-616)|Gauntlet]]
+* [[Geldoff (Earth-616)|Geldoff]]
+* [[Fahnbullah Eddy (Earth-616)|Gorilla-Girl]]
+* [[Great Lakes Initiative (Earth-616)|Great Lakes Initiative]]
+** [[Ashley Crawford (Earth-616)|Big Bertha]]
+** [[DeMarr Davis (Earth-616)|Doorman]]
+** [[Val Ventura (Earth-616)|Flatman]]
+** [[Craig Hollis (Earth-616)|Mr. Immortal]]
+** [[Doreen Green (Earth-616)|Squirrel Girl]]
+* [[Harvesters (Earth-616)|Harvesters]]
+** [[Grain Belt (Earth-616)|Grain Belt]]
+** [[Meadowlark (Earth-616)|Meadowlark]]
+** [[Pioneer (Earth-616)|Pioneer]]
+** [[Sunflower (Earth-616)|Sunflower]]
+** [[Topeka (Earth-616)|Topeka]]
+* [[Heavy Hitters (Earth-616)|Heavy Hitters]]
+** [[Greg Willis (Earth-616)|Gravity]]
+** [[Roger Brokeridge (Earth-616)|Hardball]]
+** [[Madeleine Michaels (Earth-616)|Nonstop]]
+** [[Frederick Myers (Earth-616)|Outback]]
+** [[Richard Gilmore (Earth-616)|Prodigy]]
+** [[Marina Zane (Earth-616)|Telemetry]]
+* [[Heroes for Hire (Knight & Wing) (Earth-616)|Heroes for Hire]]
+** [[Mercedes Knight (Earth-616)|Misty Knight]]
+** [[Colleen Wing (Earth-616)|Colleen Wing]]
+** [[Felicia Hardy (Earth-616)|Black Cat]]
+** [[Buchanan Mitty (Earth-616)|Humbug]]
+** [[Orka (Earth-616)|Orka]]
+** [[Paladin (Earth-616)|Paladin]]
+** [[Shang-Chi (Earth-616)|Shang-Chi]]
+** [[Maria Vasquez (Earth-616)|Tarantula]]
+* [[Dorrek VIII (Earth-721)|Hulkling]] (of Earth-A)
+* [[Vance Astrovik (Earth-616)|Justice]]
+* [[Melati Kusuma (Earth-616)|Komodo]]
+* [[Liberteens (Earth-616)|Liberteens]]
+** [[Darell Paine (Earth-616)|2-D]]
+** [[Blue Eagle (Earth-616)|Blue Eagle]]
+** [[Ariana Diamante (Earth-616)|Hope]]
+** [[Jack Pierce (Iceberg) (Earth-616)|Iceberg]]
+** [[Erika Kelley (Earth-616)|Ms. America]]
+** [[Revolutionary (Skrull) (Earth-616)|Revolutionary]]
+** [[Whiz Kid (Earth-616)|Whiz Kid]]
+* [[Michael van Patrick (Earth-616)|M.V.P.]] {{g|Deceased}}
+* [[Mavericks (Earth-616)|Mavericks]]
+** [[Alexander Ellis (Earth-616)|Annex]]
+** [[Delilah Dearborn (Earth-616)|Geiger]]
+** [[Jocasta Pym (Earth-616)|Jocasta]]
+** [[Sharon Ventura (Skrull) (Earth-616)|She-Thing]]
+* [[Melee (Earth-616)|Melee]]
+* [[Scott Wright (Earth-616)|Micromax]]
+* [[Mighty Avengers (Initiative) (Earth-616)|Mighty Avengers]]
+** [[Ares (Earth-616)|Ares]]
+** [[Natalia Romanova (Earth-616)|Black Widow]]
+** [[Anthony Stark (Earth-616)|Iron Man]]
+** [[Carol Danvers (Earth-616)|Ms. Marvel]]
+** [[Robert Reynolds (Earth-616)|Sentry]]
+** [[Janet Van Dyne (Earth-616)|Wasp]]
+** [[Simon Williams (Earth-616)|Wonder Man]]
+* [[Marc Spector (Earth-616)|Moon Knight]]
+* [[Nebraska Initiative (Earth-616)|Nebraska Initiative]]
+** [[Griffin Gogol (Earth-616)|Captain Ultra]]
+** [[Lucy Cervantes (Earth-616)|Gadget]]
+** [[Cooper Roth (Earth-616)|Paragon]]
+* [[Valerie Martin (Earth-616)|Network (Valerie Martin)]]
+* [[Nextwave (Earth-63163)|Nextwave]]
+** [[Tabitha Smith (Earth-616)|Boom Boom]]
+** [[Elsa Bloodstone (Earth-616)|Elsa Bloodstone]]
+** [[Aaron Stack (Impostor) (Earth-616)|Machine Man]]
+** [[Monica Rambeau (Earth-616)|Monica Rambeau]]
+** [[Captain (Nextwave) (Earth-616)|The Captain]]
+* [[Ohio Initiative (Earth-616)|Ohio Initiative]]
+** [[Howard Duckson (Earth-791021)|Howard the Duck]]
+* [[Order (Initiative) (Earth-616)|The Order]]
+** [[Henry Hellrung (Earth-616)|Anthem]]
+** [[Magdalena Marie (Earth-616)|Veda]]
+** [[James Wa (Earth-616)|Calamity]]
+** [[Dennis Murray (Earth-616)|Heavy]]
+** [[Milo Fields (Earth-616)|Supernaut]]
+** [[Mulholland Black (Earth-616)|Mullholland Black]]
+** [[Rebecca Ryan (Earth-616)|Aralune]]
+* [[Point Men (Earth-616)|Point Men]]
+** [[Eric Payne (Earth-616)|Devil-Slayer]]
+** [[Magnitude (Earth-616)|Magnitude]]
+** [[Paydirt (Earth-616)|Paydirt]]
+** [[Star Sign (Earth-616)|Star Sign]]
+** [[Walter Newell (Earth-616)|Stingray]]
+** [[Delroy Garrett Jr. (Earth-616)|Triathlon]]
+* [[Psionex (Earth-616)|Psionex]]
+** [[Asylum (Initiative) (Earth-616)|Asylum]]
+** [[James Sharp (Earth-616)|Coronary]]
+** [[Dwight Hubbard (Earth-616)|Impulse]]
+** [[Thomas Sorenson (Earth-616)|Mathemanic]]
+** [[Heidi Franklin (Earth-616)|Pretty Persuasions]]
+* [[Thomas Fireheart (Earth-616)|Puma]]
+* [[Elvin Haliday (Earth-616)|Rage]]
+* [[Rangers (Earth-616)|Rangers]]
+** [[Antonio Rodriguez (Earth-616)|Armadillo]]
+** [[Bonita Juarez (Earth-616)|Firebird]]
+** [[Miguel Santos (Earth-616)|Living Lightning]]
+** [[Hamilton Slade (Rider) (Earth-616)|Phantom Rider]]
+** [[William Talltrees (Earth-616)|Red Wolf]]
+** [[Victoria Star (Earth-616)|Shooting Star]]
+** [[Drew Daniels (Earth-616)|Texas Twister]]
+* [[Robert Farrell (Earth-616)|Rocket Racer]]
+* [[Ruth Bat-Seraph (Earth-616)|Sabra]]
+* [[Shadow Initiative (Earth-616)|Shadow Initiative]]
+** [[Duc No Tranh (Earth-616)|Bengal]]
+** [[Frank Schlichting (Earth-616)|Constrictor]]
+** [[Mary Walker (Earth-616)|Mutant Zero]]
+** [[Scarlet Spiders (Team Red) (Earth-616)|Scarlet Spiders (Team Red)]]
+** [[Terrance Ward (Earth-616)|Trauma]]
+* [[Lancaster Sneed (Earth-616)|Shockwave]]
+* [[Silhouette Chord (Earth-616)|Silhouette]]
+* [[Min Li Ng (Earth-616)|Silk Fever]]
+* [[Steven Harmon (Earth-616)|Slapstick]]
+* [[Sleepwalker (Earth-616)|Sleepwalker]]
+* [[Robert Baldwin (Earth-8101)|Speedball]]{{r|Marvel Apes: Speedball Special Vol 1 1}}
+* [[Cassandra Lang (Earth-616)|Stature]]
+* [[Anthony Masters (Earth-616)|Taskmaster]]
+* [[Thunderbolts (Earth-616)|Thunderbolts]]
+** [[Ajaxis (Earth-616)|Ajaxis]]
+** [[Erik Josten (Earth-616)|Atlas]]
+** [[Georges Batroc (Earth-616)|Batroc the Leaper]]
+** [[Beetles (Thunderbolts Army) (Earth-616)|Beetles]]
+*** [[Joaquim Robichaux (Earth-616)|Joaquim Robichaux]]
+*** [[Elizabeth Vaughn (Earth-616)|Elizabeth Vaughn]]
+*** [[Gary Quinn (Earth-616)|Gary Quinn]]
+** [[Donald Gill (Earth-616)|Blizzard]]
+** [[Eric Conroy (Earth-616)|Bloodstrike]]
+** [[Bullseye (Lester) (Earth-616)|Bullseye]]
+** [[Death Adder (Thunderbolts) (Earth-616)|Death Adder II]]
+** [[Paul Ebersol (Earth-616)|Fixer]]
+** [[Norman Osborn (Earth-616)|Green Goblin]]
+** [[Klaus Voorhees (Earth-616)|King Cobra]]
+** [[Abner Jenkins (Earth-616)|MACH IV]]
+** [[Mongoose (Earth-616)|Mongoose]]
+** [[Karla Sofen (Earth-616)|Moonstone]]
+** [[Robert Baldwin (Earth-616)|Penance]]
+** [[Chen Lu (Earth-616)|Radioactive Man]]
+** [[Gustav Krueger (Earth-616)|Rattler]]
+** [[Ebenezer Laughton (Earth-616)|Scarecrow]]
+** [[Jalome Beacher (Earth-616)|Slyde]]
+** [[Conrad Mack (Earth-616)|Smiling Tiger]]
+** [[Melissa Gold (Earth-616)|Songbird]]
+** [[Andreas von Strucker (Earth-616)|Swordsman]]
+** [[Todd Arliss (Earth-616)|Tiger Shark]]
+** [[MacDonald Gargan (Earth-616)|Venom]]
+** [[David Cannon (Earth-616)|Whirlwind]]
+** [[Maximillian Zaran (Earth-616)|Zaran]]
+* [[Patrick Mulligan (Earth-616)|Toxin]]
+* [[U-Foes (Earth-616)|U-Foes]]
+** [[Michael Steel (Earth-616)|Ironclad]]
+** [[Ann Darnell (Earth-616)|Vapor]]
+** [[Simon Utrecht (Earth-616)|Vector]]
+** [[James Darnell (Earth-616)|X-Ray]]
+* [[Milos Masaryk (Earth-616)|Unicorn]]
+* [[James Rhodes (Earth-616)|War Machine]]
+* [[Angela del Toro (Earth-616)|White Tiger]]
+* [[William Kaplan (Earth-721)|Wiccan]] (of Earth-A)
+* [[Women Warriors (Earth-616)|Women Warriors]]
+** [[Cleopatra Nefertiti (Earth-616)|Asp]]
+** [[Tanya Sealy (Earth-616)|Black Mamba]]
+** [[Rachel Leighton (Earth-616)|Diamondback]]
+** [[Quicksand (Nguyet) (Earth-616)|Quicksand]]
+** [[Sybil Dvorak (Earth-616)|Skein]]
+* [[Henry Pym (Earth-616)|Yellowjacket]]
+* [[Alexander Power (Earth-616)|Zero-G (Alex Power)]]
+
+== List of Teams by State ==
+*[[Alabama (State)|Alabama]] - n/a
+*[[Alaska (State)|Alaska]] - [[Alaska Initiative (Earth-616)|Alaska Initiative]] ([[Patricia Walker (Earth-616)|Hellcat]] is the sole member of the team)
+*[[Arizona (State)|Arizona]] - [[Desert Stars (Earth-616)|The Desert Stars]]
+*[[Arkansas (State)|Arkansas]] - [[Battalion (Earth-616)|The Battalion]]
+*[[California (State)|California]] - [[Order (Initiative) (Earth-616)|The Order]]
+*[[Colorado (State)|Colorado]] - [[Thunderbolts (Earth-616)|Thunderbolts]]
+*[[Connecticut (State)|Connecticut]] - [[Camp Hammond]]
+*[[Delaware (State)|Delaware]] - [[Women Warriors (Earth-616)|The Women Warriors]]
+*[[Florida (State)|Florida]] - [[Command (Earth-616)|The Command]]
+*[[Georgia (State)|Georgia]] - [[Cavalry (Earth-616)|The Cavalry]]
+*[[Hawaii (State)|Hawaii]] - [[Point Men (Earth-616)|The Point Men]]
+*[[Idaho (State)|Idaho]] - n/a
+*[[Illinois (State)|Illinois]] - [[Spaceknights (Initiative) (Earth-616)|Spaceknights]]
+*[[Indiana (State)|Indiana]] - n/a
+*[[Iowa (State)|Iowa]] - [[Force Works (Initiative) (Earth-616)|Force Works]]
+*[[Kansas (State)|Kansas]] - [[Harvesters (Earth-616)|The Harvesters]]{{r|Marvel Zombies Supreme #2}}
+*[[Kentucky (State)|Kentucky]] - [[Action Pack (Earth-616)|Action Pack]]
+*[[Louisiana (State)|Louisiana]] - n/a
+*[[Maine (State)|Maine]] - n/a
+*[[Maryland (State)|Maryland]] - [[Psionex (Earth-616)|Psionex]]
+*[[Massachusetts (State)|Massachusetts]] - n/a
+*[[Michigan (State)|Michigan]] - n/a
+*[[Minnesota (State)|Minnesota]] - n/a
+*[[Mississippi (State)|Mississippi]] - n/a
+*[[Missouri (State)|Missouri]] - n/a
+*[[Montana (State)|Montana]] - [[Freedom Force (Initiative) (Earth-616)|Freedom Force]]
+*[[Nebraska (State)|Nebraska]] - [[Nebraska Initiative (Earth-616)|Nebraska Initiative]]
+*[[Nevada (State)|Nevada]] - [[Heavy Hitters (Earth-616)|The Heavy Hitters]]
+*[[New Hampshire (State)|New Hampshire]] - n/a
+*[[New Jersey (State)|New Jersey]] - [[Defenders (Initiative) (Earth-616)|Defenders]]
+*[[New Mexico (State)|New Mexico]] - [[Mavericks (Earth-616)|The Mavericks]]
+*[[New York (State)|New York]] - [[Mighty Avengers (Initiative) (Earth-616)|Mighty Avengers]] / [[Dark Avengers (Earth-616)|Dark Avengers]]
+*[[North Carolina (State)|North Carolina]] - [[U-Foes (Earth-616)|U-Foes]]
+*[[North Dakota (State)|North Dakota]] - n/a
+*[[Ohio (State)|Ohio]] - [[Ohio Initiative (Earth-616)|Ohio Initiative]]
+*[[Oklahoma (State)|Oklahoma]] - became home to [[Thor Odinson (Earth-616)|Thor]] and [[Asgard]]. Destroyed during [[Siege of Asgard]]
+*[[Oregon (State)|Oregon]] - [[Force of Nature (Earth-616)|Force of Nature]]
+*[[Pennsylvania (State)|Pennsylvania]] - [[Liberteens (Earth-616)|Liberteens]]
+*[[Rhode Island (State)|Rhode Island]] - [[Miles Flatt (Earth-616)|Miles Flatt]]
+*[[South Carolina (State)|South Carolina]] - n/a
+*[[South Dakota (State)|South Dakota]] - n/a
+*[[Tennessee (State)|Tennessee]] - n/a
+*[[Texas (State)|Texas]] - [[Rangers (Earth-616)|The Rangers]]
+*[[Utah (State)|Utah]]- [[Utah Initiative (Earth-616)|The Called]]
+*[[Vermont (State)|Vermont]] - [[Garrison (Earth-616)|The Garrison]]
+*[[Virginia (State)|Virginia]] - n/a
+*[[Washington (State)|Washington]] - [[Earth Force (Earth-616)|Earth Force]] (possibly)
+*[[West Virginia (State)|West Virginia]] - n/a
+*[[Wisconsin (State)|Wisconsin]] - [[Great Lakes Initiative (Earth-616)|Great Lakes Initiative]]
+*[[Wyoming (State)|Wyoming]] - n/a
+
+==Other sanctioned heroes by assigned location==
+*New York City [[Alana Jobson (Earth-616)|Jackpot]]{{r|Amazing Spider-Man #549}}
+*New York City [[Joseph Cartelli (Earth-616)|Blue Shield]]{{r|Amazing Spider-Man #550}}
+*New York City (Harlem) [[Samuel Wilson (Earth-616)|Falcon]]{{r|Captain America Vol 5 #26}}
+*New York City [[Slyde (NYPD) (Earth-616)|Slyde]] (undercover police officer){{r|Amazing Spider-Man #602}}
+
+==Non-State Assigned Teams==
+*[[Shadow Initiative (Earth-616)|Shadow Initiative]]
+*[[Operation: Lightning Storm (Earth-616)|Operation: Lightning Storm]]{{r|Ms. Marvel Vol 2 #13}}
+*[[Fantastic Four (Earth-616)|Fantastic Four]]{{r|Fantastic Four #544}}
+*[[Heroes for Hire (Knight & Wing) (Earth-616)|Heroes for Hire]]{{r|Heroes for Hire Vol 2 #1}}
+
+==Government Agencies==
+*[[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]]
+*[[H.A.M.M.E.R. (Earth-616)|H.A.M.M.E.R.]]
+*[[Alternate Reality Monitoring and Operational Response Agency (Earth-616)|A.R.M.O.R.]]
+*[[Sentient World Observation and Response Department (Earth-616)|S.W.O.R.D.]]
+| Equipment               =
+| Transportation          = Jet-packs for the trainees
+| Weapons                 = Energy rifles
+| Notes                   = * After [[Warren Worthington III (Earth-616)|Archangel]] saved the mayor of [[San Francisco]], she offered the [[X-Men (Earth-616)|X-Men]] and any powered or depowered mutant sanctuary in the city. She openly announced to the world that San Francisco was rejecting the 50 State Initiative and adopting the X-Men as their protectors.{{r|Uncanny X-Men #499|500}}
+* [[Washington, D.C.]] wasn't given a team, as it was known that the district could ''"take care of itself"'' (known or not that Congressman and secretly [[Homo superior|mutant]] [[Leonard Gary (Earth-616)|Leonard Gary]] was able to create a vast defense).{{r|Secret Avengers #13}}
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:50-State Initiative]]
+[[Category:American Organizations]]

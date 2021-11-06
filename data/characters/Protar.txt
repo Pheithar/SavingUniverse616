@@ -1,0 +1,54 @@
+{{Marvel Database:Race Template
+| Image                   = Protar from Omega the Unknown Vol 1 1 001.jpg
+| Name                    = Protar
+| Aliases                 = 
+| Identity                = 
+| Affiliation             = 
+| Universe                = Earth-616
+| BaseOfOperations        = [[Protaris]]
+
+| BodyType                = 
+| AvgHeight               = 
+| AvgWeight               = 
+| Eyes                    = 
+| Hair                    = 
+| Skin                    = 
+| NumberOfLimbs           = 
+| NumberOfFingers         = 
+| NumberOfToes            = 
+| SpecialAdaptations      = 
+| UnusualFeatures         = 
+
+| Origin                  = Alien
+| GalaxyOfOrigin          = 
+| StarSystemOfOrigin      = 
+| HomePlanet              = 
+| PlaceOfBirth            = 
+| Creators                = Steve Gerber; Mary Skrenes; Jim Mooney
+| First                   = Omega the Unknown #1
+
+| HistoryText             = The Protar were a race of highly advanced mechanical humanoid beings. When they realized they had reached an evolutionary dead-end, they launched a project to create a new form of Protarian life based on a series of artificial biological beings that they would secretly embed on alien worlds to absorb their cultural and physiological advantages and pass the data along to the next model in the chain. The project proceeded well until the penultimate version, [[Model X3Z (Earth-616)|Model X3Z]] embedded on [[Srenesk]], was altered by his people in an experiment to harness biospheric energy, a power that the observing Protar knew was too volatile to be used safely. The Protar raced to Srenesk in an attempt to halt the experiment, but they were too late and moreover their rapid approach alarmed the Sreneskians, believing it to be the sign of a hostile invasion. The Sreneskians deployed X3Z to use his new powers to repel the invaders, resulting in a catastrophe in which X3Z accidentally wiped out all life on the planet except his own. X3Z continued to believe the mechanical invaders were the ones responsible for the death of his world and fled. The Protar pursued him to Earth, where the final model, known there as [[James-Michael Starling]], was embedded. James-Michael had automatically inherited the biospheric energy-harnessing power around the same time that the Protarian androids disguised as humans he believed to be his parents were killed in a car accident. For the sake of public safety the Protar had marked both the final models of their experiment for elimination. Unfortunately, they were never able to communicate their purposes to others, so everyone that saw the Protar agents on Earth believed they were just killer alien robots.{{Citation}}
+
+One Protar attempted to kill James-Michael and X3Z shortly after his arrival on Earth, but James-Michael's energy blast disabled it.{{r|Omega the Unknown #1}} The Protar's body was stolen by [[Maxwell Dillon (Earth-616)|Electro]],{{r|Omega the Unknown #2}} who attempted to repair and reprogram it to serve him. The revived Protar was still focused on its primary directive to kill X3Z, whom Electro had captured, but Electro managed to convince the robot to help him commit crimes before giving it X3Z's life as a reward. X3Z instead managed to escape and destroyed the Protar in battle.{{r|Omega the Unknown #3}}
+
+X3Z was eventually killed on Earth, and the Protar returned in force shortly afterwards to find and destroy the last errant model, James-Michael. At the same time, the boy's guardians had enlisted the [[Defenders (Earth-616)|Defenders]] to find him since he had recently ran away from home. The Defenders clashed with the Protar, whom they had identified as hostile invaders, but the Protar received their heaviest losses from James-Michael's biosphereic powers, which were growing rapidly more unstable due to the stress he was under. [[Heather Douglas (Earth-616)|Moondragon]]'s psychic powers were able to end the overall conflict by recognizing the Protar's true intentions, but was unable to stop James-Michael from overloading his powers. Only his desire not to hurt his friends moved James-Michael to turn the power inward, destroying himself, and finally ending the biospheric energy threat as well as the Protar's ill-fated experiment.{{Citation}}
+
+| Habitat                 = 
+| Gravity                 = 
+| Atmosphere              = 
+| Population              = 
+
+| Powers                  = 
+| Abilities               = 
+| AvgStrength             = 
+| Weaknesses              = 
+
+| GovernmentType          = 
+| TechnologyLevel         = 
+| CulturalTraits          = 
+| Representatives         = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

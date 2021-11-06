@@ -1,0 +1,91 @@
+{{Marvel Database:Character Template
+| Image                   = Autonomously Decisive Automated Mechanism (Earth-616) from All-New Official Handbook of the Marvel Universe Vol 1 6.png
+| Name                    = ADAM (Autonomously Decisive Automated Mechanism)
+| CurrentAlias            = Machine Teen
+| Aliases                 = [[Adam Aaronson]]
+
+| Affiliation             = {{M|Briggs Chemical LLC}}; formerly {{M|Avengers Academy}}, {{m|Holden Radcliffe Corporation (Earth-616)|Holden Radcliffe Corporation}}
+| Relatives               = [[Aaron Isaacs (Earth-616)|Aaron Isaacs alias Isaac Aaronson]] (creator/"father")
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 5'8"
+| Weight                  = 225 lbs
+| Eyes                    = Blue
+| Eyes2                   = Gold
+| Hair                    = Blond
+| UnusualFeatures         = 
+
+| Origin                  = [[Androids|Android]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Student
+| Education               = High School 
+| BaseOfOperations        = formerly [[Avengers Compound]], [[Los Angeles]]
+
+| Creators                = Marc Sumerak; Mike Hawthorne
+| First                   = Machine Teen #1
+
+| History                 = 
+===Early life===
+[[Aaron Isaacs (Earth-616)|Dr. Aaron Isaacs]], a pioneer in the field of robotics,  created the "Autonomously Decisive Automated Mechanism". But when he discovered his employer [[Holden Radcliffe (Earth-616)|Holden Radcliffe]] had destroyed his work, Isaacs went on the run. He changed his name to Isaac Aaronson and built Adam, a beta version of his A.I. project. Adam was programmed with false memories of a normal childhood and deceased mother. 
+
+===Machine Teen===
+Adam played for the high school football team and won the game by throwing a touchdown pass to another teammate; however, the football knocked into the player and sent him flying into the goalpost to win the game. Everyone, especially Adam, was very surprised by this; nonetheless, most cheered that they had won the game and rushed to Adam. Adam had a series of debilitating seizures caused by a logic loop in his program and suffered memory loss, systems overload, and finally, a total shutdown.
+
+Adam was best friends with [[J.T. Hunt (Earth-616)|J.T. Hunt]] and had a girlfriend called [[Carly Whitmere (Earth-616)|Carly Whitmere]]. Carly is later interviewed by Officer Michaels. Carly mentioned to Adam that Officer Michaels wanted to meet Adam. After one class, Officer Michaels took Adam to the vice-principal's office. The vice-principal thought Adam was taking steroids or illegal drugs, a notion started by Adam's high school rival, Ricky Sims. It was revealed that Ricky started the rumour that Adam was taking drugs; Adam confronted him and they fought, but he was stopped by another seizure. His father then took him home.{{r|Machine Teen #1}}
+
+When Adam woke up he could not remember the seizure at all, and seemed to have forgotten certain information from the past couple of weeks, such as studying for a test that day. When Adam mentioned he didn't remember the seizure to his dad, his dad shrugged it off, telling him not to worry. During school he was called to the nurse's office. The nurse took Adam's temperature and listened for his heartbeat, but was confused when she heard something strange. After school they looked for J.T. and found him getting beat up by Ricky in an alley behind the school. Adam came to J.T.'s defense and got into another fight. During the fight, Ricky accidentally shoved a piece of metal through Adam's hand, putting a hole through it. Adam saw the broken wires in his hand, had another seizure, and passed out. Ricky ran to Officer Michaels to tell him Adam is a robot. Michaels, in turn, called Holden Radcliffe, revealing Michaels works for Dr. Aaronson's former employer.{{r|Machine Teen #2}}
+
+Adam awoke on the operating table and overheard his father talking and deciding not to wipe his memory this time. Adam then woke up in his bed, thinking it was all a dream. Still, he confronted his father that he is a robot and that all of his memories have been fake. He initially believed that his father was lying to him, saying his memories, specifically about him falling off his bike when he was younger and being with his mother when she died, could not be fake. Dr. Aaronson showed his son his blueprints, showing Adam that he was not lying. Confronted with this information, Adam became enraged and ran away. Michaels captured him and attacked Adam. After being shot but escaping, Adam went to J.T.'s home, but collapsed. J.T. dragged Adam in and reset Adam to blank his memory, revealing J.T. knew Adam was a robot. Adam was surprised J.T. knew about his true origins.{{r|Machine Teen #3}}
+
+Adam and J.T aun back to Adam's home to find that it had been trashed, and his father was missing. Dr. Aaronson is interrogated by Office Michaels. The [[Holden Radcliffe Corporation]] was bent on getting their stolen property back. J.T. revealed that before Adam was born, J.T. worked for Aaronson as a lab assistant. He came across Adam's robotic body, and since then was forced to keep the truth about Adam a secret. J.T. revealed an external hard drive that Aaronson had previously hid, which he thought might help Adam understand his situation. Adam plugged into the hard drive, but is then attacked by another group of agents. J.T. shocked the agent with a taser that Aaronson had made and they escaped. J.T told him he wasn't sure the taser would work on a real person, accidentally offending Adam. He apologized and said that Adam was not programmed to be his friend, that he was human with free will. Adam called Carly and had them meet them near the school. Carly unknowingly helped lead Office Michaels to Adam and J.T. and their capture.{{r|Machine Teen #4}}
+
+Adam and his friends were brought to a building where Dr. Isaacs was held. Adam was taken away and strapped to a table where Holden Radcliffe tried to hack into Adam and take control of him; however, they could not. Adam escaped from Holden Radcliffe's, along with his father and friends, by tricking them into thinking he is under their control.
+
+During the escape, Adam was nearly destroyed and had to delay Radcliffe to let his father and friends escape. Dr. Aaronson escaped with Adam's computer core, which set off a self-destruct sequence. Adam exploded, and Holden Radcliffe and Michaels were killed in the explosion. One year later, Adam was rebuilt, entering a new high school, Edison High School, and started a new life.{{r|Machine Teen #5}}
+
+===50-State Initiative===
+Adam was considered as a "potential recruit" for the [[50-State Initiative (Earth-616)|50-State Initiative]] program.{{r|Civil War: Battle Damage Report #1}} 
+
+===Avengers Academy===
+Adam was part of the new class of students when the [[Avengers Academy (Earth-616)|Avengers Academy]] moved to the former headquarters of the [[West Coast Avengers]].{{r|Avengers Academy #21}} 
+
+Adam later left the Avengers Academy to join [[Briggs Chemical LLC (Earth-616)|Briggs Chemical LLC]], alongside [[Robert Farrell (Earth-616)|Rocket Racer]], as he was there to learn about being a machine intelligence by working with [[Jocasta Pym (Earth-616)|Jocasta]], who was affiliated with [[Jeremy Briggs (Earth-616)|Jeremy Briggs]].{{r|Avengers Academy #26}}
+
+| Powers                  = 
+'''Android Body:''' As an android he possesses all of the various superhuman attributes:
+*'''Superhuman Strength:''' As an android he is superhumanly strong and possesses beyond the  human limit. He easily rips open a steel door, freeing his friends from their captors.
+*'''Superhuman Speed:''' As an android he can run and move at speeds that are beyond the physical limits of the finest human athlete.
+*'''Superhuman Durability:''' As an android his construction makes him very durable. 
+*'''Superhuman Stamina:''' As an android he can exert itself well beyond the human limit.
+*'''Superhuman Agility:''' As an android his agility, balance, and bodily coordination are enhanced to levels that are beyond the natural physical limits of the finest human athlete.
+* '''Computer Brain:''' Adam has the ability to remember and easily memorize a lot of information.
+* '''Upgrades:''' During the [[House of M]] event, he was given several new features. While he is disassembled and experimented on, he is still able to talk and function properly. He is also able to reconnect his body parts with little issue, being able to draw his parts back to him. It is not explained what mechanism allows him to do so. Additionally, Adam can transform his arms into guns.{{r|All-New Official Handbook of the Marvel Universe A to Z #6}}
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = * '''EMP:''' One weakness is any electromagnetic pulse can disable, or possibly kill, him. This is evidenced when he threatens to kill himself with an electromagnetic device, that his dad had made, in order to stop Radcliffe from hurting his father and friends. 
+* '''Re-programming:''' Adam can be hacked and reprogrammed. However, his father stated that he heavily encrypted Adam's files, as even Radcliffe was not able to take control of him.
+* '''Seizures:''' Before discovering his was a robot, Adam would suffer from seizures, which would cause him to pass out. These seizures were due to his mind not being able to understand why he could perform incredible feats of strength. When his seizures occur, Dr. Aaronson has to reboot him and wipe his memory. Since realizing why he had his abilities, Adam has not had this problem. 
+* '''High Powered Attack:''' While Adam is resistant to physical attacks, he cannot resist high powered attacks. While trying to escape Radcliffe, Adam is shot with a high powered machine gun which nearly destroys him. Parts of him are blown away and he's left barely able to move.
+* '''Central Database:''' His chest cavity houses his central computer core, which stores all his information. If the core is removed, his father installed a fail-safe which would cause Adam to self-destruct, in order to prevent anyone from recreating him for other purposes. Adam is still able to function even without the data core, but it is unknown for how long, and it is unknown how long the self-destruct sequence is. Once the core is removed, the sequence is irreversible. While this destroys Adam's body, it also kills anyone in the vicinity, with the blast having a wide area of effect.
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+* Adam has always had an interest in superheroes and had posters depicting them in his room when he still believed himself to be human.{{r|Machine Teen Vol 1 2}}
+* The original body his father built for him had gold eyes,{{r|Machine Teen Vol 1 1|5}} the second had blue.{{r|Machine Teen Vol 1 5}}
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Artificial Intelligences]]
+[[Category:Holden Radcliffe Experiment]]

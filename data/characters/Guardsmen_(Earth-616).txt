@@ -1,0 +1,38 @@
+{{Marvel Database:Team Template
+| Image                   = Guardsmen (Earth-616) from Avengers Annual Vol 1 15 0001.jpg
+| Name                    = [[Guardsmen]]
+| Aliases                 = 
+| Status                  = Active
+| Identity                = Public
+| Reality                 = Earth-616
+| BaseOfOperations        = [[Vault (Prison)|Vault]], [[Colorado (State)|Colorado]] [[Rocky Mountains]]
+
+| Leaders                 = 
+| CurrentMembers          = [[Baker (Guardsman) (Earth-616)|Baker]], [[Eddie (Guardsman) (Earth-616)|Eddie]], [[Emilio Layton (Earth-616)|Emilio Layton]], [[Harry Bright (Earth-616)|Harry Bright]], [[Jim Cunningham (Earth-616)|Jim Cunningham]], [[Marc Danson (Earth-616)|Marc Danson]], [[Paul Danvers (Earth-616)|Paul Danvers]], [[Patrick Herbert (Earth-616)|Patrick Herbert]], [[Mike Ivy (Earth-616)|Mike Ivy]], [[Howard Samuels (Earth-616)|Howard Samuels]], [[Eliot Villagran (Earth-616)|Eliot Villagran]],
+| FormerMembers           = [[Frank Ensign (Earth-616)|Frank Ensign]], [[Hugh Taylor (Earth-616)|Hugh Taylor]], [[Scott Washington (Earth-616)|Scott Washington]], [[Curtis Elkins (Earth-616)|Curtis Elkins]], [[Marty Delarosa (Earth-616)|Marty Delarosa]], [[Rick McLaurin (Earth-616)|Rick McLaurin]], [[Ravello Medina (Earth-616)|Ravello Medina]], [[Michael O'Brien (Earth-616)|Michael O'Brien]], [[Corben Rubinstein (Earth-616)|Corben Rubinstein]], [[Pascal Tyler (Earth-616)|Pascal Tyler]], [[Jennifer Stewart (Earth-616)|Jennifer Stewart]], other unnamed others
+| Allies                  = [[Anthony Stark (Earth-616)|Iron Man]]
+| Enemies                 = 
+
+| Origin                  = Government-funded armor-wearing security force
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Danny Fingeroth; Steve Ditko
+| First                   = Avengers Annual Vol 1 15
+| Last                    = 
+
+| HistoryText             = The Guardsmen are a group of elite pilots from the U.S. military that wear the [[Guardsman Armor|Guardsman armor]] designed by [[Anthony Stark (Earth-616)|Tony Stark]].
+
+The original, single suit of Guardsman armor was worn by Tony's close associate [[Kevin O'Brien (Earth-616)|Kevin O'Brien]] before he was accidentally killed. [[Michael O'Brien (Earth-616)|Kevin's brother]] took up wearing the armor to avenge his brother's death, and he later continued to wear it after becoming the head of security for [[Project P.E.G.A.S.U.S. (Earth-616)|Project P.E.G.A.S.U.S.]]. When [[Justin Hammer (Earth-616)|Justin Hammer]] took over [[Stark Industries (Earth-616)|Stark Industries]] (at the time under the name "[[Stane International (Earth-616)|Stane International]]"), he produced and sold 41 copies of the armor to the U.S. military for their guards working at the maximum security prison, the [[Vault (Prison)|Vault]]. These prison guards became the first Guardsmen.{{r|Avengers Annual #15}}
+
+When Iron Man began his [[Armor Wars I|Armor Wars]], he attempted to disable or take back any armor designs sold by Justin Hammer, including the ones in use at the Vault. Stark fought and disabled all of the old Guardsmen armors,{{r|Iron Man #228}} so afterward Hammer re-armed the Guardsmen with armor of weaker technology (because it was not copied from Stark's original Guardsman suit this time). These weaker suits left the Guardsmen unable to stop to a mass escape of prisoners later.{{r|Avengers Spotlight #26}} After eventually regaining control of his company, Stark entered into a new agreement with the U.S. government to provide a better, more powerful set of Guardsmen armor suits to the Vault, but made sure the set was bound to the generators of the facility so they could not be used outside of the Vault.{{r|Avengers Spotlight #29}}
+
+After the closing of the Vault,{{r|Heroes for Hire #1}} the U.S. government still occasionally continued using Guardsmen in security and detention matters.{{r|Spider-Man: Breakout #1}}
+
+| Equipment               = [[Guardsman Armor]]
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * http://en.wikipedia.org/wiki/Guardsman_(comics)#Other_Guardsmen
+}}

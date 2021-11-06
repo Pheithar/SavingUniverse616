@@ -1,0 +1,33 @@
+{{Marvel Database:Organization Template
+| Image                   = Dirae (Earth-616) from Thunderbolts Vol 1 156 001.png
+| Name                    = Dirae
+| EditorialNames          = 
+| Aliases                 = 
+
+| OrganizationLeaders     = [[Arthur Nagan (Earth-616)|King of the Gorilla Men]]
+| CurrentMembers          = 
+| FormerMembers           = 
+
+| Identity                = No Dual
+| Affiliation             =
+| Allies                  = 
+| Enemies                 = [[Thunderbolts (Earth-616)|Thunderbolts]]
+
+| Origin                  = 
+| Reality                 = Earth-616
+| Status                  = Active
+| BaseOfOperations        = [[Gothenvald Castle]], [[Stuttgart]]
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+
+| Creators                = Jeff Parker; Kev Walker
+| First                   = Thunderbolts Vol 1 156
+
+| History                 = The Dirae were offspring of the [[Furies (Earth-616)|Furies]], who confronted the [[Thunderbolts (Earth-616)|Thunderbolts]] as they approached [[Gothenvald Castle]].{{r|Thunderbolts Vol 1 156}}
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

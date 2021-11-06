@@ -1,0 +1,52 @@
+{{Marvel Database:Character Template
+| Image                   = Lord Drain (Earth-616) from Winter Soldier The Bitter March Vol 1 2 001.jpg
+| Name                    = 
+| CurrentAlias            = [[The Drain|Lord Drain]]
+| Aliases                 = 
+
+| Affiliation             = {{m|Hydra}}'s {{m|Unknown Council}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Blue
+| Hair                    = White
+| UnusualSkinColor        = White
+| UnusualFeatures         = Albinism
+
+| Origin                  = [[Homo sapiens|Human]] [[Mutate]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = Iceland
+| Occupation              = Assassin
+| Education               = 
+| BaseOfOperations        = [[Iceland]]
+
+| Creators                = Rick Remender; Roland Boschi
+| First                   = Winter Soldier: The Bitter March Vol 1 2
+
+| History                 = Lord Drain works for the Icelandic chapter of [[Hydra (Earth-616)|Hydra]] as [[Chancellor Cassandra (Earth-616)|Chancellor Cassandra]]’s right hand man. He is a renowned assassin, credited with a considerable body count, as well as an accomplished psychic.{{r|Winter Soldier: The Bitter March Vol 1 2}}
+
+| Powers                  = 
+'''[[Telepathy]]:''' Lord Drain possesses the ability to read the minds and thoughts of other beings.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Telepaths]]
+[[Category:Albinism]]

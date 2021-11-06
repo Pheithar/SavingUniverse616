@@ -1,0 +1,40 @@
+{{Marvel Database:Team Template
+| Image                   = Great Captains of Krakoa (Earth-616) from X-Men Vol 5 4 001.jpg
+| ImageSize               = 250px
+| Name                    = The Great Captains of Krakoa
+| Aliases                 = 
+
+| Status                  = Active
+| Identity                = Secret <!-- No evidence that this is public knowledge worldwide. -->
+| Reality                 = Earth-616
+| BaseOfOperations        = [[Krakoa (Earth-616)|Krakoa]]
+
+| Leaders                 = '''Captain Commander:''' [[Lucas Bishop (Earth-1191)|Bishop]]; formerly [[Scott Summers (Earth-616)|Cyclops]]
+| CurrentMembers          = [[Scott Summers (Earth-616)|Cyclops]], [[Illyana Rasputina (Earth-616)|Magik]], [[Kwannon (Earth-616)|Psylocke]]
+| FormerMembers           = [[Tomi Shishido (Earth-616)|Gorgon]]
+| Allies                  = [[Quiet Council of Krakoa (Earth-616)|Quiet Council of Krakoa]], [[X-Men (Earth-616)|X-Men]]
+| Enemies                 = 
+
+| Origin                  = Group of [[Homo superior|mutants]] responsible for coordinating the defense of, and leading excursions for, the nation-state of [[Krakoa (Earth-616)|Krakoa]].{{r|House of X Vol 1 6}}
+| PlaceOfFormation        = [[Krakoa (Earth-616)|Krakoa]]
+| PlaceOfDissolution      = 
+| Creators                = Jonathan Hickman; Leinil Francis Yu
+| First                   = X-Men Vol 5 4
+| Last                    = 
+
+| HistoryText             = The Great Captains of Krakoa was established by the [[Quiet Council of Krakoa (Earth-616)|Quiet Council of Krakoa]] for the purpose of advancing the interests of the nation's military. Each Captain of Krakoa is in charge of a specific jurisdiction. The Captain Commander is chief among all Captains.{{r|House of X Vol 1 6}} This post was initially held by [[Scott Summers (Earth-616)|Cyclops]], but after reforming the [[X-Men (Earth-616)|X-Men]] he stepped down from this post and was succeeded by [[Lucas Bishop (Earth-1191)|Bishop]]. {{r|Inferno Vol 2 1}} 
+
+The four Great Captains of Krakoa and their jurisdictions are:{{r|X-Men Vol 5 4}}
+* '''[[Lucas Bishop (Earth-1191)|Bishop]]:''' Captain Commander, member of the [[Marauders (Pryde) (Earth-616)|Marauders]] and the [[Hellfire Club (Earth-616)|Hellfire Trading Company]], acts as security for the Hellfire Trading Company's activities.
+* '''[[Scott Summers (Earth-616)|Cyclops]]:''' Former Captain Commander and leader of the [[X-Men (Earth-616)|X-Men]].
+* '''[[Illyana Rasputin (Earth-616)|Magik]]:''' Member of the [[New Mutants (Earth-616)|New Mutants]], acts in the [[Akademos Habitat|Sextant]] being mostly in charge of squadrons formed by younger generations of mutants.
+* '''[[Kwannon (Earth-616)|Psylocke]]:''' Personal bodyguard for members of the [[Quiet Council of Krakoa (Earth-616)|Quiet Council of Krakoa]]. Succeeded [[Tomi Shishido (Earth-616)|Gorgon]] after his death in [[Otherworld]] left him unable to fulfill his duties. 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

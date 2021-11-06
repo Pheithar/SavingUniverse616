@@ -1,0 +1,52 @@
+{{Marvel Database:Character Template
+| Image                   = Whiplash (Thunderbolts) (Earth-616) from Thunderbolts Vol 1 104 001.jpg
+| Name                    = Unknown
+| CurrentAlias            = [[Whiplash (Thunderbolts)|Whiplash]]
+| Aliases                 = 
+
+| Affiliation             = {{m|Thunderbolts (Earth-616)|Thunderbolts Army}}
+| Relatives               = [[Blacklash (Thunderbolts) (Earth-616)|Blacklash]] (husband)
+| MaritalStatus           = Married
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Red
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Assassin
+| Education               = 
+| BaseOfOperations        = Mobile
+
+| Creators                = Fabian Nicieza; Tom Grummett
+| First                   = Thunderbolts Vol 1 104
+| Last                    = 
+| Death                   = 
+
+| History                 = When Whiplash and her partner [[Blacklash (Thunderbolts) (Earth-616)|Blacklash]] first appear their coversation with [[Andreas von Strucker (Earth-616)|Swordsman]] shows that they have known him for some time.
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = Wields an electrified whip
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+
+}}

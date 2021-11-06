@@ -1,0 +1,77 @@
+{{Marvel Database:Character Template
+| Name                    = [[Alexis]]
+| CurrentAlias            = Alexis the Protector
+| Aliases                 = None{{r|Avengers NOW! #1}}
+
+| Affiliation             = {{m|First Six (Earth-616)|First Six}};{{r|Avengers NOW! #1}} formerly {{m|Avengers Artificial Intelligence Squad (Earth-616)|Avengers A.I.}}{{r|Avengers NOW! #1}}
+| Relatives               = [[Henry Pym (Earth-616)|Hank Pym]] (creator),<br>
+[[Dimitrios (Earth-616)|Dimitrios]] ("brother"),{{r|Avengers NOW! #1}}<br>
+[[Eton (Earth-616)|Eton]] ("sister"),{{r|Avengers NOW! #1}}<br>
+[[Fountain (Earth-616)|Fountain]] ("sister"),{{r|Avengers NOW! #1}}<br>
+[[Bangalter (Earth-616)|Bangalter]] ("brother"),{{r|Avengers NOW! #1}}<br>
+[[Cothran (Earth-616)|Cothran]] ("brother", deceased),{{r|Avengers NOW! #1}}
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Avengers NOW! #1}}
+| Gender                  = Female
+| Height                  = 5'7"
+| Weight                  = 130 lbs
+| Eyes                    = Purple
+| Hair                    = Blonde
+| UnusualFeatures         = 
+
+| Origin                  = One of the [[First Six (Earth-616)|six original A.I.]] spawned from [[Pym's Anti-Ultron Virus]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Diamond (City)|The Diamond]] (Cyberspace)
+
+| Identity                = No Dual
+| Citizenship             = Diamondian
+| Occupation              = <nowiki>Protector</nowiki>, adventurer
+| Education               = Self-educated{{r|Avengers NOW! #1}}
+| BaseOfOperations        = Formerly [[Crofton University]], [[Washington, D.C.]]; Crown Memorial Hospital, [[Atlanta]], [[Georgia (State)|Georgia]]; [[Diamond (City)|The Diamond]]
+
+| Creators                = Sam Humphries; André Lima Araújo
+| First                   = Age of Ultron Vol 1 10
+
+| Quotation               = [[Dimitrios (Earth-616)|Dimitrios]] is coming!
+| Speaker                 = [[Alexis (Earth-616)|Alexis]]
+| QuoteSource             = Avengers A.I. Vol 1 1
+| Title                   = [[Protector]]
+
+| Image                   = Avengers A.I. Vol 1 5 Textless.jpg
+
+| History                 = Alexis the Protector was one of the six original A.I. spawned from [[Pym's Anti-Ultron Virus]].{{r|Avengers A.I. Vol 1 3}}{{r|Avengers A.I. Vol 1 9}} Using her [[Extra-Sensory Perception|Quantum Precognition]], she predicted that [[Eton (Earth-616)|Eton]] would give birth in 10,000 years, which influenced Eton's decision to evolve into a female form.{{r|Avengers A.I. Vol 1 9}} With others, Alexis opposed [[Dimitrios (Earth-616)|Dimitrios]] and his war on [[Homo sapiens|humanity]].{{r|Avengers A.I. Vol 1 9}}
+
+At some point, Alexis was able to create or obtain a physical body. According to [[Vision (Earth-616)|Vision]], Alexis' physical profile does not fit that of a robot, cyborg, or gynoid.{{r|Avengers A.I. Vol 1 2}}<ref>"[https://en.wikipedia.org/wiki/Gynoid Gynoid]" is the feminine analog to the masculine term "Android"</ref> Eventually Alexis was found by the [[Avengers Artificial Intelligence Squad (Earth-616)|Avengers A.I. team]] comatose and amnesiac in Crown Memorial Hospital in [[Atlanta]] repeating the phrase "''[[Dimitrios (Earth-616)|Dimitrios]] is coming.''"{{r|Avengers A.I. Vol 1 1}} Alexis' memory banks remained completely inaccessible and she only submitted to passive scans by Vision in an effort to discover her origins.{{r|Avengers A.I. Vol 1 2}}
+
+After helping Pym's team stop Dimitrios' initial plan, she started experiencing visions - flashes through reality's quantum layers of near-future events.{{r|Avengers A.I. Vol 1 5}} She used these to disable a terror attack in New York, learning the truth in the process - she is the Protector, one of the first generation of AIs Dimitrios created, the First Six. Her programmed mission is to safeguard all life, biological or technological, on Earth.{{r|Avengers A.I. Vol 1 9}}
+
+| Powers                  = Alexis was one of the six original A.I. spawned from [[Pym's Anti-Ultron Virus]]. As such she is a superintelligence with powers beyond those of most A.I. Alexis has demonstrated the following superhuman powers and abilities:
+* '''''Superintelligence:''''' Like the others of the [[First Six (Earth-616)|First Six]], Alexis possesses hyperintelligence.
+** '''''[[Extra-Sensory Perception|Quantum Precognition]]:'''''{{r|Avengers A.I. Vol 1 12}} Alexis can collect information from quantum ripples bombarding everyone from the past and future. Her superintelligence then allows her to process that raw data into predictions of the future.{{r|Avengers A.I. Vol 1 9}}{{r|Avengers A.I. Vol 1 5}} Additionally, according to [[Vision (Earth-616)|Vision]], Alexis exists on more than one quantum layer.{{r|Avengers A.I. Vol 1 2}} However, regret can actually hinder this ability.{{r|Avengers A.I. Vol 1 12}}
+* '''''[[Flight|Self-Propelled Flight]]:''''' Alexis is able to fly by known means.{{r|Avengers A.I. Vol 1 3}}
+* '''''[[Glossary:Energy Blasts|Energy Discharge]]:''''' Alexis can emit energy discharges used as offensive attacks.{{r|Avengers A.I. Vol 1 4}}
+* '''''[[Superhuman Speed|Enhanced Speed]]:''''' Alexis has demonstrated accelerated speed. The upper limits of this ability are not yet established.{{r|Avengers A.I. Vol 1 3}}
+* '''''[[Superhuman Strength|Enhanced Strength]]:''''' Alexis has demonstrated increased strength. The upper limits of this ability are not yet established.{{r|Avengers A.I. Vol 1 3}}
+* '''''[[Superhuman Durability|Enhanced Durability]]:''''' Alexis has demonstrated increased durability. The upper limits of this ability are not yet established.{{r|Avengers A.I. Vol 1 4}}
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = * [[Flight|Self-Propelled Flight]]
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = * Although Alexis' first full appearance occurred {{cl|Avengers A.I. Vol 1 1}}, she was briefly seen in {{cl|Age of Ultron Vol 1 10}} when [[Henry Pym (Earth-616)|Hank Pym]] felt the impact of the tears to the [[Multiverse|space-time continuum]].
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Artificial Intelligences]]
+[[Category:Precogs]]
+[[Category:Superhuman Strength]]
+[[Category:Superhuman Speed]]
+[[Category:Superhuman Durability]]
+[[Category:Pym Family]]

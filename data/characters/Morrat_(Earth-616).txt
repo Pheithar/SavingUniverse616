@@ -1,0 +1,61 @@
+{{Marvel Database:Character Template
+| Image                   = Morrat (Earth-616) from Fantastic Four Vol 1 37 001.jpg
+| Name                    = [[Morrat]]
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = [[Skrulls]]
+| Relatives               = [[Anelle (Earth-616)|Princess Anelle]] (ex-fiancee)
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = Variable
+| Weight                  = Variable
+| Eyes                    = Green
+| Hair                    = Bald; Black moustache
+| UnusualSkinColor        = Green
+| UnusualFeatures         = Pointed ears
+
+| Origin                  = [[Deviant Skrull|Skrull]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Skrull Empire]]
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = Skrull Empire
+| Occupation              = Head of the Skrull military forces
+| Education               = 
+| BaseOfOperations        = [[Skrull Empire]]
+
+| Creators                = Stan Lee; Jack Kirby
+| First                   = Fantastic Four #32
+| Death                   = Fantastic Four #37
+
+| History                 = Morrat was the warlord of the [[Skrulls|Skrull]] army, answerable only to [[Dorrek VII (Earth-616)|Emperor Dorrek VII]] during his time in command. As Head of Skrull military forces, Morrat engineered the plot against the [[Fantastic Four (Earth-616)|Fantastic Four]] that resulted in the death of [[Franklin Storm (Earth-616)|Franklin Storm]], the father of [[Susan Storm (Earth-616)|Invisible Woman]] and the [[Jonathan Storm (Earth-616)|Human Torch]].{{r|Fantastic Four #32}}
+
+Morrat later attempted to become engaged with the Emperor's daughter Princess [[Anelle (Earth-616)|Anelle]], but was refused by her father, despite Morrat being his greatest, most powerful warlord.
+
+[[File: Morrat (Earth-616) from Skrulls! Vol 1 1 001.jpg|thumb|left|Morrat]]
+When the Fantastic Four later traveled to the Skrull home world to avenge the death of Franklin Storm, Morrat captured the group. Planning to execute them in order to gain enough reputation to overthrow Dorrek as emperor, then to collaborate with them with that goal, Morrat hid the capture to the emperor's pointed ears, but Anelle revealed it, prompting the emperor to take measure against Morrat. Dorrek stripped him of his rank and branded him a traitor to the Skrull empire. He was executed by Dorrek's soldiers. Dorrek then explained that, unlike Morrat, he was uninterested in conquering Earth.{{r|Fantastic Four #37}}
+
+| Powers                  = * '''Skrull Shapeshifting''': Like other [[Skrulls]], Morrat is a shapeshifter. They can mentally cause the [[Unstable Molecules]] that comprise his or her body to become pliant, enabling him or her to assume other forms through muscular expansion and contraction. Once a new shape has been assumed, it takes a conscious act of will to assume another form or revert to natural. Hence, Skrulls do not spontaneously lose their assumed form when asleep or unconscious. Skrulls in altered form will, however, revert to their original forms at the moment of death. 
+| Abilities               = * '''Skrull Military Training''':  is a trained [[Skrulls|Skrull]] soldier.
+** '''Aviation''': is trained in the use of the advanced warp-drive starships of the [[Skrulls|Skrull]]-military.
+** '''Unarmed Combat''': is trained in the unarmed combat of the [[Skrulls|Skrull]]-military.
+** '''Marksmanship''':  is trained in the use of the ranged energy-weaponry of the [[Skrulls|Skrull]]-military.
+| Strength                = 
+| Weaknesses              = * '''Skrull Shape-Shifting''': Skrulls only take on the appearance of an object or person and none of that object or person’s characteristics. There is a limit to the size of the object or person a Skrull can imitate. The average Skrull cannot distend his or her mass any more than 1.5 times as large a volume as his or her original volume, nor can he or she contract his or her mass any more than 0.75 a volume as his or her original. 
+
+| Equipment               = * '''[[Skrulls|Skrull]]-Military Uniform''': wears a [[Skrulls|Skrull]]-military uniform, which alters as he changes shape and size.
+| Transportation          = * '''[[Skrulls|Skrull]]-Military Transport''': will frequently use the advanced warp-drive starships of the [[Skrulls|Skrull]]-military.
+| Weapons                 = 
+* '''[[Skrulls|Skrull]]-Military Weaponry''': will frequently use the ranged energy-weaponry of the [[Skrulls|Skrull]]-military.
+
+| Notes                   =  
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Warlords]]

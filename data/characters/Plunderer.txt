@@ -1,0 +1,13 @@
+{{DisambiguationFull
+|main         = Parnival Plunder (Earth-616)
+|main_name    = Parnival Plunder
+|main_title   = Plunderer
+|main_image   = Plunderer in Captain America and the Mighty Avengers Vol 1 1.png
+|logo         = 
+|noimage      = No Image Male.jpg
+|description  =
+
+|alternative1     = Edgar Plunder
+
+| Related1       =  [[Plunderer (Impersonator) (Earth-616)|Impersonator]]; Plunderer (Impersonator) (Earth-616) from Civil War Vol 1 6 001.png 
+ }}

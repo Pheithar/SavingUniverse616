@@ -1,0 +1,51 @@
+{{Marvel Database:Character Template
+| Image                   = Dinu (Earth-616) from Inhumans Vol 3 4 001.jpg
+| Name                    = Dinu
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{m|Inhuman Royal Guard}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Bald
+| UnusualSkinColor        = 
+| UnusualFeatures         = Wears a mask to cover his face
+
+| Origin                  = [[Inhomo supremis|Inhuman]] powered by [[Terrigenesis]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Attilan]]
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = Attilan
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = [[Attilan]]
+
+| Creators                = Paul Jenkins
+| First                   = Inhumans Vol 2 2
+| Death                   = 
+
+| History                 = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = He wears a mask because his face was deformed after [[Terrigenesis]].
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

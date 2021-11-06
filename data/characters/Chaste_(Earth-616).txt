@@ -1,0 +1,33 @@
+{{Marvel Database:Organization Template
+| Image                   = Chaste (Earth-616) from Daredevil Vol 1 190 0001.jpg
+| Name                    = Chaste
+| Aliases                 = Disciples of the Seven{{Citation}}
+
+| OrganizationLeaders     = 
+| CurrentMembers          = 
+| FormerMembers           = [[Claw (Chaste) (Earth-616)|Claw]], [[Flame (Chaste) (Earth-616)|Flame]],  [[Shaft]], [[Star (Chaste) (Earth-616)|Star]], [[Stick (Earth-616)|Stick]], [[Stone (Chaste) (Earth-616)|Stone]], [[Spear (Chaste) (Earth-616)|Spear]], [[Trahn (Earth-616)|Trahn]], [[Wing (Chaste) (Earth-616)|Wing]], [[Izo (Earth-616)|Izo]], [[Drake (Earth-616)|Drake]] (student)
+
+| Identity                = Secret
+| Affiliation             =
+| Allies                  = [[Matthew Murdock (Earth-616)|Daredevil]], [[Natalia Romanova (Earth-616)|Black Widow]]
+| Enemies                 = [[Hand (Earth-616)|The Hand]]
+
+| Origin                  = 
+| Reality                 = Earth-616
+| Status                  = Defunct
+| BaseOfOperations        = [[China]]
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+
+| Creators                = Frank Miller; Klaus Janson
+| First                   = Daredevil Vol 1 187
+
+| History                 = The Chaste was a mystical martial arts enclave founded by [[Izo (Earth-616)|Izo]],{{Citation}} and led by [[Stick (Earth-616)|Stick]]. They lived apart from society in a remote wilderness location in [[China]] that could only be accessed by climbing "[[Wall of the Chaste|the Wall]]," a sheer cliff too high for the average human being. The climb also served as an entrance exam.{{r|Daredevil Vol 1 190}} The Chaste's mission was to combat [[Hand (Earth-616)|the Hand]], a clan of ninja that worship an ancient spirit named [[Beast (Demon) (Earth-616)|the Beast]].{{r|Daredevil Vol 1 189}}
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = Disciples of the Chaste are highly trained to use anything around them as a weapon.
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Chinese Organizations]]

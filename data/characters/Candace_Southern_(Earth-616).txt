@@ -1,0 +1,80 @@
+{{Marvel Database:Character Template
+| Title                   = [[Candy Southern|Candy Southern]]
+| Image                   = Candy Southern (Earth-616) from X-Men Vol 1 132 0001.jpg
+| Name                    = [[Candy Southern|Candace "Candy" Southern]]
+| CurrentAlias            = 
+| Aliases                 = [[Marvel Girl]],{{r|X-Men: The Hidden Years #10}} Southern Belle,{{r|Defenders #151}} 0-39-01{{citation}}
+
+| Affiliation             = Formerly {{m|Hellfire Club}} (hereditary membership); {{m|Defenders}} (leader); {{m|X-Men}}'s ally; {{m|Worthington Industries}}, {{m|United Nations}}
+| Relatives               = David and Linda Southern (parents)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|X-Men: Earth's Mutant Heroes #1}}
+| Gender                  = Female
+| Height                  = 5'7"
+| Weight                  = 117 lbs
+| Eyes                    = Blue
+| Hair                    = Black
+| Hair2                   = (sometimes [[:Category:Dyed Hair|dyed]])[[Category:Dyed Hair]][[Category:Infobox Eyes Update Needed]]
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Glen Cove]], [[Long Island]], [[New York (State)|New York]]
+| PlaceOfDeath            = [[New York City]], [[New York (State)|New York]]
+| CauseOfDeath            = Killed by [[Cameron Hodge (Earth-616)|Cameron Hodge]]
+| KilledBy                = Cameron Hodge (Earth-616)
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Former corporate executive, super-hero team leader, socialite, UN employee
+| Education               = Unspecified studies at [[Archer College]], finishing school graduate
+| BaseOfOperations        = [[New York City]], [[New York (State)|New York]]; formerly [[Defenders Mansion]], [[Colorado (State)|Colorado]]
+
+| Creators                = Roy Thomas; Werner Roth
+| First                   = X-Men #31
+| Death                   = X-Factor #34
+
+| History                 = [[File:Candace Southern (Earth-616) from X-Men Vol 1 31 001.jpg |thumb|left]]
+===Origin===
+'''Candace "Candy" Southern''' was a childhood friend of [[Warren Worthington III (Earth-616)|Warren Worthington III]].{{r|X-Men #31}}
+
+===[[X-Men (Earth-616)|X-Men]]===
+She was reunited with Warren{{r|X-Men #31}} and first met the [[X-Men (Earth-616)|X-Men]] at [[Robert Drake (Earth-616)|Bobby Drake]]'s 18th birthday party, where Worthington impressed her by cleverly opposing a biker gang bent to spoil the event. However, at that time Worthington was infatuated with his classmate [[Jean Grey (Earth-616)|Jean Grey]] and did not want to use Southern as a "second dish", so he initially refused to date her.{{r|X-Men #32}}
+
+Candy and Warren later began dating and were out on a date the night that [[Warren Worthington Jr. (Earth-616)|Warren's father]] was killed.{{r|Ka-Zar #2}} During this time, Candy learned of Warren's superhero identity as the Angel and visited [[Charles Xavier (Earth-616)|Professor Xavier]]'s [[Xavier's School for Gifted Youngsters|School for Gifted Youngsters]], the X-Men's headquarters.{{r|X-Men: The Hidden Years #5}}
+
+While helping [[Scott Summers (Earth-616)|Cyclops]] and [[Jean Grey (Earth-616)|Marvel Girl]] locate Warren, Candy pretended to be '''Marvel Girl''' by dressing in her costume to confuse [[Frederick Dukes (Earth-616)|Blob]] and [[Jason Wyngarde (Earth-616)|Mastermind]].{{r|X-Men: The Hidden Years #10}}
+
+[[File:Candace Southern (Earth-616) from X-Men The Hidden Years Vol 1 10 001.jpg|left|100px]]
+===[[Hellfire Club (Earth-616)|Hellfire Club]]===
+Sometime after this, Candy and Warren attended a function at the [[Hellfire Club (Earth-616)|Hellfire Club]], having both inherited membership to the club but never attended before. They did not enjoy the experience, however, and soon left. As only casual members of the Hellfire Club, they were not aware of the Inner Circle's criminal machinations. They later used their membership to arrange invitations to a party at the club for the X-Men so they could infiltrate the club and attempt to rescue Jean Grey, who had been mentally controlled and abducted by them.{{r|X-Men #132}}
+
+After Warren's second superhero team, the [[Champions of Los Angeles (Earth-616)|Champions of Los Angeles]] disbanded after financial problems, Candy and Warren began living together in his homes in [[New York City|New York]], [[Colorado (State)|Colorado]], and [[San Francisco]].{{r|Incredible Hulk Annual #7}}{{r|Uncanny X-Men #169}}
+
+===[[New Defenders (Earth-616)|Defenders]]===
+Warren later joined the [[New Defenders (Earth-616)|Defenders]], and Candy began working for the team in a supporting role. She was subsequently named leader of the Defenders in non-combat contexts.{{r|Defenders #138}}
+
+===X-Factor===
+After Warren joined his original X-Men teammates on a new team, [[X-Factor (Earth-616)|X-Factor]], his relationship with Candy became strained. Candy broke up with Warren and left her job with [[Worthington Industries (Earth-616)|Worthington Industries]] because she mistakenly believed Warren was having an affair with his teammate Jean Grey.{{r|X-Factor #10}}
+
+===Death===
+Candy was later kidnapped and killed by [[Cameron Hodge (Earth-616)|Cameron Hodge]], a former friend of Warren and Candy who had betrayed X-Factor as part of an anti-mutant plot.{{r|X-Factor #34}} Later, the [[Phalanx (Race)|Phalanx]] produced a cybernetic duplicate of Candy Southern. The duplicate died during a fight between Cameron Hodge, who had joined the Phalanx, and Archangel and Jean Grey.{{r|Uncanny X-Men #306}}
+
+| Powers                  = 
+| Abilities               = Candy was an experienced business leader.
+| Strength                = Candy possessed the normal human strength of a woman of her age, height, and build who engaged in moderate regular exercise. 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = * The name Candace Southern was inspired by Terry Southern, a satirical writer popular during the 1960s, and by Southern's novel ''Candy''.{{citation}}
+
+| Marvel                  = 
+| Wikipedia               = Candace Southern
+| Links                   = 
+* [http://www.marvunapp.com/Appendix3/candysoutherndef.htm Candace Southern at marvunapp]
+}}

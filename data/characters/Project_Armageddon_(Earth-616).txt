@@ -1,0 +1,37 @@
+{{Marvel Database:Organization Template
+| Image                   = Project Armageddon (Earth-616) from Domino Vol 2 2 001.png
+| Name                    = Project: Armageddon
+| EditorialNames          = 
+| Aliases                 = [[Project Armageddon]]{{r|Domino Vol 2 2}}
+
+| OrganizationLeaders     = [[Steven Lang (Earth-616)|Steven Lang]]; formerly [[General (Project Armageddon) (Earth-616)|The General]]
+| CurrentMembers          = [[Character Index/C#Charlie|Charlie]]
+| FormerMembers           = [[General (Project Armageddon) (Earth-616)|The General]], 
+----
+''Subjects:'' [[Neena Thurman (Earth-616)|Domino]], [[Lazarus (Domino's Brother) (Earth-616)|Lazarus]]{{r|Domino Vol 2 3}}
+
+| Identity                = Secret
+| Affiliation             =
+| Allies                  = [[Edward Buckman (Earth-616)|Edward Buckman]]<!-- ally/benefactor or member? -->
+| Enemies                 = [[Homo superior|Mutantkind]], [[Neena Thurman (Earth-616)|Domino]]
+
+| Origin                  = Clandestine super-soldier program{{r|Domino Vol 3 1|'s recap}}
+| Reality                 = Earth-616
+| Status                  = Active
+| BaseOfOperations        = [[Project Armageddon Base]], [[Everglades]], [[Florida (State)|Florida]]{{r|Domino Vol 2 3}}
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+
+| Creators                = Chris Claremont; Bill Mantlo
+| First                   = X-Men Vol 1 96
+
+| History                 = Project Armageddon was a clandestine super-solder program and top secret genetics experiment that was dedicated to artificially inseminating female subjects to produce a mutant offspring that the United States government could research and develop as a genetic weapon. By experimenting on the subject known as Beatrice, the program yielded multiple subjects, notably [[Neena Thurman (Earth-616)|Domino]], but all proved to be failures until program yielded a successful subject in the form of [[Lazarus (Domino's Brother) (Earth-616)|Lazarus]].{{r|Domino Vol 2 4}}
+| Equipment               = [[Sentinel MK III]]{{r|X-Men #98|99}}
+| Transportation          = 
+| Weapons                 = 
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:American Organizations]]
+[[Category:Super-Soldier Programs]]

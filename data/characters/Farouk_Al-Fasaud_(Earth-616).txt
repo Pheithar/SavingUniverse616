@@ -1,0 +1,63 @@
+{{Marvel Database:Character Template
+| Image                   = Farouk Al-Fasaud (Earth-616) from Union Jack Vol 2 1 0001.jpg
+| Name                    = Farouk Al-Fasaud
+| CurrentAlias            = Fasaud
+| Aliases                 = 
+
+| Affiliation             = {{m|Radically Advanced Ideas in Destruction (Earth-616)|RAID}}; Informant of [[MI5 (Earth-616)|MI5]]; formerly government of [[Aqiria]]
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = {{cl|Marvel Encyclopedia Vol 1 Fantastic Four}}
+| Gender                  = Male
+| Height                  = 6' (originally; later insubstantial)
+| Weight                  = 185 lbs (originally; later insubstantial)
+| Eyes                    = Black
+| Hair                    = Black
+| UnusualFeatures         = Formerly resembled a crude CGI image
+
+| Origin                  = Accidental [[Mutates|mutate]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Aqiria]]
+
+| Identity                = No Dual
+| Citizenship             = Aqirians
+| Occupation              = Informant for MI6; former terrorist, Oil Minister of [[Aqiria]]
+| Education               = 
+| BaseOfOperations        = Mobile
+
+| Creators                = Steve Englehart; John Buscema
+| First                   = Fantastic Four Vol 1 308
+
+| History                 = 
+Once the powerful oil minister of [[Aqiria]] and—according to CBS journalist [[Gregory Dunbar (Earth-616)|Gregory Dunbar]]—the richest man on Earth—'''Farouk Al-Fasaud''' was ruined after Dunbar began an investigation into his life which uncovered unsavory information and prompted other journalists to follow suit, rapidly threatening bring Fasaud down. Blaming Dunbar for the scrutiny, Fasaud attempted to stab the journalist with a knife at a television studio but instead struck a camera. Somehow, the resulting electrical shock completely converted Fasaud into an electronic image. Dunbar escaped the incident unharmed.{{r|Fantastic Four #308}}
+
+Pursuing Dunbar to [[New York City]], Fasaud fought the [[Fantastic Four (Earth-616)|Fantastic Four]]. Fasaud nearly killed the [[Jonathan Storm (Earth-616)|Human Torch]] with his powers, but was thwarted by cable insulation wielded by the [[Benjamin Grimm (Earth-616)|Thing]].{{r|Fantastic Four #308}}
+
+The Thing and [[Sharon Ventura (Earth-616)|Ms. Marvel]] traveled to Aqiria to investigate the government to determine their ties to Fasaud. Meanwhile, Fasaud made another attempt to kill Dunbar, but was stopped by an electrical storm triggered by [[Crystalia Amaquelin (Earth-616)|Crystal]].{{r|Fantastic Four #309}}
+
+Retreating to Aqiria, Fasaud incapacitated the Thing and Ms. Marvel with an electrical discharge, then chained them to a launch shuttle. In orbit, Fasaud intended to hijack a satellite in order to transmit himself all over the world. Grimm destroyed the satellite, however, trapping Fasaud aboard the shuttle, then proceeded to destroy all the electronic equipment in the shuttle itself. The Thing and Ms. Marvel escaped, but Fasaud was left for dead.{{r|Fantastic Four #310}}
+
+Somehow, Fasaud survived, and recently aided [[Radically Advanced Ideas in Destruction (Earth-616)|R.A.I.D.]] in their terrorist attacks on London, using his ability to take over electronic devices to let known super-criminals into the country with their weapons without arousing suspicion. He was caught, however, by an [[MI5 (Earth-616)|MI5]] telepath who felt Fasaud's mind within the machinery. Threatened with execution via a localized electromagnetic pulse, Fasaud chose to aid the British government in containing the terrorists,{{r|Union Jack Vol 2 1}} but was thrown at R.A.I.D. agent [[Renee Deladier (Earth-616)|Ecstasy]] to defuse her connection to the [[:Glossary:Darkforce|Darkforce]] dimension and thus neutralize her powers after she had attacked MI5 headquarters in an attempt to release her cohorts.{{r|Union Jack Vol 2 3}} Apparently swallowed by the Darkforce, Fasaud's current whereabouts are unrevealed.
+
+| Powers                  = A living electronic image, Fasaud is able to make himself intangible, cause electrical injuries upon others (ranging from minor second-degree burns to full electrocution), teleport over great distances in less than an eyeblink, and enter and take over any electronic transmission device.
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = * Electrical insulation and thunderstorms disrupt Fasaud's body.
+* Though Fasaud believes himself immortal, it might be possible to kill him with a localized electromagnetic pulse.
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * http://en.wikipedia.org/wiki/Fasaud
+}}
+[[Category:Muslim Characters]]
+[[Category:Technopaths]]
+[[Category:Intangibility]]
+[[Category:Teleporters]]
+[[Category:Electrokinesis]]
+[[Category:Ministers]]

@@ -1,0 +1,86 @@
+{{Marvel Database:Character Template
+| Image                   = Edward Lavell (Earth-616) from Amazing Spider-Man Vol 3 5 001.jpg
+| Name                    = [[Edward Lavell|Edward "Eddie" Lavell]]
+| CurrentAlias            = Eel
+| Aliases                 = 
+
+| Affiliation             = {{m|Masters of Evil West Coast}}; {{m|Serpent Society|Serpent Solutions}}, formerly {{m|Masters of Evil}}; {{m|Serpent Squad (Sin's Team) (Earth-616)|Serpent Squad}}, {{m|Maggia}}, {{m|Black Cat's Gang}}, {{m|New Enforcers}}, [[Tilda Johnson (Earth-616)|Nightshade]]'s employee
+
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 5'10"
+| Weight                  = 192 lbs
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = Edward Lavell, through unknown means acquired the original [[Eel (Leopold Stryke)|Eel]]'s costume.{{r|Power Man and Iron Fist #92}}
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = Professional criminal, mob boss, crimelord
+| Education               = 
+| BaseOfOperations        = [[New York City|New York]], [[New York (State)|New York]]
+
+| Creators                = Kurt Busiek; Denys Cowan
+| First                   = Power Man and Iron Fist #92
+
+| Quotation               = '''Ha'''! [[Felicia Hardy (Earth-616)|Hardy]], you kill me. C'mon, everyone in this town knows you're a joke. [[Otto Octavius (Earth-616)|The Spider]] played you good and now you got nuthin'. Not a penny to your name... and a name that ain't worth a damn. Now me? I made sumthin' of my self. Worked my way up the [[Maggia (Earth-616)|Maggia]], from thug to a proper mob boss. I got '''real name''' in the underground now! I got '''juice'''! And what do '''you''' got?!
+| Speaker                 = [[Edward Lavell (Earth-616)|Eel]]
+| QuoteSource             = Amazing Spider-Man Vol 3 5
+
+| History                 = 
+===The Eel===
+Lavell took over the super-powered costume and identity of the Eel from the original Eel, [[Leopold Stryke (Earth-616)|Leopold Stryke]], who had died by then. As the new Eel, Lavell first ran afoul of [[Luke Cage (Earth-616)|Power Man]] and [[Daniel Rand (Earth-616)|Iron Fist]] when he and [[Michael Marko (Earth-616)|Man-Mountain Marko]] unsuccessfully attempted to free the [[Maggia (Earth-616)|Maggia]] boss known as [[Hammerhead (Joseph) (Earth-616)|Hammerhead]] from police captivity while being transported to a new prison.{{r|Power Man and Iron Fist #92}} Later, he was hired by the criminal [[Tilda Johnson (Earth-616)|Nightshade]] and assisted her in her attempt to rob the people attending a [[New York City]] society event. This time the Eel was defeated by Iron Fist and the former criminals [[Thomas Stuart (Earth-616)|Stiletto]] and [[Timothy Stuart (Earth-616)|Discus]], whom Nightshade had tried to force to help her.{{r|Power Man and Iron Fist #110}}
+
+===New Enforcers===
+At one point, Eel was hired to become a member of the New Enforcers.{{r|Web of Spider-Man #100}}
+
+===Masters of Evil===
+Lavell later joined the [[Justine Hammer (Earth-616)|Crimson Cowl]] in her weather-domination scheme as a member of the [[Masters of Evil (Earth-616)|Masters of Evil]].{{r|Thunderbolts #24|25}}
+
+===Secret War===
+During the events of the [[Secret War]], Edward was among the supervillains hired by [[Lucia von Bardas (Earth-616)|Lucia von Bardas]] to attack [[Nicholas Fury (Earth-616)|Nick Fury]] and his heroes.{{r|Secret War #4}}
+
+===Serpent Squad===
+He joined the fifth [[Serpent Squad (Sin's Team) (Earth-616)|Serpent Squad]] led by the Red Skull's daughter [[Synthia Schmidt (Earth-616)|Sin]]. They attacked the Senate offices under the orders of the [[Johann Shmidt (Earth-616)|Red Skull]], but the new [[James Buchanan Barnes (Earth-616)|Captain America]] defeated them all except for Sin.{{r|Captain America Vol 5 #28}}
+
+Along with the rest of the Serpent Squad (minus Sin) Eel worked for the new [[Hydra (Earth-616)|Hydra]].{{r|Captain America Vol 6 #6|8}}
+
+===Maggia===
+Following the events of [[Otto Octavius (Earth-616)|Otto Octavius]]' time as [[Spider-Man]], the [[Wilson Fisk (Earth-616)|Kingpin]]'s [[Hand (Earth-616)|Hand]] faction, [[Shadowland]]'s fall, [[Peter Parker (Earth-616)|Peter Parker]]'s return, and the [[Goblin Nation (Storyline)|rise and fall]] of the [[Goblin Nation (Earth-616)|Goblin Nation]], the Eel became the leader of one of the Maggia faction and a major crime power. He was called to reunite with two of the other crime powers, [[Mister Negative (Earth-616)|Mister Negative]]'s demon empire and the Goblin Nation remnants lead by the [[Phillip Urich (Earth-616)|Goblin Knight]], to divide the criminal underground between them. While going there, he was interrupted by the [[Felicia Hardy (Earth-616)|Black Cat]] and [[Maxwell Dillon (Earth-616)|Electro]]. She warned him she would be crossing his path. He laughed at her threats and taunted her over her defeat at the hands of Octavius. He attacked her while asking her what she had. But she told him that as a thief, she took what she wanted. Electro attacked him and his men while Black Cat taunted him that she would take everything from him. She interrupted the meeting by crashing Eel through a window and demanding the Eel's part. However, Negative refused, saying that she only had a reputation until the Spider took it away. She replied that all of them were outed by Spider-Man but that she would be the one that defeats him.{{r|Amazing Spider-Man Vol 3 5}}
+
+===Illuminati===
+The Eel was seen attending the meeting of criminals recruited by the Hood to get revenge on [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] after the events of [[Pleasant Hill]].{{r|Illuminati Vol 1 7}}
+
+| Powers                  =
+
+| Abilities               = The Eel is highly skilled in the field of electronics{{r|Official Handbook of the Marvel Universe Vol 2 4}}
+| Strength                = The Eel possesses the normal human strength of a man of his age, height, and build who engages in moderate regular exercise{{r|Official Handbook of the Marvel Universe Vol 2 4}}
+| Weaknesses              = 
+
+| Equipment               = *'''Eel Battlesuit:''' Eel wears a battle suit that grants him the following abilities:
+**'''Electrostatic Energy Generation:''' Eel's suit possesses the ability to bodily generate electrostatic energy which he can release or harness for a number of effects. It's unknown how much electricity he can generate per minute. Eel can control the amount of electricity he discharges, anywhere from a single volt to his full 10,000,000 volt charge at once. {{r|Official Handbook of the Marvel Universe Vol 2 4}}
+**'''Lighting Bolt Projection:''' The Eel can emit a lightning-like electric arc from his fingertips, which can propagate through air or other conducting mediums. This discharge, whose total voltage can be regulated within certain limits, travels at the speed of lightning, about 150,000 feet per second. The course of the electrostatic bolt, like lightning, does not always follow a straight line since it may be influenced by conducting substances like metal or other electrical fields.{{r|Official Handbook of the Marvel Universe Vol 2 4}}
+**'''Electrification:''' The Eel may electrify the outer surface of his costume with enough current to shock anyone who touches him into unconsciousness. This is direct current, so anyone grabbing him will be unable to release their grip.
+**'''Light Aura:''' The Eel may generate a glowing electrical aura around his costume capable of illuminating his immediate area.
+**'''Radar Sense:''' The Eel may generate an electrical field around his costume that functions like a radar sense, allowing him to automatically detect the presence of anyone within his immediate area.
+**'''Insulation:''' The Eel's costume is heavily insulated in order to protect him from the electricity it generates.
+**'''Greasy Coating:''' The Eel's costume exudes a grease-like substance which makes it extremely difficult for opponents to get and maintain a firm grip on him.
+
+| Transportation          = 
+| Weapons                 = 
+| Notes                   = * Eddie Lavell has previously been noted as a head of [[Maggia (Earth-616)|Maggia]] operations in the "Gulf Coast" area.{{r|Avengers Vol 3 31}}
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Armor Users]]
+[[Category:Radar Sense]]
+[[Category:Electrokinesis]]
+[[Category:Edward Lavell (Earth-616)/Quotes]]
+[[Category:Crimelords]]

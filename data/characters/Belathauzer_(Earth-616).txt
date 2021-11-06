@@ -1,0 +1,73 @@
+{{Marvel Database:Character Template
+| Image                   = Belathauzer (Earth-616) from Defenders Strange Heroes Vol 1 1 001.jpg 
+| Name                    = Belathauzer
+| NameRef                 = {{r|Defenders #59}}
+| CurrentAlias            = 
+| Aliases                 = [[Balthazar]]{{r|Defenders #60}}
+
+| Affiliation             = Formerly {{M|United States Air Force|US Air Force}} (air base commander){{r|Defenders #59}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Defenders: Strange Heroes #1}}
+| Gender                  = Male
+| Height                  = 15'0"
+| Height2                 = (Variable)
+| Weight                  = 5400 lbs
+| Weight2                 = (Variable)
+| Eyes                    = Red
+| Hair                    = None
+| UnusualSkinColor        = Red
+| UnusualFeatures         = [[:Category:Flaming Body|Flaming body]]; two faces, enlarged canine teeth and a forked tongue in each mouth, and three short curved horns on each forehead[[Category:Flaming Body]]
+
+| Origin                  = [[Demons|Demon]]/[[Dark Gods|Dark God]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Magician
+| Education               = 
+| BaseOfOperations        = [[Hell]]
+
+| Creators                = David Kraft; Ed Hannigan;
+| First                   = Defenders #59
+
+| Quotation               = You have done your work well, [[Agents of Fortune (Earth-616)|mortals]]! Belathauzer walks among you again -- to rule!
+| Speaker                 = [[Belathauzer (Earth-616)|Belathauzer]]
+| QuoteSource             = Defenders Vol 1 59
+
+| History                 = 
+===Dark god===
+Belathauzer was an ancient [[Demons|Demon]] or a "[[Dark God]]", who was exiled from [[Earth]] at some point in his past. The [[Agents of Fortune (Earth-616)|Agents of Fortune]] offered human sacrifices to him, and managed to summon him back to Earth. He stepped forth from the sacrificial flames and announced his intentions to rule.<!-- {{r|Defenders #59}} -->
+
+When Belathauzer met with [[Vera Gemini (Earth-616)|Vera Gemini]], he claimed to belong to a Ruling Circle. Presumably the Circle is composed of fellow demons or "Dark Gods".<!-- {{r|Defenders #59}} --> Belathauzer considered Vera's existence and heritage to be "blasphemous", but he appreciated the fact that she had two faces and served their cause well. He promised her that he and the Ruling Circle will eventually decide whether she has in fact vindicated her existence.<!-- {{r|Defenders #59}} -->
+
+Belathauzer announced that he was prepared to assume human guise. He explained that demons used human personas while on Earth, which they used to survive in this environment. There was no way to know which humans were simply demons in disguise. They included heads of nations, heads of religious cults, heads of political movements, common muggers, and mass murderers. Each using their influence in subtle and strategic ways, calculated to cause fear and violence among humans. They were softening the human race for the final blow. Each demon worked to restore their race to power over the Earth.<!-- {{r|Defenders #59}} -->
+
+Vera allowed Belathauzer to posses a human body and its identity. The body belonged to the commander of an American Air-Force base. Belathauzer gained control over the base's war toys, including some nuclear weapons.{{r|Defenders #59}} Later, Belathauzer in human form ordered F-15 Eagles to shoot down the jet plane transporting the [[Defenders (Earth-616)|Defenders]]. He claimed they were spies in possession of critical defense secrets.<!-- {{r|Defenders #60}} -->
+
+The [[Bruce Banner (Earth-616)|Hulk]] destroyed the F-15 Eagles, but they had already fired two sidewinder missiles at the jet plane. The jet was destroyed and Belathauzer gloated. However, the Defenders managed to escape without injuries.{{r|Defenders #60}}
+
+| Powers                  = Belathauzer is a high-ranking demon, who exercises authority over other, lesser demons.<!-- {{r|Defenders #59}} --> He is a demon lord, and has also been called a Dark God.<!-- {{r|Defenders #59}} -->
+* Belathauzer has magical abilities, comparable to other demons.<!-- {{r|Defenders #59}} -->
+* He can possess and control the forms of human beings. He usurps their identities and any authority they possess over others. He has not demonstrated the ability to access their memories or skills.<!-- {{r|Defenders #59}} -->
+* Belathauzer is supposed to be "ancient", though his true age has not been defined. He may have extended longevity or immortality.<!-- {{r|Defenders #59}} -->
+* His demonic form often seems to be on fire. He may be able to generate and/or control fire, a form of pyrokinesis.{{r|Defenders #59}}
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              =  * Belathauzer has been defeated in the past, and exiled to another dimension. He was unable to return to Earth under his own power, and had to be summoned back through a magical ceremony.{{r|Defenders #59}}
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * It is unclear whether Belathauzer belongs to a group of "Gods", due to the vagueness of his origin story. He is seemingly a [[:Category:Class Three Demons|class three]].{{r|Marvel Zombies: The Book of Angels, Demons & Various Monstrosities #1|; [[Demons]]' entry}}
+* The demon was called Belathauzer in his first appearance,{{r|Defenders #59}} and Balthazar in his second appearance.{{r|Defenders #60}} Subsequent appearances have used either of the two names. They appear to be interchangeable.
+* In his original story, Belathauzer was last seen in human form, as an officer of the United States Air Force. It is unclear what happened to him. Five unnamed demon lords were depicted loosing a gambling game to [[Vera Gemini (Earth-616)|Vera Gemini]], and he might have been among them. At the end of the storyline, most demons were exiled back to the Demon dimension. Belathauzer might have been among them.{{r|Defenders #60}}
+| Trivia                  = 
+| Links                   = * [http://www.marvunapp.com/Appendix/belathau.htm His profile] in the Appendix to the Marvel Handbook.
+}}
+[[Category:Fire Breath]]
+[[Category:Possession]]
+[[Category:Class Three Demons]]

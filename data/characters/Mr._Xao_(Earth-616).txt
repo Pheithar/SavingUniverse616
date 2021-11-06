@@ -1,0 +1,54 @@
+{{Marvel Database:Character Template
+| Image                   = Xao (Earth-616) Immortal Iron Fist Vol 1 14.jpg
+| Name                    = Xao 
+| CurrentAlias            = [[Mr. Xao]]
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra}}, {{M|Lightning Lords of Nepal}}, Super Lightning Lord
+| Relatives               = Two unnamed brothers; unnamed father (deceased)
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Black
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = Nepal
+| Occupation              = Criminal, terrorist
+| Education               = 
+| BaseOfOperations        = [[China]]; formerly [[Nepal]]
+
+| Creators                = Ed Brubaker; Matt Fraction; David Aja
+| First                   = Immortal Iron Fist Vol 1 1
+| Death                   = Immortal Iron Fist Vol 1 14
+
+| History                 = 
+Xao was one of the immortal [[Lightning Lords of Nepal (Earth-616)|Lightning Lords]]. His two brothers were killed by [[Orson Randall (Earth-616)|Iron Fist (Orson Randall)]] and as a result, he wanted to get revenge on [[K'un-Lun]]. In the modern day, he offered a 10.6 billion dollar deal to [[Daniel Rand (Earth-616)|Daniel Rand]], who refused.{{r|Immortal Iron Fist Vol 1 #1}} He then welcomed [[Davos (Earth-616)|Davos]] when he arrived at [[Wai-Go Industries]].{{r|Immortal Iron Fist Vol 1 #3}} Xao was later contacted by [[Jeryn Hogarth (Earth-616)|Jeryn Hogarth]], who eventually agreed to his offer.{{r|Immortal Iron Fist Vol 1 #4}} He then forced him to build a gate way to K'un-Lun with the help of [[Davos (Earth-616)|Steel Serpent]] and [[Hydra (Earth-616)|Hydra]]. His plan was to destroy the city with a train loaded with bombs while Davos acted as a spy inside the city. Meanwhile, he also made a deal with [[Nu-An (Earth-616)|Yu-Ti]] to murder [[Lei-Kung (Earth-616)|Thunderer]]. However, when Iron Fist revealed that Xao intended on destroying K'un-Lun, not conquering it, Davos defected. Together, the [[Immortal Weapons (Earth-616)|Immortal Weapons]] foiled his plans and destroyed the portal and the train. When Iron Fist cornered Xao, he realized he couldn't win and jumped to his death instead.{{r|Immortal Iron Fist Vol 1 14}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Electrokinesis]]
+[[Category:Gestalt Characters]]
+[[Category:Suicide]]

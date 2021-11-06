@@ -1,0 +1,56 @@
+{{Marvel Database:Character Template
+| Title                   = [[Captain Av-Rom]]
+| Image                   = Av-Rom (Earth-616) from Young Avengers Vol 1 10 001.png
+| Name                    = Av-Rom
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{m|Kree/Skrull Alliance (Earth-616)|Alliance}}; formerly {{m|Hive (Symbiotes) (Earth-616)|Symbiote Hive}}, {{M|Imperial Kree Army (Earth-616)|Imperial Kree Army}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Blue
+| Hair                    = Black
+| UnusualSkinColor        = Blue
+| UnusualFeatures         = 
+
+| Origin                  = [[Kree]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Hala (Planet)|Hala]]
+
+| Identity                = No Dual
+| Citizenship             = Kree Empire
+| Occupation              = [[Kree Army]] Captain
+| Education               = 
+| BaseOfOperations        = [[Kree-Lar (Planet)|Kree-Lar]], [[Hala (Planet)|Hala]]; mobile
+
+| Creators                = Allan Heinberg; Jim Cheung
+| First                   = Young Avengers #10
+
+| History                 = Av-Rom was a Captain in the [[Imperial Kree Army (Earth-616)|Imperial Kree Army]] and headed the squad sent to [[Earth]] to retrieve [[Theodore Altman (Earth-616)|Hulkling]] and inform him of his heritage. A fight broke out between the [[Kree]], [[Deviant Skrulls|Skrulls]], [[Kl'rt (Earth-616)|Super Skrull]], [[Young Avengers (Earth-616)|Young Avengers]] and [[New Avengers (Earth-616)|New Avengers]] but was eventually stopped. Av-Rom was part of a mediation to decide what would be done with Hulking. He agreed to, and believed, that the young Kree/Skrull hybrid would spend half a year with the [[Skrull Empire]] and half a year with the [[Kree Empire]]. Av-Rom remained unaware that the person he believed to be Hulking at that time was in fact the Super Skrull impersonating him so Hulking could remain on Earth.{{r|Young Avengers Vol 1 10|12}}
+
+Captain Av-Rom resurfaced years later as a member of the [[Kree/Skrull Alliance (Earth-616)|Kree/Skrull alliance]] under the leadership of Emperor Hulkling. He was part of a crew led by [[Talos (Earth-616)|Talos]] that was investigating the cease in communications from a number worlds which had fallen to the path of destruction of [[Knull (Earth-616)|Knull]], the god of the [[Symbiotes (Race)|symbiotes]]. When Talos' crew approached one of these worlds, [[Gnarrat]], their ship was boarded and taken over by symbiotes, and Av-Rom was the first to become possessed. When Talos and [[Tarna (Earth-616)|Tarna]] became the last uninfected crewmembers, they encountered Av-Rom trapped by symbiotic mass and begged Talos to kill him before Knull began taunting Talos through him. As Talos fled on an escape pod, Av-Rom and the infected members sat side by side with Knull, taunting Talos further before he escaped.{{r|Web of Venom: Empyre's End Vol 1 1}}
+
+[[File:Av-Rom (Earth-616) from King in Black Wiccan and Hulkling Vol 1 1 001.jpg|thumb|left|Possessed by a symbiote]]
+
+The infected crewmates were later ordered by Knull to kill Emperor Hulkling on his behalf, and they tracked him down to the resort planet of [[Little Chandilar]] during his honeymoon with [[William Kaplan (Earth-616)|Wiccan]]. When they attacked him, Hulkling recognized them as Talos' crewmates. After Wiccan used his powers to empower himself and Hulkling with something capable of repelling the darkness, Hulkling used his sword [[Excelsior (Star-Sword)|Excelsior]] to channel Wiccan's light and strip the symbiotes off Av-Rom and the crew. Afterward, the unconscious crewmates were boarded to Hulkling's ship to return with him to the Alliance for treatment.{{r|King in Black: Wiccan and Hulkling Vol 1 1}}
+
+| Powers                  = * '''Superhuman Strength''': As a [[Kree]], Av-Rom possesses far greater strength than a human.
+* '''Superhuman Endurance''': As a [[Kree]], Av-Rom possesses far greater endurance than a human.
+| Abilities               = * '''Kree Military Training''': Av-Rom is a trained [[Kree]] soldier.
+| Strength                = About twice the average human beings strength.
+| Weaknesses              = 
+
+| Equipment               = '''Kree Military Equipment'''.
+| Transportation          = '''Kree Military Transport''': Advanced warp-drive starship.
+| Weapons                 = '''Kree Military Weaponry''': Energy weaponry.
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Superhuman Strength]]
+[[Category:Symbiotes-possessed]]

@@ -1,0 +1,58 @@
+{{Marvel Database:Character Template
+| Title                   = [[Jack Norriss]]
+| Image                   = Jackson Norriss (Earth-616) from Defenders Strange Heroes Vol 1 1 001.jpg 
+| Name                    = [[Jackson Norriss|Jackson F. Norriss]]
+| NameRef                 = {{r|Defenders: Strange Heroes #1}}
+| CurrentAlias            = 
+| Aliases                 = [[Nighthawk]],{{r|Defenders Vol 1 33}} [[Pretty Boy]]{{r|Defenders Annual Vol 1 1}}
+
+| Affiliation             = Formerly [[Defenders (Earth-616)|Defenders]] associate,{{r|Defenders: Strange Heroes #1}} {{M|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}, ally of Nomad ([[Jack Monroe]]) 
+| Relatives               = [[Barbara Norriss (Earth-616)|Barbara Norriss]] (ex-wife, possibly deceased){{r|Defenders: Strange Heroes #1}}
+| MaritalStatus           = Divorced
+
+| Gender                  = Male
+| Height                  = 6'0"
+| Weight                  = 177 lbs
+| Eyes                    = Blue
+| Hair                    = Brown
+| UnusualFeatures         = 
+| CharRef                 = {{cl|Defenders: Strange Heroes #1}}
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = Cobbler's Roost, [[Vermont (State)|Vermont]]
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = TV reporter; former S.H.I.E.L.D. agent 
+| Education               = [[S.H.I.E.L.D. (Earth-616)|S.H.I.E.L.D.]] training, high school graduate
+| BaseOfOperations        = 
+
+| Creators                = Roy Thomas; Herb Trimpe
+| First                   = Incredible Hulk #126
+
+| Quotation               = [[Jacob Fury (Earth-616)|Scorpio]], did you ever think that this is all... '''abnormal'''? It's unnatural... a diversion of certain '''basic drives'''... some kinda substitute for a real human '''relationship'''!
+| Speaker                 = [[Jackson Norriss (Earth-616)|Jack Norriss]]
+| QuoteSource             = Defenders #49
+
+| History                 = Jack Norriss was the husband of [[Barbara Norriss (Earth-616)|Barbara Norriss]], a woman who was driven mad by the demonic [[Undying Ones]]{{r|Defenders #3}} after the couple foolishly joined a cult devoted to them for kicks.{{r|Incredible Hulk #126}} Barbara was trapped in the dimension of the Undying Ones, but later became a host body for the spirit of [[Brunnhilde (Earth-616)|Brunnhilde]], the Valkyrie.{{r|Defenders #4}} When Jack recognized her, he refused to accept that the Valkyrie was not really Barbara and as a result became a sometimes unwelcome associate of the Valkyrie's teammates, the [[Defenders (Earth-616)|Defenders]], though he was frequently of considerable help to the team, once even saving the Valkyrie from being burned on an inverted cross by the [[Sons of the Serpent (Earth-616)|Sons of the Serpent]].{{r|Defenders #25}}
+
+Norriss even consented to have his mind transferred into the body of [[Kyle Richmond (Earth-616)|Kyle Richmond]] and fought alongside the team as Nighthawk for a time when [[Kyle Richmond (Earth-616)|Nighthawk]]'s body had been usurped by [[Harvey Schlemerman (Earth-616)|Chondu]] of the [[Headmen (Earth-616)|Headmen]].{{r|Defenders #32|35}} Eventually accepting that he had lost Barbara, Jack left the Defenders after being paid $300,000 by Nighthawk{{r|Defenders #40}} and used the money to fund his own mission to stop [[Thursday Rubinstein (Earth-616)|Ruby Thursday]] of the Headmen from running for president. He wrote a check for $100,000 for Ruby's campaign in order to get close to her and spent the rest of the money on a Bond-esque tuxedo filled with secret weapons and devices. While he was found out by Thursday, he was able to expose her to the American public, thus ending her bid for presidency. The Defenders soon managed to defeat her and the rest of the Headmen{{r|Defenders Annual #1}} and Jack returned to the Defenders.{{r|Defenders #41}}
+
+Later, he ended up as a file clerk working for [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]], who later made him a full field agent and assigned him to bring in the vigilante named [[Jack Monroe (Earth-616)|Nomad]] ([[Jack Monroe]]). Jack eventually left S.H.I.E.L.D., dissatisfied over their handling of the Nomad situation. He became an investigative reporter working for Inside America, a news related TV series, and was of use to [[Andrea Sterman (Earth-616)|Andrea Sterman]] when she was investigating the government conspiracy involving the killings of the reporter [[Gayle Rogers (Earth-616)|Gayle Rogers]] and Roberta Haggerty of Roxxon.{{Citation}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

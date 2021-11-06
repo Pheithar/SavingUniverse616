@@ -1,0 +1,50 @@
+{{Marvel Database:Character Template
+| Image                   = Temax (Earth-616) from Defenders Vol 1 11 0001.jpg
+| Name                    = Temax
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = [[Chandu (Earth-616)|Chandu]]
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Black
+| UnusualSkinColor        = Grey
+| UnusualFeatures         = Giant gnome made of Earth who possesses an overly large head for his body, pointed ears and three fingers and a thumb on each hand.
+
+| Origin                  = [[Gnome]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = Servant
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Steve Englehart; Sal Buscema
+| First                   = Defenders Vol 1 11
+
+| History                 = Temax and the other Earth gnomes were conjured by [[Chandu (Earth-616)|Chandu]], an Arabian sorcerer helping [[Modred (Earth-616)|Modred]] and Prince John to overthrow King Richard the Lionheart during the time of the Crusades. Temax and his brethren easily handled the combined might of the [[Defenders (Earth-616)|Defenders]], until the [[Namor McKenzie (Earth-616)|Sub-Mariner]] discovered their vulnerability to water and soaked them, causing them to dissolve. {{r|Defenders Vol 1 11}}
+
+| Powers                  = Temax and the other gnomes conjured by [[Chandu (Earth-616)|Chandu]] possessed strength enough to both withstand an attack from the [[Bruce Banner (Earth-616)|Hulk]] as well as to be able to shrug off blasts of the Power Cosmic from the [[Norrin Radd (Earth-616)|Silver Surfer]] and the spells of [[Stephen Strange (Earth-616)|Doctor Strange]].
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = Exposure to water caused Temax and the other Earth gnomes to dissolve.
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Giant Monsters]]

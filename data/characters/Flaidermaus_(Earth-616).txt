@@ -1,0 +1,53 @@
+{{Marvel Database:Character Template
+| Image                   = Flaidermaus (Earth-616) from Fantastic Four Vol 1 129 0001.jpg
+| Name                    = Flaidermaus
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = [[Inhomo supremis|Inhumans]], [[Inhuman Royal Guard (Earth-616)|Inhuman Royal Guard]]
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Red
+| Hair                    = Orange
+| UnusualFeatures         = Red wings, fur, claws, fangs. 
+
+| Origin                  = [[Inhomo supremis|Inhuman]] powered by [[Terrigenesis]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = Attilan
+| Occupation              = Guardsman
+| Education               = 
+| BaseOfOperations        = [[Attilan]]
+
+| Creators                = Roy Thomas; John Buscema
+| First                   = Fantastic Four #129
+
+| History                 = Flaidermaus was an [[Inhomo supremis|Inhuman]], a offshoot of humanity that was genetically altered by the alien [[Kree]] that gained fantastic powers when exposed to [[Terrigen Mist]]. Flaidermaus, for instance, was covered in fur and had bat-like wings.
+
+He, [[Avius (Earth-616)|Avius]] and [[Pinyon (Earth-616)|Pinyon]] acted as air defense of their homeland of [[Attilan]] during a period it existed in the [[Himalayas|Himalayan Mountains]]. The trio prevented the [[Jonathan Storm (Earth-616)|Human Torch]] from reaching his former girlfriend [[Crystalia Amaquelin (Earth-616)|Crystal]] before he could learn that she had left him for another man.{{r|Fantastic Four #129}}
+
+Flaidermaus' subsequent activities are unknown.
+
+| Powers                  = Flaidermaus is able to fly.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = The name comes from the German "Fledermaus", meaning Bat (lit. Flying mouse) in English.
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+|Citizenship2=New Attilan}}
+[[Category:Flight]]

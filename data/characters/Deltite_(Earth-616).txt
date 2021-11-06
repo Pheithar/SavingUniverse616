@@ -1,0 +1,69 @@
+{{Marvel Database:Character Template
+| Image                   = Deltite (Earth-616) from Nick Fury vs. S.H.I.E.L.D. Vol 1 2 001.png
+| Name                    = [[Deltite]]
+| CurrentAlias            = 
+| Aliases                 = [[Supreme Hydra]],{{r|Nick Fury vs. S.H.I.E.L.D. #4}} Commander-in-Chief{{r|Marvel Graphic Novel: The Sensational She-Hulk #1}}
+
+| Affiliation             = Formerly {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}'s {{m|S.H.I.E.L.D. Executive Board (Earth-616)|Executive Board}}, {{m|Hydra}}, {{m|Roxxon Energy Corporation}}, {{m|Project Delta (Earth-616)|Project: Delta}} ; employer of the [[Encoders (Deltite) (Earth-616)|Encoders]]
+| Relatives               = [[Arnim Zola (Earth-616)|Dr. Arnim Zola]] (creator)
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = [[Life-Model Decoy]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Japan]]
+| PlaceOfDeath            = [[S.H.I.E.L.D. Space Station]], [[Earth Orbit]]
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Robot
+| Education               = Self-taught
+| BaseOfOperations        = Formerly [[S.H.I.E.L.D. Space Station]], [[Earth Orbit]].
+
+| Creators                = Bob Harras; Paul Neary
+| First                   = Nick Fury vs. S.H.I.E.L.D. Vol 1 1
+| First2                  = {{g|Historically}}<br>{{sld|Fury #1}}{{g|Chronologically}}
+| Death                   = Nick Fury vs. S.H.I.E.L.D. Vol 1 6
+
+| History                 = The Deltite was a [[Life-Model Decoy]] created by [[National Socialist German Workers Party (Earth-616)|Nazi]] scientist [[Arnim Zola (Earth-616)|Dr. Arnim Zola]] and based upon the mind of [[Wolfgang von Strucker (Earth-616)|Baron Wolfgang von Strucker]]. They had [[Jacob Fury (LMD) (Earth-616)|Jake Fury]] smuggle the LMD inside of [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] to wreak havoc at a later date.{{r|Fury #1}} The Deltite was unaware of its origins, and believed its actions were self-motivated.{{r|Nick Fury vs. S.H.I.E.L.D. #6}}
+
+The Deltite served S.H.I.E.L.D. as a mere servitor LMD for some time, performing maintenance work aboard the [[S.H.I.E.L.D. Space Station|S.H.I.E.L.D. Satellite]], but Strucker's programming led it to seek out the Life-Model Decoy Labs, and it killed the agent who monitored that data. The Deltite then created a Life-Model Decoy of that agent and projected its own consciousness into the LMD, assuming the agent's identity. The Deltite then used S.H.I.E.L.D.'s Life-Model Decoy files to upgrade himself using the personality tapes for programming Life-Model Decoys in order to expand its own consciousness, starting with [[Sidney Levine (Earth-616)|Dr. Sidney Levine]].{{r|Nick Fury vs. S.H.I.E.L.D. #6}}
+
+The Deltite determined that S.H.I.E.L.D. had compatible goals to maintain order with its own most basic programming. He eventually took control of the [[S.H.I.E.L.D. Executive Board (Earth-616)|S.H.I.E.L.D. Executive Council]] by replacing all of its members with puppet LMDs. Through the personalities of Baron Strucker and [[Edwin Booth (Earth-616)|Edwin Booth]] he was able to take control of both of [[Hydra (Earth-616)|Hydra]] and [[Advanced Idea Mechanics (Earth-616)|A.I.M.]]. He used the [[Anthony Stark (Earth-616)|Tony Stark]] personality to manipulate the market, eventually taking control over [[Roxxon Energy Corporation (Earth-616)|Roxxon Oil]].{{r|Nick Fury vs. S.H.I.E.L.D. #6}}
+
+The Deltite turned the resources of S.H.I.E.L.D., A.I.M., Hydra, and Roxxon towards the creation of more-evolved LMDs, a new species in his image. After extensive testing, the Deltite devised the use of synthetic "Deltite" parasites to extract the personality templates of human beings in a process called "encoding". These Deltite LMDs possessed sentience and autonomy, the full range of emotions and personality traits of their templates, as well as physical superiority. However, they were inherently flawed and would burn out after a variable amount of time, aging rapidly to the point of death. Deltites could be re-encoded into new, healthy bodies, but each re-encoding cost them more of their template's humanity.
+
+The Deltite wanted to ultimately extract the [[Infinity Formula]] from [[Nicholas Fury (Earth-616)|Nick Fury]]'s blood to preserve his Deltite LMDs indefinitely once the personality encoding process was perfected. To continue his work, he created a sub-caste of LMDs called Encoders, imprinted with a religious doctrine where the Deltite was the creator and Nick Fury was the messiah who would one day bring eternal life onto them.{{r|Nick Fury vs. S.H.I.E.L.D. #6}}
+
+Deltite had an Life-Model Decoy of Nick Fury attempt to claim the [[Iron Man Armor]] kept at [[Stane International (Earth-616)|Stane International]]. However, [[James Rhodes (Earth-616)|James Rhodes]] destroyed all of the armor to keep them out of S.H.I.E.L.D.'s hands.{{r|Iron Man #175}}
+
+Now head of the [[S.H.I.E.L.D. Executive Board (Earth-616)|S.H.I.E.L.D.'s Council]], Deltite had [[Roger Dooley (Earth-616)|Agent Roger Dooley]], transport the [[Jennifer Walters (Earth-616)|She-Hulk]] to the [[S.H.I.E.L.D. Helicarrier|Helicarrier]] for study. Fury went on vacation to protest the Council overruling his concerns. The Helicarrier was attacked by a group of [[Cockroaches|Sentient cockroaches]], who took over Dooley and caused it to crash.{{r|Marvel Graphic Novel: The Sensational She-Hulk #1}}
+
+As the time of the Ascension Call drew near, the Deltite had replaced more than 20% of S.H.I.E.L.D. personnel with LMDs. He was forced to accelerate the time table when Nick Fury's secret sleeper agent inside Roxxon, [[Jack Rollins (Earth-616)|Jack Rollins]], uncovered evidence of Project: Delta. In his role as head of S.H.I.E.L.D.'s board of directors, the Deltite replaced Rollins with an [[Jack Rollins (LMD) (Earth-616)|LMD]] to deprive Fury of any evidence of Delta, and then painted the executive director as a traitor, turning S.H.I.E.L.D. against him.{{r|Nick Fury vs. S.H.I.E.L.D. #1}}
+
+The Deltite arranged for [[Jasper Sitwell (Earth-616)|Jasper Sitwell]] to become executive director and replaced him with an [[Jasper Sitwell (LMD) (Earth-616)|LMD]] as well. In the weeks that followed, the Deltite moved pawns across the world to recapture Fury and arrange for the Ascension Call of all Deltites back to the satellite.{{r|Nick Fury vs. S.H.I.E.L.D. #2|5}}
+
+When Fury was captured and the time came, however, the Deltite ignored the doctrine he created and exposed himself to the encoding process with Fury while he was still alive. Shocked by the experience of touching a living human mind, the Deltite took Nick Fury aside and confessed his actions up till that point to better understand Fury and himself. When the Deltite's beloved overheard him cast aside his sacred doctrine, and several of Fury's allies led a revolt against the [[Encoders (Deltite) (Earth-616)|Encoders]], the Deltite found himself besieged on all sides. He was mortally wounded in combat with Fury and then executed as a non-believer by his own creations.{{r|Nick Fury vs. S.H.I.E.L.D. #6}}
+
+| Powers                  = As a Life Model Decoy, the Deltite's body was physically superior to the average human. He also possessed great intelligence from his multiple personality templates working in unison with one another.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Artificial Intelligences]]
+[[Category:Arnim Zola Experiment]]

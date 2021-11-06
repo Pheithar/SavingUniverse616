@@ -1,0 +1,53 @@
+{{Marvel Database:Character Template
+| Image                   = Boy-Thing (Earth-616) from Avengers Vol 8 22 001.jpg
+| Name                    = 
+| CurrentAlias            = Boy-Thing
+| Aliases                 = 
+
+| Affiliation             = Partner of [[Eric Brooks (Earth-616)|Blade]]; formerly {{m|Legion of the Unliving (Vampires) (Earth-616)|Legion of the Unliving}}
+| Relatives               = [[Theodore Sallis (Earth-616)|Man-Thing]] (genetic donor)
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Red
+| Hair                    = None
+| Hair2                   = ; the green strands of vegetable matter which covers most of it's body resembles [[:Category:Green Hair|Green Hair]]
+| UnusualSkinColor        = Green
+| UnusualFeatures         = Boy-Thing resembles a miniature [[Man-Things|Man-Thing]].
+
+| Origin                  = A piece of the [[Man-Things|Man-Thing]] [[Theodore Sallis (Earth-616)|Ted Sallis]] trimmed off his body by the [[Xarus (Earth-616)|Shadow Colonel]].
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Man-Thing's Swamp]], [[Everglades]], [[Florida (State)|Florida]]
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = Mobile
+
+| Creators                = Jason Aaron; Ed McGuiness; Cory Smith
+| First                   = Avengers Vol 8 12
+| First2                  = (Vision)<br>{{sld|Avengers Vol 8 14}}(Full appearance)
+
+| History                 = Boy-Thing was a creature grown by the [[Xarus (Earth-616)|Shadow Colonel]] from a stolen trimming from the being known as [[Theodore Sallis (Earth-616)|Man-Thing]] during a trip to the [[Everglades]] in [[Florida (State)|Florida]].{{r|Avengers Vol 8 15}} The Shadow Colonel kept Boy-Thing chained as a pet attached to his shoulder,{{r|Avengers Vol 8 14}} and used him to create wooden stakes on the spot with which to kill other vampires.{{r|Avengers Vol 8 15}} During the [[Avengers (Earth-616)|Avengers]]' final battle against the Shadow Colonel and his [[Legion of the Unliving (Vampires) (Earth-616)|Legion of the Unliving]], Avengers recruit [[Eric Brooks (Earth-616)|Blade]] liberated Boy-Thing from Shadow Colonel and it attached itself to Blade, willingly staying by his side following the Legion's defeat.{{r|Avengers Vol 8 17}}
+
+| Personality             = 
+
+| Powers                  = Presumably the same as the [[Theodore Sallis (Earth-616)|Man-Thing]].
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

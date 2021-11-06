@@ -1,0 +1,51 @@
+{{Marvel Database:Character Template
+| Image                   = Sassafras (Earth-616) from Defenders Vol 1 136 0001.jpg
+| Name                    = Sassafras
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = [[Defenders (Earth-616)|Defenders]]
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = {{r|Marvel Pets Handbook #1}}
+| Gender                  = Female
+| Height                  = 1'11" (at shoulder)
+| Weight                  = 45 lbs
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Dogs|Dog]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Public
+| Citizenship             = 
+| Occupation              = Pet
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = J.M. DeMatteis; Don Perlin
+| First                   = Defenders #122
+
+| History                 = Sassafrass was a puppy belonging to [[Henry McCoy (Earth-616)|Hank McCoy]], the Beast, which he acquired whilst serving with the [[Defenders (Earth-616)|Defenders]]. Sassy, basically a good dog but with a tendency to forget to go on the newspaper Beast had put down, accompanied the Defenders when they relocated to Colorado and became the New Defenders. She was still with the team up until it dissolved.{{r|Defenders #122|152}}
+
+| Powers                  = 
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = * Sassafras was named after her creator [[J.M. DeMatteis]]'s rea-life pet dog.{{r|{{cite web|url=https://twitter.com/JMDeMatteis/status/1353401171206152199|title=J.M. DeMatteis on Twitter: "@ifyoucantwell
+Sassafras was ...|work=Twitter|first=J.M.|last=DeMatteis|date=24 January 2021|accessdate=25 March 2021}}}}
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Pets]]

@@ -1,0 +1,62 @@
+{{Marvel Database:Character Template
+| Image                   = Sn'Tlo (Earth-616) from Captain America Vol 3 6 001.jpg
+| Name                    = Sn'Tlo
+| NameRef                 = {{r|Captain America: America's Avenger #1}}
+| CurrentAlias            = Sensational Hydra
+| Aliases                 = impersonated [[Captain America]], Gordon Winchester
+
+| Affiliation             = {{M|Hydra (Earth-616)|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = {{cl|Captain America: America's Avenger #1}}
+| Gender                  = Male
+| Height                  = 6'0"
+| Height2                 = (Variable)
+| Weight                  = 190 lbs
+| Weight2                 = (Variable)
+| Eyes                    = Red
+| Eyes2                   = (Variable)
+| Hair                    = Variable
+| UnusualSkinColor        = Green
+| UnusualFeatures         = 
+
+| Origin                  = [[Deviant Skrull|Skrull]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Tarnax IV]], Tarnax system, [[Andromeda Galaxy]]
+
+| Identity                = Secret
+| Citizenship             = Skrull Empire
+| Occupation              = Terrorist leader
+| Education               = Graduate of the Skrullian military academy
+| BaseOfOperations        = Mobile
+
+| Creators                = Mark Waid; Ron Garney
+| First                   = Captain America Vol 3 3
+
+| History                 = An unnamed [[Skrulls|Skrull]] and two of his lackeys became stranded on [[Earth]]. The unnamed Skrull wanted to exact vengeance from the inhabitants of Earth for all the suffering they had caused to the Skrull race. Posing as a human he infiltrated [[Hydra (Earth-616)|HYDRA]], and quickly rose to the position of Supreme Hydra. Deciding that the term 'Supreme Hydra' didn't fit his flamboyant personality he redubbed himself the Sensational Hydra. There were dissenters in his ranks who didn't view him as a fit leader, but he quickly silenced them by chopping off one HYDRA's arm with [[Wolfgang von Strucker (Earth-616)|Baron von Strucker]]'s sword. The Sensational Hydra sent men to take over the [[Smithsonian Institution]], but [[Steven Rogers (Earth-616)|Captain America]] quickly captured them.{{r|Captain America Vol 3 #3}}<br/>
+The Sensational Hydra initiated his plan to raise Captain America's status from superhero to icon in the public's view. He sent [[Georges Batroc (Earth-616)|Batroc the Leaper]] to fight Cap in a public spectacle at [[Rockefeller Center]]. After the fight Batroc revealed to Cap that he had been ordered by HYDRA to take a dive.{{r|Captain America Vol 3 #4}}<br/>
+[[File:Sn'Tlo (Earth-616) from Captain America Vol 3 3 001.jpg|thumb|left|Sensational Hydra.]]
+Captain America dismantled a [[London (England)|London]] branch of HYDRA, and learned from one of the captured HYDRA agents that the Sensational Hydra was gunning for him. The Sensational Hydra was also present, disguised as a member of [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]]. He shot the HYDRA agent who was talking to Cap and quickly ran away. The Sensational Hydra next showed up on the observational deck of the [[Empire State Building]], having taken hostages and demanding a one-on-one confrontation with Cap. As Cap entered the skyscraper he was followed by reporter Gordon Winchester, actually a disguised Sensational Hydra. When Cap reached the observation deck, the two hostages and the Sensational Hydra all revealed themselves as Skrulls. After slaughtering the present members of HYDRA they shackled Cap with "Skrull Handcuffs". Cap was tossed in a utility closet, and Sensational Hydra assumed the identity of Captain America and greeted the press.{{r|Captain America Vol 3 #5}}<br/>
+As Captain America the Sensational Hydra moved into [[Avengers Mansion]]. He orchestrated an assassination attempt on [[William Clinton (Earth-616)|President Clinton]], with his two lieutenant Skrulls disguised as terrorists. As Captain America he saved the President, and announced that he needed to immediately organize a press conference. He made the claim that one in twenty Americans was a Skrull spy, and to drive the point home he forced his two lieutenant Skrulls to reveal themselves. The crowd killed the two Skrulls, and the false Cap ordered the public to take to the streets and kill any suspected Skrullian spys. At this point the real Captain America escaped his bondage, and Sensational Hydra beat a hasty retreat, but rioting and killing had already begun throughout [[Manhattan]].{{r|Captain America Vol 3 #6}}<br/>
+A combination of the public's trust for Captain America, and people's natural fear of the unknown led to the escalation of the Skrullian witchhunt to nationwide violence. The Sensational Hydra was pleased, but wanted to add more fuel to the fire so he arranged another press conference as Captain America. He accused the President and members of Congress of being Skrulls, and urged the masses to take arms to [[Washington, D.C.]] and tear it down. The real Cap then reappeared and zapped him with a device designed by [[Reed Richards (Earth-616)|Mr. Fantastic]] and [[Iron Man (Anthony "Tony" Stark)|Tony Stark]]. The device transformed the Sensational Hydra back into his natural form, forcing the public to realize they had been lied to. Captain America, the [[Avengers (Earth-616)|Avengers]], Mr. Fantastic and the [[Benjamin Grimm (Earth-616)|Thing]] ganged up on the Sensational Hydra and defeated him with ease.{{r|Captain America Vol 3 #7}}
+
+| Powers                  =
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+* http://www.marvunapp.com/Appendix/sensationalhydra.htm
+
+}}
+[[Category:Shapeshifters]]

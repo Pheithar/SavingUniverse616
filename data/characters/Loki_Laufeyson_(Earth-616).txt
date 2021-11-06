@@ -1,0 +1,279 @@
+{{MessageBox
+| Message = For the current version of Loki, see: '''[[Loki Laufeyson (Ikol) (Earth-616)]]'''.
+}}
+{{Marvel Database:Character Template
+| Title                   = [[Loki]]
+| Image                   = Loki Laufeyson (Earth-616) from Thor Vol 3 12 0001.jpg
+| Name                    = [[Loki Laufeyson]]
+| NameRef                 = {{r|Thor & Hercules: Encyclopaedia Mythologica #1|; Loki's entry}}
+| CurrentAlias            = 
+| Impersonations          = [[Idunn]],{{r|Loki Vol 2 2}} [[Scarlet Witch]]{{r|Mighty Avengers #21}}
+| Aliases                 = [[God of Mischief]],{{r|X-Men Annual Vol 1 9}} God of Evil,{{r|Avengers #1}} [[Prince of Evil]],{{r|Avengers #115}} [[Prince of Lies]],{{r|Thor Vol 3 10}} the Son of Secrets,{{citation}} the Maker of Mischief,{{citation}} the Sly One,<ref>narrative caption refers to Loki as the sly one. Page 11.{{cl| Thor: The Trials of Loki TPB Vol 1 1 }}</ref> the Lord of all Liars,{{r|Thor Ages of Thunder #1}} [[Lie-Smith]],{{r|Thor & Hercules: Encyclopaedia Mythologica #1|; Loki's entry}} [[Sly-God]],{{r|Thor & Hercules: Encyclopaedia Mythologica #1|; Loki's entry}} [[Shape-Changer]],{{r|Thor & Hercules: Encyclopaedia Mythologica #1|; Loki's entry}} [[Wizard of Lies]],{{r|Thor & Hercules: Encyclopaedia Mythologica #1|; Loki's entry}} Loki Trick-Skin,{{r|Thor & Hercules: Encyclopaedia Mythologica #1}} [[Tso Zhung]],{{r|Journey into Mystery #503}} [[Loren Olson]],{{r|Thor Annual Vol 2 2000}} the Trickster of Asgard,{{citation}} [[Ikol]],{{r|Journey into Mystery #622}} [[Serrure]],{{r|Thor #617}} [[Gem-Keeper]],{{r|Avengers: Roll Call #1}} Willie Lawson,{{r|Thor Vol 2 64}} Lester,{{r|Avengers: Roll Call #1}} [[Tyfon]],{{r|Avengers: Roll Call #1}} [[Typhon]],{{r|Avengers: Roll Call #1}} [[Father Williams]],{{r|Thor Vol 2 64}} Loki The Deceiver,{{r|Thor Vol 3 10}} during the 1940s and 50s he briefly called himself [[Satan]] on occasion;{{r|Venus #10}} As a shape-changer, Loki has impersonated many individuals and many other things and people on Asgard and Earth
+| Affiliation             = [[Asgardians]], [[Frost Giants]], ally of the [[Dark Council (Earth-616)|Dark Council Members]]; formerly {{m|Cabal (Dark Illuminati) (Earth-616)|Cabal}}, {{m|Lost Gods}}, {{m|Mighty Avengers (Pym) (Earth-616)|Mighty Avengers}} (as Scarlet Witch), manipulator of the "Acts of Vengeance" prime movers ([[Victor von Doom (Earth-616)|Dr. Doom]], [[Max Eisenhardt (Earth-616)|Magneto]], [[Johann Shmidt (Earth-616)|Red Skull (Johann Schmidt)]], [[Mandarin (Earth-616)|Mandarin]], [[Bentley Wittman (Earth-616)|Wizard]], [[Wilson Fisk (Earth-616)|Kingpin]]), former ally of [[Karnilla (Earth-616)|Karnilla]], the [[Amora (Earth-616)|Enchantress]], the [[Skurge (Earth-616)|Executioner]], the [[Carl Creel (Earth-616)|Absorbing Man]], [[Lorelei (Earth-616)|Lorelei]], [[Dormammu (Earth-616)|Dormammu]]
+| Ancestors               = [[Buri (Asgardian) (Earth-616)|Buri]] (paternal adoptive great-grandfather);<br>
+[[Bolthorn (Earth-616)|Bolthorn]] (paternal adoptive great-grandfather)
+| Grandparents            = [[Bor Burison (Earth-616)|Bor Burison]] (paternal adoptive grandfather);<br>
+[[Bestla (Earth-616)|Bestla]] (paternal adoptive grandmother, presumed deceased);<br>
+[[Gaea (Earth-616)|Gaea]] (maternal adoptive grandmother)
+| Parents                 = [[Laufey (Earth-616)|Laufey]] (father);<br>
+[[Farbauti (Earth-616)|Farbauti]] (mother);<br>
+[[Odin Borson (Earth-616)|Odin Borson]] (adoptive father);<br>
+[[Freyja Freyrdottir (Earth-616)|Freyja Freyrdottir]] (adoptive mother)
+| Siblings                = [[Byleistr (Earth-616)|Byleistr]] (brother);{{r|Thor & Hercules: Encyclopaedia Mythologica #1}}<br>
+[[Helblindi (Earth-616)|Helblindi]] (brother);{{r|Thor & Hercules: Encyclopaedia Mythologica #1}}<br>
+[[Thor Odinson (Earth-616)|Thor Odinson]] (paternal adoptive brother);<br>
+[[Balder Odinson (Earth-616)|Balder Odinson]] (paternal adoptive brother);<br>
+[[Hermod Odinson (Earth-616)|Hermod Odinson]] (paternal adoptive brother);<br>
+[[Vidar Odinson (Earth-616)|Vidar Odinson]] (paternal adoptive brother);<br>
+[[Tyr Odinson (Earth-616)|Tyr Odinson]] (paternal adoptive brother);<br>
+[[Aldrif Odinsdottir (Earth-616)|Aldrif Odinsdottir]] (paternal adoptive sister);<br>
+[[Laussa Odinsdottir (Earth-616)|Laussa Odinsdottir]] (paternal adoptive sister)
+| Spouses                 = [[Sigyn (Earth-616)|Sigyn]] (wife, deceased)
+| Children                = [[Tess Black (Earth-616)|Tess Black]] (daughter);<br>
+[[Hela (Earth-616)|Hela]] (alleged daughter);<br>
+[[Narvi (Earth-616)|Narvi]] (son, deceased);<br>
+Váli (son, deceased);<br>
+[[Son of Satan (Lokison) (Earth-616)|Son of Satan]] (son);<br>
+[[Fenris Wolf (Earth-616)|Fenris Wolf]] (son);<br>
+[[Jormungand (Earth-616)|Jormungand]] (son);<br>
+[[Sleipnir (Earth-616)|Sleipnir]] (son);<br>
+[[Vali Halfling (Earth-616)|Vali Halfling]] (son)
+| Descendants             = [[Hoarfen (Earth-616)|Hoarfen]] (grandson);<br>
+[[Sturm (Earth-616)|Sturm]] (grandson);<br>
+[[Drang (Earth-616)|Drang]] (grandson);<br>
+[[Wolf Gods]] (descendants)
+| Relatives               = [[Mimir Burison (Earth-616)|Mimir Burison]] (paternal adoptive great-uncle);<br>
+[[Njord Burison (Earth-616)|Njord]] (paternal adoptive great-uncle);<br>
+[[Cul Borson (Earth-616)|Cul Borson]] (paternal adoptive uncle);<br>
+[[Vili Borson (Earth-616)|Vili Borson]] (paternal adoptive uncle);<br>
+[[Ve Borson (Earth-616)|Ve Borson]] (paternal adoptive uncle);<br>
+[[Arkin (Earth-616)|Arkin]] (cousin);<br>
+[[Hoder Vilison (Earth-616)|Hoder Vilison]] (paternal adoptive cousin);<br>
+[[Kid Loki (Earth-616)|Kid Loki]] (younger incarnation, deceased);<br>
+[[Loki Laufeyson (Ikol) (Earth-616)|Ikol]] (current incarnation)
+| MaritalStatus           = Separated
+
+| Gender                  = Male
+| Height                  = 6'4"
+| Weight                  = 525 lbs
+| Eyes                    = Green
+| Hair                    = Black
+| Hair2                   = ; (as adult) Black-[[:Category:Grey Hair|Grey]][[Category:Grey Hair|Grey]]
+| UnusualFeatures         = Loki briefly possessed the form of [[Sif (Earth-616)|Sif]].
+| CharRef                 = {{cl|Avengers: Roll Call Vol 1 1}}
+
+| Origin                  = Deity; [[Frost Giant]], adopted by [[Odin Borson (Earth-616)|Odin]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Jotunheim]], [[Asgard (Realm)|Asgard]]
+| PlaceOfDeath            = 
+| KilledBy                = Thor Odinson (Earth-616); Void (Dark Sentry) (Earth-616)
+
+| Identity                = No Dual
+| Identity2               = ; regarded as a mythological character by the general populace of Earth
+| Citizenship             = Asgardian
+| Occupation              = Deity; Adventurer; Asgardian Spy; former [[Gods of Earth|God]] of Mischief and Evil{{r|Thor & Hercules: Encyclopaedia Mythologica #1}}
+| Education               = Extensive training in black magic
+| BaseOfOperations        = Mobile; formerly [[Castle of Loki]] ([[Asgard (Realm)|Asgard]]); [[New York City]], [[New York (State)|New York]]
+
+| Creators                = Violet Barclay; Many Hands; Chu Hing; Pierce Rice; Don Rico; Mike Sekowsky; Pete Tumlinson; Stan Lee; Larry Lieber; Jack Kirby
+| First                   = Venus #6
+| First2                  = ([[Glossary:Golden Age of Comic Books|Golden Age]])<br>{{sld|Journey into Mystery #85}}([[Glossary:Silver Age of Comic Books|Silver Age]])
+| Death                   = Siege #4
+
+| Quotation               = Such bluster. How very typical. Ever the sheltered son. So many fractured delusions. You know <b>nothing</b> of war. For all these countless millennia -- when it comes to the <b>two of us</b> -- you seem to have avoided the simplest of conclusions. Instead, you feel the incessant need to <b>avenge</b> every wrong you perceive from your position of languid morality...as if it were some sort of <b>game</b>. Quite sad. But if it's a war you truly desire, Thor -- then Loki can happily <b>provide</b>.
+| Speaker                 = [[Loki Laufeyson (Earth-616)|Loki]]
+| QuoteSource             = Avengers: The Origin Vol 1 4
+
+| Overview                = '''Loki Laufeyson'''{{r|Thor & Hercules: Encyclopaedia Mythologica #1|; Loki's entry}} is the '''Trickster God''',{{r|Thor & Hercules: Encyclopaedia Mythologica #1|; Loki's entry}} '''God of Mischief''',{{r|X-Men Annual Vol 1 9}} '''Evil''',{{r|Avengers #1}} and '''Lies'''{{r|Thor Vol 3 10}} a member of the monstrous [[Frost Giants]] of [[Jotunheim]] but was adopted and raised among the [[Asgardians]] a group of humanoid beings from the [[pocket dimension]] of [[Asgard (Realm)|Asgard]], the Realm Eternal.{{r|Marvel Graphic Novel Vol 1 15}} Born smaller then the rest of his race and rejected by his father [[Laufey (Earth-616)|Laufey]], he was adopted by the [[All-Father]]; [[Odin Borson (Earth-616)|Odin]] following the war. He was taken back to Asgard to be raised alongside his adopted brother [[Thor Odinson (Earth-616)|Thor]].{{r|Thor Vol 3 12}} He was worshiped by the [[Homo sapiens|humans]] known as [[Vikings]] and became part of [[Wikipedia:Norse Mythology|Norse Mythology]].{{r|Thor & Hercules: Encyclopaedia Mythologica Vol 1 1}} Loki grew jealous of his brother after learning his true origin and schemed against him and Asgard.{{r|Journey into Mystery #85}} His later cosmic meddling led to the formation of the [[Avengers (Earth-616)|Avengers]] "Earth's Mightiest Heroes".{{r|Avengers #1}}
+
+| History                 = 
+===Early Years===
+Loki Laufeyson is the son of [[Farbauti (Earth-616)|Queen Farbauti]]{{citation}} and [[Laufey (Earth-616)|King Laufey]],{{citation}} leader of the [[Giants of Jotunheim|Giants]] of [[Jotunheim]]. He was born small and was an embarrassment to his parents,{{citation}} and was segregated from other Giants.{{citation}}
+
+===Adopted===
+Using magics, the future Loki came to Jotunheim's past, tricked [[Bor Burison (Earth-616)|Bor]] and turned him in snow. As Bor withered, he asked [[Odin Borson (Earth-616)|Odin]] to help him, but his son ignored him. Loki then haunted Odin in the guise of Bor's ghost.{{r|Thor Vol 3 12}}
+
+Years passed and eventually, he asked Odin to adopt the son of a fallen king he would have killed, and that would pay his debt. Meanwhile, he went to the present Loki, explaining to him how to become a god by tricking Odin and Laufey.{{r|Thor Vol 3 12}}
+
+Loki went to Laufey, giving him information about where Odin would be positioned in the following battle and taunting him to attack him. As he hinted Laufey was a coward, his father struck him but decided to slay the All-Father.{{r|Thor Vol 3 12}}
+
+Odin confronted Laufey and left him for dead. Loki rushed into the battlefield, faking grief and anger, only to make Odin to recognize his strength and to press him to adopt him.{{r|Thor Vol 3 12}} Out of a combination of honor, pity, and obligation, Odin adopted the boy, raising him alongside his own biological son, [[Thor Odinson (Earth-616)|Thor]],{{r|Journey into Mystery #112}}{{r|Thor Vol 3 8}} while future Loki came to punish Laufey for his past brutalities.{{r|Thor Vol 3 12}}
+
+===God of Mischief===
+Throughout their childhood and into adolescence, Loki became resentful of how differently he and Thor were treated by the general Asgardian citizenry. Valuing great strength, tenacity, and battle-bravery above all, the Asgardians clearly favored Thor. Loki's gifts, however, lay in other areas, most notably sorcery. Possessing a natural affinity for commanding great magical forces, he schemed to use his power to destroy Thor and become the most powerful in all of Asgard.{{citation}}
+
+As the two grew, Loki became jealous of his older brother, Thor, especially regarding his relationship with [[Sif (Earth-616)|Lady Sif]], realizing that she will never be his. He decided to take his anger out on her, he slipped into a bedroom one night and cut off her golden locks. The next day, he was confronted by Thor, but claimed it was just the prank. Loki tried to make it right and travelled to the [[Dwarves of Nidavellir|Dwarves]] to make her new hair. He also hoped to bring gifts back to his family to win their favor. They agreed to the trickster gods demands in exchange for his head, he agreed knowing they would never kill the so of Odin. They created the weapons, including the mighty [[Mjolnir]]. When he returned the weapons to Asgard he presented the gifts to the gods and gave Sif her new hair. Loki hoped to keep Mjolnir for himself, but due to the deal, the Dwarves wanted his head. Thor decided on ta compromise, so they sowed the god's mouth shut.{{r|Loki Vol 2 1}} He later learned [[Balder Odinson (Earth-616)|Balder]] was having nightmares about his on coming death and took to meet with the other gods. Odin decreed that this would not happen, Frigg took an oath from fire and water, iron and all metals, stones and earth, from trees, sicknesses and poisons, and from all four-footed beasts, birds and creeping things. When this was done, Balder and now invulnerable; the gods amused themselves by throwing things at him. Loki however learned of the one thing that they forgot about; harmless "Mistletoe". He found the blind god [[Hoder Vilison (Earth-616)|Hoder]] standing at the outside of the circle and tricked the god into throwing a [[Arrow of Hoder|mistletoe]] arrow and struck Balder killing him. Before anyone could react Loki grabbed Heimdall sword stabbing the god.{{r|Loki Vol 2 2}} Loki told his mother they would travel to [[Niffleheim]] and met with [[Hela (Earth-616)|Hela]] and asked for Balders return. They travelled to the realm and the goddess of death agreed, but with one caveat, every thing in the Nine Realms would have to weep for the fallen god. They complete the task, but discover only one being who has not shed a tear, Loki. Furthermore, they begged for him to do so but declined with glee.{{r|Loki Vol 2 3}}  He came to [[Aegir's Hall]] uninvited and admitted to being the cause of Balder's death, but before the Asgardians could seek justice he escaped in animal form.{{r|Loki Vol 2 4}}  For a time he hid at [[Franang's Falls]] a region on Midgard in which the All-Father could not see him. He remained hidden until [[Geri (Earth-616)|Geri]] and [[Freki (Earth-616)|Freki]], the All-Fathers Wolves found him and reported back to Asgard. Thor came to his brother{{r|Loki Vol 2 1}} and he two battled, but Thor was able to defeat his brother and as punishment and bound him  to a rock as a venomous serpent poison dripped on his face. He would remain in place for many years.{{r|Loki Vol 2 4}}
+
+===Ages of Thunder===
+Asgard was under attack by the Frost Giants. All the gods were at battle as if it was soon to be the end of Asgard. In the end, it was Thor standing strong with his lightning winning the battle for Asgard. Thor brought down a mighty giant who fell and destroyed a giant wall of Asgard which stood as long as anyone could remember. The wall was ruined but it was spring once again. [[Yggdrasill]] grew golden apples once again for the Asgardians to feast on. It was only the [[Amora (Earth-616)|Enchantress]] who had the power to pick the apples from the great tree.{{citation}}
+
+All of the gods gained wisdom and youth from eating the apples in all their meals. All that is, except for the mighty Thor. [[Heimdall (Earth-616)|Heimdall]] then spotted a man walking towards Asgard. The man was a mason who offered Odin to fix his great wall which had been destroyed in their war against the Frost Giants. The mason said he'd be able to fix the wall in a year if you could have one thing.{{citation}}
+
+He wanted neither riches or power, only the Enchantress herself. Loki talked to Odin and they decided to accept his offer to rebuild their wall. However, they told him that he'd have six months and not a year to do so. They all agreed as the gods deemed it an impossible task for the man. However, the man was building at an alarming rate which would eventually make him finish the wall in less than six months.{{citation}}
+
+This greatly angered Odin and he told Loki to fix their problem or else he'd bind him to stone forever. Loki then shape-shifted into a mare in order to distract the man's steed. All night, Loki distracted the steed and in the morning, the man wasn't able to finish the wall. Odin told the man that he couldn't complete the task but the man knew that it was Loki who was distracting his steed and who made him fail in his task.{{citation}}
+
+The man began to say that he'd kill them all and then the man showed his true form. He was actually a shapeshifting Frost Giant who was ready to damn the Asgardians. As he fought Loki and Odin, Thor returned from his recent journey and killed the Giant by throwing Mjolnir at him. He then ordered Loki to clean up his mess. He walked through Asgard, carrying with him the heads of several Frost Giants.{{citation}}
+
+Loki was later banished from Asgard for yet another attempt of trickery. Loki wandered through Asgard with no food or direction. It seemed as if he'd been traveling in the snow for thousands of years. One day, an eagle came up to him and asked him questions. The eagle laughed at Loki, seeing how weak and desperate he was. The eagle offered Loki a deal. He'd give him food if he could bring him his desire, the Enchantress. Loki then talked to Enchantress and fooled her after saying he found golden apples which she could pick. They climbed to the top of the snowy mountain where a Frost Giant, who was actually the eagle, was waiting for them. The Giant then took the Enchantress with him to be her queen. The Asgardians then began to starve as there was nobody who could pick the golden apples from the tree. Odin then found out that it was all Loki's fault and he forced Loki to go and save the Enchantress from the Frost Giant. Loki then went back to the lair of the Frost Giant. He found Enchantress laying there tied up while the Frost Giant was sleeping. He sneaked her out but the Frost Giant woke up and discovered that she was missing. The Frost Giant eventually caught up to the two Asgardians and he took hold of them. There was nobody to rescue the two from the hands of the Frost Giant. But Thor came flying from the sky and he flew straight through and killed the Frost Giant. Enchantress was then returned to Asgard and the gods could all feast once again.{{citation}}
+
+[[File:Loki (Circa 1949) (Earth-616).jpg|thumb|left|Loki circa 1949]]
+===20th Century===
+In 1933, Loki was briefly an inmate at the [[Ravencroft Institute]], though he managed to easily escape and transformed the faculty's clothing into straitjackets as a prank.{{r|Ruins of Ravencroft: Dracula Vol 1 1}}
+
+At some point in the 1940s, Loki had earned the wrath of [[Olympians|Olympian]] ruler [[Zeus Panhellenios (Earth-616)|Zeus]] who then banished Loki to [[Hades (Underworld)|Hades]], replacing [[Hades (Earth-616)|Pluto]] as its ruler.{{r|Venus #6}} During this time, Loki apparently spawned a child he dubbed the [[Son of Satan (Loki's son) (Earth-616)|Son of Satan]], as during this time Loki had begun referring to himself as Satan from time to time.{{r|Venus #10}}
+
+Loki soon became obsessed with the Olympian love goddess [[Aphrodite Ourania (Earth-616)|Aphrodite]], who in 1949 was active on Earth as Venus. With Venus active on Earth, Loki used this loophole to escape his exile and spread his evil across the planet. To do this, he appeared at a Mardi Gras parade that Venus was attending as part of her job at [[Beauty Magazine (Earth-616)|Beauty Magazine]]. This was a ploy to get Venus to travel to Hades where Loki had her captured. Loki then possessed the body of Venus' employer and mortal lover [[Whitney Hammond (Earth-616)|Whitney Hammond]] to spread his evil across the globe. Venus eventually freed herself and tracked down Loki, promising to be his queen in Hades if he left the Earth. Loki agreed, but before he could bind Venus to her vow, Zeus (then calling himself Jupiter) appeared and commended Venus for her sacrifice, banishing Loki back to Hades and allowing Venus to return to Earth.{{r|Venus #6}} Soon after this defeat, Loki plotted an invasion of [[Olympus (Realm)|Olympus]] while the gods were busy participating in a trial against Venus. The trial was instigated by Jupiter's daughter [[Joya (Earth-616)|Joya]] who believed that Venus was shirking her godly duties. When Loki and his invasion force arrived on Olympus, Joya realized the error of her ways and posed as Venus and promised to return to Hades with Loki if he stopped his invasion. Loki agreed and withdrew his forces.{{r|Venus #7}} Loki must have eventually seen through this plot as he returned to menace Venus in the future; what befell of Joya is unknown.{{citation}}
+
+In 1950, [[Phoebus Apollo (Earth-616)|Apollo]] made a deal with the demon [[Zoroba (Earth-616)|Zoroba]] to allow the creature to possess his body while his spirit sought to win the love of Venus on Earth. Zoroba, in Apollo's body, used the opportunity to try and pressure Jupiter to allow Loki to leave his exile and reside on Olympus. Jupiter allowed Loki a brief audience while he considered it, but Venus eventually foiled the plot and Loki and Zoroba found themselves banished back to Hades.{{r|Venus #9}} Briefly calling himself Satan, Loki then allowed his now adult son, the so-called Son of Satan to go to Earth and try to force Venus to love him. Unfortunately for Loki's scion, Venus defeated him and left him in an endless orbit around the Earth.{{r|Venus #10}}
+
+[[File:Loki Laufeyson (as Satan) (Earth-616).jpg|thumb|right|Loki posing as Satan circa 1950.]]
+By 1951, Loki had cast a spell over the far eastern nation of [[Cassarobia]] preventing any gods from using their powers in the region. His full motivation, other than inconveniencing the gods, are unknown. However, shortly thereafter Venus found herself a prisoner of Cassarobia's ruling sultan who sought to make her his new wife. Jupiter used Loki's lust over Venus to convince him to lower the spell when Venus' life was at risk. Loki then joined his half-brother Thor in holding back the sultan's forces until Venus and Cassarobian people successfully overthrew him.{{r|Venus #12}}
+
+Through unexplained means, Loki was released from his exile in Hades, and he returned to Asgard.{{r|Official Handbook of the Marvel Universe A-Z #6}}
+
+At some unknown point Odin, long-tolerant of Loki's attempts sent Thor to catch Loki and magically imprisoned him within a tree in [[Asgard (Realm)|Asgard]]. Odin proclaimed he could only be freed when someone shed a tear for him.{{r|Journey into Mystery #85}}
+
+===Modern Age===
+In the modern era, Loki was eventually freed when he exerted his will on the tree and a leaf fell into the eye of Heimdall, causing him to cry. His first thought once freed was to find Thor and sensed his presence on [[Earth]]. Travelling down to Earth in a human disguise, Loki found his search fruitless so cast an illusion on civilians in an attempt to lure Thor out. After the illusion was broken, Loki revealed himself and challenged Thor to battle in the air. In doing so Loki was able to hypnotize Thor and attempted to obtained [[Mjolnir]], eventually getting Thor to put the hammer down. While distracted by people trying to lift the hammer, Thor turns back into Don Blake and breaks the trance he'd been under. Regaining his hammer, Thor chases Loki through the city until he attempts to escape via a winged horse but Thor is able to stop Loki's escape and return him to Asgard.{{r|Journey into Mystery #85}}
+
+Odin attempted to ban Loki from ever leaving Asgard again, but after Loki discovered the truth about Thor turning into Don Blake without Mjolnir and sneaked past Heimdall disguised as a snake. Back on Earth he hypnotized [[Jane Foster (Earth-616)|Jane Foster]] and then challenged Thor to a battle in [[Central Park]]. During the battle Jane turned up just as Loki predicted and turned a tree into a tiger and made Thor choose between his hammer and saving her. Thor chose to save her and Loki trapped the hammer behind a magical force field, preventing Don Blake from turning back in Thor. Loki went all over [[United States of America|America]], using his magic for trickery and decent, until Thor challenged him to battle so he returned to the hammer. Finding Thor there waiting he removed the force field, allowing Don Blake to appear behind the dummy and grabbing the hammer before Loki could stop him and Loki was captured and again returned to Asgard.{{r|Journey into Mystery #88}}
+
+Unable to leave Asgard, Loki used a carnival mind reader named [[Sandu (Earth-616)|Sandu]] and boosted Sandu's natural mind reading ability, granting him additional powers of telepathy, telekinesis and teleportation. Sandu used this power to rob banks, until he made an ultimatum for world leaders to make him ruler of the Earth. When Thor confronted him, Sandu dropped the [[United Nations Headquarters|United Nations Building]] on Thor trapping him beneath. Odin then sent down the [[Valkyrior (Earth-616)|Valkyrie]] to arm Thor with [[Megingjord]], the so-called Belt of Strength. Thor clashed with Sandu again, but when the mind reader tried to use his power to handle Mjolnir, he shorted out his powers and was quickly captured.{{r|Journey into Mystery #91}}
+
+Loki was again imprisoned by Odin and chained to a rock with unbreakable [[Uru]] chains. He eventually freed himself by enchanting the chains to attract Mjolnir to break them, since they were made out of the same material. Freed he set about destroying Thor, who at the same time was brought to Asgard by Odin to search for his missing hammer. During the search Loki kept trying to destroy Thor, but Thor kept avoiding death by making replacement hammer's out of wood and stone. One of these was accidentally made out of Uru and thus was also attracted to the chains. Finding his hammer and the broken chains, Thor realized the truth and Loki was captured by the Asgardians.{{r|Journey into Mystery #92}}
+
+Imprisoned again by Odin, Loki was chained again with Uru chains to a cliff and was this time was freed by Thor who he tricked into turning against humanity, an event that also has two different accounts. In the original account, Loki used magic to distract Thor upon Mjolnir's return to him, striking himself in the head, which somehow caused him to turn evil. Thor then teamed up with Loki and attacked various landmarks across the world. Odin and a number of Asgardian gods then posed as members of the [[United Nations (Earth-616)|United Nations]] and tricked Thor and Loki into going to the UN Building in [[New York City|New York]] to accept the world's surrender. There Odin had Thor struck in the head again, restoring his personality. Thor then defeated Loki and turned him over to his father. In this account, Odin used his magic to restore all the damage done by Thor and erase everyone's memories of his rampage.{{r|Journey into Mystery #94}} In the other account, Loki confronted Donald Blake in his office and used his magic to suppress Blake's mind when he transformed into Thor. Loki then appealed to the arrogant and unhindered Thor, convincing him that the planet Earth needed to face the wrath of the gods. Thor then declared war against the entire planet, this diverged the reality to [[Earth-11035]].{{r|Thor: First Thunder #4}}
+
+Loki's schemes eventually drew together some of Earth's superhuman heroes. Manipulating the [[Bruce Banner (Earth-616)|Hulk]] into wreaking havoc as his latest mortal catspaw against Thor, Loki's plot accidentally led to the formation of the [[Avengers (Earth-616)|Avengers]].{{r|Avengers #1}}
+
+While being trapped on Asgard, Loki, drew the [[Molto (Earth-616)|Lava Man]] to the surface and tricked him into attacking Thor and the surface world, but the Lava Man was defeated and returned to [[Subterranea]].{{r|Journey into Mystery #97}}
+
+Odin halved Thor's powers and barred him from entering Asgard when he insisted on marrying Jane Foster. Seeking to take advantage of this opportunity, Loki restored the memory of [[Artur Zarrko (Earth-6297)|Zarrko the Tomorrow Man]], who promptly traveled back in time to battle Thor, who was defeated and surrendered and agreed to return with him to the 23rd Century as his slave.{{r|Journey into Mystery #101}} Thor assisted Zarrko in conquering the 23rd Century, but eventually freed himself and returned to his own century.{{r|Journey into Mystery #102}}
+
+Seeking to leverage Odin's disapproval of Thor's romance with human Jane Foster, Loki used her in several plots{{r|Journey into Mystery #108}}{{r|Journey into Mystery #110|111}}{{r|Journey into Mystery #115|117}} and willingly assisted in attempts to break their relationship. One instance saw Loki persuading the Enchantress to travel to Earth to seduce Thor.{{r|Journey into Mystery #103}} As Odin followed to end the contrived romance personally, Loki used the opportunity to seize the throne, setting the giant [[Skagg (Earth-616)|Skagg]] and the demon [[Surtur (Earth-616)|Surtur]] loose on Earth, hoping they would defeat the Asgardians. Failing, Loki was sent to serve the [[Rock Trolls|Trolls]] as punishment.{{r|Journey into Mystery #104}}
+
+Among the "fruits" of Loki's other Earthbound-schemes against Thor was the human criminal Carl "Crusher" Creel, transformed by sorcery into the superhuman [[Carl Creel (Earth-616)|Absorbing Man]],{{r|Journey into Mystery #114}}{{r|Journey into Mystery #120}} one of the Thunder God's most-enduring mortal adversaries. Around this time, Loki also became responsible for the reawakening of the [[Destroyer (Enchanted Armor)|Destroyer]].{{r|Journey into Mystery #118|119}} He even went so far as to turn Odin against Thor in an attempt to steal the enchanted hammer, [[Mjolnir]].{{citation}}
+
+Returning to Asgard, Loki again faced exile and punishment. However, despite his loathing of Thor and Odin, he helped defend Asgard from Surtur and his [[Fire Demons of Muspelheim|Fire Demons]] - for selfish ends, as he wished to rule what Surtur would destroy.{{citation}}
+
+In disguise, Loki manipulated a group of master villains into engineering the "[[Acts of Vengeance (Event)|Acts of Vengeance]]". With these prime movers, he set in motion a plot against the Avengers and other heroes. He sent the [[Cain Marko (Earth-616)|Juggernaut]] against Thor, and cast a spell that caused temporary bouts of weakness in Thor. He battled the combined forces of the West Coast and East Coast Avengers. His identity was ultimately revealed, and he was defeated by the Avengers.{{r|Avengers #310|313}}{{r|Avengers Spotlight #26|28}}{{r|Avengers: West Coast #53|55}} Loki was killed by Thor,{{r|Thor #432}} however, manipulation of the timestream brought him back.{{r|Thor #440}}
+
+[[Morwen (Earth-616)|Morwen]], a powerful agent of chaos, was released and took Tessa Black, a child of Loki, as a host. With Doctor Strange unavailable, Loki and Spider-Man worked together to free her. Loki proclaimed he owes an as yet unpaid debt to his temporary ally.{{r|Amazing Spider-Man #504}}
+
+===Ragnarok===
+It was prophesied that Loki would lead Asgard's enemies into the "Eternal Realm" and aid them in destroying it in a final conflict known as [[Ragnarok]], or sometimes referred to as "The Twilight of Gods". Loki fulfilled the prophecy of leading the enemies of Asgard against the Asgardians. This battle consumed all who participated in it and it was revealed that the cycle of the birth, lives, and death of the Asgardians was a continuing cycle presided over by beings known only as "[[Those Who Sit Above in Shadow (Earth-616)|Those Who Sit Above in Shadow]]". Thor was able to put an end to this continuing cycle. All Asgardians perished in this last Ragnarok except for Thor who disappeared into a deep sleep. But this time "Those Who Sit Above in Shadow" followed them in death and were unable to revive them.{{r|Thor Vol 2 80|85}}
+
+===As a Woman===
+[[File:Loki Laufeyson (Earth-616) from Thor Vol 3 5 0001.png|thumb|right|Loki as a woman]]
+After Thor returned, he started a quest to find the other Asgardians. After finding Heimdall and the [[Warriors Three (Earth-616)|Warriors Three]] he stepped up the search. Heimdall guided him to the southwest where dozens of humans were being jailed by the Destroyer. Loki had collected all of his former Asgardian allies, and Thor fell for the trap, restoring them all to their full power. Loki ''himself'' had been reborn as a female. ''She'' claimed to have no more plans now that Ragnarok was over. Time would tell if her schemes to rule had been truly set aside.{{r|Thor Vol 3 5}}
+
+Having told [[Balder Odinson (Earth-616)|Balder]] that she would never lie again, Loki proceeded to win the Asgardians' trust by revealing that he, like Thor, was a son of Odin. Balder didn't believe, but once he was told it was true by Thor himself, he had come to think of Loki as a trustworthy confidant.{{r|Thor Vol 3 10}} During the [[Deviant Skrulls|Skrulls]] invasion, she managed to goad a mob of Asgardians into thinking that [[Beta Ray Bill (Earth-616)|Beta Ray Bill]] was a Skrull impostor.{{r|Secret Invasion: Thor #1}}
+
+===Dark Reign===
+Loki joined [[Norman Osborn (Earth-616)|Norman Osborn]]'s [[Cabal (Dark Illuminati) (Earth-616)|Cabal]].{{r|Secret Invasion #8}}{{r|Secret Invasion: Dark Reign #1}}
+
+He traveled to the past to ensure Bor, father of Odin and first king of Asgard, "perished" in battle against the Frost Giants, and to ensure his own destiny.{{r|Thor Vol 3 12}}
+
+{{MessageBox
+| Message                 = To know more about those events, scroll back to the [[Loki Laufeyson (Earth-616)#Adopted|"Adopted" chapter of this page]] (or click on that link).
+}}
+
+In the present day Loki revived Bor in [[New York City]], but placed a spell on him to mistake everyone around him as an enemy, therefore attacking everyone in sight. Further aggrieved by the belief his son's failure to resurrect him could only mean he was killed in battle. When Thor arrived on the scene, Loki's enchantment caused Bor to see Thor as a monster. Sensing Odin's power inside what he saw as a demon, Bor attacked Thor, attempting to avenge his son. While Thor and Bor fought, Loki made Balder aware of Bor's identity and the two rushed to New York to stop Thor from killing him (Thor never met Bor until now and is unaware of his identity). They arrived too late, as Thor was forced to kill Bor for fear of the entire planet being destroyed in the wake of their battle. In the aftermath of the battle, Loki reminded Balder that the resurrected Bor was technically the king of Asgard when Thor killed him, and the punishment for killing the king was banishment from Asgard. Balder was forced to agree. After Thor's banishment, Loki spoke to some disgruntled Asgardians and made arrangements to have all Asgardians, but not Asgard itself, moved to [[Latveria]] at the invitation of [[Victor von Doom (Earth-616)|Doctor Doom]].{{r|Thor #600}}
+
+Loki attended a dinner hosted by Doctor Doom along with Balder to secure a new home for the Asgardians in Latveria. She was caught off guard by Balder's insistence that since they were leaving Asgard, Thor should have been allowed to rejoin them. Loki was able to calm Balder before he offended Doom too much. She later appeared before Blake to tell him that she would be returning to her true form shortly and that she had "just now" come to the realization that her body was meant for [[Sif (Earth-616)|Sif]]. Loki explained that, after Ragnarok, when the Asgardians were being placed into human hosts, Sif's soul was placed into a dying human. When Thor sent out the call for the Asgardians to return, Sif's host was too weak to hear the call. To fill the gap where no soul existed inside, Sif's original intended body went looking for a soul and found Loki. Loki claimed the transfer from his female form to his male form would probably kill Sif's host and she urged Thor to find Sif and say goodbye.{{r|Thor #601}}
+
+Following the [[Parker Robbins (Earth-616)|Hood]]'s depowering at the hands of [[Stephen Strange (Earth-616)|Doctor Strange]], [[Jericho Drumm (Earth-616)|Brother Voodoo]], and the [[Daimon Hellstrom (Earth-616)|Son of Satan]], Loki offered the Hood a second chance.{{r|New Avengers #54}} She presented to him the [[Stones of Norn|Norn Stones]], Asgardian artifacts she had previously used, to grant him back his powers.{{citation}}
+
+[[File:Mighty Avengers 29 2.jpg|thumb|left|Loki as the Scarlet Witch]]
+===Mighty Avengers===
+Loki took on the form of the [[Wanda Maximoff (Earth-616)|Scarlet Witch]] in her astral form and recruited a team of [[Mighty Avengers (Initiative) (Earth-616)|Avengers]] to face the [[Elder Gods of Earth|Elder God]] [[Chthon (Earth-616)|Chthon]].{{r|Mighty Avengers #21}} The Avengers, unaware of Loki's trick, followed this "false Wanda's" instructions.{{r|Mighty Avengers #21|23}} Her goal in using these Avengers was to throw Norman Osborn off balance. Loki intended to put "cracks in Osborn's armor" and gradually "widen" these cracks through the Mighty Avengers. [[Pietro Maximoff (Earth-616)|Pietro Maximoff]], desiring to see and converse with his sister, joined the Mighty Avengers after he raced around the world searching for her.{{r|Mighty Avengers #24}}
+
+However, Loki began to see that Pietro and [[Cassandra Lang (Earth-616)|Cassie]] were becoming a problem in her plans, as they genuinely believed her to be Wanda; for the latter, was after revenge for the death of her [[Scott Lang (Earth-616)|father]]. She dealt with the former by cutting off communications while Pietro and [[Jonathan Walker (Earth-616)|U.S. Agent]] were in [[Tibet]], hoping that he would die due to the main emergency he was calling about. Cassie caught her in the act and attempted to warn the others but Loki cast a spell that prevented her from saying bad things about "Wanda". Then, she appeared before [[Henry Pym (Earth-616)|Henry Pym]], calling himself the Wasp, to convince him to expel Cassie from the team; but Pym was about giving second chances ever since their escape with the Fantastic Four.{{citation}}
+
+Loki soon had enough of Cassie when she tricked the [[Young Avengers (Earth-616)|Young Avengers]] into summoning the "Scarlet Witch" to the [[Infinite Avengers Mansion]], using [[William Kaplan (Earth-616)|Wiccan]]'s magic, which caused Loki's disguise to emerge. However, Clint Barton also did a sneak attack, and by kissing Loki, he could tell that she was not Wanda. Wiccan then chanted a spell to reveal Loki's deception, forcing her to erect wards to prevent them from summoning her again, thus canceling out the spell on Cassie.{{citation}}
+
+===Death===
+[[File:Loki dies siege.png|thumb|right|Loki is killed by the Void]]
+Loki manipulated Norman Osborn into leading his [[Dark Avengers (Earth-616)|Avengers]] and [[H.A.M.M.E.R. (Earth-616)|H.A.M.M.E.R.]] into attacking Asgard, intent on having it returned to its proper place in the [[Glossary:Nine Worlds|Nine Realms]].{{r|Siege #1}} However, he underestimated the destructive power of the [[Robert Reynolds (Earth-616)|Sentry]], who had given into the whispers of his [[Void (Dark Sentry) (Earth-616)|Void]] persona. When [[Steven Rogers (Earth-616)|Steve Rogers]] led the true Avengers in defense of Asgard, Osborn had the Void unleash his power in full and Asgard was destroyed.{{r|Siege #3}} Seeing that his plans had gone farther than he had intended, Loki prayed to Odin for help and used the Norn Stones to help the Avengers against the Void and was killed by it in front of a shocked Thor. ''"I'm sorry, brother"'' were his last words.{{r|Siege #4}}
+
+Before dying, Loki laid schemes to break free from the chains of destiny, and be reborn as a completely new [[Loki Laufeyson (Kid Loki) (Earth-616)|Kid Loki]].{{r|Journey into Mystery #622}} However, when he met his end at the hands of the Void, he died forever, and any new Loki would never be the original Loki.{{r|Loki: Agent of Asgard #13}} However, Loki still managed to return after a fashion, with [[Loki Laufeyson (Ikol) (Earth-616)|an echo of his spirit hijacking his reincarnation's body]].{{r|Journey into Mystery Vol 1 645}}
+
+| Powers                  = '''[[Frost Giant]]/[[Asgardian]] Physiology:''' Loki is a Frost Giant with Asgardian attributes. As such, he possesses the conventional attributes of an Asgardian God, albeit at a higher level.
+*'''Superhuman Strength:''' Loki, without the aid of anything, through his own biology, possesses superhuman strength that is substantially superior to that of an average Asgardian male. He possesses sufficient physical strength to lift up to 50 tons.{{r|Thor & Hercules: Encyclopaedia Mythologica #1}} It is possible, however, that he can further increase his strength through mystical enchantment on a temporary basis. Similarly to Thor, it has recently been listed at a higher level than originally,<ref>as the original handbook listed him as able to lift 30 tons</ref> without aid. He once even managed to destroy a large building with a single punch.{{r|Thor #147}}
+*'''Superhumanly Dense Tissue:''' Like Asgardians, Loki's bodily tissues have roughly 3 times the density of the same tissues in a human being. While he has the looks and physical proportions of a much smaller person, the increased density of his body actually makes him several hundred pounds heavier than he appears. This increased density also contributes to his superhuman strength to a limited degree.
+*'''Superhuman Durability:''' The tissues of Loki's body are superhumanly durable and are roughly equal to those possessed by the average Asgardian male. However, at times, Loki had imbued himself with magical abilities that enable him to withstand injuries that would prove fatal to another Asgardian if hit. He is able to withstand high caliber bullets, falls from great heights, powerful impact forces, exposure to temperature extremes and powerful energy blasts without being injured. He has proved in past to be durable enough to withstand energy blast's from [[Mandarin's Rings]] and several blows from [[Spider-Man (Peter Parker)|Spider-Man]] without so much as a blink.{{r|Avengers Annual #19}}{{r|Amazing Spider-Man #503}}
+*'''Regenerative Healing Factor:''' Like all Asgardians, Loki, although he is inhumanly durable, at least by human standards, can still obtain injury, also like all Asgardians, his metabolism enables him to rapidly regenerate damaged tissue much faster and more extensively than a human being. However, through the use of his sorcery, Loki's ability to heal himself is far above that of other Asgardians. His magical energies are so imbued into his body that he can reattach severed limbs and, while still a male, even reattached his own head at least once.
+*'''Superhuman Stamina:''' Loki's Frost Giant metabolism grants him superhuman levels of physical stamina in practically all activities. He can exert himself at peak capacity for about 24 hours before fatigue begins to impair him. However, much like his physical strength and durability, Loki can temporarily augment his stamina through magical means.
+*'''Superhuman Longevity:''' Like all Asgardians, Loki ages at a far slower rate than humans. However, unlike some other god pantheons like the [[Olympians]], who stop ageing completely at a certain point, Loki isn't fully immune to aging. Although he has recently been "reborn", he still has his memories of his previous life. While he is several millennia old, at least, he has the appearance and vitality of a young Asgardian man in his physical prime. Loki is immune to the effects of all known Earthly diseases and infections.
+
+*'''Sorcery:''' Loki has extensive training in sorcery, giving him the ability to generate and control a great quantity of mystical abilities for a variety of purposes. His magical abilities are equal to Karnilla, the most skilled sorceress in the Asgardian dimension.{{r|New Mutants Special Edition #1}}{{r|X-Men Annual Vol 1 9}}{{r|Deadpool Vol 3 37}} He has also once used his magic to turn [[Susan Storm (Earth-616)|Invisible Woman]]'s psionic shields against herself,{{r|Thor: First Thunder #5}} and has been able to break free of Celestial technology in possession of Apocalypse. Loki has also imbued himself with magical abilities that enable him to withstand injuries that would prove fatal to another Asgardian, such as being beheaded by Balder. He has also been shown to be immune to the Controller's control disk, the mental influence of the Voice, and the power-sapping abilities of Rogue. Loki’s power has been said by the Silver Surfer during their early encounters as sufficient to “decimate a planet”.{{r|Silver Surfer #4}}
+**'''Telekinesis:''' Being a telekinetic, Loki can influence the movement of objects and people with his mind, and as such, this power proves to be devastating and chaotic in nature. 
+**'''Mystical Energy Blasts:''' Loki can project powerful beams of concussive force.
+**'''Mystical Force Fields:''' He can generate highly durable force fields.
+**'''Illusion Casting:''' His illusion casting can fool cities, and powerful entities such as Surtur.
+**'''Teleportation:''' Loki has the ability to teleport himself or others across dimensions.
+**'''Psionics:''' Loki has demonstrated powerful psionic capabilities, the full limits of which aren't known. He has demonstrated the ability to project his thoughts telepathically across great distances, even across dimensional barriers, as well as potent hypnotic capabilities. He is able to communicate with beings telepathically, though his ability to do so is greater with beings that serve him.
+**'''Shapeshifting:''' Like a number of gods or goddesses, Loki possesses highly developed shapeshifting capabilities. He is able to adopt almost any form imaginable whether it be animals, other humanoid beings, or even inanimate objects. The thought has been raised that his current form is merely a shape Loki has decided to remain in. Despite this being the a well-known ability of Loki's, he has commented to himself, as he struggled to escape from Dormammu's mystic cage, that this is his "most soul-draining" power, apparently meaning it is more taxing than his other magical abilities. He has become such animals such as a snake, eagle, mouse and bee, gaining the basic natural abilities inherent in each form. While he can take on the likeness of another god, giant or human, he will not necessarily gain the special physical or mental powers of the being he imitates.
+**'''Transmutation:''' Loki can also transform external objects into other forms and substances by magic; for instance, he has turned clouds into dragons and even changed cars into ice cream. He has also once cursed [[Wade Wilson (Earth-616)|Deadpool]] with an indestructible Tom Cruise's face, which proved to be powerful enough to withstand being run over by a train and direct contact with a nuclear rod without receiving a single scratch.
+**'''Physical Enhancement:''' His magic can be used to further enhance or augment his physical diagram, like his speed, strength, and stamina, but only temporarily.
+**'''Enchantment:''' Loki can also bring inanimate objects to life and mystically imbue objects or beings with specific but temporary powers, and bestow superhuman attributes to living beings or inanimate objects. For example, Loki has augmented the might of human criminals like Cobra and Sandu. These magical effects remain only for as long as he maintains the spell that created them. 
+| Abilities               = '''[[Genius Intelligence]]:''' Loki has a genius level intellect and possesses a great deal of knowledge of the mystic arts. He is also extremely cunning and skilled, an expert battle strategist, and highly skilled and charismatic manipulator, which is evident by the ease how Loki repeatedly succeeded to regain the trust of his fellow Asgardians, despite his numerous crimes.{{r|Avengers: Roll Call Vol 1 1}} Loki possesses a brilliant intellect, with some knowledge of technology, as illustrated by the time when he created a machine to amplify Iceman's powers, and when he attached devices to the Twilight sword to tap into its powers. Loki is an expert manipulator and schemer, frequently using pawns in his plans.{{r|Thor Vol 1 378}}
+
+'''[[Allspeak]]:''' Thanks to the Allspeak Loki can communicate in all of the languages of the Nine Realms, Earth's dialects, and various alien languages.
+
+'''Skilled Combatant:''' Loki is a formidable combatant in his own right, particularly as a swordsman or in the use of his various energy manipulative powers in combat situations, enough to hold his own against Thor on numerous occasions and beat the Disir into (literal) submission. He is sometimes armed with a sword, a whip, or a three-pronged spear and has used magical items (such as the Norn Stones) to enhance his powers.{{r|Thor Vol 1 363}}
+| Strength                = Class 50.{{r|Thor & Hercules: Encyclopaedia Mythologica #1}}
+| Weaknesses              = '''Magic limitations:''' Loki's powers are believed to at least be slightly weaker on Midgard than on Asgard, as his birth was not of Gaea, and even Odin's magic was on the wane on Earth. Also, while apparently possessing some extrasensory abilities that resemble psionic powers, Loki can not directly read the minds of other beings, nor can he control their actions.
+
+'''Superiority inferiority complex:''' Loki's ambition has proven to be his greatest flaw, as his passionate hatred of [[Thor Odinson (Earth-616)|Thor]], lust for power, and his tendency to alienate himself through his ignoble actions greatly impedes his ability to bring his well laid plans to fruition. Also, as noticed by [[En Sabah Nur (Earth-616)|Apocalypse]], Loki has a poor understanding of human nature, which leads him to severely underestimate his mortal (earthly) opponent's, resulting into humiliating defeat.
+
+| Equipment               = Loki sometimes carried with him certain mystical empowered objects or substances that were used to expand his own magical powers or to make permanent mystical transformations.
+| Transportation          = 
+| Weapons                 = A magic sword, known in Norse mythology as [[Laevateinn]], which means "wounding wand".<ref>[http://shadowlight.gydja.com/facesofloki.html The Rökkr: The Faces of Loki Shadowlight: brilliant is my being]</ref>
+
+| Notes                   = * It was once speculated that given Loki's god-like appearance and lack of Giant features, his mother was possibly a goddess and not a giantess.{{r|Official Handbook of the Marvel Universe Vol 3 3|; [[Giants of Jotunheim]]'s entry}}
+| Trivia                  = 
+[[File:Loki Laufeyson (Earth-616) and Aphrodite Ourania (Earth-616) from Venus Vol 1 6 0001.jpg|thumb|right|Loki's Golden Age appearance]]
+* A Loki character, based on the traditional God of Mischief, appeared in a number of Golden-Age comics, with no connections to the Thor storylines. Loki's first appearance in {{cl|Venus #6}} (1949) was seemingly retconned in {{cl|Journey Into Mystery #85}} (1962). In Norse mythology, Loki is somewhat similar to his modern comic appearance except in the myths he also had a black goatee.
+* In his first Silver Age appearance in ''Journey Into Mystery'' #85, it was said that Loki's powers don't work in water, but this was never mentioned again.
+* Though Loki is present as one of the most powerful sorcerers of Marvel Universe, in original myths, Loki's only consistent power was that of shapeshifting (and even then it may not be a innate skill, since some myths explicit tells of Loki using an animal-skin to shapeshift), fire manipulation and illusions. Indeed, in ''Lokasenna'', Loki openly mocked Odin for being a magic user, since in ancient Norse culture, men using magic were considered ''Ergi'', or unmanly.
+* Among the many difference between Marvel's interpretation and Loki and the one from myths, Norse Mythology Loki wasn't particularly malevolent; his father was [[wikipedia:Farbauti|Farbauti]] and his mother was [[wikipedia:Laufey|Laufey]]; and he wasn't brother of Thor, but the blood brother of Odin.
+| Marvel                  = 
+| Wikipedia               = Loki_ (Marvel Comics)
+| Links                   = * ''[http://www.norsemyth.org/2010/04/gods-goddesses-part-one.html Loki at the Norse Mythology Blog]''
+* ''[http://www.angelfire.com/planet/mythguide/loki_laufeyson.html Loki at the Guide to the Mythological Universe]''
+}}
+[[it:Loki Laufeyson (Terra-616)]]
+[[ru:Локи Лафейсон (616)]]
+[[tr:Loki Laufeyson (Dünya-616)]]
+[[fr:Loki Laufeyson (Terre-616)]]
+[[Category:Shapeshifters]]
+[[Category:Teleporters]]
+[[Category:Telepaths]]
+[[Category:Flight]]
+[[Category:Power Bestowal]]
+[[Category:Force Field]]
+[[Category:Superhuman Stamina]]
+[[Category:Energy Manipulation]]
+[[Category:Energy Projection]]
+[[Category:Siege casualties]]
+[[Category:Fencing]]
+[[Category:Magicians]]
+[[Category:Comic Awareness]]
+[[Category:Advanced Longevity]]
+[[Category:Conquerors]]
+[[Category:Odin Family]]
+[[Category:Laufey Family]]
+[[Category:Loki Family]]
+[[Category:Frigga Family]]
+[[Category:Farbauti Family]]
+[[Category:Evil Deities]]
+[[Category:Mischief Deities]]
+[[Category:Time Stone wielders]]
+[[Category:Mythological Figures]]
+[[Category:Regeneration]]
+[[Category:Ravencroft Institute Patients]]
+[[Category:Virtual Immortals]]
+[[Category:Reincarnation]]
+[[Category:Telekinesis]]

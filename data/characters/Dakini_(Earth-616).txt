@@ -1,0 +1,54 @@
+{{Marvel Database:Character Template
+| Image                   = Dakini (Earth-616) Captain America Annual Vol 1 10.jpg
+| Name                    = [[Dakini]]
+| Name2                   = (full name unrevealed)
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = Assassin, terrorist, mercenary
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Gregory Wright; Ron Garney
+| First                   = Daredevil Annual Vol 1 7
+| Death                   = 
+
+| History                 = Dakini was a tracker and assassin working for [[Wolfgang von Strucker (Earth-616)|Baron Strucker's]] Hydra. When three genetic experiments escaped Hydra custody, Dakini was sent to hunt down [[Cassandra Romulus (Earth-616)|Cassandra Romulus]].{{r|Daredevil Annual #7}} She refused to work with her fellow hunter [[Ron Takimoto (Earth-616)|Ron Takimoto]], preferring to act alone in pursuit of her prey.{{r|Punisher Annual Vol 1 #4}}
+
+Dakini was a fanatic and decided the genetic freaks from the experiments were a blight on Hydra's name. As a result, she chose to ignore Strucker's orders to take Romulus alive. Dakini got into a three-way battle with [[Steven Rogers (Earth-616)|Captain America]] and Romulus, where she suffered serious injuries and was captured, with her survival uncertain.{{r|Captain America Annual #10}}
+
+| Powers                  = 
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

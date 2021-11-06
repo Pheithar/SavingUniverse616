@@ -1,0 +1,43 @@
+{{Marvel Database:Team Template
+| Title                   = Slaughter Lords
+| Image                   = Slaughter Lords (Earth-616) from Guardians of the Galaxy & X-Men Black Vortex Alpha Vol 1 1 001.jpg
+| ImageSize               = 250px
+| Name                    = Slaughter Lords{{r|Guardians of the Galaxy & X-Men: Black Vortex Alpha Vol 1 1}}
+| Aliases                 = Slaughter Squad{{r|Legendary Star-Lord Vol 1 5}}
+
+| Status                  = Active
+| Identity                = Public
+| Reality                 = Earth-616
+| BaseOfOperations        = [[Mister Knife's Flying Fortress]]
+
+| Leaders                 = Formerly [[J'son (Earth-616)|Mister Knife]]
+| CurrentMembers          = [[Delphinia (Earth-616)|Delphinia]], [[Father Diablo (Earth-616)|Father Diablo]], [[Misa (Earth-616)|Misa]]
+| FormerMembers           = [[Gh'Ree and R'Hos Blood (Earth-616)|Brother Blood]], [[Czar-Doon (Earth-616)|Czar Doon]], [[Nux Vomico (Earth-616)|Nux Vomico]], [[Raksor (Earth-616)|Raksor]]
+| Allies                  = [[Bligh (Earth-616)|Bligh]]
+| Enemies                 = [[Guardians of the Galaxy (Earth-616)|Guardians of the Galaxy]], [[X-Men (Earth-616)|X-Men]]
+
+| Origin                  = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Sam Humphries; Paco Medina
+| First                    = Legendary Star-Lord Vol 1 5
+| First2                   = (As the Slaughter Squad){{sld|Guardians of the Galaxy & X-Men: Black Vortex Alpha Vol 1 1}}(As the Slaughter Lords)
+| Last                    = 
+
+| HistoryText             = [[File:Legendary Star-Lord Vol 1 6 Textless.jpg|thumb|left|As the Slaughter Squad]]
+The '''Slaughter Squad''' was a group of brigands and thieves gathered by [[J'son (Earth-616)|Mister Knife]] to serve as his personal crew. They invaded [[Kymellia III]] to steal the [[Black Vortex]], an ancient artifact capable of unleashing the cosmic potential of whoever wields it, for Mister Knife. [[Nux Vomico (Earth-616)|Nux Vomico]] ended up succumbing to the Black Vortex's powers and was consequently killed by Mister Knife.{{r|Legendary Star-Lord Vol 1 5}}
+
+Later, the Slaughter Squad kidnapped Mister Knife's son, [[Peter Quill (Earth-616)|Star-Lord]],{{r|Legendary Star-Lord Vol 1 6}} but he was ultimately rescued by his girlfriend, [[Katherine Pryde (Earth-616)|Kitty Pryde]].{{r|Legendary Star-Lord Vol 1 7}}
+
+With his plans moving forward after convincing [[Thane (Earth-616)|Thane]] to join his cause,{{r|Legendary Star-Lord Vol 1 8}} Mister Knife allowed the Slaughter Squad to submit to the Black Vortex, unleashing their cosmic potential and turning them into the '''Slaughter Lords'''.{{r|Guardians of the Galaxy & X-Men: Black Vortex Alpha Vol 1 1}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[pt-br:Senhores do Massacre (Terra-616)]]
+[[Category:2015 Team Debuts]]

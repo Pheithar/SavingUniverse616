@@ -1,0 +1,58 @@
+{{Marvel Database:Character Template
+| Image                   = Lawrence_Rambow_(Earth-616)_from_Fantastic_Four_Vol_1_105.png
+| Name                    = Lawrence Rambow
+| CurrentAlias            = The Monster
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = [[Phillip Rambow (Earth-616)|Phillip Zoltan Rambow]] (father)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Marvel Encyclopedia Vol 1 Fantastic Four}}
+| Gender                  = Male
+| Height                  = 6'2"
+| Weight                  = 225 lbs
+| Eyes                    = 
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] [[Glossary:Mutate|mutate]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Stan Lee; John Romita Sr.
+| First                   = Fantastic Four #105
+
+| History                 = [[File:Lawrence_Rambow_(Earth-616)_from_Fantastic_Four_Vol_1_106.jpg|thumb|left|Human form {{r|Fantastic Four #106}}]]
+Lawrence Rambow was the son of scientist [[Phillip Rambow (Earth-616)|Phillip Zoltan Rambow]] who once worked with [[Reed Richards (Earth-616)|Reed Richards]],{{r|Fantastic Four #105}} who later became Mister Fantastic, leader of the [[Fantastic Four (Earth-616)|Fantastic Four]].{{r|Fantastic Four #1}}
+
+Years later, Phillip was working on a device that could neutralize any weapon. Assisting him on this noble goal was his son. During the experiment something went wrong and Lawrence was bombarded with and transformed by a strange energy. This energy form then went on a rampage across New York City.{{r|Fantastic Four #106}} Not wishing his son to be harmed, Phillip sought out his old colleague, but instead ran into his wife the [[Susan Storm (Earth-616)|Invisible Girl]], who was fending off the creature during its attack.{{r|Fantastic Four #105}} She was soon joined by her teammates, Mister Fantastic and the [[Jonathan Storm (Earth-616)|Human Torch]]. Realizing that a neutralizer device in his lab could revert his son back to normal, Rambow was taken there by the Human Torch while Mr. Fantastic and the Invisible Girl kept Lawrence at bay. Getting the neutralizer in on time, Phillip activated it, changing his son back to normal. Following the battle Rambow had to be hospitalized,{{r|Fantastic Four #106}} his subsequent fate is unknown.
+
+| Powers                  = None
+{{Navigation
+| title = Former Powers
+| body  = In energy form, Lawrence could fire beams of energy from his hands.
+}}
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Energy Form]]
+[[Category:Energy Projection]]
+[[Category:Depowered Mutates]]

@@ -1,0 +1,48 @@
+{{Marvel Database:Character Template
+| Image                   = Arvak (Earth-616) from Inhumans Vol 3 1 0001.png
+| Name                    = Arvak
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = [[Inhumans]]<br>[[Inhuman Royal Guard (Earth-616)|Inhuman Royal Guard]]
+| Relatives               = [[Stallior (Earth-616)|Stallior]] (cousin)<br>[[Chiron (Inhuman) (Earth-616)|Chiron]] (cousin)
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = Centaur-like body structure, with tail, hooves
+
+| Origin                  = [[Inhomo supremis|Inhuman]] exposed to [[Terrigen Mists]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = Attilan
+| Occupation              = Soldier
+| Education               = 
+| BaseOfOperations        = [[Attilan]]
+
+| Creators                = Rafael Marin; Jose Ladronn
+| First                   = Inhumans Vol 3 1
+
+| History                 = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

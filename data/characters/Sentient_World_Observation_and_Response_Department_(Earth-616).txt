@@ -1,0 +1,65 @@
+{{Marvel Database:Organization Template
+| Image                   = Sentient World Observation and Response Department (Earth-616) from S.W.O.R.D. Vol 2 1 002.png
+| Title                   = [[S.W.O.R.D.]]
+| Name                    = [[Sentient World Observation and Response Department]]{{r|S.W.O.R.D. Vol 1 1}}
+| Aliases                 = [[S.W.O.R.D.]]; Sentient Worlds Observation and Response Department{{r|Astonishing X-Men Vol 3 6}}
+| Identity                = Known to Authorities
+
+| Status                  = Active
+| Reality                 = Earth-616
+| BaseOfOperations        = [[Peak VII|The Peak]], [[Earth Orbit]]; formerly [[Pandora's Box (Space Station)|Pandora's Box]] (research station)
+
+| OrganizationLeaders     = [[Abigail Brand (Earth-616)|Commander Abigail Brand]]
+| CurrentMembers          = [[Hisako Ichiki (Earth-616)|Armor (The Shield)]], [[Dominikos Petrakis (Earth-616)|Avalanche]], [[Clarice Ferguson (Earth-616)|Blink]], [[Abigail Brand (Earth-616)|Abigail Brand]], [[Nathaniel Summers (Earth-616)|Cable]], [[Lila Cheney (Earth-616)|Lila Cheney]], [[Michael McCain (Earth-616)|Forearm]], [[Joanna Cargill (Earth-616)|Frenzy]], [[Gateway (Earth-616)|Gateway]], [[Jednu (Earth-616)|Jednu]], [[Khora (Earth-616)|Khora (The Power)]], [[Eden Fesi (Earth-616)|Manifold (The Guide)]], [[Marvin Flumm (Earth-616)|Mentallo]], [[Peter Quinn (Earth-616)|Peeper (The Eye)]], [[Marshall Stone III (Earth-616)|Random]], [[Gloria Muñoz (Earth-616)|Risque (The Foundry)]], [[Clement Wilson (Earth-616)|Ruckus]], [[Christopher Anderson (Earth-616)|Slab]], [[Kristina Anderson (Earth-616)|Thumbelina]], [[Vanisher (Earth-616)|Vanisher]], [[Amelia Voght (Earth-616)|Amelia Voght]], [[Takeshi Matsuya (Earth-616)|Wiz-Kid (The Control)]]
+| FormerMembers           = [[Henry McCoy (Earth-616)|Beast]], [[Benjamin Deeds (Earth-616)|Benjamin]], [[Cecilia (Earth-616)|Cecilia]], [[Fabian Cortez (Earth-616)|Fabian Cortez (The Power)]], [[Death's Head (Styrakos)|Death's Head]], [[Agent Deems (Earth-616)|Agent Deems]], [[Henry Gyrich (Earth-616)|Henry Gyrich]], [[Lockheed (Earth-616)|Lockheed]], [[Reilly Marshall (Earth-616)|Agent Marshall]], [[Irma Cuckoo (Earth-616)|Mindee]], [[Agent Paulletz (Earth-616)|Agent Paulletz]], [[K'eel R'kt (Earth-616)|K'eel R'kt]], [[Jessica Drew (Earth-616)|Spider-Woman]], [[Sydren (Earth-616)|Sydren]], [[Manifold Tyger (Earth-616)|Manifold Tyger]],
+| Allies                  = [[Six (Earth-616)|The Six]], [[S.W.O.R.D. Teleport Team (Earth-616)|Teleport Team]], [[X-Men (Earth-616)|X-Men]]; [[Galactic Council (Earth-616)|Galactic Council]]; [[Zn'rx Empire]]; [[Shi'ar Empire]]; formerly [[Avengers (Earth-616)|Avengers]], [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]], [[Wikipedia:United States Space Command|U.S. Space Command]]
+| Enemies                 = [[Henry Gyrich (Earth-616)|Henry Gyrich]], [[Knull (Earth-616)|Knull]], [[Symbiote Dragons]], [[Dormammu (Earth-616)|Dormammu]], Formerly [[Metroliths]], [[Unit (Earth-616)|Unit]], [[Drenx]], [[X-Men (New Charles Xavier School) (Earth-616)|Cyclops' X-Men]]
+
+| Origin                  = Formed to protect Earth from extraterrestrial threats
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Joss Whedon; John Cassaday
+| First                   = Astonishing X-Men Vol 3 3
+
+| History                 = 
+===Origin===
+[[file:Sentient World Observation and Response Department (Earth-616) from S.W.O.R.D. Vol 1 logo 001.png|thumb|left|200px|Previous S.W.O.R.D. logo]]
+S.W.O.R.D. (an acronym for Sentient World Observation and Response Department) was a counter terrorism and intelligence agency which dealt with extraterrestrial threats to world security. S.W.O.R.D. was a subdivision of [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] but appeared to be largely autonomous of its parent organization. Since the departure of [[Nicholas Fury (Earth-616)|Nick Fury]] as director of S.H.I.E.L.D., relations between the two organizations became strained.{{r|Astonishing X-Men Vol 3 #6}}
+
+The head of S.W.O.R.D was [[Abigail Brand (Earth-616)|Special Agent Abigail Brand]]. Its primary command-and-control HQ was aboard the orbital space station known as the [[Peak VII|Peak]].{{r|Astonishing X-Men Vol 3 #10}} S.W.O.R.D. was known to have at least one undercover operative in the [[Xavier's School for Gifted Youngsters|X-Mansion]]: [[Katherine Pryde (Earth-616)|Shadowcat]]'s pet dragon, [[Lockheed (Earth-616)|Lockheed]].{{r|Astonishing X-Men Vol 3 19|24}}
+
+===Breakworld===
+When [[Ord (Breakworld) (Earth-616)|Ord of the Breakworld]] tried to declare war on [[Earth]] S.W.O.R.D. was able to settle with him diplomatically by offering him a chance to eradicate the [[Mutant Genes|mutant gene]], while they would seek to identify the [[Piotr Rasputin (Earth-616)|mutant]] that would be responsible for the Breakworld's destruction. However, Ord went on his own and developed a [[Hope Serum|"cure"]] to the mutant condition, but he was defeated by the [[X-Men (Earth-616)|X-Men]] and apprehended by S.W.O.R.D..{{r|Astonishing X-Men Vol 3 6}} S.W.O.R.D. then assisted the X-Men in stopping the [[Breakworldians]] from launching a missile aimed at Earth.{{r|Astonishing X-Men Vol 3 19|24}}
+
+===Secret Invasion===
+During the [[Deviant Skrulls|Skrulls]]' [[Secret Invasion]] of Earth, the Peak was destroyed by a [[Timothy Dugan (Skrull) (Earth-616)|Skrull infiltrator]] posing as [[Timothy Dugan (Earth-616)|Dum-Dum Dugan]]. This caused many agent casualties, though some, including Brand, were able to survive thanks to their advanced suit with life-support system but were stranded in space.{{r|Secret Invasion Vol 1 1}} Brand was able to infiltrate one of the Skrulls' ships and freed Reed Richards which proved to instrumental in defeating the Skrulls.{{r|Secret Invasion Vol 1 4|5}}
+
+===Aliens Go Home===
+[[Henry Gyrich (Earth-616)|Henry Peter Gyrich]] was assigned as co-commander of S.W.O.R.D. alongside Brand, and persuaded the heads of S.W.O.R.D. to pass legislation to have all aliens currently living on Earth deported from the planet, while Brand was away.{{r|S.W.O.R.D. Vol 1 1|2}}
+
+===Apocalypse Twins===
+The [[Apocalypse Twins (Earth-616)|Apocalypse Twins]] then went on to damage the Peak, which forced the agents to evacuate. Following this, the debris of the Peak nearly destroyed [[Rio de Janeiro]], but was safely vaporized by [[Shiro Yoshida (Earth-616)|Sunfire]].{{r|Uncanny Avengers Vol 1 7|8}}
+
+===Further Alien Threats===
+S.W.O.R.D. sent some teams to deal with the [[Brood (Race)|Brood]] threat in the Jean Grey School, but they ended up being killed.{{r|Wolverine and the X-Men Vol 1 6}} S.W.O.R.D. was then overtaken by [[Symbiotes (Race)|Symbiote]]-possessed Brood which went on to infect other personnel of the organization. The [[Hive (Symbiotes) (Earth-616)|Symbiote Imperium]] intended to infect [[Cal'syee Neramani (Earth-616)|Deathbird]] and her [[Deathbird's Child (Earth-616)|unborn child]], before being defeated by the X-Men.{{r|Spider-Man and the X-Men Vol 1 5}}
+
+At an unknown point in time, S.W.O.R.D. was attacked by the [[Vescora]], an alien race that acts like a virus given humanoid form. They were able to infiltrate the Peak thanks to a portal built within it and kill almost all of the agents, while the surviving ones were infected. As part for the [[X of Swords|Ten of Swords]] challenge, [[Nathaniel Summers (Earth-616)|Cable]] and his parents entered the Peak where he used the [[Light of Galador]] to power it back up which also reopened the portal. They fought off the arriving Vescora before returning to [[Krakoa (Earth-616)|Krakoa]].{{r|Cable Vol 4 5}}
+
+===Alliance With Krakoa===
+With the Vescora eliminated, S.W.O.R.D. was started back up with Brand once again the head, although now in allegiance with Krakoa. To this end Cable was assigned as director of security, [[Takeshi Matsuya (Earth-616)|Takeshi Matsuya]] the team's technology expert, Eden Fesi the head of Logistics and a central part of the Teleport Team (consisting itself of Blink, Lila Cheney, Gateway, Vanisher, and Amelia Vought), Joanna Cargill was placed head of diplomatic relations with Armor working under her, and Fabian Cortez (much to the others' ire) head of the medical team due to his powers. When Magneto arrived at the station to provide oversight from the Krakoan council He was greeted by Cable Brand then arrived soon after and showed Erik around. The two talked about the goal of the organization with Brand telling Erik that while S.W.O.R.D. was working in conjunction with Krakoa her focus could not be focused just on mutant needs and that she had to think beyond Krakoa's needs as well, although Erik pointed out that S.W.O.R.D had Krakoa's favor and that they in fact worked for her. Erik also assured her that unlike in the past Krakoa would always be transparent with her. Soon after Brand had the Six successfully teleport to the Edge of creation to procure an [[Mysterium (Metal)|artifact]].{{r|S.W.O.R.D. Vol 2 1}}
+
+===King In Black===
+When [[Knull (Earth-616)|Knull]] and his symbiotes invaded Earth, Brand had Random, [[Joanna Cargill (Earth-616)|Frenzy]], Paibok, and [[Fabian Cortez (Earth-616)|Fabian]] went to Krakoa to rescue the Five in the case that Knull succeeded.{{r|S.W.O.R.D. Vol 2 2}}
+
+| Equipment               = 
+| Transportation          = [[S.W.O.R.D. Flying Car]]
+| Weapons                 = 
+| Notes                   = * When [[Norman Osborn (Earth-616)|Norman Osborn]] reformed S.H.I.E.L.D. as [[H.A.M.M.E.R. (Earth-616)|H.A.M.M.E.R.]], it was unknown what its relation was with the previously S.H.I.E.L.D. affiliated S.W.O.R.D..
+| Trivia                  = * Before their creation, the S.W.O.R.D. acronym was briefly used by the [[Great Lakes Avengers (Earth-616)|Great Lakes Avengers]], for whom it stood for; "Superhuman Warriors Operation Redistribution Division".{{r|Thunderbolts Vol 1 16}}
+* A young hacker named [[Bryce Bandau (Earth-616)|Bryce]] was able to crack S.W.O.R.D.'s database.{{r|Hawkeye: Freefall Vol 1 4}}
+| Links                   = * [[wikipedia:S.W.O.R.D. (comics)|Sentient World Observation and Response Department (Earth-616) at Wikipedia.org]]
+}}
+[[Category:Government Organizations]]
+[[Category:S.H.I.E.L.D. Projects]]
+[[Category:International Organizations]]
+[[Category:Krakoan Organizations]]

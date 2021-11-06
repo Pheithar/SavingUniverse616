@@ -1,0 +1,75 @@
+{{Marvel Database:Character Template
+| Title                   = Commander Chrell
+| Image                   = Chrell (Earth-616) from Secret Invasion Runaways Young Avengers Vol 1 1 001.jpg
+| Name                    = Chrell
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = [[Skrull Empire]], Skrull Invasion Force, {{M|Dard'van Sect (Earth-616)}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| Gender                  = Male
+| Height                  = Variable
+| Weight                  = Variable
+| Eyes                    = Green
+| Hair                    = No Hair
+| UnusualSkinColor        = Green
+| UnusualFeatures         = Pointed ears, corrugated chins, green skin; Black tattoo on right side of face
+
+| Origin                  = War-[[Deviant Skrull|Skrull]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Tarnax VII]], [[Andromeda Galaxy]]
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = Skrull Empire
+| Occupation              = Invader; Former hand-to-hand training instructor, [[Super-Skrull variants (Earth-616)|Super-Skrull Program]] training instructor
+| Education               = 
+| BaseOfOperations        = Mobile, Formerly [[Tarnax VII]], [[Andromeda Galaxy]]
+
+| Creators                = Christopher Yost; Takeshi Miyazawa
+| First                   = Secret Invasion: Runaways/Young Avengers #1
+| Death                   = Secret Invasion: Runaways/Young Avengers #3
+| Quotation               = Always remember, when you face a superior opponent, learn their weaknesses. Exploit them. That is the [[Skrulls|Skrull]] way.
+| Speaker                 = [[Chrell (Earth-616)|Commander Chrell]]
+
+| History                 = 
+===Origin===
+'''Chrell''' was once a training instructor for [[Super-Skrull variants (Earth-616)|Super-Skrull Program]] trainees, such as; [[X'iv (Earth-616)|X'iv]], [[Xavin (Earth-616)|Xavin]], and even [[Kl'rt (Earth-616)|Kl'rt]].
+
+===[[Secret Invasion]]===
+Despite original lacking any beliefs, Chrell joined the [[Secret Invasion|Skrull Invasion Force]] against [[Earth-616|Earth]], where he began to hunt down the two [[Skrulls|Skrull Princes]]; [[Xavin (Earth-616)|Xavin]] and [[Theodore Altman (Earth-616)|Dorrek VIII]].
+
+However despite being able to take down the [[Runaways (Earth-616)|Runaways]], Chrell struggled against [[Xavin (Earth-616)|Xavin]], [[Theodore Altman (Earth-616)|Dorrek VIII]], [[William Kaplan (Earth-616)|Wiccan]], [[Thomas Shepherd (Earth-616)|Speed]] and [[Karolina Dean (Earth-616)|Karolina Dean]]; because of this he required the assistance of the [[Skrulls|Skrull]] assassin [[X'iv (Earth-616)|X'iv]].
+
+Although not even the assassin's help was enough, thus Chrell decided to go supernova. Unfortunately for Chrell, the [[Runaways (Earth-616)|Runaway]] [[Xavin (Earth-616)|Xavin]] was able to contain his supernova and thus he only succeeded in killing himself.{{Citation}}
+
+| Powers                  = * '''[[Skrull Shape-Shifting]]'''
+* '''[[Skrull Infilttration Ritual]]'''
+====Super Skrull Engineering====
+* '''[[Jonathan Storm (Earth-616)|Human Torch]]''': [[Jonathan Storm (Earth-616)#Powers|Human Torch's Pyrokinesis]].
+* '''[[Susan Storm (Earth-616)|Invisible Woman]]''': [[Susan Storm (Earth-616)#Powers|Invisible Woman's Psionic Force Fields]].
+* '''[[Benjamin Grimm (Earth-616)|Thing]]''': [[Benjamin Grimm (Earth-616)#Powers|Thing's Superhuman Strength & Superhuman Durability]].
+* '''[[Reed Richards (Earth-616)|Mister Fantastic]]''': [[Reed Richards (Earth-616)#Powers|Mister Fantastic's Plasticity & Elongation]].
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = * '''Right-Eye''': Chrell appears to be unable to open his right eye all the way (if not at all). It is possible he may be blind in this eye or that his eyesight is restricted.
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Thermokinesis]]
+[[Category:Pyrokinesis]]
+[[Category:Force Field]]
+[[Category:Superhuman Strength]]
+[[Category:Shapeshifters]]
+[[Category:Stretching]]
+[[Category:War-Skrulls]]
+[[Category:Teachers]]

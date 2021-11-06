@@ -1,0 +1,54 @@
+{{Marvel Database:Character Template
+| Image                   = West Coast Avengers Vol 2 24 001.jpg
+| Name                    = Dominus
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = Quists; [[Lucifer (Quist)|Lucifer]]
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = 
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = Computer designed by [[Quists]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = Quist
+| Occupation              = World Conquerer
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Roy Thomas; Jay Gavin 
+| First                   = X-Men #21
+
+| History                 = Dominus was the channel by which the alien race named "The Arcane" conquered planet after planet.<ref>He first appeared in The Uncanny X-Men # 21 (June 1966) entitled "From whence comes... Dominus?";  however, he was first mentioned on The Uncanny X-Men # 20, the one on which Professor Charles Xavier reveals a secret to Jean Grey by telling her one of the great reasons he founded the X-Men: to one day meet the further threat of Lucifer.</ref>  At Lucifer's command post, the Supreme One checked in with his Agent, [[Lucifer (Quist)|Lucifer]], and said that the time was ready for his true purpose, which was to deploy Dominus. Dominus and Lucifer were temporarily defeated by [[Charles Xavier (Earth-616)|Charles Xavier]], who suffered a debilitating injury in the process. Xavier's X-Men would later defeat Lucifer.
+
+'''Dominus' Minions'''
+Dominus employed a number of servants (AKA the [[Desert Dwellers (Earth-616)|Desert Dwellers]]) in contending with the costumed champions who opposed its attempts to conquer the Earth. One of them was [[Sunstroke]], a human being. The others were sentient beings created from lizards ("Gila"), cacti ("Cactus"), and rocks ("Butte") by means of the robot's alien technology. Dominus was able to create duplicates of each of the three artificially created beings.
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Artificial Intelligences]]
+[[Category:Computer Systems]]
+[[Category:Quists]]

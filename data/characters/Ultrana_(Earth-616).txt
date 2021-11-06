@@ -1,0 +1,47 @@
+{{Marvel Database:Character Template
+| Image                   = Ultrana (Earth-616) from Avengers Vol 1 36 001.jpg
+| Name                    = 
+| CurrentAlias            = [[Ultrana]]
+| Aliases                 = Impersonated the [[Wanda Maximoff (Earth-616)|Scarlet Witch]]
+
+| Affiliation             = [[Ultroids]]
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Green
+| Hair                    = White
+| UnusualSkinColor        = Orange
+| UnusualFeatures         = 
+
+| Origin                  = [[Ultroids|Ultroid]]
+| Reality                 = 616
+| PlaceOfBirth            = 
+
+| Identity                = 
+| Citizenship             = Ultroid
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Roy Thomas
+| First                   = Avengers #36
+
+| History                 = Ultrana was the leader of the [[Ultroids]], the robotic army in service to [[Ixar (Earth-616)|Ixar]]. She was defeated by the [[Avengers (Earth-616)|Avengers]].{{r|Avengers #36|37}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

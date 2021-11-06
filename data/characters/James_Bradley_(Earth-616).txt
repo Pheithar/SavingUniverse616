@@ -1,0 +1,180 @@
+{{Marvel Database:Character Template
+| Image                   = James Bradley (Earth-616) from Way of X Vol 1 3 001.jpg
+| Name                    = James Nicola Bradley 
+| CurrentAlias            = Doctor Nemesis
+| Aliases                 = [[Doctor Death]],{{r|Invaders Vol 2 #1}} [[Nemesis]]{{citation}}
+
+| Affiliation             = Formerly {{m|X-Men}}, {{m|Agents of Wakanda (Earth-616)|Agents of Wakanda}}, [[Hope Summers (Earth-616)|Hope]]'s {{m|X-Force}} (formerly [[Nathaniel Summers (Earth-616)|Cable]]'s), {{m|X-Club}}, {{m|Battle-Axis}}
+
+| Relatives               = 
+[[John Price (Earth-616)|John Price]] (maternal grandfather, deceased);<br>
+[[Mary Price (Earth-616)|Mary Price]] (maternal grandmother, deceased);<br>
+[[Catherine Price (Earth-616)|Catherine Price]] (mother, deceased);<br>
+[[Nicola Bradley (Earth-616)|Dr. Nicola Bradley]] (father, deceased);<br>
+Mary Strong (former fiancée);<br>
+Ex-wife (unknown if Mary Strong or other);{{r|X-Men: Schism #4}}<br>
+[[Human Torch (Android) (Earth-616)|Human Torch (Jim Hammond)]] & [[Volton (Earth-616)|Volton]] ("sons"/creations)
+| MaritalStatus           = Divorced
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z Update #4}}
+| Gender                  = Male
+| Height                  = 5'11"
+| Weight                  = 170 lbs
+| Eyes                    = Blue
+| Hair                    = Blond
+| Hair2 =, Hair on his head is made of fungi (formerly [[:Category:Dyed Hair|dyed]] [[:Category:Black Hair|black]])[[Category:Dyed Hair]][[Category:Black Hair]][[Category:Infobox Eyes Update Needed]]
+| Hair3 = Fungi
+| UnusualFeatures         = His eyes are cybernetic miniature cameras, the top of his hair is composed of fungi
+
+| Origin                  = [[Homo superior|Mutant]] [[Cyborgs|Cyborg]]{{r|Heroic Age: X-Men #1}}
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[San Francisco]], [[California (State)|California]]
+
+| Identity                = Secret
+| Citizenship             = American, Krakoan
+| Occupation              = Adventurer; former terrorist, scientist, Nazi hunter, Nazi agent
+| Education               = MD; Extensively self-taught in biochemistry and robotics.{{r|Official Handbook of the Marvel Universe A-Z Update #4}}
+| BaseOfOperations        = [[Krakoa (Earth-616)|Krakoa]], [[Pacific Ocean]]; formerly Abandoned [[S.H.I.E.L.D. Helicarrier Pericles]], [[Pacific Ocean|Mid-Pacific]]; [[Utopia (X-Men Base)|Utopia]], [[San Francisco Bay]], [[California (State)|California]]; [[Graymalkin Industries]], [[Marin Highlands]], [[San Francisco]], [[California (State)|California]]; [[Argentina]]; [[New York City]], [[New York]]; Secret [[National Socialist German Workers Party (Earth-616)|Nazi]] base beneath the [[Mojave Desert]] in [[California (State)|California]]; [[San Francisco]], [[California (State)|California]]; [[South America]]
+
+| Creators                = Roy Thomas; Dave Hoover
+| First                   = Invaders Vol 2 1
+
+| Quotation               = [[Marrow (Sarah) (Earth-616)|Miss]]: I am '''attempting''' to explain a device so '''profoundly''' complex that even if you were '''functionally immortal'''... which praise the singularity you are not... the Universe would collapse '''long''' before you grasped even how to switch it '''on'''. '''Pay attention''' or I shall feed you to my '''lab'''.
+| Speaker                 = [[James Bradley (Earth-616)|Doctor Nemesis]]
+| QuoteSource             = X-Force Vol 4 1
+
+| History                 = 
+===Early Life===
+James Bradley was born on December 1st,{{r|Uncanny X-Men #512}} 1906 in [[San Francisco]],{{r|Uncanny X-Men #509}} where his mother [[Catherine Price (Earth-616)|Catherine Price]] died during childbirth. His father, [[Nicola Bradley (Earth-616)|Dr. Nicola Bradley]], created a power source for the [[Sentinel (Prototype) (Earth-616)|first sentinel]], and was impaled during its subsequent rampage.{{r|Uncanny X-Men #512}} James was presumably raised by his maternal grandparents, [[John Price (Earth-616)|John]] and [[Mary Price (Earth-616)|Mary Price]].
+
+===World War II===
+During [[World War II|WWII]], Dr. James Bradley worked with the late [[Phineas Horton (Earth-616)|Phineas Horton]] in the creation of the [[Human Torch (Android) (Earth-616)|Human Torch, aka Jim Hammond]]. The two ultimately parted ways and James struck out on his own, taking an unfinished android prototype they created together. Bradley activated the android and told him that he was Guy Newton, a young inventor who came up with the way to generate electricity in his body. Taking his word for it, the android began adventuring as a costumed hero named [[Volton (Earth-616)|Volton]].{{citation}}
+
+Needing to earn money, Bradley became a doctor at Mercy Hospital in [[New York City]]. Somewhere along the way, he decided to become a superhero. Wearing a surgeon's mask and armed with a hypodermic needle gun of his own design, he fought crime as '''Doctor Nemesis'''.{{citation}}
+
+In 1942, Bradley went up against a villain known as the Surgeon, who used trained rats to spread a version of the Black Plague on unsuspecting populated areas. He managed to stop the villain, only to discover that he was actually Dr. Blackston, the superintendent of another city Hospital.<ref>[[w:c:heykidscomics:Lightning Comics Vol 1 6|''Lightning Comics'' #6]]</ref>
+
+====Nazi Agent====
+Some time after the incident, Bradley was approached by agents of the [[National Socialist German Workers Party (Earth-616)|Third Reich]] who wanted to recruit them to their cause. Disillusioned by his experiences and feeling that his talents were underappreciated, Bradley agreed. Under their orders, he organized the [[Battle-Axis (Earth-616)|Battle-Axis]], a team made up of other disillusioned superheroes (plus [[Volton (Earth-616)|Volton]]). At this point, he started calling himself '''[[Doctor Death]]''' and adapted a decisively more malevolent demeanor.{{r|Invaders Vol 2 1}} The Battle Axis embarked on a complex scheme that would force the USA to withdraw from the war. Known as ''Project Mojave'', it revolved around the oscillotron, a device that Bradley invented. It was designed to cause a severe earthquake on the west coast that would destroy war industry plants and release poison gas from underground storage.{{r|Invaders Vol 2 2}} The idea was that the USA would have to leave the war to deal with the resulting crisis. Knowing the [[Invaders (WWII) (Earth-616)|Invaders]]might be able to stop them, Battle Axis tried to neutralize the heroes first.{{r|Invaders Vol 2 3}} Ultimately, the Invaders were able to stop their plan. During the battle, Volton switched sides and attacked Doctor Death with electric blasts. Bradley was left for dead.{{r|Invaders Vol 2 4}}	
+	
+===Nazi Hunter===
+Unbeknownst to the Invaders and his Nazi superiors, Bradley survived.{{r|Official Handbook of the Marvel Universe A-Z Update #4}}
+
+Repentant, he returned to his civilian job and resumed fighting crime as Doctor Nemesis.{{r|Official Handbook of the Marvel Universe A-Z Update #4}} Continuing his war on crime, he became engaged to his co-worker, Nurse Mary Strong. The majority of his wartime activities remain unrecorded.{{citation}}
+
+When World War II ended, the still-repentant Bradley invented a biochemical processes to grant himself an extended life span, rebuilt his eyes to enhance his vision capabilities, and set out to track down escaped Nazi scientists in [[South America]] to stop them (and their creations), including [[Nachtersteller (Earth-616)|Futurführer Nachtersteller]] and his cloned [[Genetikorps (Earth-616)|Genetikorps]], from doing any harm. He eliminated them after sixty years of fighting.{{r|Official Handbook of the Marvel Universe A-Z Update #4}}
+
+Among his fights, he at some time battled Nazi dolphins.{{r|X-Men: Blind Science #1}}
+
+===X-Club & X-Men===
+His chemical cocktails ensured that he remained physically fit until the 2000s, and he kept his powers on [[M-Day]].{{r|Uncanny X-Men #504}}
+
+[[Warren Worthington III (Earth-616)|Warren Worthington]] and [[Henry McCoy (Earth-616)|Hank McCoy]] approached Dr. Bradley while he was in [[Buenos Aires]], hoping to recruit him to help them undo the "spell" that had turned the [[X-Gene]] off.{{r|Uncanny X-Men #505}} However, Bradley had no interest in helping them, as he was busy hunting test tube Nazis and superscientists.{{r|Uncanny X-Men #506}}	
+	
+After an attempt on his life, Bradley decided to join the [[X-Club (Earth-616)|X-Club]]. They also gathered [[Madison Jeffries (Earth-616)|Madison Jeffries]] and [[Yuriko Takiguchi (Earth-616)|Yuriko Takiguchi]] before returning to San Francisco to meet with [[Kavita Rao (Earth-616)|Kavita Rao]] and discuss ways to save [[Homo superior|mutantkind]].{{r|Uncanny X-Men #507}} Nemesis admitted that he might have joined the X-Men from nostalgia because they were settled in [[San Francisco]], his place of birth. The first step was to look at pre-mutant DNA from [[Namor McKenzie (Earth-616)|Namor]]'s era to discover what caused an evolutionary leap, and it was revealed by McCoy and Bradley that his parents were the best candidates of study on that subject, as he was born in 1906.{{r|Uncanny X-Men #508}}
+
+X-Club travelled to 1906 to gather blood samples from James' parents. Though they succeeded, his [[Nicola Bradley (Earth-616)|father]] was killed during the rampage of the [[Sentinel (Prototype) (Earth-616)|first sentinel]] that caused the [[1906 San Francisco Earthquake]]. Before dying, Nicola asked for Nemesis' name, "James", finding it a good name for a boy.{{r|Uncanny X-Men #509}} Before returning to the present, James told his [[Catherine Price (Earth-616)|mother]] to bury the samples in the [[Golden Gate Park]], as they couldn't come back with them. They later found that the [[Tiamut (Earth-616)|Dreaming Celestial]] was standing on top of the samples. Nemesis then returned to the past to ensure his own birth, witnessing his mother's death.{{r|Uncanny X-Men #512}}<!-- The fact that Nemesis gave the name to his father for him to name the newborn James is a time-loop, same as the act of going back to ensure his life -->
+
+When [[Norman Osborn (Earth-616)|Norman Osborn]] and his [[Dark Avengers (Earth-616)|Avengers]] began policing the mutant population in California, Doctor Nemesis and the X-Club were key to [[Scott Summers (Earth-616)|Cyclops]]' plans. After rescuing Beast and [[Charles Xavier (Earth-616)|Professor X]] from Osborn's prison, Nemesis and the rest of the X-Club joined the X-Men on the risen [[Asteroid M]], renamed [[Utopia (X-Men Base)|Utopia]]. Soon after the X-Men's relocation, they mourned the death of Yuriko Takiguchi. Later he and the X-Club were charged with preventing Utopia from sinking back into the ocean.{{citation}}
+
+With the arrival of [[Hope Summers (Earth-616)|Hope Summers]], attacks by [[Bastion (Earth-616)|Bastion]] and the [[Human Council (Earth-616)|Human Council]] became more severe. Doctor Nemesis and the rest of the X-Club were led into a trap that took them off of Utopia, where Bastion created an energy sphere blocking the entire San Francisco area from the outside world. Despite aid from the [[Avengers (Earth-616)|Avengers]], the X-Club was still unable to breach the barrier.{{citation}}
+
+===[[Schism]]===
+[[File:James Bradley (Earth-616) from Black Panther and the Agents of Wakanda Vol 1 6 001.jpg|thumb|right]]
+In order to counter the massive unleashing of [[Sentinels]] over the world, Nemesis worked on the project of a Sentinel-specific EMP.{{r|X-Men: Schism #3}}
+
+During the attack at the [[Museum of Mutant History]], [[Scott Summers (Earth-616)|Cyclops]] granted command of Utopia to him.{{r|X-Men: Schism #3}}
+
+As the X-Men leaders were waiting for Cyclops' decision over fighting or evacuating due to the approach of a giant Sentinel, Nemesis was in favor of evacuating the island,{{r|X-Men: Prelude to Schism #1}} and later tried to diffuse the conflict between [[Namor McKenzie (Earth-616)|Namor]] and Wolverine.{{r|X-Men: Prelude to Schism #3}}
+
+===[[Avengers vs. X-Men (Event)|Avengers vs. X-Men]]===
+When [[Hope Summers (Earth-616)|Hope]] projected blasts of energy again, with the form of the [[Phoenix Force (Earth-616)|Phoenix]], Nemesis was the one to confirm to [[Scott Summers (Earth-616)|Cyclops]] that that energy was a signal, and that [[Avengers (Earth-616)|people]] would notice it.{{r|Uncanny X-Men Vol 2 11}}
+
+During the [[Avengers vs. X-Men (Event)|Avengers/X-Men conflict]], Doctor Nemesis stood among his kind, battling [[Anthony Stark (Earth-616)|Iron Man]] after having taken down [[Pietro Maximoff (Earth-616)|Quicksilver]].{{r|Avengers vs. X-Men #2}} He regrouped to the [[X-Diaspora]] after [[Utopia (X-Men Base)|Utopia]]'s battle.{{r|Uncanny X-Men Vol 2 12}}
+[[File:James Bradley (Earth-616) from Uncanny X-Men Vol 5 22 001.png|left|thumb|Doctor Nemesis]]
+As Hope created a device to make herself appear to telepaths at five different locations, Nemesis was sent to [[Wakanda]] along with [[Rachel Summers (Earth-811)|Rachel Summers]], [[Amara Aquilla (Earth-616)|Magma]], [[Danger (Earth-616)|Danger]], and [[Ororo Munroe (Earth-616)|Storm]].{{r|Wolverine and the X-Men #11}}{{r|AVX: Vs #5}} He was shot with [[Natalia Romanova (Earth-616)|Black Widow]]'s neurotoxin dart, making him delirious and incapacitated for a time.{{r|Uncanny X-Men Vol 2 13}} He participated in tracking Hope and the Avengers along with the [[Phoenix Five (Earth-616)|Phoenix Five]], fighting in the [[Arctic Circle]].{{r|Avengers vs. X-Men #7}}
+
+When the X-Men turned over the Phoenix Five and joined the Avengers, Bradley was among them, but wasn't seen during the final brawl.{{r|Avengers vs. X-Men #11}}
+
+At the end of the conflict, he postulated on joining the faculty staff of the [[Jean Grey School For Higher Learning]], but wasn't selected by [[Katherine Pryde (Earth-616)|Kitty Pryde]].{{r|Wolverine and the X-Men #19}}
+
+===X-Force===
+He then retired into a well-guarded laboratory to perform science on his own, until [[Nathaniel Summers (Earth-616)|Cable]] came to him, suffering from the depletion of his telepathic powers, and recruited him into his [[X-Force (Earth-616)|X-Force]], banding with [[Neena Thurman (Earth-616)|Domino]], [[Hope Summers (Earth-616)|Hope]], and especially [[Forge (Earth-616)|Forge]], in order to help Cable.{{r|Cable and X-Force #1}}
+
+<!-- ...{{r|Cable and X-Force #2}}{{r|Cable and X-Force #3}}{{r|Cable and X-Force #4}}{{r|Cable and X-Force #5}}{{r|Cable and X-Force #7}}{{r|Cable and X-Force #8}} ...{{r|Cable and X-Force #10}} ...{{r|Cable and X-Force #13}}{{r|Cable and X-Force #14}}{{r|Cable and X-Force #15}}{{r|Cable and X-Force #16}}{{r|Cable and X-Force #17}}
+
+...{{r|Uncanny X-Force Vol 2 16}}{{r|Cable and X-Force #19}}{{r|Uncanny X-Force Vol 2 17}}	
+		
+...{{r|X-Force Vol 4 1}}{{r|X-Force Vol 4 2}} ...{{r|X-Force Vol 4 4}}{{r|X-Force Vol 4 5}}{{r|X-Force Vol 4 6}}{{r|X-Force Vol 4 7}}{{r|X-Force Vol 4 8}}{{r|X-Force Vol 4 9}}{{r|X-Force Vol 4 10}} ...{{r|X-Force Vol 4 12}} -->
+===Krakoa===
+[[File:James Bradley (Earth-616) from Way of X Vol 1 1 001.jpg|thumb|right]]
+Doctor Nemesis was of the many mutants that joined the mutant nation of [[Krakoa (Earth-616)|Krakoa]] upon its creation. He was seen alongside many other Krakoans grieving Charles Xavier dead at the hands of anti-mutant superhuman criminals that had infiltrated Krakoa and killed many of its residents, including Xavier.{{r|X-Force Vol 6 2}}
+
+It is later revealed that he is a member of Krakoa's science corps and is responsible for the creation of the Krakoan drugs.{{r|Way of X Vol 1 1}}
+
+| Powers                  = 
+====[[Homo superior|Mutant]] powers====
+* '''[[Genius Intelligence|Mutant Enhanced Intelligence]]:''' Doctor Nemesis is a [[Homo superior|mutant]] and possess what he describes as a "'''self-evolved intellect'''" Which is an, in reality, instinctively '''Intuitive Genius''' much along the lines of [[Forge (Earth-616)|Forge]] and [[Madison Jeffries (Earth-616)|Box]] (to his ultimate chagrin). Being an advanced polymath specializing in various experimental fields ranging towards genetics, computer programming, handheld weaponry, temporal physics, interdimensional travel and more. 
+
+====Bio-technological enhancement====
+While his abilities are strictly intellect based, they've allowed him to master many scientific and medical domains, and permitted him to create several [[James Bradley (Earth-616)#Equipment|inventions]] and granted him the following abilities:{{r|Official Handbook of the Marvel Universe A-Z Update #4}}
+*'''''Cybernetic/rebuilt replacement eyes''''': Having rebuilt his own eyes,{{r|Official Handbook of the Marvel Universe A-Z Update #4}} Nemesis possess numerous abilities, which can be active simultaneously.{{r|Official Handbook of the Marvel Universe A-Z Update #4}} He stated once that they were organic.{{r|X-Men: Blind Science #1}}
+**'''''Genetic Anomalies Detection:''''' Able to detect mutations or genetic abnormalities in living beings (i.e. clones, mutants, etc).{{r|Official Handbook of the Marvel Universe A-Z Update #4}}
+**'''''X-Ray vision:''''' Can see muscles and organs below the skin level.{{r|X-Men: Blind Science #1}}
+**'''''Hyper optics:''''' Able to see clearly over a distance of 200 meters.{{r|Official Handbook of the Marvel Universe A-Z Update #4}}
+** He was also able to see invisible beings using those.{{r|X-Men: Blind Science #1}}
+
+====Biological enhancement====
+*'''''Eugenics Manipulation''''': Being a scientific genius, both learned and instinctive; has enabled Doctor Nemesis to make amazing strides in the pharmaceutical, patrimonial and biological fields. So much so that he's been shown to easily augment the physiological structures of both himself and others {{r|Cable and X-Force #16}}
+**'''''Advanced Longevity''' and '''Enhanced Immune System:''''' Using regular injections of various chemicals, Nemesis granted himself [[Advanced Longevity|advanced longevity]] and resistance to fatigue and diseases.{{r|Official Handbook of the Marvel Universe A-Z Update #4}}
+**'''''Biomolecular Alteration''''': Through a precise, yet unidentified means of DNA Manipulation, James is able to produce an augmentative mutation in various living organisms making them grow to disproportionate sizes as well as increasing their strength. All while maintaining precise control over said monstrosities akin to a beast master.{{r|Cable and X-Force #5}}
+
+| Abilities               = * '''[[Genius Intelligence]]:'''  Doctor Nemesis is an accomplished scientist in several fields including genetics, robotics, chemistry, physics. mathematics, etc.
+| Strength                = Average human strength
+| Weaknesses              = Arrogance
+
+| Equipment               = * '''Cybernetic replacement eyes:''' Doctor Nemesis possesses enhanced eyes granting him further [[James Bradley (Earth-616)#Technological enhancement|abilities]].
+* '''Chemical Compounds:'''
+** '''''Slowed aging process and enhanced immune system cure:''''' Granting him [[Advanced Longevity|advanced longevity]]. These effects require regular injections to be effective.{{r|Official Handbook of the Marvel Universe A-Z Update #4}}
+** '''''Concentrated truth serum'''''{{r|Official Handbook of the Marvel Universe A-Z Update #4}}
+** '''''"Super-sedative'''''{{r|Official Handbook of the Marvel Universe A-Z Update #4}}
+* Miscellaneous: White fedora, surgical mask, white trench coat, various sedatives and narcotics.
+| Transportation          = 
+| Weapons                 = Conventional firearms, hypodermic needle gun firing darts loaded with "science narcotics",{{r|Official Handbook of the Marvel Universe A-Z Update #4}} and a super-sedative gun.{{citation}}
+
+| Notes                   = * Originally an Ace Periodicals character first appearing in [[w:c:heykidscomics:Lightning Comics Vol 1 6|''Lightning Comics'' #6]] (April, 1941), [[w:c:pdsh:Dr. Nemesis|Dr. Nemesis]] lapsed into the public domain. Roy Thomas decided to use a new version of him in the 1993 ''[[Invaders Vol 2|Invaders]]'' mini-series after editor Mark Gruenwald told him that he could not use minor Timely Comics superheroes as members of the Battle Axis. 
+* It is common for his eyes to be thought to be his [[mutant|mutation]], as [[Graydon Creed (Earth-616)|Graydon Creed]] who told him to "''enjoy those '''eyes''' while [he] still '''can'''''", while thinking he was going to depower him.{{r|X-Men: Blind Science #1}}
+** It is possible that Marvel writer [[Simon Spurrier]] made that mistake himself, as Nemesis said earlier in the issue that his eyes were "'''''organic marvels'''''".{{r|X-Men: Blind Science #1}} They may indeed be part or all organic, as they are stated to be "''rebuilt''".{{r|Official Handbook of the Marvel Universe A-Z Update #4}}
+** As the origin and function of those eyes is unknown, it could be assumed they are of mutant source, or need his mutant powers to process.
+** Although, he was stated to be a [[Cyborgs|Cyborg]] by [[Steven Rogers (Earth-616)|Steve Rogers]].{{r|Heroic Age: X-Men #1}}
+* Doctor Nemesis once stated that he should be able to cure [[Vampires|Vampirism]] in ten years and with a billion dollars in funds.{{r|X-Men Vol 3 1}}
+* Doctor Nemesis created the Krakoan drugs that was distributed throughout the human world.{{r|Way of X Vol 1 1}} 
+| Trivia                  = 
+| Links                   = 
+* http://www.technohol.com/vintage/battle-axis/index.asp
+* http://internationalhero.co.uk/d/drnemesi.htm
+* http://www.marvunapp.com/Appendix/drnemesisga.htm
+}}
+[[Category:Advanced Longevity]]
+[[Category:Superhuman Senses]]
+[[Category:Genius Intelligence]]
+[[Category:X-Ray Vision]]
+[[Category:Telescopic Vision]]
+[[Category:Utopians]]
+[[Category:Geneticists]]
+[[Category:Doctor Nemesis Experiment]]
+[[Category:Robotics]]
+[[Category:Chemists]]
+[[Category:Engineers]]
+[[Category:Physicists]]
+[[Category:Inventors]]
+[[Category:Mutant Intelligence]]
+[[Category:James Bradley (Earth-616)/Quotes]]
+[[Category:Post-M-Day Mutants (Registration Status Unknown)]]
+[[Category:Time-Looped]]
+[[Category:Intuitives]]
+[[Category:Multilingual]]
+[[Category:1993 Character Debuts]]
+[[Category:Modern-Age Characters]]
+[[Category:WWII Characters]]
+[[Category:Bradley Family (James)]]

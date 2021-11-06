@@ -1,0 +1,52 @@
+{{Marvel Database:Character Template
+| Image                   = Joaquin Pennysworth (Earth-616) from Last Defenders Vol 1 6 001.jpg
+| Name                    = [[Joaquin Pennysworth]]
+| CurrentAlias            = [[Nighthawk]]
+| Aliases                 = 
+
+| Affiliation             = Formerly {{m|Defenders (Initiative) (Earth-616)|Defenders}}, {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}
+| Relatives               = [[Jean Claude Pennysworth (Earth-616)|J.C. Pennysworth]] (father)
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 6'1"
+| Weight                  = 220 lbs
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] technology user
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Adventurer; Former S.H.I.E.L.D. agent
+| Education               = 
+| BaseOfOperations        = Defenders Headquarters, [[Hoboken]], [[New Jersey (State)|New Jersey]]
+
+| Creators                = Joe Casey; Jim Muniz
+| First                   = Last Defenders #1
+
+| History                 = 
+Joaquin Pennysworth was a former agent of [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D]] who had some unfortunate history with [[Kyle Richmond (Earth-616)|Kyle Richmond]], the original Nighthawk (Joaquin's father, J.C. Pennysworth, was a former employee of Richmond's who tried to embezzle funds from him and was the leader of the terrorist group called the [[Sons of the Serpent (Earth-616)|Sons of the Serpent]]).{{r|Defenders Vol 1 #25}}
+
+Despite this, Joaquin agreed to succeed Richmond as [[Nighthawk]] when Richmond was forced to give up the role. He was a member of the [[Defenders (Initiative) (Earth-616)|Defenders]].{{r|Last Defenders Vol 1 6}} 
+
+| Powers                  = 
+
+| Abilities               = Skilled hand-to-hand combatant.
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = Flight Armor
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * In at least one potential future, [[Joaquin Pennysworth (Earth-89125)|Joaquin]] is a member of the "Last" Defenders.
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

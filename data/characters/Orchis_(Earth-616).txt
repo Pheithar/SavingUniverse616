@@ -1,0 +1,43 @@
+{{Marvel Database:Organization Template
+| Image                   = Orchis (Earth-616) from House of X Vol 1 1 001.jpg
+| Name                    = Orchis
+| Aliases                 =
+
+| OrganizationLeaders     = '''Central Column:''' 
+* [[Killian Devo (Earth-616)|Doctor Killian Devo]] (Director)
+'''Research/Development:'''
+* [[Zaha Gehry (Earth-616)|Zaha Gehry]] (Head of Engineering)
+* [[Alia Gregor (Earth-616)|Doctor Alia Gregor]] (Science Command)
+'''Infrastructure/Influence:'''
+* [[Henry Gyrich (Earth-616)|Henry Gyrich]]
+'''Operations/Offense:'''
+* [[Walker Kin (Earth-616)|Colonel Walker Kin]] (Military Command)
+'''Human/Resources:'''
+* [[Doctor Stasis (Earth-616)|Doctor Stasis]]
+| CurrentMembers          = [[Agent Goodall (Earth-616)|Agent Goodall]], [[Karima Shapandar (Earth-616)|Omega Sentinel]], [[Cain (Orchis) (Earth-616)|Doctor Cain]], [[Smith (Orchis) (Earth-616)|Doctor Smith]],  [[Moore (Orchis) (Earth-616)|Captain Moore]], [[Henry Gyrich (Earth-616)|Henry Gyrich]], Numerous unnamed members
+| FormerMembers           = [[Erasmus Mendel (Earth-616)|Captain Erasmus Mendel]], [[Mars (Orchis) (Earth-616)|Doctor Mars]], [[Smyth (Orchis) (Earth-616)|Doctor Smyth]]
+
+| Identity                = Secret
+| Affiliation             =
+| Allies                  = Former members of [[Advanced Idea Mechanics (Earth-616)|A.I.M.]], [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]], [[H.A.M.M.E.R. (Earth-616)|H.A.M.M.E.R.]], [[Special Tactical Reserve for International Key Emergencies (Earth-616)|S.T.R.I.K.E.]], [[Sentient World Observation and Response Department (Earth-616)|S.W.O.R.D.]], [[Alternate Reality Monitoring and Operational Response Agency (Earth-616)|A.R.M.O.R.]], [[Hydra (Earth-616)|HYDRA]], [[Alpha Flight (Space Program) (Earth-616)|Alpha Flight]]
+| Enemies                 = [[X-Men (Earth-616)|X-Men]], [[Krakoa (Earth-616)|Krakoa]], [[Project Brute Force (Earth-616)|Project Brute Force]]
+
+| Origin                  = A gestalt organization formed to exterminate all [[Homo superior|Mutants]]
+| Reality                 = Earth-616
+| Status                  = Active
+| BaseOfOperations        = [[Orchis Forge]]
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+
+| Creators                = Jonathan Hickman; Pepe Larraz
+| First                   = House of X Vol 1 1
+| History                 = Formed from the ranks of [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]], [[Special Tactical Reserve for International Key Emergencies (Earth-616)|S.T.R.I.K.E.]], [[Sentient World Observation and Response Department (Earth-616)|S.W.O.R.D.]], [[Alternate Reality Monitoring and Operational Response Agency (Earth-616)|A.R.M.O.R.]], [[Advanced Idea Mechanics (Earth-616)|A.I.M.]], [[Alpha Flight (Space Program) (Earth-616)|Alpha Flight]], as well as [[H.A.M.M.E.R. (Earth-616)|H.A.M.M.E.R.]] and [[Hydra (Earth-616)|HYDRA]], Orchis is an organization dedicated to a response to a "doomsday" scenario involved an extinction-level population of [[Homo superior]].{{r|House of X #1}}
+
+Orchis salvaged the remains of [[Sol's Hammer]] and retrofitted it into the [[Orchis Forge]], a site for the creation of a [[Mother Mold (Earth-616)|Mother Mold]]. A strike force of X-Men led by [[Scott Summers (Earth-616)|Cyclops]] successfully destroyed the Mother Mold, with heavy casualties on both sides.{{r|House of X #4}}
+| Equipment               = [[Sentinels]], [[Mother Mold (Earth-616)|Mother Mold]], [[Nimrod (Earth-616)|Nimrod]]
+| Transportation          = ''[[Inheritance]]''
+| Weapons                 = 
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

@@ -1,0 +1,59 @@
+{{Marvel Database:Character Template
+| Image                   = Irina Clayton (Earth-616) from New X-Men Vol 1 140 001.png
+| Name                    = Irina Clayton
+| NameRef                 = {{r|New X-Men Vol 1 120}}
+| Title                   = [[Choir]]
+| Aliases                 = 
+
+| Affiliation             = [[Xavier Institute student body]]
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Blue
+| Hair                    = Brown
+| UnusualFeatures         = Three extra mouths on her neck
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Student
+| Education               = 
+| BaseOfOperations        = [[Xavier's School for Gifted Youngsters]]
+
+| Creators                = Grant Morrison; Igor Kordey
+| First                   = New X-Men Vol 1 119
+
+| History                 = The young mutant girl named Irina was one of the new students at the [[Xavier's School for Gifted Youngsters|Xavier Institute]] who assisted acting Headmistress [[Jean Grey (Earth-616)|Jean Grey]] against an invading force of [[Sublime (Earth-616)|Sublime]]'s [[U-Men (Earth-616)|U-Men]]. {{r|New X-Men Vol 1 119|120}}
+
+Irina lost her mutant power after [[Decimation|M-Day]].
+| Powers                  = None, Clayton is a depowered mutant.
+{{Navigation
+| title = ''Former Powers''
+| body  =  '''Multiple Mouths:''' She possessed three extra mouths on her neck allowing her to speak with multiple voices and cast her voice so that it appeared to be coming from different locations.{{r|New X-Men Vol 1 120}}  }}
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Depowered Mutants]]
+[[Category:Xavier Institute Student]]
+[[Category:Multiple Mouths]]
+[[Category:M-Day Depowered]]

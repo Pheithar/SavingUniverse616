@@ -1,0 +1,309 @@
+{{Marvel Database:Character Template
+| Image                   = Web of Black Widow Vol 1 4 Textless.jpg
+| Name                    = [[Black Widow|Natalia Alianovna "Natasha" Romanova]]
+| NameRef                 = {{r|Avengers: Roll Call Vol 1 1|: "Natasha" is the informal version of the name "Natalia," and is used by her close associates. Sometimes she has chosen to Anglicize her last name as "Romanoff." She has dropped her married name of "Shostakova."}}
+| CurrentAlias            = [[Black Widow]]
+| Aliases                 = [[Phoebe Ann Mozee (Earth-616)|Annie Oakley]],{{r|White Tiger Vol 1 6}} [[Babette]],{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}} Beauteous One,{{r|Giant-Size Hulk Vol 1 1}} [[Black Pearl]],{{r|Champions #7}} Boss Lady,{{r|Giant-Size Hulk Vol 1 1}} [[Czarina]],{{r|Avengers: Roll Call Vol 1 1}} [[Ebon Flame]],{{r|Journey into Mystery #519}} [[Enchantress]],{{r|Captain Marvel Vol 10 6}} [[Laura Matthers]],{{r|Avengers: Roll Call Vol 1 1}} [[Lottie Eikenski (Earth-616)|Lottie Hederman]],{{r|Journey into Mystery #519}} Madame Nikita,{{citation}} Ms. Heck,{{citation}} [[Nadine Roman]],{{r|Black Widow Vol 3 2}} [[Nancy Rushman]],{{r|Marvel Team-Up Vol 1 82}} "[[Nat]],"{{r|Avengers: Roll Call Vol 1 1}} Natalie Grey,{{r|Black Widow Vol 8 3}} Natalya Romanova,{{r|Black Widow Vol 3 3}} [[Natasha Romanoff]],{{r|Daredevil Vol 1 82}} Natalia Shostakova,{{r|Official Handbook of the Marvel Universe: Daredevil 2004 Vol 1 1}} [[Natuska]],{{r|Avengers: Roll Call Vol 1 1}} [[Oktober]],{{r|Iron Man #277}} [[Red]],{{citation}} Red Cat,{{r|Symbiote Spider-Man: Alien Reality Vol 1 1}} 'Tasha,{{r|Mighty Avengers Vol 1 11}} [[Tsarina]],{{r|Avengers Vol 3 2}} [[War Machine|War Widow]],{{r|Avengers Vol 8 28}} [[Yelena Belova]]{{r|Black Widow Vol 2 3}}
+
+| Affiliation             = {{m|Posse (Domino's) (Earth-616)|The Posse}}; Formerly {{m|War Avengers}}, {{m|Infinity Watch}}, {{m|Black Widow Ops Program}}, {{m|Komitet Gosudarstvennoy Bezopasnosti (Earth-616)|KGB}}, {{m|Avengers}}, {{m|Lady Liberators}}, {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}, {{m|Black Spectre (Criminal Organization) (Earth-616)|Black Spectre}}, {{m|Champions of Los Angeles}}, {{m|Marvel Knights (Earth-616)|"Marvel Knights"}}, {{m|Heroes for Hire (Knight & Wing) (Earth-616)|Heroes for Hire}}, {{m|Mighty Avengers (Initiative) (Earth-616)|Mighty Avengers}} ({{m|50-State Initiative (Earth-616)|Initiative}}), {{m|Thunderbolts}} (as Yelena Belova), {{m|Mighty (Earth-616)|The Mighty}}, {{m|Secret Avengers (Black Ops Unit) (Earth-616)|Commander Rogers' Secret Avengers}}, {{m|Secret Avengers (S.H.I.E.L.D.)|S.H.I.E.L.D.'s Secret Avengers}}, {{m|New Avengers (A.I.M.) (Earth-616)|New Avengers}} ({{m|Advanced Idea Mechanics (Earth-616)|A.I.M.}}), {{m|Underground (Secret Empire) (Earth-616)|Underground}}, {{m|Red Room (Secret Empire) (Earth-616)|Red Room}}, {{m|Queen’s Vengeance (Earth-398)|Queen's Vengeance}}, [[Romulus (Earth-616)|Romulus]]' organization, (Federal'naja Služba Bezopasnosti) F.S.B.; former partner of [[Matthew Murdock (Earth-616)|Daredevil]], [[Clinton Barton (Earth-616)|Hawkeye]], [[James Buchanan Barnes (Earth-616)|Winter Soldier]]
+| Parents                 = Unnamed mother (deceased){{r|Shadows and Light #1}}<br>
+[[Ivan Petrovitch (Earth-616)|Ivan Petrovitch]] ("foster father"){{r|Shadows and Light #1}}
+| Siblings                = unnamed brothers (possibly deceased);{{r|Shadows and Light #1}}<br>
+[[Vindiktor (Romanov) (Earth-616)|Vindiktor]] (alleged brother, deceased){{r|Shadows and Light #1}}
+| Spouses                 = [[Nikolai (U.S.S.R.) (Earth-616)|Nikolai]] (husband, deceased){{r|Black Widow Vol 4 4}}<br>
+[[Alexi Shostakov (Earth-616)|Alexi Shostakov]] (ex-husband)
+| Children                = Rose (stillborn daughter){{r|Black Widow Vol 4 4}}<br>
+[[Steve Grey (Earth-616)|Stevie Grey]] (genetic son)
+| Relatives               = 
+[[Natalia Romanova (Dr Bong Clone) (Earth-616)|Natalia Romanova]] (clone, deceased)
+| MaritalStatus           = Divorced
+
+| CharRef                 = {{cl|Women of Marvel: Celebrating Seven Decades Handbook Vol 1 1}}
+| Gender                  = Female
+| Height                  = 5'7"
+| Weight                  = 131 lbs
+| Eyes                    = Blue
+| Hair                    = Red; Dyed Black (formerly)
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] [[Glossary:Mutate|mutate]]; Russian [[Super-Soldier]],{{r|Black Widow Vol 3 5}} expertly trained intelligence agent
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Volgograd|Stalingrad]], [[Russia]], [[USSR]]
+| PlaceOfDeath            = [[Washington, D.C.]], [[United States of America]]
+| KilledBy                = Steven Rogers (Earth-61311)
+
+| Identity                = Public
+| Citizenship             = Russian, Soviet
+| Occupation              = Adventurer, S.H.I.E.L.D. agent,{{r|Civil War: Battle Damage Report Vol 1 1}} intelligence operative; former schoolteacher, fashion designer, ballerina, assassin, mercenary
+| Education               = College graduate,{{r|Civil War: Battle Damage Report Vol 1 1}} intensive espionage training through Taras Romanov, the Red Room Academy, and others.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+| BaseOfOperations        = [[Madripoor]]; Formerly [[Red Room Academy (Moscow)|Red Room Academy]], [[Moscow]], [[Russia]]; Little Ukraine, [[New York City]], [[New York (State)|New York]]; [[Black Widow's North Shore Mansion|North Shore Mansion]], [[San Francisco]], [[California (State)|California]]; [[S.H.I.E.L.D. Helicarrier]]; [[Savage Land]]; [[Stark Tower|Avengers Tower]], [[Manhattan]], New York City, New York; [[Infinite Avengers Mansion]]; [[Thunderbolts Mountain]], [[Colorado (State)|Colorado]]; [[Cube|The Cube]]; [[Quincarrier]]; [[Lighthouse (Space Station)|Lighthouse]], [[Earth Orbit]]; [[Mount|The Mount]], [[Nevada (State)|Nevada]]; [[Westchester County]], [[New York (State)|New York]]
+
+| Creators                = Stan Lee; Don Rico; Don Heck
+| First                   = Tales of Suspense Vol 1 52
+| Death                   = 
+
+| Quotation               = How many more jobs... How long will it take... I don't know if I can do it... Even if I could forgive myself... '''This''' is what I am now. And you'll never know '''who''' I was before.
+| Speaker                 = [[Natalia Romanova (Earth-616)|Black Widow]]
+| QuoteSource             = Black Widow Vol 5 1
+
+| Overview = '''Natalia Alianovna Romanova''' (English: '''Natasha Romanoff'''; Russian: '''Наталья "Наташа Романоф" Альяновна Романова''') aka '''Black Widow''' (Russian: '''Черная вдова''') was a former Russian [[Komitet Gosudarstvennoy Bezopasnosti (Earth-616)|KGB]] agent.{{r|Black Widow: Deadly Origin Vol 1 2}} She was trained by the [[Red Room]] as part of the [[Black Widow Ops Program (Earth-616)|Black Widow Ops Program]] to be the ultimate "Super-Spy".{{r|Black Widow Vol 1 1}} She defected to the [[United States of America]] from the [[Soviet Union]] to join [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]]{{r|Civil War: Battle Damage Report Vol 1 1}} Later Black Widow would then become a member of the [[Avengers (Earth-616)|Avengers]] and has been on the team on multiple occasions.{{r|Avengers #111}} She is a woman with a mysterious past which few know about.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+| History                 = [[File:Natalia Romanova (Earth-616) and Ivan Petrovich Bezukhov (Earth-616) from Black Widow Deadly Origin Vol 1 1 001.jpg|thumb|left|Infant Natasha being raised by Ivan Petrovich after her mother died]]
+===Early Years===
+The exact year and location for the birth of '''Natasha Romanova''' is unknown, as is who her parents were. It has been rumored that Natasha (whose name in Russian is: ''Наталья Романова, Наташа Романова, Наталья Романова-Шостакова'') was somehow related to the last ruling czars of [[Russia]], but this rumor was never proven.{{r|Black Widow: Deadly Origin #1}}
+
+===Raised by a foster father===
+There are varying accounts of Romanova's early life. One account states that in 1928, there was a fire in [[Volgograd|Stalingrad]] which burned down the building that infant Natasha and her mother were living in.{{r|Black Widow: Deadly Origin #1}} According to the account, just before dying in the fire, Natasha's mother threw her out the window to a Russian soldier below. The soldier's name was [[Ivan Petrovitch (Earth-616)|Ivan Petrovitch]], and that he watched over Natasha for her entire life, remaining by her side as her "foster father".{{r|Black Widow: Deadly Origin #1}} Another account dates the fire to autumn 1942, during the Battle of Stalingrad.{{r|Daredevil Vol 1 88}}
+
+While Natasha was under Ivan's protection, [[Wolfgang von Strucker (Earth-616)|Baron von Strucker]] abducted Natasha and presented her to the organization of assassins called the [[Hand (Earth-616)|Hand]] in [[Madripoor]].{{r|Uncanny X-Men #268}} Natasha had in fact been working under orders from an [[Romulus (Earth-616)|mysterious source]] and her 'abduction' was to lead her into pretending to become a Master Assassin for the Hand when in reality she was to assassinate their [[Jonin (WWII) (Earth-616)|Jonin]]. [[James Howlett (Earth-616)|Logan]] learned of this and killed the Jonin instead while also freeing [[Steven Rogers (Earth-616)|Captain America]] under the guise of rescuing Natasha.{{r|Wolverine: Origins Vol 1 16}} According to this account, Natasha then grew and matured, proving herself to be an amazing athlete and scholar, while gaining distinction in the [[Union of Soviet Socialist Republics|USSR]] as a ballerina.{{r|Uncanny X-Men #268}}
+
+[[File:Black Widow Ops Program (Earth-616) from Winter Soldier Vol 1 7 001.jpg|thumb|left|Red Room training]]
+===Red Room===
+Another account establishes Natasha as being raised from very early childhood by the U.S.S.R.'s [[Black Widow Ops Program (Earth-616)|"Black Widow Ops" Program]] in addition to Ivan Petrovitch's care. Petrovitch was said to have taken her to [[Department X (Earth-616)|Department X]], with 28 other young female orphans, where she was trained in combat and espionage at the covert [[Red Room Academy (Moscow)|"Red Room" facility]]. There, she was bio-technologically and psycho-technologically enhanced; an account that provides a rationale for her unusually long and youthful lifespan. In this account she never really trained in ballet in the [[Bolshoi Theatre]], having instead been implanted with artificial memories of doing so.{{r|{{cl|Black Widow Vol 3 4}}-[[Black Widow Vol 3 6|6]]}} Supposedly during her training, Natasha was contacted by the [[Amora (Earth-616)|Enchantress]], who manipulated her simply for the sake of it, mystically suggesting to Romanova that she should free herself. However, when Natasha tried this, the Enchantress herself stopped her from escaping. According to the tale, though, Romanova's effort proved her value to the program's organizers, who would had otherwise "discarded" Romanova.{{r|Black Widow and the Marvel Girls #1}}
+
+Regardless of which account is accurate, eventually, it was arranged for Natasha to marry [[Alexi Shostakov (Earth-616)|Alexi Shostakov]], a distinguished Soviet test pilot.{{r|Black Widow: Deadly Origin Vol 1 2}} She was later blackmailed into agreeing to act as a spy when her husband's life was threatened.{{r|Amazing Spider-Man Vol 1 86}}
+
+===KGB===
+The Soviet government intelligence ([[Komitet Gosudarstvennoy Bezopasnosti (Earth-616)|KGB]]) decided that Natasha and Alexi's skill sets would make them superb special operatives, and split them up while Alexi was away on a mission. Trained as the Red Guardian, Alexi became the Soviet Union’s answer to the [[United States of America|United States]]' Captain America. Natasha was told that her husband died in an experimental rocket crash.{{r|Avengers Vol 1 44}}{{r|Black Widow: Deadly Origin Vol 1 2}} She was drafted into the KGB and became their best operative, becoming excellent at fighting and information gathering. During this time she had some training under the [[James Buchanan Barnes (Earth-616)|Winter Soldier]] and they started a secret relationship. After an incident during an assassination operation, Barnes was deemed unstable and put in cryostasis whenever he wasn't needed for a mission, leaving Natasha devastated when she found out.{{r|Captain America Vol 5 27}}{{r|Captain America and Bucky Vol 1 624}}
+
+Natasha later saved Logan from [[Hydra (Earth-616)|Hydra]] assassins when he surfaced in America without any memories of his past.{{r|Wolverine Vol 2 -1}} She encountered the man again sometime later when she was on a KGB mission to stop three unknown American spies (Logan, [[Carol Danvers (Earth-616)|Carol Danvers]], and [[Benjamin Grimm (Earth-616)|Ben Grimm]]) from stealing Russia's [[Red Storm Project]].{{r|Before the Fantastic Four: Ben Grimm and Logan #1}}
+
+===Early Clashes with Iron Man===
+[[File:Natalia Romanova (Earth-616) from Tales of Suspense Vol 1 52 001.jpg|thumb|right]]
+Black Widow was assigned to assist [[Boris Turgenov (Earth-616)|Boris Turgenov]] in the assassination of Professor [[Anton Vanko (Crimson Dynamo) (Earth-616)|Anton Vanko]] for defecting from their country by infiltrating [[Stark Industries (Earth-616)|Stark Industries]] in America.{{r|Tales of Suspense #52}} Tony Stark, the original [[Anthony Stark (Earth-616)|Iron Man]], continually foiled her schemes against Stark Industries.{{r|Tales of Suspense #52|53}} Romanova later met the novice archer [[Clinton Barton (Earth-616)|Hawkeye]] and set him against Iron Man,{{r|Tales of Suspense #57}} and later helped Hawkeye battle Iron Man.{{r|Tales of Suspense #60}} Unfortunately, Hawkeye's association with Russian spies would label him a criminal in his early career.{{r|Tales of Suspense #57}} Black Widow and Hawkeye next clashed against the novice super-hero [[Peter Parker (Earth-616)|Spider-Man]].{{r|Untold Tales of Spider-Man #17}} They resumed their focus on Tony Stark, clashing with Iron Man twice more - the first being an attempt to raid Tony Stark's munitions plant.{{r|Tales of Suspense #60}}
+
+When that mission ended in failure, she was taken back to Russia by her masters and given a new costume that allowed her to scale walls as well as a device that allowed her to fire lines to swing from. She once more attempted to get Hawkeye to help her destroy Iron Man. The pair almost succeeded, but when Black Widow was injured, Hawkeye retreated to get her to safety.{{r|Tales of Suspense #64}} During this period, Romanova was attempting to defect from the Soviet Union and began to feel love toward Hawkeye, weakening her loyalty to her country. When her employers learned the truth, they had her gunned down, sending her to a hospital, convincing Hawkeye to go straight and seek membership in the [[Avengers (Earth-616)|Avengers]].{{r|Avengers #12}}
+
+===Association with the Avengers===
+Captured by her masters again and brainwashed, Black Widow was forced to hire the [[Jacques Duquesne (Earth-616)|Swordsman]] and [[Erik Josten (Earth-616)|Power Man]] to destroy the Avengers.{{r|Avengers #29}} This plot eventually failed when the Avengers defeated both of the villains and Natasha shook off the effects of the brainwashing.{{r|Avengers #30}} Attempting to make amends with the group, she assisted them against the racist group known as the [[Sons of the Serpent (Earth-616)|Sons of the Serpent]].{{r|Avengers #32|33}}
+
+Having been granted amnesty, Natasha made a bid for membership in the Avengers, aiding them in their battle against the [[Ultroids]].{{r|Avengers #36}} She threatened to kill their leader [[Ixar (Earth-616)|Ixar]] if he did not leave the Earth, winning the victory, however Hawkeye covered up this fact so that she could get membership in the group even though she violated their code of ethics regarding killing.{{r|Avengers #37}} However when [[Nicholas Fury (Earth-616)|Nick Fury]] hired her to spy on her former master on behalf of [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]], she was be forced to decline membership with the Avengers and publicly broke off her relationship with Hawkeye.{{r|Avengers #38}} As part of her mission, the press branded her as a traitor, breaking Hawkeye's heart.{{r|Avengers #39}}
+
+Arriving in [[China]], the Black Widow was not easily trusted and subjected to the Psychotron device, a machine that could brainwash anyone.{{r|Avengers #41}} She proved to be too strong willed and had to be gassed and kept locked up.{{r|Avengers #42}} Learning that Natasha was now a prisoner of her former Communist masters, the Avengers traveled to China to rescue her, clashing with the [[Alexi Shostakov (Earth-616)|Red Guardian]], Natasha's ex-husband who was thought to be dead.{{r|Avengers #43}} The Avengers with the help of Natasha defeated the Communists plot to use the Psychotron against the western world. During the course of the battle Natasha was injured and the Red Guardian seemingly perished in the battle.{{r|Avengers #44}}
+
+After time recovering in the hospital, Natasha returned to [[Avengers Mansion]] and came to the decision to give up her career of costumed adventuring.{{r|Avengers #46}} However this proved to be short lived as she returned to super-heroics shortly thereafter,{{r|Avengers #57}} however her romance with Hawkeye became strained as he was usually too busy with Avengers business to pay attention to her.{{citation}}
+
+Fed up with staying out of action, Black Widow accepted another assignment from S.H.I.E.L.D. to prevent [[Elihas Starr (Earth-616)|Egghead]] from using an orbital platform to hold the world ransom. She was captured, prompting Hawkeye (who still loved her) to use [[Henry Pym (Earth-616)|Henry Pym]]'s growth formula to become the new Goliath and rescue her.{{r|Avengers #63}} She aided the Avengers in stopping Egghead, although it ended in the seeming death of Egghead and Goliath's brother [[Charles Barton (Earth-616)|Barney]].{{r|Avengers #64}} After a prolonged absence, the Black Widow eventually ended her relationship with Goliath.{{r|Avengers #76}}
+
+===Going Solo===
+Natasha was not be able to avoid super-heroics for long and, after designing a new sleek black costume and adapting her bracelets with electric "Widows Bites", she sought to prove herself a capable adventurer by besting Spider-Man in battle. Although Spider-Man was ill and not at his full capacity at the time, he was still able to beat the Widow, however she resolved to continue her career as a costumed adventurer.{{r|Amazing Spider-Man #86}}
+
+She mostly clashed with underworld figures and costumed villains during this period, notably the [[Astrologer (Earth-616)|Astrologer]] and [[Pieter Altmann (Earth-616)|Watchlord]].{{r|{{cl|Amazing Adventures Vol 2 1}}-[[Amazing Adventures Vol 2 8|8]]}}
+
+===Partners with Daredevil===
+The Black Widow soon became a pawn manipulated by the computer known as [[Baal (Earth-71778)|Baal]] from the distant future [[Earth-71778]]. In that reality, mankind was wiped out and the past history of [[Matthew Murdock (Earth-616)|Daredevil]] and Black Widow played a crucial role. This ultimately lead to a long relationship and partnership between the two heroes, but it eventually came to an end.{{r|Daredevil #81|124}}
+
+===Nancy Rushman===
+While working with S.H.I.E.L.D., Black Widow was briefly captured as part of a [[Hydra (Earth-616)|Hydra]] plot to infiltrate and brainwash the organization, causing her to regress to an old cover identity of teacher [[Nancy Rushman]]. Fortunately, she was discovered and rescued by Spider-Man, subsequently working with him, Nick Fury, and [[Shang-Chi (Earth-616)|Shang-Chi]] to defeat their plan; she even admitted that the Nancy identity was attracted to Spider-Man after the crisis was over, even if she preferred to retain her independence.{{r|Marvel Team-Up #82|85}}
+
+===Champions of Los Angeles===
+She co-founded the [[Champions of Los Angeles (Earth-616)|Champions of Los Angeles]] after they had successfully foiled a plot by [[Hades (Earth-616)|Pluto]] to invade [[Olympus (Realm)|Olympus]].{{r|{{cl|Champions Vol 1 1}}-[[Champions Vol 1 3|3]]}} The team soon disbanded due to bankruptcy, and Natasha attempted a partnership with [[Hercules Panhellenios (Earth-616)|Hercules]] without success.{{r|Champions Vol 1 17}}{{r|Peter Parker, The Spectacular Spider-Man Vol 1 17}}
+
+===Solo Again===
+After these two failures, Natasha decided to stay on her own and freelance as an agent for a while.{{citation}}
+
+It was during this time that an enemy from her time alongside Daredevil kidnapped Ivan to lure her to her death. [[Damon Dran (Earth-616)|Damon Dran]] planned to bring Natasha to his island so a small army of female combat specialists could destroy her. Once she was out of the way, he would send a fake Black Widow back to S.H.I.E.L.D. to assassinate Nick Fury. Unfortunately for Dran, Natasha defeated the army, saved Ivan, and notified Fury (who in turn bombed Dran's island).{{r|Marvel Fanfare Vol 1 11|13}}
+
+On a freelance mission, the Black Widow attempted to prevent the Hand from stealing the long-dead body of their Master Warrior, [[Kirigi (Earth-616)|Kirigi]].{{r|Daredevil Vol 1 187|188}} Utilizing deadly poisons, Natasha was killed by the Hand. She was revived by [[Stone (Chaste) (Earth-616)|Stone]] of the [[Chaste (Earth-616)|Chaste]], and joined forces with Stone and Daredevil to stop the Hand from reviving [[Elektra Natchios (Earth-616)|Elektra]]. Natasha knew that they failed in this endeavor, but kept the information from Matt for his well-being.{{r|Daredevil Vol 1 189|190}}
+
+On a mission, Natasha found her husband Alexi Shostakov alive. Little did she know that it was only a [[Life-Model Decoy]] created by Russian agents to blackmail her back into service of Mother Russia. Once she finished the tasks they gave her, the Russians told her the truth and attempted to kill her. With Ivan's assistance, she defeated the Russians and destroyed the LMD.{{r|Black Widow: The Coldest War Vol 1 1}}
+
+Iron Man teamed up with Black Widow to prevent an agent named “Oktober” from attempting to start World War III by launching missiles. The missiles were launched, but Iron Man kept them from detonating. Oktober ended up actually being Natasha under some old KGB reprogramming that had been dormant in her mind. Together, they captured the agent responsible.{{r|Iron Man #277}}
+
+[[File:Black Widow Vol 4 1 Textless.jpg|thumb|left|From Russia with Love]]
+In time, Black Widow came back to the Avengers and became a co-leader, managing ops at home base while [[Dane Whitman (Earth-616)|Black Knight]] lead in the field. When the majority of the Avengers were killed during the [[Onslaught (Psychic Entity) (Earth-616)|Onslaught]] saga, she was unable to rebuild the team while fighting off lawsuits from the [[Maria Stark Foundation (Earth-616)|Maria Stark Foundation]]. She always felt as if the Avengers dissolution was solely her fault.{{citation}}
+
+The Black Widow then vowed to apprehend all of the Avenger's former foes, and ran into Daredevil while hunting the [[Paul Duval (Earth-616)|Grey Gargoyle]]. Matt feared for her mental state as he noticed how obsessive she became about bringing the Gargoyle down.{{r|Daredevil Vol 1 361}} As he attempted to help her, his girlfriend, [[Karen Page (Earth-616)|Karen Page]], became increasingly more angry and jealous.{{r|Daredevil Vol 1 362}} Natasha acknowledged Matt's love for Karen and left them to be together.{{r|Daredevil Vol 1 371}} Later, Natasha would even offer to help Karen clear her name from a murder [[Lawrence Cranston (Earth-616)|Mr. Fear]] framed her for.{{r|Daredevil Vol 1 375}}
+
+Once the Avengers who were thought killed returned, Natasha was more relieved, but decided to work with S.H.I.E.L.D. instead, assisting them in destroying [[Freedom's Light (Earth-616)|Freedom Light]] by pretending to be [[Lottie Eikenski (Earth-616)|Ebon Flame]].{{r|Journey into Mystery Vol 1 519}}
+
+Daredevil came into her life once again when he needed her to take care of [[Baby Karen (Earth-616)|Baby Karen]], who he believed to be the Antichrist.{{r|Daredevil Vol 2 2}} He eventually came back to attempt to kill the child, and Natasha stood in his way. While they were fighting, [[Bullseye (Lester) (Earth-616)|Bullseye]] killed the child and Natasha was badly beaten.{{r|Daredevil Vol 2 4}} Upon the child’s death, Matt realized what he was doing, and he and Natasha reconciled. While she could admit that she still cared for him, they both decided they would never be together.{{r|Daredevil Vol 2 8}}
+
+Another Russian agent claimed the mantle of Black Widow, which brought her up against Natasha. [[Yelena Belova (Earth-616)|Yelena Belova]] tried to keep Natasha from retrieving the [[Endless Fury Serum]] but failed.{{r|Black Widow Vol 1 1}}
+
+A short time after, Natasha captured Yelena and had their faces surgically swapped in an effort to find out what General Stalyenko was doing with the Rhapastani Government in the [[Hudson River]] Valley.{{r|Black Widow Vol 2 1}} After meeting with whom he thought was Yelena, Stalyenko figured out it was not really she and attempted to kill her.{{r|Black Widow Vol 2 2}} Even though her plan failed, Natasha was able to prevent Stalyenko from selling the [[Cold War (Event)|Cold War]] nuclear weapons he was hiding in the valley to [[Rhapastan]].{{r|Black Widow Vol 2 3}}
+
+The government of [[Bulgaria]] later captured [[Ophelia Sarkissian (Earth-616)|Madame Hydra]] and requested an exchange with the United States for the Black Widow. As part of a sting to find out who it was that was going to allow Natasha to be exchanged, Daredevil and S.H.I.E.L.D. teamed up with Natasha and found out that her husband, Alexi had orchestrated the entire exchange. Alongside the Avengers, S.H.I.E.L.D., and Daredevil, Natasha took Alexi into custody.{{r|Daredevil Vol 2 61|64}}
+
+===Widow's Hunt===
+[[File:Black Widow Vol 3 1 Textless.jpg|thumb|right]]
+The stress of seeing her once-dead once-living once-dead once-robot now alive again husband drove Natasha to retirement. She lived for a short time in [[Arizona (State)|Arizona]] before agents from the Red Room began tracking down ex-Black Widow agents and killing them. Natasha recruited [[Phil Dexter (Earth-616)|Phil Dexter]], an associate from S.H.I.E.L.D., and attempted to track down the killers. In her hunting, she found [[Sally Anne Carter (Earth-616)|Sally Anne Carter]]{{r|Black Widow Vol 3 1}} as well as [[Lyudmila Antonovna Kudrin (Earth-616)|Lyudmila Antonovna Kudrin]], who was the former head of biotech for the Red Room. It turned out that the Black Widows included twenty-seven girls trained to be perfect killers. They were implanted with false memories, psycho-chemically conditioned, and chemically enhanced to be loyal and perform perfectly for the program.{{r|{{cl|Black Widow Vol 3 4}}-[[Black Widow Vol 3 5|5]]}} Even pheromonal locks and keys were implanted into the Black Widows as a control mechanism to keep them from rebelling. While taking Lyudmila to S.H.I.E.L.D., Natasha learned that Nick Fury had used the pheromonal keys to make her defect from her home country and begin working for S.H.I.E.L.D. She also learned that Sally Anne was kidnapped and Phil was killed in the process.{{r|Black Widow Vol 3 6}}
+
+The trail of Black Widow killings lead to [[Vassily Ilyich Ulyanov (Earth-616)|Vassily Ilyich Ulyanov]] from the Red Room and [[Ian McMasters (Earth-616)|Ian McMasters]], CEO of [[Gynacon (Earth-616)|Gynacon]]. Natasha caught up to them on his yacht and killed them, making her the number one most wanted criminal in the United States.{{r|Black Widow Vol 3 6}}
+
+Natasha sought help from Yelena Belova in [[Cuba]]. Yelena was running a lingerie company and soft pornography television channels at the time. In return for a place to stay, Yelena asked Natasha for help in exporting stolen medical supplies from [[Miami]]. To her surprise, Natasha found the medical supplies to be from Gynacon and that Sally Anne was actually taken by the mafia.{{r|Black Widow 2 Vol 1 1|2}} [[Kestrel (Earth-616)|Kestrel]] and [[Martin Ferris (Earth-616)|Martin Ferris]] captured Natasha in Miami and attempted to alter her mind using drugs to find out what she knew. With the help of Yelena, Daredevil rescued Natasha, who then tracked and killed Kestrel and Ferris. In all the madness, Natasha learned that Sally Anne had been experimented on by Gynacon but had escaped.{{r|{{cl|Black Widow 2 Vol 1 5}}-[[Black Widow 2 Vol 1 6|6]]}}
+
+[[File:Secret War Vol 1 4 Textless.jpg|thumb|left|Natalia during the Secret War]]
+===Nick Fury's Secret War===
+Black Widow was assigned to track down the [[Phineas Mason (Earth-616)|Tinkerer]] in an effort to find the financier behind the super-villains of America. Disguised in a burqa, she tracked the Tinkerer to the castle of [[Lucia von Bardas (Earth-616)|Lucia von Bardas]], the current prime minister of [[Latveria]]. Unfortunately, the President refused Fury's request for a S.H.I.E.L.D.-focused overthrow of von Bardas. Forced to act alone, Fury gathered Widow, Captain America, Spider-Man, [[Luke Cage (Earth-616)|Luke Cage]], Daredevil, Wolverine and [[Daisy Johnson (Earth-616)|Daisy Johnson]] to overthrow von Bardas. Unfortunately, the heroes disapproved of bringing down [[Castle Doom (Doomstadt)|Castle Doom]] down on von Bardas. Afterwards, Fury erased the memories of the non-level 10 participants in his secret war.{{r|{{cl|Secret War Vol 1 1}}-[[Secret War Vol 1 5|5]]}}
+
+===Daredevil Goes to Jail===
+When Matt Murdock's identity as Daredevil was leaked to the press, the government came to arrest him along with Luke Cage, [[Daniel Rand (Earth-616)|Iron Fist]] and [[Franklin Nelson (Earth-616)|Foggy Nelson]]. Natasha was able to keep everyone but Matt from going to jail.{{r|Daredevil Vol 2 77|80}}
+
+===Civil War & Initiative===
+During the [[Civil War (Event)|Superhero Civil War]], Natasha became a supporter of the [[Superhuman Registration Act]] and a member of the task force led by Iron Man.{{r|Civil War #3}} Afterward, Natasha allowed herself to be registered and joined the reconstituted Avengers.{{r|Civil War #3}}
+
+[[File:Natalia Romanova (Earth-616) and James Buchanan Barnes (Earth-616) from Captain America Vol 5 42 001.jpg|thumb|right|Reunited with Bucky]]
+Natasha, still one of the world’s most sought-after espionage agents alive, was recruited by Iron Man and Ms. Marvel to be on the newest team of [[Mighty Avengers (Initiative) (Earth-616)|Avengers]] alongside the [[Robert Reynolds (Earth-616)|Sentry]], [[Ares (Earth-616)|Ares]], the [[Janet Van Dyne (Earth-616)|Wasp]], and [[Simon Williams (Earth-616)|Wonder Man]]. When S.H.I.E.L.D. director Tony Stark was presumed killed and deputy director [[Maria Hill (Earth-616)|Maria Hill]] incapacitated, Natasha assumed temporary command of S.H.I.E.L.D. as the highest-ranking agent present.{{r|{{cl|Mighty Avengers Vol 1 1}}-[[Mighty Avengers Vol 1 3|3]]}}
+
+Natasha was among the Avengers infected along with hundreds of other [[New York City|New York]] citizens by [[Venom Virus|a symbiote virus]], but were cured by Iron Man. Natasha became very suspicious of Jessica Drew, who was later discovered to be the [[Deviant Skrulls|Skrull]] impostor, [[Veranke (Earth-616)|Veranke]].{{r|{{cl|Mighty Avengers Vol 1 7}}-[[Mighty Avengers Vol 1 8|8]]}}
+
+During this time, Natasha had also restarted her relationship with Barnes, who was still alive and had recovered his lost memories, now being the new Captain America.{{r|Captain America Vol 5 42}}
+
+[[File:Black Widow Deadly Origin Vol 1 2 Textless.jpg|thumb|left]]
+===Thunderbolts===
+Natasha assumed the identity of Yelena Belova to infiltrate [[Norman Osborn (Earth-616)|Norman Osborn]]'s [[Thunderbolts (Earth-616)|Thunderbolts]] for Nick Fury.{{r|Thunderbolts #134}} Osborn discovered her breaking into an abandoned S.H.I.E.L.D. facility, and offered her the position of field lead. On her first mission, she and [[Eric O'Grady (Earth-616)|Ant-Man]] took control of Air Force One with the Goblin, [[Leonard Samson (Earth-616)|Doc Samson]], and the [[Barack Obama (Earth-616)|new President]] aboard.{{r|Thunderbolts #128}} Osborn began impersonating Fury in messages to set Natasha up in order to strengthen the Thunderbolts and lead him to Fury.{{citation}}
+
+Osborn ordered her to lead the current Thunderbolts to kill former Thunderbolt, [[Melissa Gold (Earth-616)|Songbird]]. Fury orders "Yelena" to rescue and retrieve Songbird, for the information she might have possessed about Osborn and his operations. Natasha found Songbird, and revealed to her that she was really Natasha Romanova in disguise. She tried delivering Songbird to Fury, but the Thunderbolts also followed them.{{r|Secret Warriors #7}} The trio was captured as Osborn revealed he had been impersonating Fury in messages all along. He ordered the team to execute Natasha and Songbird, but they managed to escape when Ant-Man, [[Cleavon Twain (Earth-616)|Headsman]] and [[Paladin (Earth-616)|Paladin]] turned on the rest of the Thunderbolts and let them go. After being rescued by [[Abner Jenkins (Earth-616)|MACH-V]] and [[Norbert Ebersol (Earth-616)|Fixer]], they learned that the Fury Osborn shot was actually an LMD.{{r|Thunderbolts #135}}{{r|Thunderbolts #136}}
+
+===Widowmaker===
+[[File:Black Widow Vol 6 12 Textless.jpg|thumb|right]]
+Natasha was framed in a plot targeting global spies. She was accused of assassinating U.S. senator Whit Crane. The senator's son, Nick, was captured by a rival spy [[Fatale (Earth-616)|Fatale]], who wanted to know his source for implicating Natasha. Natasha stole Nick away from her and took him to a secret [[Central Intelligence Agency (Earth-616)|CIA]] base to scare him into giving her his source instead. The plan backfired when both of them were attacked. Natasha and Nick escaped, but while in [[Poland]] they were attacked by [[Fantasma (Dark Ocean Society) (Earth-616)|Fantasma]] and [[Crimson Dynamo (Dark Ocean Society) (Earth-616)|Crimson Dynamo]]. Natasha took down Crimson Dynamo, but then Fatale showed up and knocked out Fantasma. Fatale revealed that she was hired to kill Whit Crane but found he had already taken his own life and she needed to use Nick to track down who had actually paid for the hit. Nick gave them the name of a source 'Sadko' (not his true source of info), but when they arrived it was a trap wired with explosives and they were forced to escape. The conspiracy against spies turned out to be wider and Natasha encountered [[Barbara Morse (Earth-616)|Mockingbird]] and Hawkeye on the same trail in Russia where they found many trainee spies and a S.H.I.E.L.D. agent have been killed. Soon [[Perun (Dark Ocean Society) (Earth-616)|Perun]], Crimson Dynamo, Fantasma, and [[Sputnik (Dark Ocean Society) (Earth-616)|Sputnik]] showed up to apprehend Hawkeye, believing him to be the Ronin behind the spy deaths. Discovering that this was merely a diversion, the three heroes and [[Dominic Fortune III (Earth-616)|Dominic Fortune]] alerted the true target: an ambassador in [[Saint Petersburg (Russia)|St. Petersburg]], Russia. They next traveled to [[Japan]]. Dominic and Mockingbird discovering an amassing battle force on the Russian coast near to the northern Japanese islands, while Natasha and Hawkeye tracked down '[[Madame (Earth-616)|the Madame]]', an old ninja working with the new Ronin to bring about this Russian attack. The four heroes met up on the disputed island 'Iturup' where they met the Ronin, who was revealed as Alexi Shostakov. His plan was to kill off world intelligence operatives leaving countries blind while he made his attack, and brought the four heroes to him so he could kill them. Shostakov set off the volcano on the island, but Natasha and the others used the lava to defeat his forces. He was defeated when Natasha showed Fantasma his true plan and Fantasma then hypnotized him into seeing Natasha's death, allowing the real Natasha to take him down.{{r|Widowmaker Vol 1 1|4}}
+
+===Again an Avenger===
+After the [[Siege (Event)|Siege of Asgard]], Black Widow joined Commander Rogers' new [[Secret Avengers (Black Ops Unit) (Earth-616)|Secret Avengers]]. Some time later, when the [[Stark Tower]] was rebuilt, she joined the Avengers' main team and even had a room there. She played a vital role in helping Spider-Man foil the [[Sinister Six (Earth-616)|Sinister Six]]'s latest scheme when she, Spider-Man and [[Silvija Sablinova (Earth-616)|Silver Sable]] were the last heroes left standing after the Six defeated the rest of the Avengers (albeit because she was the Avenger closest to Sable's cloaked plane).{{r|Amazing Spider-Man #684}}
+
+During the [[Avengers vs. X-Men|Avengers' war with the X-Men]], Natasha sided with her fellow Avengers. After the war, she was called upon to join the primary Avengers squad.{{r|Avengers Vol 5 1}} Several months later, when S.H.I.E.L.D. took over the Avengers to find the [[Illuminati (Earth-616)|Illuminati]] and bring them into custody, Black Widow left the team and joined [[New Avengers (A.I.M.) (Earth-616)|Sunspot's Avengers]].{{r|Avengers Vol 5 38}} When the Illuminati and the Avengers set their differences aside in light of the imminent destruction of the universe as a result of the Multiversal phenomenon known as an [[Glossary:Incursion|incursion]], Black Widow was tasked with bringing selected people aboard the [[Future Foundation's Life Raft]].{{r|Black Widow Vol 5 19}} When the final incursion was coming to a close, Widow's ship was damaged and Natasha died in the ensuing explosion.{{r|Secret Wars #1}}
+
+===[[Secret Empire (Event)|Secret Empire]]===
+Following the eventual restoration of the [[Multiverse]],{{r|Secret Wars Vol 1 9}} Natasha left the Avengers and returned to a life of espionage. Black Widow was forced to betray and defect from S.H.I.E.L.D. when a new adversary nicknamed the [[Platch Liev (Earth-616)|Weeping Lion]] blackmailed her.{{r|Black Widow Vol 6 2}} In an ensuing mission, Natasha discovered the existence of a [[Dark Room Academy]] founded by the Red Room's former [[Headmistress (Red Room) (Earth-616)|Headmistress]].{{r|Black Widow Vol 6 4}} After turning the tables on the Weeping Lion and getting him to work for her,{{r|Black Widow Vol 6 6}} Black Widow further investigated the Dark Room.{{r|Black Widow Vol 6 7}} She managed to stop an assassination attempt in the [[White House]] from Dark Room recruits,{{r|Black Widow Vol 6 8}} and subsequently prevented the Headmistress' daughter [[Headmistress (Anya) (Earth-616)|Anya]] from compromising S.H.I.E.L.D., freeing the remaining recruits from the Dark Room's grasp, driving them to a path of recovery, and cleaning her name in the process.{{r|Black Widow Vol 6 12}}
+
+When Hydra abruptly conquered the United States guided by the hand of [[Steven Rogers (Earth-61311)|Captain America]], or rather a twisted fascist version of him that had secretly taken his place due to a [[Cosmic Cube]], Black Widow joined the last line of resistance, the [[Underground (Secret Empire) (Earth-616)|Underground]].{{r|Secret Empire Vol 1 1}} Having grown tired of the Underground's reluctance to take the extreme approach to end Captain America even after his regime had leveled [[Las Vegas]], Natasha parted on her own to kill Rogers. She was followed by the [[Champions (Earth-616)|Champions]], who joined her enterprise in an attempt to talk her out of murdering Captain America.{{r|Secret Empire Vol 1 2}}
+
+[[File:Natalia Romanova (Earth-616) from Secret Empire Vol 1 7 01.jpg|thumb|left|Black Widow's death]]
+Over the course of the following weeks, Natasha trained the Champions in hopes to prepare them for the grim future, while scheming her murder plot.{{r|{{cl|Secret Empire Vol 1 3}}-[[Secret Empire Vol 1 6|6]]}} Black Widow also planned to kill Captain America herself to lift the burden from [[Miles Morales (Earth-1610)|Spider-Man]]'s shoulders, as a vision projected by an [[Inhumans (Inhomo supremis)|Inhuman]] profiler named [[Ulysses Cain (Earth-616)|Ulysses Cain]] had predicted the young hero was going to murder Rogers. Unfortunately, the intervention of a Hydra agent delayed the execution of Black Widow's plan, which gave Spider-Man enough time to confront Captain America alone. While Steve and Spider-Man were trading blows, Black Widow stepped in for the kid's safety, taking a hit from Captain America's shield which broke her neck. Enraged, Spider-Man beat up Captain America severely. [[Nadia Van Dyne (Earth-616)|Wasp]] stopped him, and convinced him to follow Natasha's wish that he avoided becoming an assassin like her.{{r|Secret Empire Vol 1 7}}
+
+===Red Ledger===
+Taking advantage of the original Black Widow's death, the [[Black Widow Ops Program (Earth-616)|Black Widow Ops Program]] created a clone of her. Unbeknownst to her handlers, she retained all the memories of her former self thanks to [[Mikhail Ursus (Earth-616)|Ursa Major]] having bribed [[Yurgei Ivanov (Earth-616)|Epsilon Red]], the Red Room operative in charge of granting Red Room clones selected memories from their original selves. Her superiors tasked Natasha with targeting the remnants of both [[Hydra (Earth-616)|Hydra]] and [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]],{{r|Tales of Suspense Vol 1 103}} which drew the attention of her former lovers, [[Clinton Barton (Earth-616)|Hawkeye]] and the [[James Buchanan Barnes (Earth-616)|Winter Soldier]].{{r|Secret Empire Vol 1 1}}{{r|Tales of Suspense Vol 1 100|101}}
+
+Weeks later, Black Widow delved into the secrets of the Red Room and found out about their cloning program, and learned in the process that she was a clone herself. Natasha was urged by [[Mikhail Ursus (Earth-616)|Ursa Major]] to destroy the Red Room, so she started working behind the scenes against her handlers. When Natasha was ordered to kill former S.H.I.E.L.D. agent [[Sally Blevins (Earth-616)|Sally Blevins]], she used [[Yelena Belova (Clone 2) (Earth-616)|an amnesiac clone]] of [[Yelena Belova (Earth-616)|Yelena Belova]] to fake Blevins' death. After the Winter Soldier and Hawkeye caught sight of her, Natasha had [[Yelena Belova (Clone 1) (Earth-616)|another clone of Belova]] impersonate her in order to mislead the heroes.{{r|Tales of Suspense Vol 1 103}} Eventually, Natasha killed one of her handlers, [[Alexander Cady (Earth-616)|Alexander Cady]], and pinned his death on the Winter Soldier to make the Red Room believe he was on their trail, which prompted her superiors to send her to deal with him.{{r|Tales of Suspense Vol 1 103}} Natasha revealed herself to Bucky and Clint after abruptly killing the [[Orphan Maker (Anya) (Earth-616)|Orphan Maker]],{{r|Tales of Suspense Vol 1 102}} then used their disbelief and trust in her former self to trap them in a Red Room safe room to prevent them from interfering further with her work.{{r|Tales of Suspense Vol 1 103}}
+
+The apparent disposal of Hawkeye and the Winter Soldier, as well as Cady's death allowed Natasha to rise to the ranks of commander. She influenced the Red Room recruits to secretly turn them against their masters. Natasha's plan came to an abrupt end when Clint and Bucky tracked her down to the Red Room base. The discovery by her superiors that the two heroes were still alive forced Natasha to drop her cover. She killed her superiors, liberated the recruits and killed all of the clones as well as Epsilon Red. When authorities arrived to the scene, Black Widow made her escape. She left her former lovers two notes, one for Hawkeye asking him to stop looking for her, and another to Bucky inviting him to join her in her endeavors to end the Red Room.{{r|Tales of Suspense Vol 1 104}}
+
+===[[Infinity Countdown]]===
+With the world still unaware of her existence, Black Widow spent a few weeks traveling by freighter to arrive in [[Madripoor]] off the grid. Upon arriving, she went on to check her dead drop due to a signal, secretly left by a mysterious [[James Howlett (Earth-14412)|Logan]], only to learn he had left the [[Space Stone]] under her care.{{r|Infinity Countdown Vol 1 1}} Since Black Widow could only use the stone to teleport within her line of sight, she couldn't teleport directly to New York, where she intended to seek Doctor Strange's help. Natasha started making small jumps, and when she reached London, she was targeted by [[James Braddock Jr. (Earth-616)|Jamie Braddock]]. Despite evading his pursuer with no problem, Natasha decided to take him down since he had enchanted several children to use as hounds. After taking down Jamie, Natasha was approached by [[Merlyn (Otherworld)|Merlin]], who lent her a portion of his power so she could teleport directly to Manhattan.{{r|Infinity Countdown: Black Widow Vol 1 1}}
+
+===Missing Memories===
+Natasha started to lose some of her memories and at the same time a [[Headmistress (Anya) (Earth-616)|woman]] started to watch her. She consulted [[Anthony Stark (Earth-616)|Tony Stark]] about her memories and he told her that the easiest way to restore them would be to find the source. She had several violent [[Anthony Stark (Earth-616)|encounters]] [[James Buchanan Barnes (Earth-616)|with]] [[Yelena Belova (Clone 3) (Earth-616)|important]] [[Clinton Barton (Earth-616)|people]] from her life when she was following relatives of her old supervisors from the [[Black Widow Ops Program (Earth-616)|Red Room]], where the mysterious woman set her up before finally confronting her when thinking Natasha was all alone, revealing herself as Anya. In truth however, all those fights with her friends were staged to set up Anya herself. The resulting fight ended with Anya in custody and Natasha having her memories restored by Tony Stark.{{r|Web of Black Widow Vol 1 1|5}}
+
+===The Ties That Bind===
+One night, while returning home, Natasha noticed that her apartment had been breached. As she entered through her window, she was taken down by tranquilizers and abducted by Hydra forces led by Madame Hydra. Under their custody, her DNA was mixed with the DNA of a stranger, a man named [[James Grey (Earth-616)|James Grey]], to create a [[Steve Grey (Earth-616)|genetic son]]. Natasha and James's minds were then manipulated to form fabricated memories and make them believe they were in love and engaged. After three months of leading a false life with her "fiancé", Natasha was seen in the background of a news report by Clint Barton and Bucky Barnes, and they came searching for her. Meanwhile, [[Yelena Belova (Clone 3) (Earth-616)|Yelena Belova]] started posing as their babysitter, Helen.{{r|{{cl|Black Widow Vol 8 1}}-[[Black Widow Vol 8 2|2]]}}{{r|Black Widow Vol 8 4}}
+
+After some Hydra associates barged into her home, Natasha subconsciously used her decades of training to defeat them. During the attack, she regained all of her memories, and (with the help of Clint, Bucky, and Yelena) took James and their son, Stevie, to a safe house. The group that abducted her, including Madame Hydra and a few others, then went on the offensive, aiming to kill her since their plans of mind manipulation backfired. After Bucky helped Natasha fake the deaths of James and Stevie, the group of heroes finally faced Madame Hydra and the other masterminds, successfully defeating them, although Madame Hydra managed to escape.{{r|{{cl|Black Widow Vol 8 3}}-[[Black Widow Vol 8 5|5]]}}
+
+| Personality             = Natasha is a professional and sly agent who will get any job done regardless of the difficulty. She went from being one of the best operatives in [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] to a superhero. She held her own as a part of the [[Avengers (Earth-616)|Avengers]] for years, even leading them for a time. However, she doesn't belong with the superhero set due to her helping with S.H.I.E.L.D. Nevertheless, she will keep her word by being behind the scenes or assist the Avengers if needed. Despite Natasha being a superhero, she will always resume her mission to be a spy. [[Nicholas Fury (Earth-616)|Nick Fury]] commented on Natasha that "running in the shadows is what she was born to do."{{r|Secret War: From the Files of Nick Fury Vol 1 1}}
+
+| Powers                  = {{clear}}
+{{MessageBox
+| Message = Black Widow's powers, abilities and strength level can vary due to a broad degree of [[Glossary:Artistic License|artistic license]] employed by various comic book writers and artists. Below is a broad list of powers and feats Black Widow has shown over her more than five decades of comic appearances. If you wish to add more or discuss improvements to this section, please head to [[Talk: Natalia Romanova (Earth-616)/Powers|her power's discussion page]].
+}}
+'''Artificially-Enhanced Physiology:''' Natasha was biochemically enhanced through the [[Black Widow Ops Program (Earth-616)|Black Widow Ops Program]] when she was an infant. She received the Red Room's version of the [[Super-Soldier Serum]]{{r|Mighty Avengers: Most Wanted Files Vol 1 1}} that was created by Dr. Lyudmila Kudrin to enhance her immune system, bodily condition, and longevity.{{r|{{cl|Black Widow Vol 3 5}}-[[Black Widow Vol 3 6|6]]}}{{r|Civil War: Battle Damage Report Vol 1 1}} [[Nicholas Fury (Earth-616)|Nick Fury]]'s intel classified her as '''Power Level 7''',{{r|Secret War: From the Files of Nick Fury Vol 1 1}}
+* '''Peak Human Strength:''' Natasha's physical strength is enhanced, enabling her to consistently press lift 500 pounds (226 kilograms).{{r|Mighty Avengers: Most Wanted Files Vol 1 1}}
+* '''Athletic Speed:''' Natasha's speed is that of an Olympic athlete,{{r|Official Handbook of the Marvel Universe Vol 2 2}} enabling her to run at speeds of 32-36 mph.{{r|Official Handbook of the Marvel Universe Master Edition Vol 1 25}}
+* '''Enhanced Durability:''' Natasha's body is enhanced to withstand greater physical injuries than normal humans.{{r|Mighty Avengers: Most Wanted Files Vol 1 1}}{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}} She has also withstood blows from superhumans like [[Imus Champion (Earth-616)|Imus Champion]],{{r|Black Widow Vol 4 5}} explosions,{{r|Black Widow Vol 6 5}} and managed to continue fighting after being shot.{{r|Daredevil Vol 2 63}}
+[[File:Natalia Romanova (Earth-616) from Fear Itself Black Widow Vol 1 1 0001 (2).jpg|right|thumb|250px|Black Widow dodging gunshots from Rapido's weapon.]]
+* '''Athletic Reflexes:''' Natasha’s reflexes are similar to those of an athlete.{{r|Official Handbook of the Marvel Universe Master Edition #25}}
+* '''Athletic Stamina:''' Natasha’s stamina is similar to that of an athlete.{{r|Official Handbook of the Marvel Universe Master Edition #25}}
+* '''Peak Human Healing:''' [[Lyudmila Antonovna Kudrin (Earth-616)|Dr. Kudrin]] theoretically stated Natasha's wounds heal five times faster than average human rate.{{r|Black Widow Vol 3 5}}
+* '''Enhanced Immune System:''' The Black Widow has been enhanced by biotechnology that has slowed her aging, and augmented her immune system.{{r|Iron Manual Mark 3 Vol 1 1}}
+* '''Enhanced Longevity:''' The serum extends Natasha's lifespan and youth, resulting in her maintaining the appearance of a woman in her 30's despite being born in 1928.{{r|Iron Manual Mark 3 Vol 1 1}}
+* '''Peak Human Endurance:''' Natasha exhibits extraordinary levels to physical pain. She once resumed functioning in spite of her undergoing unbearable surgery without anesthesia.{{r|Black Widow Vol 4 1}}
+| Abilities               = ''''''Master Martial Artist:''' Natasha has mastered many fields of hand-to-hand combat including aikido,{{r|Avengers: Roll Call Vol 1 1}} judo,{{r|Amazing Adventures Vol 2 6}}{{r|Avengers: Roll Call Vol 1 1}} karate,{{r|Amazing Adventures Vol 2 6}}{{r|Avengers: Roll Call Vol 1 1}} savate,{{r|Avengers: Roll Call Vol 1 1}} boxing,{{r|Avengers: Roll Call Vol 1 1}} and various other martial arts.{{r|Avengers: Roll Call Vol 1 1}} She fought [[James Howlett (Earth-616)|Wolverine]] during her training in the [[Red Room Academy (Moscow)|Red Room Academy]].{{r|Black Widow: Deadly Origin Vol 1 1}} She was able to hold her own against other dangerous opponents like [[James Buchanan Barnes (Earth-616)|Winter Soldier]],{{r|Captain America Vol 5 27}} [[Elektra Natchios (Earth-616)|Elektra]],{{r|Black Widow Vol 4 3}} and [[Frank Castle (Earth-616)|Punisher]].{{r|Punisher: War Zone Vol 3 2}}
+
+'''Master Acrobat:''' Natasha is an extraordinary skilled gymnast, acrobat, and aerialist.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+'''Master Assassin:''' Natasha is heavily skilled in assassination techniques. She uses her skills as a martial artist, acrobat, and spy to further enhance her skills as an assassin. She has been sent by S.H.I.E.L.D. and the KGB to eliminate numerous enemies.{{r|Tales of Suspense Vol 1 52}}
+
+'''Weapons Expert:''' Natasha is an expert with most weapons.{{r|Avengers: Roll Call Vol 1 1}}
+
+'''Expert Vehicular Driver:''' Natasha is an expert at operating most vehicles.{{r|Avengers: Roll Call Vol 1 1}}
+
+'''Disguises Expert:''' Natasha is an expert with disguises.{{r|Avengers: Roll Call Vol 1 1}}
+
+'''[[Multilingual]]:''' Natasha is fluent in Russian,{{r|AVX: Vs Vol 1 3}}{{r|Black Widow Vol 6 7}} English,{{r|Tales of Suspense Vol 1 53}} French,{{r|Daredevil Vol 1 105}} German,{{r|Black Widow: Deadly Origin Vol 1 1}} Chinese,{{r|Black Widow Vol 3 1}}{{r|Avengers Vol 3 43}} Japanese,{{r|Black Widow Vol 3 1}} and various other languages.{{r|Black Widow: Deadly Origin Vol 1 2}}{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+'''Learned Intelligence'''{{r|Avengers: Roll Call Vol 1 1}} Natasha possesses the ability to quickly process multiple information streams, such as threat assessment, and rapidly respond to changing tactical situations.{{r|Black Widow Vol 3 5}}
+
+'''Graceful Dancer:''' Natasha is a profound ballet dancer.{{r|Black Widow Vol 3 4}}
+
+'''Talented Hacker:''' Natasha can hack into all computer systems without tripping any firewalls or security with ease.{{r|Black Widow Vol 6 7}}
+
+'''Master Seductress:''' She is an expert in the field of seduction. Natasha has been infamously known to bend many different men to her will and sometimes even get them to do her bidding for her. She sometimes continues deceiving certain men through means of acting if she still has a further use for them.{{r|Tales of Suspense Vol 1 53}}
+
+'''Master Spy:''' Natasha is a dangerous secret agent trained in espionage, stealth, disguise, infiltration, and demolitions. She is capable of killing in cold blood when the need arises. Her talents and years of experience have enabled her to reach a high ranking position as an agent of S.H.I.E.L.D..{{r|Black Widow Vol 3 1}}
+| Strength                = Natasha is capable of lifting 500 lbs.;{{r|Mighty Avengers: Most Wanted Files Vol 1 1}} however, she stated that the [[Frank Castle (Earth-616)|Punisher]] was stronger than she is.{{r|Punisher: War Zone Vol 3 2}}
+| Weaknesses              = '''Infertility:''' While not an encumbrance to her performance, the serum and biological modifications made to Natasha's physiology, granting her impressive resilience; the effects of a highly efficient immune system inhibit her reproductive capabilities rendering pregnancy impossible.{{r|{{cl|Black Widow Vol 3 5}}-[[Black Widow Vol 3 6|6]]}}
+
+| Equipment               = '''Costume Specifications:''' Synthetic stretch fabric which has been augmented to be highly resistant to damage even small arms fire and high temperatures. Microscopic suction cups on her costume allow her to scale walls and cling to ceilings, just as her namesake.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+{{Navigation
+| title = Former Equipment
+| body  = [[File:Natalia Romanova (Earth-616) from Symbiote Spider-Man Alien Reality Vol 1 1 001.jpg|thumb|right]]
+'''[[Black Cat's Suit|Red Cat's Suit]] and [[Black Cat's Grappling Hook|Grappling Hook]]:''' After [[Karl Mordo (Earth-616)|Baron Mordo]] and [[Edward Leeds (Earth-616)|Hobgoblin]] used the [[Word of God]] to alter reality, Natalia replaced [[Felicia Hardy (Earth-616)|Black Cat]] as Red Cat and seemingly had all of Felicia's equipment.{{r|Symbiote Spider-Man: Alien Reality Vol 1 1}}
+}}
+| Transportation          = Natasha uses her Widow's Line, a grappling hook with a retractable line, to swing along rooftops for increased mobility.{{r|Official Handbook of the Marvel Universe Vol 1 2}}
+
+'''[[Quinjet]]'''
+
+'''[[Avengers Issue Jet-Pack]]'''{{r|Avengers: The Initiative #8}}
+| Weapons                 = '''[[Black Widow's Gauntlets]]:''' The Black Widow's Gauntlets are wrist cartridges containing various tools of the spy trade: tear-gas pellets, a radio transmitter and fire a 100 foot spring-loaded cable.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}} The Gauntlets also include a ‘Widow’s Bite’ which is capable of stunning an opponent and emitting highly potent electric shocks with a maximum of about 30,000 volts at the range of at least 20 feet.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}} The functions of the gauntlet are activated via sensors keyed to her wrist musculature.{{r|Avengers: Roll Call Vol 1 1}}
+
+'''Belt:''' Natasha has often won a belt of metal discs or cartridges that contains a plastic explosive, equivalent to 4 pounds of TNT.{{r|Official Handbook of the Marvel Universe Vol 1 2}}
+
+| Notes                   = <!-- * Maintains a home in [[New York City]], [[New York (State)|New York]]; formerly [[San Francisco]], [[California (State)|California]]; Currently, living in US with an extended Visa.{{citation}} -->
+* Despite the Black Widow having been introduced in 1964, it wasn't until 35 years later in 1999 that the [[Black Widow Ops Program (Earth-616)|Red Room]] was established as a part of her backstory in {{cl|Black Widow Vol 1 1}}.
+| Trivia                  = * Black Widow was ranked as 74th on IGN's Top 100 Comic Book Heroes in 2011.{{r|{{cite web|url=http://www.ign.com/lists/comic-book-heroes/74|title=IGN's Top 100 Comic Book Heroes|work=IGN.com|first=|last=|date=|accessdate=26 February 2019}}}}
+* Black Widow was also ranked as 42nd in "The Top 50 Avengers."<ref>[https://www.ign.com/lists/avengers/42 Black Widow as the 42nd top Avenger at IGN's official site]</ref>
+* Natasha has had romantic relationships with [[Clinton Barton (Earth-616)|Clint Barton/Hawkeye]],{{r|Avengers #37}} [[Matthew Murdock (Earth-616)|Matt Murdock/Daredevil]],{{r|Daredevil #84}} [[James Buchanan Barnes (Earth-616)|James Buchanan "Bucky" Barnes/Winter Soldier-Captain America VI]],{{r|Winter Soldier #1}} and [[Alexi Shostakov (Earth-616)|Alexi Shostakov/Red Guardian]].{{r|Avengers #44}}
+* She was a S.H.I.E.L.D. Agent Level Ten,{{r|Mighty Avengers #3}}{{r|Wolverine Files #1}} or "Level 10 Operative".{{r|Secret War: From the Files of Nick Fury #1}}
+* Romanova occasionally cared for a cat that hung around her apartment until she eventually named it [[Liho (Earth-616)|Liho]] and unofficially adopted it.{{r|Black Widow Vol 5 1}}{{r|Black Widow Vol 5 13}}
+* [[Nicholas Fury (Earth-616)|Nick Fury]]'s intel classified her as power level 7.{{r|Secret War: From the Files of Nick Fury Vol 1 1}}
+* Natasha has been shown on occasion to have been at least somewhat Russian Orthodox.{{r|Marvel Knights Vol 1 1}}
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+* [http://www.adherents.com/lit/comics/BlackWidow.html The Religion of the Black Widow]
+}}
+
+[[Category:Acrobats]]
+[[Category:Advanced Longevity]]
+[[Category:Adventurers]]
+[[Category:Assassins]]
+[[Category:Athletic Skills]]
+[[Category:Computer Hacking Skills]]
+[[Category:Dancers]]
+[[Category:Espionage]]
+[[Category:Fighting Ability - Master of several forms of combat]]
+[[Category:Government Agents]]
+[[Category:Gymnasts]]
+[[Category:Korvac Saga casualties]]
+[[Category:Korvac Saga participants]]
+[[Category:Martial Arts]]
+[[Category:Mercenaries]]
+[[Category:Multilingual]]
+[[Category:Orthodox Characters]]
+[[Category:Peak Human Strength]]
+[[Category:Power Level 7]]
+[[Category:Regeneration]]
+[[Category:Romanov Family]]
+[[Category:S.H.I.E.L.D. Agents Level 10]]
+[[Category:Secret Empire casualties]]
+[[Category:Shield Fighting]]
+[[Category:Shooting]]
+[[Category:Space Stone wielders]]
+[[Category:Spies]]
+[[Category:Strategists]]
+[[Category:Symbiotes-possessed]]
+[[Category:Thrown Weapons]]
+[[Category:Teachers]]
+[[Category:Trained by Wolverine]]
+[[Category:Weapons Expert]]
+
+[[es:Natalia Romanova (Tierra-616)]]
+[[pt-br:Natalia Romanova (Terra-616)]]
+[[hu:Fekete Özvegy (Natasha Romanoff)]]
+[[it:Natalia Romanova (Terra-616)]]
+[[pt-br:Natalia Romanova (Terra-616)]]
+[[ru:Наталья Романова (616)]]
+[[fr:Natalia Romanova (Terre-616)]]
+[[tr:Natalia Romanova (Dünya-616)]]

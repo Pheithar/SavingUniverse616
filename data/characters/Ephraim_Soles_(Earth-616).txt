@@ -1,0 +1,68 @@
+{{Marvel Database:Character Template
+| Image                   = Ephraim Soles (Earth-616) from Defenders Vol 1 141 0001.jpg
+| Name                    = Ephraim Soles
+| CurrentAlias            = 
+| Aliases                 = Phantom of Gamma-Ray Flats
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Red (human form); None (mutated form)
+| UnusualSkinColor        = Brown (first two mutated forms); Green (final mutated form)
+| UnusualFeatures         = In his first form, he resembled a jellyfish with various tentacles. In his second form, he resembled a very creature with plants growing out of his body. In his final form, resembled a shapeless blob with multiple body parts, including hands, eyes, and mouths.
+
+| Origin                  = [[Homo sapiens|Human]] [[Mutates|mutate]] by gamma radiation
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Former prospector, thief; scavenger
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Peter B. Gillis; Don Perlin
+| First                   = Defenders Vol 1 132
+| Death                   = Defenders Vol 1 141
+
+| History                 = Ephraim Soles was a prospector, scavenger and occasional thief who made his living in the deserts of New Mexico. At one point, Ephraim entered the grounds of an abandoned military base and located plant life within the base and used it to cook his meal. He was not aware the grounds had been used to test gamma-bombs. He He later reached the Defenders' headquarters at Elijah, New Mexico. The Defenders took him in and offered him clothes and a place to spend the night. He was within the headquarters when the radioactive plants he had eaten earlier resulted in a great transformation that mutated into a plant-like gamma creature. 
+Theorizing the plant creature needed moisture to survive, [[Robert Drake (Earth-616)|Iceman]] used his powers to remove all available moisture from the vicinity of Ephraim, causing him finally collapse and die. Some time later, spores left over from the creature were blown away by the wind, resulting in new mutations.{{r|Defenders Vol 1 132}}
+
+Some of the spores infected alfalfa sprouts that were later eaten by [[Chris Larmouth (Earth-616)|Chris Larmouth]], who worked at the Defenders Mansion, was infected. He was engulfed in mutated plant tendrils. The mutation was halted with Iceman froze Larmouth in ice. Other spores began spreading and engulfing everything in their path. It wasn't long before they transformed into a massive green blob with no apparent weaknesses. [[Henry McCoy (Earth-616)|Beast]] eventually realized radiation was the culprit after studying Larmouth. The blob was eventually destroyed when [[Isaac Christians (Earth-616)|Gargoyle]] zapped them with bio-electricity.{{r|Defenders Vol 1 140|141}}
+
+Larmouth was kept frozen to prevent the spores from taking over his body{{r|Defenders Vol 1 142}} until he was cured by [[Heather Douglas (Earth-616)|Moondragon]] using the power of the [[Beyonder (Earth-616)|Beyonder]].{{r|Defenders Vol 1 142}}
+
+| Powers                  = 
+By drawing moisture from the air, Ephraim could transform into a beast-like gamma creature and later a fully plant-like creature. In both forms, Ephraim possessed superhuman strength, regenerative healing, multiple tendrils and a resistance to telepathy, ice, and bio-electricity.{{r|Defenders Vol 1 132}} After transforming into spores, he had the power to affect anything and everything in sight and became a formless blob with no physical weaknesses as well retained the ability to absorb moisture and regenerate from damage. He also could form tendrils with superhuman strength.{{r|Defenders Vol 1 140|141}}
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = In his monster form, Ephraim had an extreme aversion to heat.
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Shapeshifters]]
+[[Category:Telepathic Immunity]]
+[[Category:Regeneration]]
+[[Category:Multiple Eyes]]
+[[Category:Multiple Mouths]]
+[[Category:Goo Body]]
+[[Category:Plant Form]]
+[[Category:Superhuman Strength]]
+[[Category:Matter Absorption]]
+[[Category:Botanopathy]]
+[[Category:Biological Manipulation]]

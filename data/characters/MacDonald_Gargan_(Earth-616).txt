@@ -1,0 +1,335 @@
+{{Marvel Database:Character Template
+| Image                   = MacDonald Gargan (Earth-616) from Amazing Spider-Man Vol 5 17 001.jpg
+| Name                    = [[Scorpion|MacDonald "Mac" Gargan]]
+| NameRef                 = {{r|Amazing Spider-Man #19}}
+| CurrentAlias            = [[Scorpion]]
+| CurrentAliasRef         = {{r|Amazing Spider-Man Vol 1 20}}
+| Codenames               = [[Spider-Man]],{{r|Dark Avengers #1}} [[Venom]],{{r|Marvel Knights: Spider-Man Vol 1 9}} [[Virus]]{{r|Venom Vol 4 30}}
+| EditorialNames          = [[Dark Reign: Sinister Spider-Man Vol 1|Sinister Spider-Man]]
+| Nicknames               = Captain Overbite,{{r|Beyond! Vol 1 1}} [[Spidey]],{{r|Dark Reign: Sinister Spider-Man Vol 1 1}} Ven-orpion,{{r|Amazing Spider-Man #573}} Vennie{{r|Amazing Spider-Man Vol 1 570}}
+| Impersonations          = [[Peter Parker (Earth-616)|Spider-Man]]{{r|Spider-Man 2099 Vol 2 4}}
+| Aliases                 = Kidnapper{{r|Marvel Knights: Spider-Man Vol 1 9}} 
+
+| Affiliation             = {{m|Savage Six (Kraven's) (Earth-616)|Savage Six}}; former partner of [[Calvin Zabo (Earth-616)|Mister Hyde]] and [[Delilah (Earth-616)|Delilah]]; formerly {{m|Sinister Six (Earth-616)|Sinister Six}}, {{m|Masters of Evil}}, {{m|Thunderbolts}}, {{m|Dark Avengers|Avengers}}, {{m|H.A.M.M.E.R.}}, {{m|Alchemax}}, {{m|Black Cat's Gang}}, {{m|Inklings}}, {{m|Anti-Symbiote Task Force}}, {{M|Slayer Swarm}}, {{m|Roxxon Energy Corporation (Earth-616)}}, {{m|Tarantula's Organization (Earth-616)}}, {{m|Cartels (Earth-616)}}, [[Ravencroft Institute]], {{m|Hive (Symbiotes) (Earth-1051)|The Hive}}
+| Relatives               = 
+[[Scorpion (Symbiote) (Earth-1051)|Scorpion (Earth-1051)]] (former symbiote, deceased);<br>
+[[Scorpion (Symbiote) (Earth-616)|Scorpion (Earth-616)]] (former symbiote, deceased){{r|Amazing Spider-Man Vol 1 792}};<br>
+[[Venom (Symbiote) (Earth-616)|Venom]] (former symbiote)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z Vol 1 12}}
+| Gender                  = Male
+| Height                  = 6'2"
+| Weight                  = 220 lbs
+| Weight2                 = (245 lbs. with Symbiote)
+| Eyes                    = Brown
+| Hair                    = Shaved
+| Hair2                   = (formerly [[:Category:Brown Hair|brown]])
+| UnusualFeatures         = Scars on his cheeks from [[Otto Octavius (Earth-616)|Superior Spider-Man]] ripping his jaw off. When bonded with Venom and Maniac Symbiotes, the symbiotes granted him an elongated jaw, fangs, claws and a prehensile tongue which were really part of the alien costume
+
+| Origin                  = [[Homo sapiens|Human]] [[Mutates|mutate]]; Mac Gargan underwent superhuman augmentation to become the Scorpion.
+
+| Reality                 = Earth-616
+| Reality 2               = (currently displaced to [[Earth-1051]])
+| PlaceOfBirth            = [[Yonkers]], [[New York (State)|New York]]
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Advance agent for Alchemax, enforcer for Black Cat's gang; former adventurer, field agent for the U.S. government, professional criminal, assassin, mercenary, private detective
+| Education               = High school graduate
+| BaseOfOperations        = [[Oscorp Tower|Alchemax Tower]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]; formerly [[Mount Charteris|Thunderbolts Mountain]], [[Colorado (State)|Colorado]]; [[Stark Tower|Avengers Tower]], New York City, New York
+
+| Creators                = Stan Lee; Steve Ditko
+| First                   = Amazing Spider-Man Vol 1 19
+| First2                  = (As MacDonald "Mac" Gargan)<br>{{sld|Amazing Spider-Man Vol 1 20}}(As Scorpion)<br>{{sld|Marvel Knights: Spider-Man Vol 1 10}}(As Venom)<br>{{sld|Dark Avengers Vol 1 1}}(As Spider-Man)<br>{{sld|Venom Vol 4 25}}(As Virus)
+
+| Quotation               = You don't have to '''ask,''' [[Alistaire Smythe (Earth-616)|Smythe]]. Killing the [[Spider-Man (Peter Parker)|Spider]]'s always been my idea of fun. But after what [[Otto Octavius (Earth-616)|he]] did to me--to '''us--we won't leave enough of him to bury.'''
+| Speaker                 = [[MacDonald Gargan (Earth-616)|Scorpion]]
+| QuoteSource             = Superior Spider-Man Vol 1 11
+
+| History                 = 
+===Early Life===
+Former private investigator Mac Gargan was hired by [[John Jonah Jameson (Earth-616)|J. Jonah Jameson]] to find out how Peter Parker was able to get incredible pictures of [[Peter Parker (Earth-616)|Spider-Man]]. Gargan's efforts to locate Peter in order to find out the truth triggered Parker's spider sense, making him easily avoidable every time.{{r|Amazing Spider-Man #19}}
+
+===Scorpion===
+[[file:MacDonald Gargan (Earth-616) from Official Handbook of the Marvel Universe Vol 1 9 0001.jpg|thumb|left|Becoming the Scorpion]]
+Frustrated, Jameson decided to pay $10,000 to Gargan to be the subject of an experiment. The experiment, created by [[Farley Stillwell (Earth-616)|Dr. Farley Stillwell]], a researcher in animal mutation, which endowed the subject with the characteristic of another animal. Unfortunately the process resulted in the loss of Gargan's sanity, and the creation of the super-powered criminal menace known as the Scorpion.{{r|Amazing Spider-Man #20}} Over the years Scorpion fought and was bested by Spider-Man many times. Most of these confrontations were the result of Spider-Man stopping an attempt on the life of Jameson, who Gargan hated even more than Spider-Man.{{r|Amazing Spider-Man #29}} Scorpion attacked Jameson on his wedding day, but failed thanks to Spider-Man.{{r|Amazing Spider-Man Annual #18}}
+
+===Captain America===
+Gargan was hired to follow [[Sharon Carter (Earth-616)|Agent Sharon Carter]] of [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]], but this lead to a confrontation with [[Steven Rogers (Earth-616)|Captain America]] and was easily defeated.{{r|Captain America Vol 1 122}} Teaming up with [[Calvin Zabo (Earth-616)|Mister Hyde]] they launched a campaign of attacks against S.H.I.E.L.D., including kidnapping Sharon Carter, but [[Samuel Wilson (Earth-616)|Falcon]] and Cap tracked them down and took them out.{{r|Captain America Vol 1 #150|152}}
+
+===Jewel & Jackal===
+When robbing a laundromat a young wannabe superhero named [[Jessica Jones (Earth-616)|Jewel]] crash-landed on his head. This was enough to stun him so he could be apprehended.{{r|Alias #23}}
+
+Gargan was freed again and asked for help from the [[Miles Warren (Earth-616)|Jackal]] who sent him to [[Midtown Hospital]] in which Spider-Man's [[Maybelle Parker (Earth-616)|Aunt May]] was being cared for. Gargan went to the room but only found Peter and May, not realizing he was Spider-Man. He threatened them to tell him the location of Spider-Man. This angered Peter putting on his costume and ending the Scorpion rampage through the hospital. After his beat-down, Spider-Man forced him to apologize to Aunt May.{{r|Amazing Spider-Man Vol 1 #145|146}}
+
+===Ms. Marvel===
+[[Advanced Idea Mechanics (Earth-616)|A.I.M.]] had upgraded his suit enhancing his tail to expel acid. Gargan attempted to get revenge on the man who had caused the most misery in his life, J Jonah Jameson, but this lead to a confrontation with [[Carol Danvers (Earth-616)|Ms. Marvel]] who was working at the [[Daily Bugle (The DB!) (Earth-616)|Daily Bugle]].{{r|Ms. Marvel Vol 1 #1}} After being treated by A.I.M. he escaped and sought revenge on Ms. Marvel but even though she was weakened, she was able to defeat the Scorpion.{{r|Ms. Marvel Vol 1 #2}}
+
+===Masters of Evil===
+[[Elihas Starr (Earth-616)|Egghead]] recruited Scorpion into his [[Masters of Evil (Earth-616)|Masters of Evil]], but when [[David Cannon (Earth-616)|Whirlwind]] jumped the gun and attacked the [[Avengers (Earth-616)|Avengers]] early, the Masters were all recaptured. When the Masters reformed, Egghead didn't bother recruiting Scorpion again.{{r|Avengers #222}}
+
+===Hammer Industries===
+[[Justin Hammer (Earth-616)|Justin Hammer]] had his people improve the weaponry in Scorpion's tail before sending him on a mission. However, Gargan proved too unstable to follow orders and bungled the mission. Hammer sent [[Marco Scarlotti (Earth-616)|Blacklash]] and [[Aleksei Sytsevich (Earth-616)|Rhino]] to punish Scorpion for botching the job.{{r|Amazing Spider-Man #318|319}}
+
+===Alpha Flight & Tinkerer===
+The forces of [[Llan (Earth-616)|Llan the Sorcerer]] once lured Scorpion into attacking [[Canada]], where he brawled with [[Alpha Flight (Earth-616)|Alpha Flight]].{{r|Alpha Flight #79|80}}
+
+Gargan had the [[Phineas Mason (Earth-616)|Tinkerer]] perform further upgrades on his tail. As the Scorpion, he got in the middle of a fight between Spider-Man and the [[Spider-Slayer|Spider-Slayers]]. Gargan inadvertently defeated himself by electro-shocking an amoeboid robot and got caught in the feedback.{{r|Amazing Spider-Man #370}}
+
+In his borderline demented state, Gargan took to living in the sewers for a time.{{r|Spectacular Spider-Man Vol 1 #215|216}}
+
+===Roxxon Oil===
+Hiring out to [[Roxxon Energy Corporation (Earth-616)|Roxxon Oil]], Gargan was given a new tail with heavily upgraded weaponry. Once again, he kidnapped J. Jonah Jameson but was eventually stopped by Spider-Man with the help of [[Luke Cage (Earth-616)|Luke Cage]] and [[Daniel Rand (Earth-616)|Iron Fist]].{{r|Spider-Man Unlimited #14}}
+
+===Attacking Tricorp===
+Gargan was next recruited by a mysterious corporation who upgraded his tail and armor. He fought Spider-Man while attacking the [[Tricorp (Earth-616)|Tricorp]] research facility.{{r|Amazing Spider-Man Vol 2 1}}
+
+===Jameson on Trial===
+For some reason, Scorpion went back to using his older costume.{{r|Peter Parker: Spider-Man Vol 1 #55}} He tried to kill Jameson again when JJJ was on trial for defamation against Spider-Man.{{r|She-Hulk #5}}
+
+===Secret War===
+Gargan was later among the technologically-based super-villains that were recruited by [[Lucia von Bardas (Earth-616)|Lucia von Bardas]] to attack [[Nicholas Fury (Earth-616)|Nick Fury]] and a group of heroes who were involved in a Secret War in [[Latveria]] a year earlier. The hired mercenaries were each a component of a bomb designed to destroy the city. Fury and his team, however, were able to stop them and arrested them all including the Scorpion.{{r|Secret War Vol 1 5}}
+
+[[File:Absolute Carnage Miles Morales Vol 1 2 Codex Variant Textless.jpg|thumb|left|As Venom]]
+===Venom===
+Later on, Scorpion was recruited by [[Norman Osborn (Earth-616)|Norman Osborn]], informed of Spider-Man's secret identity, and ordered to kidnap Peter's Aunt May if anything should happen to Osborn. In the middle of his task Scorpion was approached by the recently freed [[Venom (Symbiote) (Earth-616)|Venom Symbiote]]. Seeking a new host that shared both its hatred of Spider-Man as well as the will and experience of a seasoned criminal, the symbiote bonded with the Scorpion, who initially rejected the offer, but was somehow convinced to accept and become the monstrous new Venom.{{r|Marvel Knights: Spider-Man #1|9}} 
+
+After an elaborate plan paid off and the Green Goblin was out of prison, the Goblin led Spider-Man and the [[Felicia Hardy (Earth-616)|Black Cat]] into a direct confrontation with the newly formed [[Sinister Six (Earth-616)#Sinister Twelve|Sinister Twelve]], which included the new, more powerful Venom among its ranks. Venom and the Twelve very nearly defeated Spider-Man before the [[Fantastic Four (Earth-616)|Fantastic Four]] and a small faction of the [[Avengers (Earth-616)|Avengers]] headed by Captain America joined in, leading to the eventual defeat of the Twelve.{{r|Marvel Knights: Spider-Man #9|10}}
+
+In the midst of the battle Osborn escaped, with the full intention to murder Peter's wife, [[Mary Jane Watson (Earth-616)|Mary Jane]]. Spider-Man soon followed only to be stopped by Venom. The two foes continued to battle high above on [[New York City|New York]]'s rooftops. After catching Gargan off balance Spider-Man dropped a condemned building on the new Venom, ending the battle. Venom was arrested and sent to [[Ryker's Island]]. He promised Spider-Man he would never reveal his identity, as that was his only leverage against him.{{r|Marvel Knights: Spider-Man #11|12}}
+
+Gargan escaped Ryker's Island. He journeyed to [[Battleworld (Beyonder)|Battleworld]] along with a ragtag group including the likes of [[Henry Pym (Earth-616)|Henry Pym]], [[Greg Willis (Earth-616)|Gravity]], the [[Parker Robbins (Earth-616)|Hood]], and others, in order to enter a contest of champions.{{r|Beyond! #1|6}} 
+
+===Thunderbolts===
+[[File:Thunderbolts Vol 1 110 Second Printing Variant Textless.jpg|thumb|right|With the Thunderbolts]]
+Mac Gargan became a member of a sub-group of the [[Thunderbolts (Earth-616)|Thunderbolts]], which had been drafted by the Avengers to hunt down the members of the fugitive [[Secret Avengers (Civil War) (Earth-616)|Secret Avengers]] and was run by the [[Commission on Superhuman Activities (Earth-616)|Commission on Superhuman Activities]]. He was outfitted with electrical implants by the government to keep the increasingly bloodthirsty symbiote in check. As a Thunderbolt, he was seen as a hero by the general public and had his own action figures. Gargan displayed his new raw power as Venom in a battle with [[Jack Harrison (Earth-616)|Jack Flag]]. After pummeling Flag for a bit, the hero managed to stab Gargan with a piece of Swordsman's blade, but he was protected by his symbiote. Gargan became enraged and succumbed to the symbiote's bloodlust, ferociously attacking Flag, but before he could eat him his electrical implants kicked in and temporarily subdued him, allowing Flag to live.{{r|Thunderbolts #110|112}} 
+
+After the battle, Gargan was visited by Osborn and expressed fear of the control the symbiote possessed over him, yet he had become addicted to the raw unearthly power it brought to him, and could not imagine life without it, similar to a drug addict. Later, during an attack from [[Oliver Osnick (Earth-616)|Steel Spider]] and [[Jillian Woods (Earth-616)|Sepulchre]], Gargan lost control again, but [[Karla Sofen (Earth-616)|Moonstone]] was incapacitated and thus could not co-ordinate control of his electrical implants. Gargan returned to a normal form with no ill effects, but lost control a second time and bit off and devoured Steel Spider's arm during a fight. {{r|Thunderbolts #113|115}}
+
+When Moonstone began threatening to sic him on unregistered heroes in order to get them to surrender, Gargan complained that the incident with the Steel Spider hadn't been him and that he wasn't a monster. However, [[Mindwave (Telepath) (Earth-616)|Mindwave]], [[Bluestreak (Telepath) (Earth-616)|Bluestreak]] and their crew of psychic heroes allowed themselves to be captured and caused Gargan to have a hallucination of the symbiote berating and threatening to eat him from the inside-out unless he fed it. Gargan snapped, and when [[Andreas von Strucker (Earth-616)|Swordsman]] - manipulated by the psychics into taking up his father's legacy - bombed Thunderbolts mountain, Venom devoured a security team, declaring that "the only way out of [[Mount Charteris|Thunderbolts Mountain]] is when I decide to let you die". Venom went up against the Swordsman, who stabbed Gargan through the chest, using his powers to force the symbiote away from his sword. Gargan was wounded, but still alive due to the symbiote healing him. After healing, Gargan embraced the symbiote's bloodlust and retained his monstrous form, rarely returning to his usual size.{{r|Thunderbolts #116|121}}
+
+Gargan was later ordered by Norman Osborn to hunt down [[Namor McKenzie (Earth-616)|Namor]]. After shooting him with a Thunderbolts-supplied weapon, Gargan disabled Namor by ripping off his feet-wings. However, the Sub-Mariner managed to render Gargan unconscious and then ripped out the symbiote's tongue, although the symbiote easily made a new one.{{r|Sub-Mariner Vol 2 4}}
+
+===New Ways to Die===
+After the events of [[Brand New Day]], Mac Gargan no longer possessed knowledge of Spider-Man's secret identity. Gargan and the Thunderbolts were called back to New York to capture Spider-Man, and while on a search for the wall-crawler, Gargan's symbiote sensed a former host at the [[Food, Emergency Aid, Shelter and Training (Earth-616)|F.E.A.S.T.]] center. Gargan suspected that it was Spider-Man and attacked the place only to find [[Edward Brock (Earth-616)|Eddie Brock]], the original Venom. The Venom symbiote attempted to leave Gargan to re-bond with Brock, much to Gargan's (and Brock's) dismay. However, upon making contact with Brock, its former host's skin was shown to be caustic to his former symbiote, and [[Anti-Venom (Symbiote) (Earth-616)|a white substance]] seeped out of his pores covering his body, transforming Brock into Anti-Venom.
+
+[[File:Amazing Spider-Man Vol 1 572 Textless Variant 2nd Printing.jpg|thumb|left|"Ven-orpion"]]
+With some help from Spider-Man, Anti-Venom subdued Gargan and nearly destroyed the symbiote using his cleansing touch. Norman Osborn used a sample of the Anti-Venom's symbiote from Mac Gargan and created a poisonous counter to its healing powers by combining the sample with the immune system of [[Freak (Vagrant) (Earth-616)|Freak]]. Mac Gargan was injected with the "cure" and was given a new Scorpion battlesuit, which contained the poison, until the symbiote could recover. Anti-Venom tracked down Gargan at [[Oscorp (Earth-616)|Oscorp]]. After a grueling battle, "Ven-orpion" injected the poison into Anti-Venom and seemingly killed the altered symbiote. He then attempted to kill Brock but the Venom symbiote stopped him, still caring for its former host. The symbiote regained its strength and destroyed the Scorpion suit. Gargan gave up but promised that he would get past this problem and would someday finish Brock.{{r|Amazing Spider-Man #568|573}}
+
+===[[Secret Invasion]]===
+Gargan was seen being thrown from Thunderbolts Mountain by [[Khn'nr (Earth-616)|"Captain Marvel"]]. Gargan was later seen with the other Thunderbolts in [[Washington, D.C.|Washington]]. The [[Deviant Skrulls|Skrulls]] attempted to trick him into killing normal humans to find out which of them are Skrulls. Osborn attempted to prevent the symbiote from killing anyone by threatening to kill Mac Gargan and promising to help satisfy his "urges" later, only for Gargan to reveal that the threat he appeared to pose to civilians was a ruse in order to draw out a disguised Skrull. Venom played a huge part in fighting the Skrulls, using the symbiote to slash and eat them. He soon joined the Thunderbolts and the remaining heroes for the final battle against the Skrulls. During the battle, he was a force to be reckoned with.{{r|Thunderbolts #122|125}}{{r|Secret Invasion #5|8}}
+
+===Kill Songbird!===
+Venom, along with most of the Thunderbolts team, attempted to kill his partner [[Melissa Gold (Earth-616)|Songbird]] on the orders of Osborn. Facing Venom, Songbird was defeated and almost eaten by Venom, but escaped with help from the Swordsman.{{r|Thunderbolts #126|127}}
+
+===Dark Avengers===
+[[File:MacDonald Gargan (Earth-616) from Dark Avengers Vol 1 1 0001.jpg|thumb|right|Posing as Spider-Man]]
+Norman Osborn gave Venom a medication that reset the symbiote to the size it was when it originally possessed Spider-Man. However, the symbiote resumed its feral traits whenever Venom attacked an enemy. Osborn formed his [[Dark Avengers (Earth-616)|Avengers]], providing new identities to some of his former Thunderbolts. Norman introduced him as the Amazing Spider-Man in his new Avengers.{{r|Dark Avengers #1}}
+
+During the Dark Avengers first mission against [[Morgan Le Fay (Earth-616)|Morgan Le Fay]], Morgan's magic affected Venom, causing him to lose and gain control of himself randomly. Venom bit [[Ares (Earth-616)|Ares]] and fought [[Bullseye (Lester) (Earth-616)|Hawkeye (Bullseye)]]. After Morgan was defeated, Hawkeye promised to kill Mac one day for trying to eat him while he was under Morgan's control. {{r|Dark Avengers #2|5}}
+
+Later, attempting to find out Norman Osborn's plans for [[Harold Osborn (Earth-616)|his son]], the ''real'' Spider-Man, with the aid of the [[Susan Storm (Earth-616)|Invisible Woman]], managed to capture Gargan by using a sonic generator and took his place to infiltrate the Dark Avengers.{{r|Amazing Spider-Man #595|599}}
+
+Mac defeated a bank robber called [[Claude Cramer (Earth-616)|General Wolfram]] who he took to an abandoned rooftop and consumed his arm. He then took the money Wolfram stole and spent it on a stripper. After getting reprimanded by Norman Osborn for eating Wolfram's arm, Gargan killed the stripper and placed her dead body in J. Jonah Jameson's bed in order to frame him.{{r|Dark Reign: Sinister Spider-Man #1|4}}
+
+Venom and the Dark Avengers attacked [[Asgard (City)|Asgard]] on Norman Osborn's authority. He battled the [[Asgardians]] and the heroes who came to their aid. He soon realized that defeat and bitter retribution was inevitable and chose to enjoy himself by devouring Asgardians. He was soon confronted by Spider-Man and Ms. Marvel who ripped Gargan from his symbiote. Gargan and the Dark Avengers were arrested.{{r|{{cl|Siege Vol 1 1}}-[[Siege Vol 1 4|4]]}}{{r|Dark Avengers #16}}
+
+[[File:Amazing Spider-Man Vol 1 654 Textless.jpg|thumb|left]]
+===Return as the Scorpion===
+Mac Gargan was sent to the [[Raft]], where the Venom Symbiote was removed by the military. Gargan began to develop health problems without his Scorpion suit or the symbiote to keep the harmful effects of his genetic tampering from endangering his life. A disguised [[Alistaire Smythe (Earth-616)|Alistaire Smythe]] was able to break him out and provide him with a new Scorpion suit that saved his life and explained his plans for them to work together with the other Spider-Slayers he had to get revenge on Mayor Jameson and his friends and family due to the fact they both suffered because of Jameson's past actions. In the following attacks the Slayers were defeated thanks to the intervention of Spider-Man and the [[New Avengers (Earth-616)|New Avengers]] and both him and Alistaire were arrested, but not before Smythe was able to kill Jameson's wife [[Marla Madison (Earth-616)|Marla]].{{r|Amazing Spider-Man #652|654}}
+
+===[[Dying Wish]]===
+In his last act of revenge, [[Otto Octavius (Earth-616)|Otto Octavius]] used a mind-swapping [[Octobot]] to change bodies with Spider-Man, leaving Peter Parker in his dying body. As Doctor Octopus, Peter used an Octobot to send a message to Ock's allies to help him escape from the Raft. Scorpion, [[Morris Bench (Earth-616)|Hydro-Man]] and the [[Peter Petruski (Earth-616)|Trapster]] heeded the call. Peter broke into the [[Stark Tower]] along Scorpion in order to find help in [[Anthony Stark (Earth-616)|Tony Stark]]. Spider-Man settled a trap, waiting for them alone in the Tower and started fighting Octopus and his allies, when the Scorpion was about to kill Jameson, who was in a safe room along other friends and relatives of Peter, Otto had a flashback of how much Peter loved his Aunt May, and almost unconsciously, attacked Scorpion in order to protect her. Angered, Otto apparently killed Scorpion by breaking his jaw, the only unprotected part of his body.{{r|Amazing Spider-Man #700}}
+
+Mac was revealed to have survived and was outfitted in a newer armor while an apparatus was made to replace his lower jaw. Along with the [[Frederick Myers (Earth-616)|Boomerang]] and [[Adrian Toomes (Earth-616)|Vulture]], Mac was incarcerated and treated in the Raft's infirmary. Alistair Smythe's mini Spider-Slayers healed and enhanced them, and the villain later gave them the offer to kill Spider-Man.{{r|Superior Spider-Man #11}}
+
+===Confronting Spider-Man 2099===
+[[File:Spider-Man 2099 Vol 2 4 Textless.jpg|thumb|right]]
+When the temporally-relocated [[Miguel O'Hara (Earth-928)|Miguel O'Hara]] is roped into accompanying [[Tiberius Stone (Earth-616)|Tiberius Stone]] to sell Spider-Slayers to a foreign country, while investigating the Spider-Slayers after Stone is captured by local rebels, Miguel encounters the Scorpion, having been hired by [[Alchemax (Earth-616)|Alchemax]] to further test the Spider-Slayers.{{r|Spider-Man 2099 Vol 2 3}} Thinking that Miguel is the present Spider-Man in a new costume, the Scorpion attacks him with the aid of the Spider-Slayers, but Miguel manages to defeat him by using his holographic assistant to project the image of the present Spider-Man's costume over the Scorpion, causing the Spider-Slayers to attack him until he manages to turn them off.{{r|Spider-Man 2099 Vol 2 4}}
+
+===A Venomous Reunion===
+Becoming a part-time enforcer for [[Black Cat's Gang (Earth-616)|Black Cat's criminal organization]], Mac Gargan arranged a meeting with [[Lee Price (Earth-616)|Lee Price]], a discharged Army Ranger looking for work. Despite being disturbed by Price's callousness, Gargan hired him as muscle for an arms deal between Black Cat's gang and [[Lonnie Lincoln (Earth-616)|Tombstone]]'s gang.{{r|Venom Vol 3 1}} The deal went badly, but Gargan's suspicions were aroused when Price was the only survivor and reports from spies Black Cat planted in the [[New York City Police Department (Earth-616)|police force]] stated that some of the people were killed by something other than gunshots. When Price returned the merchandise the following day Gargan confronted him, and was made even more suspicious after sensing [[Venom (Symbiote) (Earth-616)|something familiar]] about Price, and Price referring to him as the Scorpion when Gargan hadn't disclosed his super villain identity.{{r|Venom Vol 3 2}} Black Cat dismissed Gargan's suspicions regarding Price; but after Adams, another member of Black Cat's Gang, informed him that Price's apartment had been blown up, Gargan decided to take matters into his own hands.{{r|Venom Vol 3 3}} Informed by Adams and Agent Coyle Bagman that Price was Venom,{{r|Venom Vol 3 5}} Gargan equipped his Scorpion armor with anti-symbiote weaponry when sent to accompany Price in intimidating a Daily Bugle reporter into dropping his exposé on Black Cat's organization. Gargan intended to kill both Price and the reporter and make it look like they killed each other, but the Venom symbiote emerged to protect its host and the ensuing battle between Venom and the Scorpion was live-streamed and posted online.{{r|Venom Vol 3 4}}
+
+Spider-Man saw the fight online and came to stop it just in time to save Gargan from being cannibalized by Venom, who threw Gargan in Spider-Man's direction. Spider-Man was able to catch and save Gargan, who in turn shielded him from a car Venom threw at them. Coating his tail in flames and lunging at Venom, Gargan expressed the intent of taking the symbiote for himself. Due to Spider-Man's interference, Venom managed to escape while Gargan and Spider-Man argued, Gargan blaming Spider-Man for Venom's escape, saying he could have chased Venom if Spider-Man hadn't been "screwing around" saving civilians.{{r|Venom Vol 3 5}} Some time later, Gargan learned that the symbiote was in possession of Eddie Brock and attacked him intending to kill the symbiote for everything it made him do when he was bonded to it. Eddie was able to exploit Gargan's fear of it by sending it into his armor. After the symbiote destroyed his Scorpion armor from within, Gargan was knocked out by Eddie.{{r|Venom Vol 1 150}} 
+
+[[File:MacDonald Gargan (Earth-616) from Amazing Spider-Man Vol 1 792 001.jpg|thumb|left|Repossessed by a [[Scorpion (Symbiote) (Earth-616)|symbiote]]]]
+===[[Venom Inc.]]===
+When Lee Price, in possession of the [[Mania (Symbiote) (Earth-616)|Mania symbiote]] and calling himself [[Maniac]], invaded Black Cat's Club to overthrow her, Gargan and her other minions were infected by his symbiote, becoming part of his [[Inklings (Earth-616)|Inklings]]. The piece of the Maniac symbiote reactivated traces of the Venom symbiote within Gargan, transforming him into [[Scorpion (Symbiote) (Earth-616)|a monstrous form]] identical to his appearance as "Ven-orpion".{{r|Amazing Spider-Man Vol 1 792}} Gargan was eventually freed from Maniac's control by the new Anti-Venom, [[Eugene Thompson (Earth-616)|Flash Thompson]], who cleansed him despite his pleas to keep the symbiote.{{r|Venom Vol 1 160}}
+
+===Symbiote Task Force===
+Gargan later made a deal with the [[United States Government (Earth-616)|U.S. Government]] to be pulled out of prison and join their [[Anti-Symbiote Task Force (Earth-616)|Symbiote Task Force]] as the host of the Venom symbiote's new spawn. After [[Claire Dixon (Earth-616)|Agent Claire Dixon]] captured Venom to secure the spawn, Gargan attempted to knock Eddie out but was stopped by [[Jessica Drew (Earth-616)|Spider-Woman]], who rescued Eddie due to the symbiote having earlier convinced her that its spawn would only grow to be good if Brock helped raise it. An unhinged Scorpion then followed Venom to [[Oscorp Tower|Alchemax Tower]], where the symbiote was giving birth with [[Doctor Steven (Earth-616)|Dr. Steve]]'s assistance, and tried to claim the spawn; however, Claire Dixon intervened and knocked him out with an electrical shock before he could cause any more damage. He was subsequently sent back to jail.{{r|Venom Vol 1 165}} Breaking out of prison and reclaiming his old armor, Gargan was present at the [[Bar with No Name]] and disparaged [[Jack O'Lantern (Impostor II) (Earth-616)|the new Jack O'Lantern]], Black Cat, and other supervillains' tales of having fought Venom during his supervillain and Lethal Protector days.{{r|Venom Annual Vol 1 1}}
+
+===Kraven's Great Hunt===
+Gargan teamed up with [[Frederick Foswell Jr. (Earth-616)|the son of]] [[Frederick Foswell (Earth-616)|Frederick Foswell]] to get revenge on J. Jonah Jameson and Spider-Man once more. While Foswell Jr. was arrested, Gargan managed to escape, but was then captured by [[Anthony Masters (Earth-616)|Taskmaster]] and [[Eric O'Grady (LMD) (Earth-616)|Black Ant]], who were hired by [[Sergei Kravinoff (Earth-616)|Kraven the Hunter]] to capture animal-themed superhumans for a "Great Hunt".{{r|Amazing Spider-Man Vol 5 13}} He was paired up with Vulture, [[Anton Miguel Rodriquez (Earth-616)|Tarantula]], [[Vincent Stegron (Earth-616)|Stegron]], [[Piet Voorhees (Earth-616)|King Cobra]], and Rhino as the [[Savage Six (Kraven's) (Earth-616)|Savage Six]].{{r|Amazing Spider-Man Vol 5 16}} When all the animal-themed superhumans were brought to [[Central Park]], including Spider-Man, Gargan assumed Spider-Man had something to do with it and attacked him before they were all attacked by Kraven's [[Hunterbot]]s.{{r|Amazing Spider-Man Vol 5 17}} After the Great Hunt ended, Gargan was imprisoned with the rest of the Savage Six.{{r|Amazing Spider-Man Vol 5 23}} Gargan, along with the Savage Six, later went after "[[Quentin Beck (Earth-616)|Cage McKnight]]", who was making a movie featuring them.{{r|{{cl|Amazing Mary Jane Vol 1 1}}-[[Amazing Mary Jane Vol 1 5|5]]}}
+
+===[[Absolute Carnage]]===
+[[File:MacDonald Gargan (Earth-616) vs. Unwanted (Earth-616) from Ravencroft Vol 1 3 001.jpg|thumb|right|Working at the Ravencroft Institute]]
+While attempting to rob an armored bank car, Gargan was attacked by another Spider-Man - [[Miles Morales (Earth-1610)|Miles Morales]]. Their battle was interrupted by a horde of symbiote-doppelgängers sent by [[Cletus Kasady (Earth-616)|Cletus Kasady]] - who had been reanimated and bonded to a [[Carnage IV (Symbiote) (Earth-616)|deific symbiote]] - to rip out his spine, which still contained [[Glossary:Symbiote Codex|traces of his symbiotes]]. Agreeing to a temporary truce, Gargan recognized the monsters as former Ravencroft inmates and fought to kill despite Spider-Man's admonitions. As Scorpion tried to flee, Venom arrived and threw him back into the fray - telling him to help save the young Spider-Man. Gargan was grabbed by the [[Carnage V (Symbiote) (Earth-616)|symbiote]]-infected [[Norman Osborn (Earth-616)|Norman Osborn]], who attempted to rip out his spine before being stopped by Spider-Man. Gargan asked Venom to save Miles, but they were too late as he was taken over by [[Character Index/Unnamed Symbiotes#Miles Morales' Symbiote|an offshoot]] of the [[Carnage IV (Symbiote) (Earth-616)|new Carnage symbiote]].{{r|Absolute Carnage Vol 1 2}}{{r|Absolute Carnage: Miles Morales Vol 1 1}} Left a paraplegic, Gargan was later granted a job by the cured Norman Osborn at the [[Ravencroft Institute]] and outfitted with a high-tech wheelchair similar to the one formerly used by Alistaire Smythe.{{r|Ravencroft Vol 1 1}}
+
+===Virus and Symbiote Scorpion===
+Blaming Venom for having ruined his life,{{r|Free Comic Book Day Vol 2020 Spider-Man/Venom}} Gargan spent all of his money on buying an old suit of [[War Machine Armor]], [[Shocker's Vibro-Shock Gauntlets|vibro-shock gauntlets]],{{r|Venom Vol 4 27}} an old [[Goblin Glider]] and [[Pumpkin Bomb]]s, sonic emitters, and other weaponry from [[Phineas Mason (Earth-616)|Tinkerer]].{{r|Venom Vol 4 28}} [[Jury (Earth-616)|Jury]]-rigging [[Virus Armor|the suit]] for the sole purpose of killing Venom, Gargan painted it in mockery of his nemesis and dubbed his new persona "[[Virus]]".<!--{{r|Free Comic Book Day Vol 2020 Spider-Man/Venom}}-->
+
+As Virus, Gargan ambushed Eddie and managed to separate him from the Venom symbiote, all the while berating him for having ruined his life and vowing to make him suffer for it. Gargan nearly succeeded in killing Eddie by crushing his ribcage, but the Venom symbiote rescued its host and damaged Gargan's armor. Forced to retreat using his Goblin Glider,{{r|Free Comic Book Day Vol 2020 Spider-Man/Venom}} Gargan repaired his armor and followed Venom and Eddie's half-symbiote son [[Dylan Brock (Earth-616)|Dylan Brock]] to a heavily-fortified warehouse owned by [[Reed Richards (Earth-1610)|the Maker]] - an amoral incarnation of [[Mister Fantastic|Reed Richards]] from [[Earth-1610]].<!--{{r|Venom Vol 4 26}}--> 
+
+Gargan fought his way through the Maker's defenses and attacked Venom once more, almost revealing his identity when Venom demanded to know who he was and why he was attacking him. Gargan's wanton lobbing of Pumpkin Bombs destabilized the Maker's interdimensional portal machine, and when Venom and Dylan were sucked through Gargan willingly followed - vowing to hunt Venom down no matter where he went.{{r|Venom Vol 4 26}}
+
+Gargan's armor allowed him to withstand the rigors of interdimensional travel, and by happenstance he arrived in the same universe that Venom and Dylan had - [[Earth-1051]], a version of Earth that had been conquered by symbiotes. Gargan immediately attacked Venom, whose symbiote connected to the symbiote hive-mind - unlocking new powers like the ability to manifest an arm-cannon capable of firing powerful energy beams. Despite his armor being damaged, Gargan continued to pursue Venom; earning the ire of the [[Avengers (Earth-1051)|Avengers]], who were in the process of trying to arrest Venom for his part in the fight.<!--{{r|Venom Vol 4 27}}-->
+
+[[File:Venom Vol 4 30 Unknown Comic Books Exclusive Kirkham Virgin Variant.jpg|thumb|right|Bonded to [[Earth-1051]]'s [[Scorpion (Symbiote) (Earth-1051)|Scorpion symbiote]].]]
+
+While Venom took advantage of the distraction to escape with Dylan, Gargan unsuccessfully attempted to talk his way out of a fight. Overwhelmed by the Avengers, Gargan offered to surrender and be turned over to the police, but [[Captain America (Symbiote) (Earth-1051)|Captain America]] prepared to execute him instead. Angered by the loss of his quarry, Gargan attacked Captain America with his sonic emitters, revealing him to be a symbiote in humanoid form. Before Gargan could process what was occurring, he was brutally beaten by the Avengers and taken before their master, [[Dylan Brock (Earth-1051)|Codex]].{{r|Venom Vol 4 27}} Stripped of his armor and interrogated by Codex, Gargan told him everything and was bonded to [[Scorpion (Symbiote) (Earth-1051)|a new symbiote]], returning to his former identity of the Scorpion.{{r|Venom Vol 4 28}} Gargan was able to track down the [[Sym-Soldier Program (Earth-1051)|rebel group]] opposing Codex and attacked them. Fortunately, Venom was to stun Gargan long enough for Dylan to destroy his new symbiote. At first, Venom wanted to kill him, but Gargan explained to Eddie how he had ruined his life and Eddie decided to spare him in exchange for Gargan leading them to Codex.{{r|Venom Vol 4 29}}
+
+Gargan led the Resistance to the Hive's base of operations, sneaking away while Venom engaged Codex and reclaiming his restored Virus Armor. Refusing to be sent back to prison upon returning to Earth-616, Gargan attempted to attack Venom but was shut down by [[Reed Richards (Earth-1051)|Mister Fantastic]], who exploited a critical flaw in the Virus Armor to destroy it with an electromagnetic pulse. Following this, Gargan was imprisoned on Earth-1051.{{r|Venom Vol 4 30}}
+
+===[[Sinister War]]===
+
+At some point Gargan returned to Earth-616, joining up again with the Savage Six to gain revenge on Cage McKnight by attacking his film premiere.{{r|Sinister War Vol 1 1}} It was revealed that the Savage Six were one of many super villain groups manipulated by [[Kindred]] to take part in his Sinister War.
+
+| Personality             = As a private investigator, Mac was skilled enough to garner the attention of J. Jonah Jameson, even if he was a little greedy. After his transformation into the Scorpion though, most of his previous personality went out the window due to the mutagenic process reshaping his mind, and what was left was continually influenced by all the predatory instinct of a scorpion. Depending on the writer though, this insanity varied from extreme to barely noticeable, such as in {{cl|Marvel Knights: Spider-Man Vol 1 9}}. At some points, Gargan's mental state worsened to the point he believed himself to be trapped in his suit,{{Citation}} and he developed an intense hatred towards J. Jonah Jameson - who he blamed for turning him into a monster.{{Citation}}
+
+After bonding with the Venom symbiote, Mac was initially in-control of himself,{{r|Marvel Knights: Spider-Man #9}} but over time began to struggle against the symbiote's bloodlust - going berserk at the slightest provocation and expressing both fear of the alien and disbelief that he'd lived as long as he had without it.{{r|{{cl|Thunderbolts Vol 1 111}}-[[Thunderbolts Vol 1 112|112]]}} After biting off and eating the Steel Spider's arm under the symbiote's influence,{{r|Thunderbolts Vol 1 115}} Gargan was initially disgusted and protested Songbird using this as a scare tactic to get unregistered superheroes to surrender.{{r|Thunderbolts Vol 1 116}} During Bluestreak III's psychic attack on the Thunderbolts, Gargan suffered a hallucination of the symbiote threatening and berating him, causing him to snap and fully succumb to its ravenous bloodlust.{{r|Thunderbolts Vol 1 118|119}} Following this, Gargan embraced the symbiote's darkness and became a cannibal with a macabre and sadistic sense of humour.{{r|Dark Reign: Sinister Spider-Man Vol 1 1|4}} However, as a result of the [[Symbiote Inhibitor|drug]] he was dosed with to keep the Venom symbiote under control, Gargan began having episodes of uncharacteristic timidness that hindered his effectiveness in combat.{{r|Dark Avengers Vol 1 5}}{{r|Dark Avengers Vol 1 10}}
+
+After being removed from the symbiote, his violent personality receded and he appeared to return to his more rational mind from before he became Venom; such that he was able to obtain a position as Black Cat's top enforcer in her organization as well as employment as a member of Alchemax's security force. Gargan outwardly displayed a phobia of the Venom symbiote and expressed the desire to kill it,{{r|Venom Vol 1 150}} going so far as to destroy his high-tech Scorpion suit to prevent it from rebonding to him; but this was belied by his attempt to reclaim it from Lee Price,{{r|{{cl|Venom Vol 3 4}}-{{cl|Venom Vol 3 5|5}}}} his delight at having his symbiote powers restored by [[Lee Price (Earth-616)|Maniac]],{{r|Amazing Spider-Man Vol 1 792}} and by him joining the FBI's Symbiote Task Force solely to bond to Venom's latest spawn.{{r|Venom Vol 1 165}} Breaking out of prison and reclaiming his armor, Gargan was present at a supervillain bar and disparaged [[Jack O'Lantern (Impostor II) (Earth-616)|the new Jack O'Lantern]], Black Cat, and other supervillains' tales of having fought Venom during his supervillain and Lethal Protector days. However, Gargan's bravado proved false as Venom attacked and threatened to eat him.{{r|Venom Annual Vol 1 1}}
+
+After being paralyzed by [[Norman Osborn (Earth-616)|Carnage]], Gargan - paralleling [[Edward Brock (Earth-616)|Eddie Brock]]'s early attitude towards [[Peter Parker (Earth-616)|Spider-Man]] - became hellbent on getting revenge against Venom, who he blamed for ruining his life and leaving him dependent on his [[Virus Armor|suit of armor]] for survival. While Eddie and the Venom symbiote were the primary targets of his rage, Gargan was not above endangering civilians or threatening Venom's son Dylan in order to antagonize Eddie; and when about to be executed by [[Captain America (Symbiote) (Earth-1051)|Captain America]] quipped that he had always wanted to kill an Avenger.{{r|Free Comic Book Day Vol 2020 Spider-Man/Venom}}{{r|Venom Vol 4 27}}
+
+| Powers                  = '''Scorpion/Human Hybrid Physiology:''' As the Scorpion, MacDonald Gargan possesses all the powers of a scorpion. When he acquired the Venom symbiote, he retained some of his scorpion-like powers, and was granted the additional powers of the [[Venom (Symbiote) (Earth-616)|Venom symbiote]], granting him several abilities similar to [[Peter Parker (Earth-616)|Spider-Man]]. Due to the removal of the symbiote and destruction of his upgraded suit, Gargan now has been reduced to his original Scorpion power. His powers are:
+* '''Superhuman Strength:''' Mac Gargan possesses extreme superhuman strength. He is currently able to lift approximately 15 tons, and as such, can easily overpower humans, lift extremely heavy objects, uproot trees and use them as weapons. On several occasions, he has proven capable of even overpowering Spider-Man himself.
+* '''Superhuman Speed:''' Gargan can run and exercise at superhuman speeds. His overall body equilibrium is also heightened, although he isn't nearly as fast as speedsters. He's been shown to outrun vehicles.
+* '''Superhuman Stamina:''' Gargan's musculature generates considerably less fatigue toxins during physical activity than an ordinary human's. He can exert himself at peak capacity for several hours before fatigue begins to impair him.
+* '''Superhuman Durability:''' Gargan has superhuman durability. The Scorpion suit was capable of shielding Gargan from bullets from small-arms weapons firing conventional ammunition. He's also able to survive heavy impacts and blunt force trauma without sustaining injury.
+* '''Superhuman Agility:''' Gargan's agility, balance, and bodily coordination are enhanced to levels that are beyond the natural physical limits of even the finest human athlete.
+* '''Superhuman Reflexes:''' Gargan's reflexes are similarly enhanced and are superior to those of the finest human athlete.
+* '''Wall Crawling:''' Though he typically punches holes in walls to use as hand-and-footholds, Gargan is capable of adhering to solid surfaces much like Spider-Man.
+
+{{Navigation
+| title = Former Powers
+| body  = '''Black Symbiotic Costume:''' The [[Venom (Symbiote) (Earth-616)|Venom symbiote]] which grafted itself to the nervous system of Mac Gargan somehow absorbed the powers of Spider-Man during its brief symbiotic relationship with him, effectively transferring him Spider-Man's powers.
+* '''Superhuman Strength:''' His strength enabled him to lift about 70 tons in his regular size. This was not his true limit as the symbiote's strength increases with his variable muscle mass. 
+* '''Superhuman Stamina:''' He was capable of exerting himself at peak capacity for about 24 hours.
+* '''Superhuman Durability:''' When distributed at a typical thickness over Gargan's body, the symbiote was capable of absorbing bullets from small-arm weapons firing conventional ammunition. Gargan was also capable of surviving in harmful areas for long periods, such as underwater or in toxic gases, the symbiote filtering breathable air for him.
+* '''Accelerated Healing Factor:''' Additionally, the symbiote is capable of healing injuries in the host at a faster rate than normal human healing allows. The symbiote is even capable of healing injuries and illness that current human medical care cannot such as cancer.
+* '''Wall-Crawling:''' The alien costume replicates Spider-Man’s ability to cling to walls by controlling the flux of inter-atomic attraction between molecular boundary layers. Gargan could originally climb walls as the Scorpion, but achieved this by either punching handholds into the sides of walls or using his pincer-like fingers.
+* '''Webbing Generation:''' Gargan could shoot strands of the alien’s substance in the form of "webbing" at high pressure up to a distance of 70 feet. The alien’s substance seems to be composed of tough, flexible fibers of organic polymers, which regenerate swiftly after "shedding". The strands have extraordinary adhesive properties, which diminish rapidly once they abandon their living source. After about three hours, with no source to nourish them, the strands dry up like dead skin and dissolve into a powder. The strands possess a tensile strength of 125 pounds per square millimetre of cross section. Gargan was able to project this webbing through both his wrists (like the original Venom) and/or his symbiotic tail.
+* '''Genetic Memory:''' The symbiote possesses some limited psychic ability, making it capable of obtaining information from its hosts and even other people and symbiotes simply by touch. It can, however, be forced to forget information if the symbiote is inflicted with heavy trauma.
+* '''ESP:''' Gargan was also granted an extrasensory ability similar to Spider-Man’s spider-sense. This response was not as complicated as Spider-Man’s inherent sense since the alien costume can detect danger from every direction and conduct Gargan in plenty of time. It's a lot more efficient than Spider-Man’s spider-sense because it takes less time to sense the danger, and Gargan's reflexes are faster than Spider-Man's, because they are enhanced by the alien costume for instance Venom can dodge a gunshot or a barrage of bullets.{{Citation}}
+* '''Immunity to Spider-Man's Spider Sense:''' Due to Spider-Man having been a host to the symbiote, Gargan was able to bypass Spider-Man's spider-sense. As such, he could attack Spider-Man without alerting him.
+* '''Constituent-Matter Manipulation:''' Venom could use the living abyss comprising the symbiote in the form of constituent black matter or he could generate tentacle-like appendages from various parts of his body, which he often used either in combat situations or to restrain someone.
+** '''Fangs and Claws:''' As Venom, Gargan manifested sharp claws on his fingers and occasionally toes, and a large mouth lined with sharp fangs - which he used not only for intimidation but to devour his foes.
+** '''Symbiote-Generated Tail:''' The symbiote was able to replicate the Scorpion's tail. This new tail possessed all the powers of his original tail, as well as the ability to project organic webbing and deadly venom.{{Citation}}
+** * '''Stretching and deforming''' 
+* '''Camouflage Capabilities:''' The symbiote is capable of mimicking the appearance of any form of clothing, camouflaging with its surroundings, and even mimicking other people.
+
+'''[[Scorpion (Symbiote) (Earth-616)|First Scorpion Symbiote]]:''' When [[Lee Price (Earth-616)|Maniac]] infected Gargan with a portion of [[Mania (Symbiote) (Earth-616)|his symbiote]]'s biomass, the remaining traces of the [[Venom (Symbiote) (Earth-616)|Venom symbiote]] inside his body amalgamated with it and transformed him into a monstrous version of the Scorpion resembling his "[[Amazing Spider-Man Vol 1 573|Ven-orpion]]" form.{{r|Amazing Spider-Man Vol 1 792}} Despite Gargan's pleas to be allowed to keep it, this new symbiote was destroyed by [[Eugene Thompson (Earth-616)|Agent Anti-Venom]].
+* '''Superhuman Strength'''
+* '''Superhuman Stamina'''
+* '''Superhuman Durability'''
+* '''Accelerated Healing Factor'''
+* '''Hive-Mind Connection'''
+* '''Constituent-Matter Manipulation''' 
+** '''Fangs and Claws'''
+** '''Symbiote-Generated Tail'''
+
+'''[[Scorpion (Symbiote) (Earth-1051)|Second Scorpion Symbiote]]:''' After being captured by the [[Avengers (Earth-1051)|Avengers]] of [[Earth-1051|a world that had been taken over by symbiotes]], Gargan was forcibly bonded to a symbiote.{{r|Venom Vol 4 28}}
+* '''Superhuman Strength'''
+* '''Superhuman Stamina'''
+* '''Superhuman Durability'''
+* '''Accelerated Healing Factor'''
+* '''Hive-Mind Connection'''
+* '''Constituent-Matter Manipulation''' 
+** '''Fangs and Mandibles'''
+** '''Symbiote-Generated Pincers'''
+** '''Symbiote-Generated Tail'''
+}}
+| Abilities               = '''Investigative Prowess:''' Before he became the Scorpion or the third Venom, MacDonald Gargan was a detective with some investigative skills. 
+
+'''Formidable Opponent:''' Gargan's powers make him a formidable combatant, even though he has had little formal training.
+| Strength                = As Scorpion, Gargan possesses class 25 strength, sufficient to lift 15 tons. As Venom he possessed class 70 strength, strong enough to lift 70 tons at his regular size. His strength was however variable depending on his size and amount of muscle mass.
+| Weaknesses              = '''Genetic Defects:''' Due to his genetic mutation being unstable, without his Scorpion suit or the Venom symbiote to stabilize it, Gargan would die.
+
+'''Paralysis:''' After having his spine damaged by [[Norman Osborn (Earth-616)|Carnage]], Gargan was left unable to feel or move his legs.{{r|Absolute Carnage Vol 1 2}}
+
+{{Navigation 
+| title = Former Weaknesses
+| body  = '''Sonics and Heat:''' Despite the great resistance to physical injury afforded him by the Venom symbiote, the symbiote itself is extremely vulnerable to heat and sonics and can be affected by attacks based on those two weaknesses. He no longer possesses this weakness due to the removal of the Venom symbiote.
+
+'''Missing Lower Jaw:''' [[Otto Octavius (Earth-616)|Otto Octavius]] (who at the time was impersonating Spider-Man) punched Mac so hard, it broke his jaw clean off of his head, apparently killing him. Consequently, Mac could no longer speak properly or eat without a special apparatus. Mac eventually had his jaw reattached,{{Citation}} leaving him with scars around his mouth that have since healed.{{Citation}}
+}}
+
+| Equipment               = '''[[Scorpion's Suit]]:''' As the Scorpion, Mac Gargan wears a full-body battle suit, which has undergone several major revisions in his long criminal career. These were always courtesy of third party suppliers - since Gargan himself possesses no aptitude for engineering. [[Farley Stillwell (Earth-616)|Dr. Farley Stillwell]] created his original suit, with funding provided by [[John Jonah Jameson (Earth-616)|J. Jonah Jameson]]. Later versions were provided by [[Justin Hammer (Earth-616)|Justin Hammer]], and other large corporations and governments seeking to maximize the lethality of their hired assassin. The most recent design consisted of an inner woven Kevlar layer, covered with a thick layer of insulation/padding, and topped with a high-tech composite armor plating, making him impervious to small firearms.
+* '''Electro-Mechanical Tail:''' The Scorpion's battle suit was originally equipped with a superhumanly powerful tail that he could whip at speeds up to over 90 miles per hour. The tail varied in length with each design - from an original 4' version, up to 20' in other implementations. His tail before gaining the Venom symbiote was approximately 10' in length. His tail was powered by a self-contained power pack mounted on the back of his battle suit. The tail was connected via a cybernetic link to the fine muscles of his spinal column when he dons his suit, enabling him to direct the tail by involuntary nerve impulses and activated by his mental commands. Internally, the tail possessed a blunt tip and consisted of a series of separated circular plates connected by a matrix of steel cables. Solenoids contract the cables and manipulate the tail, allowing it to whip at speeds of over 150 feet per second. The tail was also armored, and subsequent versions were tipped with a spike, making it deadly in combat. He had mastered the use of his tail to the point that he could use it as both a bludgeon, projectile launcher, or as a fifth limb (he had also upgraded its flexibility several times, making it much more efficient in combat). By coiling his tail behind him and using it as a spring, the Scorpion could propel himself over thirty feet into the air. Over the years, he had modified and enhanced it countless times, acquiring upgrades from the likes of Justin Hammer and the [[Phineas Mason (Earth-616)|Tinkerer]], who equipped it with a poisonous barb with venom installed or a form of hypnogen, electrical blasts (he could also channel electricity through it to shock anyone who tried to grab him by the tail or short-circuit electrical equipment), laser blasts, acid blasts, and mace gas.Gargan destroyed his upgraded suit when the Venom symbiote pretended to try to rebond to him,{{r|Venom Vol 1 150}} and subsequently returned to his original costume.{{r|Venom Vol 1 164}}
+* '''Transparent Membrane:''' When the Scorpion was employed by Justin Hammer, Mac Gargan's eye holes were covered by a transparent membrane rigged to dissolve [[Peter Parker (Earth-616)|Spider-Man]]'s webbing, should Spider-Man try to blind him as he did in past battles. It is unclear if his later costumes retained this.
+* '''Pincers:''' The Scorpion's gloves on his costume granted him miniature pincers on each hand that enabled him to literally rip through Spider-Man's webbing.
+
+{{Navigation
+| title = Former Equipment
+| body  = '''Scorpion Armor Mark II''': At some point, Gargan received an upgraded and heavily-armored blue-and-green Scorpion suit, with a harpoon-like stinger on its tail.{{r|Amazing Spider-Man Vol 2 1}} By this point Gargan's mental state worsened to the extent he believed himself to be trapped in his suit, though this delusion was disproved by Spider-Man.{{Citation}}
+
+'''Scorpion Armor Mark III''': An upgraded green and gold suit of armor provided to Gargan by [[Roxxon Energy Corporation (Earth-616)|Roxxon]] when he was employed by them as a PMC, constructed using Latverian technology supplied by [[Lucia von Bardas (Earth-616)|Lucia von Bardas]].{{Citation}} This suit was hijacked by von Bardas, and taken from Gargan following his arrest.{{Citation}}
+
+'''Scorpion Armor Mark IV''': An upgraded Scorpion suit built by the [[Norman Osborn (Earth-616)|Green Goblin]] to mark Gargan's membership in the Sinister Twelve. While Gargan chose to bond to the Venom symbiote instead - outraging Osborn;{{r|Marvel Knights: Spider-Man Vol 1 10}} Osborn later modified the armor to be worn over the Venom symbiote after it was badly injured by [[Anti-Venom (Symbiote) (Earth-616)|Anti-Venom]].{{r|Amazing Spider-Man Vol 1 572}} The suit was destroyed by the Venom symbiote to prevent Gargan from killing Eddie Brock.{{r|Amazing Spider-Man Vol 1 573}}
+
+'''Scorpion Armor Mark V''': After being recruited by Alistaire Smythe, Gargan was provided with a suit of powered armor sporting pincers over its hands,{{r|Amazing Spider-Man Vol 1 654}} which went through a number of iterations - such as sporting a full-face mask and visor.{{r|Superior Spider-Man Vol 1 12}} Gargan self-destructed the armor in a panic when the Venom symbiote pretended to rebond to him,{{r|Venom Vol 1 150}} and subsequently returned to his original costume.{{r|Venom Vol 1 164}}
+* '''Scorpion Sense:''' After Alistaire Smythe provided Gargan with a new Scorpion Suit, he also explained it was designed to tap into his new Scorpion Sense, which allows him to sense any danger similar to Spider-Man.
+* '''Pincers:''' Gargan's upgraded armor covered his lower arms with powerful pincer-shaped gauntlets.
+* '''Anti-Symbiote Weaponry:''' Upon being informed that [[Lee Price (Earth-616)|Lee Price]] had the Venom symbiote, Gargan augmented his armor's pincers and tail with a flamethrower and sonic cannons - intending to either kill the symbiote or rebond to it.{{r|Venom Vol 3 3}}{{r|Venom Vol 1 150}}
+
+'''Scorpion Armor Mark VI''': A sleek suit of upgraded Scorpion armor briefly worn by Gargan during his time employed by [[Alchemax (Earth-616)|Alchemax]].{{r|Spider-Man 2099 Vol 2 3}} The suit presumably severely damaged or destroyed by a squadron of [[Spider-Slayer Mark XXI]]s,{{r|Spider-Man 2099 Vol 2 4}} as Gargan subsequently returned to wearing his Mark V suit.{{r|Venom Vol 3 3}}
+
+'''[[Virus Armor]]:''' As Virus, Gargan jury-rigged a suit of [[War Machine Armor]] with a wide array of anti-symbiote weaponry.{{r|Free Comic Book Day Vol 2020 Spider-Man/Venom}} The suit was badly damaged during a fight with Venom, and was further destroyed by [[Dylan Brock (Earth-1051)|Codex]] in a fit of rage.{{r|Venom Vol 4 28}} The suit was repaired and reclaimed by Gargan, who tried to use it to kill Venom again, but it was destroyed by [[Reed Richards (Earth-1051)|Mister Fantastic]] using a design flaw in the War Machine armor.{{r|Venom Vol 4 30}}
+}}
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * While part of [[H.A.M.M.E.R. (Earth-616)|H.A.M.M.E.R.]], Gargan was granted Security Clearance Level 5.{{r|Siege #1}}
+* Gargan was said by [[Kendra Louise Price (Earth-616)|Caprice]] to have had very weak mental defenses.{{r|Thunderbolts #117}}
+| Trivia                  = * Gargan first appeared as himself in {{cl|Amazing Spider-Man Vol 1 19}}, as Scorpion in {{cl|Amazing Spider-Man Vol 1 20}}, as Venom in {{cl|Marvel Knights: Spider-Man Vol 1 10}}, and as Spider-Man in {{cl|Dark Avengers Vol 1 1}}. Gargan resumed his Scorpion identity in {{cl|Amazing Spider-Man Vol 1 651}}.
+* This character appears in [[TSR, Inc.]]'s RPG adventure ''[[The Weird, Weird West]]''. In the plot, he had been hired by [[Victor von Doom (Earth-616)|Doctor Doom]] in 1968 to travel back in time to 1871 [[Dodge City]]. Alongside with other super-villains (including [[William Baker (Earth-616)|Sandman]], [[Nathan Garrett (Earth-616)|Black Knight]] and [[Quentin Beck (Earth-616)|Mysterio]]), he was to provide support to Doom while he analyzed a time anomaly and tried to obtain profit from it. Doom took his lackeys (no name was provided for the team) to a [[Krozzar]] camp to deal with the Krozzars. Doom eventually found the origin of the anomaly, a [[chronovore]], but he and his lackeys were also found by time-traveling heroes from 1989, and defeated.
+| Marvel                  = Venom_(Mac_Gargan)
+| Wikipedia               = Mac_Gargan
+| Links                   = * [https://spiderfan.org/article/characters/scorpion.html Scorpion's Profile on Spiderfan.org]
+* [https://spiderfan.org/article/characters/venom3.html Venom III's Profile on Spiderfan.org]
+}}
+[[Category:Brown Hair]][[Category:Infobox Eyes Update Needed]]
+[[Category:Armor Users]]
+[[Category:Symbiotes-possessed]]
+[[Category:H.A.M.M.E.R. Security Clearance Level 5]]
+[[Category:Human/Scorpion Hybrids]]
+[[Category:Alchemax Experiment]]
+[[Category:Cannibals]]
+[[Category:Genetically Engineered]]
+[[Category:Private Investigators]]
+[[Category:Superhuman Stamina]]
+[[Category:Superhuman Agility]]
+[[Category:Superhuman Reflexes]]
+[[Category:Insanity]]
+[[Category:Superhuman Durability]]
+[[Category:Fighting Ability - Some training]]
+[[Category:Organic Webbing]]
+[[Category:Precogs]]
+[[Category:Superhuman (75-100 ton) Strength]]
+[[Category:Wallcrawling]]
+[[Category:Regeneration]]
+[[Category:Stretching]]
+[[Category:Leaping]]
+[[Category:Camouflage]]
+[[Category:Poisonous]]
+[[Category:Fire Weakness]]
+[[Category:Sonic Weakness]]
+[[Category:Sinister Twelve (Earth-616)/Members]]
+[[Category:Athletic Skills]]
+[[Category:Paralyzed Characters]]
+[[Category:Ravencroft Institute Faculty]]
+[[Category:Strength Class 15]]
+[[Category:Interdimensional Travelers]]
+[[Category:Scarred]]
+[[Category:Fangs]][[Category:Infobox UnusualFeatures Update Needed]]
+[[Category:Claws]][[Category:Infobox UnusualFeatures Update Needed]]
+[[Category:Prehensile Tongue]]
+[[Category:Adventurers]]
+[[Category:Government Agents]]
+[[Category:Criminals]]
+[[Category:Assassins]]
+[[Category:Mercenaries]]
+[[Category:Detectives]]

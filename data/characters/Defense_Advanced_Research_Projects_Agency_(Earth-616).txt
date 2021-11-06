@@ -1,0 +1,36 @@
+{{Marvel Database:Organization Template
+| Title                   = [[DARPA]]
+| Image                   = 
+| Name                    = Defense Advanced Research Projects Agency
+| Aliases                 = DARPA, ARPA
+
+| Status                  = Active
+| Identity                = Public
+| Reality                 = Earth-616
+| BaseOfOperations        = [[Arlington County|Arlington]], [[Virginia (State)|Virginia]], [[United States of America|USA]]
+
+| OrganizationLeaders     = 
+| CurrentMembers          = [[Clayton Wilson (Earth-616)|Carl Walker]]
+| FormerMembers           = [[Raven Darkholme (Earth-616)|Deputy Director Raven Darkholme]];<br>[[Forge (Earth-616)|Forge]]
+| Allies                  = 
+| Enemies                 = 
+
+| Origin                  = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = 
+| First                   = Uncanny X-Men #158
+| First2                  = (Mentioned)
+| History                 = '''DARPA''' is an agency of the [[United States Department of Defense (Earth-616)|United States Department of Defense]] responsible for the development of new technology for use by the military.{{r|Uncanny X-Men #158}}
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+* [[:Category:Defense Advanced Research Projects Agency members|Members of the DARPA]]
+* http://en.wikipedia.org/wiki/DARPA
+}}
+[[Category:1982 Team Debuts]]
+[[Category:Historical Organizations]]
+[[Category:Government Organizations]]

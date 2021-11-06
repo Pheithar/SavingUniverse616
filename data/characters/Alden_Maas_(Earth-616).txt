@@ -1,0 +1,54 @@
+{{Marvel Database:Character Template
+| Image                   = Alden_Maas_(Earth-616)_from_Fantastic_Four_Vol_1_264.jpg
+| Name                    = Alden Maas
+| CurrentAlias            = Messiah
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 5' 10"
+| Weight                  = 160 lbs
+| Eyes                    = 
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Public
+| Citizenship             = United States
+| Occupation              = inventor, Conqueror, Wonderworld creator
+| Education               = 
+| BaseOfOperations        = [[California (State)|California]]
+
+| Creators                = John Byrne
+| First                   = Fantastic Four #263
+| Death                   = Fantastic Four #264
+
+| History                 = Alden Maas is a self-made millionaire who created a entire franchise of beloved cartoon characters and formed his own theme park, Wonderworld in California.{{r|Fantastic Four #263}} With his health failing due to a degenerative disease afflicting his nervous system,{{r|Fantastic Four #264}} Maas became a recluse moving out to a remote star-shaped island off the coast of California, where he remained in seclusion for over fifteen years.{{r|Fantastic Four #263}} He sustained his life by placing himself in suspended animation at times.{{r|Fantastic Four #264}} Alden believed that continental drift theory was incorrect and the world was in fact expanding like a balloon around the core. In order to save what he thought was a plight that would end the world, he began developing Project: Worldcore. The purpose of Project Worldcore was to reignite the core of the Earth and cause the Earth to expand, helping provide more space for an ever growing human population.
+
+To this end Maas sought to capture the [[Fantastic Four (Earth-616)|Fantastic Four]]'s [[Jonathan Storm (Earth-616)|Human Torch]] in order to exploit his powers. In order to draw Johnny out, Maas invited him to a celebrity racecar competition. When the Torch took the bait, Maas arranged for Johnny to be captured mid-race and make it appear that he died when his Formula-1 racer ended up a flaming wreck. What Alden did not suspect was that the Torch's partner the [[Benjamin Grimm (Earth-616)|Thing]] was on the scene, and knowing that the Torch could survive a flaming car wreck due to his powers, did not believe it when paramedics produced a charred corpse from the wreck and began investigating. When the Thing ended up on Maas' island, he was invited in with open arms and shown the goals of Project: Worldcore. When the Thing tried to stop Maas, as his mad scheme could kill the Torch, he instead fell deep into the Earth and landed in [[Subterranea]], the home of the Fantastic Four's oldest enemy the [[Harvey Elder (Earth-616)|Mole Man]].{{r|Fantastic Four #263}}
+
+The Thing managed to convince the Mole Man of the danger posed by Maas and the pair forced their way to the surface where they freed the Human Torch and smashed the entire Project: Worldcore operation. With his dreams shattered, Alden Maas succumbed to his illness and died, ending his threat.{{r|Fantastic Four #264}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = Alden Maas suffered from a degenerative disorder that affected his entire nervous system. This incurable disease was slowing robbing Maas of his mobility and eventually robbed him of his life. For a time Maas slowed the progress of this disease by going into prolonged periods of suspended animation.
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = *Alden Maas is an anagram of [[Neal Adams]]. [[John Byrne]] also based some of the character on former Marvel artist Neal Adams. The bizarre geological theory that Alden Maas believed in was actually developed by Adams, who has apparently made publicizing it sort of a "pet project" of his for at least twenty years. He plans to publish a graphic novel about it eventually, and details the whole thing at his official website. Byrne is a huge admirer of Adams, but he obviously thought the geological theory was crazy and decided to poke a little fun at it in the Fantastic Four story. 
+*Alden Maas shares similarities to Walt Disney, who was rumored to have been frozen into suspended animation by his company until a cure could be found to save him.
+| Trivia                  = 
+| Links                   = http://www.marvunapp.com/Appendix/maasalden.htm
+}}
+[[Category:Millionaires]]

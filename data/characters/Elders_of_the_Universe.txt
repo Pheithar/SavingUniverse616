@@ -1,0 +1,14 @@
+{{DisambiguationFull
+|main         = Elders of the Universe (Earth-616)
+|main_name    = Elders of the Universe
+|main_title   = 
+|main_image   = Elders of the Universe (Earth-616) from All-New Guardians of the Galaxy Vol 1 10 001.png
+|logo         = 
+|noimage      = No Image Team.jpg
+|description  = 
+
+|exclude1     = Elders of the Universe (Earth-8096)
+
+|includeComic1     = Elders of the Universe (Earth-8096); Elders of the Universe (Earth-8096) from Avengers Earth's Mightiest Heroes Vol 3 3 0001.jpg
+|includeComic2     = Elders of the Universe (Earth-Unknown); Elders of the Universe (Earth-Unknown) from Silver Surfer Vol 1 6.jpg
+}}

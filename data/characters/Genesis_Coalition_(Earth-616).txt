@@ -1,0 +1,36 @@
+{{Marvel Database:Team Template
+| Image                   = Genesis Coalition (Earth-616) from Silver Sable and the Wild Pack Vol 1 8 0001.jpg
+| Name                    = Genesis Coalition
+| Aliases                 = 
+
+| Status                  = Defunct
+| Identity                = Secret
+
+| Reality                 = Earth-616
+| BaseOfOperations        = Somewhere in [[South America]]
+
+| Leaders                 = Debated
+| CurrentMembers          = None
+| FormerMembers           = Doctor [[Franz Lubischt (Earth-616)|Franz Lubischt]]; [[Dmitri Petrovich (Earth-616)|Dmitri Petrovich]]; [[Fritz Sablinova (Earth-616)|Fritz Sablinova]]; [[Ivan Trevkov (Earth-616)|Ivan Trevkov]]; [[Cyberwarriors]]; Petrovich's minions "Laurel and Hardy"
+| Allies                  = 
+| Enemies                 = [[Hydra (Earth-616)|Hydra]]; [[Silvija Sablinova (Earth-616)|Silver Sable]] and her [[Wild Pack (Earth-616)|Wild Pack]]
+
+| Origin                  = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Greg Wright; Steven Carr
+| First                   = Silver Sable and the Wild Pack Vol 1 6
+| Last                    = Silver Sable and the Wild Pack Vol 1 27
+
+| HistoryText             = Originally a branch of the terrorist organization [[Hydra (Earth-616)|Hydra]], they seceded and created their own organization, headquartered in a [[South America]]n rainforest. They were opposed by [[Silvija Sablinova (Earth-616)|Silver Sable]]'s [[Wild Pack (Earth-616)|Wild Pack]] and by [[Wolfgang von Strucker (Earth-616)|Baron Strucker]]'s Hydra.{{r|Silver Sable and the Wild Pack Vol 1 6}}
+
+| Equipment               = 
+| Transportation          = [[Skycycle]]
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Terrorist Organizations]]
+[[Category:Hydra Projects]]

@@ -1,0 +1,48 @@
+{{Marvel Database:Character Template
+| Image                   = Behemoth_(Atlantean_Beast)_(Earth-616)_from_Tales_to_Astonish_Vol_1_79_0001.jpg
+| Name                    = 
+| CurrentAlias            = Behemoth
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = 
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Black
+| Hair                    = Red
+| UnusualSkinColor        = Red
+| UnusualFeatures         = Wbbed hands and ears, webbed structures on backs of arms, scaled skin and clawed feet.
+
+| Origin                  = [[Robots|Robot]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = 
+| Citizenship             = Atlantean
+| Occupation              = [[Atlantis]]' guardian
+| Education               = 
+| BaseOfOperations        = [[Atlantis]]
+
+| Creators                = Stan Lee; Adam Austin; Bill Everett
+| First                   = Tales to Astonish #77
+
+| History                 = The Behemoth was created by the best scientists of [[Atlantis]], in order to protect the city against possible attacks. 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * [http://www.marvunapp.com/Appendix/behemothatlantis.htm Behemoth at the Marvel Appendix]
+}}
+[[Category:Giant Monsters]]

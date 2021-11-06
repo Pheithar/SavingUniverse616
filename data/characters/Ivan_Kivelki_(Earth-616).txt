@@ -1,0 +1,50 @@
+{{Marvel Database:Character Template
+| Image                   = Ivan Kivelki (Earth-616) from X-Men Unlimited Vol 1 28 0001.jpg
+| Name                    = [[Ivan Kivelki|Dr. Ivan Kivelki]]{{r|X-Men Unlimited #28}}
+| CurrentAlias            = [[Black Death]]
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = None
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo superior|Mutant]], further [[Glossary:Mutate|mutated]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = Russian
+| Occupation              = Scientist
+| Education               = 
+| BaseOfOperations        = Formerly Rebirth Island, Vozrozhdeniya, [[Russia]]
+
+| Creators                = Joe Pruett; Brett Booth; Ron Lim
+| First                   = X-Men Unlimited Vol 1 28 
+
+| History                 = [[File:Ivan Kivelki (Earth-616) from X-Men Unlimited Vol 1 28 0002.jpg|thumb|left|150px]]Ivan came in to conflict with the group known as the [[X-Men (Earth-616)|X-Men]]. 
+===M-DAY===
+It is presumed he was depowered after the events of [[M-Day]], however, his subsequent fate has not been recorded not confirmed.
+
+| Powers                  = '''Power of Suggestion:''' Ivan was able to influence the actions of others with a low-level telepathic ability. 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * [http://www.marvunapp.com/Appendix/bladeaxm.htm Black Death on Appendix]
+}}
+[[Category:Telepaths]]
+[[Category:Armor Users]]

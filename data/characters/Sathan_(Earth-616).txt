@@ -1,0 +1,50 @@
+{{Marvel Database:Character Template
+| Image                   = Sathan (Earth-616) Daredevil Annual Vol 1 7.jpg
+| Name                    = Unknown
+| CurrentAlias            = [[Sathan]]
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Yellow
+| Hair                    = White
+| UnusualFeatures         = Feline form, covered in fur, talons, fangs, tail
+
+| Origin                  = [[Homo sapiens|Human]] [[Mutates|mutate]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Hell's Kitchen]]
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Assassin
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Gregory Wright; Ron Garney
+| First                   = Daredevil Annual Vol 1 7
+| Death                   = Daredevil Annual Vol 1 7
+
+| History                 = 
+
+| Powers                  = Cat-like features, senses, claws, and leaping ability. Lifeforce vampire able to siphon the living, killing them and rendering them her zombie puppets.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

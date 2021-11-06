@@ -1,0 +1,108 @@
+{{Marvel Database:Character Template
+| Title                   = [[Phil Coulson]]
+| Image                   = Phillip Coulson (Earth-616) from Avengers Vol 8 11 002.jpg
+| Name                    = [[Phil Coulson|Phillip "Phil" Coulson]]
+| NameRef                 = {{r|Avengers Vol 8 21}}
+| CurrentAlias            = 
+| Aliases                 = Cheese,{{r|Battle Scars Vol 1 1}} Bob Pants,{{r|S.H.I.E.L.D. Vol 3 11}} ROFLCopter{{r|All-New, All-Different Avengers Annual Vol 1 1}}
+
+| Affiliation             = {{m|Power Elite}}; formerly {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}, {{m|Secret Avengers (S.H.I.E.L.D.) (Earth-616)|Secret Avengers}}, {{m|Avengers (Doctor Doom's) (Earth-616)|Doom's Avengers}}, {{m|United States Army (Earth-616)|U.S. Army}} {{m|United States Army Special Forces (Earth-616)|Rangers}}
+| Relatives               = 
+| MaritalStatus           = Single 
+
+| Gender                  = Male
+| Height                  = 6'0"
+| Weight                  = 203 lbs
+| Eyes                    = Brown
+| Hair                    = Brown
+| CharRef                 = {{cl|Marvel Avengers: The Ultimate Character Guide Vol 1 2}}
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Chicago (Illinois)|Chicago]], [[Illinois (State)|Illinois]]{{r|Battle Scars Vol 1 3}}
+| PlaceOfDeath            = 
+| KilledBy                = Wade Wilson (Earth-616)
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = former Special Ops Supreme Commander for S.H.I.E.L.D., Field Director
+| Education               = S.H.I.E.L.D. Training, US Army Ranger School Graduate
+| BaseOfOperations        = Formerly [[S.H.I.E.L.D. Helicarrier]]
+
+| Creators                = Christopher Yost; Cullen Bunn; Matt Fraction; Scot Eaton
+| First                   = Battle Scars Vol 1 1
+| First2                  = (As "Cheese")<br>{{sld|Battle Scars #6}}(Identity revealed)
+| Death                   = 
+
+| Quotation               = It's not about the size of the artillery. It's about choosing the perfect bullets. [[Ororo Munroe (Earth-616)|Storm]], [[Anthony  Stark (Earth-616)|Iron Man]], [[Reed Richards (Earth-616)|Reed Richards]]... they all know their '''own''' teams inside and out, which is critical--but '''limiting'''. I got this job because I'm good at '''mixing''' and '''matching'''. At studying everyone's strengths and weaknesses and thinking outside the boxes labeled "[[Avengers (Earth-616)|Avengers]]" and "[[Masters of Evil (Earth-616)|Masters of Evil]]". Remind me to tell [[Melinda May (Earth-616)|you]] sometime how [[Pietro Maximoff (Earth-616)|Quicksilver]] could kill the [[Bruce Banner (Earth-616)|Hulk]] if he wanted to.
+| Speaker                 = [[Phillip Coulson (Earth-616)|Phil Coulson]]
+| QuoteSource             = S.H.I.E.L.D. Vol 3 1
+
+| History                 = 
+===Battle Scars===
+Since he was a child, Phil Coulson was obsessed with superheroes. As he grew up, he would constantly study and keep track of them, having created his own database of super humans for fun.{{r|S.H.I.E.L.D. Vol 3 1}} As an adult he joined the [[United States Army Special Forces (Earth-616)|United States Army Rangers]], where he befriended [[Nicholas Fury, Jr. (Earth-616)|Marcus Johnson]] and earned the callsign "Cheese." During the [[Fear Itself|War of the Serpent]], Cheese and Johnson were stationed in [[Afghanistan]], and fought against the fear-induced riots caused by the Serpent's global influence.{{r|Battle Scars Vol 1 1}}
+
+Unbeknownst to Marcus, he was the secret son of legendary spy [[Nicholas Fury (Earth-616)|Nick Fury]].{{r|Battle Scars Vol 1 5}} When the secret was leaked, enemies of Fury killed Marcus' mother [[Nia Jones (Earth-616)|Nia]] using the worldwide riots as a cover to draw him out.{{r|Fear Itself Vol 1 7}} Johnson was notified of his mother's death when the War of the Serpent ended, and he came back home for her funeral.{{r|Battle Scars Vol 1 1}} Coulson returned to America around the same time on a leave of absence. When Marcus investigated Nia's murder, he called Cheese for help in tracking down their killers.{{r|Battle Scars Vol 1 2}} In the resulting adventure, Coulson joined forces with the [[Avengers (Earth-616)|Avengers]] and [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] to rescue Marcus when he and Fury were captured by the would-be world conqueror [[Viktor Uvarov (Earth-616)|Orion]]. In the aftermath, both Coulson and Johnson joined S.H.I.E.L.D.. In addition to having discovered the truth of his parentage, Marcus also learned that his legal name was Nick Fury, Jr. and decided to adopt that name.{{r|Battle Scars Vol 1 6}}
+
+Coulson and Fury Jr. later joined S.H.I.E.L.D.'s [[Secret Avengers (S.H.I.E.L.D.) (Earth-616)|Secret Avengers]] black-ops team, and was responsible for the recruitment of its first members, [[Natalia Romanova (Earth-616)|Black Widow]] and [[Clinton Barton (Earth-616)|Hawkeye]].{{r|Secret Avengers Vol 2 1}} Following the dissolution of the Secret Avengers, Coulson became S.H.I.E.L.D.'s supreme commander for Special Ops.{{r|S.H.I.E.L.D. Vol 3 1}} In one of the team's first big missions, he faced off against [[Dormammu (Earth-616)|Dormammu]] to prevent humankind from turning into [[Mindless Ones]]. He subsequently freed [[Stephen Strange (Earth-616)|Doctor Strange]] from Dormammu's imprisonment, after Strange had helped Coulson put together the pieces in order to find out about Dormammu's secret mission.{{r|S.H.I.E.L.D. Vol 3 6}}
+
+[[File:Levitating Over Land Automobile from Deadpool Vol 5 22 001.jpg|thumb|left|Coulson with Lola]]
+===Axiom Protocols===
+Coulson reached out to his former fiancée [[Lola Daniels (Earth-616)|Lola Daniels]] after discovering she was attached to a project stolen from the [[Pentagon]] by a mysterious person wearing a counterfeit [[Iron Man Armor]]. The project turned out to be a database named the [[Quantum Drive]] which contained highly sensitive plans on how to take out every superhero on Earth,{{r|Agents of S.H.I.E.L.D. Vol 1 1}} created from Coulson's knowledge of superheroes, retrieved directly from his mind years ago by Lola using her secret telepathic powers.
+
+In order to atone for her past actions, and because the Department of Defense didn't want it in the wrong hands either, Lola helped Coulson learn the time and date when an auction for the Quantum Drive was going to be held.{{r|Agents of S.H.I.E.L.D. Vol 1 2}} Once his agents investigated the place of the auction, [[Barbuda]], Coulson infiltrated the island posing as [[James Howlett (Earth-616)|Wolverine]].{{r|Agents of S.H.I.E.L.D. Vol 1 3}} While the D.O.D.'s operative [[Jonathan Walker (Earth-616)|John Walker]] won the auction, Coulson stole the drive from him and his agents got their hands on it.{{r|Agents of S.H.I.E.L.D. Vol 1 4}} However, Coulson was immediately attacked and captured by the counterfeit Iron Man, who turned out to be Coulson's former partner [[Grant Ward (Earth-616)|Grant Ward]], and now an agent of [[Hydra (Earth-616)|Hydra]]. Ward additionally kidnapped Lola, and forced her to extract once again the information used to make the Axiom Protocols so they could be replicated.{{r|Agents of S.H.I.E.L.D. Vol 1 5}}
+
+While Hydra launched several attacks on superheroes using more knock-off Iron Man suits funded with the profit from the auction, Coulson escaped imprisonment and attempted to stop Ward and his master, [[Tomi Shishido (Earth-616)|Gorgon]]. Coulson and Lola were soon rescued by Coulson's agents and several superheroes. Ward and Gorgon were eventually defeated, but Lola was killed in the middle of the battle. This incident involving the Axiom Protocols also damaged the trust between Coulson and his team, as they realized Coulson hadn't merely thought of protocols against superheroes, but also his closest allies.{{r|Agents of S.H.I.E.L.D. Vol 1 6}}
+
+===Civil War II===
+During the early days of the [[Civil War II|second superhuman Civil War]], Coulson and his team were deployed to arrest [[Anthony Stark (Earth-616)|Iron Man]], who had invaded [[New Attilan]] to investigate an [[Inhuman (Inhomo supremis)|Inhuman]] who could profile the future. Knowing the agents were on his trail, Iron Man lured them to one of his bases and tried to convince Coulson to join his cause, explaining him details about the events which [[Maria Hill (Earth-616)|Director Maria Hill]] had omitted. Coulson let Iron Man go free and expressed his willingness to refuse orders if S.H.I.E.L.D. decided to use the Inhuman for proactive justice together with [[Carol Danvers (Earth-616)|Captain Marvel]], for which Hill discharged him.{{r|Agents of S.H.I.E.L.D. Vol 1 7}}
+
+Via his spy within S.H.I.E.L.D., [[S.H.I.E.L.D. Heuristic Experimental Robot, B-Type, Integrated Electronics (Earth-616)|S.H.E.R.B.I.E.]], Coulson learned that Captain Marvel was about to conduct another preemptive arrest and tried to prevent that – only to find out that the alleged arrest had been a trap and be arrested himself.{{r|Agents of S.H.I.E.L.D. Vol 1 9}} Director Hill eventually admitted Coulson's value as an asset, and decided to keep him in lockup until the Civil War blew over, cutting him loose after that. After the D.O.D.'s head General Strakofsky had confessed to Agent Fitz that he planned to illegally sell weapons to [[Russia]], Strakofsky was arrested and Coulson was reinstated as an agent of S.H.I.E.L.D..{{r|Agents of S.H.I.E.L.D. Vol 1 10}}
+
+[[File:Deadpool Vol 6 31 Textless.jpg|thumb|right]]
+===Secret Empire===
+When time-travellers arrived from the future to try to kill [[Steven Rogers (Earth-61311)|Captain America]], Rogers subdued them with help from Agent Coulson and [[Wade Wilson (Earth-616)|Deadpool]]. In the process, Rogers had Deadpool shoot one of the attackers despite having been disarmed. Coulson became suspicious of Captain America and started to investigate him.{{r|Deadpool Vol 6 27}} In reality, Captain America had been secretly supplanted by a fascist version of himself from another [[Glossary:Timeline|timeline]].{{r|Captain America: Steve Rogers Vol 1 2}} Coulson soon learned that Rogers was involved in a secret plan that consisted of attracting the [[Chitauri]] to invade the Earth. When Coulson was en route to a safehouse in his flying car Lola, Rogers ordered Deadpool to kill him, claiming Coulson had gone rogue. Deadpool, convinced that his idol couldn't stand on the wrong side, shot Lola from the sky, chased Coulson to his hideout and shot him in the chest despite Phil's pleas that he listen to him.{{r|Deadpool Vol 6 31}}
+
+===Squadron Supreme of America===
+Coulson was returned to life, some time after the fall of the fascist Captain America,{{r|Avengers Vol 8 10}} with the help of [[Mephisto (Earth-616)|Mephisto]].{{r|Avengers Vol 8 18}} The trauma that resulted from his death turned Phil into a cynic, disillusioning him of superheroes.{{r|Avengers Vol 8 11}} Following the appointment of [[Wakanda]]'s king [[T'Challa (Earth-616)|Black Panther]] as chairman of the [[Avengers (Earth-616)|Avengers]], US government agent [[Thaddeus Ross (Earth-616)|Thunderbolt Ross]] determined that it would be harder for the United States to turn to the Avengers to act in their interests. In response to this, Ross called in Coulson to build a government-sanctioned super-team, the [[Squadron Supreme of America (Earth-616)|Squadron Supreme of America]].{{r|Avengers Vol 8 10}}
+
+===Heroes Reborn===
+Wanting a world where the Avengers never existed, Coulson sold his soul to Mephisto to obtain the [[Pandemonium Cube]], a demonic artifact with which Coulson warped reality into [[Earth-TRN852]],{{r|Heroes Return Vol 1 1}} a reality where the Avengers never existed, the [[Squadron Supreme of America (Earth-TRN852)|Squadron Supreme]] was the world's premiere superhero team,{{r|Heroes Reborn Vol 2 1}} and the majority of the United States worshipped [[Mephisto (Earth-TRN852)|Mephisto]].{{r|Heroes Reborn Vol 2 4}}
+
+However, [[Eric Brooks (Earth-616)|Blade the Vampire Hunter]] was unaffected by the reality warp and began assembling his own team of [[Avengers (Earth-TRN852)|Avengers]] to restore reality to its proper state.{{r|Heroes Reborn Vol 2 1|7}} Blade and his Avengers were ultimately successful, and reality was restored. Coulson ended up trapped inside his Pandemonium Cube, and Mephisto revealed that the whole reality warp was just a demonstration to the [[Council of Red (Multiverse)|Council of Red]], an interdimensional group of various Mephistos, how much reality could be changed by just one Mephisto.{{r|Heroes Return Vol 1 1}}
+
+| Powers                  = 
+| Abilities               = S.H.I.E.L.D. training consisting of firearms/explosives, espionage, intelligence gathering, and hand-to-hand combat. Phil is fluent in Spanish.{{r|Secret Avengers Vol 3 9}}
+| Strength                = Athlete, via S.H.I.E.L.D.
+| Weaknesses              = 
+
+| Equipment               = Formerly the [[Pandemonium Cube]]
+| Transportation          = Formerly [[Lola (Car)|Lola]]
+| Weapons                 = 
+
+| Notes                   = * The comics have presented contradictory information regarding Coulson's past. Despite {{cl|Battle Scars Vol 1}} establishing Coulson as an Army Ranger who didn't join S.H.I.E.L.D. until the events of the series (set chronologically after ''[[Fear Itself]]''), {{cl|S.H.I.E.L.D. Vol 3 1}} showed Coulson working as a data analyst for S.H.I.E.L.D. when he was twenty-five years old (roughly ten years before the present), and {{cl|Agents of S.H.I.E.L.D. Vol 1 5}} placed him as a S.H.I.E.L.D. agent sometime before ''[[Civil War (Event)|Civil War]]''.
+
+| Trivia                  = * Phil Coulson was the first S.H.I.E.L.D. Agent that didn't originate from the comics, but from the [[Earth-199999|Marvel Cinematic Universe]]. He is modeled after his [[Phillip Coulson (Earth-199999)|MCU counterpart]]'s actor, [[wikipedia:Clark Gregg|Clark Gregg]].
+* Throughout the majority of ''Battle Scars'', Coulson was only called by his callsign, "Cheese." His identity was only revealed in the final pages of the series. [[Battle Scars Vol 1 2|Issue #2]] includes a hint at Cheese's identity, when he becomes excited after learning that [[Nicholas Fury, Jr. (Earth-616)|Marcus Johnson]] met [[Steven Rogers (Earth-616)|Captain America]] and points out that Marcus knows how he feels about the hero. In the Marvel Cinematic Universe, Coulson is a big fan of Captain America.
+* As a S.H.I.E.L.D. operative, Phil Coulson was a Level 7 agent.{{r|Deadpool Vol 6 26}}{{r|Deadpool Vol 6 27}}
+* Coulson used to moderate a fanfic website called FreakingAwesome.com. His username was "ROFLCopter."{{r|All-New, All-Different Avengers Annual Vol 1 1}}
+| Marvel                  = 
+| Wikipedia               = Phil Coulson
+| Links                   =
+}}
+[[it:Phillip Coulson (Terra-616)]]
+[[Category:Shattered Heroes]]
+[[Category:Post-Traumatic Stress Disorder]]
+[[Category:Military Personnel]]
+[[Category:Weapons Expert]]
+[[Category:Shooting]]
+[[Category:Martial Arts]]
+[[Category:S.H.I.E.L.D. Agents Level 9]]
+[[Category:Multilingual]]
+[[Category:Government Agents]]
+[[Category:Iraq War Characters]]
+[[Category:Content Adapted from Other Media]]
+[[Category:S.H.I.E.L.D. Agents Level 7]]
+[[Category:Secret Empire casualties]]
+[[Category:Formerly Deceased]]
+[[Category:Souls Sold to Mephisto]]

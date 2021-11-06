@@ -1,0 +1,70 @@
+{{Marvel Database:Character Template
+| Image                   = Jeffrey Walters (Earth-148611) from Thunderbolts Vol 3 4 001.png 
+| Name                    = [[Jeffrey John Walters|Jeffrey John "Jeff" Walters]]{{r|DP7 Vol 1 19}}
+| CurrentAlias            = [[Blur]]
+| Aliases                 = 
+
+| Affiliation             = formerly {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}, {{M|Squadron Supreme (Earth-616)|Squadron Supreme}}, {{M|DP7 (Earth-148611)|DP7}}
+| Relatives               = [[William Walters (Earth-148611)|William Walters]] (father, deceased);<br/>
+[[Thelma Walters (Earth-148611)|Thelma Walters]] (mother, deceased);<br/>
+[[Dennis Walters (Earth-148611)|Dennis Walters]] (brother, deceased);<br/>
+[[Michele Walters (Earth-148611)|Michele Walters]] (sister, deceased)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|DP7 Vol 1 19}}
+| Gender                  = Male
+| Height                  = 5'10"
+| Weight                  = 175 lbs
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] [[Glossary:Mutate|paranormal]] 
+
+| Reality                 = Earth-148611
+| Reality 2               = (currently displaced to the [[Earth-616|Prime Earth]])
+| PlaceOfBirth            = [[Milwaukee]], [[Wisconsin (State)|Wisconsin]]
+
+| Identity                = Known to Authorities
+| Citizenship             = American
+| Occupation              = Soldier, adventurer, vigilante; former fast food outlet manager
+| Education               = High School graduate
+| BaseOfOperations        = formerly [[Oracle Inc. (Earth-616)|Oracle Inc.]]; [[Clinic for Paranormal Research]], [[Wisconsin (State)|Wisconsin]]
+
+| Creators                = Mark Gruenwald; Paul Ryan
+| First                   = DP7 #1
+
+| History                 = [[File:Jeffrey Walters (Earth-148611) from DP7 Vol 1 19 0001.jpg|thumb|left|250px|Original costume]]Jeff Walters was the overweight manager of a fast food restaurant until the [[White Event]] changed him into a paranormal, giving him the ability to move at superhuman speed but making it impossible for him to stop moving and leaving him in continual need of huge quantities of food to keep his accelerated metabolism going. He rapidly lost weight and took on a notably more athletic appearance when his paranormality kicked in. 
+
+Walters became a patient at the [[Clinic for Paranormal Research]] but absconded with the rest of his therapy group when they worked out that the clinic was up to no good. Walters was eventually recaptured and returned to the Clinic, and remained there after his friends [[Randall O'Brien (Earth-148611)|Randy O'Brien]] and [[David Landers (Earth-148611)|Dave Landers]] seemingly defeated the Clinic's megalomaniac Director [[Philip Nolan Voigt (Earth-148611)|Philip Nolan Voigt]]. Walters was a jovial presence in his therapy group and in the Clinic in general - he was the only Clinic patient who was friendly towards the grotesque-looking [[George Mullaney (Earth-148611)|Mutator]], and was the only African-American patient to refuse membership in the militant [[Black Powers (Earth-148611)|Black Powers]] breakaway therapy group founded by some of the patients. Walters later saved his friend Randy O'Brien from being beaten up by that group. 
+
+When [[Pittsburgh]] was destroyed in the [[Black Event]], though, Walters lost his family and was driven almost mad with grief, running into the [[Pitt]] and intending to die there. He was saved by Landers, and subsequently drafted into the [[United States Army (Earth-148611)|US Army]] along with most of America's other paranormals. He fought in the war which blew up as a result of the Pittsburgh disaster and international tension over paranormals, and suffered major psychological trauma, but was pulled through it by the telepathic [[Kathi Blizzard (Earth-148611)|Major Kathi Blizzard]] and seemingly recovered with her aid. He later saved Blizzard's life, but was seriously injured by the vicious [[Colonel Oort (Earth-148611)|Colonel Oort]] immediately afterward. 
+
+===New Squadron Supreme===
+Blur somehow survived the destruction of [[Earth-148611|his universe]] and found himself on [[Earth-616]], where he banded together with other heroes who also lost their own universes to form a new [[Squadron Supreme (Earth-616)|Squadron Supreme]], with their goal being to protect their new world at any cost.{{r|Avengers Vol 6 0}}
+
+Their first mission involved was to punish [[Namor McKenzie (Earth-616)|Namor]] for destroying [[Doctor Spectrum (Earth-4290001)|Doctor Spectrum]]'s [[Earth-4290001|world]] and cooperating with the [[Cabal (Namor's) (Earth-616)|Cabal]] as well as numerous attacks upon the surface world. They eventually confront him, along with [[Attuma (Earth-616)|Attuma]] and the rest of [[Atlantis (Modern)|Atlantis]]. [[Zarda Shelton (Earth-21195)|Zarda]] killed Attuma, while [[Marcus Milton (Earth-13034)|Hyperion]] yanked the city of Atlantis from the ocean, lifted it high into the air, and hurled it down utterly destroying it. Hyperion proceeded to decapitate Namor with his Atomic Vision.{{r|Squadron Supreme Vol 4 1}}
+
+| Powers                  = [[File:Jeffrey Walters (Earth-148611) from Avengers Vol 6 0 001.jpg|thumb|150px|left]] '''Super Speed''': Walters was able to move at superhuman speed, and was measured as having run as fast as 300mph. With his level of speed he proved was able to keep up with [[Pietro Maximoff (Earth-616)|Quicksilver]] if not surpassed him.{{r|Squadron Supreme Vol 4 3}}
+
+| Abilities               = Walters was trained by the US army in hand-to-hand combat and the use of firearms. 
+| Strength                = 
+| Weaknesses              =  Walters is unable to ever voluntarily stop his body from moving and must eat constantly to fuel his accelerated metabolism. He requires tranquilizers in order to sleep. His fellow paranormal [[Lenore Fenzl (Earth-148611)|Lenore Fenzl]] was able to temporarily neutralize his powers each night to let him sleep, allowing him some respite, until her death.
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Superhuman Speed]]
+[[Category:Superhuman Reflexes]]
+[[Category:Mutates]]
+[[Category:Characters Displaced to Earth-616]]
+[[Category:Superhuman Agility]]
+[[Category:Interdimensional Travelers]]
+[[Category:Transformed by the White Event]]

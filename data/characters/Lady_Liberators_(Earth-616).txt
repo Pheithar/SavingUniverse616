@@ -1,0 +1,38 @@
+{{Marvel Database:Team Template
+| Image                   = She-Hulk Vol 2 34 Textless.jpg
+| ImageSize               = 250px
+| Name                    = Lady Liberators
+| Aliases                 = Liberators
+| Distinguish1            = Liberators
+
+| Status                  = Active
+
+| Identity                = Public
+| Reality                 = Earth-616
+| BaseOfOperations        = Mobile
+
+| Leaders                 = formerly [[Jennifer Walters (Earth-616)|She-Hulk]]
+| CurrentMembers          = [[Samantha Parrington (Earth-616)|Valkyrie]]
+| FormerMembers           = [[Natasha Romanoff (Earth-616)|Black Widow]], [[Medusalith Amaquelin (Earth-616)|Medusa]], [[Wanda Maximoff (Earth-616)|Scarlet Witch]], [[Janet Van Dyne (Earth-616)|Wasp]], [[Amora (Earth-616)|"Valkyrie"]], [[Ororo Munroe (Earth-616)|Storm]], [[Greer Nelson (Earth-616)|Tigra]], [[Patricia Walker (Earth-616)|Hellcat]], [[Jessica Drew (Earth-616)|Spider-Woman]], [[Thundra (Earth-715)|Thundra]], [[Susan Storm (Earth-616)|Invisible Woman]]
+| Allies                  = [[Avengers (Earth-616)|Avengers]], [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]], [[Jazinda (Earth-616)|Jazinda]]
+| Enemies                 = [[Avengers (Earth-616)|Avengers]] (formerly), [[Thaddeus Ross (Earth-616)|Red Hulk]], [[Winter Guard (Earth-616)|Winter Guard]]
+
+| Origin                  = Manipulated by the [[Amora (Earth-616)|Enchantress]] to battle the [[Avengers (Earth-616)|Avengers]]; New incarnation gathered by She-Hulk to hunt down the [[Thaddeus Ross (Earth-616)|Red Hulk]]
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Roy Thomas; John Buscema
+| First                   = Avengers #83
+| Last                    = 
+
+| HistoryText             = [[File:Hulk_Vol_2_9_page_19_Lady_Liberators_(Earth-616).jpg|thumb|left]]
+
+Originally a group of female adventurers manipulated by the [[Amora (Earth-616)|Enchantress]],{{r|Avengers #83}} the current incarnation was originally gathered by [[Jennifer Walters (Earth-616)|She-Hulk]] to hunt the [[Thaddeus Ross (Earth-616)|Red Hulk]] and later reassembled to assist in humanitarian efforts.
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * http://www.marvunapp.com/Appendix2/ladyliberators.htm
+}}

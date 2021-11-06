@@ -1,0 +1,67 @@
+{{Marvel Database:Character Template
+| Title                   = [[Mary Parker]]
+| Image                   = Mary Parker (Earth-616) from Untold Tales of Spider-Man Vol 1 -1 0001.jpg
+| Name                    = [[Mary Parker|Mary Teresa Parker, née Fitzpatrick]]
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{m|Central Intelligence Agency (Earth-616)|CIA}}
+| Relatives               = 
+[[William Fitzpatrick (Earth-616)|William Fitzpatrick]] (father, deceased);<br>Unnamed mother (deceased);<br>[[Richard Parker (Earth-616)|Richard Parker]] (husband, deceased);<br>
+[[Peter Parker I (Earth-616)|Peter Parker I]] (father-in-law, presumed deceased);{{r|1939 Daily Bugle Vol 1 1}}<br>
+[[Ann Parker (Earth-616)|Ann Parker]] (mother-in-law, presumed deceased);{{r|1939 Daily Bugle Vol 1 1}}<br>
+[[Benjamin Parker (Earth-616)|Ben Parker]] (brother-in-law, deceased);<br>
+[[Maybelle Parker (Earth-616)|May Parker]] (sister-in-law);<br>
+[[Peter Parker (Earth-616)|Peter Parker]] (son);<br>
+[[Teresa Parker (Earth-616)|Teresa Parker]] (daughter);{{r|Peter Parker: The Spectacular Spider-Man Vol 1 302}}<br>
+[[May Parker (Earth-616)|May Parker]] (granddaughter, deceased)
+| MaritalStatus           = Married
+
+| Gender                  = Female
+| Height                  = 5'6"
+| Weight                  = 114 lbs
+| Eyes                    = Hazel
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = CIA Agent
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Stan Lee; Larry Lieber
+| First                   = Amazing Spider-Man Annual #5
+| Death                   = Amazing Spider-Man Annual #5
+
+| History                 = Mary Parker was the wife of [[Richard Parker (Earth-616)|Richard Parker]], and like him, was a [[Central Intelligence Agency (Earth-616)|CIA]] agent. The two of them had a son, [[Peter Parker (Earth-616)|Peter]], and a daughter, [[Teresa Parker (Earth-616)|Teresa]],{{r|Peter Parker: The Spectacular Spider-Man Vol 1 302}} though the latter was born in secret.
+
+At an unknown point, Richard and Mary found the parts of [[Master Matrix (Earth-616)|Master Matrix]], an advanced [[Life-Model Decoy]] capable of controlling other LMDs, in a [[Hydra (Earth-616)|Hydra]] weapons depot on an uncharted island. They rebuilt him, but Mary believed that Matrix was alive and that [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] should set him free.{{r|Spider-Man/Deadpool Vol 1 33}}
+
+While Peter was still an infant and Teresa was a newborn, Richard and Mary were assigned to infiltrate the Algerian-based spy ring controlled by Communist agent the [[Albert Malik (Earth-616)|Red Skull]], but the Skull discovered they were double agents and had them killed by his agent [[Karl Fiers (Earth-616)|the Finisher]] in an airplane crash overseas and framed for treason.{{r|Amazing Spider-Man Annual #5}}
+
+While Richard and Mary were on assignment, Richard's brother [[Benjamin Parker (Earth-616)|Ben]] and Ben's wife [[Maybelle Parker (Earth-616)|May]] took care of Peter. Ben and May had never had children of their own, but after Richard and Mary died, they became Peter’s surrogate parents and raised him as if he were their own son.
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[it:Mary Fitzpatrick (Terra-616)]]
+[[es:Mary Fitzpatrick (Tierra-616)]]
+[[Category:Parker Family]]

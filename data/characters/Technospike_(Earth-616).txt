@@ -1,0 +1,48 @@
+{{Marvel Database:Character Template
+| Image                   = Technospike (Earth-616) from Silver Sable and the Wild Pack Vol 1 25 0001.JPG
+| Name                    = 
+| CurrentAlias            = Technospike
+| Aliases                 = 
+
+| Affiliation             = {{M|System Crash}}, {{M|Hydra (Earth-616)|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Agent of [[Hydra (Earth-616)|Hydra]]
+| Education               = 
+| BaseOfOperations        = Mobile
+
+| Creators                = Greg Wright; Steven Butler
+| First                   = Silver Sable and the Wild Pack Vol 1 25
+
+| History                 = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

@@ -1,0 +1,34 @@
+{{Marvel Database:Organization Template
+| Image                   = Brotherhood of Badoon (Earth-691) from Guardians 3000 Vol 1 1 001.jpg
+| Name                    = Brotherhood of Badoon
+| EditorialNames          = 
+| Aliases                 = Badoon Brotherhood{{r|Thor Annual #6}}
+
+| OrganizationLeaders     = 
+| CurrentMembers          = 
+| FormerMembers           = 
+
+| Identity                = 
+| Affiliation             =
+| Allies                  = Formerly [[Michael Korvac (Earth-691)|Korvac]]
+| Enemies                 = 
+
+| Origin                  = 
+| Reality                 = Earth-691
+| Status                  = Active
+| BaseOfOperations        = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+
+| Creators                = 
+| First                   = Marvel Super-Heroes Vol 1 18
+
+| History                 = 
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Interplanetary Organizations]]

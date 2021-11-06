@@ -1,0 +1,43 @@
+{{Marvel Database:Team Template
+| Image                   = Wolverine Vol 3 28 Textless.jpg
+| ImageSize               = 250px
+| Title                   = [[Dawn of the White Light]]
+| Name                    = [[Dawn of the White Light]]{{r|All-New Official Handbook of the Marvel Universe A to Z #5}}
+| Aliases                 = <nowiki></nowiki>
+| Status                  = Defunct
+| Identity                = Secret
+| Reality                 = Earth-616
+| BaseOfOperations        = Japan
+
+| Leaders                 = Formerly [[Tomi Shishido (Earth-616)|Gorgon]], [[Jean-Paul Beaubier (Earth-616)|Northstar]]
+| CurrentMembers          = 
+| FormerMembers           = [[Tomi Shishido (Earth-616)|Gorgon]], [[Jean-Paul Beaubier (Earth-616)|Northstar]], [[Sparks (Earth-616)|Sparks]], unnamed teleporter, unnamed woman, [[Space-Bomb (Dawn of the White Light) (Earth-616)|Space-Bomb]], [[Gas (Dawn of the White Light) (Earth-616)|Gas]], [[Thermos (Dawn of the White Light) (Earth-616)|Thermos]], [[Quake (Dawn of the White Light) (Earth-616)|Quake]], [[Rockslide (Dawn of the White Light) (Earth-616)|Rockslide]]
+| Allies                  = [[Hand (Earth-616)|Hand]], formerly [[Brotherhood of Evil Mutants (Earth-616)|Brotherhood]]
+| Enemies                 = [[James Howlett (Earth-616)|Wolverine]]
+
+| Origin                  = Brotherhood ''([[{{PAGENAME}}#Notes|see notes]])'' splinter group{{r|Wolverine Vol 3 20}} / mutant death cult
+| PlaceOfFormation        = [[Japan]]
+| PlaceOfDissolution      = 
+| Creators                = 
+| First                   = Wolverine Vol 3 20
+| First2                  = (Mentioned){{sld|Wolverine Vol 3 28}}(Seen)
+| Last                    = Wolverine Vol 3 28
+
+| HistoryText             = The Dawn of the White Light was a mutant death cult formed by [[Tomi Shishido (Earth-616)|Gorgon]].{{r|Wolverine Vol 3 #20}} When he joined the [[Hand (Earth-616)|Hand]] and [[Hydra (Earth-616)|Hydra]], Gorgon retained control of the organization. After the X-Man [[Jean-Paul Beaubier (Earth-616)|Northstar]] was killed, resurrected, and brainwashed by the Hand and Hydra, Gorgon ceded control of the Dawn to him.{{r|Wolverine Vol 3 #25|27}}
+
+Most members of the team were killed by [[James Howlett (Earth-616)|Wolverine]].{{r|Wolverine Vol 3 28}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * It is unclear if the Dawn of White Light is supposed to be a splinter group from [[Marvin Hoffman (Earth-616)|X]], [[Marshal (Earth-616)|Marshal]] and [[Orwell (Earth-616)|Orwell]]'s [[Brotherhood (Earth-616)|Brotherhood]] or from the more famous [[Max Eisenhardt (Earth-616)|Magneto]]'s [[Brotherhood of Evil Mutants (Earth-616)|Brotherhood (also known as Brotherhood of Evil Mutants)]]:
+** {{cl|Wolverine Vol 3 23}} hinted it was seemingly Magneto's although they were also stated to look down on [[Max Eisenhardt (Earth-616)|Magneto]]'s [[Brotherhood of Evil Mutants (Earth-616)|Brotherhood (also known as Brotherhood of Evil Mutants)]] and treated them like a joke when comparing their objectives.
+** [[Japan]]'s entry in {{cl|Marvel Atlas #1}} mentioned that the Japanese cell of the Brotherhood ([[Marvin Hoffman (Earth-616)|X]]'s) was "nearly" wiped out, but that Dawn of the White Light remained operational.
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Terrorist Organizations]]
+[[Category:Death Cults]]
+[[Category:Japanese Religions]]
+[[Category:Mutant-Based Cults]]

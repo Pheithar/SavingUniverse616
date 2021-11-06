@@ -1,0 +1,66 @@
+{{Marvel Database:Character Template
+| Image                   = Network Nina (Earth-616) from Nick Fury, Agent of S.H.I.E.L.D. Vol 3 23.jpg
+| Name                    = 
+| CurrentAlias            = Network Nina
+| Aliases                 = 
+
+| Affiliation             = {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}, {{m|S.H.I.E.L.D. Psi Division (Earth-616)|Psi Division}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Red
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] [[Cyborgs|Cyborg]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = S.H.I.E.L.D. agent, Esper division
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Bob Harras; Keith Pollard
+| First                   = Nick Fury, Agent of S.H.I.E.L.D. Vol 3 2
+| Death                   = 
+
+| History                 = 
+===Agent of S.H.I.E.L.D.===
+Network Nina was a cyber-psionic whose abilities were engineered by S.H.I.E.L.D.'s [[S.H.I.E.L.D. Psi Division (Earth-616)|Esper Division]]. She developed telepathic abilities from the program, but was also rendered somewhat unstable. Nina was discharged from the program and ended up running a bar in the [[Florida Keys]] after the [[Deltite Affair]].
+
+When the Gnobian Death's Head Commandos began striking at former S.H.I.E.L.D. agents, Nick Fury recruited Nina back into active duty.{{r|Nick Fury, Agent of S.H.I.E.L.D. Vol 3 2}} Nina was a regular asset to S.H.I.E.L.D. as they reformed under the purview of the United Nations.
+
+===Battle with X-Force===
+Nina could scan for hostile forces, so [[Nicholas Fury (Earth-616)|Nick Fury]] assigned her for an infiltration mission into [[Avalon (Space Station)|Graymalkin]]. Unfortunately, aboard the space station, she learned that the E-M burst which decloaked the base was also screening her telepathy, so she couldn't scan anyone, and her whole team got eventually defeated by the [[X-Force (Earth-616)|X-Force]].{{r|X-Force Vol 1 #20}}
+
+When [[James Rhodes (Earth-616)|War Machine]] confronted the X-Force and the battle got too destructive, [[Prosh (Earth-616)|Professor]] announced to everyone on board that emergency measures were being taken and a destruct sequence had begun. While Network Nina and the other S.H.I.E.L.D. operatives were deciding what they would do and if they should leave before the ship broke apart or if they should try to salvage what they could, the Professor announced an alert and the ship exploded.{{r|X-Force Vol 1 #21}}
+
+Network Nina and the other S.H.I.E.L.D. agents, as well as the rest of X-Force, were then teleported aboard the [[S.H.I.E.L.D. Shuttle|Sternberg]] by [[Lila Cheney (Earth-616)|Lila Cheney]].{{r|X-Force Vol 1 #22}}
+
+===Battle with Psi-Borg===
+When Nick Fury suspected [[George Washington Bridge (Earth-616)|G.W. Bridge]] had been forced to act against his will, he had Network Nina scan Bridge's mind. Nina detected signs of intrusion, and they tracked the culprit back to [[Fionna Wyman (Earth-616)|Psi-Borg]], a S.H.I.E.L.D. Super-Agent who was secretly a Hydra infiltrator. Nina nearly killed herself exerting her cyber-psionic implants against Psi-Borg in psychic combat.{{r|Nick Fury, Agent of S.H.I.E.L.D. Vol 3 45}} She eventually recovered and was seen at the funeral service for [[Kathleen Neville (Earth-616)|Kate Neville]].{{r|Nick Fury, Agent of S.H.I.E.L.D. Vol 3 47}}
+
+| Powers                  = * '''Cyber-Psionic:''' Nina had cybernetic implants in her head that engineered telepathic abilities. The bio-mechanical nature of her powers allowed her to read minds, but also transmit the information she received into mechanical storage databases.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * http://home.gate.net/~furyofshield/shield/agents/agentnina.html
+}}
+[[Category:Telepaths]]
+[[Category:Technopaths]]

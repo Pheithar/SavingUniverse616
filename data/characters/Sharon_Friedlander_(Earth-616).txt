@@ -1,0 +1,58 @@
+{{Marvel Database:Character Template
+| Image                   = Sharon Friedlander (Earth-616) from Uncanny X-Men Vol 1 298 001.png
+| Name                    = Sharon Friedlander
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = Support staff of the [[New Mutants (Earth-616)|New Mutants]]; {{M|Muir Island X-Men}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] magically transformed to resemble a Cheyenne.
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = Our Mother of the Sacred Heart School
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Nurse, lab assistant
+| Education               = 
+| BaseOfOperations        = formerly [[Xavier's School for Gifted Youngsters|Xavier Institute]], [[Salem Center]], Westchester County, New York; [[Our Mother of the Sacred Heart School]]
+
+| Creators                = Chris Claremont; Bill Sienkiewicz
+| First                   = New Mutants #19
+| Death                   = Uncanny X-Men #298
+
+| History                 = Sharon was working as a nurse when she was caught up in a battle between the [[New Mutants (Earth-616)|New Mutants]] and the Demon Bear. She and [[Thomas Corsi (Earth-616)|Tom Corsi]] were magically transformed from being physically Caucasian to Native American.{{r|New Mutants #19|20}} Unable to explain their new bodies, Sharon and Tom resided at the Xavier Institute and joined the school staff. Sharon acted as the school nurse.{{r|New Mutants #26}}
+
+After the Mansion was destroyed during "Inferno", Sharon and Tom relocated to Muir Island and assisted Moira MacTaggert. They participated in the defense of the Research Center from an assault by the [[Reavers (Earth-616)|Reavers]].{{r|Uncanny X-Men #254}}
+
+Much later, Sharon and Tom went undercover at a private school to supervise a latent mutant. When the [[Acolytes (Earth-616)|Acolytes]] attacked the school in search of the youth, Sharon then sent a desperate S.O.S. to the [[X-Men (Earth-616)|X-Men]]. Her allies received the message and came to her aid, but the Acolyte [[Joanna Cargill (Earth-616)|Joanna Cargill]] had already killed Sharon.{{r|Uncanny X-Men #299}}
+
+| Powers                  = Sharon possessed increased speed and reflexes after her transformation.
+| Abilities               = 
+| Strength                = Sharon had increased strength due to her transformation by the Demon Bear, though it was not classified as super strength.
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * [[New Mutants]]
+* [[Tom Corsi]]
+}}
+[[Category:Superhuman Reflexes]]
+[[Category:Superhuman Strength]]
+[[Category:Magic-Based Mutates]]

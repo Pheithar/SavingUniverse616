@@ -1,0 +1,55 @@
+{{Marvel Database:Character Template
+| Image                   = Tolos (Earth-616) from Infinity Vol 1 1 0001.jpg
+| Name                    = Tolos
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = [[Inhomo supremis|Inhumans]], {{M|Inhuman Royal Guard (Earth-616)|Inhuman Royal Guard}}, {{m|Universal Inhumans}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Amber
+| Hair                    = Brown
+| UnusualFeatures         = Bear-like physiology
+| UnusualSkinColor        = 
+
+| Origin                  = [[Inhomo supremis|Inhuman]] powered by [[Terrigenesis]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = Attilan
+| Occupation              = Royal Guard, Scout
+| Education               = 
+| BaseOfOperations        = [[Attilan]]
+
+| Creators                = Jonathan Hickman; Jim Cheung
+| First                   = Infinity #1
+| Death                   = Infinity #1
+
+| History                 = Tolos was telling [[Kirren (Earth-616)|Kirren]] that their [[Blackagar Boltagon (Earth-616)|king]] and his wives were sleeping in different chambers. Kirren seemed unimpressed by this information and didn't want anything to do with the gossip because he didn't want a bad shift in guard duty like what Tolos always had.
+
+Both Tolos and Kirrien were seemingly killed by an [[Outriders (Race)|Outrider]] which had just snuck on Black Bolt's chamber.{{r|Infinity #1}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Infinity casualties]]
+[[Category:Bear Form]]

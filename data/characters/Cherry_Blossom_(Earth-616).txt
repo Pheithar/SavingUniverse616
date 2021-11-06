@@ -1,0 +1,50 @@
+{{Marvel Database:Character Template
+| Image                   = 
+| Name                    = 
+| CurrentAlias            = Cherry Blossom
+| Aliases                 = 
+
+| Affiliation             = Formerly {{M|Nail (Earth-616)|The Nail}}, {{M|Hand (Earth-616)|The Hand}}
+| Relatives               = Unnamed mother
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Black
+| Hair                    = Pink
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = Japanese
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Jason Henderson; Ivan Rodriguez
+| First                   = Shadowland: Daughters of the Shadow Vol 1 1
+
+| History                 = Cherry Blossom is the daughter of a woman who served on a secret all-woman [[Hand (Earth-616)|Hand]] strikeforce known as the [[Nail (Earth-616)|Nail]]. However, her mother was killed on their last mission, along with every other member of the group.
+
+Almost two decades later, the Hand came under the control of the [[Matthew Murdock (Earth-616)|Daredevil]], who decided to reform the Nail. To that end, he found the descendants of various Nail members and offered them a place in the organization. Cherry Blossom was one.{{Citation}}
+
+| Powers                  = 
+| Abilities               = * Through some unseen means, Cherry Blossom has acquired above-par skill with sai daggers
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

@@ -1,0 +1,59 @@
+{{Marvel Database:Character Template
+| Image                   = Seth Voelker (Earth-616) from Official Handbook of the Marvel Universe Master Edition Vol 1 14 001.jpg
+| Name                    = [[Seth Voelker]]
+| CurrentAlias            = Sidewinder
+| Aliases                 = 
+
+| Affiliation             = formerly {{m|Serpent Squad (Roxxon Oil)|Serpent Squad}}, {{m|Serpent Society}}, {{m|Roxxon Energy Corporation (Earth-616)|Roxxon Oil}}
+| Relatives               = [[Margaret Voelker (Earth-616)|Maggie Voelker]] (sister); [[Amelia Voelker (Earth-616)|Amelia Voelker]] (daughter)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Captain America: America's Avenger #1}}
+| Gender                  = Male
+| Height                  = 5'9"
+| Weight                  = 180 lbs
+| Eyes                    = Blue
+| Hair                    = Black
+| Hair2                   = (balding)
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = Kenosha, Wisconsin
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = Former professional criminal, now retired
+| Education               = 
+| BaseOfOperations        = Formerly [[Serpent Citadel]]
+
+| Creators                = Mark Gruenwald; Ralph Macchio; George Perez
+| First                   = Marvel Two-In-One Vol 1 64
+
+| History                 = Seth Voelker was born in Kenosha, [[Wisconsin (State)|Wisconsin]]. As Sidewinder, he was originally hired by the [[Roxxon Energy Corporation (Earth-616)|Roxxon Oil Company]] to retrieve the [[Serpent Crown]], and outfitted with a cloak that had teleportation powers. Alongside [[Serpent Squad (Roxxon Oil) (Earth-616)|the third incarnation of the Serpent Squad]], Sidewinder was able to return the crown to company president [[Hugh Jones (Earth-616)|Hugh Jones]].{{r|Marvel Two-In-One Vol 1 66}} However, after that stint, he decided to form his own criminal organization, the [[Serpent Society (Earth-616)|Serpent Society]]. Given his ability to teleport, Sidewinder promised his recruits they would never be imprisoned. This attracted several snake-themed villains, and the Serpent Society was quite the success. He also started a romantic relationship with his teammate [[Tanya Sealy (Earth-616)|Black Mamba]].{{Citation}}
+
+Later, Sidewinder was betrayed by his organization after [[Ophelia Sarkissian (Earth-616)|Viper]] infiltrated the group. After being poisoned, he was aided by [[Rachel Leighton (Earth-616)|Diamondback]], who gave him the antidote, and the two escaped and survived. On being contacted by Black Mamba, Sidewinder repaid the favor when Diamondback was captured and sentenced to death by the Society and its new leader [[Klaus Voorhees (Earth-616)|King Cobra]], saving her from death by lethal injection. Sidewinder however refused to help Black Mamba and the [[Cleopatra_Nefertiti_(Earth-616)|Asp]] escape King Cobra's grasp, saying Black Mamba would not want to be in his debt.{{Citation}}
+
+A [[Sidewinder (Robot) (Earth-616)|robotic Sidewinder]] later appeared and was employed by King Cobra.{{Citation}}
+
+Most recently, Sidewinder was seen in an interview and has since retired from villainy.{{r|New Thunderbolts #7}}
+
+| Powers                  = Sidewinder has no superhuman powers of his own. 
+
+| Abilities               = Sidewinder is a skilled businessman, and was able to build the Serpent Society into a highly successful criminal organization. 
+| Strength                = Sidewinder possesses the normal human strength of a man his age, height, and build who engages in moderate regular exercise. 
+| Weaknesses              = 
+
+| Equipment               = * '''[[Sidewinder's Teleportation Cloak]]''': Sidewinder wore a cloak that had the power to teleport him and anyone else he covered with it. 
+
+| Transportation          =
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = http://en.wikipedia.org/wiki/Sidewinder_%28comics%29
+| Links                   = 
+}}
+[[Category:Teleporters]]
+[[Category:Businesspeople]]

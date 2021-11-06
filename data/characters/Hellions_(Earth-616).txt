@@ -1,0 +1,58 @@
+{{Marvel Database:Team Template
+| Image                   = Hellions (Earth-616) from New Mutants Vol 3 7 0001.jpg
+| ImageSize               = 700px
+| Name                    = Hellions
+| Aliases                 = 
+
+| Status                  = Defunct
+| Identity                = Secret
+| Reality                 = Earth-616
+| BaseOfOperations        = [[Massachusetts Academy]] 
+
+| Leaders                 = [[Emma Frost (Earth-616)|White Queen (Emma Frost)]], [[Manuel de la Rocha (Earth-616)|Empath]]
+| CurrentMembers          =  
+| FormerMembers           = [[Buford Wilson (Earth-616)|Beef]], [[Fabian Marechal-Julbin (Earth-616)|Bevatron]], [[Samuel Guthrie (Earth-616)|Cannonball]], [[Sharon Smith (Earth-616)|Catseye]], [[Douglas Ramsey (Earth-616)|Cypher]], [[Manuel de la Rocha (Earth-616)|Empath]], [[Angelica Jones (Earth-616)|Firestar]], [[Haroun ibn Sallah al-Rashid (Earth-616)|Jetstream]], [[Illyana Rasputina (Earth-616)|Magik]], [[Amara Aquilla (Earth-616)|Magma]], [[Danielle Moonstar (Earth-616)|Mirage]], [[Jennifer Stavros (Earth-616)|Roulette]], [[Marie-Ange Colbert (Earth-616)|Tarot]], [[James Proudstar (Earth-616)|Thunderbird]], [[Emma Frost (Earth-616)|White Queen]], [[Rahne Sinclair (Earth-616)|Wolfsbane]] 
+| Allies                  = 
+| Enemies                 = [[X-Men (Earth-616)|X-Men]], [[Trevor Fitzroy (Earth-1191)|Trevor Fitzroy]], [[New Warriors (Earth-616)|New Warriors]], [[New Mutants (Earth-616)|New Mutants]]
+
+| Origin                  = Young mutants under the care of the Hellfire Club.
+| PlaceOfFormation        = [[Massachusetts Academy]] 
+| PlaceOfDissolution      = [[Hellfire Club Building (New York)|Hellfire Club Mansion]]
+| Creators                = Chris Claremont; Sal Buscema
+| First                   = New Mutants #16 
+| Last                    = New Mutants Vol 3 8
+
+| HistoryText             = [[File:New Mutants Vol 3 7 Textless.jpg|200px|thumb|left|The Hellions]]
+The Hellions were a team of teenaged mutants who were recruited by the powerful telepath [[Emma Frost (Earth-616)|Emma Frost]] and trained educationally and in the use of their powers at her private school the [[Massachusetts Academy]].{{r|New Mutants #16|17}}
+
+Early in the Hellions' existence as a team, three of the members - [[Jennifer Stavros (Earth-616)|Roulette]], [[James Proudstar (Earth-616)|Thunderbird]], and [[Manuel de la Rocha (Earth-616)|Empath]] decided to take revenge on the [[X-Men (Earth-616)|X-Men]] for the death of Thunderbird's elder brother while he was a member of the hero team. Empath used his powers to influence one of Frost's other students [[Angelica Jones (Earth-616)|Firestar]], who was not formally a Hellion, into falling in love with him so that she would help them. During the battle with the hero team, however, Thunderbird realized he was wrong to be seeking vengeance.{{r|Uncanny X-Men #193}}
+
+The Hellions often clashed with the New Mutants, though the relationship between the teams was often fairly cordial, and even flirtatious in some cases. For a time, the two teams even resided alongside each other. Under the influence of [[Manuel de la Rocha (Earth-616)|Empath]], [[Max Eisenhardt (Earth-616)|Magneto]] sent the [[New Mutants (Earth-616)|New Mutants]] to Frost's school, but soon recovered and retrieved his students.{{r|New Mutants #39|41}}
+
+A group of villains known as the [[Upstarts (Earth-616)|Upstarts]] participated in a contest against each other to kill as many influential mutants as possible. The contest was secretly founded by the [[Hellfire Club (Earth-616)|Hellfire Club]]'s Black Queen [[Selene Gallio (Earth-616)|Selene]] to test her fellow Inner Circle members. One of the Upstarts, the insane time traveler [[Trevor Fitzroy (Earth-1191)|Trevor Fitzroy]], used his [[Sentinels]] to attack and kill Hellfire Club White King [[Donald Pierce (Earth-616)|Donald Pierce]] and his [[Reavers (Earth-616)|Reavers]]. Trying to escape, Pierce had himself teleported by the mutant [[Gateway (Earth-616)|Gateway]] to a party thrown by Emma Frost and attended by the X-Men and Hellions. In the ensuing battle, most of the Hellions were slaughtered, either by Fitzroy himself or his Sentinels. The Massachusetts Academy was abandoned until it was used to train [[Generation X (Earth-616)|Generation X]].{{r|Uncanny X-Men Vol 1 281|282}}
+
+The dead Hellions, along with many other deceased mutants, were later resurrected by [[Selene Gallio (Earth-616)|Selene Gallio]] during the events of Necrosha.{{r|X-Necrosha Vol 1 1}} They launched an attack on [[Utopia (X-Men Base)|Utopia]],{{r|New Mutants Vol 3 7}}{{r|X-Force Vol 3 21}} but they were killed by the New Mutants.{{r|New Mutants Vol 3 8}}
+
+Recently, several members of the squad were once again seen to be active in the newly-created mutant nation of [[Krakoa (Earth-616)|Krakoa]], having been presumably resurrected by [[Five (Earth-616)|The Five]].{{r|Hellions Vol 1 1}}
+[[File:New Mutants Vol 3 48 Textless.jpg|right|thumb|150px|The Hellions]]
+
+==Hellions==
+* [[Manuel de la Rocha (Earth-616)|Empath]] - (Manuel de la Rocha)
+* [[Buford Wilson (Earth-616)|Beef]] - (Buford Wilson)
+* [[Fabian Marechal-Julbin (Earth-616)|Bevatron]] - (Fabian Marechal-Julbin)
+* [[Sharon Smith (Earth-616)|Catseye]] - (Sharon Smith)
+* [[Angelica Jones (Earth-616)|Firestar]] - (Angelica Jones)
+* [[Haroun ibn Sallah al-Rashid (Earth-616)|Jetstream]] - (Haroun ibn Sallah al-Rashid)
+* [[Jennifer Stavros (Earth-616)|Roulette]] - (Jennifer Stavros)
+* [[Marie-Ange Colbert (Earth-616)|Tarot]] - (Marie-Ange Colbert)
+* [[James Proudstar (Earth-616)|Thunderbird]] - (James Proudstar)
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Hellfire Club Projects]]

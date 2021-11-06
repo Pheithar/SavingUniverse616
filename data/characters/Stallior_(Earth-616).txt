@@ -1,0 +1,60 @@
+{{Marvel Database:Character Template
+| Image                   = Stallior (Earth-616) from Official Handbook of the Marvel Universe Vol 2 6 001.JPG
+| Name                    = Stallior
+| CurrentAlias            = 
+| Aliases                 = Stallior the Centaur{{r|Incredible Hulk Special #1}}
+
+| Affiliation             = [[Maximus Boltagon (Earth-616)|Maximus]]; {{m|Crimson Cadre}}, {{M|League of Evil Inhumans}}, {{m|Inhuman Royal Guard|Royal Guard}}{{r|Official Handbook of the Marvel Universe Vol 2 #6}}
+| Relatives               = [[Chiron (Inhuman) (Earth-616)|Chiron]] (brother)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe Vol 2 6}}
+| Gender                  = Male
+| Height                  = 7'1"
+| Weight                  = 425 lbs
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = Equine lower body (hooves, tail)
+
+| Origin                  = [[Inhomo supremis|Inhuman]] powered by hereditary transfer of attributes
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Attilan]], [[Atlantic Ocean]]
+
+| Identity                = No Dual
+| Citizenship             = Attilan
+| Occupation              = Former guardsman, now renegade
+| Education               = 
+| BaseOfOperations        = [[Attilan]]
+
+| Creators                = Gary Friedrich; Marie Severin
+| First                   = Incredible Hulk Special #1
+
+| History                 = Stallior was one of the [[Inhomo supremis|Inhumans]] who fought on [[Maximus Boltagon (Earth-616)|Maximus]]' side during his coup against [[Blackagar Boltagon (Earth-616)|Black Bolt]] and helped Maximus escape in a spaceship with other supporters.{{r|Fantastic Four #83}}
+
+During their trial, Stallior turned against his fellow conspirators. Still, he was exiled along with them.{{r|Incredible Hulk Special #1}}
+
+...{{r|Incredible Hulk Special #1}}<!-- adventure with Hulk and the forbidden substance of Romnar -->
+
+Apparently, he was allowed to return, as he was later tasked with guarding the imprisoned Maximus{{r|Inhumans #1}}. He was then brainwashed by [[Leonus (Earth-616)|Leonus]] who had been struck by a Kree mind-control device to free Maximus from his prison, allowing him to round up half of the Inhumans to return them to the Kree.{{r|Inhumans #5|6}}
+
+Leonus, Stallior and Falcona were brainwashed by Maximus into being members of the {{m|Crimson Cadre}} who were also under his thrall.{{r|Quicksilver #6}} 
+
+| Powers                  = Super-Strength
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = Like the rest of the Inhumans, Stallior has a weak immune system.
+
+| Equipment               = Stallior is shown to wield a ball-tipped flail and a circular shield.
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+|Citizenship2=New Attilan}}
+[[Category:Hooves]]
+[[Category:Tail]][[Category:Infobox UnusualFeatures Update Needed]]
+[[Category:Equine Form]]
+[[Category:Inhumans Powered by Hereditary Transfer of Attributes]]

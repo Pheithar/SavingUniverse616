@@ -1,0 +1,50 @@
+{{Marvel Database:Character Template
+| Image                   = Slave-Master (Earth-616) from Fantastic Four Vol 1 89 001.png
+| Name                    = 
+| CurrentAlias            = Slave-Master
+| Aliases                 = The Slaver
+
+| Affiliation             = {{m|Skrull Slavers (Earth-616)|Skrull Slavers}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = Variable
+| Weight                  = Variable
+| Eyes                    = Green
+| Hair                    = None
+| UnusualSkinColor        = Green
+| UnusualFeatures         = Pointed ears
+
+| Origin                  = [[Deviant Skrull|Skrull]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Kral IV]], [[Skrull Empire]]
+
+| Identity                = Secret
+| Citizenship             = Skrull Empire
+| Occupation              = Slaver
+| Education               = 
+| BaseOfOperations        = [[Kral IV]], [[Skrull Empire]]
+
+| Creators                = Stan Lee; Jack Kirby;
+| First                   = Fantastic Four #89
+
+| History                 = The Slave-Master was a slaver affiliated with the [[Skrulls]] of Kral who mimicked the lifestyle of Earth in the 1930s. He arrived on Earth, impersonating [[Reed Richards (Earth-616)|Reed Richards]] and kidnapped [[Benjamin Grimm (Earth-616)|The Thing]]. He brought him to Kral and sold him to [[Boss Barker (Earth-616)|Boss Barker]].{{r|Fantastic Four #89|93}}
+
+| Powers                  = * '''[[Skrull Shape-Shifting]]'''
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   =  
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * [http://www.marvunapp.com/Appendix/kralskrulls.htm#master Slave-Master on Marvunapp]
+}}
+[[Category:Crimelords]]

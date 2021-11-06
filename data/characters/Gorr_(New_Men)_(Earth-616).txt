@@ -1,0 +1,60 @@
+{{Marvel Database:Character Template
+| Image                   =Gorr (New Men) (Earth-616) from Fantastic Four Vol 1 172 0001.jpg
+| Name                    = 
+| CurrentAlias            = Gorr
+| Aliases                 = Gorr the Golden Gorilla
+
+| Affiliation             = [[New Men]] [[Category:New Men]]
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 5'8"
+| Weight                  = 225 lbs
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = Evolved [[Gorillas|Gorilla]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = laboratory of [[Herbert Wyndham (Earth-616)|High Evolutionary (Herbert Wyndham)]] orbiting [[Counter-Earth (Earth-1123)]]
+
+| Identity                = No Dual
+| Citizenship             = 
+| Citizenship2            = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Roy Thomas; George Perez
+| First                   = Fantastic Four #171
+
+| History                 = 
+In response to a threat to the [[Counter-Earth (High Evolutionary)|Counter-Earth]] from [[Galan (Earth-616)|Galactus]], Gorr was evolved from a gorilla by the [[Herbert Wyndham (Earth-616)|High Evolutionary (Herbert Wyndham)]] and sent to Earth{{r|Fantastic Four #172}}. When Gorr arrived on Earth, he grew to an enormous size, panicked and began a rampage across Manhattan until he was subdued by the [[Fantastic Four (Earth-616)|Fantastic Four]]{{r|Fantastic Four #171}}. After returning to normal size, Gorr told the Fantastic Four that Earth's atmosphere caused him to grow, which made him panic and lose control{{r|Fantastic Four #172}}. Gorr teamed up with the [[Jonathan Storm (Earth-616)|Human Torch (Jonathan Storm)]] to find a suitable planet for Galactus to consume in place of Counter-Earth{{r|Fantastic Four #173}}. After the ordeal, Johnny asked Gorr what his plans for the future were, to which Gorr replied that he would remain a valet to the High Evolutionary{{r|Fantastic Four #175}}.
+
+He was captured by the enigmatic alien, the [[Stranger (Cosmic Being) (Earth-616)|Stranger]], and were imprisoned in the Stranger's [[Labworld]] for the alien to study him. He remained their until freed by [[Grom (Earth-616)|Overmind]].{{r|{{r|Quasar Vol 1 #16}}}}
+
+| Powers                  =
+
+
+* '''Superhuman strength'''
+* '''Invulnerability to fire''' {{r|Fantastic Four #171}} (Gorr shows he is capable of withstanding attack from the [[Jonathan Storm (Earth-616)|Human Torch]]).
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * [http://www.marvunapp.com/Appendix/gorrtgg.htm Gorr at the Marvel Appendix]
+}}
+[[Category:Superhuman Strength]]
+[[Category:Giant Monsters]]
+[[Category:High Evolutionary Experiment]]
+[[Category:Genetically Engineered]]
+[[Category:Fur]]
+[[Category:Ape Form]]

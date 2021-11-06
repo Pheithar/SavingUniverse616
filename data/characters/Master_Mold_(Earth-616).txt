@@ -1,0 +1,111 @@
+{{Marvel Database:Character Template
+| Image                   = Master Mold (Earth-616), Brian Braddock (Earth-616), and Human Torch (Android) (Earth-616) from Secret Avengers Vol 1 36 0001.jpg
+| Name                    = Master Mold
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = Formerly {{m|Descendants (Earth-616)|Descendants}}, [[Bolivar Trask (Earth-616)|Bolivar Trask]], [[Stephen Lang (Earth-616)|Stephen Lang]]
+| Relatives               = [[Bolivar Trask (Earth-616)|Bolivar Trask]] (designer, deceased);<br>
+[[Stephen Lang (Earth-616)|Stephen Lang]] (rebuilder, deceased);<br>
+[[Sentinels Mk I (Earth-616)|Sentinels Mk I]] (defunct);<br>
+[[Sentinel Number 2 (Earth-616)|Number Two]] (following model, defunct);<br>
+[[Sentinels Mk III (Earth-616)|Sentinels Mk III]] (defunct);<br>
+[[Tri-Sentinel (Earth-616)|Tri-Sentinel]] (defunct);<br>
+[[Bastion (Earth-616)|Bastion]] (reincarnation, deceased);<br>
+[[Core Command|Central/Core Command]] (following model, defunct);<br>
+[[Mother Mold (Earth-616)|Mother Mold]] (following model, defunct)
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 30'0"
+| Weight                  = Variable; depending on available materials
+| Eyes                    = Yellow
+| Hair                    = None
+| UnusualSkinColor        = Grey; (usually), but variable depending on available materials
+| UnusualFeatures         = Robotic body, sometimes appears to be built from scrap metal.
+
+| Origin                  = [[Sentinels|Sentinel]] [[Master Mold]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Sentinel Headquarters]], [[New York (State)|New York]]; Later rebuilt at the [[Sentinel Space Station]] in Earth orbit
+| PlaceOfDeath            = [[New York City]], [[New York (State)|New York]]
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = Mutant Hunter 
+| Education               = 
+| BaseOfOperations        = Mobile 
+
+| Creators                = Stan Lee; Jack Kirby
+| First                   = X-Men Vol 1 15
+| Death                   = Magneto Vol 3 3
+
+| Quotation               = All systems on-line and fully functional. Master Mold once more restored... to full operational capability.
+| Speaker                 = [[Master Mold (Earth-616)|Master Mold]]
+| QuoteSource             = Uncanny X-Men Vol 1 246
+
+| History                 = Master Mold was created by [[Bolivar Trask]] to build an army of [[Sentinels Mk I|MK I Sentinels]] to control the [[Homo superior|mutant]] population. However, this version was damaged when the [[Sentinel Headquarters]] was destroyed by the [[X-Men (Earth-616)|X-Men]].{{r|X-Men Vol 1 14|16}}
+
+After Trask's death, the government of the [[United States of America|United States]] put the Sentinel operation under the command of a [[Stephen Lang (Earth-616)|Stephen Lang]], a mutant-hating bigot who began reconstructing Sentinels with Trask's notes for his own goals.{{r|X-Men Vol 1 96}} The [[Hellfire Club (Earth-616)#Inner Circle Lineups|Inner Circle]] of the [[Hellfire Club (Earth-616)|Hellfire Club]] provided him with funds, not knowing that he wanted to kill all mutants. Lang rebuilt the Master Mold, but did not use it.
+
+During a battle against the X-Men, they destroyed the [[Sentinel Space Station|space station]] where Lang and the Sentinels were. Lang was lobotomized, but his memory-engrams were printed in Master Mold's computers. Thus, Master Mold suddenly believed that it was Lang himself.{{r|X-Men Vol 1 100}}
+
+Surviving the explosion, Master Mold built a new base on a nearby asteroid and then went to [[Earth]] to capture [[Warren Worthington III (Earth-616)|Angel]] and [[Robert Drake (Earth-616)|Iceman]]. Master Mold also, accidentally, captured the [[Bruce Banner (Earth-616)|Hulk]]. The three heroes managed to escape their prison and the Hulk severely damaged Master Mold. Master Mold tried to blow away the station to destroy the mutants, but the mutants and the Hulk managed to escape.{{r|Incredible Hulk Annual Vol 1 7}}
+
+The damaged body of Master Mold fell into the sea, off the coast of [[Alaska (State)|Alaska]]. Using its reconstruction facilities, the wreckage from an oil platform, and sunken ships, Master Mold was again complete and detected [[X-Factor (Earth-616)|X-Factor]] leader, [[Scott Summers (Earth-616)|Cyclops]], in [[Anchorage]], looking for his missing [[Madelyne Pryor (Earth-616)|wife]] and [[Nathaniel Summers (Earth-616)|son]]. Master Mold attacked him, but Cyclops tricked him into shooting gas storage tanks  The resulting explosion destroyed Master Mold's body, again, but its brain module survived.{{r|X-Factor Vol 1 13|14}}
+
+Somehow, Master Mold reached [[Muir Island]] and mind controlled [[Moira MacTaggert (Earth-TRN748)|Dr. Moira MacTaggert]]. Master Mold then made her create the [[Retribution Virus]], which stopped mutants from using their powers and then killed them. However, Dr. MacTaggert's lover, [[Sean Cassidy (Earth-616)|Banshee]], noticed something wrong and called Cyclops for help. Cyclops went to Muir Island and Master Mold tried to kill him twice, but failed.{{r|Marvel Comics Presents Vol 1 17|18}}
+
+Master Mold infected Banshee and a mutant girl with the virus, and then captured them. Cyclops tried to stop Master Mold's robots from taking them away, but was then defeated. However, he managed to rescue Dr. MacTaggert from the mind control. Dr. MacTaggert then tried to research for a cure, but Muir Island was then invaded by Master Mold's robots, which were led by an special robot, [[Conscience (Earth-616)|Conscience]], which was programmed with Lang's memory-engrams and a skill to feel emotions. Dr. MacTaggert, Cyclops, and his ally, [[Callisto (Earth-616)|Callisto]], were defeated by the robots, infected with the virus (except for Dr. MacTaggert), and taken to Master Mold.{{r|Marvel Comics Presents Vol 1 19|20}}
+
+Master Mold and the Conscience discovered that the virus had mutated and also killed normal humans. Master Mold insisted on using it anyhow, assuming that a small number of normal humans would survive that could be controlled to avoid the birth of new mutants. However, Conscience, being emotional, decided that it would be unfair and apparently destroyed Master Mold, and later itself, to avoid the use of the virus.{{r|Marvel Comics Presents Vol 1 21|24}}
+
+Somehow Master Mold survived and decided to destroy  [[Franklin Richards (Earth-616)|Franklin Richards]] who was then of nursery-school age. Franklin's friends, the team called [[Power Pack (Earth-616)|Power Pack]], fought back, saving their friend and destroying Master Mold. However they failed to destroy his brain module which was later found by the advanced Sentinel, [[Nimrod (Earth-811)|Nimrod]]. Nimrod and Master Mold merged together and battled the X-Men only to be forced into the [[Siege Perilous]].{{r|Uncanny X-Men Vol 1 247}}
+
+The Master Mold reappeared and joined [[Father (Earth-616)|Father]]'s [[Descendants (Earth-616)|Descendants]]. Master Mold "died" in the final battle against the [[Secret Avengers (Black Ops Unit) (Earth-616)|Secret Avengers]], after being overpowered by [[Brian Braddock (Earth-616)|Captain Britain]].{{r|Secret Avengers Vol 1 37}}
+
+Another Master Mold would turn up in Down Acres, North America; where a rogue survivalist program was using it's technology to experiment with precursor Omega Prime Sentinel technology for protection in the post-apocalyptic world to come.{{r|Magneto Vol 3 3}} Such activities would draw the attentions of [[Max Eisenhardt (Earth-616)|Eric Lensher]] to this group after looking up the news of a violent mutant death taking place around rural California, where he follows up on the lead found there in order to seek out and dismantle the hate crime engine.{{r|Magneto Vol 3 1}}
+
+| Powers                  = '''Robot''': As a robot, Master Mold is immune to poisons, sickness and mind attacks. He can also survive underwater or without air. His hull provides him with protection. His brain module can be detached and repair themselves, building a new body providing that they find enough metal; anyone touching the brain module suffers electric damage.<br>
+*'''Sentinel''': Being a Sentinel, he has all the weapons of [[Sentinels Mk I|Mk I Sentinels]] and [[Sentinels Mk III|Mk III Sentinels]].
+** '''Mutant detection'''{{Citation}}
+** '''Flight'''{{Citation}}
+** '''Tracking missiles'''{{Citation}}
+** '''Sleep-inducing Beacon'''{{Citation}}
+** '''Mind control'''{{r|Marvel Comics Presents Vol 1 18}}
+** '''Ice-blast'''{{Citation}}
+** '''Self-Repair'''{{r|Marvel Comics Presents Vol 1 21}}
+*'''Master Mold''': As a Master Mold series sentinel, it has a higher capacity bent towards the production and proliferation other models do not.
+** '''Sentinel Production''': Master Mold has the inherent capability to fabricate and churn out whole new Sentinels from within it's own being or through an external manufacturing apparatus.{{r|X-Men Vol 1 16}}
+*** '''[[Nano-Sentinels]]''': Master Mold's can utilize their sentinel fabrication functionality to create conversion nano-viruses which steadily transform organic tissue into machinery.{{r|Uncanny X-Men Vol 4 15}} They can just as simply refit their own technology for the purpose of baser technological supplementation of living flesh, effectively turning live human beings into prototype Omega Sentinels.{{r|Magneto Vol 3 3}}
+** '''Technokinetic Assimilation''': After it's union with a [[Nimrod (Earth-811)|future model Sentinel]], Master Mold gained the ability to control and interface with mechanical components as well as any adjacent cybernetic interfacing.{{r|Uncanny X-Men Vol 1 246}}{{r|Marvel Comics Presents Vol 1 23}}
+** '''Size Manipulation''' The Master Mold can adjust his physical height and mass in order to blend in with it's surroundings.{{r|Incredible Hulk Annual Vol 1 7}}
+
+| Abilities               = With Lang's memory-engrams, Master Mold is an expert in electronics and robotics, constructing different robots to prove it.
+| Strength                = Superhuman strength with an unknown upper limit.
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = Flight under his own power.
+| Weapons                 = Internal weapons.
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * [http://uncannyxmen.net/characters/manufacturing-menace-master-mold uncannyxmen.net Bring on the Bad Guys: Manufacturing Menace - Master Mold]
+}}
+[[Category:Siege Perilous users]]
+[[Category:Master Molds]]
+[[Category:Artificial Intelligences]]
+[[Category:Flight]]
+[[Category:Superhuman Reflexes]]
+[[Category:Superhuman Strength]]
+[[Category:Cryokinesis]]
+[[Category:Mind Control]]
+[[Category:Robotics]]
+[[Category:Regeneration]]
+[[Category:Duplication]]
+[[Category:Technopaths]]
+[[Category:Technology]]
+[[Category:Size Alteration]]

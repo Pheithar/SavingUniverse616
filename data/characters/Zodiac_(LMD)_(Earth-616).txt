@@ -1,0 +1,42 @@
+{{Marvel Database:Team Template
+| Image                   = Zodiac (LMD) (Earth-616) from West Coast Avengers Vol 2 26 0001.jpg
+| ImageSize               = 250px
+| Name                    = [[Zodiac]]
+| Aliases                 = 
+| Distinguish1            = Zodiac 
+
+| Status                  = Defunct
+
+| Identity                = Secret
+| Reality                 = Earth-616
+| BaseOfOperations        = America
+
+| Leaders                 = [[Jacob Fury (LMD) (Earth-616)|Scorpio (Jake Fury)]] 
+| CurrentMembers          = 
+| FormerMembers           = 
+[[Aquarius (LMD) (Earth-616)|Aquarius]], [[Aries (LMD) (Earth-616)|Aries]], [[Cancer (LMD) (Earth-616)|Cancer]], [[Capricorn (LMD) (Earth-616)|Capricorn]],  [[Gemini (LMD) (Earth-616)|Gemini]], [[Leo (LMD) (Earth-616)|Leo]], [[Libra (LMD) (Earth-616)|Libra]], [[Pisces (LMD) (Earth-616)|Pisces]], [[Sagittarius (LMD) (Earth-616)|Sagittarius / "Hawkeye"]], [[Taurus (LMD) (Earth-616)|Taurus]], [[Virgo (LMD) (Earth-616)|Virgo]], [[Leo (Female LMD) (Earth-616)|Leo (Female) / "Tigra"]]
+| Allies                  = Formerly [[Pietro Maximoff (Earth-616)|Quicksilver]] 
+| Enemies                 = [[Defenders (Earth-616)|Defenders]], [[Avengers (Earth-616)|Avengers]], [[Marc Spector (Earth-616)|Moon Knight]], [[James Rhodes (Earth-616)|Iron Man]], [[Avengers West Coast (Earth-616)|Avengers West Coast]]
+
+| Origin                  = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = David Kraft; Keith Giffen
+| First                   = Defenders Vol 1 #49
+| Last                    = West Coast Avengers Vol 2 28
+
+| HistoryText             = 
+[[File:Zodiac (LMD) (Earth-616) from Defenders Vol 1 50 001.jpg|thumb|left|The LMD Zodiac's original look]] When a [[Life-Model Decoy]] of [[Jacob Fury (Earth-616)|Jake Fury]] became the criminal [[Jacob Fury (LMD) (Earth-616)|Scorpio]], he tried to create his own version of the criminal group Zodiac. This one, however, was made up of LMDs like himself. Scorpio searched for [[Kyle Richmond (Earth-616)|Kyle Richmond]] so that he could ransom him to gain money, but this brought him into conflict with the superhero team the [[Defenders (Earth-616)|Defenders]].{{r|Defenders Vol 1 #46|#49}} The Defenders found Scorpio's base and battled his Zodiac with the help of [[Marc Spector (Earth-616)|Moon Knight]]. By the end of the battle, nearly all of this Zodiac was destroyed, except for [[Gemini (LMD) (Earth-616)|Gemini]], who aided the Defenders, and [[Libra (LMD) (Earth-616)|Libra]], who left before the fight ended.{{r|Defenders Vol 1 #50}} 
+
+Under mysterious circumstances, another full contingent of android LMD Zodiac members were created, some of them resembling the earlier team while others did not. This team were recruited by the mutant [[Pietro Maximoff (Earth-616)|Quicksilver]] in a scheme to discredit his former teammates the [[Avengers (Earth-616)|Avengers]]. The team split into three groups and battled the Avengers in different locations alongside Quicksilver, but were defeated by the heroes.{{r|West Coast Avengers Annual Vol 1 1}}
+
+Later Scorpio's Zodiac killed all the members of the original [[Zodiac Cartel (Earth-616)|Zodiac Cartel]], except for [[Gustav Brandt (Earth-616)|Libra (Gustav Brandt)]] and [[Cornelius van Lunt (Earth-616)|Taurus (Cornelius van Lunt)]]; after the final battle with the [[Avengers West Coast (Earth-616)|West Coast Avengers]], the Zodiac members were deactivated.{{r|West Coast Avengers Vol 2 26|28}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = * This Zodiac all had personalities that conformed to the typical traits associated with the star signs they represented.{{r|West Coast Avengers Vol 2 #26}}
+| Links                   = 
+}}

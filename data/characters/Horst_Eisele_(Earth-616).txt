@@ -1,0 +1,50 @@
+{{Marvel Database:Character Template
+| Image                   = Horst Eisele (Earth-616) from Thunderbolts Vol 1 0 0001.jpg
+| Name                    = Horst Eisele 
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{m|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Grey
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Kurt Busiek; Mark Bagley
+| First                   = Thunderbolts #0
+
+| History                 = 
+
+| Powers                  = Vest enabled '''Super-Strength''', '''Flight''', and '''Power Fists'''
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = [[Hydra (Earth-616)|Hydra]] Power Vest
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Flight]]
+[[Category:Superhuman Strength]]

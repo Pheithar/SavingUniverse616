@@ -1,0 +1,52 @@
+{{Marvel Database:Character Template
+| Image                   = Marcus Tucker (Earth-616) from New X-Men Vol 1 117 0001.png
+| Name                    = Marcus Tucker
+| Name2                   = <ref>{{cl|Official Handbook of the Marvel Universe A-Z Vol 1 13}}, X-Men entry</ref>
+| CurrentAlias            = Forearm
+| Aliases                 = 
+
+| Affiliation             = [[Xavier Institute student body]]
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Black
+| UnusualFeatures         = Marcus had elongated forearms
+
+| Origin                  = Depowered [[Homo superior|mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = 
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Grant Morrison; Ethan van Sciver
+| First                   = New X-Men #117
+
+| History                 = Forearm was a student at [[Xavier's]]. He was depowered on M-Day.{{r|New Avengers #18}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Depowered Mutants]]
+[[Category:Xavier Institute Student]]
+[[Category:M-Day Depowered]]

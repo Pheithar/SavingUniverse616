@@ -1,0 +1,58 @@
+{{Marvel Database:Character Template
+| Image                   = Taranith_Gestal_(Earth-616)_from_Fantastic_Four_Vol_1_254_0001.jpg
+| Name                    = Taranith Gestal
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = {{cl|Marvel Encyclopedia Vol 1 Fantastic Four}}
+| Gender                  = 
+| Height                  = 19'0"
+| Weight                  = 31 lbs
+| Eyes                    = No Iris
+| Eyeballs                = Red
+| Hair                    = None
+| UnusualFeatures         = 
+
+| Origin                  = [[Alien]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = 
+| Citizenship             = 
+| Occupation              = former ruler of Mantracora 
+| Education               = 
+| BaseOfOperations        = formerly Mantracora, [[Negative Zone]]
+
+| Creators                = John Byrne
+| First                   = Fantastic Four #254
+| Death                   = Fantastic Four #255
+
+| History                 = 
+'''Taranith Gestal''' crash landed his spacecraft on a planet in the [[Negative Zone]].<ref>{{cl|Fantastic Four #254}}</ref> Taranith manipulated the inhabitants of the planet into thinking he was their god. The populace of Mantacora made live human sacrifices to him, and he drained their minds to power the "living matrix" which fuled his ship. His ultimate plan was to obtain enough power to blast away from the planet. 
+
+The [[Fantastic Four (Earth-616)|Fantastic Four]] encountered the planet when they were exploring the [[Negative Zone]]. [[Reed Richards (Earth-616)|Reed Richards]] was captured and had his mind drained into Taranith's ship. While Reed's mind supplied the necessary power to allow Taranith to blast away, Reed was able to take over control of the ship, at which time Taranith jettisoned away in an escape pod.<ref>{{cl|Fantastic Four #255}}</ref>  Ultimately, Reed restored his mind to his body, and Taranith appeared to die when his escape pod exploded after it malfunctioned. {{r|Fantastic Four #255}}
+
+| Powers                  = 
+* '''Telepathic communication'''
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+* '''Humanoid Suit of Armor''': Taranith used this suit to fool the people of Mantracora into thinking he was a god. It also concealed his frail form. 
+| Transportation          = 
+* '''Spacecraft''': Taranith's spacecraft was powered by a technology known as the "living matrix." 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Telepaths]]

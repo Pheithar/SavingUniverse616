@@ -1,0 +1,52 @@
+{{Marvel Database:Character Template
+| Image                   = William Fields (Earth-616) from Spider-Man Vol 1 76 001.png
+| Name                    = [[William Fields]]
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra}}
+| Relatives               = [[Marjory Fields (Earth-616)|Marjory Fields]] (wife);<br>[[Todd Fields (Earth-616)|Todd Fields]] (son)
+| MaritalStatus           = Married
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = University professor, scientist
+| Education               = 
+| BaseOfOperations        = [[New York City]], [[New York (State)|New York]]
+
+| Creators                = Howard Mackie; John Romita Jr.
+| First                   = Spider-Man #76
+| Death                   = Spider-Man #76
+
+| History                 = Todd's father, William, was a scientist working with [[Sydney Lanning (Earth-616)|Sydney Lanning]] at Empire State University; he was murdered for his research{{r|Spider-Man Vol 1 #76}}.
+
+| Personality             = 
+
+| Powers                  = None
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

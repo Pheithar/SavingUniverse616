@@ -1,0 +1,49 @@
+{{Marvel Database:Character Template
+| Image                   = Calizuma (Earth-616) from Defenders Vol 1 2 001.png
+| Name                    = 
+| CurrentAlias            = Calizuma
+| Aliases                 = 
+
+| Affiliation             = [[Undying Ones]]; {{m|Warrior Wizards}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Sorcerer
+| Education               = 
+| BaseOfOperations        = [[Himalayas]]
+
+| Creators                = Steve Englehart; Sal Buscema
+| First                   = Defenders #2
+
+| History                 = Calizuma and his warrior wizards found a valley in the [[Himalayas]] and altered their appearance to seem as man-apes, to attract there the [[Norrin Radd (Earth-616)|Silver Surfer]]. While he thought he was teaching them, they were subtly penetrating and controlling his mind, in order for him to serve the [[Undying Ones]]. Calizuma was eventually defeated by the [[Defenders (Earth-616)|Defenders]], who took him down by striking him with all their power at once.{{r|Defenders Vol 1 #2}}
+
+| Powers                  = He was a magician powerful enough that  it took all four original Defenders to defeat him. He is a skilled illusion-caster and could project mystical bolts of energy from his hands among other abilities. 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Magicians]]

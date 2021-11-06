@@ -1,0 +1,46 @@
+{{Marvel Database:Character Template
+| Image                   = Celeste (Earth-616) from What is it That Disturbs You Stephen Vol 1 1 001.png
+| Name                    = Celeste
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = [[Electra (Sorceress) (Earth-616)|Electra]] (sister), [[Roark (Earth-616)|Roark]] (father, deceased)
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Red
+| Hair                    = Purple
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Ditkopolis]]
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = Sorceress
+| Education               = 
+| BaseOfOperations        = [[Ditkopolis]]
+
+| Creators                = Marc Andreyko; P. Craig Russell
+| First                   = Doctor Strange What is it That Disturbs You Stephen? Vol 1 1
+
+| History                 = Celeste was saved by [[Stephen Strange (Earth-616)|Doctor Strange]] from [[Electra (Sorceress) (Earth-616)|her sister]]'s imprisonment spell.{{r|Doctor Strange What is it That Disturbs You Stephen? Vol 1 1}}
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

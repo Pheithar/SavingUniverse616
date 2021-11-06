@@ -1,0 +1,51 @@
+{{Marvel Database:Race Template
+| Image                   = Ultroids_from_Avengers_Vol_1_37_001.jpg
+| Name                    = 
+| Aliases                 = 
+| Identity                = 
+| Affiliation             = [[Ixar (Earth-616)|Ixar]]
+| Universe                = Earth-616
+| BaseOfOperations        = 
+
+| BodyType                = Humanoid
+| AvgHeight               = 
+| AvgWeight               = 
+| Eyes                    = 
+| Hair                    = 
+| Skin                    = Orange
+| NumberOfLimbs           = 4
+| NumberOfFingers         = 5
+| NumberOfToes            = 
+| SpecialAdaptations      = 
+| UnusualFeatures         = 
+
+| Origin                  = Robots made by [[Ixar (Earth-616)|Ixar]]
+| GalaxyOfOrigin          = 
+| StarSystemOfOrigin      = 
+| HomePlanet              = 
+| PlaceOfBirth            = 
+| Creators                = Roy Thomas
+| First                   = Avengers Vol 1 36
+| Last                    = 
+
+| HistoryText             = The Ultroids were an army of robots in the service to [[Ixar (Earth-616)|Ixar]].{{r|Avengers #36|37}}
+
+| Habitat                 = 
+| Gravity                 = 
+| Atmosphere              = 
+| Population              = 
+
+| Powers                  = 
+| Abilities               = 
+| AvgStrength             = 
+| Weaknesses              = 
+
+| GovernmentType          = 
+| TechnologyLevel         = 
+| CulturalTraits          = 
+| Representatives         = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

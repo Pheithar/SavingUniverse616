@@ -1,0 +1,249 @@
+{{Marvel Database:Character Template
+| Title                   = [[Nick Fury]]
+| Image                   = Nicholas Fury (Earth-616) from Fantastic Four Vol 6 25 001.jpg
+| Name                    = [[Nick Fury|Nicholas Joseph "Nick" Fury, Sr.]]
+| CurrentAlias            = 
+| Aliases                 = Agent A-1,{{r|Strange Tales #137}} Doyle,{{citation}} [[Gemini]],{{r|Secret Warriors #25}} [[Man in the Mystery Mask]],{{r|Fantastic Four #154}} Mr. Anger,{{r|Nick Fury, Agent of S.H.I.E.L.D. Vol 3 15}} Mr. Ollen,{{r|Nick Fury, Agent of S.H.I.E.L.D. Vol 3 36}} [[Nick Fury]],{{r|Sgt. Fury Vol 1 1}} Nicky Boy,{{r|Deadpool Vol 4 3}} [[Patch]],{{r|Iron Man: Hypervelocity #2}} Rudolf Valentino,{{r|Sgt. Fury Vol 1 37}} [[Scorpio]],{{r|Battle Scars #4}} [[Sgt. Fury]],{{r|Sgt. Fury Vol 1 1}} [[The Man on the Wall]],{{r|Original Sin #5}} The One-Eyed Man,{{r|Irredeemable Ant-Man Vol 1 6}} [[Unseen|The Unseen]]{{r|Original Sin Vol 1 8}}
+
+| Affiliation             = [[Uatu (Earth-616)|Uatu the Watcher]]; formerly [[James Buchanan Barnes (Earth-616)|Bucky Barnes]], [[Timothy Dugan (Earth-616)|Dum Dum Dugan]], {{m|Secret Warriors}}, {{m|Howling Commandos Private Military Company (Earth-616)|Howling Commandos PMC}}; {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}, {{m|Central Intelligence Agency (Earth-616)|CIA}} (former agent), {{m|Office of Strategic Services|OSS}} (former intelligence agent), {{m|United States Army}} (former colonel), {{m|Howling Commandos (Earth-616)|Howling Commandos}}, {{m|Avengers (1950s) (Earth-616)}}, {{m|Zodiac (Great Wheel) (Earth-616)|Great Wheel of the Zodiac}}, liaison to [[MI5 (Earth-616)|MI5]],{{r|Secret War #5}} {{m|Weapon Plus (Earth-616)|Weapon Plus}}, {{m|Zodiac Cartel}} (infiltrator)
+| Relatives               = [[Rex Fury (Earth-616)|Rex Fury]] (alleged ancestor, deceased);<br>
+[[Jack Fury (Earth-616)|Jack Fury]] (father, deceased);<br>
+[[Katherine Fury (Earth-616)|Katherine Fury]] (mother, deceased);<br>
+[[Mama Fury (Earth-616)|unnamed stepmother]] (deceased);<br>
+[[Dawn Fury (Earth-616)|Dawn Fury]] (sister);<br>
+[[Jacob Fury (Earth-616)|Jake Fury]] (brother);<br>
+[[Mikel Fury (Earth-616)|Mikel Fury]] (son, deceased);<br>
+[[Nicholas Fury, Jr. (Earth-616)|Nick Fury, Jr.]] (son);<br>
+[[Vernon Fury (Earth-616)|Vernon Fury]] (great nephew);<br>
+[[Guido Sapristi (Earth-616)|Jerry Sapristi]] (cousin);<br>
+[[Tina Sapristi (Earth-616)|Tina Sapristi]] (cousin by marriage);<br>
+[[Ernesto Sapristi (Earth-616)|Ernesto]], [[Pietro Sapristi (Earth-616)|Pietro]], [[Giovanni Sapristi (Earth-616)|Giovanni]], [[Maria Sapristi (Earth-616)|Maria]], [[Rosa Sapristi (Earth-616)|Rosa]] and [[Gabriella Sapristi (Earth-616)|Gabriella]] (1st cousins once removed)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #4}}
+| Gender                  = Male
+| Height                  = 6'1"
+| Weight                  = 221 lbs
+| Eyes                    = Brown
+| Hair                    = Bald (Formerly brown)
+| Hair2                   = (formerly [[:Category:Brown Hair|brown]][[Category:Brown Hair]] with [[:Category:White Hair|white]][[Category:White Hair]][[Category:Infobox Eyes Update Needed]] at the temples)
+| UnusualFeatures         = Nick wore an eye-patch over his blind left eye
+
+| Origin                  = [[Homo sapiens|Human]], formerly had his aging-slowed by the [[Infinity Formula]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[New York City]], [[New York (State)|New York]]
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Former [[Glossary:Cosmic Beings|Cosmic Being]],{{r|Exiles Vol 3 1}} fugitive, Director of S.H.I.E.L.D., intelligence agent, soldier, boxer
+| Education               = High school, possibly unfinished; extensive military and intelligence training
+| BaseOfOperations        = [[Blue Area of the Moon]], [[Luna (Moon)|Moon]]; formerly [[S.H.I.E.L.D. Helicarrier]], [[Manhattan]], [[New York City]]
+
+| Creators                = Stan Lee; Jack Kirby
+| First                   = Sgt. Fury Vol 1 1
+| First2                  = (As Nick Fury)<br>{{sld|Original Sin #8}}(As The Unseen)
+
+| Quotation               = I've killed... More times than I can count. I've burned worlds. Destabilised galaxies. Dethroned gods. And I did it without any of them even knowing my name. That's what it means to be the man on the wall. To be the invisible monster who keeps the other monsters at bay. 
+| Speaker                 = [[Nicholas Fury (Earth-616)|Nick Fury]]
+| QuoteSource             = Original Sin Vol 1 5
+
+| History                 = <center>''This is an abridged version of Nick Fury's history. For a complete history see '''[[Nicholas Fury (Earth-616)/Expanded History|Nick Fury's Expanded History]]'''''</center>
+
+===Early Life===
+The eldest of three children, Nicholas Joseph Fury grew up in Depression-era New York City with his brother [[Jacob Fury (Earth-616)|Jacob]] and sister [[Dawn Fury (Earth-616)|Dawn]]. Fury's mother died while he was very young and his father [[Jack Fury (Earth-616)|Jack Fury]], an American pilot who joined the British war effort during [[World War I]], remarried and the children were raised by his stepmother in lieu of Jack Fury's own early death.{{r|Strange Tales #159}} It wouldn't be until Nick Fury became a soldier himself overseas that he would learn of his father's military service.{{r|Sgt. Fury Vol 1 76}} Living in the tough streets of [[Hell's Kitchen]], Fury soon became fast friends with [[Red Hargrove (Earth-616)|Red Hargrove]],{{r|Sgt. Fury Vol 1 7}} whom he helped keep out of trouble. Fury himself was no stranger to trouble, but more than often confined it to the boxing ring where he would bout, or in the Police Athletic League where he became one of the finest marksman.{{r|1939 Daily Bugle #1}}
+
+===[[World War II]]===
+Nick Fury and Hargrove caught the eye of [[Samuel Sawyer (Earth-616)|Lt. "Happy Sam" Sawyer]] who enlisted them for a special mission in Holland. On this mission Fury made the acquaintance of his future life-long friend, the circus strongman [[Timothy Dugan (Earth-616)|Timothy "Dum Dum" Dugan]].{{r|Sgt. Fury Vol 1 34}} Seeing the Nazi menace firsthand, Hargrove was moved to say he would enlist, and Fury said he would follow him. However Fury didn't enlist until 1941, where he received nine weeks of basic training at Fort Dix without Red Hargrove, hoping to ride out the wave of unemployment in the States.{{r|Sgt. Fury Vol 1 62}} Eventually Fury reunited with Hargrove, both getting stationed at [[Pearl Harbor]].{{r|Sgt. Fury Vol 1 34}}
+
+Following the Japanese attack on Pearl Harbor, Fury was spurred on by the death of Hargrove during the attack to join the U.S. Rangers,{{r|Sgt. Fury Vol 1 7}} and was eventually recruited and reunited with Captain Sawyer who assigned him command of the First Attack Squad; aka the [[Howling Commandos (WWII) (Earth-616)|"Howling Commandos,"]] a specially-trained band of soldiers who undertook some of the most dangerous missions of the war. Together with Dum Dum Dugan as his second in command, Fury led [[Gabriel Jones (Earth-616)|Gabe Jones]], [[Robert Ralston (Earth-616)|Robert "Reb" Ralston]], [[Dino Manelli (Earth-616)|Dino Manelli]], [[Isadore Cohen (Earth-616)|Izzy Cohen]] and [[Jonathan Juniper (Earth-616)|Jonathan Juniper]], as well as their later additions [[Percival Pinkerton (Earth-616)|Percival Pinkerton]] and [[Eric Koenig (Earth-616)|Eric Koenig]] against the likes of [[Johann Shmidt (Earth-616)|Red Skull]], [[Heinrich Zemo (Earth-616)|Baron Heinrich Zemo]],{{r|Sgt. Fury Vol 1 8}} and other Axis villains, fighting alongside such war heroes as [[Steven Rogers (Earth-616)|Captain America]] and [[James Buchanan Barnes (Earth-616)|Bucky]].{{r|Sgt. Fury Vol 1 13}} As leader of the Howling Commandos, Fury struck blow after blow against the Nazis and their allies through missions that ranged from deep infiltration missions behind enemy lines to undercover work and even some home front action. It was during one of these missions that he first met [[Reed Richards (Earth-616)|Reed Richards]] who would go on to become Mister Fantastic, leader of the [[Fantastic Four (Earth-616)|Fantastic Four]].{{r|Sgt. Fury Vol 1 3}}
+
+[[File:Secret Warriors Vol 1 17 Textless.jpg|thumb|200px|left|Fury, Captain America, and the Howling Commandos during WWII]]
+During the war, Fury also first crossed paths with his most dangerous foe, [[Wolfgang von Strucker (Earth-616)|Baron Wolfgang Von Strucker]].{{r|Sgt. Fury Vol 1 5}} Strucker's humiliating defeats at the hands of Fury would drive Strucker to devote a lifetime seeking revenge.{{r|Sgt. Fury Vol 1 9}} Among the formative events during this period of his life included the friendships made with Dum Dum Dugan and Gabe Jones (both of whom would follow him into S.H.I.E.L.D.), and fighting alongside fellow war hero Captain America. Also during the war, Fury met [[Pamela Hawley (Earth-616)|Lady Pamela Hawley]],{{r|Sgt. Fury Vol 1 4}} who would become his first (and some say only true) love. Tragically she died before Fury was able to propose marriage to her. During his relationship with Hawley, they crossed paths with [[Stephen Strange (Earth-616)|Doctor Strange]] in a taste of his future strange and extraordinary adventures.{{r|Doctor Strange Vol 2 #50|51}} During the war Fury and his Commandos faced super-powered menaces that included vampires{{r|Marvel Comics Presents #78}} and other-dimensional beings.{{r|Captain America - Nick Fury The Otherworld War #1}}
+
+===Infinity Formula===
+Two serious injuries sustained during this time would have a serious impact in his later life: a grenade blast that began the slow deterioration of his sight in his left eye,{{r|Sgt. Fury Vol 1 27}} and a landmine accident that led to Fury being inoculated with the [[Infinity Formula]] by Professor [[Berthold Sternberg (Earth-616)|Berthold Sternberg]] in [[France]].{{r|Marvel Spotlight #31}}{{r|Nick Fury, Agent of S.H.I.E.L.D. Vol 3 #30}}
+
+The Infinity Formula substantially slowed his aging process, and Fury was thrust with a double edged sword: although his life was saved, the consequences of the Infinity Formula would haunt him throughout his life as he would see many friends age and die, as well as become the target of various villains seeking his secret. Dr. Sternberg himself was not immune to taking advantage of Fury's delicate situation, basically holding Fury's life for ransom starting in 1946, every year through 1976 by charging Fury a high fee for more of the serum.<ref>These events, culminating in the end of said extortion, were detailed in {{cnst|Marvel Spotlight #31}} (Dec. 1976): "Assignment: The Infinity Formula," by writer Jim Starlin and artist Howard Chaykin. Fury's body soon started to produce the formula on its own... he gave transfusions to Dum Dum Dugan, to slow his aging too. (To be reworked according to the Original Sin revelations)</ref>
+
+===CIA===
+[[File:New Avengers Vol 2 12 Textless.jpg|thumb|200px|right|Fury's CIA days]]
+For most soldiers, after V-J Day the war was over it was time to go home and live a normal life again. This was not the case for Nick Fury. Following a number of "mop-up" missions with the Howlers, Sgt. Fury was reassigned and left his wartime comrades behind in France, heading for Okinawa. His skills were quickly put to use with the growing intelligence community. The [[Office of Strategic Services (Earth-616)|Office of Strategic Services]] had recognized Fury's potential during the war, using him for a few missions into German-occupied France, and based on this he was officially recruited by Colonel Tom Lynaugh in 1954. He was flown to Langley where he began training as an agent for the Central Intelligence Agency, serving through till his appointment to [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]].{{r|Nick Fury, Agent of S.H.I.E.L.D. Vol 3 #38}}
+
+During these cloak & dagger years, Fury saw action in the Korean War, briefly reuniting with some of the former Howling Commandos who reenlisted. On one particular mission, the Howlers joined Fury and Colonel "Happy" Sam Sawyer for a covert mission to destroy a MIG airbase, a mission that earned Fury a long-deserved brevet field commission to Second Lieutenant.{{r|Sgt. Fury Annual #1}} Fury also became involved in fighting Communist Chinese forces,{{Citation}} and was promoted to the rank of Colonel during his time with the C.I.A.{{r|Official Handbook of the Marvel Universe Vol 2 #9}}
+
+Within the last 30-35 years, Nick Fury recruited [[Richard Parker (Earth-616)|Richard Parker]] into the CIA.{{r|Official Handbook of the Marvel Universe A-Z #8}}
+
+Foreshadowing his heavy involvement with super-powered beings as director of S.H.I.E.L.D., Fury recruited the then still new [[Fantastic Four (Earth-616)|Fantastic Four]] to investigate goings-on in what would reveal itself to be a master plot by the [[Adolf Hitler (Clone) (Earth-616)|Hate-Monger]].{{r|Fantastic Four #21}} Fury's eye began to finally fail around this time.<ref>In {{cl|Fantastic Four #21}} it still seems to be working, as he didn't wear his eye-patch</ref>
+
+During a mission in Kansas, Fury found himself trying to fight off the aliens known as Tribellians. His forces were overpowered, but the tables were turned once [[Woodrow McCord Jr. (Earth-616)|Woody McCord]] arrived and defeated the monsters before being fatally injured. [[Howard Stark (Earth-616)|Howard Stark]], McCord's partner, arrived to the scene and discovered Fury alongside Woody's corpse. He decided to show Fury the work McCord had been doing as defender of Earth, neutralizing any potential threat for the planet, and offered him Woody's job. Fury accepted and over the next years would secretly fight different super human threats, from aliens to Subterranean monsters and extra-dimensional beings.{{r|Original Sin #5}}
+
+===Great Wheel===
+[[File:Zodiac (Great Wheel) (Earth-616) Secret Warriors Vol 1 25 001.jpg|left|thumb|250px|The [[Zodiac (Great Wheel) (Earth-616)|Great Wheel]]]]
+in 1961 Nick Fury, along with other intelligence agents [[Jonathan Garrett (Earth-616)|John Garrett]], [[Thomas Davidson (Earth-616)|Thomas Davidson]], [[Vasili Dassaiev (Earth-616)|Vasili Dassaiev]], [[Cornelius van Lunt (Earth-616)|Cornelius van Lunt]], [[Wolfgang von Strucker (Earth-616)|Baron Strucker]], [[Timothy Dugan (Earth-616)|Dum Dum Dugan]], [[Shoji Soma (Earth-616)|Shoji Soma]], [[Jacob Fury (Earth-616)|Jake Fury]], [[Daniel Whitehall (Earth-616)|Daniel Whitehall]] and [[Viktor Uvarov (Earth-616)|Viktor Uvarov]], were called by [[Leonardo da Vinci (Earth-616)|Leonardo Da Vinci]] alias [[Aries]] to form the [[Zodiac (Great Wheel) (Earth-616)|Great Wheel of Zodiac]]. Each member was assigned a codename from the Zodiac Calendar, with Fury being '''Gemini'''.{{r|Secret Warriors #25}}
+
+While on a mission in France, Fury, his brother Jake (Scorpio), and Thomas Davidson (Virgo), encountered the Renaissance-era technology that would later be reverse engineered into the first [[Life-Model Decoy]]. Jake unwisely got too close and activated it. The technology latched onto him and Davidson, creating Life-Model Decoys of them both. Nick decided to keep this a secret.{{r|Secret Warriors #25}}
+
+The Great Wheel later fell apart due to the betrayal of [[Vasili Dassaiev (Earth-616)|Vasili Dassaiev]] and [[Viktor Uvarov (Earth-616)|Viktor Uvarov]]. The broken Wheel led to the creations of [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]], [[Hydra (Earth-616)|Hydra]], [[Leviathan (Earth-616)|Leviathan]] and the [[Zodiac Cartel (Earth-616)|Zodiac Cartel]].{{r|Secret Warriors #25}}
+
+===S.H.I.E.L.D.===
+Fury was contacted by the Board of Directors of the newly organized international espionage organization S.H.I.E.L.D. (Supreme Headquarters International Espionage Law-enforcement Division) and offered directorship by [[Anthony Stark (Earth-616)|Tony Stark]]. (An alternate theory adds that the Deltite LMD manipulated events so that Fury would be chosen).{{r|Fury #1}}<!-- Kind of contradicts the section above. -->
+
+Fury served as S.H.I.E.L.D.'s director for many years. At his side were fellow Howlers Dum Dum Dugan and Gabe Jones, as well as long-time love, the beautiful agent [[Valentina Allegra de Fontaine (Earth-616)|Contessa Valentina Allegra de la Fontaine]].{{r|Strange Tales #159}} His command of S.H.I.E.L.D. coincided with the ascension to Supreme Hydra by Fury's old WWII nemesis, Baron Von Strucker. The Cold War ignited with a war between [[Hydra (Earth-616)|HYDRA]] and S.H.I.E.L.D., resulting in a near fatal blow at [[Hydra Island]], where Fury sunk the base with its leader locked inside its atomic core, left for dead.{{r|Strange Tales #158}}
+
+Fury served the original incarnation of S.H.I.E.L.D. both as administrative head and as field commander. His fearless leadership saw the organization through myriad crises and helped it rise to become the world's premier covert-operations agency. Fury and S.H.I.E.L.D. thwarted numerous major threats to the world's freedom launched by such groups as HYDRA and the [[Zodiac Cartel (Earth-616)|Zodiac]] - headed at one time by [[Jacob Fury (LMD) (Earth-616)|Scorpio]], an LMD of Fury's brother [[Jacob Fury (Earth-616)|Jacob]].{{r|Avengers #72}}{{r|Nick Fury, Agent of SHIELD Vol 1 5}} Fury also assisted Earth's superheroes in cases, and S.H.I.E.L.D. spearheaded Earth's defenses during many of its worse crises, including the alien [[Dire Wraiths|Dire Wraith]] invasion,{{r|Avengers Vol 1 245}} attacks by the likes of the [[Plan Chu (Earth-616)|Yellow Claw]]{{r|Strange Tales #161|165}} and [[Loki Laufeyson (Earth-616)|Loki]]{{Citation}} and hunting down creatures such as [[Godzilla (Earth-616)|Godzilla]]{{Citation}} and the [[Bruce Banner (Earth-616)|Hulk]].{{r|Incredible Hulk #107|108}}
+
+After the final strike against Hydra, S.H.I.E.L.D. gradually grew to a vast international network the likes of which not even Fury could personally oversee entirely. Thus in 1988 the Deltite Affair erupted, in which a group of rogue [[Life-Model Decoy|LMDs]] revealed that they had been manipulating S.H.I.E.L.D. Hydra, and even [[Roxxon Energy Corporation (Earth-616)|Roxxon Oil]] in an attempt to take over the planet. The most important phase of the plan involved replacing agents with advanced LMDs. This brought an end to S.H.I.E.L.D. and sent Fury into self-imposed exile.{{r|Fury #1}} This included traveling the world, shutting down rogue S.H.I.E.L.D. bases and decommissioning their equipment.{{r|{{cl|Nick Fury vs. S.H.I.E.L.D. Vol 1 1}}-[[Nick Fury vs. S.H.I.E.L.D. Vol 1 6|6]]}}
+
+A year later, events engineered by both the late Baron Strucker and the Yellow Claw, brought Fury back out of his exile and thus a second [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] (Strategic Hazard Intervention Espionage Logistics Directorate) was commissioned under a [[United Nations]] charter with Fury once again as its director.{{r|Nick Fury, Agent of S.H.I.E.L.D. Vol 3 #7}} This incarnation of S.H.I.E.L.D. struggled to gain its footing with resentment from other espionage agencies and the task of assembling enough resources and manpower to combat the growing international threats.
+
+One of these threats was once again HYDRA, lead by a resurrected Von Strucker, whose plans to cripple the first S.H.I.E.L.D. were successful enough to allow a HYDRA retaliation against the new, but weaker agency. The attack leveled [[S.H.I.E.L.D. Central]], killed 1,500 agents, and left Fury bitter and vindictive. Eventually Fury managed to defeat Von Strucker and put an end to his existence.
+
+With Von Strucker seemingly gone at last, Fury still did not feel a whole man and his disillusionment with S.H.I.E.L.D. continued. Fury found himself siding against his friends more and more, including Captain America during the Genoshan Crisis and being used as a pawn to collect "rogue" elements like [[Nathaniel Summers (Earth-616)|Cable]] and [[Ghost Rider]] for subversives within the government. Worse still was having to hunt his own son, [[Mikel Fury (Earth-616)|Mikel]], who donned the Scorpio identity to fight in a civil war in [[Republic of Carpasia|Carpassia]].{{r|Wolverine & Nick Fury: Scorpio Rising #1}}
+
+Fury faced internal strife as the defection of former KGB interrogator Dimitri Panshin instigated a rogue faction within S.H.I.E.L.D. to make Panshin pay for his crimes. Fury and Captain America joined with [[Boris Bullski (Earth-616)|Titanium Man]] and [[Advanced Idea Mechanics (Earth-616)|AIM]] to stop the renegades. Likely as a result of the rogue agents affair, S.H.I.E.L.D. faced severe cutbacks in funding. With a scaled-back S.H.I.E.L.D., Fury was glad to be reunited with his son Mikel in 1995. Together, father and son helped thwart a revenge scheme by the ex-wife of the head of HYDRA's NYC cell, involving a mini-neutron bomb. Later they stopped a black-market arms racket funding the local street gangs in Hell's Kitchen.
+
+Fury had Tony Stark construct a "perfect" L.M.D. (perhaps based on the Deltite LMD) which took Fury's place while he investigated a message from his predecessor as director. His investigations took him once again to the lower levels of what was once S.H.I.E.L.D. Central, finding himself caught in a trap that housed him in a pocket dimension. In a stroke of luck, the use of the LMD Fury coincided with an attempt on Fury's life by Spook, a subversive seeking control of S.H.I.E.L.D.. This resulted in a brainwashed [[Frank Castle (Earth-616)|Punisher]] bringing about the "death" of Nick Fury for all the world to see.{{r|Double Edge: Omega #1}}
+
+Brought back from the pocket dimension by former agent [[Sharon Carter (Earth-616)|Sharon Carter]], the real Nick Fury once again attempted to set S.H.I.E.L.D. straight; uncovering an unauthorized NEMESIS project by EXTECHOP and later taking a short leave of absence from the directorship to investigate the disappearance of agent David Ferrari. Fury tried to take charge of an agency that had once again grown too large for him to handle. 
+
+Perhaps the greatest threat to S.H.I.E.L.D. came with the hijacking of the [[s.H.I.E.L.D. Helicarrier|helicarrier]] by the [[Johann Shmidt (Earth-616)|Red Skull]], leading to a hunt which culminated in a battle with the a new Hate-Monger and the Skull. 
+
+Following the attacks on the Twin Towers on September 11th 2001, Nick Fury and S.H.I.E.L.D. found their roles expanded to deal with the ever-growing terrorist threats and the stronger tactics being employed by both superheroes and supervillains alike. Recent assignments have included dealing with the Fantastic Four in a post-[[Victor von Doom (Earth-616)|Doom]] [[Latveria]], weather attacks on the United States by a rogue S.H.I.E.L.D. agent, and safeguarding Tony Stark from assassination attempts.
+
+When the Red Skull was killed, and Nick sent in Captain America and Agent 13 to investigate. The three began a relentless quest to track down the person responsible, and to obtain the powerful [[Cosmic Cube]]. This brought them into conflict with General [[Aleksander Lukin (Earth-616)|Aleksander Lukin]] and the mysterious [[James Buchanan Barnes (Earth-616)|Winter Soldier]].
+
+At about the same time, S.H.I.E.L.D. was dealt a huge blow by [[Hand (Earth-616)|The Hand]] and HYDRA. Fury and [[Elektra Natchios (Earth-616)|Elektra]] worked at bringing a brainwashed [[James Howlett (Earth-616)|Wolverine]] into custody. They succeeded, but not before Elektra was killed and resurrected by The Hand. Wolverine's brainwashing was reversed just in time to help fend off the dozens of brainwashed mutants attacked the Helicarrier and S.H.I.E.L.D. bases around the world. The Helicarrier was destroyed, S.H.I.E.L.D. was shattered, and Nick was left in critical condition.
+
+===[[Secret War]]===
+[[File:Nicholas Fury (Earth-616) from Secret War Vol 1 1 001.jpg|thumb|200px|left|Nick Fury, Director of S.H.I.E.L.D.]]
+Fury eventually uncovered that many tech-themed criminals were being supplied high technology through the Latverian prime minister [[Lucia von Bardas (Earth-616)|Lucia von Bardas]]. He presented the evidence to the President, who decided to do nothing about it. Apparently, because the U.S. government had funded the restoration of Latveria since Doom's fall and were afraid of it backfiring on them. Realizing that the President turning a blind eye would cost lives, Fury gathered Captain America, Luke Cage, Daredevil, Spider-Man, Black Widow, Wolverine and Daisy Johnson into mounting a "[[Secret War]]" against Latveria.{{r|Secret War #1}} Because simply assassinating von Bardas would not stop the impending attack against the States, Fury needed to send a message to her cohorts - by bringing down Castle Doom down upon her. He then somehow managed to cover all of this up and brainwashed everyone but Widow and Johnson into forgetting what happened.{{r|Secret War #5}}
+
+A year later, von Bardas was found to be alive and sent tech-theme villains against the participants of the Secret War. She then linked all of the tech together to create and antimatter bomb capable of destroying the States. However, only Daisy's timely intervention halted her insane plan. Fury then explained to the Avengers, Fantastic Four and X-Men about the Secret War. In fact, a [[Life-Model Decoy]] was in his place, which he used to explain that he's going underground and hoped that they would one day understand why he did this.{{r|Secret War #5}}
+
+In the aftermath, Fury is no longer in charge of S.H.I.E.L.D., replaced by [[Maria Hill (Earth-616)|Maria Hill]], someone known not to favor superheroes as he generally did. Fury's old supporters such as Dum Dum Dugan were marginalized as much as possible in an attempt to put a gap between S.H.I.E.L.D. and costumed vigilantes.{{r|Secret War #5}}
+
+===Civil War===
+With the outbreak of the superhero [[Civil War (Event)|Civil War]], Nick remained in hiding, using old decommissioned S.H.I.E.L.D. safe-houses, the locations of which were known only to him. Fury allowed Cap and his [[Secret Avengers (Civil War) (Earth-616)|Secret Avengers]] to use one of these as their base, and helped their cause, most notably the efforts of the reformed Winter Soldier.{{r|Civil War #2}}{{r|Captain America Vol 5 23}}
+
+===[[Secret Invasion]]===
+[[File: Secret Warriors (Earth-616) from Secret Invasion Vol 1 3.jpg|thumb|200px|right|Fury's Secret Warriors]]
+Fury was long aware of the Skrull plans before the Skrulls even revealed themselves, after an impostor posing as [[Valentina Allegra de Fontaine (Skrull) (Earth-616)|Contessa de la Fontaine]] attempted to seduce him and extract S.H.I.E.L.D. pass-codes from him. He became suspicious and killed her. He subsequently went into hiding and began assembling a new team of [[Secret Warriors (Earth-616)|Howling Commandos]], composed of unregistered superpowered young people, personally trained by Fury himself, to combat this threat.{{r|Mighty Avengers #12|13}}{{r|Mighty Avengers Vol 1 18}} He also assigned [[Jessica Drew (Earth-616)|Jessica Drew]] to be his mole in both [[Hydra (Earth-616)|Hydra]] and [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]]. However, the Hydra doctors who attempted to restore her powers were actually Skrull agents, who used her DNA so that their queen [[Veranke (Earth-616)|Veranke]] could take her place.{{r|New Avengers Vol 1 42}}
+
+[[File:Secret Invasion Vol 1 4 Leinil Yu Variant Textless.jpg|thumb|right|right]]
+Fury brought his Commandos directly into the fray in New York City, killing Skrulls while helping evacuate civilians and downed heroes when the invasion began.{{r|{{cl|Secret Invasion Vol 1 3}}-[[Secret Invasion Vol 1 6|6]]}} He brought the recovered heroes into Central Park where the rest were gathering. After a brief discussion with [[Norman Osborn (Earth-616)|Norman Osborn]], [[Anthony Stark (Earth-616)|Iron Man]], and then a direct encounter with the [[Deviant Skrulls|Skrulls]], the battle between the entire Skrull army and the gathered heroes and villains ensued. 
+
+After the battle was over, Iron Man and other Avengers took down the fleet and Iron Man brought down a ship carrying the original heroes who were replaced with Skrulls including Dum Dum Dugan and a number of S.H.I.E.L.D. Agents. Once they recognized Fury, he teleported his entire team away.{{r|Secret Invasion #7|8}}
+
+[[File:Secret Warriors Vol 1 19 Textless.jpg|thumb|200px|left|Nick Fury: Agent of Nothing]]
+===[[Dark Reign]]===
+With Fury as, on a technicality, a government fugitive for his Secret War, it was presumed that his team was also aiding and abetting a fugitive and may also be warranted for arrest. Their existence had been made public and the team's objective of defeating the Skrulls had been achieved, their current purpose was unknown.{{r|Secret Warriors Vol 1 1}}
+
+Fury investigated a covert S.H.I.E.L.D. base in Chicago that didn't exist in official databases. Analyzing its contents, Fury discovered that S.H.I.E.L.D. was, and always had been controlled by HYDRA, which also had connections to the security departments of the American, Canadian and Russian governments. Realizing that all his work had been a big lie, he gathered his Commandos to prepare to counter the renewed HYDRA threat and to overthrow the corrupt [[H.A.M.M.E.R. (Earth-616)|H.A.M.M.E.R.]] agency - created by former Green Goblin, Norman Osborn, having been given national mandate by the government after killing Queen Veranke - that replaced S.H.I.E.L.D.. But to defeat two opponents controlling massive armies, Fury needed an army of his own. He hired the services of the [[Howling Commandos Private Military Company (Earth-616)|Howling Commandos PMC]], led by Dum Dum and 1200 S.H.I.E.L.D. agents refusing the automatic transfer to H.A.M.M.E.R., before stealing three decommission Helicarriers and convincing 3000 H.A.M.M.E.R. agents to join him.{{r|Secret Warriors Vol 1 1|6}}
+
+Fury reactivated the services of [[Jonathan Garrett (Earth-616)|John Garrett]], needing his help in determining the allegiance of a former S.H.I.E.L.D. agent, [[Seth Waters (Earth-616)|Seth Waters]]. Garrett returned from a successful mission, determining that Waters was working for an unknown group who was highly connected in the government. Therefore, Fury broke into Avengers Tower, where he was coerced by Osborn himself into interrogating Waters. He then escaped with the data, learning that there was a group called Leviathan, much like Hydra, which was founded by the Soviet government.{{r|Dark Reign: The List - Secret Warriors #1}}
+
+A month later, Fury had his army assembled. He introduced [[Daisy Johnson (Earth-616)|Daisy]] to other team leaders, [[Alexander Pierce (Earth-616)|Alexander Pierce]] and [[Mikel Fury (Earth-616)|Mikel Fury]] and told them that their teams would work together for the coming storm.{{r|Secret Warriors #11}}
+
+===[[Heroic Age (Event)|Heroic Age]]===
+While Fury remained underground, allowing Steve Rogers to take official command of the super-spy side of things, he remained in contact with Earth's heroes and monitored their activities. He provided the New Avengers with a special serum, created as a combination of the [[Super-Soldier Serum]] and the Infinity Formula, to help [[Barbara Morse (Earth-616)|Mockingbird]] when she was shot during a raid on a H.A.M.M.E.R. base.{{r|New Avengers Vol 2 13}} Fury later expended the last sample of the Infinity Formula to save Bucky's life. He remains immortal due to trace amounts of the formula in his body.{{r|Fear Itself #7.1}}
+
+===[[Original Sin (Event)|Original Sin]]===
+When the [[Uatu (Earth-616)|Watcher]]'s armory was stolen and one of his eyes was taken from him by the [[Orb (Mercenary) (Earth-616)|Orb]], [[Cosmic Man (Midas) (Earth-616)|Doctor Midas]] and the [[Oubliette Midas (Earth-616)|Exterminatrix]], Nick Fury arrived at the Watcher's Citadel in order to investigate who was the culprit. Uatu refused to tell him, as it was his duty not to act but only watch. After realizing that the Watcher's eyes were where the things he had witnessed were saved, and that the only way for him to stop the criminals before they could do anything was to have one of the eyes, to have their identities revealed to him, Fury killed the Watcher and took the remaining eye.{{r|Original Sin #8}}
+
+[[File:Nicholas Fury (Earth-616) from Original Sin Vol 1 4 001.jpg|thumb|left|Fury showing his age]]
+While an LMD of him and the Avengers led an investigation to find out who attacked the Watcher, Fury determined that his life was coming to a close, and that he needed to find a replacement for his position as the Man on the Wall. His candidates were Black Panther, Doctor Strange, Ant-Man, Emma Frost, Gamora, the Winter Soldier, and the Punisher. He secretly contacted them for an investigation which had the apparent objective to find the killer of Uatu.{{r|Original Sin #1}} Doctor Strange and the Punisher abducted the Orb from the Avengers Tower after the villain had been captured with one of Uatu's eyes, as he could sense them and bring them to where they were. The Winter Soldier realized Nick Fury had been lying to them, killed the LMD which was with the Avengers, then took the eye the LMD had seized from the Orb and used the robot's chip to track down the real Fury.{{r|Original Sin #2}}
+
+By other means, all the heroes selected by Fury were brought together to a secret satellite, where they found the aged Nick Fury.{{r|Original Sin #4}} Fury told those heroes his history of going to nearly any extremes whatsoever in defence of Earth, including systematically torturing aliens, committing indiscriminate genocide on planetary civilizations, and starting wars spanning entire galaxies,{{r|Original Sin #5}} and that because he now lacked the Infinity Formula in his blood, he was rapidly aging and was going to die, so he needed a replacement. When Fury got an alert that the body of the LMD left with the Avengers had self-destructed because someone was trying to investigate it, he took one of the Watcher's eyes from Bucky and enclosed himself in a secure room, as he tried to activate the second eye he had all this time. When the Avengers arrived at the satellite, as Iron Man tracked down the signal from the LMD, Fury confronted the heroes, equipped with an armor while holding the two eyes of the Watcher, claiming that his eyes had been opened.{{r|Original Sin #6}}
+
+[[File:Nicholas Fury (Earth-616) from Original Sin Vol 1 8 001.jpg|thumb|right|As The Unseen]]Fury managed to repel the heroes and get back to the Watcher's citadel,{{r|Original Sin #7}} where [[Cosmic Man (Midas) (Earth-616)|Doctor Midas]] was trying to acquire more power than he had when he attacked the citadel. Fury fought Midas' Mindless Ones, during which one of the Watcher's eyes was taken from him by the Orb, and was almost defeated, until the heroes chosen by Fury got to him, and also managed to get the confession from him that he was the one who had killed Uatu. Fury then confronted Midas, who was becoming more powerful by absorbing the powers from Uatu's corpse. By forcing Midas to absorb the power of the Watcher's eye he had left, Fury overloaded him and killed the villain in an explosion, which also seemingly killed Fury. After the explosion, the other Watchers punished Fury for his many sins by turning him into a chained silent observer of Earth, forcing him to watch but never interfere, as the Unseen.{{r|Original Sin #8}}
+
+===Reforming the Exiles===
+Due to the powers of the Watcher, the Unseen caught notice of the emergence of a creature called the Time-Eater that devoured entire timelines faster than new ones could be created. In order to investigate the Time-Eater, the Unseen used the [[Tallus]] to lure [[Clarice Ferguson (Earth-295)|Blink]] to the Blue Area of the Moon, so she could use her experience of Multiversal exploration to assemble a new incarnation of the [[Exiles (Multiverse)|Exiles]].{{r|Exiles Vol 3 1}} After the Tallus helped Blink recruit her teammates, she was returned to the Moon to report to the Unseen. A group of [[Watchers]] appeared to punish him for breaking the vow of non-interference, and in the subsequent altercation the Tallus was shattered, sending the Exiles flying into the timestream.{{r|Exiles Vol 3 2}}
+
+[[File:Nicholas Fury (Earth-616) and Uatu (Earth-616) from Empyre Fallout Fantastic Four Vol 1 1 001.jpg|thumb|right|Uatu's resurrection]]
+
+===The First War===
+Following the attempt of the plant-like alien race named the [[Cotati]] to take over the universe, their advanced and mysterious weapons were confiscated by the Avengers and the Fantastic Four and analysed during a rendezvous on the Moon. With the [[Elders of the Universe (Earth-616)|Elder of the Universe]] the [[Profiteer (Earth-616)|Profiteer]] failing to recognize their origin despite her ample knowledge, the weapons were left behind. When the Unseen collected the weapons to study them himself, a reaction caused Uatu to fully manifest himself and emerge from Fury's eye.{{r|Empyre: Fallout Fantastic Four Vol 1 1}} Recognizing that the weapons were Watcher technology, Uatu set out to prepare for an oncoming conflict, the return of "the first war." Uatu's return also caused Fury to return to his normal self. Still holding Nick accountable for his murder, the Watcher enlisted Fury to act as his operative.{{r|Fantastic Four Vol 6 25}}
+
+| Powers                  = None.
+
+{{Navigation
+| title = Former Powers
+| body = '''Hyper-Cosmic Awareness:''' As the Unseen, Fury possessed the ability to observe different timelines not unlike [[Uatu (Earth-616)|The Watcher]], allowing him to see the past, possible futures and even alternate timelines.{{r|Exiles Vol 3 2}} After Uatu returned, Fury lost his powers.{{r|Fantastic Four Vol 6 25}}
+
+'''[[Infinity Formula]]:''' Nick Fury's aging had been slowed greatly by the Infinity Formula, a serum created by [[Berthold Sternberg (Earth-616)|Dr. Berthold Sternberg]]. Fury was first inoculated with the serum in the 1940's. Fury took the serum annually for many years. Due to its cumulative effect, Fury no longer needs additional doses to prolong his life span. The effects of the serum has been passed on to his two sons [[Mikel Fury (Earth-616)|Mikel Fury]] and [[Nicholas Fury, Jr. (Earth-616)|Nick Fury, Jr.]]
+}}
+
+| Strength               = Nick Fury possesses the normal human strength of a man of in his middle-age years, and with his own height and build who engages in extensive regular exercise 
+| Abilities              ='''Master Martial Artist:''' He is a seasoned unarmed- and armed-combat expert, was a heavyweight boxer in the Army, and holds a black belt in Tae Kwon Do and a brown belt in jiu-jitsu.{{r|Secret War #5}} Fury has honed his fighting skills to hold his own against [[Steven Rogers (Earth-616)|Captain America (Steve Rogers)]], perhaps the world's finest unarmed-combat expert. 
+
+'''Master Tactician and Strategist:''' He is an accomplished strategist. He had been widely considered one of, if not the greatest, tacticians on the planet, both on and off the battlefield. He is able to formulate battle strategies and his brilliant tactical sense allows him to alter any strategy to fit the changing need of the situation. During the events of Original Sin, he showed himself to be an expert manipulator, seemingly orchestrating all of the events, with the exception of the [[Avengers (Earth-616)|Avengers]]' arrival.{{r|Original Sin #6}}
+
+''' Advanced Military Operator:''' Fury has trained as a paratrooper, ranger, demolitions expert and vehicle specialist. He holds an unlimited-tonnage, all-seas license as a commander of ocean-going vessels. Fury has completed Green and Black berets [[United States Army Special Forces (Earth-616)|Special Forces]] training, and has been an agent of the OSS (Office of Strategic Services) and a liaison of the MI-5 (British Secret Intelligence).{{r|Secret War #5}}
+
+'''Expert Marksman:''' He is an exceptional marksman of every type of firearm who is sometimes depicted as being ambidextrous in this respect. He is skilled in sharpshooting and knife throwing as well.
+
+'''Weapons Proficiency:''' He is proficient in wielding swords, daggers, throwing knifes, staffs, sticks, tonfa, axes, maces and clubs.
+
+'''Multi-lingual:''' Fury is fluent in English, German, Russian, Japanese. He might be lingual in other languages. 
+ 
+'''Expert Vehicular driver:''' As a S.H.I.E.LD. Fury is proficient in driving cars, motor cycles, Trucks, Tanker, helicopters, motor boats, sub marines, and some types of trains and utility vehicles. In his youth, Fury learned to fly planes and wing walking.
+| Weaknesses              = *'''[[Nick Fury's Eyepatch]]:''' He has 95% vision loss in his injured left eye, over which he wears a cosmetic eyepatch.
+
+| Equipment               = S.H.I.E.L.D. uniform, made from 9-ply Kevlar (able to withstand ballistic impact up to .45 caliber bullets)and beta-cloth, a fire-resistant material whose kindling temperature is 1,700 °F (930 °C). Numerous S.H.I.E.L.D. paraphernalia including a radio-link tie, and a bulletproof suit.
+| Transportation          = 
+{{Navigation
+| title = Former Transportation
+| body = Flying Cars and various air, land, and sea craft provided by S.H.I.E.L.D.
+}}
+ 
+| Weapons                 = Personalized needle pistol that had a 300-round magazine, a government issue .45 caliber automatic, a captured German Luger in 9mm Parabellum, a modified semi-automatic Walther PPK in 9 mm Parabellum, and the Ingram MAC-10 machine pistol in .45 caliber.{{citation}} Also, an array of S.H.I.E.L.D. weapons, conventional and otherwise.
+
+| Notes                   = * Fury was a S.H.I.E.L.D. Agent Level Ten,{{r|Secret War: From the Files of Nick Fury #1}}{{r|Mighty Avengers #3}}{{r|Secret War #1}}{{r|Secret War #2}}{{r|Secret War #5}} the only Thirty-Third-Degree S.H.I.E.L.D. Officer,{{r|Civil War #2}} and had a Code clearance White.{{r|Secret War #2}}
+| Trivia                  = * Nick Fury featured in author Will Murray's novel, ''Nick Fury, Agent of S.H.I.E.L.D.: Empyre''.
+* Following his transformation into the Unseen, [[Marc Spector (Earth-616)|Moon Knight]] was the only one who was able to recognise him as Nick Fury.{{r|Avengers Vol 8 36}}
+
+==Recommended Reading==
+* {{cl|Sgt. Fury Vol 1 1}}, {{cl|Sgt. Fury Vol 1 4|#4}}, {{cl|Sgt. Fury Vol 1 19|#19}}, {{cl|Sgt. Fury Vol 1 28|#28}}-{{cl|Sgt. Fury Vol 1 29|29}}, {{cl|Sgt. Fury Vol 1 34|#34}}, {{cl|Sgt. Fury Vol 1 62|#62}}
+* {{cl|Strange Tales #135}}
+* {{cl|Nick Fury, Agent of SHIELD Vol 1 1}}
+* {{cl|Nick Fury vs. S.H.I.E.L.D. #1}}-{{cl|Nick Fury vs. S.H.I.E.L.D. #6|6}}
+* {{cl|Nick Fury, Agent of S.H.I.E.L.D. Vol 2 1}}
+
+| Links                   = * [http://www.toonopedia.com/shield.htm Don Markstein's Toonopedia: Nick Fury, Agent of S.H.I.E.L.D.]
+* [http://www.moviepoopshoot.com/comics101/54.html Comics 101 (column, March 3, 2004): "Secret Agent, Man", by Scott Tipton]
+* [http://www.efavata.com/CBM/NickFury.htm E. Favata's Comic Book Movies: ''Nick Fury'']
+* [http://www.comicbookmovie.com/news/nick-fury.asp ComicBookMovie.com: ''Nick Fury'']
+* [http://www.sneakpeektv.com/id293.html Sneak Peek TV: ''Nick Fury'']
+* [http://www.imdb.com/title/tt0482631/ Untitled Nick Fury Project at the Internet Movie Database]
+* [http://www.stacyx.com/shieldhq/ S.H.I.E.L.D. HQ - A Nick Fury Fansite]
+* [http://www.iconian.com/fury.html Nick Fury Page]
+* [http://www.marveldirectory.com/individuals/n/nickfury.htm Marvel Directory: Fury, Nick]
+
+}}
+[[pt:Nicholas Fury (Terra-616)]]
+[[it:Nicholas Fury (Terra-616)]]
+[[Category:One Eye]]
+[[Category:Martial Arts]]
+[[Category:Espionage]]
+[[Category:Fury Family]]
+[[Category:WWII Characters]]
+[[Category:Advanced Longevity]]
+[[Category:Infinity Formula]]
+[[Category:Tobacco Smokers]]
+[[Category:Weapons Expert]]
+[[Category:S.H.I.E.L.D. Agents Level 10]]
+[[Category:Code Clearance White]]
+[[Category:Legally Deceased]]
+[[Category:Thirty-Third-Degree S.H.I.E.L.D. Officers]]
+[[Category:Shooting]]
+[[Category:Spies]]
+[[Category:S.H.I.E.L.D. Directors]]
+[[Category:Korean War Characters]]
+[[Category:Strategists]]
+[[Category:Floating Super-Hero Poker Game participants]]
+[[Category:Multilingual]]
+[[Category:Cosmic Awareness]]
+[[Category:Vietnam War Characters]]
+[[Category:Apotheosized Mortals]]

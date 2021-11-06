@@ -1,0 +1,133 @@
+{{Marvel Database:Character Template
+| Image                   = Karl Lykos (Earth-616) from X-Men Unlimited Infinity Comic Vol 1 8 001.jpg
+| Name                    = Karl Lykos
+| NameRef                 = {{r|X-Men Vol 1 60}}
+| CurrentAlias            = Sauron
+| Aliases                 = Dr. Lykos, "Rodan" (by [[Jubilation Lee (Earth-616)|Jubilee]]){{r|Uncanny X-Men Vol 1 354}}
+
+| Affiliation             = {{m|Savage Land Mutates}}; formerly {{m|Brotherhood of Evil Mutants}}, {{m|Hellfire Academy}}, {{m|Weapon X}}, {{m|Weapon Plus}}
+| Relatives               = Unnamed father;<br>
+Dr. Anderssen (adoptive father);<br>
+[[Tanya Anderssen (Earth-616)|Tanya Anderssen]] (adoptive sister/wife, deceased);<br>
+Unnamed children (deceased){{r|Wolverine and the X-Men #32}}
+| MaritalStatus           = Widowed
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 5'9" (as Lykos); 7' (as Sauron)
+| Weight                  = 170 lbs (as Lykos); 200 lbs (as Sauron)
+| Eyes                    = Brown (as Lykos); Red (as Sauron)
+| Hair                    = Brown (as Lykos); No Hair (as Sauron)
+| UnusualSkinColor        = Green (as Sauron)
+| UnusualFeatures         = Head shaped like a pterodactyl's. Pterodactyl wings growing from his <nowiki>arms</nowiki>. Claws at the ends of his fingers.
+
+| Origin                  = [[Homo sapiens|Human]] wounded by pteranodons in the [[Savage Land]] and apparently [[Glossary:Mutate|mutated]] into a <nowiki>vampire</nowiki>-like version of them
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Tierra del Fuego]], [[Argentina]]{{r|X-Men #61}}
+
+| Identity                = Secret
+| Citizenship             = Savage Lander, Argentina
+| Occupation              = Science Professor; Psychiatrist
+| Education               = PH.D. in hypnotherapy
+| BaseOfOperations        = [[Savage Land]], [[Antarctica]]
+
+| Creators                = Roy Thomas; Neal Adams
+| First                   = X-Men #59
+| First2                  = (As Karl Lykos)<br>{{sld|X-Men Vol 1 60}}(As Sauron)
+
+| Quotation               = Thank you for musing aloud that you are a '''mutant,''' girl! Dr. Karl Lykos thanks you... and so does... '''Sauron!!'''
+| Speaker                 = [[Karl Lykos (Earth-616)|Sauron]]
+| QuoteSource             = X-Men Vol 1 61
+
+| Overview             = '''Dr. Karl Lykos''' aka '''Sauron''' was a brilliant [[Argentinian]] hypnotherapist.{{r|X-Men #60}} He also became a human-[[wikipedia:Pteranodon|pteranodon]] hybrid and would-be-conqueror of the "[[Savage Land]]", a hidden refuge for [[Dinosaurs]] nestled in the modern [[Antarctica|Antarctic]].{{r|Official Handbook of the Marvel Universe Master Edition #23}} As a child he was attacked by a [[Glossary:Mutate|mutated]] [[Pterons|Pteranodon]] and somehow became an energy vampire, forced to absorb the life energy from animals and [[Homo sapiens|humans]] to survive. By absorbing the life energy of a [[Homo superior|Mutant]], he transformed into his savage alter-ego; "Sauron".{{r|X-Men #59}}
+
+| History                 = 
+===Early Life===
+As a young boy, '''Karl Lykos''' went with his father on an expedition to [[Tierra del Fuego]] near the Antarctic Circle. Along with them on the journey were a physician, Dr. Anderssen, and his daughter [[Tanya Anderssen (Earth-616)|Tanya]], who was about the same age as Karl.{{r|X-Men #60}}
+
+[[File:Karl Lykos (Earth-616) from Marvel Masterpieces Trading Cards 1992 0001.jpg|thumb|left]]
+===Pteranodon Attack===
+At one point during the trip Tanya became lost, and Karl found her in a cave being attacked by gigantic [[Pterons|pteranodons]], a form of flying reptile from the age of dinosaurs. (In actuality, these pteranodons were from the [[Savage Land]], the tropical region in [[Antarctica]] where prehistoric creatures still live. Apparently, the pteranodons had traveled to Tierra del Fuego through natural subterranean tunnels.) Karl drove the pteranodons off with his walking stick, but not before he was severely bitten. Traumatized by their experience, neither Karl nor Tanya remembered the pteranodons, and Dr. Anderssen used his medical skills to save Karl's life. Grateful to Karl for saving Tanya's life, Dr. Anderssen allowed Karl to live with him and Tanya after Karl's father died.{{r|X-Men #60}}
+
+For reasons that have never been explained, the pteranodon bites somehow changed Karl, apparently altering his genetic structure. Karl discovered that he needed to drain life energy from other living beings to survive. His first unintentional victim was his dog [[Jager (Dog) (Earth-616)|Jager]], whom he drained of energy simply by touching him. Karl kept his condition a secret, even after he found himself forced to drain energy from other human beings. However, he killed none of them, merely leaving them temporarily weakened.{{r|X-Men #59}}{{r|X-Men #60}}
+
+As Karl grew older he fell in love with Tanya, but the stern Dr. Anderssen refused to let her marry Karl because of his lack of financial means. So Karl Lykos set off for medical school, vowing to become wealthy so he could marry Tanya. Lykos became a hypnotherapist, but his need for life energy increased as he became an adult. Hence, he constructed devices through which he could drain his patients' life energies into himself.{{r|X-Men #60}}
+
+===Professor X===
+Lykos met the geneticist Professor [[Charles Xavier (Earth-616)|Charles Xavier]] while Lykos was still studying to be a doctor. Together they worked on the secret "Project Mutant." It has yet to be explained exactly what this project was, why it was secret, what results it might have had, and who, if anyone, had commissioned it if not Xavier himself. Xavier knew about Lykos' need and ability to siphon the life energy of others into himself, but he never told his protégés, the mutant hero team known as the [[X-Men (Earth-616)|X-Men]], about it.{{r|X-Men #60}}
+
+Following a battle between the X-Men and the robotic [[Sentinels|Sentinels]], the X-Men's [[Alexander Summers (Earth-616)|Havok]], at that time unable to control his superhuman abilities, tried to kill himself by releasing his full power. The resulting explosion buried him in rubble, nearly killing him. Aware of the connection between Xavier and Lykos, the X-Men rushed Havok to Dr. Lykos' [[Manhattan]] office, believing he was the only physician they could trust with the knowledge that Havok was a mutant.{{r|X-Men #60}}
+
+[[File:X-Men Vol 1 61.jpg|thumb|left]]
+===Sauron===
+After treating Havok's wounds, Lykos began using his equipment to drain life energy from him. However, this was the first time that Lykos had ever siphoned energy from a superhuman mutant, with a result that he had never experienced before. The energy triggered his metamorphosis into a creature that resembled a half-humanoid pteranodon, who retained his human intelligence and ability to speak. However, the transformation distorted Lykos' personality, turning him evil. Hence, Lykos took the name '''Sauron''', after the archvillain of [[John Ronald Reuel Tolkien (Earth-616)|J.R.R. Tolkien]]'s The Lord of the Rings.{{r|X-Men #60}} Sauron soon battled the X-Men, but fled when Havok awoke, causing him to begin to change back to human form. Soon afterwards, Lykos had an argument with Dr. Anderssen, who still refused to permit him to marry Tanya. Then Lykos drained energy from the mutant Lorna Dane, later known as Polaris, causing him to transform into Sauron again. After battling the X-Men once more, siphoning more energy from them, Sauron flew to the Anderssens' home to kill them. The Anderssens recognized Sauron's voice as that of Lykos just before the X-Men arrived, and Sauron fled.{{r|X-Men #61}}
+
+Sauron flew all the way to his father's cabin in Tierra del Fuego, and then reverted to human form, having expended the mutant energies he had absorbed. Horrified at having tried to kill Tanya, Lykos decided to starve himself to death. But several days later, Tanya arrived, followed closely behind by the X-Men. Feeling the urge to drain Tanya's life energies, Lykos instead fled, only to fall over a precipice. Tanya and the X-Men searched for Lykos to no avail and assumed he had been killed.{{r|X-Men #61}}
+
+However, Lykos somehow survived and made his way through underground passages, to the Savage Land. There he managed to remain in human form, until he had to rescue an unconscious Iceman from hungry pterodactyls. Iceman, in his current state failed to recognize Lykos until it was too late and Lykos became Sauron once more and aided the X-Men as well as the jungle lord [[Kevin Plunder (Earth-616)|Ka-Zar]] in taking down Magneto and his Mutates one more time. After the battle, Lykos reverted back to his human self and became an ally to Ka-Zar.{{r|X-Men #115}}
+
+Many months later the new X-Men arrived. Compelled to siphon energy from the X-Men's [[Ororo Munroe (Earth-616)|Storm]], Lykos briefly reverted to Sauron once more. But when the stolen energies faded, he returned to human form and proved to be an ally to the X-Men.{{r|X-Men #114|116}}
+
+===Savage Land Mutates===
+Lykos reverted to Sauron once more sometime later and teamed up with the Savage Land Mutates against Ka-Zar, the [[Warren Worthington III (Earth-616)|Angel]], and [[Spider-Man (Peter Parker)|Spider-Man]]. Sauron continued to make repeated attempts to conquer the Savage Land and use its people for sustenance, but has been defeated every time. After one defeat by the X-Men, their member, the [[Henry McCoy (Earth-616)|Beast]], managed to create a medicine that would satiate Karl's hunger, and, with the threat of Sauron seemingly over, Karl resumed a normal life with Tanya, whom he soon married.{{r|Marvel Fanfare #1|4}}
+
+===Brotherhood of Mutants===
+[[File:X-Force Vol 1 6.jpg|thumb|right]]
+Years later, Lykos was confronted by the mutant known as the [[Mortimer Toynbee (Earth-616)|Toad]], who hoped to recruit Sauron into his latest version of the terrorist [[Brotherhood of Evil Mutants (Earth-616)|Brotherhood of Evil Mutants]]. The Toad used a device of his own design to force Lykos to drain the life energy of Tanya, transforming Lykos back into Sauron, killing Tanya in the process. Sauron joined the Toad's Brotherhood in a bid to kill off Feral as a favor to the Morlock known as Thornn. During the battle Sauron targeted and seemingly killed Cannonball but he was forced to surrender after being assaulted by the mutant team [[X-Force (Earth-616)|X-Force]].{{r|X-Force #5|10}} He recovered by draining life force from various targets, but re-emerged in an effort to help Toad recruit the [[X-Patriots (Earth-616)|X-Patriots]] into the Brotherhood. Sauron and the rest of the brotherhood were defeated by X-Factor thus failing to recruit the X-Patriots. During the battle, Sauron bragged about killing Cannonball.{{r|X-Factor Vol 1 82}} Sauron together with the brotherhood captured and hypnotized a teleporting mutant and planned to sneak attack the X-Men, but they chose to eventually retreat from battle when attacked by Darkhawk and Sleepwalker.{{r|Sleepwalker Vol 1 17}}
+
+[[File:X-Men Unlimited Vol 1 6.jpg|thumb|left]]
+===Animalistic===
+Sauron's next bid for power in the Savage Land was foiled by the X-Men's [[James Howlett (Earth-616)|Wolverine]], [[Rogue (Anna Marie) (Earth-616)|Rogue]], and [[Jubilation Lee (Earth-616)|Jubilee]].{{r|Wolverine Vol 2 #69|71}} He then had the [[Savage Land Mutates (Earth-616)|Savage Land Mutates]] kidnap Havok, hoping to use his energy to satiate his hunger. When his teammates [[Scott Summers (Earth-616)|Cyclops]], [[Jean Grey (Earth-616)|Phoenix]], and [[Lorna Dane (Earth-616)|Polaris]] came to the rescue, Sauron had both Summers brothers placed in a energy-transferring machine, and the mix of energy mutated Sauron even further, making him larger and stronger than ever. Phoenix tried to engage Sauron on the [[Astral Plane]], but it was Lykos' personality who prevailed, making a suicidal leap into the abyss of his own mind, taking his hated alter-ego with him. As a result, Sauron's mind appeared to be stuck in an animalistic state.{{r|X-Men Unlimited #6}} After yet another encounter with Ka-Zar, his suppressed human mind slowly returned to him and reasoned out a plan, allowing Sauron to stow away on a trip Ka-Zar was planning to [[New York City]]. Upon arriving in [[United States of America|America]], Sauron sought out the X-Men but was once again defeated. He was then handed over to the espionage agency [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] by Wolverine.{{r|Uncanny X-Men #353|355}}
+
+===Weapon X===
+Somehow, Sauron ended up in custody of the new [[Weapon X (Earth-616)|Weapon X]] program, under the auspices of the mysterious [[Malcolm Colcord (Earth-616)|Director]], who hoped to use the program's mutants for the benefit of humankind, even if that meant performing deadly missions and interning mutant captives.{{r|Deadpool Vol 3 57|61}} Sauron was experimented upon in the program, becoming initially less intelligent, more prone to berserk rages, and without the ability to use his hypnotic powers. One of Sauron's initial assignments was to recruit mutants for the Weapon X program, and he succeeded in capturing the mutant [[Jack Mead (Earth-616)|Jack]].{{r|Weapon X: The Draft - Sauron Vol 1 1}}
+
+[[File:Weapon X Vol 2 20 Textless.jpg|thumb|right]]
+Sauron served the program for many months, but later began escaping the confines of the program to stalk victims, preying on the innocent to feed his hunger for the life forces of others. He was discovered by agent [[Brent Jackson (Earth-616)|Brent Jackson]], who was hoping to form a group to stage a coup to replace the Director. Sauron agreed, and Jackson's allies joined the team [[Underground (Mutant) (Earth-616)|Underground]], led by the mutant soldier-of-fortune [[Nathaniel Summers (Earth-616)|Cable]], who hoped to take down the Weapon X program. The Underground was able to infiltrate the Weapon X complex, ousting the Director and nearly crippling the program. However, before the final defeat, agent Jackson betrayed the Underground, turning Cable's psychic powers against his allies. Jackson captured the Underground members and altered their memories to erase everything they had seen or learned about the program. Jackson took credit for saving the program and was named the new Director of the Weapon X program by its mysterious benefactors. Sauron continued to serve the Weapon X program under Brent Jackson.{{r|Weapon X Vol 2 9|15}}
+
+===The Raft===
+After being imprisoned in the [[Raft]] for refusing to participate in any more Weapon X assignments, Lykos escaped with the help of [[Maxwell Dillon (Earth-616)|Electro]] during a jailbreak concocted by the [[Deviant Skrulls|Skrulls]]. The [[New Avengers (Earth-616)|New Avengers]] pursued him to the Savage Land. After transforming into Sauron he was shot through the head by the second [[Yelena Belova (Earth-616)|Black Widow]]. Fortunately for Sauron, he had absorbed Wolverine's regenerative healing factor and recovered from his injury. He was taken back into custody, but not before returning the favor to Black Widow by burning her with his fiery breath. Sauron was placed in S.H.I.E.L.D. custody and Maria Hill planned to return him to Weapon X.{{r|New Avengers #4|6}}
+
+[[File:Hellfire Academy (Earth-616) from Wolverine and the X-Men Vol 1 20 001.jpg|thumb|left|Working with the Hellfire Club]]
+===Hellfire Academy===
+[[Kade Kilgore (Earth-616)|Kade Kilgore]] later rescued Sauron and recruited him to the [[Hellfire Academy (Earth-616)|Hellfire Academy]]. As a member, he was present at [[Mudbug (Earth-616)|Mudbug]]'s recruitment{{r|Wolverine and the X-Men #20}} and recruited [[Robert Herman (Earth-616)|Glob Herman]] while the X-Men's students were on a field trip in the [[Savage Land]].{{r|Wolverine and the X-Men #28}} Sauron acted as the Academy's evil science teacher once the first class was assembled.{{r|Wolverine and the X-Men #31}}
+
+===Working with Stegron===
+[[File:Karl Lykos (Earth-616) and Vincent Stegron (Earth-616) from Spider-Man and the X-Men Vol 1 1 001.jpg|thumb|right|Working with Stegron]]
+He later reappeared, this time teamed up with [[Vincent Stegron (Earth-616)|Stegron]], at the [[American Museum of Natural History|New York Museum of Natural History]], where he fought and defeated Spider-Man and the [[Special Class (Earth-616)|mutant class]] he was currently in charge. Helped by Stegron, Sauron was able to transform [[Staten Island]] into his newest colony and its inhabitants into dinosaurs.{{r|Spider-Man and the X-Men #1}}{{r|Spider-Man and the X-Men #2}} While his partner took care of their opponents, Sauron revealed to [[Iara Dos Santos (Earth-616)|Shark-Girl]] that he was in love with her and tried to kiss her, but was interrupted by an enraged Stegron, who was angry by the way Sauron treated him. After turning [[Robert Herman (Earth-616)|Glob]] into a dinosaur for trying to escape, Sauron confronted Spider-Man and his students as Shark-Girl lured Stegron to revert his dino-ray machine so it could turn Staten Island's inhabitants and Glob back to their original form. A battle ensued between the dinosaur duo and both ended up petrified as their powers neutralized each other's.{{r|Spider-Man and the X-Men #2}}
+
+| Powers                  = '''Life-Force Absorption:''' In human form Karl Lykos is fairly typical, except he keeps his ability to absorb the life forces of other living things to sustain himself. This often triggers his transformation into his pterodactyl form. He has used a device on one occasion to absorb energy, but in lieu of a device like it skin to skin contact is required.{{r|X-Men #60}}
+* '''''Mutant Power Absorption:''''' If he absorbs the life force of a mutant he will absorb a portion of their powers temporarily.{{r|New Avengers #6}}
+* '''''Energy Blasts:''''' Due to manipulation by the Weapon X program, Sauron could absorb electrical power from aircraft. He could then expel the energy in energy bursts from his hands.{{r|Deadpool Vol 3 57}}
+* '''''Superhuman Strength:''''' In pterodactyl form he is superhumanly strong (able to lift approximately ten tons){{r|Official Handbook of the Marvel Universe Master Edition #23}}
+* '''''Flight:''''' Possesses the ability to fly at a natural winged flight limit. 
+*'''''Pterodactyl Natural Weapons''''': A lethal beak and sharp talons on his hands and feet.
+* '''''Fire Breath:''''' Ability to breathe fire, which he used to burn the second Black Widow in revenge for shooting him.{{r|New Avengers #6}} The flames are powerful enough to inflict third-degree burns on someone as resilient as [[Hercules Panhellenios (Earth-616)|Hercules]].{{r|Secret Empire: Underground Vol 1 1}}
+* '''''Hypnosis:''''' Sauron also has a powerful hypnotic ability that requires direct eye contact to complete. He frequently uses his hypnotic power to give his victims terrifying delusions that allies have become monsters.
+* '''''Telekinesis:''''' Sauron had been perfecting new technological ordinance which can be operated via psychokinesis. Having used this new facility of his power to operate his "Mentally Adapted Ordinance Side-arm".{{r|X-Men Unlimited Infinity Comic Vol 1 10}}
+| Abilities               = Karl Lykos is a skilled psychiatrist.
+| Strength                = 10 tons in Sauron form.
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = Fly with his own wings.
+| Weapons                 = 
+
+| Notes                   = * While Sauron can feed off of any being, it seems that mutants, especially energy manipulators give him a substantially larger amount of energy to use. He has targeted Havok on quite a few occasions.
+* He allegedly killed any child he had.{{r|Wolverine and the X-Men #32}}
+| Trivia                  = * "Lykos" is a Greek term for "wolf", the Latin equivalent is "lupus" and the Latinized form is "lycus". It appears in Greek mythology as the name of several figures, and was also a common name for various rivers. It is the root word for the term "lycanthrope". The term literally means "werewolf", but also has the meaning of a human with a curse that causes involuntary shapeshifting. The werewolf condition is called "lycanthropy". 
+* [[Jubilation Lee (Earth-616)|Jubilee]] has compared Sauron to Rodan,{{r|Uncanny X-Men Vol 1 354}} a flying reptilian monster who has appeared in films by the Toho studio since 1956.
+* Sauron shares his name with the Dark Lord Sauron, the main antagonist from J.R.R Tolkien's ''The Lord of the Rings''. In fact, he named himself after Tolkien's character, stating upon his first transformation, "I choose--EVIL! An evil so great... so monumental that only one name in all the annals of literature will contain it! The name of Tolkien's ultimate villain... that Dark Lord who personified evil... who was truly evil incarnate...! The name of... SAURON!!"{{r|X-Men Vol 1 60}}
+| Links                   = * [http://www.marvunapp.com/Appendix4/sauronsavage.htm Sauron @ The Appendix to the Handbook of the Marvel Universe]
+}}
+[[Category:Flight]]
+[[Category:Superhuman Strength]]
+[[Category:Power Mimicry]]
+[[Category:Fire Breath]]
+[[Category:Concussive Blasts]]
+[[Category:Hypnosis]]
+[[Category:Reptilian Form]]
+[[Category:Energy Absorption]]
+[[Category:Shapeshifters]]
+[[Category:Pseudo-Vampiric Beings]]
+[[Category:Weapon X Experiment]]

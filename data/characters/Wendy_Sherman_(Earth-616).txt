@@ -1,0 +1,73 @@
+{{Marvel Database:Character Template
+| Image                   = Wendy Sherman (Earth-616) from Cable Vol 4 2 001.jpg
+| Name                    = Wendy Sherman
+| Name2                   = {{r|Nation X Vol 1 1}}
+| CurrentAlias            = Stinger
+| Aliases                 = 
+
+| Affiliation             = Formerly {{M|Alliance of Evil}}, [[En Sabah Nur (Earth-616)|Apocalypse]]
+
+| Relatives               = Unnamed baby with [[Paul Provenzano (Earth-616)|Omerta]] {{r|Cable Vol 4 2}}
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 5'4
+| Weight                  = 110 lbs.
+| Eyes                    = Blue
+| Hair                    = White
+| UnusualFeatures         = Piercings
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[California (State)|California]]
+
+| Identity                = Secret
+| Citizenship             = American, Krakoan
+| Occupation              = Adventurer; former mercenary, terrorist
+| Education               =
+| BaseOfOperations        =
+| Base Of Operations      = [[Krakoa (Earth-616)|Krakoa]], [[Pacific Ocean]]; formerly [[Utopia (X-Men Base)|Utopia]], [[San Francisco Bay]], [[California (State)|California]]
+
+| Creators                = Bob Layton; Jackson Guice
+| First                   = X-Factor #5
+
+| History                 = 
+[[File:Wendy Sherman (Earth-616) from  Official Handbook of the Marvel Universe Vol 3 1 0001.jpg|thumb|left|145px]]
+A young valley girl with electrical-based mutant powers, Stinger was a member of the [[Alliance of Evil (Earth-616)|Alliance of Evil]], [[En Sabah Nur (Earth-616)|Apocalypse]]'s original strike force.{{r|X-Factor #5}} Because of her youth, Stinger often handled situations recklessly, as seen when she accidentally killed [[Michael Nowlan (Earth-616)|Michael Nowlan]]'s girlfriend, Susan.{{r|X-Factor #6}}
+
+During their battles with [[X-Factor (Earth-616)|X-Factor]], Stinger often flirted with [[Warren Worthington III (Earth-616)|Angel]], much to his annoyance. Stinger stayed with the Alliance of Evil when they defied the [[Mutant Registration Act]],{{r|X-Factor #33}} and later battled the [[New Mutants (Earth-616)|New Mutants]] with the team.{{r|New Mutants Annual #7}}
+
+Wendy was among the mutants who kept their powers after [[M-Day]].{{r|Nation X #1}} She later joined the mutants on [[Utopia (X-Men Base)|Utopia]], the [[X-Men (Earth-616)|X-Men]]'s new home base, feeling that she had no choice but to live among her kind.{{r|Heroic Age: X-Men #1}}
+
+Fearing rumors of an impending attack, and feeling isolated,{{r|Heroic Age: X-Men #1}} she sought reassurance from [[Robert Drake (Earth-616)|Iceman]] who admitted to having been attracted to her, even in their initial confrontations. Shooting off a joke to lighten the mood, Iceman inadvertently offended her, leading her to take [[Kavita Rao (Earth-616)|Dr. Kavita Rao]] hostage in an attempt to leave the island. Only willing to negotiate with Iceman, he eventually talked her down, defusing the situation. Later, the two were seen having a picnic and enjoying each others' company.{{r|Nation X #1}} Before the [[Nimrod (Earth-811)|Nimrod]]s invaded the island, Stinger was among the mutants gathered to listen to [[Scott Summers (Earth-616)|Cyclops]]' speech declaring them all X-Men.{{r|New Mutants Vol 3 #14}}
+
+Following the establishment of a new mutant nation in [[Krakoa (Earth-616)|Krakoa]], Stinger relocated to the mutant-only island. She was the first mutant of this new society to get pregnant.{{r|Marauders Vol 1 #8}}
+
+| Powers                  = Stinger is a [[Homo superior|mutant]] who has displayed the following ability:
+* '''Bio-Electricity Manipulation''': Stinger's body can build, store, and discharge bio-electricity. She would release her potent energies from her hands most often because it allowed more focus and aim. Though fairly new to her mutant power's she showed the ability to use them in varying ways: Stinger could discharge her bio-electrical energies at levels from as minuscule as small static, to staggering bolts of lightning like energy that could be devastating.
+
+As part of the [[Alliance of Evil (Earth-616)|Alliance of Evil]], [[En Sabah Nur (Earth-616)|Apocalypse]] would regularly have the members of his group take large doses of [[Michael Nowlan (Earth-616)|Source]]'s mutant enhancement energies. As a result each of the members' powers, including Stinger's, had massively '''Increased strength'''. The drawback was that the Source's mutant powers of enhancement were very addictive, making the receiver crave/need the energies to survive. Stinger continued to feel the ramifications of her addiction even after Source's death.
+
+She was stated to be a '''Level 3 Threat''' by [[Nathaniel Summers (Earth-616)|Cable]].{{r|New Mutants Annual #7}}
+
+| Abilities               =
+| Strength                =
+| Weaknesses              =
+
+| Equipment               =
+| Transportation          =
+| Weapons                 =
+
+| Notes                   =
+| Trivia                  = 
+| Links                   = * [http://uncannyxmen.net/characters/stinger uncannyxmen.net Character Profiles: Stinger]
+* http://en.wikipedia.org/wiki/Stinger_(comics)
+| Wikipedia               = Stinger (comics)
+}}
+[[Category:Electrokinesis]]
+[[Category:Utopians]]
+[[Category:Level 3 Threats]]
+[[Category:Post-M-Day Mutants (Registration Status Unknown)]]
+[[Category:Medium range Energy Projection]]
+[[Category:Elementals]]

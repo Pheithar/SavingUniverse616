@@ -1,0 +1,60 @@
+{{Marvel Database:Character Template
+| Image                   = Titus (Earth-616) from Nova Vol 5 5 0001.jpg
+| Name                    = Titus
+| CurrentAlias            = 
+| Aliases                 = formerly Supernova, [[Nova]]
+
+| Affiliation             = [[Chitauri]] forces; formerly {{M|Supernovas}}, {{M|Nova Corps}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Yellow
+| Hair                    = No Hair
+| UnusualFeatures         = Robotic right eye and arm, claws on remaining organic left, fur, pointed ears
+
+| Origin                  = [[Alien]] [[Cyborgs|Cyborg]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = Formerly Supernova
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Jeph Loeb; Ed McGuinness
+| First                   = Nova Vol 5 1
+| Death                   = 
+
+| History                 = 
+===As a [[Supernovas (Earth-616)|Supernova]]===
+Titus was a member of the [[Supernovas (Earth-616)|Supernovas]], a branch of the [[Nova Corps (Earth-616)|Nova Corps]]. He served with [[Jesse Alexander (Earth-616)|Jesse Alexander]], the father of [[Samuel Alexander (Earth-616)|Sam Alexander]], [[Mister Z'zz (Earth-616)|Mister Z'zz]], [[Phlish (Earth-616)|The Phlish]], and a few other supernovas.{{r|Nova Vol 5 1}} Following the desertion of Jesse Alexander, Titus was attacked by the [[Chitauri]], which lead to the loss of Titus' right eye and arm. After serving the Chitauri for several years, Titus came to Earth in search of Jesse Alexander's Nova helmet.{{r|Nova Vol 5 4}}
+
+===With the [[Chitauri]]===
+Titus lies to Sam telling him that he had killed his father however this is not true because Jesse Alexander is being held captive by the Chitauri. When Titus finds Sam he threatens not only him, but everything he holds dearly to him in exchange for the [[Ultimate Nullifier (Weapon)|Ultimate Nullifier]] he stole from their ship. Sam then gets back his helmet from Titus and takes them both to outer space, expecting the lack of oxygen to kill Titus. When that plan fails Sam takes out the Ultimate Nullifier and tells Titus to take his forces and leave. Titus and Sam then struggle for the gun and Sam accidentally triggers it killing Titus and an entire fleet of Chitauri.{{r|Nova Vol 5 #4|5}}
+
+===Return===
+Titus later turned up alive and partnered with [[Death's Head (Styrakos)|Death's Head]] to ambush Sam and the recently resurrected [[Richard Rider (Earth-616)|Nova Prime]] while the pair was visiting [[Knowhere]]. He was defeated by Sam and Rider, however.{{r|Nova Vol 7 2}}
+
+| Powers                  = Considering he was once a Supernova, it can be presumed that Titus formerly possessed the typical powers of a Supernova.
+| Abilities               = Able to breathe in outer space.
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = Formerly a [[Nova Helmet (Supernovas)|Supernova Helmet]]
+| Transportation          = [[Chitauri]] ships.
+| Weapons                 = Robotic arm and eye; formerly Nova gun
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Centurion (Supernova)]]
+[[Category:Feline Form]]

@@ -1,0 +1,34 @@
+{{Marvel Database:Team Template
+| Image                   = Starblasters (Earth-616) from Starblast Vol 1 2 0001.jpg
+| Name                    = Starblasters
+| Aliases                 = 
+
+| Status                  = 
+
+| Identity                = 
+| Reality                 = Earth-616
+| BaseOfOperations        = 
+
+| Leaders                 = [[Skeletron (Earth-616)|Skeletron]]
+| CurrentMembers          = [[Fabrikant (Earth-616)|Fabrikant]], [[Threkker (Earth-616)|Threkker]], [[Zardrox (Earth-616)|Zardrox]], [[Skar (Earth-616)|Skar]], [[Codabac (Earth-616)|Codabac]], [[Xlyym (Earth-616)|Xlyym]]
+| FormerMembers           = 
+| Allies                  = 
+| Enemies                 = [[Wendell Vaughn (Earth-616)|Quasar]], [[Fantastic Four (Earth-616)|Fantastic Four]], [[Namor McKenzie (Earth-616)|Namor]], heroes of [[Earth-148611]]
+
+| Origin                  = formed by Skeletron to gain control of the [[Star Brand (Object)|Star Brand]]
+| PlaceOfFormation        = unknown
+| PlaceOfDissolution      = [[Earth-148611]]
+| Creators                = Mark Gruenwald
+| First                   = Quasar #53
+| Last                    = Maximum Security #3
+
+| HistoryText             = The Starblasters are an intergalactic group of creatures banded together for one purpose: to gain control of the [[Star Brand (Object)|Star Brand]]. Their actions led to a confrontation with a number of cosmic heroes as well as the heroes of the [[New Universe]]. However, their leader, [[Skeletron (Earth-616)|Skeletron]] sought to have the power himself and was more than willing to jettison his crew into space, especially those who were of flesh and blood, to have the power to himself. When Skeletron was trapped in the now-empty New Universe, the rest of his crew (those who were still alive), were apprehended and taken away.{{r|Starblast #1|4}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

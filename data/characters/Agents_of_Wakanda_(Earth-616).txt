@@ -1,0 +1,38 @@
+{{Marvel Database:Team Template
+| Image                   = Avengers Vol 8 12 Textless.jpg
+| ImageSize               = 250px
+| Name                    = Agents of Wakanda
+| Aliases                 = 
+| EditorialNames          = [[Secret Avengers]]{{r|Avengers Vol 8 12}}
+| Status                  = Active
+| Identity                = Public
+| Reality                 = Earth-616
+| BaseOfOperations        = [[Agents of Wakanda Helicarrier]], [[Avengers Mountain]], [[North Pole]]
+
+| Leaders                 = [[Okoye (Earth-616)|Okoye]], [[T'Challa (Earth-616)|Black Panther]]
+| CurrentMembers          = [[Jason Strongbow (Earth-616)|American Eagle]], [[Broo (Earth-616)|Broo]], [[James Bradley (Earth-616)|Doctor Nemesis]], [[Fat Cobra (Earth-616)|Fat Cobra]], [[Kenneth Hale (Earth-616)|Gorilla-Man]], [[Kevin Plunder (Earth-616)|Ka-Zar]], [[Zabu (Earth-616)|Zabu]], [[John Jonah Jameson III (Earth-616)|Man-Wolf]], [[Barbara Morse (Earth-616)|Mockingbird]], [[Rosalind Solomon (Earth-616)|Roz Solomon]], [[Mikhail Ursus (Earth-616)|Ursa Major]] (double agent), [[Janet Van Dyne (Earth-616)|Wasp]]
+| FormerMembers           = 
+| Allies                  = [[Avengers (Earth-616)|Avengers]]
+| Enemies                 = [[Dark Council (Earth-616)|Dark Council]], [[Makluans]], [[Roxxon Energy Corporation (Earth-616)|Roxxon]], [[Robert Reynolds (Earth-616)|Sentry]]/[[Void (Dark Sentry) (Earth-616)|Void]], [[Vampires]], [[Livewires (Earth-616)|Livewires]]
+
+| Origin                  = 
+| PlaceOfFormation        = [[Avengers Mountain]], [[North Pole]]
+| PlaceOfDissolution      = 
+| Creators                = Jason Aaron; David Marquez; Andrea Sorrentino
+| First                   = Avengers Vol 8 10
+
+| Quotation               = In order to protect a world that seems so determined to tear itself apart in an ever-increasing variety of ways, the [[Avengers (Earth-616)|Avengers]] require an entirely new '''support staff.''' (...) If the Avengers are the hammer, the Agents of Wakanda will be the hand that holds the nail.
+| Speaker                 = [[Okoye (Earth-616)|Okoye]]
+| QuoteSource             = Thor Vol 5 9
+
+| HistoryText             = The Agents of Wakanda were assembled by newly-appointed [[Avengers (Earth-616)|Avengers]] chairman [[T'Challa (Earth-616)|Black Panther]] to serve as a support crew for the team, helping both run the [[Avengers Mountain]] and collecting intelligence for missions. The members were hand-picked by Black Panther and screened by [[Okoye (Earth-616)|Okoye]], who served as the director of the Agents. The Agents of Wakanda's first missions involved gathering information on [[Namor McKenzie (Earth-616)|Namor]]'s plans against the surface world, a [[Vampires|vampiric]] civil war brewing in [[Transylvania]], rescuing [[Eric Brooks (Earth-616)|Blade]] and [[Michael Morbius (Earth-616)|Michael Morbius]] from Dracula's forces in the process,{{r|Avengers Vol 8 10}}{{r|Avengers Vol 8 12}} and the [[War of the Realms]].{{r|Thor Vol 5 9}}
+
+| Equipment               = [[Agents of Wakanda Jumpsuit|Agents of Wakanda Jumpsuits]] and [[Agents of Wakanda Wetsuit|Wetsuits]]
+| Transportation          = [[Agents of Wakanda Helicarrier]], [[All-Terrain Mobile Command Post]], [[Quinjet|Quinjets]]
+| Weapons                 = [[Vibranium Gun|Vibranium Guns]]
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Wakandan Organizations]]

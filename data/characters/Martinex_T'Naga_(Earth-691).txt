@@ -1,0 +1,82 @@
+{{Marvel Database:Character Template
+| Image                   = Martinex T'Naga (Earth-691) from Guardians 3000 Vol 1 2 0001.png
+| Name                    = Martinex T'Naga
+| CurrentAlias            = [[Martinex]]
+| Aliases                 = 
+
+| Affiliation             = {{m|Guardians of the Galaxy (Earth-691)|Guardians of the Galaxy}}, {{m|Galactic Guardians}}, {{m|Avengers (Earth-616)|Avengers}} (honorary)
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z Update #4}}
+| Gender                  = Male
+| Height                  = 6'1"
+| Weight                  = 455 lbs
+| Eyes                    = Black
+| Hair                    = None
+| UnusualFeatures         = Martinex is a silicon-based lifeform.
+
+| Origin                  = [[Pluvians|Pluvian]], possibly mutant{{r|Guardians of the Galaxy #13|; letters' page}} (underwent a mutation{{r|Guardians of the Galaxy #7}}/change who could be the result of a [[Latents|Latent mutant gene]] or a natural evolutionary step){{r|Guardians of the Galaxy Annual #1}}<!-- pretty much the same... -->
+| Reality                 = Earth-691
+| PlaceOfBirth            = [[Pluto]]
+
+| Identity                = No Dual
+| Citizenship             = Pluvian
+| Occupation              = Technician, Adventurer, Pilot
+| Education               = 
+| BaseOfOperations        = [[Starship Captain America]]; formerly [[Starship Captain America II]], Mainframe's homeworld, [[Freedom's Lady]], [[Drydock]]
+
+| Creators                = Arnold Drake; Gene Colan
+| First                   = Marvel Super-Heroes #18
+
+| History                 = In the 31st Century, [[Earth]] had colonized several planets in its solar system, including [[Pluto]]. Martinex was born on Pluto, although it was later revealed his ancestors were from the continent of [[Africa]] on Earth.{{r|Guardians of the Galaxy #18}}
+
+He grew up to become a scientist. Like the other Pluvians, Martinex's body was completely covered by facets that were crystalline in appearance, so that the Pluvians could withstand the extreme temperatures of their world. When the [[Badoon]] attempted to exterminate all the Pluvians, Martinex escaped the Badoon and teamed with [[Vance Astro (Earth-691)|Vance Astro]], a human astronaut from the 20th century, [[Charlie-27 (Earth-691)|Charlie-27]], a [[Jupiter|Jovian]], and [[Yondu Udonta (Earth-691)|Yondu]], from [[Alpha Centaurians|Alpha Centauri]], to fight the Badoon as the [[Guardians of the Galaxy (Earth-691)|Guardians of the Galaxy]].{{r|Marvel Super-Heroes #18}} 
+
+The Guardians were once assisted by the [[Benjamin Grimm (Earth-616)|Thing]], [[Steven Rogers (Earth-616)|Captain America]], and [[Sharon Carter (Earth-616)|Agent 13]]. They were able to reclaim a major beachhead on Earth during the war again Badoon occupation.{{r|Marvel Two-In-One #4|5}} After traveling back to the Age of Heroes again,{{r|Giant-Size Defenders #5}} the Guardians succeeded in driving the Badoon off of Earth entirely.{{r|Defenders #26|29}}
+
+Eventually, the Guardians drove the Badoon from Earth, with Martinex executing their leader ([[Koord (Earth-691)|Koord]]), but they were unable to fit in with postwar life on Earth and departed on a mission to explore the galaxy.{{r|Marvel Presents #3}} In their travels, the Guardians met new members such as [[Nicholette Gold (Earth-691)|Nikki]] (Last survivor of Mercury) and new threats like the [[Topographical Man (Earth-691)|Topographical Man]].{{r|Marvel Presents #5|12}}
+
+One of the Guardians' greatest foes was [[Michael Korvac (Earth-691)|Michael Korvac]].{{r|Thor Annual #6}} When he gained great power and traveled back in time, Martinex and the Guardians followed him back to the Age of Heroes. They made contact with the Avengers of Earth, and were granted honorary membership in the team during their stay in the present.{{r|Avengers #167|181}}
+
+As the most level-headed and generally respected member of the team, Martinex tended to serve as the Guardians' reluctant leader.{{r|Guardians of the Galaxy #1}}
+
+While looking for the shield of [[Steven Rogers (Earth-616)|Captain America]], the Guardians came into conflict with a team of superhumans known as [[Force (Earth-691)|Force]]. Martinex was badly injured by a member of Force known as [[Brahl (Earth-691)|Brahl]]. Much of the crystals that covered Martinex's body were shattered, but he recovered with the help of fellow Guardian [[Stakar Ogord (Earth-691)|Starhawk]] and his "living light". All of the exterior crystals on Martinex fell away, leaving him with a new, less faceted, somewhat purple appearance.{{r|Guardians of the Galaxy #5|7}}
+
+Eventually, Martinex left the team to begin forming franchise versions of the Guardians, called the Galactic Guardians.{{r|Guardians of the Galaxy #18}} The Galactic Guardians were initially made up of [[Simon Williams (Earth-691)|Hollywood]], [[Pyreus Kril (Earth-691)|Firelord]], the [[Vision (Earth-691)|Mainframe]], [[Replica (Earth-691)|Replica]], [[Giraud (Earth-691)|Phoenix IX]], and [[Wileaydus Autolycus (Earth-691)|Ghost Rider]].{{r|Guardians of the Galaxy Annual #2}}
+
+Martinex later returned to the Guardians of the Galaxy.{{r|Guardians of the Galaxy #62}}
+
+The future of the 31st century has been in a state of considerable flux for some time. Several versions of Martinex have appeared in recent years, vying for relevance to the events of Earth-616. {{r|Guardians of the Galaxy Vol 2 #16|19}} Martinex and a team of Guardians (who remembered being one-time Avengers) recently transported back to the 21st century again, but their timeline and memories were heavily altered from what they have experienced in the past.{{r|Guardians 3000 #1|8}}
+
+| Powers                  = 
+* '''[[Pluvians|Pluvian Physiology]]:''' As a Pluvian, Martinex is descended from the original human colonists of Pluto who were genetically-engineered to survive on that world.
+** '''Silicon-Based Lifeform:''' Martinex is composed of silicon crystal instead of carbon matter. This makes him stronger and more durable than a normal human. However, when injured his body heals slower than a human.{{r|Guardians of the Galaxy #5|7}}
+** '''Enhanced Vision:''' Martinex can adapt his eyes to see in blinding light or near total darkness.
+** '''Survive in Vacuum'''
+** '''Temperature Resistance:''' Martinex can withstand a greater range of hot and cold temperatures than a normal human.
+** '''Thermokinesis:''' Martinex's physiology can further improve his resistance to temperature extremes by siphoning excess heat out of the environment to warm up, or venting his own body heat to cool down. Martinex can also focus this effect offensively to project thermal beams of heat or cold.
+
+| Abilities               = Scientific training.
+| Strength                = T'Naga can lift approximately 1 ton.{{r|Official Handbook of the Marvel Universe Vol 2 #5}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = *  [http://en.wikipedia.org/wiki/Martinex Martinex] at Wikipedia
+}}
+[[Category:Pyrokinesis]]
+[[Category:Cryokinesis]]
+[[Category:Pilots]]
+[[Category:Honorary Avengers]]
+[[Category:Formerly Deceased]]
+[[Category:Korvac Saga participants]]
+[[Category:Korvac Saga casualties]]
+[[Category:Possible Mutant Pluvians]]
+[[Category:Interdimensional Travelers]]
+[[Category:Thermokinesis]]
+[[Category:Elementals]]
+[[Category:Time Travelers]]

@@ -1,0 +1,51 @@
+{{Marvel Database:Character Template
+| Image                   = Chynae (Earth-616) from Inhuman Vol 1 2 0001.png
+| Name                    = Chynae
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{m|Inhuman Royal Guard}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Yellow
+| Hair                    = Red
+| UnusualSkinColor        = Purple
+| UnusualFeatures         = Pointed ears, facial tattoos, gills
+
+| Origin                  = [[Inhumans (Inhomo supremis)|Inhuman]] subjected to the [[Terrigen Mists]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Attilan]]
+
+| Identity                = No Dual
+| Citizenship             = Attilan, New Attilan
+| Occupation              = Royal Guard
+| Education               = 
+| BaseOfOperations        = [[New Attilan]]
+
+| Creators                = Charles Soule; Joe Madureira
+| First                   = Inhuman #2 
+
+| History                 = [[File:Chynae (Earth-616) from Inhuman Vol 1 2 0002.png|250px|left|thumb|Chynae vs. A.I.M.]]
+Chynae was part of an [[Inhumans (Inhomo supremis)|Inhuman]] squad led by [[Triton (Earth-616)|Triton]] who was being attacked by a regiment of [[Advanced Idea Mechanics (Earth-616)|A.I.M.]] soldiers in [[Central Park]]. With two of their members down, Chynae began using her hydrokinetic abilities to knock out a couple of enemies when a blast from an A.I.M. soldier's rifle was about to hit her until it was reflected by [[Steve Rogers (Earth-616)|Captain America]]'s shield. With help from Cap and [[Medusalith Amaquelin (Earth-616)|Medusa]], Chynae and Triton were able to stop the attack.{{r|Inhuman #2}}
+
+| Powers                  = '''Hydrokinesis'''
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Hydrokinesis]]

@@ -1,0 +1,48 @@
+{{Marvel Database:Character Template
+| Image                   = Iconoclast (Earth-616) from Fantastic Four Vol 3 2 0001.jpg
+| Name                    = 
+| CurrentAlias            = Iconoclast
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = {{cl|Marvel Encyclopedia Vol 1 Fantastic Four}}
+| Gender                  = Male
+| Height                  = 6' 1"
+| Weight                  = 225 lbs
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = 
+| Citizenship             = 
+| Occupation              = Assassin
+| Education               = 
+| BaseOfOperations        = Mobile
+
+| Creators                = Scott Lobdell; Alan Davis
+| First                   = Fantastic Four Vol 3 2
+
+| History                 = Iconoclast is an assassin, who tried to kill the [[Susan Storm (Earth-616)|Invisible Woman]].
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * http://www.marvunapp.com/Appendix/iconoclastff.htm
+}}

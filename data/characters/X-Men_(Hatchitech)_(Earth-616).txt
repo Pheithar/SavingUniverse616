@@ -1,0 +1,37 @@
+{{Marvel Database:Team Template
+| Image                   = X-Men (Hatchitech) (Earth-616) from Astonishing X-Men Vol 3 55 001.jpg
+| Name                    = [[X-Men|"X-Men"]]
+| EditorialNames          = 
+| Aliases                 = 
+
+| Status                  = Defunct
+
+| Identity                = Secret
+| Reality                 = Earth-616
+| BaseOfOperations        = 
+
+| Leaders                 = [[Striker (Hatchitech) (Earth-616)|"Striker"]] (Formerly)
+| CurrentMembers          = 
+| FormerMembers           = [[Flashfire (Hatchitech) (Earth-616)|"Flashfire"]], [[Ripcorde (Hatchitech) (Earth-616)|"Ripcorde"]], [[Phoenix (Hatchitech) (Earth-616)|"Phoenix"]], [[Wolverine (Hatchitech) (Earth-616)|"Wolverine"]]
+| Allies                  = [[Da'o Coy Manh (Earth-616)|Susan Hatchi (Da'o Coy Manh)]]
+| Enemies                 = [[X-Men (Earth-616)|X-Men]]
+
+| Origin                  = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = [[Madripoor]]
+| Creators                = Marjorie Liu; Mike Perkins
+| First                   = Astonishing X-Men Vol 3 55
+| Last                    = 
+
+| HistoryText             = This fake X-Men team was brought together by [[Da'o Coy Manh (Earth-616)|Susan Hatchi]] to battle the real [[X-Men (Earth-616)|X-Men]] in order to take over the island of [[Madripoor]].
+
+They were defeated and sent into police custody.
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

@@ -1,0 +1,112 @@
+{{Marvel Database:Character Template
+| Image                   = Mikhail Ursus (Earth-616) from Winter Guard Vol 1 1 001.jpg
+| Name                    = [[Mikhail Ursus|Mikhail Uriokovich Ursus]]
+| Name2                   = (His original surname was Uriokovitch{{r|Operation S.I.N. #5}} but after being captured and indoctrinated in the Soviet Union it is now Ursus.)
+| CurrentAlias            = [[Ursa Major]]
+| Aliases                 = Bol'saja Medvedica{{Citation}} ("Great Bear" in Russian),[[Wikipedia:John_"Grizzly"_Adams|Grizzly Adams]],{{r|Hulk Vol 2 1}} Major Mikhail Ursus,{{Citation}} [[Wikipedia:Winnie_the_Pooh|Pooh]]{{r|Hulk Vol 2 1}}
+
+| Affiliation             = {{m|Agents of Wakanda}} (Double Agent), {{m|Winter Guard}}, {{m|Black Widow Ops Program (Earth-616)|Red Room}}; formerly {{m|Siberforce}}, {{m|Soviet Super-Soldiers}}, {{m|Neo-Soviets}}
+| Relatives               = Unnamed mother
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z Update Vol 1 2}}
+| Gender                  = Male
+| Height                  = 6'3" (human); 7'5" (bear)
+| Weight                  = 255 lbs (human); 955 lbs (bear)
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         = In his transformed state, Ursus is an anthropomorphic brown bear, with fur, claws and fangs.
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = Blagoveshchensk, Russia
+| PlaceOfDeath            = Avengers Mountain, Arctic Circle
+| KilledBy                = Red Widow (Winter Guard) (Earth-616)
+
+| Identity                = Secret
+| Citizenship             = Russian, Soviet, (formerly)
+| Occupation              = Government Agent, Soldier, sometime adventurer 
+| Education               = 
+| BaseOfOperations        = [[Winter Guard Mansion]], [[Moscow]], [[Russia]]; formerly [[Khystym]], [[Siberia]], [[Russia]]
+
+| Creators                = Bill Mantlo; Sal Buscema
+| First                   = Incredible Hulk #250
+| Quotation               = I love my country. I love [[Russia]]. I defend it with honor.
+| Speaker                 = [[Mikhail Ursus (Earth-616)|Ursa Major]]
+| QuoteSource             = Tales of Suspense Vol 1 103
+
+| History                 = 
+===Origins===
+'''Mikhail Uriokovitch Ursus''' (Russian: '''Михаил''') was on the run from the state security apparatus when he crossed paths with [[Margaret Carter (Earth-616)|Margaret Carter]]'s operations team.{{r|Operation S.I.N. #2}} He acted as the team's guide in Russia as the team sought out a [[Hydra (Earth-616)|Hydra]] base.{{r|Operation S.I.N. #3}} In the base's destruction, he was able to reunite with his mother.{{r|Operation S.I.N. #4}} He was imprisoned for his own safety, but was abducted and indoctrinated when Russian forces invaded the Hydra base.{{r|Operation S.I.N. #5}}
+
+===Training===
+Russian mutants were deemed as a threat and were to be killed as soon as their mutation was discovered. However, [[Piotr Phobos (Earth-616)|Professor Phobos]] was able to convince the Soviet government to allow him to train them as potential agents loyal to the government. His real motive, however, was to use them to gain power for himself. Ursa Major was one of the first trainees along with [[Laynia Petrovna (Earth-616)|Darkstar]] and [[Nikolai Krylenko (Earth-616)|Vanguard]]. As part of the [[Soviet Super-Soldiers (Earth-616)|Soviet Super-Soldiers]], they investigated a radioactive area along with the [[Bruce Banner (Earth-616)|Hulk]] and discovered that Phobos was attempting to irradiate the USSR to provide more mutants for him to feed off of. Phobos was defeated and the three mutants vowed they would not serve the government without question.{{r|Incredible Hulk #258}} 
+
+===Soviet Super-Soldiers===
+Mikhail continued to be part of the Soviet Super-Soldiers, along with Darkstar, Vanguard and [[Kondrati Topolov (Earth-616)|Gremlin]], for several years. While hunting for [[Max Eisenhardt (Earth-616)|Magneto]], they faced both the [[Avengers (Earth-616)|Avengers]] and [[X-Men (Earth-616)|X-Men]] in southeast Asia.{{r|X-Men vs Avengers Vol 1 1|3}}
+
+After discovering [[Dimitri Bukharin (Earth-616)|Crimson Dynamo]] was spying on them, the three left the Soviet Super-Soldiers and joined [[Siberforce (Earth-616)|Siberforce]], a group of exiled mutants.
+
+Ursus and [[Nikolai Krylenko (Earth-616)|Vanguard]] were later tricked by [[General Tskarov (Earth-616)|General Tskarov]] into attacking American businesses while searching for the missing [[Laynia Petrovna (Earth-616)|Darkstar]].{{r|Daredevil #369}} [[Natalia Romanova (Earth-616)|Black Widow]] and [[Matthew Murdock (Earth-616)|Daredevil]] exposed Tskarov's plan, revealing that he had kidnapped Darkstar to manipulate the two.{{r|Daredevil #370}}
+
+===Winter Guard===
+Mikhail was one of the mutants who retained his powers after M-Day. He later returned to Russia, joining the new [[Winter Guard (Earth-616)|Winter Guard]], investigating the death of [[Emil Blonsky (Earth-616)|Abomination]],{{r|Hulk Vol 2 #1}} repulsing the efforts of the [[Lady Liberators (Earth-616)|Lady Liberators]] when they attempted to interfere in international business,{{r|She-Hulk Vol 2 #35}} joining with [[James Rhodes (Earth-616)|War Machine]] to repel the [[Secret Invasion|Skrull Invasion]] in Russia,{{r|Iron Man: Director of S.H.I.E.L.D. Vol 1 #34|#35}} and then facing the [[Remont 4 (Earth-616)|Remont 6]] and mentoring the new Darkstar, [[Sasha Roerich (Earth-616)|Sasha Roerich]].{{r|Hulk: Winter Guard Vol 1 #1}}
+
+He was later imprisoned in a gulag on trumped up charges manufactured by [[Andre Rostov (Earth-616)|Colonel Rostov]],{{r|Captain America #617}} where he was pitted against several opponents, usually ripping through his competition in two minutes. He eventually fought an incarcerated [[James Buchanan Barnes (Earth-616)|Winter Soldier]], who bested him.{{r|Captain America #616}}
+
+When Ursa Major and the Winter Guard tried to capture the [[Intelligencia (Earth-616)|Intelligencia]], the group used the Zero Cannon on them, sending the team to space,{{r|Amazing Spider-Man Vol 1 676}} though they survived.<ref>[http://forums.comicbookresources.com/showthread.php?396699-The-Former-Mutant-Formerly-Known-as-Darkstar-s-new-status-quo-(ASM-spoilers)&p=14411791#post14411791]</ref> 
+
+===Red Room===
+Following the reinstatement of the [[Black Widow Ops Program (Earth-616)|Red Room]], Ursa Major was recommissioned to its new base of operations in America, though he considered himself to have become a prisoner instead of the soldier he used to be. Following the [[Natalia Romanova (Earth-616)|Black Widow]]'s death at the hands of [[Steven Rogers (Earth-61311)|Captain America]], the Red Room created a [[Natalia Romanova (Earth-616)|clone]] of her with the intention to bring her back to their fold, making her retain only the original's memories pertaining to her service at the Red Room. Unwilling to let the Red Room erase all of Black Widow's memories as a hero, Ursa Major bribed the psychic operative responsible for granting any clones the memories he had previously obtained from the originals. As a result, Natasha's clone possessed all the memories of the original, though Ursa Major told her to keep it a secret. When Black Widow found out about the Red Room cloning program on her own, as well as the fact that she was a clone herself, Ursa Major urged Natasha to destroy the Red Room and put an end to its operations.{{r|Tales of Suspense Vol 1 103}} He was able to escape the compound and was last seen running into the wilderness.{{r|Tales of Suspense Vol 1 104}}
+
+===Imprisonment===
+Mikhail was imprisoned in a gulag in [[Siberia]], where he developed alcoholism, a problem that caused him to become increasingly aggressive and unpredictable. When the Russian government decided to revamp the [[Winter Guard (Earth-616)|Winter Guard]] in light of an increase of global tensions, namely the formation of the [[Defenders of the Deep (Earth-616)|Defenders of the Deep]] by [[Namor McKenzie (Earth-616)|Namor]] to drive off human presence in the oceans, a mission that included the attack of Russian submarines in the [[Black Sea]], the President and the Minister of Justice themselves signed a letter of pardon for Ursa Major to convince him to get back into action. The Winter Guard intercepted Namor and his Defenders when they were carrying out an attack in [[Hydropolis (Aquaria)|Hydropolis]]. The [[Avengers (Earth-616)|Avengers]] were already on the scene and briefly joined forces with the Russian team, until in-fighting between Winter Guard members [[Perun (Earth-616)|Perun]] and [[Chernobog (Earth-616)|Chernobog]] resulted in [[Jennifer Walters (Earth-616)|She-Hulk]] attacking them, breaking out a fight. The battle came to a standstill after the Defenders escaped, and the [[Red Widow (Winter Guard) (Earth-616)|Red Widow]] forced [[Dimitri Bukharin (Earth-616)|Crimson Dynamo]] to have his team retreat.{{r|Avengers Vol 8 10}}
+
+===Wakanda===
+When the [[T'Challa (Earth-616)|Black Panther]] held an international super-summit between representatives of the superhuman community all over the world to discuss the scaling tensions, Ursa Major was sent to represent the Winter Guard. Ursa Major disregarded T'Challa's attempts at diplomacy and tried to goad him before attacking him. Before Ursa Major could land the hit, Black Panther had him teleported to [[Siberia]].{{r|Avengers Vol 8 11}}
+
+| Powers                  = {{clear}}
+{{MessageBox
+| Message = Ursa Major's powers, abilities and strength level can vary due to a broad degree of [[Glossary:Artistic License|artistic license]] employed by various comic book writers and artists. Below is a broad list of powers and feats Ursa Major has shown over his more than four decades of comic appearances. If you wish to add more or discuss improvements to this section, please head to [[Talk: Mikhail Ursus (Earth-616)/Powers|his power's discussion page]].
+}}
+'''[[Homo superior|Enhanced Mutant Physiology]]:''' Ursa Major is a [[Homo superior|mutant]] who has the ability to transform into a brown bear. The [[Office of National Emergency (Earth-616)|O*N*E]] classified him as a '''General Threat'''.{{r|X-Men: The 198 Files Vol 1 1}}
+* '''Ursine Transformation:''' Ursa Major is capable of transforming into a humanoid brown bear at will within ten seconds. This process grants him an additional 14 inches in height and 700 lbs to his frame. While in his bear form, he retains his full level of intelligence, personality, and ability to speak.{{r|Official Handbook of the Marvel Universe A-Z Update Vol 1 2}}
+**'''Superhuman Strength:''' While transformed, Ursa Major possesses superhuman strength much greater than average humans and than of an actual brown bear of similar size. At his peak, his strength is sufficient to lift about 15 tons.{{r|Official Handbook of the Marvel Universe A-Z Update Vol 1 2}}
+**'''Peak Human Speed:''' Like an actual brown bear, Ursa Major is capable of running at speeds of up to 45 miles per hour.{{r|Official Handbook of the Marvel Universe Master Edition Vol 1 6}}
+**'''Peak Human Stamina:''' Ursa Major has peak human stamina,{{r|Official Handbook of the Marvel Universe Master Edition Vol 1 6}} which is likely equivalent to that of an adult Siberian bear.{{r|Official Handbook of the Marvel Universe Master Edition Vol 1 6}}
+**'''Athletic Agility and Reflexes:''' Despite his great size and bulk in his transformed state, Ursa Major's agility and bodily coordination are as great as than that of an Olympic level athlete,{{r|Official Handbook of the Marvel Universe Master Edition Vol 1 6}} which is likely equivalent to that of an adult Siberian bear.{{r|Official Handbook of the Marvel Universe Master Edition Vol 1 6}}
+**'''Enhanced Durability:'''{{r|Official Handbook of the Marvel Universe Master Edition Vol 1 6}} Ursa Major has the durability of an adult Siberian bear.{{r|Official Handbook of the Marvel Universe Vol 1 11}}
+
+| Abilities               = Ursa Major is a formidable hand to hand combatant, both in his human and bear forms.{{Citation}}
+
+| Strength                = '''Superhuman Strength:''' As a mutant, he is granted superhuman strength and is able to press/lift as much as 15 tons.{{r|Official Handbook of the Marvel Universe A-Z Update Vol 1 2}}
+| Weaknesses              = 
+
+'''Intelligence Loss: ''' Ursa Major begins to slowly loose his intelligence if he stays transformed for longer than 6 hours.{{r|Official Handbook of the Marvel Universe Master Edition Vol 1 6}}
+
+'''Alcoholism:''' Ursa Major has recently developed a problem with alcohol, which makes him more aggressive and have a tendency to get into fights.{{r|Avengers Vol 8 10|11}}
+
+| Equipment               = 
+| Transportation          = Advanced Russian vehicles, motorcycle
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+
+* Mikhail's origin is another example of Marvel's [[Glossary:Sliding Timescale|Sliding Timescale]].
+
+| Links                   = 
+}}
+[[Category:Post-M-Day Mutants (The 198)]]
+[[Category:Shapeshifters]]
+[[Category:Superhuman Strength]]
+[[Category:Hyperosmia]]
+[[Category:Soviets]]
+[[Category:Bear Form]]
+[[Category:General Threats]]
+[[Category:Athletic Skills]]
+[[Category:Alcoholism]]
+[[Category:Name legally changed]]
+[[Category:Military Personnel]]
+[[Category:Enhanced Durability]]
+[[Category:Strength Class 15]]

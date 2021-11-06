@@ -1,0 +1,56 @@
+{{Marvel Database:Character Template
+| Image                   = Reilly Marshall (Earth-616) from House of X Vol 1 1 001.png
+| Name                    = [[Reilly Marshall]]
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{m|United Nations Security Council (Earth-616)|U.N. Security Council}}; formerly {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}, {{m|Sentient World Observation and Response Department (Earth-616)|S.W.O.R.D.}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = U.N. Security specialist, former government agent, spy
+| Education               = 
+| BaseOfOperations        = [[United States]]
+
+| Creators                = Jonathan Hickman; Pepe Larraz
+| First                   = House of X Vol 1 1
+
+| History                 = Reilly Marshall was an Ex-[[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] and [[Sentient World Observation and Response Department (Earth-616)|S.W.O.R.D.]] agent assigned to the [[United Nations Security Council (Earth-616)|U.N. Security Council]]. He posed  as part of the ambassador entourage invited to [[Charles Xavier (Earth-616)|Xavier]]'s [[Jerusalem Habitat]]. He along with the other member's were greeted by the [[Stepford Cuckoos (Earth-616)|Stepford Cuckoos]] and [[Max Eisenhardt (Earth-616)|Magneto]] who took over the task of giving the ambassadors a tour through the various biomes of [[Krakoa (Earth-616)|Krakoa]].
+
+As they came to the end of the tour, [[Sophie Cuckoo (Earth-616)|Sophie]] read the minds of the delegates and conveyed to Magneto that they were not ambassadors at all but were sent there to spy on the [[Homo superior|mutants]] to determine the validity of their new found nation-state and its relationship to humanity. However, she was only able to get a partial read off of Marshall due to his training in telepathic defenses but realized he was hiding a weapon on him.
+
+Magneto used his abilities to hold Marshall in midair due to the iron content in his blood and magnetically dissembled his gun into a bunch of smaller pieces making it unusable. Marshall explained that he was carrying for his own protection, but Magneto perpetuated that the [[Homo sapiens|humans]] should accept the gifts that were being offered to them because they were now being watched over by their new gods.{{r|House of X Vol 1 1}}
+
+| Personality             = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Weapons Expert]]
+[[Category:Telepathic Immunity]]

@@ -1,0 +1,63 @@
+{{Marvel Database:Character Template
+| Image                   = Cloud_(Earth-616)_from_Defenders_Strange_Heroes_Vol_1_1_0001.jpg
+| Name                    = [[Cloud]]
+| CurrentAlias            = 
+| Aliases                 = [[Carol Faber]]; [[Danny Milligan]]
+
+| Affiliation             = {{m|Defenders}}; formerly {{m|Secret Empire}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = {{cl|Defenders: Strange Heroes #1}}
+| Gender                  = Genderfluid; Female (preferred form)
+| Height                  = Variable; 5'6" (Faber); 5'8" (Milligan),<br>100 light years at widest axis (nebula form)
+| Weight                  = Variable; 120 lbs (Faber); 135 lbs (Milligan),<br>Incalculable (nebula form)
+| Eyes                    = Blue (human forms); No Eyes (nebula form)
+| Hair                    = Blonde (human forms); No Hair (nebula form)
+| UnusualFeatures         = Nebula form is a gaseous state
+
+| Origin                  = Sentient [[Glossary:Nebula|Nebula]] ([[Genius Loci]])
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Space]]
+
+| Identity                = No Dual 
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = [[Space]]; formerly Defenders mansion; Secret Empire headquarters
+
+| Creators                = J.M. DeMatteis; Don Perlin
+| First                   = Defenders #123
+
+| History     = 
+[[File:Cloud (Earth-616) from Defenders Vol 1 150 001.jpg|left|thumb]]
+[[Category:History Expansion Needed]]
+
+Cloud subsequently joined the Defenders, but remained confused about their true origins. They began to fall in love with their teammate [[Heather Douglas (Earth-616)|Moondragon]], due to the subliminal telepathic signals Moondragon was sending out to manipulate others, and found themself shapeshifting into Danny Milligan's form to be "better equipped" to love Moondragon. This only further confused Cloud and others as to their true origins.
+
+Cloud eventually regained their full memories and led the Defenders out into space to stop the Star-Thief from killing their family. They resumed their appointed place in the cosmos.{{r|Defenders #150}}
+
+Most recently, now preferring the pronoun 'They', Cloud reappeared as a member of Doctor Strange's new Defenders.{{r|Defenders Vol 6 #1}}
+
+| Powers                  = 
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+
+| Trivia                  = 
+| Links                   = * [http://www.marvunapp.com/Appendix3/clouddefenders.htm Marvel Appendix]
+}}
+[[Category:Matter Manipulation]]
+[[Category:Energy Manipulation]]
+[[Category:Shapeshifters]]
+[[Category:Size Alteration]]
+[[Category:Electrokinesis]]
+[[Category:Telepaths]]
+[[Category:Genius Loci]]

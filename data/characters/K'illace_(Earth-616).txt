@@ -1,0 +1,51 @@
+{{Marvel Database:Character Template
+| Image                   = K'illace_(Earth-616)_from_X-Men_Unlimited_Vol_1_13_0001.jpg
+| Name                    = K'illace
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = [[Shi'ar]]
+| Relatives               = 
+| MaritalStatus           = Single 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = White
+| Hair                    = None
+| UnusualFeatures         = 
+
+| Origin                  = [[Shi'ar]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = Shi'ar Empire
+| Occupation              = Commander
+| Education               = 
+| BaseOfOperations        = Mobile 
+
+| Creators                = George Perez; Jorge Gonzales; Duncan Rouleau; Jim Calafiore; Andrew Robinson
+| First                   = X-Men Unlimited #13
+| Death                   = 
+
+| History                 = 
+
+| Powers                  = [[Shi'ar Physiology]]
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Feathers]]

@@ -1,0 +1,67 @@
+{{Marvel Database:Character Template
+| Image                   = Simon Lasker (Earth-616) from X-Men Gold Vol 2 24 001.jpg
+| Name                    = [[Simon Lasker]]
+| NameRef                 = {{r|X-Men: Gold Vol 2 23}}
+| CurrentAlias            = [[Pyro]]
+| Aliases                 = 
+
+| Affiliation              = Formerly; {{m|X-Men (Earth-616)}}, {{m|Brotherhood of Evil Mutants (Earth-616)|Brotherhood of Evil Mutants}}
+| Relatives               = Unnamed mother
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Blue
+| Hair                    = Blond
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = American, Krakoan
+| Occupation              = Adventurer; former terrorist, student
+| Education               = Some College
+| BaseOfOperations        = [[Krakoa (Earth-616)|Krakoa]], [[Pacific Ocean]]; formerly [[Xavier's School for Gifted Youngsters|Xavier Institute for Mutant Education and Outreach]], [[Central Park]], [[New York City]], [[New York]]; Abandoned Worthington Industries Facility, [[Long Island]], [[New York City]], [[New York (State)|New York]]
+
+| Creators                = Marc Guggenheim; Ardian Syaf
+| First                   = X-Men: Gold Vol 2 1
+
+| History                 = When Simon Lasker manifested his [[Homo superior|Mutant]] powers, [[Mesmero (Vincent) (Earth-616)|Mesmero]] appeared to him in the form of [[Charles Xavier (Earth-616)|Charles Xavier]] and brainwashed him into taking the name '''Pyro''' and joining a new [[Brotherhood of Evil Mutants (Earth-616)|Brotherhood of Evil Mutants]] working for anti-mutant activist [[Lydia Nance (Earth-616)|Lydia Nance]].{{r|X-Men: Gold Vol 2 21}}
+
+After marking their first public appearance by attacking the [[United Nations Headquarters]],{{r|X-Men: Gold Vol 2 1}} the Brotherhood kidnapped [[New York City|New York]]'s mayor, [[Warren Wilhelm, Jr. (Earth-616)|Bill de Blasio]] and held him hostage at an abandoned factory on [[Long Island]].{{r|X-Men: Gold Vol 2 2}} The mayor's kidnapping was intended to lure out the [[X-Men (Earth-616)|X-Men]] so they could be killed in an explosion; however, the X-Men managed to rescue the mayor and avoid the trap, defeating the Brotherhood in the process. Mesmero's hold over the team was broken, and the members of the Brotherhood were handed over to to [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]], ultimately leading to its disbandment.{{r|X-Men: Gold Vol 2 3}}
+
+[[File:Simon Lasker (Earth-616) from X-Men Gold Vol 2 21 Mora Variant cover.jpg|thumb|left|Pyro as a member of the Brotherhood]]
+Ms. Nance still had plans for the Brotherhood, so she facilitated Mesmero's escape from the mutant prison [[Robert Kelly Correctional Facility|The Box]].{{r|X-Men: Gold Vol 2 22}} Under the pretense of having found a way to escape on his own, Mesmero approached Pyro and his fellow lookalike, [[Avalanche (Mesmero's Brotherhood) (Earth-616)|Avalanche]], and offered them a chance at freedom, supposedly to have revenge on the woman who hired, then discarded, them. Mesmero had Pyro and Avalanche attack a yacht where Nance's [[Heritage Initiative (Earth-616)|Heritage Initiative]] was holding a fundraising gala solely with the objective to lure the X-Men.
+
+Shortly after the mutant heroes arrived to the scene,{{r|X-Men: Gold Vol 2 21}} so did a squadron of the [[New York City Police Department (Earth-616)|NYPD]]. While the Brotherhood made their escape, Mesmero used his powers on the X-Men, making them believe the officers were an assortment of their enemies which they attacked, leading to their arrest. The members of the Brotherhood regrouped at their base, where Mesmero revealed the true nature of his plot, and that in reality they were still under Nance's paycheck. Disgusted by having been manipulated again, and having assisted an anti-mutant bigot, Pyro walked away.{{r|X-Men: Gold Vol 2 22}}
+
+Not long afterwards, Simon approached the [[Xavier's School for Gifted Youngsters|Xavier Institute for Mutant Education and Outreach]] in hopes to make amends. [[Rogue (Anna Marie) (Earth-616)|Rogue]] vouched for him despite [[Robert Drake (Earth-616)|Iceman]]'s skepticism, and Simon joined the X-Men.{{r|X-Men: Gold Vol 2 23}} Simon also joined the X-Men in non-adventurous outings, such as when they visited Las Vegas for [[Piotr Rasputin (Earth-616)|Colossus]]' bachelor party.{{r|X-Men: Gold Vol 2 26}} The night of Colossus' and [[Katherine Pryde (Earth-616)|Kitty Pryde]]'s wedding, Simon had a one-night stand with Iceman.{{r|X-Men: Gold Vol 2 32}}
+
+Simon became a member of the mutant nation of [[Krakoa (Earth-616)|Krakoa]] and helped fight off the [[Russian Armed Forces (Earth-616)|Russian Armed Forces]] that attacked the island. {{r|X-Force Vol 6 11}}
+
+| Personality             = 
+
+| Powers                  = '''Pyrokinesis:''' Simon has the mutant ability to psionically generate, control, and manipulate fire, similar to [[St. John Allerdyce (Earth-616)|the original Pyro]]. Unlike Allerdyce, he seems capable of igniting fire on his own, and does not require outside sources of existing flame to manipulate.{{r|X-Men: Gold Vol 2 #21}} Any other differences have yet to be fully explored.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = [[X-Men Blackbird]]
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = * Simon's mother had lung cancer.{{r|X-Men: Gold Vol 2 24}}
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Mutants activated after M-Day]]
+[[Category:Pyrokinesis]]
+[[Category:Homosexual Characters]]
+[[Category:Elementals]]
+[[Category:Long range Energy Projection]]

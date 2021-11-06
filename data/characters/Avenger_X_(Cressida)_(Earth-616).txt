@@ -1,0 +1,78 @@
+{{Marvel Database:Character Template
+| Image                   = Avenger X (Cressida) (Earth-616) from Avengers Vol 7 5.1 001.jpg 
+| Name                    = [[Cressida]]
+| Name2                   = (surname unrevealed)
+| CurrentAlias            = [[Avenger X]]
+| Aliases                 = Cassandra (mistakenly){{r|Avengers Vol 7 8}}
+| EditorialNames          = 
+
+| Affiliation             = formerly {{M|Avengers (Earth-616)|Avengers}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Blue
+| Eyes2                   = (formerly [[:Category:Brown Eyes|Brown]])[[Category:Brown Eyes]]
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Thailand]]
+
+| Identity                = Secret
+| Citizenship             = Thai
+| Occupation              = Adventurer
+| Education               = 
+| BaseOfOperations        = formerly [[Avengers Mansion]], [[Manhattan]], [[New York City]], [[New York (State)|New York]], [[United States of America|USA]]; formerly unnamed village in Northern [[Thailand]]
+
+| Creators                = Mark Waid; Barry Kitson
+| First                   = Avengers Vol 7 1
+| First2                  = (Flashforward only)<br>{{sld|Avengers Vol 7 2.1}}(First full appearance)<br>{{sld|Avengers Vol 7 3.1}}(As Avenger X)
+| Quotation               = My name is '''Cressida.''' Ever since I was a '''girl,''' I've had this... '''ability''' to make those '''around''' me '''better. Faster. Stronger.''' I've never '''understood''' it, but...
+| Speaker                 = [[Avenger X (Cressida) (Earth-616)|Cressida]]
+| QuoteSource             = Avengers Vol 7 2.1
+
+| History                 = 
+===Origin===
+When the [[Avengers (Earth-616)|Avengers]] sought the help of the [[X-Men (Earth-616)|X-Men]] in tracking down [[Stranger (Cosmic Being) (Earth-616)|The Stranger]], [[Charles Xavier (Earth-616)|Professor X]] used [[Cerebro (Mutant Detector)|Cerebro]] to direct them to Northern [[Thailand]] where they rescued a local woman named '''Cressida''' from the [[Glossary: Cosmic Beings|Cosmic Being]] after she mysteriously amplified their powers, as well as temporarily increasing their strength and speed. As Cressida was explaining her capabilities, the [[Wanda Maximoff (Earth-616)|Scarlet Witch]] cut her off and invited her to join them without allowing her to reveal the terrible cost of her ability: that to empower them, she had drained the lives of everyone in the village.{{r|Avengers Vol 7 2.1}}
+
+===Avengers===
+Returning to [[New York City]], Cressida secretly killed the residents of the Sunshine Nursing Home in [[Queens]] to use her power to aid the Avengers in defeating a veritable army of miniature replicas of the [[Awesome Android (Earth-616)|Awesome Android]], much to the amazement of [[Matthew Murdock (Earth-616)|Daredevil]] and [[Peter Parker (Earth-616)|Spider-Man]]. The [[Mad Thinker (Julius) (Earth-616)|Thinker]] declared Cressida an x-factor he had not accounted for, prompting [[Clinton Barton (Earth-616)|Hawkeye]] to dub her '''Avenger X'''.<!-- {{r|Avengers Vol 7 3.1}} -->
+
+Fearing they would discover her true nature, from within the team Avenger X began to sow seeds of division, warning [[Steven Rogers (Earth-616)|Captain America]] that Clint was prone to returning to his thieving past, and attempting to convince [[Pietro Maximoff (Earth-616)|Quicksilver]] that fame was seducing Wanda away from him. Not wanting to hear it, Pietro left [[Avengers Mansion]] and wound up encountering the [[Enforcers (Earth-616)|Enforcers]]. Cressida then siphoned the lives of all the patients at the Healthy Foundation Hospital to boost [[Raymond Bloch (Earth-616)|Ox]]'s abilities, allowing him to catch Quicksilver and subsequently break both his legs.{{r|Avengers Vol 7 3.1}}
+
+With Quicksilver momentarily out of the picture as his enhanced metabolism worked to heal the fractures, Avenger X next hired the [[Carl Zante (Earth-616)|Acrobat]] to impersonate Hawkeye and brazenly rob a jewelry store. At first, Steve believed he'd returned to his criminal ways, but when Clint insisted he'd been framed, Rogers instead decided to reunite his team before it completely fell apart. To this end, Captain America asked [[Reed Richards (Earth-616)|Reed Richards]] where they might find the [[Frightful Four (Earth-616)|Frightful Four]], a group of criminals which had embarrassed the fledgling Avengers prior to Cressida joining the team, though Quicksilver decided he was done with heroics and remained behind.<!-- {{r|Avengers Vol 7 4.1}} -->
+
+With their abilities amplified by Avenger X, even shorthanded the Avengers quickly gained the upper hand over the Frightful Four; however, Cressida turned the tables on her allies by dramatically increasing [[William Baker (Earth-616)|Sandman]]'s powers mid-fight. When all seemed lost, Clint fired an arrow at Wanda's back, which as he expected, drew Pietro out of the shadows and into the fray. Explaining that it was merely a practice arrow, Quicksilver was convinced to help them best Marko together as a unified team once more. Captain America then confronted Avenger X, and with her plot to divide the Avengers foiled, Cressida disclosed the true extent of her abilities by siphoning the Avengers' life force, and utilizing their combined powers to quickly defeat them.{{r|Avengers Vol 7 4.1}}
+
+The former Avengers — [[Janet Van Dyne (Earth-616)|Wasp]], [[Henry Pym (Earth-616)|Giant-Man]], [[Anthony Stark (Earth-616)|Iron Man]], and [[Thor Odinson (Earth-616)|Thor]] — arrived on the scene, prompting Cressida to retreat; however, she was lured back when they pretended to hold a funeral for their fallen teammates she had drained. Revealing that Pym had rejuvenated and immunized them against Avenger X's abilities, they worked together to overcome the might of her capacity to use a combination of their abilities, with Pietro creating a tornado to hurl her through the roof of the Avengers Mansion and into [[Central Park]].<!-- {{r|Avengers Vol 7 5.1}} -->
+
+There she encountered three members of the Frightful Four who had been plotting to bury the fourth, [[Medusalith Amaquelin (Earth-616)|Medusa]], in a grave they had dug after she expressed reservations about their recent violent activities. Surprising the stunned Cressida, the trio knocked her into the hole, which [[Peter Petruski (Earth-616)|Trapster]] filled with quick-drying adhesive from his [[Paste-Gun]]. The [[Bentley Wittman (Earth-616)|Wizard]] then utilized an [[Anti-Gravity Discs|Anti-Gravity Disc]] to cover the hollow with a massive boulder, entombing Avenger X therein, and inscribing the stone with an epitaph before fleeing the approaching Avengers.{{r|Avengers Vol 7 5.1}}
+
+Many years later, as the M.O.D.O.K. Kang searched time for reinforcements to combat the modern day Avengers, his temporal device revealed that Avenger X would someday escape her tomb{{r|Avengers Vol 7 3}} which, due to an aberration in the [[Glossary:Timestream|timestream]] as a result of trapping [[Nathaniel Richards (Kang) (Earth-6311)|Kang the Conqueror]]'s future in a [[Chronal Energy Container]], was relocated to the sub basement of [[Baxter Building|Parker Industries]],{{r|Avengers Vol 7 6}} where Cressida did, in fact, escape,{{r|Avengers Vol 7 7}} defeating [[Vision (Earth-616)|Vision]], [[Hercules Panhellenios (Earth-616)|Hercules]], Spider-Man, [[Samuel Wilson (Earth-616)|Captain America]], and [[Jane Foster (Earth-616)|Thor]] before [[Victor von Doom (Earth-616)|Iron Man]] answered [[Nadia Van Dyne (Earth-616)|Wasp]]'s distress call, and the pair trapped Avenger X in the [[Microverse]].{{r|Avengers Vol 7 8}}
+
+| Powers                  = '''Life-Force Absorption:''' Cressida possesses the ability to absorb the life force of other living things in her nearby vicinity to empower herself and others, though it proves ultimately fatal to those being siphoned. She has possessed this ability since childhood, but its origins are unknown.{{r|Avengers Vol 7 #2.1}}
+*'''[[Power Absorption]]:''' When she siphons the life force of other people, she also temporarily absorbs their powers and physical characteristics, whether superhuman or not.{{r|Avengers Vol 7 5.1}}
+*'''Power Amplification:''' In the same vein, X can also redistribute the siphoned energies to charge up others and vastly augment any special or natural abilities they may have on hand, even bestowing some mild enhancements upon the host.{{r|Avengers Vol 7 5.1}} Offensively she can also make an individual overcharge on siphoned energy causing explosive meltdowns.{{r|Avengers Vol 7 8}}
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * [[Stranger (Cosmic Being) (Earth-616)|The Stranger]] stated about Cressida that: ''"'''Whatever''' she is, she is '''not''' a '''[[Homo superior|mutant]]'''."''{{r|Avengers Vol 7 2.1}}
+| Trivia                  = * The [[Vision (Earth-616)|Vision]] mistakenly called Avenger X "Cassandra" in {{cl|Avengers Vol 7 8}}.
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Psychic Vampires]]
+[[Category:Power Mimicry]]
+[[Category:Energy Absorption]]
+[[Category:Power Amplification]]

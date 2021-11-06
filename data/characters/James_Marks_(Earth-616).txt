@@ -1,0 +1,87 @@
+{{Marvel Database:Character Template
+| Image                   = James Marks (Earth-616) from All-New Official Handbook of the Marvel Universe Vol 1 5 0001.jpg
+| Name                    = [[James Marks]]
+| CurrentAlias            = [[Hybrid]]
+| Aliases                 = [[Jimmy Marks]]; [[John Doe]]
+
+| Affiliation             = Formerly {{M|Avengers Academy}}
+| Relatives               = "[[Jacob Marks (Earth-616)|Jacob Marks]]" (father, deceased);{{r|X-Man #31}}<br>
+[[Marjorie Seaton (Earth-616)|Marjorie Seaton Marks]] (mother, deceased);{{r|X-Man #31}}
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|All-New Official Handbook of the Marvel Universe A to Z Vol 1 5}}
+| Gender                  = Male
+| Height                  = Variable; 9' (Hybrid); 5'2" (Jimmy) 
+| Weight                  = Variable; 350 lbs (Hybrid); 135 lbs (Jimmy)
+| Eyes                    = Variable; Yellow (Hybrid); Blue (Jimmy)
+| Hair                    = Variable; No Hair (Hybrid); Blond (Jimmy)
+| UnusualSkinColor        = Purple (Hybrid)
+| UnusualFeatures         = 
+
+| Origin                  = Half-[[Homo superior|Mutant]]/Half-[[Dire Wraith]], formerly depowered by [[M-Day]]; Magician
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Clairton]], West [[Virginia (State)|Virginia]]
+
+| Identity                = Secret
+| Citizenship             = American, Dire Wraiths
+| Occupation              = 
+| Education               = High school (unfinished)
+| BaseOfOperations        = formerly [[Avengers Compound]]
+
+| Creators                = Bill Mantlo; Sal Buscema
+| First                   = Rom Vol 1 17
+
+| History                 = James "Jimmy" Marks is the product of cross-breeding between an Earth woman (Marjorie Marks) and a [[Dire Wraith]] (Jacob Marks - assumed identity). The Wraith who took the form of Jacob Marks was one of the surviving members that fled after the disastrous assault on [[Galador]]. Alone he found his way to Earth where he crash landed and assumed the shape of a human. To further his disguise, he courted Marjorie Seaton and developed feelings for her. They were married and a child was born. For years the Marks family lived a normal life until Jacob was found by other Wraiths that had arrived on Earth. They took over the training of young Jimmy and opened his eyes to his sorcerous heritage and indoctrinating him in Wraith doctrine. Jimmy soon far outstripped his mentors in ability to their dismay and fear. His evil penchant became ascendant and he began torturing the farm's livestock.{{r|Rom #17}}
+
+[[Charles Xavier (Earth-616)|Professor Xavier]] was alerted to the presence of a powerful mutant by [[Cerebro (Mutant Detector)|Cerebro]] and dispatched the [[X-men]] to investigate. At the same time, [[Rom (Earth-616)|Rom]] was alerted to the probability that Jacob Marks was a Dire Wraith and he too proceeded to the Marks farm with [[Steve Jackson (Earth-616)|Steve Jackson]] and [[Brandy Clark (Earth-616)|Brandy Clark]]. There they found Marjorie Marks emaciated and aged to the point of death and Jacob Marks who revealed himself willingly to Rom. Steve and Brandy took Marjorie to find medical help and Rom confronted Jimmy who revealed his true Hybrid form to Rom's horror. As the battle began, the X-Men arrived to find a seemingly young child being attacked by what they thought was a robot. Hybrid took control of [[Ororo Munroe (Earth-616)|Storm's]] powers to whip up a blizzard and separate the combatants. Throughout the disjointed battle it became clear that there was a great evil at work, not of Rom's doing. Hybrid attempts to take [[Katherine Pryde (Earth-616)|Sprite]] as one of his future concubines to sire a new race like him to dominate both Wraiths and humans. [[James Howlett (Earth-616)|Wolverine]] attempted to use Rom's [[Neutralizer]] on Hybrid and is severely shocked by its self-defense mechanism. As Hybrid approached Sprite, Rom grabs him and instructs Sprite on how to use her phasing powers to adjust the Neutralizer's settings to kill. Sprite then fired on Hybrid while Rom restrained him, banishing both Rom and Hybrid to [[Limbo]].{{r|Rom #17|18}}
+
+Hybrid would escape and enlist the help of [[Brotherhood of Evil Mutants (Earth-616)|The Brotherhood]] against Rom until [[Irene Adler (Earth-616)|Destiny]] reveals Hybrid's true goals of enslaving them as concubines to [[Raven Darkholme (Earth-616)|Mystique]]. They choose to aid Rom and [[Rogue (Anna Marie) (Earth-616)|Rogue]] is able to use her powers to sap Hybrid's powers giving Rom the opportunity to once again banish Hybrid.{{r|Rom #31|32}}
+
+Years later Hybrid was able to slip through a portal opened to Limbo and begin to re-coalesce himself into a physical form. He took the form of a youth and emerged out of a river at a church baptismal ceremony. The preacher took it as a sign of a miracle and took Jimmy Marks in. He came into confrontation with Professor Xavier and his [[New Mutants]] in [[Samuel Guthrie (Earth-616)|Cannonball's]] home in [[Kentucky (State)|Kentucky]]. Once again seeking female mutants to enslave and mate with, he captured them. Rom and [[Brandy Clark (Earth-616)|Starshine]] confronted him, but his powers had grown. As Rom tried to banish him, he seized control of his armor, forcing him to turn his Neutralizer on himself. He then stripped Brandy Clark from the Starshine armor and prepared her to be his bride. [[Illyana Rasputina (Earth-616)|Magik]] escaped by teleporting to Limbo where she encountered Rom in battle with Dire Wraiths. She rescued him and they once more took on Hybrid. This time, Magik used her Soulsword to cut Hybrid's power which allowed Rom to once again destroy him.{{r|Rom Annual #3}}
+
+Hybrid later returned by being able to coalesce his atoms through shear force of will thanks to his vast psionic powers. However he was trapped in his Jimmy Marks persona due to the immense strain of the method of his reformation process. The Hybrid persona locked in Jimmy's subconscious managed to make contact with a powerful telepath [[Nathaniel Grey (Earth-295)|Nate Grey]] in order to unwittingly use Nate to reassert his dominance over Jimmy Marks' psych. A heated telepathic and telekinetic battle ensued between the two but Nate eventually found Hybrid's weakness and was able to atomize him again through a single powerful psi-blast.{{r|X-Man #31}}
+
+===M-Day and Avengers Academy===
+Hybrid was depowered on [[M-Day]],{{r|New Avengers #18}} but several years later, he regained his powers when [[Wraithworld]] returned to [[Earth]].{{r|Annihilators Vol 1}}
+
+He joined the [[Avengers Academy (Earth-616)|Avengers Academy]] after they saved him from a [[Purifiers (Earth-616)|Purifiers]] commando whom he killed before he could reveal his true nature.{{r|Avengers Academy #23}} He did so for two reasons: to feed on superhumans, and to use female students to breed an army for him, as he described them as "PRIME breeding stocks".{{r|Avengers Academy #24}}
+
+[[Humberto Lopez (Earth-616)|Reptil]], who was possessed by his [[Humberto Lopez (Earth-11511)|older self]], helped him so the timeline and the [[Earth-11511|future]] wouldn't change so his [[Maria Lopez (Earth-11511)|daughter]] be born, but had a change of heart and sounded the alarm. When the others came they found him controlling the other student into attacking them. Together students and faculty of the Academy managed to defeat Hybrid and banish him from their dimension thanks to [[Jocasta Pym (Earth-616)|Jocasta]]'s timely intervention.{{r|Avengers Academy #25}}
+
+| Powers                  = 
+* '''Telepathy:''' Hybrid is skilled at reading the thoughts of others
+** '''Mind Control:''' Hybrid can use his telepathy to mind control others; either controlling them completely or hijacking control over their superpowers.
+* '''Telekinesis:''' He was stated to be one of the most powerful telekinetics on [[Earth]], according to the [[Earth-11511|future]] [[Humberto Lopez (Earth-11511)|Reptil]].{{r|Avengers Academy #24}}
+* '''Power Negation'''
+* '''Superhuman Strength'''
+* '''Atmokinesis'''
+* '''Magic'''
+* '''Shapeshifting:''' James Marks has the ability to shape-shift into any form he so chooses however, he typically appears either as a youth or in his true Hybrid form.
+* '''Forcefield'''
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+* [[Christos Gage]], the writer of the [[Avengers Academy Vol 1|Avengers Academy]], stated that Hybrid was repowered when [[Wraithworld]] returned to [[Earth-616]] in the [[Annihilators Vol 1|Annihilators miniseries]]. 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = http://www.romspaceknightart.blogspot.com/
+}}
+[[Category:Hybrids]]
+[[Category:Telepaths]]
+[[Category:Telekinesis]]
+[[Category:Force Field]]
+[[Category:Power Negation]]
+[[Category:Atmokinesis]]
+[[Category:Shapeshifters]]
+[[Category:Mutant/Dire Wraith Hybrids]]
+[[Category:M-Day Depowered]]
+[[Category:Depowered Mutants]]
+[[Category:Mind Control]]

@@ -1,0 +1,220 @@
+{{Marvel Database:Character Template
+| Image                   = Falcon Vol 2 7 Textless.jpg
+| Name                    = [[Samuel Wilson|Samuel Thomas "Sam" Wilson]]
+| NameRef                 = {{r|Avengers NOW! Vol 1 1}}
+| CurrentAlias            = [[Falcon]]
+| EditorialNames          = Formerly [[All-New Captain America Vol 1|All-New Captain America]], [[Captain America: Sentinel of Liberty]]
+| Aliases                 = {{Navigation
+| body = [[Samuel Wilson (Earth-398)|Blackbird]],{{r|Avengers Vol 3 2}}<br>
+[[Blackwing]],{{Citation}}<br>
+Brother Super-Hero,{{r|Avengers NOW! Vol 1 1}}<br>
+[[Cap-Wolf]],{{r|Captain America: Sam Wilson Vol 1 3}}<br>
+[[Captain America]],{{r|Captain America Vol 1 117}}{{r|Captain America Vol 7 25}}<br>
+Captain Falcon,{{r|Civil War II: Choosing Sides Vol 1 5}}<br>
+The Man in the Air,{{r|Generations: Sam Wilson Captain America & Steve Rogers Captain America Vol 1 1}}<br>
+Paul Jeffries,{{r|Generations: Sam Wilson Captain America & Steve Rogers Captain America Vol 1 1}}<br>
+Robin,{{r|Black Panther Vol 4 11}}<br>
+[[Snap Wilson]], Willie Samuels{{r|Official Handbook of the Marvel Universe A-Z Vol 1 4}}
+}}
+| Affiliation             = {{Navigation
+| body = Partner of [[Redwing (Earth-616)|Redwing]]; formerly {{m|Avengers}} (part of 'Earth force' during [[Operation Galactic Storm]]), partner of [[Rayshaun Lucas (Earth-616)|Patriot (Rayshaun Lucas)]], {{m|Underground (Secret Empire)|Underground}}, {{m|United States Army}},{{r|Generations: Sam Wilson Captain America & Steve Rogers Captain America Vol 1 1}} {{m|Avengers Unity Division}}, {{m|Mighty Avengers (Cage)|Mighty Avengers}}, {{m|Invaders (WWII)|Invaders}}, {{m|Strategic Homeland Intervention, Enforcement and Logistics Division|S.H.I.E.L.D.}}, {{m|Axis (Avengers)|Axis}}, {{m|Heroes for Hire (Knight & Wing)|Heroes For Hire}}, partner of [[Steven Rogers (Earth-616)|Captain America]], [[James Buchanan Barnes (Earth-616)|Winter Soldier]], {{m|Secret Avengers (Civil War)|Secret Avengers}}, {{m|S.H.I.E.L.D. Super-Agents}} (leader), {{m|Defenders for a Day}}
+}}
+| Relatives               = {{Navigation
+| body = [[Paul Wilson (Earth-616)|Paul Wilson]] (father, deceased);<br>
+[[Darlene Jeffries (Earth-616)|Darlene Wilson]] (mother, deceased);<br>
+[[Sarah Wilson (Earth-616)|Sarah Wilson-Casper]] (sister);<br>
+[[Gideon Wilson (Earth-616)|Gideon Wilson]] (brother);<br>
+[[James Wilson (Earth-616)|Jim Wilson]] (nephew, deceased);<br>
+[[Jody Casper (Earth-616)|Jody Casper]] (nephew);<br>
+Unnamed niece;{{r|All-New Captain America Vol 1 6}}<br>
+Mr. Casper (brother-in-law; deceased);<br>
+[[Mrs. Wilson (Earth-616)|Mrs. Wilson]] (sister-in-law)
+}}
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Avengers NOW! Vol 1 1}}
+| Gender                  = Male
+| Height                  = 6'2"
+| Weight                  = 240 lbs
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] enhanced by the [[Cosmic Cube]].{{r|Captain America Vol 1 186}}
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Harlem]], [[New York City]], [[New York (State)|New York]]
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = Adventurer, vigilante; former freelance artist, social worker, soldier,{{r|Generations: Sam Wilson Captain America & Steve Rogers Captain America Vol 1 1}} urban planner
+| Education               = High school dropout, later extensively self-educated{{r|Official Handbook of the Marvel Universe A-Z #4}}
+| BaseOfOperations        = [[Harlem]], [[New York City]], [[New York (State)|New York]]; formerly [[Baxter Building|Parker Industries]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]; [[Stark Industries New Jersey Airfield|Stark Industries Airfield]], [[New Jersey (State)|New Jersey]]; [[Stark Tower|Avengers Tower]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]; [[Avengers Mansion]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]; [[Gem Theater]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]; [[S.H.I.E.L.D. Helicarrier]]
+
+| Creators                = Stan Lee; Gene Colan
+| First                   = Captain America Vol 1 117
+| First2                  = (As Falcon)<br>{{sld|Captain America Vol 7 25}}(As Captain America)
+
+| Quotation               = '''Captain America''' is not just for the '''good days.''' He can't be. '''I''' can't be. If Captain America can't stand for the '''Dream''' on the very '''worst''' day-- When America is '''fallen--''' Then there '''is''' no Captain America. Because our worst day is where we '''start''' from. Where we '''rise''' from. And if the man in the flag is too '''special''' to fall and rise and struggle with the rest... Then God help us '''all.'''
+| Speaker                 = [[Samuel Wilson (Earth-616)|Sam Wilson]]
+| QuoteSource             = Captain America and the Mighty Avengers Vol 1 4
+
+| History                 = 
+===Early Years===
+[[File:Samuel Wilson (Earth-616) from Captain America Vol 1 186 01.jpg|thumb|left|200px|Sam's past]]
+Sam Wilson grew up in a tough [[Harlem]] neighborhood.{{r|Captain America #277}} His father [[Paul Wilson (Earth-616)|Paul]] was a minister who had been killed while trying to stop a fight between two rival gangs when Sam was nine years old.{{r|Captain America #277}} Some years later, his mother [[Darlene Jeffries (Earth-616)|Darlene]] was murdered by a mugger while she tried to protect her children.{{r|Captain America #277}} Sam did his best to try and do the right thing, volunteering and becoming a social worker.{{r|All-New Captain America #3}}
+
+Sam was lured to a Caribbean island named [[Exile Island|Exile]] where the Red Skull and his henchmen were hiding out.{{r|Captain America Vol 1 117}}{{r|Captain America #186}} After their initial skirmish, [[Steven Rogers (Earth-616)|Captain America]] and Sam defeated the Skull, and the Falcon became Cap's partner for a long time. Allegedly, [[Johann Shmidt (Earth-616)|Red Skull]] used the [[Cosmic Cube]] to give Sam the ability to telepathically communicate with birds, especially a falcon that Wilson had bought named [[Redwing (Earth-616)|Redwing]]. Wilson received help from the [[T'Challa (Earth-616)|Black Panther]], who created a harness for Wilson, allowing him to fly.{{r|Captain America #170}}
+
+===Roscoe Simons===
+When Rogers briefly abandoned his Captain America identity, others attempted to take up the mantle, including a young man named [[Roscoe Simons (Earth-616)|Roscoe]] whom the Falcon mentored. When the Red Skull eventually killed Roscoe, Rogers again became Captain America{{r|Captain America #181|183}}.
+
+Soon afterward, the Red Skull tricked Sam into believing he had a secret past as mobster "Snap Wilson" born from Sam's grief and anger, and that this was wiped from his memories using the Cosmic Cube so that Sam could be a mole for Red Skull.{{r|Captain America #277}} In actuality, the 'Snap' persona had entirely been a construction of the Red Skull to discredit Wilson via racism, and in fact he had never been a criminal at all.{{r|All-New Captain America Vol 1 3}} Red Skull attempted to use the Cosmic Cube to make the Falcon kill Captain America.{{r|Captain America #186}}
+
+===Not Some Token Avenger===
+The Falcon ultimately left as Cap's partner when he was named the leader of the [[S.H.I.E.L.D. Super-Agents (Earth-616)|S.H.I.E.L.D. Super-Agents]].{{r|Captain America #217}} Later, as one of the few black superheroes active, he was drafted to join the [[Avengers (Earth-616)|Avengers]] by [[Henry Gyrich (Earth-616)|Henry Peter Gyrich]] to fill a quota. Resenting being a "token," he quit at the first opportunity.{{r|Avengers #184|194}}
+
+[[File:Captain America and the Falcon Vol 1 7 Textless.jpg|right|thumb|Falcon with hard light wings]]
+At one point, a [[Sentinels]] chased him believing him to be a [[Homo superior|mutant]],{{r|Falcon #2}} but this was later debunked and the Sentinel was presumed to have been malfunctioning. Shortly following this incident he came across, fought and defeated the super villain named [[Maxwell Dillon (Earth-616)|Electro]].{{r|Falcon #3|4}}
+
+Falcon became a member of the new team of Avengers assembled to fight the international menace [[Scorpio (Brotherhood of the Ankh) (Earth-616)|Scorpio]] as a [[United Nations]] peacekeeping agency.{{citation}} By this point, Falcon had discovered that he could extend his telepathic bond with Redwing, allowing him to control other birds and "see" through their eyes.{{r|Avengers Vol 3 64}} He used this ability to spy on Henry Gyrich (now the Avengers' liaison with the United Nations) and discovered that the United States' Secretary of Defense, Dell Rusk, had been pressuring Gyrich to spy on the Avengers and turn over their secrets.{{r|Avengers Vol 3 61}}
+
+Although initially hostile to one another, Falcon convinced Gyrich to help the Avengers spy on Rusk, feeding him false information while gathering evidence to expose him.{{r|Avengers Vol 3 64}}{{r|Avengers Vol 3 70}} They discover that Rusk was actually the Red Skull, who had launched a biological weapon attack on the United States, intending to use the ensuing panic to gain control over America's government and start a war with other countries. Falcon was instrumental in defeating the Red Skull.{{r|Avengers Vol 3 69|70}}
+
+===Avengers Disassembled===
+The insane [[Wanda Maximoff (Earth-616)|Scarlet Witch]] accidentally destabilized the Falcon's mind, pushing him towards the "Snap Wilson" persona, and while he continued to work with Captain America, their relationship became strained, until, finally, Cap felt that he had no choice but to stop working with him. While Falcon argued, a man who the "new" Falcon had forced from his home to use as a safe house shot Cap in the back (while aiming at Falcon). Thinking Cap dead, Falcon cleaned himself up and went after the so-called "[[Anti-Cap (Earth-616)|Anti-Cap]]," who had been causing problems for them both.{{r|Captain America and the Falcon Vol 1 1|10}}
+
+===[[Civil War (Event)|Civil War]] and Death of Captain America===
+[[File:Captain America Vol 1 600 Ross Variant Textless.jpg|left|thumb|Working with the new Captain America]]
+Falcon subsequently helped Cap track down the [[James Buchanan Barnes (Earth-616)|Winter Soldier]]. He was also the first to join with Captain America against the [[Superhuman Registration Act]], and played a leadership role in the [[Secret Avengers (Civil War) (Earth-616)|Secret Avengers]]. Following Captain America's assassination by the machinations of the Red Skull, the Falcon registered with the government and was made responsible for [[Harlem]], although he remained in contact with the underground [[New Avengers (Earth-616)|New Avengers]].{{r|Captain America Vol 5 25}}
+
+Afterwards, [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] recruited Falcon and agent [[Sharon Carter (Earth-616)|Sharon Carter]] to investigate the Captain's assassination by locating the Winter Soldier and tracking down the Red Skull.{{r|Captain America Vol 5 26|34}} Sam later formed an initially uneasy alliance with [[James Buchanan Barnes (Earth-616)|Bucky Barnes]] after the latter became the new Captain America, and eventually became his partner. Together, the two faced continuing threats from the Red Skull and other villains. During a clash with the [[Watchdogs (Earth-616)|Watchdogs]], both Sam and Bucky were taken prisoner, but with help from Redwing, Sam managed to free himself and prevent a terrorist attack.{{r|Captain America Vol 1 604}}
+
+The two remained partners until Bucky relinquished the mantle following his supposed death (actually faked) at the hands of [[Sinthea Shmidt (Earth-616)|Sin]]. After this, Falcon later resumed working with Steve Rogers following his rebirth and eventual return to the mantle of Captain America some time later.{{r|Captain America Vol 6 7}}
+
+===Becoming Captain America===
+Following Captain America's adventure in [[Dimension Z (Arnim Zola)|Dimension Z]], Falcon met [[Arnim Zola (Earth-616)|Arnim Zola]]'s daughter [[Jet Zola (Earth-616)|Jet]],{{r|Captain America Vol 7 14}} with whom he had a fling.{{r|Captain America Vol 7 22}} Around this time, during a confrontation against the [[Ran Shen (Earth-616)|Iron Nail]], Steve was deprived of the Super-Soldier Serum, quickly aging into an old man.{{r|Captain America Vol 7 21}} After foiling Arnim Zola's plan to detonate a bomb in New York, almost sacrificing his life in the process,{{r|Captain America Vol 7 24}} Falcon was given the mantle of Captain America by Steve, who had to step down due to his condition.{{r|Captain America Vol 7 25}}
+
+[[File:All-New Captain America Vol 1 1 Textless.jpg|thumb|right]]
+Sam's first mission as the new Captain America got him in Hydra's crosshairs, and Sam found himself confronted by several of Cap's most deadly foes as the result of a trap.{{r|All-New Captain America Vol 1 1}} [[Mercedes Knight (Earth-616)|Misty Knight]] saved him, and revealed that Hydra had infiltrated numerous critical teams from the super hero community.{{r|All-New Captain America Vol 1 2}} The terrorist organization had also planned to spread the poisonous blood of an [[Inhumans (Inhomo supremis)|Inhuman]] kid named [[Lucas (Inhuman) (Earth-616)|Lucas]] all over the planet.
+
+During a confrontation with the Red Skull's daughter [[Sinthea_Shmidt_(Earth-616)|Sin]], it is revealed that Sam's alleged secret past as the drug dealing pimp "Snap Wilson" was a lie created by the Red Skull to discredit Sam through racism.{{r|All-New Captain America Vol 1 3}} With the help of Misty Knight and [[Antonio Rodriguez (Earth-616)|Armadillo]], a Hydra agent Cap turned to his side, Cap was able to locate and defuse several bombs that contained fleas with the kid's blood which had been scattered across the globe.{{r|All-New Captain America Vol 1 4}} With his plan thwarted, Baron Zemo launched a contingency plan, the self-detonation of [[John Falsworth (Earth-616)|Baron Blood]] (who drank large amounts of Lucas' blood) in the atmosphere, resulting in the propagation of the blood.{{r|All-New Captain America Vol 1 5}} Cap managed to disarm Baron Blood and leave him floating in space to be recovered by S.H.I.E.L.D.{{r|All-New Captain America Vol 1 6}}
+
+===Acting as Captain America===
+Sam cut his ties with S.H.I.E.L.D. after a series of events triggered by the hacker known as the [[Richard Jones (Earth-616)|Whisperer]], who had leaked S.H.I.E.L.D.'s plans to create a [[Cosmic Cube]], a project that Sam opposed publicly. When S.H.I.E.L.D. tried to capture the Whisperer, Sam helped him instead, believing the hacker's actions to be righteous, and S.H.I.E.L.D.'s potential retribution disproportionate. With the help of the Whisperer, Sam spent months taking down different Hydra cells, and made a deal to acquire diplomatic immunity.{{r|Captain America: Sam Wilson Vol 1 2}}
+
+[[File:Captain America Sam Wilson Vol 1 9 Textless.jpg|thumb|left]]
+The parting of Wilson from his superiors took another step when he decided to stop working for the government, believing that the United States needed a Captain America who was more socially active than before. Captain America's segregation from the government wasn't without criticism, with certain Americans believing him to have become "Captain Socialism," while others fully showed his support.{{r|Captain America: Sam Wilson Vol 1 1}} During this time, Sam was drawn into a crisis when he and Iron Man aided [[Miles Morales (Earth-1610)|Spider-Man]] in battling [[Warbringer (Earth-616)|Warbringer]]. Joined by the Vision, [[Jane Foster (Earth-616)|Thor]], [[Samuel Alexander (Earth-616)|Nova]] and [[Kamala Khan (Earth-616)|Ms. Marvel]], the group took down Warbringer and stopped his attempt to bring an army of [[Chitauri]] to Earth. Impressed by it all, the team became the newest incarnation of Avengers.{{r|All-New, All-Different Avengers Vol 1 3}}
+
+Shortly after finding a new ally in the form of [[Joaquín Torres (Earth-616)|Joaquin Torres]], a young immigrant mutated by the villainous [[Karlin Malus (Earth-616)|Karl Malus]] who took on the mantle of Falcon,{{r|Captain America: Sam Wilson Vol 1 6}} Captain America became involved in a conflict in the small town of [[Pleasant Hill]], a secret super-prison which resulted from S.H.I.E.L.D. finalizing the Cosmic Cube project in secrecy following its expose and alleged termination.{{r|Avengers Standoff: Assault On Pleasant Hill Alpha Vol 1 1}} In the middle of containing a break-out in Pleasant Hill, Steve Rogers was returned to his prime by [[Kobik (Earth-616)|Kobik]], the sentient Cosmic Cube that powered Pleasant Hill.{{r|Captain America: Sam Wilson Vol 1 7}} Once the crisis was contained, Steve agreed to let Sam keep the shield and mantle of Captain America, in spite of having been returned to fighting form and returned to the mantle himself.{{r|Captain America: Sam Wilson Vol 1 9}}
+
+Steve's return as Captain America only further damaged Sam's own reputation, as now his dissidents also demanded he returned the shield to Rogers.{{r|Captain America: Sam Wilson Vol 1 9}} Shortly after attending the funeral of [[James Rhodes (Earth-616)|Jim Rhodes]],{{r|Captain America: Sam Wilson Vol 1 10}} Sam and Falcon became involved in a skirmish between [[Brooklyn]] vigilante [[Elvin Haliday (Earth-616)|Rage]] and the private policing initiative known as the [[Americops (Earth-616)|Americops]].{{r|Captain America: Sam Wilson Vol 1 11}} After de-escalating the situation, Cap had to confront [[Jonathan Walker (Earth-616)|U.S. Agent]],{{r|Captain America: Sam Wilson Vol 1 12}} who attacked Sam in an attempt to get him to give up on the shield. U.S.Agent's attack was orchestrated in secret by two of Sam's biggest detractors: [[Paul Keane (Earth-616)|Paul Keane]], employer of the Americops, and talk show host [[Harry Hauser (Earth-616)|Harry Hauser]], and Steve Rogers himself.{{r|Captain America: Sam Wilson Vol 1 13}} As it turned out, Kobik had actually replaced the real Steve Rogers with [[Steven Rogers (Earth-61311)|an alternate fascist version of himself]].{{r|Captain America: Steve Rogers Vol 1 2}}
+
+Sam's faith in America was shaken by an ensuing chain of events, most notably the wrongful imprisonment of Rage after being accused of robbing a Harlem bodega. Adding insult to injury, being a vigilante, Rage was beaten up by his fellow cellmates and left in a critical condition. In light of Rage's incident, Sam decided to step down as Captain America.{{r|Captain America: Sam Wilson Vol 1 21}}
+
+===[[Secret Empire (Event)|Secret Empire]]===
+The following weeks were spent by Sam disconnected from society, camping in the middle of nowhere in order to find himself. Unfortunately, when he returned to civilization, Sam discovered the country had been taken over by Hydra, under the leadership of Steve Rogers, who eventually revealed his new nature as a Hydra agent after months of scheming. While he still refused to return to superheroics, Sam began to help out those prosecuted by Hydra's regime, namely [[Inhumans (Inhomo supremis)|Inhumans]] and their families, and created a network to funnel people out of the country.
+
+[[File:Captain America Sam Wilson Vol 1 24 Textless.jpg|thumb|right|Fighting with the Underground]]
+Sam was pulled back into the life of superheroes when the rebel group known as the [[Underground (Secret Empire) (Earth-616)|Underground]] requested his services in getting out of America.{{r|Captain America: Sam Wilson Vol 1 22}} Sam then reluctantly joined them in their enterprise to recover the fragments of Kobik, which had been spread throughout the globe, in hopes they could be used to return Steve to normalcy.{{r|Captain America: Sam Wilson Vol 1 23}} When the Underground returned to the base with their hands almost empty, they were attacked by Hydra's forces, and lost the shards.{{r|Secret Empire Vol 1 5}} The grimness of the situation prompted Sam to take up the mantle of Captain America once again in order to inspire the American people.{{r|Captain America: Sam Wilson Vol 1 24}}
+
+Following the Underground's acquisition of a Cosmic Cube fragment,{{r|Captain America Vol 8 25}} Captain America carried out a plan to free the country's heroes who were either trapped below a [[:Glossary:Darkforce|Darkforce]] dome in [[Manhattan]] or stranded off-planet on the other side of the [[Planetary Defense Shield]]. Using the Cosmic Cube shard, Cap manipulated the probabilities of a chain of events which saw the end of those hindrances.{{r|Secret Empire Vol 1 8}} Together, the reunited American superhero community launched a final attack against Hydra on [[Washington, D.C.]].{{r|Secret Empire Vol 1 9}} When the evil Captain America attacked the heroes sporting a suit with the power of the almost-complete Cosmic Cube, Sam purposefully handed him over his fragment, so that once the Cube was complete, the Winter Soldier could reach into Kobik's psyche. This resulted in the return of both Kobik and the real Captain America, who proceeded to defeat his evil self, putting an end to Hydra's reign.{{r|Secret Empire Vol 1 10}}
+
+In the wake of the Hydra Empire, Steve Rogers found himself in a place of turmoil. Having proven his worth as Captain America and knowing that his friend needed to win back the trust of an entire nation after the events enacted in his name, Sam returned the shield to Steve,{{r|Generations: Sam Wilson Captain America & Steve Rogers Captain America Vol 1 1}} relinquishing the mantle of Captain America in the process, and returning to his alias of Falcon.{{r|Avengers Vol 1 672}} In an effort to re-connect to the country beyond the threats usually tackled by superheroes, Sam began to focus his efforts on de-escalating street-level issues, such as gang conflicts in [[Chicago (Illinois)|Chicago]].{{r|Falcon Vol 2 1}}
+
+===Working With Bucky===
+Sam went searching for Sally Mackenzie a regular at his Veteran Assistance group who had gone missing. With help from associates Leo Garvin and Jason, Sam managed to track her last whereabouts to a place known as the Office of Federal Utilities. There he found a massacre and was met by Bucky Barnes who turned out to work for the office as part of his pardon for taking down HYDRA and had arrived to meet his handler Veronica Eden and revealed that a group of armed men had tried to kill him a few days ago guessing it was do to his work with the office which specialized in tracking down terrorist training camps in the United States. Finding Veronica’s address in the files the two went to her home in Brooklyn to question her. At her home Veronica revealed that they had been tracking the remnants of two factions of HYDRA fighting each other one led by a protégé of Baron Zeno and another led by a rival. As the two were about to leave to track down the rival they were confronted by a young man calling himself The Natural who claimed he killed all the people in at the office. As Sam and Bucky tried to arrest him The Natural proved to be a skilled hand to hand combatant and managed to best them. However a fan of both of them and Captain America The Natural spared them and gave them the chance to stop him.{{r|Falcon & Winter Soldier Vol 1 1}}
+
+===The Captains Network===
+Sam recives a call from [[Steven Rogers (Earth-616)|Steve]] saying that a [[James Sanders (Earth-616)|man]] dressed as Captain America stole his [[Captain America's Shield|shield]], Falcon chased the impostor but he was too fast and caused a train wreck by using the shield, with Sam saving as many people as he could. The two heroes also met [[Aaron Fischer (Earth-616)|Aaron Fischer]], a homeless young man who acts as his own version of Captain America and tells them that there are more "Captains" like him. After Aaron is almost killed by a [[Sinthea Shmidt (Earth-616)|mysterious sniper]], Sam decides to suit up as Captain America again an help Steve investigate the new Captains and who stole the shield.{{r|United States of Captain America Vol 1 1}} The two Captains came across a member of the Captains Network who had been charged with domestic terrorism during their investigation. After a brief encounter with the fast-running Cap and the gun-toting Cap, Sam and Steve bust [[Nichelle Wright (Earth-616)|Nichelle Wright]] out of prison right as the police station was attacked by the villains again, where they explain that their mission is to tarnish the symbol that is Captain America.{{r|United States of Captain America Vol 1 2}} 
+
+While hunting down the speedster dressed as Captain America they deduce that he's actually Speed Demon. Once they arrived in [[New Mexico (State)|New Mexico]], the two Caps met up with [[Joe Gomez (Earth-616)|Joe Gomez]], the Captain America of the Kickapoo Tribe, to warn him about the danger posed by the impostor caps. The three Captains America later find through some intel that Speed Demon is planning an attack at the site of school integration at the heart of Brown v. Board of Education. After heroes get ambushed by the gun-toting villain that Rogers realizes it's [[Sinthea Shmidt (Earth-616)|Sinthea Shmidt]], the Caps get medical treatment for Gomez and tried to protect a political candidate from an attack of Speed Demon, there the [[James Buchanan Barnes (Earth-616)|Winter Soldier]] intervened to save the politician’s life and joins the hunt for the villains.{{r|United States of Captain America Vol 1 3}}
+
+
+| Personality             = Samuel is a superhero who loves birds. Even as a child, he was friendly and joyful to people.{{r|Captain America Vol 1 186}} Despite the death of his parents, Samuel would do social work and volunteer for the community.{{r|All-New Captain America Vol 1 3}} He had the courage to become the [[Falcon]] because of his powers to control birds.{{r|Captain America Vol 1 118}}
+
+| Powers                  = [[File:Samuel Wilson (Earth-616) and Helmut Zemo (Earth-616) from All-New Captain America Vol 1 5 001.jpg|thumb|right|230px|Using his bird telepathy.]]
+'''[[Telepathy|Avian Telepathy]]:''' This link is strongest with his companion [[Redwing (Earth-616)|Redwing]] but he is also able to extend his empathic link to other birds making it possible for him to see through their eyes.{{r|Avengers NOW! Vol 1 1}} He has also shown the ability to control birds.{{r|All-New Captain America Vol 1 5}} He is also a skilled handler and trainer of birds even without his mental powers.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 4}} These abilities apply to the entirety of birds, including at some extent of telepathic reading to [[Inhomo supremis|Inhuman]] [[Bird People]].{{r|All-New Captain America Special #1}} [[Nicholas Fury (Earth-616)|Nick Fury]]'s intel classified him as power level 6.{{r|Secret War: From the Files of Nick Fury #1}} Allegedly, Sam was given the ability to telepathically link with birds by the Red Skull using the [[Cosmic Cube]].{{r|Captain America Vol 1 186}}
+| Abilities               = '''Master Martial Artist:''' Sam was trained by [[Steven Rogers (Earth-616)|Captain America]] in Judo, Karate,{{r|Captain America Vol 1 163}}{{r|Captain America Vol 1 118}} and various other styles of martial arts, making him one of the most dangerous fighters in the world.{{r|Captain America Vol 1 118}}{{r|Official Handbook of the Marvel Universe A-Z Vol 1 4}} His skills enable him to defeat some of the most remarkable trained opponents in the world such as four elite Spetsnaz soldiers at a time,{{r|Captain America Vol 5 14}} and superhumans as strong as the Wrecking Crew members.
+
+'''Peak Human Condition:''' Even before his training with Captain America, Sam was in very good shape.{{r|Captain America Vol 1 117}} After years of intensive and extensive training with Steve,{{r|Captain America Vol 1 118}} Sam is now above average athlete and have pushed his body to the pinnacle of human condition.{{r|Official Handbook of the Marvel Universe Vol 1 4}}
+* '''Peak Human Strength:''' Over years of extensive training, Sam's strength is at the maximum limit of human conditioning. He was able to sent Crossbones flying with a single force kick,{{r|All-New Captain America Vol 1 2}} break steel chains that tied him to a tank,{{r|All-New Captain America Vol 1 3}} as well as bending a metal bar with his bare hands.{{r|Falcon Vol 1 1}}
+* '''Peak Human Endurance:''' Sam possesses exceptional tolerance to physical pain. He continued to function in spite of him getting chest stabbed from [[Helmut Zemo (Earth-616)|Zemo]]'s sword.{{r|All-New Captain America Vol 1 5}} He also continued to function after been set on fire from one of [[Advanced Idea Mechanics (Earth-616)|A.I.M.]] agents' flamethrower while ripping off his costume suit.{{r|Captain America Vol 5 29}}
+
+'''Master Acrobat:''' Sam has underwent more rigorous training in gymnastics and acrobatics with Captain America.{{r|Captain America Vol 1 118}}{{r|Avengers NOW! Vol 1 1}}{{r|Falcon Vol 1 4}}
+
+'''Master Aerialist and Flight:''' Sam is an extraordinary aerialist and flight due to his training with Captain America and to his own experimentation with his "hard light harness." His experience in martial arts, aerialist, and flight has made him one of the best aerial fighters in the world, exceeding the skills of other flyers such as [[Iron Man]] and Ms. Marvel.{{r|All-New Captain America Vol 1 1}}{{r|Captain America and the Mighty Avengers Vol 1 1}}{{r|Falcon Vol 2 1}}{{r|Falcon Vol 1 1}}{{r|Falcon Vol 1 2}}
+
+'''Expert Shield Fighter:''' Sam is very proficient in the use of [[Captain America's Shield]].{{r|All-New Captain America Vol 1 4}} He has shown himself to be able to hit several targets from the air with pinpoint accuracy.{{r|Captain America and the Mighty Avengers Vol 1 1}}
+
+'''Leadership:''' Sam has lead S.H.I.E.L.D. Super-Agents with proficient tactician and strategist.{{r|Captain America Vol 1 217}}
+| Strength                = Before Falcon's training with Captain America, he possesses the strength of a normal human who engages in regular exercise.{{r|Captain America Vol 1 117}} However, over the years of intensive training with Captain America, he possesses peak human strength.{{r|Captain America Vol 1 118}} Falcon is strong enough to lift at least twice his body weight and can press lift 480 lbs. 
+| Weaknesses              = 
+
+| Equipment               = '''[[Falcon's Wings]]:''' The Falcon's original jet-powered glider wings allowed him to fly at speeds up to 250 mph.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 4}} [[T'Challa (Earth-616)|Black Panther]] supplied Falcon with a new costume and wings. An emitter array on Falcon's back creates holographic "hard light" wings with a maximum wingspan of up to 50 feet (15 m). Controlled by a cybernetic link, the wings can be instantly reconfigured into "dozens of different cruise configurations." A "magnetic drive," in turn, provides the thrust needed to get Falcon airborne. The emitter also possesses GPS Jamming Devices that prevent satellite tracking, while the hard-light wings interfere with infra-red tracking. A Vibranium microwave was added to the costume itself, making Falcon resistant to small arms fire. The entire system is controlled mentally through cybernetic circuitry in the Falcon's mask. The costume has in the past featured a hidden "talon," a cybernetically controlled grappling line built into the gauntlets of his costume which he uses to entangle opponents, hook objects, or for swinging and climbing when his wings are detached. The costume's visors come equipped with various capabilities, including infrared lenses, giving him the ability to see objects by their infrared signature at night, magnification capabilities, and remote imaging sensors that allow a full 360 degree of vision when activated. The cowl also has a wide band receiver and transmitter with an unspecified range. The suit was originally built by Wakandan scientists, with costume modifications by Desmond Burrell. The wings have been modified by [[Tony Stark]], as Sam said after saving New York from Zola's bomb, making them in full-vibranium: they've been capable of absorbing the whole explosive power of the bomb, saving Falcon from certain death.{{r|Captain America Vol 7 24}}
+
+'''[[Avengers Identicard]]'''
+
+'''Cybernetic Implant:''' Sam has a implant in his brain that enhances his ability to see what birds see and transmit the visuals into a data storage facility that then converts the visuals into images and videos.{{r|Captain America: Sam Wilson Vol 1 13}}
+
+{{Navigation
+| title  = Former Equipment
+| body   = '''[[Captain America's Uniform]]'''
+
+'''[[Captain America's Shield]]'''
+}}
+| Transportation          = {{Navigation
+| title = Former Transportation
+| body  = '''[[Quinjet|Avengers Quinjet]]'''
+}}
+| Weapons                 = {{Navigation
+| title = Former Weapons
+| body  = '''Cable Claw:''' A grappling hook housed within one of Falcon's gauntlets.
+
+'''Pistol'''
+}}
+
+| Notes                   = * The '''Falcon''' (Samuel Thomas Wilson) was  created in 1969 and frequently teamed up with [[Steven Rogers (Earth-616)|Captain America]] and later joined the [[Avengers (Earth-616)|Avengers]]. As the protector of Harlem, the Falcon has come into conflict with Harlem crime-bosses [[Stoneface (Earth-616)|Stoneface]] and [[Boss Morgan (Earth-616)|Morgan]].
+* The Falcon initially started out as a non-flying superhero with a trained falcon, [[Redwing (Earth-616)|Redwing]], but eventually he had wings made of [[Wakanda]]n design, which he has retained over the years.
+* The Falcon has been a frequent partner of Captain America, and has intermittently been a member of the [[Avengers (Earth-616)|Avengers]], having first been brought in by [[Henry Gyrich (Earth-616)|Henry Peter Gyrich]] in an attempt to make the group more racially integrated.
+* The Falcon is one of the first African American superheroes, as well as the first not to have "Black" in his name. His nephew was the [[Bruce Banner (Earth-616)|Hulk]]'s sometime sidekick [[James Wilson (Earth-616)|Jim Wilson]], one of the first openly HIV-positive Marvel characters (now deceased).
+* Wilson is to date the only publicly known black successor Captain America (as established in Captain America Sentinel of Liberty 6-8.) [[Isaiah Bradley (Earth-616)|Isaiah Bradley]] was never officially recognized in the role of Captain America, though some list Bradley as the "black" Captain America.
+* ''[[All-New Captain America Vol 1|All-New Captain America]]'' is not the first time Wilson has stepped up to the role of Captain America. In {{cl|Captain America: Sentinel of Liberty Vol 1 9}}, he briefly stood in for a gravely injured Steve Rogers.
+| Trivia                  = 
+| CustomSection1          = Recommended Reading
+| CustomText1             = * '''{{cl|Captain America Vol 1 117}} (September, 1969):''' First appearance of the Falcon, as well as his first encounter with Captain America.
+* '''{{cl|Captain America Vol 1 126}} (June, 1970):''' "The Fate of the Falcon."
+* '''{{cl|Captain America Vol 1 133}} (January, 1971):''' Captain America and the Falcon become partners.
+* '''{{cl|Captain America Vol 1 170}} (February, 1974):''' The Black Panther and Wakandan scientists create artificial wings for the Falcon, providing him with the power of flight
+* '''{{cl|Avengers Vol 1 181}} (March, 1979):''' The Falcon is drafted into the Avengers under orders from Henry Peter Gyrich, in order to satisfy a racial quota
+* '''[[Falcon Vol 1|''Falcon'']] (November, 1983 - February, 1984):''' four issue mini-series by Jim Owsley (a.k.a. Christopher Priest); falsely implied that Sam Wilson is a mutant.
+* '''{{cl|Onslaught Marvel Universe Vol 1 1}} (October, 1996):''' Bruce Banner (minus his Hulk persona), Dr. Doom, the Fantastic Four and the Avengers (including the Falcon) are presumed to have been killed by Onslaught. In reality, they begin a year-long sojourn on [[Counter-Earth (Heroes Reborn)|an alternate "Counter-Earth"]] subconsciously created by Franklin Richards.
+* '''{{cl|Captain America Vol 2 1}}-[[Captain America Vol 2 12|12]] (November, 1996 - October, 1997):''' On Counter-Earth, Sam Wilson is shot and gravely wounded, but Captain America saves his life by giving him a transfusion of the Super-Soldier's own blood.  Consequently, Wilson gains superhuman abilities comparable to those of Captain America. His military nickname, "The Falcon", becomes his superhero code name ("[[Heroes Reborn]]" series).
+* '''{{cl|Avengers Vol 3 1}}-[[Avengers Vol 3 3|3]] (February–April, 1998):''' The Falcon and every other living Avenger (past or present) are part of a medieval reality ruled by Morgan le Fay (his Super-Soldier powers from "Heroes Reborn" are gone).
+* '''{{cl|Captain America: Sentinel of Liberty Vol 1 9}} (May, 1999):''' In a flashback tale that predates his receipt of the artificial wings from the Black Panther, the Falcon temporarily replaces a seriously wounded Steve Rogers as Captain America
+* '''{{cl|Avengers Vol 3 64}} (April, 2003):''' Spotlight on the Falcon, who confronts Henry Peter Gyrich after years of resentment; power to see through the eyes of avian lifeforms is revealed
+* '''{{cl|Avengers Vol 3 65}}-[[Avengers Vol 3 70|70]] (May–September, 2003):''' "Red Zone" - The Falcon and the Avengers foil the Red Skull's plot to frame the nation of Wakanda for a biological terrorist attack upon the United States
+* '''[[Captain America and the Falcon Vol 1|''Captain America and the Falcon'']] (May, 2004 - June, 2005):''' a series by Christopher Priest; marks the first time that the Falcon shares equal billing with Captain America in both name and importance to the plot
+* '''{{cl|New Avengers Vol 1 21}} (August, 2006):''' The Falcon becomes Captain America's first ally against the Superhuman Registration Act.
+* '''[[All-New Captain America Vol 1|''All-New Captain America'']] (November, 2014 - April, 2015):''' The adventures of the All-New Cap, now Sam Wilson himself, that leaves his Falcon identity to become the heir of his mentor Steve Rogers.
+* '''[[Captain America: Sam Wilson Vol 1|''Captain America: Sam Wilson'']] (October, 2015 - July, 2017)'''
+| Marvel                  = 
+| Wikipedia               = Falcon (comics)
+| Links                   = 
+}}
+[[it:Samuel Wilson (Terra-616)]]
+[[pt-br:Samuel Wilson (Terra-616)]]
+[[es:Samuel Wilson (Tierra-616)]]
+[[tr:Samuel Wilson (Dünya-616)]]
+[[Category:Flight]]
+[[Category:Zoopathy]]
+[[Category:Trained by Captain America]]
+[[Category:Wilson Family (Samuel)]]
+[[Category:Power Level 6]]
+[[Category:Gymnasts]]
+[[Category:Acrobats]]
+[[Category:Cosmic Cube Enhanced]]
+[[Category:Shield Fighting]]
+[[Category:Floating Super-Hero Poker Game participants]]
+[[Category:Spirits of Vengeance]]
+[[Category:Damnation participants]]
+[[Category:Symbiotes-possessed]]

@@ -1,0 +1,61 @@
+{{Marvel Database:Character Template
+| Image                   = Conrad Mack (Earth-616) from New Warriors Vol 1 22 001.jpg
+| Name                    = [[Conrad Mack]]
+| CurrentAlias            = [[Smiling Tiger]]
+| Aliases                 = Tiger
+
+| Affiliation             = {{m|Folding Circle (Earth-616)|Folding Circle}}; formerly {{M|Thunderbolts}}
+| Relatives               = [[Collier Mack (Earth-616)|Collier Mack]] (father), unnamed mother
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Red
+| Hair                    = No hair
+| UnusualSkinColor        = Orange
+| UnusualFeatures         = Claws; No visible nose; Pointed face
+
+| Origin                  = [[Homo sapiens|Human]] [[Mutate]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = American, Cambodian
+
+| Occupation              = Adventurer
+| Education               = 
+| BaseOfOperations        = Formerly Thunderbolts base; Oakland
+
+| Creators                = Fabian Nicieza; Mark Bagley
+| First                   = New Warriors Vol 1 19
+
+| History                 = Conrad Mack's father, Collier, fought in the [[Vietnam War]] with his military unit, the Half Fulls. He and his fellow soldiers stumbled upon an ancient temple that was home to the Dragon's Breadth cult. After some coercion from the magics of the cults leader, Tai, Collier fell in love with one of the brides of the cult. He married her, and they had a son named Conrad. 
+ 
+Conrad was taught by his father in the skills that he learned during the war. Conrad also found a way to utilize his claws in battle. He was later found by the  Left Hand, his father's former comrade, living on the streets because his feral nature made it hard for Conrad to interact with other people. 
+ 
+Conrad joined the  Folding Circle to maximize his potential in life, taking the codename Smiling Tiger. He battled the  New Warriors frequently, and on one occasion, stole the Avengers Quinjet that the New Warriors had stolen themselves. However, the Folding Circle crashed the Quinjet in  Madripoor. There, they became major players in the underworld of crime.
+
+| Powers                  = 
+| Abilities               = Skilled in hand-to-hand combat.
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:50-State Initiative (Earth-616)/Members]]
+[[Category:Magic-Based Mutates]]
+[[Category:Universal Wellspring]]
+[[Category:Superhuman Speed]]
+[[Category:Superhuman Agility]]
+[[Category:Superhuman Reflexes]]
+[[Category:Superhuman Senses]]

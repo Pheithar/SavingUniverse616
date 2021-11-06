@@ -1,0 +1,271 @@
+{{Marvel Database:Character Template
+| Image                   = X-Men Vol 5 6 Parillo Virgin Variant.jpg
+| Name                    = [[Illyana Nikolievna Rasputina]]
+| Name2                   = {{r|X-Men Origins: Colossus #1}}
+| CurrentAlias            = [[Magik]]
+| CurrentAliasRef         = 
+| Aliases                 = [[Darkchild]],{{r|New Mutants Vol 1 14}} Darkchilde Archimage,{{r|X of Swords Handbook Vol 1 1}} Darkchylde,{{r|New Mutants Vol 1 36}} Illyana Nikolievna Rasputin,{{r|X-Men Prime Vol 2 1}} Lightchylde,{{r|New Mutants #73}} "Little Snowflake",{{r|Magik (Illyana and Storm Limited Series) Vol 1 2}} [[Phoenix]],{{r|Avengers vs. X-Men #5}} Red Flag #133,{{r|X of Swords Handbook Vol 1 1}} Zombie Queen{{r|Empyre: X-Men Vol 1 3}}
+
+| Affiliation             = {{m|Great Captains of Krakoa}}, {{m|New Mutants}}, [[Strange Academy (Location)|Strange Academy faculty]], {{m|Dark Riders (Krakoa)}} (leader); formerly {{m|X-Men}}, {{m|Swordbearers of Krakoa (Earth-616)|Swordbearers of Krakoa}}, {{m|X-Men (New Charles Xavier School) (Earth-616)|X-Men}} (New Charles Xavier School member), {{m|Phoenix Five}}, {{m|Bratpack}}, {{m|Hellions}}
+| Ancestors               = Efim Rasputin (paternal great-great-grandfather, deceased);<br>
+[[Grigory Efimovich Rasputin (Earth-616)|Grigory Rasputin]] (paternal great-grandfather, deceased)<br>
+[[Elena (Rasputina) (Earth-616)|Elena]] (paternal great-grandmother, deceased)
+| Grandparents            = [[Grigory Grigorievich Rasputin (Earth-616)|Grigory Rasputin]] (paternal grandfather, deceased)<br>
+Unnamed grandmother (presumably deceased)
+| Parents                 = [[Nikolai Rasputin (Earth-616)|Nikolai Rasputin]] (father, deceased)<br>
+[[Alexandra Rasputina (Earth-616)|Alexandra Rasputina]] (mother, deceased)
+| Siblings                = [[Piotr Rasputin (Earth-616)|Piotr Nikolaievitch Rasputin (Colossus)]] (brother);<br>
+[[Mikhail Rasputin (Earth-616)|Mikhail Nikolaievitch Rasputin]] (brother)
+| Relatives               = [[Ivan (Rasputin) (Earth-616)|Ivan]] (paternal great-great-uncle)<br>
+Mr. Mishchenko (paternal uncle-in-law, deceased);<br>
+unnamed paternal aunt (deceased);<br> 
+[[Vladimir Rasputin (Earth-616)|Vladimir Rasputin]] (paternal uncle, deceased)<br>
+[[Anatoly Rasputin (Earth-616)|Anatoly Rasputin]] (paternal uncle);<br>
+[[Tra-Mai-A-Zath (Earth-616)|Tra-Mai-A-Zath]] (sister-in-law, deceased);<br>
+[[Peter (Nereel) (Earth-616)|Peter Jr.]] (nephew);<br>
+[[Konstantin Rasputin (Earth-616)|Konstantin Rasputin]] (paternal cousin, deceased)<br>
+[[Klara Rasputina (Earth-616)|Klara Rasputina]] (paternal cousin, deceased)<br>
+[[Dimitriy Rasputin (Earth-616)|Dimitriy Rasputin]] (paternal cousin, deceased)<br>
+[[Larisa Mishchenko (Earth-616)|Larisa Mishchenko]] (paternal cousin, deceased);<br>
+[[Pavel Plotnick (Earth-616)|Pavel Plotnick]] (paternal distant relative);<br>
+[[Lamar Plotnick (Earth-616)|Lamar Plotnick]] (paternal distant relative);<br>
+[[Lavinia Plotnick (Earth-616)|Lavinia Plotnick]] (paternal distant relative);<br>
+[[Grigory (Rasputin) (Earth-616)|Grisha]] (paternal distant relative);<br>
+[[Yuri Grigorievich (Earth-616)|Yuri]] (paternal distant relative, deceased);<br>
+[[:Category:Rasputin Family|Rasputin Family]] (relatives);<br>
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Women of Marvel: Celebrating Seven Decades Handbook #1}}
+| Gender                  = Female
+| Height                  = 5'5"
+| Weight                  = 130 lbs
+| Eyeballs                = Yellow (as Darkchylde)
+| Eyes                    = Blue (Illyana); No Iris (Darkchylde)
+| Hair                    = Blond
+| UnusualSkinColor        = Red (as Darkchylde)
+| UnusualFeatures         = Temporarily aged to a 13 year-old teenager after being in Limbo. As Darkchylde, she has horns, a tail, and hooves.
+
+| Origin                  = [[Homo superior|Mutant]], became sorceress while in [[Limbo (Demonic)|Limbo]]. Later died of [[Legacy Virus]] and was resurrected by [[Belasco (Earth-616)|Belasco]].
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Ust-Ordynsky|Ust-Ordynsky Collective]], near [[Lake Baikal]], [[Siberia]], [[Russia]]
+
+| Identity                = Known to Authorities
+| Citizenship             = Russian, Krakoan
+| Occupation              = {{r|Ghost Rider Vol 9 4}} True [[Sorceress Supreme of Limbo|Sorceress Supreme]] & Ruler of [[Limbo (Demonic)|Limbo]], X-Men captain, part-time educator of young sorcerers; former educator of mutant youth, adventurer, student
+| Education               = High school-level courses at [[Xavier's School for Gifted Youngsters]], tutored in [[Glossary:M#Magic|magic]] by [[Stephen Strange (Earth-616)|Doctor Strange]], [[Belasco (Earth-616)|Belasco]] and [[Earth-8280]]'s [[Ororo Munroe (Earth-8280)|Storm]].
+| BaseOfOperations        = [[Krakoa (Earth-616)|Krakoa]], [[Pacific Ocean]]; formerly [[Xavier's School for Gifted Youngsters|Xavier Institute for Mutant Education and Outreach]], [[Central Park]], [[Manhattan]], [[New York City]], [[New York]]; [[New Tian]], [[California (State)|California]]; [[Xavier's School for Gifted Youngsters|Jean Grey School for Higher Learning]], [[X-Haven]], [[Limbo (Demonic)|Limbo]] (formerly [[Salem Center]], [[North Salem]], [[Westchester County]], [[New York (State)|New York]]); [[Weapon X Facility|New Charles Xavier School for Mutants]], near [[Roanoke (Alberta)|Roanoke]], [[Alberta]], [[Canada]]; [[Utopia (X-Men Base)|Utopia]], [[San Francisco Bay]], [[California (State)|California]]; [[Graymalkin Industries]], Marin Headlands, [[San Francisco]], [[California (State)|California]]; [[Prosh (Earth-616)|Ship]]; [[Massachusetts Academy]], [[Snow Valley]], [[Massachusetts (State)|Massachusetts]]
+
+| Creators                = Len Wein; Dave Cockrum
+| First                   = Giant-Size X-Men #1
+| First2                  = {{g|as [[Illyana]]}}<br>{{sld|Magik (Illyana and Storm Limited Series) #1}}{{g|as [[Magik]]}}
+
+| Quotation               = Burdened by demons not of her own making, she remained an angel at her core.
+| Speaker                 = [[Ororo Munroe (Earth-616)|Storm]]
+| QuoteSource             = Uncanny X-Men Vol 1 304
+
+| History                 = 
+===Early Life===
+'''Illyana Nikolievna Rasputina''' (Russian: '''Ильяна Николаевна Распутина''') was born on the [[Union of Soviet Socialist Republics|Soviet]] collective farm called the [[Ust-Ordynsky|Ust-Ordynsky Collective]], near [[Lake Baikal]], in [[Siberia]]. She was the youngest of three [[Homo superior|mutant]] siblings. Illyana's brothers were the [[X-Men (Earth-616)|X-Man]] [[Piotr Rasputin (Earth-616)|Piotr (Colossus)]], and the cosmonaut, [[Mikhail Rasputin (Earth-616)|Mikhail Rasputin]]. As a child, she was saved by Piotr from a runaway tractor, just before her brother was recruited into the X-Men by [[Charles Xavier (Earth-616)|Professor X]].{{r|Giant-Size X-Men #1}}
+
+[[Miss Locke (Earth-616)|Miss Locke]] captured Illyana along with several of the X-Men's other loved ones to get them to rescue [[Arcade (Earth-616)|Arcade]] from [[Doombot|Dr. Doom]].{{r|Uncanny X-Men Vol 1 145|146}} After they were freed, Colossus allowed his sister to stay in the [[United States of America|United States]], believing she would be safe and not be used as a government tool like their older brother Mikhail had been. Professor Charles Xavier touched her on the head, giving her the ability to speak English.{{r|Uncanny X-Men #164}}
+
+===Limbo===
+[[File:Illyana Rasputina (Earth-616) and Belasco (Earth-616) from Uncanny X-Men Vol 1 160 001.jpg|left|thumb|Illyana tempted with the Bloodstone]]
+At the age of six, Illyana was kidnapped by [[Belasco (Earth-616)|Belasco]] and taken to [[Limbo (Otherplace)|Limbo]], where the X-Men followed. While there, Illyana also ran into [[Earth-8280|alternate versions]] of the [[X-Men (Earth-8280)|X-Men]], who had not been able to return to their own dimension. While attempting to return to her own dimension, Belasco grabbed Illyana; [[Katherine Pryde (Earth-616)|Kitty Pryde]] held her arm, until she lost her grip, letting Illyana be taken by Belasco. He told her he loved her and turned part of her soul into a [[Bloodstones|Bloodstone]], giving her great potential for power and allowing him to control her. While staying with Belasco, Illyana was constantly beaten by Belasco's servant, [[S'ym (Earth-616)|S'ym]].{{r|Magik (Illyana and Storm Limited Series) Vol 1 1|4}}
+
+Illyana was rescued by [[Ororo Munroe (Earth-8280)|Storm]] and [[Katherine Pryde (Earth-8280)|Cat]], alternate versions of [[Ororo Munroe (Earth-616)|Ororo Munroe]] and Kitty Pryde. For a while, Illyana was instructed in [[Glossary:M#Magic|magic]] by Storm, and instructed in combat, by Cat. Illyana had to constantly battle demons and some of that reality's versions of the X-Men, including [[Kurt Wagner (Earth-8280)|Nightcrawler]], to survive. After attempting to return home to her reality, Illyana eventually became Belasco's apprentice, while secretly gaining advice from Storm's astral form. Cat had been turned into a true house cat and was loyal to Belasco.{{r|Magik (Illyana and Storm Limited Series) Vol 1 2}} Belasco attempted to use Illyana as a pawn to bring about the [[Elder Gods]]<!-- Mabdhara or Elder Gods of Limbo -->. At this time, Illyana's own mutant powers of teleportation discs were discovered. Illyana was forced to kill Cat to save the life of Storm,{{r|Magik (Illyana and Storm Limited Series) Vol 1 3}} whom she later killed to save from being used in Belasco's sacrifice. After burying Storm, Illyana briefly teleported home to her parents farm, where they did not recognize her. She returned to Limbo, where she magically caused her own life force energy to manifest the [[Soulsword]] and defeated Belasco. A simple looking blade upon its origin, the Soulsword began to develop intricate designs and forms upon itself the more Illyana used it, becoming more powerful with each use.{{r|Magik (Illyana and Storm Limited Series) Vol 1 4}}
+
+Illyana returned to [[Earth]] only seconds after Kitty had lost her grip on Illyana's arm. She had spent years in Limbo while only mere moments elapsed on Earth. She was thirteen, now the same age as Kitty. The two became roommates and grew very close.{{r|Uncanny X-Men #160}}
+
+===New Mutants===
+At [[Xavier's School for Gifted Youngsters|School for Gifted Youngsters]], Illyana was tutored by Professor X. Illyana joined Kitty in [[Stephanie Hunter (Earth-616)|Stevie Hunter]]'s dance studio. As Magik, Illyana joined the [[New Mutants (Earth-616)|New Mutants]] and trained in the use of her powers in the [[Danger Room]]. Illyana quickly learned that she was not nearly as powerful a sorceress on Earth as she was in Limbo, but retained an immunity to the most powerful telepathic probes; she continued to struggle with the use of her mutant powers, often sending people to the wrong place or time.{{Citation}} As Professor X was not qualified to help improve her sorcery,{{r|New Mutants Vol 1 21}} and using it made her evil,{{r|X-Men Annual Vol 1 9}} Illyana hid her magic when possible; while her teammates soon learned that she was a sorcerer,{{r|New Mutants Vol 1 13|17}} others like her brother did not know until she needed to use magic against the [[Dire Wraiths]]].{{r|Uncanny X-Men Vol 1 188}}
+
+Belasco made an attempt to recapture Illyana by sending [[S'ym (Earth-616)|S'ym]] after her. After the New Mutants were overwhelmed, Illyana secretly used her magic to defeat S'ym and had him swear allegiance to her.{{r|New Mutants Vol 1 14}}
+
+Illyana learned that when she summoned her Soulsword while on Earth, an eldritch armor would cover her body, starting with her left arm. As time went-on, the armor would cover more and more of her. In order for Illyana to be an effective sorceress she was forced to teleport most of her enemies to Limbo, where she was ruler. Many times she would teleport demons from her realm to Earth to aid her.
+
+The New Mutants battled [[Kulan Gath (Impostor) (Earth-616)|Kulan Gath]] with the [[Avengers (Earth-616)|Avengers]] and the X-Men. After most of the heroes perished, Magik and [[Stephen Strange (Earth-616)|Dr. Strange]] traveled back in time to before it happened, erasing the event.{{r|Uncanny X-Men #190|191}}
+
+Illyana was taken away by [[Max Eisenhardt (Earth-616)|Magneto]], per Prof. Xavier's request, to battle the virtually omnipotent [[Beyonder (Earth-616)|Beyonder]]. Upon returning, the Beyonder brought-out Illyana's dark half, the Darkchylde. Illyana teleported her friends to Limbo and attacked them. Kitty used Illyana's Soulsword on her and returned her to her natural form.{{r|New Mutants Vol 1 36}}
+
+Later, [[Amora (Earth-616)|Amora the Enchantress]] kidnapped the New Mutants to [[Asgard]]. While attempting to escape, Magik used her teleportation discs and the Enchantress' magics affected the destination and the New Mutants were separated through time and space. Illyana, though, never left and was a subject of interest for Amora. Amora sensed her magic and separated the Darkchylde from Illyana and sent the Darkchylde to gather the other New Mutants as head of her [[Nightgaunts]]. After the New Mutants defeated Amora, Illyana sent her to Limbo. Later, Illyana was enthralled by [[Loki Laufeyson (Earth-616)|Loki]], and the X-Men rescued Illyana and her teammates after Illyana released Amora.{{r|New Mutants Special Edition #1}}{{r|Uncanny X-Men Annual #9}}
+
+[[File:Illyana Rasputina (Earth-616) from X-Men (Trading Cards) 0001.jpg|thumb|left]]
+===Headmaster Magneto===
+The New Mutants found themselves under the guidance of a new teacher, Magneto. Later, the Beyonder approached Illyana and purged her of her sorcery. Her position as ruler of Limbo was transferred to Kitty. Illyana realized that Kitty could not handle the responsibility and declined the Beyonder's gift. Angered, the Beyonder killed all of the New Mutants by obliterating them from existence, but later recreated the New Mutants and later used them as henchmen against the heroes attempting to stop him, as they had no memories of the New Mutants. After Beyonder's defeat, [[Rachel Summers (Earth-811)|Rachel Summers]] set everything back.{{r|New Mutants #36|37}}{{r|Secret Wars II #9}}
+
+[[Warlock (Technarch) (Earth-616)|Warlock]]'s father, [[Magus (Technarch) (Earth-616)|Magus]], attacked the New Mutants and Illyana quickly teleported them all to Limbo. Shortly after, Magus also appeared in Limbo and allied himself with S’ym and infected many of Limbo’s other denizens with the [[Techno-Organic Virus|Transmode Virus]]. Illyana tried to destroy Limbo by stabbing her Soulsword into the terrain. As Prof. Xavier was Illyana's last thought, she emerged in outer space where she was found by Professor Xavier and the [[Starjammers (Earth-616)|Starjammers]]. She returned to Limbo and reclaimed her Soulsword. She defeated S'ym using tainted magic. Illyana took on aspects of the Darkchylde. Illyana was disgusted with this darker side of herself and refused to return to Limbo. However, Professor Xavier used [[Xi'an Coy Manh (Earth-616)|Karma]] to force Illyana to teleport the New Mutants back to Earth despite her protests. This enraged Illyana and she left the team stating that she would make them pay.{{r|new Mutants #47|51}}
+
+Upon returning home, Illyana learned that Piotr and Kitty had been critically injured in their fight with the [[Marauders (Earth-616)|Marauders]]. After losing her brother and best friend, Illyana began to believe that there was no reason to fight her descent into her dark persona, until Magneto convinced her to continue her fight against her inner and physical demons. Illyana continued to travel back and forth to Limbo, battling S'ym for dominance of the realm.{{r|New Mutants #52}}
+
+Following the death of her teammate [[Douglas Ramsey (Earth-616)|Doug Ramsey]], the New Mutants witnessed the X-Men and Illyana's brother seemingly die on television. Magneto was furious over Doug's death and forbid the New Mutants from ever leaving the school without his presence. Retreating to Limbo, Illyana returned in her Darkchylde form with her Soulsword and attacked Magneto, believing she was wrong about him being her Knight in shining armor. The New Mutants separated them and she returned the sword to Limbo.{{r|New Mutants #58|61}}
+
+After continuously watching the footage of the X-Men dying in [[Dallas]], Illyana came to the conclusion that [[Forge (Earth-616)|Forge]] was to blame, as it was his spell that sacrificed the X-Men. Magik took her Soulsword and the New Mutants followed her to Forge's [[Eagle Plaza]] and battled [[Freedom Force (Earth-616)|Freedom Force]]. During the battle, the precog member of Freedom Force called [[Irene Adler (Earth-616)|Destiny]] warned Illyana about her future. Darkchylde teleported Forge to Limbo and bound the New Mutants. After [[Danielle Moonstar (Earth-616)|Mirage]] manifested Illyana's greatest fear, a world over-run by techno-organic demons, Magik understood how evil she was becoming and withdrew her attack, returned Forge to Dallas, and restored his health.{{r|New Mutants #65|66}} 
+
+Later, Illyana manifested a doppelgänger of [[Baba Yaga (Earth-616)|Baba Yaga]] culled from her mind, based on the literary Baba Yaga of old [[Russia|Russian]] stories. After all of the New Mutants were captured by Baba Yaga, Illyana teleported to Limbo to cast a necromantic spell to summon her brother's supposedly dead soul to help her. Part-way through the spell Colossus appeared and, assuming the spell worked, Illyana and Piotr rescued the New Mutants. Illyana believed him to be a ghost, and after the battle, Illyana considered casting the spell again, but decided that she was lucky, as the spell could have made her Darkchilde side take full control, and dared not risk it again.{{r|Uncanny X-Men #231}}
+
+===[[Inferno]]===
+[[File:Illyana Rasputina (Earth-616) from New Mutants Vol 1 71 0001.jpg|thumb|right|Demon form]]
+S'ym formed a partnership with Belasco's former apprentice [[N'astirh (Earth-616)|N'astirh]] to sequester his control of Limbo. After arriving in Limbo with the New Mutants, N'astirh's magics prevented Illyana from teleporting the New Mutants back to Earth. Illyana and the New Mutants fought S'ym, who had become strong enough to take Illyana's Soulsword from her. As S'ym attempted to decapitate Illyana, her eldritch armor grew to protect her and she teleported the New Mutants to Belasco's throne-room, where her tragic past was finally revealed to them. N’astirh pretended to help the team and tricked Illyana into giving in to all her dark urges. She transformed into Darkchylde.{{r|New Mutants #70|71}}
+
+Magik forced her way back to Earth, unaware that N'astirh would piggy-back her portal and keep it open for demons to rain on [[Manhattan]]. N'astirh kept the portal between Limbo and Earth open by using [[Inferno Babies (Earth-616)|ten mutant infants]] he had kidnapped as points of an inverted pentagram. Illyana battled demons who wanted her to embrace her dark self and N'astirh, who wanted her as his dark bride. Finally, Illyana's armor covered her fully. S'ym arrived and Darkchilde battled him until her brother Colossus, who was also fighting the demons in the streets of [[New York City|New York]], arrived and rescued her. Piotr was shocked to see his sister in such a state and Illyana was embarrassed and teleported away, taking the New Mutants with her to Limbo. She finally decided to stop running from her responsibilities as the ruler of Limbo.{{r|New Mutants #72}} 
+
+Unwilling to lose her friend and teammate, [[Rahne Sinclair (Earth-616)|Wolfsbane]] jumped into a teleportation disc and found a younger Illyana and delivered her before the Darkchilde. Darkchilde emerged from her armor and began to glow of pure light, attempting to kill her younger self, but Rahne Sinclair stopped her, stating that saving the young Illyana would bring peace to the older Darkchilde. Darkchilde found a way to stop [[Inferno (Event)|Inferno]], although she knew she risked purging her own existence from the timeline. Darkchilde opened a tremendous portal and sucked all of the remaining demons back to Limbo. Burning so bright with energy that it hurt to look at her, the Lightchylde hurled her Soulsword into the air and the demons were gone, leaving only the charred remains of her eldritch armor.{{r|New Mutants #73}}
+
+Colossus cradled the badly damaged armor and heard someone call his name from inside. Opening the armor, Colossus found the younger Illyana. Due to the manipulation of her own past, Illyana's "Magik" self had not existed. The new version could not speak English. The original Illyana's Soulsword and eldritch armor magically came into Shadowcat's possession.{{r|New Mutants #73|74}} The New Mutants returned the young Illyana home to the original Illyana's parents.{{r|New Mutants #77}}
+
+===Death by the Legacy Virus===
+Illyana's father, [[Nikolai Rasputin (Earth-616)|Nikolai]], and mother, [[Alexandra Rasputina (Earth-616)|Alexandra Rasputin]], were soon murdered by agents looking for a way to stop a mutant called the [[Soul Skinner (Earth-616)|Soul Skinner]]. The Soul Skinner's mind control was ineffective on children; however he came across a device that could age others. He sought to use Illyana's powers for his evil purposes. The X-Men were able to stop the Soul Skinner and prevent Illyana from re-aging.
+
+The X-Men learned that she had contracted the [[Legacy Virus]]. Illyana eventually died and became the first known victim of the virus, despite efforts to cure her. Her death greatly troubled Colossus, who had been on a mission looking for information on the virus when she passed away. During Illyana's funeral, Colossus abandoned the X-Men and joined Magneto's [[Acolytes (Earth-616)|Acolytes]].{{r|X-Men Vol 2 25}}
+
+It was later discovered that sometime in the past, Illyana's older brother Mikhail had traveled back in time and met her when she was with the New Mutants. He showed Illyana a future where she had died of the virus, but said he had found a cure and could alter her DNA to provide it. Although her New Mutants teammates clashed with the future versions of themselves, Mikhail was allowed to try and make her immune. In reality, he transferred the virus to her, hoping that her mystical powers could form an immunity while she was still young. Illyana's teammate Karma removed their memories of this incident.{{r|New Mutants: Truth or Death Vol 1 1}}
+
+===Return===
+At some point, Belasco decided that he wanted Illyana's soul once more. He returned to Limbo to overthrow Illyana’s successor, [[Jimaine Szardos (Earth-616)|Amanda Sefton]]. Using a [[Bloodstone]] containing a portion of Illyana's soul, he was able to resurrect Illyana in her Darkchylde form. His creation had all of Illyana's memories but lacked her soul, which was needed to overthrow Sefton. Disappointed, Belasco banished her.{{r|New X-Men Vol 2 40}} 
+
+Some time later, a rift was opened between Earth and Limbo, pulling several of the [[New X-Men (Earth-616)|New X-Men]] into the realm where Belasco captured and tortured some of them. Belasco was inspired to use innocent [[Megan Gwynn (Earth-616)|Pixie]]'s soul in place of Illyana's, and stole a portion of Pixie's soul for the Bloodstone amulet, with plans to use it to defeat Sefton. Pixie's soul was again fractured when the soulless Darkchylde also stole a portion in the hopes of creating both a bloodstone and a new Soulsword for herself. Believed to be Illyana by the New X-Men, Darkchylde managed to free them from Belasco's minions.{{r|New X-Men Vol 2 38|41}}
+
+[[File:X-Infernus Vol 1 1 textless.jpg|thumb|left|Illyana as Darkchylde once again]]
+Following the destruction of the Xavier Institute, the still soulless Illyana returned to Earth after realizing it was within her power. However, seeing the remains of the school reminded her of Piotr and Kitty, and not wanting them to see her in her then-current state, she returned to Limbo.{{r|X-Men Divided We Stand Vol 1 2}}
+
+Back in Limbo, Darkchylde searched for the missing bloodstone amulet and her soulsword, eventually sensing the sword in Pixie's possession in [[San Francisco]]. Attacking the X-Men at home, she retrieved the sword and returned to Limbo to find that her demon hordes had been defeated in her absence by Belasco's daughter, [[Ananym (Earth-616)|Witchfire]]. Witchfire attacked and imprisoned Darkchylde{{r|X-Infernus #1|2}} until members of the X-Men came to investigate her attack on them and rescued her. Liberated, Illyana asked [[Kurt Wagner (Earth-616)|Nightcrawler]] to stab her with Pixie's soul dagger, enabling him to retrieve her soulsword, which he used to attack Witchfire.
+
+Although Witchfire was able to complete the Bloodstone Amulet using the newly-crafted bloodstone from Pixie, Illyana was able to stop her by using [[Cessily Kincaid (Earth-616)|Mercury]] (who had a resistance to magic), as her armor. Illyana and Megan combined the soulsword and soul dagger and removed Pixie's bloodstone from the amulet, thwart Witchfire's plans. In the aftermath, Witchfire escaped with the amulet still containing four of the five required bloodstones. Pixie's soul dagger became infused with her bloodstone. Illyana teleported the X-Men back to San Francisco, where, as a soulless hybrid of herself and Darkchylde (retaining the horns), she still felt she couldn't stay. Her brother, [[Scott Summers (Earth-616)|Cyclops]], and her former New Mutants team insisted that she stay and offer a place among her former teammates and family at [[Graymalkin Industries]]. She agreed to try.{{r|X-Infernus #4}}
+
+===New Mutants X-Men Squad===
+Shortly after re-joining the X-Men, Illyana left again without a word. She travelled the time-ways, eventually coming across [[David Haller (Earth-616)|Legion]]. She made a deal with one of his personas, promising to bring him back to Earth in exchange for his help in destroying the [[Elder Gods of Limbo|Elder Gods]] and helping her reclaim her soul.{{r|New Mutants Vol 3 1|21}} She then returned to Limbo. When the Elder Gods were unleashed through the machinations of [[Project Purgatory (Earth-616)|Project Purgatory]], a future version of [[Amara Aquilla (Earth-616)|Magma]] warned her to travel back in time to save them from Legion. {{r|New Mutants Vol 3 21}} Magik obliged, and again travelled the time-ways, seeing many potential futures before finally returning shortly after she had last left the X-Men. She warned them that [[Danielle Moonstar (Earth-616)|Dani]] and [[Xi'an Coy Mahn (Earth-616)|Karma]] were in danger, as what had seemed to be a false alarm was in fact the recently returned Legion, who had accidentally absorbed Karma into his mind. Cyclops allowed [[Samuel Guthrie (Earth-616)|Cannonball]] to reorganize the original New Mutants squad and go after their missing members. {{r|New Mutants Vol 3 1}} The mission was a success, as Magik fought her way into Legion's psyche, freed Karma, and helped him regain control over his body. {{r|New Mutants Vol 3 3}}
+
+===Utopia===
+When director of national security [[Norman Osborn (Earth-616)|Norman Osborn]] clashed with the X-Men in San Francisco, Magik became instrumental in helping the X-Men defeat Osborn and establish the rogue nation of [[Utopia (X-Men Base)|Utopia]], an island sanctuary made from the remains of [[Asteroid M]]. {{r|Dark Avengers / Uncanny X-Men: Exodus Vol 1 1}} She helped defend the fledgling nation from an attack by [[Selene Gallio (Earth-616)|Selene]], with her Soulsword being instrumental in freeing her resurrected teammate [[Douglas Ramsey (Earth-616)|Cypher]] from Selene's control. {{r|New Mutants Vol 3 8}}
+
+When the mutant messiah [[Hope Summers (Earth-616)|Hope Summers]] and her guardian [[Nathaniel Summers (Earth-616)|Cable]] returned to the present, they quickly came under attack by [[Bastion (Earth-616)|Bastion]] and his [[Human Council (Earth-616)|Human Council]]. Cyclops ordered the New Mutants to attack one of [[Cameron Hodge (Earth-616)|Hodge]]'s [[Right (Earth-616)|Right]] facilities and to aid Cable and a group of X-Men against [[William Stryker (Earth-616)|Stryker]] and his [[Purifiers (Earth-616)|Purifiers]]. In this battle, Illyana was attacked by a device that trapped her in Limbo. At the urging of Colossus, Cyclops sent Cannonball, [[Jean-Paul Beaubier (Earth-616)|Northstar]], [[Victor Borkowski (Earth-616)|Anole]], [[Alison Blaire (Earth-616)|Dazzler]], [[Remy LeBeau (Earth-616)|Gambit]], and Pixie to Limbo to save Illyana, which they did. {{r|X-Men: Hellbound Vol 1 1}}
+
+===The Elder Gods===
+Illyana's actions in defense of Utopia helped win her the trust of the X-Men, though some still disliked her. With Illyana recovered, the team took a vacation. Illyana suddenly sensed that Pixie had been captured, prompting the team to go after her. Her kidnappers were [[Project Purgatory (Earth-616)|Project Purgatory]], an arm of the U.S. Army that, shortly after the [[Inferno (Event)|Inferno event]] had established a base inside [[Limbo]], where they were then trapped, along with the [[Inferno Babies (Earth-616)|Inferno Babies]]. Illyana sent Warlock to warn the main X-Men team while the rest of them battled the Inferno Babies. They were defeated, and [[General Ulysses (Earth-616)|General Ulysses]] and [[Doctor Noc (Earth-616)|Dr. Noc]] were able to take Illyana's Soulsword and Pixie's [[Souldagger]] and extract their Bloodstones, once again completing the Bloodstone Amulet. They planned to use it to unleash the Elder Gods, hoping they would be able to control them. {{r|New Mutants Vol 3 15|21}}
+
+When Xi'an showed Inferno Baby [[Face (Inferno Baby) (Earth-616)|Face]] what [[Project Purgatory (Earth-616)|Project Purgatory]] had done to him, he freed Illyana and they returned with Pixie to Utopia, to free Legion. Magik confessed that she had returned to the present for Karma, not to save anyone else. She entrusted her with the Soulsword, and while Magik would lead the X-Men to Limbo, Karma would use the Soulsword to free one of Legion's personalities; one possessing the ability to warp reality. Illyana was successful in saving her teammates from the deaths she had foreseen, and just before the Elder Gods could destroy them, Legion arrived. He honored his part of their bargain, warping reality to erase the Elder Gods, and destroying the Bloodstone Amulet, re-uniting Illyana and Pixie wih their souls. {{r|New Mutants Vol 3 15|21}}
+
+Illyana came clean about the return of Legion and the destruction of the Elder Gods, confessing she had allowed everything to transpire in order to destroy the Elder Gods, and that she was not sorry for what she did and would do it again regardless of punishment, because the Elder Gods were the only things she feared. Believing her a threat to the citizens of Utopia, Cyclops had confined to the ([[X-Brig]]), with a vest designed to explode upon use of magic or teleportation and with [[Danger (Earth-616)|Danger]] watching over her as her warden. Piotr visited Illyana, stating that he would speak with Cyclops to lessen her punishment, but Illyana declined his help, insisting that she knew she would be punished for her actions and welcomed it. {{r|New Mutants Vol 3 25}} {{r|Uncanny X-Men Vol 1 540}}
+
+===[[Fear Itself]]===
+Despite the fact that Illyana, now possessing the full measure of her soul, had re-united with her brother, Illyana became bothered by the fact that her brother was blind to how damaged she was, still seeing her only as his "little snowflake". Struggling with his love for her and his wish to understand her, she resolved to show him how damned she truly was by damning him in turn. {{r|Uncanny X-Men Vol 2 20}}
+
+When [[Cain Marko (Earth-616)|Kuurth]] attacked San Francisco, the X-Men tried and failed to stop him. Desperate for a solution, [[Scott Summers (Earth-616)|Cyclops]] turned to Illyana. He asked her to go to the [[Crimson Cosmos]] and meet with [[Cyttorak (Earth-616)|Cyttorak]], hoping that the knowledge that his avatar now served another might induce Cyttorak to grant his blessing to Illyana, who might then be able to stop Kuurth. Accompanied by her brother and [[Katherine Pryde (Earth-616)|Kitty Pryde]], Illyana told Cyttorak that Cain Marko had betrayed him and now served [[Cul Borson (Earth-616)|another god]]. Just as planned, Cyttorak rescinded his blessing from Cain Marko, and offered it to Illyana. However, Colossus interjected, insisting that his sister be spared from the burden and that he become the new Juggernaut in her place. {{r|Uncanny X-Men Vol 1 544}} This was exactly what Illyana had planned, as the burden of the Juggernaut would give her brother a glimpse at the damnation that had befallen her. {{r|Uncanny X-Men Vol 2 20}} 
+
+===Regenesis===
+Released from her confinement after the [[Schism (Event)|Schism]] between Cyclops and [[James Howlett (Earth-616)|Wolverine]], Magik was offered a place in Wolverine's school but she refused and joined Cyclops' [[X-Men (New Charles Xavier School) (Earth-616)|Extinction Team]], together with her brother. She tried to help her brother control the irresistible urge to destroy that came with the powers of the Juggernaut, but her tutoring was not effective, and the siblings volunteered to be locked up together between missions, since Colossus feared that he would lose control over himself.{{r|Uncanny X-Men Vol 2 10}} 
+
+===[[Avengers vs. X-Men (Event)|Avengers vs X-Men]]===
+When the [[Avengers (Earth-616)|Avengers]] invaded Utopia in search of [[Hope Summers (Earth-616)|Hope Summers]], Magik fought alongside the X-Men, fighting and defeating Doctor Strange. When the X-Men feigned a surrender, Magik teleported several powerful X-Men away, giving them a head start in the search for Hope.{{r|Avengers vs. X-Men Vol 1 2|3}} When the X-Men found out Hope was on the [[Luna (Moon)|Moon]], Magik teleported Cyclops, [[Emma Frost (Earth-616)|Emma Frost]], [[Namor McKenzie (Earth-616)|Namor]], and Colossus to her. Before they could begin fighting the Avengers, [[Thor Odinson (Earth-616)|Thor]] crashed onto the Moon, closely followed by the [[Phoenix Force (Earth-616)|Phoenix Force]].{{r|Avengers vs. X-Men Vol 1 4}}
+
+[[File:Phoenix Five (Earth-616) and Hope Summers (Earth-616) from Avengers vs. X-Men Vol 1 5 0001.png|thumb|right|Phoenix Five.]]
+[[Iron Man (Anthony "Tony" Stark)|Iron Man]] had built a weapon to destroy the Phoenix, and attacked while the Avengers and X-Men fought below. Instead of destroying it, Tony only shattered it, turning all [[Phoenix Five (Earth-616)|five of the X-Men]] into its new hosts. With the power of the Phoenix within them, Magik and the rest of the avatars returned Hope to Earth to prepare her.{{r|Avengers vs. X-Men Vol 1 5}}
+
+After [[Namor McKenzie (Earth-616)|Namor]] lost his portion of the Phoenix, the four remaining hosts each gained a fraction of his portion. Stronger than ever, Magik and Colossus prevented the Avengers from raiding the X-Men's prison to rescue their comrades. [[Spider-Man (Peter Parker)|Spider-Man]] remained behind to fight them while the others tried to escape but was no match for the pair. Magik pressed her brother to kill or cripple Spider-Man, but Colossus refused, becoming worried by the things Illyana said. Believing she was losing control, he offered to take her portion of the Phoenix. This enraged Illyana and led to an argument between them. Seeking to occupy them further Spider-Man egged them on and they knocked their portions of the Phoenix out of each other, and into Cyclops and Emma.{{r|Avengers vs. X-Men Vol 1 8}}
+
+Distracted by the new power, Cyclops allowed Magik and Colossus to escape. Colossus wallowed in regret, having believed that the Phoenix would have allowed him to transcend [[Cyttorak (Earth-616)|Cyttorak]]'s influence, and knowing he lost control in the end after all. After condemning himself as a doomed monster, Magik finally revealed that she had planned for all of this to happen in order to make him understand what damnation felt like, and to convince him that she was not worthy of his love and care.{{r|Uncanny X-Men Vol 2 18}}
+
+Enraged by the revelation that he had been deceived into serving Cyttorak and living with the uncontrollable urge to kill, Colossus transformed into his Demon form and attacked her while she thanked him for finally understanding. She left him in Siberia, to process what she had just told him. {{r|Uncanny X-Men Vol 2 18}} Some time thereafter, she returned to her brother. The sight of her immediately sent him into a demonic frenzy, and Illyana teleported him into Limbo, where her Soulsword was able to break Cyttorak's control over her brother, freeing him from the Juggernaut's powers. Colossus, realizing she could have done this at any time she wished, declared that if he saw her again, he would kill her. Finally feeling that he understood, she told him that regret was her final gift and left him. {{r|Uncanny X-Men Vol 2 20}}
+
+Joining up with Magneto and Danger, Magik helped break Cyclops out of jail. While Danger left the X-Men altogether, Magik, Magneto, and Cyclops started their own team to continue fighting for a better world.{{r|AvX: Consequences Vol 1 4|5}}{{r|All-New X-Men Vol 1 1}}
+
+===Mutant Rebellion===
+[[File:Illyana Rasputina (Earth-616) from Extraordinary X-Men Vol 1 19 cover 001.jpg|thumb|left]]
+In their quest to recruit new mutants to their cause, Magik continued to aid Magneto and Cyclops. As a result of the Phoenix Force being used in conjunction with the [[Wanda Maximoff (Earth-616)|Scarlet Witch]]'s powers to bring back the mutants, Magik began experiencing changes to her powers. Unlike the others, Magik gained more power than she had prior to the Phoenix Force, and she was now able to conjure energies directly from Limbo. Eventually, she came to realize that her power was broken as well, as she inadvertently brought Cyclops' X-Men to Limbo, where they were forced to fight the demon [[Dormammu (Earth-616)|Dormammu]]. Magik defeated him, but realized she needed help with her powers and teleported back in time to train with Stephen Strange in the past.{{r|Uncanny X-Men Vol 3 1|7}}
+
+She later helped Dr. Strange defeat the [[Empirikul (Earth-616)|Empirikul]], a science cult focused on destroying magic in every dimension.{{r|Doctor Strange: Last Days of Magic Vol 1 1}}
+
+With her powers back in check, she also convinced her brother to rejoin the X-Men, alongside her.{{r|Extraordinary X-Men Vol 1 1}}
+
+===House of X===
+After the sovereign mutant nation of [[Krakoa]] was established, Illyana was made one of its [[Great Captains of Krakoa (Earth-616)|Great Captains]].{{r|X-Men Vol 5 4}}
+
+Illyana was tasked with fighting in the Ten of Swords tournament after she was mentioned in [[Lorna Dane (Earth-616)|Polaris']] prophecy. Her first fight was with [[Pogg Ur-Pogg (Earth-616)|Pogg Ur-Pogg]] to whom she lost when [[Opal Luna Saturnyne (Earth-9)|Saturyne]] changed their sword fight into an arm wrestling match.{{r|Wolverine Vol 7 7}} Her second fight was with Pogg Ur-Pogg again, this time she outsmarted him when she realized that Pogg means sword in Arakkii, so she allowed herself to be eaten in order to fish out the guy inside of the sword and beat him.{{r|X-Force Vol 6 14}}
+
+Some time later, she became one of the trainers of young mutants within the Wild Hunt.{{r|New Mutants Vol 4 14}} After a group of teen mutants destroyed the space of Krakoa set aside for children, she threatened to send them to Limbo if they didn’t clean up what they’d destroyed.{{r|New Mutants Vol 4 15}}{{r|New Mutants Vol 4 16}}
+
+| Powers                  = 
+*'''Stepping Discs:''' She has the mutant ability to mentally control "stepping discs", which allowed herself and others to teleport across interstellar distances or through time. The discs are part of a dimension known as [[Limbo (Otherplace)|Limbo]]. This dimension is specifically known alternately as "Demonic Limbo", "Limbo-Belasco", or "Otherplace". However, when Illyana mentally calls for a Stepping Disc she must use Limbo as a midway point before she can teleport to an alternate location. It is not known if she was genetically predetermined to travel through Limbo, or if she did so because, having been spirited there as a child, it was the alternate dimension she was instinctively aware of. Magik has succeeded in teleporting herself across continents, from one continent to another, and even interplanetary and intergalactic distances on occasion. Apparently, she can mentally scan Limbo while on [[Earth]] in order to locate whoever she wishes to teleport from Limbo down to her, on Earth.
+** Unlike most other teleporters, Magik could teleport through time as well as space. She has teleported moments, days or centuries into the past or future. Especially, early on, she had difficulty modulating this ability and would often inadvertently travel through time and space when intending to teleport only through space.{{r|New Mutants Vol 1 17}} Magik was told by [[Stephen Strange (Earth-616)|Dr. Strange]] that she had the potential for great feats of manipulating time on a wider scale.{{r|Uncanny X-Men Vol 1 191}}
+
+[[File:X-Men Return of Magik Vol 1 1 Textless.jpg|thumb|right|Magik's powers]]
+*'''Sorcery:''' Magik is the Sorceress Supreme of her Limbo dimension.{{r|New Mutants #50}} The extent of her powers there are all-powerful and the demons of Limbo did not dare challenge her. Magik had access to [[Belasco (Earth-616)|Belasco]]'s store of mystical knowledge. Magik's sorcery was a unique mix of black magic, that she learned from Belasco, and white magic, taught by an [[Earth-8280|alternative-reality]] [[Ororo Munroe (Earth-8280)|Ororo Munroe]]. She was considered as a [[:Category:Sorcerer Supreme Candidates|possible Sorcerer Supreme of Earth]],{{r|New Avengers Vol 1 53}} and as an adult has trained with Doctor Strange.{{r|Uncanny X-Men Vol 1 600}}
+**'''[[Glossary:Energy Manipulation|Energy Manipulation]]:''' Illyana can project powerful energy blasts. She also used a energy manipulation spell to manipulate the energy the advanced [[Sentinels]] were wielding, causing them to destroy each other by redirecting the energy and exploding themselves. The spell was called, Julani's spell of energy manipulation, from the Scrolls of Agamotto{{r|New Mutants Vol 1 14}}{{r|New Mutants Vol 1 73}}{{r|Uncanny X-Men Vol 3 19.NOW}}
+**'''Summoning''': Magik can store her Soulsword in nothingness and summon it whenever she desires. She also summoning a giant, demonic Hydra to fight for her.{{r|New Mutants Vol 1 14}}{{r|Uncanny X-Men Vol 3 19.NOW}}Another impressive feat that Illyana displays is when she rescues [[Scott Summers (Earth-616)|Cyclops]] from his prison cell. To do this, she summons giant demon hands from the ground that rise up and destroy an entire reinforced prison bunker wall.{{r|AvX: Consequences Vol 1 5}}
+**'''[[Astral Projection]]:''' Illyana possess the ability to project her spirit or astral body out of her physical body in order to travel into the spirit world or the astral plane.{{r|New Mutants Vol 1 15}}
+**'''Protection Spell:''' Illyana was able to cast a protection spell around [[Danielle Moonstar (Earth-616)|Danielle Moonstar]] surgery room. The spell effect transformed Illyana into pure energy, allowing her to take a portion of her living self and form a protective wall around the surgery.{{r|New Mutants Vol 1 19}}
+**'''Binding:''' Illyana can bind and stop someone from moving with her magic.{{r|New Mutants Vol 1 20}}
+**'''Exorcism Spell:''' When [[Roberto Da Costa (Earth-616)|Roberto]] and [[Rahne Sinclair (Earth-616)|Rahne]] were possessed by [[Cloak]] and [[Dagger]]'s powers respectively, Illyana was able to use an exorcism spell to purifying Roberto and Rahne's soul, and restore the power to [[Tandy Bowen (Earth-616)|Tandy]] and [[Tyrone Johnson (Earth-616)|Tyrone]].{{r|New Mutants Vol 1 25}}
+**'''Scrying:''' While in [[Limbo (Otherplace)|Limbo]], Illyana used a scrying spell that manifested as three mirrors together to see what was happening on Earth.{{r|New Mutants Vol 1 73}}
+**'''Matter Manipulation:''' Illyana was also able to use a matter manipulation spell to change her clothes and that of the New Mutants to [[X-Uniforms]].{{r|New Mutants: War Children Vol 1 1}}
+**'''Shield Spell:''' Illyana used a defensive shield spell from the [[Book of the Vishanti]] that she'd memorized, called the Vishanti Personal Shield of Defense, from page 422. She also used a spell she'd memorized from the Scrolls of Agamotto to protect her and [[Max Eisenhardt (Earth-616)|Magneto]].{{r|Uncanny X-Men Vol 3 19.NOW}}{{r|AvX: Consequences Vol 1 5}}
+**'''Limbo Control:''' Magik’s Limbo, also known as Otherplace, was not a void as such, but rather a small pocket dimension that is tenuously connected to [[Limbo (Temporal)|True Limbo]], where time does not pass in a physical sense and as a result, no one can age or die. The matter within Magik’s Limbo could be shaped and transformed by the thoughts and emotions of the sorcerer who is its master.
+**'''Mystical Armor:''' The more that Magik uses her magical power on any occasion, the more mystical armor appears on her body.{{r|New Mutants Vol 1 21}}{{r|New Mutants Vol 1 24}} The nature and origin of this armor is as yet unknown. Along with the armor, Magik’s appearance would become more demonic including horns, hooves, or a tail. The mystical armor is a natural power of whoever rules in Limbo.
+*'''Psionic Shields:''' She has impenetrable psionic shields, most likely a result of the time she spent in Limbo and the effects of her partially demonic soul. As such even powerful telepaths such as [[Charles Xavier (Earth-616)|Charles Xavier]], [[David Haller (Earth-616)|David Haller]], [[Emma Frost (Earth-616)|Emma Frost]], and [[Rachel Summers (Earth-811)|Rachel Summers]] could not mentally read Illyana's thoughts or sense her psionically.{{r|New Mutants #14}}{{r|New Mutants #34}}{{r|X-Men Annual Vol 1 9}}
+{{Navigation
+| title = Former Powers
+| body = 
+[[File:Illyana Rasputina (Earth-616) Avengers vs. X-Men Vol 1 5.png|thumb|right]]
+*'''Phoenix Force:''' Magik was one of [[Phoenix Five (Earth-616)|five avatars]] of the [[Phoenix Force (Earth-616)|Phoenix Force]] which granted her the great powers of the Phoenix.
+* '''''Interstellar Travel:''''' A Phoenix Force avatar can fly unaided through the vacuum of space, and can travel interstellar distances faster than the speed of light.{{r|Avengers vs. X-Men #5}}
+* '''''Cosmic Pyrokinesis:''''' An Avatar of the Phoenix can create 'cosmic' flames under any conditions even the impossible ones such as vacuum space or underwater. These flames do not require oxygen to burn, and burn so intensely that matter is consumed without by-products such as ash. It has perfect control over these flames, and they only consume what it wills. Typically they manifest as a raptor or part of a raptor such as a claw or wings, in the case of an avatar.{{r|Avengers vs. X-Men #6}}
+* '''''Telepathy''''' A Phoenix Force Avatar can project their thoughts into the minds of others and read other peoples thoughts at a near boundless level.{{r|Avengers vs. X-Men #6}}
+* '''''Telekinesis''''' An Avatar of the Phoenix can control and manipulate matter at a molecular scale.{{r|Avengers vs. X-Men #6}}
+}}
+
+| Abilities               = *Magik is highly skilled in the black magic of Limbo granted by the patron of Belasco, [[Chthon (Earth-616)|Chthon]], as well as white magic of Earth granted by the patron of Storm's lineage [[Oshtur (Earth-616)|Oshtur]]. Illyana is also highly [[:Category:Fighting Ability - Experienced fighter|skilled in ancient weaponry]], typically axes and swords. Even without her Soul Sword, she led an attack on hordes of rebelling demons using only an axe without suffering any injuries and succeeding in quelling their rebellion.
+
+*'''[[Multilingual]]:''' Native Russian born Illyana was telepathically taught fluent English by [[Charles Xavier (Earth-616)|Professor X]] over the course of a single night by programming it into her brain while she slept.{{r|Uncanny X-Men #153}} She also speaks the demonic script.{{r|New Mutants Vol 3 17}}
+
+| Strength                = 
+*'''[[:Category:Normal Strength|Normal human female]]''' With moderate regular exercise.
+| Weaknesses              = 
+*'''Mystical Limitations:''' Magik's magical abilities are far more limited in Earth's dimension. She did not formally train as a sorcerer on Earth when younger,{{r|Uncanny X-Men Vol 1 600}} so does not fully understand her powers{{r|Uncanny X-Men Vol 3 7}} and is ignorant of even some basic concepts of Earth magic.{{r|Uncanny X-Men Vol 3 5}}
+*'''Dark Half:''' Use of dark magic{{r|X-Men Annual Vol 1 9}} or intense emotions can cause a demonic 'Darkchylde' form within her.
+*'''Stepping Disk Burden:''' The farther she travels the less control she has. If she doesn't concentrate while teleporting she can inadvertently teleport through time as well as space. Going through time is far worse than simply traversing space; after such jaunts she is psychically drained and must regain her strength before attempting another great teleport. Magik has since honed this ability and no longer has difficulty differentiating time and space with vast jumps.
+
+{{Navigation 
+| title = Former Weaknesses
+| body  = Illyana lost her control over her power after her exposure to the Phoenix Force. Her powers were stronger than ever, but she was losing coherence with her Limbo Dimension and magical power, involuntarily shifting between her human and demonic shapes.{{r|Uncanny X-Men Vol 3 22}}
+}}
+
+| Equipment               = 
+| Transportation          = *Stepping Discs, [[X-Men Blackbird]], formerly [[Warlock (Technarch) (Earth-616)|Warlock]]
+| Weapons                 = *The [[Soulsword]], a sword that could disrupt most spells or slay magical beings, but which passed through normal people without harming them. When using it, her body became covered in a mysterious mystic armor.
+
+| Notes                   = * The [[New Mutants (Earth-616)|New Mutants]]' encounter with [[Mikhail Rasputin (Earth-616)|Mikhail Rasputin]] was retroactively added in the miniseries {{cl|New Mutants: Truth or Death Vol 1 1|'Truth or Death'}}. It takes place between New Mutants #25 and #26. She first appeared as Magik in {{cl|New Mutants #14}}.
+
+| Trivia                  = * "Illyana" is actually the Bulgarian and Serb feminine of the masculine name "Ilya". English equivalents of the name "Ilya" are "Elijah", "Elias" and "Elliot". In Russian language, the name "Illyana" doesn't exist at all.
+* Illyana has a stuffed doll called "Bamfy" which looks similar to [[Bamf (Earth-5311)|Bamf]] and [[Kurt Wagner (Earth-616)|Nightcrawler]].{{r|Uncanny X-Men Vol 1 303}}
+* Illyana has a policy of "@#$& or fight."{{r|Empyre: X-Men Vol 1 2}}{{r|New Mutants Vol 4 5}} 
+
+| Links                   = 
+* [http://uncannyxmen.net/characters/magik-i uncannyxmen.net Spotlight On... Magik]
+*[http://www.marveldirectory.com/individuals/m/magiki.htm Marvel Directory entry on Illyana Nikolievna Rasputin]
+* [http://magik.strength-within.net/index.html Sorceress Supreme - an Illyana Rasputin fan site]
+| Wikipedia               = Magik (Illyana Rasputina)
+}}
+[[es:Illyana Rasputina (Tierra-616)]]
+[[Category:Formerly Deceased]]
+[[Category:Teleporters]]
+[[Category:Chronokinesis]]
+[[Category:Time Travelers]]
+[[Category:Astral Projection]]
+[[Category:Telepathic Immunity]]
+[[Category:Energy Senses]]
+[[Category:Hooves]]
+[[Category:Summoning]]
+[[Category:Rasputin Family]]
+[[Category:Legacy Virus Victims]]
+[[Category:Utopians]]
+[[Category:Dimensional Rulers]]
+[[Category:Prehensile Tail]]
+[[Category:Demonic Form]]
+[[Category:Fencing]]
+[[Category:Prehensile Tongue]]
+[[Category:Xavier Institute Student]]
+[[Category:Phoenix Force]]
+[[Category:Post-M-Day Mutants (Pre-M-Day Deaths)]]
+[[Category:Soulless Characters]]
+[[Category:Post-Secret Wars Mutants]]

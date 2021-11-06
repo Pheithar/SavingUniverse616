@@ -1,0 +1,38 @@
+{{Marvel Database:Team Template
+| Image                   = Wakers (Earth-616) from Amazing Fantasy Vol 2 11 001.jpg
+| Name                    = Wakers
+| Aliases                 = 
+
+| Status                  = 
+
+| Identity                = Secret
+| Reality                 = Earth-616
+| BaseOfOperations        = 
+
+| Leaders                 = Formerly [[Lars Branco (Earth-616)|Lars Branco]]
+| CurrentMembers          = [[Abu-Jamal Rodriguez (Earth-616)|Abu-Jamal Rodriguez]], [[Njeri Damphousse (Earth-616)|Njeri Damphousse]], [[Betty Sumitro (Earth-616)|Betty Sumitro]], [[Hyun Rahman (Earth-616)|Hyun Rahman]]
+| FormerMembers           = [[Lars Branco (Earth-616)|Lars Branco]], [[Carmilla Black (Earth-616)|Carmilla Black]]
+| Allies                  = [[Advanced Idea Mechanics (Earth-616)|A.I.M.]], [[Monica Rappaccini (Earth-616)|Monica Rappaccini]]
+| Enemies                 = [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]]
+
+| Origin                  = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Fred Van Lente; Leonard Kirk
+| First                   = Amazing Fantasy Vol 2 11
+| Last                    = 
+
+| HistoryText             = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Terrorists]]
+[[Category:Mutates]]
+[[Category:Terrorist Organizations]]
+[[Category:A.I.M. Projects]]

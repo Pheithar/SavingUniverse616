@@ -1,0 +1,122 @@
+{{Marvel Database:Character Template
+| Image                   = Nimrod (Earth-811) from New X-Men Vol 2 30 0001.jpg
+| Name                    = Nimrod
+| CurrentAlias            = 
+| Aliases                 = Nicholas Hunter, [[Bastion (Earth-616)|Bastion]], Oracle
+
+| Affiliation             = [[William Stryker (Earth-616)|William Stryker]], {{m|Purifiers (Earth-616)}}, [[Sentinels]], Project: Nimrod
+| Relatives               = [[Sentinels Mk I (Earth-616)|Sentinels Mk I]] (previous model, defunct);<br>
+[[Sentinel Number 2 (Earth-616)|Number Two]] (defunct);<br>
+[[Sentinels Mk II (Earth-616)|Sentinels Mk II]] (defunct);<br>
+[[Sentinels Mk III (Earth-616)|Sentinels Mk III]] (previous model, defunct);<br>
+[[Sentinels Mk IV (Earth-616)|Sentinels Mk IV]] (previous model, defunct);<br>
+[[Sentinels Mk V (Earth-616)|Sentinels Mk V]] (previous model, defunct);<br>
+[[Sentinels Mk VI (Earth-616)|Sentinels Mk VI]] (previous model, defunct);<br>
+[[Tri-Sentinel (Earth-616)|Tri-Sentinel]] (defunct);<br>
+[[Sentinel Omega Class (Earth-811)|Sentinels Omega Class]] (previous model);<br>
+[[Bastion (Earth-616)|Bastion]] (reincarnation, deceased)
+| MaritalStatus           = Single 
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z Update #1}}
+| Gender                  = Male
+| Height                  = 9'10"
+| Height2                 = (Variable)
+| Weight                  = 550 lbs (250 kg)
+| Eyes                    = Pink
+| Eyes2                   = ; [[:Category:Brown Eyes|Brown]][[Category:Brown Eyes]][[Category:Infobox Eyes Update Needed]] in human form
+| Hair                    = None
+| Hair2                   = ; [[:Category:Black Hair|Black]][[Category:Black Hair]][[Category:Infobox Eyes Update Needed]] in human form
+| UnusualSkinColor        = White
+| UnusualSkinColor 2      = ; and [[:Category:Purple Skin|Purple]][[Category:Purple Skin]][[Category:Infobox Skin Color Update Needed]] 
+| UnusualFeatures         = Angular, white-and-purple metallic armor.
+
+| Origin                  = Nimrod is the most advanced [[Sentinels|Sentinel]] of his era, in the [[Earth-811|Days of Future Past reality]].
+| Reality                 = Earth-811
+| PlaceOfBirth            = Project Nimrod, at an undisclosed location in the continental United States of the Twenty-First Century in reality [[Earth-811]].
+
+| Identity                = No Dual
+| Citizenship             = American 
+| Occupation              = Mutant Hunting Robot
+| Education               = 
+| BaseOfOperations        = [[New York City]], [[New York (State)|New York]] 
+
+| Creators                = Chris Claremont; John Romita, Jr.
+| First                   = Uncanny X-Men #191
+
+| Quotation           = I am Nimrod! Your physical nature automatically brands you as felons. The unsanctioned use of those mutant abilities is a capital crime... punishable by death!
+| Speaker                 = [[Nimrod (Earth-811)|Nimrod]]
+| QuoteSource             = Uncanny X-Men Vol 1 208
+
+| History                 = 
+===Origin===
+In the alternate future, [[Earth-811|Days of Future Past]], [[Sentinels]] controlled [[North America]] and the original Nimrod was built as an extremely advanced prototype. During a mission to sabotage Project Nimrod, [[Rachel Summers (Earth-811)|Rachel Summers]] and [[Katherine Pryde (Earth-811)|Kate Pryde]] were discovered by the newly activated Nimrod Sentinel. Rachel Summers was transported to [[Earth-616|the past]], but the activated Nimrod killed Kate Pryde.{{r|Excalibur #66}}
+
+===[[Earth-61029|Munroe Family]]===
+Nimrod attempted to follow Rachel into the past, but undershot his destination by about twenty years. Realizing his mistake
+Nimrod searched for the [[Forge (Earth-61029)|Maker]], an alternate version of Forge. Nimrod found him in [[Eagle Plaza]] with his wife [[Ororo Munroe (Earth-61029)|Storm]] their daughter [[Orora Munroe (Earth-61029)|Orora]] and son [[Naze Munroe (Earth-61029)|Naze]]. Nimrod quickly killed Storm then held Orora hostage and forced this alternate Forge to create a time machine. However, the time machine Forge created damaged Nimrod so that he arrived at his destination offline.{{r|New X-Men Vol 2 #29}}
+
+===[[New York City]]===
+Nimrod arrived in [[New York City]] and saved and befriended [[Jaime Rodriguez (Earth-616)|Jaime Rodriguez]].{{r|Uncanny X-Men #191}} He assumed the identity of Nicholas Hunter, whom the public perceived was an armored vigilante hero.{{r|Uncanny X-Men #193}} Nimrod fought against [[Cain Marko (Earth-616)|Juggernaut]].{{r|Uncanny X-Men #194}} On an outing to a diner, some thugs who attempt to rob the place. Nimrod simply changed into his true form and incinerated the two crooks on the spot. As the two left the diner, Nimrod was hailed as a hero.{{r|Uncanny X-Men #197}} He battled the [[X-Men (Earth-616)|X-Men]] and the [[Hellfire Club (Earth-616)|Inner Circle of the Hellfire Club]]{{r|Uncanny X-Men #202}}{{r|Uncanny X-Men #208}}. On both occasions he was forced to withdraw, although he killed and incapacitated several of his opponents in his second battle.{{r|Uncanny X-Men #209}}
+
+===Becoming [[Bastion (Earth-616)|Bastion]]===
+Eventually Nimrod came in contact with the remains of [[Master Mold (Earth-616)|Master Mold]] which forced the two entities to merge.{{r|Uncanny X-Men #246}} The entity battled the [[X-Men (Earth-616)|X-Men]], who were initially hard pressed to defeat the reborn Master Mold, but Nimrod came to their aid, claiming he had evolved as well over the course of his time as Nicholas Hunter, and no longer viewed them or mutants as a threat. Nimrod asserted enough control over Master Mold to render it immobile, and even convinced it that it had become a mutant as well. Thus, to fulfill its prime directive to exterminate mutants, it had to self-destruct. The remains of both robots were pushed through the [[Siege Perilous]], a mystical gateway that caused them both to be reborn in a new, single body as [[Bastion (Earth-616)|Bastion]].{{r|Uncanny X-Men #247}}
+
+===Ghost in the Machine===
+Before turning into Bastion, Nimrod created and downloaded a self-aware program copy of himself to a military base that acted as a sleeper virus. It awaited the opportunity to access a Sentinel development program it could use to recreate itself and insure his survival and ability to fulfill its imperative: to save humans by exterminating mutants. When [[Nathaniel Summers (Earth-616)|Cable]] and his [[X-Force (Earth-616)|X-Force]] entered the base, Nimrod activated himself then spontaneously created a body, replete with advanced weaponry and defenses to destroy the mutant intruders. Nimrod, despite not being as advanced as before, proved to be strong enough to hold his ground against X-Force and Cable.{{r|X-Force #35}} 
+
+However, the sonic scream of [[Theresa Cassidy (Earth-616)|Siryn]] temporarily disabled him. While the robot worked to compensate and adapt itself to the attack, Cable linked himself into Nimrod using his techno-organics and the mind of two doctors using telepathy. Inside Nimrod's mind the trio learned the truth of Nimrod's presence. They also learned that Nimrod initially believed that if he was created before his time, he could save the millions that would die in the 25 years of war in its records Earth-811's history. However, after being asked to determine how many humans would die as a result of it being created before its time, the result was incalculable, and so Nimrod deactivated itself. The robot’s central neural net was removed and given to X-Force while the scientists kept the body to study its defensive systems and alloys.{{r|X-Force #36}}
+
+===[[Purifiers (Earth-616)|Purifiers]] and the [[New X-Men (Earth-616)|New X-Men]]===
+Nimrod was damaged during the transport, and he appeared inactive to [[William Stryker (Earth-616)|William Stryker]] in an abandoned church two years before [[Decimation|M-Day]].{{r|New X-Men Vol 2 #20}} Stryker then reformed his [[Purifiers (Earth-616)|Purifiers]] and used Nimrod's knowledge and weaponry.{{r|New X-Men Vol 2 #25|27}} Eventually Nimrod activated, and again searched for [[Forge (Earth-616)|Forge]] in Texas in order to repair its time machine, this time threatening to kill [[Ororo Munroe (Earth-616)|Storm]]. Forge tricked Nimrod by building it [[Sentinel X (Earth-616)|another body]], which trapped Nimrod's programming under another program. However, due to injuries sustained in an accidental battle against the [[New X-Men (Earth-616)|New X-Men]], Nimrod reclaimed control. It then continued to battle the New X-Men until Nimrod's time machine was activated and it disappeared into the past.{{r|New X-Men Vol 2 28|31}}{{r|New X-Men Vol 2 #36}}
+
+[[Matthew Risman (Earth-616)|Matthew Risman]] became the new leader of the Purifiers and reclaimed Nimrod's original robotic shell from the wreckage of Forge's stronghold. They were unable to restore his power until new member, [[Eliphas (Earth-616)|Eli Bard]], told them that Nimrod had been to their timeline prior to his most recent appearance to William Stryker. They learned about how Nimrod had become Bastion and then stole the head of Bastion, which was being kept in a [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] facility. The Purifiers reattached the head of Bastion to the body of Nimrod, giving new life to Bastion.{{r|X-Force Vol 3 #1}}
+
+===Second Coming===
+Bastion personally confronted [[Hope Summers (Earth-616)|Hope Summers]], [[Rogue (Anna Marie) (Earth-616)|Rogue]], and [[Kurt Wagner (Earth-616)|Nightcrawler]], leading to the death of the latter. Bastion appeared to be reverting more and more to fully being Nimrod. Some time later, Bastion unleashed an endless horde of [[Nimrod (Earth-10076)|Nimrods]] from another future to destroy the X-Men. However X-Force, [[Douglas Ramsey (Earth-616)|Cypher]], and [[Nathaniel Summers (Earth-616)|Cable]] went to that future and destroyed the Master Mold controlling them. Bastion became Nimrod again but was destroyed by Hope.{{r|X-Force Vol 3 28}}{{r|Origins of Marvel Comics: X-Men #1}}
+
+The chest and head of Nimrod were exhibited in the [[Cavern-X]] facility. [[Deathlok Prime (Earth-10511)|Deathlok]] identified it as version 32.1 and the possibility for its future to come to be is 1.34%.{{r|Uncanny X-Force #8}}
+
+...{{r|New Mutants Vol 3 #25}}{{r|Generation Hope #10}}{{r|Uncanny X-Men #544}}{{r|Secret Avengers #23}}
+
+During a brief glimpse [[Earth-13044|three months into their future]], [[Wanda Maximoff (Earth-616)|Scarlet Witch]], [[Alexander Summers (Earth-616)|Havok]], and [[Shiro Yoshida (Earth-616)|Sunfire]] were seen fleeing from a new model of Sentinel. Havok referred to the machines as Nimrod units, and mentioned that they were built by [[Anthony Stark (Earth-616)|Tony Stark]].{{r|Uncanny Avengers #4}}
+
+| Powers                  = 
+* Nimrod is a highly advanced robot, and as such all his powers are functions of his inbuilt systems. The full range of his powers are unknown, as he is able to reconfigure systems to defeat known opponents. The materials Nimrod is constructed of are highly resistant to damage even by superhuman beings. He can alter his size and appearance to that of a human, which is used as a cover identity.{{r|Official Handbook of the Marvel Universe A-Z Update #1}}{{r|Official Handbook of the Marvel Universe Vol 2 #9}}
+** Damage to Nimrod's armor and systems can be automatically repaired to an unknown extent. He has direct control over all parts of his structure, perhaps to the molecular level. An extension of this power is the rearrangement of internal parts to better use his functions and weapons.{{r|Official Handbook of the Marvel Universe A-Z Update #1}}{{r|Official Handbook of the Marvel Universe Vol 2 #9}}
+** Mutant and superhuman sensors and detectors contained within Nimrod's arms and head allow him to locate and analyze beings' extraordinary powers, and determine modifications that need to be made to his own abilities. He is capable of countering most powers that are used against him on separate occasions, continually learning how to defeat opponents that escape him.{{r|Official Handbook of the Marvel Universe A-Z Update #1}}{{r|Official Handbook of the Marvel Universe Vol 2 #9}}
+** The weapons and defenses Nimrod contains have a wide range of applications. He can project concussive, plasma and disintegrating blasts, manipulate magnetic energy to levitate iron and steel, and generate force-fields about himself.{{r|Official Handbook of the Marvel Universe A-Z Update #1}}{{r|Official Handbook of the Marvel Universe Vol 2 #9}}
+** He can teleport, which can be used even when he has suffered severe damage.{{r|Official Handbook of the Marvel Universe A-Z Update #1}}{{r|Official Handbook of the Marvel Universe Vol 2 #9}}
+
+Nimrod was classified as a ''"'''Class Omega''' (intruder)"'' by [[Forge (Earth-61029)|Forge]]'s [[Eagle Plaza|defense systems]].{{r|New X-Men Vol 2 29}}
+
+| Abilities               = 
+| Strength                = Unknown, possibly Class 100.
+| Weaknesses              = 
+
+| Equipment               = Able to replicate the function of numerous modern appliances.
+| Transportation          = Teleportation and flight under his own power.
+| Weapons                 = Able to copy various firearms and energy weapons.
+
+| Notes                   =
+* Nimrod merged with [[Master Mold (Earth-616)|Master Mold]] when inside the [[Siege Perilous]] to become [[Bastion (Earth-616)|Bastion]]. 
+* Nimrod-Series Sentinels exist in [[Lucas Bishop (Earth-1191)|Bishop]]'s [[Earth-1191|reality]].
+* The possibility exists that the Nimrod that became [[Bastion (Earth-616)|Bastion]] and the Nimrod that battled the [[New X-Men (Earth-616)|New X-Men]] were two different Nimrods. However, the similarities between the two are uncanny, leading most to believe that they are the same entity. Whether or not this is true, remains to be confirmed.
+* As a prominent villain of the X-Men, Nimrod has appeared in various flashbacks.{{r|Uncanny X-Men Annual Vol 1 17}}{{r|X-Factor Vol 3 #23}}{{r|New Warriors Vol 4 #10}}{{r|Wolverine: Killing Made Simple #1}}{{r|X-Men: Legacy #221}}	
+
+| Trivia                  = 
+* Nimrod is named after the Biblical figure Nimrod, great-grandson of Noah, defined by the King James Version Bible in Genesis 10:8-9 as as a "a man of power in the earth and mighty '''hunter''' before the Lord."
+| Links                   = * [http://uncannyxmen.net/characters/nimrod-sentinel-of-future-past uncannyxmen.net Bring on the Bad Guys: Nimrod - Sentinel of Future Past]
+* {{cl|Official Handbook of the Marvel Universe Vol 2 9}} (August 1986)
+|Citizenship2 = (At least he was actually made to be American, presumably)
+| Wikipedia                = Nimrod (comics)
+}}
+[[Category:Americans]]
+[[Category:Time Travelers]]
+[[Category:Teleporters]]
+[[Category:Adaptation]]
+[[Category:Siege Perilous users]]
+[[Category:Nimrods]]
+[[Category:Artificial Intelligences]]
+[[Category:Regeneration]]
+[[Category:Leaders]]
+[[Category:Class Omega Characters]]

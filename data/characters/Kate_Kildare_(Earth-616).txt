@@ -1,0 +1,52 @@
+{{Marvel Database:Character Template
+| Image                   =Uncanny X-Men Vol 1 534.1 page -- Kate Kildare (Earth-616).png
+| Name                    = Kate Kildare
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{m|Hestia Public Relations}}, public relations for the [[X-Men (Earth-616)|X-Men]]; former public relations for the [[Order (Initiative) (Earth-616)|Order]]
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Grey
+| Hair                    = Blonde 
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Public relations; President of {{m|Hestia Public Relations}}
+| Education               = 
+| BaseOfOperations        = [[Los Angeles]], [[California (State)|California]]
+
+| Creators                = Matt Fraction; Barry Kitson
+| First                   = The Order Vol 2 2
+| Death                   = Uncanny X-Men Vol 2 20
+
+| History                 = Kate Kildare was the president of [[Hestia Public Relations (Earth-616)|Hestia Public Relations]].{{r|Uncanny X-Men #528}} She handled public relations for the [[Order (Initiative) (Earth-616)|Order]], and dealt with issues like [[Rebecca Ryan (Earth-616)|Rebecca Ryan]]'s leaked sex tape.{{r|The Order Vol 2 5}}
+
+Kate was subsequently hired by [[Robert Drake (Earth-616)|Iceman]] to manage public relations for the [[X-Men (Earth-616)|X-Men]].{{r|Uncanny X-Men #528}} At some point during the [[Avengers vs. X-Men (Event)|Avengers/X-Men conflict]], [[Nathaniel Essex (Earth-616)|Mister Sinister]] created a para-personality in Kate's appearance in order to survive the [[Phoenix Five (Earth-616)|Phoenix Five]]. Using this new body, Sinister killed Kate.{{r|Uncanny X-Men Vol 2 20}}
+
+| Powers                  = 
+| Abilities               = Kate Kildare is a skilled in public relations. 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

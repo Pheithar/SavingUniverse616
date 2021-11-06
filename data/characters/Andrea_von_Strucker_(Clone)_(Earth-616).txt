@@ -1,0 +1,68 @@
+{{Marvel Database:Character Template
+| Image                   = Andrea von Strucker (Clone) (Earth-616) from Thunderbolts Vol 1 124 0001.jpg
+| Name                    = Andrea von Strucker
+| CurrentAlias            =  
+| CurrentAliesRef         = 
+| Aliases                 = 
+
+| Affiliation              = {{m|Fenris}}, formerly {{m|Thunderbolts}}
+| Relatives               = [[Andrea von Strucker (Earth-616)|Andrea von Strucker]] (clonal source), [[Andreas von Strucker (Earth-616)|Andreas von Strucker]] (brother of clonal source)
+| MaritalStatus           = Single
+
+| CharRef                 = [[X-Men: Phoenix Force Handbook Vol 1 1|X-Men: Phoenix Force Handbook #1]]
+| Gender                  = Female
+| Height                  = 5'9"
+| Weight                  = 110 lbs
+| Eyes                    = Blue
+| Hair                    = Blonde
+| UnusualFeatures         = 
+
+| Origin                  = Clone of [[Homo superior|mutant]] [[Andrea von Strucker (Earth-616)|Andrea von Strucker]] created by the Nazi scientist Arnim Zola
+| Reality                 = Earth-616
+| PlaceOfBirth            = Arnim Zola's lab
+| PlaceOfDeath            = 
+| KilledBy                = Bullseye (Lester) (Earth-616)
+
+| Identity                = No Dual
+| Citizenship             = German
+| Occupation              = Adventurer; former terrorist
+| Education               = 
+| BaseOfOperations        = Formerly [[Thunderbolts Mountain]]
+
+| Creators                = Christos N. Gage; Fernando Blanco
+| First                   = Thunderbolts #122
+| Death                   = Thunderbolts #124 
+
+| History                 = 
+===Origin===
+A clone of [[Andrea von Strucker (Earth-616)|Andrea von Strucker]] created by [[Arnim Zola (Earth-616)|Arnim Zola]] and commissioned by [[Andreas von Strucker (Earth-616)|Andreas von Strucker]].{{r|Thunderbolts #122}}
+
+===Thunderbolts===
+[[File:Andreas and Andrea von Strucker (Earth-616) from Thunderbolts Vol 1 122 0001.jpg|left|thumb]]
+Andreas took her along when the [[Thunderbolts (Earth-616)|Thunderbolts]] went to [[Washington, D.C.]] to deal with the [[Skrull Invasion]].{{r|Thunderbolts #122}}
+
+===Skrull Infiltrator===
+She was initially feared to be a Skrull, but when [[Karla Sofen (Earth-616)|Moonstone]] attempted to cut a deal with her for part of the conquered planet, she attacked Moonstone.{{r|Thunderbolts #123}} Preparing to finish off Moonstone, she was stabbed from behind by [[Bullseye (Lester) (Earth-616)|Bullseye]], which proved fatal. It was confirmed that she was not a Skrull.{{r|Thunderbolts #124}}
+
+| Powers                  = * '''[[Energy Blasts|Sympathetic Bio-Blasting]]''': As a [[clone]] of [[Andrea von Strucker (Earth-616)|Andrea von Strucker]] she shares her powers. When her clonal sources twin brother Andreas are able to produce bio-energy discharges, but only when they had physical contact with each other, Andrea generates blasts of destructive energy that can disintegrate matter, while Andreas could generate concussive force blasts. Her beams can atomize a human.{{r|Thunderbolts #122}}
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = * '''Contact with her Sibling:''' Her powers only worked when she was in contact with her brother's skin.{{r|Thunderbolts #122}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Strucker Family]]
+[[Category:Arnim Zola Experiment]]
+[[Category:Clones of Andrea von Strucker]]
+[[Category:Clones created by Arnim Zola]]
+[[Category:Artificial Mutants]]
+[[Category:Formerly Deceased]]

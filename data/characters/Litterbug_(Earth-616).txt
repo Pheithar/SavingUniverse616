@@ -1,0 +1,75 @@
+{{Marvel Database:Character Template
+| Image                   = Litterbug (Earth-616) from Generation Hope Vol 1 15 001.jpg 
+| Name                    = 
+| CurrentAlias            = Litterbug
+| Aliases                 = 
+
+| Affiliation             = Formerly [[New York City|New York]] [[Masque (Earth-616)|Masque]]'s {{m|Morlocks}}, [[Chicago (Illinois)|Chicago]]'s {{m|Morlocks (Chicago) (Earth-616)|Morlocks}}, {{m|United States Army (Earth-616)|US Army}}
+| Relatives               = Unidentified father, unidentified grandfather
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|X-Men: Earth's Mutant Heroes #1}}
+| Gender                  = Male
+| Height                  = 6'5"
+| Weight                  = 326 lbs
+| Eyes                    = Red
+| Hair                    = None
+| UnusualFeatures         = Chitinous exoskeleton, claws, U.S. Army tattoo on right shoulder
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Former terrorist and soldier
+| Education               = US military training
+| BaseOfOperations        = Formerly [[Utopia]]; [[San Francisco]], [[California (State)|California]]; formerly [[Chicago (Illinois)|Chicago]], [[Illinois (State)|Illinois]]; [[New York City]]
+
+| Creators                = Geoff Johns; Shawn Martinbrough
+| First                   = Morlocks #1
+
+| History                 = 
+===Origin and Morlocks===
+Litterbug comes from a military family where several generations had served in the armed forces.{{r|X-Men: Earth's Mutant Heroes Vol 1 1}}
+
+'''Litterbug''', a mechanic in the [[United States Army (Earth-616)|US Army]],{{r|X-Men: The 198 Files #1}} was employed in the construction of the giant mutant-hunting robot [[Sentinels]]. When his mutant powers manifested, he went AWOL.{{r|Morlocks #3}}
+
+Eventually, he found his way into a small group of [[Morlocks (Chicago) (Earth-616)|Morlocks]] living under the streets of [[Chicago (Illinois)|Chicago]]. Using his knowledge of [[Sentinels|Sentinel]] construction, Litterbug helped the Morlocks rig a Sentinel unit. They used it to infiltrate and destroy a local base. Subsequently, the group fled Chicago for parts unknown.{{r|Morlocks #1|4}}
+
+===Post M-Day:Radicalized===
+He later joined another group of Morlocks under the leadership of [[Masque (Earth-616)|Masque]].{{r|Uncanny X-Men #487|491}}{{r|X-Men: Worlds Apart #2}}
+
+===Utopia: Troublemaker===
+Lead by [[Mortimer Toynbee (Earth-616)|Toad]], Litterbug, [[Tamara Kurtz (Earth-616)|Dragoness]], and [[Bliss (Morlock) (Earth-616)|Bliss]] tried to seize some of the [[Utopia (X-Men Base)|Utopian]] water supply under the mistaken assumption that they were hoarding due to a shortage. They were all stopped by [[Robert Drake (Earth-616)|Iceman]].{{r|Nation X #1}}
+
+He was later seen on Utopia during the [[Second Coming]], alongside [[John Greycrow (Earth-616)|Greycrow]], [[Marshall Stone III (Earth-616)|Random]], [[Mortimer Toynbee (Earth-616)|Toad]], and [[Sack (Earth-616)|Sack]] just as a [[Nimrod]] landed, ready to exterminate them.{{r|New Mutants Vol 3 #14}} He survived and was an onlooker during the [[Evolutionaries]]' return.{{r|X-Men Vol 3 #12}}
+
+A few months later he clashed with the members of [[Generation Hope]] after a [[Schism (Event)|major sentinel attack]]. He and others had been stirred up by [[Parul Kurinji (Earth-616)|Zero]].{{r|Generation Hope Vol 1 15|17}}
+
+| Powers                  = Litterbug has a very tough chitinous exoskeleton; he also possesses superhuman strength and razor-sharp claws.{{r|X-Men: The 198 Files #1}}
+
+| Abilities               = He is a competent engineer rated to work on government Sentinels as a mechanic{{r|Morlocks #1|4}} and able to construct various types of bombs such as one with a time delay digital fuse.{{r|Uncanny X-Men #487|488}}
+
+While he does have army training he does not have any notable fighting skills.
+| Strength                = Can lift 8 tons.
+| Weaknesses              =
+* '''Intelligibility:''' While inconsistently portrayed,{{r|Generation Hope Vol 1 15|17}} Litterbug has constant trouble communicating due to his mutant form's physiology.{{r|Morlocks #1}}{{r|Uncanny X-Men #487|#488}}
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+*Given his experience with Sentinel construction and his knowledge of their design, Litterbug was considered a significant threat by [[Office of National Emergency (Earth-616)|O*N*E]], after he kept his powers after [[M-Day]].{{r|X-Men: The 198 Files #1}}
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Utopians]]
+[[Category:Post-M-Day Mutants (The 198)]]
+[[Category:Significant Threats]]
+[[Category:Superhuman Strength]]
+[[Category:Superhuman Durability]]
+[[Category:Mechanics]]
+[[Category:Terrorists]]

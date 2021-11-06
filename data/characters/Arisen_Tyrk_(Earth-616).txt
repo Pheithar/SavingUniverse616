@@ -1,0 +1,50 @@
+{{Marvel Database:Character Template
+| Image                   = Lunatik (Tyrk Fragment) (Earth-616) from Marvel Legacy The 1980s Handbook Vol 1 1 0001.jpg
+| Name                    = Arisen Tyrk
+| CurrentAlias            = Lunatik
+| Aliases                 = Arizen Turk,{{r|Incredible Hulk Vol 1 243}} [[Harrison Turk]], Lunatic, Professor Turk{{r|Defenders Vol 1 61}}
+
+| Affiliation             = [[Empire State University]]; (possibly formerly) leader of {{m|Nilffrim Riders}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 6'4"
+| Weight                  = 200 lbs
+| Eyes                    = White
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Alien]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Otherdimensional monarch; drama teacher; university professor
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = David Kraft; George Perez
+| First                   = Creatures on the Loose Vol 1 35
+
+| History                 = Arisen Tyrk was the ruler of the [[Other Realm]], a sword-and-sorcery styled world. After being deposed and exiled from his world, Arisen ended up on [[Earth]]. Using the identity of "Harrison Turk" and posing as a human, he became a drama teacher. He gained a position in the faculty of the [[Empire State University]], as the Dean of the theater department.{{r|Defenders Vol 1 61}}
+
+| Powers                  = Arisen Tyrk possessed immense superhuman strength, the ability to wield magic, and the power to project blasts of energy.
+
+| Abilities               = 
+| Strength                = Arisen Tyrk possessed superhuman strength. 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+*As Harrison Turk, Tyrk appeared human and was employed as a teacher in the [[Empire State University]].{{r|Defenders Vol 1 64}}
+*As Harrison Turk, Tyrk had a peculiar speech pattern. When speaking, he often stopped in mid-sentence. Then he added a vocal "eh", and continued from there. For example, the simple phrase "Hello, Dollar Bill", became "Hello... eh... Dollar Bill".{{r|Defenders Vol 1 64}}
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Empire State University Faculty]]

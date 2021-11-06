@@ -1,0 +1,264 @@
+{{Marvel Database:Character Template
+| Image                   = X-Men Vol 6 1 Stormbreakers Connecting Variant D Textless.jpg
+| Name                    = [[Lorna Dane|Lorna Sally Dane]]
+| NameRef                 = {{r|All-New X-Factor Vol 1 15}}
+| CurrentAlias            = [[Polaris]]
+| Aliases                 = M-2,{{Citation}} [[Alice MacAllister (Earth-616)|Malice]],{{r|Uncanny X-Men Vol 1 219}} "[[Magneta]]",{{r|All-New X-Factor Vol 1 16}} Magnetrix,{{r|X-Men Vol 1 66}} "[[Magneto]]" (impersonating),{{r|Uncanny X-Men Vol 1 380}} Mistress of Magnetism,{{r|Marvel Team-Up Vol 1 69}} [[Pestilence]],{{r|X-Men Vol 2 182}} Weapon M-II{{Citation}}
+
+| Affiliation             = {{m|X-Men}}; formerly {{m|X-Factor Investigations}}, {{m|X-Men (Time-Displaced) (Earth-616)|X-Men (Blue Team)}} (leader), {{m|X-Factor (Serval Industries) (Earth-616)|X-Factor}} ({{m|Serval Industries}}), {{m|Starjammers}}, {{m|Horsemen of Apocalypse}}, {{m|Genoshan Cabinet}}, {{m|X-Factor (Government)}}, {{m|Twelve (Mutants) (Earth-616)|The Twelve}}, {{m|Acolytes}}, {{m|Muir Island X-Men}}, {{m|Defenders for a Day}}, {{m|Marauders}} (possessed by [[Alice MacAllister (Earth-616)|Malice]])
+| Relatives               = 
+[[Jakob Eisenhardt (Earth-616)|Jakob Eisenhardt]] (paternal grandfather, deceased);<br> 
+[[Edie Eisenhardt (Earth-616)|Edie Eisenhardt]] (paternal grandmother, deceased);<br>
+[[Erich Eisenhardt (Earth-616)|Erich Eisenhardt]] (paternal great-uncle, deceased);<br>
+[[Ruth Eisenhardt (Earth-616)|Ruth Eisenhardt]] (paternal aunt, deceased);<br>
+[[Max Eisenhardt (Earth-616)|Max Eisenhardt]] (father);<br>
+[[Suzanna (Earth-616)|Suzanna]] (mother, deceased);<br>
+[[Arnold (Earth-616)|Arnold]] (step-father, deceased);<br>
+[[Mrs. Dane (Earth-616)|Mrs. Dane]] (foster mother / step-father's sister);<br>
+[[Mr. Dane (Earth-616)|Mr. Dane]] (foster father);<br>
+[[Anya Eisenhardt (Earth-616)|Anya Lehnsherr]] (paternal half-sister, deceased);<br>
+[[Zala Dane (Earth-616)|Zala Dane]] (alleged sister, presumably deceased);<br>
+[[Max Eisenhardt (Joseph) (Earth-616)|Joseph]] (father's clone, deceased)
+| MaritalStatus           = Single
+
+| CharRef                 = <!--Citation-->
+| Gender                  = Female
+| Height                  = 5'7"
+| Weight                  = 115 lbs
+| Eyes                    = Green
+| Hair                    = Green (currently); Dyed Brown(formerly)
+| UnusualFeatures         = Natural green hair
+
+| Origin                  = [[Homo superior|Mutant]]; later depowered by [[M-Day]] and repowered by [[En Sabah Nur (Earth-616)|Apocalypse]] ([[X-Gene]] confirmed restored){{r|X-Men: Legacy #259}}
+| Reality                 = Earth-616
+| PlaceOfBirth            = Presumably northern California - not confirmed
+
+| Identity                = Secret
+| Citizenship             = American, Krakoan
+| Occupation              = Adventurer; formerly U.S. government operative, private investigator, Terrorist, geophysics graduate student 
+| Education               = Master's Degree in Geophysics
+| BaseOfOperations        = [[Treehouse]], Seneca Gardens, [[Central Park]] and [[86th Street]]; formerly [[Boneyard (Krakoa)|The Boneyard]], [[Krakoa (Earth-616)|Krakoa]], [[Pacific Ocean]]: [[X-Mansion (Madripoor)|X-Mansion]], [[Hightown (Madripoor)|Hightown]], [[Madripoor]]; [[Serval Industries (Earth-616)|Serval Industries]], [[Virginia (State)|Virginia]]; [[X-Factor Investigations Headquarters (Funeral Home)|X-Factor Investigations Headquarters]], [[Starjammer]]; [[Xavier's School for Gifted Youngsters|Xavier Institute for Higher Learning]], [[Salem Center]], [[North Salem]], [[Westchester County]], [[New York (State)|New York]]; [[Genosha]]; [[X-Factor (Government) (Earth-616)|X-Factor HQ]], [[Washington, D.C.]], [[Maryland (State)|Maryland]]; [[Mutant Research Center]], [[Muir Island]]; [[Rio Diablo]], [[New Mexico (State)|New Mexico]]
+
+| Creators                = Arnold Drake; Don Heck
+| First                   = X-Men Vol 1 49
+| First2                  = (as Lorna Dane)<br>{{sld|X-Men Vol 1 97}}(as Polaris)
+
+| Quotation               = There are days I forget Lorna Dane is the daughter of [[Max Eisenhardt (Earth-616)|Magneto]], former Top Villain. And then, every so often, something happens to '''remind''' me.
+| Speaker                 = [[James Madrox (Earth-616)|Multiple Man]]
+| QuoteSource             = X-Factor Vol 1 241
+
+| History                 =
+===Early Years===
+Lorna Dane is a [[Homo superior|mutant]], born of an affair between her mother [[Suzanna (Earth-616)|Suzanna]] and [[Max Eisenhardt (Earth-616)|Magneto]]. Her mother's husband, [[Arnold (Earth-616)|Arnold]], later learned of this affair and confronted his wife while he was flying her and Lorna on his plane. An argument erupted, upsetting the infant Lorna whose desperation to make her parents stop fighting caused an early manifestation of her immense magnetic abilities, which caused a magnetic pulse that destroyed the plane and killed her parents, as well as giving her hair its iconic green color. Lorna survived the crash and was found by her true father, Magneto, who had been drawn to the location by her magnetic pulse. Believing that she was not ready for her abilities or the life he could offer her, he had his associate [[Jason Wyngarde (Earth-616)|Mastermind]] use his illusion powers to re-write Lorna's memories of that day, leaving her to believe that her parents died in a plane crash when she was an infant.{{r|X-Factor Vol 1 243}} Lorna was raised by [[Mrs. Dane (Earth-616)|Arnold's sister]] and her [[Mr. Dane (Earth-616)|husband]], and grew up thinking that they were her real parents.{{r|X-Men Vol 1 52}}{{r|Official Handbook of the Marvel Universe Vol 1 8}}
+
+===X-Men===
+When Lorna was nearly 20 years old, she met [[Robert Drake (Earth-616)|Iceman]] after being identified as a mutant by [[Cerebro (Mutant Detector)|Cerebro]]. Lorna's magnetic powers emerged when she was controlled by [[Mesmero (Vincent) (Earth-616)|Mesmero]] and subjected to a 'mutant energy stimulator' device. He then convinced Lorna that she was the daughter of Magneto (unaware that this was in fact the truth), cohercing her to work with him and her supposed father against the X-Men. Iceman, however, managed to reach her and present "evidence" that convinced Lorna that her true parents had died in a plane crash years earlier, making her turn against Magneto, who was revealed to be an [[Magneto (Machinesmith Android) (Earth-616)|android double]].{{r|X-Men Vol 1 49|52}}{{r|Official Handbook of the Marvel Universe Vol 1 8}} Lorna returned home with the [[X-Men (Earth-616)|X-Men]] and, eventually, joined the team. In the [[Xavier's School for Gifted Youngsters]], the X-Men were tutored by [[Charles Xavier (Earth-616)|Professor Charles Xavier]] and trained in the use of their powers in the [[Danger Room]]. For a while, Iceman had a crush on her, but Lorna didn't truly reciprocate the feelings. Lorna did, however, fall in love with her teammate [[Alexander Summers (Earth-616)|Havok]], the brother of [[Scott Summers (Earth-616)|Cyclops]]. They both served for a time as active X-Men and helped Professor X repel an invasion by the alien [[Z'nox (Race)|Z'nox]].{{r|X-Men Vol 1 65}} Later with the X-Men, they met [[Kevin Plunder (Earth-616)|Ka-Zar]] in the [[Savage Land]], where Lorna invented her first "code name" '''Magnetrix'''. Even though she quickly dropped the name, Havok continued to use it as a way to annoy and flirt with her. When Lorna first encountered the real [[Max Eisenhardt (Earth-616)|Magneto]] in the Savage Land, she was surprised that he did not know who she was. They were, later, targeted by the [[Promise (Earth-616)|Promise]], and met the [[Bruce Banner (Earth-616)|Hulk]].{{r|X-Men Vol 1 66}} Later, the X-Men and a number of mutants were kidnapped, by the [[Secret Empire (Earth-616)|Secret Empire]], to harness their energy to power an "Electorn-Gyro". After [[Number One (Secret Empire 2)|Number One]] landed the saucer on the [[White House]] lawn and defeated [[Lloyd Bloch (Earth-616)|Moonstone]], the Secret Empire was defeated by Cyclops, [[Steven Rogers (Earth-616)|Captain America]], the [[Samuel Wilson (Earth-616)|Falcon]], and Marvel Girl.
+
+When the old and new X-Men together fought the island [[Krakoa (Earth-616)|Krakoa]], it seemed Lorna displayed her major power potential for the first time as she disrupted the [[Earth|Earth's]] magnetic field, flinging Krakoa into deep space.{{r|Giant-Size X-Men Vol 1 1}} Years later, it was revealed that Prof. Xavier actually altered the minds of everyone to cover-up the fact that his second team of X-Men were all slaughtered attempting to save them. Following the X-Men's battle against the island Krakoa, Lorna and Alex left the X-Men to pursue their mutual interest in geophysics,{{r|X-Men Vol 1 94}} attending graduate school in [[Nevada (State)|Nevada]].
+
+===Mind Controlled by Shi'ar===
+Lorna received her [[Shi'ar]] designed costume when her mind came under the domination of the Shi'ar Intelligence agent, [[Davan Shakari (Earth-616)|Davan Shakari]], also known as Erik the Red. It was he who gave Lorna the code name Polaris.{{r|X-Men Vol 1 97}} At the time, Shakari served [[D'ken Neramani (Earth-616)|D'Ken Neramani]], the emperor of the [[Shi'ar Galaxy]], later deposed in favor of his sister, [[Lilandra Neramani (Earth-616)|Lilandra Neramani]]. Shakari kidnapped Alex and Lorna and subjected them to a powerful form of mind control: they were turned against the X-Men and attempted to assassinate Prof. Xavier. A massive battle ensued at [[John F. Kennedy International Airport|Kennedy International Airport]], with the duo battling the X-Men.{{r|X-Men Vol 1 97}} Polaris was defeated by [[Ororo Munroe (Earth-616)|Storm]], but Shakari managed to escape with both her and Alex. Eventually, Prof. Xavier freed Lorna and Alex from Shakari's control{{r|X-Men Vol 1 105}} and they stayed on [[Muir Island]] for their recovery.{{r|X-Men Vol 1 108}}
+
+===The Living Pharaoh & Civilian Life===
+While there, Lorna and Alex were attacked by henchmen of [[Ahmet Abdol (Earth-616)|The Living Pharaoh]] and Lorna attempted to contact the X-Men, but received no answer and contacted [[Henry McCoy (Earth-616)|Beast]] in the [[Avengers (Earth-616)|Avengers]]. After arriving in [[New York (State)|New York]], [[Peter Parker (Earth-616)|Spider-Man]] came to their aid and accidentally knocked The Living Pharaoh into a containment unit, that was to be used to make Alex a living battery to magnify the Pharaoh's powers a million fold, and he was transformed into the Living Monolith again. Lorna was swept out to sea and later rescued, by [[Thor Odinson (Earth-616)|Thor]].{{r|Marvel Team-Up #69|70}}
+
+After returning to Muir Island, Lorna and Alex aided the X-Men battling [[Kevin MacTaggert (Earth-616)|Proteus]].{{r|X-Men Vol 1 125|129}} Afterward, they settled in [[New Mexico (State)|New Mexico]], where they completed their advanced degrees. Lorna and Alex returned from time to time to assist the team, but they led a happy civilian life for a number of years. Professor X called on Alex and Lorna for help in the rescue of the friends and family of the X-Men from [[Arcade (Earth-616)|Arcade's]] henchman [[Miss Locke (Earth-616)|Miss Locke]] in [[Murderworld]].{{r|Uncanny X-Men Vol 1 146|147}} While living in the Rio Diablo Mountains of Northern [[Mexico]], Alex and Lorna stumbled upon a [[Brood (Race)|Brood]] Star-shark and Alex left Lorna for [[New York (State)|New York]].{{r|Uncanny X-Men Vol 1 218}}
+
+===Malice===
+Later, the [[Marauders (Earth-616)|Marauders]] ambushed Lorna and her mind was overtaken by an evil being, known as [[Alice MacAllister (Earth-616)|Malice]], while Lorna saw Alex off to check on the X-Men.{{r|Uncanny X-Men Vol 1 219}} As Malice, Lorna led the Marauders for a few months, first attempting to kill Cyclops' wife, [[Madelyne Pryor (Earth-616)|Madelyne Pryor-Summers]], while she was lost in a hospital, and battled Alex and the X-Men. Malice's energy matrix was very compatible with Lorna's powers and the two became grafted together, apparently inseparable. When Malice attempted to leave Lorna, [[Nathaniel Essex (Earth-616)|Mister Sinister]] informed them that he was aware of the connection and that was why he suggested their union. Later, Havok tracked the Marauders, in [[Alley|The Alley]], and the X-Men ambushed them. The Marauders fled and Polaris, controlled by Malice, returned to Mr. Sinister. Mr. Sinister was attempting to learn all he could from the X-Men and [[X-Factor (Earth-616)|X-Factor]] and, thoroughly went-through the [[Xavier's School for Gifted Youngsters]]. Following Mr. Sinister's psychic trail, [[Jean Grey (Earth-616)|Marvel Girl]] tracked him to the school and the X-Men and X-Factor were ambushed by the Marauders. While interrogating Polaris/Malice, Mr. Sinister destroyed the school. While the X-Men and X-Factor battled Sinister and Malice, Sinister attempted to claim Marvel Girl, but Cyclops seemingly killed Sinister with an unchecked optic blast.{{r|Uncanny X-Men Vol 1 239|243}}
+
+After Mister Sinister was seemingly killed, Malice's hold over Polaris weakened and Lorna was able to place a phone call to the X-Men in [[Australia]] for help, but they arrived too late. Lorna was with her alleged half-sister [[Zala Dane (Earth-616)|Zaladane]], a priestess for the Savage Land's Sun People. The X-Men arrived in time to witness Zaladane's getaway, but Havok managed to infiltrate her army in disguise while the X-Men followed. There, the X-Men found that Zaladane had amassed an army of Savage Land natives who were being mentally controlled for her by [[Worm (Savage Land Mutate) (Earth-616)|Worm]], one of the [[Savage Land Mutates]]. Zaladane revealed that she was, in fact, Lorna's sister and, using the [[Herbert Wyndham (Earth-616)|High Evolutionary's]] machinery, stripped Polaris of her magnetic powers and took them as her own. The process also managed to finally separate Lorna and Malice. Zaladane and her forces clashed with Ka-Zar and the X-Men, who were trying to free Lorna. During the encounter, Polaris' [[Secondary Mutation]] kicked in and she grew in height, (towering over Alex), was invulnerable, and had superhuman strength. Zaladane's army was released from Worm's control, and Lorna regained her freedom.{{r|Uncanny X-Men Vol 1 249|251}} 
+
+===Secondary Mutation===
+Having nowhere else to go, Lorna headed for Muir Island. On her way there her secondary mutation kicked in again (as was evidenced by her increased size). She discovered that her new mutation also affected those around her, amplifying negative emotions such as anger and hate. Upon examination even [[Moira MacTaggert (Earth-TRN748)|Moira MacTaggert]] was at a loss to explain Lorna's new mutation, although she did confirm that the only way Zaladane could have taken her powers away was if she were a biological sibling. Lorna was on hand to help Moira and [[Sean Cassidy (Earth-616)|Banshee]] defend Muir Island from the attacking [[Reavers (Earth-616)|Reavers]] (who were there looking for [[James Howlett (Earth-616)|Wolverine]]).{{r|Uncanny X-Men Vol 1 253|255}}
+
+At the time it was not clear that she drew her strength from being a nexus for negative emotional energies. Lorna's new status as a nexus, however, was perceived by the villainous [[Shadow King (Multiverse)|Shadow King]]. The Shadow King used Polaris as a gateway to allow him access to the mortal realm from the [[Astral Plane|astral plane]], causing a world-wide increase in anger, hatred, and violence in the process. Lorna was freed of his influence with the help of [[X-Factor (Earth-616)|X-Factor]] and the X-Men. Upon the defeat of the Shadow King, Lorna's powers returned due to a combination of Zaladane's death a short time before and the neural-disruptive psionic blade of the X-Man [[Elizabeth Braddock (Earth-616)|Psylocke]] leaving no trace of her increased size, strength, or emotion control powers.{{r|Uncanny X-Men Vol 1 280}}
+
+===X-Factor===
+Lorna was then asked to join the newly formed [[X-Factor (Government) (Earth-616)|Government X-Factor]] by [[Valerie Cooper (Earth-616)|Valerie Cooper]] and, tired of hiding out on Muir Island, she accepted. Lorna and Alex were set as its leaders.{{r|X-Factor Vol 1 71}} Joining X-Factor offered her the chance to reunite with Alex, but their relationship remained largely unresolved.{{r|X-Factor Vol 1 72}} Since this time X-Factor had changed dramatically, and so had Polaris, growing stronger and surer of herself, and more independent from Alex. They tried to maintain the relationship but they broke up and reconciled multiple times. Polaris became a mainstay of X-Factor and became the government's secret weapon against a possible attack from Magneto.{{r|X-Factor Vol 1 94|97}}
+
+[[File:Lorna Dane (Earth-616) from X-Men Legends Vol 1 5 001.jpg|200px|thumb|left|Lorna in uniform]]
+Malice returned to bother her once more but Havok and Polaris, out of their love for each other, each tried to absorb her, preventing the other from being possessed. In the end, Malice perished at the hands of Mister Sinister.{{r|X-Factor Vol 1 102|105}}
+
+X-Factor's atmosphere changed as criminals [[Raven Darkholme (Earth-616)|Mystique]] and [[Victor Creed (Earth-616)|Sabretooth]] were forced by the government to join the group. Lorna began to question her place on the team and finally found her suspicions to be justified after Sabretooth ran amok almost killing the whole team.
+
+Havok went undercover to stop the [[Henry McCoy (Earth-295)|Dark Beast]], forming a [[Brotherhood (Havok) (Earth-616)|Brotherhood]] as part of his cover, until it was finally revealed that his "terrorist" activities had been a front for his true undercover work, Lorna forgave him although she rejected him romantically. She also rejoined X-Factor only to watch as Havok was seemingly killed in the explosion of a faulty time machine constructed by the mutant from the future, [[Greystone]].{{r|X-Factor Vol 1 149}} Lorna left X-Factor to grieve and the group disbanded.
+
+===The Twelve===
+Months later, [[Kurt Wagner (Earth-616)|Nightcrawler]] ran into Lorna in a church, where she confided in him that she felt she was being followed and that she was sure Alex was alive because The [[Ahmet Abdol (Earth-616)|Living Monolith]] hadn't returned. Little did she know that she was right on both counts. A group of [[Skrulls]] working with [[En Sabah Nur (Earth-616)|Apocalypse]] were indeed shadowing her, and broke into her apartment to retrieve the headgear from Alex's original costume. Lorna learned that she was one of "The Twelve"; a team of mutants supposedly destined to usher in a new golden age for mutant-kind.{{r|X-Men Vol 2 93|94}}
+
+Lorna freaked, even after the X-Men set a trap for the Skrulls and found their base. She journeyed with the X-Men to Egypt to battle Apocalypse. Lorna was captured along with the rest of The Twelve, but when Magneto's failing power short-circuited Apocalypse's plan and the Living Monolith burst free as well, Magneto somehow tapped into Lorna's power and was able to command the magnetic field with incredible force.{{r|Uncanny X-Men Vol 1 376|378}}
+
+===Magneto===
+After Apocalypse was defeated, Lorna returned to [[Genosha]] with Magneto to supply him with power and help him keep order. She believed she was doing it for the greater good, but also knew that she enjoyed the education in her powers that she was receiving. In the end, Magneto launched a full-scale assault on [[Carrion Cove]], the last city opposing his rule, in order to gain access to technology that would restore his full abilities. Polaris decided to try and stop him, but was defeated and fled the country following Magneto's return to full power.{{r|{{cl|Magneto: Dark Seduction Vol 1 1}}-[[Magneto: Dark Seduction Vol 1 4|4]]}}
+
+Later, when Magneto captured Professor X as the first step in a war against humanity, Polaris returned to Genosha to help evacuate the humans still living there.{{r|New X-Men Vol 1 132}} After Wolverine nearly crippled Magneto, Polaris stayed to help him recover and maintain order. At this time, Lorna began running genetic tests on Magneto and herself, while investigating the plane crash that killed her parents. To her shock, she discovered that all the metal on her parents' plane had been magnetized and that she was Magneto's genetic daughter. After coming to terms with her discovery, Polaris returned to Genosha and found out that Magneto had known of her research and its results and had proclaimed them to his people, so she was greeted as a returning princess. Lorna was still there when the [[Wild Sentinels|Sentinels]] sent by [[Cassandra Nova Xavier (Earth-616)|Cassandra Nova]] decimated the island's population. Polaris fled the scene and survived the radiation surges and power blasts. For months she struggled to contain the electromagnetic fields of the dead, nearly going crazy in the process, until the X-Men visited Genosha and found her. They managed to break through to Polaris and rescued her from the ravaged country.{{r|Uncanny X-Men Vol 1 431}}{{r|New X-Men Vol 1 132}}
+
+===Trauma===
+A few weeks later, Polaris apparently heard that Havok had been located, and showed up at the Mansion to reunite with him. Finding Alex's nurse [[Anne Ghazikhanian (Earth-616)|Anne Ghazikhanian]] yelling at his unconscious form to release her son [[Carter Ghazikhanian (Earth-616)|Carter]] (who had become trapped in Alex's mind), Lorna attacked with scalpels, even bruising [[Jean-Paul Beaubier (Earth-616)|Northstar]] when he tried to stop her. Finally Lorna was calmed, though she blew Annie off with cruel abandon, and then launched herself at Alex when he regained consciousness moments later. Lorna was all over Alex, as if marking her territory, and then stunned everyone when she asked him to marry her. Alex accepted, and then the two of them left the Mansion to reconnect as they planned their wedding.{{r|Uncanny X-Men Vol 1 421}}
+
+Unfortunately, Alex left Lorna at the altar and Lorna went mad, manufacturing a Magneto helmet out of flatware and attempting to kill Alex, Annie and Carter. Lorna was finally brought down by [[Cain Marko (Earth-616)|Juggernaut]] and upon being returned to the Mansion under restraints agreed to let Professor X into her mind to unravel the cause of her recent personality shift.{{r|Uncanny X-Men Vol 1 425|426}} Lorna goaded Annie into joining the telepathic party, and revealed to them the truth about her relationship to Magneto, as well as the horrific experience of living through the Genoshan Massacre. While Lorna was under guard at the Mansion, her attitude drastically changed from a sweet loving woman into a more "shoot-first, ask questions later" fighter. After the fight with 'Xorneto' she played the devil's advocate, supporting Magneto's view on humans and mutants. She even went as far as attempting to convince Prof. Xavier of Magneto's view at Magneto's funeral in Genosha, by threatening to kill him just so that he would fight for his own survival and prove his own dream of peaceful coexistence wrong. However, Prof. Xavier didn't go down that line and would have rather died than kill his former student. Not being able to say anything else she showed her respect for Prof. Xavier and her father by making a statue of Magneto and Professor X out of the giant Sentinel-turned-Magneto statue that Logan had ripped down.{{r|Uncanny X-Men Vol 1 443}}
+
+===Decimation===
+During a reorganization of the X-Men, Polaris was added to Havok's team, causing a significant amount of conflict because she and Iceman had become a couple.{{r|X-Men Vol 2 157}} Lorna was still a little distant, and somewhat concerned for her own sanity, due to her recent traumas. After the [[House of M]] incident, Lorna seemed to have lost her powers, though initially she went into denial and tried to hide her power loss from her teammates.{{r|X-Men Vol 2 177|179}}
+
+After nearly being killed in combat, Lorna revealed that she had lost her powers and decided to leave the team. Havok accompanied her, but Cyclops kept Bobby Drake from going along as well. Chased by members of the Sapien League, including the ferocious and vengeful [[Leper Queen (Earth-616)|Leper Queen]], Havok and Polaris encountered [[Daap (Earth-616)|Daap]] (an alien-like creature resembling [[Doop (Earth-616)|Doop]]). Only Lorna was able to understand the creature, and she felt an overwhelming desire to befriend it.{{r|X-Men Vol 2 180|181}}
+
+===Pestilence===
+Before Havok could protest any further, the creature grabbed Lorna and flew away with her. The creature dropped her inside Apocalypse's sphinx (whether the creature was in league with Apocalypse or was repelled by the ship's systems, or even if the creature was real or some artificial creation of Apocalypse's [[Celestials (Race)|Celestial]] technology was not entirely clear). When Apocalypse made Lorna an offer of power as his horseman of Pestilence, she refused, but was eventually tempted to join him.{{r|X-Men Vol 2 182}}
+[[File:Lorna Dane (Earth-616) from X-Men Vol 2 182 0001.jpg|right|thumb|180px|Pestilence (Lorna Dane)]]
+
+Mind-wiped, she ingested viruses from the World Health Organization and was attempting to create a meta-plague. In the climactic battle between the X-Men, the [[Avengers (Earth-616)|Avengers]], and Apocalypse, Wolverine discovered the choking Pestilence was Lorna. Havok was able to resuscitate Lorna, having been given a serum to protect him from the diseases present. She was recovering in the X-Mansion when [[Remy LeBeau (Earth-616)|Gambit]] and [[Shiro Yoshida (Earth-616)|Sunfire]] returned to take her away. She arose and refused to go with them. Polaris decided to leave that night to search for Apocalypse in Egypt. She went alone and was later hunted until Havok and the new X-Men team saved her. [[Emma Frost (Earth-616)|Emma Frost]] noted that her powers seemed to be mutating, and that Apocalypse fused unknown technology to Lorna's nervous system to replicate her lost magnetic powers.{{r|X-Men Vol 2 183|187}}
+
+===Starjammers===
+After being rescued from an anti-Apocalypse cult by a new team of X-Men, Polaris agreed to join Professor X, [[Armando Muñoz (Earth-616)|Darwin]], Havok, [[Rachel Summers (Earth-811)|Marvel Girl]], Nightcrawler, and [[James Proudstar (Earth-616)|Warpath]] on their mission to stop [[Gabriel Summers (Earth-616)|Vulcan]] from attacking the Shi'ar Empire.{{r|Uncanny X-Men Vol 1 475}}
+
+At first, Apocalypse's adjustment to Lorna appeared more dangerous and difficult to control compared to her natural abilities. Throughout the journey through space, Lorna learned to master these adjustments as if they were her own. During various battles with Vulcan's forces, Polaris managed to stop [[Kallark (Earth-616)|Gladiator]] to a stand-still, though he ended up being too powerful to be contained by metallic bonding. During the final battle with all the X-Men and Vulcan's forces, [[Christopher Summers (Earth-616)|Corsair]] was killed. Darwin saved Prof. Xavier from the [[M'kraan Crystal]] (which had the effect of re-powering his lost X-Gene). Nightcrawler took them back to their ship, and Lilandra did not wait for Polaris, Havok, or Marvel Girl to send Prof. Xavier, Nightcrawler, Darwin, Warpath, and [[Hepzibah (Earth-616)|Hepzibah]] back to Earth by teleportation. Meanwhile, Polaris had successfully caused major damage to Vulcan by crushing him with his own metallic armor, but it wasn't enough to win the battle.{{r|Uncanny X-Men Vol 1 486}}
+
+Polaris, Havok, and Marvel Girl joined the ranks of the [[Starjammers (Earth-616)|Starjammers]], as did [[Korvus Rook'shir (Earth-616)|Korvus]], Marvel Girl's romantic interest. Although Havok made it the Starjammer's only interest to kill Vulcan and end his rule as Emperor of the Shi'ar Empire, a new arrival, the [[M'Kraan (Race)|Scy'ar Tal]] added new pressure. They arrived, claiming the Shi'ar ejected them from their home world. The Starjammers and Vulcan's forces temporarily united to deal with the impending threat, one so great it managed to destroy an entire planet in Shi'ar space that Rachel was unable to stop.{{r|X-Men: Emperor Vulcan Vol 1 1|2}}
+
+After the battle with the Scy'ar Tal, Vulcan betrayed Havok by flinging him into the vacuum of space, where Havok crashed into a star. Unbeknownst to Vulcan, Havok's ability allowed him to absorb some of the star, giving him a massive temporary power boost. Meanwhile, Polaris led the rest of the Starjammers, first against the Scy'ar Tal, and then against the Shi'ar Warbirds ten-times the size of the Starjammers. When they lost contact with Havok, Polaris unleashed and began destroying whole Shi'ar Warbirds.{{r|X-Men: Emperor Vulcan Vol 1 3|5}}
+
+Vulcan sent his entire [[Imperial Guard (Earth-616)|Imperial Guard]] for Polaris and the Starjammers, and Polaris sent Rachel and Korvus after a tracking device sent by Vulcan that would lead a star to destroy the M'krann crystal. Gladiator attacked them before anything could be done to stop the tracking device. Polaris led the team remaining on the Starjammer ([[Raza Longknife (Earth-616)|Raza]] and [[Ch'od (Earth-616)|Ch'od]]) against the Imperial Guard, and although they were able to hold their own for some time, the trio were eventually overcome by the sheer numbers of the Guard. Ch'od gave Havok Polaris' message that 'this can only end one way." Havok destroyed the Finality, the device using stars as planet destroying bombs and was captured himself. At the end of the battle, Vulcan had won and planned to expand the Shi'ar Empire while keeping Havok, Ch'od, and Raza as prisoners. [[Rachel Summers (Earth-811)|Marvel Girl]], [[Korvus Rook'shir (Earth-616)|Korvus]], and Lilandra all escaped.{{r|X-Men: Emperor Vulcan Vol 1 5}}
+
+[[File:Uncanny X-Men Vol 1 478 Textless.jpg|left|180px|thumb|Polaris and Havok]]
+Polaris and the others were tortured in a prison underwater on an ocean planet. Despite ploys such as telling Havok that his teammates were dead and it was all Alex's fault, Havok remained defiant. Alex had at least some power left. He allowed some time to go by, with moments of exposure continuing, before killing his guards and escaping. Alex then liberated his teammates from captivity. As he rescued Polaris, she gave him a thank-you kiss. Havok surprised his team as he informed them of his true plan. Instead of running they would wait, Gabriel would be coming to them to defeat them, and Havok planned to kill him when he did. This caused her to be worried about Alex's safety and well-being.{{r|X-Men: Kingbreaker #1|4}}
+
+Pursued by a Shi'ar superdestroyer after escaping, Lorna used the fact that she was Crystal's supposed sister-in-law to allow the Starjammers through the Kree's defensive shield. After the Shi'ar Imperial Guard's attack on Crystal and Ronan's wedding, Lorna played a minor but pivotal role in regaining Kree popular support for the Inhumans by making sure that Crystal's humanitarian acts towards the injured Kree civilians were broadcast all over the Kree networks. After this, she once again joined the Starjammers on their mission to rescue Lilandra. They promptly commandeered a Shi'ar Ironclad (which she helped capture by magnetizing the Starjammer to its hull) which they then used to join the main Shi'ar fleet until their cover was blown when they rescued Rocket Raccoon and his Guardians of the Galaxy. Following the surrender of the Shi'ar to the Inhumans, Lorna remains on the Shi'ar homeworld along with Havok and Marvel Girl.{{r|War of Kings #1|6}}
+
+===X-Factor Investigations===
+Polaris joined X-Factor Investigations after the X-Men underwent their [[Schism (Event)|Schism]] on behalf of Wolverine. After Jamie's apparent death, Lorna and Havok agreed to take over leadership of X-Factor Investigations. Jamie returned from the dead however and agreed to share leadership with them, with Havok taking the lead on missions from Valerie Cooper and Wolverine and Jamie taking the lead on other missions.{{r|X-Factor Vol 1 232}}
+[[File:Alexander Summers (Earth-616) and Lorna Dane (Earth-616) from X-Factor Vol 1 230 001.jpg|thumb|right|180px|Arriving with Alex at X-Factor's HQ]]
+
+After [[Rahne Sinclair (Earth-616)|Rahne]] fell into a deep depression regarding her actions toward her child, Lorna and [[Theresa Cassidy (Earth-616)|Theresa Cassidy]] took her out on a road trip to cheer her up. Their first stop was visiting [[John Maddox (Earth-616)|Father John Maddox]] for some spiritual counseling.{{r|X-Factor Vol 1 237}}
+
+When Lorna was building a shrine to commemorate the death of her parents, she handed an old photo of them to [[Longshot (Mojoverse)|Longshot]]. Touching the photo gave Longshot a vision of what happened to them. Lorna tried to force him to tell her and eventually he relented. Lorna didn't trust him, however, and forced [[Monet St. Croix (Earth-616)|Monet]] to use her telepathic abilities and show her what Longshot saw. She was shown a vision of her father taking her mother up in an airplane and confronting her with the fact that he knew that Lorna wasn't his daughter. Their argument became heated and woke the sleeping Lorna. Lorna begged them to stop fighting, but after being yelled at by her parents, her powers manifested and in a tantrum, she released a magnetic pulse that tore the plane apart and killed her parents.{{r|X-Factor Vol 1 243}}
+[[File:Lorna Dane (Earth-616) from X-Factor Vol 1 245 0001.jpg|thumb|left|180px|Lorna's new Uniform]]
+
+[[Max Eisenhardt (Earth-616)|Magneto]] was drawn to the magnetic pulse she sent out and declared that she wasn't ready for a life with him yet and that she needed to grow up in a normal environment. He asked his associate, [[Jason Wyngarde (Earth-616)|Mastermind]] to use his illusion powers to wipe the memory of this event from Lorna's mind until she was ready to join Magneto. The knowledge that she had killed her parents rendered her catatonic. Later, Theresa made a deal to become the Morrigan, an ancient god, in order to gain the power to help Lorna. She succeeded, and Lorna emerged from her catatonic state.{{r|X-Factor Vol 1 243|245}}
+
+With the birth of the 7 billionth human being on Earth, Rahne's son [[Tier Sinclair (Earth-616)|Tier]], the various Hell Lords commenced their war for dominance of hell and Earth. Polaris and X-Factor were embroiled in the conflict, attempting to stop the Hell Lords from killing Tier. [[Mephisto (Earth-616)|Mephisto]] managed to circumvent the conditions of the war by incapacitating the other Hell Lords, and claiming dominance over Earth. However, after [[Guido Carosella (Earth-616)|Guido]] killed Tier and became the supreme Lord of Hell, he set everything back to its natural state.{{r|X-Factor Vol 1 250|256}}
+
+Polaris found herself returned to New York, with no sign of any of her teammates. Deeply depressed, Polaris found a bar and proceeded to get heavily intoxicated, and started causing a scene after the bartender tried to cut her off. This attracted the attentions of both the local law enforcement and [[Pietro Maximoff (Earth-616)|Quicksilver]]. The mix of her depression, anger, and intoxication caused her to engage the police in an attempt to commit suicide-by-cop and to fire bullets at Quicksilver. He managed to subdue her, but before he could bring her into Avengers custody in order to help her, she was taken away by the police. Polaris awoke to find herself in a cell, lamenting what she had just done. Before getting her bearings, she was approached by a figure who claimed she was not in jail and was free to go, but that he had come to make her an offer to lead a superhero initiative called X-Factor on behalf of his company. Polaris agreed to hear him out.{{r|X-Factor Vol 1 260}}
+
+===Corporate X-Factor===
+[[File:All-New X-Factor Vol 1 18 Textless.jpg|thumb|right|180px]]
+This mysterious figure was [[Harrison Snow (Earth-928)|Harrison Snow]], CEO of [[Serval Industries (Earth-616)|Serval Industries]], who offered Lorna the opportunity to lead his corporation's superhero team, X-Factor. Lorna accepted and went about recruiting [[Remy LeBeau (Earth-616)|Gambit]] as well. Upon returning to headquarters, she found [[Pietro Maximoff (Earth-616)|Quicksilver]] waiting for her, having tracked her to Serval out of worry. Claiming that he had had a falling out with the [[Avengers (Earth-616)|Avengers]], he volunteered to join the team, and Lorna accepted. Lorna led them on their first mission, to rescue [[Fatale (Earth-616)|a mutant]] captured by [[Advanced Idea Mechanics (Earth-616)|A.I.M.]].{{r|All-New X-Factor Vol 1 1}}
+
+===Post-IVX Adventures===
+When Magneto began mentoring the time-displaced [[X-Men (Time-Displaced) (Earth-616)|young X-Men]], he requested Polaris' help in guiding the teenager mutants so to prevent himself from going back to old leadership habits, and as a means to have somebody that could challenge his strategies.{{r|X-Men: Blue Vol 1 10}} Lorna first revealed herself to her new pupils when breaking out the young X-Men from a prison in [[New Tian]].{{r|X-Men: Blue Vol 1 8|9}}
+
+Polaris was one of the mutants that confronted [[Nathaniel Grey (Earth-295)|Nate Grey]] when he tried to impose his vision of the world upon the world. When Nate Grey decided that things wouldn't get better as long as the X-Men existed, he made them disappear in an instant, including Polaris.{{r|Uncanny X-Men Vol 5 1|10}}
+
+===Age of X-Man===
+Polaris and the other X-Men were transported to a [[Age of X-Man (Plane)|reality]] created by Nate Grey and a [[Life Seed]] where Grey attempted to create a utopia where mutants lived in peace.{{r|Age of X-Man Alpha Vol 1 1}} Polaris had her memories of her previous life erased by Nate and was made a prisoner in the Danger Room Prison Complex, home to "mutant criminals" such as [[Henry McCoy (Earth-616)|Beast]], [[Lucas Bishop (Earth-1191)|Bishop]], [[Gabrielle Kinney (Earth-616)|Honey Badger]], and [[Danielle Moonstar (Earth-616)|Mirage]].{{r|Age of X-Man: Prisoner X Vol 1 1}}
+
+Polaris was later allowed by Nate Grey to return to the real world after he realized the flaws of his reality and the way he ran it.{{r|Age of X-Man Omega Vol 1 1}}
+
+===House of X===
+Polaris later became a citizen for the mutant-only nation of [[Krakoa (Earth-616)|Krakoa]]. She was with her father Magneto as she witnessed the [[Five (Earth-616)|Five]] resurrect the mutants that had died during a mission to stop the creation of [[Mother Mold (Earth-616)|Mother Mold]] and her father explained how the Five's resurrection process worked.{{r|House of X #5}} When [[Jean-Paul Beaubier (Earth-616)|Northstar]] believed his sister [[Jeanne-Marie Beaubier (Earth-616)|Aurora]] was dead but couldn't find enough proof to convince The Five to resurrect her. The two reformed [[X-Factor Investigations (Earth-616)|X-Factor Investigations]] to find out what happened. After recovering her body, they went to [[Quiet Council of Krakoa (Earth-616)|The Quiet Council]] to make their team valid. Magneto offered her the role of leader, but she turned it down in favor of Northstar.{{r|X-Factor Vol 4 1}}
+
+[[File:X-Factor Vol 4 2 Medina Variant Textless.jpg|thumb|left|180px]]
+With this team, she investigated the imperfect resurrection of [[Santo Vaccarro (Multiverse)|Rockslide]] after he died in [[Otherworld]] and deciphered [[Opal Luna Saturnyne (Earth-9)|Saturnyne]]’s riddle to figure out who would be representing Krakoa in her [[X of Swords|contest of swords]].{{r|X of Swords: Creation Vol 1 1}}{{r|X-Factor Vol 4 4}}
+
+After that, the team figured out that Theresa’s repeated deaths were the result of her still being possessed by [[Morrigan (Earth-616)|The Morrigan]]{{r|X-Factor Vol 4 6}} and liberated a group of mutants who were being held captive in the [[Mojoverse]], allowing [[Gaveedra Seven (Mojoverse)|Shatterstar]] to free Syryn from The Morrigan's control once and for all.{{r|X-Factor Vol 4 9}}
+
+At the [[Hellfire Gala]], Lorna was voted in as a member of the new X-Men team{{r|X-Men Vol 5 21}} and moved to the [[Treehouse]] in Central Park.{{r|X-Men Vol 6 1}}
+
+After forming, this team fought off two alien attacks: one by the [[Mind Reaver (Earth-616)|Mind Reaver]] in Manhattan, the other by the Annihilation Wave in Kansas. This was the work of the intergalactic crime lord [[Cordyceps Jones (Earth-616)|Cordyceps Jones]] who had been running bets on who could destroy the Earth first on his casino [[Gameworld]].{{r|X-Men Vol 6 1|2}}
+
+Polaris would assist her former X-Factor teammates with the X-Men, when they investigated the death of the Scarlet Witch who's body was found at the end of the Hellfire Gala. After the team unanimously declared Magneto the most likely killer, she took part in ambushing him, renouncing him as her father once more.{{r|X-Men: The Trial of Magneto Vol 1 1}}
+
+| Powers                  = As his daughter, her powers are nearly identical to Magneto's.
+
+Lorna is an '''Alpha-[[Homo superior|mutant]]'''{{r|X-Men Vol 2 97}} with both a primary and [[Secondary Mutation]].<ref>Lorna's non-overlapping magnetic and emotional-strength powers functioned much like Emma Frost's official secondary mutation, although the term hasn't been explicitly applied to Lorna's two power sets yet.</ref> After Wanda's [[M-Day]], Polaris lost all of her mutant abilities. Polaris then became Pestilence and had Celestial technology grafted to her spine by [[En Sabah Nur (Earth-616)|Apocalypse]], which has somehow reactivated her X-Gene{{r|X-Men: Legacy #259}} and her powers.
+
+'''Magnetic Field Manipulation:''' She has the ability to manipulate magnetism. Although she has the potential to exercise all of the powers that Magneto has, as yet she has only used powers involving the manipulation of magnetic, electrical, and gravitational fields. Moreover, she has yet summoned as great an amount of energy as Magneto has. The exact limits on the amount weight that she can magnetically lift at present have not been measured. Since she has, in the past, preferred not to use her powers in combat situations, and has decades less experience with them, she is not up to par with Magneto's level of experience. As with Magneto, it is unknown whether Polaris's powers are purely psionic or whether they derive from her physically.{{citation}}
+
+The main feat made possible by magnetism is Polaris' ability to lift and manipulate metal. She has shown such fine tuned skills as to nearly liquefy, mend, and reconstruct metallic objects, and has some level of influence on the ferrous metals that reside in everything. She once mended and reconstructed silverware and metallic plates into a metallic suit identical to Magneto's costume.{{citation}}
+
+*'''Magnetic Force-Fields:''' Polaris can protect herself from physical harm, can stretch her fields to protect a large group, and can suspend persons or objects in the air.{{citation}}
+
+*'''Magnetic Flight:''' Polaris can suspend herself in flight by riding the Earth's magnetic field.{{citation}}
+
+*'''Electromagnetic Sight: ''' By concentrating, Polaris can perceive the world around herself solely as patterns of magnetic and electrical energy. She can perceive the natural magnetic auras surrounding living beings, as well.{{citation}}
+
+*'''Magnetic Pulse:''' Polaris can focus her magnetic energy into powerful concussive blasts. She can also overload or short-circuit electrical systems. She has been shown destroying Shi'ar warships with single magnetic pulses.{{citation}}
+
+*'''Energy Absorption:''' Polaris has been shown absorbing some forms of energy through her magnetic force fields to temporarily boost her own strengths. Early in her career with the X-Men, she absorbed Storm's lightning blast, Cyclops' eye beam, and Havok's energy beam at the same time, giving her enough strength to propel an entire island from the earth and into space.{{citation}}
+
+*'''Geomagnetic Link:''' Polaris is tied very closely to Earth's EM Field. As is it effected, so is she. She knows instinctively all that happens to it, and with this link, is granted an odd sort of immortality. Earth lends her strength by it's simple existence. She draws on this strength all unconsciously.{{citation}}
+
+*'''Organic Iron Manipulation:''' Polaris has such control over her powers that she is able to manipulate the natural iron within the blood of living organisms. She was capable of reversing the flow of an entire crowd's blood in order to render them unconscious.{{citation}}
+
+*'''Metal/Matter Manipulation:''' Polaris has a great ability to be able to levitate objects metallic and nonmetallic, with her electromagnetic field she can levitate objects and destroy them in the air, or through a small manipulation of gravity, can also cause non-metallic objects to levitate in the air and manipulate it through electromagnetic energy. She has the ability to indirectly manipulate non-metallic objects via metal ores they may contain. She can perceive and manipulate matter at the sub-atomic level.{{citation}}
+** '''Metal Morphing:''' Polaris has the power to physically bond metallic substances to other elements at an atomic level. This newly developed technique allows her to blend alloys to earthen, watery, gaseous and even organic substances.{{citation}}
+
+*'''Electromagnetic Spectrum Manipulation:''' Polaris has the ability to manipulate the electromagnetic spectrum and some energies like electricity, electromagnetic and magnetic (the limits of these are unknown). This is totally different from [[Ororo Munroe (Earth-616)|Storm]], who can handle (almost) all the energies of the spectrum, but Polaris has great potential for it. Her power is such that she is compared to her father Magneto. Polaris has a connection to the electromagnetic field, allowing her to handle various types of energies such as electric, gamma, x-rays, ultraviolet, visible light, lasers, and more.{{citation}}
+
+Her personal polarity is opposite that of Magneto's.{{citation}}
+
+{{Navigation
+| title  = Former Powers
+| body   = Polaris has a latent secondary mutation. Manifesting when her powers were stripped and taken by her half-sister Zaladane. This mutation was later deactivated by the [[Wanda Maximoff (Earth-616)|Scarlet Witch]]'s [[M-Day]].{{citation}}
+
+'''Negative Emotion Absorption''': Polaris was able to absorb negative emotional energy to transform into a virtual powerhouse.
+*'''Size Addition'''
+*'''Superhuman Strength'''
+*'''Superhuman Stamina'''
+*'''Invulnerability.'''
+*'''Negative Emotional Release:''' Her power also released the negativity back into her environment at an enhanced level, which caused others to act more violent, selfish, bloodthirsty, etc.
+
+'''Meta-Plague Manipulation:''' As Pestilence, Lorna had the ability to ingest and synthesize new plagues without harm, controlling the virulence and particular genetic markers. She was then capable of releasing this virus or plague as a combined mutated strain or as the various separate plagues they originally were.
+}}
+| Abilities               = Lorna possesses expertise in geophysics, and has earned a Masters degree in that field.{{citation}}
+| Strength                = Polaris possesses the normal human strength of a woman of her age, height, and build who engages in moderate regular exercise. When possessed by Malice, Lorna had superhuman strength with an unknown upper limit.{{citation}}
+| Weaknesses              = Lorna appear to have inherited her father's propensity for mental illness and depression. Lorna has at various times suffered mental breakdowns, episodes of mental illness and severe depression.{{citation}}
+
+| Equipment               = * She was grafted a cybernetic nanobot in her right eye by [[Serval Industries (Earth-616)|Serval Industries]], allowing [[Harrison Snow (Earth-928)|Harrison Snow]] to see what she saw at any time.{{r|All-New X-Factor Vol 1 3}}
+* Biohazard containment suit. At one point Lorna wore a metal belt with her costume that she would manipulate as a weapon or tool.
+| Transportation          = Capable of flying under her own power, which she tends to do most of the time, formerly [[Starjammer]], [[X-Men Blackbird]], [[X-Men Stratojet]], [[Sentinel Air Transport]]
+| Weapons                 =
+
+| Notes                   = [[File:Alexander Summers (Earth-616) and James Madrox (Earth-616) talk about Max Eisenhardt (Earth-616) and Lorna Dane (Earth-616)'s relation in X-Factor Vol 1 246.jpg|Polaris and Magneto's relation explained in {{cl|X-Factor Vol 1 246}}|right|thumb|150px]]
+* Lorna's green hair is a quirk of her mutation.{{r|X-Factor Vol 1 243}}
+* Lorna simply went by her real name for the first several years of her existence. She first used the code name "Polaris" in {{cl|X-Men Vol 1 97}}.
+| Trivia                  = * Polaris claimed her favorite author is Emily Brontë (styled Emily Bronte in the comic) and her favorite movie is ''Inherit the Wind'' (1960), which she described as the sequel to ''Gone with the Wind'' (1939).{{r|X-Factor Vol 1 72}} In [[Earth-1218|real life]], ''Inherit the Wind'' is not a continuation of ''Gone with the Wind'' or related to it in any way. Either any of those movies is different on [[Earth-616]], or Polaris is joking because both titles end with the words "the Wind".
+| Marvel                  = Polaris
+| Wikipedia               = 
+| Links                   = * [http://www.marveldirectory.com/individuals/p/polaris.htm Marvel Directory]
+* [http://uncannyxmen.net/characters/polaris uncannyxmen.net Spotlight On... Polaris]
+}}
+[[es:Lorna Dane (Tierra-616)]]
+
+[[Category:Magnus Family]]
+[[Category:Dane Family]]
+[[Category:Depowered Mutants]]
+[[Category:Magnetokinesis]]
+[[Category:Superhuman Strength]]
+[[Category:Superhuman Durability]]
+[[Category:Size Alteration]]
+[[Category:Flight]]
+[[Category:Energy Senses]]
+[[Category:Energy Absorption]]
+[[Category:Jewish Characters]]
+[[Category:Utopians]]
+[[Category:Apocalypse Experiment]]
+[[Category:M-Day Depowered]]
+[[Category:Repowered Mutants]]
+[[Category:Repowered by Apocalypse]]
+[[Category:Rems]]
+[[Category:Psychic Vampires]]
+[[Category:Alpha Class/Level Mutants]]
+[[Category:Horsemen of Pestilence]]
+[[Category:Insanity]]
+[[Category:Depression]]
+[[Category:Xavier Institute Student]]
+[[Category:Age of X-Man participants]]
+[[Category:Adventurers]]
+[[Category:Government Agents]]
+[[Category:Detectives]]
+[[Category:Terrorists]]
+[[Category:Force Field]]
+[[Category:Superhuman Stamina]]
+[[Category:Invulnerability]]

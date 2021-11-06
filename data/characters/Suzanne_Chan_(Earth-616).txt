@@ -1,0 +1,75 @@
+{{Marvel Database:Character Template
+| Image                   = Suzanne Chan (Earth-616) from X-Men Vol 5 10 cover 001.jpg
+| Name                    = Suzanne Chan 
+| CurrentAlias            = Sway
+| Aliases                 = Suzi 
+
+| Affiliation             = {{M|X-Men}}
+| Relatives               = David & Emily Chan (parents, deceased)
+| MaritalStatus           = Single 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 5'9"
+| Weight                  = 137 lbs.
+| Eyes                    = Brown
+| Hair                    = Black 
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo Superior|Mutant]] 
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[San Diego]], [[California (State)|California]]
+
+| Identity                = Secret
+| Citizenship             = American, Krakoan
+| Occupation              = Adventurer; former student 
+| Education               = Muir-MacTaggert Research & Development Institute, [[New York]]; high school graduate
+| BaseOfOperations        = [[Krakoa]], [[Pacific Ocean]]; formerly [[Muir Island]]; MacTaggert Research Center, [[New York]]
+
+| Creators                = Ed Brubaker; Trevor Hairsine
+| First                   = X-Men: Deadly Genesis #3
+
+| History                 = Suzanne Chan was the daughter of David and Emily Chan, originally from [[Hong Kong]], who became naturalized citizens of the [[United States]] after living twenty years in [[California (State)|California]]. At 17 years old, she wanted to attend Barnard College on the East Coast, and planned a trip to [[New York City]] to prove to her parents that she would be safe on her own after moving. During the trip, David and Emily were gunned down in a crossfire between gangs in Chinatown. Although standing a few feet from her parents, Suzanne was unscathed, which perplexed police detectives.{{r|X-Men: Deadly Genesis #3}}
+
+After the shooting, Suzanne entered a state of shock. She could only dwell on the fact that when the shooting started, she had somehow stopped the bullets in midair and was able to get herself out of the path of the bullets. In actuality, she had reflexively stopped time around the bullets, freezing them in place. Unfortunately, her reflexes hadn't protected her parents, leading to their deaths.{{r|X-Men: Deadly Genesis #3}}
+
+The police placed the traumatized girl in a hospital for forty-eight hour observation, during which she mostly slept and cried. Upon release, she was told that the police were looking into things, but they did not have any promising leads. Wandering the streets, she returned to the spot where her parents were killed. Suddenly, her mutant powers activated again and she was able to see past events in the area, namely the phantoms of herself and her parents. After witnessing the shooting for a second time, Suzanne followed the phantom car, carrying her parents’ murders, throughout the city. She then realized that she somehow had control over the flow of time and she was making it replay itself for her.{{r|X-Men: Deadly Genesis #3}}
+
+Suzanne followed the murderers to their front door and inside she could see them celebrating. She called the police, and when they arrived, the killers opened fire. Consciously using her power for the first time, she froze the bullets and the killers in time. After giving her statement to the police, the detective overseeing her case contacted [[Moira MacTaggert (Earth-TRN748)|Dr. Moira MacTaggert]], who then offered Suzanne a chance to train in the use of her mutant abilities. She went with MacTaggert and took the codename Sway.{{r|X-Men: Deadly Genesis #3}}
+
+During the course of her training, she seemed to doubt her capabilities, thereby limiting her control. One night, Professor [[Charles Xavier (Earth-616)|Charles Xavier]] came to Dr. MacTaggert and asked her to lend him the four students she was guiding so that they could facilitate the rescue of the original [[X-Men (Earth-616)|X-Men]] from the mutant island [[Krakoa (Earth-616)|Krakoa]]. This team was Xavier’s original rescue team, formed prior to his second generation of X-Men. Sway, along with [[Gabriel Summers (Earth-616)|Kid Vulcan]], [[Petra Kristensen (Earth-616)|Petra]], and [[Armando Muñoz (Earth-616)|Darwin]], were honored to be offered the chance to help the X-Men as well as being offered a spot on the team, and accepted Xavier’s offer.{{r|X-Men: Deadly Genesis #4}}
+
+Using his mind, the Professor gave the team months of training in only a matter of hours, even though he led the team to believe it was in fact months later when they shipped off. They were even given individual X-Men uniforms to wear on their mission. During this time, Sway developed a close friendship with the other members of her team.{{r|X-Men: Deadly Genesis #4|5}}
+
+Sway and her team-mates made it to Krakoa, where they found that their powers were virtually ineffective against the island's avatars. Sway was ultimately killed on Krakoa, although her actions enabled Vulcan and Darwin to survive.{{r|X-Men: Deadly Genesis #5|6}}
+
+===Resurrection===
+
+Sway was resurrected thanks to the [[Five (Earth-616)|Five]], and joined the new mutant nation of Krakoa. She was seen at the [[Summer House]] hanging out with her old team mates Petra and Vulcan.{{r|X-Men Vol 5 8}} Sway later joined the newly reformed X-Men in [[Otherworld]] defending Krakoa from the hoards of [[Amenth]].{{r|X of Swords: Destruction Vol 1 1}}
+
+| Powers                  = 
+*'''[[Chronokinesis|Temporal Manipulation:]]''' Sway could control time within her immediate vicinity According to [[Moira MacTaggert (Earth-TRN748)|Dr. Moira MacTaggert]], Sway's control over her powers weren't originally very advanced. However, her time in the mind-scape facilitated by Professor Xavier allowed her to garner months practice over her mutant abilities. Even when she was killed, Sway's body released the last of its mutant abilities, slowing time around her friends. Her power's precise nature is unknown, and may revolve around the control of chronitons, much like [[Heather Tucker (Earth-616)|Tempo]], another time-manipulating mutant.
+**'''Temporal Stasis:''' Sway could stop time in minute radiuses. This enabled her to stop objects entirely, freezing projectiles in mid-air and immobilize her enemies.
+**'''Temporal Deceleration:''' Sway could slow time in minute radiuses.
+**'''[[Glossary:Psychometry|Time Replay]]:''' Sway could replay the recent past in short bursts, witnessing events as ghostly images. Apparently, these phantom-like spectres are visible to all and not just to Sway herself.
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+
+*Sway's identity is known to authorities
+*Sway first appears in the 2<sup>nd</sup> story of [[X-Men: Deadly Genesis Vol 1 3|''X-Men: Deadly Genesis'' #3]]
+
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:X-Men (Earth-616)/Members]]
+[[Category:Chronokinesis]]
+[[Category:Psychometry]]
+[[Category:Formerly Deceased]]

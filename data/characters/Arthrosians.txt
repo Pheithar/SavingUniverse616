@@ -1,0 +1,86 @@
+{{Marvel Database:Race Template
+| Title                   = Arthrosians
+| Image                   = Arthrosians_from_Annihilation_Vol_1_3.jpg
+| Name                    = Arthrosians{{Citation}}
+| Aliases                 = Negative Zoners
+| Identity                = Secret
+| Affiliation             = [[Tyannans]]
+| Universe                = Earth-616
+| BaseOfOperations        = [[Arthros]], [[Negative Zone]]
+
+| BodyType                = Insectoid
+| AvgHeight               = Variable
+| AvgWeight               = Variable
+| Eyes                    = Variable
+| Hair                    = None
+| Skin                    = Variable
+| NumberOfLimbs           = Variable
+| NumberOfFingers         = Variable
+| NumberOfToes            = Variable
+| SpecialAdaptations      = Variable
+| UnusualFeatures         = Arthrosians are insectoids, with a wide variety of types (bipedal, wasp-like, centipede-like, beetle-like, centaur-like){{r|Annihilation: Conquest Vol 1 2}}
+
+| Origin                  = Race spawned by the [[Tyannans]]
+| GalaxyOfOrigin          =
+| DimensionOfOrigin       = Negative Zone
+| StarSystemOfOrigin      = 
+| HomePlanet              = Arthros
+| PlaceOfBirth            = 
+| Creators                = Stan Lee; Jack Kirby
+| First                   = Fantastic Four Annual #6
+
+| HistoryText             = Arthrosians are an intelligent species in the Negative Zone. They descended from the Tyannans who set out from the planet [[Tyanna|Tyanna]] to terraform other worlds, planning to use specially engineered spores. After their ship crashed on an uninhabited world of Arthros, they released all their spores and died. The spores grew and produced an intelligent insectoid being, [[Annihilus (Earth-616)|Annihilus]], who found the Tyannan wreckage and learned everything about the Tyannans, especially their genetic engineering technology.{{r|Fantastic Four Annual #6}} 
+
+Annihilus fabricated his [[Cosmic Control Rod]] from the spore canisters and used the engine to power it. With this mighty tool and a seemingly endless supply of insectivorids, he embarked on a campaign to rule the Negative Zone.{{r|Fantastic Four Unlimited #3}} It was previously believed that Annihilus was the only Arthrosian, but that has changed with the [[Annihilation Wave (Earth-616)|Annihilation Wave]]. They are an incredibly powerful race, slaughtering a million worlds on the first day of their invasion of the positive universe, otherwise known as Annihilation Day.{{r|Annihilation: Nova Vol 1 4}}
+
+===Biology===
+Arthrosians have a chitinous exoskeleton, claws or pincers, mandibles, and eyes that appear to glow. With their claws and depending on the type of Arthrosian their mandibles, they are able to rend flesh and armor (e.g. Nova uniform).{{r|Annihilation: Nova Vol 1 1}} Some of the Arthrosians have other abilities, such as flying via wings or the ability to breath fire.{{r|Annihilation: Super-Skrull Vol 1 1}}
+
+They come in a wide variety of shapes from bipedal semi-humanoids to centaur body types to beetles to wasp body types to centipedes. In a similar manner, they have a wide variety in sizes, from insectoids as tall as humans to insectoids the size of dinosaurs.{{r|Annihilation: Super-Skrull Vol 1 1}}{{r|Annihilation: Conquest Vol 1 2}}
+[[File:Arthrosians_and_the_United_Front_from_Annihilation_Conquest_Vol_1_3.png|275px|thumb]]
+
+| Habitat                 = 
+| Gravity                 = 
+| Atmosphere              = 
+| Population              = 
+
+| Powers                  = 
+Arthrosian possesses a variety of superhuman abilities thanks to their unique physiology and the harsh environment of Arthros and the Negative.
+
+*'''Superhuman Strength:''': Level of strength varies greatly depending on the type.
+
+*'''Superhuman Speed:''' Certain types of Arthrosian are capable of running and moving at speeds greater than even the finest human athlete.
+
+*'''Superhuman Stamina:''' Arthrosian musculature generates considerably less fatigue toxins during physical activity than the musculature of a human being. They can exert themselves at peak capacity for about 24 hours before fatigue begins to impair their bodies.
+
+*'''Superhuman Durability:''' Arthrosian  body is highly resistant to all forms of physical injury. The species has a [[Glossary:C#chitinous|chitinous]] [[Glossary:E#exoskeleton|exoskeleton]] that allows them withstand high caliber bullets, falls from great heights, temperature extremes, pressure extremes 0 up to 1,500 lbs per square inch, and powerful energy blasts without sustaining injury. 
+
+*'''Superhuman Agility:''' Certain types of Arthrosians have agility, balance, and bodily coordination are enhanced to levels that are beyond the natural physical limits of even the finest human athlete.
+
+*'''Superhuman Reflexes:''' Certain types of Arthrosian reaction time is enhanced to a level that is beyond the natural physical limits of even the finest human athlete.<br>
+
+*'''Flight:''' Certain types of Arthrosian have wings permitting them to fly.
+
+* '''Long-range Attacks:''' Certain types of Arthrosians have the ability to project energy beams from the eyes or fire blasts from the mouth.
+
+| Abilities               = Arthrosians salvaged advanced Tyannan technology to make their ships faster than any other race in the Zone. Arthrosians are highly familiar with the advanced technology of the Tynnans, particularly the advanced weaponry and genetic engineering technology they had at their disposal.
+| AvgStrength             = unknown
+| Weaknesses              = 
+
+| GovernmentType          = Annihilus
+| TechnologyLevel         = Advanced (salvaged from the Tyannans)<br>
+*'''Genetic Engineering Technology:''' Using techniques of the Tyannans, Annihilus can create life forms with specific characteristics, such as the Borers. However, he lacks imagination and tends to concentrate on insectivorids.<br>
+'''Transportation:''' Warp-capable starships, ranging in size from fighter-sized to planetoid sized.{{r|Annihilation: Prologue Vol 1 1}}{{r|Annihilation: Silver Surfer Vol 1 3}}<br>
+'''Weapons:''' Superior to Earth<br>
+*'''Harvester of Sorrow:''' Planetoid-sized ship which fires an energy beam that quickly converts a world into its most basic organic elements which is used as raw resources for the ship and Annihilation Wave itself.{{r|Annihilation: Super-Skrull Vol 1 1}}
+*'''Interstellar Warships:''' Ranging in size from fighter-sized to planetoid-sized capital ships.{{r|Annihilation: Prologue Vol 1 1}}{{r|Annihilation: Nova Vol 1 3|4}}
+*'''Directed energy weapons:''' Used in the warships and by the infantry.{{ref|Annihilation: Prologue Vol 1 1}}
+| CulturalTraits           = Warlike, Hive-like
+| Representatives          = [[Annihilus (Earth-616)|Annihilus]], [[Salo (Earth-616)|Admiral Salo]], [[Deko (Earth-616)|Admiral Deko]], [[Hawal (Earth-616)|Lord Hawal]], Queen [[Eradica (Earth-616)|Eradica]], Queen [[Extermina (Earth-616)|Extermina]], Queen [[Extirpia (Earth-616)|Extirpia]]
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Races of Aliens]]
+[[Category:Insectoid Races]]

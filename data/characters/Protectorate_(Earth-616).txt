@@ -1,0 +1,34 @@
+{{Marvel Database:Team Template
+| Image                   = Protectorate (Earth-616) from Darkstar and the Winter Guard Vol 1 1 001.jpg
+| Name                    = Protectorate
+| Aliases                 = 
+
+| Status                  = Defunct
+
+| Identity                = Secret
+| Reality                 = Earth-616
+| BaseOfOperations        = Mobile; Formerly [[Limbo (Temporal)]]
+
+| Leaders                 = [[Nikolai Krylenko (Earth-616)|Vanguard]]
+| CurrentMembers          = 
+| FormerMembers           = [[Tania Belinskaya (Earth-616)|Starlight]], [[Illarion Pavlovich Ramskov (Earth-616)|Powersurge]], [[Fantasia (Earth-616)|Fantasma]], [[Josef Petkus (Earth-616)|Steel Guardian]], [[Perun (Earth-616)|Perun]], [[Vostok (Anatoly) (Earth-616)|Vostok]]
+| Allies                  = [[Winter Guard (Earth-616)|Winter Guard]], [[Nathaniel Richards (Immortus) (Earth-6311)|Immortus]]
+| Enemies                 = [[Fantasia (Earth-616)|Fantasma]], [[Dire Wraiths]]
+
+| Origin                  = Formed by former Russian government agents frustrated with their government's use of [[Laynia Petrovna (Earth-616)|Darkstar]]'s remains as a tool to empower others. 
+| PlaceOfFormation        = [[Russia]]
+| PlaceOfDissolution      = 
+| Creators                = Steve Ellis; David Gallaher
+| First                   = Darkstar and the Winter Guard #1
+| Last                    = Darkstar and the Winter Guard #3
+
+| HistoryText             = The Protectorate was a small team of Russian government superhuman agents who were frustrated with their government's use of their comrade Darkstar's remains as a tool to empower others.{{Citation}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = Each teammate's arsenal
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

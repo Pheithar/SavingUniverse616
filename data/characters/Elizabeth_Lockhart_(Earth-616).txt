@@ -1,0 +1,52 @@
+{{Marvel Database:Character Template
+| Image                   = Elizabeth Lockhart (Earth-616) from Double Edge Omega Vol 1 1 001.jpg
+| Name                    = Elizabeth Lockhart
+| CurrentAlias            = Beck Lockhart
+| Aliases                 = 
+
+| Affiliation             = Formerly {{M|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}, [[Spook (Earth-616)|Spook]]
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Blond
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = S.H.I.E.L.D. Financial Agent
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Howard Chaykin; Corky C. Lehmkuhl
+| First                   = Fury of S.H.I.E.L.D. Vol 1 1
+| Death                   = Double Edge: Omega Vol 1 1
+
+| History                 = Beck Lockhart was a [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] financial agent. She oversaw substantial financial cutbacks to S.H.I.E.L.D. and forced [[Nicholas Fury (Earth-616)|Nick Fury]] to give up smoking.{{r|Fury of S.H.I.E.L.D. Vol 1 1}}
+
+She was secretly a member of a cabal seeking to place the organization under their control. She was discovered leaking information to the [[Frank Castle (Earth-616)|Punisher]] and was eliminated by [[Valentina Allegra de Fontaine (Earth-616)|Contessa Valentina]].{{r|Double Edge: Omega Vol 1 1}}
+
+| Powers                  = None.
+| Abilities               = 
+| Strength                = Normal human.
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

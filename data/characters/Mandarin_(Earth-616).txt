@@ -1,0 +1,190 @@
+{{Marvel Database:Character Template
+| Image                   = Mandarin (Earth-616) from Invincible Iron Man Vol 1 511 cover.jpg
+| Name                    = 
+| CurrentAlias            = [[Mandarin]]
+| Aliases                 = [[Tem Borjigin]],{{r|Invincible Iron Man Vol 1 #18}}{{r|Punisher Vol 12 1}} Gene Kahn,{{r|Iron Man Vol 1 57}} [[Master Khan]],{{r|Iron Man Vol 4 16}} Zhang Tong,{{r|Wonder Man Vol 3 #2}} Zhang Fong,{{r|Wonder Man Vol 3 3}} Mandy,{{Citation}} Rasul/Messenger{{r|Iron Man Vol 4 16}}
+
+| Affiliation             = {{m|Prometheus Gentech, Inc.}} (CEO); formerly overlord of the criminal syndicates of the {{m|Triads}} of [[Hong Kong]], leader of the {{m|Hand}}; has employed the [[Avatars (Earth-616)|Avatars]], [[Arthur Parks (Earth-616)|Living Laser]], [[Erik Josten (Earth-616)|Power Man]], [[Jacques Duquesne (Earth-616)|Swordsman]], [[Amora (Earth-616)|Enchantress]], [[Skurge (Earth-616)|Executioner]], [[William Baker (Earth-616)|Sandman]], and [[Ladyfair (Earth-616)|Ladykiller]].
+| Parents                 = Unnamed father (deceased);<br>
+Unnamed mother (deceased)
+| Children                = [[Temugin (Earth-616)|Temugin]] (son);<br>
+[[Sasha Hammer (Earth-616)|Sasha Hammer]] (daughter)
+| Relatives               = [[Mei Ling (Earth-616)|Mei Ling]] (fiancée, deceased);<br>
+[[Avatars]] (creation)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Marvel Avengers: The Ultimate Character Guide Vol 1 2}}
+| Gender                  = Male
+| Height                  = 6'2"
+| Weight                  = 215 lbs.
+| Eyes                    = Green
+| Hair                    = Black
+| UnusualFeatures         = Formerly possessed dragon-like hands and had rings grafted to his spine
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Habuquan]], Inner Mongolia, [[China]]
+| PlaceOfDeath            = [[New York City]], [[New York (State)|New York]]
+| KilledBy                = Frank Castle (Earth-616)
+
+| Identity                = Secret
+| Citizenship             = Chinese
+| Occupation              = CEO; would-be conqueror; formerly an aristocrat in pre-communist China, drug lord, crimelord, mobster
+| Education               = No formal education
+| BaseOfOperations        = [[Troy (Mandarin City)|Mandarin City]], [[China]]; formerly [[Prometheus Gentech, Inc.]], [[Dragon of Heaven]], [[Makluan Starship|Palace of the Star Dragon]] in the [[Valley of Spirits]]; [[Habuquan]], Inner Mongolia, [[China]]
+
+| Creators                = Stan Lee; Don Heck
+| First                   = Tales of Suspense Vol 1 50
+| Death                   = Punisher Vol 12 1
+
+| Quotation               = To know that you are '''superior'''-- in mind, in body, in spirit. That is '''everything!''' To know that power is your '''birthright'''-- to know what untold '''thousands''' exist on this world for no reason but to '''serve''' you-- to channel their powers through '''your''' empire, be it of land or of business-- channeling it upward to fuel '''you,''' to fuel your '''glory!'''
+| Speaker                 = [[Mandarin (Earth-616)|The Mandarin]]
+| QuoteSource             = Iron Man Vol 3 10
+
+| Overview                = The man better known as the '''Mandarin''' is a warlord and criminal mastermind, who has set his sights on world domination.{{r|Iron Man: Enter the Mandarin Vol 1 2}} Born in poverty but with an ambitious drive, the Mandarin rose to power when he stumbled into a set of [[Mandarin's Rings|Ten Rings]] of alien origin which granted him extraordinary powers; a different power from each ring he wore in each of his fingers. Building a criminal empire, he reinvented himself as a nobleman, claiming to be a descendant of [[Temujin (Earth-616)|Genghis Khan]] from a cultured background.{{r|Invincible Iron Man Annual Vol 1 1}} Although the Mandarin's power derives from his ten rings, he is an skilled martial artist and swordsman, as well as a tactical and learned mastermind.{{r|Official Handbook of the Marvel Universe Vol 2 8}} The Mandarin's unrivaled power caused him to come into conflict with the armored super hero [[Anthony Stark (Earth-616)|Iron Man]], who became the Mandarin's greatest adversary and nemesis.{{r|Tales of Suspense Vol 1 50}}
+
+| History                 = 
+===Early Life and Rise to Power===
+The man that would become the Mandarin was born from an English prostitute in an opium den located within the small village of [[Habuquan]] in [[Inner Mongolia]], [[China]], where he spent his entire childhood doing forced labor. Following his mother's death due to overdose, the Mandarin killed her procurer, whom he figured was his father, and delved into a life of crime. The rise of the communist revolution saw the Mandarin becoming a fugitive.{{r|Invincible Iron Man Annual Vol 1 1}}
+
+While running away, the Mandarin stumbled into the wreckage of an alien spaceship inside a cave in the [[Valley of Spirits]], where its passenger,[[Axonn-Karr (Earth-616)|Axonn-Karr]], laid moribund. Transfixed by a set of [[Mandarin's Rings|ten small cylinders]] spinning in the ship's engine, the Mandarin ignored the alien's pleas and took the artifacts, finishing him off as well.{{r|Invincible Iron Man Annual Vol 1 1}} Having found them similar in appearance to rings, the Mandarin started wearing them as such, slowly studying each of them and gaining access to their powers. When the Mandarin first worn them all at once, his mind was reached by the warrior spirits trapped within the rings. These spirits influenced the Mandarin so his ultimate goal in life would be to resurrect them.{{r|Invincible Iron Man Vol 1 522}}
+
+[[File:Mandarin (Earth-616) from Invincible Iron Man Annual Vol 1 1 003.jpg|thumb|left|Acquiring his rings]]
+With the power of the rings, he subjugated the villages around the valley. Taking the alias of the Mandarin, he became an influential weapons-runner,{{r|Invincible Iron Man Annual Vol 1 1}} and a power that not even the Chinese Army could successfully challenge.{{r|Tales of Suspense Vol 1 50}} He even acquired his own piece of land, [[Troy (Mandarin City)|Mandarin City]], located off the mainland coast.{{r|Invincible Iron Man Annual Vol 1 1}}
+
+As he grew in power, the Mandarin attempted to escape from his past. When offering accounts of his early life, he would present himself as a respectable and educated aristocrat, born from an English noblewoman and a direct descendant of [[Genghis Khan (Earth-616)|Genghis Khan]]. It is very likely the Mandarin even became delusional, and, consumed by his own lies, started believing in them as if they were true.{{r|Invincible Iron Man Annual Vol 1 1}}
+
+===Capturing Tony Stark===
+In an attempt to unlock the true potential of the technological wonders he wore as rings, the Mandarin allied himself with warlord [[Wong-Chu (Earth-616)|Wong-Chu]]. Targeting the supply lines of American weapon-manufacturing company [[Stark Industries (Earth-616)|Stark Industries]] to the American military forces stationed in [[Sin-Cong|Siancong]], the Mandarin lured the company's CEO, genius inventor [[Anthony Stark (Earth-616)|Tony Stark]] to the country.{{r|Iron Man Vol 1 267}}<ref group="note">In {{cl|Iron Man Vol 1 267}}, the location of these events is presented as a generic Southeast Asian country, based on the original depiction from {{cl|Tales of Suspense Vol 1 39}} which presented Iron Man's origin as taking place in [[Vietnam]]. Ever since {{cl|History of the Marvel Universe Vol 2 2}}, this location has been changed to Siancong.</ref> The Mandarin intended to force Stark and his fellow prisoner, [[Ho Yinsen (Earth-616)|Ho Yinsen]], to unlock the secrets of his rings.{{r|Iron Man Vol 1 268}}
+
+In the meantime, Wong-Chu ordered Yinsen and Stark to build weapons for him. The technology they were given access to was instead put to use in the creation of an [[Iron Man Armor Model 1|armored suit]] with which Stark escaped captivity after Yinsen sacrificed himself to buy him time to charge up the suit. The development of these events gave the impression the armored Stark was actually a bodyguard who had previously rescued Stark before taking on Wong-Chu and his camp.{{r|Iron Man Vol 1 268}} From a distance and remaining unnoticed, the Mandarin witnessed Stark's escape as Iron Man, but decided not to intervene, for he had finally found his true nemesis.{{r|Invincible Iron Man Annual Vol 1 1}}
+
+===Confronting Iron Man===
+The Mandarin's first true encounter with Iron Man occurred when the armored hero was sent to China at the request of the US military high command and the [[Central Intelligence Agency (Earth-616)|CIA]]. Iron Man smuggled himself into China and was air dropped near the Mandarin's castle. He fought his way through the Mandarin's troops and the pair confronted each other, however the Mandarin's power rings were able to incapacitate Iron Man and he was taken prisoner.{{r|Tales of Suspense #50}}{{r|Iron Man: Enter the Mandarin #1}} The Mandarin then attempted to have his minions examine Iron Man's armor, but it was too well protected for them to learn its secrets.{{r|Iron Man: Enter the Mandarin #1}} Iron Man eventually revived and broke free from his imprisonment and engaged in a rematch against the Mandarin.{{r|Tales of Suspense #50}}{{r|Iron Man: Enter the Mandarin #1}} Iron Man's armor was heavily damaged and Stark himself seriously injured battling his foe, but managed to escape after detonating the Mandarin's castle. Following his battle with Iron Man, the Mandarin then began to study his foe. Learning that Iron Man was in the "employ" of Tony Stark, he believed that this was an attack on him by the western world and began accelerating his plans for global conquest, ordering his sleeper agents all over the globe to become active.{{r|Iron Man: Enter the Mandarin #2}}
+
+Then [[Ebenezer Laughton (Earth-616)|Ebenezer Laughton]] was approached by the Mandarin's sleeper agents who created the Scarecrow identity for him, but the Scarecrow failed to defeat him. With his most recent plan a failure, the Mandarin then sent his son [[Temugin (Earth-616)|Temugin]] to infiltrate Stark Industries with orders to kill Tony Stark and Iron Man.{{r|Iron Man: Enter the Mandarin #3}}
+
+Among the Mandarin's earliest schemes was the sabotage and theft of American missiles and spy planes built by Tony Stark. To restore public confidence in his workmanship, Stark donned his Iron Man armor and flew to China to investigate.{{r|Tales of Suspense Vol 1 #54}}. Iron Man foils the Mandarin's plot to collect missiles which the Mandarin has stolen, and destroying the device before riding one of the stolen US missiles back to the States.{{r|Tales of Suspense Vol 1 #55}}
+
+Mandarin set up a satellite in orbit and used it to destroy Stark's home. While Iron Man survived all watching believe that Tony Stark is killed in the explosion. Learning that it was the Mandarin, Iron Man flew to stop his arch-foe, only to be bombarded and weakened from blasts from the Mandarin's rings once he gets into close proximity of the Mandarin's base. Weakened he battles the Mandarin's robot guard Koto, who easily defeated Iron Man. It was then he revealed his origin to Iron Man.{{r|Tales of Suspense #61}} Breaking loose of the Mandarin's trap, Iron Man then stops the rocket from hitting its target by redirecting it back at the Chinese military, leaving them to believe that the Mandarin had betrayed them.{{r|Tales of Suspense #62}}
+
+The [[Jacques Duquesne (Earth-616)|Swordsman]] vanished mysteriously during a battle with the [[Avengers (Earth-616)|Avengers]]. He awoke in the lair of the Mandarin. The Mandarin allied himself with the Swordsman, giving him a more powerful sword. He then created an image of Iron Man which he sent to the Avengers, vouching for the Swordsman's membership. Once in the [[Avengers Mansion]] he planted bombs to destroy them. He later had a change of heart and tried to remove the bombs, but is caught by [[Captain America]], who believed he is attaching them. After a brief battle the Swordsman escaped again.{{r|Avengers #20}}
+
+Mandarin was among the many costumed menaces assembled by [[Victor von Doom (Earth-616)|Doctor Doom]] to disrupt the wedding of [[Reed Richards (Earth-616)|Reed Richards]] and [[Susan Storm (Earth-616)|Susan Storm]]{{r|Fantastic Four Annual Vol 1 #3}}.
+
+Mandarin used [[Ultimo (Earth-616)|Ultimo]], a 30-foot alien android possessing vast destructive power.{{r|Tales of Suspense #76}} He sent the monster against Iron Man.{{r|Tales of Suspense #77}} Ultimo was ultimately undone by the lava flow loosened by its own blasts and the Mandarin took solace in his inevitable conquest of the world, believing it to have killed Iron Man's employer Tony Stark.{{r|Tales of Suspense #78}}
+
+The Mandarin's teleportation technology, derived from Makluan science, enabled him to kidnap people at will or teleport himself out of threatening situations. The Mandarin teleported [[Harold Hogan (Earth-616)|Harold "Happy" Hogan]],{{r|Tales of Suspense #84}} a friend and confidant of Iron Man, to his castle in China half a world away, precipitating his fifth encounter with Iron Man.{{r|Tales of Suspense #85}} Hogan had been wearing the Iron Man armor at the time to help protect his employer's secret identity, and the Mandarin mistook him for his true foe. Rescuing Hogan, Iron Man physically bested the Mandarin for the first time in personal combat and redirected the missiles that the Mandarin had launched at the Mandarin's castle, destroying it.{{r|Tales of Suspense #86}}
+
+The Mandarin escaped by means of his teleportation machinery, and materialized aboard his orbiting satellite. There he constructed a gem-like device capable of broadcasting "hate-rays" toward Earth, and assembled several superhuman allies to perform certain missions for him, [[Arthur Parks (Earth-616)|Living Laser]], the original [[Erik Josten (Earth-616)|Power Man]], [[Jacques Duquesne (Earth-616)|Swordsman]], [[Amora (Earth-616)|Enchantress]], and [[Skurge (Earth-616)|Executioner]]. The [[Avengers (Earth-616)|Avengers]] managed to thwart the Mandarin's scheme and destroyed his satellite.{{r|Avengers Annual Vol 1 1}}
+
+The Mandarin then established a base in China's Gobi Desert and turned his attentions to the [[Bruce Banner (Earth-616)|Hulk]] for a time, hoping to make the dull-witted brute an accomplice.{{r|Incredible Hulk #107}} However he was not able to defeat the Hulk.{{r|Incredible Hulk #108}} Mandarin hires the [[William Baker (Earth-616)|Sandman]] to take out the Hulk after his last defeat. The Hulk destroys the Mandarin's desert base and the Mandarin sends the Sandman into a hot vat, turning him to glass. The glass later shatters, and the Sandman has to recover slowly in the Mandarin's satellite den.{{r|Incredible Hulk #114}}
+
+Mandarin tried desperately to prove that Tony Stark is Iron Man. He received a Hulk android and kidnapped [[Janice Cord (Earth-616)|Janice Cord]] in order to see if Iron Man would try and save her. Although the Mandarin's identity was concealed by a purple rag it was clear who he was because of his costume. Iron Man was led to a factory where he destroyed the robot.{{r|Iron Man #9}} He then was kidnapped for the fourth time and his mask removed. The Mandarin saw that the face under the mask wasn't Tony's while at the same time watching Mr. Stark giving a speech. Mandarin went into a rage allowing Iron Man (who had hidden his true face under another mask) to escape.{{r|Iron Man #10}} His plans thwarted, the Mandarin tried to kill Janice but the Mandarin's betrothed Mei Ling saved her at the cost of her own life. Then the Mandarin approached the robot Stark and broke him, at which moment the real Iron Man entered and fought the Mandarin. In the middle of the fight, the Mandarin escaped with his aircraft, but was shot down and brought into custody.{{r|Iron Man #11}}
+
+The Mandarin battled [[Steven Rogers (Earth-616)|Captain America]] in [[Vietnam]]. Mandarin explained to Cap that he captured Dr. Robert Hoskins in order to increase the conflict to decimate both sides of the war so that he can take over the region easier. Captain America broke free and rescue Hoskins.{{r|Captain America #125}}
+
+===Eye of Yin===
+Returning to China, the Mandarin sought a means to increase his rings' power and learned of the legendary [[Eye of Yin]], a talisman of power created by an ancient group of Chinese sorcerers. The Mandarin maneuvered the Royal Family of [[nhumans (Inhomo supremis)|the Inhumans]] (who at the time lived in the nearby [[Himalayas|Himalayan Mountains]] of [[Tibet]]) into locating the idol for him. But before he could fully incorporate the Eye's power in his rings, [[Blackagar Boltagon (Earth-616)|Black Bolt]] overpowered him, stripped him of his ten rings, and hid them.{{r|Amazing Adventures Vol 2 #3|4}}.
+
+Unable to find the rings, the Mandarin journeyed back to the "Valley of Spirits" and the ruins of the Makluan starship wherein he first acquired the rings. There he found a headband containing technology which enabled him to recover the rings. The Mandarin used his newfound power to restore his castle to its original state.
+
+===New Bodies===
+The [[Milos Masaryk (Earth-616)|Unicorn]], another frequent opponent of Iron Man, sought the Mandarin's aid in curing him of a progressive disease.{{r|Iron Man #57}} The Mandarin and the Unicorn travelled to America to attack their common enemy Iron Man, but in the heat of battle, the Mandarin found that the headband had somehow exchanged his consciousness with that of the Unicorn. The Mandarin was forced to flee, desperate to rescue himself from the Unicorn's dying body.{{r|Iron Man #58}}
+
+When the Mandarin arrived at his castle in China, he found that it had been taken over by [[Plan Chu (Earth-616)|Yellow Claw]], another Oriental mastermind. The Mandarin was forced to find another laboratory to try to restore his brain back to its rightful body.{{r|Iron Man #68}} With the unwilling aid of the Japanese mutant [[Shiro Yoshida (Earth-616)|Sunfire]], the Mandarin restored his mind to its rightful body. In battle with Iron Man again, the Mandarin's interim headquarters was destroyed.{{r|Iron Man #69}} The Mandarin then launched an attack on the Yellow Claw in an attempt to regain his own castle. The Mandarin was fatally injured when the Yellow Claw robot he had been battling exploded.{{r|Iron Man #70}} As the Mandarin lay dying, he used the headband's mind-transferring capacities to transfer his consciousness into his ten rings. When the rings were confiscated by the Yellow Claw's power-hungry servant [[Loc Do (Earth-616)|Loc Do]], the Mandarin's consciousness entered Loc Do's body, permanently driving out Loc Do's.{{r|Iron Man #99}} Using his Matter-Rearranger ring, the Mandarin transformed Loc Do's body into a younger duplicate of his original one. The Mandarin returned to his castle, discovering that it had again been destroyed.{{r|Iron Man #98}}
+
+After rebuilding it, the Mandarin attempted to capture Iron Man using his teleportation devices, but once again caught someone else clad in his armor. This time it was [[Michael O'Brien (Earth-616)|Michael O'Brien]], who would later become a friend of Stark's. Iron Man flew to O'Brien's rescue, clad in an old set of armor, thwarted his attempt to bomb the United States, saved him, and for a second time bested the Mandarin in personal combat. Perhaps due to the effect of the Mandarin's mental domination ring on him, Iron Man did not take the Mandarin into custody, but permitted him to remain free to launch further threats against the world.{{r|Iron Man #100|101}}
+
+The Mandarin later schemed to transform the [[Vibranium]] mound in the African country of [[Wakanda]] into isotopic form that destroys the molecular cohesion of metals. He was thwarted by Iron Man and the [[T'Challa (Earth-616)|Black Panther]].{{r|Iron Man Annual #5}}
+
+===The New Iron Man===
+Another plot involved attempting to destroy China's entire rice crop in order to provoke World War III, during which he encountered [[James Rhodes (Earth-616)|James Rhodes]], during his custodianship of the Iron Man armor.{{r|Iron Man #179}} The Mandarin hired [[Chen Lu (Earth-616)|Radioactive Man]] to take out Iron Man.{{r|Iron Man #180|181}}
+
+===The Hand===
+Later, while Anthony Stark was trying to set up a branch of [[Stark Industries|Stark Enterprises]] in [[Hong Kong]], Iron Man and the Mandarin came into conflict yet again. The Mandarin had taken the name of Zhang Tong, and had become a financial leader in Hong Kong. As Tong, he controlled a number of government officials and industry leaders of Hong Kong. The Mandarin thwarted all of Stark's attempts to set up a business branch, even resorting to murder.{{r|Iron Man #241}} The Mandarin now employed a group of followers, called the [[Hand (Earth-616)|Hand]], to do his dirty work. While on missions for the Mandarin, members of the Hand were allowed to take one of the Mandarin's rings and use its powers. If the Hand member was captured, he would fanatically try to kill himself. If the Hand member was killed or knocked out, the ring would automatically teleport back to the Mandarin.{{r|Iron Man #242}} The Mandarin's agents kidnapped James Rhodes and several of Stark's other employees, forcing Iron Man into single combat in exchange for their lives. Iron Man defeated the Mandarin once again, and helped Stark's employees escape the Hand. The Mandarin's minions were left without their weapons when their master was knocked unconscious, causing his rings to teleport back to him automatically and leaving them unarmed and unable to stop Stark's employees from fleeing.
+
+At one point, the mutant heroine [[Elizabeth Braddock (Earth-616)|Psylocke]] passed through the mystic portal known as the [[Siege Perilous]]. The portal transformed Psylocke slightly and relocated her to an Asian shore, where she immediately encountered the Hand assassin [[Kwannon (Earth-616)|Kwannon]] and the two somehow merged their minds/personalities.{{r|Uncanny X-Men #256}} The Hand brought Psylocke to the Mandarin, who oversaw Psylocke's transformation into the Hand's ultimate assassin. During this time, the Mandarin teamed up with several other villains during the "[[Acts of Vengeance (Event)|Acts of Vengeance]]". Psylocke was eventually rescued by her [[X-Men (Earth-616)|X-Men]] teammates [[James Howlett (Earth-616)|Wolverine]] and [[Jubilation Lee (Earth-616)|Jubilee]], and Psylocke defeated the Mandarin, causing events which led to the Mandarin's exile from the Hand.{{r|Uncanny X-Men #258}}
+
+===Fin Fang Foom===
+The Mandarin travelled to [[San Francisco]]'s Chinatown to find Chen Hsu, who is responsible for stealing one of the Mandarin's power rings and replacing it with a duplicate. Chen Hsu politely returned the true ring to him. Once the Mandarin slipped it on he doubled over in pain and fell to the floor.{{r|Iron Man #260}} Chen Hsu now used his own mystic knowledge to remove the shadows that have clouded the Mandarin's memory for so long. The Mandarin returned to [[Valley of the Sleeping Dragon]] where he came upon a huge ancient doorway, built into side of a mountain. It was in the temple he found the ancient dragon [[Fin Fang Foom (Earth-616)|Fin Fang Foom]].{{r|Iron Man #261}} Mandarin has awoke the dragon and offered to enter into a covenant with him in an effort to re-mold the world.{{r|Iron Man #262}}
+
+Chinese soldiers converge on the location of the Valley of the Sleeping Dragon in southeastern China. Fin Fang Foom emerges and completely razes the entire region, he thanked them for waking him and pledges to grant them a merciful death. However Chen blew some smoke at Fin Fang Foom and he fell unconscious.{{r|Iron Man #263}} In China, he and Chen Hsu's control over Fin Fang Foom, had allowed them to take over one-third of the entire country.{{r|Iron Man #264}} Chen Hsu grew annoyed at the Mandarin arrogance he threatened him he would reveal his true form.{{r|Iron Man #265}}
+
+The Mandarin sent a message to the Chinese government declaring that he expected them to yield total and complete control over the entire country over to him. Failure to do so will incur the wrath of the Mandarin and Fin Fang Foom.{{r|Iron Man #266}} The Mandarin had a nightmare that Chen Hsu told him represented his mortality.{{r|Iron Man #267|268}} The Mandarin exercised by defeating four of China's best warriors in unarmed combat, slaying one who panicked by trying to use a weapon from Mandarin's wall display, then told Chen Hsu he has focused his chi and is ready.{{r|Iron Man #269}} When Iron Man confronted the Mandarin and Fin Fang Foom he was easily defeated by the dragon.{{r|Iron Man #270|272}} During the battle eight other dragons appeared.{{r|Iron Man #273}} It is revealed that many thousands of years ago, a number of aliens from the planet [[Kakaranthara]], fourth planet of the star Maklu, traveled to Earth to look for the conflict which was unknown in their culture, and which they craved. The ship crashed, stranding them on Earth for thousands of years, after which the Mandarin found the ship and claimed their rings.{{r|Iron Man #274}} Now, they demand them back, but he refused them. Iron Man forcibly combined his power with the rings, and managed to destroy the Makluan dragons.{{r|Iron Man #275}} The blast vaporized the Mandarin's hands, and renders him comatose.{{r|Iron Man #276}}
+
+===Heart of Darkness===
+Sometime later, the Mandarin had discovered the [[Heart of Darkness (Mandarin)|Heart of Darkness]], an orb of apparently mystic energy.{{r|Marvel Comics Presents #169}} The Mandarin confronted demons from his past, and overcame previous failures to claim his inheritance, The Heart of Darkness!{{r|Marvel Comics Presents #170}} He used it to turn back time in China.{{r|Iron Man #306|311}}{{r|War Machine #8|10}}
+
+Iron Man, with his team [[Force Works (Earth-616)|Force Works]] and ally War Machine, broke his power, but not before the Mandarin discovered that Tony Stark was the man inside the Iron Man armor.{{r|Force Works #6|7}} Iron Man infected Mandarin with a techno-organic virus, and the orb, seeing him infected with technology, rejected the Mandarin and imploded. Iron Man believed him dead, but in reality the Mandarin was transported and transformed by the last flare of the orb's magic, turned into a janitor in the Hong Kong branch of Stark Enterprises.{{r|Iron Man #312}}
+
+===Return===
+Eventually, Mandarin's memories returned to him and instead of trying to crush technology, Mandarin believed that the feudal system of yesterday had merely been transformed into the capitalism of today.{{r|Iron Man Vol 3 #1}} Mandarin set plans into motion to create a giant flying fortress called the [[Dragon of Heaven]],{{r|Iron Man Vol 3 #2}} with which he could conquer Russia and eventually the world.{{r|Iron Man Vol 3 #3}} During this time, Iron Man reappeared after being believed dead in a battle against the psychic menace [[Onslaught (Psychic Entity) (Earth-616)|Onslaught]]. The Mandarin initiated a series of attacks on Iron Man, culminating in a battle in the Dragon of Heaven.{{r|Iron Man Vol 3 #9}} Mandarin's primary purpose was not conquering [[Russia]], but to test Iron Man and prove him worthy as a foe and to justify Mandarin's own thoughts on capitalism. Iron Man successfully destroyed the Dragon.{{r|Iron Man Vol 3 #10}}
+
+An aged man named Khan was found by [[Karim Mahwash Najeeb (Earth-616)|Karim Mahwash Najeeb]] in a psychiatric ward, chained and meditating. Najeeb attempted to return his rings to him and asked the Mandarin to join his cause. He was met with silence. Najeeb then ordered his men to shoot the old man. The Mandarin freed himself, with one of Najeeb's men supplicating to him. He accepted the rings, later having them burnt into his spine.{{r|Iron Man Vol 4 16}}{{r|Invincible Iron Man Vol 1 17}}
+
+===Prometheus Corporation===
+As Tem Borjigin, he ran the [[Prometheus Gentech, Inc.|Prometheus Corporation]].{{r|Invincible Iron Man Vol 1 #21}} As part of his manipulations, he provided terrorist groups with bio-weapons. [[Maya Hansen (Earth-616)|Maya Hansen]]'s death was faked so she could work on [[Extremis]] projects for him.{{r|Invincible Iron Man Vol 1 #22}} The Mandarin coerced [[Cooper Roth (Earth-616)|Cooper Roth]] to work for him in order to save Roth's mother. He also influenced Secretary Kooning to oppose Tony Stark's investigations in the Omaha area.{{r|Invincible Iron Man Vol 1 #23|24}}
+
+===Long Way Down===
+The Mandarin freed [[Ezekiel Stane (Earth-616)|Ezekiel Stane]], the boyfriend of his daughter [[Sasha Hammer (Earth-616)|Sasha Hammer]], from prison in order to use Stane's genius for his own end, as a tool to destroy Tony Stark.{{r|Invincible Iron Man Vol 2 33}}
+
+Together, Stane and the Mandarin revamped numerous of Tony Stark's old foes to wreak havoc across the world, including [[Blizzard (Jim) (Earth-616)|Blizzard]],{{r|Invincible Iron Man Vol 1 510}} and [[Dreadnought (robot)|Dreadnoughts]].{{r|Invincible Iron Man Vol 1 512}} The Mandarin used a photo of Iron Man having his armor in short cut to manipulate the press into reporting that Tony Stark had been drunk,{{r|Invincible Iron Man Vol 1 510}} compromising Stark's image as an appropriate pilot of the armor, ultimately making the military force him install a device that allowed them to shut down the Iron Man armor when necessary.{{r|Invincible Iron Man Vol 1 514}}
+
+This device was used before Stark could heed a call for help to stop [[Christopher Colchiss (Earth-616)|Melter]]'s rampage in Los Angeles, giving [[Bruce Babbage (Earth-616)|General Bruce Babbage]], an ally of the Mandarin, the excuse to deploy [[James Rhodes (Earth-616)|War Machine]], who was fatally injured in battle after the Melter was aided by [[David Cannon (Earth-616)|Whirlwind]] and the [[Arthur Parks (Earth-616)|Living Laser]].{{r|Invincible Iron Man Vol 1 514}}
+
+To Mandarin's surprise, Stark quit being Iron Man.{{r|Invincible Iron Man Vol 1 516}} However, this was part of Stark's own counter-plan against the Mandarin, in addition to faking War Machine's death, and having him assume the identity of the new mysterious Iron Man.{{r|Invincible Iron Man Vol 1 517}} Infuriated by the unexpected turn of events, the Mandarin tried to assassinate Stark by deploying Chemistro and Mauler,{{r|Invincible Iron Man Vol 1 518}} but the attempt was thwarted by the new Iron Man.{{r|Invincible Iron Man Vol 1 520}}
+
+In addition to Iron Man's destruction, the Mandarin had Ezekiel work on the [[Titanomech]],{{r|Invincible Iron Man Vol 1 512}} as a means to provide bodies for the spirits inside his rings, which had been pulling Mandarin's strings since long ago.{{r|Invincible Iron Man Vol 1 522}} However, Stane's first demonstration of a Titanomech failed miserably.{{r|Invincible Iron Man Vol 1 516}} The Mandarin took control of Stark's mind and turned him into a slave to build the Titanomechs.{{r|Invincible Iron Man Vol 1 521}}
+
+With three Titanomechs done, the Mandarin took three of his rings and put them on the machines. However, the Mandarin didn't have everything under control, as Stark and Ezekiel were planning on rebelling against their "master," for which Tony enlisted the help of fellow prisoners.{{r|Invincible Iron Man Vol 1 523}} Blizzard, Living Laser and Whirlwind heeded the call. Additionally, [[Stark Resilient (Earth-616)|Resilient]] was able to use the microbots known as the [[Swarm (Resilient)|Swarm]] to track down Tony's repulsor tech and find him. The Mandarin was informed that Resilient was looking for Stark, and decided to finish with him, even if that endangered the production of the final Titanomechs. In that moment, Tony and his allies started the rebellion against him.{{r|Invincible Iron Man Vol 1 524}}
+
+While Whirlwind, Blizzard and Living Laser destroyed the Mandarin's armories, Stark tried to fight the Titanomechs, and Ezekiel, to destroy a gigantic drill the Mandarin had built for an unrevealed purpose. During the final showdown against the Mandarin, the drill was activated and its purpose was revealed: it was going to drill the Earth to access its core, to fuel the Titanomechs.{{r|Invincible Iron Man Vol 1 525}} The [[Dynasty (Earth-616)|Dynasty]] and the [[Triumph Division (Earth-616)|Triumph Division]] arrived just in time to turn the tide of the battle in Stark's favor. Meanwhile, Resilient repurposed the Swarm to power up Stark, who in turn weaponized it and used it to destroy the Titanomechs and the drill. At the same time Stark was dealing with the Titanomechs, Stane had taken the Mandarin on one-on-one and killed him.{{r|Invincible Iron Man Vol 1 526}}
+
+===Bagalia===
+The Mandarin returned to life through unrevealed means, having also recovered his rings. He allied himself with [[Hydra (Earth-616)|Hydra]]'s leader [[Helmut Zemo (Earth-616)|Baron Zemo]] and became the representative of [[Bagalia]] in the [[United Nations (Earth-616)|United Nations]] with the objective of having the small nation recognized by the intergovernmental body. During a General Assembly session in New York, the Mandarin was killed by the [[Frank Castle (Earth-616)|Punisher]] using a special weapon he had stolen from Hydra that could bypass the shields created by the Mandarin's rings.{{r|Punisher Vol 12 1}}
+
+| Powers                  = * '''[[Chi Manipulation]]:''' The Mandarin possesses superhuman physical powers. The Mandarin can survive for years without food and water by living on stored [[Glossary:Chi|Chi]].{{r|Official Handbook of the Marvel Universe Master Edition #19}}
+
+| Abilities               = 
+* '''Martial Arts:''' The Mandarin is a superb athlete with tremendous skill in the various martial arts.{{r|Official Handbook of the Marvel Universe Vol 2 #8}}
+* '''Super-Genius Intelligence:''' The Mandarin is one of the world's greatest scientific geniuses. Not only has he made himself into an authority on [[Makluan]] science, but he has also built upon this knowledge by making further discoveries based upon it.{{r|Official Handbook of the Marvel Universe Vol 2 #8}}
+* '''Historian:''' The Mandarin is extremely knowledgeable on ancient history, specifically that of Asia and China.{{r|Official Handbook of the Marvel Universe Vol 2 #8}}
+* '''[[Multilingual]]:''' The Mandarin is fluent in various languages most notably English and his native Mandarin Chinese.{{r|Tales of Suspense #50}}
+| Strength                = * Without increasing his strength with chi, The Mandarin possesses the peak human level of strength a man of his age, height, and build that exercises intensively.{{r|Official Handbook of the Marvel Universe #7}}
+| Equipment               = Formerly a forcefield generator in costume; formerly possessed the [[Heart of Darkness]] and the [[Eye of Yin]].{{r|Official Handbook of the Marvel Universe #7}}
+*'''[[Dragon of Heaven]]:''' This half mile long, flying mechanical dragon was a flying fortress brimming with energy weapons and missiles (external and internal), traps, and a nearly impervious self-repairing hull. It was taken down by Iron Man.{{r|Iron Man Vol 3 9}}
+*'''[[Mandarin's Space Station]]:''' This huge space station was equipped with a weapon that transmitted "hate-rays" to the Earth, turning man against man in a global conflict. It was destroyed by the Avengers.{{r|Avengers Annual Vol 1 1}}
+*'''Interceptor Ray:''' This ray could supposedly catch anything that moves, regardless of speed, and return it to the Mandarin's Castle within the hour. This device was used by the Mandarin to interfere with the US Military's use of Stark Industries new Observer Missiles in Vietnam. The Ray was destroyed by Iron Man{{r|Tales of Suspense #54|55}}.
+*'''[[Killer Satellite]]:''' This orbiting satellite could project powerful blasts of laser energy against targets on the Earth's surface. It was used to attempt to destroy Tony Stark's private estate.{{r|Tales of Suspense #61}}.
+*'''Jet Car:''' This sleek hover vehicle was utilized by the Mandarin.{{r|Tales of Suspense #62}}.
+
+| Transportation          = * Teleportation via his rings or other technologies.
+| Weapons                 = * '''[[Mandarin's Rings|Makluan Power Rings]]:''' The Mandarin's primary weapons. He can psionically activate these for a variety of effects.
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = Technology sub-page: [[Mandarin/Technology]]
+}}
+[[Category:Drug Lords]]
+[[Category:Strategists]]
+[[Category:Crimelords]]
+[[Category:Self Sustenance]]
+[[Category:Object-Based Powers]]
+[[Category:Martial Arts]]
+[[Category:Scientists]]
+[[Category:Inventors]]
+[[Category:Conquerors]]
+[[Category:Millionaires]]
+[[Category:Illusionists]]
+[[Category:Telepaths]]
+[[Category:Warlords]]
+[[Category:Dragon Form]]
+[[Category:Robotics]]
+[[Category:Chi Manipulation]]
+[[Category:Businesspeople]]
+[[Category:Multilingual]]
+[[Category:Terrorists]]
+[[Category:Arms Dealers]]
+[[Category:Mandarin's Family]]
+[[Category:Mobsters]]

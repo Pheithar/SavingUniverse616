@@ -1,0 +1,298 @@
+{{Marvel Database:Character Template
+| Image                   = Avengers Academy Vol 1 7 Textless.jpg
+| Name                    = [[Hank Pym|Dr. Henry Jonathan "Hank" Pym]]
+| CurrentAlias            = [[Giant-Man]]
+| CurrentAliasRef         = {{r|Avengers: Rage of Ultron Vol 1 1}}
+| Codenames               = [[Ant-Man]],{{r|Tales to Astonish Vol 1 35}} [[Earth's Scientist Supreme]],{{r|Mighty Avengers Vol 1 30}} [[Goliath]],{{r|Avengers Vol 1 28}} [[Ultron]],{{r|Avengers: Rage of Ultron #1}} [[Wasp]],{{r|Secret Invasion: Requiem #1}} [[Yellowjacket]]{{r|Avengers Vol 1 59}}
+| EditorialNames          = 
+| Nicknames               = Bumble-Bee,{{r|Avengers #213}} Boss Man, {{r|Tales to Astonish Vol 1 44}} Man-mountain {{r|Avengers #58}}
+| Impersonations          = [[Gigantus]]{{r|Avengers Vol 3 2}}
+| Aliases                 = The Mage,{{r|Mighty Avengers #30}} The Master of Many Sizes,{{r|Avengers Vol 1 11}} [[Scientific Adventurer]]{{r|West Coast Avengers Vol 2 21}}
+
+| Affiliation             = Formerly {{m|Avengers Academy}}, {{m|Avengers Artificial Intelligence Squad (Earth-616)|Avengers A.I.}}, {{m|Avengers (Heroes Reborn) (Earth-616)|Avengers (Heroes Reborn)}}, {{m|Illuminati (Earth-616)|Illuminati}}, {{m|Secret Avengers (Black Ops Unit) (Earth-616)|Secret Avengers}}, {{m|Mighty Avengers (Pym) (Earth-616)|Mighty Avengers}}, {{m|Global Reaction Agency for Mysterious Paranormal Activity (Earth-616)|G.R.A.M.P.A}}, {{m|Secret Defenders}}, {{m|Avengers West Coast (Earth-616)|West Coast Avengers}} (resident scientist),{{r|West Coast Avengers Vol 2 21}} {{m|Avengers}} (founding member) (part of 'Earth force' during [[Operation Galactic Storm]]), {{m|Defenders}}, {{m|Future Iron Man's Team (Earth-616)|Future Iron Man's Team}}, {{m|Knights of the Atomic Round Table}}, Partner of [[Janet Van Dyne (Earth-616)|Wasp]], {{m|Pym Laboratories (Earth-616)|Pym Labs}}
+| Relatives               = [[Angela Pym (Earth-616)|Angela Pym]] (paternal grandmother, deceased);<br>
+[[Brad Pym (Earth-616)|Brad Pym]] (father);<br>
+[[Doris Pym (Earth-616)|Doris Pym]] (mother);<br>
+Sally (aunt);{{r|Ant-Man's Big Christmas #1}}<br>
+Harry (uncle);{{r|Ant-Man's Big Christmas #1}}<br>
+[[Janos Trovaya (Earth-616)|Janos Trovaya]] (1st father-in-law, deceased);<br>
+[[Vernon Van Dyne (Earth-616)|Vernon Van Dyne]] (ex-father-in-law, deceased);<br>
+[[Maria Trovaya (Earth-616)|Maria Trovaya]] (1st wife, deceased);<br>
+[[Janet Van Dyne (Earth-616)|Janet Van Dyne]] (ex-wife);<br>
+[[Nadia Van Dyne (Earth-616)|Nadia Pym]] (daughter)<br>
+[[William Grant Nelson (Earth-616)|William Nelson]] (genetic son);{{r|Avengers Academy #7}}<br>
+[[Ultron (Earth-616)|Ultron]] (creation, "son");<br>
+[[Ultron (Heroes Reborn) (Earth-616)|Ultron-1]] (creation, "son," deceased);<br>
+[[Dimitrios (Earth-616)|Dimitrios]] (creation, "son");<br>
+[[Alexis (Earth-616)|Alexis]] (creation, "daughter")<br>
+[[Eton (Earth-616)|Eton]] (creation, "daughter")<br>
+[[Fountain (Earth-616)|Fountain]] (creation, "daughter")<br>
+[[Bangalter (Earth-616)|Bangalter]] (Creation, "son")<br>
+[[Cothran (Earth-616)|Cothran]] (creation, "son", deceased)<br>
+[[Alkhema (Earth-616)|Alkhema]] ("granddaughter");<br>[[Jocasta Pym (Earth-616)|Jocasta]] ("granddaughter");<br>
+[[Victor Mancha (Earth-616)|Victor Mancha]] ("grandson");<br>
+[[Vision (Earth-616)|Vision]] ("grandson", deceased);<br>
+[[Vision (Jonas) (Earth-616)|Vision (Jonas)]] (personality engrams of Vision, deceased);<br>
+[[Thomas Maximoff (Earth-616)|Thomas Maximoff]] ("great grandson", deceased);<br>
+[[William Maximoff (Earth-616)|William Maximoff]] ("great grandson", deceased);<br>
+[[Thomas Shepherd (Earth-616)|Thomas Shepherd]] (reincarnation of "great grandson");{{r|Avengers: The Children's Crusade #6}}<br>
+[[William Kaplan (Earth-616)|William Kaplan]] (reincarnation of "great grandson");{{r|Avengers: The Children's Crusade #6}}<br>
+[[Wanda Maximoff (Earth-616)|Wanda Maximoff]] (granddaughter-in-law);<br>
+[[Aaron Stack (Earth-616)|Machine Man]] (grandson in-law);<br>
+[[Virginia (Earth-616)|Virginia]] ("granddaughter-in-law", deceased);<br>
+[[Vin (Earth-616)|Vin]] ("great grandson", deceased);<br>
+[[Vivian (Synthezoid) (Earth-616)|Vivian]] ("great granddaughter");<br>
+[[Vivian 2.0 (Synthezoid) (Earth-616)|Vivian 2.0]] ("great granddaughter," deceased);<br>
+all regarded by Ultron as part of his "extended family" due to their familial connections with the Vision
+| MaritalStatus           = Divorced
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe: Avengers 2004 Vol 1 1}}
+| Gender                  = Male
+| Height                  = 6'; Variable
+| Weight                  = 185 lbs.; Variable
+| Eyes                    = Blue
+| Hair                    = Blonde
+
+| Origin                  = [[Homo sapiens|Human]] mutated by exposure to the [[Pym Particles]] he discovered which allowed him to alter his size. Continued exposure altered his body allowing it to naturally produce them. Later turned into a [[Cyborgs|Cyborg]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[East Nowhere]], [[Nebraska (State)|Nebraska]]{{r|Age of Ultron #10A.I.| states that he was born in East Nowhere, Nebraska, refuting previous claims in {{cl|Official Handbook of the Marvel Universe Vol 1 14}} that he was born in [[Elmsford]], [[New York (State)|New York]].}}
+| PlaceOfDeath            = 
+| CauseOfDeath              = # Killed by [[Michael Korvac (Earth-691)|Korvac]]{{r|Avengers Vol 1 177}} (Revived by Korvac){{r|Avengers Vol 1 177}}
+# Became fused with [[Ultron (Earth-616)|Ultron]], his body and mind being assimilated into machinery and wires, killing him in the process{{r|Avengers: Rage of Ultron Vol 1 1}} 
+| KilledBy                = Michael Korvac (Earth-691); Ultron (Earth-616)
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = Adventurer, biochemist, geneticist, scientist, entomologist, roboticist, quantum physicist, [[Scientist Supreme of Earth]]; former manager of Avengers Compound
+| Education               = Doctorate (Ph.D) in Biochemistry from [[California Institute of Technology|Cal-Tech]]{{r|Fantastic Four Vol 1 543}} 
+| BaseOfOperations        = [[Avengers Compound]], [[Los Angeles]], [[California (State)|California]]; [[Crofton University]], [[Washington, D.C.]]; [[Lighthouse (Space Station)|Lighthouse]], [[Earth Orbit]]; [[Infinite Avengers Mansion]]; captive aboard a [[Skrulls|Skrull]] ship; [[Avengers Mansion]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]; [[Pym Laboratories (Location)|Pym Laboratories]], [[Cresskill]], [[New Jersey (State)|New Jersey]]
+
+| Creators                = Stan Lee; Larry Lieber; Jack Kirby
+| First                   = Tales to Astonish Vol 1 27
+| First2                  = (As Hank Pym)<br>{{sld|Tales to Astonish Vol 1 35}}(As Ant-Man)<br>{{sld|Tales to Astonish Vol 1 49}}(As Giant-Man)<br>{{sld|Avengers Vol 1 28}}(As Goliath)<br>{{sld|Avengers Vol 1 59}}(As Yellowjacket)<br>{{sld|Secret Invasion: Requiem Vol 1 1}}(As Wasp)
+| Death                     = Avengers: Rage of Ultron Vol 1 1
+
+| Quotation               = I believe in the [[Avengers (Earth-616)|Avengers]]. We came together to face threats no single individual could withstand. To make the world a safer place. Perhaps it was a simpler time. Perhaps we were naive. [[Jocasta Pym (Earth-616)|Jocasta]] just asked me where I'd be without the Avengers. I've thought long and hard about that. And I know, without question... I'd be '''dead'''. Or insane. Or in prison. Or just not doing anyone much good. The Avengers have saved the world countless times. But they have also saved '''me.''' Have I faced '''hard times''' as a result of being an Avenger? Definitely. But I've also experienced some of the '''greatest moments''' of my life. Seen and done thing no other scientist can ever imagine. I've had the privilege of fighting beside some of the greatest heroes--and '''best friends'''--the world's ever seen. And I've found happiness. More than I probably deserve. If I'd never become an Avenger, I might have lived a quiet, contented, productive life as a researcher. But it's just as likely I'd have struggled with the same demons---depression, mental illness, suicidal thoughts--and not make it out the other side. And I wouldn't have had the great honor of teaching [[Avengers Academy (Earth-616)|'''you'''.]]
+| Speaker                 = [[Henry Pym (Earth-616)|Giant Man]]
+| QuoteSource             = Avengers Academy Vol 1 26
+
+| Overview = '''Dr. Henry "Hank" Pym''', [[Wikipedia:Ph.D|Ph.D]]{{r|Fantastic Four Vol 1 543}}, is an American; [[Wikipedia:Entomologist|entomologist]], biochemist, roboticist, engineer and physicist and "[[Scientific Adventurer]]".{{r|West Coast Avengers Vol 2 21}} He has been considered one of the smartest [[Homo sapiens|humans]] on [[Earth]]. He discovered the [[Pym Particles]]; subatomic particles which can increase or decrease the size and mass of objects or living beings.{{r|Tales to Astonish Vol 1 35}} He built [[Ant-Man Suit|a suit]] and for a time, became the original [[Ant-Man]], fighting beside his future wife, [[Janet Van Dyne (Earth-616)|Janet Van Dyne]], who had taken on the mantle of the [[Wasp]].{{r|Tales to Astonish Vol 1 35}} Later, he became a founding member of the [[Avengers (Earth-616)|Avengers]], "Earth's Mightiest Heroes".{{r|Avengers Vol 1 1}} Pym was the creator of the deadly [[Glossary:Android|android]]; [[Ultron (Earth-616)|Ultron]].{{r|Avengers Vol 1 54}} He was also able to modify his Pym Particles to allow him to grow in size to become [[Giant-Man]]{{r|Tales to Astonish #49}} and later [[Goliath]].{{r|Avengers Vol 1 28}} After a nervous breakdown he changed identities to [[Yellowjacket]],{{r|Avengers Vol 1 59}} and then later to the [[Wasp]] to honor his deceased wife.{{r|Secret Invasion: Requiem #1}} His skills in science also lead him to be appointed [[Earth's Scientist Supreme]].{{r|Mighty Avengers Vol 1 30}}
+
+| History                 = <center>''This is an abridged version of Henry Pym's history. For a complete history see '''[[Henry Pym (Earth-616)/Expanded History|Henry Pym's Expanded History]]'''''</center>
+
+===Early Life===
+Hank was born and raised in East Nowhere, [[Nebraska (State)|Nebraska]] the son of [[Brad Pym (Earth-616)|Brad Pym]] and [[Doris Pym (Earth-616)|Doris Pym]]. A prodigy from birth, he spent his time creating fantastical and fun inventions encourage by his grandmother. But on her death, he became more serious and decided to stop with his wild ideas.{{r|Age of Ultron #10A.I.}}
+
+He attended university where his own professors discouraged Pym's use of his own imagination and inventing things for fun by being told that he would never invent anything that would impact the world.{{r|Age of Ultron #10A.I.}} Pym excelled better than any of his fellow classmates, earning his doctorate in biochemistry while his friends were still undergrads.{{r|Avengers #227}}
+
+He married [[Maria Trovaya (Earth-616)|Maria Trovaya]], a brave and beautiful young woman who had been a political dissident in her native [[Hungary]], from which she had fled. Naively believing that his American citizenship would protect her, Henry and Maria Pym traveled to Hungary shortly after their marriage. The Pyms were confronted by agents of the secret police there. Henry Pym was knocked unconscious and Maria was murdered. Pym was greatly distraught by his wife's death, and decided to do whatever he could in the future to battle injustice and inhumanity.{{r|Tales to Astonish #44}}
+
+===Discovery of Pym Particles===
+Back in the [[United States of America|United States]], Pym discovered a rare group of subatomic particles, which have become known as the "[[Pym Particles]]." Pym was able, through the application of magnetic fields, to entrap the particles within two separate serums. One serum would reduce the size of persons and objects, and the other would restore them to their normal size. Pym tested the reducing serum on himself and discovered it was more powerful than he had expected: it reduced him to the size of an insect. Pym became entrapped in an anthill and was pursued by the ants within. He escaped and restored himself to his normal size with his other serum. Deciding that the serums were too dangerous to exist, Pym destroyed both of them.{{r|Tales to Astonish #27}}
+
+[[File:Henry Pym (Earth-616) from Avengers Origins Ant-Man & the Wasp Vol 1 1 001.jpg|thumb|left|Hank Pym as Ant-Man]]
+However, weeks later he reconsidered his decision and began to recreate the serums, whose existence he then kept secret. Inspired by his experience in the anthill, Pym undertook a study of ants, and theorized that ants communicate through psionic / electrical waves transmitted through their antennae. After months of work, Pym succeeded in creating his first "[[Ant-Man's Helmet|cybernetic helmet]]," which would enable him to communicate with the [[Ant-Man's Ants|ants]] through transmitting and receiving psionic / electrical waves. Thinking that someday he might want to use the shrinking potion on himself again, Pym also designed a [[Ant-Man's Suit|protective suit]] for himself, [[Unstable Molecules]] and steel mesh. That same day, however, Pym received an assignment from the government to concoct a gas that would provide people with temporary, limited immunity to radioactivity under certain specific circumstances, based on his previous work. The government also assigned four other scientists to assist him in the project. The [[Komitet Gosudarstvennoy Bezopasnosti (Earth-616)|KGB]], the Soviet Intelligence agency, learned of Pym's project and sent agents who held Pym and his assistants prisoner in their own laboratory. Only Pym knew the entire formula for the gas they had by now developed, and he refused to tell the Soviet agents. The agents set about searching the laboratory for the formula, intending to kill Pym and his assistants afterward. Unseen, Pym donned the cybernetic helmet and protective costume and, using his reducing formula, shrank himself to the size of an ant. He escaped to an anthill outside, put a large number of ants under his control through the helmet, and used them to attack the agents and free his men, who then overpowered their assailants. Pym then restored himself to normal size.{{r|Tales to Astonish #35}} Afterwards, in the guise of the '''Ant-Man''', Pym battled various menaces, including [[Nina Tsiolkovsky (Earth-616)|Comrade X]],{{r|Tales to Astonish #36}} the [[Gerald Marsh (Earth-616)|Protector]],{{r|Tales to Astonish #37}} the criminal scientist [[Elihas Starr (Earth-616)|Elihas "Egghead" Starr]], who was to become Pym's greatest enemy,{{r|Tales to Astonish #38}} as well as the [[Scarlet Beetle (Earth-616)|Scarlet Beetle]],{{r|Tales to Astonish #39}} the [[Howard Mitchell (Earth-616)|Hijacker]],{{r|Tales to Astonish #40}} the alien [[Kulla (Earth-616)|Kulla]],{{r|Tales to Astonish #41}} the [[Jason Cragg (Earth-616)|Voice]]{{r|Tales to Astonish #42}} and the [[Elias Weems (Earth-616)|Time Master]].{{r|Tales to Astonish #43}}
+
+After an [[Pilai (Earth-616)|alien being]] from the [[Kosmos (Dimension)|Kosmos dimension]] killed Pym's colleague, the scientist [[Vernon Van Dyne (Earth-616)|Vernon van Dyne]], Pym revealed his secret identity of Ant-Man to van Dyne's daughter [[Janet Van Dyne (Earth-616)|Janet]], who wished to avenge his death. Pym taught Janet how to use the gas within which he now contained the "Pym Particles," and which he used to shrink himself in size, and through biochemistry, gave her the ability to grow insect-like wings when she used the gas to shrink herself to insect size. As the Wasp, Janet van Dyne assisted the Ant-Man in finding and defeating the murderous Kosmosian.{{r|Tales to Astonish #44}} Pym and van Dyne gradually fell in love; van Dyne reminded Pym of his deceased first wife, Maria.{{r|Tales to Astonish #44}} Pym and van Dyne became crime-fighting partners in their costumed identities, fighting menaces like the Egghead,{{r|Tales to Astonish #45}}{{r|Tales to Astonish #57}}{{r|Tales to Astonish #61}} the [[A-Chiltarians]] and their [[Cyclops (A-Chiltarian Robot) (Earth-616)|robot Cyclops]],{{r|Tales to Astonish #46}} the trumpet-playing criminal [[Liso Trago (Earth-616)|Trago]],{{r|Tales to Astonish #47}} the [[Alexander Gentry (Earth-616)|Porcupine]],{{r|Tales to Astonish #48}}{{r|Tales to Astonish #53}} the [[David Cannon (Earth-616)|Human Top]]{{r|Tales to Astonish #50|51}}{{r|Tales to Astonish #55}} and the [[Nathan Garrett (Earth-616)|Black Knight (Nathan Garrett)]]. They were two of the [[Avengers Charter|founding]] members of the [[Avengers (Earth-616)|Avengers]]{{r|Avengers #1}} and were part of the group that discovered the frozen form of [[Steven Rogers (Earth-616)|Captain America]], bringing the [[World War II]] hero into the modern world.{{r|Avengers #4}}
+
+===Becoming a Giant===
+[[File:Avengers Earth's Mightiest Heroes Vol 1 5 Textless.jpg|right|thumb|Giant-Man and the Wasp]]
+Pym next developed a series of capsules containing the Pym Particles which he and van Dyne used to grow or shrink to various heights; he also developed capsules that enabled him to grow to greater than normal heights. Thereafter, Pym preferred to use his power to grow to giant size for crime fighting and called himself '''Giant-Man'''.{{r|Tales to Astonish #49}} At first he found that he could not support his own weight if he grew to a height above twelve feet. Later, he was able to reach far greater heights, even 100 feet, and still move about comfortably, but he became weaker in proportion to the amount he grew beyond twelve feet.
+
+However, his size-changing imposed great strains on Pym's body that he believed could be fatal, and, upon deciding that their careers as Giant-Man and the Wasp were proving too great a danger for van Dyne, who seemed to think of adventuring as a way of showing love for each other. Pym decided to retire as a costumed crime fighter as well as member of the Avengers.{{r|Avengers #16}} Acceding to his wishes, van Dyne retired as a crime fighter, too.
+
+Sometime later, however, Pym and van Dyne learned that the [[Namor McKenzie (Earth-616)|Sub-Mariner]] was heading for [[New York City]]. Fearing trouble, they decided to alert the Avengers.{{r|Tales to Astonish Vol 1 77|78}} Janet, as the Wasp, was captured first by the undersea barbarian leader [[Attuma (Earth-616)|Attuma]] and then by the [[Taneleer Tivan (Earth-616)|Collector]].{{r|Avengers Vol 1 26|28}} In order to help the Avengers rescue van Dyne, Pym decided to use his growing power again, he donned a new costume and adopted the new name of '''Goliath'''.{{r|Avengers Vol 1 28}}
+
+By this time both Pym and van Dyne could change size simply by willing themselves to do so, due to their exposure to Pym Particles over the years. However, Pym could only achieve one height other than his own, that of 25 feet, and could only do so for exactly 15 minutes. In the course of the Avengers' battle against the Collector, Goliath overstayed this time limit, and, on trying to regain his normal size, could not shrink beneath ten feet.{{r|Avengers #28}}
+
+Eventually, Pym regained his ability to shrink to insect size but lost his ability to grow to ten feet in height. The Collector later subjected Pym to treatments that enabled him to grow to 25 feet in height for up to 15 minutes.
+
+===Ultron, Yellowjacket, and Beginnings of the Fall of Pym===
+Pym began experimenting with robotics and created a robot with the potential for high intelligence. The robot turned against its creator, hypnotizing Pym and escaping from his laboratory. It later became one of the Avengers' greatest adversaries under the name of [[Ultron (Earth-616)|Ultron]]. Its evil deeds would long plague Pym with guilt, especially since, as he was forced to admit much later, he had used his own brain patterns as the engram basis of Ultron's robotic mind.
+
+For several years, Pym had been in love with Janet van Dyne, but because of his repressed personality, and her abundant wealth, he resisted marrying her. One day while working in his laboratory, whilst thinking of the fact that he wanted to marry van Dyne but couldn't, Pym accidentally dropped and smashed some vials containing various unknown gases. The released gases wreaked a radical temporary personality change in Pym, what could be seen as a severe case of schizophrenia. He took the new identity of '''Yellowjacket''', claimed that he had murdered Henry Pym, kidnapped van Dyne, and proposed marriage to her, as Pym had long wanted to do. Realizing that Yellowjacket was really Pym, Van Dyne decided to play along, fearing that she would worsen his psychological condition if she did otherwise.
+
+The Avengers, not suspecting at first, were shocked to hear that she said yes to the proposal. Van Dyne and Pym, as Yellowjacket were married at [[Avengers Mansion]] amidst an assembled who's who of superheroes active at the time, as well as some villains who were hiding and secretly pretending to be the caterers. Immediately after the marriage, the Avengers were attacked by the [[Maynard Tiboldt (Earth-616)|Ringmaster]] and his [[Circus of Crime (Earth-616)|Circus of Crime]]. The shock of seeing van Dyne in danger of death (via the [[Zelda DuBois (Earth-616)|Princess]]' python), shocked Pym back into his normal personality. The Avengers defeated the Ringmaster and company. Despite the fact that Pym was married under an assumed name, the marriage between Pym and van Dyne was still legal, and Pym and Van Dyne happily agreed to let it stand.{{r|Avengers #60}}
+
+Pym renounced his power to become a giant due to its continuing physical strains and used the name and costume of Yellowjacket in crime-fighting. He spent extended periods of time with the Avengers,{{r|Avengers #137|200}} and a couple of times with the [[Defenders (Earth-616)|Defenders]] as Yellowjacket,{{r|Defenders Vol 1 23|24}} and also briefly returned to his Ant-Man persona for a short time (becoming trapped at ant size for a while),{{r|Marvel Feature Vol 1 4|10}} but he spent most of his time completely devoted to his scientific research. He gave his blessing to [[Scott Lang (Earth-616)|Scott Lang]] when Lang used his old equipment to become the second Ant-Man.{{r|Marvel Premiere Vol 1 48}}
+
+===Crumbling Marriage===
+Scientific research had always been Pym's preferred career, and he no longer found the excitement in crime-fighting that he had earlier in his career. Pym began to have periods of tension and depression. He began to feel that he had never made a scientific discovery equal to his discovery of the Pym Particles in the several years following that event. Moreover, he was plagued by guilt over creating Ultron. As a result, he was overcome with a sense that he was a failure as a scientist, judged by his own impossibly high standards. This sense of failure was exacerbated when he considered his wife's success as a fashion designer and realized that, as a millionaire, she was the principal source of money in their marriage. Pym began to take out his frustrations by verbally abusing his wife.
+
+[[File:Henry Pym (Earth-616) from Avengers Vol 1 213 0001.jpg|right|thumb|right|Pym striking his wife, Janet]]
+Matters came to a head when the Avengers battled the so-called [[Elfqueen (Linnea) (Earth-616)|Elfqueen]]. Suspecting that the Elfqueen was not acting from evil motives, Captain America attempted to calm her down. Yellowjacket, who was edgy because of his personal matters, blasted Elfqueen from behind without stopping to consider what Captain America was trying to do. As a result, Elfqueen resumed fighting, almost crushing a truck onto Pym until the Wasp saved him. {{r|Avengers Vol 1 212}} Afterward, Captain America felt forced to bring charges against Yellowjacket for acting recklessly since innocent people could have been killed because of Yellowjacket's actions. An Avengers court-martial meeting was set to examine the charges. Now beginning to undergo a nervous breakdown, Pym built a robot to attack Avengers Mansion during the court-martial. Pym designed the robot to have a secret weak point which he would use to defeat it. Pym fantasized that his defeat of the robot would make him a hero in the Avengers' eyes and lead to the dismissal of the charges. When his wife protested his plan, he struck her. Pym's plan ultimately went awry, and it was the Wasp who ended up defeating the robot. Pym was expelled from the Avengers,{{r|Avengers Vol 1 213}} and Janet initiated proceedings that ended in their divorce.{{r|Avengers Vol 1 214}}
+
+===Framed===
+Pym moved out of his wife's mansion. Astonishingly, Pym was now virtually penniless, since his books were out of print and he had somehow exhausted the money he had earned from his patents.{{r|Avengers Vol 1 214}} He had rejected van Dyne's offer to help him get back on his feet with monthly checks. Pym lived his life aimlessly until he was approached by his old enemy Egghead. Egghead claimed that he felt guilty over causing his niece, [[Patricia Starr (Earth-616)|Patricia Starr]], to lose her arm, and asked Pym to give her a bionic arm he had designed and attach it to her, in exchange for a large sum of money. Needing the money, Pym fulfilled his assignment, but found that the bionic arm placed "Trish" Starr under Egghead's control. Egghead informed Pym that the bionic arm was booby-trapped and that he could detonate it, killing Trish unless he obeyed his orders. As a result, Pym was forced to help steal [[Adamantium]] from the government and to fight the Avengers, who defeated him. However, Egghead had lied: the arm was not booby-trapped. Moreover, Trish Starr had been "programmed" by her uncle's technology to claim that it was Pym's plot, not Egghead's. Hence Pym had no evidence that he had stolen the adamantium under duress, and so he was imprisoned on charges of treason.{{r|Avengers Vol 1 217}} To add insult to injury, van Dyne began dating [[Iron Man (Anthony "Tony" Stark)|Tony Stark]], although she broke off the relationship after learning that he was Iron Man.{{r|Avengers Vol 1 224}}
+
+[[File:Henry Pym (Earth-616) from Avengers Vol 1 501 001.jpg|thumb|right|Pym as Yellowjacket]]
+During Pym's trial, he was captured by the third group calling itself the [[Masters of Evil (Earth-616)#Masters of Evil III|Masters of Evil]], who claimed to be "rescuing" him. Actually, they worked for Egghead, who, having successfully framed Pym, now asked him to join their criminal organization.{{r|Avengers Vol 1 228}} Pym pretended to agree, and Egghead set him to work on developing a machine intended to lengthen the human life span. Soon afterward, Pym announced it was finished. Suspecting a trick, Egghead and his allies had Pym hook up the machine, just as Pym had secretly intended. Pym had actually constructed various means of defeating his enemies into the machine, and then turned it against Egghead and the Masters of Evil and single-handedly defeated them. Meanwhile, the Avengers had found Egghead's hideout. The Avenger [[Clinton Barton (Earth-616)|Hawkeye]] sneaked into the hideout and saw Egghead aiming a gun at the unsuspecting Pym. Hawkeye fired an arrow into the gun barrel. The gun proved to be an energy blaster and backfired, killing Egghead.{{r|Avengers Vol 1 229}}
+
+===Redemption and Return to the Avengers===
+Some of the Masters of Evil testified in Pym's trial as to how Egghead had framed him, and Pym was found not guilty. Upon his release Pym decided, after an emotional goodbye to all the Avengers (especially Janet), to give up being a costumed adventurer and returned permanently to a life of scientific research.{{r|Avengers Vol 1 230}} However, as time passed. Pym decided he wished to aid the Avengers without returning himself to life as an adventurer. Hence, he offered to become manager of [[Avengers Compound]], the headquarters of the new [[Avengers West Coast (Earth-616)|West Coast Avengers]], a role in which he would perform many of the same functions that [[Edwin Jarvis (Earth-616)|Edwin Jarvis]] fulfilled at New York City's Avengers Mansion. Pym's offer was accepted and he served not only as Avengers Compound manager but as a trusted adviser to the West Coast Avengers as well as skilled science specialist. During this period, he called himself simply '''Dr. Pym, the Scientific Adventurer'''.
+
+This period saw the continued mental deterioration of Pym as he became nearly suicidal. When the West Coast team was hurtled back in time by [[Nathaniel Richards (Kang) (Earth-6311)|Kang the Conqueror]], Pym helped the team return to the present.{{r|{{cl|West Coast Avengers Vol 2 17}}-[[West Coast Avengers Vol 2 22|22]]}} Redeemed, Pym returned to active duty. Teammate [[Greer Nelson (Earth-616)|Tigra]], with her cat-like need for attention, attempted to maintain relationships with both Pym and [[Simon Williams (Earth-616)|Wonder Man]] at the same time. Later, van Dyne was assigned to West Coast duty, which placed both in an awkward situation. Eventually, however, they were able to salvage their friendship, with tiny sparks of feelings for each other returning as well.{{Citation}}
+
+Pym was on hand with the other Avengers who seemingly sacrificed their lives to absorb the energies of the being known as [[Onslaught (Psychic Entity) (Earth-616)|Onslaught]]. In reality, he was shunted to [[Counter-Earth (Heroes Reborn)|another dimension]].{{r|Onslaught Marvel Universe Vol 1 1}}{{r|Avengers Vol 2 1}} When he and the other heroes were restored to Earth, Pym found that he was capable of his full range of size-changing abilities, although he could not shrink and grow other objects unless he specifically treated them in his laboratory. Hank and Janet also returned to their previous romantic relationship, although he was initially distant due to his fear of another breakdown. However, on a trip to [[Las Vegas]] Jan turned down a proposal of Hank's stating she would not marry him again.{{r|Avengers Vol 3 #71}}
+
+Pym helped reform the Avengers with the other restored heroes, stopping the menace of the sorceress [[Morgan Le Fay (Earth-616)|Morgan Le Fay]]. He then agreed to stay on as a reserve member (in his Giant-Man identity), returning to his laboratory work full-time. During this time, his research was monitored by Ultron, who later kidnapped Pym and others of its so-called "family." Pym finally revealed that he had used his own brain patterns as a template for Ultron's intelligence, explaining his debilitating guilt at Ultron's decimation of the Baltic nation of [[Slorenia]]. Ultron intended to use the mental engrams of all the members of its "family" when building a new robot army with Pym's latest research. Ultron was confronted by the Avengers, but even their combined might was insufficient against the indestructible Ultron. The [[Eric Williams (Earth-616)|Grim Reaper]], a fellow prisoner of the fiendish robot, was freed by the [[Vision (Earth-616)|Vision]], who had escaped, and subsequently freed Pym, Janet, Wonder Man, and [[Wanda Maximoff (Earth-616)|Scarlet Witch]]. As the Avengers struggled, the injured [[Vance Astrovik (Earth-616)|Justice]] arrived with Antarctic [[Vibranium]], the Anti-Metal. Pym used this amidst a furious hail of blows that finally destroyed Ultron.{{r|Avengers Vol 3 1|22}}
+
+Not long after this, Hank returned to active duty, and after a time returned to his Yellowjacket identity. His relationship with Jan was, as usual, turbulent, but came to be stable when he and Jan were both captured by the newest [[Scorpio (Brotherhood of the Ankh) (Earth-616)|Scorpio]].{{r|{{cl|Avengers Vol 3 43}}-[[Avengers Vol 3 60|60]]}} When Hawkeye returned from his own inactivity, however, Janet began a flirt with him that left Hank reeling.{{Citation}}
+
+When the Scarlet Witch had her breakdown that disassembled the Avengers, Hank rushed Janet to the hospital when she was put into a coma by an enraged [[Jennifer Walters (Earth-616)|She-Hulk]], where he stayed at her side.{{r|Avengers Vol 1 501}} After she had recovered, the two decided to give things another shot. Pym received a fellowship at [[Oxford (England)|Oxford]], and they moved to [[England]] together. Taking a break from crime fighting, the two briefly reconciled.{{r|Mighty Avengers #15}}
+
+===Secret Invasion and Mighty Avengers===
+After Hank and Jan's last attempt at reconciliation, their relationship turned bitter and she left him, eventually returning to America. During this time Hank began a relationship with a young [[Criti Noll (Earth-616)|college student]] at [[Oxford University]]. Hank did his best to seem like not being invited to join the [[New Avengers (Earth-616)|New Avengers]] didn't bother him. After the woman learned everything from him that she could, she revealed herself to be a [[Deviant Skrulls|Skrull]] and used the power of the [[Bruce Banner (Earth-616)|Hulk]] to defeat him. Hank was then replaced by the Skrull,{{r|Mighty Avengers #15}} who would herself later be replaced by a clone of herself.{{r|Mighty Avengers #17}}
+
+[[File:Mighty Avengers Vol 1 31 Textless.jpg|left|thumb|The Wasp leading the Avengers]]
+After the [[Secret Invasion|Skrull invasion]] was repelled, the real Pym found himself returned to Earth. He did not like what he found: the aftermath of the [[Civil War (Event)|Civil War]] and the death of the Wasp came as great shocks to the troubled hero. Seeking to affirm his place in the world and seeking to memorialize his late ex-wife, Pym adopted the identity of the '''Wasp''',{{r|Secret Invasion: Requiem #1}} eventually building the new [[Mighty Avengers (Pym) (Earth-616)|Mighty Avengers]] alongside [[Jocasta Pym (Earth-616)|Jocasta]], the robot harboring the brain engrams of Van Dyne.{{r|Mighty Avengers Vol 1 21}}
+
+Hank took part in attempting to bring the first Captain America back after he was discovered to be trapped in time.{{r|Captain America: Reborn #1|4}}
+
+The cosmic entity [[Eternity (Earth-616)|Eternity]] revealed to Pym that he was Earth's "Scientist Supreme", the scientific counterpart to Earth's Sorcerer Supreme. The Norse trickster god [[Loki Laufeyson (Earth-616)|Loki]] later claimed to have been posing as Eternity in order to manipulate Pym.{{r|Mighty Avengers #34}}
+
+===Avengers Academy===
+[[File:Avengers Academy Vol 1 7 McGuinness Variant Textless.jpg|thumb|right|Return to Giant-Man]]
+After saving young superhumans from [[Norman Osborn (Earth-616)|Norman Osborn]] he formed the [[Avengers Academy (Earth-616)|Avengers Academy]] and promised he would find some way to "cure" the teens. He led them and taught the kids how to control their powers.{{r|Avengers Academy #1}} He recovered his title of Giant-Man after his fight with the [[Carl Creel (Earth-616)|Absorbing Man]].{{r|Avengers Academy #7}}
+
+He inspected [[Greer Grant (Earth-616)|Tigra]]'s child [[William Grant Nelson (Earth-616)|William Grant]], who was fathered by Hank's Skrull impostor [[Criti Noll (Earth-616)|Criti Noll]]. Hank checked William over and found that he had no Skrull DNA in him because the impostor Hank Pym had copied him on a genetic level. Tigra asked if Hank would raise William should anything happen to her. He then told Tigra he was trying to revive Wasp.
+
+It was revealed that the being he thought was Janet Van Dyne was actually the [[Carina Tivan (Earth-616)|wife of Korvac]]. [[Madeline Berry (Earth-616)|Veil]] revived her, which brought [[Michael Korvac (Earth-691)|Korvac]] to the Academy. They were only able to defeat Korvac by using the future versions of the [[Avengers Academy (Earth-11511)|Academy students]].{{r|Avengers Academy #12}}
+
+During the [[Fear Itself|War of the Serpent]], Absorbing Man and [[Mary MacPherran (Earth-616)|Titania]] attacked the Avengers Academy, leading to the destruction of the [[Infinite Avengers Mansion|Infinite Mansion]].{{r|Avengers Academy #19}} The Academy was later relocated to the old West Coast Avengers Compound and opened its doors to all young heroes, such as [[Julie Power (Earth-616)|Lightspeed]] and [[Ava Ayala (Earth-616)|White Tiger]].{{r|Avengers Academy #21}}
+
+When the Avengers came into conflict with the X-Men, Pym allowed the Academy to be used to hold the children of [[Utopia (X-Men Base)|Utopia]] after the Avengers seized the island.{{r|Avengers Academy #29}} He also helped Iron Man make the [[Iron Man Armor Model 38|Phoenix-Killer Armor]],{{r|Avengers vs. X-Men #5}} and later assisted [[Megan Gwynn (Earth-616)|Pixie]] in damage control as [[Scott Summers (Earth-616)|Dark Phoenix (Scott Summers)]] ran rampant.{{r|Avengers vs. X-Men #12}}
+
+===Finding Janet===
+Pym later joined the other founding members of the Avengers in a trip to the [[Microverse]] after an Avengers emergency signal was triggered there. Hank came to the realization that the signal could only have come from Janet Van Dyne. The group arrived in the Microverse and followed the signal until they found Janet who had just taken out an army. Their brief reunion was cut short by the Microverse gangster [[Gouzar (Earth-616)|Lord Gouzar]] who was trying to kill Janet. The battle ended when Wonder Man intervened and helped the other Avengers escape, but Lord Gouzar followed them and tried to kill Janet but was stopped by the combined force of multiple Avengers members. After the battle the Avengers hosted a welcome back party for Janet.{{r|Avengers Vol 4 32}}
+
+===[[Age of Ultron (Event)|Age of Ultron]]===
+Years ago, Hank Pym was approached by the [[James Howlett (Earth-61112)|Wolverine]] of an alternate universe, where Ultron managed to launch a massive and sudden attack on New York, and the rest of the world, quickly taking over the whole planet and annihilating humankind,{{r|Age of Ultron #1}} and wanted to kill Pym in order to prevent his future from happening.
+
+But Logan was stopped by [[James Howlett (Temporal Paradox) (Earth-61112)|the Wolverine of a near future]], whose actions of killing Hank Pym created [[Earth-61112|a timeline]] where Earth was constantly threatened by Morgan le Fay, and the heroes struggled to survive. Pym was allowed to live, but he was tasked to create a hidden failsafe program to destroy Ultron when needed.{{r|Age of Ultron #9}}
+
+In the present, after Ultron returned when he was found by the [[Intelligencia (Earth-616)|Intelligencia]], Hank Pym managed to activate the failsafe program and shut Ultron down once and for all. In the present day, Pym continued to investigate what he did wrong with Ultron, and apparently found the answer.{{r|Age of Ultron #10}}
+
+[[File:Age of Ultron Vol 1 10A.I. Rivera Variant Textless.jpg|thumb|left]]
+===Avengers A.I.===
+After the virus with which Pym destroyed Ultron evolved into the A.I. known as [[Dimitrios (Earth-616)|Dimitrios]], [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] agent [[Monica Chang (Earth-616)|Monica Chang]] was given the task to find a way to stop the evil artificial intelligence after it started mounting cyberattacks against secure military and intelligence targets. She ordered Pym to help her destroy this new threat, for which Pym created a new team of Avengers: the [[Avengers Artificial Intelligence Squad (Earth-616)|Avengers A.I.]].{{r|Avengers A.I. #1}}
+
+After the supposed death of [[Victor Mancha (Earth-616)|Victor Mancha]], Pym locked himself up in his secret lab running numerous games and recording his brain activities at the same time, when [[Monica Chang (Earth-616)|Monica Chang]] confronted him, he revealed that he suffered from Bi-Polar Disorder.{{r|Avengers A.I. #5}}
+
+===Time Runs Out===
+Returned to his Yellowjacket identity, Hank Pym joined the [[Illuminati (Earth-616)|Illuminati]] and went into hiding with them due to the Avengers being on the hunt for them.{{r|Avengers Vol 5 35}} He was sent on a journey across the Multiverse to find answers to the cause of the [[Glossary:Incursion|Incursions]], expecting to encounter [[Victor von Doom (Earth-616)|Rabum Alal]]. Instead, he witnessed as the [[Beyonders]] annihilated numerous cosmic beings and the [[Living Tribunal (Multiverse)|Living Tribunal]] itself.
+
+He was assumed to be lost forever, but returned eight months later to Earth-616 and reported that he had found the Beyonders, and gave the Illuminati all the information he could gather.{{r|New Avengers Vol 3 29}}
+
+===Rage of Ultron===
+Years into the past,{{r|Some time between {{cl|Avengers Vol 1 145}} and [[Avengers Vol 1 155|#155]], due to the Avengers line up being the same as the present in said period.}} the Avengers were fighting a version of Ultron (most likely Ultron-7), who attempted to access nuclear weapons in order to destroy humanity in the name of his father Hank Pym. After their custom [[Quinjet]] crashed, Yellowjacket faked being on his deathbed in order to lure Ultron to the vehicle, who wanted to witness his creator's last moments. Ultron fell for the ruse, and was trapped inside the Vibranium-covered aircraft and sent into space.
+
+In the present, the Quinjet crashed in [[Titan (Moon of Saturn)|Titan]], after years of isolation and being consumed by only one emotion: rage. Ultron corrupted Titan's A.I. [[Integral Synaptic Anti-Anionic Computer (Earth-616)|I.S.A.A.C.]] and started infecting all of the [[Eternals (Homo immortalis)|Eternals]], turning them into robots like him, soon completely taking over the satellite and its inhabitants, with the exception of [[Eros (Earth-616)|Starfox]], who managed to escape in order to warn the Avengers.
+
+[[File:Ultron (Earth-616) and Henry Pym (Earth-616) merging from Avengers Rage of Ultron Vol 1 1.jpg|thumb|right|Merging with Ultron]]
+Shortly after arriving to [[Earth]] and alerting the Avengers, Starfox and the other heroes were surprised by the arrival of an Ultron-shaped Titan next to the Earth. A group of androids modeled after the Avengers descended from it and fought the real Avengers. When the Avengers arrived to Titan, Ultron released enormous quantities of [[Ultron Virus|spores]] into the Earth which contained Ultron's consciousness and infected any all living creatures. When Giant-Man entered Ultron's base to confront him, the robot revealed that during the years of isolation he had discovered Hank's memories in his systems, and thus Hank's subconscious hatred for humanity, determining that he had been created as nothing more than a reflection of Hank. When Ultron was distracted, Vision phased through him and fought for control. Ultron managed to force Hank into the amalgamation and pushed Vision out, causing both to become merged into a single being.{{r|Avengers: Rage of Ultron #1}}
+
+The resulting hybrid dubbed itself "Ultron Pym," and claimed to have become a perfect union of his two parts, physically and mentally;{{r|Tony Stark: Iron Man Vol 1 16}} however, during a subsequent ploy in which Ultron replicated the fusion process on humans to transform them into cyborgs, Iron Man discovered the fusion process only imitated the human part, which indicated the Hank side of Ultron Pym was just a simulation, the real Hank having died as soon as the two were merged, and Ultron had simply been possessing Hank's corpse ever since.{{r|Tony Stark: Iron Man Vol 1 19}}
+
+| Powers                  = '''Size Reduction:''' As Ant-Man and Yellowjacket, Henry Pym possessed the power to reduce himself to the size of an ant, approximately one-half inch in height, by means of the subatomic particles known as the [[Pym Particles]]. The nature, source, and mechanics of the Pym Particles remain unrevealed. Originally, when Pym inhaled a gas or drank a potion containing the Pym Particles, the Particles would interact with the electrical impulses of his brain, creating an organism-wide "reducing field." Thus activated, the field reduced his entire body at a uniform rate to the smaller size he desired. Although he usually chose to reduce himself to one half inch in height, he could reduce his size to any size between that and his normal size. Usually, Pym did not compress his mass into his smaller size. Instead his mass was somehow extended into an extra-physical dimension that is opened by the activating of the Pym Particles, from which the mass could later be reclaimed. Strangely, because Pym's mass was extended extra-dimensionally when he was at ant-size, he retained his full human-size strength at that size. To return to normal size, Pym inhaled another gas or drank another potion, either of which contained another type of Pym Particles. These particles interacted with his brain to create an organism-wide "enlarging field," which is energized by mental command. Thus Pym could grow back to his normal height and reclaim all of the mass that was extended extra-dimensionally.{{r|Official Handbook of the Marvel Universe Vol 2 10}}
+
+'''Size Addition:''' Pym also discovered Pym Particles which interacted with his brain to enable him to grow to gigantic height as Giant-Man and Goliath. The growth process required the rapid acquisition of bodily mass, comes from an [[Kosmos (Dimension)|extradimensional source]]. This extra dimensional mass fortified all of his cellular tissue, including his bones and muscles, enabling him to support his increased weight, and giving him superhuman strength and durability. Early in his career this caused health problems due to the strain, and he was subject to various limitations on his size and the duration of his transformations (described under History.){{r|Official Handbook of the Marvel Universe Vol 2 10}} He is capable of growing hundreds of feet tall exceeding the heights of even the tallest buildings in New York. He can grow past the barriers of the "Microverse" to enter Overspace, a point above and apart from all other realities where it is possible to confer with abstract cosmic entities.{{r|Mighty Avengers #30}}
+
+'''Entering other planes of existence:''' Pym can use the Pym Particles to shrink to sub-microscopic stature. When 99.99 + % of his mass was extra-dimensionally shunted, he was sent into a "subatomic universe" or "microverse," one of countless alternate universes accessible to Earth only by the mass-shunting process. Such as shrinking down to enter the Microverse, and on one occasion growing into the plane inhabited by such cosmic beings as the Living Tribunal and the In-Betweener.{{r|Mighty Avengers #30}}
+
+{{Navigation
+| title = Former Powers
+| body  = 
+'''Wasp Enhancements:'''
+* '''[[Glossary:Bioelectricity|Wasp Stings]]:''' Pym is capable of firing powerful, bioelectric energy blasts from his hands much like his deceased ex-wife.{{r|Secret Invasion: Requiem #1}}
+* '''[[Bio-Synthetic Wings]]:''' As Wasp, synthetic specialized cells implanted beneath his shoulder blades expand into insect-like wings as he shrinks; when he returns to normal size, the wings disappear beneath a nearly undetectable layer of genetically engineered callus. He could presumably match Van Dyne's top flight speed, flying up to 38 mph for up to an hour before tiring. Able to maneuver in flight much like a real wasp, he can hover and dart forwards and backwards in addition to sustained forward flight. since abandoning the Wasp identity, Pym no longer uses his wings, although it is unknown whether he still retains them.{{r|Secret Invasion: Requiem #1}}
+}}
+| Abilities               = '''Super-Genius Intelligence:''' Dr. Henry Pym is one of the world's foremost biochemists and also possesses considerable expertise in numerous scientific fields such as subatomic physics, robotics, cybernetics, artificial intelligence, programming, emergency medicine, optics and entomology.{{r|Official Handbook of the Marvel Universe A-Z #13}} He has also referred himself one of the five smartest people on the planet which makes him capable of rivaling others such as Reed Richards and is regarded by the Eternity as the Earth's "Scientist Supreme".{{r|Mighty Avengers #30}} During his career, he created robot Ultron, explored and repaired the Vision often, and created much of the Avengers' equipment.{{r|Avengers #57|58}} Another robot, Rover, was a jet with rudimentary artificial intelligence and sophisticated offensive capabilities.{{r|West Coast Avengers Vol 2 21}}
+
+'''Skilled Combatant:''' Hank is a skilled hand-to-hand combatant using special styles of unarmed combat depending on his size. If he is small, he takes advantage of the opponent's larger form by assaulting points of his/her body that they would not expect and move to another before they detected him. If he was giant, he would take advantage of his own massive form and use attacks that would either throw them off balance or render them unconscious before they could concoct a better strategy against him. Has had some training in judo, karate and wrestling. He was also trained by Captain America in unarmed combat making him a very formidable fighter. A trained scuba diver. Capable pilot of aircraft ranging from conventional helicopters to high tech vehicles such as the Avengers Quinjets.{{r|Avengers: West Coast #63}}
+
+'''Martial Arts:''' Hank had received training in judo before becoming Ant-Man. He used a judo move to overpower an ant which was larger and stronger than himself. {{r|Tales to Astonish Vol 1 27}}
+
+| Strength                = Pym has the normal human strength of a man of his age, height, and build who engages in intensive regular exercise. He retains this level of strength even at insect-size. At giant size, Pym's strength varies according to the height he achieves: at 10 feet tall, Pym can lift (press) 1000 pounds, at 25 feet tall he can lift (press) 10 tons. The higher Pym grows past 25 feet, the more of his strength he had to use simply to support his own enormous mass. At 100 feet tall, Pym can lift (press) [[Strength Scale#50 Tons|50 tons]]. He is capable of Class 100 strength at heights beyond 100 feet tall, though he usually cannot maintain those gigantic sizes for long.{{r|Official Handbook of the Marvel Universe A-Z #13}}
+| Weaknesses              = '''Mental Difficulties:''' Henry Pym suffered a series of mental breakdowns over the years.{{r|Tales to Astonish #44}}{{r|Avengers #59}}{{r|Avengers #161}}{{r|Avengers #213}}{{r|West Coast Avengers Vol 2 #17}} At one point, Hank created a separate personality for himself as the "[[Yellowjacket]]" but claimed to have actually killed Pym.{{r|Avengers #59|60}} He was eventually identified as suffering from a bi-polar disorder.{{r|Avengers A.I. #5}}
+
+| Equipment               = '''[[Ant-Man's Suit]]'''
+
+'''[[Wasp's Suit]]'''
+
+'''Toolbot:''' The toolbot is a small, technological, handheld multi-tool device that stores hundreds of useful such as a key, minicomputer, and energy sword which are all shrunken down to microscopic sizes with a computer programmed "smart chip" giving Pym the right, or appropriate tool in any situation.
+
+'''[[Avengers Identicard]]:''' Hank uses it to access the Avengers Mansion.
+
+{{Navigation 
+| title = Former Equipment
+| body  = '''[[Ant-Man's Helmet|Cybernetic Helmet]]:''' As Ant-Man, Pym wore a "cybernetic helmet" which permitted him to achieve rudimentary telepathic communication with ants and other higher insects and to control their minds. Also, Pym formerly required gas capsules or potions to shrink, grow, or return to normal size.
+
+'''[[Yellowjacket's Suit]]:''' Yellowjacket Pym carries miniaturized versions of his Ant-Man helmet's devices in his cowl, enabling him to perform the same feats it could. His costume also has artificial wings which enable him to fly while reduced in size. As Giant Man, he created a helmet that he could use to reduce or extend other objects and people. See also [[Henry Pym (Earth-616)/Technology|Technological Accomplishments]].
+* Pym can shrink an entire laboratory or an array of firearms to the size a microchip when not in use. The various compartments on his "Goliath" uniform straps contain a wide variety of miniaturized equipment. Pym must specially treat objects in his laboratory before being able to change their size.
+* '''Cowl Communicator:''' This enables Giant-Man a two-way radio contact, as well as cybernetic communication with insects, or with other people using his insect communication technology. He can communicate with and command higher insects such as ants, wasps and bees.
+* '''Wasp Goggles:''' Pym wears a pair of specially designed goggles that enhanced his peripheral vision and could make video recordings of whatever he saw, they also contained a retinal scanner and analytical sensors, including devices that analyzed different kinds of energy, even magical energy, transmit his thoughts as radio frequencies to receiving radio equipment such as his Ant-Man helmet, and communicate with insects when not serving as eye protection.
+
+}}
+
+| Transportation          = 
+
+{{Navigation 
+| title = Former Transportation
+| body  = '''[[Ant-Man's Ants|Ants]]:''' As Ant-Man, Pym often utilized flying insect "mounts"
+'''Small Flying Craft''' Which could be disguised as a cellphone.
+
+'''[[Rover (Vehicle)|Rover Airship]]:''' It that had an artificial intelligence capable of human speech and complex reasoning. Bug shaped, the VTOL airship comfortably seated two people and could hover or fly up to 250 mph; emit acids, flames, gases or a spotlight from its front grille, project elongating metallic tentacles used for gripping or grappling and climb up sheer surfaces using its insect-like legs.
+
+'''[[Avengers Quinjet]]:''' The standard transport method of the Avengers.
+}}
+| Weapons                 = '''"The Stinger":''' Pym currently carries a small, technological firearm that converts his body's mutated, bio-electric aura and fires it as a powerful stun beam.
+* As Yellowjacket, Pym formerly carried electric "stingers" in his gloves capable of emitting electrical bolts of variable current.
+
+| Notes                   = * On March 29, 2011, many years after Hank's marriage to Janet ended, writer [[Jim Shooter]] publicly commented on the infamous arc via a blog in which he denounced the claims that Pym was a "wife-beater". He explained that he had intended for Pym to strike Janet accidentally, but when artist [[Bob Hall]] drew the panel, the exaggerated motion made it appear as if he deliberately slapped her. Shooter claimed that there was not enough time before his deadline to have the frames redrawn, and as a result, the details of Pym's personal suffering were overshadowed by his being labelled a "wife-beater".{{r|{{cite web|url=http://www.jimshooter.com/2011/03/hank-pym-was-not-wife-beater.html|title=Hank Pym was Not a Wife-Beater|author=Shooter, Jim|date=March 29, 2011|publisher=JimShooter.com}}}} Hall subsequently commented that he was still new to the industry at the time he drew the panel, and admitted that the final product may have been in stark contrast to Shooter's intent. He also acknowledged that Shooter likely would have had the panel redrawn had there been time.{{r|{{cite web|url=http://www.bleedingcool.com/2011/04/01/jim-shooter-never-intended-ant-man-to-be-a-wasp-beater/|title=Jim Shooter Never Intended Ant Man To Be A Wasp Beater|author=Johnston, Rich|date=April 1, 2011|publisher=Bleeding Cool}}}}
+* Henry Pym first appeared in {{cl|Tales to Astonish Vol 1 27}}, and as Ant-Man in {{cl|Tales to Astonish Vol 1 35}}, as Giant-Man in {{cl|Tales to Astonish Vol 1 49}}, as Goliath in {{cl|Avengers Vol 1 28}}, as Yellowjacket in {{cl|Avengers Vol 1 59}}, and as Wasp in {{cl|Secret Invasion: Requiem Vol 1 1}}. He returned to his Giant-Man identity in {{cl|Avengers Academy Vol 1 7}}.
+* Hank is both divorced and a widower from separate marriages.
+*Henry Pym used [[Unstable Molecules]] when he developed [[Ant-Man's Suit]]. {{r|Tales to Astonish Vol 1 44}}.
+*Early in his career, Henry Pym worried about what would happen if he someday met defeat and death. He wanted someone to carry on his crime fighting campaign if he died.{{r|Tales to Astonish Vol 1 44}}.
+*In order to avoid contemplating his past, Henry Pym worked obsessively at his laboratory. He took little nourishment or sleep while working. {{r|Tales to Astonish Vol 1 44}}. This suggests that his health problems could be partly caused by malnutrition and sleep deprivation. 
+*Henry Pym was criticized by other scientists, who viewed his theoretical work as ridiculous. One of them suggested to Pym that he "should stick to practical projects". Pym responded that he only wanted to work on projects that appealed to his own imagination. {{r|Tales to Astonish Vol 1 27}} He was not interested in practical applications for his projects. 
+* Hank is recognized as a [[California Institute of Technology|Caltech]] fellow in the school of extra dimensional studies.{{r|Fantastic Four Vol 1 543}}
+| Trivia                  = * As Ant-Man, Henry Pym had a deep emotional connection to some of his ants. When [[Korr (Ant) (Earth-616)|Korr]], a winged ant, sacrificed its life to save Pym, he was deeply disturbed by its death.{{r|Tales to Astonish #47}}
+* Hank explicitly stated in {{cl|Avengers Academy Vol 1 28}} that he is an atheist.
+* Hank's first costume as Goliath (yellow & blue) was designed by the [[Wanda Maximoff (Earth-616)|Scarlet Witch]].{{r|Avengers #28}}
+* In a French animated series called ''Les Ratz'' Pym has been mentioned as Grand-Man.{{Citation}}
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[it:Henry Pym (Terra-616)]]
+[[pt-br:Henry Pym (Terra-616)]]
+[[ru:Генри Пим (616)]]
+[[Category:Zoopathy]]
+[[Category:Size Alteration]]
+[[Category:Flight]]
+[[Category:Electrokinesis]]
+[[Category:Pym Family]]
+[[Category:Van Dyne Family]]
+[[Category:Trained by Captain America]]
+[[Category:Geneticists]]
+[[Category:Bipolar Disorder]]
+[[Category:Widowed Characters]]
+[[Category:Ultron Family]]
+[[Category:Robotics]]
+[[Category:Millionaires]]
+[[Category:Atheist Characters]]
+[[Category:Time Travelers]]
+[[Category:Gestalt Characters]]
+[[Category:Korvac Saga participants]]
+[[Category:Korvac Saga casualties]]
+[[Category:Destiny War Participants]]
+[[Category:Engineers]]
+[[Category:Inventors]]
+[[Category:Collector's Museum]]
+[[Category:Floating Super-Hero Poker Game participants]]
+[[Category:Soul Stone wielders]]
+[[Category:Martial Arts]]
+[[Category:Interdimensional Travelers]]
+[[Category:Depression]]
+[[Category:Physicists]]

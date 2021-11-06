@@ -1,0 +1,283 @@
+{{Marvel Database:Character Template
+| Image                   = Hellions Vol 1 4 Textless.jpg
+| Name                    = [[Alexander Summers|Alexander "Alex" Summers]]
+| CurrentAlias            = [[Havok]]
+| EditorialNames          = [[Mutant X]]
+| Aliases                 = Alex Blanding,{{r|X-Factor Vol 1 -1}} Goblin Prince,{{r|Uncanny X-Men Vol 1 242}} Magistrate Summers,{{r|Uncanny X-Men Vol 1 272}} Tron{{r|X-Factor Vol 1 241}}
+
+| Affiliation             = {{m|X-Men}}, {{m|Hellions (Essex)}}; formerly {{m|X-Men (New Charles Xavier School)|X-Men}} (New Charles Xavier School member), {{m|Avengers Unity Division}} (founding member and leader), {{m|Starjammers}}, {{m|X-Factor Investigations}}, {{m|Six (Earth-1298)|Six}} (leader), {{m|Brotherhood (Havok)|Brotherhood}} (founder and leader), {{m|X-Factor (Government)|X-Factor}}, {{m|Dark Descendants}}, {{m|Magistrates|Genoshan Magistrates}}, {{m|Defenders for a Day}}
+| Relatives               = 
+[[Oscar Stamp (Earth-616)|Oscar Summers]] (adoptive paternal distant ancestor, deceased);<br> 
+[[Daniel Edge (Earth-616)|Daniel Summers]] (paternal distant ancestor, deceased);<br>
+[[Amanda Mueller (Earth-616)|Amanda Mueller]] (paternal distant ancestor, deceased);<br> 
+[[Gloria Dayne (Earth-616)|Gloria Dayne]] (paternal distant ancestor);<br>
+unnamed paternal great-grandfather (deceased);<br>
+unnamed paternal great-grandmother (deceased);<br>[[Philip Summers (Earth-616)|Philip Summers]] (paternal grandfather);<br>
+[[Deborah Summers (Earth-616)|Deborah Summers]] (paternal grandmother);<br>
+[[Christopher Summers (Earth-616)|Christopher Summers]] (father);<br>
+[[Katherine Summers (Earth-616)|Katherine Summers]] (mother, deceased);<br>
+[[Andrew Blanding (Earth-616)|Andrew Blanding]] (adoptive father);<br> 
+[[Joanna Blanding (Earth-616)|Joanna Blanding]] (adoptive mother);<br> 
+[[Scott Summers (Earth-616)|Scott Summers]] (brother);<br>
+[[Gabriel Summers (Earth-616)|Gabriel Summers]] (brother);<br>
+[[Adam Neramani (Earth-616)|Adam Neramani]] (half-brother);<br>
+[[Ahmet Abdol (Earth-616)|Ahmet Abdol]] ("brother" via X-Gene transfer);<br>
+[[Haley Blanding (Earth-616)|Haley Blanding]] (adoptive sister);<br> 
+[[Todd Blanding (Earth-616)|Todd Blanding]] (adoptive brother, deceased);<br>
+[[Madelyne Pryor (Earth-616)|Madelyne Pryor-Summers]] (ex-sister-in-law/clone of second sister-in-law, deceased);<br>
+[[Jean Grey (Earth-616)|Jean Grey-Summers]] (sister-in-law);<br>
+[[Cal'syee Neramani (Earth-616)|Cal'syee Neramani]] (sister-in-law);<br>
+[[Madelyne Pryor (Earth-1298)|Madelyne Pryor-Summers]] (alternate reality wife);<br>
+[[Scott Charles Summers (Earth-1298)|Scotty Summers]] (alternate reality son);<br>
+[[Katherine Summers (Earth-13133)|Katie Summers]] (alternate reality daughter);<br>
+[[Nathaniel Summers (Earth-616)|Nathan Summers]] (nephew, deceased);<br>
+[[Aliya Dayspring (Earth-4935)|Aliya Dayspring]] (alternate reality niece, deceased)<br>
+[[Hope Summers (Earth-80521)|Hope Summers]] (alternate reality niece, deceased)<br>
+[[Rachel Summers (Earth-811)|Rachel Grey]] (alternate reality niece);<br>
+[[Rachel Summers (Mother Askani) (Earth-811)|Rachel Summers (Mother Askani)]] (alternate reality niece, deceased);<br> 
+[[Nathaniel Grey (Earth-295)|Nate Grey]] (alternate reality nephew);<br>
+[[Nathaniel Summers (Stryfe) (Earth-4935)|Stryfe]] (nephew's clone, deceased);<br>
+[[Tyler Dayspring (Earth-4935)|Tyler Dayspring]] (great-nephew, deceased);<br>
+[[Hope Summers (Earth-616)|Hope Summers]] (adoptive great-niece);<br>
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Uncanny Avengers #1}}
+| Gender                  = Male
+| Height                  = 6'0"
+| Weight                  = 175 lbs
+| Eyes                    = Blue
+| Hair                    = Blond
+| UnusualFeatures         = Formerly left side of the face partially scarred
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Honolulu]], [[Hawaii (State)|Hawaii]]
+
+| Identity                = Public
+| Citizenship             = American, Krakoan
+| Occupation              = Adventurer; former private investigator, graduate student, space pirate
+| Education               = Masters degree in geophysics, some doctoral research completed
+| BaseOfOperations        = [[Bar Sinister]], [[Krakoa (Earth-616)|Krakoa]], [[Pacific Ocean]]; [[Summer House]], [[Blue Area of the Moon]]; formerly [[New Tian]], [[California (State)|California]]; [[Weapon X Facility|New Charles Xavier School for Mutants]], near [[Roanoke (Alberta)|Roanoke]], [[Alberta]], [[Canada]]; [[Xavier's School for Gifted Youngsters|Jean Grey School for Higher Learning]], [[Salem Center]], [[North Salem]], [[Westchester County]], [[New York (State)|New York]]; [[Avengers Mansion]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]; [[X-Factor Investigations Headquarters (Funeral Home)|X-Factor Investigations Headquarters]]; [[Starjammer]]; [[X-Factor (Government) (Earth-616)|X-Factor HQ]], [[Washington, D.C.]], [[Maryland (State)|Maryland]]; [[Genosha]]; [[Cooterman's Creek]], Australian Outback, [[Australia]]; [[Alcatraz Island]], [[San Francisco Bay]], [[California (State)|California]]; [[Rio Diablo]], [[New Mexico (State)|New Mexico]]; [[Mutant Research Center]], [[Muir Island]]; [[Alexandria (Virginia)|Alexandria]], [[Virginia (State)|Virginia]]
+
+| Creators                = Arnold Drake; Don Heck
+| First                   = X-Men #54
+
+| History                 = 
+===Early Years===
+[[File:Summers_Family_(Earth-616)_0001.jpg|thumb|left|250px|Alex, Scott and his parents, Katherine and Christopher]]
+Alexander Summers was the son of Major [[Christopher Summers (Earth-616)|Christopher Summers]], a test pilot for the [[United States Air Force (Earth-616)|U.S. Air Force]], and his wife [[Katherine Summers (Earth-616)|Katherine Ann Summers]]. He had two brothers, older brother [[Scott Summers (Earth-616)|Scott Summers]] and younger brother [[Gabriel Summers (Earth-616)|Gabriel Summers]]. All three were [[Homo superior|mutants]].
+
+When Scott and Alex were boys flying home from a family vacation in their father's vintage private plane, a scout ship from the alien [[Shi'ar Empire]] suddenly materialized and set the plane ablaze. Katherine pushed Scott and Alex out the plane door with the only available parachute. The parachute caught fire, so Scott used his mutant optic blasts for the first time to slow their descent. Scott and Alex were unaware that their parents had been teleported from the plane by the Shi'ar a moment before it exploded.{{r|Uncanny X-Men Vol 1 155}}
+
+[[File:Summers_Family_(Earth-616)_0002.jpg|thumb|left|260px|Scott and Alex in parachute]]
+Scott suffered a head injury on landing that damaged the part of his brain that would have enabled him to control his optic blasts. The two boys were hospitalized and both suffered traumatic amnesia regarding the incident.{{r|X-Factor Vol 1 39}}
+
+They left the hospital after two weeks and were placed in the [[Mister Sinister's Orphanage|State Home for Foundlings]], an orphanage in [[Omaha]], [[Nebraska (State)|Nebraska]] and were subjected to a battery of tests and experiments by the orphanage's owner, Mr. Milbury, an alias for the evil geneticist and their future enemy [[Nathaniel Essex (Earth-616)|Mr. Sinister]]. Sinister believed that Scott was the Summers brother with the most potential, so he had Alex adopted to separate them and render Scott emotionally vulnerable.{{r|X-Factor Vol 1 39}}
+
+[[File:X-Factor Vol 1 -1.jpg|thumb|left|150px]]
+Alex had little or no contact with Scott until years later. Alex was raised by [[Andrew Blanding (Earth-616)|Andrew]] and [[Joanna Blanding (Earth-616)|Joanna Blanding]], whose son [[Todd Blanding (Earth-616)|Todd]] had been killed in a car accident. Alex was pressured to act as a replacement Todd, which he tried to do as best as he could.
+
+When Todd's killer Vincent kidnapped Alex and his foster sister, [[Haley Blanding (Earth-616)|Haley Blanding]], Alex manifested his mutant powers for the first time, incinerating Vincent. Mister Sinister appeared, quite surprised to find that Alex’s potential possibly exceeded Scott's. Unfortunately, Alex lacked any control over his powers. Sinister placed psi-blocks on both Alex and Haley, causing them to forget everything that happened that night.{{r|X-Factor Vol 1 -1}}
+
+The immortal mutant [[En Sabah Nur (Earth-616)|Apocalypse]] encountered the non-mutant variant [[Ahmet Abdol (Earth-616)|Ahmet Abdol]] and deemed him to be a broken, beaten man of great potential but without direction. Apocalypse acquired a sample of Alex Summers' DNA, insuring that its coding had been modified for his purposes, and had Sinister graft it to Abdol. The experiment was only partially successful and resulted in an unexpected and quite unusual symbiotic relationship wherein Abdol's power was split between them and not shared. Deciding to use his powers for his own personal gain, Abdol created a cult around himself as a messiah, the [[Cult of Living Pharaoh (Earth-616)|Cult of the Living Pharaoh]], became a super-villain, and set about his plan to rule the world.
+
+===X-Men===
+Alex grew into an adult unaware of his brother's developing mutant power or his identity as Cyclops, leader of the [[X-Men (Earth-616)|X-Men]], until after Alex graduated from Old Landon College's geophysical studies. Ahmet Abdol, then a professor of archaeology, discovered a psychic link between himself and Alex. While both of them possessed the latent mutant power to absorb and transform cosmic radiation, Abdol's ability to exercise the power was jammed in an unknown manner by Alex' body. Abdol captured Alex and took him to his laboratory in [[Egypt]].{{r|X-Men #54|55}}
+
+Abdol found a way to screen Summers' body from ambient cosmic radiation, permitting his own body to attain its latent potential. Abdol was transformed into the Living Monolith, a gigantic mutant with vast cosmic power. The Monolith was defeated while in combat with the X-Men when Alex's latent mutant powers surfaced under the stress of entombment within the mechanism designed to screen him from cosmic radiation.{{r|X-Men #55|56}}
+
+[[File:X-Men Vol 1 58.jpg|thumb|right|150px]]
+Incapable of controlling the shock waves his body emanated, Summers chose to remain in the Egyptian desert, rather than accompany the X-Men back to [[United States of America|America]]. Summers was soon captured by one of the mutant-hunting robotic [[Sentinels Mk II (Earth-616)|Sentinels]] and brought to the headquarters of [[Lawrence Trask (Earth-616)|Larry Trask]], the son of the [[Sentinels Mk I (Earth-616)|Sentinels]]' inventor, [[Bolivar Trask (Earth-616)|Dr. Bolivar Trask]]. Trask gave Summers the codename Havok and a costume, whose chest display monitored the build-up of cosmic energy within him. When the X-Men finally freed Trask's captive mutants, Havok was severely injured.{{r|X-Men #59}} The X-Men took Havok to Dr. Karl Lykos for treatment. Lykos tried to drain Havok's lifeforce to feed his own vampiric urges. Havok's mutant energy triggered his transformation into [[Karl Lykos (Earth-616)|Sauron]], a pterodactyl energy vampire. The X-Men battled with Sauron and stopped him from further leeching off Havok.
+
+Alex accompanied his brother and his teammates back to the [[Xavier's School for Gifted Youngsters]], where he began training to help him keep his energy in check. While with the X-Men, Havok was immediately attracted to the green-haired [[Lorna Dane (Earth-616)|Lorna Dane]], much to the anger of [[Robert Drake (Earth-616)|Iceman]], who also showed a romantic interest in her. [[Charles Xavier (Earth-616)|Professor Charles Xavier]] enlisted Alex and Lorna's help repelling an invasion by the alien [[Z'nox (Race)|Z'nox]].{{r|X-Men #65}} Later, Havok and Lorna met [[Kevin Plunder (Earth-616)|Ka-Zar]] in the [[Savage Land]], were targeted by the [[Promise (Earth-616)|Promise]], and encountered the [[Bruce Banner (Earth-616)|Hulk]] who mistook Lorna for his former lover [[Jarella (Earth-616)|Jarella]].{{r|Incredible Hulk #150}}
+
+Havok gained enough mastery over his power that he could release it only when he wished to do so, as opposed to when he was near death, and could wield his power skillfully enough to become a formidable opponent in battle. Following the X-Men's battle against the island [[Krakoa (Earth-616)|Krakoa]],{{r|Giant-Size X-Men #1}} Havok and Lorna left the X-Men{{r|X-Men #94}} to pursue their mutual interest in geophysics, attending graduate school in [[Nevada (State)|Nevada]]. Alex and Lorna fell under the mind-control of the Shi'ar Intelligence agent [[Davan Shakari (Earth-616)|Davan Shakari]], also known as Erik the Red. A battle ensued at [[John F. Kennedy International Airport|Kennedy International Airport]] as the duo were turned against the X-Men and attempted to assassinate Professor Xavier.{{r|X-Men #97}} They were both eventually freed from Shakari's control{{r|X-Men #105}} and stayed at [[Muir Island]] for their recovery.{{r|X-Men #108}}
+
+At Muir Island, Lorna and Alex were attacked by henchmen of the Living Pharaoh. After arriving in [[New York (State)|New York]], [[Peter Parker (Earth-616)|Spider-Man]] came to their aid and accidentally knocked The Living Pharaoh into a containment unit that was to be used to make Alex a living battery to amplify the Pharaoh's powers a million fold, and he was transformed into the Living Monolith again. Monolith was beaten by Spider-Man and [[Thor Odinson (Earth-616)|Thor]].{{r|Marvel Team-Up #70}} After returning to Muir Island, Alex and Lorna aided the X-Men battling [[Kevin MacTaggert (Earth-616)|Proteus]].{{r|X-Men #125|128}} Afterward, they settled in [[New Mexico (State)|New Mexico]], where they completed their advanced degrees. Their plan to stay out of the affairs of the outside world did not last long as Professor X called on Alex and Lorna for help in the rescue of the friends and family of the X-Men from [[Arcade (Earth-616)|Arcade]]'s henchman [[Miss Locke (Earth-616)|Miss Locke]] in [[Murderworld]].{{r|Uncanny X-Men Vol 1 145|146}}
+
+Scott brought a visitor to meet Alex, his long-lost father, who had become a space pirate called Corsair.{{r|Uncanny X-Men Vol 1 158}} Corsair had been captured and sold into slavery by the Shi'ar Empire and later became the leader of the [[Starjammers (Earth-616)|Starjammers]]. Alex learned his grandparents were still alive and owned a shipping company in [[Alaska (State)|Alaska]]. At the Summers family reunion Scott was shocked to meet [[Madelyne Pryor (Earth-616)|Madelyne Pryor]], a pilot for his grandparents who was identical in appearance to Scott's late love and former X-Man [[Jean Grey (Earth-616)|Jean Grey]]. No one was aware that Madelyne was a clone of Jean created and programmed by Sinister to fall in love with Scott to make use of their potentially powerful offspring for his own purposes. Scott and Madelyne did grow close and Alex attended their wedding as his best man.{{r|Uncanny X-Men Vol 1 175}}
+
+===Underground X-Men===
+While living in the Rio Diablo Mountains of [[New Mexico (State)|New Mexico]], Alex and Lorna stumbled upon a [[Brood (Race)|Brood]] Star-shark.{{r|Uncanny X-Men Vol 1 218}} Alex went to warn the X-Men, who he found on the run from the Mister Sinister's Marauders. [[Ororo Munroe (Earth-616)|Storm]] ordered [[Elizabeth Braddock (Earth-616)|Psylocke]] to erase his memory so he wouldn't remember the X-Men were going to go underground and become a proactive strike force. Because Professor Xavier had trained him in mental defense, his psi-shields made him have reoccurring nightmares of being attacked by the X-Men. Alex left Lorna to check on the X-Men again. This time Psylocke refused to erase his memory a second time, fearing she might damage his mind. Havok agreed to return to the X-Men in their time of need.{{r|Uncanny X-Men Vol 1 219}}
+
+While Havok was away the Marauders went after Polaris. The psychic entity [[Alice MacAllister (Earth-616)|Malice]] possessed her body and assumed leadership of the Marauders. Havok ran into Polaris/Malice in [[San Francisco]] when she was attempting to kill Madelyne Pryor, who was still in a hospital. Malice made Alex aware of the fact that Lorna was being controlled and tormented him with the knowledge that he could do nothing about it.{{r|Uncanny X-Men Vol 1 221|222}}
+
+In [[Dallas]], [[Texas (State)|Texas]], the X-Men and Madelyne Pryor gave their lives to imprison the [[Adversary (Earth-616)|Adversary]]. The Omniversal Guardian [[Roma (Otherworld)|Roma]] restored the X-Men to life. The event was broadcast live on television and the world believed the heroes to be dead. After being resurrected, the X-Men decided to go underground and keep their rebirth secret. The X-Men resurfaced in [[Australia]], where they defeated the [[Reavers (Earth-616)|Reavers]] and claimed their [[Cooterman's Creek|base]]. Roma magically made them invisible to any sort of detection such as cameras.{{r|Uncanny X-Men Vol 1 229}}
+
+The X-Men next investigated the Brood Star-shark Havok had found and tracked the source to [[Harry Palmer (Earth-616)|Harry Palmer]], who was unaware he was infected and had made an entire crèche of mutant hosts. The X-Men were conflicted over killing the human hosts, but Havok was forced to kill several of them. He was left to wonder if killing becomes easier each time. Alex began to feel remorse for the lives he had taken, feeling that he was becoming more like Wolverine and resented the idea.{{r|Uncanny X-Men Vol 1 233|235}}
+
+Madelyne Pryor soon learned that the reason Scott had abandoned her when she saw him on television with Jean Grey.{{r|Uncanny X-Men Vol 1 234}} The demon [[S'ym]] offered to help her locate her missing son and promised to give her a chance to get back at Scott and Jean. He infected her with his magic. Alex was confused and lonely because of the Polaris/Malice situation. Madelyne seduced him into an affair.{{r|Uncanny X-Men Vol 1 238|239}}
+[[File:Madelyne Pryor (Earth-616) and Alexander Summers (Earth-616) from Uncanny X-Men Vol 1 242 0001.jpg|thumb|right|150px|Goblin Prince with the Goblin Queen]]
+Madelyne transformed into the Goblin Queen and caused a demonic invasion of New York with Havok as her Goblin Prince. When X-Factor and X-Men met, Madelyne manipulated brother against brother. Havok accused Cyclops of abandoning his wife when she most needed him. Madelyne, at last, learned she was a clone of Jean and was driven mad. She died fighting the X-Men and X-Factor while trying to sacrifice her son to gain more power.{{r|X-Factor Vol 1 38}} Mister Sinister was seemingly killed by Cyclops.{{r|X-Factor Vol 1 39}}
+
+Alex and Wolverine were vacationing in Mexico and saved a woman from terrorist attackers. Alex woke up in a hospital in the care of nurse [[Scarlett McKenzie (Earth-616)|Scarlett McKenzie]], who manipulated Alex and made him fall in love with her. Scarlett was actually working for the Russian scientist, [[Meltdown (Russian) (Earth-616)|Dr. Neutron (Meltdown)]] who wanted to use Alex as a means to absorb the energy of a breaking down atomic reactor and transmute it into himself. Scarlett told Alex that terrorists were trying to sabotage the plant. When he ventured into the heart of the reactor he found it reaching critical limit. Alex tried to absorb the dangerous radiation and when he witnessed Dr. Neutron killing Scarlett, he shot his plasma at him, making Neutron stronger. The timely arrival of Wolverine prevented a full disaster. After Logan seemingly{{r|Wolverine Vol 2 309}} killed the scientist, Alex redirected the nuclear radiation into space. For Alex's sake, Wolverine kept Scarlett’s betrayal secret, as he was still trying to get over being manipulated by Madelyne.{{r|Havok and Wolverine Meltdown #1|4}}
+
+Malice’s hold over Polaris weakened due to the death of Sinister. After Lorna freed herself from Malice, she called the X-Men (including Havok) for help from the southern-most tip of South America, only to be captured by [[Zala Dane (Earth-616)|Zaladane]]. Psylocke knew that returning to their Australian base was certain death, however, the teleporter [[Gateway (Earth-616)|Gateway]] called the X-Men back (leaving Polaris stranded in South America) without being asked.{{r|Uncanny X-Men Vol 1 249|250}} Roma had presented them with the [[Siege Perilous]], a gem that created a portal which granted any person who walked through it judgment and a new chance at life, with a new career, home, and so forth. Psylocke persuaded Havok and the rest of X-Men to walk through the Siege Perilous rather than die at the hands of the Reavers.{{r|Uncanny X-Men Vol 1 251}} Lorna eventually regained her freedom and headed to Muir Island.{{r|Uncanny X-Men Vol 1 253}}
+
+Alex re-emerged as a magistrate of [[Genosha]], serving the state voluntarily. During this time [[Rahne Sinclair (Earth-616)|Wolfsbane]] was forced to undergo the mutate process, and was genetically bonded to Magistrate Summers. In a battle with his brother, his memories returned. Afterward, he elected to remain in Genosha to help put a new, better state together.<ref>during the [[X-Tinction Agenda]] event</ref>
+
+===X-Factor===
+Later Havok, with Polaris again, joined the second incarnation of [[X-Factor (Government) (Earth-616)|X-Factor]], a newly-formed, government-funded, mutant agency. They overcame [[Johnathon Gallo (Earth-616)|Ricochet]] and Mister Sinister's attempts to discredit the team.{{r|X-Factor Vol 1 71|75}} They fought the [[Mutant Liberation Front (Earth-616)|Mutant Liberation Front]],{{r|X-Factor Vol 1 77|78}} and the [[Hell's Belles (Earth-616)|Hell's Belles]].{{r|X-Factor Vol 1 80}} They took down [[X-Force (Strike Team) (Earth-616)|X-Force]] after an assassination attempt was made on the life of Charles Xavier.{{r|X-Factor Vol 1 84}} During a mission to Genosha, the connection between Havok and Wolfsbane was discovered.{{r|X-Factor Vol 1 89|91}}
+
+The team battled the fanatical terrorist [[Radha Dastoor (Earth-616)|Haven]] who believed that, when the [[Mahapralaya (Earth-616)|Mahapralaya]] came, the world would be destroyed and a new golden age would come about after it. Haven hoped to bring Mahapralaya about early. She took Wolfsbane through a Pralaya, moving her in and out of pocket dimensions, and cured her of the genetic bond. When Haven tried to cure [[Jamie Madrox (Earth-616)|Multiple Man]] of the [[Legacy Virus]], she failed, killing him.{{r|X-Factor Vol 1 100}} Havok was deeply affected by the apparent death of his teammate and friend. Mourning Jamie's death, he decided to quit the team until Polaris tracked him down and convinced him to stay with the team.{{r|X-Factor Vol 1 101|105}}
+
+Later Havok's powers raged out of control.{{r|X-Men Prime #1}} Havok was once again confined to the regulator costume he used to wear. He returned to X-Factor but was kidnapped by the bounty hunter called [[Marshall Stone III (Earth-616)|Random]]. Random brought him to the [[Henry McCoy (Earth-295)|Dark Beast]], the Beast's evil counterpart from [[Earth-295|another timeline]]. Havok was brainwashed and put in charge of McCoy's lackeys, including [[Fatale (Earth-616)|Fatale]], [[Kevin Tremain (Earth-616)|Post]], and Random. McCoy came to serve [[Onslaught (Psychic Entity) (Earth-616)|Onslaught]] and offered his team's services to the powerful entity. Havok confronted his former X-Factor teammates and coldly hit Lorna with enough force to put her into cardiac arrest.{{r|X-Factor Vol 1 125|126}}
+
+===The Brotherhood===
+Apparently freed of mind-control, Havok founded a team of mutant terrorists called the [[Brotherhood (Havok) (Earth-616)|Brotherhood]]. However, Havok did not truly become a terrorist. He joined the Brotherhood in order to stop the Dark Beast's sinister plans. Later he tried to kill [[John Jonah Jameson (Earth-616)|JJ Jameson]] and nearly killed his brother. He also tried to recruit [[Nathaniel Grey (Earth-295)|Nate Grey]]. He joined the [[Xavier's Underground Enforcers (Earth-1191)|X.U.E]] (mutants from the future) in stopping the Dark Beast.
+
+Havok rejoined Lorna and what was left of X-Factor at the time. However, his teammate [[Devlin Greystone (Earth-1191)|Greystone]] developed a severe case of temporal insanity and tried to use a slipshod time machine to return to his own time. Havok attempted to stop him but the time machine exploded, apparently killing them both.{{r|X-Factor Vol 1 149}}
+
+===Mutant X===
+[[File:Mutant X Vol 1 1.jpg|thumb|right|150px]]
+In the explosion, Alex's mind was transported to another reality, where he took over the body of his counter-part, who too was on the brink of death, as he had been shot by [[Sentinels]]. In this reality, Alex was leader of the [[Six (Earth-1298)|Six]], a team consisting of himself and altered versions of Madelyne Pryor, Iceman, Beast, Archangel and Storm (known here as [[Madelyne Pryor (Earth-1298)|Marvel Woman]], [[Robert Drake (Earth-1298)|Ice-Man]], [[Henry McCoy (Earth-1298)|Brute]], the [[Warren Worthington III (Earth-1298)|Fallen]], and [[Ororo Munroe (Earth-1298)|Bloodstorm]]).{{r|Mutant X #1}}
+
+There, Cyclops was taken into space twenty years ago, along with their parents.{{r|Mutant X #17}} Alex was married to Madelyne Pryor and was the father of their child, [[Scott Charles Summers (Earth-1298)|Scotty]], named after his long missing older brother. Havok took the place of this dimension's Alex Summers as leader of the Six, though little Scotty recognized that he wasn't the same person anymore.{{r|Mutant X #1}}
+
+Madelyne changed into the Goblin Queen, a pure evil being intent on ruling the world. She was under the power of an entity called the Goblin Force. She fought against Havok and the remaining handful of super-heroes that were left after her attacks. She started fighting the evil influences of the entity. She, Havok, and Scotty were taken to the astral plane where the newly emerging powers of Scotty were able to contain the Goblin Force and unfortunately took Maddie with it. When it was revealed that the [[Beyonder (Earth-1298)|Beyonder]] was in fact the Goblin Queen, Havok managed to split Maddie and the Goblin Queen, with Maddie reuniting with her son.
+
+Alex eventually returned to his own universe. He was discovered in a hospital in a comatose state. His mind eventually returned to its body with the help of young telepath [[Carter Ghazikhanian (Earth-616)|Carter]], son of [[Anne Ghazikhanian (Earth-616)|Nurse Annie]], who had cared for him.
+
+Seizing the day, Alex's long-time love Lorna asked him to marry her. Somewhat shocked at such a life-altering question so soon after his return, Alex faltered over a reply but his assembled friends and family made the decision for him. However, Alex had fallen in love with Annie, and called off his wedding as Lorna was walking up the aisle. Lorna snapped and attempted to kill both Alex and his newfound love, but she was stopped by Alex's teammate, [[Cain Marko (Earth-616)|Juggernaut]].{{r|Uncanny X-Men Vol 1 425|426}}
+
+Soon after, the alternate reality [[Alexander Summers (Earth-1298)|Havok]]'s personality resurfaced within Alex, having followed Alex's consciousness back from within the void in which he had been trapped. The team of dimension-hopping mutants known as the [[Exiles (Multiverse)|Exiles]] were charged with the task of stopping the evil Havok, and they teamed up with the X-Men to prevent him from killing Carter. The evil consciousness was eventually forced out of Alex's body and sent back into the void where it was destroyed by the Exiles' taskmaster, the enigmatic being known as the [[Timebroker (Panoptichron)|Timebroker]].{{r|Exiles #28|30}}
+
+===[[M-Day]]===
+Following the [[Wanda Maximoff (Earth-616)|Scarlet Witch]]'s alteration of reality, many mutants were left powerless, including Polaris. When she chose to leave the X-Men Havok decided to accompany her. During an encounter with the creature called [[Daap (Earth-616)|Daap]], Polaris was abducted by Apocalypse and Havok returned to the X-Men. 
+
+After the battle with Apocalypse, [[James Howlett (Earth-616)|Wolverine]] discovered that one of his knocked-out Horsemen was actually Polaris. As her esophagus closed down, Havok administered CPR to save her life, but was infected with the meta-plague. Luckily, [[Emma Frost (Earth-616)|Emma Frost]] saved some of the antidote Havok destroyed earlier and cured him with it.
+
+===Starjammers===
+[[File:Uncanny X-Men Vol 1 478 Textless.jpg|right|thumb|150px|[[Lorna Dane (Earth-616)|Polaris]] and Havok]]
+Alex's long lost brother [[Gabriel Summers (Earth-616)|Vulcan]] returned from his space exile to reclaim his title as an X-Man, killing [[Sean Cassidy (Earth-616)|Banshee]] in the process. After it was revealed Xavier had deceived the X-Men by keeping Vulcan's existence a secret, the X-Men attacked him as they deemed him too dangerous to be left alone. Vulcan easily repelled their attack and fled the planet, renouncing Cyclops as his brother, and headed for space, bent on revenge on the Shi'ar empire for killing his mother.{{r|{{cl|X-Men: Deadly Genesis Vol 1 1}}-[[X-Men: Deadly Genesis Vol 1 6|6]]}}
+
+Havok was recruited by [[Charles Xavier (Earth-616)|Professor X]],{{r|Uncanny X-Men Vol 1 475}} along with [[Rachel Summers (Earth-811)|Marvel Girl]], [[Kurt Wagner (Earth-616)|Nightcrawler]], [[James Proudstar (Earth-616)|Warpath]], [[Armando Muñoz (Earth-616)|Darwin]], and Polaris to participate in a space mission to stop Vulcan from unleashing his powers on the Shi'ar empire. Alex witnessed Vulcan murder their father. Alex, Lorna, and Rachel Summers stayed in space, joining the Starjammers to lead the resistance against Vulcan and his wife, [[Cal'syee Neramani (Earth-616)|Deathbird]], who had conquered the Shi'ar Empire.
+
+The civil war between Vulcan's forces and those loyal to the dethroned Lilandra raged on. Led by Havok and the Starjammers, Lilandra's forces gradually whittled away at Vulcan's forces, which were plagued by defections.
+
+Warned in advance of a rebel raid on [[Feather's Edge]], Vulcan and his fleet ambushed the Starjammers. However, in the middle of the battle, his ship, the ''Hammer'', was destroyed by the Scy`ar Tal (translating to "Death to the Shi'ar"). Vulcan made contact with the Starjammers to call a temporary ceasefire.
+
+Under the ceasefire, the Shi'ar and the Starjammers decided to take out the Finality, thus crippling the Scy'ar's biggest threat. Once Havok and Vulcan were in position to destroy Finality, the Eldest Scy'ar tried to stop them. Once Vulcan figured out how the Eldest was powered, he severed the connection Eldest had with his brothers, making him powerless. Once the connection was severed, the Scy'ar became unorganized, and the tide of the battle shifted to the Shi'ar. The Shi'ar then proceeded to attack both the Scy'ar and the Starjammers. Meanwhile, Vulcan blasted Havok into a sun.
+
+Vulcan decided to use Finality to destroy the Scy'ar by using the weapon to place a star in the middle of their fleet. Alex returned and, having absorbed enough power to burn Vulcan, decided to end things with him. While they battled, Rachel and [[Korvus Rook'shir (Earth-616)|Korvus]] tried, and failed, to stop the beacon that would initiate the attack by the Shi'ar. The Shi'ar Imperial Guard ended Alex's battle with Vulcan by appearing with the Starjammers in captivity, threatening to kill them. Before surrendering, Alex destroyed Finality. Alex and the Starjammers were then taken into Vulcan's custody and placed in a prison, while Rachel Summers remained free. Alex and Lorna, along with the other captured Starjammers, were kept in a deep underwater prison below a planet's surface. Alex and Lorna were tortured daily and forced to hear each other's screams, and Alex was powerless as he was nowhere near a star or any cosmic force to draw his powers from.
+
+Despite ploys such as telling Havok that his teammates were dead and it was all Alex's fault, Havok remained defiant. Alex had at least some power left. He allowed some time to go by, with moments of exposure continuing, before killing his guards and escaping. Alex then liberated his teammates from captivity. As he rescued Polaris, she gave him a thank-you kiss. Havok surprised his team as he informed them of his true plan. Instead of running they would wait, Gabriel would be coming to them to defeat them, and Havok planned to kill him when he did. After Rachel and Korvus lost their connection to the [[Phoenix Force (Earth-616)|Phoenix Force]], Havok and the Starjammers departed for [[Kree]] Space.
+
+The group attended the wedding of [[Crystalia Amaquelin (Earth-616)|Crystal]] and [[Ronan (Earth-616)|Ronan the Accuser]]. Vulcan and the Imperial Guard sacked the wedding and injured many present. The Kree then declared war on the Shi'ar.{{r|War of Kings #1}}
+
+===X-Factor Investigations===
+After returning to Earth, Havok joined [[X-Factor Investigations (Earth-616)|X-Factor Investigations]] after the X-Men underwent their [[Schism (Event)|Schism]] on behalf of Wolverine. After Jamie Madrox's apparent death, Wolverine suggested that Havok and Polaris take over leadership of X-Factor Investigations.{{r|X-Factor Vol 1 230}} After Jamie's return from death, he and Alex agreed to share leadership with Alex taking the lead on missions from [[Valerie Cooper (Earth-616)|Valerie Cooper]] and Jamie taking the lead on the rest.{{r|X-Factor Vol 1 235}}
+
+===Uncanny Avengers===
+[[File:Alexander Summers (Earth-616) from Marvel War of Heroes 001.jpg|thumb|left|An Avenger]]
+Havok joined the conflict between the [[Avengers (Earth-616)|Avengers]] and the X-Men on the side of his fellow mutants. After the last two of the [[Phoenix Five (Earth-616)|Phoenix Five]], [[Scott Summers (Earth-616)|Cyclops]] and [[Emma Frost (Earth-616)|Emma Frost]], began to lose control, Havok and many other X-Men joined the Avengers in attempting to defeat them. Cyclops later defeated Emma in order to absorb the whole Phoenix Force and become the Dark Phoenix, but was finally defeated and incarcerated.
+
+At the end of the war, [[Steven Rogers (Earth-616)|Captain America]] realized that the Avengers had stood by and allowed the world to hate mutants and that they should have done more to help them. As a result, he formed a [[Avengers Unity Division (Earth-616)|new team of Avengers]] in hopes of unifying mutant and humankind. He chose Havok to lead his team and become the new face to represent mutants as Professor X and Cyclops once were.{{r|Uncanny Avengers #1}} As an Avenger, Havok started a romantic relationship with [[Janet Van Dyne (Earth-616)|Janet Van Dyne]].{{r|Uncanny Avengers #18.NOW}}
+
+At some point this team of Avengers had to fight [[Nathaniel Richards (Kang) (Earth-6311)|Kang]]. During their fight Kang burned the left half of Havok's face badly. As a consequence he was scarred severely.{{r|Uncanny Avengers #22}}
+
+===AXIS===
+As part of his plan to create mutant concentration camps in [[Genosha]], the returned [[Johann Shmidt (Clone) (Earth-616)|Red Skull]] abducted Havok, Rogue, and the Scarlet Witch. They managed to break free, and rescued Magneto, whom they found captured after a failed attempt to kill the Red Skull.{{r|Uncanny Avengers #24}} When they confronted the Red Skull and his [[S-Men (Earth-616)|S-Men]], Magneto killed Shmidt's disciples and brutally murdered the villain. However, his actions unleashed the [[Red Onslaught]].{{r|Uncanny Avengers #25}}
+
+The three members of the Unity Division and Magneto tried to confront the Red Onslaught, and were helped by the arrival of the Avengers, both teams of X-Men, and allies of both teams. However, the Red Skull was prepared, and unleashed his [[Stark Sentinels]].{{r|Avengers & X-Men: AXIS #1}} The Scarlet Witch and [[Victor von Doom (Earth-616)|Doctor Doom]] managed to cast a spell to invert the axis of Skull's brain, to make a fragment of Charles Xavier still present in it take control of the Skull's body and stop the Red Onslaught. The inversion spell was a success, and the Red Skull was knocked unconscious and reversed from his Red Onslaught form. Before he could wake up to reveal whether Charles Xavier was now in control or not, as the X-Men wanted, the Avengers decided to be cautious and take the Red Skull prisoner to the [[Stark Tower]]. This caused Havok to resign from the Unity Division and side with the now-unified two teams of X-Men and his brother, with whom he reconciled.{{r|Avengers & X-Men: AXIS #3}}
+
+The inverted X-Men declared Manhattan for mutants, and planned on detonating a gene bomb to kill every non-mutant on the Earth.{{r|Avengers & X-Men: AXIS #6}} Havok retrieved the Wasp from the Avengers Tower when the inverted X-Men stormed the building. Alex tried to convince his brother to spare Wasp's life from a gene bomb the X-Men planned to detonate which would've killed every person on the Earth who wasn't a mutant.{{r|Avengers & X-Men: AXIS #7}}
+
+After the bomb's detonation was prevented, Havok freed Wasp and tried to escape with her, claiming he was the one who defused the bomb. After realizing he hadn't done such a thing, Janet turned on him and then rejoined the [[Axis (Avengers) (Earth-616)|Axis]] to prevent Steve Rogers from helping the inverted Red Skull reinvert the affected heroes and villains. Havok was accidentally shielded by Iron Man (who had created a shield to resist the spell) and remained evil. Alex used Wasp as leverage to escape from the heroes, and later joined Cyclops' X-Men.{{r|Avengers & X-Men: AXIS #9}}
+
+===The Mutant Revolution===
+Having learned that Scott planned to turn himself in to the authorities and stand trial for having killed Xavier, Havok tried to reason with him, arguing that Xavier's death was an accident, and that Cyclops shouldn't torment himself over it. When Alex asked Cyclops about his planned mutant revolution, Scott confessed it could end up being dangerous, as no matter whether the X-Men fought to protect humanity or left them alone, humans continued to kill and oppress mutants. Alex suggested to Scott to carry on with the revolution in an unexpected way,{{r|Uncanny X-Men Vol 3 34}} for which the two brothers started a peaceful march, gathering every mutant in the world to Washington, D.C., where Cyclops gave a speech preaching for peace.{{r|Uncanny X-Men Vol 1 600}}
+
+[[File:Alexander Summers (Earth-616) from X-Men Blue Vol 1 25 001.jpg|thumb|right]]
+Following the supposed death of Cyclops at the hands of the [[Inhumans (Inhomo supremis)|Inhumans]] leader [[Blackagar Boltagon (Earth-616)|Black Bolt]], Alex confronted Emma Frost, arguing his brother would never allow himself to be killed in such a manner. Seeing that Havok knew his brother too well, Emma revealed to him the truth, that the Cyclops who died fighting Black Bolt was a telepathic illusion she cast, with the real Scott having perished days earlier due to [[Terrigen Mist]] intoxication.{{r|Death of X Vol 1 4}}
+
+When the different factions of X-Men went to war against the Inhumans due to the mutant-fatal Terrigen Mist cloud circling the atmosphere, Havok took the duty of guarding Black Bolt's cell in [[Limbo (Otherplace)|Limbo]] following his capture at the hands of Emma Frost and [[Alison Blaire (Earth-616)|Dazzler]]. When the rest of the [[House of Agon (Earth-616)|royal Inhumans]] broke out of their own prison and located Black Bolt, Alex initially threatened to kill him. Alex eventually gave in and let them go. When [[Piotr Rasputin (Earth-616)|Colossus]] confronted Havok for helping the enemy, Alex admitted that while he felt he owed his brother something, that wasn't going to be a murder.{{r|IVX Vol 1 5}} When the truth of Cyclops' death came to light and Emma was revealed as the manipulator that pitted the X-Men against the Inhumans, the members of both species joined forces to fight her and her Inhuman-hunting Sentinels. When Inhuman queen [[Medusalith Amaquelin (Earth-616)|Medusa]] had Frost on the ropes, Havok stepped in to save and teleport her away, revealing that saving her was what he felt he owed Cyclops.{{r|IVX Vol 1 6}}
+
+===Mothervine Virus===
+Havok continued working with Emma, and together they joined forces with geneticist [[Claudine Renko (Earth-616)|Miss Sinister]] and [[Sebastion Gilberti (Earth-616)|Bastion]] to put into effect a plan to turn mutantkind into the dominant species using the [[Mothervine]] virus, a catalyst for artificial mutations.{{r|X-Men: Blue Vol 1 9}} Despite Sinister and Bastion's ulterior motives for helping mutantkind, Havok had no qualms making an alliance with them since he planned to betray them before they could do the same.{{r|X-Men: Blue Vol 1 23}} Their plan was opposed by [[Max Eisenhardt (Earth-616)|Magneto]] and his [[X-Men (Time-Displaced) (Earth-616)|X-Men]], a team Polaris had become a part of.{{r|X-Men: Blue Vol 1 25}} When the X-Men launched an assault on the base of the masterminds behind Mothervine, they were captured. Polaris tried to appeal to Havok's former self to no avail.
+
+After the global release of Mothervine, Emma Frost learned the mutants affected by it could have their will subjugated,{{r|X-Men: Blue Vol 1 27}} so she turned against Miss Sinister and helped the X-Men when she had the chance. While Magneto contained and reversed the effects of Mothervine with [[Joshua Foley (Earth-616)|Elixir]]'s help, Emma used her powers to let Polaris tap into Havok's psyche and return him to his normal personality, undoing the effects of the inversion spell. Despite returning to his normal self and feeling remorse for his actions, Havok couldn't tell which of the two personalities he had experienced was his real self. In order to help Havok get a fresh start, Polaris also had Elixir heal the scars on his face.{{r|X-Men: Blue Vol 1 28}}
+
+===Krakoa===
+Havok was later detained by [[Office of National Emergency (Earth-616)|O*N*E]] before being freed to join the last remaining X-Men following the apparent death of most of the team.{{r|Uncanny X-Men Vol 5 12}} Alex helped to counteract a list of threats compiled by his brother,{{r|Uncanny X-Men Vol 5 13}} and accomplished this through many turns, casualties, and events that ultimately led Emma Frost to erase all mutants from every person's mind.{{r|Uncanny X-Men Vol 5 21}} This failed to work on O*N*E, who remembered mutants to the full extent. When [[Sentinel Squad O*N*E (Earth-616)|Sentinel Squad O*N*E]] came <!--where?-->for the X-Men, Alex sacrificed his life to buy his brother time, releasing a devastating blast to destroy the [[Sentinels]] that also cost him his life.{{r|Uncanny X-Men Vol 5 22}}
+
+When Charles Xavier and his cabal of allies established the mutant nation of Krakoa, they implemented a resurrection process through a group of mutants called the [[Five (Earth-616)|Five]], and Alex was one of the many subjects returned to life.{{r|House of X Vol 1 5}} He later established residence in the Summer House in a Krakoan habitat on the [[Blue Area of the Moon]], living with his brothers, as well as Cable, Rachel Summers, Jean Grey, and Wolverine.{{r|X-Men Vol 5 1}}
+
+===[[Hellions (Essex) (Earth-616)|Hellions]]===
+While on a mission in San Francisco for the nation of Krakoa with some of his fellow X-Men, Alex fought some humans who were involved in weapons trading with the [[Hellfire Cult (Earth-616)|Hellfire Cult]]. After being attacked by some of them, he blacked out and lashed out. He started disfiguring and dismembering the criminals, but was stopped by his fellow X-Men before he could kill them. Due to this outburst, he was assigned by the [[Quiet Council of Krakoa (Earth-616)|Quiet Council]] to Mister Sinister's team of [[Hellions (Essex) (Earth-616)|Hellions]], composed of mutants too violent or troubled due to their mutation, and led by [[Kwannon (Earth-616)|Psylocke]].
+
+Their first mission led them to taking down the Essex State Home For Foundlings in Omaha, Nebraska, which was a cover for his still active Marauder cloning farm.{{r|Hellions Vol 1 1}} When Alex and the Hellions arrived, they were confronted by and battled the Goblin Queen and her perverse Marauders, whom she had been magically torturing. After a swift defeat, most of the Hellions were captured. Alex, acting differently like before, was instead taken to the Goblin Queen's quarters after they embraced each other, only to be sacrificed to a horde of demons, all while Alex was supposedly under her spell.{{r|Hellions Vol 1 2|3}} After she realized that it was outside forces possessing Alex, and not her love, she was shot dead by [[John Greycrow (Earth-616)|John Greycrow]]. Still possessed, Alex blew up the state home out of anger, with the Hellions escaping to safety outside.
+
+After the mission, he pleaded with Cyclops to talk to the Quiet Council to resurrect Madelyne Pryor. They denied his request due to her being a clone, which angered Alex.{{r|Hellions Vol 1 4}}
+
+After Alex was killed on a mission with the Hellions to [[Arakko (Earth-616)|Arakko]]{{r|Hellions Vol 1 5|6}} and resurrected by [[Five (Earth-616)|The Five]], he told Emma Frost he wanted to leave the team but was once again denied. He became suspicious of Mr Sinister, refusing to believe his story that they all sacrificed themselves to ensure he got home safely and started questioning why Psylocke was so loyal to him.{{r|Hellions Vol 1 7}}
+
+Alex couldn't get over Madelyn's death and the Quiet Councils refusal to resurrect her. When he had to face [[Jason Wyngarde (Earth-616)|Mastermind]] as part of a mission, he tortured him with visions of a relationship with Madelyn that went from loving to domineering at the drop of a hat.{{r|Hellions Vol 1 10}} When he attended the [[Hellfire Gala]] he spent the entire night asking members of the council for more details on their decision.{{r|Hellions Vol 1 12}} The rest of the team soon started to realize he was going out of his way to dissociate from them.{{r|Hellions Vol 1 13}}
+
+He eventually got an answer to his questions about Sinister and Kwannon when the team fought the [[Locus Vile (Earth-616)|Locus Vile]], a group of Arakki mutants who came to retrieve the DNA [[Nathaniel Essex (Locus Vile) (Earth-616)|a clone of Mr. Sinister]] stole from them during their mission to Arakko. They revealed to the team many of the secrets Essex had been keeping from them, such as his secret clone lab in [[Murderworld]] he'd used Mastermind to trick the team into procuring for him. He and Greycrow wanted to destroy the lab but Psylocke begged them not to because he had a digital copy of her dead daughters mind in there he'd been holding over her head to make her subservient. Alex and John were understanding but Empath interfered and made Alex revert to madness, as he'd been asked by Emma Frost to make sure Sinister didn't brake any Krakoan laws, in his maddened state Alex destroyed the whole facility while laughing evilly.{{r|Hellions Vol 1 14|15}}
+
+The next day Alex, horrified at what he'd done, went to talk to Emma Frost. She assured him that destroying the facility was for the best in spite of the guilt he was feeling and as a reward he was free to leave the Hellions. she also assured him she'd talk to the council about having Madelyn resurrected.{{r|Hellions Vol 1 16}}
+
+| Powers                  = 
+Alex is an '''Alpha-Level [[Homo superior|Mutant]]'''{{r|X-Men Vol 2 94}} granted the following abilities:
+
+'''Ambient Energy Conversion''': Havok absorbs ambient cosmic energy into the cells of his body and processes it into plasma. This results in control over an extremely powerful sort of destructive force. At times he is not entirely able to control this ability, which sometimes makes him a danger to those around him unless he wears a special containment suit to assist him. Havok's body is constantly in the process of absorbing cosmic radiation. When each of his body's power-storage cell enclaves reaches its capacity, excess cosmic energy is thereafter absorbed and immediately re-emitted in negligible quantities. Upon the total expenditure of all his available energy, it takes Havok's body about 16 ½ hours to recharge to its peak level unless he absorbs a large amount of energy at once. The act of concentration involved in releasing his energy in anything other than an omni-directional wave is physically exhausting for Havok if he continues it over an extended period of time. He can absorb cosmic energies from his environment (such as starlight, x-rays, and gamma radiation) and store them within his body cells, metabolizing the energy in order to generate plasma wave discharges that super-heat and disintegrate objects or create concussion bursts by violently displacing air molecules in his path. His ability to absorb energy is so great that he was able to survive being dropped into a large star, and use its energy to augment his powers to the point where he was able to defeat his immensely powerful brother Vulcan. He was also able to overpower Magneto using volcanic energy and blast the Hulk unconscious.{{r|Incredible Hulk #150}} Sauron admitted that he was potentially stronger than his brother Cyclops.
+
+[[File:X-Men Vol 2 160 Textless.jpg|thumb|270px]]
+*'''Energy Absorption:''' Havok not only can passively absorb cosmic energy from his environment but has shown he can willingly absorb, store, and re-process various other energies from other sources through conscious force of will. He showcased this aspect once when he was thrown into a star: he drew upon its energies to empower himself for the purpose of besting Vulcan and again when he had been cut off from any kind of power source during his stint as a prisoner on Z'nox. He absorbed trace amounts of energy from what little light contact he had whenever the food hatch would open and later released it upon Vulcan's [[The Hodinn (Earth-616)|Imperial Guard]].
+*'''Plasma Emanation:''' Ability to shoot or emanate plasma in the form of a blast or discharge, with a tell-tale concentric circle pattern. These waves will emanate from his body in all directions unless he purposely tries to channel them in a single direction, usually along the length of his arms. This results in control over an extremely powerful sort of destructive force. When Havok strikes an object with the intense waves of hot plasma, the sudden vast jump in temperature will often cause objects to shatter, explode, or seemingly disintegrate. Should Havok direct his energy at the lowest level, he can project it towards a human being and his target will suffer a severe headache but will not burn up. Using his plasma-based energy, he managed to retain the mini-black hole effects from [[Shen Xorn (Earth-616)|Xorn]]'s head for a long time.{{r|X-Men Vol 2 159|160}}
+
+*'''Flight:''' Havok can also use stored energy for flight by directing it as a downward thrust. At full energy capacity he has an easier time managing his energized propulsion through his powers. 
+ 
+'''Heat Immunity:''' Havok is virtually immune to the effects of most forms of heat.
+
+'''Radiation Immunity:''' Havok is virtually immune to the effects of most forms of radiation.
+
+Havok was once a [[Nexus of All Realities]], being linked to any other versions of himself, most of them killed later by the [[Timebroker (Panoptichron)|Timebroker]]'s machination in {{cl|Exiles #28}}; Off-panel; No versions were seen killed as part of this multiversal slaughter.
+
+| Abilities               = Intellectually gifted, Havok is well-educated in the geophysical sciences and has been trained in martial arts by [[James Howlett (Earth-616)|Wolverine]].
+| Strength                = Havok possesses the normal human strength of a man his age, height, and build who engages in [[Strength Scale#Above Average|intensive regular exercise]].
+| Weaknesses              = '''Uncontrolled Ambient Energy Conversion''': At times, he is not entirely able to control this ability, which sometimes makes him a danger to those around him unless he wears a special containment suit to assist him. This may also be due to psychological trauma similar to [[Scott Summers (Earth-616)|his brother]].
+
+'''Genetic Flaw:''' Havok is not immune to Vulcan's powers, but is partially resistant to it by way of his ability to absorb energy. Havok is immune to Cyclops' optic blasts as Cyclops is immune to his powers.{{Citation}} The brothers are also immune to the powers of their half-brother [[Adam Neramani (Earth-616)|Adam-X]], and Adam-X is immune to theirs.{{r|X-Men Legends Vol 1 1}}
+| Equipment               = Most of Havok's costumes act as a containment suit and constantly monitor his energy output.
+| Transportation          = Formerly [[Quinjet]], [[Starjammer]], [[X-Men Blackbird]], [[Gateway (Earth-616)|Gateway]], [[Sentinel Air Transport]], [[X-Men Stratojet]]
+
+| Notes                   = 
+| Trivia                  = <!-- * Alex is allergic to tomatoes.{{citation}} -->
+* Alex greatly dislikes cauliflower.{{r|Uncanny X-Men Vol 1 426}}
+* Alex has stated his favorite movie is ''[[Wikipedia:West_Side_Story|West Side Story]]'', and he is fond of [[Wikipedia:Stephen_King|Stephen King]] books.{{r|X-Factor Vol 1 72}}
+* Each of the Summers Brothers has a signature energy color: Scott has red, Alex has blue, and Gabriel has yellow.
+| Links                   = * [http://marveldirectory.com/individuals/h/havok.htm Marvel Directory]
+* [http://uncannyxmen.net/characters/havok uncannyxmen.net Spotlight On... Havok]
+==See Also==
+* [[Summers and Grey Family Tree]]
+}}
+[[es:Alexander Summers (Tierra-616)]]
+[[Category:Summers Family]]
+[[Category:Concussive Blasts]]
+[[Category:Energy Absorption]]
+[[Category:Energy Manipulation]]
+[[Category:Flight]]
+[[Category:Plasma Generation]]
+[[Category:Toxic Immunity]]
+[[Category:Post-M-Day Mutants (The 198)]]
+[[Category:Utopians]]
+[[Category:Siege Perilous users]]
+[[Category:High Threats]]
+[[Category:Disintegration]]
+[[Category:Alpha Class/Level Mutants]]
+[[Category:Nexus of All Realities]]
+[[Category:Scarred]]
+[[Category:Formerly Deceased]]
+[[Category:Post-Secret Wars Mutants]]
+[[Category:Xavier Institute Student]]
+[[Category:Mister Sinister Experiment]]
+[[Category:Consciousness Transferred]]
+[[Category:Suicide]]
+[[Category:Adventurers]]
+[[Category:Detectives]]
+[[Category:Pirates]]
+[[Category:Martial Arts]]
+[[Category:Fighting Ability - Experienced fighter]]
+[[Category:Normal Strength]]

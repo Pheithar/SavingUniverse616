@@ -1,0 +1,55 @@
+{{Marvel Database:Character Template
+| Image                   = Awareness (Earth-616) from Deadpool Corps Vol 1 5 001.jpg
+| Name                    = 
+| CurrentAlias            = The Awareness
+| Aliases                 = Frank, The Cosmic Awareness
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualSkinColor        = Orange
+| UnusualFeatures         = Pointy Ears, Tail
+
+| Origin                  = [[Alien]]; [[Cosmic Beings|Cosmic Being]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+| KilledBy                = Wanda Wilson (Earth-3010)
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Cosmic Entity
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Rob Liefeld; Victor Gischler
+| First                   = Deadpool Corps Vol 1 1
+| Death                   = Deadpool Corps Vol 1 5
+
+| History                 = The Awareness was the last survivor of a race that lived before the creation of the [[Earth-616|current universe]]. The [[Glossary:Big Bang|Big Bang]] destroyed the rest of his race and at the same time gave him the cosmic power to absorb consciousness. In an act of revenge, he traveled the universe absorbing the consciousness of thousands of planets, using their thoughts as energy.{{r|Deadpool Corps Vol 1 1}}
+
+The [[Elders of the Universe (Earth-616)|Elders of the Universe]] attempted to stop the Awareness but failed. They then formed the [[Deadpool Corps (Multiverse)|Deadpool Corps]] in a second attempt at stopping the cosmic threat. Because of the unstable nature of the Corps' minds, the Awareness was unable to absorb their consciousness, claiming that their thoughts were not their own, but bits and pieces of strange nonsense and obscure culture. Instead he decided to trap them within their own minds, however the Awareness was unable to detect [[Wade Wilson (Earth-2149)|Headpool]]'s undead brain waves, leaving him free to explore. [[File:Awareness (Earth-616) from Deadpool Corps Vol 1 5 0001.jpg|thumb|left|True form of The Awareness.]]Headpool then discovered the location and true form of The Awareness and was able to disconnect him from his mind wave amplifier, releasing the rest of the Corps. The Awareness begged for mercy but was impaled by [[Wanda Wilson (Earth-3010)|Lady Deadpool]].{{r|Deadpool Corps Vol 1 5}}
+
+| Powers                  = *'''Consciousness Absorption:''' The Awareness had the ability to read and absorb the consciousness of others, leaving them under his mental control. The brain waves he controlled acted as an energy source to him. Those under his control were referred to as [[Votives of the Awareness (Earth-616)|Votives of the Awareness]].
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Mind Control]]

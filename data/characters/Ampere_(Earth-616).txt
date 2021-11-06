@@ -1,0 +1,56 @@
+{{Marvel Database:Character Template
+| Image                   = Ampere (Earth-616) from King in Black Thunderbolts Vol 1 1 0001.jpg
+| Name                    = 
+| CurrentAlias            = [[Ampere]]
+| Aliases                 = 
+
+| Affiliation             = Formerly {{M|Thunderbolts (Earth-616)|Kingpin's Thunderbolts}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Known to Authorities
+| Citizenship             = 
+| Occupation              = Criminal
+| Education               = 
+| BaseOfOperations        = [[New York City]], [[New York (State)|New York]]
+
+| Creators                = Matthew Rosenberg; Juan Ferreyra
+| First                   = King in Black: Thunderbolts Vol 1 1
+| Death                   = King in Black: Thunderbolts Vol 1 1
+
+| History                 = [[File:Ampere (Earth-616) from King in Black Thunderbolts Vol 1 1 0002.jpg|thumb|left|150px]]Ampere was a costumed villain selected by the [[Wilson Fisk (Earth-616)|Kingpin]] to be part of his [[Thunderbolts (Earth-616)|Thunderbolts]] team, but having to face [[Knull (Earth-616)|Knull]]'s [[Symbiotes (Race)|Symbiotes]] he told the Kingpin that he was giving up on being part of it and preferred to stay in prison, as had previously chosen another candidate named [[Incendiary (Earth-616)|Incendiary]]. After Kingpin had Incendiary killed by his henchmen simulating his escape attempt, Ampere immediately changed his mind by agreeing to join the Thunderbolts. Frightened after encountering a [[Symbiote Dragons|Dragon]] of Knull, Ampere announced that he would leave and worry about the Kingpin when he could find him, but [[Lawrence Cranston (Earth-616)|Mr. Fear]] killed him by stabbing him in the back and calling him a coward. Shortly thereafter, Ampere's corpse was possessed by a Symbiote and attacked the surviving Thunderbolts, but was again slain and beheaded by [[Anthony Masters (Earth-616)|Taskmaster]].{{r|King in Black: Thunderbolts Vol 1 1}}
+
+| Personality             = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = Electrified leggings and bracelets
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Electrokinesis]]
+[[Category:Object-Based Powers]]
+[[Category:Symbiotes-possessed]]
+[[Category:King in Black casualties]]

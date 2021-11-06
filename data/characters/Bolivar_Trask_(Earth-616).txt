@@ -1,0 +1,104 @@
+{{Marvel Database:Character Template
+| Title                   = [[Bolivar Trask]]
+| Image                   = Bolivar Trask (Earth-616) from X-Factor Vol 1 204 001.jpg
+| Name                    = [[Bolivar Trask|Dr. Bolivar Trask]]
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{m|Human Council}}; formerly {{m|Project Chimera (Earth-616)|Project Chimera}}, {{m|Mutant Response Division}}, {{m|Control}}, {{m|Project Wideawake (Earth-616)|Project Wideawake}}, [[Sentinels Mk I (Earth-616)|Sentinels]] (creator); [[Master Mold (Earth-616)|Master Mold]] (creator)
+| Relatives               = Donald Trask Sr. (father, deceased);<br>
+Donald Trask Jr. (brother, deceased);<br>
+[[Simon Trask (Earth-616)|Simon Trask]] (brother);<br>
+[[Lawrence Trask (Earth-616)|Larry Trask]] (son, deceased);<br>
+[[Tanya Trask (Earth-616)|Tanya Trask (Madame Sanctity)]] (daughter);<br>
+[[Donald Trask III (Earth-616)|Donald Trask III]] (nephew, deceased);<br>
+[[Olivia Trask (Earth-616)|Olivia Trask]] (granddaughter)
+| MaritalStatus           = Widowed
+
+| Gender                  = Male
+| Height                  = 5'10"
+| Weight                  = 170 lbs
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] transformed into a [[Techno-Organic Virus|Techno-Organic]] ([[Phalanx]])/[[Homo sapiens|Human]] hybrid
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = [[Turner County]], [[South Dakota (State)|South Dakota]]
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Anthropologist
+| Education               = Ph.D. in anthropology{{r|Wolverine: Weapon X Files #1}}
+| BaseOfOperations        = Formerly [[Sentinel Headquarters]]
+
+| Creators                = Stan Lee; Jack Kirby
+| First                   = X-Men #14
+| Death                   = X-Factor #206
+
+| Quotation               = No! Never! I cannot betray the entire human race! I'd rather die!
+| Speaker                 = [[Bolivar Trask (Earth-616)|Dr. Bolivar Trask]]
+| QuoteSource             = X-Men Vol 1 15
+
+| History                 = 
+===Early Life===
+Dr. Bolivar Trask was scientist and robotics expert born and raised in Turner County, [[South Dakota (State)|South Dakota]]. He grew concerned about the emergence of superpowered beings and hoped to find a solution to this problem.{{r|Wolverine: Weapon X Files #1}}
+
+===Control===
+After [[Reed Richards (Earth-616)|Reed Richards]] wrote a paper proving the need to defend the country and the planet, the US government and [[Edward Harrison (Earth-616)|Edward Harrison]] followed his advice and formed [[Control (Earth-616)|Control]]. Harrison recruited Bolivar Trask alongside [[Thaddeus Ross (Earth-616)|General "Thunderbolt" Ross]], [[Lewis Haywerth (Earth-616)|General Lewis Haywerth]], [[Cecil Slinkard (Earth-616)|General Cecil Slinkard]], and industrialist [[Howard Stark (Earth-616)|Howard Stark]]. They hoped they could monitor all future scientific progress with hopes of ending threats before they began.{{r|Conspiracy #1|2}} 
+
+In the 1960s, after the public revelation that the [[Adam Brashear (Earth-616)|Blue Marvel]] was African American, Trask was called into a meeting at the [[Pentagon]] to discuss the potential threat he posed. Trask shared his ideas about the birth of mutants, and while he didn't believe Brashear to be one, he suggested to remain cautious to the potential threat.{{r|Adam: Legend of the Blue Marvel #2}}
+
+===Family===
+[[File:Bolivar Trask (Earth-616)-Uncanny X-Men Vol 1 -1 002.jpg|200px|left|thumb|The Trask family]]
+When his own son [[Lawrence Trask (Earth-616)|Larry Trask]] developed [[Homo superior|mutant]] powers, Bolivar set out to learn everything he could about mutations. Dr. Trask hired a team of scientists to develop a medallion that would block Larry's powerful visions of the future, as well as erase any memory of them, and finally came to the conclusion that mutants would inevitably use their superhuman abilities to supplant [[Homo sapiens|humans]].{{r|X-Men #57}} Dr. Trask also had a daughter, called [[Tanya Trask (Earth-616)|Tanya]], who possessed mutant powers as well, albeit for time travel. These abilities caused her to vanish one day. Returning as a young woman and under the alias of Sanctity, Tanya tried to change the past so that her father's creations wouldn't destroy mutantkind. [[Rachel Summers (Mother Askani) (Earth-811)|Rachel Summers]] tried to stop her, but their battle itself prompted Dr. Trask to push his project to completion.{{r|Uncanny X-Men #-1}} 
+
+===Project Chimera===
+Trask was recruited by [[Project Chimera (Earth-616)|Project Chimera]], who intended to brainwash mutants to turn them into weapons. He was disgusted by the ideals behind the project, but lent his prototype robots to help in the endeavor. The program was stopped by [[Logan's Mutant Team (Earth-616)|a team]] of mutants assembled by [[James Howlett (Earth-616)|Logan]] and [[Victor Creed (Earth-616)|Creed]]. In the aftermath, Trask's own program was approved<!-- by whom? why did it entail that it was approved? -->.{{r|First X-Men #2|5}} 
+
+===Project Wideawake===
+As part of [[Project Wideawake (Earth-616)|Project Wideawake]], Dr. Trask began working on [[Master Mold (Earth-616)|Master Mold]], a prototype [[Sentinels|Sentinel]] capable constructing an army of [[Sentinels Mk I (Earth-616)|Sentinels]] on its own, with the purpose of controlling the mutant population, in Trask's [[Sentinel Headquarters|secret lab]]. Another team of scientists developed and built Dr. Trask's Sentinels to his specifications. As his son Larry grew older, Bolivar enlisted his help in the creation of the first wave of Sentinels. Dr. Trask occasionally removed Larry's medallion so that he could secretly observe and record Larry's predictions about mutants in the future, and Larry accurately predicted the assassination attempt of [[Robert Kelly (Earth-616)|Senator Robert Kelly]].{{r|X-Men #57|58}}
+
+[[File:Sentinels from X-Men Vol 1 14 003.png|thumb|left|The Sentinels rebel]]
+When [[Sandu (Earth-616)|Sandu]] was enhanced by the trickster god [[Loki Laufeyson (Earth-616)|Loki]], Trask and Thunderbolt Ross met with Reed Richards to discuss the threat. Trask wanted to classify the attack as mutant-related, refusing to believe it involved [[Glossary:Magic|magic]].{{r|Thor: First Thunder Vol 1 3}}
+
+===Encountering the X-Men===
+Dr. Trask wrote several articles on the "mutant question", but when he made an appearance on television, [[Charles Xavier (Earth-616)|Professor Charles Xavier]] realized that such propaganda had to be rebutted. During the resulting debate, Dr. Trask demonstrated his robots, which unexpectedly left for their lab and took Trask with them. Back at the lab, Master Mold revealed to Dr. Trask that it had come to the conclusion that Sentinels were superior to both races, thus robots could and should supplant humans and mutants. Taking orders from a mere human ran counter to this new imperative, so Dr. Trask would thenceforth serve the Sentinels and help build more of them. Meanwhile, the Sentinels had also taken [[Henry McCoy (Earth-616)|Beast]], an [[X-Men (Earth-616)|X-Man]], prisoner. Master Mold ordered Dr. Trask to use a psycho-probe to read the his mind and learn the X-Men's plans.{{r|X-Men #14|15}}{{r|Marvels #2}} Instead, Dr. Trask learned that the X-Men were genuinely protecting humanity, and that his theory was wrong. This revelation, coupled with Master Mold's betrayal and the threat to humanity, prompted Trask to blow up the laboratory to destroy Master Mold at the cost of his own life.{{r|X-Men #16}}{{r|Professor Xavier and the X-Men #16|18}}
+
+Despite Trask's ultimate change of heart before his death, his original propaganda, as well as several new and improved Sentinels, persisted in the future. His belief in "controlling the mutant problem" was passed on and warped by succeeding members of his family.{{r|X-Men Vol 1 57}}
+
+[[File:The_human_council.jpg|thumb|right|Member of Human Council]]
+===Human Council===
+Years later, when the mutant-hating [[Bastion (Earth-616)|Bastion]] set out to eradicate mutantkind, he used the [[Techno-Organic Virus]] to revive many of the X-Men's enemies, including Bolivar Trask, into the [[Human Council (Earth-616)|Human Council]].{{r|X-Force Vol 3 3}} The virus additionally allowed Bastion to exert his will on the minds of those he reanimated.{{r|X-Force Vol 3 5}} When [[X-Force (Strike Team) (Earth-616)|X-Force]] stumbled into Bastion's plans,{{r|X-Force Vol 3 5}} he managed to escape alongside the Human Council.{{r|X-Force Vol 3 6}}
+
+To further Bastion's agenda, Trask and [[Steven Lang (Earth-616)|Steven Lang]] addressed the General Assembly of the [[United Nations (Earth-616)|United Nations]] to ask for funding and support to start a new mutant-controlling global initiative called the [[Mutant Response Division (Earth-616)|M.R.D. (Mutant Response Division)]].{{r|X-Force Vol 3 #17}} When the first mutant ever born following [[M-Day]], [[Hope Summers (Earth-616)|Hope Summers]] resurfaced, and Bastion mobilized the Human Council to kill her.{{r|X-Men: Second Coming Vol 1 1}} During the hunt for Hope, Bastion forced Trask to deploy the M.R.D. to take down [[X-Factor Investigations (Earth-616)|X-Factor]], the X-Men's information-gathering arm, despite Bolivar's own reluctance.{{r|X-Factor Vol 1 204}}
+
+Throughout this operation, Trask attempted to fight Bastion's control, only to be further subdued.{{r|X-Factor Vol 1 205}} During an M.R.D. assault on X-Factor, [[Monet St. Croix (Earth-616)|M]] used her telepathic powers to intrude in Trask's mind. This interfered with Bastion's grasp over Trask, granting him a small window of free will that he used to command his troops to stand down and then shoot himself in the head.{{r|X-Factor Vol 1 206}}
+
+| Powers                  = * '''Techno-Organic form:''' After being resurrected by Bastion he was giving a Techno-Organic form using the [[Techno-Organic Virus]]. The extent of his abilities beyond Bastions control was never revealed.{{r|Wolverine: Weapon X Files #1}}
+
+| Abilities               = * '''Genius Intellect''' Trask is a scientific genius in multiple fields such anthropology, cybernetics, and robotics. His inventions include the [[Sentinels]] and [[Master Mold (Earth-616)|Master Mold]].{{r|Wolverine: Weapon X Files #1}} His genius was recognized by the US government and he was asked to join many think tanks and panels.{{r|Conspiracy #1}}{{r|Adam: Legend of the Blue Marvel #2}}
+
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = * Trask's '''"mutants killed"''' count, as the inventor of the [[Sentinels]], was allegedly 16,521,618 as of {{cl|X-Force Vol 3 3}}, obviously including the victims of his creations.<ref>As creator of the [[Sentinels]], Trask is responsible for the 16 millions victims killed on [[Genosha]]; {{cl|New X-Men #115}}</ref> To be noted, Purity stated the body count to be 16,743,618,{{r|X-Treme X-Men #37}} but that includes humans victims, such as [[Carmen Pryde (Earth-616)|Carmen Pryde]].
+* After Krakoa became a sovereign nation state for mutants, Bolivar Trask was considered the greatest threat to mutants, having created the Sentinels, and was held responsible for the total of 16,521,618 mutant deaths caused by the Sentinels.{{r|House of X Vol 1 4}}
+| Marvel                  = 
+| Wikipedia               = http://en.wikipedia.org/wiki/Bolivar_Trask
+| Links                   = 
+}}
+[[Category:Trask Family]]
+[[Category:Genius Intelligence]]
+[[Category:Suicide]]
+[[Category:Second Coming casualties]]
+[[Category:Robotics]]
+[[Category:Engineers]]
+[[Category:Inventors]]
+[[Category:Anthropologists]]

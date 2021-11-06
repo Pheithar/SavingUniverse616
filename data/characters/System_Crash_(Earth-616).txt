@@ -1,0 +1,36 @@
+{{Marvel Database:Team Template
+| Image                   = System Crash (Earth-616) from Silver Sable and the Wild Pack Vol 1 25 0001.jpg
+| Name                    = System Crash
+| Aliases                 = 
+
+| Status                  = Active
+| Identity                = Secret
+
+| Reality                 = Earth-616
+| BaseOfOperations        = Europe
+
+| Leaders                 = [[Wolfgang von Strucker (Earth-616)|Wolfgang von Strucker]]
+| CurrentMembers          = [[Technospike (Earth-616)|Technospike]]; [[Wirehead (Earth-616)|Wirehead]]; [[Steel Collar (Earth-616)|Steel Collar]]; [[Bitmap (Earth-616)|Bitmap]]; [[Killobyte (Lester) (Earth-616)|Killobyte (Lester)]]; [[Infomorph (Earth-616)|Infomorph]]
+| FormerMembers           = [[Killobyte (Joey) (Earth-616)|Killobyte (Joey)]]
+| Allies                  = [[Hydra (Earth-616)|Hydra]]
+| Enemies                 = [[Matthew Murdock (Earth-616)|Daredevil]]; [[Silvija Sablinova (Earth-616)|Silver Sable]]; [[Wild Pack (Earth-616)|Wild Pack]]; [[Genesis Coalition]]
+
+| Origin                  = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = D.G. Chichester; Scott McDaniel
+| First                   = Daredevil Vol 1 326
+| Last                    = 
+
+| HistoryText             = Baron Strucker's assault team.
+
+| Equipment               = 
+| Transportation          = Hydra Battlecruiser
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Terrorist Organizations]]
+[[Category:Hydra Projects]]

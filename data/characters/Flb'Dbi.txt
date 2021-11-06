@@ -1,0 +1,50 @@
+{{Marvel Database:Race Template
+| Image                   = Flb'dbi from Official Handbook of the Marvel Universe Vol 2 15 001.jpg
+| Name                    = Flb'dbi
+| Aliases                 = 
+| Identity                = 
+| Affiliation             = 
+| Universe                = Earth-616
+| BaseOfOperations        = 
+
+| BodyType                = Semi-arachnoid
+| AvgHeight               = 3' 8" at shoulder
+| AvgWeight               = 
+| Eyes                    = 2
+| Hair                    = Reddish brown fur
+| Skin                    = Brown
+| NumberOfLimbs           = 8
+| NumberOfFingers         = None
+| NumberOfToes            = 4
+| SpecialAdaptations      = Lifespan of thousands of years
+| UnusualFeatures         = Limbs resemble tentacles
+
+| Origin                  = Alien
+| GalaxyOfOrigin          = [[Milky Way]]
+| StarSystemOfOrigin      = [[Beta Lyrae]]
+| HomePlanet              = [[Jhb'Btt]]
+| PlaceOfBirth            = 
+| Creators                = John Byrne
+| First                   = Fantastic Four #221
+
+| HistoryText             = The Flb'Dbi are a semi-arachnid race that live on the planet [[Jhb'Btt]].{{r|Fantastic Four Vol 1 221}}
+
+| Habitat                 = Water covers 40% of the planet, late planetary volcanism created great mountain ranges
+| Gravity                 = 135% [[Earth]] standard
+| Atmosphere              = 120% [[Earth]] density
+| Population              = 3.2 billion
+
+| Powers                  = 
+| Abilities               = 
+| AvgStrength             = 
+| Weaknesses              = 
+
+| GovernmentType          = Socialist republics
+| TechnologyLevel         = Very advanced
+| CulturalTraits          = 
+| Representatives         = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

@@ -1,0 +1,80 @@
+{{Marvel Database:Character Template
+| Image                   = Kamo Tharnn (Earth-616) from Contest of Champions Vol 1 6 001.jpg
+| Name                    = Kamo Tharnn
+| CurrentAlias            = Possessor
+| Aliases                 = Master Scholar
+
+| Affiliation             = {{M|Elders of the Universe (Earth-616)|Elders of the Universe}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe Vol 2 10}}
+| Gender                  = Male
+| Height                  = 6' 5"
+| Weight                  = 
+| Eyes                    = Black
+| Hair                    = Grey
+| UnusualFeatures         = 
+
+| Origin                  = [[Elder of the Universe]];<br>[[Alien]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = Librarian, Scholar, Seeker of Knowledge
+| Education               = 
+| BaseOfOperations        = [[University of Rus]], [[Planet Rus]], [[Scion System]], [[Andromeda Galaxy]]
+
+| Creators                = Gerry Conway; John Buscema
+| First                   = Thor #235
+
+| History                 = 
+
+Like all the [[Elders of the Universe (Earth-616)|Elders of the Universe]], the Possessor's origin is lost in antiquity. What is known is that he is one of the oldest living beings in the universe, having been a member of one of the first of the universe's races to become sentient in the wake of the Big Bang. Virtually immortal, Kamo Tharnn has spent the eons since his self-awareness engaged in the pursuit and recording of all the knowledge of the universe. Eventually Tharnn founded a huge university and library on the planet [[Rus]], and transferred the vast store of information he accumulated to a huge master computer. He then opened the doors of the academy of learning to knowledge-seekers from anywhere in the universe. Within a century, his institution of advanced knowledge was filled with scholars, students, and researchers from over a thousand different intelligent star-faring races.{{r|Thor #335}}
+
+For untold millennia, Kamo Tharnn was content to be the master librarian and chief administrator of the university, until finally one of the many research assistants brought to him an alien artifact of immense power called the [[Runestaff]]. Excited by such a find, Tharnn asked to examine the artifact to record the properties for the master computer personally. The researcher had already devoted a great deal of time and effort mastering the Runestaff's properties and did not want Tharnn to take credit for its discovery, and so refused him. Violence erupted, and Tharnn slew the researcher.{{r|Thor #335}}
+
+The senseless act unhinged the sanity of the usually peaceful master librarian, and he began to experiment with the Runestaff with reckless abandon. One of the properties of the Runestaff is the manipulation of life forces, and Tharnn accidentally dispatched the hundreds of thousands of students and faculty on his planet into the limbo-like pocket dimension "inside" the staff. Driven further insane by the ruin of everything he had strove for over the eons, Tharnn, now calling himself the Possessor of the Runestaff, presided over the still planet, paranoid that someone would come and take away from him his last remaining possession. The planet's edifices soon fell into disrepair, the master computer ceased to function, and a furry pre-intelligent humanoid race began to breed wildly and overrun the planet Rus.{{r|Thor #335}}
+
+Eventually, Tharnn's paranoia was vindicated when the [[Olympians|Olympian]] god [[Hercules Panhellenios (Earth-616)|Hercules]] and the [[Asgardians|Asgardian]] goddess [[Sif (Earth-616)|Sif]] journeyed to Rus to borrow the Runestaff in order to save the waning life force of the mortal [[Jane Foster (Earth-616)|Jane Foster]]. When the Possessor refused to let them use it, the gods stole it from him and returned to [[Earth]]. By the staff's power, Sif's godly life essence was transferred into Foster's body, while Sif's body and consciousness went into the dimension "inside" the staff. Once Foster was saved, the gods forgot about the Runestaff and its mad owner. The Runestaff lay in a hospital broom closet for months until the alien [[Stranger (Cosmic Being) (Earth-616)|Stranger]] dispatched the mutant [[Laynia Petrovna (Earth-616)|Darkstar]] to fetch it in order to use its power to thwart the null-life bomb that was threatening all existence. When Jane Foster accompanied [[Thor Odinson (Earth-616)|Thor]] to [[Asgard]], Sif's godly life essence overwhelmed Foster's, and Sif's body spontaneously returned from the pocket dimension, sending Foster's there in exchange. Upon her return to Earth, Sif continued to predominate and Jane Foster remained in the pocket dimension.{{r|Thor #235|236}}
+
+Kamo Tharnn, in the meantime, had discovered a spell to teleport the Runestaff back to him. While tinkering with his prize possession again, he inadvertently transferred the life essences of all of the individuals who had been trapped in the staff's pocket dimension (including Jane Foster) into his own immortal body. Eventually Thor, Sif, and Jane Foster's fiancé, [[Keith Kincaid (Earth-616)|Keith Kincaid]], traveled to the planet Rus in an effort to locate Foster. Rescuing Tharnn from alien invaders, they succeeded in exorcising all of the spirits trapped inside Tharnn's body and restoring them to their rightful forms. The experience seemed to restore Tharnn's sanity and, reunited with all of his fellow knowledge-seekers, he vowed to restore his university to its former glory and not use the staff selfishly ever again. Thor, Sif, Foster, and Kincaid left the planet Rus for Earth. Kamo Tharnn began the process of rebuilding his citadel of knowledge and dispatching his researchers to gather all the information necessary to bring the master computer databank up to date.{{r|Thor #334|335}}
+
+At some point, the Possessor somehow joined the group known as the Elders of the Universe. He next appeared during the Elders' scheme to slay the planet-devouring [[Galan (Earth-616)|Galactus]] and thus destroy the Universe in a bid to attain expanded powers.{{r|Silver Surfer Vol 3 #4}} Their plan failed due to the involvement of Galactus' former Herald, the [[Norrin Radd (Earth-616)|Silver Surfer]], and his ally, [[Mantis (Brandt) (Earth-616)|Mantis]]. The Possessor and the Elders were consumed by Galactus, and tried to destroy him from within, but they were instead flung into a black hole.{{r|Silver Surfer Vol 3 #17}}
+
+...{{r|Quasar #48}}
+
+===Contest of Champions===
+
+The Possessor took part in a contest of champions between the [[Elders of the Universe (Earth-616)|Elders of the Universe]] to decide who would keep the [[Neutronium|Iso-8]] that was now abundant after the rebirth of the multiverse, his champions lost and he was eliminated from the contest.{{r|Contest of Champions Vol 1 6}}
+
+| Powers                  = Like all other Elders, the Possessor is a member of one of the first sentient races in the universe and possesses various superhuman abilities.
+
+'''Power Primordial:''' The Power Primordial is residual energy left over from the Big Bang that created the current Marvel Universe. The Possessor is the last member of his race and he, like all other Elders, maintains his powers and himself through monomaniacal obsessions, with his study and books. Like all Elders, the Possessor has purposely channeled the energies of the Power Primordial through countless years of training. In the case of the Possessor, he has channeled the Power Primordial for an all around effect such as granting himself superhuman physical, mental, and energy manipulative capabilities.
+
+*'''Immortality:''' Although there are a number of beings claiming to be immortal, the Possessor and the other Elders are true immortals. Death itself has banned the Elders from its realm. As a result, the Possessor cannot be killed by any means. Although he can sustain physical injury, no injury can threaten his continued existence. The Possessor is also completely immune to all diseases and the aging process. Prior to being banished by Death, the Possessor was still functionally immortal in the sense that he was immune to aging and disease and he could rapidly regenerate almost any damaged bodily tissue. However, it was possible for him to be killed. He also doesn't require food, water, or even air to breathe and can survive indefinitely in a complete vacuum.
+
+*'''Superhuman Intellect:''' The Possessor has devoted much of his time into channeling the Power Primordial to increase his intellect over the millennia. As a result, his intellect is vastly superior to those of an ordinary human. He is a genius in all scientific fields and has created technology far surpassing that of Earth's current level of technology.
+
+| Abilities               = 
+| Strength                = The Possessor possesses superhuman strength to an unknown degree. He has been able to engage [[Hercules Panhellenios (Earth-616)|Hercules]] in hand-to-hand combat for an extended length of time, indicating his strength level is at least in the 50 ton range.
+| Weaknesses              = *'''Insane:''' The Possessor has been driven insane by his millennia of study and reading. The effects of being insane for a millennia may cause his intellect to wither over time.
+*'''Blind:''' Although not entirely blind his eyes are very weak and sensitive to any kind of light. This may be disputed since his powers enable him to heal from any wound but constant damage may also render this inert to his eyes.
+
+| Equipment               = Most of the Possessor's powers stem from the powerful cosmic artifact, the [[Runestaff]]. The staff can manipulate and even store the life forces of other beings. It can also allow Tharnn to travel across dimensions and/or vast distances, control emotions of others, and heal others.
+
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Telepaths]]
+[[Category:Formerly Deceased]]
+[[Category:Blind Characters]]
+[[Category:Insanity]]
+[[Category:Immortals]]

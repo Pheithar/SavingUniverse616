@@ -1,0 +1,72 @@
+{{Marvel Database:Character Template
+| Image                   = Brandy Selby (Earth-616) from Heroes Return Vol 1 1 003.jpg
+| Name                    = Selby
+| Name2                   = (doesn't have a first name yet){{r|Avengers Vol 8 35}}
+| CurrentAlias            = [[Star Brand|Starbrand]]
+| Aliases                 = Brandy{{r|Avengers Vol 8 34}}
+
+| Affiliation             = Under the protection of the [[Avengers (Earth-616)|Avengers]]; formerly the {{m|Avengers (Earth-TRN852)|Avengers}} of [[Earth-TRN852]]
+| Parents                 = [[Suzanne Selby (Earth-616)|Suzanne Selby]] (mother, deceased);<br>
+Unnamed father;<br>
+[[Rocket Raccoon (Earth-TRN852)|Rocket Raccoon]] and [[Groot (Earth-TRN852)|Groot]] of [[Earth-TRN852]] (foster parents, both deceased)
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Blue; Red (when using powers)
+| Hair                    = Blonde
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] who inherited the [[Star Brand (Object)|Starbrand]] from her mother
+| Relatives               =
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Known to Authorities
+| Citizenship             = American
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = Mobile aboard the [[Mothership Guardian]]
+
+| Creators                = Jason Aaron; Ed McGuinness
+| First                   = Avengers Vol 8 30
+
+| Quotation               = Like I've been saying since the day I '''found''' you, floating in space as a crying starbaby... someday you're gonna save the whole galaxy. You'll know when.
+| Speaker                 = [[Rocket Raccoon (Earth-TRN852)|Rocket Raccoon]]
+| QuoteSource             = Heroes Reborn Vol 2 4
+
+| History                 = Brandy was the daughter of [[Suzanne Selby (Earth-616)|Suzanne Selby]], an unemployed pregnant worker who was recruited to work on grape harvests in the [[Shi'ar Galaxy]] with her boyfriend. Sometime after becoming separated from him, Suzanne was arrested by the Shi'ar border patrol for being a migrant worker, and was sentenced to the [[Ravenstarr Maximum-Security Prison Galaxy]].<!-- {{r|Avengers Vol 8 30}} -->
+
+As she was going into labor while being transported into Ravenstarr, Suzanne was imbued with the powers of the [[Star Brand (Object)|Starbrand]], sending her on a path of destruction while she tried to control her new destructive abilities. This incident ended with the [[Avengers (Earth-616)|Avengers]] assisting the delivery of Suzanne's baby. Suzanne died in childbirth, and the Starbrand was transferred to her baby girl. The Avengers returned with the child to [[Earth]] in order to help her control her new power,{{r|Avengers Vol 8 30}} and dubbed her "Brandy".{{r|Avengers Vol 8 34}}
+[[File:Brandy Selby (Earth-616) from Avengers Vol 8 30 001.jpg|180px|thumb|left|Infant Brandy]]
+
+One day, Brandy found herself in an [[Earth-TRN852|alternate reality]] and floating in the depths of space. She was eventually found by that reality's [[Rocket Raccoon (Earth-TRN852)|Rocket Raccoon]] and [[Groot (Earth-TRN852)|Groot]], who brought her aboard their ship, the [[Mothership Guardian]], much to Rocket's annoyance.{{r|Heroes Reborn Vol 2 4}} He eventually relented, and, together, they raised Brandy. As she grew up, she learned how to use her powers and, when Rocket was hired to kill [[Joseph Ledger (Earth-TRN852)|Doctor Spectrum]] and was losing the fight, Brandy was able to pass on her Star Brand to aid Rocket. It still wasn't enough, however, and Spectrum killed him. The Star Brand returned to Brandy, and she was left brokenhearted by Rocket's death.{{r|Heroes Reborn Vol 2 4}}
+
+She then wanted to go to Earth to restore reality to its proper state and kill Spectrum, something that Groot tried to talk her out of. Suddenly, a [[Wakanda|Wakandan]] spaceship appeared looking for Brandy.{{r|Heroes Reborn Vol 2 4}} Once on Earth, Brandy joined the [[Avengers (Earth-TRN852)|Avengers]]. She and Avengers later confronted the [[Squadron Supreme of America (Earth-TRN852)|Squadron Supreme]] when they tracked the Avengers to the hidden nation of Wakanda.{{r|Heroes Reborn Vol 2 7}}
+
+Brandy fought Doctor Spectrum for killing Rocket and managed to melt his [[Power Prism]] until it was rendered useless, leaving Spectrum devastated, much to Brandy's delight. Brandy then aided her teammate [[Maya Lopez (Earth-616)|Echo]] defeat [[Zarda Shelton (Earth-TRN852)|Power Princess]] and destroyed the source of the reality warp, [[Phillip Coulson (Earth-TRN852)|President Coulson]]'s [[Pandemonium Cube]]. With the Pandemonium Cube's destruction, Brandy was returned to Earth-616 but retained the natural aging she underwent while in Earth-TRN852.{{r|Heroes Return Vol 1 1}}
+
+| Powers                  = Seemingly [[Kevin Connor (Earth-616)#Powers|those]] of the [[Kevin Connor (Earth-616)|Kevin Connor]] of [[Earth-616]].
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = '''[[Star Brand (Object)|Starbrand]]'''
+| Transportation          = Flight under her own power; formerly the [[Mothership Guardian]]
+| Weapons                 = 
+
+| Notes                   = * When Brandy's mother was detained for being an illegal alien, Brandy (still unborn) was sentenced to 2 years in prison, pending birth.{{r|Avengers Vol 8 30}}
+
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Star Brand]]
+[[Category:Object-Based Powers]]
+[[Category:Interdimensional Travelers]]
+[[Category:Self Sustenance]]
+[[Category:Power Bestowal]]
+[[Category:Flight]]

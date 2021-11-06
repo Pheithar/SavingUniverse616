@@ -1,0 +1,79 @@
+{{Marvel Database:Character Template
+| Image                   = Quasi-Motivational Destruct Organism (Earth-616) from Iron Man 2020 Vol 2 2 001.jpg
+| Name                    = Quasi-Motivational Destruct Organism
+| CurrentAlias            = Quasimodo
+| Aliases                 = Computo{{r|X-Men Vol 1 48}}
+
+| Affiliation             = {{m|A.I. Army}}; formerly {{m|H.A.M.M.E.R.}}, ally of {{m|Secret Empire}}
+| Relatives               = [[Mad Thinker (Julius) (Earth-616)|Mad Thinker]] (creator)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z Update #4}}
+| Gender                  = Male
+| Height                  = 6'0"
+| Weight                  = 1350 lbs
+| Eyes                    = White
+| Hair                    = None
+| UnusualSkinColor        = Silver
+| UnusualFeatures         = hunchbacked; grotesque face; misshapen body; missing right eye
+
+| Origin                  = [[Robots|Robot]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = Mojave Desert, California
+| PlaceOfDeath            = 
+| KilledBy                = Arno Stark (Earth-616)
+
+| Identity                = Public
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = [[Thirteenth Floor]]; [[Manhattan]]; [[New York City]]; [[New York (State)|New York]]
+
+| Creators                = Stan Lee; Jack Kirby
+| First                   = Fantastic Four Annual Vol 1 4
+| Death                   = Iron Man 2020 Vol 2 2
+
+| History                 = The being known as Quasimodo was created as a sentient computer by the [[Mad Thinker (Julius) (Earth-616)|Mad Thinker]] as part of a complex plan to defeat the [[Fantastic Four (Earth-616)|Fantastic Four]] - the super-intelligent computer kept the android [[Human Torch (Android) (Earth-616)|Human Torch]] in line with threats of destruction. As Quasimodo was displeased with his static hardware, the Thinker promised Quasimodo a better, more attractive humanoid body if he was successful. When the plan was unsuccessful, the Torch disabled and the Thinker escaped, Quasimodo was abandoned.{{r|Fantastic Four Annual Vol 1 4}}
+
+The [[Norrin Radd (Earth-616)|Silver Surfer]] then happened by and created Quasimodo his current body -- misshapen and ugly as a part of Quasimodo's ugly psyche. Aghast at his own appearance, and disregarding the Surfer's advice, Quasimodo went into a rampage destroying the city and fighting the Surfer, as he believed he was a "Quasi-Motivational Destruct Organism." Using his superior power, the Surfer turned him into a stone gargoyle on a clock.{{r|Fantastic Four Annual Vol 1 5}}
+
+Quasimodo was next seen in the [[New York City]] area, building a huge amount of robots called "Cybertrons" to do his criminal bidding by stealing technology and calling himself Computo. He was discovered and defeated by [[Scott Summers (Earth-616)|Cyclops]] and [[Jean Grey (Earth-616)|Marvel Girl]] of the X-Men, but Quasimodo escaped through a river.{{r|X-Men Vol 1 48}}
+
+He then fought [[Mar-Vell (Earth-616)|Captain Mar-Vell]],{{r|Captain Marvel Vol 1 7}} and later [[Peter Parker (Earth-616)|Spider-Man]] and [[Clinton Barton (Earth-616)|Hawkeye]], when trying to gain control of major computer systems.{{r|Marvel Team-Up #22}} He then learned of Xandar, whose planet-wide computer system was too tempting a target. Unfortunately, he was defeated by the Fantastic Four and the Sphinx, and ended up a disembodied intelligence in a computer in Russia.
+
+[[Vision (Earth-616)|The Vision]] fought this consciousness when he was attempting to take over the world, but Quasimodo's intelligence ended up being expelled into space.{{r|Avengers Vol 1 253}}
+
+While in space, Quasimodo inhabited a satellite owned by [[Stark Industries|Stark International]]. Controlling these systems, he was able to reconstruct his robot body. Unfortunately, he was not programmed for the "creative act of improvement" and he went violently looking for [[Anthony Stark (Earth-616)|Tony Stark]] to create a new body for him. Quasimodo fought Iron Man, which ended abruptly. Stark then linked Quasimodo into a virtual reality program in which Quasimodo would believe he was reborn into an idealized form-- giving Quasi his dream as well as safely incarcerating him at the same time.
+
+Quasimodo was later retrieved by [[H.A.M.M.E.R. (Earth-616)|H.A.M.M.E.R.]] to create dossiers on super-powered threats and allies to [[Norman Osborn (Earth-616)|Norman Osborn]]'s [[Dark Reign|reign]].{{r|Dark Reign Files Vol 1 1}}
+
+In the wake of increased oppression suffered by artificial life forms across America by the hand of the government, a countermovement emerged fighting for equal rights and robo-liberation. During this conflict, Quasimodo joined the [[A.I. Army (Earth-616)|A.I. Army]], a consolidation of this countermovement dedicated to fighting for their cause, often through terroristic means.{{r|Iron Man 2020 Vol 2 1}} Quasimodo took part in an assault on [[Bain Tower]] to stop the transmission of a code to infect A.I.s with an operating system that made them compliant to humans. During the attack, Quasimodo was blasted from behind by [[Arno Stark (Earth-616)|Arno Stark]], the Iron Man at the time. He died in the arms of Mark One, the identity assumed by Tony Stark as leader of the A.I. Army. With his last breath, Quasimodo asked Mark One to promise him the robot revolution would triumph.{{r|Iron Man 2020 Vol 2 2}}
+
+| Powers                  = Super-Human Strength and Durability, due to the artificial nature of the physical form; Quasimodo's self-repairing circuitry is capable of repairing any defect in it's artificial structure, given time; also Quasimodo's left eye projects a force beam with equivalent explosive force of 100 lbs of TNT at a range of 100 feet
+
+| Abilities               = Quasimodo had immeasurable stamina and demigod-like durability
+| Strength                = Class 50
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * Unofficial History of the Marvel Universe
+}}
+
+==References==
+{{Reflist}}
+[[Category:Optic Blasts]]
+[[Category:Technopaths]]
+[[Category:Non-Galadorian Spaceknights]]
+[[Category:Mad Thinker Experiment]]
+[[Category:Artificial Intelligences]]
+[[Category:Regeneration]]
+[[Category:Energy Manipulation]]
+[[Category:Concussive Blasts]]
+[[Category:One Eye]]
+[[Category:Dark Reign]]
+[[Category:Regenerative Durability]]

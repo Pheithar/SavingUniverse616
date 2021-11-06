@@ -1,0 +1,50 @@
+{{Marvel Database:Character Template
+| Image                   = Hoy (Earth-616) from Avengers Vol 1 18 001.png
+| Name                    = Hoy
+| CurrentAlias            = Commissar 
+| Aliases                 = Major Hoy
+
+| Affiliation             = Major Hoy
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = 
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual 
+| Citizenship             = Sin-Cong
+| Occupation              = Dictator of Sin-Cong
+| Education               = 
+| BaseOfOperations        = [[Sin-Cong]]
+
+| Creators                = Stan Lee; Don Heck
+| First                   = Avengers Vol 1 #18
+| Death                   = 
+
+| History                 = Major Hoy secretly controlled the [[Commissar (Android) (Earth-616)|Commissar]]. Fearing repercussions from [[Beijing]], he fled when [[Wanda Maximoff (Earth-616)|Scarlet Witch]] exposed his deception and short-circuited the fantastic robot {{r|Avengers Vol 1 #18}}.
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

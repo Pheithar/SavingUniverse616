@@ -1,0 +1,75 @@
+{{Marvel Database:Character Template
+| Image                   = Yandroth (Earth-616) from Defenders Vol 2 1 001.gif
+| Name                    = [[Yandroth]]
+| CurrentAlias            =
+| Aliases                 = [[Yandroth|Yandroth The Foul]],{{r|Last Defenders Vol 1 1}} Techno-Mage,{{r|Last Defenders Vol 1 1}} [[Mr. Smith]],{{r|Last Defenders Vol 1 2}} Quantum King{{r|Last Defenders Vol 1 5}}
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 6'0"
+| Weight                  = 180 lbs
+| Eyes                    = Grey
+| Hair                    = Bald
+| UnusualFeatures         = 
+
+| Origin                  = [[Yannians|Yannian]] trained as a "techno-wizard"
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Yann (Planet)|Yann]]
+
+| Identity                = No Dual
+| Citizenship             = Yannian
+| Occupation              = [[Scientist Supreme of Yann]]
+| Education               = 
+| BaseOfOperations        = Gevilscwarz System, Formerly; [[Yann (Planet)|Yann]]
+
+| Creators                = Jim Lawrence; Dan Adkins
+| First                   = Strange Tales #164
+
+| History                 = Yandroth was an alien scientist who fought [[Stephen Strange (Earth-616)|Doctor Strange]] on several occasions.{{r|Strange Tales #164}} Strange defeated Yandroth, sending him to seemingly fall forever through an alternate dimension.{{r|Strange Tales #168}}
+
+There, he learned that he could gain great power by destroying a world. He constructed an 'Omegatron', which was defeated in the [[Defenders (Earth-616)|Defender]]'s first adventure.{{r|Marvel Feature #1}}
+
+Omegatron menaced the Defenders a few more times. Later, Yandroth possessed a young girl in order to telepathically attack the heroes. He was seemingly killed in their last encounter.{{r|Defenders #119}} 
+
+Although Yandroth was dead, his spirit was still capable of taking possession of a living human's mind. Taking the form of a vagrant, he was discovered by [[Patricia Walker (Earth-616)|Patsy Walker]]. Seemingly an innocent, she rescued him, allowing him time to regain his strength and capture her.
+
+He crafted a plan to end the world. He utilized the captured form of [[Gaea (Earth-616)|Gaea]], the spirit of the Earth, to summon monsters from all over, involving many superhero teams. Most of the New York-based heroes were tied up confronting destructive, mindless monstrosities; [[Alpha Flight (Earth-616)|Alpha Flight]] was attacked by Warlord Kaa and his Shadow Warriors; a group of [[Living Eraser]]s appeared in the Tokyo Headquarters of the [[Big Hero Six (Earth-616)|Big Hero Six]]; [[Lizard Men of Tok|Lizard Men from Tok]] attacked the island nation of [[Genosha]]; and [[Gorgilla (Earth-616)|Gorgilla]] subdued the [[Avengers (Earth-616)|Avengers]] by dropping a building on them.
+
+Patsy, who had escaped and learned this, told the Defenders, who were then comprised of [[Namor McKenzie (Earth-616)|Namor]], the [[Bruce Banner (Earth-616)|Hulk]], Doctor Strange, and [[Norrin Radd (Earth-616)|Silver Surfer]]. The superhero battles Yandroth had caused gave him enough power to summon the Ravagers of Creation. These four elemental creatures confronted the Defenders, who were unable to stop them individually. They attacked the Stone creature, disabling the spell needed to destroy the world. This freed Gaea and killed Yandroth. As he witnessed the Hulk and Namor fighting, he realized the Defenders hated each other. With his last breath, he used his powers to curse them, so they would be forced to work together in times of a severe crisis. This involved uncontrollable teleportation, affecting all four of the heroes.{{r|Defenders Vol 2 #1}}
+
+Yandroth was later revived when the four Defenders became The Order for a short time and their curse rendered him all-powerful.{{r|The Order #5|6}} Not long after he became an enemy of the [[50-State Initiative (Earth-616)|50-State Initiative]] [[Defenders (Initiative) (Earth-616)|Defenders]] team, manipulating many people throughout time in his vendetta against them and [[Kyle Richmond (Earth-616)|Nighthawk]] in particular, all to try and form a version of the Defenders that he believed should exist.{{r|Last Defenders Vol 1 1|6}}
+
+| Powers                  = * '''Magic:''' Yandroth was skilled in sorcery and was able to combine his magic with various technologies which could grant him a variety of powers including levitation and mind bolts.{{r|All-New Official Handbook of the Marvel Universe A to Z #12}}
+* '''Reality Warping:''' Through use of his Quantum powers, Yandroth became capable of manipulating the world around him.{{r|Last Defenders Vol 1 1|6}}
+* '''Time Travel:''' Yandroth's Quantum powers allowed him to travel through and manipulate the time-space continuum.{{r|Last Defenders Vol 1 1|6}}
+* '''Omniscience:''' Yandroth became omniscient to an unknown level. He displayed the ability to be aware of the past, present and future as well as claiming to see cosmic connections throughout reality.{{r|Last Defenders Vol 1 1|6}}
+{{Navigation
+| title = Former Powers
+| body = '''Astral Form:''' While Yandroth's body was dead he existed as an Astral entity. While in this form he was able to possess a human body and, through brain implants, could alter others brainwaves to be identical to his own, allowing him to control them.{{r|All-New Official Handbook of the Marvel Universe A to Z #12}}
+}}
+| Abilities               = * '''Super-Genius Intelligence:'''{{r|Official Handbook of the Marvel Universe A-Z Vol 1 14}}
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+*'''[[Atomic Disintegrator]]'''
+*'''[[Q-Ray Blaster]]'''
+*'''[[Ultra-Spectrum Laser]]'''
+*'''[[Voltorg (Earth-616)|Voltorg]]'''
+*'''[[Omegatron (Earth-616)|Omegatron]]'''
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * http://www.marvunapp.com/Appendix4/yandrothdef.htm
+}}
+[[it:Yandroth (Terra-616)]]
+[[Category:Reality Warpers]]
+[[Category:Time Travelers]]
+[[Category:Omniscient Intelligence]]
+[[Category:Astral Projection]]

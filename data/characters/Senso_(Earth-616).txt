@@ -1,0 +1,52 @@
+{{Marvel Database:Character Template
+| Image                   = 
+| Name                    = Senso
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{m|Hidden Ones}}; formerly slave of the {{m|National Socialist German Workers Party|Nazis}}, unnamed tribe
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Blue
+| Eyes2                   = with [[:Category:Yellow Eyes|yellow]] cornea[[Category:Yellow Eyes]][[Category:Infobox Eyes Update Needed]]
+| Hair                    = None
+| Hair2                   = (appear [[:Category:Blond Hair|blond]] as the military aide, [[:Category:Black Hair|black]] as the leader)[[Category:Blond Hair]][[Category:Black Hair]][[Category:Infobox Eyes Update Needed]]
+| UnusualSkinColor        = Grey
+| UnusualFeatures         = Secondary vertical eyelids
+
+| Origin                  = [[Hidden One]] ([[Homo sapiens|Human]]/[[Inhomo supremis|Inhuman]] hybrid)
+| Reality                 = Earth-616
+| PlaceOfBirth            = Unlocated mountains
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = Leader of the [[Hidden Ones (Earth-616)|Hidden Ones]]; formerly slave/soldier-in-training, impersonated military aide
+| Education               = Educated by {{m|National Socialist German Workers Party|Nazis}}{{r|Fantastic Four Vol 3 53}}
+| BaseOfOperations        = [[United States of America]]; formerly [[Berlin]], [[Germany]]; unlocated mountains
+
+| Creators                = Karl Kesel; Carlos Pacheco; Mark Bagley
+| First                   = Fantastic Four Vol 3 52
+
+| History                 = 
+
+| Powers                  = Senso is known to possess "persuasion" powers, and mind control as well as other psionic powers.
+
+She was also able to disappear,{{r|Fantastic Four Vol 3 54}} though it is unclear if she used her perception manipulation powers to render herself invisible or if she was able to teleport herself out.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Human/Inhuman Hybrids]]

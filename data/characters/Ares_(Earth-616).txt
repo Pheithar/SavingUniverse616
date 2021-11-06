@@ -1,0 +1,189 @@
+{{Marvel Database:Character Template
+| Image                   = Chaos War Ares Vol 1 1 Textless.jpg
+| Name                    = [[Ares]]
+| CurrentAlias            =
+| Aliases                 = Berserker Saint,{{r|Hulk vs Hercules Vol 1 1}} Broom head,{{r|Hulk Vol 2 6}} [[John Aaron]],{{r|Ares Vol 1 1}}{{r|Thor & Hercules: Encyclopaedia Mythologica #1|; Ares' entry}} [[Mars]],{{r|Comedy Comics Vol 1 10}}{{r|Thor & Hercules: Encyclopaedia Mythologica #1|; Ares' entry}} [[Talon|Mister Talon]],{{citation}} Mr. Tallon,{{r|Avengers Vol 1 98}}{{r|Thor & Hercules: Encyclopaedia Mythologica #1|; Ares' entry}} Thor-Lite,{{r|Mighty Avengers Vol 1 4}} [[Warhawk]]{{r|Avengers Vol 1 100}}{{r|Thor & Hercules: Encyclopaedia Mythologica #1|; Ares' entry}}
+
+| Affiliation             = {{m|Champions of Europe}}; Formerly {{m|Red Team (Earth-15513)|Red Team}}, {{m|Dark Avengers}}, {{m|Mighty Avengers (Initiative) (Earth-616)|Mighty Avengers}} ({{m|50-State Initiative|Initiative}}), [[Olympians|Olympic Pantheon]], {{m|Warhawks}}, [[Kingdom of England]], {{m|Fisk Construction}};{{r|Mighty Avengers #1}} [[Achilles (Earth-616)|Achilles]]; [[Illium|Troy]]
+| Relatives               = [[Gaea (Earth-616)|Gaea]] (great-grandmother);<br>
+[[Ouranos (Earth-616)|Ouranos]] (great-grandfather, deceased);<br>
+[[Cronus (Earth-616)|Cronus]] (paternal grandfather, possibly deceased);<br>
+[[Rhea (Olympian) (Earth-616)|Rhea]] (paternal grandmother);<br>
+[[Zeus Panhellenios (Earth-616)|Zeus]] (father);<br>
+[[Hera Argeia (Earth-616)|Hera]] (mother);<br>
+----
+[[Poseidon Aegaeus (Earth-616)|Neptune]], [[Hades (Earth-616)|Pluto]] (uncles);<br>
+[[Demeter (Olympian) (Earth-616)|Demeter]], [[Hestia (Earth-616)|Hestia]] (aunts);<br>
+[[Hephaestus Aetnaeus (Earth-616)|Hephaestus]] (brother);<br>
+[[Phoebus Apollo (Earth-616)|Apollo]], [[Dionysus Acratophorus (Earth-616)|Dionysus]], [[Hercules Panhellenios (Earth-616)|Hercules]], [[Hermes Diaktoros (Earth-616)|Hermes]] (half-brothers);<br>
+[[Erida (Earth-616)|Erida]], Eilethyia,{{citation}} [[Hebe Panhellenios (Earth-616)|Hebe]] (sisters);<br>
+[[Aphrodite Ourania (Earth-616)|Aphrodite]], [[Artemis (Olympian) (Earth-616)|Artemis]], [[Athena Parthenos (Earth-616)|Pallas Athena]], [[Persephone (Olympian) (Earth-616)|Persephone]] (half-sisters);<br>
+[[Eris (Earth-616)|Discord]] (wife/sister);<br>
+[[Enyo (Earth-616)|Enyo]] (wife);{{r|{{cl|Official Handbook of the Marvel Universe Master Edition #11}}; Ares' entry}}<br>
+----
+[[Antiope (Earth-616)|Antiope]], [[Diomedes' Mares (Earth-616)|Diomedes' mares]], [[Harmonia (Earth-616)|Harmonia]], [[Hippolyta (Earth-616)|Hippolyta]], [[Lysippe (Earth-616)|Lysippe]], [[Melanippe (Earth-616)|Melanippe]], [[Orithya (Earth-616)|Orithya]], [[Penthesilea (Earth-616)|Penthesilea]],{{r|Avengers: Roll Call #1|; [[Kyknos (Earth-616)|Kyknos]]' entry}}<!-- all listed as "half-sisters": verify regarding Pelopia's own family for more. Depending on mythological statement and Pelopia's family --> Alcippe,{{citation}} (daughters);<br>
+[[Diomedes of Thrace (Earth-616)|Diomedes]] (son with [[Cyrene (Earth-616)|Cyrene]]);<br>
+[[Drakon Ismenios (Earth-616)|Drakon Ismenios]], [[Monstro the Mighty (Earth-616)|Monstro]], [[Kyknos (Earth-616)|Kyknos]], [[Deimos (Earth-616)|Deimos]], [[Phobos (Earth-616)|Phobos]],{{r|Doctor Strange, Sorcerer Supreme #32}} [[Alexander Aaron (Earth-616)|Alex Aaron]] (sons);{{r|Ares #1}}<br>
+[[Aeneas (Earth-616)|Aeneas]], [[Eros (Olympian) (Earth-616)|Cupid]] (nephews);<br>
+[[Stymphalian Birds|Birds of Stymphalis]] (creations, deceased)
+| MaritalStatus           = Married
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #1}}
+| Gender                  = Male
+| Height                  = 6'1"
+| Weight                  = 500 lbs
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         = Ares previously had a thin Mohawk receding over his head, of varying length
+
+| Origin                  = [[Olympian]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Mount Olympus|Olympus]]
+| KilledBy                = Void (Dark Sentry) (Earth-616)
+
+| Identity                = No Dual
+| Citizenship             = Olympian
+| Occupation              = Olympian god of savage warfare,{{r|Thor & Hercules: Encyclopaedia Mythologica #1|; Ares' entry}} registered superhero,{{r|Thor & Hercules: Encyclopaedia Mythologica #1|; Ares' entry}} former construction worker,{{r|Thor & Hercules: Encyclopaedia Mythologica #1|; Ares' entry}} carpenter{{r|Thor & Hercules: Encyclopaedia Mythologica #1|; Ares' entry}}
+| Education               =
+| BaseOfOperations        = Formerly [[Stark Tower|Avengers Tower]], [[New York City]]; [[Mount Olympus|Olympus]] 
+
+| Creators                = Ramona Patenaude; Stan Lee; Jack Kirby
+| First                   = Comedy Comics Vol 1 10
+| First2                  = (Golden-Age appearance)<br>{{sld|Thor Vol 1 129}}(Silver-Age appearance)[[Category:Silver-Age Characters]][[Category:1966 Character Debuts]]
+| Quotation               = The chain of command. Rules of engagement. This Geneva Convention thing. Medical evac. Supply lines. The white flag. The Red Cross. Worrying about evacuees and refugees. Taking prisoners. Losing the battle but winning the war. Cursed diplomats. The proper standard of grooming. Sensible things like having enough bullets before you go into battle. That's the dung [[Athena Parthenos (Earth-616)|my sister]] cares about. I'm the other God of War.
+| Speaker                 = [[Ares (Earth-616)|Ares, the God of War]]
+| QuoteSource             = Dark Avengers: Ares Vol 1 1
+
+| Overview                = '''Ares''' was a member of the [[Olympians]], a group of humanoid beings that hail from the [[pocket dimension]] of [[Olympus (Realm)|Olympus]]. He was worshiped by the [[Homo sapiens|humans]] of [[Ancient Greece]] and the [[Roman Empire]] as their god of savage warfare.{{r|Thor & Hercules: Encyclopaedia Mythologica #1|; Ares' entry}} 
+
+| History                 = 
+===Ancient History===
+The son of [[Zeus Panhellenios (Earth-616)|Zeus]] and [[Hera Argeia (Earth-616)|Hera]], Ares was worshiped as the god of war in ancient [[Greece]] and [[Rome (Italy)|Rome]]. Ares' dissatisfaction with Zeus' rule of [[Mount Olympus|Olympus]] began after Zeus' decree that worship of the [[Olympians]] should be allowed to die out.
+
+On three times he attempted to conquer Olympus, twice in league with his uncle [[Hades (Earth-616)|Hades]], god of the [[Hades (Underworld)|Olympian underworld]], but each time he was thwarted through the efforts of his half-brother, [[Hercules Panhellenios (Earth-616)|Hercules]], and Hercules' allies. Ares hated Hercules ever since he had killed Ares' monstrous [[Stymphalian Birds]] in the days of ancient Greece.
+
+He sired many children, including:
+* The half-human [[demigod]] [[Kyknos (Earth-616)|Kyknos]], with the [[Mycenae]]an princess [[Pelopia (Earth-616)|Pelopia]].{{r|Avengers: Roll Call #1|; [[Kyknos (Earth-616)|Kyknos]]' entry}}
+* The giant warrior [[Diomedes of Thrace (Earth-616)|Diomedes]], who became king of [[Thrace (Greece)|Thrace]], with [[Lapith]] princess [[Cyrene (Earth-616)|Cyrene]].{{r|Official Handbook of the Marvel Universe A-Z #8|; Appendix: Olympians: Demi-Gods, Heroes and other Graeco-Roman Mythological Figures: Diomedes' entry}}
+
+====[[Trojan War]]====
+During the [[Trojan War]], he was one of gods to observe the event.{{r|Trojan War #3}} Despite Zeus forbidding the Gods from interference,{{r|Thor Annual #8}}{{r|Trojan War #3}} Ares acted on a few occasions:
+* At some point, he stood by [[Achilles (Earth-616)|Achilles]], mightiest of the [[Argives]], during the war.{{r|Ares #2}}
+* In the ninth year of the conflict, after [[Aphrodite Ourania (Earth-616)|Aphrodite]] was wounded by Argive [[Diomedes of Argos (Earth-616)|Diomedes]] while trying to protect her son [[Aeneas (Earth-616)|Aeneas]], she rushed to Ares who was watching the battle from a nearby hill. Ares entered the fight on the Trojan side, confronting Diomedes. [[Athena Parthenos (Earth-616)|Athena]] (supporting the Argives) guide Diomedes, whose blade pierced Ares, forcing him to flee back to Olympus.{{r|Thor Annual #8}}
+* The same year, when Achilles slew his daughter, the [[Amazons (Earth-616)|Amazon]] [[Penthesilea (Earth-616)|Penthesilea]], Ares, enraged, wished to slay him in return, but remain in Olympus, remembering that Zeus himself has lost many sons in wars and that he had forbidden Olympian interference in the war.{{r|Trojan War #3}}
+* During the tenth and last year of conflict, after Achilles' son [[Neoptolemus (Earth-616)|Neoptolemus]] slew [[Eurypylus (Earth-616)|Eurypylus]] and stated that no mortal could prevail over his father's [[Lance of Pelias|spear]], Ares decided to go help the Trojans. He was immediately confronted by Athena, but their clash was prevented by Zeus' thunder, and Ares abandoned any concern he had for the Trojans.{{r|Trojan War #4}}
+
+''Later, Ares would hate the movie "Troy", stating that it made him sick.''{{r|Mighty Avengers #1}}
+
+===Middle Ages===
+Ares fought the [[France|French]] during the [[Battle of Agincourt]].{{r|Mighty Avengers #5}}
+
+[[File:Aries (Earth-616) from Venus Vol 1 13 0001.jpg|thumb|left|147px|Ares circa 1951]]
+===20th Century===
+Like many Olympians, Ares accepted the rule of [[Aphrodite Ourania (Earth-616)|Aphrodite]] during an apparent leave of absence from Zeus. Olympus was relocated to the planet [[Venus (Planet)|Venus]] and most of the Olympians adopted their Roman names. Ares took up the name Mars during the time. In 1949, Mars was among the various Olympians gathered by Aphrodite (now calling herself Venus) as potential subjects to make her mortal lover [[Whitney Hammond (Earth-616)|Whitney Hammond]] jealous. In the end [[Samson (Biblical) (Earth-616)|Samson]] was chosen over the others.{{r|Venus #4}} In 1951, Mars was summoned by Jupiter to assist Venus along with the [[Asgardians|Asgardian]] thunder god [[Thor Odinson (Earth-616)|Thor]] to assist Venus in defending New York City from the insane inventor [[John Dark (Earth-616)|John Dark]] and his mechanized army. Mars attempted to appeal to the pride Dark felt when he previously served in the United States Army, but this did not succeed and Thor was forced to slay Dark.{{r|Venus #13}} After this Ares resumed using his Grecian name and withdrew from interacting with the mortal world once again.
+
+===Modern Era===
+In recent years, Ares tried to set two of [[Earth]]'s nations at war with each other. The conflict threatened to spread over all of the Earth, until Ares was forced to put an end to it by his half-sister Venus, whom he has long sought in marriage, and the hero known as the [[Namor McKenzie (Earth-616)|Sub-Mariner]]. Venus and the Sub-Mariner extracted a pledge from Ares not to engage in further warmongering on Earth.{{r|Sub-Mariner #57}}
+
+This did not stop Ares from joining with Hera in order to torment Hercules personally, when Ares briefly possessed the mortal Thunder God [[Eric Masterson (Earth-616)|Eric Masterson]] to battle his half-brother.{{r|Avengers #349}}
+
+Ares tired of his own warmongering when he realized that was why the other gods despised him and decided to live a normal life. He gave up his position as god of war, but maintained his skills, weaponry, and immortality. On Earth, he set himself up as a builder/carpenter. He would later father a son with an unidentified mother.
+
+Ares was later forced to help his fellow Olympians when his son [[Alexander Aaron (Earth-616)|Alexander]] was captured by [[Amatsu-Mikaboshi (Earth-616)|Mikaboshi]]. With the help of Zeus, Alexander was freed, and the [[Amatsu-Kami|Kami]] assisted the Olympians against Mikaboshi.{{r|{{cl|Ares Vol 1 1}}-[[Ares Vol 1 5|5]]}}
+
+Still insistent that his son have a mortal upbringing, Ares returned to his life as a construction worker in [[Dover (New Jersey)|Dover]], [[New Jersey (State)|New Jersey]] where he worked during the enactment of the [[Superhuman Registration Act]]. Immediately following the superhero [[Civil War]] over its legislation, [[Anthony Stark (Earth-616)|Iron Man]] and [[Carol Danvers (Earth-616)|Ms. Marvel]] traveled to Ares' construction site to recruit him for their new [[Mighty Avengers (Initiative) (Earth-616)|Avengers]] team. Agreeing that the heroes had ruined his civilian cover, Ares eventually agreed to join the team after Iron Man threatened to deport him to Olympus if he did not register with the [[United States of America|U.S.]] government and promised a salary similar to that of his construction job.{{r|Mighty Avengers Vol 1 1}}
+
+He immediately proved himself by playing a big role against an [[Ultron (Earth-616)|Ultron]] infected Iron Man, assisting against a [[symbiote]] mutated city, arresting [[Victor von Doom (Earth-616)|Doctor Doom]], and taking part in the battle against the [[Bruce Banner (Earth-616)|Hulk]] and his [[Warbound (Earth-616)|Warbound]]. Ares was in charge of punishing his half-brother Hercules for aiding the Hulk.{{r|Incredible Hulk Vol 2 112}} He however, failed to contain and recapture Hercules after he escaped and even lost to him in single combat. His final act in the Mighty Avengers was aiding them against an enormous [[Deviant Skrulls|Skrull]] invasion.{{r|Secret Invasion #8}}
+
+[[File:Ares (Earth-616) from Mighty Avengers Vol 1 1 0001.jpg|right|thumb|200px|Ares in battle as an Avenger]]
+Although Ares was able to get along with most of the Mighty Avengers, his morals and tactics on saving the Earth for the greater good differed. After the invasion, Ares remained a registered superhuman and accepted a place in [[Norman Osborn (Earth-616)|Norman Osborn]]'s [[Dark Avengers (Earth-616)|Avengers]] alongside Mighty Avengers teammate [[Robert Reynolds (Earth-616)|Sentry]]. He did not understand his former team leader Carol Danvers' (Ms. Marvel's) reluctance to work for Osborn. He viewed his new alliance with the ex-villain simply as continuing the fight that the original Mighty Avengers had started on terrorist-level superhuman, and natural threats against America and even the entire planet.{{r|Dark Avengers #1}}
+
+Misled into believing [[Asgard]]'s presence on Earth and Thor's exile from that same kingdom were a part of an evil plot begun by [[Loki Laufeyson (Earth-616)|Loki]] (who he was also led to believe was leading the Asgardians), Ares was charged with leading the assault on Asgard. While many of his Dark Avengers teammates and members of the [[Parker Robbins (Earth-616)|Hood]]'s forces posing as [[50-State Initiative (Earth-616)|Initiative]] teams took on Thor, Ares found himself in battle with [[Balder Odinson (Earth-616)|Balder]]. Though he believed Balder to be under Loki's influence, the arrival of an injured [[Heimdall (Earth-616)|Heimdall]] and the truth he shared, led Ares to realize his mistake. Enraged at having been manipulated, he confronted Iron Patriot and vowed to rip his head off. Before he could launch his attack, however, Iron Patriot signaled for the Sentry. Newly possessed of a need for more power, he silently began his assault on Ares and after several powerful blows he grabbed Ares by both arms and ripped him in half, killing him.{{r|Siege Vol 1 2}}
+
+Ares was next sighted after Alex's (Phobos) death on the fields of Elysium. He asked his son if he did all he could and then stood proudly with him. Chaos King later brought Ares back to life to fight him. Ares fought well but was overtaken by the unlimited power of the Chaos King and later returned to Elysium.{{r|{{cl|Chaos War Vol 1 2}}-[[Chaos War Vol 1 5|5]]}}
+
+====Rebirth====
+[[File:Ares (Earth-616) from Contest of Champions Vol 1 2 001.jpg|thumb|left|210px|Ares' resurrection]]
+After discovering the material known as [[Isotope-8]] in the Battlerealm, the [[Taneleer Tivan (Earth-616)|Collector]] waged in a tournament against the [[En Dwi Gast (Earth-616)|Grandmaster]], a game known as the "Contest of Champions," in which both Elders used summoners as consultants to bring players from across the Multiverse and have them fight for the [[ISO-Sphere]].{{r|Contest of Champions #2}} In order to showcase the power of the Iso-8, the Collector, on advice of his summoner the [[Robert Bruce Banner (Earth-9200)|Maestro]], used it to bring into the contest even people from the afterlife, thus he pulled Ares from Elysium back to the land of the living.{{r|Contest of Champions #2}}
+
+After surviving numerous battles, Ares returned to his home reality when one of the contestants, [[Nigel Higgins (Earth-616)|Outlaw]], managed to seize control of the ISO-Sphere from the [[Bruce Banner (Earth-69413)|Maestro]], who in turn had taken it from the Collector earlier. Outlaw used the power of the ISO-Sphere to return the contestants to their homes. Ares returned with Outlaw to [[England]], and together with the contestants native of his universe, appeared interested in the idea of forming a team.{{r|Contest of Champions #10}}
+
+====[[Secret Empire (Event)|Secret Empire]]====
+During [[Hydra (Earth-616)|Hydra]]'s takeover, Ares became a member of [[Champions of Europe (Earth-616)|Champions of Europe]].{{r|U.S.Avengers Vol 1 7}} Together with [[Aikku Jokinen (Earth-616)|Enigma]] and [[Doreen Green (Earth-616)|Squirrel Girl]], the team was able to free [[Paris (France)|Paris]] from Hydra.{{r|U.S.Avengers Vol 1 8|9}}
+
+====[[War of the Realms]]====
+Ares allied himself with [[Sindr (Earth-616)|Sindr, the Queen of Cinders]], and began hunting the [[Babysitters Club (Earth-616)|Babysitters Club]] in order to capture Odin's baby daughter, [[Laussa Odinsdottir (Earth-616)|Laussa]]. He chased them in his all-terrain vehicle, but [[Simon Williams (Earth-616)|Wonder Man]] broke the bridge they were on in half, allowing the club to escape.{{r|War of the Realms: Journey into Mystery Vol 1 1}}
+
+====Sword Master====
+Ares then targeted [[Lin Lie (Earth-616)|Sword Master]] and [[Shang-Chi (Earth-616)|Shang-Chi]], wanting to get his hands on Sword Master's [[Sword of Fu Xi]].{{r|Sword Master Vol 1 1}} He and his [[Dragonborn Warriors (Earth-616)|Dragonborn Warriors]] ambushed the heroes,{{r|Sword Master Vol 1 2}} and after the brief battle he was successful in getting the sword, revealing his plan to use it in killing a fellow god, [[Davi Naka (Earth-616)|Davi Naka]]. While leaving, Ares was belittled by Shang-Chi for his cowardice and stupidity, even comparing him to [[Chiyou (Earth-616)|Chiyou]]. Ares took the sword to [[Orgarb (Earth-616)|Orgarb]], so he could allow Ares to activate the sword power; however, despite the dwarf's efforts, Ares was unable to use the sword. Then Sword Master and Shang-Chi caught up to him wanting to retrieve the sword.{{r|Sword Master Vol 1 3}} Seeing that Sword Master was the only one able to activate the sword's power, Ares and Orgarb tried to capture him in order to use his blood, but Shang-Chi stopped them by using the sword to destroy the Olympian's hammer and suggested a deal that in exchange for Sword Master and Shang-Chi helping him, Ares would help them find Sword Master's father, [[Professor Lin (Earth-616)|Professor Lin]]. Sword Master was against this idea, but Ares assured him that the Olympians weren't evil deities. Ares accepted the offer and also revealed that his son, Ismenios, had been abducted by Davi Naka and Ares wanted to use the sword so he could punish the kidnapper. After armoring themselves they went to [[Madripoor]] via a portal.{{r|Sword Master Vol 1 4}} 
+
+They were able to locate Ismenios within a temple and freed him; however the destruction of the cage activated the temple's stone dragons and summoned Davi Nakia.{{r|Sword Master Vol 1 5}} They tried to ambush the Mother Goddess, but were easily defeated. She explained to them that Ismenios had tried to plunder Atlantis' treasure hoard during the absence of its [[Sea Serpents|Sea Serpent]], but he was caught by Namor. Due to her duty to protect all [[Dragons]], she rescued Ismenios and imprisoned him for his own protection and to placate Atlantis. Ares admonished his son for attacking Atlantis, but forgave him, since he himself would have done the same thing. Dismissing the whole ordeal as a misunderstanding, he ended his deal with Sword Master and Shang-Chi, and attempted to leave the temple with Ismenios, but was prevented by Naka, warning the group that despite her efforts, Atlantis was still outraged over the disappearance of their sea serpent and ordered them to find the missing guardian or else face the wrath of Atlantis.{{r|Sword Master Vol 1 6}}
+
+| Powers                  = 
+'''Olympian Physiology:''' Ares possesses the conventional superhuman physical attributes of an Olympian god.{{r|Thor & Hercules: Encyclopaedia Mythologica Vol 1 1}} However, some of his powers are greater than that of most Olympians, such as:
+
+*'''Superhuman Strength:''' Ares possesses superhuman strength greater than that of the vast majority of [[Olympians]] and can lift approximately 70 tons.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}} Among the Olympians, his strength is equaled only by [[Hades (Earth-616)|Pluto]] and [[Poseidon Aegaeus (Earth-616)|Neptune]] and exceeded only by [[Hercules Panhellenios (Earth-616)|Hercules]] and [[Zeus Panhellenios (Earth-616)|Zeus]].{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+*'''Superhuman Speed:''' Ares' superhumanly strong legs allow him to run and move at speeds greater than the finest human athlete.
+
+*'''Superhuman Stamina:''' Ares musculature produces almost no fatigue toxins during physical activity. As a result, his body possesses almost limitless physical stamina in all activities.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+*'''Superhumanly Dense Tissue:''' Like all [[Olympians]], Ares' skin, muscles, and bones are about three times denser than similar human tissue, contributing to his superhuman strength and weight.{{r|Thor & Hercules: Encyclopaedia Mythologica Vol 1 1}}
+
+*'''Superhuman Durability:''' The tissues of Ares' body are considerably harder and more resistant to physical injury than the body of a human being and most gods.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}} Ares is capable of withstanding great impact forces, exposure to extremes in both temperature and pressures, falls from great heights, and powerful energy blasts without sustaining injury in a level comparable to Thor. He takes full advantage of his great durability by performing many actions that would normally kill a human being. He has gone as far as Kamikaze feats and even lighting himself on fire and charging against his opponents as a living fireball. However, enchanted godly weapons such as [[Mjolnir]], capable of destroying mountains upon impact, have been shown to injure him.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+*'''Superhuman Agility:''' Ares' agility, balance, and bodily coordination are enhanced to levels that are beyond the natural physical limits of even the finest human athlete.
+
+*'''Superhuman Reflexes:''' Ares' reflexes are in levels that is beyond the natural physical limits of even the finest human athlete.
+
+*'''Limited Magic Ability:''' While not as accomplished at magic as many of his fellow Olympians, Ares can sense the presence of other gods, demons, and the use of magic, call other gods, summon weapons from [[Mount Olympus|Olympus]], and transport himself by teleportation to Olympus and to Earth at will. However, despite his limited magical skill, according to [[Amadeus Cho (Earth-616)|Amadeus Cho]], Ares cannot fly,{{r|Incredible Hercules Vol 1 114}} unlike certain others of the Olympian Twelve, such as his half-siblings [[Athena Parthenos (Earth-616)|Athena]], [[Hermes Diaktoros (Earth-616)|Hermes]], or [[Aphrodite Ourania (Earth-616)|Aphrodite]]. Even though not accomplished at magic, as an Olympian god Ares has the potential to use magic,{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}} and recreated Olympus after being wounded in a battle with [[Kyknos (Earth-616)|Kyknos]].{{r|Incredible Hercules #116}}
+
+*'''True Immortality:''' Like all Olympians, Ares is functionally immortal, more truly so than the [[Asgardians]] or [[Amatsu-Kami|Kami]], who are merely considered long-lived, meaning he cannot die by any conventional means.{{r|Thor & Hercules: Encyclopaedia Mythologica Vol 1 1}} He has not aged since reaching adulthood and is immune to the effects of aging.{{r|Thor & Hercules: Encyclopaedia Mythologica Vol 1 1}} He is also immune to all known Earthly diseases and infections.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+*'''Regenerative Healing Factor''': Despite Ares' high degree of resistance to physical injury, like all Olympians, he can be injured. However, Ares is capable of repairing damaged or destroyed tissue with superhuman levels of speed and efficiency. If injured, he can fully recover from penetration wounds in anywhere from minutes to hours, depending on the wound's severity.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}} Despite of his ability to superhumanly heal, he is not capable of regenerating missing limbs or organs without the aid of outside magical forces.
+
+*'''Warfare Expertise:''' Ares is an expert in all areas of warfare.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+*'''War Manipulation:''' The ability to manipulate war, strife, combat and other forms of conflict Ares as God of War has the power to influence all forms of conflict including mental, physical, spiritual and conceptual ones, regardless of the area and numbers involved, control how they progress and draw power both from the conflict alone as well as the dying. Ares is naturally, extremely skilled in all forms of fighting, weapons and both strategy and tactics as well as statistics of war. Ares can start conflicts by influencing people or events, rise personal and fanatical armies, control and create weapons of every kind and even grant others extensive abilities of combat. Ares has the incredible power to invoke war and chaos within an enormously large radius, ranging from a city to an entire continent. With this power he has full control over the city or continent that is in war and chaos at the time.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+*'''Allspeak:''' Like all Olympians, Ares can communicate in all languages, Earth's dialects, and various alien languages known as the Allspeak (also called ''All-Tongue'').
+
+| Abilities                  = '''Master Combatant:''' Ares is a master of a variety of hand-to-hand combat skills and all of the ancient Greek forms armed and unarmed combat. Also, he has mastered all forms of weaponry, both modern and ancient.{{r|Thor & Hercules: Encyclopaedia Mythologica Vol 1 1}} He is well versed in military tactics, torture, and combat engineering. Ares is one of the most talented and ruthless warriors that has ever fought on Earth.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+'''Master Marksman:''' He is extremely accurate in throwing projectiles and sharpshooting.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+'''Master Tactician:''' He has a vast amount of military history particularly focusing on battles and wars that involved [[Greece|Greek]] and [[Roman Empire|Roman]] (or [[Italy|Italian]]) soldiers and armies.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+'''Interrogation Expert:''' Ares is well versed in various interrogation methods including torture.
+
+|Strength                = Class 75; Ares possesses greater strength than most Olympian gods and lifting (press) up to 70 tons.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+| Weaknesses              = 
+
+| Equipment               = Olympian battle armor; ''[[Black Sword of Ares|Black Sword]]'';{{r|Sub-Mariner #57}} at one time, he possessed the ''[[Gauntlets of Ares]]'', which made its wearer gain strength comparable to [[Hercules Panhellenios (Earth-616)|Hercules]]. He has since passed the ''Gauntlets'' on to his daughter [[Hippolyta (Earth-616)|Hippolyta]].
+| Transportation          = Dimensional teleportation using his own powers and a High Mobility Multipurpose Wheeled Vehicle. Used an [[Avengers Issue Jet-Pack]].{{r|Avengers: The Initiative #8}} He sometimes rides horses.{{r|Thor Annual #8}}
+| Weapons                 = A variety of weapons including ancient Greek and Roman javelins, axes, swords, maces knives, shields, spears, and flails, forged by the Greek deity of fire and blacksmithing, [[Hephaestus (Olympian) (Earth-616)|Hephaestus]]. Also uses Celtic spears, Roman Helmets, Middle Eastern scimitars, Arthurian swords, as well as Native American axes. Ares also uses more modern weapons, such as a variety of different firearms, gases, rays, explosives, and Hydra Blood Bullets.
+
+| Notes                   = * The general public of Earth believe him to be a fictional character of ancient myths and do not believe that the Avenger Ares is a god.
+* Though Ares is often seen with a mohawk, he has to use magic to maintain that hairstyle, as any cutting of his hair would normally be healed as an injury.
+| Trivia                  = * Ares claimed he made $44.00 an hour as a construction worker.{{r|Mighty Avengers #1}}
+* Ares hates the 2004 film ''[[wikipedia:Troy (film)|Troy]]'', stating that it made him sick.{{r|Mighty Avengers #1}}
+| Wikipedia               = Ares (Marvel Comics)
+}}
+[[Category:Superhuman Agility]]
+[[Category:Superhuman Stamina]]
+[[Category:Superhuman Reflexes]]
+[[Category:Ebony Blade User]]
+[[Category:Siege casualties]]
+[[Category:Weapons Expert]]
+[[Category:War Deities]]
+[[Category:Formerly Deceased]]
+[[Category:Ares Family]]
+[[Category:Zeus Family]]
+[[Category:Hera Family]]
+[[Category:Athletic Skills]]
+[[Category:Teleporters]]
+[[Category:Regeneration]]
+[[Category:Strategists]]
+[[Category:Trojan War Characters]]
+[[Category:Mythological Figures]]
+[[Category:Interdimensional Travelers]]

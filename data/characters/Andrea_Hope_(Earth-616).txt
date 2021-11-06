@@ -1,0 +1,51 @@
+{{Marvel Database:Character Template
+| Image                   = Andea Hope (Earth-616) from Deathlok Vol 5 1 0001.png
+| Name                    = Andrea Hope
+| CurrentAlias            = 
+| Aliases                 = Agent Hope
+
+| Affiliation             = {{M|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Government agent, researcher
+| Education               = 
+| BaseOfOperations        = [[S.H.I.E.L.D. Helicarrier Iliad|S.H.I.E.L.D. Helicarrier ''Iliad'']]
+
+| Creators                = Nathan Edmondson; Mike Perkins
+| First                   = Deathlok Vol 5 1
+
+| History                 = Andrea Hope was a researcher for [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] who was in charge of gathering information involving something referred to as the "Chaos" detail. But she was called in by Director [[Maria Hill (Earth-616)|Maria Hill]] to help investigate the death of one of their own, Agent [[Damon Dran (Earth-616)|Damon Dran]]. Andrea wondered why Hill wanted her to handle this since she was only a researcher and that the mission seemed quite dangerous for someone of her experience.
+
+[[File:Andea Hope (Earth-616) from Deathlok Vol 5 1 0002.png|left|thumb|Hill with Agent Hope]]
+Hill explained that Andrea had applied for operation status three times and she knows what it was like to be overlooked. After giving her a field agent promotion, Andrea asked if the death of Dran involved Chaos at all, but Hill did not know, all she had was a file which included classified details about [[Michael Collins (Earth-616)|Michael Collins]] and the [[Deathlok]] program.{{r|Deathlok Vol 5 1}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

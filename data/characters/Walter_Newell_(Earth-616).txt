@@ -1,0 +1,135 @@
+{{Marvel Database:Character Template
+| Image                   = Walter Newell (Earth-616) from Heroes for Hire Vol 3 12 002.jpg
+| Name                    = [[Walter Newell|Dr. Walter Newell]]
+| CurrentAlias            = [[Stingray]]
+| Aliases                 = [[Deadpool]],{{r|Deadpool Vol 6 1}} [[Walter Newell (Earth-398)|Sir Devilfish]]{{r|Avengers Vol 3 2}} Sting-Ray{{r|Sub-Mariner #19}}
+
+| Affiliation             = Formerly {{m|Underground (Secret Empire)|Underground}}, {{m|Avengers Unity Division}} (reserve member), {{m|Mercs for Money}} (undercover), {{m|Avengers (Doctor Doom's)|Doom's Avengers}}, {{m|Avengers}}, {{m|Secret Avengers (Civil War)|Secret Avengers}}, {{m|Deep Six (Namor)|Deep Six}}, {{m|Point Men}} ([[Hawaii (State)|Hawaii]] {{m|50-State Initiative|Initiative}}), {{m|Avengers Support Crew}}, {{m|Defenders for a Day}}
+| Siblings                = [[Aldera Newell (Earth-616)|Ali Newell]] (sister);<br>
+[[Todd Arliss (Earth-616)|Todd Arliss]] (brother-in-law)
+| Spouses                 = [[Diane Arliss (Earth-616)|Diane Arliss Newell]] (wife)
+| Children                = [[Lisa Newell (Earth-616)|Lisa Newell]] (daughter);<br>
+[[Thomas Newell (Earth-616)|Tommy Newell]] (son);<br>
+[[Toby Newell (Earth-616)|Toby Newell]] (son);<br>
+[[Abigail Newell (Earth-616)|Abby Newell]] (daughter)
+| MaritalStatus           = Married
+
+| CharRef                 = {{cl|Civil War: Battle Damage Report #1}}
+| Gender                  = Male
+| Height                  = 6'3"
+| Weight                  = 200 lbs
+| Eyes                    = Hazel
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] exotic technology user; Wearer of the [[Stingray's Suit|Stingray Suit]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Gloucester (US)|Gloucester]], [[Massachusetts (State)|Massachusetts]]
+| PlaceOfDeath            = 
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = Mercenary, adventurer, oceanographer, inventor; former [[Hydrobase]]/[[Hydropolis (Aquaria)]] administrator
+| Education               = Ph.D. in Oceanography
+| BaseOfOperations        = [[Mount|The Mount]], [[Nevada (State)|Nevada]]; formerly [[New York City]], [[New York (State)|New York]]; [[Hydrobase]], [[Atlantic Ocean]]; [[Camp Hammond]], [[Stamford]], [[Connecticut (State)|Connecticut]]; [[Hydropolis (Aquaria)]], [[Bermuda Triangle]]; Newell Oceanographic Institute
+
+| Creators                = Roy Thomas; Raymond Marais; Bill Everett
+| First                   = Tales to Astonish #95
+| First2                  = (As Walter Newell)<br>{{sld|Sub-Mariner #19}}(As Stingray)
+| Death                   = 
+
+| Quotation               = 'The '''[[Avengers (Earth-616)|Avengers]]''' need '''[[Stingray]]''',' [[Captain America (Steve Rogers)|Steve]] said. 'Time to '''swim with the big fish''' again.' Guess he didn't realize that I '''never left the pool'''. And I '''don't plan to''' anytime soon. Steve's '''right'''. [[Earth|The world]] needs '''heroes''' more than '''ever'''. And with '''dozens''' of Avengers back on active duty, things on '''land''' are pretty much '''covered'''. That leaves approximately '''two-thirds of the planet's surface''' left to protect. I think I can '''fit that in'''. After all, if a '''new day''' really '''is''' dawning, then the warmth of the '''sun's rays''' should be felt '''everywhere''', even at -- the darkest depths.
+| Speaker                 = [[Walter Newell (Earth-616)|Stingray]]
+| QuoteSource             = I Am an Avenger Vol 1 3
+
+| History                 = ===Origins===
+Dr. Walter Newell was a brilliant oceanographer and engineer. He supervised the construction of a domed undersea city with plans to grow food for mankind. The city was attacked by the [[Parnival Plunder (Earth-616)|Plunderer]], but he was stopped by the  [[Homo mermanus|Atlanteans]] [[Namor McKenzie (Earth-616)|Namor, the Sub-Mariner]] and [[Dorma (Earth-616)|Lady Dorma]], but the city was destroyed.{{r|Tales to Astonish #95}} [[Todd Arliss (Earth-616)|Tiger Shark]] attempted to unleash a deadly virus, but Namor - with the help of Newell - ensured that it caused no harm. Unfortunately, Tiger Shark escaped.{{r|Sub-Mariner #16}}
+
+[[File:Walter Newell (Earth-616) from Official Handbook of the Marvel Universe Master Edition Vol 1 24 001.jpg|left|thumb|Stingray]]
+
+He designed a [[Stingray's Suit|unique suit for deep sea exploration]]. He took the name Stingray after basing some of its design on manta rays. He was ordered by [[Edgar Benton (Earth-616)|Edgar Benton]] to bring [[Namor McKenzie (Earth-616)|Namor]] in to investigate the disappearance of water from Earth's oceans. Stingray reluctantly did so, but later allowed Namor to leave. It was during this time that he met his future wife, [[Diane Arliss (Earth-616)|Diane Arliss]], the sister of [[Todd Arliss (Earth-616)|Tiger Shark]] and the two started dating.{{r|Sub-Mariner #19}} He helped Namor with various crises.{{r|Sub-Mariner #26|47}}
+
+===Hulk===
+[[Bruce Banner (Earth-616)|Dr. Bruce Banner]] was picked up by the ship ''[[Lady Diana]]'', which was captained by Newell. He got Banner to shore, ignorant of the fact that Banner was really the Hulk. When Newell found out, he went after the Hulk and fought with him. Hulk was about to kill him, but [[James Wilson (Earth-616)|Jim Wilson]] got in the way, saving Stingray's life, and Hulk leapt away.{{r|Incredible Hulk #221}}
+
+===Defenders for a Day===
+When [[Aaron English (Earth-616)|Dollar Bill]] aired a documentary about the [[Defenders (Earth-616)|Defenders]] without their knowledge, claiming that "Anyone can be a Defender!", Stingray was one of nearly two dozen heroes who showed up for the unauthorized membership drive. These "[[Defenders for a Day (Earth-616)|Defenders for a Day]]" ended up helping the Defenders against two groups of super-villains who also tried to cash in on the Defenders' name and create confusion.{{r|Defenders #62|64}}
+
+===Serpent Crown Affair===
+He teamed up with the [[Benjamin Grimm (Earth-616)|Thing]] to battle [[Roxxon Energy Corporation (Earth-616)|Roxxon]] and recover the [[Serpent Crown]].{{r|Marvel Two-In-One #64|66}}
+
+===Hydro-Base===
+He and his wife became the caretakers of [[Hydrobase]] and offered the [[Avengers (Earth-616)|Avengers]] use of the facilities. The Avengers were looking for another place to launch their [[Quinjet]] since the FAA prevented them from launching directly from [[Avengers Mansion]]. Newell and his wife, Diana, met up with the Avengers to show off their Hydrobase in hopes of having the Avengers rent the island.{{r|Avengers #262}}
+
+After Avengers Mansion was critically damaged by battle with the [[Masters of Evil (Earth-616)|Masters of Evil]], the Avengers moved to Hydrobase for their primary headquarters.{{r|Avengers #278}} As their landlord, Stingray occasionally operated as an on-site associate of the team. He was involved in the defense of Hydrobase when [[Heavy Metal (Earth-616)|Heavy Metal]] led by the [[Super-Adaptoid (Earth-616)|Super-Adaptoid]] attacked.{{r|Avengers #289|290}} 
+
+===Armor Wars===
+[[File:Walter Newell (Earth-616) from Iron Man Vol 1 226 0001.jpg|left|thumb|Armor Wars]]
+He was later targeted by [[Anthony Stark (Earth-616)|Iron Man]] during the [[Armor Wars]]. Stark wanted to recover all battlesuits based on [[Stark Industries (Earth-616)|Stark Industries]] technology.{{r|Iron Man #226|227}}
+
+[[File:Walter_Newell_(Earth-616)_from_Iron_Man_Vol_1_226_0002.jpg|right|thumb|Armor Wars]]
+He came to Hydrobase and after an underwater battle knocked Newell unconscious. When he attached the [[Negator Pack]] nothing happened and Stark had finally determined his suit did not contain any stolen technology. He tried to apologize but the mistake was made.{{r|Iron Man #226|227}}
+
+===Acts of Vengeance===
+Hydrobase was attacked by a swarm of [[Doombot]]s causing it to sink beneath the ocean.{{r|Avengers #311}} Newell was helped by [[Wendell Vaughn (Earth-616)|Quasar]] in a salvage mission to recover the most important and highest-security equipment from Hydrobase.{{r|Quasar #5}}
+
+===Peace Corpse===
+Stingray was finally recognized with official status as an Avenger after they moved their base back to the Avengers Mansion grounds. He was tapped for an aquatic mission involving a potentially rogue submarine in international waters. He helped the Avengers battle the [[Combine (Earth-616)|Peace Corpse]].{{r|Avengers #319|324}}
+
+===Friendship with Namor===
+He continued to assist his friend Namor whenever he needed his help. During this time period, the Newells also worked with Namor and the Atlanteans in a cooperative underwater sea base. {{r|Namor the Sub-Mariner Vol 1 #42|56}}
+
+===Deep Six===
+[[File:Deep Six (Namor) (Earth-616) from Namor the Sub-Mariner Annual Vol 1 4 001.jpg|right|thumb|Deep Six]]
+When Namor the Sub-Mariner went missing and was framed for crimes on the surface world, several of his Atlantean allies banded together to find the King. The make-shift group known as [[Deep Six (Namor) (Earth-616)|Deep Six]] consisted of Stingray, [[Tamara Rahn (Earth-616)|Tamara Rahn]], [[Triton (Earth-616)|Triton]], [[Andromeda Attumasen (Earth-616)|Andromeda]], and Tiger Shark. They fought against the Avengers but later disbanded once they had found Namor.{{r|Namor the Sub-Mariner #58|59}}
+
+===Avengers===
+When the Avengers first reformed after [[Onslaught (Psychic Entity) (Earth-616)|Onslaught]], Stingray responded to the mass rallying call to oppose the threat of [[Morgan Le Fay (Earth-616)|Morgan Le Fay]]. Like most of those responding, however, he chose not to remain with the group full time.{{r|Avengers Vol 3 #1|4}}
+
+Stingray later became a fully active member of the Avengers roster for the first time when [[Nathaniel Richards (Kang) (Earth-6311)|Kang the Conqueror]] began striking around the globe. Stingray's nautical experience helped on the waterfront during Kang's war, when the rogue Atlanteans under [[Attuma (Earth-616)|Attuma]] lent their swords to his.{{r|Avengers Vol 3 #43|55}} Even though he ultimately left the team, Stingray remained a reserve member and would respond to emergency calls.{{r|Avengers #501|503}}
+
+===Civil War/Initiative===
+Newell continued his research and occasionally still acted as Stingray. He was part of [[Steven Rogers (Earth-616)|Captain America's]] [[Secret Avengers (Civil War) (Earth-616)|Secret Avengers]] who opposed the [[Superhuman Registration Act]].{{r|Civil War #5|6}} After the surrender of Captain America, Stingray was pardoned as long as he registered as a hero.{{r|Civil War: Battle Damage Report #1}}{{r|Mighty Avengers #1}} He registered and became one of the trainees at [[Camp Hammond]].{{r|Civil War: Battle Damage Report Vol 1 1}}{{r|Avengers: The Initiative #1|15}} After he graduated, he battled a [[Giganto (Atlantean Beast)|Giganto]].{{r|Marvel Comics Presents Vol 2 11}}
+
+===Point Men===
+[[File:I Am an Avenger Vol 1 3 Textless.jpg|left|thumb]]
+After the defeat of the [[Deviant Skrulls|Skrulls]], Stingray was given his dream post as leader of the [[50-State Initiative (Earth-616)|50-State Initiative]] team the [[Point Men (Earth-616)|Point Men]] in [[Hawaii (State)|Hawaii]], where he could pursue his research as well as acting as a registered hero.{{r|Avengers: The Initiative #20|23}}
+
+===Fear Itself===
+In a battle against Nerkkod (Attuma), [[Tyrone Johnson (Earth-616)|Cloak]] brought a small army of "Defenders, [[Secret Defenders (Earth-616)|Secret Defenders]], even those who were only Defenders for a Day such as Stingray," summoned by a spell [[Stephen Strange (Earth-616)|Doctor Strange]] conjured in [[New Atlantis (Atlantean Pillar)|New Atlantis]]. The added numbers quickly turn the tide of battle, assisted by another spell from Strange which clouded the army's transparent face-shields.{{r|Fear Itself: The Deep #4}}
+
+===AXIS===
+[[File:Avengers (Doctor Doom's) (Earth-616) from Avengers World Vol 1 16 001.png|thumb|left]]
+In the wake of the [[World War Hate]], [[Victor von Doom (Earth-616)|Doctor Doom]]'s personality was inverted, along with that of numerous heroes and villains. After having seen the errors of his ways, Doom planned to redeem himself. After the Avengers disappeared, having being captured by the inverted and evil [[Avengers Unity Division (Earth-616)|Avengers Unity Division]], Doom tasked [[Valeria Richards (Earth-616)|Valeria Richards]] with the mission to assemble a group of certain available heroes, including Stingray, each having specific skills which could be utilized. The new [[Avengers (Doctor Doom's) (Earth-616)|Avengers]] assembled in [[Castle Doom (Doomstadt)|Doctor Doom's Castle]], and jumped into action when the now-evil [[Wanda Maximoff (Earth-616)|Scarlet Witch]] arrived to [[Latveria]] to have revenge on Doom.{{r|Avengers World #15}}
+
+[[File:Walter Newell (Earth-616) from Avengers World Vol 1 16 0001.png|thumb|right]]
+The Avengers fought the Scarlet Witch and saved villagers trapped in the crossfire. [[Delroy Garrett Jr. (Earth-616)|3-D Man]] managed to get hold of Scarlet Witch and take her to a machine Doctor Doom had created to specifically canalize her abilities. Soon after being put into the machine, the Scarlet Witch escaped and set out to find Doom, leaving the Avengers behind. After condensing a portion of Scarlet Witch's powers into the device, Valeria informed the heroes their job was done.{{r|Avengers World #16}}
+
+===Deadpool's Mercs for Money===
+When [[Wade Wilson (Earth-616)|Deadpool]] founded the [[Mercs for Money (Earth-616)|Mercs for Money]], he employed the services of Stingray, among numerous other vigilantes, to pose as him in order to extend his reach across the globe.{{r|Deadpool Vol 6 1}} Walt secretly reported to Steve Rogers in order to give him updates on his more deranged teammates.{{r|Deadpool Vol 6 3}}
+
+The Mercs for Money eventually became disgruntled by Deadpool, from the way he treated them to the delays in their paychecks.{{r|Deadpool Vol 6 14}} When they set out to create their own business, the Mercs discovered Deadpool had been skimming on them.{{r|Deadpool Vol 6 15}} After retrieving and burning their contracts from a safety deposit in Ho-Ho-Kus, [[New Jersey (State)|New Jersey]], the Mercs and Deadpool parted ways.{{r|Deadpool Vol 6 17}}
+
+===Defenders of the Deep===
+While vacationing on a cruise with his wife Diane, Stingray was forced to fight Tiger Shark when he threatened the cruise ship. As the two fought underwater, they were confronted by Namor who told him to either join him or die. Stingray tried to reason with Namor, but Namor brutally beat Stingray before having a swarm of sharks to attack him,{{r|Avengers Vol 8 9}} nearly killing him in the process.{{r|Avengers Vol 8 10}}
+
+| Powers                  = 
+| Abilities               = '''Oceanography:''' Dr. Newell is  the world's leading oceanographer, with advanced knowledge of the physical, chemical, geological and biological processes within the oceans.{{r|Marvel Avengers: The Ultimate Character Guide Vol 1 1}}
+
+'''Engineer/Inventor:''' Dr. Newell is a brilliant engineer and inventor constructing advanced equipment and machinery for his experiments in the ocean. He also designed the [[Stingray's Suit]] from scratch.{{r|Marvel Avengers: The Ultimate Character Guide Vol 1 1}}
+| Strength                = Normal human. In armor Stingray possesses Superhuman Strength Class 25 ton
+| Equipment               = * '''[[Stingray's Suit]]:''' Newell uses specialized armor originally designed for underwater exploration. The suit can safely operate in depths up to 1200 feet. It has a unique oxygen diffusion system based on fish gills. The suit grants Newell superhuman strength and durability to handle underwater conditions. The suit is able to swim at high speeds underwater. Newell can also glide when not in water. Its main weapon is a potent electric blast. The suit also has an internal communication system.{{r|Marvel Avengers: The Ultimate Character Guide #1}} The Suit has no links to the [[Iron Man Armor|battlesuits]] designed by [[Stark Industries]].{{r|Iron Man #226}}
+* ''' [[Deadpool's Suit]]:''' as a member of the [[Mercs for Money (Earth-616)|Mercs for Money]] he was provided with a version of Deadpool's suit.{{r|Deadpool Vol 6 1}}
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * Stingray was involved in the conflict between the Marvel and [[DC Universe]].{{r|JLA/Avengers #4}}
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Hydropolis (Aquaria) Inhabitants]]
+[[Category:Armor Users]]
+[[Category:Flight]]
+[[Category:Engineers]]
+[[Category:Scientists]]
+[[Category:Floating Super-Hero Poker Game participants]]

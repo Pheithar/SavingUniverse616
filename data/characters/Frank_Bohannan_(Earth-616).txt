@@ -1,0 +1,84 @@
+{{merge|Cyborg X (Earth-616)}}{{Marvel Database:Character Template
+| Image                   = Frank Bohannan (Earth-616) from Uncanny X-Men Vol 1 223.png
+| Name                    = Frank Bohannan
+| Name2                   = <ref>Corrected on [http://marvel.com/universe/OHOTMU:Data_Corrections_Golden_Age_2004 marvel.com]</ref>
+| CurrentAlias            = Commando
+| Aliases                 = [[Crimson Commando]]; [[Cyborg X]]
+
+| Affiliation             = Formerly {{m|Department}}; {{m|Project Wideawake (Earth-616)|Project: Wideawake}}; {{m|Freedom Force}}; partner of [[Martin Fletcher (Earth-616)|Super Sabre]] and [[Louis Hamilton (Earth-616)|Stonewall]]
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #2}}
+| Gender                  = Male
+| Height                  = 6'1"
+| Weight                  = 235 lbs
+| Eyes                    = White
+| Eyes2                   = (no visible [[:Category:No visible Irises or Pupils|irises or pupils]][[Category:No visible Irises or Pupils]])
+| Hair                    = White
+| UnusualFeatures         = [[:Category:One Hand|One Hand]][[Category:One Hand]]. Right hand was cut off.
+
+| Origin                  = [[Depowered Mutants|Depowered]] [[Homo superior|Mutant]] turned into a [[Cyborgs|Cyborg]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Massachusetts (State)|Massachusetts]]
+| PlaceOfDeath            = [[San Francisco]], [[California (State)|California]]
+| KilledBy                = James Howlett (Earth-616)
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Government operative; former vigilante; soldier
+| Education               = 
+| BaseOfOperations        = Formerly Freedom Force HQ, [[Pentagon]], [[Washington DC]]; Adirondack State Park, [[New York (State)|New York]]
+
+| Creators                = Chris Claremont; Alan Davis
+| First                   = Uncanny X-Men #215
+| Death                   = Uncanny X-Men #539
+
+| History                 = 
+===Vigilantism & Freedom Force===
+As the Crimson Commando, Frank Bohannan was one of a trio of [[World War II]] veteran super-heroes recruited to be a member of [[Freedom Force (Earth-616)|Freedom Force]], the original government-sponsored [[Homo Superior|mutant]] team. Earlier, along with his partners, [[Louis Hamilton (Earth-616)|Stonewall]] and [[Martin Fletcher (Earth-616)|Super Sabre]], Bohannan had become a vigilante who captured criminals, released them, and hunted them in the wilderness of up-state New York. The trio killed the criminals, both to reduce the criminal element in society and for the enjoyment of hunting them down.
+
+Mistaking [[Ororo Munroe (Earth-616)|Storm]] (at this time leader of the [[X-Men (Earth-616)|X-Men]]) for a criminal, the trio hunted and captured her. When Storm and [[James Howlett (Earth-616)|Wolverine]] eventually defeated the trio, Stonewall and Crimson Commando agreed to turn themselves in to law enforcement authorities and confess their vigilantism.{{r|Uncanny X-Men #215|216}} Stonewall, Crimson Commando, and Super Sabre (who had been presumed killed) agreed to join Freedom Force in exchange for a commutation of their sentences.{{r|Uncanny X-Men #223}}
+
+After Mystique was apparently killed, the Commando succeeded her as Freedom Force team leader.{{r|Uncanny X-Men #267}} Crimson Commando was gravely wounded during a bungled mission in the Middle East when Freedom Force encountered the Iraqi super-team called [[Desert Sword (Earth-616)|Desert Sword]]. Teammate Super Sabre was killed while [[Dominikos Petrakis (Earth-616)|Avalanche]] abandoned [[Frederick Dukes (Earth-616)|Blob]] and [[St. John Allerdyce (Earth-616)|Pyro]] in the desert to save Bohannan's life.{{r|X-Men Annual Vol 1 15}}{{r|X-Factor Annual #6}}
+
+===Cyborg X===
+The Crimson Commando next appeared having been turned into a cyborg going by the name of Cyborg X. He had been rebuilt by [[Care Labs]], but a testing accident had caused him to malfunction, bringing him into a confrontation with [[Peter Parker (Earth-616)|Spider-Man]] and [[Ghost Rider]]. Cyborg X would later assist Spider-Man in battling the [[Sinister Six (Earth-616)|Sinister Six]] but was believed to have been killed in an explosion at Care Labs.{{r|Spider-Man #18}}
+
+===Project: Wideawake===
+Now going by only the name Commando, Bohannan next appeared on a mission for [[Project: Wideawake]]. He was teamed-up with his former Freedom Force teammate Avalanche to infiltrate the reclusive [[Jonathan Chambers (Earth-616)|Empyrean]]'s headquarters and put his operation out of commission.{{r|X-Men Annual Vol 2 #2}} They were also ordered by a rogue government official to assassinate [[Lorna Dane (Earth-616)|Polaris]] of [[X-Factor (Government) (Earth-616)|X-Factor]].{{r|X-Factor #102}}
+
+He lost his powers on [[M-Day]].
+
+===Taking Hope===
+Wishing to have his power restored, a depowered and very old Bohannan, whose now human body was in danger of being irreversibly damaged by the cyborg parts designed for his augmented mutant physiology, kidnapped [[Hope Summers (Earth-616)|Hope Summers]]. He was apparently killed by [[James Howlett (Earth-616)|Wolverine]].{{r|Uncanny X-Men #539}}
+
+| Powers                  = Since becoming a cyborg, the extent of his abilities is largely unknown. One arm was replaced by a large gun, his legs are now metal and can walk up the side of buildings, and at least one eye was replaced with an optical sensor able to see beyond the range of normal human vision.
+
+{{Navigation
+| title  = ''Former Powers'' 
+| body   = Commando was a mutant whose power is similar to the physical enhancements granted by Captain America's super-soldier treatments. More specifically, his mutancy has kept his body at the peak of human physical perfection (though below superhuman levels). He also seemed to have enhanced resistance to injury, managing to survive having his arm severed and bleeding continuously for an hour, before being maimed by a land mine. Although he was on the brink of death, Commando managed to hang on long enough to receive medical attention and survive. Commando also exhibited some degree of super-vision, able to see his super-fast teammate Super Sabre when the speedster was moving at superhuman velocities.
+
+The Crimson Commando also possessed the ability to be able to act without thought, called "freeing his mind", making him impossible to lock-onto psychically. While operating in this mental state, the Commando was not fooled by telepathic illusions and telepaths could not sense his presence psychically. It was not entirely clear if this was an aspect of his mutant abilities, or some form of yogaic discipline or training.
+}}
+
+| Abilities               = Frank is an excellent hand-to-hand combatant, commando fighter, hunter and tracker.
+| Strength                = 800 lbs
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = [[Freedom Force Helicopter]] and other air vehicles.
+| Weapons                 = Conventional
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = Crimson_Commando
+| Links                   = 
+}}
+[[Category:Wallcrawling]]
+[[Category:Telepathic Immunity]]
+[[Category:WWII Characters]]
+[[Category:Depowered Mutants]]
+[[Category:M-Day Depowered]]
+[[Category:Trackers]]

@@ -1,0 +1,233 @@
+{{Marvel Database:Character Template
+| Image                   = Brian Braddock (Earth-616) from Excalibur Vol 4 13 002.jpg
+| Name                    = [[Brian Braddock|Dr. Brian Braddock]]
+| CurrentAlias            = [[Captain Avalon]]
+| Aliases                 = Bee,{{r|Official Handbook of the Marvel Universe: X-Men 2005 Vol 1 1}} "[[Britain]]",{{r|Super Spider-Man & Captain Britain #232}} [[Britanic]],{{r|Excalibur #75}} [[Black Bishop]],{{r|Excalibur #96}}{{r|X of Swords Handbook Vol 1 1}} [[Black Knight]],{{r|X of Swords Handbook Vol 1 1}} [[Cap]],{{r|ClanDestine Vol 2 5}} [[Captain Britain]],{{r|Captain Britain Vol 1 1}} [[Captain Britain|Captain Britain-616]],{{r|Official Handbook of the Marvel Universe: X-Men 2005 Vol 1 1}} [[Captain Wakanda]],{{r|Official Handbook of the Marvel Universe: X-Men 2005 Vol 1 1}} C.B.,{{r|ClanDestine Vol 2 5}} Custodian,{{r|Official Handbook of the Marvel Universe: X-Men 2005 Vol 1 1}} Fast Buck,{{r|Official Handbook of the Marvel Universe: X-Men 2005 Vol 1 1}} "Jungle Man",{{r|Excalibur #60}} King of Otherworld,{{r|Excalibur Vol 2 #4}} Lionheart of Avalon,{{r|Official Handbook of the Marvel Universe: X-Men 2005 Vol 1 1}} "Lord Fancy-Crack, Ponce Protector Of The Shire",{{r|Secret Avengers Vol 1 22}} Merlinson,{{r|Captain Britain and MI-13 #15}} Prince Brian,{{r|Excalibur Vol 4 6}} "[[Stranger]]",{{r|Hulk Comic (UK) Vol 1 1}} [[Squire]],{{r|X-Men: Die by the Sword Vol 1 1}} The Young Lion Of London{{r|Captain Britain and MI-13 Vol 1 1}}
+| EditorialNames          = Formerly [[Daredevil]]{{r|Daredevils Vol 1 1}}
+
+| Affiliation             = {{m|Swordbearers of Krakoa (Earth-616)|Swordbearers of Krakoa}}; Formerly {{m|Avengers (Earth-616)|Avengers}} (reserve), {{m|Braddock Academy (Earth-616)|Braddock Academy staff}}, {{m|MI13 (Earth-616)|MI13}}, {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}, {{m|War Avengers (Earth-616)|War Avengers}}, {{m|Champions of Europe (Earth-616)|Champions of Europe}}, {{m|Illuminati (Earth-616)|Illuminati}}, {{m|Secret Avengers (Black Ops Unit) (Earth-616)|Secret Avengers}}, {{m|Excalibur (Earth-616)|Excalibur}}, [[Captain Britain Corps (Multiverse)|Captain Britain Corps / The Corps]][[Category:Captain Britain Corps (Multiverse)/Members]], Agents of Merlyn, champions of Otherworld's Camelot, {{m|Knights of Pendragon (Earth-616)|Pendragons}}, {{m|Hellfire Club (Earth-616)|Hellfire Club}} (London Branch), {{m|Future Iron Man's Team (Earth-616)|Future Iron Man's Team}}
+| Relatives               = [[John Braddock (Earth-616)|John Braddock]] (supposed paternal grandfather, presumably deceased);<br>
+[[James Braddock Sr. (Otherworld)|Sir James Braddock]] (father, deceased);<br>
+[[Elizabeth Hartwood (Earth-616)|Lady Elizabeth Braddock]] (mother, deceased);<br>
+[[William Puceanu (Earth-616)|William Puceanu]] (father-in-law);<br>
+Unnamed mother-in-law;<br>
+[[Elizabeth Braddock (Earth-616)|Betsy Braddock]] (twin sister);<br>
+[[James Braddock Jr. (Earth-616)|Jamie Braddock]] (brother);<br>
+[[Meggan Puceanu (Earth-616)|Meggan Braddock]] (wife);<br>
+[[Margaret Braddock (Earth-616)|Maggie Braddock]] (daughter);<br>
+[[Tenia Jean (Age of X-Man) (Earth-616)|Tenia Jean]] (step-daughter, deceased);<br>
+| MaritalStatus           = Married
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #2}}
+| Gender                  = Male
+| Height                  = 6'6"
+| Weight                  = 257 lbs 
+| Eyes                    = Blue
+| Hair                    = Blond
+| UnusualFeatures         = 
+
+| Origin                  = Half-[[Otherworld|Otherworlder]], Half-[[Homo sapiens|human]]. Bestowed the [[Amulet of Right]] to become [[Captain Britain]] of [[Earth-616]] by [[Merlyn (Otherworld)|Merlyn]] and [[Roma (Otherworld)|Roma]].
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Braddock Manor]], [[Maldon]], [[Essex]], [[England]], [[United Kingdom]]
+
+| Identity                = Public
+| Citizenship             = English, British, Krakoan
+| Occupation              = Government agent, school headmaster, adventurer; former ruler of Otherworld, scientist, student
+| Education               = Ph.D. in Physics from [[Thames University]]
+| BaseOfOperations        = [[Krakoa (Earth-616)|Krakoa]], [[Pacific Ocean]]; [[Otherworld]]; formerly [[Braddock Manor]], [[Maldon]], [[Essex]], [[England]]; [[Lighthouse (Space Station)|Lighthouse]], [[Earth Orbit]]; [[Starlight Citadel]]; [[Braddock Lighthouse]], England; [[New York City]], [[New York (State)|New York]] (during exchange trip, specifically [[Peter Parker (Earth-616)|Peter Parker]]'s [[Manhattan]] apartment); flat near [[Thames University]], [[London (England)|London]], England
+
+| Creators                = Chris Claremont; Herb Trimpe
+| First                   = Captain Britain Vol 1 1
+
+| Quotation               = I am [[Captain Avalon]], [[Opal Luna Saturnyne (Earth-9)|Lady Saturnyne]]. Humble servant to [[Avalon|my family's kingdom]]. A role that means more to me now than any you could offer me.
+| Speaker                 = [[Brian Braddock (Earth-616)|Captain Avalon]]
+| QuoteSource             = Excalibur Vol 4 13
+
+| Overview                = '''Dr. Brian Braddock''', [[Wikipedia:Ph.D|Ph.D]]{{r|Official Handbook of the Marvel Universe A-Z Vol 1 2}}  aka '''Captain Britain''' was the champion of the [[British Isles]] and its peoples.{{r|Captain Britain Vol 1 2}} Endowed with [[Glossary:Magic|mystical powers]] by the [[Amulet of Right]] given to him by the legendary sorcerer [[Merlyn (Otherworld)|Merlyn]] and his daughter [[Roma (Otherworld)|Roma]].{{r|Marvel Team-Up #65}} He was assigned to be the protector of [[Earth-616]] for the [[Captain Britain Corps (Multiverse)|Captain Britain Corps]] an interdimensional organization who guard the [[Omniverse]],{{r|Daredevils Vol 1 6}} powered by energies from the [[Otherworld]] a realm created from the collective consciousness and will of the British People.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 2}}
+
+| History                 =
+===Early Life===
+Brian Braddock was the last children born to [[Braddock Manor]], his family's ancestral home in the town of [[Maldon]], [[Essex]], [[England]]. He was the son of [[James Braddock Sr. (Otherworld)|Lord James Braddock]] and [[Elizabeth Hartwood (Earth-616)|Lady Elizabeth Braddock]]. He grew up with his twin sister [[Elizabeth Braddock (Earth-616)|Betsy Braddock]] and his older brother [[James Braddock Jr. (Earth-616)|James Braddock Jr.]]{{Citation}}
+
+===[[Education]]===
+Brian was a graduate student in physics, in advance of his years, at [[London (England)|London]]'s [[Thames University]]. His parents had been killed years before by a creation of his father, the [[Mastermind (Computer) (Earth-616)|Mastermind computer]].{{r|Captain Britain #14}} Working under his mentor [[Hugo Travis (Earth-616)|Dr. Travis]] at the [[Darkmoor Energy Research Centre|Darkmoor Research Centre]] during the holidays, he was present when the mercenary [[Joshua Stragg (Earth-616)|Reaver]] and his men raided the facility to kidnap the scientists there. Escaping with the intention to get help, Brian fled on a motorbike, but was run off the road.{{r|Captain Britain #1}}
+
+===Captain Britain===
+Bleeding to death, Brian was approached by [[Merlyn (Otherworld)|Merlin]] and his daughter [[Roma (Otherworld)|Roma]], who told him that he could live if he became [[Great Britain|Britain]]'s next great champion. They offered Brian a choice: The [[Amulet of Right]] (Life) or the [[Sword of Might]] (Death). Being a scholar and not conceiving of himself as a warrior, Brian chose the Amulet.{{r|Marvel Team-Up #65}}
+
+He then became '''Captain Britain,''' complete with costume and super-powers, as well as a staff,{{r|Captain Britain #1}} which was later replaced by Merlin with a 'Star Sceptre' that enabled him to fly.{{r|Captain Britain #35}} Moments later, the Reaver arrived and, claiming the sword, was transformed into an armored knight with tremendous strength. Captain Britain nonetheless defeated him, meeting his first challenge as a hero with courage and surprising skill.{{r|Captain Britain #2}}
+
+[[File:Brian Braddock (Earth-616) from Marvel Team-Up Vol 1 65 001.jpg|thumb|left|Captain Britain in the original costume]]
+===Early adventures===
+Over the next few months, Brian battled such foes as the [[Vixen (British Crimelord) (Earth-616)|Vixen]], [[Albert Potter (Earth-616)|Hurricane]],{{r|{{cl|Captain Britain Vol 1 4}}-[[Captain Britain Vol 1 7|7]]}} the [[Mastermind (Computer) (Earth-616)|Mastermind computer]],{{r|{{cl|Captain Britain Vol 1 13}}-[[Captain Britain Vol 1 15|15]]}} [[Willard Scott (Earth-616)|Lord Hawk]],{{r|Captain Britain #28|32}} [[Dafydd ap Rhys (Earth-616)|Doctor Claw]], [[Christopher Thorn (Earth-616)|Dr. Synne]],{{r|{{cl|Captain Britain Vol 1 8}}-[[Captain Britain Vol 1 13|13]]}} the [[Ross Horton (Earth-616)|Highwayman]] and the [[Basil Crushstone (Earth-616)|Manipulator]],{{r|Captain Britain #37|39}} the [[Lurker from Loch Ness (Earth-616)|Lurker from Loch Ness]], [[Nykonn (Earth-616)|Nykonn]],{{r|Captain Britain #36}} the [[Rupert Kemp (Earth-616)|Black Baron]], and the assassin [[Slaymaster (Earth-616)|Slaymaster]], as well as teaming up with [[Steven Rogers (Earth-616)|Steve Rogers]] against the [[Johann Shmidt (Earth-616)|Red Skull]].{{r|Captain Britain #15|27}} His activities made him popular with the public, which became especially apparent when he was believed killed in an air raid,{{r|Captain Britain #19}} though he was considered a vigilante by the police. This was especially true for Chief Inspector [[Dai Thomas (Earth-616)|Dai Thomas]], who dedicated himself to capturing and unmasking Captain Britain. Thomas's subordinate, Detective Inspector [[Katherine Fraser (Earth-616)|Kate Fraser]], was more sympathetic to the novice hero.{{r|Captain Britain #8}}
+
+===American adventures===
+Eventually, Brian came to [[United States of America|America]] on a study abroad program. By a strange twist of fate, he ended up rooming with [[Peter Parker (Earth-616)|Peter Parker]] at [[Empire State University]]. Parker also had a secret identity, namely Spider-Man, and after battling the assassin [[Arcade (Earth-616)|Arcade]] together, the two began meeting for nightly patrols and training; Peter quickly deduced that his English roommate was also the new English hero in town, but Brian remained unaware that Spider-Man was his roommate.{{r|Marvel Team-Up #65|66}} Brian began to drink heavily, and it affected his performance both as a student and as a hero, but soon stopped after inadvertently inflicting serious injuries on an opponent because he had fought them in an inebriated state.{{r|Excalibur #53}}
+
+===Otherworld Quest and the Black Knight===
+Returning to Britain, Brian was subjected to a psychic attack while traveling on a plane over the [[English Channel]]. He jumped from the plane and was washed ashore on the coast of [[Cornwall]], where he lived for some months as an amnesiac hermit until he was found by [[Dane Whitman (Earth-616)|Dane Whitman]], the Black Knight, who restored his memories and accompanied him to [[Otherworld]] to save [[Camelot]] from the evil [[Mordred (Earth-616)|Mordred]] and the demon lord [[Necromon (Earth-616)|Necromon]] at the behest of Merlin. During the course of this adventure, Brian died but was resurrected by Merlin.{{r|Hulk Comic (UK) #1|60}}
+
+Also at some point during this period, Captain Britain and the Black Knight were both briefly abducted by the [[En Dwi Gast (Earth-616)|Grandmaster]] to participate in his '[[Contest of Champions]]', but were subsequently apparently returned to their former place and time with no memory of the event.{{r|Marvel Super Hero Contest of Champions #1|3}}
+
+===The Jaspers Saga===
+Once this mission was completed, Captain Britain and an elf named [[Jackdaw (Otherworld)|Jackdaw]] were apparently sent home by Merlin, but accidentally ended up on a parallel Earth (after colliding with the Time traveler [[Timesmasher (Ralf) (Earth-81244)|Ralf]] in the void) where they met the mysterious [[Opal Luna Saturnyne (Earth-9)|Saturnyne]] and fought the insane mutant [[James Jaspers (Earth-238)|Mad Jim Jaspers]]. Jackdaw and Brian were both killed by the cyborg monster called [[Fury (Earth-238)|The Fury]], but Brian was resurrected by Merlin again, this time on his own Earth, where he and a number of others including his sister Betsy, the dimensionally displaced [[Linda McQuillan (Earth-238)|Captain UK]], Saturnyne and the alien mercenaries known as the [[Special Executive (Multiverse)|Special Executive]] successfully defeated both the Fury and Earth 616's version of [[James Jaspers (Earth-616)|Jaspers]] (the other version, and his entire dimension, were later erased from existence by the Dimensional Development Court). Merlin was seemingly killed in the final battle.{{r|Mighty World of Marvel Vol 2 #11|13}}
+
+===Later solo adventures and Excalibur===
+[[File:Excalibur (Earth-616) from Excalibur Classic Vol 1 1 0001.jpg|thumb|right|320px|Brian as part of Excalibur]]
+Sometime later, Brian gave up the Captain Britain identity, allowing his sister Betsy to take up the mantle. Unfortunately, Betsy was unprepared to be Captain Britain, and lost her eyes in a battle with Slaymaster. Brian felt his twin's pain through her telepathy and a special bond they share, and rushed back to fight Slaymaster, whom he then killed. Brian then resumed the mantle of Captain Britain, and fought evil as Britain's premier superhero.{{r|Captain Britain Vol 2 #11|14}}
+
+Then, when the [[X-Men (Earth-616)|X-Men]] appeared to die in [[Dallas]] (see [[Fall of the Mutants]]), Brian was disconsolate over his sister's death. He drank heavily, and scared away his lover [[Meggan Puceanu (Earth-616)|Meggan]], who went to find [[Kurt Wagner (Earth-616)|Nightcrawler]], an acquaintance of hers on [[Muir Island]]. Meggan arrived at the same time as the [[Technet (Multiverse)|Technet]], an interdimensional band of mercenaries who were looking for [[Rachel Summers (Earth-811)|Phoenix (Rachel Summers)]]. When Meggan and [[Katherine Pryde (Earth-616)|Shadowcat]] were captured by the Technet, Nightcrawler went to enlist Captain Britain's aid. However, Kurt found Brian deep in a drunken stupor, completely depressed and uninterested in doing anything anymore. So Nightcrawler pitched Brian over the edge of his [[Braddock Lighthouse|lighthouse]]'s balcony and into the ocean. When Brian recovered and flew back, Nightcrawler convinced him to help him find the women. At the successful conclusion of that mission, Cap joined with the other mutants to form [[Excalibur (Earth-616)|Excalibur]], Britain's premier super-team.{{r|Excalibur Special Edition #1}}
+
+When Phoenix abruptly rushed to America when [[New York City|New York]] was engulfed in the [[Inferno (Event)|Inferno]], Excalibur followed. After his costume was destroyed, Captain Britain discovered that his powers were linked to Britain, and would diminish if he left the country for too long.{{r|Excalibur Vol 1 6|7}} This weakness was partially alleviated when Excalibur went dimension-hopping during the [[Cross-Time Caper]] when Captain Britain received the magical costume of [[Bryon Bradek (Earth-1193)|Captain Marshall]] (the Captain Britain of that world) which acted as a battery for his arcane power.{{r|Excalibur Vol 1 12|24}}
+
+Months later, Brian suddenly began to grow larger as his body absorbed more and more energy as different realities came into alignment, heralding a Cosmic Convergence. The team learned that [[Necrom (Earth-148)|Necrom]] was planning to use the convergence to become omnipotent, but by using Shadowcat's powers, the team merged into Brian's enormous body and fixed the damage Necrom was doing across the [[Multiverse|multiverse]]. Then, on Roma's secret cue, Meggan drained Brian of all his excess energy, returning him to normal size, and fired it at the tower which was the linchpin through all the dimensions of the multiverse.{{r|Excalibur Vol 1 49|50}} 
+
+Brian and Meggan took some time off from the team and got engaged, but they and the rest of Excalibur were soon captured by the [[Resources Control Executive (Earth-616)|R.C.X.]] and Brian was severely beaten when he resisted. Dying, broken, and bloody, he was healed by Roma, who fixed the arcane circuitry in his costume to match his body's frequencies, and who also removed a "blunder factor" she had cast over him, ensuring that he would need the help of a team until he saw the innate value in it.{{r|Excalibur Vol 1 61|65}}
+
+[[File:Brian Braddock (Earth-616) from Excalibur Vol 1 79 001.jpg|thumb|right|Brian Braddock as Britanic]]
+Immediately afterward, Phoenix reappeared and Excalibur journeyed to the future to save it from the [[Sentinels]]. Unfortunately, on the way back Brian was lost in the time-stream. No one had a clue how to find him until his body parts started appearing in the same space as Rachel's, first his arms, then his chest, for brief flickers. Meggan confronted Rachel about Brian's whereabouts and with [[Jimaine Szardos (Earth-616)|Daytripper]]'s help they opened a rift via which Brian and Rachel switched places. Rachel was flung to the far future to become the ''[[Rachel Summers (Mother Askani) (Earth-811)|Mother Askani]]'', and Brian returned home. However, he was flooded with memories of the far future and seemed disconnected for the real world. He called himself '''Britanic''' for some time, but eventually re-acclimated himself to his old life.{{r|Excalibur Vol 1 73|75}}
+
+===Hellfire Club===
+After receiving a message of impending danger from [[Jean Grey (Earth-616)|Jean Grey]], who had found [[Alistaire Stuart (Earth-616)|Alistaire Stuart]] running from [[Black Air (Earth-616)|Black Air]], and one from [[Shinobi Shaw (Earth-616)|Shinobi Shaw]] regarding [[Mountjoy (Earth-1191)|Mountjoy]]'s infiltration into the [[London (England)|London]] [[Hellfire Club (Earth-616)|Hellfire Club]], Brian went to the Club and claimed his father's position as '''Black Bishop''', defeating the contender for [[Conrad Strathdee (Earth-616)|Red Bishop]] with one punch. When Black Air and the Club made their move, Brian was attacked by the [[Emma Steed (Earth-616)|Black Queen]] and [[Jane Hampshire (Earth-616)|Scribe]], who was possessed by Mountjoy. Luckily, Brian was in his newly-refurbished costume, complete with projectable force-field, and he defeated them both.{{r|Excalibur Vol 1 96|100}}
+
+===Crimson Dawn===
+He appeared to have come to terms with both his scientific and superhero sides. Soon afterward, however, in a battle with the [[Dragons of the Crimson Dawn (Earth-616)|Dragons of the Crimson Dawn]], Brian expended all of his power to stop a dimensional portal from opening. He left the team for a while,{{r|Excalibur Vol 1 107|110}} but returned to fulfill his dream of marrying Meggan. At the ceremony on Otherworld, the rest of the team decided to return to the States, so Excalibur disbanded, leaving Captain Britain and Meggan as Britain's foremost heroes.{{r|Excalibur Vol 1 125}}
+
+===King of Otherworld===
+Brian soon went back to work at the Darkmoor research facility, and it was during one of his tests (on the new blade and armor of his friend the Black Knight) that [[Katherine Pryde (Earth-811)|Widget]] reappeared with warriors who attacked him and Meggan, tracking Captain U.K. stating that Roma ordered it done.{{r|Excalibur Vol 2 1}}
+
+The heroes (including Psylocke, who was also visiting in England) drove the attackers off, then followed them to Otherworld, where they discovered that the [[Captain Britain Corps (Multiverse)|Captain Britain Corps]] had been decimated. Together with the survivors, [[Bran Braddock (Earth-2122)|Crusader X]] and Captain U.K., Brian and his comrades had to stop Roma, using his troop who revealed to be the R.C.X. [[Warpies (Earth-616)|Warpies]] and [[Cherubim (Earth-616)|Cherubims]] tortured and modified as soldiers, from acquiring the Sword of Might, [[Excalibur (Sword)|Excalibur]], which together with the Amulet of Right (which had returned to Otherworld when Brian lost his powers) could remake the cosmos. Brian went in search of the sword, and ended up finding a computer-filled shrine in a cavern built by his father.{{r|Excalibur Vol 2 1}}
+
+A hologram of James Braddock, Sr. explained to Brian that he was the savior and rightful heir of Otherworld, and had the innate right to wield Excalibur. The hologram re-activated Brian's powers, and Brian drew the sword, which generated a fiery St. Andrew's Cross (from the British flag) as a mask on his face. Brian then confronted Roma, who was revealed to be his father's sentient and insane computer Mastermind, and defeated him together with the real Roma. Roma then relinquished control of Otherworld to Captain Britain, and he and Meggan remained in Otherworld as effective rulers of the multiverse, with as first action their use of the Excalibur sword to restore the integrity and humanity of the warpies. Unbeknownst to Brian, the events leading up to his assumption of Otherworld were orchestrated by [[Nathaniel Richards (Kang) (Earth-6311)|Kang the Conqueror]] and Widget, for reasons yet to be revealed.{{r|{{cl|Excalibur Vol 2 1}}-[[Excalibur Vol 2 4|4]]}}
+
+===Lionheart of Avalon===
+Brian and Meggan appeared to [[Kelsey Leigh (Earth-616)|Kelsey Leigh]], a British mother who had died protecting her kids and Captain America from the [[Wrecking Crew (Earth-616)|Wrecking Crew]] with [[Captain America's Shield|Captain America's own shield]], and offered her the choice between the Amulet and the Sword, making her into a new Captain Britain upon her choice of Excalibur. Brian himself was captured by [[Morgan Le Fay (Earth-616)|Morgan Le Fay]], who hoped to kill him, thereby destroying Britain via Brian's mystical connection with the land, but since his power was transferred to Kelsey, the plan failed.{{r|Avengers Vol 3 77|78}}{{r|Avengers Vol 3 80}}
+
+===[[Civil War (Event)|Civil War]]===
+After discussions with [[Victor von Doom (Earth-616)|Doom]] and [[Namor McKenzie (Earth-616)|Namor]], the [[T'Challa (Earth-616)|Black Panther]] and his wife [[Ororo Munroe (Earth-616)|Storm]] tried to recruit Brian in their movement against the US [[Superhuman Registration Act|Superhuman Registration Act]].{{r|Black Panther Vol 4 22}}
+
+He declined the proposition and was fustigated by Ororo for his complaisant attitude toward the system. He also claimed the return of the [[Ebony Blade]] as part of the British legacy, but this was denied by T'Challa, as it was being used by the [[Vatican]]'s [[Augustine du Lac (Earth-616)|Black Knight]] against him (the Sword was later given back to Dane Whitman by Storm).{{r|Black Panther Vol 4 22}}
+
+===[[New Excalibur]]===
+Captain Britain was forced to come back to Earth to stop the [[Earth-58163|House of M]] reality from coming into existence. During this time, his wife Meggan apparently sacrificed her life to save a rip in time from destroying the Earth. This resulted in Brian becoming active as Captain Britain again and the formation of the all new Excalibur along with [[Peter Wisdom (Earth-616)|Pete Wisdom]], [[Sage (Earth-616)|Sage]], [[Cain Marko (Earth-616)|Juggernaut]], [[Alison Blaire (Earth-616)|Dazzler]], and [[Talia Wagner (Earth-2182)|Nocturne]].{{r|New Excalibur Vol 1}}
+
+===Secret Invasion===
+During the [[Secret Invasion]] Captain Britain and [[MI13 (Earth-616)|MI13]] believed that the [[Deviant Skrulls|Skrulls]] planned to invade [[Avalon (Otherworld)|Avalon]] through the [[Siege Perilous]]. In taking the magical realm of Avalon the Skrulls would control the Earth's magic. To keep this from happening, Brian tried to stop a Skrull nuclear missile head-on by sacrificing himself. As British military, [[MI6 (Earth-616)|MI-6]], and Avalon were making their last stand, Merlin resurrected Braddock. Immediately Brian entered Avalon and pulled Excalibur from the stone. Upon arriving at Britain’s last line of defense attacked the [[Super-Skrulls (Earth-616)|Super-Skrull]] Commander. After the battle going in favor of both sides. Brian threw the final blow. At the same moment [[Satannish (Earth-616)|Satannish]], who had given Wisdom one wish in exchange for letting him free on Earth, destroyed all Skrulls in the British Isles and any that have and will try to enter.{{r|Captain Britain and MI-13 Vol 1 1|4}}
+
+===Captain Britain & MI-13===
+[[File:Captain Britain and MI-13 Vol 1 13 Textless.jpg|thumb|200px|left|Captain Britain and MI13]]
+Following the events of the Skrull invasion, as the new members of [[MI13 (Earth-616)|MI13]] attempted to adjust and Brian began to grasp how his new powers worked, they were sent to assist [[Sid Ridley (Earth-616)|Captain Midlands]] who was investigating one of the threats that Pete Wisdom had unleashed to defeat the Skrulls: [[Plokta (Earth-616)|Plokta]].{{r|Captain Britain and MI-13 Vol 1 6|9}} MI13 later went on to defeat the vampire lord [[Vlad Dracula (Earth-616)|Dracula]]'s attempt at subjugating Britain, and operated as Britain's first line of defense, with Captain Britain and the now recovered Meggan firmly at the heart of the team.{{r|Captain Britain and MI-13 Vol 1 10|15}}
+
+===Joining the Earth's Mightiest Heroes===
+During an international meeting between Commander Rogers and MI13, Captain Britain was offered a job with the [[Avengers (Earth-616)|Avengers]]. Captain Britain accepted despite mixed reactions from his MI13 teammates.{{r|Age of Heroes #1}} He was first made a reserve member, before later being made an official member of the [[Secret Avengers (Black Ops Unit) (Earth-616)|secret team of the Avengers]].{{r|Secret Avengers Vol 1 22}}
+
+===The Trial of Fantomex===
+Otherworld came under attack by a mysterious force, led by a Goat-Demon, who revealed later to be an aspect of his brother's personality, [[James Braddock Jr. (Earth-616)|Jamie Braddock]]. Sharing Psylocke's memories during [[X-Force (Strike Team) (Earth-616)|X-Force]]'s confrontation against [[Warren Worthington III (Earth-616)|Archangel]], thanks to their sibling links, he saw the murder of the [[En Sabah Nur (Earth-616)|Apocalypse boy]] by [[Charlie Cluster-7 (Earth-616)|Fantomex]] and organized his abduction, leading a Captain Britain Corps' commando team.
+
+He also abducted Psylocke to make her a member of the Corps again in order to defend Otherworld. Brian intended to make Fantomex pay for his crime, but also to wipe him from the Multiverse, seeing him as a unique and dangerous anomaly (although we know a few alternates, but all from the future). When Psylocke finally discovered the identity of the invader, she ordered Brian to kill Jamie, and sensing his hesitation, she took control of his body and made him kill his older brother.{{r|Uncanny X-Force Vol 1 20|23}}
+
+===Avengers vs. X-Men===
+When it was revealed that the [[Phoenix Force (Earth-616)|Phoenix]] was heading towards Earth, Braddock was a member of the Avengers sub-team led by [[Thor Odinson (Earth-616)|Thor]] to stop it.{{r|Secret Avengers Vol 1 26}}
+
+===[[Revolutionary War (Event)|Revolutionary War]]===
+[[File:Brian Braddock (Earth-616) from Revolutionary War Alpha Vol 1 1 0001.jpg|thumb|right]]
+Captain Britain and an army of British heroes defeated [[Mys-Tech (Earth-616)|Mys-Tech]] in battle; the agency came close to sending all of Britain to [[Hell]] in order to pay off their debts to [[Mephisto (Earth-616)|Mephisto]]. Following the battle, [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] was secretly called in to clean up the remains of Mys-Tech's bases and technology as MI13 didn't have the resources to do it. Brian was made a member of S.H.I.E.L.D.'s European Division. Years later, Pete Wisdom learned about this and sarcastically remarked he was proud that Brian was acting like him.
+
+Brian, MI13, and S.H.I.E.L.D. began investigating a suspected return of Mys-Tech but he was swiftly beaten down and captured by [[Minion (Earth-8410)|Death's Head II]]. This was actually a ruse by Death's Head II to plant a tracking device and find out why the [[Psycho-Wraith]] wanted the Captain (he didn't bother to tell Brian).
+
+The Prime-Wraith wanted the hero to be part of six living batteries for a monotrace core, opening a portal to Hell for Mephisto's armies (led by the brainwashed hero [[Julius Mullarkey (Earth-616)|Killpower]]) to ravage the Earth. Captain Britain was freed and fought to hold back the Demons, trying to find a solution other than killing Killpower. "We're heroes, we don't kill--" was all he could say before Killpower was gunned down by the anti-heroes [[Joseph Hauer (Earth-616)|Major Hauer]], Death's Head, and [[Tigon Liger (Earth-616)|Colonel Liger]]. Afterwards, on a whim Captain Britain placed a union flag on top of a damaged [[Big Ben (Clock)|Big Ben]], deciding that surviving the battle gave them "the right to celebrate a little".
+
+===Time Runs Out===
+[[File:New Avengers Vol 3 30 Textless.jpg|200px|left|thumb|A one-eyed Captain Britain with what remained of the Captain Britain Corps]]
+When the Captain Britain Corps began actively investigating the reality-destroying phenomena known as [[Glossary:Incursion|incursions]], they managed to capture a [[Mapmakers (Multiverse)|Mapmaker]] and experiment on it. Saturnyne had the Corps turn the Mapmaker into a beacon to lure their creators, and possibly whoever was behind the incursions. The [[Beyonders|Ivory Kings]] sent all of their forces against the Corps, and they were destroyed in a matter of hours. Before being cast out of Otherworld to Earth-616 by Saturnyne, Brian Braddock, who had lost an eye in the fight, was embedded with all the secrets of the Citadel.{{r|New Avengers Vol 3 30}}
+
+After returning to Earth-616, he joined the [[Illuminati (Earth-616)|Illuminati]] to work with them on finding a solution to the incursions, and went into hiding with them due to the Avengers being on the hunt for them.{{r|Avengers Vol 5 35}}
+
+===[[Secret Empire (Event)|Secret Empire]]===
+Sometime after the incursions problem had been neutralized, Braddock became the leader of the [[Champions of Europe (Earth-616)|Champions of Europe]], one of the several superhero teams that gathered after Steve Rogers revealed himself to be a [[Hydra (Earth-616)|Hydra]] sleeper agent and established a Hydra Empire in the [[United States of America]].{{r|U.S.Avengers Vol 1 7}} His team fought valiantly alongside [[Aikku Jokinen (Earth-616)|Enigma (Aikku Jokinen)]] and [[Doreen Green (Earth-616)|Squirrel Girl (Doreen Green)]] against the Hydra takeover and, after Roger's regime was overthrown, they sought to eliminate the remaining Hydra terror cells.{{r|U.S.Avengers Vol 1 8|10}}
+
+===Parenthood===
+When all was taken care of, he somehow regained his missing eye and had a [[Margaret Braddock (Earth-616)|child]] with Meggan. Because of this, he rebuilt the old [[Braddock Lighthouse]] in order to provide his daughter with a decent environment to grow.{{r|X-Men: Gold Annual Vol 1 1}}
+<!--
+===[[War of the Realms]]===
+...
+
+===Captain Britain No More===
+...{{r|Excalibur Vol 4 }} -->
+
+| Powers                  = '''Interdimensional Energy Conduit:''' His abilities are powered by interdimensional energies which are concentrated around the British Isles of each reality and also in Otherworld; moving too far away from the field will cause eventual power loss unless a power-enhancing costume is worn. After being lost in the timestream for a while, Brian briefly had precognitive flashes, though these eventually abated. For a time, all of his abilities were localized to Britain; if he went abroad for too long a time without wearing his costume, his powers eventually diminished to nothing. His costume acts as an antenna and battery, allowing him to retain his powers wherever he goes. When he and Meggan destroyed the Otherworld energy matrix at Roma's prompting, however, the energies that allowed him to retain his power within the UK without his costume were dissipated. Hence, to retain his powers anywhere on Earth, he must wear the costume at all times. Recently, Brian has gained the ability to use his powers even without his suit. They are now based on his confidence. With greater confidence comes more power, and he weakens as his confidence does. 
+
+Originally, his powers were linked to the Amulet of Right, worn around his neck, and he depended on a mace-like Star Scepter to fly. Later on, Merlyn changed his costume just before he entered an alternate Earth ([[Earth-238]]), removing the Amulet and the Scepter placing the powers in his new costume. Not long after that he was killed by the Fury and had his body remade by Merlyn, who chose this point to make his powers innate and stronger, with his costume merely serving as a "battery" and amplifier. Currently, Brian's powers are sustained by his own confidence and heritage as the son of a denizen of Otherworld. Thus, the more confident he is, the greater his powers are and vice versa.
+
+*'''Superhuman Strength:''' While wearing his costume, Braddock's strength is increased to high superhuman levels. At his peak, he's able to lift approximately 90 tons.
+
+*'''Superhuman Stamina:''' Braddock's advanced musculature produces considerably less fatigue toxins during physical activity than the musculature of a normal human. At his peak, he can exert himself physically for about 24 hours before the build-up of fatigue toxins in his blood begins to impair him.
+
+*'''Superhuman Durability:''' While wearing his costume, Braddock's body is surrounded by an invisible force field that renders him highly resistant to physical injury. The field allows him to sustain powerful energy blasts, great impact forces such as bazooka shells or being repeatedly struck by superhumanly strong opponents, temperature extremes, and falls from great heights without being injured. However, repeated impacts from sufficiently powerful forces or weaponry will weaken and, eventually, penetrate the field. The field's density, however, is specially designed to allow oxygen and light to pass through it. This force field is now sustained by his own confidence.
+
+*'''Superhuman Agility:''' Braddock's agility, balance, and bodily coordination are enhanced to levels that are beyond the natural physical limits of the finest human athlete.
+
+*'''Superhuman Reflexes:''' Braddock's reflexes are similarly enhanced and are superior to those of the finest human athlete.
+
+*'''Superhuman Senses:''' Braddock can purposely draw upon the energies that give him his other powers to temporarily increase the efficiency of his senses, enhancing them to superhuman levels. He can see objects with perfect clarity at much greater distances than a normal human can. His hearing is similarly enhanced, allowing him to hear further than a human and to detect sounds normal humans can't.
+
+*'''Flight:''' Braddock can also channel these energies for the purpose of flying through the air at great speeds. At his peak, he is capable of surpassing the Speed of Sound, 770 miles per hour. The force field that grants him his superhuman durability enables him to withstand the rigors of traveling at such high velocities would have on human tissue without harm, as well as allowing him to breathe normally.
+
+| Abilities               = *'''[[Genius Intelligence]]:''' Braddock is brilliant scientist with expertise in physics and engineering.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 2}}
+* He is a acrobat and excellent fighter.{{Citation}}
+
+| Strength                = While wearing his costume, Brian Braddock's strength is increased to high superhuman levels. At his peak, he is able to lift (press) approximately 90 tons.
+| Weaknesses              = Currently, Captain Britain's powers are based on his own confidence. The more he believes in himself and what he is doing, the stronger he is, and the less susceptible to damage he becomes. Formerly, Braddock's powers were dependent upon his costume. If he wasn't wearing it, then he could not gain access to the interdimensional energies that granted him his powers. Also, though the force field protects him from conventional physical injury, it does leave him vulnerable to attack from "knock out" gases as they can pass through his force field as easily as oxygen can.
+
+| Equipment               = * '''[[Captain Britain's Uniform]]:''' stores interdimensional energies, acting as a battery for when he is away from the matrix which surrounds the British Isles. His costume has also at times been able to generate a protective force field (originally, this power came from his quarterstaff) and a more recent version is also able to adopt a 'stealth mode' which helps him operate more unobtrusively.
+* '''[[Amulet of Right]]:''' Braddock originally possessed this amulet before it was destroyed by his sister [[Elizabeth Braddock (Earth-616)|Betsy]].{{r|Excalibur Vol 4 13}}
+
+| Transportation          = Self powered flight, formerly motorcycle.
+| Weapons                 = * Braddock currently wields the [[Sword of Might]] as [[Captain Avalon]] and one of the [[Swordbearers of Krakoa (Earth-616)|Swordbearers of Krakoa]].{{r|Excalibur Vol 4 13}}
+* Captain Britain originally wielded a [[Captain Britain's Quarterstaff|Quarterstaff]] (which could produce a force field),{{r|Captain Britain #1}} and later the [[Star Sceptre]] (which allowed flight, as well as the force field).{{r|Captain Britain #35}} Merlyn eventually moved these powers into Brian's costume, and eventually into Brian himself.
+* Brian temporarily wielded the sword [[Excalibur (Sword)|Excalibur]] during the adventure which saw him ascend the throne of Otherworld. 
+
+| Notes                   = 
+* Brian Braddock made his first US appearance in {{cl|Marvel Team-Up #65}}.
+| Trivia                  = 
+* Brian's transformation into Britanic by ''Excalibur'' writer [[Scott Lobdell]] was inspired by the chaotic nature of the series itself. He wanted to try something different with Brian, and at the same time have him undergo a drastic change in the same way his sister [[Elizabeth Braddock (Earth-616)|Betsy]] did. The change was never meant to be permanent, and Lobdell additionally noted, "I also liked the idea that the barrel-chested stalwart of the group was going to be forced into the role of the kind of manic member for a bit — it felt fitfully undignified and something Brian might have felt mortified about later."<ref>{{cite web|url=http://www.cbr.com/captain-britain-brianic-excalibur/|title=Why Did Captain Britain Become Britanic?|wok=CBR|first=Brian|last=Cronin|date=21 August 2017|accessdate=31 August 2017}}</ref>
+* Captain Britain was often referred to as "Britain's first super-hero" in early issues of his own series, but he was actually predated by [[Dane Whitman (Earth-616)|Black Knight]] and [[James Montgomery Falsworth (Earth-616)|Union Jack]].
+| Links                   = * [http://uncannyxmen.net/characters/captain-britain-i uncannyxmen.net Spotlight On... Captain Britain]
+* [http://www.marveldirectory.com/teams/excalibur.htm Marvel Directory entry for ''Excalibur'']
+* [http://www.classicmarvel.com/cast/captain britain1.htm Marvel Heroes Classic Role-playing Game Statistics for Captain Britain]
+| Wikipedia = Captain Britain
+}}
+[[hu:Britannia Kapitány (Brian Braddock)]]
+[[ru:Брайан Брэддок (616)]]
+[[Category:Twins]]
+[[Category:Flight]]
+[[Category:Superhuman Stamina]]
+[[Category:Superhuman Reflexes]]
+[[Category:Superhuman Senses]]
+[[Category:Force Field]]
+[[Category:Object-Based Powers]]
+[[Category:Braddock Family]]
+[[Category:Superhuman Agility]]
+[[Category:Hyperacusia]]
+[[Category:Telescopic Vision]]
+[[Category:Night Vision]]
+[[Category:Marvel UK Characters]]
+[[Category:Magic-Based Mutates]]
+[[Category:Otherworlders]]
+[[Category:Hybrids]]
+[[Category:Human/Otherworlder Hybrids]]
+[[Category:Emotional Consistency]]
+[[Category:Physicists]]
+[[Category:Engineers]]
+[[Category:Inventors]]
+[[Category:One Eye]]
+[[Category:Millionaires]]
+[[Category:Empire State University Student]]
+[[Category:Acrobats]]
+[[Category:Doctors]]
+[[Category:Interdimensional Travelers]]
+[[Category:Strength Class 90]]
+[[Category:Ebony Blade User]]
+[[Category:Monarchs]]
+[[Category:Scientists]]
+[[Category:Adventurers]]

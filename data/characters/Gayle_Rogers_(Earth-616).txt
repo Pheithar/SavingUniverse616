@@ -1,0 +1,55 @@
+{{Marvel Database:Character Template
+| Image                   = Gayle Rogers (Earth-616) from Thunderbolts Vol 1 35 0001.jpg
+| Name                    = [[Gayle Rogers]] 
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = [[Thunderbolts (Earth-616)|Thunderbolts]]; [[Clinton Barton (Earth-616)|Hawkeye]]; [[Bobbie Haggert (Earth-616)|Bobbie Haggert]]
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Blue 
+| Hair                    = Blonde
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Television reporter for KTTA
+| Education               = Degree in Journalism
+| BaseOfOperations        = [[Los Angeles]], [[California (State)|California]]
+
+| Creators                = Tom DeFalco; Mark Bright
+| First                   = Solo Avengers Vol 1 9
+| Death                   = Thunderbolts Vol 1 35
+
+| History                 = Gayle was an investigative television reporter. She was killed while investigating the apparent death of "[[Helen Takahama (Earth-616)|Hallie Shimosato]]." Gayle had a bit of a flirtation with Hawkeye.
+
+Gayle's murder was part of Henry Peter Gyrich's conspiracy to kill all superhumans. Gyrich was later revealed to have dreamed up the idea but that Baron Strucker had compelled him to enact his fantasy due to the influence of nanites. {{r|Thunderbolts #50}}
+
+| Powers                  = None
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = Two other reporters who frequently reported on the Thunderbolts were [[Megan McLaren (Earth-616)|Megan McLaren]] and [[Brie Larmer (Earth-616)|Brie Larmer]].
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+* [http://www.marvunapp.com/Appendix2/rogersgayle.htm Gayle ROgers at the Marvel Appendix]
+
+
+}}

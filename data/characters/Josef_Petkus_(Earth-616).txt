@@ -1,0 +1,57 @@
+{{Marvel Database:Character Template
+| Image                   = Josef Petkus (Earth-616) from Soviet Super Soldiers Vol 1 1 0001.jpg
+| Name                    = [[Josef Petkus]]
+| CurrentAlias            = [[Steel Guardian]]
+| Aliases                 = [[Red Guardian]], Guardian
+
+| Affiliation             = Formerly {{M|Protectorate (Earth-616)|Protectorate}}, {{M|Winter Guard (Earth-616)|Winter Guard}}, {{M|People's Protectorate (Earth-616)|People's Protectorate}}, {{M|Supreme Soviets (Earth-616)|Supreme Soviets}}
+| Relatives               = 
+| MaritalStatus           = Single 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]. Created as a Counterpart to Captain America
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Russia]]
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = Russian
+| Occupation              = 
+| Education               = Trained by the Russian Government 
+| BaseOfOperations        = Formerly [[Limbo (Temporal)]]; [[Moscow]], [[Russia]]
+
+| Creators                = Mark Gruenwald; Kieron Dwyer
+| First                   = Captain America Vol 1 352
+| Death                   = Darkstar and the Winter Guard Vol 1 2
+
+| History                 = The fourth Red Guardian, Josef Petkus, was a special operative for the intelligence agencies of the Soviet Union, and appeared as a member of the militant [[Supreme Soviets (Earth-616)|Supreme Soviets]]. Alongside the Supreme Soviets, he attacked the [[Soviet Super-Soldiers (Earth-616)|Soviet Super-Soldiers]] for defecting from the Soviet Union. Alongside [[Steven Rogers (Earth-616)|Captain America]], he later battled a bear-like creature composed of the [[:Glossary:Darkforce|Darkforce]].{{r|Captain America #352|353}}
+
+The Supreme Soviets later became known as the People's Protectorate after the fall of the Soviet Union.{{r|Soviet Super Soldiers #1}}
+
+Alongside the People's Protectorate, he teamed with the [[Avengers (Earth-616)|Avengers]] and [[Alpha Flight (Earth-616)|Alpha Flight]] to battle the Peace Corpse, the Atlantean Army, and the Combine.{{r|Avengers #319|324}} They also battled the Hulk over a former Russian spy partly responsible for Banner's transformation.{{r|Incredible Hulk #393}}
+
+The People's Protectorate eventually merged with the mutant vigilante unit called Siberforce, becoming the Winter Guard. Petkus was the overall leader of this unit, now calling himself the Steel Guardian.{{r|Iron Man Vol 3 #9|10}}
+
+After the death of Darkstar, her brother Vanguard convinced Steel Guardian and most of their teammates to leave Russian service. Thye entered something known as the anomaly, which was really a portal to [[Limbo (Temporal)|Limbo]] and where forced to serve under [[Nathaniel Richards (Immortus) (Earth-6311)|Immortus]]. While fighting off [[Dire Wraiths]] in Limbo, they discovered that [[Fantasia (Earth-616)|Fantasia]] was actually a Dire Wraith all along. Steel Guardian was impaled in a battle against her forces.{{r|Darkstar and the Winter Guard #2}}
+
+| Powers                  = 
+| Abilities               = Guardian is an extremely skilled fighter, acrobat and is in extremely good physical condition. 
+| Strength                = Peak Human: able to lift double one's own body weight up to the 800lb level 
+| Weaknesses              = 
+
+| Equipment               = As Red Guardian, Petkus used the [[Red Guardian's Shield]], a circular shield. He had a winch line in his belt buckle.
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Acrobats]]

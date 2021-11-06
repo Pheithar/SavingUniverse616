@@ -1,0 +1,51 @@
+{{Marvel Database:Character Template
+| Image                   = Dylan Mason (Earth-616) from Inhuman Vol 1 1 002.png
+| Name                    = Dylan Mason
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{M|Strategic Homeland Intervention, Enforcement and Logistics Division|S.H.I.E.L.D.}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Government agent
+| Education               = 
+| BaseOfOperations        = [[Battery Park]], [[New York City]]; [[S.H.I.E.L.D. Helicarrier]]
+
+| Creators                = Charles Soule; Joe Madureira
+| First                   = Inhuman Vol 1 1
+
+| History                 =[[File:Dylan Mason (Earth-616) from Inhuman Vol 1 1 001.png|left|125px|thumb|Mason with Medusa]]
+Agent '''Dylan Mason''' was in charge of the clean up of the former [[Inhuman]] city of [[Attilan]] when him and his team excavated one of the missing Inhumans, [[Eldrac (Earth-616)|Eldrac the Door]] from the rumble. Just thinking it was part of the city, Mason was approached by [[Medusalith Amaquelin (Earth-616)|Queen Medusa]] and her aide, [[Elejea (Earth-616)|Elejea]] after they heard the news of his recovery, As Mason told Medusa no one was permitted in until they could determine if it imposed any danger.
+
+Elejea snapped at Mason for speaking to the Queen in that manner. Medusa assured Agent Mason that Eldrac wasn't a threat and she proceeded on to talk to him.{{r|Inhuman Vol 1 1}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

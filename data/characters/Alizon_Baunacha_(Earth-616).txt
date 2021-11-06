@@ -1,0 +1,48 @@
+{{Marvel Database:Character Template
+| Image                   = Alizon Baunacha (Earth-616) from Nightstalkers Vol 1 2 001.jpg
+| Name                    = Alizon Baunacha
+| CurrentAlias            = Pyre
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra}}'s {{m|Department of Occult Armaments (Earth-616)|Department of Occult Armaments (DOA)}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Red
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = (Former) Hydra D.O.A. Agent
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Dan G. Chichester; Ron Garney
+| First                   = Nightstalkers #2
+
+| History                 = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = Real name revealed in Fear Itself: The Fearless Hardcover.
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * http://www.marvunapp.com/Appendix4/doahydrans.htm#pyre
+}}

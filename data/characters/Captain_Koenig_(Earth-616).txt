@@ -1,0 +1,55 @@
+{{Marvel Database:Character Template
+| Image                   = Koenig (Earth-616) from Infinity Vol 1 1 0002.png
+| Name                    = Koenig
+| Name2                   = <br>(First name unknown)
+| CurrentAlias            = Captain Koenig
+| Aliases                 = 
+
+| Affiliation             = {{M|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = Human
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = Captain of S.H.I.E.L.D.
+| Education               = 
+| BaseOfOperations        = Seen active in [[Palermo]], [[Italy]]
+
+| Creators                = Jonathan Hickman; Jim Cheung
+| First                   = Infinity Vol 1 1
+| Death                   = 
+
+| History                 = [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] Captain Koenig was mandated by [[Sentient World Observation and Response Department (Earth-616)|S.W.O.R.D.]] to arrest another [[Skrull]] refugee group hiding in [[Palermo]], [[Italy]], along with two other agents and a containment unit.
+
+Just before the strike, he was stopped by [[Abigail Brand (Earth-616)|Director Brand]] to stand, waiting for his team to be enforced by [[Captain America (Steve Rogers)|Captain America]] and [[Clinton Barton (Earth-616)|Hawkeye]], while [[Marcus Milton (Earth-13034)|Hyperion]] and [[Thor Odinson (Earth-616)|Thor]] were ready to back them up.
+
+Using a device who scrambled the aliens shape-shifting powers, they easily defeated and arrested them, all of them being civilian refugees who vainly tried to escape.{{r|Infinity Vol 1 1}}
+
+| Powers                  = 
+| Abilities               = S.H.I.E.L.D. training
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = Standard military issue equipment, [[Skrull]]-shapeshifting disturber
+| Transportation          = 
+| Weapons                 = Machine gun.
+
+| Notes                   = 
+| Trivia                  = It is unknown if the Captain Koenig is related to the long-time [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] agent [[Eric Koenig (Earth-616)|Eric Koenig]], or to his sister [[Ilsa Koenig (Earth-616)|Ilsa]].
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

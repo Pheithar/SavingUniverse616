@@ -1,0 +1,33 @@
+{{Marvel Database:Team Template
+| Image                   = Immortus and the Infinity Watch from Uncanny Avengers Vol 1 16.jpg 
+| ImageSize               = 300px
+| Name                    = [[Infinity Watch]]
+| Aliases                 = 
+
+| Status                  = Active
+
+| Identity                = Secret
+| Reality                 = Multiverse
+| BaseOfOperations        = 
+| Leaders                 = [[Nathaniel Richards (Immortus) (Earth-6311)|Immortus]]
+| CurrentMembers          = [[Martinex]], [[Annihilus|Nova (Annihilus)]], [[Vision|Phoenix (Vision)]], [[Silver Surfer]], [[Starfox]], [[Starhawk]] 
+| FormerMembers           = [[Mar-Vell|Captain Marvel (Mar-Vell)]], [[Yondu]]
+| Allies                  = [[Avengers (Earth-616)|Avengers]], [[Avengers Unity Division (Earth-616)|Avengers Unity Division]]
+| Enemies                 = [[Chronos Corps (Multiverse)|Chronos Corps]]
+| Origin                  = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Rick Remender; Steve McNiven
+| First                   = Uncanny Avengers Vol 1 16
+| Last                    = 
+
+| HistoryText             = The Infinity Watch was recruited, either wholly or as individuals, by [[Nathaniel Richards (Immortus) (Earth-6311)|Immortus]] to help him fight [[Nathaniel Richards (Kang) (Earth-6311)|Kang]]'s effort to become a [[Celestial]]. They were specifically intended as a counter to the power of the [[Chronos Corps (Multiverse)|Chronos Corps]].{{r|Uncanny Avengers Vol 1 16}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

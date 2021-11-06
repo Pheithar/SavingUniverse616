@@ -1,0 +1,42 @@
+{{Marvel Database:Team Template
+| Image                   = Euroforce (Earth-616) from Captain America Steve Rogers Vol 1 18 001.jpg
+| ImageSize               = 250px
+| Name                    = Euroforce
+| EditorialNames          = 
+| Aliases                 = EuroLab, Task Force
+
+| Status                  = Active
+| Identity                = Known to Authorities
+| Reality                 = Earth-616
+| BaseOfOperations        = Mobile throughout [[Europe]]
+
+| Leaders                 = [[Geyr Kluge (Earth-616)|Key]], formerly [[Dane Whitman (Earth-616)|Black Knight]]
+| CurrentMembers          = [[Mikhail Zamorska (Earth-616)|Baby Killer]], [[Franco Fibbri (Earth-616)|Sliver]], [[Adelynn Duquesne (Earth-616)|Swordswoman]], [[Hughes Aït-Kaci (Earth-616)|Tiger]], [[Tumult (Earth-616)|Tumult]], [[Dane Whitman (Earth-616)|Black Knight]], [[Geyr Kluge (Earth-616)|Key]]
+| FormerMembers           = [[Michele Argento (Earth-616)|Argento]], [[Dolph Dongen (Earth-616)|Danger]], [[Jane Melville (Earth-616)|Deep Sight]], [[Silvie Rouge (Earth-616)|Nuage]], [[Antonio Rey (Earth-616)|Picaro]]
+| Allies                  = [[Avengers (Earth-616)|Avengers]]
+| Enemies                 = [[Morgan Le Fay (Earth-616)|Morgan Le Fay]], [[Hydra (Earth-616)|Hydra]]
+
+| Origin                  = Merger of scientific investigations team '''[[EuroLab (Earth-616)|EuroLab]]''' and military unit '''[[Task Force (Earth-616)|Task Force]]'''
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Francesco Meo; Fabrizio Ugolini
+| First                   = Europa Vol 1 3
+| Last                    = 
+
+| HistoryText             = The Euroforce is a team of European superheroes and a merger of scientific investigations team called [[EuroLab (Earth-616)|EuroLab]] and the military unit codenamed [[Task Force (Earth-616)|Task Force]].{{r|Europa Vol 1 3}}
+
+Euroforce later came under the leadership of [[Dane Whitman (Earth-616)|Black Knight]].{{r|Avengers World Vol 1 8}}
+
+===[[Secret Empire (Event)|Secret Empire]]===
+When [[Steven Rogers (Earth-616)|Captain America]] established a [[Hydra (Earth-616)|Hydra]] Empire in the [[United States of America]], Hydra splinter groups started to form all over the world and several superhero teams, such as the Euroforce, were gathered to stop Hydra from going any further.{{r|Captain America: Steve Rogers Vol 1 18}} During one of their attacks, most of the team ended up in prison, but they were all freed by the [[Champions of Europe (Earth-616)|Champions of Europe]] later.{{r|U.S.Avengers Vol 1 9}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * http://www.marvel.com/universe/Euroforce
+* http://www.internationalhero.co.uk/e/euroforcemit.htm
+* http://marveldirectory.com/groupsandteams/euroforce.htm
+}}

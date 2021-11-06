@@ -1,0 +1,184 @@
+{{Marvel Database:Character Template
+| Image                   = Uncanny X-Men Vol 5 15 Character Variant Textless.jpg
+| Name                    = Sean Cassidy
+| CurrentAlias            = [[Banshee]]
+| Aliases                 = Irish, Agent #215-66, [[Death]], presumably other undercover aliases
+
+| Affiliation             = Formerly {{m|X-Men}}, {{m|Mutant Liberation Front}}, {{m|Horsemen of Apocalypse (Earth-616)|Horsemen of Death}}, {{m|X-Corps}}, {{m|Generation X}}, {{m|New York City Police Department (Earth-616)|NYPD}}, {{m|Muir Island X-Men (Earth-616)|Muir Island X-Men}}, {{m|Factor Three}}, {{m|International Criminal Police Organization (Earth-616)|Interpol}}
+| Relatives               = [[Liam Cassidy (Earth-616)|Liam Cassidy]] (ancestor, deceased);<br>
+[[Patrick Rourke (Earth-616)|Patrick Rourke]] (father-in-law, deceased);<br>
+[[Maeve Rourke (Earth-616)|Maeve Rourke Cassidy]] (wife, deceased);<br>
+[[Theresa Cassidy (Earth-616)|Theresa Cassidy]] (daughter);<br>
+[[Thomas Cassidy (Earth-616)|Thomas Cassidy]] (cousin);<br>
+[[Victoria Donnely (Earth-616)|Victoria Donnely]] (cousin);<br>
+[[Sean Madrox (Earth-616)|Sean Madrox]] ("grandson", re-absorbed by [[James Madrox (Earth-616)|Madrox]])
+| MaritalStatus           = Widowed
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+| Gender                  = Male
+| Height                  = 6'0"
+| Weight                  = 170 lbs
+| Eyes                    = Green
+| Hair                    = Strawberry Blond
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Cassidy Keep]], County Mayo, [[Ireland]]
+| CauseOfDeath            = # Hit by a flying [[X-Men Blackbird|Blackbird]] controlled by [[Gabriel Summers (Earth-616)|Vulcan]]{{r|X-Men: Deadly Genesis Vol 1 2}} (brought back to life by [[Selene Gallio (Earth-616)|Selene]]){{r|X-Force Vol 3 21}}
+# Presumably returned to the after-life after Selene's defeat{{r|X-Force Vol 3 25}} (brought back to life during the [[Chaos War]]){{r|Chaos War: X-Men Vol 1 1}}
+# Returned to the after-life at the end of the [[Chaos War]]{{r|Chaos War: X-Men Vol 1 2}} (revived using the [[Life Seed]] and [[Death Seed]]){{r|Uncanny Avengers Vol 1 9}}
+# Crushed by a Sentinel{{r|Uncanny X-Men Vol 5 21}} (presumably resurrected by “[[Five (Earth-616)|The Five]]”){{r|House of X Vol 1 6}}
+| KilledBy                = Gabriel Summers (Earth-616)
+
+| Identity                = Secret
+| Citizenship             = Irish, Krakoan
+| Occupation              = Adventurer; former paramilitary commander, academic headmaster, gentleman of leisure, carnival barker, subversive, criminal, freelance operative, NYPD detective, Interpol inspector 
+| Education               = Bachelor of Science from Trinity College
+
+| BaseOfOperations        = [[Krakoa (Earth-616)|Krakoa]], [[Pacific Ocean]]; formerly [[Harry's Hideaway]], [[Salem Center]], [[North Salem]], [[Westchester County]], [[New York (State)|New York]]; [[Muir Island]], [[Scotland]]; [[Massachusetts Academy]], Snow Valley, [[Massachusetts (State)|Massachusetts]]; [[Mutant Research Center]], [[Muir Island]]; [[Xavier's School for Gifted Youngsters]], [[Salem Center]], [[North Salem]], [[Westchester County]], [[New York (State)|New York]]; [[Cassidy Keep]], County Mayo, [[Ireland]]
+
+| Creators                = Roy Thomas; Werner Roth
+| First                   = X-Men Vol 1 28
+
+| Quotation               = Saints preserve me... l-l-lad, ye're a... mutant?!
+| Speaker                 = [[Sean Cassidy (Earth-616)|Banshee]]
+| QuoteSource             = X-Men Unlimited Vol 1 16
+
+| Overview = '''Sean Cassidy''' comes from an old Irish lineage that predates historical records.{{r|All-New Official Handbook of the Marvel Universe A to Z Vol 1 1}} A former Interpol agent{{r|X-Men Vol 1 101}} and NYPD police officer,{{r|Generation X Vol 1 -1}} Banshee, as he came to be known, possessed the mutant ability to generate "sonic screams", capable of harming human auditory systems and even breaking through inch-thick steel.{{r|X-Men Vol 1 28}}
+
+After the death of his wife, [[Maeve Rourke (Earth-616)|Maeve]], Sean made some questionable decisions with his life, including getting involved with the villainous organization [[Factor Three (Earth-616)|Factor Three]]. This path, however, led him to meet the famous superhero team called the '''[[X-Men (Earth-616)|X-Men]]''', and, with their help, he returned to the right side of the law.{{r|X-Men Vol 1 28}}{{r|X-Force Vol 1 31}}{{r|X-Force Vol 1 91}} As an ally of the X-Men, Sean had countless adventures and eventually joined the team, when most of the original roster quit.{{r|Giant-Size X-Men Vol 1 1}} His life was apparently back on track as he fell in love with [[Moira MacTaggert (Earth-TRN748)|Dr. Moira MacTaggert]],{{r|X-Men Vol 1 96}} found the daughter he never knew he had{{r|Uncanny X-Men Vol 1 148}} and became the teacher of the next generations of young mutants.{{r|Generation X Vol 1 1}} 
+
+The supposed death of Moira would once again shake his world, leading him to resort to alcoholism as a coping mechanism.{{r|Generation X Vol 1 73}}{{r|Generation X Vol 1 75}} Still, he would end up having a noble demise, giving his life as a last effort to save an airplane full of innocents (who unfortunately perished nonetheless).{{r|X-Men: Deadly Genesis Vol 1 2}} Since then, three times has Sean been revived as consequence of evil plots,{{r|X-Force Vol 3 21}}{{r|Chaos War: X-Men Vol 1 1}}{{r|Uncanny Avengers Vol 1 9}} and three times has he fought to make his return meaningful before being returned to the after-life (with various degrees of success).{{r|X-Force Vol 3 21}}{{r|Chaos War: X-Men Vol 1 2}}{{r|Uncanny X-Men Vol 5 21}} Recently, he was resurrected by [[Five (Earth-616)|The Five]] and reunited with his daughter on Krakoa, this time finally restoring his joyful personality as well.{{r|House of X Vol 1 6}}
+
+| History                 = 
+===Early Years===
+Sean Cassidy was born as the heir to the castle and estate of [[Cassidy Keep (Earth-616)|Cassidy Keep]], Ireland, as well as a small fortune. He studied in Trinity College, [[Dublin]], where he graduated with the degree of Bachelor of Science.{{r|Official Handbook of the Marvel Universe Vol 2 2}} 
+
+One night, Sean was found in the street by the police hitchhiking and they tried to take him without any charges. Seeing the situation from far away in her motorcycle, [[Maeve Rourke (Earth-616)|Maeve Rourke]] intervened to rescue the young Sean. After a long pursuit by three police cars, they managed to hit one of the tires and Maeve and Sean fell off a cliff. Sean, however, revealed himself to be a mutant and flew Maeve to safety.{{r|Classic X-Men Vol 1 16}}
+
+Over the years, both Sean and his cousin, [[Thomas Cassidy (Earth-616)|Tom Cassidy]], who was also a mutant, competed for Maeve's love, but Maeve eventually chose Sean.{{r|X-Force Vol 1 31}} The young couple married on a spring afternoon in County Mayo. The band played ''Night in Soho'' and ''Stand by Your Man''. They danced until dawn.{{r|Uncanny X-Men: First Class Vol 1 3}}
+
+When Sean made Inspector at [[International Criminal Police Organization (Earth-616)|Interpol]], Maeve was really proud of him, but that's when things went sour: he was sent on a special mission, deep undercover. He was separated from Maeve for months with no way to contact her.{{r|X-Force Vol 1 31}}{{r|Uncanny X-Men: First Class Vol 1 3}}
+
+When he left on the mission, Maeve was in her first month of pregnancy, although Sean didn't know it at the time. Their daughter, [[Theresa Cassidy (Earth-616)|Theresa]], was born during Sean's absence. Shortly after Theresa's birth, Maeve took the infant Theresa with her on a visit to her relatives in Armagh in Northern [[Ireland]]. While she was there, Maeve, an innocent bystander, was killed in a terrorist bombing along with a number of other people. Tom Cassidy got custody of the baby and raised her as his own, hiding the truth from Sean as well as Theresa for decades.{{r|Uncanny X-Men Vol 1 148}}{{r|X-Force Vol 1 31}}{{r|Uncanny X-Men: First Class Vol 1 3}}
+
+On returning from his mission, Sean was informed that his wife was dead. At first, Cassidy attempted to escape his despair over this news by throwing himself into his work at Interpol. Eventually, however, the still melancholy Cassidy left Interpol to become a freelance operative and, as time went on, found himself engaged in some criminal activities.{{r|X-Force Vol 1 91}}
+
+===Factor Three===
+[[File:Sean Cassidy (Earth-616) from X-Men Vol 1 28 001.gif|thumb|180px|right|Under Factor Three's influence]]
+The legal authorities never discovered that Cassidy was guilty of crimes, but the mutant known as the [[Kevin Sidney (Earth-616)|Changeling]] did, thanks to the technology of the subversive organization of superhumanly powerful mutants and their underlings known as [[Factor Three (Earth-616)|Factor Three]]. The Changeling contacted Cassidy, whom Factor Three's technology had also identified as a superhumanly powerful mutant, and invited him to join the organization. Cassidy was appalled upon learning of Factor Three's goals and adamantly refused. However, the Changeling and his superior, the so-called [[Mutant Master (Earth-616)|Mutant Master]], agreed that Cassidy's powers and knowledge of the workings of law enforcement agencies were too valuable for Factor Three to lose, and so they sent their agents to capture Cassidy.{{citation}} Factor Three placed a headband containing explosives around Cassidy's head. If Cassidy defied their orders, the headband could be detonated by remote control; it would also detonate if Cassidy attempted to remove the headband himself. Furthermore, Factor Three put Cassidy, who went by the code name of Banshee, under the supervision of one of their trusted human agents, the [[Brian Dunlap (Earth-616)|Ogre]]. Banshee thus felt forced to obey Factor Three's commands and, accompanied by the Ogre, performed various criminal missions for the organization.{{r|X-Men Vol 1 28}}
+
+While in [[New York City]] on a mission for Factor Three, Banshee clashed with the original [[X-Men (Earth-616)|X-Men]], who captured both him and the Ogre. The X-Men's leader, [[Charles Xavier (Earth-616)|Professor Charles Xavier]], used a psionic "mental bolt" on Banshee's headband which prevented the detonation mechanism from functioning so that the Banshee could remove it. Once freed of the headband, Banshee told the X-Men all that he knew about Factor Three.{{r|X-Men #28}} Banshee discovered Factor Three's secret [[Europe|European]] headquarters, only to be recaptured. He participated in the X-Men's battle with the Mutant Master and it was his powers which exposed the Mutant Master as an [[glossary:A#Alien|extraterrestrial]].{{r|X-Men Vol 1 35|38}}
+
+===X-Men===
+[[File:Sean Cassidy (Earth-616) and Moira MacTaggert (Earth-TRN748) from X-Men Vol 1 96 001.jpg|thumb|180px|left|Meeting Moira MacTaggert]]
+Banshee returned to an honest life and time passed without major incident for him, except for his brief captivities by the [[Sentinels Mk I (Earth-616)|Sentinels]], and by the second [[Secret Empire (Earth-616)|Secret Empire]]. Professor Xavier later invited the Banshee to join the X-Men, when he was recruiting new members to battle the menace of [[Krakoa (Earth-616)|Krakoa]].{{r|Giant-Size X-Men #1}} After most of the original team left, Cassidy, along with fellow new recruits [[Piotr Rasputin (Earth-616)|Colossus]], [[Kurt Wagner (Earth-616)|Nightcrawler]], [[Ororo Munroe (Earth-616)|Storm]], [[James Howlett (Earth-616)|Wolverine]], and [[John Proudstar (Earth-616)|Thunderbird]], stayed as members of the new X-Men. The second group of X-Men were mostly adults and required no tutoring from Professor X, but trained in the use of their powers, in the [[Danger Room]].{{r|X-Men #94}} It was during this time that he met Prof. Xavier's silent partner, the Scottish geneticist [[Moira MacTaggert (Earth-TRN748)|Dr. Moira MacTaggert]].{{r|X-Men Vol 1 96}}
+
+Sean was among those captured by [[Stephen Lang (Earth-616)|Steven Lang's]] [[Sentinels Mk III (Earth-616)|Sentinels]] and taken aboard Lang's [[Sentinel Space Station|space station]].{{r|X-Men Vol 1 98}} After a trip to Cassidy Keep, they battled [[Cain Marko (Earth-616)|Juggernaut]] and Black Tom.{{r|Marvel Team-Up Vol 1 150}}
+
+[[File:Sean Cassidy (Earth-616) from 1994 Ultra X-Men (Trading Cards) 001.jpg|right|thumb|180px]]
+During a picnic, they briefly battled [[James Hudson, Jr. (Earth-616)|Weapon Alpha]], who accidentally wounded Dr. MacTaggert and enraged Sean.{{r|X-Men Vol 1 109}} Cassidy and Dr. MacTaggert soon fell in love, but while Cassidy was based at Prof. Xavier's [[Xavier's School for Gifted Youngsters|mansion]], Dr. MacTaggert was based at her [[Mutant Research Center]] on [[Muir Island]] off the coast of [[Scotland]].{{citation}}
+
+In [[Agarashima]], [[Japan]] they battled [[Moses Magnum (Earth-616)|Moses Magnum]], a criminal mastermind who had been endowed with the psionic power to cause earthquakes. Magnum unleashed tremendous psionic energy in an attempt to create seismic waves great enough to cause a chain reaction that would destroy Japan. Banshee, simultaneously, used his powers to create waves of vibratory force that would cancel out the waves of force that Magnum was creating. Banshee succeeded, to the extent that only small uninhabited islands in the vicinity of Magnum's base were destroyed. However, the tremendous strain that Banshee had placed upon his powers in performing this heroic feat seriously damaged his vocal cords. Cassidy soon regained his ability to speak, but his superhuman sonic powers, which were dependent on his vocal cords, appeared to have been destroyed.{{r|X-Men Vol 1 118|119}}
+
+Cassidy accompanied the X-Men to Muir Island where they battled the menace of [[Kevin MacTaggert (Earth-616)|Proteus]], Dr. Moira MacTaggert's mutant son, who at one point took his mother prisoner. Proteus was defeated and the experience of seeing the woman he loved in danger made Cassidy realize that he wanted to stay by her side.{{r|X-Men Vol 1 127|129}} Therefore, Cassidy retired from the X-Men and he and Dr. Moira MacTaggert divided their time between Cassidy Keep and Muir Island. Cassidy briefly returned to aid the X-Men against operatives of [[Arcade (Earth-616)|Arcade]], during an emergency situation when [[Miss Locke (Earth-616)|Miss Locke]] kidnapped Dr. MacTaggert and most of the X-Men were simultaneously engaged in conflict with an android which [[Victor von Doom (Earth-616)|Doctor Doom]] had created in his own image.{{r|Uncanny X-Men Vol 1 145|148}}
+
+Later, the X-Men battled Black Tom Cassidy, his partner, the [[Cain Marko (Earth-616)|Juggernaut]], and Theresa, who had developed sonic powers of her own, which she used under the alias of Siryn. Theresa felt obliged by her duty toward Black Tom, the man who had raised her (and whom she called "uncle" out of respect, although they were actually cousins), to assist him in his crimes.{{r|{{cl|Spider-Woman Vol 1 37}}-[[Spider-Woman Vol 1 38|38]]}}{{r|X-Force Vol 1 91}} After they were defeated by the X-Men, Black Tom gave Theresa a letter to Sean, explaining that she was his daughter. Sean and Theresa were joyfully united at Xavier's mansion.{{r|Uncanny X-Men Vol 1 148}}
+
+===Generation X===
+[[File:Generation X Vol 1 45 Textless.jpg|thumb|left|Hard times with Emma]]
+After rejoining the X-Men as an active member, Banshee suddenly realized the [[Phalanx (Race)|Phalanx]]'s kidnapping of the X-Men. He and [[Emma Frost (Earth-616)|Emma Frost]] worked to save some young mutants targeted by the Phalanx. Banshee later became the co-headmaster of the Massachusetts branch of the Xavier institute along with Emma Frost, the branch that housed [[Generation X (Earth-616)|Generation X]].{{r|X-Men Vol 2 36|37}}{{r|Uncanny X-Men Vol 1 316|318}}
+
+He taught the kids a great deal of things and considered them his children.{{r|Generation X Vol 1 63}}{{r|Generation X Vol 1 72|75}} He helped them against countless foes, with them returning the favor on a few accounts as well.{{r|Generation X Vol 1 51}}{{r|Generation X Vol 1 73}}
+
+One of people they went up against was his cousin, Black Tom Cassidy. During his attack on the school, he took control of Emma's body to hit Sean, hoping to force him to kill her. Knowing that Black Tom wouldn't stop until one of them was dead and that Sean couldn't bring himself to kill her, Emma took control of Sean's mind and sent a powerful sonic scream in her direction, apparently ending her life.{{r|Generation X Vol 1 25}}{{r|Generation X Vol 1 61}}
+
+After [[Monet St. Croix (Earth-616)|Penance]] defeated Black Tom, Sean mourned Emma while looking for the missing students. After countless failed attempts, Sean was starting to get desperate, but Emma appeared from behind and jumped into his arms, revealing she had forced him to use the specific frequency that would simply stun her for an hour.{{r|Generation X Vol 1 26}}
+
+After a joyful reunion, they were approached by [[Marius St. Croix (Earth-616)|Emplate]], who offered the kids' location in exchange for Penance. Sean immediately turned the offer down, but Emma contacted him telepathically to convince him of trying to trick Emplate. Sean still thought it was too much of a risk however, so Emma had to knock him out and try to proceed with the deal by herself. Yet, before handing over their ward, Banshee woke up and rescued Penance, before fleeing with her.{{r|Generation X Vol 1 26|31}}
+
+It all turned out fine in the end, as all the kids made their way back to the school, but it took some time for Sean and Emma to see eye to eye again.{{r|Generation X Vol 1 32|34}}
+
+Generation X disbanded after [[Jonothon Starsmore (Earth-616)|Chamber]] was invited to the X-Men, shortly after the fake death of Sean's lover, Moira MacTaggart, which he believed was real, leaving him devastated.{{r|Generation X Vol 1 73}}{{r|Generation X Vol 1 75}}{{r|Powers of X Vol 1 6}}
+
+===X-Corps===
+[[File:Uncanny X-Men Vol 1 403 Textless.jpg|right|thumb|With X-Corp]]
+Sean became inactive, until he turned back to his alcoholism for a brief period, and then his bitterness towards the mutants who were like those who supposedly killed Moira got to him. Keen on making up for past mistakes, Sean founded X-Corps, a superhuman militia organization that used primarily mind-controlled former terrorist mutants to protect mutant kind at large. Despite his best intentions, things wouldn't work, and [[Raven Darkholme (Earth-616)|Mystique]], who had infiltrated the organization in disguise, slit Cassidy's throat and left him to bleed to death. Luckily, he managed to capture Mystique by releasing [[Nils Styger (Earth-616)|Abyss]], a mutant who could open an other-dimensional portal, and was then taken to the hospital by his former Generation X students.{{r|Generation X Vol 1 75}}{{r|Uncanny X-Men Vol 1 401|406}}
+
+===Death===
+With time, Sean’s throat healed enough for him to regain speech, but he could no longer use his mutant powers. After [[Decimation|M-Day]], he was asked by the X-Men to go to Muir Island and look for any notes that might help find Professor X. Sean uncovered some startling information, and quickly arranged a flight to [[Westchester]].{{r|X-Men: Deadly Genesis Vol 1 1}}
+
+[[File:Sean Cassidy (Earth-616) from X-Men Deadly Genesis Vol 1 2 001.jpg|300px|left|thumb|Banshee's Death]]
+He was supposed to meet Nightcrawler and Wolverine but noticed that the [[X-Men Blackbird|Blackbird]] seemed to be heading towards his plane on a collision course. He quickly used what little power he had to fly and attempted to use his sonic scream to stop the plane from hurting the passengers. Sadly, it was not enough to stop the Blackbird and it rammed into him as well as the plane filled with innocent passengers.{{r|X-Men: Deadly Genesis Vol 1 2}}
+
+Banshee's body was later found by Kurt and Logan. When the X-Men were blamed for the situation early on, Emma Frost told O.N.E. that the attack had also killed on of the X-Men's best friends.{{r|X-Men: Deadly Genesis Vol 1 3}}
+
+Cyclops delivered the news of Banshee's death to his daughter, Siryn. Siryn was given a video tape that Banshee had made for the purpose of delivering a message to his daughter when he died. In the message, Banshee stated that he felt he had done more good than bad in his life, and that he hoped St. Peter would allow him entrance into Heaven. He expressed the hope that he would there be reunited with Siryn's mother. Siryn refused to believe that Banshee was really dead, citing all of the X-Men in the past who have been presumed dead but later returned. Sean willed Siryn Cassidy Keep, as well as his pipe.{{r|X-Factor Vol 3 7}}
+
+He was buried at the Xavier Institute, alongside the empty graves of [[Suzanne Chan (Earth-616)|Sway]] and [[Petra (Earth-616)|Petra Kristensen]].{{r|X-Men: Deadly Genesis Vol 1 6}}
+
+===Resurrections===
+Banshee was seen in [[Erebus (Hades)|Erebus]] by [[Hercules Panhellenios (Earth-616)|Hercules]] along with many other deceased beings, gambling for his soul.{{r|Incredible Hercules Vol 1 129}}
+
+Later, Banshee, along with many other deceased mutants, was resurrected by [[Selene Gallio (Earth-616)|Selene]] and [[Eliphas (Earth-616)|Eli Bard]] with the [[Transmode Virus]]. He fought against her control to warn Emma and Scott, but it was too strong and he was subdued again.{{r|X-Force Vol 3 21}} When Selene’s plans fell through, Banshee returned to the land of the dead, until the [[Amatsu-Mikaboshi (Earth-616)|Chaos King]] waged war on reality and the gates to the Underworld were opened, allowing Banshee and many other deceased heroes to return. Banshee along with his fellow resurrected X-Men Thunderbird, [[Esme Cuckoo (Earth-616)|Esme]] and [[Sophie Cuckoo (Earth-616)|Sophie Cuckoo]], Moira MacTaggert (actually a Shi'ar golem in disguise), and three Multiple Men dupes fought the forces of the [[Carrion Crow (Earth-616)|Carrion Crow]], a minion of the Chaos King. After succeeding in their mission to repair Earth's ley lines and defeat the Carrion Crow, Sean returned to the realm of the dead with Moira in his arms.{{r|Chaos War: X-Men Vol 1 1|2}}
+
+===Horseman of Death===
+[[File:Uncanny Avengers Vol 1 13 Textless.jpg|right|thumb|150px|Banshee fights Captain America, Wasp, and Havok]]
+Banshee was brought back to life by the [[Apocalypse Twins (Earth-616)|Apocalypse Twins]], using both the [[Life Seed]] and [[Death Seed]], in order to serve, alongside [[Robert Reynolds (Earth-616)|Sentry]], [[Eric Williams (Earth-616)|Grim Reaper]], and [[Akihiro (Earth-616)|Daken]], as one of their Horsemen of Death.{{r|Uncanny Avengers #9}} Banshee later ended up in the X-Men's custody as Beast concluded that healing Banshee of the Death Seed energy that made him a Horseman of Death would take years and highly advanced technology.{{r|Uncanny Avengers #22}}
+
+===Final road to recovery===
+He stayed in a coma, carefully looked after by Beast, until an attack by the [[Reavers (Earth-616)|Reavers]] forced Hank to release him. Still visibly not recovered, Sean remained entirely silent while Hank and [[Alexander Summers (Earth-616)|Havok]] looked for other people to join their quest, occasionally joining the fight, if needed.{{r|Astonishing X-Men Vol 4 13|16}}
+
+On their final confrontation with the Reavers, Sean was infected by [[Skullbuster (Earth-616)|Skullbuster]] and the nanotech that was helping him stay in control began malfunctioning. Incapable of containing his sonic screams for long, he released them against [[Alison Blaire (Earth-616)|Dazzler]], who absorbed them and proceeded to defeat an entire army by herself.{{r|Astonishing X-Men Vol 4 17}}
+
+[[File:Sean Cassidy (Earth-616) from Uncanny X-Men Vol 5 20 001.png|left|thumb|Banshee back with the X-Men]]
+In the aftermath of the battle, Sean uttered his first full sentence in years and shared his desire to search for a way to solve his problem by himself... Or let nature take his course.{{r|Astonishing X-Men Vol 4 17}}
+
+Sean later resurfaced as part of the [[Mutant Liberation Front (Earth-616)|Mutant Liberation Front]] along with Hope Summers.{{r|Uncanny X-Men Vol 5 15}} After a confrontation with the X-Men and the newest incarnation of the Brotherhood of Mutants, Sean rejoined the X-Men.{{r|Uncanny X-Men Vol 5 16}}
+
+When attacking the [[Office of National Emergency (Earth-616)|O*N*E]] headquarters, he was caught by surprise by a giant golden sentinel and the machine crushed him under its foot. To the surprise of everyone, however, Banshee managed to belt out a final scream which detonated the robot in a horrifying explosion.{{r|Uncanny X-Men Vol 5 21}}
+
+===House of X===
+Sean Cassidy was presumably resurrected by a group of mutants known as “[[Five (Earth-616)|The Five]]”, finally cured of the Death Seed energy and returned to his joyful self. He started living on the sovereign nation-state of [[Krakoa (Earth-616)|Krakoa]] for mutants, created by Charles Xavier, Magneto, and Moira (who was still keeping her survival a secret). Later, he was seen celebrating the recognition of Krakoa as a sovereign nation by the [[United Nations (Earth-616)|UN]]. While partying he shared a knowing look with his daughter [[Theresa Cassidy (Earth-616)|Siryn]], just before she teamed up with Dazzler to produce a light show for the partiers.{{r|House of X Vol 1 1}}{{r|House of X Vol 1 6}}
+
+| Powers                  = Banshee is a [[Homo superior|mutant]] who possesses unusually strong sonic abilities.
+
+'''[[Acoustikinesis]]:''' He creates powerful sonic waves with his voice with which he could achieve various effects, often with the assistance of psionic abilities which function only in unison with his sonic abilities.
+* '''Sonic Scream:''' He has the ability to shatter solid objects with an incredibly loud and destructive sonic scream.
+* '''Flight:''' He has the ability to fly at subsonic speeds by using his voice to propel him through the air and ride via sound waves. 
+* '''Sonar:''' He could use his sonic powers as a form of sonar (Sound Navigation and Ranging). By sending out a precise, pure note and listening to the returning, altered wave-front of the note, he could evaluate his surroundings in total darkness with varying degrees of resolution.
+* '''Sonic Shield:''' He could tighten sound waves around himself or others near him, making a barrier against outside attack.
+* '''Vocal Disorientation:''' He has the ability to change someone’s balance, by affecting their equilibrium using his sonic scream.
+* '''Vocal Trance:''' He has the ability to subtly influence people's subconscious mind by changing the tones and vibrations of his voice using hypersonic suggestions and persuasive abilities.
+* '''Vocal Unconsciousness:''' He has the ability to affect the fluid in someone’s ear causing the person to go unconscious.
+* '''Sound Immunity:''' Banshee's hearing and equilibrium were unaffected by his hypersonic abilities or other similar sound/sonic-based abilities.
+* '''Superhuman Vocal Stamina:''' He possesses superhuman stamina in his lungs, throat, and vocal cords.
+| Abilities               = A gifted detective, seasoned undercover operative, and unarmed combatant, Sean was also well-versed in combat strategy and tactics. He was an excellent marksman, amateur machine-smith, educator, organizer, and lobbyist. His interests included American country music and playing the piano. 
+| Strength                = Sean Cassidy possesses the normal human strength of a man of his age, height, and weight who engages in [[Strength Scale#Average Human|moderate regular exercise]]. 
+| Weaknesses              = His vocal cords were susceptible to injury from excessive strain in using sonic powers. He had also survived normally fatal throat wounds at the cost of his sonic powers temporarily.
+
+| Equipment               = '''[[Banshee's Wings]]:''' Professor X developed a harness for Banshee's [[X-Uniform]]. Using the Harness and his sonic scream he is able to glide on air currents. Using the harness he is able to fly at subsonic speeds.
+| Transportation          = Flight under his own power; [[X-Men Blackbird]], [[X-Men Stratojet]], [[Charles Xavier (Earth-616)|Professor Xavier]]'s Rolls Royce.
+| Weapons                 = Conventional firearms, explosive "micro-bombs".
+
+| Notes                   = * Banshee had some dealings with [[Max Eisenhardt (Earth-616)|Magneto]], [[Arkady Rossovich (Earth-616)|Omega Red]], and [[Wade Wilson (Earth-616)|Deadpool]] when he was an agent of [[International Criminal Police Organization (Earth-616)|Interpol]].
+| Trivia                  = * When originally created, Roy Thomas and Werner Roth had the Banshee as a female, but Stan Lee told them that female villains were not as popular as male, and she was changed into a male. Roy noted that the way Siryn looked is what Banshee was originally going to look like.
+* Banshee was also immune to his cousin Black Tom's energy blasts.
+* The "ribbons" on Banshee's costume (a visual trademark of the character) aided him in his flight.
+| Marvel                  = banshee
+| Wikipedia               = 
+| Links                   = * [http://uncannyxmen.net/characters/banshee Sean Cassidy (Earth-616) at uncannyxmen.net]
+}}
+[[Category:Flight]]
+[[Category:Acoustikinesis]]
+[[Category:Force Field]]
+[[Category:Radar Sense]]
+[[Category:Hyperacusia]]
+[[Category:Catholic Characters]]
+[[Category:Cassidy Family]]
+[[Category:Headmaster of Xavier's School for Gifted Youngsters]]
+[[Category:Transformed by the Death Seed]]
+[[Category:Post-M-Day Mutants (Registration Status Unknown)]]
+[[Category:Horsemen of Death]]
+[[Category:Xavier Institute Student]]

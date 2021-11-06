@@ -1,0 +1,52 @@
+{{Marvel Database:Character Template
+| Image                   = Artabazus_(Earth-616)_Fantastic_Four_Unlimited_Vol_1_12.jpg
+| Name                    = Artabazus
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = Magic
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Public
+| Citizenship             = 
+| Occupation              = Sorcerer
+| Education               = 
+| BaseOfOperations        = Hyborian era
+
+| Creators                = Tom DeFalco; Paul Ryan
+| First                   = Fantastic Four #407
+| Death                   = Fantastic Four Unlimited #12
+
+| History                 = Artabazus was a Hyborian era sorcerer who ruled over a small village. His life changed the day that the super-villain known as [[Jonathan Richards (Earth-967)|Hyperstorm]] trapped the [[Fantastic Four (Earth-616)|Fantastic Four's]] leader [[Reed Richards (Earth-616)|Mister Fantastic]] in this era. In order to prevent altering history, Reed became a reclusive hermit living in a cave in the woods, and kept himself occupied until he could find the means to return home or be rescued. From his arrival, Artabazus heard of the strange hermit in the woods and his strange knowledge. {{r|Fantastic Four Unlimited #12}} When Hyperstorm later banished Reed's wife the [[Susan Storm (Earth-616)|Invisible Woman]], as well as the [[Benjamin Grimm (Earth-616)|Thing]], the [[Namor McKenzie (Earth-616)|Sub-Mariner]], [[Kristoff Vernard (Earth-616)|Kristoff Vernard]] and [[Lyja (Earth-616)|Lyja]] to this era as well, they began looking for their long lost leader and friend. When one of Artabazus' men overheard them asking questions about the strange hermit, he reported back to Artabazus who decided that now was the time to strike. {{R|Fantastic Four #407}}
+
+Attacking the cave with an army of warriors and magically conjured creatures, Artabazus managed to knock the Thing clear from the battle and take the others prisoner. Bringing them back into town, Artabazus confiscated a time transporter from Kristoff and planned to execute the others. However this execution was interrupted by the arrival of the Thing who convinced a group of local warriors to join his fight. Reed attacked Artabazus, and the time device was activated during their struggle. The pair fought across time and space, a battle that took them across different eras of history. Reed managed to wrest the device from the sorcerer's hand and pushed him away. Unfortunately for Artabazus he ended up being trapped in Salem, Massachusetts during the 1690s. The sorcerer was rightly accused of witchcraft and swarmed by the locals who then burned him to the stake. {{r|Fantastic Four Unlimited #12}} 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

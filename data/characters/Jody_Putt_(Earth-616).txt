@@ -1,0 +1,60 @@
+{{Marvel Database:Character Template
+| Image                   = Jody Putt (Earth-616).jpg
+| Name                    = Jody Putt
+| CurrentAlias            = Jester
+| Aliases                 = 
+
+| Affiliation             = [[Thunderbolts (Earth-616)|Thunderbolts army]]; {{m|Assembly of Evil}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 5'9"
+| Weight                  = 170 lbs
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = Criminal given weapons by Doctor Doom
+| Reality                 = Earth-616
+| PlaceOfBirth            = Somewhere in America
+| PlaceOfDeath            = [[New York City]]'s Sewers
+| KilledBy                = Frank Castle (Earth-616)
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Criminal 
+| Education               = 
+| BaseOfOperations        = Mobile
+
+| Creators                = Terry Austin; Mike Vosburg
+| First                   = Mutant Misadventures of Cloak and Dagger Vol 1 #8
+| Death                   = Civil War #5
+
+| History                 = The new [[Jester]], Jody Putt had his technology and weaponry provided by [[Victor von Doom (Earth-616)|Doctor Doom]] himself. Doctor Doom gave Jester the powerful [[Hulk Robot (Earth-616)|Hulk Robot]] as one his main weapons to battle his enemies. Jester recruited a team of criminals known as the [[Assembly of Evil (Earth-616)|Assembly of Evil]] with the help of the Hulk Robot, [[Morris Bench (Earth-616)|Hydro-Man]], [[Fenris (Earth-616)|Fenris]], and [[Samuel John LaRoquette (Earth-616)|Rock]]. The group was defeated by [[Tyrone Johnson (Earth-616)|Cloak]] and [[Tandy Bowen (Earth-616)|Dagger]] along with some members of the [[Avengers (Earth-616)|Avengers]].{{r|Mutant Misadventures of Cloak and Dagger Vol 1 #8|9}}
+
+This Jester later was forced to join the [[Thunderbolts (Earth-616)|Thunderbolts Army]] during the [[Civil War]]. The team was created to hunt supervillains and unregistered heroes. The team was kept under control thanks to nanobots injected into their bodies. If they disobeyed an order they would be electrocuted.{{r|Civil War #4}}
+
+The Jester was sent with fellow teammate [[Steven Levins (Earth-616)|Jack O'Lantern]] to hunt down the now rogue [[Peter Parker (Earth-616)|Spider-Man]]. The pair tracked the hero through New York's sewers; they gravely injured Spider-Man, and rather than take him in they decided to kill him. Thankfully for Spider-Man the [[Frank Castle (Earth-616)|Punisher]] intervened and shot both Jack O'Lantern and Jester dead. [[Calvin Zabo (Earth-616)|Mr Hyde]] used the deceased villain's corpse to find a way around the nanotechnology preventing his escape.{{r|Civil War #5}}
+
+| Powers                  = Jester is an ordinary human.
+
+| Abilities               = Expert athlete and gymnast he is agile and an accomplished swordsman, having been trained in fencing and swordsmanship. Jester is formidable in hand-to-hand combat. 
+| Strength                = The Jester possesses the normal human strength of a man of his age, height, and build who engages in [[Strength_Scale#Above_Average|intensive regular exercise]].
+| Weaknesses              = Nanobots injected into his bloodstream can be used to electrocute him.
+
+| Equipment               = Jester uses gadgets that resemble toys and trinkets which include his yo-yo, which is his first weapon of choice, his jester robots that have jets in their boots, carry miniaturized guns and a built in scanner used to break into safes. He uses marbles, exploding popcorn filled with gas, and a rubberized ball that grows with every bounce.
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Deceased Characters]]
+[[Category:Civil War casualties]]
+[[Category:Gymnasts]]
+[[Category:Fencing]]

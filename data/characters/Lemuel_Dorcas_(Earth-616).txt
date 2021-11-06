@@ -1,0 +1,72 @@
+{{Marvel Database:Character Template
+| Title                   = [[Lemuel Dorcas|Dr. Lemuel Dorcas]]
+| Image                   = Lemuel Dorcas (Earth-616) from Thunderbolts Vol 1 171 001.jpg
+| Name                    = Lemuel Dorcas
+| CurrentAlias            = 
+| Aliases                 = Dr. Lemuel Dorcus{{r|Namor the Sub-Mariner Annual #2}}
+
+| Affiliation             = [[Todd Arliss (Earth-616)|Tiger Shark]], [[Llyra Morris (Earth-616)|Llyra]], [[Attuma (Earth-616)|Attuma]], [[Byrrah (Earth-616)|Byrrah]], Dr. Dorcas robot, [[Draconus (Earth-616)|Dragon Man]], [[Gregson Gilbert (Earth-616)|Gregson Gilbert]], [[Kor-Konn (Earth-616)|Kor-Konn]], [[Krang (Earth-616)|Krang]], [[Men-Fish]], [[Orka (Earth-616)|Orka]], [[Saru-San (Earth-616)|Saru-San]]; formerly [[Diane Arliss (Earth-616)|Diane Arliss]]
+| Relatives               = 
+| MaritalStatus           = Single
+
+| Gender                  = Male
+| Height                  = 5' 1" 
+| Weight                  = 195 lbs
+| Eyes                    = Orange
+| Eyes2                   = (formerly [[:Category:Blue Eyes|blue]][[Category:Blue Eyes]][[Category:Infobox Eyes Update Needed]])
+| Hair                    = None
+| Hair2                   = (formerly [[:Category:Brown Hair|brown]][[Category:Brown Hair]][[Category:Infobox Eyes Update Needed]])
+| UnusualFeatures         = Scarred face covered by a mask, starfish-like physical features on his arms and the sides of his torso as well as a mouth where his bellybutton once was that secretes liquid 
+
+| Origin                  = [[Homo sapiens|Human]] [[Mutate]]d by hybriding himself with <nowiki>starfish</nowiki> tissue
+| Reality                 = Earth-616
+| PlaceOfBirth            = Somewhere in the US
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Marine biologist
+| Education               = Phd in Marine Biology
+| BaseOfOperations        = Various undersea bases
+
+| Creators                = Roy Thomas; John Buscema
+| First                   = Sub-Mariner #5
+
+| Quotation               = I'm afraid you'll have to die as well... [[Betty Dean (Earth-616)|Mrs. Prentiss...]]
+| Speaker                 = [[Lemuel Dorcas (Earth-616)|Lemuel Dorcas]]
+| QuoteSource             = Super-Villain Team-Up Vol 1 2
+
+| History                 = Doctor Lemuel Dorcas was a marine biologist, genetic engineer, inventor, and would-be conqueror. Dorcas was responsible for transforming injured Olympic swimmer Todd Arliss into the superhuman [[Todd Arliss (Earth-616)|Tiger Shark]], and planned to use Tiger Shark as a pawn in his schemes of world conquest.
+
+Dorcas formed an alliance with the Atlantean warlord [[Krang (Earth-616)|Krang]]. Krang provided his follower [[Orka (Earth-616)|Orka]] as a test subject, and Dorcas endowed Orka with the powers of a killer whale.{{r|Sub-Mariner #23}} Krang and Dorcas used Orka and a fleet of killer whales to attack Atlantis, but were thwarted by [[Namor McKenzie (Earth-616)|Namor]] and interference by Tiger Shark.{{r|Sub-Mariner #24}}
+
+Dorcas and Krang later formed a secret alliance with [[Byrrah (Earth-616)|Byrrah]] in a plot to keep Namor from being crowned prince of Atlantis, and allow Byrrah to take the crown. Namor captured Dorcas and Krang, who revealed Byrrah's involvement in the plot, thus ruining his bid for power.
+
+Attuma, Dorcas, and Tiger Shark captured Hydro-Base and took Namor prisoner there. Namor regained his freedom with the help of the [[Hydro-Men]], and attacked the conspirators, throwing Tiger Shark into one of Attuma’s war machines. As Dorcas was able to fire a lethal blast from his hand weapon at Namor, the machine toppled on top of Dorcas and crushed him to death.{{r|Super-Villain Team-Up #1|3}}
+
+===Return===
+Prior to being crushed by Namor, Dorcas injected himself with regenerative starfish tissue that allowed him to heal, saving his life but mutating his appearance significantly. Since his supposed death, he had developed a strong obsession towards [[Thunderbolts (Earth-616)|Thunderbolts]] member [[Melissa Gold (Earth-616)|Songbird]] and kidnapped her while she was on vacation in [[Tahiti]] in hopes of restoring her vocal chords so that he could hear them and later use her powers to kill Namor.
+
+His plans quickly fell apart though when Songbird used her newly returned powers to influence one of Dorcas' henchmen into freeing her. She then turned his other henchmen against him.{{r|Thunderbolts #171}} 
+
+| Powers                  = Fish like powers, including super strength, underwater breathing, regenerative abilities, etc.
+| Abilities               = Lemuel is an expert biologist, specializing in marine life.
+| Strength                = Normal human male with regular exercise.
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = Various submarines.
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[ru:Лемюэль Доркас]]
+[[Category:Scientists]]
+[[Category:Geneticists]]
+[[Category:Doctor Dorcas Experiment]]
+[[Category:Human/Animal Hybrids]]
+[[Category:Underwater Breathing]]
+[[Category:Superhuman Strength]]
+[[Category:Regeneration]]
+[[Category:Criminals]]

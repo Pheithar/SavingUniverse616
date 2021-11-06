@@ -1,0 +1,72 @@
+{{Marvel Database:Character Template
+| Image                   = Ann Darnell (Earth-616) from Amazing Spider-Man Vol 5 76 001.jpg
+| Name                    = [[Ann Darnell]]
+| CurrentAlias            = Vapor
+| Aliases                 = 
+
+| Affiliation             = {{m|U-Foes}}, {{m|Alpha Flight (Space Program)|Alpha Flight Space Program}}; formerly {{m|Army of Evil (Earth-616)|Army of Evil}}, ([[North Carolina (State)|North Carolina]] {{m|50-State Initiative (Earth-616)|Initiative}}/{{M|Hood's Gang (Earth-616)|Hood's Gang}}), {{m|Femizons}}, {{m|Thunderbolts}}
+| Siblings                = [[James Darnell (Earth-616)|James Darnell (X-Ray)]] (brother)
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 5'6" 
+| Weight                  = 122 lbs (Ann Darnell); 0 lbs. (Vapor)
+| Eyes                    = Green; White (when using her powers)
+| Hair                    = Brown 
+| UnusualFeatures         = When in gaseous form, eyes are white.
+
+| Origin                  = [[Homo sapiens|Human]] [[Glossary:Mutate|mutated]] from cosmic ray exposure
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Criminal; (formerly) life support technologist, engineer, inventor, physicist
+
+| Education               = 
+| BaseOfOperations        = Mobile
+
+| Creators                = Bill Mantlo; Sal Buscema
+| First                   = Incredible Hulk #254
+
+| History                 = 
+Alongside her brother [[James Darnell (Earth-616)|Jimmy]], Ann joined millionaire [[Simon Utrecht (Earth-616)|Simon Utrecht]] and pilot [[Michael Steel (Earth-616)|Mike Steel]] in an experiment to simulate the crash that gave the [[Fantastic Four (Earth-616)|Fantastic Four]] their powers. Ann joined the group as she wished for more than merely fame, she desired great power. Aboard the unshielded spacecraft, the group located the cosmic storm area. Suddenly, they were bombarded with cosmic rays, and the turbulence caused Ann to stumble back into the life-support cylinders. Both her mask and the cylinders cracked, with a mixture of gases seeping into her lungs. The four were quickly rescued by [[Bruce Banner (Earth-616)|Bruce Banner]], who had witnessed the expedition. The ship crashed to Earth and the [[U-Foes (Earth-616)|U-Foes]] emerged.
+
+Now calling herself Vapor, Ann attacked Banner when he revealed he had been the one to return their spaceship. Soon, however, the U-Foes discovered that Banner was really the Incredible Hulk. After her teammates failed to defeat the Hulk, Vapor started to suffocate him, gloating as he was unable to hurt her physically. However, when Vector joined in the battle, he unintentionally deflected Vapor from the superhero and into her brother, X-Ray, causing Vapor's hydrogen form to light ablaze with fire. Her teammates attempted to save her, but she managed to regain her physical form and put out the fire herself.
+
+Before the U-Foes could continue their battle with the Hulk, they started to lose control over their new powers. Vapor's physical body reverted back to mist and her atoms started to dissipate. In a last ditch effort, Vapor attempted to help Vector, but his powers deflected her and scattered her to the wind.{{r|Incredible Hulk #254}}
+
+Alongside her teammates, she has had encounters with heroes including [[Bruce Banner (Earth-616)|Hulk]], the [[Avengers (Earth-616)|Avengers]], [[Peter Parker (Earth-616)|Spider-Man]], [[Crossfire]], [[Thomas Fireheart (Earth-616)|Puma]], [[Christopher Powell (Earth-616)|Darkhawk]], and [[Charles Little Sky (Earth-616)|Portal]].{{r|Avengers #304}}{{r|Darkhawk #6}}{{r|Spider-Man: Breakout #1}}
+
+During the Acts of Vengeance, Vapor attempted to kill the [[Wanda Maximoff (Earth-616)|Scarlet Witch]].{{r|Avengers: West Coast #53}}
+
+Vapor and the other U-Foes were recently recruited to serve [[Norman Osborn (Earth-616)|Norman Osborn]] in his scheming, and have since joined the [[Hood's Gang (Earth-616)|Hood's Gang]]. This arrangement ended after Norman Osborn fell from power following his attack on [[Asgard (City)|Asgard]].{{Citation}}
+
+| Powers                  = Vapor's body has been bombarded with cosmic rays far greater then that of the [[Susan Storm (Earth-616)|Invisible Woman]], since then her brother [[James Darnell (Earth-616)|X-Ray]] has once more bathed her in cosmic rays so as to achieve better control over her gas-like form.
+
+'''Gaseous Form:''' Vapor's body is that of living gas(es). She is mostly invulnerable to physical harm, although she can still be harmed by unconventional attacks. 
+
+* '''Gaseous Form Manipulation:''' Vapor is capable of transforming her body into any type of naturally occurring gas, either a pure element or with complex compounds including mono-molecular mists. She has once accidentally melted the skin of her teammate Ironclad. She can only achieve a human state again temporarily.
+
+* '''Flight:''' She can float and move through air molecules allowing her to fly, at speeds unknown.
+
+| Abilities               = Engineering, physics.
+
+| Strength                = Vapor has the normal human strength of a woman of her age, height, and build who engages in moderate physical exercise in her human form. In her gaseous form, she cannot lift anything.
+
+| Weaknesses              = She is vulnerable to any chemical interaction that would affect the chemical-form she is currently in. On one occasion, the Hulk defeated her by spraying her with oxygen while she had taken the form of hydrogen, turning her into water. While generally immune to physical harm, she could still be harmed by different types of energy, such as Storm's and Thor's winds and lightning, or the sonic booms the Hulk produces by clapping his hands together, and even X-Ray's radiation.
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+* Vapor is the older sister of X-Ray, much like [[Susan Storm (Earth-616)|Invisible Woman]] is the older sister of the [[Jonathan Storm (Earth-616)|Human Torch]].
+| Links                   = * http://en.wikipedia.org/wiki/Vapor_(comics)
+* http://www.marvel.com/universe/Vapor
+}}
+[[Category:Flight]]
+[[Category:Poisonous]]
+[[Category:Shapeshifters]]
+[[Category:Gaseous Form]]

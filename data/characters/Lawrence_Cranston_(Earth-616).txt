@@ -1,0 +1,60 @@
+{{Marvel Database:Character Template
+| Image                   = Lawrence Cranston (Earth-616) as Mister Fear.jpg
+| Name                    = [[Lawrence Cranston|Lawrence "Larry" Cranston]]
+| CurrentAlias            = Mister Fear
+| Aliases                 = Harold Cranstone
+
+| Affiliation             = {{m|Thunderbolts (Earth-616)|Fisk's Thunderbolts}}; [[Charles Boroughs]], [[Gladiator]], [[Insomnia]], and [[Molten Man]] were all used by Cranston; Formerly {{M|Broderick, Sloan and Cranston (Earth-616)|Broderick, Sloan and Cranston}}
+| Relatives               = [[Mister Fear (Alan Fagan)|Alan Fagan]] (nephew),
+[[Ariel Tremmore (Earth-616)|Ariel Tremmore]] (Grandniece)
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 5'10" 
+| Weight                  = 150 lbs. 
+| Eyes                    = Blue
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = Professional criminal, lawyer, university professor
+| Education               = Law degree
+| BaseOfOperations        = 
+
+| Creators                = Gerry Conway; Gene Colan
+| First                   = Daredevil #88
+| First2                  = {{g|as Lawrence Cranston}}<br>{{sld|Daredevil #90}}{{g|as Mister Fear}}
+
+| History                 = Cranston was staying in a hotel room across the hall from [[Zoltan Drago (Earth-616)|Zoltan Drago]], the original Mister Fear.  His hatred for [[Matthew Murdock (Earth-616)|Matt Murdock]] stemmed from being defeated by him in a mock trial in Law School, and he had suspected Matt of being Daredevil for awhile when [[Starr Saxon]] died.{{r|Daredevil Vol 1 #91}} Using his law savvy, he pretended to be a relative of Saxon to gain access to the Mister Fear costume and equipment.  
+
+His suspicions were confirmed when both Matt Murdock and Daredevil moved back to [[San Francisco]], and he convinced his partners at his law firm (Broderick, Sloan and Cranston) to hire Matt.  When attacked at the firm, Matt unmasked Cranston, who leapt off the building to escape, forgetting his jets and seemingly falling to his death.{{r|Daredevil Vol 1 #91}}
+
+It would later be revealed that Cranston survived and secretly lived as a professor at Columbia Law School as Harold Cranstone.  Using the fear gas to take silent revenge on his colleagues, he later kidnapped [[Benjamin Urich (Earth-616)|Ben Urich]] to ensnare Daredevil in a trap.  He was defeated and escaped back into his alternate life as a professor, secretly sending agents like [[Insomnia (Earth-616)|Insomnia]] and [[Wylie Lemmick (Earth-616)|Gladiator]] to attack Daredevil.  Eventually sending [[Charles Boroughs (Earth-616)|Charles Boroughs]] on a killing spree directed at [[Karen Page (Earth-616)|Karen Page]] until she was forced to kill him in self-defense.  
+
+Matt eventually linked Boroughs' death back to Mister Fear, but was never able to expose his dual identity.
+
+Mr. Fear is a costumed villain selected by the [[Wilson Fisk (Earth-616)|Kingpin]] to be part of his [[Thunderbolts (Earth-616)|Thunderbolts]] team.
+
+| Powers                  = 
+
+| Abilities               = 
+
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = * '''[[Fear Gas]]:''' Mister Fear uses compounds based on pheromones, chemicals produced by most animals, used to communicate a variety of simple messages over distances. The particular pheromone he uses is the flight-scent pheromone, which stimulates fear reactions in herd animals. This drug, tailored for human beings, whose reactions to pheromones are not completely understood, induces severe anxiety, fear, and panic in his victims, rendering them incapable of fighting or resisting his will. The drug is most commonly used in the form of gas pellets shot from a gun. The pellets rupture on contact, releasing the flight scent, which is inhaled by the victim. The dosage contained in one pellet is enough to incapacitate a normal adult male for about 15 minutes, or an exceptionally fit male, such as Daredevil, for about five minutes. The side effects of anxiety, edginess, and mild nausea can persist for several days. 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * http://www.marvel.com/universe/Mister_Fear_(Larry_Cranston)
+* http://en.wikipedia.org/wiki/Mister_Fear#Larry_Cranston
+}}
+[[Category:Crimelords]]

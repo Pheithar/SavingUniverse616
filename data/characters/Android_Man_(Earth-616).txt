@@ -1,0 +1,63 @@
+{{Marvel Database:Character Template
+| Image                   = Android Man (Earth-616) from Fantastic Four Vol 1 79 0001.jpg
+| Name                    = 
+| CurrentAlias            = Android Man
+| Aliases                 = The Super-Android
+
+| Affiliation             = 
+| Relatives               = The [[Mad Thinker (Julius) (Earth-616)|Mad Thinker]] (Creator)
+| MaritalStatus           = 
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #1}}
+| Gender                  = Male
+| Height                  = 6'4"
+| Weight                  = 400 lbs
+| Eyes                    = Red
+| Hair                    = Green
+| UnusualFeatures         = 
+
+| Origin                  = [[Androids|Android]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = The [[Baxter Building]], [[Manhattan]], [[New York (State)|New York]] 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Agent of the [[Mad Thinker (Julius) (Earth-616)|Mad Thinker]] 
+| Education               = 
+| BaseOfOperations        = [[Manhattan]], [[New York (State)|New York]]
+
+| Creators                = Stan Lee; Jack Kirby
+| First                   = Fantastic Four #79
+| Death                   = Fantastic Four: World's Greatest Comics Magazine #1
+
+| History                 = The Android Man was created by the [[Mad Thinker (Julius) (Earth-616)|Mad Thinker]],{{r|Fantastic Four #79}} presumably as a failsafe in case he was betrayed by his sometime ally, the [[Bentley Wittman (Earth-616)|Wizard]].
+
+A group of policemen found one of the Mad Thinker's hideouts. In an effort to catalogue and impound all of his equipment, they opened a box labeled "Don't Open in Room Temperature." Seconds later, the contents of the box, the Android Man, was activated by the ambient heat in the room. Quickly overpowering the police officers, he attempted to follow his programming by tracking the signal given off by the [[Wizard's Wonder Gloves]] and to destroy the one who possessed them. At this time, the gloves were in the possession of [[Benjamin Grimm (Earth-616)|Ben Grimm]], who had recently reverted to his human form and was on a lunch date with his girlfriend, [[Alicia Masters (Earth-616)|Alicia Masters]]. The Android Man leapt through the restaurant window and attacked the pair. Unable to understand what was going on, the blind Alicia was still holding the gloves when the Android Man grabbed her. Ben came to her defense, but despite his superb fighting skills, he was no match for the Android Man.{{r|Fantastic Four #79}}
+
+Ben quickly realized that his only chance to stop the Android Man was to become the Thing again. He had been warned by [[Reed Richards (Earth-616)|Reed Richards]] that if he ever changed back, he would be trapped as the Thing forever. Nonetheless, Ben used the Wonder Gloves to send a jolt of energy through himself, becoming the Thing again. The Android Man was no match for the Thing, who incapacitated it with two blows.{{r|Fantastic Four #79}} Reed Richards had the Android Man's lifeless form brought to the [[Baxter Building]] for analysis.
+
+Sometime later, the [[Enclave]], aided by [[Victor von Doom (Earth-616)|Doctor Doom]]'s Robot Guards, raided the Baxter Building and reactivated the Android Man. As the Super-Android, it attacked the [[Fantastic Four (Earth-616)|Fantastic Four]] when they returned home. The Android Man held its own against their combined power for a brief time, until the Invisible Girl destroyed it by forming an invisible force field within its form and gradually expanding it until it exploded from the pressure. {{r|Fantastic Four: World's Greatest Comics Magazine #1}}
+
+The Android-Man, or a replica thereof, was later seen in the collection of the [[Reanimator (Earth-616)|Reanimator]]. {{r|Wolverine Vol 2 #149}}
+
+| Powers                  = ;Durability: The Android Man possessed superhuman durability (He was bulletproof).{{r|Fantastic Four #79}}
+
+;Tracking: The Android Man possessed the ability to sense and track the energies emitted by the [[Wizard's Wonder Gloves]].{{r|Fantastic Four #79}}
+
+| Abilities               = 
+| Strength                = The Android Man possessed superhuman strength in the Class 10 to Class 25 range.
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   =
+| Trivia                  = The Android Man was apparently kept dormant in cold and activated by heat. He gave off some degree of heat, though it was not apparently an offensive ability.{{r|Fantastic Four #79}}
+| Links                   = 
+*http://www.marvunapp.com/Appendix//androidman.htm
+}}
+
+
+----

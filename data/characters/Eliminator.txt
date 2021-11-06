@@ -1,0 +1,6 @@
+{{DisambiguationFull
+| New Header1      = Eliminator
+| New Header1_1    = [[Eliminator (Earth-616)|Eliminator]]; Eliminator_(Earth-616)_from_Fantastic_Four_Vol_1_184_0001.jpg 
+| New Header1_2    = [[Rick Pearson (Earth-93060)|Eliminator (Rick Pearson)]]; Rick Pearson (Earth-93060) from Ultraverse Premiere Vol 1 11 001.png
+
+}}

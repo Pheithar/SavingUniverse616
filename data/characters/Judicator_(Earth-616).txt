@@ -1,0 +1,55 @@
+{{Marvel Database:Character Template
+| Image                   = Judicator (Earth-616) from All-New Guardians of the Galaxy Vol 1 10 001.png
+| Name                    = Judicator 
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{M|Elders of the Universe (Earth-616)|Elders of the Universe}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = White 
+| Eyes2                   = (no irises or pupils)
+| Hair                    = Red
+| UnusualSkinColor        = Yellow
+| UnusualFeatures         = 
+
+| Origin                  = [[Alien]], [[Elder of the Universe]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Lawgiver
+| Education               = 
+| BaseOfOperations        = Mobile
+
+| Creators                = Mark Gruenwald; Andy Smith; Ralph Cabrera
+| First                   = Quasar Vol 1 47
+
+| History                 = The Judicator seeks out new, unique disputes and crimes to adjudicate, including among fellow Elders.
+
+<!-- .{{r|Quasar Vol 1 47}} -->
+
+===Contest of Champions===
+The Judicator took part in a contest of champions between the [[Elders of the Universe (Earth-616)|Elders of the Universe]] to decide who would keep the [[Neutronium|Iso-8]] that was now abundant after the rebirth of the multiverse, her champions lost and she was eliminated from the contest.{{r|Contest of Champions Vol 1 6}}
+
+| Powers                  = Judicator has the ability to teleport over great distances. She also has the power to dispel illusions. Judicator is immortal, like the other Elders, and immune to the effects of aging or disease. Judicator is able to survive in space unaided. 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * http://www.marvunapp.com/Appendix2/judicatorelder.htm
+}}

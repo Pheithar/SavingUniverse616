@@ -1,0 +1,162 @@
+{{Marvel Database:Character Template
+| Image                   = Superior Foes of Spider-Man Vol 1 5 Textless.jpg
+| Name                    = [[Frederick Myers|Frederick "Fred" Myers]]
+| NameRef                 = {{r|Official Handbook of the Marvel Universe A-Z Update Vol 1 5}}
+| CurrentAlias            = [[Boomerang]]
+| CurrentAliasRef         = {{r|Tales to Astonish Vol 1 81}}
+| Codenames               = [[Outback]]{{r|Avengers: The Initiative Vol 1 28}}
+| Nicknames               = Boomer{{r|She-Hulk Vol 2 1}}
+| Aliases                 = [[Fred Slade]]{{r|Peter Parker, The Spectacular Spider-Man Vol 1 73}}{{r|Official Handbook of the Marvel Universe A-Z Update Vol 1 5}}
+
+| Affiliation             = Ally of [[Peter Parker (Earth-616)|Spider-Man]]; Formerly {{m|Black Cat's Gang (Earth-616)|Black Cat's Criminal Army}}, Leader of the {{m|Sinister Six (Earth-616)|Sinister Six}}, {{m|Hood's Gang (Earth-616)|Hood's gang}}, {{m|Radically Advanced Ideas in Destruction (Earth-616)|R.A.I.D.}}, {{m|Thunderbolts (Earth-616)|Thunderbolts Army}}, {{m|Heavy Hitters (Earth-616)|Heavy Hitters}} ([[Nevada (State)|Nevada]] {{m|50-State Initiative (Earth-616)|Initiative}}), {{m|Masters of Evil (Earth-616)|Masters of Evil}}, "B-Team", {{m|Sinister Syndicate (Earth-616)|Sinister Syndicate}}; Former employee of the {{m|Secret Empire (Earth-616)|Secret Empire}}; ally of [[Ophelia Sarkissian (Earth-616)|Viper]] and [[Keniuchio Harada (Earth-616)|Silver Samurai]]; employee of the [[Wilson Fisk (Earth-616)|Kingpin]], {{m|Sinister Twelve (Earth-616)|Sinister Twelve}}, {{m|Assassins Guild (Earth-616)|Assassins Guild}}, {{m|Radically Advanced Ideas in Destruction (Earth-616)|R.A.I.D.}}, {{m|Defenders (Villains) (Earth-616)|Defenders (Villains)}}, {{m|Villains Anonymous (Earth-616)|Villains Anonymous}}
+| Parents                 = Unidentified parents
+| Spouses                 = Unidentified wife (separated)
+| Relatives               = [[William Baker (Earth-616)|William Baker]] (cousin-in-law);<br>
+[[Keemia Alvarado (Earth-616)|Keemia Alvarado]] (cousin-in-law)
+| MaritalStatus           = Separated
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z Update Vol 1 5}}
+| Gender                  = Male
+| Height                  = 5'11"
+| Weight                  = 175 lbs
+| Eyes                    = Brown 
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]<br>A former baseball player, Fred Myers became a criminal after being suspended from the game. 
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Alice Springs (City)|Alice Springs]], [[Northern Territory (Australia)|Northern Territory]], [[Australia]] 
+
+| Identity                = Public
+| Citizenship             = American, Australian
+| Occupation              = Adventurer, vigilante; former professional criminal, assassin, terrorist, trail guide, baseball pitcher
+| Education               = High school graduate
+| BaseOfOperations        = [[Manhattan]], [[New York City]], [[New York (State)|New York]]
+
+| Creators                = Stan Lee; Jack Kirby
+| First                   = Tales to Astonish Vol 1 81
+| Death                   = Sinister War Vol 1 4
+
+| Quotation              = I told [[Secret Empire (Earth-616)|them]] I was born in [[Australia]], so they made me boomerang. This is why the whole [[Earth|world]] hates you, by the way. An entire nation boiled down to what you can remember from that time you got high and watched [[wikipedia:Crocodile Dundee|Crocodile Dundee]]. Guess I should be glad I didn't end up some kinda [[Kangaroos|kangaroo]] guy.
+| Speaker                 = [[Frederick Myers (Earth-616)|Boomerang]]
+| QuoteSource             = Superior Foes of Spider-Man Vol 1 1
+
+| History                 = 
+===Early life===
+Fred Myers was born in [[Australia]] but moved to [[United States of America|America]] when he was a small child. In America, his great love was baseball and he developed an extraordinary pitching arm. He became a professional baseball player in the minor leagues after graduating high school, and a few years later entered the major leagues. Within a year he was suspended for accepting bribes. Embittered, he was eventually contracted by the subversive criminal organization, the [[Secret Empire (Earth-616)|Secret Empire]], and offered employment.{{r|Superior Foes of Spider-Man Vol 1 1}}
+
+===Boomerang===
+They designed special weaponry for him to exploit his pitching ability and he became their special operative, code-named Boomerang.{{r|Tales to Astonish #81}} One of the first heroes he battled was the [[Bruce Banner (Earth-616)|Hulk]].{{r|Tales to Astonish #82|84}}{{r|Tales to Astonish #86|88}}
+
+When the Secret Empire crumbled, Boomerang went to Australia to hide out and recuperate. There he incessantly practiced the art of throwing and decided to become a freelance assassin. Obtaining a new arsenal of weapons designed and financed by underworld financier [[Justin Hammer (Earth-616)|Justin Hammer]], Boomerang came back to America to pursue his criminal ambitions. His first mission was to assassinate [[Daniel Rand (Earth-616)|Iron Fist]], though he was defeated.{{r|Iron Fist #11}}{{r|Iron Fist #13}}
+
+He was next hired as part of the [[Defenders (Villains) (Earth-616)|Evil Defenders]], employed by [[Libra (LMD) (Earth-616)|Libra]] to battle the [[Defenders (Earth-616)|Defenders]].{{r|Defenders Vol 1 64}}
+
+He was hired by [[Ophelia Sarkissian (Earth-616)|Viper]] to participate in a plot against [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]], and battled [[Peter Parker (Earth-616)|Spider-Man]], [[Nicholas Fury (Earth-616)|Nick Fury]], [[Shang-Chi (Earth-616)|Shang-Chi]], and the [[Natalia Romanova (Earth-616)|Black Widow]].{{r|Marvel Team-Up #83|85}}
+
+[[File:Frederick Myers (Earth-616) from Tales to Astonish Vol 1 87 0001.jpg|thumb|left|3rd uniform]]
+
+Boomerang tried to kill Spider-Man to impress the [[Wilson Fisk (Earth-616)|Kingpin]] and hopefully work for him; however, he was defeated and arrested.{{r|Peter Parker, The Spectacular Spider-Man #67}}{{r|Peter Parker, The Spectacular Spider-Man #73}}{{r|Peter Parker, The Spectacular Spider-Man #78|79}} Myers later helped the [[Frank Castle (Earth-616)|Punisher]] escape from prison, but was betrayed by the Punisher and re-captured.{{r|Peter Parker, The Spectacular Spider-Man #81}} Afterward, Myers was released and hired by [[Max Stryker (Earth-616)|Max Stryker]] to get Dr. Bruce Banner's gamma ray to cure his cancer, but wound up battling the Hulk again.{{r|Incredible Hulk #294|295}}
+
+===Sinister Syndicate===
+Boomerang later joined the supervillain team the [[Sinister Syndicate (Earth-616)|Sinister Syndicate]]. The team clashed with the hero Spider-Man and the mercenary [[Silvija Sablinova (Earth-616)|Silver Sable]] when they were hired by the villain [[Jason Macendale Jr. (Earth-616)|Jack O'Lantern]], who the pair were hunting at the time.{{r|Amazing Spider-Man #280}} Although Boomerang was easily overpowered by Silver Sable, the Syndicate defeated the duo and were about to finish them off when they were interrupted by the reformed villain [[Flint Marko (Earth-616)|Sandman]], who helped the pair defeat the Syndicate. The Syndicate were seldom seen together afterwards, and eventually disbanded.{{r|Amazing Spider-Man #281}} 
+
+Boomerang also engaged in solo criminal operations in [[San Diego]], where he was again defeated by Spider-Man.{{r|Spectacular Spider-Man #144|145}}
+
+He then battled [[Clinton Barton (Earth-616)|Hawkeye]] under the order of a disguised [[Loki Laufeyson (Earth-616)|Loki]].{{r|Avengers Spotlight #27}}
+
+Boomerang, along with [[Marco Scarlotti (Earth-616)|Blacklash]] and the second [[Donald Gill (Earth-616)|Blizzard]] were guarding the grounds of one of Justin Hammer's front companies in [[Rome (Italy)|Rome]], [[Electronica Fabrizzi]] when [[Ghost (Earth-616)|Ghost]], and later [[Anthony Stark (Earth-616)|Iron Man]], easily dispatched them.{{r|Iron Man #239|240}} He was also employed by Hammer to battle [[Elias Wirtham (Earth-616)|Cardiac]] and Spider-Man.{{r|Amazing Spider-Man #345}}
+
+The Sinister Syndicate went on a crime spree and Boomerang fought with [[James Sanders (Earth-616)|Speed Demon]] over [[Leila Davis (Earth-616)|Leila Davis]].{{r|Deadly Foes of Spider-Man #1|4}}
+
+Boomerang and the Syndicate were among the mercenaries provided by Justin Hammer to assist the [[Anath-Na Mut (Earth-616)|Sphinx]] in his endeavors. They battled Spider-Man and the [[New Warriors (Earth-616)|New Warriors]].{{r|Spectacular Spider-Man Annual #12}}{{r|Web of Spider-Man Annual #8}}
+
+Boomerang was among various other criminals to witness [[Steven Rogers (Earth-616)|Captain America]] disguised as [[Brock Rumlow (Earth-616)|Crossbones]] battle [[Georges Batroc (Earth-616)|Batroc the Leaper]].{{r|Captain America #411|413}}
+
+===Masters of Evil===
+Boomerang joined the [[Masters of Evil (Earth-616)|Masters of Evil]] during the [[Justine Hammer (Earth-616)|Crimson Cowl]]'s weather control scheme.{{r|Thunderbolts #24}}
+
+===Daredevil===
+Boomerang was among several of the hired killers who responded to an open bounty on [[Matthew Murdock (Earth-616)|Matt Murdock]] that was put out by [[Samuel Silke, Jr. (Earth-616)|Samuel Silke, Jr.]] as part of an elaborate plan to usurp the Kingpin's empire. After defeating [[J. R. Walker (Earth-616)|Shotgun]], Daredevil detected Myers on an adjacent rooftop. Boomerang in hand, Myers hesitated when he realized Daredevil had discovered him, and then runs away. Daredevil followed, beat, and threatened him when he found the picture of Matt Murdock in Myers' pocket. Myers subsequently tried to sue Murdock for $1,000,000 over the beating.{{r|Daredevil Vol 2 #28}}
+
+===R.A.I.D. ===
+He later joined an army of super-villains hired by [[Radically Advanced Ideas in Destruction (Earth-616)|R.A.I.D.]] as part of a terrorist plot against the city of [[London (England)|London]].{{r|Union Jack Vol 2 1}} He was teamed with [[Russell Broxtel (Earth-616)|Firebrand]] and tasked with destroying Heathrow Airport, though they were defeated through the efforts of the [[Navid Hashim (Earth-616)|Arabian Knight]] and [[Valentina Allegra de Fontaine (Earth-616)|Contessa Valentina Allegra de Fontaine]]. The villains, however, did give R.A.I.D. agents enough time to hijack a plane to use as part of their terrorist plot, but it was soon rescued by [[Joseph Chapman (Earth-616)|Union Jack]] and [[Ruth Bat-Seraph (Earth-616)|Sabra]].{{r|Union Jack Vol 2 2}}
+
+===Secret War===
+Myers was among the technologically-based super-villains who were having their weapons enhanced by [[Lucia von Bardas (Earth-616)|Lucia von Bardas]] and was among the group that she assembled to assassinate the superheroes involved in Nick Fury's [[Secret War]].{{r|Secret War Vol 1 5}}
+
+===Civil War===
+After the [[Superhuman Registration Act]] was passed, Boomerang and the Sinister Syndicate were on the run from [[James Rhodes (Earth-616)|War Machine]] and [[Melati Kusuma (Earth-616)|Komodo]]. Although they escaped, the villains were soon caught by the [[Scarlet Spiders (Earth-616)|Scarlet Spiders]].{{r|Avengers: The Initiative #3}}
+
+===The Initiative===
+After the events of the [[Secret Invasion]], Fred joined [[Norman Osborn (Earth-616)|Norman Osborn]]'s corrupt [[50-State Initiative (Earth-616)|Initiative]] and became a superhero in the service of the law with the alias of "Outback". He was outed as a criminal and punched in the face on TV by [[Richard Gilmore (Earth-616)|Prodigy]].{{r|Avengers: The Initiative #28}}
+
+===Jackpot===
+Myers was hired by the [[Phillip Hayes (Earth-616)|Rose]] and came into conflict with [[Sara Ehret (Earth-616)|Jackpot]], and learned her true identity.{{r|Amazing Spider-Man Presents: Jackpot #1}} He tracked her down to her home and killed her husband in front of her and her daughter.{{r|Amazing Spider-Man Presents: Jackpot #2|3}}
+
+===Assassins' Guild===
+Boomerang appeared later as a member of [[Bella Donna Boudreaux (Earth-616)|Bella Donna Boudreaux]]'s [[Assassins Guild (Earth-616)|Assassins Guild]] and confronted [[James Howlett (Earth-616)|Wolverine]], [[Neena Thurman (Earth-616)|Domino]], and [[X-Force (Strike Team) (Earth-616)|X-Force]].{{r|{{cl|X-Force: Sex and Violence Vol 1 #2}}-[[X-Force: Sex and Violence Vol 1 3|3]]}}
+
+===Thunderbolts===
+Boomerang joined the [[Thunderbolts (Earth-616)|Thunderbolts Army]].{{r|Thunderbolts #156|162}}
+
+He escaped together with several other inmates who were members of the Thunderbolts. Due to a failure of the teleportation technology of their tower (caused by [[Theodore Sallis (Earth-616)|Man-Thing]]), the tower began to move in time as well as in space. They ended up in [[World War II]] teaming up with the [[Invaders (WWII) (Earth-616)|Invaders]] to battle the [[National Socialist German Workers Party (Earth-616)|Nazis]] .{{r|Thunderbolts #163.1|165}} They next end up in Victorian [[London (England)|London]].{{r|Thunderbolts #166|168}} They go even further back in time ending up in [[Arthur Pendragon (Earth-616)|King Arthur]]'s court in [[Camelot]].{{r|Thunderbolts #169}}
+
+They eventually bounced back to the time of the original [[Heinrich Zemo (Earth-616)|Zemo]]-lead Thunderbolts team.{{r|Thunderbolts #170|172}} After the [[Norbert Ebersol (Earth-616)|Fixer]] killed his younger self, this began to cause a collapse in reality which forced Fixer to assume his younger self's place. He returned to the future with the rest of the Thunderbolts.{{r|Thunderbolts #173|174}}{{r|Dark Avengers #176|183}}
+
+===Sinister Six===
+He recently assembled his own [[Sinister Six (Earth-616)|Sinister Six]] line-up, but they were defeated by [[Otto Octavius (Earth-616)|Spider-Man]].{{r|Superior Spider-Man #1}}{{r|Superior Spider-Man #9}}{{r|Superior Spider-Man #11|13}}{{r|Superior Foes of Spider-Man #1|6}}{{r|Superior Spider-Man Team-Up #6}}{{r|Superior Foes of Spider-Man #8|9}} He later attended a support group called Supervillains Anonymous that was held at a church and also attended by [[Maxwell Markham (Earth-616)|Grizzly]], [[Consultant (Earth-616)|Hippo]], [[Roger Gocking (Earth-616)|Porcupine]], [[Lester Verde (Earth-616)|Dr. Bong]], [[Norton Fester (Earth-616)|Looter]], and [[Mirage]].{{r|Superior Foes of Spider-Man #11|17}}{{r|Amazing Spider-Man Vol 3 #6}}
+
+===Search for the Lifeline Tablet===
+When [[Hydra (Earth-616)|Hydra]] took over the United States, Boomerang took advantage of the chaos to build a small but considerable criminal empire in [[Newark (New Jersey)|Newark]]. During this time, Fred helped the resistance of heroes against Hydra.{{r|Secret Empire Vol 1 3}} After Hydra was overthrown, Myers cashed in on those favors and gained complete pardon of every crime he had committed.{{r|Amazing Spider-Man Vol 5 6}} This also allowed Fred to build up an unearned reputation as a hero.{{r|Amazing Spider-Man Vol 5 41}} Not long afterward, Boomerang was hired by the Kingpin, who had become Major of New York, to retrieve the scattered pieces of the [[Lifeline Tablet]]. As part of his ploy, Fisk had tricked an archivist for the Department of Records, a man named [[Gus Mapleton (Earth-616)|Gus Mapleton]], into misguidedly entrusting Fred with magical knowledge of the location of every piece. After learning that Mapleton had enchanted the final piece so trying to secure it would be fatal unless the person was a true and selfless hero, Myers broke his deal with Fisk.
+
+[[File:Amazing Spider-Man Vol 5 41 Textless.jpg|thumb|left|Back-to-back with Spider-Man]]
+
+Boomerang decided to go around the enchantment by enlisting the help of Spider-Man. While figuring out how to approach the hero, Fred came across an ad by Peter Parker, Spider-Man's secret alter-ego, looking for a roommate. Due to the popular notion that Peter Parker and Spider-Man were friends, Fred decided to become Peter's roommate to get close to Spider-Man.{{r|Giant-Size Amazing Spider-Man: King's Ransom Vol 1 1}} Despite Peter's initial repulsion towards Myers due to his reputation and behavior as a roommate, he eventually gave Myers a second chance after Fred saved his life during a supervillain skirmish.{{r|Amazing Spider-Man Vol 5 6}} Boomerang eventually became involved with Spider-Man and, once the hero grew to like Myers after several offbeat team-ups, Fred shared with him a distorted version of the reason he was looking for the tablet, claiming to be after it to keep it from Kingpin's hands out of the goodness of his heart. The two started searching for the pieces together,{{r|Amazing Spider-Man Vol 5 41}} and eventually gathered most of them, adopting in the process the guardian of the final piece, [[Gog (Tsiln) (Earth-616)|Gog]], as their house pet.{{r|Amazing Spider-Man Vol 5 43}} Despite the ulterior motive behind his partnership with Spider-Man, Myers would come to genuinely appreciate his bond with both the hero and his secret identity.{{r|Giant-Size Amazing Spider-Man: King's Ransom Vol 1 1}}
+
+After the Kingpin enlisted the help of numerous crime bosses to get to him,{{r|Amazing Spider-Man Vol 5 61}} Fred decided to look for the final piece of the tablet.{{r|Amazing Spider-Man Vol 5 64}} After being attacked by the [[Boomerang Revenge Squad (Earth-616)|Boomerang Revenge Squad]], a mock-super villain team part of Fred's plan, Spider-Man and Boomerang reached the final piece. As soon as Spider-Man was vetted by the spell and secured the piece, the Boomerang Revenge Squad ambushed the web-slinger and knocked him out while Fred escaped with all the pieces and handed them over to Fisk. Leaving a note behind, Fred apologized to Spider-Man for the deception.{{r|Giant-Size Amazing Spider-Man: King's Ransom Vol 1 1}}
+
+[[File:Frederick Myers (Earth-616), Morlun (Earth-001) and Peter Parker (Earth-616) from Sinister War Vol 1 4 001.jpg|thumb|230px|right|Boomerang's ultimate sacrifice]]
+
+When the demonic Kindred twins, [[Sarah Stacy (Earth-616)|Sarah]] and [[Gabriel Stacy (Earth-616)|Gabriel Stacy]], enacted their final attack against Spider-Man, they kidnapped an army of super villains, including Boomerang and his accomplices. The villains were forced to participate in a battle royale for the hero's head.{{r|Sinister War Vol 1 2}} Still remorseful for betraying the hero, Fred provided him a smokescreen to evade the other participants.{{r|Sinister War Vol 1 3}} When the vampiric [[Morlun (Earth-001)|Morlun]] caught Spider-Man and began to feed on his life force, Boomerang tackled the hero's attacker to save his life. In retaliation, Morlun fed on Boomerang instead and tossed aside his withered body. Fred's sacrifice spurred on his villain friends and even Beetle to instead help Spider-Man against the rest of the villains until the contest was abruptly ended by Doctor Octopus.{{r|Sinister War Vol 1 4}}
+
+| Powers                  = 
+
+| Abilities               = Boomerang is an expert pitcher whose accuracy has few rivals.{{r|Official Handbook of the Marvel Universe A-Z Update #5}}{{r|Dark Reign Files #1}}{{r|Official Handbook of the Marvel Universe Master Edition #5}}{{r|Official Handbook of the Marvel Universe Vol 2 #12}}{{r|Official Handbook of the Marvel Universe Vol 2 #2}}
+| Strength                = Boomerang possesses the normal human strength of a man of his age, height, and build who engages in intensive regular exercise.
+| Weaknesses              = 
+
+| Equipment               = '''Costume:''' Boomerang's costume contains a wide variety of hidden pockets and pouches for his smaller, specialized boomerangs, in addition to attachments for securing the seven larger primary boomerangs. <br>
+*'''Light body armor:''' Boomerangs costume acts as light body armor.
+*'''Boot Jets:''' Boomerang's costume is equipped with boot jets which are mentally commanded using cybernetic circuitry built into the cowl. These are capable of two hours of flight at 30 mph before needing to be refueled, and generate enough thrust to support Boomerang's own weight plus an additional 100 lbs. The boot jets can be used as offensive weapons when fired at close range.
+| Transportation          = 
+| Weapons                 = '''Specialized Boomerangs:''' Boomerang's primary weapons are the boomerangs, which he wears on his uniform. There are seven boomerangs attached in plain sight, each of which is rigged with special gimmicks.
+*'''Shatterangs''' - These detonate with a force equivalent to twenty hand grenades.
+*'''Gasarangs''' - These release highly concentrated tear gas upon impact.
+*'''Razorangs''' - These razor-edged boomerangs are capable of slicing through steel.
+*'''Screamerangs''' - These generate high-intensity sonic waves as they fly through the air.
+*'''Bladarangs''' - These whirling boomerangs cut like buzz-saw blades.
+*'''Gravityrangs''' - These create a local gravity field around their target. 
+*'''Reflexerangs''' - These are solid-weighted boomerangs.
+*'''Electrorang''' - These are electrically charged and can cause the Vision pain while he is in an intangible state.{{r|She-Hulk Vol 2 1}}
+*'''Multirangs''' - These are just standard boomerangs which he can throw dual handed.{{r|She-Hulk Vol 2 1}}
+
+| Notes                   = 
+| Trivia                  = * Despite being a super-criminal, Boomerang feels it's in his sense of civic duty to vote.{{r|Amazing Spider-Man Vol 1 584}}
+* Boomerang calls his fans "Boomers."{{r|Amazing Spider-Man Vol 5 41}}
+* Fred runs an Instagram page centered around [[Gog (Tsiln) (Earth-616)|Gog]] named ''MYPETGOG!!!''.{{r|Amazing Spider-Man Vol 5 61}}
+| Links                   = * [http://www.spiderfan.org/characters/boomerang.html Profile at Spiderfan.org]
+| Wikipedia               = Boomerang (comics)
+}}
+[[hu:Bumeráng]]
+[[Category:Leaders]]
+[[Category:Time Travelers]]
+[[Category:Thrown Weapons]]
+[[Category:Acrobats]]
+[[Category:Gymnasts]]
+[[Category:Tobacco Smokers]]
+[[Category:Interdimensional Travelers]]
+[[Category:No Energy Projection]]
+[[Category:Instagram Users]]
+[[Category:Baker Family]]
+[[Category:Killed by Morlun (Earth-001)]]

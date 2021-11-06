@@ -1,0 +1,54 @@
+{{Marvel Database:Team Template
+| Quotation               = They saved the world and were lifted up as saviors. Their home was a temple--a monument erected for '''The Science Games.''' A tower pointing towards the stars, and possibly something beyond even that. They were the greatest heroes their world had ever seen. They should have been enough.
+| Speaker                 = [[T'Challa (Earth-616)|Black Panther]]
+| QuoteSource             = New Avengers Vol 3 #16.NOW
+| Image                   = Great Society (Earth-4290001) from New Avengers Vol 3 16.NOW 001.jpg
+| ImageSize               = 300
+| Name                    = Great Society
+| Aliases                 = 
+
+| Status                  = Defunct
+
+| Identity                = Public
+| Reality                 = Earth-4290001
+| BaseOfOperations        = 
+
+| Leaders                 = Formerly [[Zoran (Earth-4290001)|Sun God]]
+| CurrentMembers          = 
+| FormerMembers           = [[Zoran (Earth-4290001)|Sun God]], [[Norn (Earth-4290001)|The Norn]], [[Jovian (Earth-4290001)|The Jovian]], [[Rider (Wayne) (Earth-4290001)|The Rider]], [[Doctor Spectrum (Earth-4290001)|Doctor Spectrum]], [[Boundless (Earth-4290001)|Boundless]]
+| Allies                  = 
+| Enemies                 = [[Kree]], [[Skrulls]], [[Xeno-Geneticists (Earth-4290001)|Xeno-Geneticists]], [[Mapmakers (Multiverse)|Mapmakers]]/[[Sidera Maris (Multiverse)|Sidera Maris]], [[Black Priests (Multiverse)|Black Priests]], [[Illuminati (Earth-616)]]
+
+| Origin                  = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Jonathan Hickman; Rags Morales
+| First                   = New Avengers Vol 3 #16.NOW
+| Last                    = New Avengers Vol 3 #21
+
+| HistoryText             = The Great Society was a team of super-humans who came together to fight off the alien invaders that had occupied their planet. They were formed four years after the previous superhero team of their world, the [[Archetypes of J.U.S.T.I.C.E. (Earth-4290001)|Archetypes of J.U.S.T.I.C.E.]], fell in combat.
+
+The Great Society defended their world from all manner of threats, and eventually became aware of the [[Glossary:Incursion|Incursions]]. They swore to stop the incursions without bloodshed, managing to save their world from destruction by averting the incursions bloodlessly.{{r|New Avengers Vol 3 16.NOW}} One of the methods they utilized was the [[Infinity Gauntlet (Item)|Wishing Box]], with its 6 planes of [[Infinity Stones|forever glass]], to manipulate reality at the cost of destroying the box itself.{{r|New Avengers Vol 3 19}}
+
+[[File:New Avengers Vol 3 19 page 23.jpg|thumb|left|Against the Illuminati]]
+After facing and defeating an Incursion by the [[Mapmakers (Multiverse)|Mapmakers]], the Great Society faced yet another one immediately after, this time facing the [[Illuminati (Earth-616)|Illuminati]] of [[Earth-616]].{{r|New Avengers Vol 3 17}}
+
+The Great Society no longer had the means to stop this Incursion bloodlessly like they had before, nor did the Illuminati, who informed them of their last resort being an anti-matter bomb to destroy one of the Earths. The Illuminati tried to convince them to work together in finding a way out of the situation before succumbing to the worst-case scenario. [[Rider (Wayne) (Earth-4290001)|Rider]] however was mistrustful of the Illuminati's intentions, prompting [[Namor McKenzie (Earth-616)|Namor]] to attack Rider in the belief that a fight to the death was the inevitable conclusion, beginning the battle for the fate of their worlds.{{r|New Avengers Vol 3 19}}
+
+[[File:Great Society (Earth-616) from New Avengers Vol 3 19 003.png|right|thumb|250px|Great Society awaiting an Incursion]]
+The Great Society initially took the upper hand, but [[Stephen Strange (Earth-616)|Doctor Strange]] turned the tide by unleashing an eldrich creature which killed most of the Great Society and fatally injured [[Zoran (Earth-4290001)|Sun God]]. As the Illuminati were leaving this Earth, having set the anti-matter injector to detonate, Zoran begged them not to destroy his Earth. [[T'Challa (Earth-616)|Black Panther]] offered to take him with them, but he refused, preferring to die on his Earth with his friends.
+
+With ten minutes left until the Earths collided, Namor activated the anti-matter injector from his Earth and destroyed the Great Society's world.{{r|New Avengers Vol 3 21}}
+
+| Equipment               = A [[Black Priests (Multiverse)|Black Priest]] helmet
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * The Great Society is an analogue/pastiche of the [[w:c:dc:Justice League|Justice League]].
+| Trivia                  = 
+| Links                   = 
+}}
+[[pt:Grande Sociedade (Terra-4290001)]]
+
+[[Category:Factions In The Game Of Worlds]]
+[[Category:DC Comics Pastiches]]

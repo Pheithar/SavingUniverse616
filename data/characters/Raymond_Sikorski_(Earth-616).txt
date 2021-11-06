@@ -1,0 +1,74 @@
+{{Marvel Database:Character Template
+| Image                   = Raymond_Sikorski_(Earth-616)_from_Avengers_Assemble_Vol_1_1_0001.jpg
+| Name                    = Raymond Sikorski
+| CurrentAlias            = 
+| Aliases                 = Raymond Sikorsky (misspelled){{r|Avengers #300}}
+
+| Affiliation             = {{M|Commission on Superhuman Activities}}, {{M|Roxxon Energy Corporation|Roxxon Oil Blackridge}}, {{m|Avengers Support Crew}};{{r|Avengers #300}} Former government liaison to the [[Avengers (Earth-616)|Avengers]], {{M|National Security Council}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = {{cl|Avengers Assemble #1}}
+| Gender                  = Male
+| Height                  = 5'1"
+| Weight                  = 175 lbs
+| Eyes                    = Brown
+| Hair                    = Grey
+| Hair2                   = ([[:Category:Bald|balding]]); originally [[:Category:Brown Hair|brown]]
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[New York City]], [[New York]], [[USA]]
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Recruiter for [[Roxxon Oil|Roxxon Oil Blackridge]], national security adviser; formerly US government liaison to the [[Avengers (Earth-616)|Avengers]]
+| Education               = JD in law (Harvard)
+| BaseOfOperations        = 
+
+| Creators                = Roger Stern; Bob Budiansky
+| First                   = Avengers #235
+
+| Quotation           = I think we impressed upon [[Union of Soviet Socialist Republics|them]] the need to better treat their [[Homo superior|mutant]]-- for that matter, their entire super-human-- population. 
+| Speaker             = [[Raymond Sikorski (Earth-616)|Raymond Sikorski]]
+| QuoteSource         = Soviet Super Soldiers Vol 1 1
+
+| History                 = 
+===Early Career===
+Raymond Sikorski an agent of the [[National Security Council (Earth-616)|National Security Council]], originally found the existence of superhumans hard to believe, was forced to call upon the [[Avengers (Earth-616)|Avengers]] for help after it was discovered that the [[Samuel Smithers (Earth-616)|Plantman]] had broken [[Bentley Wittman (Earth-616)|The Wizard]] out of prison with a plant duplicate. Plantman had attempted to kidnap the [[Presidents of the United States of America]], he turned to the Avengers for help. The Avengers wound up finding the Wizard, and he was returned to prison.{{r|Avengers #235}} Later the Avengers contacted Sikorski to ask for clearance to make [[Spider-Man (Peter Parker)|Spider-Man]] a trainee member of the Avengers. He refused their request, pointing to the [[Pentagon]]'s belief that Spider-Man was a security risk.{{r|Avengers #237}}
+
+Mr. Sikorski along with [[Henry Gyrich (Earth-616)|Henry Gyrich]] visited the [[Avengers Mansion]] to meet with the [[Vision (Earth-616)|Vision]], who was acting as the teams' chairman at the time. Desiring to establish greater control over the Avengers, and to free up their abilities at a governmental level, the Vision used subtle mind-control upon both men so that Gyrich would resign as the Avengers' security liaison and name Sikorski as his successor.{{r|Avengers #243}}
+
+Mr. Sikorski attended a meeting with the Vision and [[Steve Rogers (Earth-616)|Captain America]] over the devices created by [[Bruce Banner (Earth-616)|Dr. Bruce Banner]] which were stored at his [[Northwind Observatory]]. To keep security at the site until the equipment had been examined by the government, he allowed some of the team to remain on site.{{r|Avengers Annual #13}}
+
+===Vision's Temporary Takeover as Avengers Chairman===
+At a meeting in the Pentagon, General Peabody raged over the revelation that the Vision had taken control of the US computer systems. Peabody demanded that swift retaliation against the team, but Mr. Sikorski refused, believing that the would have an explanation. Later the Vision confessed and stepped down as chairman for the team.{{r|Avengers #255}}
+
+At the debriefing with Vision, the synthezoid told them everything regarding his time as chairman, therefore the Council almost unanimously approved of the decision to find and confiscate all the circuitry Vision had used in his takeover, this assignment was led by Sikorski. However, before they could expropriate anything, [[Eros (Earth-616)|Starfox]], had already dismantled the machinery without any prior authorization, this was considered tampering with evidence due to the ongoing government investigation. Sikorski informed the Avengers, that their priority clearance was suspended until a pending restructuring had taken place. These changes had to proceed, as Sikorski was unable to persuade the rest of the council to change their minds, otherwise, the Avengers were forced to disband.{{r|Avengers Vol 1 258}}
+
+Weeks later, still trying to find a way to restore the Avengers' security clearance with the government, The superhero team notified him of change in the roster. Former teammate Starfox recently left the team and [[Namor McKenzie (Earth-616)|Namor the Sub-Mariner]] was appointed as his replacement, despite this making his job harder, Sikorski agreed to the change after Captain America vowed for the former prince of [[Atlantis (Modern)|Atlantis]].{{r|Avengers Vol 1 263}}
+
+Meanwhile, at an interrogation in the [[Project P.E.G.A.S.U.S. Facility]], Agents Gyrich and Sikorski continued their investigation by questioning the synthezoid for hours. Having waited for fifteen hours, Vision and especially Scarlet Witch were fed up with the treatment Vision received, so they renounced their Avengers membership. They departed the facility for Leonia, where they would reestablish themselves as private citizens, near their old home. Sikorski promised to Scarlet Witch, he would take full responsibility for their departure.{{r|Vision and the Scarlet Witch Vol 2 1}}
+
+| Powers                  = 
+| Abilities               = Raymond Sikorski is adept at politics and administrative law.
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Brown Hair]][[Category:Infobox Eyes Update Needed]]
+[[Category:Bald]]
+[[Category:Lawyers]]
+[[Category:Politicians]]
+[[Category:Harvard University Student]]

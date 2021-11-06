@@ -1,0 +1,60 @@
+{{Marvel Database:Character Template
+| Image                   = Inhumans Vol 4 10 Textless.jpg
+| Name                    = Alaris
+| CurrentAlias            = 
+| Aliases                 = The Badger, Royal Guard, 'Laris{{r|Inhumans Vol 4 4}}
+
+| Affiliation             = {{m|Inhuman Royal Guard}}
+| Relatives               = 
+| MaritalStatus           = Single 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = White 
+| Hair                    = Black
+| UnusualSkinColor        = Gold
+| UnusualFeatures         = 
+
+| Origin                  = [[Inhumans (Inhomo supremis)|Inhuman]] powered by [[Terrigenesis]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Attilan]]
+
+| Identity                = No Dual
+| Citizenship             = New Attilan, Attilan
+| Occupation              = Royal Guardsman, Exchange Student & Diplomat 
+| Education               = 
+| BaseOfOperations        = [[New Attilan]]; formerly [[Attilan]], [[Earth]]'s [[Luna (Moon)|Moon]], [[Earth Orbit]]
+
+| Creators                = Sean McKeever; Matthew Clark
+| First                   = Inhumans Vol 4 #1
+
+| History                 = [[File:Alaris (Earth-616) from Inhumanity Vol 1 2 0001.jpg|thumb|left|Alaris and Gorgon vs. A.I.M.]] Alaris was an [[Inhumans (Inhomo supremis)|Inhuman]] with super-strength, fast reflexes, and bullet-proof skin. He was part of the delegation of Inhumans sent to [[Earth]] to study at a human college.  He was friendly and naive, coming across as a foreign exchange student in an average college setting. His genial attempts to assimilate American and Earth culture made Alaris quite charming. He was genuinely having fun, unaware that he was being taken advantage of and lacking understanding of people's reactions to him and of how his behaviour affected them. He genuinely enjoyed his time among humans and acclimated himself the most among them.{{r|Inhumans Vol 4 2|12}} During his time on Earth he became romantically interested in his fellow Inhuman [[Tonaja (Earth-616)|Tonaja]] but she turned him down and asked that they become friends instead as she was already romantically involved with [[Dewoz (Earth-616)|Dewoz]] back on [[Attilan]].{{r|Inhumans Vol 4 12}}
+
+Alaris was part of a strike-force put together by [[Medusalith Amaquelin (Earth-616)|Medusa]] and [[Gorgon Petragon (Earth-616)|Gorgon]] in order to free the cocooned Inhumans from the terrorist organization [[Advanced Idea Mechanics (Earth-616)|A.I.M.]].{{r|Inhumanity #2}}
+
+| Powers                  = Alaris is an [[Inhumans (Inhomo supremis)|Inhuman]], granted with enhanced abilities, and powered by [[Terrigenesis]]. His powers include:
+*'''Superhuman Strength''' Sufficient to lift cars, a gazebo and boulders with ease{{r|Inhumans Vol 4 5}} as well as towing a truck by hand with no difficulty for some distance{{r|Inhumans Vol 4 6}}
+*'''Superhuman Speed''' Sufficient to run at least 50 kmph{{r|Inhumans Vol 4 5}}
+*'''Superhuman Stamina'''
+*'''Superhuman Durability''' Sufficient to be unharmed by a significant electrical shock.{{r|Inhumans Vol 4 5}} His skin was shown to be bulletproof and the impact from a bullet fired at close quarters which impacted with his throat only caused him discomfort and temporary trouble breathing, he was also only temporarily dazed when shot in the mouth.{{r|Inhumans Vol 4 12}}
+*'''Superhuman Agility'''
+| Abilities               = 
+| Strength                = Superhuman
+| Weaknesses              = 
+
+| Equipment               = 
+
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * Alaris has had a Diplomatic Visa to Earth 
+| Trivia                  = 
+| Links                   = * [[Nahrees]], [[Tonaja]], [[San]], [[Jolen]] 
+}}
+[[Category:Superhuman Strength]]
+[[Category:Superhuman Durability]]
+[[Category:Superhuman Stamina]]
+[[Category:Superhuman Speed]]
+[[Category:Superhuman Agility]]

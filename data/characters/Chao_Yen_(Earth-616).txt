@@ -1,0 +1,51 @@
+{{Marvel Database:Character Template
+| Image                   = Chao Yen (Earth-616) from Avengers Vol 1 41 001.jpg
+| Name                    = Chao Yen
+| NameRef                 = {{r|Marvel Atlas Vol 1 1}}
+| CurrentAlias            = 
+| Aliases                 = Doctor Yen
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = 
+| Citizenship             = 
+| Occupation              = Scientist
+| Education               = 
+| BaseOfOperations        = [[Asia]]
+
+| Creators                = Stan Lee; Don Heck
+| First                   = Avengers Vol 1 29
+
+| History                 = Dr. Yen was a communist scientist who was in charge of brain-washing the [[Natalia Romanova (Earth-616)|Black Widow]] after she had deserted the communist service.{{r|Avengers Vol 1 29}}
+
+He reappeared working for [[Wai Ling (Earth-616)|Colonel Ling]]{{r|Avengers Vol 1 41}} and was probably killed when the Black Widow and the [[Avengers (Earth-616)|Avengers]] destroyed the Psychotron.{{r|Avengers Vol 1 44}}
+
+| Powers                  = None, human.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

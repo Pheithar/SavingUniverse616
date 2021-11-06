@@ -1,0 +1,89 @@
+{{Marvel Database:Character Template
+| Image                   = Kevin Sidney (Earth-616) from Official Handbook of the Marvel Universe Vol 2 16 001.png
+| Name                    = [[Kevin Sidney]]
+| NameRef                 = {{r|X of Swords Handbook Vol 1 1}}
+| CurrentAlias            = [[Changeling]]
+| Aliases                 = Number Two,{{r|X-Men #37}} [[Professor X]],{{r|X-Men #41}} [[Charles Xavier]],{{r|X-Men #41}} Elvis{{r|Sensational She-Hulk #35}}
+
+| Affiliation             = Formerly {{m|X-Men}}, {{m|X-Humed}}, {{m|Factor Three}}
+| Relatives               = None, orphan{{r|Official Handbook of the Marvel Universe A-Z #2}}
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #2}}
+| Gender                  = Male
+| Height                  = 5'11"
+| Weight                  = 180 lbs
+| Eyes                    = Brown
+| Eyes2                   = (Variable)
+| Hair                    = Black
+| Hair2                   = (Variable)
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = Unrevealed{{r|Official Handbook of the Marvel Universe A-Z #2}}
+
+| Identity                = Secret
+| Citizenship             = American, Krakoan
+| Occupation              = Adventurer; former substitute teacher, subversive{{r|Official Handbook of the Marvel Universe A-Z #2}}
+| Education               = Unrevealed{{r|Official Handbook of the Marvel Universe A-Z #2}}
+| BaseOfOperations        = [[Krakoa (Earth-616)|Krakoa]], [[Pacific Ocean]]; formerly [[Xavier's School for Gifted Youngsters]], [[Salem Center]], [[North Salem]], [[Westchester County]], [[New York (State)|New York]]
+
+| Creators                = Roy Thomas; Werner Roth
+| First                   = X-Men #35
+
+| Quotation               = We mutants agreed to serve him out of '''hatred''' for normal humans -- and because of their '''fear''' and '''hostility''' towards us! Yet, have we merely exchanged our roles as '''outcasts''' -- for those of '''slaves?''' But we shall consider that '''later''' -- when the world of '''Homo sapiens''' lies in smoldering, radioactive '''ruins!'''
+| Speaker                 = [[Kevin Sidney (Earth-616)|The Changeling]] 
+| QuoteSource             = X-Men Vol 1 38
+
+| History                 = [[File:Kevin_Sidney_(Earth-616)_from_Official_Handbook_of_the_Marvel_Universe_Vol_2_16_001.jpg|thumb|left|200px|Kevin's 'true' form.]]
+===Factor Three===
+Little is known about the [[Homo superior|mutant]] Changeling before he came to work for the villainous organization [[Factor Three (Earth-616)|Factor Three]] and was second in command under the [[Mutant Master (Earth-616)|"Mutant Master"]].{{r|X-Men #35}}
+
+After discovering that [[Sean Cassidy (Earth-616)|Sean Cassidy]] had become engaged in criminal activities, thanks to the technology of the Mutant Master, Changeling contacted Cassidy, whom Factor Three's technology had also identified as a superhumanly powerful mutant, and invited him to join the organization. Cassidy was appalled upon learning of Factor Three's goals and adamantly refused. However, the Changeling and Mutant Master agreed that Cassidy's powers and knowledge of the workings of law enforcement agencies were too valuable for Factor Three to lose and so they sent their agents to capture Cassidy. Factor Three placed a headband containing explosives around Cassidy's head, forcing them into their service. While in [[New York City]] on a mission for Factor Three, Cassidy, now called the [[Sean Cassidy (Earth-616)|Banshee]], clashed with the original [[X-Men (Earth-616)|X-Men]], who captured both him and the [[Brian Dunlap (Earth-616)|Ogre]]. The X-Men's leader, [[Charles Xavier (Earth-616)|Professor Charles Xavier]], used a psionic "mental bolt" on the Banshee's headband, which prevented the detonation mechanism from functioning so that the Banshee could remove it. Once freed of the headband, the Banshee told the X-Men all that he knew about Factor Three.{{r|X-Men #28}}
+
+Following that group's defeat, Changeling betrayed the Mutant Master, upon learning he was really an [[glossary:A#Alien|alien]] intending to wipe out everyone.{{r|X-Men #39}}
+
+===Impersonating Professor X===
+Not much later, Changeling came to Professor Xavier to reveal he was dying from cancer and only had a few months to live.{{r|X-Men #65}} Unknown to all of the X-Men save [[Jean Grey (Earth-616)|Marvel Girl]], Professor Xavier went underground to prepare for the invasion of the alien [[Z'nox (Race)|Z'nox]] and had the Changeling pose as him in his absence after giving him a portion of his [[Telepathy|telepathic]] power.
+
+The Changeling, masquerading as Professor X, was killed in battle against [[Gor-Tok (Earth-616)|Grotesk]].{{r|X-Men #42}} Only Marvel Girl knew of his deception and she was sworn not to reveal the truth to her teammates. Changeling was buried by the X-Men, still wearing Professor Xavier's form. It was not until their fight against the Z'nox that the X-Men learned it had not been the Professor who had died but instead, the Changeling.{{r|X-Men #65}}
+
+[[File:Kevin_Sidney_(Earth-616)_from_Sensational_She-Hulk_Vol_1_34_001.jpg|thumb|left|200px|Kevin's body reanimated.]]
+
+===Reanimated===
+Years later the voodoo master [[Samuel Barone (Earth-616)|Black Talon]] brought Changeling back to life as a zombie, one of the undead mutant group that Talon dubbed the [[X-Humed (Earth-616)|X-Humed]]. Talon sent them to battle the [[Jennifer Walters (Earth-616)|She-Hulk]]. Even when undead, Changeling was unwilling to have his sacrifice sullied, so he resisted the Talon's control, taking on the form of Elvis Presley to provide She-Hulk with a distraction at a vital moment. Failing to be a worthy zombie, Changeling was returned to the grave.{{r|Sensational She-Hulk #35|36}}
+
+===Krakoa===
+Changeling was presumably resurrected by the [[Five (Earth-616)|Five]] in [[Krakoa (Earth-616)|Krakoa]] and joined the new mutant nation. He was seen alongside many other Krakoans onlooking at Charles Xavier corpse after his death at the hands of anti-mutant super-human criminals whom had somehow infiltrated Krakoa's defenses and killed many of its residents, including Xavier.{{r|X-Force Vol 6 2}}
+
+| Powers                  = Changeling was a mutant with the ability to alter his physical appearance at will to resemble that of any person he chose. He was given limited telepathic abilities by Professor X, and as a side effect, he also gained limited telekinetic abilities.
+
+'''Metamorph:''' He can psionically alter the formation of his biological cells at will. As a result he can cause himself to look and sound like an exact duplicate of any human, humanoid, or semi-humanoid being of either sex, wearing virtually any kind of clothing.
+
+'''Telepathy:''' He is able to read minds and project his own thoughts into the minds of others within a limited radius.
+
+*'''''Psionic Blasts:''''' He can project psionic force bolts which have no physical effects but which can affect a victim's mind so as to cause the victim pain or unconsciousness and can even kill an adversary.
+
+'''Telekinesis''': Possesses telekinetic abilities enabling him to manipulate matter on a low level with the energy of his thoughts.
+
+| Abilities               = Skilled actor, photographic memory{{r|Official Handbook of the Marvel Universe A-Z #2}}
+| Strength                = 
+
+| Equipment               = A Siri ray-gun while under the employ of the Mutant Master.
+| Transportation          = Krakoan Gateways; duplicate of Professor X's wheelchair
+| Weapons                 = 
+
+| Notes                   = * The name "[[Kevin Sidney]]" was given for the Changeling in [[Official Handbook of the Marvel Universe: Book of the Dead 2004 Vol 1 1|2004's Book of the Dead]], and was later redacted in {{cl|Official Handbook of the Marvel Universe A-Z #2}}. A logical explanation for the difference in spelling would be that the 616 Changeling was only ever ''told'' his name, and never saw it in print.
+* Although the Changeling seemed destined for obscurity for many years, he was revived in alternate continuities as [[Morph]], first in the [[X-Men animated series]], later in the [[Age of Apocalypse]] and ''[[Exiles]]''.
+| Trivia                  = * Changeling was buried in Professor X's form, complete with Charles' brown suit. When he was reanimated to become a member of the Black Talon's Exhumed, he was suddenly wearing an X-Men uniform matching his teammates. Given that he was able to shape-shift his clothes into those matching Elvis Presley's while a member of this team, it is likely both the Professor's clothes and the X-Men uniform were the result of Changeling's ability.
+* [[Merlyn (Otherworld)|Merlyn]] once used magic to trick [[Excalibur (Earth-616)|Excalibur]] into thinking the Changeling's ghost was haunting them, though it wasn't true.
+| Links                   = * [http://uncannyxmen.net/characters/changeling uncannyxmen.net Character Profiles: Changeling]
+}}
+[[Category:Telepaths]]
+[[Category:Telekinesis]]
+[[Category:Shapeshifters]]
+[[Category:Cancer (disease)]]
+[[Category:Hypercognitive]]
+[[Category:Zombies]]
+[[Category:Post-M-Day Mutants (Pre-M-Day Deaths)]]

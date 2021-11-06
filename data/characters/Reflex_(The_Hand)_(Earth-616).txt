@@ -1,0 +1,49 @@
+{{Marvel Database:Character Template
+| Image                   = Reflex (The Hand) (Earth-616) from Wolverine Vol 6 1 001.jpg
+| Name                    = Unknown
+| CurrentAlias            = Reflex
+| Aliases                 = 
+
+| Affiliation             = {{m|Offer's Squad (Earth-616)|Offer's Squad}}; formerly {{m|Hand (Earth-616)|The Hand}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = White
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = [[New York City]]
+
+| Creators                = Paul Cornell; Ryan Stegman
+| First                   = Wolverine Vol 6 1
+
+| History                 = Reflex was a Hand ninja member of [[Victor Creed (Earth-616)|Sabretooth]]'s faction. He is currently employed by [[Offer (Earth-616)|The Offer]] and forms part of his [[Offer's Squad (Earth-616)|field team]].{{r|Wolverine Vol 6 1}}
+
+| Powers                  = 
+| Abilities               = '''Martial Arts Training:''' Like any Hand ninja, Reflex possesses an incredible domain over martial arts.
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Ninjas]]

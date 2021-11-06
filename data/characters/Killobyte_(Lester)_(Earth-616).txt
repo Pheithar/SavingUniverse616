@@ -1,0 +1,49 @@
+{{Marvel Database:Character Template
+| Image                   = Killobyte (Lester) (Earth-616) Daredevil Vol 1 332.jpg
+| Name                    = Lester
+| Name2                   = (full name unrevealed)
+| CurrentAlias            = Killobyte
+| Aliases                 = 
+
+| Affiliation             = {{M|System Crash (Earth-616)|System Crash}}, {{M|Hydra}}
+| Relatives               = [[Killobyte (Joey) (Earth-616)|Joey]] (aka Killobyte too, brother);
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Terrorist
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = D.G. Chichester; Scott McDaniel
+| First                   = Daredevil Vol 1 329
+
+| History                 = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * http://www.marvunapp.com/Appendix3/systemcrashdd.htm#Killobytelester
+}}

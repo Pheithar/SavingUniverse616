@@ -1,0 +1,53 @@
+{{Marvel Database:Character Template
+| Image                   = Incarsicus (Earth-616) from Thunderbolts Vol 1 157 001.png
+| Name                    = Hanek-Cha
+| CurrentAlias            = Incarsicus
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Red
+| Hair                    = None
+| UnusualFeatures         = 
+| UnusualSkinColor        = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = [[Gothenvald Castle]], [[Stuttgart]]
+
+| Creators                = Jeff Parker; Kev Walker; Declan Shalvey
+| First                   = Thunderbolts Vol 1 157
+| Death                   = 
+
+| History                 = The Incarsicus was a big spidery-skeleton who was commanded by [[Gothenvald (Earth-616)|Baron Gothenvald]] to stop the [[Thunderbolts (Earth-616)|Thunderbolts]].{{r|Thunderbolts Vol 1 157}}
+
+| Personality             = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

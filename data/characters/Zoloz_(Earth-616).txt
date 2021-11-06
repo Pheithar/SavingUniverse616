@@ -1,0 +1,49 @@
+{{Marvel Database:Character Template
+| Image                   = Zoloz (Earth-616) from Doctor Strange Vol 5 17 001.jpg
+| Name                    = [[Zoloz]]
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = [[Galan (Earth-616)|Galactus]]; formerly {{m|Grand Council of Mages}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Orange
+| Hair                    = No Hair
+| UnusualFeatures         = Four arms
+| UnusualSkinColor        = Grey
+
+| Origin                  = [[Zaraxians|Zaraxian]] 
+| Reality                 = Earth-TRN892
+| PlaceOfBirth            = [[Zarax]]
+
+| Identity                = No Dual
+| Citizenship             = Zaraxian
+| Occupation              = [[Heralds of Galactus (Earth-616)|Herald of Galactus]], sorcerer, mystic warrior
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Mark Waid; Barry Kitson
+| First                   = Doctor Strange Vol 5 17
+
+| History                 = Zoloz's history seems be the same of his [[Earth-TRN892]] [[Zoloz (Earth-TRN892)|counterpart]], but when he arrived on [[Earth]] to fight [[Stephen Strange (Earth-616)|Doctor Strange]] he was defeated by his own spell, which Strange learned by their prievous encounter. Strange convinced Zoloz that he could save his [[Zarax|home planet]] from [[Galan (Earth-616)|Galactus]] by becoming his [[Heralds of Galactus (Earth-616)|herald]] even if the other [[Zaraxians]] believe him coward because he didn't die a warrior.{{r|Doctor Strange Vol 5 17}} 
+
+| Powers                  = Seemingly [[Zoloz (Earth-TRN892)#Powers|those]] of [[Zoloz (Earth-TRN892)|Zoloz]] of [[Earth-TRN892]].  
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

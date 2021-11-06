@@ -1,0 +1,67 @@
+{{Marvel Database:Character Template
+| Image                   = Agent Gorman (Earth-616) from Deadpool Vol 5 1 001.JPG
+| Name                    = Gorman
+| Name2                   = (first name unrevealed)
+| CurrentAlias            = Agent Gorman
+| Aliases                 = 
+
+| Affiliation             = {{m|Strategic Homeland Intervention, Enforcement and Logistics Division|S.H.I.E.L.D.}}, {{m|Underground Liberated Totally Integrated Mobile Army To Unite Mankind|U.L.T.I.M.A.T.U.M.}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+| KilledBy                = Wade Wilson (Earth-616); Brock Rumlow (Earth-616)
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = S.H.I.E.L.D. agent
+| Education               = 
+| BaseOfOperations        = Formerly U.L.T.I.M.A.T.U.M. Helicarrier, [[S.H.I.E.L.D. Helicarrier]]
+
+| Creators                = Brian Posehn; Gerry Duggan; Tony Moore
+| First                   = Deadpool Vol 5 1
+| Death                   = Deadpool Vol 5 25.NOW
+
+| Quotation               = If I didn't need every gun pointed at Deadpool right now I'd make you walk a plank.
+| Speaker                 = [[Agent Gorman (Earth-616)|Agent Gorman]]
+| QuoteSource             = Deadpool Vol 5 23
+
+| History                 = After [[Steven Rogers (Earth-616)|Captain America]] was lambasted by the media for decapitating the zombie [[Harry Truman (Earth-616)|Harry Truman]] after the presidents were brought back from death by a [[Michael Hawthorne (Necromancer) (Earth-616)|necromancer]], [[Maria Hill (Earth-616)|Maria Hill]] tasked Agent Gorman to solve the issue without using [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] agents or the [[Avengers (Earth-616)|Avengers]] to avoid any negative press. Gorman delegated the assignment to his subordinate, [[Emily Preston (Earth-616)|Agent Preston]], whose solution was to hire [[Wade Wilson (Earth-616)|Deadpool]] to dispose of the undead presidents.{{r|Deadpool Vol 5 1}} However, Gorman was critical of the idea.{{r|Deadpool Vol 5 2}} 
+
+Deadpool was able to stop the presidential zombie invasion, but he wasn't able to prevent the undead [[George Washington (Earth-616)|George Washington]] from killing Agent Preston. Enraged over her death, Gorman refused to pay Deadpool and threatened he would bring the full force of S.H.I.E.L.D. upon him. Likewise, Deadpool swore that he would get revenge on Gorman for not paying him.{{r|Deadpool Vol 5 6}}
+
+Gorman later used a [[Life-Model Decoy|LMD]] of Agent Preston in order to sell S.H.I.E.L.D. tech and drugs, but as soon as he discovered Agent Preston was alive inside Deadpool's mind, he put a price on Wade Wilson's head.{{r|Deadpool Vol 5 21}}
+
+Gorman went to attend a reunion with [[Underground Liberated Totally Integrated Mobile Army To Unite Mankind (Earth-616)|U.L.T.I.M.A.T.U.M.]], one of his buyers, but was tracked down by [[Phillip Coulson (Earth-616)|Phil Coulson]], [[Scott Adsit (Earth-616)|Agent Adsit]], and [[Wade Wilson (Earth-616)|Deadpool]], who had discovered Gordon was a traitor.{{r|Deadpool Vol 5 22}}
+
+Deadpool annihilated the U.L.T.I.M.A.T.U.M. troops in their own helicarrier, and finally got to Gorman, who promised Deadpool to get him his money. Gorman was instead shot in his abdomen by Deadpool, and fell from the aircraft.{{r|Deadpool Vol 5 23}} However, Gorman survived and went on the run.{{r|Deadpool Vol 5 25.NOW}}
+
+Gorman attempted to sabotage the process which transferred Preston's mind from Deadpool to an LMD, but failed.{{r|Deadpool Vol 5 24}} Later that day, when Deadpool fought [[Brock Rumlow (Earth-616)|Crossbones]], Gorman attempted to kill Wilson, but Crossbones and Deadpool cooperated to kill him by throwing him into a garbage truck which compressed him to death.{{r|Deadpool Vol 5 25.NOW}}
+
+| Powers                  = 
+| Abilities               = S.H.I.E.L.D. training
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Arms Dealers]]

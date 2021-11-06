@@ -1,0 +1,52 @@
+{{Marvel Database:Character Template
+| Image                   = Bob Oppenheim (Earth-616) Deadpool The Gauntlet Infinite Comic Vol 1 6.jpg
+| Name                    = [[Bob Oppenheim]]
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{m|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = Terrorist, accountant
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Gerry Duggan; Brian Posehn; Reilly Brown
+| First                   = Deadpool: The Gauntlet Infinite Comic Vol 1 6
+| Death                   = Deadpool: The Gauntlet Infinite Comic Vol 1 6
+
+| History                 = [[Wade Wilson (Earth-616)|Deadpool]] mistook Bob from Accounting for his friend [[Bob Dobalina (Earth-616)|Bob, Agent of Hydra]] and was forced to kill him to prevent him from notifying security that he and [[Shiklah (Earth-616)|Shiklah]] had escaped their cell.{{r|Deadpool: The Gauntlet Infinite Comic Vol 1 6}}
+
+| Personality             = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

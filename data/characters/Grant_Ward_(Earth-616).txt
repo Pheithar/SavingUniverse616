@@ -1,0 +1,74 @@
+{{Marvel Database:Character Template
+| Image                   = Grant Ward (Earth-616) from Agents of S.H.I.E.L.D. Vol 1 5 002.jpg 
+| Name                    = Grant Douglas Ward
+| CurrentAlias            = Grant Ward
+| EditorialNames          = Iron Thief
+| Aliases                 = Iron Man Cosplayer{{r|Agents of S.H.I.E.L.D. Vol 1 5}}
+
+| Affiliation             = {{M|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}; formerly {{M|Hydra}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Hydra agent, terrorist; formerly double agent for S.H.I.E.L.D.
+| Education               = 
+| BaseOfOperations        = Formerly [[Mount|The Mount]], [[Nevada (State)|Nevada]]
+
+| Creators                = Marc Guggenheim; Germán Peralta
+| First                   = All-New, All-Different Marvel Point One Vol 1 1
+| First2                  = {{FlashforwardOnly}}<br>{{sld|Agents of S.H.I.E.L.D. Vol 1 1}}{{g|First full appearance}}
+
+| History                 = 
+===Early Life===
+Grant Ward was a top agent at [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]]. He worked closely with [[Phillip Coulson (Earth-616)|Phil Coulson]].{{r|Agents of S.H.I.E.L.D. Vol 1 5}}
+
+===Hydra===
+Not long before the [[Civil War (Event)|super-human civil war]],<ref group="note">The scenes that take place during Ward's infiltration feature both Maria Hill as S.H.I.E.L.D. director and Iron Man wearing the [[Iron Man Armor Model 25]], which would position these scenes somewhere between ''Secret Wars'' and the beginning of ''Iron Man'' (Vol. 4)</ref> Ward and Coulson came up with a plan to infiltrate [[Tomi Shishido (Earth-616)|Gorgon]]'s [[Hydra (Earth-616)|Hydra]]. S.H.I.E.L.D. director, [[Maria Hill (Earth-616)|Maria Hill]], skeptically approved it, and Ward soon joined the lower ranks of the organization.
+
+Six months into the operation, Ward shielded Gorgon from a [[Glossary:Repulsor|repulsor]] blast during a confrontation between Hydra and the Avengers. The fight had been staged, as [[Anthony Stark (Earth-616)|Iron Man]] had even recalibrated the blast to prevent Ward from experiencing severe damage at the moment of taking the shot. This apparent act of loyalty allowed Ward to gain the Gorgon's trust and he was promoted to the rank of lieutenant.{{r|Agents of S.H.I.E.L.D. Vol 1 5}}
+
+However, Ward's new position allowed him to learn the Gorgon's true agenda and Grant found himself agreeing with his ideals. Thus, during a debriefing with Maria Hill and Coulson at the [[S.H.I.E.L.D. Helicarrier]], Ward showed his new allegiance by shooting Hill and fleeing. Hill's life was spared because she had remained skeptical of Ward, and had sent a [[Life-Model Decoy]] in her place.{{r|Agents of S.H.I.E.L.D. Vol 1 6}}
+
+===Axiom Protocols===
+[[File:Grant Ward (Earth-616) from Agents of S.H.I.E.L.D. Vol 1 1 001.jpg|thumb|left|200px]]
+When the designs of Iron Man's [[Iron Man Armor|armor]] were leaked, Ward used an counterfeit suit to break into the [[Pentagon]] and steal a [[Quantum Drive]].{{r|Agents of S.H.I.E.L.D. Vol 1 1}} He then used the intel stored on it to kill the [[Madripoor|Madripoorean]] vigilante [[Tarik Fayad (Earth-616)|Horus]], recording everything as part of an advertisement of an auction for the drive, to assure potential buyers that the contents on the drive were legit.{{r|Agents of S.H.I.E.L.D. Vol 1 2}}
+
+After the drive had been sold in an auction to an operative of the Pentagon itself, [[Jonathan Walker (Earth-616)|John Walker]], Ward pursued his motorboat – only to find Phil Coulson on board, but no Quantum Drive which had already been retrieved by S.H.I.E.L.D..{{r|Agents of S.H.I.E.L.D. Vol 1 4}} Ward abducted Coulson, as well as [[Lola Daniels (Earth-616)|Lola Daniels]], a mind-reader, and forced her to extract the Axiom Protocols information from Coulson's brain as she had initially done to create the Quantum Drive. Ward subsequently used the information to send somebody to neutralize [[Peter Parker (Earth-616)|Spider-Man]] in [[Shanghai]] in order to verify the new Coulson Protocol's efficacy. With the money of the auction of the original protocols, Ward and Hydra built an army of counterfeit Iron Man suits.{{r|Agents of S.H.I.E.L.D. Vol 1 5}}
+
+Hydra sent numerous soldiers in the Iron Man armor loaded with the Axiom Protocols to neutralize numerous heroes, but S.H.I.E.L.D. thwarted the initial attacks. The armor of one of the defeated soldiers was used to triangulate the location of [[Mount|their base]]. Meanwhile, Coulson had managed to escape from his cell and confronted Ward. The confrontation soon escalated to an all-out battle when reinforcements arrive for both parties. Once Hydra's forces had been defeated, Ward tried to escape using Lola Daniels as leverage. She struggled to break free from Ward's grasp, prompting him to kill her. Ward was subsequently subdued and imprisoned.{{r|Agents of S.H.I.E.L.D. Vol 1 6}}
+
+===Rejoining S.H.I.E.L.D.===
+Shortly after [[Elektra Natchios (Earth-616)|Elektra Natchios]] rejoined S.H.I.E.L.D., she reinstated Ward as an agent of S.H.I.E.L.D. To make sure he remains loyal, Elektra attaches an explosive collar to his neck.{{r|Agents of S.H.I.E.L.D. Vol 1 9}}
+
+| Personality             = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = '''[[Iron Man Armor]]'''
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = * Grant Ward is a character originally created for the [[Earth-199999|Marvel Cinematic Universe]]. He is modeled after his [[Grant Ward (Earth-199999)|MCU counterpart]]'s actor, [[wikipedia:Brett Dalton|Brett Dalton]].
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Intelligence Agents]]
+[[Category:Content Adapted from Other Media]]

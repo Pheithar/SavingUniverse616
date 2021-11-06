@@ -1,0 +1,55 @@
+{{Marvel Database:Character Template
+| Image                   = Matani Tivan (Earth-616) from Silver Surfer Vol 3 3 0001.jpg
+| Name                    = Matani Tivan
+| CurrentAlias            = 
+| Aliases                 =  
+
+| Affiliation             = {{M|Elders of the Universe}}
+| Relatives               = [[Taneleer Tivan (Earth-616)|The Collector]] (husband)<br> [[Carina Tivan (Earth-616)|Carina]] (daughter)
+| MaritalStatus           = Married
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Alien]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Cygnus X-1]]
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Jim Shooter; Bill Mantlo; David Wenzel
+| First                   = Avengers Vol 1 174
+| Death                   = Silver Surfer Vol 3 3 
+
+| History                 = '''Matani''' was the wife of the [[Taneleer Tivan (Earth-616)|Collector]]. She shared her life with him for the first millennia of their existence and had a daughter with him, [[Carina Tivan (Earth-616)|Carina]], who matured and left the family. Eventually, Matani lost her will to live and, being as it was essential for an Elder's immortality, she died. This would lead to the Collector developing his obsession to survive.{{r|Avengers Vol 1 174}}
+
+===Resurrection===
+She was later resurrected, but succumbed again to her apathy.{{r|Silver Surfer Vol 3 3}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Formerly Deceased]]
+[[Category:Tivan Family]]

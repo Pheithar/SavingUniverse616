@@ -1,0 +1,51 @@
+{{Marvel Database:Character Template
+| Image                   = Cyrus Black (Earth-616) from Defenders Strange Heroes Vol 1 1 001.jpg 
+| Name                    = [[Cyrus Black]] 
+| CurrentAlias            = 
+| Aliases                 = Devil Incarnate
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = {{cl|Defenders: Strange Heroes #1}}
+| Gender                  = Male
+| Height                  = 6'0"
+| Weight                  = 156 lbs
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]], magic user
+| Reality                 = Earth-616
+| PlaceOfBirth            = Monroe, [[Louisiana (State)|Louisiana]]
+| PlaceOfDeath            = 
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = Sorcerer
+| Education               = Extensive sorcery training
+| BaseOfOperations        = [[New York City]], [[New York (State)|New York]]
+
+| Creators                = Steve Englehart; Sal Buscema
+| First                   = Defenders Vol 1 6
+| Death                   = 
+
+| History                 = Cyrus Black spent years studying and training so that he might defeat [[Stephen Strange (Earth-616)|Doctor Strange]]. He made pilgrimages, studied at the feet of adepts, killed to obtain forbidden books, and gathered a following of men. Calling himself the Devil Incarnate, he set up shop in a house in [[New York City]] with his rat [[Nebuchadnezzar (Rat) (Earth-616)|Nebuchadnezzar]] and prepared for revenge. Wrapping the block in a force field, Black and his men moved in to attack [[Sanctum Sanctorum|Strange's mansion]] and the [[Defenders (Earth-616)|Defenders]]. Black created mystic ladders for his men to invade Strange's mansion, and burst Strange's doors open. When Black's men fell all around him, he fired bolts of bedevilment, but missed. Before he could cast a spell of protection over himself, Strange drained Black's mystical energies. Black retreated to his home where he lashed out. Needing calm, he lit some new Jamaican incense he had and went to sleep, his rat on his chest. He had a nightmare where Nebuchadnezzar grew to giant size and attacked him. When Black awoke, he saw his rat shrinking and realized the incense had given him the power to dream things to life. He quickly returned to sleep and dreamed an unnamed beast to life to attack Strange and his allies, but the beast was quickly defeated. He then dreamed the mythical Serpent of Rham to life, but the creatures defeated it as well. Black then dreamed himself to be more powerful and threatening and had his dream-self attack Strange. Completely resistant to their attacks, the dream self almost defeated the heroes until the [[Namor McKenzie (Earth-616)|Sub-Mariner]] reminded Black that this version of him was not real. Panicking, Black awakened and his dream self dissipated. Morose, Black left wondering if he'd ever try again to defeat Strange{{r|Defenders Vol 1 6}}.
+
+| Powers                  = Using magic, Black created a force-field to cover a city block, fired bolts of bedevilment, created mystic ladders, and could cast a spell of protection. Under the influence of his Jamaican incense, Black could dream anything to life and bestow any powers upon it so long as he believed it was real.
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * [http://www.marvunapp.com/Appendix3/cyrusblackdef.htm Cyrus Black on Appendix]
+}}

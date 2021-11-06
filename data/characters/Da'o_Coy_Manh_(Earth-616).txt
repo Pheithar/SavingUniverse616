@@ -1,0 +1,65 @@
+{{Marvel Database:Character Template
+| Image                   = Da'o Coy Manh (Earth-616) from Astonishing X-Men Vol 3 50 0001.png
+| Name                    = [[Da'o Coy Manh]]
+| CurrentAlias            = Susan Hatchi
+| Aliases                 = Da'o
+
+| Affiliation             = 
+| Relatives               = 
+Mr. Coy Manh (father);<br>
+unnamed mother;<br>
+[[Nguyen Ngoc Coy (Earth-616)|General Nguyen Ngoc Coy]] (uncle, deceased);<br>
+[[Tran Coy Manh]] (half-brother);<br>
+[[Leong Coy Manh (Earth-616)|Leong Coy Manh]] (half-brother);<br>
+[[Nga Coy Manh (Earth-616)|Nga Coy Manh]] (half-sister);<br>
+[[Xi'an Coy Manh (Earth-616)|Karma (Xi'an Coy Manh)]] (half-sister);<br>
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Black
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = Depowered [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = Somewhere in [[Vietnam]]
+| PlaceOfDeath            = 
+
+| Identity                = Public
+| Citizenship             = Vietnam
+| Occupation              = Businesswoman
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Marjorie Liu;Mike Perkins
+| First                   = Astonishing X-Men Vol 3 49
+| Death                   = Astonishing X-Men Vol 3 56
+
+| History                 = Da'o wa a businesswoman from Vietnam and was the half sister to [[Xi'an Coy Manh (Earth-616)|Karma]] of the X-Men.{{Citation}}
+
+Da'o was a mutant but was later depowered on [[M-Day]].{{Citation}}
+
+During a standoff in which she held a gun on her half-sister and their father held a gun on Da'o, her sister brought Da'o inside her mind to show her the suffering they shared. While Karma was doing this, however, their father shot and killed her sister.{{r|Astonishing X-Men Vol 3 56}}
+
+| Powers                  = '''Telepathy''': Da'o was a mutant with a low-level form of telepathy. She was later depowered on [[M-Day]].
+| Abilities               = Dao was also a skilled business woman.
+| Strength                = Da'o Coy Manh had the strength of a normal human female who engages in an extensive exercise regimen.
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Depowered Mutants]]
+[[Category:Telepaths]]
+[[Category:Manh Family]]
+[[Category:M-Day Depowered]]

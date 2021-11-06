@@ -1,0 +1,64 @@
+{{Marvel Database:Race Template
+| Image                   = Children of the Sun from Avengers Vol 5 12 001.jpg
+| Name                    = Children of the Sun
+| Aliases                 = Zebra Kids
+| Identity                = Secret
+| Affiliation             = Formerly {{m|Avengers Idea Mechanics (Earth-616)|A.I.M. (Avengers Idea Mechanics)}}, {{m|New Avengers (A.I.M.) (Earth-616)|New Avengers}}
+| Universe                = Earth-616
+| BaseOfOperations        = [[Avenger Base Two]], [[Savage Land]]
+
+| BodyType                = Human
+| AvgHeight               = 
+| AvgWeight               = 
+| Eyes                    = 
+| Hair                    = 
+| Skin                    = 
+| NumberOfLimbs           = 4
+| NumberOfFingers         = 5
+| NumberOfToes            = 5
+| SpecialAdaptations      = 
+| UnusualFeatures         = 
+
+| Origin                  = 
+| GalaxyOfOrigin          = Milky Way
+| StarSystemOfOrigin      = Sol
+| HomePlanet              = Earth
+| PlaceOfBirth            = Savage Land
+| Creators                = Jonathan Hickman; Adam Kubert
+| First                   = Avengers Vol 5 4
+
+| HistoryText             = A race of humanoid creatures created by [[Ex Nihilo (Earth-616)|Ex Nihilo]] in his attempt to evolve Earth.{{r|Avengers Vol 5 4}} During his trip to the [[Savage Land]], they were founded by [[Marcus Milton (Earth-13034)|Hyperion]], that began spending a deal of his time caring for and educating them becoming their "father".{{r|Avengers Vol 5 #12|13}}
+
+This species is totally self-sustained, they don't need to eat, breath or sleep, and develop at an incredible speed.{{r|Avengers Vol 5 12}}
+
+The Children of the Sun later helped [[Roberto Da Costa (Earth-616)|Sunspot]] investigate the [[Glossary:Incursion|Incursions]] and create a countermeasure for them.{{r|Avengers Vol 5 35}}
+
+After the restoration of the universe thanks to Reed Richards, the Children of the Sun started working for Avengers Idea Mechanics. {{r|New Avengers Vol 4 10}}
+
+| Habitat                 = 
+| Gravity                 = 
+| Atmosphere              = 
+| Population              = 
+
+| Powers                  = '''Self Sustenance''' The Origin Bomb of Children of the Sun was engineered by [[Ex Nihilo (Earth-616)|Ex Nihilo]] to exhibit one of the qualities he thought all life needed. Their purpose was self-sustenance and as such the Children have no physical needs such as sleep, food or air to sustain themselves.{{r|Avengers Vol 5 12}} 
+
+'''Living Power Plant''' The children generate their own internalized energy source without need of external outlets. Each and every child acting as a battery cell of sufficient enough power that six can be harnessed as living batteries for machinery as large as [[Terminus (Destroyer) (Earth-616)|Terminus]].{{r|Avengers Vol 5 13}}
+| Abilities               = 
+| AvgStrength             = 
+| Weaknesses              = 
+
+| GovernmentType          = Tribal
+| TechnologyLevel         = Primitive
+| CulturalTraits          = 
+| Representatives         = 
+
+| Notes                   = The seven "Origin Bombs" that Ex Nihilo was able to successfully seed the Earth with corresponded to certain attributes that their creator considered essential to a functioning sentient organism which he was trying to turn the Earth into. The Children of the Sun's function was "Self-Sustenance."{{r|Avengers Vol 5 15}}
+| Trivia                  = 
+| Links                   = 
+
+}}
+[[Category:Empowered by Ex Nihilo's Origin Bombs]]
+[[Category:Factions In The Game Of Worlds]]
+[[Category:Savage Land Races]]
+[[Category:Earth/Races]]
+[[Category:Self Sustenance]]

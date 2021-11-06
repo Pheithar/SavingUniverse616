@@ -1,0 +1,68 @@
+{{Marvel Database:Character Template
+| Image                   = New_Warriors_Vol_1_28_page_09_Donald_Clendenon_(Earth-616).jpg
+| Name                    = [[Donald Joshua Clendenon]]
+| CurrentAlias            = [[Harrier]]
+| Aliases                 = [[Donald Clendenon]], [[Cardinal]], [[Josh Clendenon]]
+
+| Affiliation             = Formerly {{m|Thunderbolts}}, {{m|Masters of Evil}}, {{m|Air Force}}
+| Relatives               = [[Valerie Barnhardt (Earth-616)|Valerie Barnhardt]] (daughter, deceased);<br>unnamed father, [[Amelia Barnhardt (Earth-616)|Sprocket]] (mother of his child), [[Fast (Sparrow) (Earth-616)|Sparrow]] (ex-girlfriend)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #5}}
+| Gender                  = Male
+| Height                  = 6'2"
+| Weight                  = 257 lbs
+| Eyes                    = Brown
+| Hair                    = Black; Shaved
+| UnusualFeatures         =
+
+| Origin                  =[[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = Birmingham, Alabama
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              =
+| Education               = 
+| BaseOfOperations        =
+
+| Creators                = Fabian Nicieza; Darick Robertson
+| First                   = New Warriors #28
+
+| History                 = Donald Clendenon served a tour of duty in the [[Vietnam War]] before going on to become a soldier of fortune. He first met Amelia Barnhardt during these days.{{r|Night Thrasher #5}}
+
+As Cardinal, Clendenon became the leader of the mercenary group known as the [[Air Force (Earth-616)|Air Force]], a band of individuals using winged body armor as their specific weapon and equipment of choice.{{r|New Warriors #35}}
+
+The Air Force often battled and were defeated by the [[New Warriors (Earth-616)|New Warriors]] during the course of their missions. During one such battle, [[Dwayne Taylor (Earth-616)|Night Thrasher]], blackmailed the Air Force into participating in African relief efforts.{{r|Night Thrasher #5}}
+
+During his time in Africa, Cardinal became convinced that the cause he had taken up was a noble one and worked hard to aid the needy, but his work ended when a group called the [[Undertow]] tried to kill the refugees. During the battle with Undertow, Cardinal was badly wounded. His friend [[Sparrow]] was captured, and the rest of the [[Air Force]] were killed.{{r|New Warriors #54|55}}
+
+Angry about an unsuccessful rescue of Sparrow, Cardinal returned to being a mercenary. This led him to join the [[Justine Hammer (Earth-616)|Crimson Cowl]]'s [[Masters of Evil (Earth-616)|Masters of Evil]] in their plot to blackmail the world's governments, but he was defeated and captured by the [[Thunderbolts (Earth-616)|Thunderbolts]] along with most of the other Masters.{{r|Thunderbolts #24|25}}
+
+Later, when the Thunderbolts' leader [[Clinton Barton (Earth-616)|Hawkeye]] was arrested and serving time at [[Seagate Prison|Seagate prison]] for illegal vigilante activities, Cardinal, and many other villains tried to kill him. Cardinal was soon freed from prison by the Crimson Cowl to rejoin the Masters of Evil. The Cowl promised to destroy Hawkeye, who they blamed for the death of Cardinal’s daughter, Valerie Barnhardt, who was killed while on a mission for the Thunderbolt's interim team.{{r|Thunderbolts #64}}
+
+In a turn of events, Hawkeye convinced Cardinal and a few other members of the Masters of Evil to side with him against the Crimson Cowl and their former allies, pointing out the dangers of a super-weapon she had created, a biological toxin that threatened to kill any villain who had ever worked with Hammer, including Cardinal. To keep their identities secret, Hawkeye made the villains reinvent their costumed identities, and Cardinal joined the Thunderbolts as Harrier, although he still blamed Hawkeye over the death of his daughter.{{r|Thunderbolts #65}}
+
+Cardinal, now know as Harrier, aided the Thunderbolts in defeating the Crimson Cowl and her Masters of Evil. During the battle, Harrier appeared to drop Hawkeye from a great height, but this was found to be the work of a villain who had seized control of the Harrier's armor. Harrier eventually forgave Hawkeye for his daughter’s death and chose to return to prison in order to serve the remainder of his sentence.{{r|Thunderbolts #67|75}}
+
+| Powers                  =
+| Abilities               = 
+
+Has some skill in engineering and inventing
+| Strength                =
+| Weaknesses              =
+
+| Equipment               = '''Cardinal and Harrier suit'''; using his suit, Donald had flight, underwater capability, electric blasts, and several other weapons.
+| Transportation          =
+| Weapons                 = A titanium net for capturing, 'tar pellets.' 
+
+| Notes                   =
+| Trivia                  =
+| Marvel                  =
+| Wikipedia               =
+| Links                   =
+}}
+[[Category:Armor Users]]
+[[Category:Engineers]]
+[[Category:Inventors]]
+[[Category:Vietnam War Characters]]

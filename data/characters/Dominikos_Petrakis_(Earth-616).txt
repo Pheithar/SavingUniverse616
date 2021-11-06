@@ -1,0 +1,123 @@
+{{Marvel Database:Character Template
+| Image                   = Dominikos Petrakis (Earth-616) from Villains for Hire Vol 1 1 001.jpg
+| Name                    = Dominikos Ioannis Petrakis
+| Name2                   = {{r|All-New Official Handbook of the Marvel Universe A to Z: Update #2|; Avalanche's entry}}
+| CurrentAlias            = Avalanche
+| Aliases                 = Dominic Janos Petros (anglicized version of his birth name),{{r|All-New Official Handbook of the Marvel Universe A to Z: Update #2|; Avalanche's entry}} Nick,{{r|X-Men: Manifest Destiny #5}} Dom, Petros,{{citation}} Jon Bloom,{{r|All-New Official Handbook of the Marvel Universe A to Z: Update #2|; Avalanche's entry}} Dominic Szilard,{{r|All-New Official Handbook of the Marvel Universe A to Z: Update #2|; Avalanche's entry}} Domenic Szilard{{citation}}
+
+| Affiliation             = {{m|Sentient World Observation and Response Department (Earth-616)|S.W.O.R.D.}}; formerly {{M|Brotherhood of Evil Mutants}},<!-- {{r|All-New Official Handbook of the Marvel Universe A to Z: Update #2|; Avalanche's entry}} --> {{M|X-Corps}},<!-- {{r|All-New Official Handbook of the Marvel Universe A to Z: Update #2|; Avalanche's entry}} --> {{m|Project Wideawake}},{{r|All-New Official Handbook of the Marvel Universe A to Z: Update #2|; Avalanche's entry}}<!-- not mentioned in the history text --> {{M|Freedom Force}},<!-- {{r|All-New Official Handbook of the Marvel Universe A to Z: Update #2|; Avalanche's entry}} --> {{M|Villains for Hire}}{{citation}}<!-- not mentioned in the history text -->
+| Relatives               = [[Helen Petrakis (Earth-616)|Helen Petrakis]] (wife);<br>
+[[Dancing Water (Earth-616)|Dancing Water]] (daughter, deceased)
+| MaritalStatus           = Married
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #1}}
+| Gender                  = Male
+| Height                  = 5'11"
+| Weight                  = 195 lbs
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Agios Nikolaós]], [[Crete]], [[Greece]]<!-- {{r|All-New Official Handbook of the Marvel Universe A to Z: Update #2|; Avalanche's entry}} -->
+| PlaceOfDeath            = 
+
+| Identity                = Known to Authorities<!-- {{r|All-New Official Handbook of the Marvel Universe A to Z: Update #2|; Avalanche's entry}} -->
+| Citizenship             = American, (Naturalized citizen with criminal record), [[:Category:Krakoans|Krakoan]], formerly [[:Category:Greeks|Greek]][[Category:Greeks]][[Category:Krakoans]]
+| Occupation              = Adventurer; former criminal, government agent, mercenary, terrorist, business owner, bartender
+| Education               = <!-- Unrevealed{{r|All-New Official Handbook of the Marvel Universe A to Z: Update #2|; Avalanche's entry}} -->
+| BaseOfOperations        = [[Krakoa (Earth-616)|Krakoa]], [[Pacific Ocean]]; formerly [[Freedom Force HQ]], [[Pentagon]], [[Washington DC]]; [[Virginia (State)|Virginia]]; Nick's, [[San Francisco]], [[California (State)|California]]
+
+| Creators                = Chris Claremont; John Byrne
+| First                   = X-Men #141
+| Death                   = 
+
+| Quotation               = Oh, way to go, Avalanche... Your first legit job, and you drop the [[Theodore Altman (Earth-616)|king of all cosmos]] in a hole. '''Hey, uh, if anyone asks, my name is [[Julio Richter (Earth-616)|Rictor]]!'''
+| Speaker                 = [[Dominikos Petrakis (Earth-616)|Avalanche]]
+| QuoteSource             = Last Annihilation: Wiccan & Hulkling Vol 1 1
+
+| History                 = 
+===Origin===
+Dominic Petros was born in [[Agios Nikolaós]], on the [[Greece|Greek]] island of [[Crete]].{{r|All-New Official Handbook of the Marvel Universe A to Z: Update #2|; Avalanche's entry}} A [[Homo superior|mutant]] with the powers to generate powerful seismic waves from his hands strong enough to shatter inorganic matter and create localized earthquakes. Seeing his own kind hunted and killed made him realize how ignorant mankind could be and he decided to hide his mutant powers from the world.{{citation}}
+
+===Brotherhood of Mutants===
+He was approached by the mutant known as [[Raven Darkholme (Earth-616)|Mystique]] to join the second incarnation of the [[Brotherhood of Evil Mutants (Earth-616)|Brotherhood of Mutants]] in hopes of assassinating [[Robert Kelly (Earth-616)|Senator Robert Kelly]] who wanted to register mutants.{{r|X-Men Vol 1 141}} They attacked him during Kelly's hearings on the menace that mutants allegedly pose to humanity in general, but were stopped by the [[X-Men (Earth-616)|X-Men]].{{r|Uncanny X-Men Vol 1 142}}
+
+Petros remained with the Brotherhood for quite some time, only briefly leaving to attempt to blackmail the state of California into paying him an enormous sum to prevent him from using his power to trigger a major earthquake. He returned to the Brotherhood after being stopped by the [[Bruce Banner (Earth-616)|Hulk]].{{r|Incredible Hulk Vol 1 263}}
+
+===Freedom Force===
+Petros was among the Brotherhood members when Mystique turned the team over to the government to serve time for their crimes as the government's strike force.{{r|Uncanny X-Men Vol 1 199}} Often finding themselves in semi-legitimate covert operations as a member of [[Freedom Force (Earth-616)|Freedom Force]], Petros clashed with several superhero teams such as the [[X-Men (Earth-616)|X-Men]] and the [[Avengers (Earth-616)|Avengers]].{{citation}}
+
+On a mission in [[Kuwait]] during the war of Operation: Desert Storm, Petros was forced to abandoned his Freedom Force teammates [[Frederick Dukes (Earth-616)|Blob]] and [[St. John Allerdyce (Earth-616)|Pyro]]. After this mission, Freedom Force was dissolved, and Petros became a free agent mercenary.{{citation}}
+
+===Legacy Virus===
+When Pyro, a good friend of Petros, was diagnosed with the [[Legacy Virus]],{{r|X-Men Annual Vol 2 2}} he did whatever he could to aid him in his struggle for survival. While free from the Legacy Virus himself, he would join a band of infected mutants to seek a cure by attempting to obtain [[Isotope-E]] from the [[Herbert Wyndham (Earth-616)|High Evolutionary]]. [[Pietro Maximoff (Earth-616)|Quicksilver]] was headquartered at the Evolutionary's base at the time and elicited help from [[Heroes for Hire]], who defeated the mutants.{{citation}}
+
+===X-Corps===
+Petros was later recruited by the X-Men's [[Sean Cassidy (Earth-616)|Banshee]] to form a paramilitary force that could police the mutant community, the [[X-Corps (Earth-616)|X-Corps]], which enjoyed official sanction from many countries in Europe. When the X-Men learned of the team's existence, they warned Banshee to abandon the idea because he had recruited several known villains.{{citation}}
+
+In fact, Banshee had imprisoned [[Martinique Wyngarde (Earth-616)|Martinique Jason]] and used her psychic powers to dull the violent impulses of the "reformed" villains on his team, including Petros. The villain Mystique infiltrated the X-Corps, under the guise of a mutant named "Surge", and freed Mastermind and the other villains. The villains embarked on a rampage through [[Paris (France)|Paris]] where Petros used his earthquake powers to destroy the [[Eiffel Tower]], but before more damage could be done, the X-Men were able to defeat the rogue villains.{{citation}}
+
+===Exodus' Brotherhood===
+When the Brotherhood reassembled under the leadership of [[Max Eisenhardt (Earth-616)|Magneto]]'s protégé [[Bennet du Paris (Earth-616)|Exodus]], Petros was among their number. The Brotherhood first appeared when they were terrorizing Philadelphia, but they were confronted by the X-Men. The Brotherhood were able to flee before their ultimate purpose was revealed, but they soon took the battle directly to the X-Men, using their member, [[Cain Marko (Earth-616)|Juggernaut]], to infiltrate the team.{{citation}}
+
+In fact, Juggernaut had turned a new leaf, and betrayed the Brotherhood to side with the X-Men. The X-Men only managed to hold the Brotherhood at bay until their associate [[Shen Xorn (Earth-616)|Xorn]] managed to defeat them all by removing his helmet and exposing the Brotherhood and the Juggernaut to the black hole it contained. They were all sucked inside.{{citation}}
+
+The black hole was a portal to [[Mojoworld]], where the Brotherhood would sell the traitor [[Talia Wagner (Earth-2182)|Nocturne]] and Juggernaut to [[Mojo (Mojoverse)|Mojo]] and [[Rita Wayword (Earth-616)|Spiral]] for a way back home. While Petros alongside [[Maximus Jensen (Earth-616)|Mammomax]] and [[Thomas Cassidy (Earth-616)|Black Tom]] made it back home, Exodus was accidentally transported to another realm. Leaderless, Petros left the team.{{citation}}
+
+===M-Day===
+After [[Decimation|M-Day]], Petros still had his powers, but with so many mutants gone, Petros thought his fight for mutant rights was a thing of the past and retired as a mercenary and activist/terrorist. Calling himself "'''Nick'''", he opened up a small bar (Nick's).{{r|X-Men: Manifest Destiny #5}}
+
+When the X-Men moved their headquarters to San Francisco, Petros was frightened that they would eventually come for him for his past crimes. As he was packing in hopes of leaving his new found life, the X-Men violently popped in with a friendly warning: they had a truce, but they would be back if he ever decided to return to a life of crime. As they left, with his apartment trashed, Petros looked around, mumbling to himself; ''"F@*!ing X-Men.."''{{r|X-Men: Manifest Destiny #5}}
+
+===Dark Reign===
+During the San Francisco riots after the arrival of the [[Humanity Now! (Earth-616)|Humanity Now! coalition]] in town, [[Julian Keller (Earth-616)|Hellion]], [[Lorelei Travis (Earth-616)|Lorelei]], [[Jeremiah Muldoon (Earth-616)|Meld]], [[Roberto Da Costa (Earth-616)|Sunspot]], [[Adam Neramani (Earth-616)|Adam X]], [[Ben Hammil (Earth-616)|Match]], and Avalanche met in his bar in the Sunset District of [[San Francisco]] and chose to oppose the [[H.A.M.M.E.R. (Earth-616)|H.A.M.M.E.R.]] curfew.{{r|Uncanny X-Men #513}} They were all stopped and jailed by the [[X-Men (Osborn) (Earth-616)|Dark X-Men]] and H.A.M.M.E.R agents.{{r|Dark Avengers #7}}
+
+===Second Coming & Schism===
+He joined the mutants on [[Utopia (X-Men Base)|Utopia]] at least part-time.{{r|X-Men: Legacy Annual #1}} Avalanche assisted in the defense of San Francisco against Juggernaut during the Serpent War.{{r|Uncanny X-Men #542}}
+
+Later, he was seen in the San Francisco subway system, fighting Nimrods alongside [[Paige Guthrie (Earth-616)|Husk]], [[Roberto Da Costa (Earth-616)|Sunspot]], and [[Tabitha Smith (Earth-616)|Boom-Boom]].{{r|New Mutants Vol 3 14}}
+
+He was offered a place at the Jean Grey School by Wolverine, but he declined due to the fact that he had a bar in San Francisco, along with the fact that being associated with Utopia offered him all kinds of protective benefits.{{r|X-Men: Regenesis #1}}
+
+===Ignoble Death===
+Avalanche was captured by the [[Red Skull]] and his [[S-Men (Earth-616)|S-Men]], who lobotomized him, removing his frontal cortex and replacing it with a machine that turned Avalanche into a murderous puppet. Avalanche was made to go berserk in New York, creating a terrorist attack to renew the populace's hatred and fear of mutants. After a brief fight with [[Captain America (Steve Rogers)|Captain America]], Avalanche was made to jump off a cliff, unwillingly killing himself.{{r|Uncanny Avengers #1}}
+
+===Krakoa===
+Avalanche was one of many mutants who were resurrected by the X-Men and invited to stay on the mutant nation of [[Krakoa (Earth-616)|Krakoa]].{{r|X-Force Vol 6 9}}
+
+Avalanche soon became an agent of [[Sentient World Observation and Response Department (Earth-616)|S.W.O.R.D.]], assisting [[Theodore Altman (Earth-616)|Emperor Hulkling]] and his allies against [[Dormammu (Earth-616)|Dormammu]]'s forces on [[Throneworld II]]. During the battle, Hulkling was grabbed by a [[Mindless Ones|Mindless One]], and in an attempt to help, Avalanche destroyed the bridge around them.{{r|Last Annihilation: Wiccan & Hulkling Vol 1 1}}
+
+| Powers                  = 
+Avalanche was a mutant with seismic wave generation.
+
+'''Seismokinesis:''' Avalanche was a mutant with the superhuman ability to generate powerful waves of vibrations from his hands, creating highly destructive effects through the air, water, and ground. The vibrations could cause small inorganic objects to be shatter or crumble into dust. When used upon the earth itself or against large inorganic objects such as buildings these generated vibrations can cause disastrous earthquake-like effects. Avalanche's control over his power was fine enough that he could move large objects, such as tanker trucks, without destroying them and even use them to smoothly throw his opponents off balance or weaken the structural integrity of building foundations or the ground itself. Avalanche could also cause tidal waves when directing his powers at large bodies of water and possibly even tsunamis. His greatest effects could be found when he used his powers on earth matter. When directing his powers at the ground he could cause ground tremors, forming waves of debris, open fissures in the earth, cause chunks of pavement or earth to blast up into the air and then fall in simulated landslides or avalanches. He often used his skills as a means of transportation by using waves of earth matter to ride atop. With enough concentration, Avalanche could direct this power at Earth's tectonic plates to cause large-scale disastrous effects. 
+
+When directed against large objects like buildings or upon the earth itself, the vibrations could produce effects similar to those of an earthquake or avalanches within limited areas. Avalanche need not touch an object to affect it: he could direct the vibrations against it from some distance away from it. 
+
+Avalanche was himself invulnerable to the effects of generating these intense vibratory waves. However, if the vibrations were to be reflected back upon him, he would be injured by it. There was no known limit to the amount of area upon which Avalanche used his powers at one time. However, there is no evidence that he could create an earthquake capable of destroying an entire city. Though he did manage to create large enough waves to cause great damage to city as big as [[Paris (France)|Paris]].{{r|Uncanny X-Men #406}}
+
+| Abilities               = * Dominikos was a talented landscape gardener.{{r|All-New Official Handbook of the Marvel Universe A to Z: Update #2|; Avalanche's entry}}
+* Avalanche was a fair hand-to-hand combatant and received unarmed combat training while a member of Freedom Force. He was also a skilled and experienced Greco-Roman wrestler. 
+| Strength                = Avalanche had the strength of a human male of his height, weight, build, and age who participated in intensive, regular exercise, and was strong enough to press at least his own body weight.
+| Weaknesses              = 
+* Avalanche's power had little or no effect on organic tissue. When he once used his power against the [[Bruce Banner (Earth-616)|Hulk]], the Hulk was uninjured, but the resulting feedback shattered the bones of Avalanche's arms (which have since completely healed). Hence, although Avalanche's vibrations have little or no effect on organic tissue, the reflected vibrations ("feedback") can injure him.
+| Equipment               = * Avalanche wore a body armor{{r|All-New Official Handbook of the Marvel Universe A to Z: Update #2|; Avalanche's entry}} battle suit with a helmet that gave him enhanced resistance to injury, up to and including protecting him from a land mine.{{citation}}
+* While participating as a member of the [[Freedom Force (Earth-616)|Freedom Force]] and [[X-Corps|X-Corps]], he used a two-way radio device for communication with the other members of the groups. On the Freedom Force this device was located in his helmet,{{citation}} and in the X-Corps it was located on the wrist of his uniform.{{citation}}
+
+| Transportation          = Ground "tidal waves", formerly the [[Freedom Force Helicopter]]
+| Weapons                 = 
+
+| Notes                   = '''O*N*E Danger Rating:''' Severe.
+| Trivia                  = * Avalanche once attempted to blackmail the state of California into paying him an enormous sum of money to prevent him from using his power to generate an devastating earthquake.{{r|Incredible Hulk #263}}<!-- can be added to the history text -->
+| Wikipedia               = Avalanche %28comics%29
+| Links                   = 
+* [http://marvel.com/universe/Avalanche {{PAGENAME}} at Marvel.com]
+}}
+[[hu:Dominic Szilard Janos Petros (616)]]
+[[it:Dominikos Petrakis (Terra-616)]]
+[[Category:Post-M-Day Mutants (The 198)]]
+[[Category:Suicide]]
+[[Category:Severe Threats]]
+[[Category:Seismokinesis]]

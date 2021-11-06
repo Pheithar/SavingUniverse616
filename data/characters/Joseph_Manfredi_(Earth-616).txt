@@ -1,0 +1,79 @@
+{{Marvel Database:Character Template
+| Image                   = Joseph Manfredi (Earth-616) from All-New Official Handbook of the Marvel Universe Update Vol 1 4.jpg
+| Name                    = [[Joseph Manfredi]]
+| CurrentAlias            = Blackwing
+| Aliases                 = Guiseppi Menfredi, Joe Silvermane{{r|New Warriors Vol 2 7}}
+
+| Affiliation             = Founder of {{m|Heavy Mettle}}; Former member of the {{m|Circus of Crime}}, the {{m|Manfredi Family (Earth-616)}} of the {{m|Maggia}} the {{m|Skeleton Crew}} and the {{m|Masters of Evil|Masters of Evil VII}}; Former division leader of {{m|Hydra}}
+| Relatives               = [[Silvio Manfredi (Earth-616)|Silvio Manfredi]] (father)<br>[[Catherine Manfredi (Earth-616)|Catherine Manfredi]] (mother, deceased)<br>[[Saya Ishii (Earth-616)|Saya Ishii]] (paternal half-sister)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #1}}
+| Gender                  = Male
+| Height                  = 6' 1"
+| Weight                  = 190 lbs
+| Eyes                    = Blue
+| Hair                    = Black
+| Hair2                   = ([[:Category:Dyed Hair|dyed]][[Category:Dyed Hair]] [[:Category:Brown Hair|brown]][[Category:Brown Hair]][[Category:Infobox Eyes Update Needed]])
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Orlando (Florida)|Orlando]], [[Florida (State)|Florida]]
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Professional Criminal
+| Education               = College graduate
+| BaseOfOperations        = [[New York City]]
+
+| Creators                = Gerry Conway; Don Heck
+| First                   = Daredevil #118
+
+| History                 = 
+===Early life===
+Joseph Manfredi was born in [[Orlando (Florida)|Orlando]],[[Florida (State)|Florida]], and is the son of [[Silvio Manfredi (Earth-616)|Silvio Manfredi]], better known as the crime lord "[[Silvermane]]".{{r|Official Handbook of the Marvel Universe Master Edition Vol 1 36}}
+
+===Circus of Crime===
+Somewhere along the line he learned how to control Bats and make them do his biding, he was then approached by the Ringmaster and his [[Circus of Crime (Earth-616)|Circus of Crime]]. They offered to let him join them in their life of given his talent to control Bats; Joseph accepted and became part of their team with his own costume and renaming himself "Blackwing".{{r|Power Man Vol 1 25}} While he was a member of the group, they battled against [[Matthew Murdock (Earth-616)|Daredevil]] and lost, while the others were captured, Blackwing escaped.{{r|Daredevil Vol 1 118}}
+
+===Hydra===
+[[File:Daredevil Vol 1 118.jpg|left|thumb]]
+Manfredi worked as an agent for Silvermane's [[Hydra (Earth-616)|Hydra]], serving as the Air Action Division Leader, when his father was leader their.{{r|Daredevil Vol 1 121}} He participated in the capture of [[Franklin Nelson (Earth-616)|Foggy Nelson]], and battled Daredevil, [[Natalia Romanova (Earth-616)|Black Widow]], [[Nicholas Fury (Earth-616)|Nick Fury]], and [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D]].{{r|Daredevil Vol 1 122}} He was once again defeated by Daredevil.{{r|Daredevil Vol 1 123}}
+
+===Skull House===
+Manfredi later teamed up with [[Steven Levins (Earth-616)|Jack O'Lantern]] to stake out his father's house when the Red Skull took the control of the base, turning the mansion into his so-called "[[Skull-House]]".{{r|Captain America Vol 1 396}} The duo searched the Skull House and battled [[Steven Rogers (Earth-616)|Captain America]] during this event. {{r|Captain America Vol 1 397}}
+
+===Skeleton Crew===
+After that Manfredi and Jack O'Lantern were recruited by [[Susan Scarbo (Earth-616)|Mother Night]] to join the [[Skeleton Crew (Earth-616)|Skeleton Crew]] after the [[Johann Shmidt (Earth-616)|Red Skull]] was impressed with their abilities.{{r|Captain America Vol 1 398}} Blackwing, Jack O'Lantern, and Cutthroat fought [[Brock Rumlow (Earth-616)|Crossbones]] and [[Rachel Leighton (Earth-616)|Diamondback]] before they joined the Skeleton Crew.{{r|Captain America Vol 1 #405|408}} He and the rest of the Skeleton Crew were defeated by Captain America, Diamondback, and [[Falcon]], and then taken to the Vault.{{r|Captain America Vol 1 409|410}}
+
+===Masters of Evil===
+The [[Justine Hammer (Earth-616)|Crimson Cowl]] recruited Blackwing to join her incarnation of the [[Masters of Evil (Earth-616)|Masters of Evil]]. He was defeated alongside them.{{r|Thunderbolts Vol 1 #24|25}}
+
+===Heavy Mettle===
+After that last defeat, Joseph abandoned the Blackwing identity and became a crime lord creating his own private villains in [[Heavy Mettle (Earth-616)|Heavy Mettle]].He ordered [[Dalton Beck (Earth-616)|Firestrike]] to bring him the [[Torpedo Armor]] of [[New Warriors (Earth-616)|New Warriors]] member [[Michiko Musashi (Earth-616)|Turbo]] in hopes of proving himself to his father and the other crime bosses of New York. The New Warriors defeated Joseph's group and Firestrike is currently in the Witness Protection Program in exchange for his testimony against Joseph Manfredi.{{r|New Warriors Vol 2 #2|7}}
+
+| Powers                  = 
+| Abilities               =  
+* '''Marksman:''' Manfredi is also a skilled marksman.{{r|Official Handbook of the Marvel Universe Vol 1 2}}
+* '''Bat Trainer:''' Manfredi is an expert trainer of bat.{{r|Official Handbook of the Marvel Universe Vol 2 6}}
+| Strength                = * Manfredi possesses the normal human strength of a man of his ages, and with his own height and build who engages in extensive regular exercise.{{r|Official Handbook of the Marvel Universe Master Edition Vol 1 36}}
+| Weaknesses              = 
+
+| Equipment               = * '''Mutated Bats:''' Manfredi has a has a number of specially mutated bats bred for abnormal strength, size, and intelligence.{{r|Official Handbook of the Marvel Universe Vol 2 7}}
+* '''[[Blackwing's Suit]]:'''  Manfredi wears a costume consisting of synthetic stretch fabric over chain mail body armor. Devices in his costume give him the power of flight for short distances, via directed motion hovering.{{r|All-New Official Handbook of the Marvel Universe A to Z: Update Vol 1 4}}
+
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = Blackwing
+| Links                   = 
+}}
+[[Category:Crimelords]]
+[[Category:Acrobats]]
+[[Category:Martial Arts]]
+[[Category:Shooting]]
+[[Category:Circus Performers]]

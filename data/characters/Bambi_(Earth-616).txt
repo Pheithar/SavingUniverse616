@@ -1,0 +1,48 @@
+{{Marvel Database:Character Template
+| Image                   = Bambi (Earth-616) from Defenders Vol 1 33 0001.jpg
+| Name                    = Bambi
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = Former pet of the [[Bruce Banner (Earth-616)|Hulk]]
+| Relatives               = unnamed mother (deceased)
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 5'10" 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = [[Deer]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Steve Gerber; Sal Buscema
+| First                   = Defenders Vol 1 31
+
+| History                 = "Bambi" was a deer that was saved from hunters by the Hulk, who named the deer after the popular animal character from the Disney story of the same name{{r|Defenders Vol 1 #31}}. The deer was kept at Dr. Strange's Sanctum Sanctorum and became the Hulk's pet. It later had its brain switched with that of Chondu the Mystic who, angered by having his brain transplanted into the body of a deer, tried to thwart the [[Defenders (Earth-616)|Defenders]] the best he could. It was kidnapped by the [[Ludberdites]]{{r|Defenders Vol 1 #33}} and attacked [[Jackson Norriss (Earth-616)|Jack Norriss]] (inhabiting [[Kyle Richmond (Earth-616)|Nighthawk]]'s body) when he arrived in their prison{{r|Defenders #34}}.
+
+Chondu's mind was transferred into a new composite body by [[Arthur Nagan (Earth-616)|Arthur Nagan]], much to his chagrin{{r|Defenders #35}}. The fate of Bambi is unknown, as the deer was not recovered by the Defenders, and the Hulk had lost interest in the creature.
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

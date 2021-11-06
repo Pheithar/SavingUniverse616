@@ -1,0 +1,41 @@
+{{Marvel Database:Organization Template
+| Image                   = THEM (Earth-616) from Tales of Suspense Vol 1 75 001.jpg
+| Name                    = THEM
+| Aliases                 = 
+
+| OrganizationLeaders     = [[Wolfgang von Strucker (Earth-616)|Grand Imperator]]
+| CurrentMembers          = 
+| FormerMembers           = 
+
+| Identity                = Secret
+| Affiliation             =
+| Allies                  = [[Georges Batroc (Earth-616)|Georges Batroc]]; [[Johann Shmidt (Earth-616)|Red Skull]]
+| Enemies                 = [[Steven Rogers (Earth-616)|Captain America]]; [[Nicholas Fury (Earth-616)|Nick Fury]]
+
+| Origin                  = 
+| Reality                 = Earth-616
+| Status                  = 
+| BaseOfOperations        = [[New York City]]
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+
+| Creators                = Stan Lee; Jack Kirby
+| First                   = Tales of Suspense Vol 1 75
+| History                 = 
+
+'''THEM''' was the central committee [[Wolfgang von Strucker (Earth-616)|Baron von Strucker]] set up to direct operations of two of [[Hydra (Earth-616)|Hydra]]'s subsidiaries: [[Advanced Idea Mechanics (Earth-616)|Advanced Idea Mechanics]] and the [[Secret Empire (Earth-616)|Secret Empire]].{{r|Strange Tales Vol 1 149}}{{r|All-New Official Handbook of the Marvel Universe A to Z Vol 1 5}}
+
+During their tenure, THEM helped [[Norbert Ebersol (Earth-616)|Fixer]] develop advanced technology,{{r|Strange Tales Vol 1 142}} revived the Red Skull from his 1945 suspended animation, developed the [[Cosmic Cube]], almost detonated [[New York City]] with their chemical bomb [[Inferno 42]], and made several attempts to eliminate [[Steven Rogers (Earth-616)|Captain America]] and [[Nicholas Fury (Earth-616)|Nick Fury]].{{r|Tales of Suspense Vol 1 75|79}}
+| Equipment               = [[Chemical Android]]
+| Transportation          = 
+| Weapons                 = 
+| Notes                   = 
+
+* '''THEM''' were the first to don the distinctive "beekeeper" uniforms still worn by A.I.M. agents today.{{r|Tales of Suspense Vol 1 78}}
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Terrorist Organizations]]
+[[Category:Hydra Projects]]
+[[Category:Stan Lee/Creator]]
+[[Category:Jack Kirby/Creator]]

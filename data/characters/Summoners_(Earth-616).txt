@@ -1,0 +1,53 @@
+{{Marvel Database:Team Template
+| Image                   = Summoners (Earth-616) from X of Swords Destruction Vol 1 1 001.jpg
+| Name                    = [[Summoner|Summoners]]
+| EditorialNames          = 
+| Aliases                 = Summoners of Arakko,{{r|X-Men Vol 5 2}} Summoners of Amenth{{r|X-Men Vol 5 12}}
+
+| Status                  = Active
+| Identity                = Secret
+| Reality                 = Earth-616
+| BaseOfOperations        = [[Blightspoke]], [[Otherworld]]; formerly [[Arakko (Earth-616)|Arakko]], [[Amenth]]
+
+| Leaders                 = Formerly [[War (First Horsemen) (Earth-616)|War]]
+| CurrentMembers          = 600 Summoner Minors, 30 Summoner Adepts, 2 High Summoner (Roughly)
+| FormerMembers           = [[Summoner (Arakko) (Earth-616)|High Summoner of Arakko]] (deceased), other casualties
+| Allies                  = [[Opal Luna Saturnyne (Earth-9)|Omniversal Majestrix Saturnyne]]; formerly [[Annihilation (Earth-616)|Annihilation]], [[Swordbearers of Arakko (Earth-616)|Swordbearers of Arakko]], [[Horsemen of Apocalypse (Earth-616)|First Horsemen]], [[Daemons]], [[Elementals (Race)|Elementals]]
+| Enemies                 = [[X-Men (Earth-616)|X-Men]], [[Swordbearers of Krakoa (Earth-616)|Swordbearers of Krakoa]], [[Captain Britain Corps (Multiverse)|Captain Britain Corps]], [[Vescora]]
+
+| Origin                  = Group of [[Homo superior|mutant]] able to bind and summon various entities and beings
+| PlaceOfFormation        = Unknown, Possibly Earth
+| PlaceOfDissolution      = 
+| Creators                = Jonathan Hickman; Leinil Francis Yu
+| First                   = X-Men Vol 5 2
+| Last                    = X of Swords: Destruction Vol 1 1
+
+| Overview                = The Summoners of [[Arakko (Earth-616)|Arakko]] and [[Amenth]], are immortal nameless priests{{r|X-Men Vol 5 2}} of a religion  devoted to an unknown god. The Summoners, as evident from the circular symbols on the front of their bodies, are separated in three classes: Summoner Minor who can summon a single host or minor [[Demons|daemon]]; Summoner Adept who can summon a small horde of minor daemons and major [[Elementals (Race)|Elemental]]; and High Summoner who can summon a horde of Elementals and three major daemons.{{r|X-Men Vol 5 12}}
+
+| HistoryText             = The Summoners have been around since the first war between [[Amenth]] and [[Okkara (Earth-616)|Okkara]]. A female Summoner was present at the negotiation between the Okkaran and Amenthi forces, and departed in [[Arakko (Earth-616)|Arakko]] to seal off the portal to Amenth and was seemingly on the side of the mutants.{{r|X-Men Vol 5 13}}
+
+On the other side a number of Okkaran mutants were overwhelmed by the hellish energies of the planet and ran off resulting in their capture by [[Annihilation (Earth-616)|Annihilation]] who then forced these mutants to breed with her [[Daemons]] creating the hybrid sub-race known as the [[Locus Vile (Earth-616)|Vile Schools]].{{r|X-Men Vol 5 14}} This was a secret project of the Summoners who formed another branch to seemingly serve Amenth, which they did for millenia.
+
+During the hundreds of years of war the summoners of Arakko allegedly began to drop,{{r|X-Men Vol 5 2}} but with the secret branch serving Amenth they were actually at full strength.{{r|X-Men Vol 5 12}}
+
+The High Summoner of Arrako, who had been born there was sent to find his grandfather [[En Sabah Nur (Earth-616)|Apocolypse]]{{r|X-Men Vol 5 2}} This spurred his grandmother [[Genesis (Earth-616)|Genesis]] to became one with Annihilation, conquering what she saw as a fallen Arakko in the name of Amenth, the Summoners became a prison guards of the Arakkii population's enemies.{{r|X-Men Vol 5 14}}
+
+The High Summoner returned to Arrako through the [[External Gate]] his grandfather made for him.{{r|X-Men Vol 5 12}} He wounded his own guard who were sent Apocalypse to accompany him and returned to Krakoa for more assistance. He was able to bring his grandfather and his team of Krakoans to Otherworld where he was greeted by his family that had surrendered to Amenth and Annihilation and attacked Apocalypse and his team.{{r|X of Swords: Creation Vol 1 1}}
+
+During the war between Amenth and [[Krakoa (Earth-616)|Krakoa]] in [[Otherworld]], all of the Summoners were summoned at the Otherworld battlefield so they could help Annihilation in conquering Krakoa. However, they weren't enough and after Annihilation's defeat, the Summoners were left on [[Blightspoke]] where they yoke the survivors of dead [[Multiverse|realities]] making it easier for the [[Vescora]] to strip-mine the place, all in the service of [[Opal Luna Saturnyne (Earth-9)|Saturnyne]] their new Mistress.{{r|X of Swords: Destruction Vol 1 1}}
+
+| Equipment               = 
+| Transportation          = 
+Interdimensional Travel{{r|X-Men Vol 5 2}}{{r|X of Swords: Destruction Vol 1 1}}
+| Weapons                 = The [[Summoner (Arakko) (Earth-616)|High Summoner of Arakko]] wielded the blade known as [[Colony (Sword)|Colony]].{{r|X of Swords: Creation Vol 1 1}}
+
+| Notes                   = * The history of the Summoners is somewhat confused, especially since their High Summoner is a noted liar.{{r|X of Swords: Creation Vol 1 1}}
+| Trivia                  = * The Summoners and the beings they summon seem to be based on the [[Cthulhu Mythos]].
+| Links                   = 
+}}
+[[Category:Mutant Organizations]]
+[[Category:Summoning]]
+[[Category:Mystical Organizations]]
+[[Category:Interdimensional Organizations]]
+[[Category:Extradimensional Religions]]
+[[Category:Cthulhu Mythos Pastiches]]

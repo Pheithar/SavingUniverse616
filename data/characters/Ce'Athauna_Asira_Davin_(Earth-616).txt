@@ -1,0 +1,63 @@
+{{Marvel Database:Character Template
+| Image                   = Ce'Athauna Asira Davin (Earth-616) from FF Fifty Fantastic Years Vol 1 1 001.png
+| Name                    = Ce'Athauna Asira Davin
+| Title                   = Asira
+| CurrentAlias            = 
+| Aliases                 = Chanté Giovanni Brown,{{r|Black Panther Vol 3 13}} Queen Divine Justice,{{r|Black Panther Vol 3 13}} [[Asefa]],{{r|Black Panther Vol 6 17}} [[Ras the Exhorter]]{{r|Black Panther Vol 1 170}}
+
+| Affiliation             = Formerly {{m|Hydra}}, {{m|White Gorilla Cult}}, {{m|Jabari Tribe}}, {{M|Dora Milaje}}
+| Relatives               = Damola (father, deceased);<br>Unnamed mother (deceased);<br>Toyosi (foster parent);<br>[[M'Baku (Earth-616)|M'Baku]] (cousin);<br>[[Mandla (Earth-616)|Mandla]] (cousin, deceased)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|FF: Fifty Fantastic Years #1}}
+| Gender                  = Female
+| Height                  = 5'2"
+| Weight                  = 96 lbs
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Wakanda]]
+
+| Identity                = Public
+| Citizenship             = Wakandan
+| Occupation              = Prophet; former Queen of the [[Jabari Tribe (Earth-616)|Jabari Tribe]], [[Dora Milaje (Earth-616)|Dora Milaje]]
+| Education               = High school (unfinished), Dora Milaje training, extensively self-read
+| BaseOfOperations        = [[Birnin Benhazin]], [[Kinamasi Region]], [[Wakanda]]; formerly [[Jabari Village]], [[Jabari-Lands]], [[Wakanda]]
+
+| Creators                = Christopher Priest; Sal Velluto
+| First                   = Black Panther Vol 3 13
+
+| History                 = 
+===Early Life===
+'''Ce'Athauna Asira Davin''' was born in [[Wakanda]], princess to the [[White Gorilla Cult (Earth-616)|White Gorilla-worshiping]] [[Jabari Tribe (Earth-616)|Jabari Tribe]]. After her parents were killed in a tribal dispute with the reigning Black Panther cult, she was taken to [[United States of America|America]] and raised in secret by one of [[T'Challa (Earth-616)|King T'Challa]]'s warriors, posing as her grandmother.{{r|Black Panther Vol 3 #34|35}} Christened '''Chante Giovanni Brown''', she grew up ignorant of her true heritage, and as a teenager, Chante became an amateur activist in her [[Chicago (Illinois)|Chicago]] neighborhood, calling herself '''Queen Divine Justice'''.{{r|Black Panther Vol 3 13}} When an opening occurred in the order of the [[Dora Milaje (Earth-616)|Dora Milaje]], ceremonial "wives-in-training," the Black Panther came to Chicago and informed Queen of her Wakandan heritage.{{r|Black Panther Vol 3 #16|17}}
+
+===Dora Milaje===
+Queen enjoyed learning more about her heritage, but was not quick to adapt to the technically servile relationship the Dora Milaje had with the King. Dora Milaje were meant to speak only in the Hausa dialect, and then only to the king or each other, rules Queen frequently ignored. Her casual demeanor led the Wakandan exile N'Kano to become interested in her without realizing she was Dora Milaje and technically promised to the king.{{r|Black Panther Vol 3 #26|29}}
+
+Although Queen was informed she was Wakandan when recruited, the details of her Jabari heritage were kept from her even then. Only after an encounter with M'Baku did she learn the death of her parents could be traced to the King's agents.{{r|Black Panther Vol 3 #34|35}} As she continued to flaunt the traditions of Wakanda and bonded with her ancestral people, Queen inadvertently brought the Wakandas and Jabari to the brink of war. She wished to talk peace with the king, but his relationship with M'Baku and increasing instability due to an aneurysm led to Queen being struck down in a conflict. Only when she weakly begged both her people to stop fighting did the struggle end.{{r|Black Panther Vol 3 #48|49}}
+
+===Ras===
+[[File:Ce'Athauna Asira Davin (Earth-616) from Black Panther Vol 6 17 001.jpg|thumb|left|As Ras the Exhorter]]
+
+Queen and N'Kano remained in exile from Wakanda after this, and she began using her birth name of Asira. Asira was later kidnapped by [[Hydra (Earth-616)|Hydra]] while jogging in [[Manhattan]]'s [[Riverside Park]]. She was experimented on by [[Johann Fennhoff (Earth-616)|Doctor Faustus]],{{r|Black Panther Vol 6 14}} who twisted Asira's hidden dark thoughts to turn her to their side.{{r|Black Panther Vol 1 171}} She infiltrated [[Birnin Benhazin]], Wakanda under the identity of a villager calling themselves Asefa, who prophetized the deity [[Adversary (Earth-616)|Sefako]] and became known as Ras the Exhorter. With help from Sefako, Ras the Exhorted aided the village during the numerous attacks that plagued Wakanda, which helped discredit Wakanda's own gods, the [[Gods of Wakanda (Earth-616)|Orisha]].{{r|Black Panther Vol 6 17}} During a confrontation in [[Lake Victoria|Nyanza]], [[Zawavari (Earth-616)|Zawavari]] unmasked Ras, revealing her true identity as Asira.{{r|Black Panther Vol 1 170}} She was subsequently taken to the [[Dark Room Labs]] and treated. Her persona of Ras the Exhorter was chained inside her mind, and Asira returned to her normal self.{{r|Black Panther Vol 1 171}}
+
+| Powers                  = 
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = * http://www.marvel.com/universe/Queen_Divine_Justice
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:M'Baku's Family]]

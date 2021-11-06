@@ -1,0 +1,238 @@
+{{Marvel Database:Character Template
+| Image                   = Susan Storm (Earth-616) from Fantastic Four Vol 6 34 cover 001.jpg
+| Name                    = [[Susan Storm|Dr. Susan "Sue" Storm Richards]]
+| NameRef                 = {{r|Fantastic Four Vol 6 2}}
+| CurrentAlias            = [[Invisible Woman]]
+| Aliases                 = [[Artemis|Artemis-5]],{{r|Captain America Vol 9 11}} [[Doom|Baroness von Doom]],{{r|Fantastic Four Vol 3 27}} [[Captain Universe]],{{r|Captain Universe: Invisible Woman Vol 1 1}} [[Invisible Girl]],{{r|Fantastic Four Vol 1 1}} [[Malice]],{{r|Fantastic Four Vol 1 280}} Mrs. Invisible,{{r|Sensational Spider-Man Vol 2 25}} Mrs. Ryan Landau,{{r|Civil War Vol 1 5}} Nurse Franklin,{{r|Sentry Vol 2 7}} Sue Benjamin{{r|Fantastic Four Vol 1 268}} Stormy{{r|Invisible Woman Vol 1 2}}
+
+| Affiliation             = {{m|Fantastic Four}} (founding member), {{m|Future Foundation}}, {{m|Daughters of Liberty}}; formerly {{m|Strategic Homeland Intervention, Enforcement and Logistics Division|S.H.I.E.L.D.}}, {{m|Avengers}}, {{m|Fantastic Four, Inc.}}, {{m|Lady Liberators}}, {{m|Friends of Miss America (Earth-616)|Friends of Miss America}} (founding member){{r|Fantastic Four Vol 1 558}}, {{m|Secret Avengers (Civil War)|Secret Avengers}}, {{m|50-State Initiative|Initiative}}, {{m|Brides of Set}}, {{m|Hounds (Earth-811)|Hounds}}, {{m|Headbangers}}
+| Relatives               = [[Franklin Storm (Earth-616)|Franklin Storm]] (father, deceased);<br>
+[[Mary Storm (Earth-616)|Mary Storm]] (mother, deceased);<br>
+[[Marygay Dinkins (Earth-616)|Marygay Jewel Dinkins]] (paternal aunt);<br>
+[[Evelyn Richards (Earth-616)|Evelyn Richards]] (mother-in-law, deceased);<br>
+[[Nathaniel Richards (Earth-616)|Nathaniel Richards]] (father-in-law);<br>
+[[Jonathan Storm (Earth-616)|Jonathan Storm]] (brother);<br>
+[[Reed Richards (Earth-616)|Reed Richards]] (husband);<br>
+[[Franklin Richards (Earth-616)|Franklin Richards]] (son);<br>
+[[Valeria Richards (Earth-616)|Valeria Richards]] (daughter);<br>
+[[Vil (Earth-616)|Vil]] and [[Wu (Earth-616)|Wu]] (wards);{{r|FF #1}}<br>
+[[Bones (Earth-616)|Bones]] (cousin):<br>
+[[Lyja (Earth-616)|Lyja]] (ex-sister-in-law);<br>
+[[Venom (Symbiote) (Earth-616)|Venom]] (former symbiote){{r|Spider-Man / Fantastic Four Vol 1 2}}
+| MaritalStatus           = Married
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 5'6"
+| Weight                  = 120 lbs
+| Eyes                    = Blue
+| Hair                    = Blonde
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Humans]] [[Glossary:Mutate|mutate]]d by cosmic rays
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Glenville]], [[Long Island]], [[New_York (State)|New York]] 
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = Adventurer, Regent of the [[Uhari]] throne at [[Peak (Antarctica)|The Peak]]; formerly substitute teacher, actress, spy, student
+| Education               = Doctorate in unrevealed field;{{r|Fantastic Four Vol 4 4}} high school education
+| BaseOfOperations        = Formerly [[Baxter Building]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]; [[Stark Tower|S.H.I.E.L.D. Station: Golgotha]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]; [[S.H.I.E.L.D. Helicarrier]]; [[Pier Four|Pier 4]]; Antarctic lab; [[Four Freedoms Plaza]]; [[Belle Porte]], [[Connecticut (State)|Connecticut]]
+
+| Creators                = Stan Lee; Jack Kirby
+| First                   = Fantastic Four #1
+| First2                  = (as Invisible Girl)<br>{{sld|Fantastic Four Vol 1 284}}(as Invisible Woman)
+
+| Quotation               = I know that, [[Reed Richards (Earth-616)|darling]]. But... But I know a lot of other things now. Things I think I've been trying to put aside, to postpone... Something a lot like '''growing up''', perhaps. The [[Psycho-Man (Earth-616)|Psycho-Man]] did more than twist my emotions. He forced me to look into the deepest corners of my '''soul''', forced me to confront who I am, what have I become. When [[Fantastic Four (Earth-616)|we]] rocketed into the cosmic ray belt, when we gained our powers, we '''lost''' something. An innocence. A child-like naivety. For a long time I've tried to go on as if we're still the same people we used to be, As if '''I''' was still the same. But I'm not. Not after all that's happened to us. Not after what the Psycho-Man did to me. There is no '''Invisible-Girl''' anymore, Reed. She '''died''' when the Psycho-Man twisted her soul. From now on, I am the <big>'''[[Invisible Woman]]!'''</big>
+| Speaker                 = [[Susan Storm (Earth-616)|Invisible Woman]]
+| QuoteSource             = Fantastic Four Vol 1 284
+
+| Overview                = '''Dr. Susan "Sue" Richards'''{{r|Fantastic Four Vol 6 2}} (''née'' '''Storm'''{{r|Fantastic Four #1}}), aka the  '''Invisible Woman''',{{r|Fantastic Four 22}} is an American superpowered adventurer. She was a college student before she was exposed to high levels of [[Glossary:Cosmic Radiation|cosmic radiation]] when boyfriend and scientist, [[Reed Richards (Earth-616)|Dr. Reed Richards]], took her with her younger brother, [[Jonathan Storm (Earth-616)|Johnny Storm]] and pilot [[Benjamin Grimm (Earth-616)|Ben Grimm]], into space in the stolen rocket [[Marvel-1]]. The radiation mutated her and her friends, turning her invisible and allowing her to create forcefields.{{r|Fantastic Four #1}} Together they became the [[Fantastic Four (Earth-616)|Fantastic Four]], a team of adventurers who explored [[Glossary:Space|space]], [[Glossary:Time|time]] and [[Glossary:Dimension|alternate dimensions]] and saved the world along the way from science-based threats.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 7}}
+
+| History                 = 
+<center>''This is an abridged version of Susan Storm's history. For a complete history see '''[[Susan Storm (Earth-616)/Expanded History|Susan Storm's Expanded History]]'''''</center>
+
+===Early Years===
+Susan Storm and her younger brother, [[Jonathan Storm (Earth-616)|Johnny]], lived uneventfully on [[Long Island]] until their mother, [[Mary Storm (Earth-616)|Mary Storm]], died in an automobile accident. Their father, [[Franklin Storm (Earth-616)|Franklin Storm]], a doctor, failed to save her. Despondent, he began to drink and gambled away the family fortune, eventually winding up in a penitentiary for murder after accidentally killing his loan shark.{{r|Fantastic Four #32}} The children went to live with their Aunt Marygay Jewel Dinkins, who ran a boarding house. When Susan was in her late teens, she fell in love with one of her aunt's boarders, [[Reed Richards (Earth-616)|Reed Richards]], who was working on his third doctorate at [[Empire State University|Empire State University]].{{r|Fantastic Four Vol 4 #4}}{{r|Thing Vol 1 #2}} Sue later followed Richards to [[California (State)|California]], where she halfheartedly tried to break into show business.
+
+Reed was working on an experimental faster-than-light rocketship called the ''[[Marvel-1]]'' that he intended to use to explore an Earthlike planet named [[Spyre]] located 44 lightyears away. When the project lost its government funding, he decided to launch the prototype, certain that the flight would succeed and attract more funding, and Sue went along for her own reasons.{{r|Fantastic Four #1}} [[Benjamin Grimm (Earth-616)|Ben Grimm]], a test pilot, took the controls. Johnny filled out the crew. When the rocketship passed through a storm of cosmic rays, it was hit with an unexpected intensity that caused the ship to crash back to Earth. The experience gave each of them superhuman abilities, and perhaps more importantly, it forged almost unbreakable bonds between them. They became the [[Fantastic Four (Earth-616)|Fantastic Four]], and Storm took the name Invisible Girl.{{r|Fantastic Four #1}}
+
+===Fantastic Four===
+In the early years of the Fantastic Four, Sue spent much of her time keeping the team together. Reed spent long hours in his laboratory; Grimm moped over his appearance; Johnny acted out like any teenager. Her power of invisibility had little use in battling super-villains such as [[Victor von Doom (Earth-616)|Doctor Doom]] and [[Galan (Earth-616)|Galactus]], but her empathy and common sense prevented several breakups and defections. Her discontent manifested itself in an attraction to [[Namor McKenzie (Earth-616)|Namor]],{{r|Fantastic Four #6}} who returned her affections, but the relationship effectively ended after Namor abducted Sue in an attempt to persuade her to be his queen.{{r|Fantastic Four #27}}
+
+She soon discovered new powers: she could turn other objects (besides herself) invisible and project and manipulate powerful force fields.{{r|Fantastic Four #22}} Although unable to perform offensively on a par with the Thing, she could defend against almost any threat.
+
+When the [[Kl'rt (Earth-616)|Super-Skrull]], possessing the combined powers of the Fantastic Four, attacked the team, the Human Torch managed to trap him inside a cave,{{r|Fantastic Four #18}} but the Super-Skrull escaped and impersonated Sue's father, Franklin Storm. The Four exposed the Super-Skrull, but the Skrulls strapped a bomb to the real Franklin's chest, and Franklin sacrificed his own life to save his children.{{r|Fantastic Four #32}} A trip to the Skrull homeworld and the death of [[Morrat (Earth-616)|Warlord Morrat]], the Skrull who authorized Franklin's murder, brought some measure of revenge.{{r|Fantastic Four #37}}
+
+===Motherhood===
+Sue eventually married Reed in a wedding ceremony attended by most of the world's heroes.{{r|Fantastic Four Annual #3}} A difficult pregnancy followed, during which [[Crystalia Amaquelin (Earth-616)|Crystal]] of the [[Inhumans]] took her place on the team. At the last moment, to save the unborn child, the Fantastic Four had to visit the [[Negative Zone]] and borrow the [[Cosmic Control Rod]] of [[Annihilus (Earth-616)|Annihilus]].{{r|Fantastic Four Annual #6}} Her son [[Franklin Richards (Earth-616)|Franklin]], named after her father, manifested strong and unusual powers almost immediately. When Annihilus kidnapped Franklin and triggered those powers, he turned Franklin into a living bomb and caused his powers to increase exponentially and uncontrollably, until Franklin threatened to wipe out all life in the solar system with a psychic blast. Reed was left with no choice but to inhibit Franklin's higher brain functions in order to defuse him. It was the last straw for Sue, who left Mr. Fantastic and took Franklin with her.{{r|Fantastic Four #141}}
+
+During Sue Storm's second hiatus, the Inhuman [[Medusalith Amaquelin (Earth-616)|Medusa]] took her place. The old bonds, though, drew Susan back to the team and led her to rekindle her relationship with Reed.{{r|Fantastic Four #149}} Franklin was restored to normal soon after, and the Richards family was back together once more.{{r|Fantastic Four #150}}
+
+During an extended trip to the Negative Zone, a sort of second honeymoon, she conceived another child. Seeking some peace for this pregnancy, Sue convinced Mr. Fantastic to move to the [[Connecticut (State)|Connecticut]] suburbs, where they posed as the Benjamins. This unborn daughter began to give off radiation. Despite the efforts of Mr. Fantastic and several other experts, the girl was apparently stillborn.{{r|Fantastic Four #268}}
+
+When the [[Venom (Symbiote) (Earth-616)|symbiote]] escaped from [[Baxter Building]] with the help of [[Kristoff Vernard (Earth-616)|Kristoff Vernard]], the symbiote tries to possess Franklin, fighting the Fantastic Four while possessing Reed's body and possessing Sue in order to get to Franklin, but Franklin was able to reject the symbiote thanks to his father and Spider-Man's help.{{r|Spider-Man / Fantastic Four Vol 1 2}}
+
+===Malice===
+[[Psycho-Man (Earth-616)|Psycho-Man]] took advantage of Sue's fragile self-control at this point and amplified her negative emotions. She became Malice, with all of the Invisible Girl's powers but none of her restraint, and attacked the Fantastic Four. Mr. Fantastic helped her throw off Psycho-Man's influence, but she lost control again when the Fantastic Four confronted Psycho-Man; she turned his own Control Box on him, which shorted out his nervous system and nearly killed him.{{r|Fantastic Four #280|283}} The episode would have lasting effects: the Invisible Girl changed her name to Invisible Woman; she discovered how to use Force Objects (see Powers below); and in the long term, she lost a measure of self-confidence, knowing that Malice still lurked inside her.
+
+Sue left the Fantastic Four again, this time with Mr. Fantastic, to spend time with Franklin, who had regained his faculties and needed full-time mentoring.{{r|Fantastic Four #304}} They worked part-time with the [[Avengers (Earth-616)|Avengers]] for a while. They also helped the [[Norrin Radd (Earth-616)|Silver Surfer]] resuscitate Galactus, during which Sue came in contact with the [[Infinity Stones|Infinity Gems]]. Distrustful of such power, she fell prey to Malice again. The soul gem tried and failed to combine Reed's and Sue's souls, which brought forth the [[In-Betweener (Earth-616)|In-Betweener]] and sent Malice back to Sue's subconscious.{{r|Silver Surfer Vol 3 #15|16}}
+
+The Fantastic Four, as always, pulled them back.{{r|Fantastic Four #326}} During the [[Infinity War]], Sue had to confront her doppelganger and incorporate its evil into herself. That boost allowed Malice to regain control temporarily.{{r|Fantastic Four #369}} Later, claiming that Franklin's presence in this timeline would lead to destruction, Reed Richards' father [[Nathaniel Richards (Earth-616)|Nathaniel]] abducted the child into the future. Nathaniel raised Franklin for years in the future, training him to be a warrior and to master his superhuman powers. The adolescent Franklin journeyed back in time, arriving in the Fantastic Four's headquarters mere moments after Nathaniel had abducted him as a child. The teenage Franklin called himself [[Franklin Richards (Earth-6311)|Psi-Lord]], and wielded vast psionic powers, although they remained far short of his full potential.
+
+Sue struggled against Malice's influence, inevitably losing ground. When Malice manifested again, Psi-Lord drew Malice's essence into himself.{{r|Fantastic Four #392}} Finally, however, Psi-Lord somehow was removed from the Fantastic Four's time and was replaced by the child Franklin, as he had been at the time that Nathaniel had abducted him. 
+
+===Leader===
+That was only the beginning of a tumultuous period. Reed disappeared for some time, apparently killed by Victor Von Doom.{{r|Fantastic Four #381}} Sue Storm became leader of the Fantastic Four, recruited [[Scott Lang (Earth-616)|Ant-Man]] to take over Reed's role, and quickly grew into her new responsibilities. Effectively a widow, Sue had to fend off many potentials suitors, especially Namor. She never gave up looking for Richards, though, and after a long search, she found him stranded in the past.{{r|Fantastic Four #407}} Their reunion was bittersweet; Reed felt threatened at first by Sue's newfound competence and confidence, particularly since months trapped in isolation had left him severely traumatized, paranoid, and indecisive, although he soon realized he was foolish for thinking so.{{r|Fantastic Four #412}} After Reed's return, Namor realized he still had feelings for Sue and assaulted her in an attempt to "claim" her for himself. Reed successfully fended him off.{{r|Fantastic Four #412}}
+
+The whole team appeared to die next, in the final battle with [[Onslaught (Psychic Entity) (Earth-616)|Onslaught]], who had kidnapped Franklin. Instead they (and the Avengers) found themselves on [[Counter-Earth (Heroes Reborn)|Counter-Earth]], in a pocket universe Franklin had created to save them. In a sense, they had been reborn and had to start their lives over.{{r|Fantastic Four Vol 2}} Once the heroes on Counter-Earth realized what had happened, they returned to their original homes.{{r|Heroes Reborn: The Return #1}} 
+
+===Continuing Adventures===
+An even more surprising resurrection unfolded during the team's reality-warping conflict with the cosmic being [[Abraxas (Multiverse)|Abraxas]] when Franklin revealed he had used his powers to rescue Sue's seemingly stillborn second child years earlier, and that this child had been raised in an alternate future to become the [[Valeria von Doom (Earth-99315)|Marvel Girl]] (Valeria Von Doom) who was now an ally of the present-day Fantastic Four. As a side-effect of Abraxas's defeat, Marvel Girl was restored to her original state, as an unborn child in Sue's womb. This time, Sue's pregnancy resulted in the birth of a healthy baby girl, christened [[Valeria Richards (Earth-616)|Valeria]] in memory of Doctor Doom's first love. (Doom had insisted on naming the child in exchange for assisting with the difficult birth.) 
+
+To help Johnny develop responsibility, Sue forced him to become the business manager for Fantastic Four, Inc., a job he gradually grew into.
+
+Doom's favors, as always, had strings attached. His main focus had shifted from science to sorcery, and he used his special bond with Valeria as a focus to cast spells against the Fantastic Four. He soon defeated them, captured all four, tossed Franklin into Hell, abducted Valeria, and tortured Ben, Johnny, and Sue while Reed listened helplessly. Doom's own hubris led to his downfall--his infernal patrons dragged him to the underworld of Haazareth.{{r|Fantastic Four Vol 1 500}} Prior to being dragged to Hell, however, Doom vindictively--and seemingly permanently--scarred Reed's face.
+
+The Fantastic Four were left reeling, both mentally and physically, after Doom's vicious attack. Sue struggled to help heal her son, who was so traumatized by his time being tortured in Hell that he shut down emotionally and lost the ability to speak.{{r|Fantastic Four #501|502}}
+
+With Doom gone, Richards claimed [[Latveria]] in the name of the Fantastic Four and began dismantling Doom's arsenal.{{r|Fantastic Four #503|508}} The international community saw it as a test of sovereignty and protested. It resulted that Reed's invasion of Latveria was part of a plan to defeat Doom permanently and thus ensure his family's safety. Doom returned to find himself in an inescapable trap of Reed's making, which Reed had constructed in order to ensure Doom could no longer harm his family. Unaware of his plans, the rest of the Fantastic Four burst in to rescue Reed, and, in an attempt to escape, Doom possessed Sue, then Ben. While in a possessed Ben's body, Doom grabbed Johnny and vindictively threatened to break him in two if Reed did not murder his best friend. Ben temporarily broke free of Doom's control long enough to beg Reed to kill him, since he had no desire to be even indirectly responsible for Johnny's death, and Reed, left with no other choice, complied.{{r|Fantastic Four #508}} While Johnny wept and Sue comforted him, Reed spent the next hour frantically trying to resuscitate his best friend but did not succeed.{{r|Fantastic Four #510}}
+
+Sue did her best to comfort her husband, but he was too lost in his grief and guilt to forgive himself for what Doom had forced him to do.{{r|Fantastic Four #509}} She attempted to mend fences between Reed and Johnny, who was struggling to forgive Reed for Ben's death, despite the fact that Johnny's failure to follow Reed's orders had led directly to Doom's possession of Ben and Ben's subsequent death. Reed convinced Sue and Johnny to follow him to Heaven, where they succeeded in returning Grimm to life.{{r|Fantastic Four #509|511}} 
+
+To avoid charges of treason for his invasion of Latveria, Reed gave up most of his patents and thus most of his income. He later took a job working for a top secret military project in an attempt to restore their lost fortune.{{r|Fantastic Four #527}}
+
+Later, an unscrupulous business manager swindled the Fantastic Four out of their fortunes, and, penniless once more, they took regular jobs and lived in regular homes. Sue became a teacher.{{r|4 Vol 1 #1}} She was forced to fend off Namor when he arrived and attempted to carry her off to Atlantis once again, although Reed soon arrived to help defend her.{{r|4 Vol 1 #8}} She also trained in martial arts under [[Daniel Rand (Earth-616)|Iron Fist]]. Reed eventually revealed that he had allowed the loss of their fortune to occur because he wanted to give them back the normal lives he believed they lost because of his failure to protect them. With few regrets, they returned to their former lives.
+
+A game of musical powers ensued. A band of aliens, survivors of Galactus, came to Earth to neutralize Susan. They had developed a planetary cloaking device, and only Susan could help Galactus bypass their device. Reed Richards used another device that, as far as the aliens could tell, removed her powers; instead, it traded Sue's and Johnny's powers. The immediate threat over, Reed reversed the trade. As a "reward" for derailing the cloak project, Galactus made Johnny his new herald for a short time. An aftereffect of Johnny's power cosmic removed ''everyone's'' powers temporarily.{{r|Fantastic Four #517|519}}
+
+===Civil War===
+The [[Civil War]] split the team once again. Mr. Fantastic supported the [[Superhuman Registration Act]], while Sue and Johnny joined the resistance, horrified over how the [[Thor Odinson (Ragnarok) (Earth-616)|Thor clone]] killed to [[William Foster (Earth-616)|Goliath]]. [[Nicholas Fury (Earth-616)|Nick Fury]] provided both of them fake IDs as a husband and wife, much to their chagrin. During the final battle,{{r|Civil War #7}} however, Mr. Fantastic shielded Sue from a bullet fired by the [[Anthony Masters (Earth-616)|Taskmaster]] and was severely wounded. She retaliated by using a force field to pound Taskmaster into the ground. Sue helped clean up New York in the aftermath of the war and, along with the other [[Secret Avengers (Civil War) (Earth-616)|Secret Avengers]], was granted amnesty. She reconciled with Reed and together they took a short hiatus from the team to work on their marriage.{{r|Fantastic Four #543|550}}
+
+===Back to Action===
+Reed and Sue's vacation was over after the Frightful Four attacked them, then they returned to the team. During World War Hulk, Sue protected Reed but was subdued by the Green Goliath. Sometime after, the Richards family hired a new nanny for their kids, [[Susan Storm (Earth-807128)|Tabitha Deneuve]]. At the same time, a mysterious new group, calling themselves the New Defenders, committed robberies, and one of their members, [[Psionics (Cindy) (Earth-807128)|Psionics]], started a relationship with Johnny. After a bad break-up, Johnny was kidnapped by the Defenders, along with Doctor Doom and Galactus, to power a massive machine that was designed to apparently save the people of the future 500 years in the future, a plan orchestrated by Tabitha, who was revealed to be Susan Richards from 500 years in the future. Eventually, the modern-day Fantastic Four were able to save both the present Earth and the future Earth by sending the future inhabitants to the Earth Trust's private duplicate Nu-Earth, but after freeing Doctor Doom, the future Sue went to apologize to him and was electrocuted by Doom. As a means to honor her, Susan and the rest of the Fantastic Four held a funeral in honor of Susan and the family moved on.{{r|Fantastic Four #551|562}}
+
+===Secret Invasion===
+While Susan was on a lecture tour in [[Vancouver]], a Skrull posing as Mister Fantastic ambushed her, applying pressure to her skull with an invisible force field and knocking her out cold. Then, another Skrull infiltrated the Baxter Building in the guise of Susan and opened a portal into the Negative Zone, forcing the top three floors of the building into the Negative Zone, and in turn trapping herself, Johnny, Ben, and the two Richards children there. The Skrull impersonating her was later revealed to be Johnny's ex-wife Lyja, who once infiltrated the Fantastic Four by impersonating Ben Grimm's love interest Alicia Masters. The real Susan Richards was recovered alive from a downed Skrull ship after the final battle of the invasion.{{r|Secret Invasion: Fantastic Four #1|3}}
+
+===The Bridge===
+Reed created a device called [[Bridge (Alternate Reality Viewer)|The Bridge]] to explore alternate realities. Meanwhile, Johnny, Sue, and Ben fought off the agents of [[H.A.M.M.E.R. (Earth-616)|H.A.M.M.E.R.]] Reed's machine sent Johnny, Ben and Sue to a different reality where a super hero civil war was happening sometime in the Hyborian Age. Reed continued to study parallel worlds where the Civil War ended differently to find the reason his reality had become the way it was while Ben, Sue, and Johnny traveled throughout collapsed space-time. When Reed shut down the Bridge and the others returned, Sue told Reed to destroy The Bridge. He did so, but then secretly put it back together, and met beings from another reality who told him how he could fix things.{{r|Dark Reign: Fantastic Four #1|5}}
+
+===Three===
+While serving as a negotiator between both Old and New Atlantis, the King of Old Atlantis was assassinated by Namor, and Sue was, in accordance with [[Uhari]] tradition, subsequently made regent to the throne of Old Atlantis. Susan became the guardian of [[Vil (Earth-616)|Vil]] and [[Wu (Earth-616)|Wu]], the heirs of the Uhari throne at [[Peak (Antarctica)|The Peak]]. Sue returned to Baxter Building, so Uhari gave her a device to contact with her. At the same time, Johnny was fighting his last stand.{{r|Fantastic Four #576|587}} Sue was devastated to learn of her brother's unexpected death.
+
+===Future Foundation===
+[[File:Future Foundation.jpg|thumb|200px|The Future Foundation.]]
+Following the death of Johnny Storm, the rest of the team renamed themselves the [[Future Foundation (Earth-616)|Future Foundation]], along with [[Peter Parker (Earth-616)|Spider-Man]] taking the place of the Human Torch. After one of the Reed Richards of another universe who came to [[Earth-616]] by The Bridge destroyed The Peak, Susan returned to Baxter Building while the other part of the team was battling another Richards in [[Herbert Wyndham (Earth-616)|High Evolutionary]]'s [[Forever City|city]]. After returning from battle, Reed reunited the Future Foundation, the [[Avengers (Earth-616)|Avengers]], the [[New Avengers (Earth-616)|New Avengers]] and many other heroes to attack [[Attilan]], who were also participating in this war. At the moment the heroes were leaving the Baxter Building, a [[Kree]] army attacked [[New York City]]. Using her power and [[Anthony Stark (Earth-616)|Iron Man]]'s [[Iron Man Armor Model 37|armor]], Sue created a force field over Manhattan but was knocked down when the force field was broken. At the same time, the [[Cult of the Negative Zone (Earth-616)|Cult of the Negative Zone]] entered the Baxter Building and opened the [[Negative Zone]] portal after Spider-Man failed to stop them. The portal revealed a living Johnny Storm with a enslaved [[Annihilus (Earth-616)|Annihilus]].{{r|Fantastic Four #600}}
+
+Then Johnny gathered the team drawing with fire the symbolic "4" at the sky above the Baxter Building. Reed, Sue, Ben and Peter boarded one of the Annihilation Wave's ships controlled by Johnny, who used the rest of the ships to battle the Kree army until the Inhumans asked to finish them by their own hand.{{r|Fantastic Four #602}} Meanwhile the other heroes on Earth where dealing with the scraps of the battle which could damage the Earth, Reed and Sue summons Galactus, who destroys completely the Kree army. That moment, the [[Celestials#Mad Celestials (Earth-4280)|Mad Celestials]] appeared to destroy this universe. Although the team tried to use the Hub (a weapon of mass destruction created by the Reeds), they couldn't defeat the Mad Celestials. Then, a future version of [[Franklin Richards (Earth-10774)|Franklin]] and [[Valeria Richards (Earth-10774)|Valeria]] appeared as part of [[Nathaniel Richards (Earth-616)|Nathaniel Richards]]'s plan.{{r|Fantastic Four #603}} The Future Franklin used his power to heal Galactus and destroy the Mad Celestials, saving the day.{{r|Fantastic Four #604}} Later, the Baxter Building was easily rebuilt, Mr. Fantastic showed a new secondary headquarters called [[Foundation (Space Station)|Foundation]] and new costumes were given to the members of the Future Foundation, as part of the reformation of the Fantastic Four.{{r|FF #16}}
+
+===Fall of the Fantastic Four===
+After a portal to the [[Counter-Earth (Heroes Reborn)|Counter-Earth]] was somehow opened, an invasion of monsters in New York resulted not only in the Human Torch losing his powers,{{r|Fantastic Four Vol 5 2}} but also the Fantastic Four being evicted from the Baxter Building, and the children of the Future Foundation being taken into S.H.I.E.L.D. custody.{{r|Fantastic Four Vol 5 5}} Soon after finding out years ago Johnny had ruined an opportunity for becoming normal, The Thing was arrested after being found next to the corpse of the Puppet Master.{{r|Fantastic Four Vol 5 7}} Additionally, Sue started becoming more violent,{{r|Fantastic Four Vol 5 9}} Johnny lost track on his life,{{r|Fantastic Four Vol 5 10}} and Reed started becoming erratic.{{r|Fantastic Four Vol 5 12}} After concluding that somebody was behind their misfortune, the Fantastic Four decided to go to the bottom of it, and find Reed, who had recently disappeared, actually having being kidnapped by the man pulling the strings, the villain known as the [[Quiet Man (Earth-616)|Quiet Man]].{{r|Fantastic Four Vol 5 13}}
+
+The Fantastic Four were reunited when Johnny was brought to his senses,{{r|Fantastic Four Vol 5 12}} he and Sue helped free The Thing from the [[Power House]],{{r|Fantastic Four Vol 5 13}} and Reed escaped from the Quiet Man.{{r|Fantastic Four #643}} While the Quiet Man unleashed an invasion of creatures from the Counter-Earth, the FF enlisted the help of the [[Sleepwalker (Earth-616)|Sleepwalker]] in order to find the source of the monstrosities that came from it by exploring Franklin's subconsciousness, who was revealed to be the [[Psycho-Man (Earth-616)|Psycho-Man]].{{r|Fantastic Four #644}} 
+
+Back in his headquarters, the Quiet Man tried to activate the code that would shut off the portals from the Counter-Earth and render the invading forces inert, to make himself look like the hero, however, the Psycho-Man had betrayed him and created a defense wall so he could then control both the Counter-Earth and the Earth with his monstrous army. Mister Fantastic and Valeria came with a solution to finally shut down the creatures and save the world, meanwhile, as he was helping his allies escape from the Counter-Earth, Johnny recovered his powers due to the resulting radiation caused by the closing of one of the portals.{{r|Fantastic Four #645}}
+
+===Secret Wars===
+When [[Steven Rogers (Earth-616)|Steve Rogers]] rallied the [[Avengers (Earth-616)|Avengers]] to capture the [[Illuminati (Earth-616)|Illuminati]]; Reed being one of the members of this cabal, Sue joined forces with S.H.I.E.L.D. to allegedly help them capture the fugitive team.{{r|Avengers Vol 5 35}} However, Sue was instead helping Reed, using information from S.H.I.E.L.D. to help her husband and the Illuminati evade capture.{{r|Avengers Vol 5 37}}
+
+During the final [[Glossary:Incursion|incursion]] that threatened the existence of the universe, Sue and the rest of the Future Foundation worked on a life raft to escape the death of the universe. The raft's hull was breached at the last moment, costing the lives of the Invisible Woman and the rest of Reed's family.{{r|Secret Wars Vol 1 1}} Following an adventure in [[Battleworld (Latverion)|Battleworld]], a patchwork planet comprised of the remnants of the final realities to be destroyed that was ruled with an iron fist by Doctor Doom, Reed gained the power of the [[Beyonders]], and used it to resurrect his family, including Susan. The Future Foundation was reunited, and they began a journey to rebuild the entire Multiverse.{{r|Secret Wars Vol 1 9}} Back on the Fantastic Four's native universe, the entire world believed the Richards and the Future Foundation to be dead, having allegedly sacrificed themselves to stop the final incursion.{{r|Fantastic Four Vol 6 1}} Only Ben and Johnny were active on Earth, having been left behind by Reed to keep an eye on Doctor Doom.{{r|Marvel 2-In-One Annual Vol 1 1}}
+
+===The Fate of the Four===
+Years into the Future Foundation's multiversal adventures, Franklin became depleted of his ability to create entirely new realities. At this moment the team was confronted by an abstract entity called the [[Griever at the End of All Things (Multiverse)|Griever at the End of All Things]] who repudiated their mission of creating new universes. She caused the collapse of the hundreds of universes charted by the Future Foundation, forcing the team to make a final stand. The Fantastic Four were reunited when Mister Fantastic tricked the Griever into giving them the chance to summon the remaining members of the Fantastic Four for backup. In addition to teleporting Ben and Johnny, Reed also brought every superhero who had been part of the team at one point in order to defeat the new foe.{{r|Fantastic Four Vol 6 2}} After the Griever was driven away, the Future Foundation continued their multiveral travels, but Sue, Reed, Franklin and Valeria returned with Ben and Johnny to Earth, where only months had passed since the Foundation's years-long journey.{{r|Fantastic Four Vol 6 3}}
+
+After the return of the Fantastic Four, one of the team's first missions consisted in resuming their original flight whose failure granted them their powers.{{r|Fantastic Four Vol 6 14}} When the Fantastic Four reached their original destination, the planet Spyre, they faced a group of superpowered protectors named the [[Unparalleled (Earth-616)|Unparalleled]], who had been imbued with cosmic radiation to face the Fantastic Four. Spyricans had been aware of the team's initial failed attempt to reach their planet and had prepared for a second try.{{r|Fantastic Four Vol 6 15}} The Fantastic Four initially became at odds with the patriarch of Spyre, the [[Revos (Earth-616)|Overseer]], after discovering that he had been responsible for the cosmic ray storm that gave them powers during their first flight due to an attempt to scuttle their mission.{{r|Fantastic Four Vol 6 17}} After making peace with the Spyricans, the Fantastic Four returned to Earth.{{r|Fantastic Four Vol 6 19}}
+
+| Powers                  = The Invisible Woman received her powers when cosmic rays bombarded her body. Mr. Fantastic suspects that Sue Storm somehow taps into hyperspace when she uses her powers. As yet, the only limit seems to be her own reserve; she is reluctant to stretch her powers until absolutely necessary.
+
+'''[[Glossary:Invisibility|Invisibility]]:''' The Invisible Woman has the mental ability to manipulate ambient cosmic energy for a variety of effects, including the rendering of herself and other objects invisible, and the construction of solid, invisible force fields. In an as yet unknown manner, cosmic energy interacts with the cells of her entire body in such a way as to produce a new form of energy with unusual properties. By a simple act of concentration, she can cause all wavelengths of visible, infrared, and ultraviolet light to bend around her without distortion; she also somehow directs enough undistorted light to her eyes to retain her full range of vision while invisible. An observer, unaware of the peculiar path light takes around her body, would have the sensation of seeing through her. The Invisible Woman can also mentally project the invisible energy produced within the cells of her body in order to render other people or objects invisible. The largest volume she can as yet turn invisible at a single time is approximately 40,000 cubic feet of volume (1,133 cubic meters), equivalent to a small swimming pool. She has sufficient control over her power that she can turn parts of her body selectively invisible. She is also able to make objects that have been turned invisible by other sources visible by letting her own energy projection interfere with that other method of invisibility. Further, she can make energy that is not in the visual portion of the electromagnetic spectrum visible by a similar interaction. Sue can also sense something made invisible by physical means (such as a machine) but not by magical or psionic means.
+*'''Color Manipulation:''' Sue can also apply her ability to manipulate the interactions of light waves to seemingly change the color of objects, for example altering her hair color or turning the [[Benjamin Grimm (Earth-616)|Thing]] pink.{{r|Invisible Woman #3}}
+
+[[File:S.H.I.E.L.D. Vol 3 4 Textless.jpg|thumb|right|Sue in her state of invisibility]]
+'''Psionic Force Fields:''' While the cells of the Invisible Woman's body produce a certain energy manifestation, the cells of her brain produce a different, more potent manifestation. Through concentration, she is able to project a field of psionic force which she can manipulate into a number of relatively simple forms: rectangular planes, cylinders, globes, domes, cones, etc. The complexity of the shape is limited by her ability to imagine (mentally visualize) a particular form and keep it in sharp mental focus: not even she is able to see the forms she creates. The size of a given psionic force projection is also limited by her ability to imagine. The smallest force projection she can visualize (and maintain the visualization) is the size of a marble. The largest solid force projection she can visualize and maintain is about 100 feet in diameter. She can project larger force-objects if they are hollow. For instance, she could visualize and project a dome 1 foot thick about a mile in diameter (5,280 feet) and a dome 1 inch in thickness she can project for about 3.2 miles. Small objects at high speeds become missiles; large objects at slow speeds become rams. She can make these objects grow or shrink as desired.
+
+The Invisible Woman is able to use the projection of her psionic force to travel through the air. By projecting a rising column beneath her feet and simultaneously causing it to expand and topple at the same time, then creating another column that catches her, shrinks, rights itself and then repeating the process, she is able to effect a zig-zag flight path. She is able to reach an average speed of about 25 miles per hour, until she becomes fatigued by the concentration, after about 4 hours.
+
+Sue's force fields have also prevented telekinesis from passing through them. This was shown when she used a force field around herself to keep Jean Grey's telekinesis from affecting her.{{r|Fantastic Four #286}} The force field made it impossible for Jean to attack her with telekinesis. When Sue put a force field around Jean, her telekinetic attack upon various other persons in the immediate vicinity ceased. Sue also demonstrated a similar ability when facing Psi-Lord, a grown version of her son Franklin.{{r|Fantastic Four #384}} He was unable to read her mind while her force field was up. When Sue projects her force field around the Red Ghost when he is in intangible state, he automatically becomes solid. 
+
+Since her power is an extension of her mind and body, the Invisible Woman is affected by inertial forces acting upon her projections. Thus if a car traveling at 60 miles per hour hit a wall of her force that was 6 inches thick, unless she generated a bracing shape against a sufficiently sturdy object, she would be affected as though she were hit by the car directly. The Invisible Woman is able to control the surface of the fields rigidity to a certain extent. She can cause the surface of the field to be very hard, depending on its thickness (steel-like at about 2.5 feet), or as resilient as foam rubber. By making the field more resilient she is able to absorb more of the inertia of impacts within the field without having them transmitted to her body. She is also, through training, able to alter the shapes she creates while utilizing those shapes, often to absorb or deflect the force of impacts. When she creates objects of fields that are at the limit of her ability to mentally visualize, they tend to be resilient rather than rigid. As she has grown in the use of her powers. Currently these fields can withstand impacts of [[Strength Scale#100|Class 100 strength]], a literally astronomical level: the Fantastic Four, Doctor Doom, and Annihilus once survived passage through a black hole by using these fields (and some help from the Cosmic Control Rod).{{r|Fantastic Four Unlimited #3}}. She is capable of generating and manipulating multiple psionic force fields simultaneously.
+*'''Shock Waves:''' Sue is capable of using her force fields as shock waves hitting her opponent with the force field capable of hurting Titania.
+
+'''Cosmic Ray Awareness:''' Sue's retina are able to detect cosmic rays as well as visible light. This allows her to perceive her own force fields and other invisible objects and, with concentration, can also provide her with a limited form of vision, allowing her to "see" even if blinded.{{r|Fantastic Four Vol 3 62}}{{r|Invisible Woman #4}}
+
+{{Navigation
+| title = Former Powers
+| body = '''[[Power Cosmic]]:''' When Galactus' [[Antithesis (Earth-616)|Antithesis]] from the Negative Zone depowered the devourer of worlds and began spreading his influence over the universe, Galactus imbued the Fantastic Four with the power cosmic in order to defeat his antithesis.{{r|Fantastic Four: Antithesis Vol 1 3}}
+
+* '''Energy Absorption:''' While imbued with the Power Cosmic, Invisible Woman was able to absorb Antithesis' energy from the possessed victims of the cosmic being.
+* '''Intangibility:''' While imbued with the Power Cosmic, Invisible Woman could make herself and others intangible.
+}}
+
+| Abilities               = 
+* '''Amateur Actress:''' Sue has some modest experience and ability in the field of acting.
+* '''Expert Sailor:''' Sue was a champion sailor as a youth, having already won major competitions by the time she was in her early teens.{{r|Fantastic Four Vol 3 23}}
+* '''Proficient Martial Artist:''' She is a capable unarmed combatant and regularly trains with the other members of the Fantastic Four. She underwent weeks of intensive training by [[Daniel Rand (Earth-616)|Iron Fist]] and became skilled in using bojutsu by manifesting an invisible staff for combat.{{r|Fantastic Four Vol 3 6}}
+| Strength                = 
+Susan Storm has the strength of a normal human female who engages in intensive regular exercise.
+| Weaknesses              = '''Concentration:''' The size, number, and movements of these objects are limited only by her powers of concentration. Once she stops concentrating on an object, it ceases to exist.
+
+[[File:Susan Storm (Earth-616) from Thunderbolts Vol 1 12 001.jpg|thumb|356px]]
+'''Sound Constructs:''' Invisible Woman's force fields are permeable to sound waves, thus Songbird was able to manifest a sound construct inside of the force field to knock her out.{{r|Thunderbolts Vol 1 12}}
+
+'''Fantastic Four Power Synergism:''' The original members of the Fantastic Four are tethered to each other, and act as as their own conduits of power. They can be apart within their own universe and retain a connection, but prolonged periods cut off from each other in other universes result in a gradual decline in power levels. If they spend too much time separated this way, they would eventually become powerless.{{r|Marvel 2-In-One Vol 1 3}}
+
+| Equipment               = 
+<big>'''Fantastic Four Uniforms'''</big>
+{{Main|Fantastic Four Uniforms}}
+Sue's clothes are made from [[Unstable Molecules|unstable molecules]] so that they turn invisible along with her. Woven into the cloth is an electronic network of transceivers and sensors that tracks her location, condition, and other data. The network relays this information to the rest of the team. A keypad and screen on one glove allow Sue Storm to call up and view the same information from anyone else.
+
+<big>'''Fantasti-Flare'''</big>
+{{Main|Fantasti-Flare}}
+This small flare gun fires shells that produce a burning '''4''' symbol. It doubles as an incendiary weapon.
+
+<big>'''Universal Translator'''</big>
+{{Main|Universal Translator}}
+Sue has a Universal Translator that can decipher and interpret languages, both alien and terrestrial, into the native language of the user.{{r|Fantastic Four #237}}
+
+*'''[[Micro-Galaxy Ring]]:''' Sue wears a ring given to her by Reed housing a micro-[[galaxy]] consisting of seventy-four inhabited worlds.{{r|Fantastic Four Vol 1 557}}
+
+| Transportation          = [[Fantasti-Car MK II]], [[Quinjet|Avenger's Quinjet]], [[Xantha Saucer (Fantastic Four)|Xantha (or Skrull) Saucer]], [[Fantasti-Copter]], [[U-Car|U-Car (submarine)]], [[Fantasti-Car MK I|Fantasti-Car 1 (the "flying bathtub")]] (superseded), [[Marvel-1]] (destroyed), and many others
+| Weapons                 = 
+
+| Notes                   = * Susan was once turned into a mutant-hunting Hound by [[Roderick Campbell (Earth-811)|Ahab]].{{r|X-Men Annual Vol 1 14}}
+| Trivia                  = * The Invisible Girl was one of the characters featured in Series A of the Marvel Value Stamps issued in the 1970's. [[File:Invisible Girl Marvel Value Stamp.jpg|thumb|right|Marvel Value Stamp #33]]
+* It has been retconned in {{cl|Fantastic Four Vol 4 4}} that in her youth, Sue Storm wasn't a model, in order "not be bound by the social mores of the 1960s when the character was created"<ref>[http://www.formspring.me/TomBrevoort/q/429285099066912305 Tom Brevoort - FormSpring.me]</ref>, and that she obtained a doctorate.
+* The powers of all of the Fantastic Four are based on one of the four elements, with Susan's element being air.
+* Sue is renowned for her changing hairstyles (once said to match the Wasp's changing costumes).
+* Sue was deeply religious, although she kept it to herself.{{r|Infinity Crusade Vol 1 1}}
+| Links                   = ** [http://www.marveldirectory.com/individuals/i/invisiblewoman.htm Marvel Directory]
+* [http://www.apple.com/trailers/fox/fantastic_four/internet_featurette4/ Fantastic Four movie featurette - The Invisible Woman]
+* [http://dmoz.org/Arts/Comics/Titles/F/Fantastic_Four/ DMOZ - Open source directory listing for The Fantastic Four]
+* [http://marvel.toonzone.net/fanfourtas/episode/worldwithinworlds/ Episode featuring the Invisible Woman]
+}}
+[[it:Susan Storm (Terra-616)]]
+[[hu:Susan Storm (616)]]
+[[es:Susan Storm (Tierra-616)]]
+[[Category:Storm Family]]
+[[Category:Richards Family]]
+[[Category:Captain Universe]]
+[[Category:Cosmic Ray Exposure]]
+[[Category:Force Field]]
+[[Category:Invisibility]]
+[[Category:Millionaires]]
+[[Category:Time Travelers]]
+[[Category:Doctors]]
+[[Category:Legally Deceased]]
+[[Category:Superhuman Durability]]
+[[Category:Interdimensional Travelers]]
+[[Category:Symbiotes-possessed]]
+[[Category:Multilingual]]
+[[Category:Souls Sold to Mephisto]]
+[[Category:Espionage]]
+[[Category:Photokinesis]]
+[[Category:Formerly Deceased]]
+[[Category:Power Cosmic]]
+[[Category:Energy Absorption]]
+[[Category:Intangibility]]
+[[Category:Trained by Iron Fist]]

@@ -1,0 +1,58 @@
+{{Marvel Database:Character Template
+| Image                   = Michel Berman (Earth-616) from Fantastic Four Vol 1 95 001.jpg
+| Name                    = Michel Berman
+| CurrentAlias            = Monocle
+| Aliases                 = 
+
+| Affiliation             = [[Enclave (Earth-616)|Enclave]] ally
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = {{cl|[[Marvel Encyclopedia Vol 1 Fantastic Four]]}}
+| Gender                  = Male
+| Height                  = 5'11"
+| Weight                  = 180lbs
+| Eyes                    = 
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = German
+| Occupation              = Spy
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Stan Lee; Jack Kirby
+| First                   = Fantastic Four #95
+
+| History                 = 
+'''Monocle''' is a German mercenary/spy, who was hired to disrupt a UN Summit and later by [[Enclave (Earth-616)|The Enclave]] to set up Security College. 
+
+Monocle was hired to start World War III by plotting an assassination at the UN Summit in New York. The [[Fantastic Four (Earth-616)|Fantastic Four]] were hired as protection for the summit. Posing as a member of the Foreign Press Agency, the Monocle is discovered by [[Reed Richards (Earth-616)|Reed Richards]]. Monocle unsuccessfully shot [[Susan Storm (Earth-616)|Invisible Woman]], [[Benjamin Grimm (Earth-616)|the Thing]] and Reed with his Neutrak Ray blaster.  The shocked Monocle was told by Reed that he had discovered Neutrak rays sometime ago and took precautionary countermeasures. Monocle was captured and turned over to the police.{{r|Fantastic Four #95}}
+
+Monocle was later hired by the [[Enclave (Earth-616)|Enclave]] to set up a private college for children of the wealthy and powerful known as Security College{{r|Fantastic Four#205}}. Convinced by Monocle's envoys, [[Jonathan Storm (Earth-616)|Human Torch (Jonathan Storm)]] enrolled in the college, thinking it was a legitimate school.{{r|Fantastic Four#204}} The Enclave wanted to use the children to influence and gain access to the secrets of their parents. Under his control, the Monocle would send the students out to spy on their parents and bring back information. The Enclave chose to end the program, but Monocle disagred and continued to operate against their orders. Meanwhile, [[Peter Parker (Earth-616)|Peter Parker]] took an undercover job, taking candid photographs inside Security College. Posing as a new student, Parker bluffed his way past the guards and immediately runs into Johnny. Spider-Man (Peter Parker), with the help of Johnny, unravel the plan. However, after discovering Monocle's insubordination, the Enclave detonated the aircraft the Monocle was riding in.{{r|Fantastic Four #207}}
+
+| Powers                  = 
+
+
+* '''Hypnosis''': Appears to be able to mesmerize and control individuals with his monocle eye piece.  The Monocle can also extract data from hypnosis.  
+* '''Energy Blasts''': Fires energy blasts from his monocle.{{r|Fantastic Four#207}}
+| Abilities               = Espionage; Judo.{{r|Fantastic Four #95}}
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+* Neutrak rays
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Spies]]

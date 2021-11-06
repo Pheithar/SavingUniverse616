@@ -1,0 +1,60 @@
+{{Marvel Database:Character Template
+| Image                   = Red Widow (Winter Guard) (Earth-616) from Avengers Vol 8 16 001.jpg
+| Name                    = 
+| CurrentAlias            = Red Widow
+| Aliases                 = Widow Hulk {{r|Avengers Vol 8 49}}
+
+| Affiliation             = {{m|Winter Guard (Earth-616)|Winter Guard}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = Heavily scarred,[[Category:Scarred]] teardrop and hammer-and-sickle tattoos around left eye{{r|Avengers Vol 8 44}}
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = Russian
+| Occupation              = Government agent
+| Education               = 
+| BaseOfOperations        = [[Winter Guard Mansion]], [[Moscow]], [[Russia]]
+
+| Creators                = Jason Aaron; David Marquez
+| First                   = Avengers Vol 8 10
+
+| History                 = The silent Red Widow was the latest product of the [[Black Widow Ops Program (Earth-616)|Red Room]].{{r|Avengers Vol 8 10}} Originally a homeless girl, she was brought into the program when she was seven years old.{{r|Avengers Vol 8 41}} As a result of the Red Room's rigorous training, the Red Widow's body is covered in scabs and scars.{{r|Avengers Vol 8 44}}
+
+Following the [[Russia|Russian]] government's decision to revamp their nation's premier super-team, the [[Winter Guard (Earth-616)|Winter Guard]], the Red Widow was appointed as a member of the unit. Despite [[Dimitri Bukharin (Earth-616)|Crimson Dynamo]] acting as the leader of the Winter Guard, Red Widow often called the shots. During battle, she observed silently from a distance in order to report to her superiors.{{r|Avengers Vol 8 10}}
+
+After [[Vlad Dracula (Earth-616)|Count Dracula]] surrendered himself to the Russian government under the pretense that he was weak and in the final days of his life, the Red Widow was tasked with interrogating him. To this end she rounded up Dracula's consorts and began killing them,{{r|Avengers Vol 8 16}} which forced him to disclose every last one of his secrets. Shortly afterward, the Winter Guard was attacked by the [[Legion of the Unliving (Vampires) (Earth-616)|Legion of the Unliving]], who were in the search for Dracula. Red Widow was the last member of the Winter Guard left standing until the [[Avengers (Earth-616)|Avengers]] arrived.{{r|Avengers Vol 8 17}}
+
+When the cosmic force known as the [[Phoenix Force (Earth-616)|Phoenix Force]] returned to Earth, it staged a contest to determine its next host, and the Red Widow was one of many individuals summoned to the [[White Hot Room]] for it. The Phoenix empowered the assembled champions and had them fight each other in trials by combat.{{r|Avengers Vol 8 40}} After easily emerging victorious from fighting [[Howard Duckson (Earth-791021)|Howard the Duck]]{{r|Avengers Vol 8 41}} and [[Dane Whitman (Earth-616)|Black Knight]],{{r|Avengers Vol 8 42}} Red Widow was pitted against [[Shanna O'Hara (Earth-616)|Shanna the She-Devil]] and her sabertooth tiger [[Zabu (Earth-616)|Zabu]].{{r|Avengers Vol 8 43}} The battle was even, but it was ultimately interrupted when [[Maya Lopez (Earth-616)|Echo]], one of the fallen contestants, was chosen by the Phoenix. Emerging from the ocean floor, Echo absorbed the portions of the Phoenix within Shanna and the Red Widow before doing the same to the other participants in the process of fully becoming the Phoenix.{{r|Avengers Vol 8 44}}
+
+| Personality             = 
+
+| Powers                  = {{Navigation
+| title = Former Powers
+| body  = '''[[Phoenix Force]]:''' During the [[Phoenix Force (Earth-616)|Phoenix Force]]'s tournament, the Red Widow became empowered by a portion of its power.{{r|Avengers Vol 8 41}} Her portion of the Phoenix Force was eventually taken by [[Maya Lopez (Earth-616)|Echo]].{{r|Avengers Vol 8 44}}
+}}
+
+| Abilities               = '''Master Combatant:''' The Red Widow is a bloodthirsty and skilled fighter with an unflinching battle stance.{{r|Avengers Vol 8 10}}
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = * Red Widow's usual post-mission routine includes a hot milk bath and caviar.{{r|Avengers Vol 8 32}}
+* The Red Widow's room in the [[Winter Guard Mansion]] is filled with swords and knives which are impaled into the walls.{{r|Avengers Vol 8 32}}
+| Links                   = 
+}}
+[[Category:Phoenix Force]]

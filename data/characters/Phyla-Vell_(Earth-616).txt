@@ -1,0 +1,153 @@
+{{MessageBox
+| Message = For the current member of the Guardians of the Galaxy, see: '''[[Phyla-Vell (Earth-18897)]]'''
+}}{{Marvel Database:Character Template
+| Image                   = Guardians of the Galaxy Vol 2 12 Textless.jpg
+| Name                    = [[Phyla-Vell]]
+| CurrentAlias            = [[Martyr]]
+| Codenames               = [[Captain Marvel]],{{r|Captain Marvel Vol 5 19}} [[Quasar]]{{r|Annihilation: Conquest Prologue Vol 1 1}}
+| Nicknames               = "Little Miss Goody Two-Bands",{{r|Guardians of the Galaxy Vol 2 4}} Phy{{r|Annihilation: Conquest Prologue Vol 1 1}}
+| Aliases                 =  Holy One,{{r|Annihilation: Conquest - Quasar Vol 1 4}} 'Protector of the Universe'{{r|Annihilation: Conquest Prologue Vol 1 1}}
+
+| Affiliation             = Formerly {{m|Guardians of the Galaxy}}, {{m|United Front}}
+| Parents                 = [[Mar-Vell (Earth-616)|Mar-Vell]] (father, deceased),<br>
+[[Elysius (Earth-616)|Elysius]] (mother)
+| Siblings                = [[Genis-Vell (Earth-616)|Genis-Vell]] (brother, deceased),<br>
+[[Theodore Altman (Earth-616)|Teddy Altman / Dorrek VIII]] (paternal half-brother)
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|All-New Official Handbook of the Marvel Universe A to Z #8}}
+| Gender                  = Female
+| Height                  = 5'9"
+| Weight                  = 103 lbs
+| Eyes                    = Blue
+| Hair                    = White
+| UnusualFeatures         = Gold marking on face as Quasar
+
+| Origin                  = [[Titans (Eternals)|Titanian]]/[[Kree]] [[Hybrids|hybrid]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Titan (Moon of Saturn)|Titan]], [[Saturn (Planet)|Saturn]]
+| PlaceOfDeath            = 
+
+| Identity                = Public
+| Citizenship             = Titan, Kree Empire, Hell
+| Occupation              = Adventurer, avatar of [[Oblivion (Earth-616)|Oblivion]], Protector of the Universe; formerly [[Avatar of Death|Avatar]] of [[Death (Earth-616)|Death]]{{r|Guardians of the Galaxy Vol 2 23}}
+| Education               = 
+| BaseOfOperations        = [[Hell]], formerly mobile
+
+| Creators                = Peter David; Paul Azaceta
+| First                   = Captain Marvel Vol 5 16
+| First2                  = (as Phyla-Vell)<br>{{sld|Captain Marvel Vol 5 17}}(as Captain Marvel)<br>{{sld|Annihilation: Conquest - Quasar Vol 1 1}}(as Quasar)<br>{{sld|Guardians of the Galaxy Vol 2 12}}(as Martyr) 
+| Death                   = Guardians of the Galaxy Vol 2 24
+
+| Quotation               = I am the chosen avatar of death. You want to learn about '''pain?''' I'll '''teach''' you! ... Now, who wants to go save the universe?
+| Speaker                 = [[Phyla-Vell (Earth-616)|Martyr]]
+| QuoteSource             = Guardians of the Galaxy Vol 2 23
+
+| History                 = 
+===Origin===
+After [[Genis-Vell (Earth-616)|Genis-Vell]], then known as Captain Marvel, previously destroyed and recreated the universe, the "new" version was subtly altered with Phyla-Vell's existence being one of the changes. Phyla-Vell was the second artificially created offspring of [[Mar-Vell (Earth-616)|Captain Mar-Vell]] who was created by her mother [[Elysius (Earth-616)|Elysius]] in the "new" universe because her first attempt (Genis-Vell) had been so successful.{{r|Captain Marvel Vol 5 #16|18}}
+
+She fought her brother Genis-Vell, who was insane at the time, in the process helping to restore his sanity. She then tried to lay claim to the "Captain Marvel" title, though her brother refused to give it up.{{r|Captain Marvel Vol 5 #16|18}}
+
+===Magus===
+To save [[Richard Jones (Earth-616)|Rick Jones]]' girlfriend, [[Marlo Chandler (Earth-616)|Marlo Chandler]], Genis had to travel to the future to see what would be the cause of her future demise. He asked Phyla to stay behind on [[Earth]] to keep watch over Marlo. In doing so, she encountered the being known as the [[Magus (Earth-7528)|Magus]], who tried to kidnap Marlo. She and the telepath [[Heather Douglas (Earth-616)|Moondragon]] foiled the plot, and Genis returned to Earth shortly after, telling her that he stopped a villainous plan to release the Magus hundreds of years in the future. Although, he suspiciously wouldn't tell her how he stopped it.{{r|Captain Marvel Vol 5 #19|24}}
+
+Phyla later attended the trial of [[Eros (Earth-616)|Starfox]].{{r|She-Hulk Vol 2 #12|13}}
+
+===[[Annihilation (Event)|Annihilation]]===
+During [[Annihilation (Event)|Annihilation]], Phyla had been visiting her father's grave with Moondragon when the pair were attacked by [[Thanos (Earth-616)|Thanos]] who ripped off Moondragon's ear and gave it to Phyla, telling her to go to [[Arthur Douglas (Earth-616)|Drax the Destroyer]] and how his actions would determine Moondragon's fate, shortly before teleporting away with Moondragon. Drax indicated he would not stop his pursuit of Thanos.{{r|{{cl|Annihilation Vol 1 2}}-[[Annihilation Vol 1 3|3]]}}
+
+Phyla then went with [[Richard Rider (Earth-616)|Nova]] and [[Peter Quill (Earth-616)|Starlord]] to lead a final battle against [[Annihilus (Earth-616)|Annihilus]], being saved at the last second by a massive energy wave caused by the just freed [[Galan (Earth-616)|Galactus]], which left only the three heroes and Annihilus as survivors. Ultimately in the battle, Phyla managed to steal away the [[Quantum Bands]] that Annihilus took from [[Wendell Vaughn (Earth-616)|Quasar]], weakening him and allowing Nova to finally bring an end to the Annihilation Wave. She was then seen reunited with Moondragon, and deciding it was up to her to become the new Quasar.{{r|{{cl|Annihilation Vol 1 4}}-[[Annihilation Vol 1 6|6]]}}
+
+===[[Annihilation: Conquest]]===
+She was seen on the [[Kree]] fringe-world of [[Lamentis]], helping with the rebuilding after the Annihilation Wave. Along with Moondragon, now her lover, they helped to defend a temple from raiders, wanting to teach that peace rather than violence was the way to go. They were attacked by a [[Kree Sentries|Kree Sentry]] when the [[Phalanx (Race)|Phalanx]] took over the War-Net. Phyla was the first to discover that the [[Kree Empire]] was cut off from the rest of the galaxy - as well as being told, by what she assumed were the Q-Bands, that she needed to ''"Find the Deliverer. Find the Redeemer"''.{{r|Annihilation: Conquest Prologue Vol 1 1}}
+
+Accompanied by [[Heather Douglas (Earth-616)|Moondragon]], she followed the commands of a mysterious voice which instructed her to find the "savior" of the Kree empire.  During her quest she battled the [[Super-Adaptoid (Earth-616)|Super Adaptoid]], learned how to control her new [[Quantum Bands]], and discovered more about Moondragon's history, before watching her transform into an actual [[Dragon of the Moon (Earth-616)|Dragon of the Moon]] to defend them. Quasar and the newly transformed Moondragon tracked the savior to the remote planet [[Morag IV]], but were ambushed by the Super-Adaptoid. The heroes recovered thanks to the locals, but discovered the Adaptoid had already reached the savior and was attempting to assimilate them. After a brief fight, the Adaptoid unleashed a destructive force on the nearby town, forcing Quasar to choose the innocents over the savior at the cost of exhausting her Quantum Bands.{{r|{{cl|Annihilation: Conquest - Quasar Vol 1 1}}-[[Annihilation: Conquest - Quasar Vol 1 3|3]]}}
+
+Quasar found herself, Moondragon, and the grateful natives of Morag IV in pitched battle against not only the Super-Adaptoid, but a host of Phalanx bent on assimilating the savior of the Kree — the enigmatic [[Adam Warlock (Earth-616)|Adam Warlock]]. Quasar and Moondragon ultimately defeated the Super-Adaptoid and in the process, Quasar reabsorbed power into her Bands from the Super-Adaptoid that he had earlier managed to absorb. The mysterious voice guiding Quasar turned out to belong to the Kree [[Supreme Intelligence (Earth-616)|Supreme Intelligence]], who believed that Warlock would prove to be the Kree's savior. Warlock was regenerating in a cocoon, but his regeneration was damaged by the Super-Adaptoid and the Phalanx. Moondragon and the Supreme Intelligence helped Warlock re-emerge, but he was younger than expected (due to the prematurity of his re-emergence){{r|Annihilation: Conquest - Quasar Vol 1 4}} and troubled, despite the mental work of Moondragon and the Supreme Intelligence to soothe him.{{r|Annihilation: Conquest Vol 1 1|2}}
+
+Adam did not see the war with the Phalanx as his fight. But when the Phalanx come to capture him, he sped them far away, to a sanctuary used by the [[Herbert Wyndham (Earth-616)|High Evolutionary]]. The Evolutionary explained to them that Supreme Intelligence hired him to remake the Kree species but they lost contact when the Annihilation War began. Phyla then figured that the person they were looking for was the Evolutionary himself, believing that he could create warriors similar to Adam to combat the Phalanx. Unfortunately, the sanctuary was attacked by the Phalanx's leader [[Ultron (Earth-616)|Ultron]], who killed Moondragon. Frantic, Phyla hoped that the Evolutionary would heal her but unfortunately, Moondragon's form was an enigma that the Evolutionary could not solve. Angry at the death of her lover, Phyla attempted to kill Ultron, only to use up the remaining quantum energy in her bands. The High Evolutionary caused the sun where the sanctuary was stationed by to go supernova, while Adam helped them to escape. As they made their way to [[Hala (Planet)|Hala]] to retrieve the Kree warrior army, Phyla lamented the loss of Moondragon. She became even more pessimistic when she broke her quantum sword against a Phalanx drone. Adam chastised her for being selfish and said that she'd be disgracing her father.{{r|Annihilation: Conquest - Quasar Vol 1 1|4}}
+
+When they arrived at the cloning base, they discovered that the Evolutionary had collaborated with the Phalanx. He subdued Adam so that Ultron could take over his body. Phyla was blasted away when she attempted to intervene.{{r|Annihilation: Conquest Vol 1 4|5}}
+
+When Ultron faced trouble with the arrival of the [[Technarchy|Technarch]] also named [[Warlock (Technarch) (Earth-616)|Warlock]] and [[Richard Rider (Earth-616)|Nova]], Phyla had a vision of Moondragon, communicating towards her from the edge of death itself, informing her that the barrier isolating the Kree galaxy has weakened and her bands are filling with energy once again. Though Phyla desired Moondragon to return, her lover urged her to help their friends. Joining the battle, Phyla returned Adam's soul to his body, once the Technarch Warlock forced Ultron out of it. Unfortunately, Ultron created a massive body out of 15,000 Kree Sentries that [[Ronan (Earth-616)|Ronan the Accuser]] was intending to use to annihilate Hala. Adam empowered Phyla with the souls of the Kree to give her the power to destroy Ultron.{{r|Annihilation: Conquest #6}}
+
+===[[Guardians of the Galaxy (Earth-616)|Guardians of the Galaxy]]===
+Phyla later joined Starlord's new [[Guardians of the Galaxy (Earth-616)|Guardians of the Galaxy]], a group dedicated to protecting the universe at all times.{{r|Guardians of the Galaxy Vol 2 #1}} The presence of hidden [[Deviant Skrulls|Skrulls]] was revealed on their [[Knowhere]] base, eventually the Skrulls were revealed to be pacifists escaping from the [[Skrull Empire|Skrull Empire's]] religious [[Dard'van Sect (Earth-616)|Dard'van Sect]], Drax revealed to the rest of the team that he had overhead the truth of how the Guardians were formed; that Star-Lord had  had Mantis tamper with their minds to ensure the formation of the team, which led the team to break up and go their separate ways.{{r|{{cl|Guardians of the Galaxy Vol 2 4}}-[[Guardians of the Galaxy Vol 2 6|6]]}}
+
+Phyla later accompanied Drax in his search for [[Camille Benally (Earth-616)|Cammi]]. Consulting with a soothsayer, they were then informed that they could save Moondragon. They went to [[A'Lars (Earth-616)|Mentor]], who apparently killed them. In [[Oblivion (Earth-616)|Oblivion]], they met [[Maelstrom (Earth-616)|Maelstrom]] and the [[Dragon of the Moon (Earth-616)|Dragon of the Moon]]. Phyla made a deal with the latter to secure Heather's freedom. In exchange, she agreed to be the new avatar of Oblivion.{{r|Guardians of the Galaxy Vol 2 12}}
+
+===Death===
+Now calling herself Martyr, Phyla-Vell became a more abrasive and aggressive figure. When the Guardians attempted to negotiate with the [[Inhumans (Race)|Inhumans]] to stop the [[War of Kings]], she ruined the attempt by taking Inhuman princess [[Crystalia Amaquelin (Earth-616)|Crystal]] hostage instead; this led to a battle between the Inhumans and the Guardians, which she continued to escalate. Eventually, the Inhumans tried to end the war by detonating a weapon that would shatter space itself, creating a multiversal Fault.
+
+[[File:Phyla-Vell (Earth-616) and Magus (Earth-7528) from Guardians of the Galaxy Vol 2 19 001.jpg|thumb|Phyla killed by [[Magus (Earth-7528)|Magus]]]]
+When Adam Warlock stopped the Fault's growth by using a redundant timeline, one where he became the villainous [[Magus (Earth-7528)|Magus]], Phyla-Vell revealed that her deal with Oblivion was to kill "the Avatar of Life" and she would know what to do when the time came. Knowing he would now become Magus, she ran Adam through but this failed to stop his transformation. Several of the Guardians, then stranded in the year 3009, were then sent back in time to stop Magus' creation and Phyla was prevented from making her move. This time when Warlock was transformed, she engaged him in combat - but Magus magically teleported her own sword from her hands and slew her with it.{{r|Guardians of the Galaxy Vol 2 17}}{{r|Guardians of the Galaxy Vol 2 19}}
+
+Actually a ploy by Magus, Phyla was revealed to be alive and in his custody on Sacrosanct where she helped release her other seemingly-deceased teammates, then ran off to confront Magus, leaving them behind. Coming to a cocoon she assumed to be Magus, the cocoon hatched before her, revealing a resurrected Thanos, who immediately slew her.{{r|Guardians of the Galaxy Vol 2 24}}
+
+After her death Phyla went to [[Hell]]. When Thanos and [[Wade Wilson (Earth-616)|Deadpool]] arrived in Hell to find [[Death (Earth-616)|Death]], she, along with the other victims of Thanos and Deadpool, tried to kill them, but the duo was able to fend them both.{{r|Deadpool vs. Thanos Vol 1 3}}
+
+| Powers                  = Phyla-Vell possessed vast physical capabilities and was stated to have a "Continental" threat level by the [[Nova Corps (Earth-616)|Nova Corps]] (with investigations still in process).{{r|Annihilation: The Nova Corps Files #1}}
+
+'''Kree/Titan Hybrid Physiology:''' Like her brother Genis, Phyla-Vell's superior genetic inheritance potentially made her many leagues stronger than either Mar-Vell and Elysius; her mother and father. A genetically augmented Kree super-soldier and a godlike alien. Having the natural resistance to poison, toxins, and disease (systemic antidote), and a higher natural strength level; as well as the inherent ability to augment all of these assets via the absorption of ambient cosmic energy.{{r|Captain Marvel Vol 5 #16|18}}
+* '''Super-Humanoid Strength''' Like her father, Phyla possessed super-humanoid strength greater than the average human or Kree. Due to her Titan background, she was potentially stronger than either race. As she was powerful enough to restrain an enraged She-Hulk with her bare hands, break out of a Quantum Energy Construct using purely physical force and trade blows with the cosmic tyrant Annihilus backed by the Quantum Bands while holding her own.
+
+* '''Super-Humanoid Durability''' Phyla was incredibly resilient when it came to weathering heavy assault, whether it came from ergokinetic or even incredible physical force. She was tough enough to endure Genis's cosmic blasts, survive buffeting blasts by a giant Ultron possessed Kree Sentry construct, survive impalement on her own Oblivion Sword, and even getting eaten by the Dark Dragon of the Moon.
+
+* '''Super-Humanoid Speed''' Phyla-Vell had an insurmountable amount of speed. Be it while moving on the ground or flying through space and/or in a planetary atmosphere. Her speed which was further augmented thanks to her use of the Nega Bands and the later acquisition of Wendell's Quantum Bands further bolstering her abilities. 
+
+* '''Super-Humanoid Agility''' Martyrs agility, balance, and body coordination were enhanced to levels that are beyond the natural physical limits of the finest Earth, Kree or Titan capacity.
+
+* '''Super-Humanoid Reflexes''' Quasar's reflexes were beyond those of the finest humanoid specimen, she could easily move and doge around laser fire and ground to air missiles while in flight. She could even parry and evade vastly bolstered physical assaults launched at her by her godly brother in hand to hand combat. which made it possible for him to dodge gunfire, even at point-blank range, from multiple gunners at the same time.
+
+As the successor to Mar-Vell's legacy after her elder brother Genis loused it up. Phyla-Vell had been tried and tested on a great many fields of combat and intellect expansion, having received intense training both on the throneworld of Kree-Lar and her own home planet of Titan.{{r|Captain Marvel Vol 5 #23}} On top of this she had inherited many traits from her war hero father and her cosmic deity mother.
+
+'''FTL Flight''': Phyla-Vell possessed an inherent gift for flight. With the Nega Bands boosting her energized physiology, she could exceed the speed of light; able to traverse the universe without need of food, hydration or rest.{{r|Annihilation #3}}
+
+'''Ambient-Energy Metabolics''': Phyla had a natural affinity to harmonizing and absorbing the universal forces of reality around her. A trait she often utilized in conjunction with her Quantum and Nega Bands unique power sources. She was a natural energy sponge, able to absorb outside sources of energy directed at her be it directly or from the vary environment itself.
+*'''Self-Sustenance''': Phyla possessed a natural ability to thrive in the vacuous environs of deep space or on other hostile worlds without the need of physical nourishment. So long as she possessed either her quantum bands, Nega-bands, her esoterically empowered swords or a steady supply of energy to feed off of. Phyla could very well survive in any given setting across the galaxy.
+*'''Augmented Physical Abilities''': Provided she had an ample supply of dynamic force she could tap into. Phyla-Vell could absorb a near limitless amount of energy in order to magnify her already considerable physical abilities to incredible levels.{{r|She-Hulk Vol 2 #12|13}}
+*'''Energy Locking''': After losing the Quantum Bands to the supervillain Maelstrom, Quaser learned that her Quantum Sword, the last energy construct that she ever made with them. Still maintained itself despite her loss of the items, Wendell Vaughn once told her that through her sword she still retained a connection to them through that lone construct.{{r|Guardians of the Galaxy Vol 2 12}}
+
+'''Cosmic Awareness'''<br>''(Possibly formerly only.)''<br> As Captain Marvel, Phyla possessed a fraction of her father's cosmic awareness. While not as prolific as that of his or her brother's cosmic awareness. It provided her with a predominant boosting of her instinctive combat skills and inductive reasoning. When she gained the Quantum Bands and they absorbed her Nega Bands, she supposedly lost these abilities as a result.{{r|Annihilation #5}}
+
+'''Quantum/Negative Zone Force Manipulation''':<br>''(Possibly formerly only.)''<br> Having spent so much time harnessing and utilizing energy from both the Nega Bands and the Quantum Bands. Phyla withheld the same capacity to channel and manipulate vast quantities of differing energies for her own purposes as her father and her brother, but supposedly just not on they're level. Phyla originally used her Nega-Bands as conduits for the energy she absorbed, re-channeling them through the bands and their properties. When she received the Quantum Bands, however, they absorbed and replaced the Nega-Bands. Supposedly if the Quantum Bands ceased functioning, Phyla was no longer capable of wielding energy without the Nega-Bands.{{r|Official Handbook of the Marvel Universe A-Z #9}}
+*'''Construct Creation''': Phyla often utilized the quantum bands to create and manipulate a host of energized fabrications capable of restraining Drax the Destroyer, or overwhelming the vast analytical and adaptive abilities of a Phalanx enhanced Super-Adaptoid.
+*'''Force Field Manipulation''': Quasar is able to bend and mold the various energies of her cosmic tools for protective and detention efforts. Able to throw up force fields powerful enough to stop whole armies, having once created a shield bubble with which to hurl a phalanx contingent straight into the sun.
+*'''Blast Wave Emission''': One of Phyla's favorite tricks to use with her quantum sword was the projection of incredibly destructive energy pulses that could cleave and sheer through anything she directed them against. She could even project concussive force blasts through her swords powerful enough to stun the likes of a Kree Accuser.
+
+'''Avatar of Oblivion''': In order to rescue her lover, Moondragon from death itself. The cosmic entity known as Oblivion came to her while she battled the Dragon of the Moon. In exchange for becoming his avatar she was given new yet undisclosed powers that dwarfed her previous abilities in comparison.{{r|Guardians of the Galaxy Vol 2 12}} What all these abilities were remains a mystery as she died shortly after receiving this upgrade when she ran afoul of a recently resurrected Thanos.{{r|Guardians of the Galaxy Vol 2 24}}
+
+| Abilities               = Highly skilled hand to hand combatant and sword fighter.
+| Strength                = At least the strength of a fit Kree.
+| Weaknesses              = When in possession of the [[Quantum Bands]] using up too much power in her quantum device will drain them. Also, the corruption left in the bands by Annihilus will bring out a dark side of Phyla that will cause her to declare all life is the enemy. As Captain Marvel or Martyr, no specific notable weaknesses.
+
+| Equipment               = {{Navigation
+| title                   = Former Equipment
+| body                    = [[Nega-Bands]], [[Quantum Bands]]
+}}
+| Transportation          = 
+| Weapons                 = Oblivion Sword
+{{Navigation
+| title                   = Former Weapons
+| body                    = [[Quantum Sword]]
+}}
+
+| Notes                   = * Phyla is lesbian.{{r|Captain Marvel Vol 5 25}}
+| Trivia                  = 
+| Links                   = 
+| Wikipedia               = Phyla-Vell
+}}
+[[Category:Homosexual Characters]]
+[[Category:Energy Manipulation]]
+[[Category:Flight]]
+[[Category:Cosmic Awareness]]
+[[Category:Energy Absorption]]
+[[Category:Titanian/Kree Hybrids]]
+[[Category:War of Kings casualties]]
+[[Category:Fencing]]
+[[Category:Vell Family]]
+[[Category:Eternal Experiment]]
+[[Category:Continental Threat Level]]
+[[Category:Avatars of Death]]

@@ -1,0 +1,56 @@
+{{Marvel Database:Character Template
+| Image                   = Reena Stancioff (Earth-616) from Hulk Winter Guard Vol 1 1 0001.jpg
+| Name                    = Reena Stancioff
+| CurrentAlias            = Darkstar
+| Aliases                 = 
+
+| Affiliation             = {{M|Winter Guard}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Blue
+| Hair                    = Blonde
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = Russian
+| Occupation              = Government agent
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = David Gallaher; Steve Ellis
+| First                   = Hulk: Winter Guard #1
+| Death                   = Darkstar and the Winter Guard #3
+
+| History                 = '''Reena Stancioff''' was chosen to be next person to bear the title of [[Darkstar]] after the previous Darkstar, [[Sasha Roerich (Earth-616)|Sasha Roerich]] lost her mind due to excessive use of her powers.{{r|Hulk: Winter Guard #1}} Her first mission was to help the [[Winter Guard (Earth-616)|Winter Guard]] fight off [[Krang (Earth-616)|Krang]] and his underwater monsters.
+
+Shortly after this, [[Protectorate (Earth-616)|The Protectorate]], a group of former Winter Guard members, returned to earth after being trapped in [[Limbo (Temporal)|Limbo]] for several years. They revealed that [[Fantasia (Earth-616)|Fantasia]] had been a [[Dire Wraith]] all along and that they needed to stop her. However, she had already created  a new army of Dire Wraiths with the help of [[Sergei Krylov (Earth-616)|The Presence]]. They managed to break into the former base of the Winter Guard when Reena teleported their aircraft into the hangar bay of the base. Fantasia was now operating her army from here, but while they attempted to come up with a plan to fight her, they were ambushed. One of the Dire Wraiths stabbed Reena in the back and took her Darkstar amulet. However, the powers of the Darkstar amulet countered this and as a result, the Dire Wraith was transformed into the original Darkstar, [[Laynia Petrovna (Earth-616)|Laynia Petrovna]], whose soul had been in the amulet the whole time.{{r|Darkstar and the Winter Guard Vol 1 1|3}}
+
+| Powers                  = She was given a gem that duplicates the Darkforce powers of the original Darkstar, but channels it to have a more powerful output and more uses.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Darkforce]]
+[[Category:Object-Based Powers]]
+[[Category:Russians]]
+[[Category:Flight]]

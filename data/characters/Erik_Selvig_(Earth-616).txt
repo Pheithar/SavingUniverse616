@@ -1,0 +1,71 @@
+{{Marvel Database:Character Template
+| Image                   = Erik Selvig (Earth-616) from Avengers Standoff Welcome to Pleasant Hill Vol 1 1 001.jpg
+| Name                    = Erik Selvig
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = formerly {{M|Hydra}}, {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Blue
+| Hair                    = Blond
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = Danish 
+| Occupation              = Doctor
+| Education               = 
+| BaseOfOperations        = [[Pleasant Hill]]
+
+| Creators                = Nick Spencer; Mark Bagley
+| First                   = Avengers Standoff: Welcome to Pleasant Hill Vol 1 1
+| Death                   = Captain America: Steve Rogers Vol 1 16
+
+| History                 = Dr. Erik Selvig was a [[Denmark|Danish]] scientist, and one of the leading experts in [[Cosmic Cube]]s. He began working for [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]]'s Kobik Initiative as a consultant, but was asked to run the project following the death of its overseer [[Karen Fowler (Earth-616)|Dr. Karen Fowler]]. Folwer's death happened as a consequence of the violent merging into a single being of the Cosmic Cube fragments that were being studied. This being adopted the form and mentality of a young child and became known as [[Kobik (Earth-616)|Kobik]], and Selvig became its caretaker.
+
+However, Kobik's abilities allowed her to exist at the same time in various places. While she was being studied and cared for by S.H.I.E.L.D., Kobik was also being secretly raised by the [[Johann Shmidt (Clone) (Earth-616)|Red Skull]]. Some of the fragments that composed Kobik belonged to a Cube that had fallen under the Red Skull's possession several years earlier. The memory of Skull's obsession for that Cube was misinterpreted by Kobik's childish mentality as affection, so she went to him in search for love. The Red Skull took advantage of the child's affinity and naivety and taught her the ways of [[Hydra (Earth-616)|Hydra]].
+
+Kobik's innocently deranged set of values caused her to rewrite the past of Selvig's life, inserting a life-long loyalty to Hydra into it, believing that turning a person into a Hydra zealot was a positive thing. The discovery of Selvig's new allegiance inspired the Red Skull.
+
+Under the command of the Red Skull, Selvig proposed the creation of [[Pleasant Hill]], a picture-perfect town inhabited by reformed super-villains, whose appearance and memories were tampered with using Kobik's power.{{r|Captain America: Steve Rogers #2}}
+
+Selvig was accompanying Kobik in Pleasant Hill's daycare when [[Helmut Zemo (Earth-616)|Baron Zemo]] unleashed a co-ordinated assault on the town using an army of villains who had snapped out of their reality-warped selves, a conflict sparked by the Red Skull. Scared by the sudden destruction being sown by the villains, Kobik ran away. [[Karla Sofen (Earth-616)|Moonstone]] confronted Selvig to know the location of the kid, and beat him up to no avail. Selvig returned in his home and remained there until [[Steven Rogers (Earth-616)|Steve Rogers]] arrived with [[Maria Hill (Earth-616)|Maria Hill]] to get her medical help, having being lured by the Red Skull posing as an inhabitant named Father Patrick.{{r|Captain America: Sam Wilson Vol 1 7}}
+
+Selvig nursed Hill and helped Rogers find Kobik, as part of the Skull's plan to have Kobik rewrite Rogers' past and allegiance when they met.{{r|Captain America: Steve Rogers Vol 1 2}} Both Selvig and Maria Hill later tried to escape from Pleasant Hill. They were intercepted by the [[Peter Petruski (Earth-616)|Trapster]] and brought to the town hall, which Zemo had turned into a lock-up and the headquarters for his rebellion.
+
+Kobik had been abducted by Zemo, and captured inside a device that would've stripped her out of her sentience, turning her into a regular [[Cosmic Cube]]. When the [[Avengers (Earth-616)|Avengers]] arrived to the scene, they managed to free Kobik. Selvig tried to convince Kobik to return to his side, but the small child showed her disillusion with her experience among humans due to the way S.H.I.E.L.D. used her. She teleported both Baron Zemo and Erik Selvig to the [[Himalayas]] in resentment. As they tried to find their way back to civilization, Zemo forced Selvig to come with him, intending on using him for his plans.{{r|Avengers Standoff: Assault On Pleasant Hill Omega Vol 1 1}}
+
+Baron Zemo was eventually tacked down to [[Bagalia]], and [[Steven Rogers (Earth-61311)|Captain America]] confronted him.{{r|Captain America: Steve Rogers Vol 1 1}} At this point, Cap's allegiance had been rewritten by Kobik, and the Sentinel of Liberty answered to the Red Skull, who ordered Rogers to dipose of Selvig. Instead of killing Selvig, Captain America faked his death and kept him at an undisclosed location.{{r|Captain America: Steve Rogers Vol 1 3}}
+
+Once Zemo recovered Kobik, or rather, the fragmented pieces of her Cosmic Cube form after her human form had been destroyed, Selvig was ordered to merge the shards back together. However, this would have required him destroying Kobik's sentience, something Selvig refused to do as he saw Kobik as a daughter. After safeguarding the pieces away from Zemo, Selvig killed himself.{{r|Captain America: Steve Rogers #16}}
+
+| Personality             = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = * Erik Selvig is a character originally created for the [[Earth-199999|Marvel Cinematic Universe]]. He is modeled after his [[Erik Selvig (Earth-199999)|MCU counterpart]]'s actor, [[wikipedia:Stellan Skarsgård|Stellan Skarsgård]]. However, his citizenship was changed to Danish in [[Earth-616]].{{r|Captain America: Steve Rogers Vol 1 2}}
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Content Adapted from Other Media]]
+[[Category:Suicide]]
+[[Category:Secret Empire casualties]]

@@ -1,0 +1,51 @@
+{{Marvel Database:Character Template
+| Image                   = Paul Hark (Earth-616) from X-Treme X-Men Vol 1 5 0001.jpg
+| Name                    = Paul Hark
+| CurrentAlias            = Red Lotus
+| Aliases                 = 
+
+| Affiliation             = {{m|Sydney Triad}}, {{m|Triads}}
+| Relatives               = [[Gow Yang Ju (Earth-616)|Julius Gow]] (grandfather, deceased)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|X-Men: Earth's Mutant Heroes #1}}
+| Gender                  = Male
+| Height                  = 6'1"
+| Weight                  = 165 lbs
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = 616
+| PlaceOfBirth            = [[Sydney]], [[Australia]]
+
+| Identity                = Secret
+| Citizenship             = Australian
+| Occupation              = Adventurer, professional criminal, mobster
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Chris Claremont; Salvador Larroca
+| First                   = X-Treme X-Men #5
+
+| History                 = '''Red Lotus''' was the heir apparent to the [[Sydney Triad (Earth-616)|Sydney Triad]], which was run by his grandfather, who was known as [[Gow Yang Ju (Earth-616)|Father Gow]]. When Gow was murdered, Red Lotus was led to believe that the culprit was [[Remy LeBeau (Earth-616)|Gambit]] by the [[Examiner (Earth-616)|Examiner]], who wanted to gain control of the Triad for himself.{{r|X-Treme X-Men #5}}
+
+Red Lotus assisted the [[X-Men (X-Treme) (Earth-616)|X-Treme X-Men]] against [[Sebastian Shaw (Earth-616)|Sebastian Shaw]] and [[Regan Wyngarde (Earth-616)|Lady Mastermind]] after the truth was revealed, and later helped them while they were trying to repel an interdimensional invasion in [[Madripoor]].{{r|X-Treme X-Men #11|12}}
+
+Paul later resurfaced undercover at the [[Hellfire Club (Earth-616)|Hellfire Club]] hoping to shut down their [[Homo superior|mutant]] slave ring.{{r|Uncanny X-Men #453|454}}
+
+| Powers                  = 
+| Abilities               = Red Lotus is a highly athletic skilled martial artist. He's extremely proficient in hand-to-hand combat.{{r|X-Treme X-Men #5|6}}
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Martial Arts]]

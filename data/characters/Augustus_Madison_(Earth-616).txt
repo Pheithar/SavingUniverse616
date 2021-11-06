@@ -1,0 +1,67 @@
+{{Marvel Database:Character Template
+| Image                   = Augustus Madison (Earth-616) from X-Men Vol 2 184.png
+| Name                    = Augustus Madison
+| NameRef                 = {{r|Women of Marvel: Celebrating Seven Decades Handbook Vol 1 1|; Rogue's entry}}
+| CurrentAlias            = Pulse
+| Aliases                 = Gus, Pulsey{{r|X-Men Vol 2 179}}
+
+| Affiliation             = Ally of [[Raven Darkholme (Earth-616)|Mystique]], [[X-Men (Earth-616)|X-Men]]
+| Relatives               =
+| MaritalStatus           =
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  =
+| Weight                  =
+| Eyes                    =
+| Hair                    = Blond
+| UnusualFeatures         = Eyes glow when using powers
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            =
+
+| Identity                = Secret
+| Citizenship             =
+| Occupation              = Thief
+| Education               =
+| BaseOfOperations        =
+
+| Creators                = Peter Milligan; Salvador Larroca
+| First                   = X-Men Vol 2 #173
+
+| History                 = 
+Sometime after having escaped being an underground agent for [[Charles Xavier (Earth-616)|Xavier]], [[Raven Darkholme (Earth-616)|Mystique]] decided to prove to [[Rogue (Anna Marie) (Earth-616)|Rogue]] that [[Remy LeBeau (Earth-616)|Gambit]] was not right for her. Mystique's plan to rid Rogue of Gambit involved sowing discord in the couple's romance and, once the pair was soon to be no more, introduce Rogue to Augustus. Given the dialogue between Mystique and him (in which Mystique said she "wanted to see for herself that Augustus [was] the man she [hoped] he [was]"),{{r|X-Men Vol 2 #174}} it can be assumed that the associates did not yet know each other well.
+
+Augustus and Mystique were next seen when the pair were stealing paintings from a house.{{r|X-Men Vol 2 #179}} Mystique asked what he did with all of the money he got from selling stolen goods on the black market, he replied that he invested the money into stocks he knew would soon crash, as he got some kind of sick pleasure out of losing other people's' money. Mystique replied, "Time you were safely married, Augustus." Augustus was worried about Gambit's reaction, and comically remarked upon the authenticity of how Cajun he really was. Mystique then revealed she was certain that of all the men she checked out to be Rogue's new romance, Augustus was the one who could "make my daughter happy".
+
+Mystique and Augustus made their way back to the [[Xavier's School for Gifted Youngsters|Xavier Institute]],{{r|X-Men Vol 2 #181}} and Mystique announced she was joining the X-Men after what happened last time — before making it very clear that she was going to set Augustus up with Rogue.
+
+In a moment alone,{{r|X-Men Vol 2 #182}} Augustus and Rogue sat down in a tree to talk to one another. At first, Rogue was defensive and declared that no matter what her "crazy mother" told Augustus, she and Gambit were happy together. She explained that they, of course, had their problems, and Augustus replied that he didn't have problems. Continuing on, Augustus stated that Mystique wanted Rogue to be happy, and no matter how Rogue felt for him, they should at least try to be friends, for there was so much strife in the world without the two of them fighting. He put his hand on Rogue's shoulder, and she informed him, "Mister, I wouldn't put your hand there." He replied, "You going to slap a suit on me for sexual harassment?" Rogue replied that she wasn't, and explained her power to him. He tells her not to worry about it and his eyes begin to glow. Rogue looked down at his hand and notices that nothing happened to him; she asked how long his hand was there without anything happening. He replied, "Don't worry about that, either".
+
+Outside of Apocalypse's temple,{{r|X-Men Vol 2 #184}} Mystique suggested that they use Pulse to neutralize [[En Sabah Nur (Earth-616)|Apocalypse]]; the X-Men argued over the idea. Rogue interrupted, stating that they should ask Augustus if he could do that to Apocalypse. He smiled coyly and replied that he "doesn't know." Later that issue, Gambit was revealed to be the new Horseman of Death.
+
+In his time as a Horseman, Gambit twice attempted to kill Rogue so as to break his ties to his former life. Both times, Pulse was able to save Rogue by neutralizing Gambit's powers and physically overcoming him. Afterwards, Pulse attempted to woo Rogue; at first, Rogue seemed somewhat accepting of the idea, but once Pulse made a comment about Gambit, Rogue rejected him, stating that she "never [wants] to worry about romance again."
+
+As [[Rogue (Anna Marie) (Earth-616)|Rogue]] left, Mystique commented on his poor timing. Pulse told her to go away. His current status is unclear.
+
+| Powers                  = '''Disruption Pulse:''' Pulse produces a disruptive pulse from his eyes which can disable mutant powers, scramble electronic systems, and creates a hypnotic masking effect to disguise his brain wave patterns from psychics.
+| Abilities               = Expert thief
+| Strength                = 
+| Weaknesses              =
+
+| Equipment               =
+| Transportation          =
+| Weapons                 =
+
+| Notes                   =
+| Trivia                  =
+| Marvel                  =
+| Wikipedia               = Pulse (Augustus)
+| Links                   =
+}}
+[[Category:Power Negation]]
+[[Category:Telepathic Immunity]]
+[[Category:Disruption]]
+[[Category:Hypnosis]]
+[[Category:Post-M-Day Mutants (Registration Status Unknown)]]

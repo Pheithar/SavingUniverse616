@@ -1,0 +1,53 @@
+{{Marvel Database:Character Template
+| Image                   = Shazana (Earth-616) from Official Handbook of the Marvel Universe Mystic Arcana The Book of Marvel Magic Vol 1 1 0001.jpg
+| Name                    = Shazana
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = [[Nazaka (Earth-616)|Nazaka]] (half-sister)
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 5'8"
+| Weight                  = 130 lbs
+| Eyes                    = Green
+| Hair                    = Green
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] sorceress
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = Drakos
+| Occupation              = Magician
+| Education               = 
+| BaseOfOperations        = [[Drakos]]
+
+| Creators                = Stan Lee; Steve Ditko
+| First                   = Strange Tales #133
+
+| History                 = Shazana was the ruler of [[Drakos]], a dimension which [[Stephen Strange (Earth-616)|Dr. Strange]] had escaped to during a battle with [[Karl Mordo (Earth-616)|Baron Mordo]]. She had usurped the throne from her half-sister [[Nazaka (Earth-616)|Nazaka]] with a timeless spell that she had learned from a magician that she had manipulated into aiding her. She was defeated when Dr. Strange destroyed her source of power, a sort of power crystal, which she had hidden under her own throne{{r|Strange Tales #133}}.
+
+She later resurfaced in [[Nevada (State)|Nevada]] where she possessed [[Patricia Starr (Earth-616)|Trish Starr]] who had joined a commune in the desert and had developed an obsession with mysticism and the occult. When Starr went missing for several days her friends at the commune contacted her ex-boyfriend [[Kyle Richmond (Earth-616)|Kyle Richmond]] and Shazana's old enemy, Doctor Strange. The two men succeeded in finding Trish, but unwittingly released Shazana who no longer depended on her power crystal for her mystical powers. She contained Strange, Nighthawk and Trish in a cube constructed of their own life energies. Strange, however, still managed to contract the rest of the Defenders who arrived in time to help defeat Shazana before she could take Trish's life. This time, Strange sent Shazana back to her nameless dimension and created a dimensional barrier to keep her from menacing the Earth again{{r|Defenders #41}}.
+
+| Powers                  = Shazana has an impressive mastery over the Mystic arts, though she is not as adept as Doctor Strange.
+
+<!-- Official Handbook of the Marvel Universe Vol 5 Mystic Arcana lists her grid at 2,2,2-7,2,6,2 -->
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = Shazana's power used to stem entirely from her [[Shazana's Globe|power globe]], though this is no longer the case.
+
+| Equipment               = Shazana has an army of mystical warriors at her command.
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

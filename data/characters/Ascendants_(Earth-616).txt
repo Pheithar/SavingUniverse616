@@ -1,0 +1,41 @@
+{{Marvel Database:Team Template
+| Image                   = Ascendants (Earth-616) from Avengers World Vol 1 13 001.jpg
+| ImageSize               = 250
+| Name                    = Ascendants
+| EditorialNames          = 
+| Aliases                 = 
+
+| Status                  = Active
+
+| Identity                = Known to Authorities
+| Reality                 = Earth-616
+| BaseOfOperations        = [[Circle (S.P.E.A.R.)|The Circle]]
+
+| Leaders                 = [[Weather Witch (Earth-616)|Weather Witch]]
+| CurrentMembers          = [[Devastator (Ascendants) (Earth-616)|Devastator]], [[Saber (Earth-616)|Saber]], [[Grace Tam (Earth-616)|Vector]]
+| FormerMembers           = [[Sun Wukong (Earth-616)|Monkey King]]
+| Allies                  = [[S.P.E.A.R. (Earth-616)|S.P.E.A.R.]], [[Samuel Wilson (Earth-616)|Falcon]]
+| Enemies                 = [[Hand (Earth-616)|Hand]], [[Tomi Shishido (Earth-616)|Gorgon]], [[Hydra (Earth-616)|Hydra]]
+
+| Origin                  = A team of Chinese superheroes formed by S.P.E.A.R. to protect China and the rest of the world.
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Nick Spencer; Stefano Caselli
+| First                   = Avengers World Vol 1 7
+| Last                    = 
+
+| HistoryText             = After the disbandment of the [[Dynasty (Earth-616)|Dynasty]] following the death of their leader, [[Star (Earth-616)|The Star]], during [[Infinity (Event)|Thanos' invasion]], [[S.P.E.A.R. (Earth-616)|S.P.E.A.R.]] director [[Xian Zheng (Earth-616)|Xian Zheng]] informed one of the former members, [[Weather Witch (Earth-616)|Weather Witch]], about his organization's Ascendants Initiative. The Witch agreed to be its leader, as long as she could select her teammates.{{r|Avengers World Vol 1 13}}
+
+The Ascendants were first publicly deployed against [[Tomi Shishido (Earth-616)|Gorgon]] and the [[Hand (Earth-616)|Hand]], during Gorgon's attempt to launch an attack on [[China]] by summoning the sleeping dragon below [[Madripoor]].{{r|Avengers World Vol 1 7}}
+
+===[[Secret Empire (Event)|Secret Empire]]===
+When [[Steven Rogers (Earth-616)|Captain America]] established a [[Hydra (Earth-616)|Hydra]] Empire in the [[United States of America]], Hydra splinter groups started to form all over the world and several superhero teams, such as the Ascendants, were gathered to stop Hydra from going any further.{{r|Captain America: Steve Rogers Vol 1 18}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

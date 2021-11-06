@@ -1,0 +1,60 @@
+{{Marvel Database:Team Template
+| Image                   = Cadre K (Earth-616) from A + X Vol 1 13 0002.png
+| ImageSize               = 750
+| Name                    = Cadre K
+| Aliases                 = 
+
+| Status                  = Active
+
+| Identity                = Secret
+| Reality                 = Earth-616
+| BaseOfOperations        = [[Sagittarian Farms]], [[South Dakota (State)|South Dakota]]; formerly [[Carplax IV]], [[Skrull Empire]], [[Andromeda Galaxy]]
+
+| Leaders                 = Formerly [[Charles Xavier (Earth-616)|Professor X]]
+| CurrentMembers          = [[Fiz (Earth-616)|Fiz]], [[Goroth (Earth-616)|Goroth]], [[Nuro (Earth-616)|Nuro]], [[R'tee (Earth-616)|R'tee]], [[Spunje (Earth-616)|Spunje]], [[Z'Cann (Earth-616)|Z'Cann]]
+| FormerMembers           = [[Charles Xavier (Earth-616)|Professor X]]
+| Allies                  = [[X-Men (Earth-616)|X-Men]], [[Charles Xavier (Earth-616)|Professor X]]
+| Enemies                 = [[K'thron (Earth-616)|K'thron]] & [[Skrulls|Skrull Empire]], [[En Sabah Nur (Earth-616)|Apocalypse]], [[Shi'ar Empire]], [[Chitauri]], [[Purifiers (Skrulls) (Earth-616)|Purifiers]]
+
+| Origin                  = [[Mutant Skrulls]] who carry on the ideas of [[Charles Xavier (Earth-616)|Professor X]]'s dream to other worlds.
+
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Kurt Busiek; Jerry Ordway
+| First                   = Maximum Security: Dangerous Planet #1
+| Last                    = 
+| Quotation               = They are an...'''impure''' segment of the [[Skrull]] population. Like the [[X-Men (Earth-616)|X-Men]] of [[Earth]], they were born with powers and abilities '''beyond''' the Skrull species.
+| QuoteSource             = A + X Vol 1 13
+| Speaker                 = [[K'thron (Earth-616)|K'thron]]
+
+| HistoryText             = 
+===Origin===
+Cadre K is a group of [[Mutant Skrulls]] ("K-class Deviant Skrulls") who were eventually gathered into [[Cadre K (Earth-616)|Cadre K]] by [[Charles Xavier (Earth-616)|Charles Xavier]], as an equivalent of his [[X-Men (Earth-616)|X-Men]] to fight the [[Skrull Empire]], to rescue their kind from being culled at birth, and to agitate for mutant rights.. {{Citation}}
+
+Roster includes [[Fiz (Earth-616)|Fiz]], [[Nuro (Earth-616)|Nuro]], [[R'tee (Earth-616)|R'tee]], [[Spunje (Earth-616)|Spunje]], [[Z'Cann (Earth-616)|Z'Cann]], [[Goroth (Earth-616)|Goroth]] all with various powers. A number came in contact with [[En Sabah Nur (Earth-616)|Apocalypse]] and were forced to serve him during his plot to gain the power of [[Twelve (Mutants) (Earth-616)|the Twelve]]. [[Charles Xavier (Earth-616)|Professor X]] of the [[X-Men (Earth-616)|X-Men]] went into space to train them, giving them the name Cadre K. {{Citation}}
+
+On [[Carplax IV]], where Skrull [[Merrek (Earth-616)|Lord Merrek's]] fecundity-supplement programs apparently resulted in a higher percentage of mutant births, Cadre K battled [[Dakr't (Earth-616)|Dakr't]], [[Trl'k (Earth-616)|Trl'k]], and the [[Purifiers (Skrulls) (Earth-616)|Purifiers]].{{r|Maximum Security: Dangerous Planet #1}}
+
+===Maximum Security===
+Cadre K and Xavier returned to Earth during the [[Ruul|Ruul's]] attempt to overtake the planet by turning it into an intergalactic prison. A wounded [[Z'Cann (Earth-616)|Z'Cann]] attempted to pass on vital information to [[Rogue (Anna Marie) (Earth-616)|Rogue]]. The information was received and the X-Men were reunited with [[Lucas Bishop (Earth-1191)|Bishop]].{{r|X-Men Vol 2 #107}} Z'Cann was seemingly fatally wounded, but was taken under the care of X-Man [[Forge (Earth-616)|Forge]] and recovered.{{r|X-Men Unlimited #29}}{{r|Maximum Security #3}}
+
+===[[Secret Invasion]]===
+In a file compiled by [[Kal'du (Earth-616)|Chancellor Kal'du]] for [[Veranke (Earth-616)|Veranke]],{{r|Skrulls! #1}} Cadre K was still rejected by the Skrull Empire. They remained unaffected by the [[M-Day|massive depowering of Earth's mutants]].
+
+At some point, they entered in conflict with [[Chitauri]].{{r|A + X #13}}
+
+===Charles Xavier's death===
+Some time after the [[Avengers vs. X-Men]] conflict, the [[Skrull]] [[K'thron (Earth-616)|K'thron]] came to [[Earth]], kidnapped most of the enemies of [[Scott Summers (Earth-616)|Cyclops]] and [[Captain America (Steve Rogers)|Captain America]], and informed them that Cadre K had come to Earth in order to take revenge on the meta-humanity for the Skrull defeat during the [[Secret Invasion]]. K'thron brought a detector designed to detect those mutant Skrulls, protected from other detectors by their specific physiology.{{r|A + X #13}} 
+
+Cadre K were revealed to not have made any plans for revenge against meta-humanity and had only wished to live in peaceful obscurity on Earth because they had nowhere else to run. The fact their homeworld had been destroyed and they were still being hunted and hated by fellow Skrulls as "Deviants" caused them to flee to Earth disguised as humans in South Dakota due to Xavier's past belief in America being a place where people can succeed because of their differences. They also created a ranch to protect the Skrulls turned into cows by Reed Richards.{{r|A + X #16}}  
+
+Afterwards, the team helped defeat Doctor Doom and destroy his forces in Latveria, but returned to stay at their ranch in South Dakota.{{r|A + X #18}}  
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * http://en.wikipedia.org/wiki/Cadre_K
+}}

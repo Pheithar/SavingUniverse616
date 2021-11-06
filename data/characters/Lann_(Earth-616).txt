@@ -1,0 +1,53 @@
+{{Marvel Database:Character Template
+| Image                   = Lann (Earth-616) from Avengers Vol 1 31 001.jpg
+| Name                    = Lann
+| CurrentAlias            = Keeper of the Flame 
+| Aliases                 = 
+
+| Affiliation             = {{M|They Who Wield Power (Earth-616)|They Who Wield Power}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = [[El Dorado (City)]]
+
+| Creators                = Stan Lee; Don Heck
+| First                   = Avengers #30
+| Death                   = Incredible Hulk #241
+
+| History                 =  
+The [[Lann (Earth-616)|Keeper of the Flame]] was a member of a hidden people in the so-called Forbidden Land. He was the appointed guardian of a fire that was harnessed with cobalt. The Keeper became hungry with power and ousted the ruler of the hidden people, [[Prince Rey]].{{r|Avengers Vol 1 31}} Rey was helped by [[Henry Pym (Earth-616)|Goliath]] in regaining control over his people.{{r|Avengers Vol 1 30}} When Goliath realised that the Prince was just as power-hungry as the Keeper and that the cobalt fire was a danger to the Earth, he extinguished the flame.{{r|Avengers Vol 1 31}}
+
+He later turned up still guarding the Sacred Flame when he joined [[They Who Wield Power (Earth-616)|They Who Wield Power]] under the leadership of [[Romulus Augustulus (Earth-616)|Tyrannus]]. Their goal was to manipulate events so that they could build up the Flame to massive power and obtain the person they deemed the strongest to be absorbed by the flame. Using that energy themselves to become Immortal and rule the world, where the Keeper of the Flame wanted to be the spiritual leader of those conquered. They chose the Hulk, but before he could be absorbed by the fire, Tyrannus turned against them and absorbed both Prince Rey and The Keeper of the Flame, turning them both to dust{{r|Incredible Hulk #240|241}}.
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

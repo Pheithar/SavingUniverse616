@@ -1,0 +1,33 @@
+{{Marvel Database:Team Template
+| Image                   = Triumvirate (Void) (Earth-616) Uncanny X-Men Vol 1 286.jpg
+| Name                    = [[Triumvirate]]
+| Aliases                 = [[Triumvirate of the Void]]
+
+| Status                  = Active
+
+| Identity                = Public
+| Reality                 = Earth-616
+| BaseOfOperations        = [[Void (Dimension)]]
+
+| Leaders                 = [[Sha-Har-A-Zath (Earth-616)|Avatar (Sha-Har-A-Zath)]], [[Avatar (Triumvirate) (Earth-616)|previous Avatar]] (deceased) 
+| CurrentMembers          = [[Sha-Har-A-Zath (Earth-616)|Avatar (Sha-Har-A-Zath)]]
+| FormerMembers           = [[Avatar (Triumvirate) (Earth-616)|Avatar]], [[Tra-Mai-A-Zath (Earth-616)|Tra-Mai-A-Zath]] 
+| Allies                  = [[Posse Comitatus (Earth-616)|Posse Comitatus]]
+| Enemies                 = [[X-Men (Earth-616)|X-Men]]
+
+| Origin                  = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = John Byrne; Jim Lee; Whilce Portacio
+| First                   = Uncanny X-Men Vol 1 285
+
+| HistoryText             = The leaders of a dimension known as "[[Void (Dimension)|The Void]]". They battled the [[X-Men (Earth-616)|X-Men]] and put [[Warren Worthington III (Earth-616)|Archangel]] under a spell and had him attack rebel forces and the X-Men.
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

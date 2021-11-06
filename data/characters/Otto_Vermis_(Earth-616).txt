@@ -1,0 +1,55 @@
+{{Marvel Database:Character Template
+| Image                   = Otto Vermis (Earth-616) from Spider-Woman Origin Vol 1 4 001.jpg
+| Name                    = [[Otto Vermis]]
+| CurrentAlias            = [[Supreme Hydra]]
+| Aliases                 = 
+
+| Affiliation             = Formerly {{m|Hydra}}
+| Relatives               = [[Octavia Vermis (Earth-616)|Octavia Vermis]] (daughter);<br>
+[[Ophelia Vermis (Earth-616)|Ophelia Vermis]] (granddaughter)
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Grey
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = 
+| Citizenship             = German
+| Occupation              = Hydra area commander
+| Education               = 
+| BaseOfOperations        = Formerly [[Europe]]
+
+| Creators                = Archie Goodwin; Sal Buscema
+| First                   = Marvel Spotlight #32
+| First2                  = {{g|Historically}}<br>{{sld|Original Sins #5}}{{g|Chronologically}}
+| Death                   = Marvel Spotlight #32
+
+| History                 = Count Otto Vermis was the area commander of a splinter group of [[Hydra (Earth-616)|Hydra]] operating in [[Europe]]. He is most well known as the Hydra agent that manipulated [[Jessica Drew (Earth-616)|Jessica Drew]] into being their agent until she regained some of her memories and reformed.{{r|Marvel Spotlight #32}}
+
+In 1966, in the early days of [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]], Vermis stole the world's largest sapphire to power a death ray to destroy [[Fort Knox]]. S.H.I.E.L.D. sent agents [[Nicholas Fury (Earth-616)|Nick Fury]] and [[Timothy Dugan (Earth-616)|Dum Dum Dugan]] to stop him, and Dugan was critically injured in that mission.{{r|Original Sins #5}}
+
+After finding young Jessica being chased by a mob in a small European village for the use of her strange powers, Count Vermis took her in and subjected her to rigorous espionage and martial arts regimen in order to turn her into a powerful secret agent for the subversive organization. To insure her loyalty, Vermis also had her subjected to special brainwashing techniques to make her believe she was actually a highly evolved spider rather than a real woman, and assigned an agent named Jared to engage her in an amorous relationship. Given a special costume with glider-wings and codenamed Arachne, Jessica was sent on her first mission: to assassinate S.H.I.E.L.D. Director Nick Fury. Upon learning Vermis' true intentions and the real aims of Hydra, Jessica betrayed the organization and fled, though not before first destroying the escaping jet that Otto Vermis was flying to escape the S.H.I.E.L.D. raid on his Hydra base.{{r|Marvel Spotlight #32}}
+
+| Powers                  = 
+| Abilities               = As an area commander of Hydra, Otto Vermis is a master strategist and leader. He is also good at manipulating others and in creating elaborate plots to further his own goals.
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = Otto Vermis presumably had access to many of the advanced vehicles created and used by Hydra.
+| Weapons                 = Otto Vermis presumably had access to much of the advanced weaponry devised by Hydra.
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

@@ -1,0 +1,72 @@
+{{Marvel Database:Character Template
+| Image                   = Kymera (Earth-13729) from X-Men Vol 4 14 0001.png
+| Name                    = 
+| CurrentAlias            = Kymera
+| Aliases                 = 
+
+| Affiliation             = Formerly {{M|X-Men (Earth-616)|X-Men (present day)}} (Jean Grey School member), {{M|X-Men (Earth-13729)|X-Men (home reality)}}
+| Relatives               = [[Ororo Munroe (Earth-13729)|Ororo Munroe]] (mother, deceased)
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Eyes2                   = ([[:Category:Green Eyes|Green]] when using her powers)[[Category:Green Eyes]]
+| Hair                    = White
+| UnusualFeatures         = Kymera's eyes glow green when using her powers.
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-13729
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Adventurer, Time-traveler
+| Education               = 
+| BaseOfOperations        = Formerly [[Xavier's School for Gifted Youngsters|Jean Grey School for Higher Learning]], [[Salem Center]], [[New York (State)|New York]]
+
+| Creators                = Jason Aaron; Ed McGuinness <!-- Future X-Men members that first appeared in Battle of the Atom were designed by Ed McGuinness -->
+| First                   = Wolverine and the X-Men Vol 1 36
+| Death                   = Uncanny X-Men: Winters End Vol 1 1
+
+| Quotation               = We vote, [[Quintavius Quire (Earth-13729)|Quire]]. On whether we go to help.
+| Speaker                 = [[Kymera (Earth-13729)|Kymera]]
+| QuoteSource             = All-New X-Men Vol 1 17
+
+| History                 = After helping the [[X-Men (Time-Displaced) (Earth-616)|past]] and [[X-Men (Earth-616)|present]] X-Men, Kymera decided to stay in the present to help them if any future problems were to ever return.{{r|X-Men: Battle of the Atom Vol 1 2}} During her time with the present X-Men, Kymera became close to her mother of this time, Kymera also helped in defeating the future X-Men.{{Citation}}
+
+===Leaving===
+After using Shogo to help the X-Men, Kymera left the Jean Grey School, leaving behind a note to Storm explaining that she didn't find herself at the school. Her whereabouts are unknown, though she stated she wouldn't go far.{{Citation}}
+
+She reappeared in her own reality when the Shi'ar attacked. She was one of the many left on the ship when it was destroyed thus killing her.{{r|Uncanny X-Men: Winters End Vol 1 1}}
+
+| Powers                  = '''Enchanted Sense of smell''': The reason she is an expert tracker is due to her ability to pick up any sense of the person she tracks.{{Citation}}
+
+'''Animal Empathy''': Kymera can influence animal behaviors psionically, such as directing a hawk to swoop down and carry a child to safety.{{Citation}}
+| Abilities               = Kymera is an expert hand-to-hand combatant and tracker.{{Citation}}
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = Accompanied by a giant black panther with glowing marks and a falcon.{{Citation}} She also carried a dagger.{{Citation}}
+
+| Notes                   = * It's very likely that Kymera could be Black Panther's daughter as evidenced by her panther mascot.{{Citation}}
+| Trivia                  = * The glowing marks on Kymera's panther are similar to Citation.
+* Kymera mentioned in the letter she gave to Storm that she and her never got along; however, she also mentioned that they respected each other in her time.{{Citation}}
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Munroe Family]]
+[[Category:Superhuman Senses]]
+[[Category:Hyperosmia]]
+[[Category:Zoopathy]]
+[[Category:Trackers]]
+[[Category:Interdimensional Travelers]]
+[[Category:Time Travelers]]
+[[Category:Characters Displaced to Earth-616]]
+[[Category:Post-M-Day Mutants (Time/Reality Travelers)]]

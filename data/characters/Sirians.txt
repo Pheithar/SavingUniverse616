@@ -1,0 +1,52 @@
+{{Marvel Database:Race Template
+| Image                   = Sirians from X-Men Vol 1 21 001.png
+| Name                    = Sirians
+| Aliases                 = 
+| Identity                = 
+| Affiliation             = 
+| Universe                = Earth-616
+| BaseOfOperations        = 
+
+| BodyType                = Humanoid
+| AvgHeight               = 5' 9"
+| AvgWeight               = 
+| Eyes                    = 2
+| Hair                    = 
+| Skin                    = Pink
+| NumberOfLimbs           = 4
+| NumberOfFingers         = 5
+| NumberOfToes            = 5
+| SpecialAdaptations      = 
+| UnusualFeatures         = 
+
+| Origin                  = [[Milky Way]]
+| GalaxyOfOrigin          = 
+| StarSystemOfOrigin      = Sirius (Star)
+| HomePlanet              = [[Sirius III]] and [[Sirius IV]]
+| PlaceOfBirth            = 
+| Creators                = 
+| First                   = X-Men #21
+
+| HistoryText             = Once a great and advanced civilization, the Sirians were reduced to mere automatons when the [[Quists]]' enslaved them with their super-computer [[Dominus (Earth-616)|Dominus]].{{r|X-Men Vol 1 21}}
+
+| Habitat                 = 
+| Gravity                 = 
+| Atmosphere              = 
+| Population              = 75 million
+
+| Powers                  = 
+| Abilities               = 
+| AvgStrength             = 
+| Weaknesses              = 
+
+| GovernmentType          = Dictatorship
+| TechnologyLevel         = Superior to [[Earth]]'s with advanced warp driven starships and advanced robotics
+| CulturalTraits          = 
+| Representatives         = [[Ixar (Earth-616)|Ixar]]
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+
+[[Category:Races of Aliens]]

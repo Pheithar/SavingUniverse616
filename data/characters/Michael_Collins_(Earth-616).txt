@@ -1,0 +1,96 @@
+{{Marvel Database:Character Template
+| Image                   = Michael Collins (Earth-616) from Beyond! Vol 1 3 cover 001.jpg
+| Name                    = [[Michael Collins|Michael "Mike" Collins]]
+| CurrentAlias            = [[Deathlok]]
+| Aliases                 = Doctor Donut,{{r|All-New Official Handbook of the Marvel Universe A to Z Vol 1 3}} The Cyborg,{{Citation}} Robot Vigilante,{{r|All-New Official Handbook of the Marvel Universe A to Z Vol 1 3}} Tin-Man{{r|Beyond! Vol 1 3}}
+
+| Affiliation             = Formerly {{m|Secret Defenders (Earth-616)|Secret Defenders}}, {{m|Wild Pack (Earth-616)|Wild Pack}}, freelance {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}} operative, former computer programmer with {{M|Roxxon Energy Corporation (Earth-616)|Roxxon Oil}} division {{M|Cybertek (Earth-616)|Cybertek}}
+| Relatives               = [[Tracy Collins (Earth-616)|Tracy Collins]] (wife);<br>
+[[Nicholas Collins (Earth-616)|Nick Collins]] (son);<br>
+[[Patricia Collins (Earth-616)|Patricia "Tisha" Collins]] (daughter);<br>
+[[Bill Collins (Earth-616)|Bill Collins]] (brother);<br>
+Arlene (sister-in-law)
+| MaritalStatus           = Married
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #3}}
+| Gender                  = Male
+| Height                  = 6'1" (as Collins); 7'2" (as Deathlok)
+| Weight                  = 200 lbs(91 kg) (as Collins); 825 lbs (375 kg) (as Deathlok)
+| Eyes                    = Brown (as Collins); Yellow (Left) (as Deathlok); Brown (Right)(as Deathlok)
+| Hair                    = Brown (as Collins); Light Brown (as Deathlok)
+| UnusualFeatures         = Deathlok possesses a massive cyborg body. The right half of his face is in a semi-decomposed state. The left half of his face is in an armored cybernetic implant. Deathlok has two toes on each foot.
+
+| Origin                  = [[Homo sapiens|Human]] with his brain implanted into a [[Cyborgs|Cyborg]].
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Philadelphia (Pennsylvania)|Philadelphia]], [[Pennsylvania (State)|Pennsylvania]] 
+
+| Identity                = Known to Authorities
+| Citizenship             = American
+| Occupation              = Adventurer, vigilante, computer consultant, software engineer, video game programmer
+| Education               = Ph.D. in Prosthetics/neuroscience, master degree in computer science
+| BaseOfOperations        = [[Paterson]], [[New Jersey (State)|New Jersey]]; [[Coney Island]], [[Brooklyn]], [[New York City]], [[New York (State)|New York]]
+
+| Creators                = Dwayne McDuffie; Gregory Wright; Jackson Guice
+| First                   = Deathlok Vol 1 1
+
+| History                 = 
+===Origins===
+Originally, Michael Collins was a computer programmer working for [[Roxxon Energy Corporation (Earth-616)|Roxxon Oil]]. He thought that his programming for artificial limbs was going to be used to help handicapped people, not knowing that it was actually being used for the Deathlok Project.
+
+After he found out about his work being used for the creation of a killing machine, he complained to his friend and boss, [[Harlan Ryker (Earth-616)|Harlan Ryker]], not knowing that Ryker was behind the Deathlok Project. Ryker betrayed Collins and had his brain placed into the Deathlok cyborg body.
+
+When Michael awoke, he found himself in the cyborg body, but unable to control it. The Deathlok cyborg was then tested, and Michael watched in horror, unable to do anything, as his cyborg body killed a couple of soldiers.
+
+Eventually, Michael gained control of the Deathlok cyborg and set out to find Harlan Ryker and make him pay for what he had done to Michael.
+
+Michael caught up with Ryker as he was making illegal weapons sales to a private army. Before Michael turned Ryker over to the authorities, he found out that his human body still existed, somewhere.
+
+===Beyond & Return to Earth===
+Much later, he was discovered on a new Battleworld on which he had been trapped for years, Deathlok helped fellow super-powered individuals; [[Henry Pym (Earth-616)|Dr. Pym]], [[Janet Van Dyne (Earth-616)|Wasp]], [[Space Phantom (Temporal Limbo)|Spider-Man]], [[MacDonald Gargan (Earth-616)|Venom]], [[Parker Robbins (Earth-616)|Hood]], [[Greg Willis (Earth-616)|Gravity]], [[Firebird (Bonita Juarez)|Firebird]], [[Medusalith Amaquelin (Earth-616)|Medusa]], and [[Alexei Kravinoff (Earth-616)|Al Kraven]] battle the [[Draconus (Earth-616)|Dragon Man]] and the [[Space Phantom (Temporal Limbo)|Space Phantom]] who was impersonating Spider-Man. The [[Stranger (Cosmic Being) (Earth-616)|Stranger]] was revealed as the one behind bringing them there, and ultimately they were able to escape. During the conflict it was revealed that he could now return to his human form at will and once he had returned to Earth he found that he was unable to become Deathlok again.{{r|Beyond! Vol 1 1|6}} 
+
+He was present at the funeral for Gravity{{r|Beyond! Vol 1 6}} and helped the [[Fantastic Four (Earth-616)|Fantastic Four]] after Gravity's casket was removed from his grave. He ultimately piloted the craft that led the Fantastic Four into a conflict with [[Galan (Earth-616)|Galactus]], [[Lambda-Zero (Earth-616)|Stardust]], and [[Norrin Radd (Earth-616)|Silver Surfer]] and was present at Gravity's resurrection. After this he returned to earth with the Fantastic Four and Gravity, his current whereabouts are unknown.{{r|Fantastic Four Vol 1 544|546}}{{r|Black Panther Vol 4 27}}
+
+| Powers                  = 
+'''Cyborg Physiology:''' Inspired by the original, this Deathlok similarly possesses a variety of superhuman attributes as a result of extensive cybernetic augmentation.<br>
+
+*'''Encephalonic Technology:''' Considered as the most crucial component to the greatest versatile weapon in history, the name is a contraction of two words Encephalic(Meaning "Within The Head") and Technological(Meaning "A capable and advanced use of technology."). Encephalonic allows the use of an organic brain to store information that can be accessed by the Main Computer and Operation System. At this point the storage capability of the human brain is literally incalculable.
+
+:*'''Computer Brain:''' Much of Deathlok's brain has been replaced with an extremely efficient A.I. System, titled "Computer", granting him greater levels of intelligence, knowledge in strategic warfare, hand-to-hand and weapons combat. This also allows him to communicate, and manipulate by interfacing with almost any other computer base systems such as other cyborgs or robots. On top of that Computer can be given full control to accomplish objectives and feats more efficiently.<br>
+
+*'''Artificial Eyes and Ears:''' A common misconception is that Deathlok's right eye and ear are completely organic, this is of course false, though his left eye and ear are much more advanced. The unit's left eye is sensitive to a spectrum stretching both above and below the visible light. When in active scanning mode, it can also emit and detect variable frequency EM Radiation and Neutrinos. The left ear has directional capabilities along with both audio and visible input which is routinely digitized and stored for future access. Both can be further enhanced to greater levels.<br>
+
+*'''Superhuman Durability:''' Other than the previously mention organic systems, this unit is of entirely artificial construct. The skeleton is pure Adamantium, tooled to mimic the full human range of motion. The muscles and cartilage are composed of an extremely impact-resistant custom Elastic-Adamantium-Steel mix to purposely promote athletic movement.  
+
+*'''Superhuman Strength:''' Deathlok possesses great superhuman strength and is currently able to lift approximately 85 tons. However, his design has the capacity to potentially lift as much as 150 tons. <br>
+
+*'''Superhuman Speed:''' Despite his great size and bulk, Deathlok is capable of running and moving at speeds considerably greater than even the finest human athlete. He can reach a top speed of 110 miles per hour.<br>
+
+*'''Superhuman Stamina:''' Deathlok has stated that his: "Cyborg body doesn't get tired but the Human brain does." Deathlok's artificial musculature produces considerably less fatigue toxins during physical activity than the natural musculature of an ordinary human. He can exert himself at peak capacity for about 24 hours before fatigue begins to impair him.<br>
+
+*'''Superhuman Agility:''' Despite his massive size, Deathlok's agility, balance, and bodily coordination are enhanced to levels that are beyond the natural physical limits of even the finest human athlete.<br>
+
+*'''Superhuman Reflexes:''' Deathlok's reaction time is enhanced to a level that is beyond the natural physical limits of the finest human athlete.<br>
+
+*'''Healing:''' The nanites within Deathlok are able to repair his organic systems rapidly.{{r|Beyond! Vol 1 3}}
+
+| Abilities               = *'''[[Genius Intelligence]]:''' Deathlok is an excellent computer programmer. Deathlok's on-board computer system contains the downloaded contents in excess of 17 Cray mainframe computers and can provide him with detailed information on a wide variety of subjects. Through his downloads, Deathlok has gained a broad knowledge of hand-to-hand combat techniques, as well as detailed knowledge in the use of conventional and technologically advanced firearms.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 3}}
+| Strength                = 85 with the potential to reach 150 tons.
+| Weaknesses              = Despite his cybernetic enhancements, Deathlok is still vulnerable to certain human needs. He still requires oxygen to breathe, and needs to sleep. He also requires nourishment, but his simplified digestive system is only capable of absorbing nutrients in a liquefied form. 
+
+| Equipment               = 
+| Weapons                 = He has a plasma pistol built into his body that takes its power from his internal plasma reactor. He also carries in a built-in back-pack, and has access to a plasma assault rifle and plasma grenade launcher.
+
+| Notes                   = 
+| Trivia                  = * The character was somewhat of a reference to the book <i>[[wikipedia:The Souls of Black Folk|The Souls of Black Folk]]</i>.
+* The song "Psychotron", by American heavy metal band [[wikipedia:Megadeth|Megadeth]], is a homage to Deathlok.
+| Marvel                  = 
+| Wikipedia               = Deathlok#Michael Collins
+| Links                   = 
+}}
+[[Category:Technopaths]]
+[[Category:Superhuman Stamina]]
+[[Category:Superhuman Agility]]
+[[Category:Superhuman Senses]]
+[[Category:Superhuman Reflexes]]
+[[Category:Deathloks]]
+[[Category:Strength Class 85]]

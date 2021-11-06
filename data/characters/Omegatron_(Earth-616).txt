@@ -1,0 +1,50 @@
+{{Marvel Database:Character Template
+| Image                   = Omegatron (Earth-616) from Defenders Vol 1 5 001.png
+| Name                    = Omegatron
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = 
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = No
+| UnusualFeatures         = 
+
+| Origin                  = [[Robots|Robot]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = 
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Roy Thomas; Ross Andru
+| First                   = Marvel Feature #1
+
+| History                 = At one point during his fall through endless universes, [[Yandroth (Earth-616)|Yandroth]] was empowered by a strange dimension. Yandroth returned to [[Earth]] to create the Omegatron, and engineered it so that upon Yandroth's death, Omegatron would detonate every nuclear stock pile on Earth. Omegatron was created through magic and science and thus could not properly be destroyed through one or the other alone. Omegatron housed a huge nuclear weapon capable of destroying virtually all life on Earth. It must however attain power for this device to utilize it, and it had to say the word "Yandroth" to activate it.  After becoming aware of Omegatron's existence, the [[Defenders (Earth-616)|Defenders]] went to the lighthouse in [[Point Promontory]] where it was housed in. Before Omegatron could absorb enough energy to activate its apocalyptic program, [[Stephen Strange (Earth-616)|Doctor Strange]] put a spell on it and stopped time around it. Strange also made the lighthouse appear inactive so no one would accidentally start Omegatron again.{{r|Marvel Feature #1}}
+
+Some time later, [[Brunnhilde (Earth-616)|Valkyrie]] and [[Namorita Prentiss (Earth-616)|Namorita]] traced a disappeared [[Bruce Banner (Earth-616)|Hulk]] and [[Namor McKenzie (Earth-616)|Namor]] to the lighthouse Omegatron was in. Omegatron revealed that the spell on him was weakened and created five Hulks and five Namors, and only one of each was real. While the heroes managed to discover the real ones, Omegatron absorbed enough vibrations to activate his doomsday weapon, and grew a giant body out of the machinery that contained his head. His control over Namor and Hulk was stopped and before he was able to speak Yandroth's name, Hulk knocked him over, and Valkyrie chopped off his head with the [[Ebony Blade]], effectively destroying him.{{r|Defenders #5}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Artificial Intelligences]]
+[[Category:Giant Monsters]]

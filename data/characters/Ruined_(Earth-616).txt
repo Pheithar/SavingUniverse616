@@ -1,0 +1,33 @@
+{{Marvel Database:Team Template
+| Image                   = Ruined (Earth-616) from Fantastic Four Vol 3 1 001.jpg
+| Name                    = Ruined
+| Aliases                 = 
+
+| Status                  = Defunct
+| Identity                = Secret
+| Reality                 = Earth-616
+| BaseOfOperations        = Another dimension of Earth-616
+
+| Leaders                 = Formerly [[Yvette Diamonde (Earth-616)|Martyr]]
+| CurrentMembers          = [[B'arr (Earth-616)|B'arr]], [[C'hin (Earth-616)|C'hin]], [[Casque (Earth-616)|Casque]], [[Exalt (Earth-616)|Exalt]], [[Feuille (Earth-616)|Feuille]], [[Griffe (Earth-616)|Griffe]], [[Arlise (Katar) (Earth-616)|Katar]], [[M'stapha (Earth-616)|M'stapha]], Quintessence, [[S'pyke (Earth-616)|S'pyke]], [[Stem (Earth-616)|Stem]], [[Touffe (Earth-616)|Touffe]]
+| FormerMembers           = 
+| Allies                  = 
+| Enemies                 = 
+
+| Origin                  = Another dimension of Earth-616
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Scott Lobdell; Alan Davis; Mark Farmer
+| First                   = Fantastic Four Vol 3 #1
+| Last                    = Fantastic Four: Foes #6
+
+| HistoryText             = Once anchored in a human body, all of the Ruined had power levels that gradually increased as the Ruined's dimension continued to expand into the Earth dimension.
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

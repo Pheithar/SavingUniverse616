@@ -1,0 +1,45 @@
+{{Marvel Database:Character Template
+| Image                   = Assault_and_Battery_(Earth-616)_from_Nick_Fury,_Agent_of_S.H.I.E.L.D._Vol_3_33_0001.jpg
+| Name                    = Unrevealed
+| CurrentAlias            = Assault and Battery
+
+| Affiliation             = Formerly [[David Angar (Earth-616)|Angar the Screamer]]; {{M|Roxxon Energy Corporation|Roxxon Corporation}}
+| Relatives               =
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  =
+| Weight                  =
+| Hair                    = Black
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             =
+| Occupation              = Terrorist, mercenary
+| Education               =
+| BaseOfOperations        = 
+
+| Creators                = Scott Lobdell; M. C. Wyman
+| First                   = Nick Fury, Agent of S.H.I.E.L.D. Vol 3 33
+
+| History                 = Very little is known about Assault and Battery, save that they seem to be twin brothers. They were part of a group of Roxxon-employed terrorists and mercenaries, led by [[David Angar (Earth-616)|Angar the Screamer]], who briefly managed to take over the S.H.I.E.L.D.’s Helicarrier in a daring commando strike. However, they soon were defeated. One of the Super-Agents, Knockout, managed to throw one of them over a ledge and into a deep pit, causing the other one to be pulled after him.{{r|Nick Fury, Agent of S.H.I.E.L.D. Vol 3 33|35}}
+
+| Powers              = * '''Superhuman Strength'''
+* '''Superhuman Durability'''
+
+| Abilities              = Both are proficient fighters (with both hand-to-hand and firearms)
+| Equipment               = Linked by an armored cable.
+| Transportation          = 
+| Weapons                 = They carry compact machine guns on their back – on motorised rails, allowing the guns to move into firing position over both shoulders.
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * http://www.marvunapp.com/Appendix/assltbat.htm
+}}
+[[Category:Twins]]
+[[Category:Roxxon Projects]]

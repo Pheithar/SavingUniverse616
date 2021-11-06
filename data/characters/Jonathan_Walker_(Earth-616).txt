@@ -1,0 +1,149 @@
+{{Marvel Database:Character Template
+| Image                   = Jonathan Walker (Earth-616) from U.S.Agent Vol 2 1 cover 001.jpg
+| Name                    = [[John Walker|Jonathan F. "John" Walker]]
+| NameRef                 = {{r|Official Handbook of the Marvel Universe Vol 3 8}}{{r|U.S.Agent Vol 2 1}}
+| CurrentAlias            = [[U.S.Agent]]
+| Aliases                 = [[Captain America]],{{r|Captain America #333}} Captain Walker,{{r|Civil War: Choosing Sides Vol 1 1}} [[Jack Daniels]],{{Citation}} [[Johnny Walker]],{{r|2020 Force Works Vol 1 2}} [[John Walker (Earth-398)|Liegeman]],{{r|Avengers Vol 3 #2}} [[Patriot]],{{Citation}} [[Super-Patriot]],{{r|Captain America #323}} Warden John Walker{{r|Thunderbolts #145}}
+
+| Affiliation             = {{m|United States Army|U.S. Army}}, {{m|Scourge of the Underworld (Earth-616)|Scourge of the Underworld}}, {{m|Force Works}}; formerly {{m|Underground (Secret Empire)|Underground}}, {{m|Keane Industries}}, {{m|Avengers (Doctor Doom's)|Doom's Avengers}}, {{M|Dark Avengers}}, {{m|Captain America Corps (Earth-616)|Captain America Corps}}, {{m|Mighty Avengers (Pym) (Earth-616)|Mighty Avengers}}, {{m|Global Reaction Agency for Mysterious Paranormal Activity|G.R.A.M.P.A}}, {{m|Omega Flight (Heroes)|Omega Flight}}, {{m|Strategic Homeland Intervention, Enforcement and Logistics Division|S.H.I.E.L.D.}}, {{m|Avengers West Coast}} (part of 'Earth force' during [[Operation Galactic Storm]]), {{m|Jury}}, {{m|Invaders (Modern)|New Invaders}}, {{m|Commission on Superhuman Activities}}, {{m|Superhuman Tactical Activities Response Squad|S.T.A.R.S.}}, {{m|Defenders}}, {{m|Secret Defenders}}, {{m|Bold Urban Commandos}}, {{m|Watchdogs}} (undercover),{{r|Captain America #335}} {{m|Thunderbolts}}, {{m|Retrieval Squad}}
+| Relatives               = [[Caleb Walker (Earth-616)|Caleb Walker]] (father, deceased);<br>
+[[Emily Walker (Earth-616)|Emily Walker]] (mother, deceased);<br>
+[[Michael Walker (U.S.Agent's Brother) (Earth-616)|Michael Walker]] (brother, deceased);<br>
+[[Kate Walker (Earth-616)|Kate Tolifson]] (sister);<br>
+Tolifson brother-in-law;<br>[[Venom (Symbiote) (Earth-13584)|Venom]] (symbiote)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Civil War: Battle Damage Report #1}}
+| Gender                  = Male
+| Height                  = 6'4"
+| Weight                  = 270 lbs
+| Eyes                    = Blue 
+| Hair                    = Blond
+| UnusualFeatures         = Formerly missing arm and leg (restored by Venom symbiote){{r|Dark Avengers #184|185}}
+
+| Origin                  = [[Homo sapiens|Human]] who received his enhanced strength from the process developed for [[Power Broker (Earth-616)|Power Broker]] ([[Glossary:Mutate|Human Mutate]])
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Custer's Grove]], [[Georgia (State)|Georgia]]
+
+| Identity                = Known to Authorities
+| Citizenship             = American
+| Occupation              = Adventurer, U.S. government operative, soldier; former prison warden, vigilante
+| Education               = High school graduate
+| BaseOfOperations        = Mobile; [[Raft]], [[New York City]], [[New York (State)|New York]]; [[C.S.I.S. National Headquarters]], [[Ottawa]], [[Ontario]], [[Canada]]; [[U.S.S. Infiltrator]]; [[Avengers Compound]], [[Los Angeles]], [[California (State)|California]]; [[Commission on Superhuman Activities Home Office|C.S.A. Headquarters]], [[Washington, D.C.]]
+
+| Creators                = Mark Gruenwald; Paul Neary
+| First                   = Captain America #323
+| First2                  = (As Super-Patriot)<br>{{sld|Captain America #333}}(As Captain America)<br>{{sld|Captain America #354}}(As U.S.Agent)
+
+| Quotation               = This should '''never''' have happened -- '''none''' of it! And I don't want to be part of your '''costume party''' -- endangering '''everyone''', making '''cosmic enemies''' with your unsupervised, '''dilettante games'''! It's the '''little guy''' I care about -- the little guy, the '''silent majority''' -- the people who shouldn't have to have their lives '''interrupted''' and '''threatened''' by all this super-violence that erupts '''without warning'''! '''Keep''' your congratulations! I'm just going to keep doing what I'm '''doing''' -- being the guy who makes sure all the '''super-crooks''' and '''monsters''' are subject to the '''same damn laws''' as '''everyone else''' -- making sure they know that '''they''' -- and '''you''' -- are '''nothing special'''! '''Nothing at all'''!
+| Speaker                 = [[Jonathan Walker (Earth-616)|U.S.Agent]] 
+| QuoteSource             = Maximum Security Vol 1 3
+
+| Overview                = John Walker was a [[United States Army (Earth-616)|U.S. Army]] veteran who went through the [[Power Broker, Inc. (Earth-616)|Power Broker]] process to enhance his strength in hopes of honoring his fallen brother. He joined the [[Unlimited Class Wrestling Federation (Earth-616)|Universal Class Wrestling Federation]] as Super-Patriot until he became convinced to put his skills to better use becoming a super hero.{{r|Captain America #328|329}} He was later chosen to take up the mantle of [[Captain America]] when [[Steven Rogers (Earth-616)|Steve Rogers]] retired.{{r|Captain America #333}} Walker is a hardline [[Christianity|Christian]], right-wing conservative believing in country before anything else.{{r|Captain America #335}} When Rogers returned, Walker re-established himself as '''U.S.Agent'''{{r|Captain America #354}} where he went on to serve as a member and even leader of various [[Avengers (Earth-616)|Avengers]] teams.{{r|West Coast Avengers Vol 2 44}}
+
+| History                 = 
+===Early Life===
+John Walker was born and raised in the small town of [[Custer's Grove]], [[Georgia (State)|Georgia]]. He grew up idolizing his older brother Mike, a US Army helicopter pilot. wanting to live up to his brother's memory, John enlisted in the [[United States Army (Earth-616)|US Army]]. John served at [[Fort Bragg]] and felt he wasn't a 'hero' like his brother was. Walker underwent the [[Power Broker, Inc. (Earth-616)|Power Broker]] process to compete in the [[Unlimited Class Wrestling Federation (Earth-616)|Universal Class Wrestling Federation]]. However, his [[Ethan Thurm (Earth-616)|agent]] convinced him that he should become a hero.{{r|Captain America #328|329}}
+
+===Super-Patriot===
+[[File:Jonathan Walker (Earth-616) from Captain America Vol 1 350 001.jpg|thumb|left|Super Patriot]]
+He became the Super-Patriot, arguing that he stood for America's 'true ideals' and began to publicly discredit [[Steven Rogers (Earth-616)|Captain America]].{{r|Captain America #323}} Three '[[Bold Urban Commandos (Earth-616)|Bold Urban Commandos]]', fellow recruits from the Federation, assisted him by staging attacks and intimidating others.{{r|Captain America #327}}	
+
+After a fight with Captain America at a rally in [[Central Park]], Walker battled a terrorist named Warhead who threatened to detonate a nuclear weapon in [[Washington, D.C.]]{{r|Captain America Vol 1 #332}}
+
+===Captain America===
+Captain America later abandoned his identity due to [[Johann Shmidt (Earth-616)|Red Skull]]'s manipulation of the [[Commission on Superhuman Activities (Earth-616)|Commission on Superhuman Activities]].{{r|Captain America #332}} Walker took the role as Captain America, moderating his views. The man who would later become [[Lemar Hoskins (Earth-616)|Battlestar]] served as his Bucky. The other two BUCs became [[Hector Lennox (Earth-616)|Left-Winger]] and [[Jerome Johnson (Earth-616)|Right-Winger]].{{r|Captain America #333|334}}
+	 
+Left-Winger and Right-Winger publicly revealed Walker's name{{r|Captain America #341}} leading to the [[Watchdogs (Earth-616)|Watchdogs]] killing his parents. Walker retaliated by killing most of the Watchdogs. He captured Left-Winger and Right-Winger and used his old 'torchsword' to ignite explosives to which they were strapped, leaving them horribly burned and in comas.{{r|Captain America #347}}
+
+Eventually, there was a confrontation with Captain America who was then calling himself the Captain. Walker was stopped by Rogers.{{r|Captain America #336|339}} The two confronted the Red Skull, who had been manipulating the Commission. In light of these events, Walker was deemed unworthy of the Captain America title due to his actions.{{r|Captain America #341|351}}
+
+===U.S.Agent===
+Walker's death was soon faked by a member of the Commission and he re-emerged as U.S.Agent. He wore a variation of the costume that Rogers had worn as the Captain and used his [[vibranium]] disc as a shield. Walker continued to work for the Commission. He was first seen as the U.S.Agent battling an [[Iron Monger]] as a test for the Commission.{{r|Captain America #354}} Walker was additionally placed as a watchdog of [[Avengers West Coast (Earth-616)|Avengers West Coast]] and the Vision by the Commission, as a condition to possibly get their government clearance reinstated.{{r|West Coast Avengers Vol 2 44|45}} He later rescued his former partner Battlestar from the [[Power Broker]], and reconciled with him; John learned that his memories had been altered and that his parents were dead.{{r|Captain America #376|378}}
+
+===Force Works===
+When the West Coast Avengers dissolved, Walker dumped his costume and shield into the [[Hudson River]].{{r|Avengers: West Coast #102}} [[Anthony Stark (Earth-616)|Tony Stark]] formed a new team known as [[Force Works (Earth-616)|Force Works]]. Initially reluctant to join however, [[Wanda Maximoff (Earth-616)|Scarlet Witch]] later persuaded him to do so; she believed John was the team's backbone. He intended to run the team on tight military lines and the values of strength and dedication. John ultimately joined the team, wearing a new costume and using an [[Energy Shield|energy shield]].{{r|Force Works #1}} John remained a member throughout the team's tenure, fighting threats such as the [[Kree]]; alien parasites, the [[Scatter (Race)|Scatter]];{{r|Force Works #2|3}} the supernatural threat [[Pavel Chenklo (Earth-616)|Ember]], [[Slorenia]]'s armored protectors, the [[Black Brigade (Earth-616)|Black Brigade]];{{r|{{cl|Force Works Vol 1 4}}-[[Force Works Vol 1 5|5]]}} and [[Mandarin (Earth-616)|The Mandarin]].{{r|Force Works #6|7}} They went on to fight alongside [[Australian]] super hero [[Willie Walkaway (Earth-616)|Dreamguard]] against the dream-manipulating [[Orphan]];{{r|Force Works #8|10}} Slorenia's undead shock troops, The [[Targoth (Earth-616)|Targoth]]; and Volkhvy the Eternal One.{{r|{{cl|Force Works Vol 1 11}}-[[Force Works Vol 1 12|12]]}} They teamed up with the Avengers against the Kree commandos, [[Excel]].{{r|Force Works #13|14}} They later went up against intergalactic mercenary the [[Broker (Earth-616)|Broker]].{{r|Force Works #15}} They even had to fight their security system [[Virtual Integrated Rapidly-evolving Grid-based Intelligent Lifeform (Earth-9528)|V.I.R.G.I.L.]],{{r|Force Works #20}} and an alternate reality version of deceased former Force Works member [[Wonder Man]].{{r|Force Works #21|22}}
+
+Working for his old Commission ties led him into conflict with other heroes. Walker seemed to have finally cut ties with them after one mission put him into conflict with [[James Rhodes (Earth-616)|War Machine]] and [[Clinton Barton (Earth-616)|Hawkeye]].{{r|Force Works #12}} 
+
+===The Jury===
+John eventually became the field leader of the [[Jury]], a group of armored corporate vigilantes owned by [[Edwin Cord (Earth-616)|Edwin Cord]], owner of [[Cordco (Earth-616)|Cordco]]. U.S.Agent again wore his original U.S.Agent uniform and used an eagle-shaped shield that could be directed in mid-air via remote control. The Jury's job was to take down the [[Thunderbolts]], but they were defeated by the Thunderbolts and their new leader Hawkeye.{{r|Thunderbolts Vol 1 #23}} The Jury attempted to apprehend the Thunderbolts a second time, but instead the two groups joined forces together against [[Brute Force]] and the soldiers of the Secret Empire.{{r|Thunderbolts Vol 1 #32}}
+
+U.S.Agent was later severely beaten nearly to death by [[Clinton McIntyre (Earth-616)|Protocide]]. Due to emergency medical procedures performed on him, he was outfitted by [[S.H.I.E.L.D.]] with an enhancing exoskeleton.{{r|Captain America Vol 3 #33|34}}
+
+===S.T.A.R.S.===
+Walker eventually appeared in Texas working on behalf of the US government as leader of [[Superhuman Tactical Activities Response Squad (Earth-616)|S.T.A.R.S.]] to arrest [[Brian Calusky (Earth-616)|Piledriver]] for attempting to escape to Mexico and act as international representative of US interests.{{r|Maximum Security Vol 1 #1}} Walker acted as the leading figure on behalf of the US government in their cooperation effort with the Avengers, but was greatly disliked due to his abrasive behavior and domineering personality. Walker convinced a number of alien convicts to fight on his behalf for their freedom and led the charge against the Kree and Ronan the Accuser. Walker stalled Ronan while the Avengers stopped his plan to use Ego the Living Planet as a weapon by assimilating the Earth. After the Kree were defeated, the Avengers tried to thank Walker but he rebuffed them and rebuked them before leaving for letting the alien threat be drawn to Earth in the first place.
+
+===The Invaders===
+Walker joined the new [[Invaders (Modern) (Earth-616)|Invaders]] squad acting as its Captain America; he in fact demanded to be called by that name.{{r|New Invaders #1}} Those Invaders who knew the real Captain America refused to do so. He claimed that today's world requires a tougher symbol of America to battle terrorism.{{r|New Invaders #2}} Alongside the Invaders, he battled [[Axis Mundi (Earth-616)|Axis Mundi]]. When the [[Human Torch (Android) (Earth-616)|Human Torch (Jim Hammond)]] was killed, most of the team disbanded.{{r|New Invaders Vol 1 3|9}}
+
+===Civil War===
+John favored the [[Superhuman Registration Act]],{{r|Civil War: Choosing Sides #1}}{{r|Civil War #7}}{{r|Civil War: Battle Damage Report #1}} and was assigned to [[Canada]] as an official liaison and reluctant leader of [[Omega Flight (Heroes) (Earth-616)|Omega Flight]]. A number of powered villains, including the [[Zebediah Killgrave (Earth-616)|Purple Man]], attempted to cross the border into Canada to escape the Act and then the [[Wrecking Crew (Earth-616)|Wrecking Crew]] came to Canada to continue their life of crime without superpowered opposition and ended up freeing the [[Great Beasts (Earth-616)|Great Beasts]].{{r|Civil War: The Initiative #1}}{{r|Omega Flight Vol 1 1|5}}
+
+During this time, U.S.Agent was also given the responsibility of keeping an eye on and training [[Michael Pointer (Earth-616)|Guardian (Michael Pointer)]] and discovered that Pointer was being used and experimented on.{{r|Marvel Comics Presents Vol 2 1|12}}
+
+===Mighty Avengers===
+He was recruited without warning by a seemingly recovered [[Wanda Maximoff (Earth-616)|Scarlet Witch]] to a new team of [[Mighty Avengers (Pym) (Earth-616)|Mighty Avengers]]. The Scarlet Witch was actually [[Loki Laufeyson (Earth-616)|Loki]] in disguise.{{r|Mighty Avengers Vol 1 21|25}}{{r|Mighty Avengers Vol 1 27|31}}
+
+===Retirement===
+[[File:Jonathan Walker (Earth-616) from Thunderbolts Vol 1 145 001.jpg|thumb|left|retirement]]
+Sent into battle against [[Norman Osborn (Earth-616)|Norman Osborn]]'s black-ops Thunderbolts team in [[Asgard]], Walker's left arm and leg were severed by Thunderbolts leader [[Frank Simpson (Earth-616)|Nuke/Scourge]].{{r|Thunderbolts #142}} Retired from active duty and fitted with a metal hook for a prosthetic hand (refusing better prostheses because he didn't want to become a cyborg like Nuke), Walker became the warden of the super-villain prison the [[Raft]].{{r|Thunderbolts #145}}
+
+===Back in Action===
+While transporting the [[Dark Avengers (Earth-616)|Dark Avengers]] back to the prison, their transport went down and Walker and the team woke up in an alternate version of [[New York City|New York]], divided in various territories controlled by heroes.{{r|Dark Avengers Vol 1 179|183}} While knocked out, [[June Covington (Earth-616)|June Covington]], who had managed to gain control over [[Henry Pym (Earth-13584)|Hank Pym]] and had free rein in a laboratory, bonded Walker with that world's [[Venom (Symbiote) (Earth-13584)|Venom symbiote]] which had its higher brain functions removed. Being bonded with the symbiote restored Walker's lost limbs.{{r|Dark Avengers Vol 1 184|185}}
+
+Leading the Dark Avengers, Walker attempted to find out what had happened to New York and reality. They found out from [[Reed Richards (Earth-13584)|Reed Richards]] that [[Advanced Idea Mechanics (Earth-616)|A.I.M.]] was behind the alteration of reality, creating a distorted reality pocket to test potential scenarios and salvage technology created by the denizens of the pocket.{{r|Dark Avengers Vol 1 186|188}} The Dark Avengers managed to open a portal into the real world, where they crushed the A.I.M. agents. With the mission completed and the Dark Avengers free, June used her powers to influence Walker into allowing them to remain at large and to lead them on further adventures.{{r|Dark Avengers Vol 1 189|190}}
+
+[[File:Avengers (Doctor Doom's) (Earth-616) from Avengers World Vol 1 16 001.png|thumb|Doctor Doom's Avengers]]
+John joined [[Avengers (Doctor Doom's) (Earth-616)|Doctor Doom's Avengers]] and battled the now-evil [[Wanda Maximoff (Earth-616)|Scarlet Witch]], who arrived in [[Latveria]] to have revenge on [[Victor von Doom (Earth-616)|Doctor Doom]].{{r|Avengers World #15}} The Avengers fought the Scarlet Witch and saved villagers trapped in the crossfire. [[Delroy Garrett Jr. (Earth-616)|3D Man]] managed to get hold of the Witch and take her to a machine that Doctor Doom had created to specifically cannibalize her abilities. Soon after being put into the machine, the Scarlet Witch escaped and set out to find Doom, leaving the Avengers behind. After condensing a portion of Scarlet Witch's powers into the device, [[Valeria Richards (Earth-616)|Valeria Richards]] informed the heroes their job was done.{{r|Avengers World #16}}
+
+===Confronting Sam Wilson===
+Months later, John Walker rejoined the [[United States Army (Earth-616)|U.S. Army]] and was sent on a mission in unknown locations in the [[Middle East]] taking down terrorist cells. After a raid at a terrorist compound, he got a call from the [[United States Senate (Earth-616)|U.S. Senate]].{{r|Captain America: Sam Wilson #11}} Soon after the mission was done, John went back to United States where he met with [[Keane Industries (Earth-616)|Keane Industries]] president, [[Paul Keane (Earth-616)|Paul Keane]] and Texas Senator [[Thomas Herald (Earth-616)|Tom Herald]] in [[Manhattan]]. They explained to him that the reason he been contacted was to reclaim Cap's shield from [[Samuel Wilson (Earth-616)|Sam Wilson]] since he was not deemed suitable for the title of [[Captain America]] by the public. Keane and Herald also showed him news footage of Sam supposedly attacking the [[Americops (Earth-616)|Americops]].{{r|Captain America: Sam Wilson #12}}
+
+While personally disagreeing on Wilson's political views and disapproving on how they influenced his actions as Captain America, Walker refused to confront Sam. However, they were interrupted by [[Steven Rogers (Earth-61311)|Steve Rogers]], who asked to talk to John privately. Steve told John that the pressure of the job was causing Sam to go out of control as it did to John, and asked him to confront him personally. Walker then went to the scene of the fight and ordered Sam to hand over Cap's shield. Sam refused and the two began fighting, with Walker's much greater physical strength giving him an early advantage. Sam managed to turn the fight around by forcing Walker into a dark tunnel and using his powers to get the aid from owls that lived in the tunnel, defeating him and leaving him on the pavement. Unknown to anyone involved, Rogers' history had been altered to make him an agent of [[Hydra (Earth-616)|Hydra]] from the start, and had engineered the whole conflict. The following week, it was reported that John went missing on a mission in [[Syria]].{{r|Captain America: Sam Wilson #13}} He would resurface later on, as one of the countless heroes fighting Hydra's forces in [[Washington, D.C.]], following their takeover of the United States.{{r|Secret Empire Vol 1 9}}
+
+===Robot Revolution===
+In the midst of the [[Iron Man 2020 (Event)|robot revolution]], Force Works was reinstated and Walker was placed on the team. He, [[Daisy Johnson (Earth-616)|Quake]], War Machine, and [[Barbara Morse (Earth-616)|Mockingbird]] were sent to [[Lingares]] where they were met with an army of [[Deathloks (Earth-616)|Deathloks]] and the giant robot [[Ultimo (Earth-616)|Ultimo]].{{r|2020 Force Works Vol 1 1|2}} [[M.O.D.O.K. Superior (Earth-616)|M.O.D.O.K.]] helped them stop Ultimo, but only so he could take control of his body. After the team failed to retrieve data on how to build the Deathloks which M.O.D.O.K. made to fight Ultimo, everyone present besides Walker were removed from the team by [[Maria Hill (Earth-616)|Maria Hill]]. Walker instead gave a blank drive to Hill so she would go through with wiping Lingares clean of the Deathloks and the data.{{r|2020 Force Works Vol 1 3}}
+
+| Powers                  = 
+'''Power Broker Enhancements:''' US Agent possesses various super human physical attributes as a result of undergoing the [[Power Broker]]'s process:{{r|Heroic Age: Heroes #1}}
+*'''Superhuman Strength:''' US Agent is superhumanly strong and is capable of lifting about 10 tons.{{r|Heroic Age: Heroes #1}}
+*'''Superhuman Stamina:''' US Agent's muscles produce far fewer fatigue toxins than the muscles of ordinary humans during physical activity. He can exert himself at peak capacity for several hours before fatigue begins to impair him.{{r|Heroic Age: Heroes #1}}
+*'''Superhuman Agility:''' US Agent's agility and bodily coordination are enhanced to levels that are beyond the human body's natural limits.{{r|Heroic Age: Heroes #1}}
+*'''Superhuman Reflexes:''' US Agent's reaction time is enhanced to a level that is beyond the human body's natural limits.{{r|Heroic Age: Heroes #1}}
+*'''Superhuman Durability:''' The tissues of his body are somewhat harder and more resistant to injury than the body of an ordinary human. However, he is not invulnerable and can sustain injury in many of the same ways as an ordinary human. However, he can withstand impact forces and trauma that would severely injure or kill an ordinary human with mild discomfort.{{r|Heroic Age: Heroes #1}}
+
+| Abilities               = US Agent is a superb military combatant. He has also received training from the [[Anthony Masters (Earth-616)|Taskmaster]] in combat, gymnastics, and acrobatics.{{r|Heroic Age: Heroes #1}}
+
+'''Multilingual:''' In addition to English, John is fluent in both Arabic{{r|Avengers Vol 3 82}} and Spanish.{{r|2020 Force Works Vol 1 2}}
+| Strength                = Class 10 super-strength, John can press lift 10 tons.{{r|Heroic Age: Heroes #1}}
+| Equipment               = '''Bulletproof costume''', ''formerly'' [[Avengers Identicard]].{{r|Heroic Age: Heroes #1}}
+
+'''[[Captain America's Uniform]]'''
+| Transportation          = Custom-built motorcycle and van similar to [[Steven Rogers (Earth-616)|Captain America (Steve Rogers)]]; ''formerly'' [[Avenger's Quinjet]]. Air Ship named [[Black Mariah (Ship)|Black Mariah]].{{r|Heroic Age: Heroes #1}}
+| Weapons                 = [[Steven Rogers (Earth-13584)|Alternate Universe Captain America's Shield]] painted in US Agent's colors, [[Convincer]], conventional firearms. Formerly [[Vibranium]] [[Star Shield]], [[Eagle Shield]], round [[Vibranium]] shield, [[Energy Shield|Photon Shield]], "Torchsword", [[Captain America's Shield]].{{r|Heroic Age: Heroes #1}}
+
+| Notes                   = * Walker carries around a picture of his parents, usually taped to the inside of his shield.{{r|New Invaders #2}}
+* John Walker featured in the ''[[Marvel Illustrated: The Swimsuit Issue Vol 1 1|Marvel Illustrated: The Swimsuit Issue]]''.
+* Walker has displayed racist sentiment towards indigenous peoples, being very dismissive towards [[Elizabeth Twoyoungmen (Earth-616)|Talisman]], rolling his eyes when she referenced manifest destiny, referring to her as 'Pocahontas' and telling her to 'lay off the peyote'.{{r|Omega Flight Vol 1 3|4}}
+| Trivia                  = 
+| Links                   = 
+}}
+[[es:John Walker (Tierra-616)]]
+[[Category:Trained by Taskmaster]]
+[[Category:Power Broker]]
+[[Category:Shield Fighting]]
+[[Category:Gymnasts]]
+[[Category:Symbiotes-possessed]]
+[[Category:Weapons Expert]]
+[[Category:Acrobats]]
+[[Category:Thrown Weapons]]
+[[Category:Prison Wardens]]
+[[Category:Superhuman Stamina]]
+[[Category:Superhuman Agility]]
+[[Category:Superhuman Reflexes]]
+[[Category:Interdimensional Travelers]]
+[[Category:Permanently Bonded (Symbiotes)]]
+[[Category:Super-Soldiers]]
+[[Category:Multilingual]]
+[[Category:One Arm]]

@@ -1,0 +1,61 @@
+{{Marvel Database:Character Template
+| Title                   = [[Roz Solomon|Agent Roz Solomon]]
+| Image                   = Rosalind Solomon (Earth-616) from Mighty Thor Vol 3 21.jpg
+| Name                    = [[Roz Solomon|Rosalind "Roz" Solomon]]
+| CurrentAlias            = 
+| Aliases                 = Agent E-23{{r|Thor Vol 4 6}}
+
+| Affiliation             = {{m|Agents of Wakanda}}, {{m|Congress of Worlds (Earth-616)|Congress of Worlds}} ; formerly {{M|Strategic Homeland Intervention, Enforcement and Logistics Division|S.H.I.E.L.D.}} Environmental Investigation Team,{{r|Thor Vol 4 6}} {{m|League of Realms}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| Gender                  = Female
+| Height                  = 5'2"
+| Height2                 = {{r|Thor Vol 4 6}}
+| Weight                  = 
+| Eyes                    = Hazel
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = American 
+| Occupation              = former [[S.H.I.E.L.D.]] environmental agent
+| Education               = Environmental Law Degree, 300 Hours of marine mammal vocalization training{{r|Thor: God of Thunder #19.NOW}}
+| BaseOfOperations        = Mobile
+
+| Creators                = Jason Aaron; Nic Klein
+| First                   = Thor: God of Thunder #12
+
+| History                 = Roz Solomon is an environmental [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] agent who posted a video on the internet inviting [[Thor Odinson (Earth-616)|Thor]] to her S.H.I.E.L.D. academy graduation. An invitation which, after being relayed by [[Anthony Stark (Earth-616)|Tony Stark]], Thor accepted. Roz was later joined by Thor in her investigation of a whale graveyard in the middle of [[Antarctica]]'s Southern Ocean. A graveyard she believed to be directly above [[Roxxon Energy Corporation (Earth-616)|Roxxon]]'s latest underwater mining station.{{r|Thor: God of Thunder #12}}
+
+When Roz was investigating Yashida Industries' illegal whaling ships in the middle of the Southern Ocean Whale Sanctuary, they attacked her and disabled her flying car. She was afterwards saved by Thor. Around the same time, Roxxon was bringing ice from Europe to Alaska to sell as "sparkly new space water." Roz, once again, enlisted the aid of Thor. He brought a massive piece of pure ice from [[Jotunheim]] as a free alternative to Roxxon's expensive product. Thor had hoped this would win him a dinner date with Roz, but she deferred him to a coffee date the next day.{{r|Thor: God of Thunder #19.NOW}}
+
+After learning Odinson lost the ability to wield his enchanted hammer [[Mjolnir]], Roz took a detour to the [[Blue Area of the Moon]] to talk with him, but he wasn't there. Then, she took a moment while there to look up at [[Earth]] and contemplate the planet's beauty and the need to defend it against those who would compromise that beauty, looking at Mjolnir while doing so.{{r|Thor Vol 4 7}} Roz attempted to lift Mjolnir, but proved to be unworthy.{{r|Thor Vol 5 9}}
+
+With all other apparent candidates for the identity of the [[Jane Foster (Earth-616)|new Thor]] eliminated, Odinson believed briefly that she was Roz, but this theory was dashed when Roz showed up to berate the Thor for interrupting a recent stake-out of Roxxon Industries.{{r|Thor Vol 4 8}} Later, Roz was appointed the new representative of Midgard in the [[Congress of Worlds (Earth-616)|Congress of Worlds]], replacing Jane Foster due to her battle with cancer.{{r|Mighty Thor Vol 3 19}}
+
+Following the fall of S.H.I.E.L.D. after being taken over by [[Hydra (Earth-616)|Hydra]], Roz struggled to find a new purpose. During this time, she helped run a refuge in the [[Bronx]] for the citizens of the destroyed [[Asgardia]]. Roz was eventually approached with a new work opportunity, since she had been personally selected to join the [[Agents of Wakanda (Earth-616)|Agents of Wakanda]], a new support group for the [[Avengers (Earth-616)|Avengers]] founded by the team's new chairman, the [[T'Challa (Earth-616)|Black Panther]].{{r|Thor Vol 5 8}} Roz agreed, gaining access to new technologies like a [[Vibranium]] gun, a jumpsuit based on the technology used by the [[Panther Habit]], and an improved flying car. During one of her first missions, Roz uncovered the existence of the [[Black Bifrost]], the secret means of transportation used by the [[Dark Elves|Dark Elf]] [[Malekith (Earth-616)|Malekith]] to wage the [[War of the Realms]].{{r|Thor Vol 5 9}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = '''[[Agents of Wakanda Jumpsuit]]:'''
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * Roz had a S.H.I.E.L.D. security level 5.{{r|Thor Vol 4 6}}
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:S.H.I.E.L.D. Agents Level 5]]
+[[Category:Martial Arts]]
+[[Category:Shooting]]
+[[Category:Government Agents]]

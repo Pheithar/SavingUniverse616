@@ -1,0 +1,62 @@
+{{Marvel Database:Character Template
+| Image                   = Hubert Carpenter (Earth-616) from Fear Itself Deadpool Vol 1 1 0001.png
+| Name                    = [[Hubert Carpenter]]
+| CurrentAlias            = [[Walrus]]
+| Aliases                 = 
+
+| Affiliation             = Formerly {{m|Terrible Two (Earth-616)|Terrible Two}}
+| Relatives               = [[Humbert Carpenter (Earth-616)|Humbert Carpenter]] (uncle)
+| MaritalStatus           = Single
+
+| CharRef                 = {{r|Official Handbook of the Marvel Universe A-Z Vol 1 13}}
+| Gender                  = Male
+| Height                  = 6'0"
+| Weight                  = 360 lbs
+| Eyes                    = Blue
+| Hair                    = Black
+| UnusualFeatures         = Walrus like tusks and walrus like skin.
+
+| Origin                  = [[Homo sapiens|Human]] [[Glossary:Mutate|mutate]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Brooklyn]], [[New York City]], [[New York (State)|New York]]
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Cab Driver
+| Education               = Questionable
+| BaseOfOperations        = 
+
+| Creators                = Peter Gillis; Alan Kupperberg
+| First                   = Defenders Vol 1 131
+| Death                   = 
+
+| History                 = Hubert Carpenter lived with Humbert, an eccentric uncle who was also a mad scientist. Humbert used experimental technology to enhance Hubert's physical abilities. Apparently, the dim-witted individual decided to do nothing more with his powers than to make a life of petty crime.{{r|Defenders #131}}
+
+He made his first known appearance as one of the villains battling the [[Defenders (Earth-616)|Defenders]], only to be taken out by their erstaz associate, [[Eugene Patilio (Earth-616)|Frog-Man]].{{r|Defenders Vol 1 131}} He slipped back into obscurity, surfacing again when the [[Lorina Dodson (Earth-616)|White Rabbit]] wanted to form a league of past Frog-Man villains to gain revenge on the crime-fighting amphibian. This plan ended in failure as well, as the so-called "Terrible Two" were defeated by Frog-Man and [[Peter Parker (Earth-616)|Spider-Man]].{{r|Spectacular Spider-Man Vol 1 185}}
+
+===Fear Itself===
+[[Wade Wilson (Earth-616)|Deadpool]], seeing the chaos caused by the rampage of [[Cul Borson (Earth-616)|the Serpent]]'s [[Worthy (Earth-616)|Worthy]], manipulates the Walrus into thinking that he has been chosen to wield a magical hammer. Unknown to Deadpool, the hammer Walrus received actually did have magical properties when exposed to a full [[Luna (Moon)|moon]]. Greatly strengthened by the hammer's power, the once small time criminal proceeded to cause chaos and destruction in [[New Mexico (State)|New Mexico]], almost killing Deadpool on multiple occasions. In the end, Deadpool managed to trick Walrus into entering the windowless basement of a sheriff's office where the hammer became powerless and Deadpool could take advantage of the sheriff's weapon's cache.{{r|Fear Itself: Deadpool Vol 1 #2|3}}
+
+===All-New, All-Different Marvel===
+Walrus later allied himself with [[Goldbug (Hobgoblin) (Earth-616)|Goldbug]] and White Rabbit, but the trio were captured by [[Jessica Drew (Earth-616)|Spider-Woman]]. Taken to [[Ryker's Island|The Cellar]], a recently built maximum security prison run by [[Empire Unlimited (Earth-616)|Empire Unlimited]], Walrus was placed in a glass tube alongside [[Raymond Bloch (Earth-616)|Ox]]. When Ox asked [[Shannon Stillwell (Earth-616)|Shannon Stillwell]] how they are supposed to live like this, Shannon stated that they wouldn't, and then proceeded to put them into stasis within their tubes.{{r|Amazing Spider-Man Vol 4 1}} Walrus was presumably freed alongside all the other Empire Unlimited captives when [[Augustus Roman (Earth-616)|Regent]]'s plans were thwarted by Spider-Man, [[Anthony Stark (Earth-616)|Iron Man]], and [[Mary Jane Watson (Earth-616)|Mary Jane Watson]].{{r|Amazing Spider-Man Vol 4 15}}
+
+| Powers                  = He possess the proportionate speed, strength, and agility of a walrus.
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = * His claim that he possesses the proportionate strength, speed and agility of a walrus means that he should actually be much weaker and slower than an average human.
+| Wikipedia               = Walrus_(comics)
+| Links                   = * UnOfficial Handbook to the Marvel Universe
+* http://www.marvunapp.com/Appendix/walrus.htm
+* http://progressiveboink.com/archive/spideyvillains.htm
+|Quotation=Actually, I don't feel any different at all. I can't do anything new.|Speaker=[[Hubert Carpenter (Earth-616)|Walrus]]|QuoteSource=Fear Itself: Deadpool Vol 1 1|Overview='''Hubert Carpenter''' is a former [[New York City]] cab driver who was given powers by his uncle, and turned into the villainous '''Walrus'''.}}
+[[Category:Formerly Deceased]]
+[[Category:Empire Unlimited Experiment]]

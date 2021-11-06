@@ -1,0 +1,78 @@
+{{Marvel Database:Character Template
+| Image                   = Jia Jing (Earth-616) from X-Men Battle of the Atom (video game) 001.jpg
+| Name                    = Jia Jing
+| CurrentAlias            = Sprite
+| Aliases                 = 
+
+| Affiliation             = Formerly {{M|X-Men}} ([[Xavier Institute student body#Jean Grey School students|Xavier Institute student body]])
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = Fairy-insectoid appearance and wings, scales
+| UnusualSkinColor        = Blue
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[China]]
+| PlaceOfDeath            = 
+
+| Identity                = Public
+| Citizenship             = Chinese, Krakoan
+| Occupation              = Adventurer; former student
+| Education               = 
+| BaseOfOperations        = [[Krakoa (Earth-616)|Krakoa]], [[Pacific Ocean]]; formerly [[Xavier's School for Gifted Youngsters|Xavier Institute for Mutant Education and Outreach]], [[Central Park]], [[Manhattan]], [[New York City]], [[New York]]; [[Xavier's School for Gifted Youngsters|Jean Grey School for Higher Learning]], [[Salem Center]], [[North Salem]], [[Westchester County]], [[New York (State)|New York]]; [[Beijing]], [[China]]
+
+| Creators                = Jason Aaron; Adam Kubert
+| First                   = Avengers vs. X-Men Vol 1 12
+| Death                   = 
+
+| History                 = 
+[[File:Jia Jing (Earth-616) from Avengers vs. X-Men Vol 1 12 0002.png|thumb|left|150px|Jia seconds before her mutation]]
+===Origin===
+When [[Scott Summers (Earth-616)|Cyclops]] became the [[Phoenix Force (Earth-616)|Dark Phoenix]] and began destroying the [[Earth]], '''Jia Jing''' was on a bus ride in [[Beijing]], [[China]].
+
+As that bus drove off a bridge, [[Peter Parker (Earth-616)|Spider-Man]] prevented it from falling by restraining it using his web, and swooped in to rescue the occupants.
+
+At the same time, the [[Phoenix Force (Earth-616)|Phoenix]] was dispersed by [[Hope Summers (Earth-616)|Hope Summers]] and the [[Wanda Maximoff (Earth-616)|Scarlet Witch]]; Jia's powers manifested while under Spider-Man's protection.{{r|Avengers vs. X-Men Vol 1 12}}
+
+[[File:Jia Jing (Earth-616) from Wolverine and the X-Men Vol 1 19 0001.jpg|150px|thumb|left|Jia Jing enrolling in the Jean Grey School]]
+===X-Men===
+She quickly enrolled in the [[Xavier's School for Gifted Youngsters|Jean Grey School for Higher Learning]],{{r|Wolverine and the X-Men Vol 1 19}} wanting to became "the greatest X-Man who has ever lived", to honor the pride of her family and country.{{r|Wolverine and the X-Men Vol 1 27}}
+
+On the way to the [[Savage Land]],{{r|Wolverine and the X-Men Vol 1 25}} [[James Howlett (Earth-616)|Wolverine]] gave her the code-name "'''[[Sprite]]'''", as a tribute to Logan's "[[Katherine Pryde (Earth-616)|favourite X-Man]]", and told her to learn about this name.{{r|Wolverine and the X-Men Vol 1 27}}
+
+===Krakoa===
+Like countless other mutants, she joined the mutant-only nation of [[Krakoa (Earth-616)|Krakoa]].{{r|New Mutants Vol 4 14}}
+
+| Powers                  = Jia is a new [[Homo superior|mutant]] activated after the [[Phoenix Force (Earth-616)|Phoenix]] dispersion,{{r|Avengers vs. X-Men Vol 1 12}} and has displayed the following mutant powers:
+
+'''Fairy-Insectoid Physiology''': Jia Jing has rocky blue skin and fairy-insectoid wings which enable her to [[Flight|fly]].{{r|Avengers vs. X-Men Vol 1 12}}
+*'''''Metamorphosis''''': She possesses rock hard skin that she can morph as she sees fit, such as making her hands bigger.{{r|Wolverine and the X-Men #27}}
+**'''''Super-Strength''''': After increasing the size of her hands, she appears to have an undefined level of super strength.{{r|Wolverine and the X-Men #27}}
+*'''Enhanced Endurance''': It is also possible that she possess some abilities making her able to restrain herself from sleeping, sleeping only three hours per night and studying the rest of the day.{{r|Wolverine and the X-Men Vol 1 39}}
+
+| Abilities               = *'''Multilingual''': Sprite speaks English, Chinese{{r|Wolverine and the X-Men #19}}, and now Krakoan.
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = Flight under her own power.
+| Weapons                 = 
+
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Jean Grey School students]]
+[[Category:Mutants activated after M-Day]]
+[[Category:Flight]]
+[[Category:Insect Form]]
+[[Category:Winged Characters]]
+[[Category:Xavier Institute Student]]

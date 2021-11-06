@@ -1,0 +1,54 @@
+{{Marvel Database:Character Template
+| Image                   = Mankiller (Robot) (Earth-616) Captain America Vol 1 111.jpg
+| Name                    = Mankiller
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{m|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = White
+| Hair                    = None
+| UnusualFeatures         = Metallic android
+
+| Origin                  = [[Robots|Robot]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+| KilledBy                = Steven Rogers (Earth-616)
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = Assassin
+| Education               = Artificial Intelligence
+| BaseOfOperations        = 
+
+| Creators                = Stan Lee; Jim Steranko
+| First                   = Captain America Vol 1 111
+| Death                   = Captain America Vol 1 111
+
+| History                 = Mankiller was a robot sent by [[Ophelia Sarkissian (Earth-616)|Madame Hydra]] to kill [[Steven Rogers (Earth-616)|Captain America]]. When it attempted to shoot missiles at him, he covered the missile ports with his shield and the robot exploded.{{r|Captain America Vol 1 111}}
+
+| Personality             = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Metal Body]]

@@ -1,0 +1,47 @@
+{{Marvel Database:Character Template
+| Image                   = Jeff Colt (Earth-616) from Defenders Vol 1 69 0001.jpg
+| Name                    = [[Jeff Colt]]
+| CurrentAlias            = [[Anything Man]]
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = 
+| Citizenship             = American
+| Occupation              = Veterinarian
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Mary Jo Duffy; Jim Shooter; Herb Trimpe
+| First                   = Defenders #69
+
+| History                 = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * http://www.marvunapp.com/Appendix/anything.htm
+}}
+[[Category:Veterinarians]]

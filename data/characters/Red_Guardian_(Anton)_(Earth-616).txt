@@ -1,0 +1,53 @@
+{{Marvel Database:Character Template
+| Image                   = Red Guardian (Anton) (Earth-616) from Hulk Winter Guard Vol 1 1 001.jpg
+| Name                    = [[Anton Ivanov|Anton]]
+| NameRef                 = {{r|She-Hulk Vol 2 #35}}
+| CurrentAlias            = Red Guardian
+| Aliases                 = 
+
+| Affiliation             = [[Galina Nemirovsky (Earth-616)}Crimson Dynamo]]; formerly {{m|Winter Guard}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Blue
+| Hair                    = Blond
+| UnusualFeatures         = 
+
+| Origin                  = [[Life-Model Decoy]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = Russian
+| Occupation              = Government agent
+| Education               = 
+| BaseOfOperations        = Mobile
+
+| Creators                = Jeph Loeb; Ed McGuinness
+| First                   = Hulk Vol 2 #1
+
+| History                 = The seventh Red Guardian, Anton was a member of the [[Winter Guard (Earth-616)|Winter Guard]]. Anton claimed to be an engineer and one of the original [[Crimson Dynamo]] pilots. He eventually transferred his mind to an [[Life-Model Decoy]] in order to be stronger than a human.{{r|Hulk: Winter Guard #1}}
+
+The Winter Guard and [[James Rhodes (Earth-616)|War Machine]] helped defend Russia during the [[Secret Invasion|Skrull Invasion]].{{r|Iron Man: Director of S.H.I.E.L.D. Vol 1 #34|#35}}
+
+When the [[Protectorate (Earth-616)|Protectorate]] returned to Earth, they revealed that long-time member [[Fantasia (Earth-616)|Fantasia]] was actually a [[Dire Wraith]] all along. They went to the former Winter Guard base, where she was waiting. While they were hiding in the building, Anton attempted to create a plan, but was decapitated by a Dire Wraith. His head was kept in storage, seemingly still alive, by [[Galina Nemirovsky (Earth-616)|Galina Nemirovsky]], planning to use him to destroy the Winter Guard.{{r|Darkstar and the Winter Guard #3}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = * Anton has a counterpart in the [[Earth-199999|Marvel Cinematic Universe]] known as [[Anton Ivanov (Earth-199999)|Anton Ivanov]], who was similarly a Russian agent who became a Life-Model-Decoy after his head was decapitated. 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

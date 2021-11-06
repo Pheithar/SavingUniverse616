@@ -1,0 +1,85 @@
+{{Marvel Database:Character Template
+| Image                   = Nikolaus_Geist_(Earth-616).jpg
+| Name                    = Nikolaus Geist
+| NameRef                 = {{r|Marvel Atlas #1}}
+| CurrentAlias            = Geist
+| Aliases                 = 
+
+| Affiliation             = Formerly {{m|ICON (1950s)|ICON}}; {{m|Hydra}}; {{m|Thule Society}}, {{m|National Socialist German Workers Party|Nazi Germany}}, {{m|Covenant}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #4}}
+| Gender                  = Male
+| Height                  = 6'0"
+| Weight                  = 118 lbs
+| Eyes                    = Brown
+| Hair                    = White
+| Hair2                   = ;[[:Category:Shaved Hair|Shaved]][[Category:Shaved Hair]]; formerly [[:Category:Brown Hair|Brown]][[Category:Brown Hair]][[Category:Infobox Eyes Update Needed]]
+| UnusualFeatures         = [[:Category:One Hand|One Hand]][[Category:One Hand]]. He was missing his left arm.
+
+| Origin                  = [[Homo sapiens|Human]] [[Cyborgs|Cyborg]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = German
+| Occupation              = Scientist
+| Education               = 
+| BaseOfOperations        = formerly [[Madripoor]]; [[Berlin]], [[Germany]]
+
+| Creators                = Archie Goodwin; John Byrne
+| First                   = Wolverine Vol 2 #17
+| Death                   = Captain America: Hail Hydra #5
+
+| Quotation           = The ''Nazi ghost'' who still ''haunts'' the free world...an embarrassing ''cliche'', yes?  But why such ''outrage?''  The notion ''thrills'' most people.  Look in any ''bookstore''...from all the ''swastikas'' decorating the covers, you'd think ''we'' won the war.
+| Speaker             = [[Nikolaus Geist (Earth-616)|Geist]]
+| QuoteSource         = Wolverine Vol 2 19
+
+| History                 = 
+===World War II===
+Dr. Nikolaus Geist served in the diplomatic corps of Nazi Germany, and in 1936 participated in a plot to destablize the British monarchy.{{r|X-Men: True Friends Vol 1}} He was a brilliant Nazi scientist who helped [[Adolf Hitler (Earth-616)|Adolf Hitler]] rise to power. He became Hitler's adviser during [[World War II]], and gave Hitler ideas on how to run the concentration camps.{{r|Wolverine Vol 2 #20|21}} While the other members of the Thule society gathered artifacts from Europe's hidden libraries. The Thule unleash the [[Kraken (Mask)|Kraken]], a weapon of [[Lemurians (Homo mermanus)|Lemurian]] origin and ungodly power.{{r|Captain America and Namor #635.1}}
+
+He was then collected by the [[Covenant (Earth-616)|Covenant]] who enlisted Geist for their own purposes, forcing him to forget about his Thule Society affiliation.{{r|Captain America and Namor #635.1}}
+
+He worked on Project Lazarus to create the resurrection corps, a group of dead Nazi soldiers brought back from the dead with super human abilities. He was stopped by [[Captain America (Steve Rogers)|Captain America]] and [[James Buchanan Barnes (Earth-616)|Bucky]] and escaped. To escape war crime punishment, he used German rocket scientists to help the OSS.{{r|Captain America: Hail Hydra #1}}	 
+
+===1950's===
+In the 1950's he was recruited into [[ICON (1950s) (Earth-616)|ICON]], before it was dismantled by the [[Avengers (1950s) (Earth-616)|Avengers 1950's team]] in the Fall of 1959. Geist was part of a group assembled by [[Geoffrey Sydenham (Earth-616)|Geoffrey Sydenham]] in Washington D.C., though he was knocked out in the fight with the Avengers by [[Nicholas Fury (Earth-616)|Nick Fury]].{{r|Avengers 1959 #5}}
+
+He later participated in questionable CIA operations.	
+
+===Modern Age===
+When Steve Rogers returned to the modern age, Geist lead an attack along side [[Wolfgang von Strucker (Earth-616)|Baron Strucker]] and the resurrection corps, which gained the attention of the other Avengers. During the fight, Geist was able to get a blood sample from [[Thor Odinson (Earth-616)|Thor]]. Over the years Geist had the Corps and [[Hydra (Earth-616)|Hydra]] agents gathered mystic artifacts as well as blood and tissue samples from immortal beings and clashed with Captain America while doing this. 
+
+He reappeared as an adviser to [[President Caridad]], of the South American country [[Tierra Verde]].{{r|Wolverine Vol 2 #17}} Caridad wanted Geist to create a superhero and champion for Tierra Verde, much like Captain America.{{r|Wolverine Vol 2 #18}} He was experimenting on humans with a special crop of cocaine, which drove the victims mad.{{r|Wolverine Vol 2 #19}} His main guinea pig was [[Roughouse (Earth-616)|Roughouse]].{{r|Wolverine Vol 2 #20}} [[James Howlett (Earth-616)|Wolverine]] learned of this, and even though Roughouse had been his enemy, he helped him escape.{{r|Wolverine Vol 2 #21}} Wolverine cut off Geist's metal shell, leaving him to die.{{r|Wolverine Vol 2 #22}} However, Geist somehow escaped. Soon after, [[Max Eisenhardt (Earth-616)|Magneto]] caught up with him and apparently killed him.{{r|Wolverine Vol 2 #23}}
+	
+===Heroic Age===
+Somehow he survived again and returned to Hydra as the head scientist of the infinitus agenda. During the Heroic age, Steve Rogers put together a team of heroes from the various [[Avengers (Earth-616)|Avengers]] teams to shut down all Hydra cells working on the project.{{r|Captain America: Hail Hydra #2}} It was then revealed that the agenda was to use the blood samples of [[Gods of Earth|Gods]], [[Giants]], [[Trolls]], [[vampires]] and other creatures to make a race of gods that would remake the world in the image of Hydra.{{r|Captain America: Hail Hydra #3}} Near death, Geist had himself grafted to the first subject to awaken, the Hydra God.{{r|Captain America: Hail Hydra #4}} During the fight with the Avengers, Rogers was able to convince the Hydra God that Geist was not worthy to be part of it. Geist was then made one with the universe.{{r|Captain America: Hail Hydra #5}}
+	
+| Powers                  = Due to his cyborg nature and his exoskeleton, Geist was extremely long-lived, being well over 100 years old at the time of his death.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = Geist was encased in a robotic exoskeleton which kept him alive.{{r|All-New Official Handbook of the Marvel Universe A to Z #4}}{{r|Official Handbook of the Marvel Universe A-Z #4}}
+| Transportation          = 
+| Weapons                 = His cybernetic left arm had several attachments which could be used by removing his hand. These attachments included straight razors, pistols and dart guns, among others.
+
+| Notes                   = 
+| Trivia                  = * "Geist" in German means "Ghost"
+* Geist had a strange obsession with shaving.
+
+| Marvel                  = 
+| Wikipedia               = http://en.wikipedia.org/wiki/Geist_(Marvel_comics)
+| Links                   = 
+}}
+[[Category:Inventors]]
+[[Category:Engineers]]
+[[Category:Geneticists]]
+[[Category:Chemists]]
+[[Category:Armor Users]]
+[[Category:One Arm]]
+[[Category:Advanced Longevity]]
+[[Category:Robotics]]

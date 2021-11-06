@@ -1,0 +1,48 @@
+{{Marvel Database:Character Template
+| Image                   = Supreme Hydra (American) (Earth-616) from Incredible Hulk Vol 1 132 001.jpg
+| Name                    = Unknown
+| CurrentAlias            = [[Supreme Hydra]]
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Terrorist
+| Education               = 
+| BaseOfOperations        = [[California (State)|California]], Mobile
+
+| Creators                = Roy Thomas; Herb Trimpe
+| First                   = Incredible Hulk Vol 1 132
+
+| History                 = Little is known of this Supreme Hydra.  He was unsuccessful in his attempt to control the [[Bruce Banner (Earth-616)|Hulk]]{{r|Incredible Hulk #132}}.  
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * It is unclear if this is the same person who is called the [[Supreme Hydra]] in {{cl|Incredible Hulk #154}} (August 1972). It is possible that he was [[Richard Fisk (Earth-616)|Richard Fisk]] who was identified as the Supreme Hydra in {{cl|Captain America #147}} (March 1972).
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

@@ -1,0 +1,97 @@
+{{Marvel Database:Character Template
+| Image                   = Toni Ho (Earth-616) from Avengers Vol 1 684 001.jpg
+| Name                    = [[Toni Ho|Dr. Toni Ho]]
+| CurrentAlias            = 
+| Codenames               = [[Iron Patriot]]{{r|U.S.Avengers Vol 1 1}}
+| EditorialNames          = [[Rescue]]{{r|New Avengers Vol 4 16}}
+| Aliases                 = [[Hecate|Hekate-4]]{{r|Captain America Vol 9 11}}
+
+| Affiliation             = {{m|Avengers World}}, {{m|Daughters of Liberty}}, {{m|R.E.S.C.U.E.}}; formerly {{m|U.S.Avengers (Earth-616)|U.S.Avengers}}, {{m|American Intelligence Mechanics (Earth-616)|A.I.M. (American Intelligence Mechanics)}} (leader), {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}, {{m|Avengers Idea Mechanics (Earth-616)|A.I.M. (Avengers Idea Mechanics)}}
+| Parents                 = [[Ho Yinsen (Earth-616)|Ho Yinsen]] (father, deceased);<br>
+Unnamed mother (deceased)
+| Siblings                = [[Ho Yinsen's son (Earth-616)|Unnamed half-brother]] (deceased)
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Black
+| Hair2                   = ; [[:Category:Dyed Hair|Dyed]][[Category:Dyed Hair]] [[:Category:Purple Hair|Purple]][[Category:Purple Hair]]
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Seattle]], [[Washington]], [[United States of America]]
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Supreme Leader of A.I.M., Engineer
+| Education               = Three doctorates at [[California Institute of Technology|Caltech]]{{r|New Avengers Vol 4 9}}{{r|U.S.Avengers Vol 1 1}}
+| BaseOfOperations        = Formerly [[Avenger Base Two]], [[Savage Land]]; [[Hydrobase|Avengers Island]]
+
+| Creators                = Al Ewing; Gerardo Sandoval
+| First                   = New Avengers Vol 4 1
+| First2                  = (As Dr. Toni Ho)<br/>{{sld|U.S.Avengers Vol 1 1}}(As Iron Patriot)
+
+| Quotation               = [[Ho Yinsen (Earth-616)|My dad]] didn't '''build''' the [[Iron Man Armor Model 1|Iron Man]]-- He didn't '''need''' to. He didn't need '''armor''' or '''weapons.''' He built the '''idea.''' The idea of '''Iron Man.''' The idea of the '''[[Avengers (Earth-616)|Avengers]].''' My '''father'''... was an '''advanced idea mechanic. And so am I.''' So even if you '''do''' pull the trigger... It's '''too late.''' Because the idea is '''out there''' now. The idea is '''alive.'''
+| Speaker                 = [[Toni Ho (Earth-616)|Dr. Toni Ho]]
+| QuoteSource             = U.S.Avengers Vol 1 8
+
+| History                 = Toni Ho's mother moved from [[China]] to [[Seattle]] in the '70s. A decade later, she fell in love with and married brilliant medical researcher [[Ho Yinsen (Earth-616)|Ho Yinsen]], with whom she had Toni. Their marriage eventually fell apart, causing Yinsen to move back to [[Timbetpal]].{{r|U.S.Avengers Vol 1 1}} He kept in touch with Toni regardless, through letters, phone calls, and occasional visits.
+
+When Toni was eleven years old, Yinsen died saving [[Anthony Stark (Earth-616)|Tony Stark]]'s life in [[Sin-Cong|Siancong]]. Because of this, Toni resented Stark, believing he should've done more to save her father. From then on, Toni set out to be better than him.{{r|U.S.Avengers Vol 1 8}} After the unpleasant experience of high school, Toni began to study programming and engineering. Her talent got her a scholarship to [[California Institute of Technology|Caltech]], where she overlapped studies and eventually got three doctorates. She joined A.I.M. when [[Roberto Da Costa (Earth-616)|Bobby Da Costa]] rebranded it [[Avengers Idea Mechanics (Earth-616)|Avengers Idea Mechanics]],{{r|U.S.Avengers Vol 1 1}} and began to work for its Engineering Divison.{{r|New Avengers Vol 4 1}}
+
+[[File:Toni Ho (Earth-616) from New Avengers Vol 4 14 002.jpg|thumb|left|As Rescue]]
+Toni took particular interest on studying the nature of [[Aikku Jokinen (Earth-616)|Aikku Jokinen]], a member of A.I.M.'s [[New Avengers (A.I.M.) (Earth-616)|New Avengers]] whose body was merged with an intelligent suit of armor named [[Planetary Operational Defense System (Earth-616)|Pod]].{{r|New Avengers Vol 4 3}} Her interest only increased upon merging minds with Aikku in [[Avenger Five]] while the New Avengers fought [[Todd Ziller (Earth-616)|American Kaiju]], where she saw Aikku's real face.{{r|New Avengers Vol 4 10}} Toni began to admire Aikku for the sacrifice that meant giving up on a normal life to remain merged with the armor solely to ensure Pod's systems wouldn't reset, which would be the equivalent of killing it. The villainous [[Reed Richards (Earth-1610)|Maker]] invaded A.I.M.'s [[Avenger Base Two]] when Toni was studying Pod at the base's Engineering Bay, and attacked them, seemingly killing Pod in the process.{{r|New Avengers Vol 4 13}}
+
+Toni survived using a personal force shield, and subsequently donned her own [[Rescue Armor]] to fend off the intruders.{{r|New Avengers Vol 4 14}} When she began to assess the damage suffered by Pod, Aikku emerged from its carcass wearing the armor's undersuit, torn by grief because the magnitude of the attack had prevented Pod from ensuring the survival of both Aikku and itself.{{r|New Avengers Vol 4 15}} Toni helped Aikku get used to the power set of Pod's undersuit. After a mission shutting down the rogue A.I.M. splinter cell [[Advanced Genocide Mechanics (Earth-616)|A.G.M.]], Aikku expressed her gratitude for Toni's support in coping with Pod's absence, and both shared a kiss after confessing their feelings for each other.{{r|New Avengers Vol 4 18}}
+
+[[File:Toni Ho (Earth-616) from U.S.Avengers Vol 1 1 002.jpg|thumb|right|As Iron Patriot]]
+When A.I.M. became a branch of S.H.I.E.L.D. under the name of [[American Intelligence Mechanics (Earth-616)|American Intelligence Mechanics]], Toni joined the organization's [[U.S.Avengers (Earth-616)|U.S.Avengers]], undergoing a rebranding herself. Having ditched the Rescue Armor, Toni became the new [[Iron Patriot]], but with the non-lethal aspect of her previous suit integrated into her new armor.{{r|U.S.Avengers Vol 1 1}} Unfortunately, Toni's new research started to consume her. She would rarely sleep and only eat when Aikku insisted. Additionally, the weaponry Toni created for her suits blurred the line between non-lethal and lethal despite her insistence they weren't meant to hurt people.{{r|U.S.Avengers Vol 1 5}} Toni eventually heeded Aikku's concerns, and decided to ditch making suits or even wearing one.{{r|U.S.Avengers Vol 1 9}}
+
+Following the temporary takeover of the government by [[Hydra (Earth-616)|Hydra]]'s hand, with the dissolution of S.H.I.E.L.D. being one of many casualties, the new Presidential administration attempted to fully take control of A.I.M. Roberto managed to save A.I.M. from this change of order by resigning as the Supreme Leader. The position of Supreme Leader was taken to a vote, and Toni won.{{r|U.S.Avengers Vol 1 10}}
+
+As a consequence of a cosmic contest played by the [[En Dwi Gast (Earth-616)|Grandmaster]] and the [[Challenger (Elder of the Universe) (Earth-616)|Challenger]], the U.S.Avengers joined forces with the other Avengers teams.{{r|Avengers Vol 1 675}} Following the conflict's end, Roberto decided to disband the U.S.Avengers. Additionally, Toni decided to tackle the nuisance caused by rogue A.I.M. cells by rebranding their own as a new organization named R.E.S.C.U.E.{{r|Avengers Vol 1 690}}
+
+Some time later, she joined the [[Daughters of Liberty (Earth-616)|Daughters of Liberty]] as a computer expert under the codename of "Hekate-4."{{r|Captain America Vol 9 9}}{{r|Captain America Vol 9 11}}
+
+| Personality             = 
+| Powers                  = 
+| Abilities               = '''Genius Intelligence:''' Toni Ho is a prodigy. In addition to being an expert engineer, she had managed to gain three doctorates by the age of twenty.{{r|New Avengers Vol 4 14}}
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = {{Navigation	 
+| title = Former Equipment
+| body  = 
+'''[[Iron Patriot Armor]]:''' A set of suits of armor of her own invention, admittedly inspired by the [[Iron Man Armor]].{{r|U.S.Avengers Vol 1 1}}
+* '''[[Iron Patriot Armor Model 3]]'''{{r|U.S.Avengers Vol 1 1}}
+* '''[[Iron Patriot Stealth Armor|Stealth Armor]]:''' Rather than an actual armored suit, a skin-tight exo-skeleton which is worn under  clothes. It encases Toni partially, leaving her face and legs exposed. It comes equipped with repulsor blasts and force screens.{{r|U.S.Avengers Vol 1 3}}
+* '''[[Iron Patriot Armor Model 4|Iron Patriot Armor Model 4 (Heavy Combat Armor)]]:''' A bulkier version of the suit, equipped with a shoulder-mounted concussion blast cannon.{{r|U.S.Avengers Vol 1 3}}
+* '''[[Iron Patriot Armor Model 5]]:''' An even more combat oriented version of the armor, virtually capable of punching through a tank.{{r|U.S.Avengers Vol 1 6}}
+
+The Iron Patriot Armor comes equipped with an array of features:
+* '''Flight'''{{r|U.S.Avengers Vol 1 1}}
+* '''Microsonic Attacks'''{{r|U.S.Avengers Vol 1 1}}
+* '''Gas Pellets'''{{r|U.S.Avengers Vol 1 1}}
+* '''Stun Lasers'''{{r|U.S.Avengers Vol 1 1}}
+* '''Force-Fields:''' The force fields generated by the Iron Patriot Armor are particularly strong, being capable of slowing down the [[Secret Empire (Earth-616)|Secret Empire]]'s volcano island flying base, decreasing its speed by two thirds approximately.{{r|U.S.Avengers Vol 1 1}}
+* '''Scanners'''{{r|U.S.Avengers Vol 1 3}}
+
+'''[[Rescue Armor Model 4|Rescue Armor]]:''' Another armor inspired by one designed by Tony Stark. Its signature forcefields could be sent out as a battering ram, or decapitate a person if fired out with a degree of width.{{r|New Avengers Vol 4 14}}
+}}
+
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * Toni's [[Iron Patriot Armor Model 3|regular Iron Patriot Armor]] sports a design almost identical to the [[War Machine Armor MK II (Earth-199999)|Iron Patriot Armor]] worn by [[James Rhodes (Earth-199999)|Jim Rhodes]] in ''[[Iron Man 3 (film)|Iron Man 3]]''.
+| Trivia                  = * Toni is in a romantic relationship with [[Aikku Jokinen (Earth-616)|Aikku Jokinen]].{{r|New Avengers Vol 4 18}}{{r|U.S.Avengers Vol 1 1}}
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[it:Toni Ho (Terra-616)]]
+[[Category:Homosexual Characters]]

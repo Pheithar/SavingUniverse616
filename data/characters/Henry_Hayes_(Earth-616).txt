@@ -1,0 +1,80 @@
+{{Marvel Database:Character Template
+| Image                   = Henry Hayes (Earth-616) from Deathlok Vol 5 3 0001.png
+| Name                    = Henry Hayes
+| CurrentAlias            = Deathlok
+| Aliases                 = [[Mustang]]{{r|Deathlok Vol 5 2}}
+
+| Affiliation             = Formerly {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}, {{m|Biotek}}{{r|Deathlok Vol 5 3}} (controlled by "JJ"){{r|Deathlok Vol 5 2}} (as [[Deathlok]]);<br>{{m|Médecins Sans Frontières|Doctors Without Borders}} (as Henry Hayes), {{m|United States Army|U.S. Army}}
+| Relatives               = [[Aria Hayes (Earth-616)|Aria Hayes]] (daughter);<br>unnamed wife or companion (deceased){{r|Deathlok Vol 5 3}}<!-- still unknown if married -->
+| MaritalStatus           = Single<!-- Or widowed, still unknown if married -->
+
+| CharRef                 = {{cl|Avengers NOW! #1}}
+| Gender                  = Male
+| Height                  = 6'2"
+| Weight                  = 325 lbs.
+| Eyes                    = Brown
+| Eyes2                   = , left eye glowing [[:Category:Red Eyes|red]] when activated[[Category:Red Eyes]]
+| Hair                    = Black
+| UnusualFeatures         = Scar over the right eye, cybernetic enhancements, including a leg prosthesis. Cybernetic red readings on his left arm and face when activated. (one leg)
+
+| Origin                  = [[Homo sapiens|Human]] [[Cyborgs|Cyborg]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = Unrevealed{{r|Avengers NOW!}}
+
+| Identity                = Known to Authorities
+| Citizenship             = American
+| Occupation              = Mercenary; medic, mind-controlled assassin, soldier, killer, fighter and operative, former combat medic
+| Education               = Basic military and EMT equivalent training{{r|Avengers NOW!}}
+| BaseOfOperations        = Mobile; [[Hayes Household]], [[New Jersey (State)|New Jersey]]{{r|Deathlok Vol 5 3}}
+
+| Creators                = Nathan Edmondson; Mike Perkins
+| First                   = Original Sins #1
+| Quotation               = You're a killer, Henry. A '''[[Cyborgs|Cyborg]]'''. Your body is infused with the most high-tech, sophisticated, mind-controlled weaponry I've ever seen. You're more than a man with machine parts--You're the '''[[Deathlok|next step]]'''. A one-man army! Stronger, faster--
+| Speaker                 = [[Seth Horne (Earth-616)|Seth Horne]]
+| QuoteSource             = Original Sins Vol 1 1
+
+| History                 = 
+===Early years===
+====Private Life====
+Hayes had a wife or a companion who gave birth to his daughter [[Aria Hayes (Earth-616)|Aria]].{{r|Deathlok Vol 5 3}}
+
+====Doctor Without Borders====
+'''Henry Hayes''' was a combat medic in the [[United States Army (Earth-616)|U.S. Army]].{{r|Avengers NOW! #1}} He lost a leg in battle{{r|Deathlok Vol 5 3}} when a suicide bomber attack{{r|Original Sins #1}} hit his Humvee{{r|Deathlok Vol 5 3}} in [[Kandahar]]{{r|Original Sins #1}} or [[Gereshk]].{{r|Deathlok Vol 5 3}} Henry was taken care of by the company [[Biotek (Earth-616)|Biotek]] who provided him with a composite fiber prosthesis. He then joined [[Médecins Sans Frontières (Earth-616)|Doctors Without Borders]].{{r|Original Sins #1}}
+
+===Deathlok===
+Under the mind-control of JJ, an operator of Biotek{{r|Deathlok Vol 5 3}} he became a '''[[Deathlok]]''', acting as an assassin, soldier, killer, fighter and operative. He participated in at least one armed conflict alongside organized troops and assassinated countless people even in populated areas. He was once close to being captured by [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] during a mission that went bad in [[Russia]].{{r|Original Sins #1}} However, he was often memory-wiped so as not to remember his assignments.{{r|Original Sins #1}}
+
+===Secret revealed===
+While at [[MTA Metro-North station]], he tried to engage in discussion with another leg amputee and advised him to contact Biotek, as his own plastic prosthesis forced the man to use crutches. The man then left, seemingly not pleased with the discussion.{{r|Original Sins #1}}
+
+Immediately afterward Henry met [[Seth Horne (Earth-616)|Seth Horne]], an off-duty S.H.I.E.L.D. agent who was present when the eye of the [[Uatu (Earth-616)|Watcher]] exploded. This released a blast of energy which revealed deep secrets to anyone in its radius and Hayes' true story was revealed to Horne. Horne, a level four agent, wanted to congratulate him, stating that S.H.I.E.L.D. would wish to have him in their ranks.{{r|Original Sins #1}}
+
+As Hayes didn't really know what Horne was talking about, he threatened to call the authorities, forcing the agent to leave after a last congratulation. Immediately, Hayes was ordered to kill him as the announcement board of the station displayed the words "Whiskey David" which triggered Hayes' Deathlok persona.{{r|Original Sins #1}}
+
+After following Horne into the restroom, Deathlok quickly executed him, left, took some meds, and returned to his civilian life, heading to the train to join his daughter Aria.{{r|Original Sins #1}}
+
+| Powers                  = Thanks to the neuroprosthetic bionic implants:
+* '''Superhuman physical abilities'''
+* '''Computer-enhanced senses and reflexes'''
+
+| Abilities               = * '''Super-Genius Intelligence:''' {{r|Avengers NOW! Vol 1 1}}
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = * [[Biotek (Earth-616)|Biotek]] prosthesis leg in composite fibers.{{r|Original Sins #1}}
+* Med-pills, possibly mind-wipers.{{r|Original Sins #1}}
+| Transportation          = 
+| Weapons                 = Guns and rifles linked to his arms. Sniper rifle. Improvised weapons. Gun with silencer.{{r|Original Sins #1}}
+
+| Notes                   = * According to [[Tom Brevoort|Tom Brevoort]], the [[Deathlok Vol 5|''Deathlok'' Vol. 5]] series was indeed planned in reaction to ''[[Marvel's Agents of S.H.I.E.L.D.]]'' planning to implant their own version of [[Deathlok]]. Brevoort intended to use this opportunity to bring back [[Michael Collins (Earth-616)|Michael Collins]], but the concept changed, ending up with Henry Hayes,<ref>[[Tom Brevoort|Tom Brevoort]]'s [http://brevoortformspring.tumblr.com/post/104328077503/on-a-different-note-how-do-you-get-the-right statement]</ref> who is indeed close in some aspects from [[Michael Peterson (Earth-199999)|Michael Peterson]].
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Deathloks]]
+[[Category:Superhuman Strength]]
+[[Category:Superhuman Speed]]
+[[Category:Legally Deceased]]
+[[Category:Iraq War Characters]]
+[[Category:War in Afghanistan Characters]]

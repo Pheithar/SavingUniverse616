@@ -1,0 +1,53 @@
+{{Marvel Database:Character Template
+| Image                   = Martin Reyna (Earth-616) from S.H.I.E.L.D. Vol 3 9 001.png
+| Name                    = [[Martin Reyna]]
+| CurrentAlias            = [[Warwolf]]
+| Aliases                 = [[Martin Reyna|Captain Martin Reyna]]
+
+| Affiliation             = formerly {{m|Howling Commandos (S.H.I.E.L.D.) (Earth-616)|Howling Commandos (S.H.I.E.L.D.)}}, {{m|Special Threat Assessment for Known Extranormalities (Earth-616)|S.T.A.K.E.}}, {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] [[Cyborgs|Cyborg]] with [[Warwolf Gene Package]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = In charge of [[Special Threat Assessment for Known Extranormalities (Earth-616)|S.T.A.K.E.]]
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Al Ewing; Stefano Caselli
+| First                   = S.H.I.E.L.D. Vol 3 9
+
+| History                 = Martin Reyna is a S.H.I.E.L.D. agent in charge of [[Area 13]]'s [[Special Threat Assessment for Known Extranormalities (Earth-616)|Special Threat Assessment for Known Extranormalities]], a division in charge of dealing with supernatural events.
+
+He was also working with [[Paul Kraye (Earth-616)|Paul Kraye]] on secret projects, which he feared the returned [[Timothy Dugan (Earth-616)|Dum Dum Dugan]] would discover sooner or later, for which both decided they had to get rid of Dugan before he discovered them.{{r|S.H.I.E.L.D. Vol 3 9}}
+
+| Personality             = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = * '''Warwolf Gene Package:''' There is a warwolf gene package embedded into Martin's mechanical arm, which he can use to temporarily transform into a [[werewolf]].{{r|S.H.I.E.L.D. Vol 3 9}}<!-- it is really stated "werewolf"? -->[[File:Martin Reyna (Earth-616) from S.H.I.E.L.D. Vol 3 9 002.png|thumb|left|198px]]
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Object-Based Powers]]

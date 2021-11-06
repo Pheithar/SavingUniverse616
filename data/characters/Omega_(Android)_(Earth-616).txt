@@ -1,0 +1,55 @@
+{{Marvel Database:Character Template
+| Image                   = Omega (Android) (Earth-616) from Realm of Kings Inhumans Vol 1 4 001.jpg
+| Name                    = Omega
+| NameRef                 = {{r|Marvel Encyclopedia Vol 1 Fantastic Four}}
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Marvel Encyclopedia Vol 1 Fantastic Four}}
+| Gender                  = Male
+| Height                  = 15'0"
+| Weight                  = 3.3 tons
+| Eyes                    = White
+| Hair                    = None
+| UnusualSkinColor        = Blue
+| UnusualFeatures         = 
+
+| Origin                  = [[Androids|Androids]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = [[Attilan]]
+
+| Creators                = Roy Thomas; Ross Andru
+| First                   = Fantastic Four Vol 1 131
+
+| History                 = 
+
+Omega is a giant android created by the [[Inhumans (Earth-616)|Inhuman]], [[Maximus Boltagon (Earth-616)|Maximus]], to lead a rebellion of the [[Alpha Primitives]]. Maximus was able to harness all of the secret guilt of the Inhumans over the enslavement of the Alpha Primitives. Creating Omega with this power, he used Omega to lead an assault on the Inhumans, causing an open war in [[Attilan|Great Refuge]].{{r|Fantastic Four Vol 1 132}}
+
+[[Crystalia Amaquelin (Earth-616)|Crystal]] and the visiting [[Fantastic Four (Earth-616)|Fantastic Four]] discovered the nature of Omega and Maximus' plan, explaining it to the crowd. When the Inhumans realized that their own guilt was the source of Omega's strength, they dealt with their feelings of prejudice, and Omega lost his power, becoming immobile.{{r|Fantastic Four Vol 1 132}} As a result, Black Bolt (the leader of the Inhumans) enacted reforms so that all Inhumans would be treated equally.
+
+Later, during the wedding of [[Pietro Maximoff (Earth-616)|Pietro Maximoff]] and [[Crystalia Amaquelin (Earth-616)|Crystal Amaquelin]], [[Ultron (Earth-616)|Ultron]] impersonated the android and attacked the Avengers and Fantastic Four just before they were about to attend the wedding,{{r|Avengers Vol 1 127}} but Ultron-7 was defeated by the child, [[Franklin Richards (Earth-616)|Franklin Richards]], when his brain was activated by a psychic attack and struck back in retaliation.{{r|Fantastic Four Vol 1 150}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Inhuman Technology]]

@@ -1,0 +1,57 @@
+{{Marvel Database:Character Template
+| Image                   = Genis-Vell (Earth-98120) from Avengers Forever Vol 1 12 001.jpg
+| Name                    = [[Genis-Vell]]
+| CurrentAlias            = [[Captain Marvel]]
+| Aliases                 = 
+
+| Affiliation             = {{m|Avengers}}, [[Richard Jones (Earth-98120)|Rick Jones]]{{r|Avengers Forever Vol 1 11}}; formerly {{m|Avengers (Earth-616)}}{{r|Avengers Forever Vol 1 1}}
+| Relatives               = Mar-Vell (father, deceased);<br>
+Elysius (mother, deceased);<br> 
+[[Melissa Gold (Earth-98120)|Melissa Gold]] (wife);<br>
+[[Mimi-Vell (Earth-98120)|Mimi-Vell]] (daughter, deceased);<br>
+[[Ely-Vell (Earth-98120)|Ely-Vell]] (son, deceased)
+| MaritalStatus           = Married
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = White
+| Hair                    = White
+| UnusualFeatures         = 
+
+| Origin                  = [[Titans (Eternals)|Titanian (Eternal)]]/[[Kree]] Hybrid
+| Reality                 = Earth-98120
+| PlaceOfBirth            = [[Titan (Moon of Saturn)|Titan]]
+
+| Identity                = Public
+| Citizenship             = Titan, Kree Empire
+| Occupation              = Adventurer
+| Education               = 
+| BaseOfOperations        = [[Stark Tower|Avengers Tower]], [[Manhattan]], [[New York (State)|New York]], [[Earth-98120]]; formerly [[Blue Area of the Moon]], [[Earth-616]]{{r|Avengers Forever Vol 1 1}}
+
+| Creators                = Kurt Busiek; Carlos Pacheco; Jesús Merino
+| First                   = Avengers: Forever #1
+
+| History                 = Like [[Earth-98120]]'s [[Melissa Gold (Earth-98120)|Songbird]], Captain Marvel was drawn to [[Earth-616|Reality-616]] by [[Richard Jones (Earth-616)|Rick Jones]] to take part in the [[Destiny War]]. This was from a slightly different point in the 98120 continuum, Songbird having been taken from after a battle between the [[Avengers (Earth-98120)|Avengers]] and [[Oort (Earth-98120)|Oort]]'s [[Solar Squadron (Earth-98120)|Solar Squadron]], and Genis-Vell was taken while he was removing the corpse of [[Eon (Earth-98120)|Eon]] from [[Earth]]'s [[Sol|solar system]], having defeated a scheme by [[Ego (Earth-98120)|Ego the Living Planet]] with the aid of the Avengers. Both were returned to Earth-98120 at the conclusion of the Destiny War. They became a couple and eventually married sometime later, having two children together named [[Mimi-Vell (Earth-98120)|Mimi]] and [[Ely-Vell (Earth-98120)|Ely-Vell]].{{r|Captain Marvel Vol 5 20}}
+
+Later, when [[Morlun (Earth-001)|Morlun]] was hunting the [[Multiverse]] for [[:Category:Spider Hybrids|Spider-Totems]], he dropped into Earth-98120 to kill [[Miguel O'Hara (Earth-98120)|Spider-Man]]. Genis tried to stop him. Morlun sucked the cosmic energy from Genis, leaving him weak and defeated. After Miguel was killed, Morlun left that universe, leaving [[Steven Rogers (Earth-98120)|Captain America]] and [[James Howlett (Earth-98120)|Wolverine]] to take Genis to medbay and wonder who it was that had attacked and killed Miguel.{{r|Spider-Man 2099 Vol 2 5}}
+
+| Powers                  = Seemingly [[Genis-Vell (Earth-616)#Powers|those]] of the [[Genis-Vell (Earth-616)|Genis-Vell]] of [[Earth-616]].
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Titanian/Kree Hybrids]]
+[[Category:Vell Family]]
+[[Category:Spider-Verse participants]]

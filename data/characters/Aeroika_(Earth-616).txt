@@ -1,0 +1,48 @@
+{{Marvel Database:Character Template
+| Image                   = Aeroika (Earth-616) from Defenders Vol 1 79 0001.jpg
+| Name                    = Aeroika
+| CurrentAlias            = Aeroika
+| Aliases                 = 
+
+| Affiliation             = [[Winged Ones (Ytitnedion)|Winged Ones]], [[Defenders (Earth-616)|Defenders]]
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Gold
+| UnusualSkinColor        = Gold
+| UnusualFeatures         = Wings growing out of his head.
+
+| Origin                  = [[Winged Ones (Ytitnedion)|Winged One]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = Freedom fighter, former slave
+| Education               = 
+| BaseOfOperations        = [[Tunnelworld]]
+
+| Creators                = Ed Hannigan; Herb Trimpe
+| First                   = Defenders #78
+
+| History                 = Aeroika was one of the many [[Winged Ones (Ytitnedion)|Winged Ones]] created by [[Ytitnedion (Earth-616)|Ytitnedion]] and forced to serve the Buzzard People in Ogeon. He joined forces with the [[Defenders (Earth-616)|Defenders]].{{r|Defenders #79|83}}
+
+| Powers                  = Flight within a magical realm such as the Orb of Ommennon, not through the use of the wings growing out of his head. He also possesses some degree of telepathic power, enabling him to communicate and read minds via the Dreamspeech.
+| Abilities               = Talented swordsman and combatant.
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = http://www.marvunapp.com/Appendix/aeroikat.htm
+}}
+[[Category:Flight]]

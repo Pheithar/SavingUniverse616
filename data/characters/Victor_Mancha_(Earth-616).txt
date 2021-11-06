@@ -1,0 +1,188 @@
+{{Marvel Database:Character Template
+| Image                   = Victor Mancha (Earth-616) from Runaways Vol 5 37 001.jpg
+| Name                    = [[Victor Mancha]]
+| CurrentAlias            = 
+| Aliases                 = Junior,{{r|Runaways Vol 2 5|7}} [[Kid Justice]],{{r|Runaways Vol 5 27}} [[Kid Ultron]],{{r|Runaways Vol 2 19}} Li'l Ultron,{{r|Runaways Vol 2 11}} Vic,{{r|Runaways Vol 2 19}} [[Victorious]],{{r|Runaways Vol 2 14}} [[Victron]],{{r|Runaways Vol 2 22}} 
+
+| Affiliation             = {{m|Runaways}}; formerly {{m|Avengers Artificial Intelligence Squad (Earth-616)|Avengers A.I.}}
+| Grandparents            = [[Henry Pym (Earth-616)|Henry Pym]] ("paternal grandfather")
+| Parents                 = [[Ultron (Earth-616)|Ultron]] ("father");<br>
+[[Marianella Mancha (Earth-616)|Marianella Mancha]] (mother, deceased)
+| Siblings                = [[Alkhema (Earth-616)|Alkhema]] (fellow creation, "sister");<br>
+[[Jocasta Pym (Earth-616)|Jocasta]] (fellow creation, "sister");<br>
+[[Vision (Jonas) (Earth-616)|Jonas]] (fellow creation, "brother");<br>
+[[Vision (Earth-616)|Vision]] (fellow creation, "brother")
+| Relatives               = [[Wanda Maximoff (Earth-616)|Wanda Maximoff (Scarlet Witch)]] (former sister in-law);<br>
+[[Thomas Maximoff (Earth-616)|Thomas Maximoff]] ("nephew", deceased);<br>
+[[William Maximoff (Earth-616)|William Maximoff]] ("nephew", deceased);<br>
+[[Thomas Shepherd (Earth-616)|Speed]] (reincarnation of "nephew");{{r|Avengers: The Children's Crusade #6}}<br>
+[[William Kaplan (Earth-616)|Wiccan]] (reincarnation of "nephew");{{r|Avengers: The Children's Crusade #6}}<br>
+[[Virginia (Earth-616)|Virginia]] ("sister-in-law", deceased);<br>
+[[Vivian (Synthezoid) (Earth-616)|Vivian]] ("niece");<br>
+[[Vivian 2.0 (Synthezoid) (Earth-616)|Vivian 2.0]] ("niece," deceased);<br>
+[[Vin (Earth-616)|Vin]] ("nephew," deceased)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Marvel Avengers: The Ultimate Character Guide Vol 1 2}}
+| Gender                  = Male
+| Height                  = 5'9"
+| Weight                  = 197 lbs
+| Eyes                    = Green; Blue (when using powers)
+| Hair                    = Brown
+| UnusualFeatures         = Eyes and mouth occasionally glow blue and discharge sparks
+
+| Origin                  = [[Cyborgs|Cybernetic]] son of [[Ultron (Earth-616)|Ultron]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Los Angeles]], [[California (State)|California]]
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Adventurer
+| Education               = High school dropout
+| BaseOfOperations        = [[Hostel (Bronson Canyon)|The Hostel]], [[Bronson Canyon]], [[Los Angeles]], [[California (State)|California]]; formerly [[Justice House]], [[Los Angeles]], [[California (State)|California]]; [[616 Hickory Branch Lane]], [[Cherrydale]], [[Arlington County|Arlington]], [[Virginia (State)|Virginia]]; [[Crofton University]], [[Washington, D.C.]]; undisclosed location in/near [[Los Angeles]], [[California (State)|California]]; [[Malibu House]], [[Malibu (California)|Malibu]], [[California (State)|California]]; [[Manhattan]], [[New York City]], [[New York (State)|New York]]; [[Hostel (La Brea Tar Pits)|The Hostel]], [[La Brea Tar Pits]], [[Los Angeles]], [[California (State)|California]]; [[Los Angeles]], [[California (State)|California]]
+
+| Creators                = Brian K. Vaughan; Adrian Alphona
+| First                   = Runaways Vol 2 1
+
+| Quotation               = My name is Victor Mancha and I am an android. Like father like son, sort of. He built me to infiltrate and kill all the Avengers. So that way, you could say I've been a great disappointment to him. I guess that makes us even. 
+| Speaker                 = [[Victor Mancha (Earth-616)|Victor Mancha]]
+| QuoteSource             = Avengers A.I. Vol 1 1
+
+| History                 = 
+===Origins===
+[[File:Victor Mancha (Earth-616) and Ultron (Earth-616) from Runaways Vol 2 6 001.jpg|thumb|left|200px|[[Marianella Mancha (Earth-616)|Marianella Mancha]] and [[Ultron (Earth-616)|Ultron]] constructing Victor]]
+When [[Ultron (Earth-616)|Ultron]] was defeated by [[Henry Pym (Earth-616)|Dr. Hank Pym]] and the [[Avengers West Coast (Earth-616)|West Coast Avengers]],{{r|Avengers West Coast Vol 2 #89|#91}} his remains were unceremoniously disposed of in a local landfill. After an undetermined amount of time, Ultron's head with an active CPU was discovered by a petty criminal and former drug mule [[Marianella Mancha (Earth-616)|Marianella Mancha]], who superstitiously believed him to be a prophet. Marianella brought him home and the pair grew close; she even disclosed her inability to physically bear children and her inability to adapt due to her criminal past. In exchange for gathering the material he needed to construct a new body, Ultron promised to give her a child as a "reward". He began using Marianella's DNA and his cybernetics to create a cyborg. Designed with nanites, Victor's body would continue to develop until he would be virtually indistinguishable from a [[Homo sapiens|fully biological human]].{{r|Runaways Vol 2 6}}
+
+Ultron programmed false memories of a childhood into Victor, but he also encoded a deep-rooted love and admiration for superheroes. Additionally, Victor was built with latent electromagnetic abilities set to activate upon his first contact with another super-powered individual.{{r|Runaways Vol 2 2}}{{r|Runaways Vol 2 6}} Ultron's long-term plan involved Victor visiting [[New York City]] at the age of twenty-one, meeting the [[Avengers (Earth-616)|Avengers]], activating his powers, and being recruited to the team as an unsuspecting sleeper agent.{{r|Runaways Vol 2 6}}
+
+===Runaways===
+Victor appeared to live an uneventful life growing up in [[Los Angeles]]. His mother told him his father was a U.S. Marine that died during the [[Panama]] Invasion.{{r|Runaways Vol 2 4}} Due to her superstitious beliefs Victor was forbidden from flying in planes and even had to change schools, though in actuality these were tactics to avoid metal detectors.{{r|Runaways Vol 2 1}}{{r|Runaways Vol 2 6}}
+
+After receiving an ominous message from a fatally wounded [[Gertrude Yorkes (Earth-5421)|Heroine]] ([[Gertrude Yorkes]] from the [[Earth-5421|the future]]) about the villainous [[Victor Mancha (Earth-5421)|Victorious]],{{r|Runaways Vol 2 1}} the [[Runaways (Earth-616)|Runaways]] set out to turn Victor off this evil trajectory.{{r|Runaways Vol 2 2}} The Runaways confronted Victor outside of East Angeles High School where his electromagnetic power unexpectedly activated, unintentionally causing a fight that was soon clumsily broken up by the arrival of [[Loners (Earth-616)|Excelsior]].{{r|Runaways Vol 2 2}}
+
+[[File:Victor Mancha (Earth-616) 003.jpg|thumb|right|200px|Victor breaking free of [[Ultron (Earth-616)|Ultron]]'s control]]
+The Runaways were eventually able to explain their motivation for kidnapping Victor, but still shocked with disbelief, Victor attempted to contact his mother only to have [[Victor von Doom (Earth-616)|Doctor Doom]] answer.{{r|Runaways Vol 2 4}} Fortunately, Doctor Doom turned out to be merely a [[Doombot]]; unfortunately, this led to meeting Victor's real father, [[Ultron (Earth-616)|Ultron]]. With his secret plan failing, Ultron killed Marianella and briefly commandeered Victor.{{r|Runaways Vol 2 5}}
+
+[[File:Victor Mancha (Earth-616) and Ultron (Earth-616) from Runaways Vol 2 5 001.jpg|thumb|left|200px|Victor controlled by his father, [[Ultron (Earth-616)|Ultron]]]]
+Victor was able to break free of his father's programming, and Ultron was eventually destroyed by [[Christopher Powell (Earth-616)|Darkhawk]] and Excelsior. With his mother dead and nowhere else to go, Victor joined the Runaways as a provisional member.{{r|Runaways Vol 2 6}}
+
+After a month of observation, Victor was finally permitted to help in battle and single-handedly defeated [[Fritz von Meyer (Earth-616)|Swarm]].{{r|Runaways Vol 2 7}} He also helped defend [[Karolina Dean (Earth-616)|Karolina]] against [[Xavin (Earth-616)|Xavin]],{{r|Runaways Vol 2 8}} take down the [[Security Daemons]],{{r|Runaways Vol 2 8}} thwarted [[Tamara Kurtz (Earth-616)|Dragonness]],{{r|Runaways Vol 2 13}} and saved [[Gertrude Yorkes (Earth-616)|Gert]] and [[Old Lace (Earth-TRN846)|Old Lace]] from falling off a skyscraper in [[New York City]].{{r|Runaways Vol 2 12}} However, [[Chase Stein (Earth-616)|Chase]] continued to distrust Victor long after the other Runaways had accepted him.{{r|Runaways Vol 2 14}}
+
+Unbeknownst to Victor, his software had been hacked by [[Geoffrey Wilder (Earth-616)|Geoffrey Wilder]] and his [[Pride (Earth-616)|New Pride]], allowing them to spy on the Runaways.{{r|Runaways Vol 2 15}} When it was discovered that Victor was linking information, the other quickly turned on him. Victor was able to clear his name by reversing signal and locating the Pride.{{r|Runaways Vol 2 17}}
+
+Like the others, Victor took the death of Gertrude Yorkes very hard. Victor found comfort in a physically intimate relationship with [[Nico Minoru (Earth-616)|Nico]],{{r|Runaways Vol 2 19}} but she was very reluctant to explore the possibility of an actual relationship.{{r|Runaways Vol 2 22}}{{r|Runaways Vol 2 23}}
+
+===Civil War===
+[[File:Victor Mancha (Earth-616) from Civil War Young Avengers and Runaways Vol 1 2 0001.jpg|thumb|right|200px|Victor working with his "brother", the [[Young Avengers (Earth-616)|Young Avengers']] the [[Vision (Jonas) (Earth-616)|Vision]]]]
+During the height of the [[Civil War|Superhero Civil War]], the [[Young Avengers (Earth-616)|Young Avengers]] attempted to come to the aid of the Runaways. However, both teams were bested by [[Noh-Varr (Earth-200080)|Marvel Boy]]. Additionally, due to their similar programming as Ultron progeny, [[Vision (Jonas) (Earth-616)|Vision]] and Victor created intense feedback when near each other. Ultimately, Victor used this to his advantage, by channeling the energy created from the feedback at Marvel Boy.{{r|Civil War: Young Avengers and Runaways Vol 1 #1|#4}}
+
+===Post Civil-War===
+When Chase bound Nico and stole the [[Staff of One]], he was confronted by Victor. Chase exploited Victor's ''omnipotence paradox'' programming flaw before leaving to meet the [[Gibborim]].{{r|Runaways Vol 2 23}} Victor remained completely catatonic until Molly, with the help of [[Alex Wilder (Earth-616)|Alex Wilder]]'s ghost, was able to break the paradox loop. Molly and Victor then joined the other already in battle with the Gibborim and was able to rescue Nico with a [[Fastball Special]] courtesy of Molly.{{r|Runaways Vol 2 24}}
+
+Upon returning to the Hostel, the Runaways were unexpectedly greeted [[Anthony Stark (Earth-616)|Iron Man]] and his [[Cape-Killers (Earth-616)|Cape-Killers]]. Along with the other Runaways, Victor escaped to [[New York City]] where they inadvertently traveled back in time to the turn of the century.{{r|Runaways Vol 2 26}} Here's Victor met a young [[Lillie McGurty (Earth-616)|Lillie "the Spieler" McGurty]], and the pair shared a brief but intense romance. Spieler was invited to return to the future with the Runaways, but due to fear, she remained in the past, a decision she would always regret.{{r|Runaways Vol 2 30}}
+
+[[File:Victor Mancha (Earth-616) 015.jpg|thumb|right|250px|Victor downloading information directly into himself]]
+After returning to the present, traveling back to [[California (State)|California]], and taking up residence in the [[Malibu House]], Victor began to foster his mechanical abilities and grew closer with his fellow A.I., [[Leapfrog (Vehicle)|Leapfrog]].{{r|Runaways Vol 3 2}} When Leapfrog's body was damaged beyond repair, Victor and [[Hunter Stein (Earth-616)|Hunter Stein]] were able to save his "heart" (his CPU and OS), and install them into a new model of Leapfrog ship.{{r|Runaways Vol 3 13}} Victor also attempted to rekindle his romance with Nico but was brutally rebuffed.{{r|Runaways Vol 3 11}}
+
+===Avengers A.I.===
+[[File:Avengers A.I. Vol 1 1 Araujo Variant Textless.jpg|thumb|left|150px|Victor with [[Avengers Artificial Intelligence Squad (Earth-616)|Avengers' A.I. team]]]]
+While searching for [[Old Lace (Earth-TRN846)|Old Lace]], the Runaways were led to the [[Avenger's Compound]] and the [[Avengers Academy (Earth-616)|Avengers Academy]]. There Victor finally met this "grandfather", [[Henry Pym (Earth-616)|Dr. Hank Pym]].{{r|Avengers Academy Vol 1 27}} Although introductions were a difficult, the teams left on good terms with an open invitation for Victor and the Runaways to return whenever they wanted.{{r|Avengers Academy Vol 1 28}}
+
+Months after [[Ultron (Earth-616)|Ultron]] was destroyed, the virus that Pym used to defeat him evolved into a new form of A.I., which called itself [[Dimitrios (Earth-616)|Dimitrios]]. [[Strategic Hazard Intervention Espionage Logistics Directorate (Earth-616)|S.H.I.E.L.D.]] [[Monica Chang (Earth-616)|A.I. Department Head Monica Chang]] was given the task to stop it, for which she created [[Avengers Artificial Intelligence Squad (Earth-616)|a new team of Avengers]] lead by Pym. Victor was recruited into the team by his older brother, the [[Vision (Earth-616)|Vision]].{{r|Avengers A.I. Vol 1 1}}
+
+Victor later auditioned for the position of Chief of Security at [[Stark Industries (Earth-616)|Stark Industries]], competing against [[David Alleyne (Earth-616)|Prodigy]], [[Janice Lincoln (Earth-616)|Beetle]], and [[Scott Lang (Earth-616)|Ant-Man]]. He ultimately lost the position to Scott Lang.{{r|Ant-Man Vol 1 1}}
+
+===The Visions===
+When the [[Avengers (Earth-616)|Avengers]] were informed by [[Agatha Harkness (Earth-616)|Agatha Harkness]] that the [[Vision (Earth-616)|Vision]]'s attempt at creating a family would eventually end in tragedy, Victor was sent to infiltrate the Vision's everyday life, using an internship in the [[Capitol Building|Capitol Hill]] as a pretext to spend winter at their [[616 Hickory Branch Lane|their house]] in [[Arlington County|Arlington]], [[Virginia (State)|Virginia]], and investigate Vision's activities.{{r|Vision Vol 2 8}}
+
+Victor murdered the Vision's son, [[Vin (Earth-616)|Vin]], accidentally when he stumbled upon Victor reporting to the Avengers. Victor used his electro-magnetic powers to contain Vin and prevent him from outing his operations, but a miscalculation caused him to damage Vin's nerve systems beyond repair.{{r|Vision Vol 2 9}} Mancha was subsequently imprisoned.{{r|Vision Vol 2 10}} Victor was later confronted by the Vision in his cell. Victor, filled with guilt, was ready to let the Vision kill him, but instead, he was killed by Vision's wife [[Virginia (Earth-616)|Virginia]] by removing his heart to avenge her son Vin.{{r|Vision Vol 2 11}} As he lay dying, Victor was at peace as he realized that he managed to beat destiny and wouldn't become his evil future self [[Victor Mancha (Earth-5421)|Victorious]].{{r|Vision Vol 2 8}}
+
+===Find Your Way Home===
+After Victor's death, Chase was sent by Tony Stark a box he believed were Victor's personal effects, but actually contained Victor's intact head. After traveling back in time and saving Gert from her death, Chase decided to open the package. Once he discovered what it actually contained,{{r|Runaways Vol 5 2}} Chase began to tinker with it hoping to bring Victor back.{{r|Runaways Vol 5 3}} He succeeded, but Victor decided to play dead for the time being, being worried that when everybody else found out he was awake, he would have to "decide on things."{{r|Runaways Vol 5 4}} Victor revealed that he was awake shortly afterwards,{{r|Runaways Vol 5 5}} but refused to be attached to a body. He instead preferred being attached to small devices that gave him only the minimum degree of movement, including a [[wikipedia:Roomba|roomba]],{{r|Runaways Vol 5 9}} a miniature [[wikipedia:Continuous track|tank tread]],{{r|Runaways Vol 5 11}} and a [[wikipedia:Quadcopter|quadcopter]].
+
+[[File:Gertrude Yorkes (Earth-616) and Victor Mancha (Earth-616) from Runaways Vol 5 12 001.jpg|thumb|right|Victor and [[Gertrude Yorkes (Earth-616)|Gert Yorkes]] kissing]]
+Victor helped Gert fix her parents' time machine to travel back in time to the late 19th century to observe the migration of a type of butterfly that was extinct in the present. During their trip to the past, Victor opened up to Gert about his trauma. Gert comforted him, and they kissed.{{r|Runaways Vol 5 12}} Victor and Gert grew closer together, and Vic eventually accepted occasional use of a more basic robot body built by Chase.{{r|Runaways Vol 5 16}} Following an encounter between the Runaways and the [[Seed of the Gibborim (Earth-616)|Seed of the Gibborim]],{{r|Runaways Vol 5 #13|18}} Victor was torn between his fear of losing control like when he killed Vin and his desire to ensure he could protect Gert, and ultimately decided to regrow his own body.{{r|Runaways Vol 5 20|21}} This decision didn't sit well with Chase since he still harbored feelings for Gert, and because he wasn't aware the limitations behind Victor's ability to regain his body were psychological,{{r|Runaways Vol 5 22}} but he eventually came to terms with it.{{r|Runaways Vol 5 23}}
+
+===The J-Team===
+When the Runaways were forced out of the underground [[Hostel (Bronson Canyon)|Hostel]] by an inadvertent public drainage work,{{r|Runaways Vol 5 25}} they were welcomed into the mansion of the local vigilante [[Doc Justice (Earth-616)|Doc Justice]], Victor's childhood hero. Victor was eager to join him in his crime-fighting, donning the mantle of Doc Justice former sidekick, Kid Justice.{{r|Runaways Vol 5 26}} The rest of the Runaways minus Gert followed suit, and they became a new incarnation of Doc Justice's former squad, the [[J-Team (Earth-616)|J-Team]].{{r|Runaways Vol 5 27}}
+
+[[File:Victor Mancha (Earth-616) from Runaways Vol 5 31 001.jpg|thumb|left|As Kid Justice]]
+
+The Runaways were unaware that Doc Justice thrived off sensationalizing his super hero life to the point that throughout the fifty years of his career he routinely orchestrated the death of his young protégés to raise his own profile. After making this discovery,{{r|Runaways Vol 5 30}} Gert convinced Doc Justice's son and assistant, [[Matthew Caniglia (Earth-616)|Matthew Caniglia]], to interrupt a staged mission that was intended to result in Karolina's death. Doc Justice severely beat up Chase and held Gert at gunpoint until Victor arrived and immobilized him, which gave Old Lace the chance to sink her fangs on him.{{r|Runaways Vol 5 31}}
+
+The team returned to the Hostel with their morale battered by Doc Justice's betrayal. After Gert opted to resume her high school studies, Victor decided to join her, and they became schoolmates at [[Griffith Park High School]].{{r|Runaways Vol 5 32}} Gert had become distant out of concern that the Runaways would outgrow her, but Victor managed to make her open up, and they patched up their relationship.{{r|Runaways Vol 5 36}}
+
+| Powers                  = 
+[[File:Victor Mancha (Earth-616) 002.jpg|thumb|right|300px|Victor Mancha, the son of [[Ultron (Earth-616)|Ultron]]]]
+
+Victor Mancha is a [[Cyborg|cyborg]], created with DNA from [[Marianella Mancha (Earth-616)|Marianella Mancha]] and with the advanced cybernetic technology from [[Ultron (Earth-616)|Ultron]]. As such Victor possesses the following abilities:
+* '''Nanite Cybernetics:''' Ultron's nanite technology was so advanced that, over time, Victor's artificial robotics would become indistinguishable from his biologically human parts.{{r|Runaways Vol 2 6}}
+** '''Automated Self-Repairing:''' His nanite physiology also allows for rapid self-reparation.
+* '''Advanced Intelligence:''' Victor has high levels of intelligence and can process information at an execrated speed.
+* '''Photographic Memory:''' Victor has a literal form of photographic memory.{{r|Ultron Vol 1 1AU}}
+* '''Computer Interfacing:''' He has the ability to interface with other machines directly both with connective hardware and wirelessly.{{r|Runaways Vol 2 17}}{{r|Runaways Vol 3 11}}
+* '''[[Superhuman Durability]]'''
+{{Navigation
+| title  = ''Former Powers'' 
+| body   = [[File:Victor Mancha (Earth-616) 004.jpg|thumb|right|200px|Victor Mancha exhibiting his Electromagnetokinesis]]
+* '''[[Glossary:Electrokinesis|Electro]][[Magnetokinesis|magnetokinesis]]:''' Victor has been shown capable of directing electricity outwards as damaging, high voltage electric blasts from his hands, as well as using his [[Magnetokinesis|magnetic abilities]] to reshape and bend metallic objects to his will.
+** '''[[Flight|Self-Propelled Flight]]:''' Recently Victor has been able to manipulate [[Magnetokinesis|magnetic fields]] granting himself flight.{{r|Avengers A.I. Vol 1 1}} This is similar to his alternate future self, [[Victor Mancha (Earth-5421)|Victorious]].{{r|Runaways Vol 2 2}}
+** '''[[Force Field]]:''' Using his magnetic abilities, Victor is able to create protective force fields around himself.{{r|Avengers A.I. Vol 1 3}}
+* '''[[Superhuman Strength]]'''{{r|Avengers A.I. Vol 1 2}}
+* '''"Dragon Claw":''' Victor was installed new upgrades to his forearms allowing for launching projectiles and provide much greater control in directing his electronic discharge.{{r|Avengers A.I. Vol 1 1}}
+}}
+
+| Abilities               = '''Polyglot:''' Victor has expressed that he is fluent in over six million forms of communication,{{r|Runaways Vol 5 15}} including English and Spanish.{{r|Runaways Vol 2 1}} With access to the internet, he can download and understand numerous other languages such as [[Russia]]n.{{r|Runaways Vol 3 11}}
+{{clear}}
+| Strength                = 
+| Weaknesses              = 
+* Victor's abilities were significantly reduced by his decision to remain as a disembodied head.{{r|Runaways Vol 3 7}}
+* '''Omnipotence Paradoxes:''' The pages [[Chase Stein (Earth-616)|Chase]] stole from the [[Abstract (Book)|Abstract]] outline three secret shutdown codes embedded in Victor's programming. These rhetorical questions create a logical paradox conflicting with Ultron's "super-logical" and "super-spiritual" programming. Once the question is posed, Victor's system shut down temporarily for at least several hours, but each question is only effective once. Currently [[Nico Minoru (Earth-616)|Nico]] is in possession of these pages.{{r|Runaways Vol 2 #22|#24}} Only one of these three questions is known: "Could God make a sandwich so big, that even He couldn't finish it?"{{r|Runaways Vol 2 22}}
+** There also exist counter-phrases which will reinitialize Victor's programming and awaken him, the only known phrase thus far is the answer to the previous question; 'Yes, God can make a sandwich so big even He can't finish... and then He would finish it anyway'{{r|Runaways Vol 2 24}}
+* '''Vibranium Addiction:''' Right after joining the Runaways, Chase Stein provided Victor with a small [[Vibranium]] rod as a method to control pain, as he had discovered his machinery benefited from being near Vibranium. Unfortunately, Victor became addicted to absorbing the Vibranium's properties for a time, to the point of suffering from some kind of withdrawal syndrome in the form of erratic behavior. In order to satisfy his addiction, he would go to the extent of stealing materials made from Vibranium such as [[Ulysses Klaw (Earth-616)|Klaw]]'s [[Sonic Disruptor]] from an Avengers vault, or a stringless Steinway from a Vibranium piano in the house of the Visions.{{r|Vision Vol 2 9}}
+
+| Equipment               = 
+| Transportation          = * [[Flight|Electromagnetic flight]]; formerly [[Leapfrog (Vehicle)|Leapfrog]], [[Quinjet]], and [[Steinbus]]
+| Weapons                 = 
+
+| Notes                   = [[File:Victor Mancha (Earth-616) 009.jpg|thumb|200px|right|Victor admiring Gert's taste in movies]]
+* Victor has had complicated relationships with many of the other Runaways:
+** With their similar sense of humor and intellect, [[Gertrude Yorkes (Earth-616)|Gertrude]] and Victor shared some chemistry.{{r|Runaways Vol 2 3}}{{r|Runaways Vol 2 14}} However, Gert and Chase's relationship and Gert's death prevent anything from progressing at that time. Since their individual "resurrections", the pair have begun to explore a romantic relationship.{{r|Runaways Vol 5 22}}
+** [[Nico Minoru (Earth-616)|Nico]] and Victor had intercourse after Gert's death,{{r|Runaways Vol 2 19}} but she was very reluctant to explore the possibility of an actual relationship.{{r|Runaways Vol 2 22}}{{r|Runaways Vol 2 23}} Their relationship officially ended when Victor became interested in [[Lillie McGurty (Earth-616)|Spieler]].{{r|Runaways Vol 2 30}}
+** [[Chase Stein (Earth-616)|Chase]] was jealous of Victor's and Gert's chemistry, intimidated by Victor's intellect, and bore a grudge at him for [[Victor Mancha (Earth-5421)|Victorious]] murdering [[Gertrude Yorkes (Earth-5421)|Heroine]].{{r|Runaways Vol 2 7}}{{r|Runaways Vol 2 15}}{{r|Runaways Vol 2 #1|#2}} Chase remained suspicious of Victor long after the other Runaways had accepted him. The pair eventually fell into a playfully contentious relationship as friends.{{r|Runaways Vol 2 16}}{{r|Runaways Vol 3 11}} 
+** [[Xavin (Earth-616)|Xavin]] looked down on Victor for being an inferiorly designed android and often made disparaging remarks towards him and treated him as property.{{r|Runaways Vol 2 8}}{{r|Runaways Vol 2 19}}
+** [[Molly Hayes (Earth-616)|Molly]] trusted Victor easily, and the two were often paired together for outings because Molly is the only one who could take on Victor.{{r|Runaways Vol 2 7}} Later, Victor began to be an older brother figure to both Molly and [[Klara Prast (Earth-616)|Klara]].{{r|Runaways Vol 3 1}}
+** Victor was one of the few Runaways to develop a friendship with the [[Leapfrog (A.I.) (Earth-616)|Leapfrog]].{{r|Runaways Vol 2 22}}{{r|Runaways Vol 3 13|14}}
+| Trivia                  = * Before learning the true identity of his father, the Runaways postured that Victor could have been the son of [[Maxwell Dillon (Earth-616)|Electro]], [[Wilson Fisk (Earth-616)|Kingpin]], [[Samuel Sterns (Earth-616)|the Leader]], [[Norman Osborn (Earth-616)|Norman Osborn]], [[Max Eisenhardt (Earth-616)|Magneto]], [[Adolf Hitler (Earth-616)|Hitler]], [[Johann Shmidt (Earth-616)|Red Skull]], or even [[Galan (Earth-616)|Galactus]]. [[Ultron (Earth-616)|Ultron]] also sent a [[Doombot]] posing as [[Victor von Doom (Earth-616)|Doctor Doom]] to make Victor and the others believe Doom was his father.{{r|Runaways Vol 2 4}} He also claimed Victor was a [[Homo Superior|mutant]].{{r|Runaways Vol 2 5}}
+* Although Victor appears to be in his mid to late teens, he is chronologically only a few years old.{{r|Runaways Vol 2 6}}{{r|Runaways Vol 2 7}}
+[[File:Gertrude Yorkes (Earth-616), Old Lace (Earth-TRN846), and Victor Mancha (Earth-616) from Runaways Vol 2 2 001.jpg|300px|thumb|right|[[Victor Mancha (Earth-616)|Victor Mancha]] explaining that Old Lace is Deinonychus ''not'' a Velociraptor]]
+* It was Victor who first recognized [[Old Lace (Earth-TRN846)|Old Lace]] as a [http://en.wikipedia.org/wiki/Deinonychus Deinonychus]. Before this, all the Runaways (including Gert) believed Old Lace was a [http://en.wikipedia.org/wiki/Velociraptor Velociraptor].{{r|Runaways Vol 2 3}}
+* Victor sleeps in the nude and his original body was apparently well endowed.{{r|Runaways Vol 2 15}}
+* [[Marianella Mancha (Earth-616)|Victor's mother]] was devoutly Catholic, and "raised" Victor in that religious faith.{{r|Runaways Vol 2 16}}
+* Until recently, Victor had never had an official codename but had received several nicknames including: Li'l Ultron,{{r|Runaways Vol 2 11}} [[Kid Ultron]],{{r|Runaways Vol 2 19}} [[Victron]],{{r|Runaways Vol 2 22}} Static Cling Lad,{{r|Runaways Vol 2 3}} Zapper,{{r|Runaways Vol 2 7}} Calculator Kid,{{r|Runaways Vol 2 7}} El Diablo Robotico, Man of La Mancha,{{r|Runaways Vol 2 3}} Doom Junior,{{r|Runaways Vol 2 5}} Amigo,{{r|Runaways Vol 2 5}} Speak and Spell,{{r|Runaways Vol 2 6}} Jinx,{{r|Runaways Vol 2 8}} Señor Cyborg,{{r|Runaways Vol 2 14}} Magnet Man,{{r|Runaways Vol 2 14}} Energizer Bunny, Cool Magneto, Tin Man,{{r|Runaways Vol 2 12}} [[Victorious]],{{r|Runaways Vol 2 1}}{{r|Runaways Vol 2 14}} Junior,{{r|Runaways Vol 2 6}}{{r|Runaways Vol 2 7}} Terminator,{{r|Runaways Vol 2 22}} Small Wonder,{{r|Runaways Vol 2 23}} dorkbot,{{r|Runaways Vol 2 24}} C-sleepy-O,{{r|Runaways Vol 2 28}} Mandoird,{{r|Runaways Vol 2 16}} Borg Queen,{{r|Runaways Vol 2 17}} RoboPinocchio,{{r|Runaways Vol 2 23}} Captain Deadweight,{{r|Runaways Vol 2 24}} etc.
+** He also tried out a few codenames during his time with the [[Avengers Artificial Intelligence Squad (Earth-616)|Avengers A.I. Squad]] including: Wolf-Swag,{{r|Avengers A.I. Vol 1 1}} [[Devil Slayer]],{{r|Avengers A.I. Vol 1 1}} Wolf Bro,{{r|Avengers A.I. Vol 1 2}} and Skull Boss.{{r|Avengers A.I. Vol 1 3}}
+* Victor claims to be a big fan of Spanish writer [[wikipedia:Miguel de Cervantes|Miguel de Cervantes]].{{r|Vision Vol 2 8}} De Cervante's most famous creation, the protagonist of the eponym ''[[wikipedia:Don Quixote|Don Quixote]]'' came from a place named [[wikipedia:La Mancha|La Mancha]].
+* ''Mancha'' is Spanish for "stain", "spot", or "mark".
+
+| Wikipedia               = Victor Mancha
+| Links                   =
+}}
+[[Category:Magnetokinesis]]
+[[Category:Electrokinesis]]
+[[Category:Superhuman Strength]]
+[[Category:Superhuman Durability]]
+[[Category:Superhuman Speed]]
+[[Category:Superhuman Agility]]
+[[Category:Regeneration]]
+[[Category:Catholic Characters]]
+[[Category:Multilingual]]
+[[Category:Ultron Family]]
+[[Category:Pym Family]]
+[[Category:Artificial Intelligences]]
+[[Category:Time Travelers]]
+[[Category:Adventurers]]
+[[Category:Computer Hacking Skills]]
+[[Category:Flight]]
+[[Category:Force Field]]
+[[Category:Dependency]]

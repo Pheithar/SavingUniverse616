@@ -1,0 +1,50 @@
+{{Marvel Database:Character Template
+| Image                   = Peter Brand (Earth-616) from Defenders - Strange Heroes Vol 1 1.png
+| Name                    = [[Peter Brand]]
+| CurrentAlias            = [[Blowtorch Brand]]
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = Unidentified father
+| MaritalStatus           = 
+
+| CharRef                 = {{cl|Defenders: Strange Heroes #1}}
+| Gender                  = Male
+| Height                  = 5'10"
+| Weight                  = 170 lbs
+| Eyes                    = Blue
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo superior|Human mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[New Mexico (State)|New Mexico]]
+| PlaceOfDeath            = 
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = Arsonist
+| Education               = High School graduate
+| BaseOfOperations        = Elijah, [[New Mexico (State)|New Mexico]]
+
+| Creators                = Peter Gillis; Don Perlin
+| First                   = Defenders Vol 1 135
+| Death                   = U.S.Agent Vol 1 2
+
+| History                 = 
+
+| Powers                  = Blowtorch Brand was immune to heat and flames
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = Wielded a blowtorch
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

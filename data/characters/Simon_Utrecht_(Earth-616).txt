@@ -1,0 +1,67 @@
+{{Marvel Database:Character Template
+| Image                   = Simon Utrecht (Earth-616) from War of Kings Darkhawk Vol 1 1 001.jpg
+| Name                    = Simon Utrecht
+| CurrentAlias            = Vector
+| Aliases                 = 
+
+| Affiliation             = {{m|U-Foes}}, {{m|Alpha Flight (Space Program)|Alpha Flight Space Program}}; formerly {{m|Army of Evil (Earth-616)|Army of Evil}}, ([[North Carolina (State)|North Carolina]] {{m|50-State Initiative (Earth-616)|Initiative}}/{{m|Hood's Gang (Earth-616)|Hood's Gang}}), {{m|Thunderbolts}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 6'0"
+| Weight                  = 195 lbs 
+| Eyes                    = No Iris
+| Hair                    = No Hair
+| UnusualSkinColor        = Yellow; Orange
+| UnusualFeatures         = As Vector, Utrecht has white eyes, no hair, and yellow and orange skin covered with an unusual pattern.
+
+| Origin                  = [[Homo sapiens|Human]], [[Mutate]], [[:Category:Cosmic Ray Exposure|Exposed to Cosmic Rays]]
+
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Industrialist, professional criminal
+| Education               = 
+| BaseOfOperations        = Mobile
+
+| Creators                = Bill Mantlo; Sal Buscema
+| First                   = Incredible Hulk #254 
+
+| History                 = 
+Simon Utrecht was a wealthy but unscrupulous businessman who was obsessed with gaining power. Convincing three others, [[Michael Steel (Earth-616)|Mike Steel]], [[Ann Darnell (Earth-616)|Ann Darnell]] and [[James Darnell (Earth-616)|James Darnell]], to go up into space in his privately-funded spacecraft to mimic the power and abilities of the [[Fantastic Four (Earth-616)|Fantastic Four]], who had gained their powers from cosmic rays. Utrecht and his crew passed through a cosmic radiation field, but were interrupted by the [[Bruce Banner (Earth-616)|Hulk]] before they finished their experiment. They soon crashed back to Earth, much like the Fantastic Four themselves did. Upon seeing themselves after the crash, the quartet viewed themselves as freaks and monsters. Utrecht in particular blamed The Hulk because he believed with further exposure to the cosmic rays, they could have become "gods." The newly-christened [[U-Foes (Earth-616)|U-Foes]] attacked The Hulk, which began years of hostilities between them.{{r|Incredible Hulk #254}}
+
+The U-Foes became professional criminals, and clashed with many heroes including the [[Avengers (Earth-616)|Avengers]].{{r|Avengers #304}}
+
+Vector, along with the other U-Foes, registered under the [[Superhuman Registration Act]], and served in [[Norman Osborn (Earth-616)|Norman Osborn]]'s forces, before joining the [[Hood's Gang (Earth-616)|Hood's Gang]].{{r|Avengers: The Initiative #28}}{{r|Siege #1|4}}
+
+| Powers                  = Vector's body has been bombarded with cosmic rays far greater than that of Mr. Fantastic, and since then his teammate X-Ray has once more bathed him in cosmic rays so as to achieve better control over his powers.
+
+'''Telekinesis/Psychokinesis:''' Vector possesses telekinetic/psychokinesis abilities allowing him to accelerate, attract, block, and, most prominently, repel matter and energy, directing it away from himself.
+*  '''Telekinetic Repelling:''' This ability is so powerful, that Vector was able to flay the nigh-invulnerable skin and some muscle tissue off the Hulk's body as the he resisted during a battle. He once repelled the structure of reality itself, transporting the U-Foes between dimensions,{{r|Incredible Hulk #304}} and exerting force he claimed was sufficient to hurl entire worlds.{{r|Incredible Hulk Vol 1 305}}
+*  '''Telekinetic Shielding:''' He has been able to shield an army base from tracking devices and magic at the same time allowing a live video feed to be broadcast worldwide. 
+*  '''Telekinetic Acceleration:''' Vector has shown the ability to alter the speed and trajectory of an object, such as a rocket. 
+*  '''Telekinetic Flight:''' By using his repelling together with his acceleration ability Vector is also able to fly. 
+
+| Abilities               = 
+
+| Strength                = Vector possesses the normal human strength of a man of his age, height, and build who engages in moderate regular exercise.
+
+| Weaknesses              = His power can be overcome by sufficiently powerful foes, such as the Hulk, who twice managed to, through extreme effort, bull through Vector's repulsion to physically attack him. An influx of cosmic radiation can cause a temporary loss of control of his powers, as in deflecting the air around him, deflecting his own body from Earth, being deflected into other dimensions. However, this event effectively increased, on a temporary basis, the standard levels of his power. 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = * Vector was one of the candidates on [[Steven Rogers (Earth-616)|Steve Rogers]]' list of supervillains to enroll in [[Luke Cage (Earth-616)|Luke Cage]]'s [[Thunderbolts (Earth-616)|Thunderbolts]] roster.{{r|Heroic Age: Villains #1}}
+| Links                   = 
+}}
+[[Category:Telekinesis]]
+[[Category:Concussive Blasts]]
+[[Category:Flight]]
+[[Category:Millionaires]]
+[[Category:Businesspeople]]

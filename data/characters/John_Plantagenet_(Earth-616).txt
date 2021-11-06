@@ -1,0 +1,52 @@
+{{Marvel Database:Character Template
+| Image                   = John Plantagenet (Earth-616) from Defenders Vol 1 11 001.png
+| Name                    = [[John Plantagenet]]
+| CurrentAlias            = [[King John]]
+| CurrentAliasRef         = {{r|Captain America: Sentinel of Liberty #6}}
+| Aliases                 = [[John Lackland]]
+
+| Affiliation             = 
+| Relatives               = Henry Plantagenet (father, deceased);<br>
+Queen Eleanor (mother);<br>
+[[Richard Plantagenet (Earth-616)|King Richard of England]] (brother, deceased)[[Category:Plantagenet Family]]
+| MaritalStatus           = Married
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = English
+| Occupation              = Monarch[[Category:English Monarchs]]
+| Education               = 
+| BaseOfOperations        = [[England]]
+
+| Creators                = Steve Englehart; Sal Buscema
+| First                   = Defenders Vol 1 11
+
+| History                 = Prince John was [[Richard Plantagenet (Earth-616)|King Richard]]'s sinister brother, who took command of planning to desert the king.{{r|Defenders Vol 1 11}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Wikipedia               = John, King of England
+| Links                   = 
+}}
+[[Category:Historical Figures]]
+[[Category:Crusades Characters]]

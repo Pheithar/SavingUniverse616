@@ -1,0 +1,45 @@
+{{Marvel Database:Team Template
+| Image                   = Headmen (Earth-616) from Defenders Vol 2 001.jpg
+| ImageSize               = 250px
+| Name                    = Headmen
+| Aliases                 = 
+
+
+| Status                  = Active
+| Identity                = Secret
+| Reality                 = Earth-616
+| BaseOfOperations        = Mobile
+
+| Leaders                 = [[Arthur Nagan (Earth-616)|Gorilla-Man]]
+| CurrentMembers          = [[Arthur Nagan (Earth-616)|Gorilla-Man]], [[Jerold Morgan (Earth-616)|Shrunken Bones]], [[Harvey Schlemerman (Earth-616)|Chondu the Mystic]], [[Thursday Rubinstein (Earth-616)|Ruby Thursday]]
+| FormerMembers           = 
+| Allies                  = [[George Tarleton (Earth-616)|M.O.D.O.K.]], [[Advanced Idea Mechanics (Earth-616)|A.I.M.]]
+| Enemies                 = [[Defenders (Earth-616)|Defenders]], [[Nebulon (Earth-616)|Nebulon]], [[Quentin Beck (Earth-616)|Mysterio]], [[Jennifer Walters (Earth-616)|She-Hulk]], [[Peter Parker (Earth-616)|Spider-Man]], [[Jonathan Storm (Earth-616)|Human Torch]], [[Heroes for Hire (Knight & Wing) (Earth-616)|Heroes for Hire]]
+
+| Origin                  = 
+| PlaceOfFormation        = Westbury, Connecticut
+| PlaceOfDissolution      = 
+| Creators                = Steve Gerber; Sal Buscema
+| First                   = Defenders #21
+| Last                    = 
+
+| HistoryText             = Their first known activity as a group came when Nagan and Morgan contacted the sideshow mystic known as Chondu the Mystic. While believed by the general public to be a charlatan, Chondu actually did possess some mystical talents. The two deformed scientists had created a mind-amplifying drug which pushed Chondu's talents far beyond their norm. They injected the serum into the base of Chondu's cerebral cortex and Chondu cast a spell which caused every sleeping and unconscious person, including the [[Bruce Banner (Earth-616)|Hulk]], in [[New York City]] to experience a sleepwalking dream terror, with people jumping from their windows, running out into traffic, etc. Arthur Nagan used this period of confusion to go on a crime spree, robbing the jewelery stores of New York's "Diamond Row." He was opposed by [[Kyle Richmond (Earth-616)|Nighthawk]], but managed to stun him and escape with a small fortune.{{r|Defenders Vol 1 #21}}
+
+The Headmen surfaced again some months later as the three men kidnapped Nighthawk, transplanting the brain of Chondu into his body in an attempt to infiltrate the Defenders. He attempted to capture the group with his mystical abilities, but was soon defeated by the much superior [[Stephen Strange (Earth-616)|Doctor Strange]].{{r|Defenders Vol 1 #31}} It was at this time that Nagan recruited [[Thursday Rubinstein (Earth-616)|Ruby Thursday]] to the ranks of the Headmen, against the protestations of Jerold Morgan who considered her a technological abomination.{{r|Defenders #32}}
+
+The Defenders learned that Chondu's mind was in Richmond's body so Doctor Strange used his powers to mystically transfer the minor mystic's mind into the body of a [[Bambi (Earth-616)|baby deer]] that the Hulk had rescued from hunters. He then transferred the mind of Defenders-associate [[Jackson Norriss (Earth-616)|Jack Norriss]] into Nighthawk's body and the group set out to find the Headmen. They discovered the Headmen's headquarters but were quickly ambushed by Ruby Thursday and captured.{{r|Defenders #32|#33}}
+
+The [[Brunnhilde (Earth-616)|Valkyrie]], Hulk and Doctor Strange were then all connected to encephalo-transmogrifiers, meant to cause the group to become pawns of the Headmen. Nighthawk wasn't connected to one as the group still believed him to hold Chondu's mind. The Defenders, however, escaped and destroyed the Headmen's headquarters in Westbury, [[Connecticut (State)|Connecticut]], retrieving Nighthawk's brain in the process, though the Headmen themselves were able to escape.{{r|Defenders #33}}
+
+Chondu, still in the body of a deer, was captured by [[Nebulon (Earth-616)|Nebulon]] and the [[Ludberdites]] along with many other people of Earth, to be used as part of his Celestial Mind Control movement.{{r|Defenders #33}} He used to powers to transport both himself and Nebulon to the alternate Headmen's headquarters, planning to use Nebulon in the Headmen's schemes. Nebulon had no interest, however, and quickly departed, while Chondu's mind was placed back into his body, which had been grotesquely altered by Nagan. This was a shock to Chondu who attacked his teammates before leaving to find another body to transfer his consciousness into. He was spotted by the Valkyrie and Jack Norriss (now in possession of his own body once again), and was quickly defeated, though he was able to escape as Valkyrie was arrested for the destruction of the restaurant where their battle took place.{{r|Defenders Vol 1 #35}}
+
+The Headmen continued on with their machinations to rule the world through non-violent means, through the use of social, political and economic scheming. Morgan went to France, while Nagan went to India using Morgan's shrinking particles to shrink important political figures. Back in the United States, Ruby Thursday was running for president. Despite also shrinking down the members of the Defenders, the heroes soon found a way to return to their normal size and swiftly defeated the Headmen yet again.{{r|Defenders Annual Vol 1 #1}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+|Overview=The Headmen were a quartet of minor super villains (mostly scientists) who banded together to seek world domination, apparently for no better reason than because they all had something freakish about their heads:{{r|Defenders Vol 1 #21}} [[Arthur Nagan (Earth-616)|Arthur Nagan]], their leader, had his head transplanted onto the body of a gorilla,{{r|Mystery Tales Vol 1 #21}} while [[Thursday Rubinstein (Earth-616)|Ruby Thursday]] replaced her own head with an organic computer capable of changing shape.{{r|Defenders Vol 1 #32}} Jerold Morgan AKA [[Jerold Morgan (Earth-616)|Shrunken Bones]] accidentally shrank his own skeleton, including his skull, and [[Harvey Schlemerman (Earth-616)|Chondu]] the Mystic's head has been transplanted by Nagan onto a number of bodies, none of which Chondu appreciated much. They clashed repeatedly with the [[Defenders (Earth-616)|Defenders]] and other superheroes including [[Spider-Man (Peter Parker)|Spider-Man]] and [[Jennifer Walters (Earth-616)|She Hulk]].{{r|Sensational She-Hulk #1|3}}|Quotation=What chance do a bunch of '''[[Defenders (Earth-616)|flatfoots]]''' have against the '''Headmen?'''|Speaker=[[Arthur Nagan (Earth-616)|Gorilla-Man]]|QuoteSource=Defenders Vol 2 5}}

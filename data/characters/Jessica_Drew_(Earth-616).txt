@@ -1,0 +1,342 @@
+{{Marvel Database:Character Template
+| Image                   = Spider-Woman Vol 7 11 Textless.jpg
+| Name                    = [[Jessica Drew|Jessica Miriam "Jess" Drew]]
+| NameRef                 = {{r|Spider-Woman: Origin Vol 1 1}}
+| CurrentAlias            = [[Spider-Woman]]
+| CurrentAliasRef         = 
+| Codenames               = [[Arachne]]{{r|Marvel Spotlight Vol 1 32}}
+| EditorialNames          = 
+| Nicknames               = Drew Spawn,{{r|Spider-Woman Vol 7 6}} [[Red]],{{r|Spider-Woman Vol 1 35}} Web-Lady{{r|Spider-Woman Vol 1 35}} Webby,{{r|New Avengers Vol 1 23}} [[Webs]]{{r|Spider-Woman Vol 1 35}}
+| Impersonations          = [[Enforcer]],{{r|Women of Marvel: Celebrating Seven Decades Handbook Vol 1 1}} [[Erin Dyker]],{{r|Spider-Woman Vol 5 7}} [[Jessica Drew (Earth-001)|Ms. Drew]],{{r|Spider-Woman Vol 5 2}} [[Porcupine]],{{r|Spider-Woman Vol 5 6}} [[Sybil Dvorak]]{{r|Spider-Woman Vol 1 50}}
+| Aliases                 = Ariadne "Dee" Hyde,{{r|Spider-Woman Vol 1 34}} Childe of the Darkhold,{{r|Spider-Woman Vol 1 40}} [[Dark Angel]],{{r|Spider-Woman Vol 1 2}} [[Hestia|Hestia-3]],{{r|Captain America Vol 9 11}} [[Hunter]],{{r|Women of Marvel: Celebrating Seven Decades Handbook Vol 1 1}} Mistress of the Black Blade,{{r|Wolverine Vol 2 2}} [[Slaughter]]{{r|Spider-Woman Vol 6 2}}
+
+| Affiliation             = {{m|Daughters of Liberty}}, {{m|Order of the Web}}; formerly {{m|Strikeforce}}, {{m|Superior Spider-Army (Earth-928)|Superior Spider-Army}}, {{m|Sentient World Observation and Response Department|S.W.O.R.D.}}, {{m|Secret Avengers (S.H.I.E.L.D.)|Secret Avengers (S.H.I.E.L.D.)}}, {{m|New Avengers (A.I.M.) (Earth-616)|New Avengers (A.I.M.}}, {{m|Advanced Idea Mechanics (Earth-616)|A.I.M. (Advanced Idea Mechanics)}}, {{m|Avengers}}, {{r|New Avengers Vol 1 48}} partner of [[Benjamin Urich (Earth-616)|Ben Urich]] and [[Roger Gocking (Earth-616)|Porcupine]], [[Spider-Army (Multiverse)|Spider-Army]], {{m|New Avengers}}, former unofficial member of {{m|Heroes for Hire (Knight & Wing)|Heroes for Hire}},{{citation}} {{m|Hydra}}, {{m|Spider Society}},{{citation}} {{m|Drew and McCabe Private Investigations}}, {{m|Strategic Homeland Intervention, Enforcement and Logistics Division|S.H.I.E.L.D.}}, {{m|Lady Liberators}}; former partner of [[Martha Franklin (Earth-616)|Spider-Woman (Mattie Franklin)]]
+| Parents                 = [[Jonathan Drew (Earth-616)|Jonathan Drew]] (father, deceased);<br>
+[[Miriam Drew (Earth-616)|Miriam Drew]] (mother, deceased)
+| Siblings                = [[Michael Marchand (Earth-616)|Michael Marchand]] (brother)
+| Children                = [[Gerald Drew (Earth-616)|Gerry Drew]] (son)
+| Relatives               = [[Rebecca Marchand (Earth-616)|Rebecca Marchand]] (niece)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Spider-Gwen Vol 2 7}}
+| Gender                  = Female
+| Height                  = 5'10"
+| Weight                  = 130 lbs
+| Eyes                    = Green (currently); Blue (formerly){{r|Spider-Woman Vol 7 1}}{{r|Spider-Woman Vol 7 9}}
+| Hair                    = Brown (originally){{r|Spider-Woman Vol 1 1}}; Dyed black (currently){{r|Spider-Woman Vol 1 1}}
+| UnusualFeatures         = Fangs, mandibles, prehensile tongue, claws, leathery wings, spikes and small sprouts around the body when possessed by Kindred{{r|Amazing Spider-Man Vol 5 50.LR}}
+
+| Origin                  = [[Homo sapiens|Human]] genetically [[mutate|mutated]] with the DNA of many species of spiders
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[London (England)|London]], [[England]], [[United Kingdom]]
+
+| Identity                = Public
+| Citizenship             = British, English, American
+| Occupation              = Adventurer, mercenary, vigilante; former private investigator, spy, government agent, bodyguard, bounty hunter, receptionist, hatcheck girl,{{citation}} saleslady,{{citation}} waitress, terrorist, barmaid
+| Education               = Extensively educated by the High Evolutionary during stasis; privately tutored until age seven; no conventional education; received combat training from the Taskmaster; espionage training in Hydra; vocational training in undercover detective work
+| BaseOfOperations        = Jess' Apartment, [[Manhattan]], [[New York City]], [[New York (State)|New York]], [[Earth-616]]; [[Horizon University (Location)|Horizon University]], [[San Francisco]], [[California (State)|California]]; formerly [[Peak VII|The Peak]], [[Earth Orbit]]; [[S.H.I.E.L.D. Helicarrier]]; [[Savage Land]]; [[Stark Tower|Avengers Tower]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]; [[San Francisco]], [[California (State)|California]]; [[Los Angeles]], [[California (State)|California]]; [[Madripoor]]; [[London (England)|London]], [[England]], [[United Kingdom]]; [[Wundagore]], [[Transia]]
+
+| Creators                = Archie Goodwin; Sal Buscema; Jim Mooney; Marie Severin
+| First                   = Marvel Spotlight Vol 1 32
+
+| Quotation               = Spiders don't have families. But '''I''' do.
+| Speaker                 = [[Jessica Drew (Earth-616)|Spider-Woman]]
+| QuoteSource             = Spider-Woman Vol 7 5
+
+| History                 = 
+===Early Life===
+When Jessica Drew was about a year old, her parents moved from [[England]] to a small cottage in the outskirts of [[Wundagore Mountain]] in [[Transia]]. Her father, [[Jonathan Drew (Earth-616)|Jonathan Drew]], geneticist and research partner to the man who would later become the [[Herbert Wyndham (Earth-616)|High Evolutionary]], found large amounts of uranium in their property, which gave them the financial resources to build a research facility to keep working on their controversial studies of evolution, genetics and cell regeneration.{{r|Spider-Woman Vol 1 1}}{{r|Punisher Annual Vol 1 1}}{{r|Silver Surfer Annual Vol 1 1}}
+
+===Experiment===
+In the course of the next three years, life was good, until little Jessica became ill, poisoned by her long-time exposure to the uranium that was so prevalent in their land. Jonathan, being an expert on the regenerative and immunological properties of arachnids' blood, injected Jessica with an untested serum made with the blood of several uncommon species of spiders, in the hopes of stopping the tissue damage and immunizing the girl from the uranium radiation in her blood. Then, he sealed her in a [[Genetic Accelerator|genetic accelerator]] created by [[Herbert Wyndham (Earth-616)|Herbert Wyndham]], a.k.a. the High Evolutionary, to speed the process, but it only seemed to work at a very slow rate. Jess was kept in stasis for decades, while the chamber holding her kept her aging greatly slowed until the treatments finally finished in recent years. During many of those years, Jess's mother Miriam awaited her return, but due to age needed Wyndham to make a clone to continue her vigilance. {{r|Spider-Woman Vol 7 5}}
+[[File:Jonathan Drew (Earth-616), Jessica Drew (Earth-616), and Miriam Drew (Earth-616) from Spider-Woman Vol 1 1 001.jpg|thumb|left|200px|Jonathan Drew introduces the serum of his daughter]]
+
+Now a full-grown woman with little life experience, Jessica found herself unwelcome among the New Men of Wundagore, who sensed the difference of her hybrid nature, as well as her human form upsetting them.{{r|Spider-Woman Vol 1 1}}{{r|New Mutants Annual Vol 1 4}}
+
+===Made for Hydra===
+Jessica eventually set off on her own, leaving the [[Citadel of Science]] and found work as a barmaid in a nearby village. She also experienced her first romance, which tragically ended when an innocent prank panicked the young woman and she accidentally triggered a bioelectric blast that killed her boyfriend. Accused of witchcraft and murder, Jessica fled from an enraged mob into the clutches of [[Otto Vermis (Earth-616)|Otto Vermis]]. The wealthy Vermis offered sanctuary to Jessica as a high-ranking leader in [[Hydra (Earth-616)|Hydra]], an international terrorist movement. Vermis trained Jessica in the use of her powers and taught her espionage, martial arts, and various killing techniques. Hydra wanted to mold Jessica into the perfect assassin. Her mind already in a state of shock after the death of her boyfriend, Jessica lost all memory of her life before meeting Vermis, even her name.{{r|Spider-Woman Vol 1 1}}{{r|Marvel Spotlight Vol 1 32}}
+
+[[File:Marvin Flumm (Earth-616) and Jessica Drew (Earth-616) from Spider-Woman Origin Vol 1 2 001.jpg|left|thumb|225px|Flumm brainwashes young Jessica Drew]]
+[[Marvin Flumm (Earth-616)|Mentallo]] used his powers to convince her that Hydra was an organization that fights the encroaching powers of corporations.{{r|{{cl|Spider-Woman: Origin Vol 1 2}}-[[Spider-Woman: Origin Vol 1 5|5]]}}
+
+However, she rebelled on a basic level against them, going so far as to deviate from their conformity by making her first costume red instead of green. In her first and only field assignment for Hydra, Jessica refused to assassinate [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] Director [[Nicholas Fury (Earth-616)|Nick Fury]]. Rebelling against Hydra, Jessica defeated Vermis in a battle to the death. Before he died, Vermis tricked Jessica into believing that she was originally an artificially evolved spider instead of a mutated human.{{r|Marvel Spotlight Vol 1 32}}
+
+===Spider-Woman===
+Distraught by what she learned, Jessica wandered [[Europe]] until a clash with Hydra in London brought her into contact with the [[Benjamin Grimm (Earth-616)|Thing]] and [[Modred (Earth-616)|Modred the Mystic]]. Modred magically revealed the truth of Jessica's true origins, and she lived briefly in [[London (England)|London]].{{r|Marvel Two-In-One Vol 1 30|33}}
+
+While living in her ramshackle apartment in London, she broke into a nearby convenience store looking for food, but she immediately started to regret her actions and dropped the cans of food. She didn't want to doom her future by resorting to theft, so she left but not before she was spotted by [[Jerry Hunt (Earth-616)|Jerry Hunt]], a S.H.I.E.L.D. agent. During her continued desperate attempts to find employment, she was recognized and then hounded by Hunt, and was forced to go dark. Weeks later, in order to disguise herself better, she dyed her hair black and created a secret identity for herself. After that, she went out on patrol despite not wanting to be a hero. She would encounter Hunt and the local police again, who were involved in a firefight with two thieves she had met before. She defeated the duo and managed to save Hunt's life by using her own laser-resistant blood.{{r|Spider-Woman Vol 1 1}}
+
+[[File:Jessica Drew (Earth-616) from Spider-Woman Vol 1 1 001.jpg|left|thumb|190px|Jessica Drew dying her hair]]
+She was later approached by the mysterious sorcerer named [[Magnus (Sorcerer) (Earth-616)|Magnus]].{{r|Spider-Woman Vol 1 2}} Magnus tutored her in the ways of civilization and informed her that her father was murdered, leading her on a hunt for his killer. Jessica traveled to the west coast of the [[United States of America|United States]] to [[Los Angeles]] with Magnus, where they presented themselves as uncle and niece and began living with the Dolly family in [[North Hollywood]].{{r|Spider-Woman Vol 1 3}}
+
+Her landlady disclosed that Jonathan Drew was a former tenant of hers, when he worked at [[Pyro-Technics (Earth-616)|Pyro-Technics]] for several months,{{r|Spider-Woman #4}} which reaffirmed previous intel.{{r|Spider-Woman #3}} With this fresh information she continued her search. When breaking into the Pyro-Technics building, she encountered [[Nathan Dolly (Earth-616)|William Dolly]], one of the Dolly twins. They were, however, ambushed by [[Nathan Dolly (Earth-616)|Brothers Grimm]],{{r|Spider-Woman Vol 1 4}} who Jessica had come in conflict with previously.{{r|Spider-Woman Vol 1 3}} But before they could end their clash, the [[Harlan Krueger (Earth-616)|Hangman]] barged in and took Jessica captive.{{r|Spider-Woman Vol 1 4|5}} 
+
+She and Magnus eventually met up with S.H.I.E.L.D. agent Jerry Hunt (who started a romantic relationship with her), and the trio settled down in Los Angeles. During her first few months in L.A., Jessica ran afoul of the immortal sorceress [[Morgan Le Fay (Earth-616)|Morgan Le Fay]] in her Spider-Woman guise and foiled her plans to acquire the [[Darkhold]]. With Hunt's help, she identified her father's murderer who died immediately after confessing.{{r|Spider-Woman Vol 1 5|7}}
+
+[[File:Spider-Woman Origin Vol 1 4 Textless.jpg|thumb|right|195px|Jessica Drew as an agent of S.H.I.E.L.D.]]
+Eventually, she parted ways with both Jerry and Magnus,{{r|Spider-Woman #16}} and struggled for a long time to find a sense of belonging and purpose in the world. Jessica met her first female friend, actress [[Lindsay McCabe (Earth-616)|Lindsay McCabe]], at a pop psychologist's therapy group.{{r|Spider-Woman #14}} The two became fast friends over their defiant departure from the group.{{r|Spider-Woman Vol 1 19}}
+
+While she looked for a steady job, Jessica began working as a bounty hunter as Spider-Woman. She worked alongside attorney [[Scotty McDowell (Earth-616)|Scotty McDowell]] until they parted ways over their different goals and methods.{{r|Spider-Woman Vol 1 21|35}}
+
+Jessica accepted Lindsay's offer to be her roommate in [[San Francisco]], and the two women started over in the City by the Bay. A period of personal success began in this time, beginning with Jessica's establishment as a private investigator. She quickly built a successful business and also fell in love with her landlord, [[David Ishima (Earth-616)|David Ishima]]. Spider-Woman gained a reputation as the "Dark Angel of San Francisco", established ties with [[San Francisco Police Department (Earth-616)|SFPD]] via [[Sabrina Morrel (Earth-616)|Lieutenant Sabrina "Bree" Morrel]],{{Citation}} and began her long-lasting friendship with [[Carol Danvers (Earth-616)|Carol Danvers]].{{r|Avengers Annual Vol 1 10}}
+
+However, Jessica's pattern of bad luck struck again when Ishima broke up with her after discovering the truth about her super-heroics. Not long afterward, Magnus recruited Jessica to travel back in time for a final strike against Morgan Le Fey. Jessica succeeded in destroying her archenemy, but not before Morgan cast a spell that separated her time-traveling soul from her body. Jessica falsely believed that she had died and asked Magnus to cast a spell which made everyone who ever met her forget about her.{{r|Spider-Woman Vol 1 50}}
+
+Lucky for Jessica, the spell was broken when her friends [[Greer Grant (Earth-616)|Tigra]] and the [[Maximillian Coleridge (Earth-616)|Shroud]] discovered her body. The two performed CPR and revived her, although Jessica remained comatose. Tigra called her associates in the [[Avengers (Earth-616)|Avengers]], who in turn called [[Stephen Strange (Earth-616)|Dr. Strange]]. These heroes worked together to save Jessica from Morgan's act of vengeance. However, the process of Dr. Strange's spells and Jessica's physical ordeal temporarily left her powerless.{{r|Avengers Vol 1 240|241}}
+
+===Powerless===
+Abandoning her costumed identity, Jessica still worked with Lindsay at their private investigator's agency. She even helped the [[X-Men (Earth-616)|X-Men]] by providing them a temporary home after an encounter with the [[Beyonder (Earth-616)|Beyonder]].{{r|Uncanny X-Men Vol 1 206}}
+
+Eventually, the two women traveled to [[Madripoor]] on a case that brought them into contact with [[James Howlett (Earth-616)|Wolverine]] when he was using the alias of Patch.{{r|Wolverine Vol 2 2|29}}
+
+Remaining in the island nation for about two years, Jessica eventually returned to the States. She had an encounter with [[Jillian Woods (Earth-616)|Jillian Woods]] and the current Spider-Woman ([[Julia Carpenter (Earth-616)|Julia Carpenter]]) that seemingly restored her full powers.{{r|Sensational Spider-Man Annual Vol 1 1996}}
+
+However, an encounter with the criminal [[Charlotte Witter (Earth-616)|Charlotte Witter]] led to Witter stealing Jessica's powers to become the new Spider-Woman, Jessica helped renowned psychic [[Cassandra Webb (Earth-616)|Madame Web]] mentor a teenage heir to the Spider-Woman title named [[Martha Franklin (Earth-616)|Mattie Franklin]], who had defeated Witter to claim the mantle herself.{{r|Spider-Woman Vol 3 1}}
+
+Over time, Jessica slowly regained her powers, although they were unstable, during this time she teamed up with [[Heroes for Hire (Oracle Inc.) (Earth-616)|Heroes for Hire]] and [[James Howlett (Earth-616)|Wolverine]] in [[Madripoor]].{{r|Heroes for Hire Vol 1 18|19}} Having returned to America a case in [[New York City|New York]] involving a missing Mattie led Jessica to cross paths with another detective named [[Jessica Jones (Earth-616)|Jessica Jones]]. After a brief misunderstanding wherein Drew repeatedly zapped Jones and Jones put her through a kitchen table, the two former super-heroines teamed up to save Mattie from [[Denny Haynes (Earth-616)|Denny Haynes]], a drug dealer who was using her to manufacture a super-drug derived from "Mutant Growth Hormone" (as well as from a misguided [[Robert Baldwin (Earth-616)|Speedball]], who was attempting a sting operation against Haynes and who panicked when Drew and Jones barged in, releasing a barrage of kinetic energy that temporarily incapacitated Jones). Ultimately, Franklin was rescued, and with Drew's help, got cleaned up.{{r|{{cl|Alias Vol 1 19}}-[[Alias Vol 1 21|21]]}}
+
+===New Avengers===
+Later, Jessica sought a permanent solution to her fluctuating powers and thus accepted a deal with Hydra. In exchange, Jessica joined S.H.I.E.L.D. to spy on the counter-terrorist organization for Hydra. However, Nick Fury discovered this and thus used her to spread false intelligence. What neither Jessica or Fury knew, was that an enormous alien [[Deviant Skrulls|Skrull]] [[Dard'van Sect (Earth-616)|cell]] was in charge of the process to revive and stabilize her powers. After reviving her powers, [[Veranke (Earth-616)|Queen Veranke]] used her DNA to enable her to perfectly impersonate Jessica while she and her vast Skrull army were setting up the final stages of their pre-planned invasion of Earth.{{r|New Avengers Vol 1 42}}
+
+After an undefined, extended period of time (potentially two years at the most), Jessica, along with numerous other individuals, were rescued by [[Anthony Stark (Earth-616)|Iron Man]] after being held captive in a Skrull spaceship which was orbiting the Earth with the rest of the Skrull fleet.{{r|Secret Invasion Vol 1 8}}
+
+[[File:New Avengers Vol 1 15 Textless.jpg|left|thumb|Spider-Woman (Veranke) in [[New Avengers]]]]
+Her return to Earth, however, was not as well-received as most of the other freed captives. A number of superhuman heroes and criminals were easily reminded of the Skrull queen Veranke, who had orchestrated the entire invasion against Earth. Their negative aspects on Jessica were immediately clear and threatening to her. Wolverine soon recruited her into the latest incarnation of [[New Avengers (Earth-616)|New Avengers]]. A few of her new teammates were suspicious of Jessica at first ([[Clinton Barton (Earth-616)|Ronin]] and [[Luke Cage (Earth-616)|Luke Cage]] in particular). She immediately began working to prove her worth to the group assisting Luke Cage and Jessica Jones in search for their newborn daughter [[Danielle Cage (Earth-616)|Danielle]].{{r|New Avengers Vol 1 48}} When [[Norman Osborn (Earth-616)|Norman Osborn]] constructed his own "[[Dark Avengers (Earth-616)|Avengers]]", the New Avengers arranged to trap, weaken, and duel Osborn and his "Dark" Avengers in order to expose the identities of his members. Jessica was to deceive Osborn and his government-sponsored Avengers to a remote location in New York to ambush. Norman, however, deduced her deception after his "broken" deal with her fellow Avenger Cage and instead sent the [[Parker Robbins (Earth-616)|Hood]] and [[Hood's Gang (Earth-616)|his gang]] which engaged Jessica and the New Avengers. Escaping from the fight, the New Avengers regrouped back at [[James Buchanan Barnes (Earth-616)|Captain America]]'s safe-house angered and confused with Jessica feeling responsible for the setup and failing to deceive Norman Osborn.{{r|New Avengers Vol 1 50}}
+
+===S.W.O.R.D. Agent and an Avenger===
+Feeling like the most screwed over person on Earth due to Veranke's actions, Jessica was approached with an offer to join [[Sentient World Observation and Response Department (Earth-616)|S.W.O.R.D.]] by [[Abigail Brand (Earth-616)|Abigail Brand]], which she accepted.{{r|Spider-Woman Vol 4 1}}
+
+[[File:Spider-Woman Motion Comic Episode 1 1.jpg|195px|right|thumb|Jess is distraught after the Skrulls uprooted her life]]
+Her first mission took her to Madripoor where she took on a Skrull posing as Spider-Man. After run-ins with Hydra, another Skrull, and the new [[Thunderbolts (Earth-616)|Thunderbolts]], Jessica eventually found a wayward Skrull and she took it down with the help of her teammates in the New Avengers. After the mission was over, Brand offered her different, new opportunities for jobs to do with S.W.O.R.D.{{r|{{cl|Spider-Woman Vol 4 1}}-[[Spider-Woman Vol 4 4|4]]}}{{r|Spider-Woman Vol 4 5}}
+
+[[File:Jessica Drew (Earth-616) and Clinton Barton (Earth-616) from Avengers Vol 4 24.1 001.jpg|left|thumb|Hawkeye and Spider-Woman]]
+Following the events of the [[Siege (Event)|Siege]] on [[Asgard]], the fall of Norman Osborn and the dissolution of H.A.M.M.E.R., [[Steven Rogers (Earth-616)|Steve Rogers]] took Norman's place as America's "top cop" and began coordinating superheroes more efficiently. Given her skill sets and abilities, and her role in the Skrull Invasion, Jessica was invited to join the Avengers and became an active member. During the first day of this new Avengers team, they came under attack by two foes: the first was a rogue [[Simon Williams (Earth-616)|Wonder Man]], who was convinced that the Avengers were detrimental to the world, and the second was longtime Avengers foe [[Nathaniel Richards (Earth-6311)|Kang the Conqueror]]. After the situation with Kang was resolved, the Avengers fought against [[Parker Robbins (Earth-616)|The Hood]], who was attempting to retrieve the [[Infinity Stones|Infinity Gems]].{{r|{{cl|Avengers Vol 4 1}}-[[Avengers Vol 4 12|12]]}}
+
+[[File:Avengers Assemble Vol 2 9 Textless.jpg|thumb|right|200px]]
+During the [[Cul Borson (Earth-616)|Serpent]]'s [[Fear Itself|invasion]] of [[Earth|Midgard]], Jessica realized she had feelings for her fellow Avenger Hawkeye, with whom she started a relationship. This blossoming romance came under some stress when a returned Norman Osborn and a resurgent [[H.A.M.M.E.R. (Earth-616)|H.A.M.M.E.R.]] attacked the Avengers in retaliation to his defeat, with H.A.M.M.E.R. now included with Hydra influence. Jessica attempted to fool some agents by claiming to still be part of the organization, but she failed and had to resort to direct combat.{{r|{{cl|Avengers Vol 4 15}}-[[Avengers Vol 4 24|24]]}}
+
+When the coming of the [[Phoenix Force (Earth-616)|Phoenix Force]] led the Avengers into conflict with the X-Men of [[Utopia]] over what course of action was needed, Spider-Woman sided with the Avengers and was there to invade the island.{{r|Avengers vs. X-Men Vol 1 1}}
+
+After some time and many missions together, she broke up with Barton after he had a one-night stand with a woman he only just met, not trusting him anymore and not wanting such a relationship.{{r|Hawkeye Vol 4 9}}
+
+===Spider-Verse===
+Due to the severity of the event at hand, Jessica was one of the Spider-Heroes from Earth-616 recruited into the [[Spider-Army (Multiverse)|Spider-Army]] after defeating [[Norton Fester (Earth-616)|Looter]] and the [[Spiderlings (Earth-616)|Spiderlings]], along with [[Anya Corazon (Earth-616)|Spider-Girl]], [[Peter Parker (Earth-616)|Spider-Man]], [[Cindy Moon (Earth-616)|Silk]], and [[Kaine Parker (Earth-616)|Scarlet Spider]].{{r|Amazing Spider-Man Vol 3 9}}
+
+[[File:Earth-19231 from Spider-Woman Vol 5 1 001.jpg|thumb|left|200px|Spider-Woman leads a newly freed Silk on a mission]]
+
+When the resistance was visiting [[Earth-928]], 2099 A.D., and encountered [[Otto Octavius (Earth-616)|Spider-Man (Otto Octavius)]] with his own army already established in the war, they attracted the attention of the [[Inheritors (Earth-001)|Inheritors]] as their proximity to each other made them easier to find.{{r|Amazing Spider-Man Vol 3 10}}
+
+Spider-Woman followed Silk with [[Peter Parker (Earth-90214)|Spider-Man Noir]] to an unknown reality where they were being tracked by [[Brix (Earth-001)|Brix]] and [[Bora (Earth-001)|Bora]]. Spider-Man Noir was wounded in the fight and the trio escaped to [[Earth-90214]] to allow him to recover from his injuries. After this, she was sent by Spider-Man to [[Earth-001]] to gather more information on the Inheritors and to get said information required she reach their homeworld.{{r|Spider-Woman Vol 5 1}}
+
+After encountering and replacing her [[Jessica Drew (Earth-001)|doppelgänger]] from Loomworld, who was [[Morlun (Earth-001)|Morlun's]] lover, she was able to gather intelligence in regards to the [[Karn (Earth-001)|Master Weaver]] and his role in the conflict, which helped the Spider Army ultimately win the battle against the Inheritors. After the battle with the Inheritors, Jessica decided to quit the Avengers in order to start a new life and to focus on helping ordinary civilians.{{r|Spider-Woman Vol 5 4}}
+
+===Private Detective===
+One such case involved D-List henchman for hire [[Roger Gocking (Earth-616)|Roger Gocking]], the Porcupine, as the spouses and lovers of several criminals were been kidnapped for ransom. Jess followed the clues to a small Upstate village, Moon's Hollow, where Jess easily blended in to discover that the "kidnappings" were all cons on the criminals by their spouses and families. Jessica discovered Roger's ex-wife Olivia and daughter Kalie doing well, but the community founder used a powered exo-suit to attack her. As Jessica fought, she learned that [[Cat (Moon's Hollow) (Earth-616)|Cat]] began the community because, like many in town, she was the abused spouse of a henchman. Realizing this, Jess promised not to say anything about the town if they all ceased blackmailing their villainous exes.{{r|{{cl|Spider-Woman Vol 5 5}}-[[Spider-Woman Vol 5 8|8]]}}
+
+[[File:Jessica Drew (Earth-616) from Spider-Woman Vol 5 5 001.jpg|right|thumb|Spider-Woman, P.I]]
+
+Afterwards, Jess was worried Ben Urich would destroy the community by publishing his story, but he had already purposely missed the deadline, considering it might had undone the chance of a new life for so many people. On Ben's advice, Jess took in Roger as a protégé of sorts, given how helpful he had been and his honest desire to be better for his daughter. Jess was furious at Roger's risk to himself and others during the cases she brought him to, but came around when he figured out how to stop the Sheriff of Dodge, Kansas. Celebrating with Ben and Roger, she had to leave them without notice as Black Widow came to ask her to fight with the Avengers against an impending Incursion.{{r|Spider-Woman Vol 5 8|10}}
+
+===[[Secret Wars (2015 Event)|Secret Wars]]===
+Knowing the universe would end soon, [[Reed Richards (Earth-616)|Mister Fantastic]] and [[Susan Storm (Earth-616)|Invisible Woman]] chose Jessica and [[Natalia Romanova (Earth-616)|Black Widow]] to copilot a ship that would contain a handpicked few to restart humanity and escape the destruction of the universe. Their ship was shot down when the [[Children of Tomorrow (Earth-1610)|Children of Tomorrow]] invaded, and she and the ship's passengers were killed in the ensuing explosion,{{r|Secret Wars Vol 1 1}} though this timeline and the resulting deaths were later undone.{{r|Secret Wars Vol 1 9}}
+
+===Pregnancy & Motherhood===
+Over the following year, Jessica got pregnant via artificial insemination,{{r|Spider-Woman Vol 6 5}} but continued her crime-fighting life, enlisting Ben Urich and the [[Roger Gocking (Earth-616)|Porcupine]] to help with her investigations while she was on the sidelines.{{r|Spider-Woman Vol 6 1}}
+
+[[File:Spider-Woman Vol 6 1 Oum Variant Textless.jpg|left|thumb|Pregnant with her son, Gerry]]
+She was invited by [[Carol Danvers (Earth-616)|Captain Marvel]] to visit a maternity ward run by [[Alpha Flight (Space Program) (Earth-616)|Alpha Flight]], but the hospital was taken over by Skrulls. Jessica hatched a plan with the other mothers in the maternity ward and together they defeated the Skrulls. However, when she called Carol for assistance, Carol revealed that the maternity ward was in fact inside a black hole.{{r|{{cl|Spider-Woman Vol 6 1}}-[[Spider-Woman Vol 6 2|2]]}}
+
+The fight with the Skrulls continued, Jessica winning by a large margin. Before she could finish them off, however, she unexpectedly went into labor. She had an emergency C-Section, and just seconds after the procedure was completed and she was handed her new baby boy, she got up from the operating table and defeated the last wave of Skrulls. Carol arrived just in time for Jessica to collapse from the immense postoperative pain she was experiencing.{{r|{{cl|Spider-Woman Vol 6 3}}-[[Spider-Woman Vol 6 4|4]]}}
+
+Jessica returned to her apartment to care for her newborn baby. She tried to go out with Carol, Clint, [[Patricia Walker (Earth-616)|Patsy]], and [[Jennifer Walters (Earth-616)|Jennifer]], her friends, on multiple occasions, but all she could think about was her baby at home with the babysitter (Roger, who was in reality more than equipped to handle the child). She complained to Carol that she couldn't think about returning to superheroics now that another life depended on her. In the end, she concluded that the best thing she could do for her baby would be to show him how to be a hero.{{r|Spider-Woman Vol 6 5}}
+
+===[[Civil War II]]===
+Later, Carol began a crime prevention endeavor with the Inhumans and their new predictor, [[Ulysses Cain (Earth-616)|Ulysses Cain]], however Jess wanted nothing to do with it, while focusing on working cases to support her son. To sell the pitch, Carol met with her and Jess reluctantly agreed to join. Once a part of it, Jess closed numerous predictions given to her by Carol. At the end of a long day, Jess took Ben Urich to a nearby bar, and she saw the news of Hawkeye's slaying of Bruce Banner, sending Jess into a rage. After investigating Bruce's last day, Jess proceeded to infiltrate Alpha Flight, looking for a fight with Carol, which ultimately resolving put a strain on their friendship.{{r|Spider-Woman Vol 6 9|11}}
+
+===Hunting Hobgoblin===
+While visiting [[Moon's Hollow]] to check in on the residents, [[Rebecca Clyde (Earth-616)|Becs]] gave Jess a tour, happy to see everyone doing better; however, [[Olivia Gocking (Earth-616)|Olivia]] was visibly unwelcoming to Jess. Returning the her apartment in the evening, Jess read Gerry a bedtime story before Ben came over to inform her of Roger's demise by Hobgoblin.{{r|Spider-Woman Vol 6 13}}
+
+[[File:Spider-Woman Vol 6 13 Francavilla Variant Textless.jpg|right|thumb|Spider-Woman battles with Hobgoblin]]
+While Carol offered to babysit Gerry, Jess went to Olivia for leads, but learned she hated Jess for keeping Roger from raising Kalie, being her babysitter, and just using him oblivious to his affection for her. Afterwards, Ben informed her of Roger's feelings and why Olivia felt how she did. Needing a focus, Ben informs her Roger ran afoul of [[Roderick Kingsley (Earth-616)|Hobgoblin]], with Carol informing her of another man in the Porcupine suit robbing a bank in Queens. Confronting them, Jess learned Hobgoblin killed Roger to sell the "Porcupine" name rights, and she was later ambushed by Hobgoblin's men. Helped by a good Samaritan, soon revealed to be Roger, who survived as he wore the indestructible maternity clothes Carol gave her. Happy to see him alive, Jess kissed him before Hobgoblin arrived and took him by a cable snare around his legs.{{r|Spider-Woman Vol 6 14|15}}
+
+Despite broken and dislocated bones, Jess pursued Hobgoblin to a junkyard, where she bested his henchmen and attained one of their gliders. In the air, Jess goaded Hobgoblin into a game of aerial chicken, with both gliders on a collision course. At the last second, Roger helped Jess by climbing up his snare and unbalanced Hobgoblin's footing to drop his guard for Jess to attack. While both were happy to be together, Hobgoblin still had men and was ready to still continue, but Captain Marvel arrived.{{r|Spider-Woman Vol 6 16}}
+
+Exhausted beyond reason, Jess and Roger were thankful at her intervention, and while Carol went on a rant about wanting to save Jess, the pair were too busy kissing again. Not letting go of her kiss with Roger, Jess gestured to Carol that they could be friends again, and the two superheroes reconciled.{{r|Spider-Woman Vol 6 16}}
+
+Once healed, Jess threw a party to tell her friends she was dating Roger, reassuring him that the others would accept him. When Roger went to calm Gerry, Jess got into an argument with Natasha over her life choices. After Gerry went out the window and began climbing the building, several superheroes present tried to catch the baby; despite nobody being able to catch him, Jess was relieved when Roger rushed to rescue Gerry from a fall. Later, Jess thanked Carol for the new crib while Roger and Ben helped clean up her apartment; they stayed there while everyone else enjoyed the party.{{r|Spider-Woman Vol 6 17}}
+
+===[[Secret Empire (Event)|Secret Empire]] and [[Spider-Geddon]]===
+Following Hydra's enclosure of New York in darkness, Jessica worked with Doctor Strange and Wilson Fisk to reclaim the seized Sanctum Sanctorum from Baron Mordo. Despite a series of setbacks, Strange was able to calculate a win with Daredevil, Ben Urich, and Jessica to reclaim the Sanctum.{{r|{{cl|Doctor Strange Vol 4 21}}-[[Doctor Strange Vol 4 24|24]]}}
+
+[[File:Spider-Force Vol 1 1 Textless.jpg|thumb|left|170px]]
+Kaine approached Jessica at her [[Manhattan#Midtown Manhattan|Midtown]] residence, asking for her help to combat the return of the Inheritors who escaped their irradiated world prison. While she didn't want to fight them again, she joined knowing that they might come for Gerry given his being a Spider totem.
+
+She acted as the team leader to find a way to end the Inheritors by preventing [[Solus (Earth-001)|Solus]]' resurrection. With [[Peter Parker (Earth-218)|Spider-Kid]] as bait for [[Verna (Earth-001)|Verna]], as younger totems were especially tasty to her family, the team managed to get her killed with radiation overdose.
+
+However, upon claiming Solus' crystal, Jess fell for Verna's trap and was teleported to the [[Earth-616|Prime Universe]], so that the other Inheritors could revive Solus.{{r|Spider-Force Vol 1 1|3}}
+
+Jess was initially captured, but the Spider-Totems eventually defeated the Inheritors again and she was present in the end, when Otto put to motion his plan of rehabilitating the Inheritors, by killing them first to have them resurrected in the restoration chambers as innocent infants without their desire for totemic consumption.{{r|{{cl|Spider-Geddon Vol 1 4}}-[[Spider-Geddon Vol 1 5|5]]}}
+
+===Strikeforce===
+After the [[Vridai]] released some deadly viruses in the [[U.S. Army Medical Research Institute of Infectious Diseases Research Compound|USAMRIID Research Compound]], they brought [[Monica Rambeau (Earth-616)|Spectrum]], [[James Buchanan Barnes (Earth-616)|Winter Soldier]], [[Aldrif Odinsdottir (Earth-616)|Angela]], [[William Kaplan (Earth-616)|Wiccan]], and Spider-Woman (back on her classic costume) to the facility so they would be blamed once the Avengers arrived. [[Eric Brooks (Earth-616)|Blade]], who had come across the Vridai in the past, knew they were innocent and decided to help them defeat the actual criminals. Arriving at the [[Temple of the Three]], they fought their way through the Vridai before coming across their leaders, [[Ophidian (Earth-616)|Count Ophidian]] and [[Birgit (Earth-616)|Legie Knight Birgit]].{{r|Strikeforce Vol 1 1}}
+
+[[File:Strikeforce Vol 1 9 Textless.jpg|thumb|right|200px]]
+After tracking the Vridai across the world, they discovered the Count Ophidian they had encountered wasn't, in fact, the real one, as he had been held prisoner by Birgit all this time.{{r|Strikeforce Vol 1 3}} Scared of his "new captors", Count Ophidian revealed that the Vridai had lost their home after the [[War of the Realms]] and they had nowhere to go, so the team agreed to help "another wandering soul".{{r|Strikeforce Vol 1 6}}
+
+Their next stop was [[Staten Island|Monster Island]], where they established a temporary base with [[Wade Wilson (Earth-616)|Deadpool]]'s consent. During this time with [[Strikeforce (Earth-616)|Strikeforce]], Jessica was low on funds and needing to provide for Gerry, who she couldn't even see very often due to the weird circumstances of the Vridai mission. After getting an email for a bodyguard job from pharmaceutical billionaire [[Michael Marchand (Earth-616)|Michael Marchand]], Jessica accepted the job, commissioning [[Ronnie (Earth-616)|Ronnie]] for a new ''"work for hire"'' suit as opposed to her ''"superhero"'' classic suit.{{r|Strikeforce Vol 1 7}}{{r|Spider-Woman Vol 7 1}}
+
+Back on Monster Island, Spider-Woman, Blade and Winter Soldier found themselves having to fight each other in a bar fight, and after Jess won, she was offered a job offer by [[Don Buggini (Earth-616)|Don Buggini]] to go pro. She didn't put much thought into it, but kept Don Buggini's business card.{{r|Strikeforce Vol 1 7}}
+
+When leaving the bar, they were ambushed by Birgit, leading Count Ophidian to be kidnapped again. They followed Birgit to [[Svartalfheim]] and managed to return safely to Monster Island alongside Ophidian, but it still wasn't safe for him. Thinking back to her job offer, Jessica called for a ring fight where the team had to confront countless monsters and even each other. After a long battle, Spider-Woman was the apparent winner, only to be revealed that, in the last match, she had been replaced by Ophidian, who was then declared the winner and offered a job and residence in the Island.{{r|Strikeforce Vol 1 7|9}}
+
+After having a celebratory dinner, the team briefed the Avengers on everything that happened the past few weeks and parted ways.{{r|Strikeforce Vol 1 9}}
+
+===[[Empyre (Event)|Empyre]]===
+With the Cotati invasion underway as the Avengers and Fantastic Four are occupied saving the solar system, Carol approached Jess on an urgent matter that she wanted to resolve without bloodshed: her newly discovered half-sister, [[Lauri-Ell (Earth-616)|Lauri-Ell]], had been accused of a major crime and it was Carol's new task as Accuser for the Kree/Skrull United Empyre to carry out the judgment.{{r|Captain Marvel Vol 10 19}}
+
+[[File:Jessica Drew (Earth-616) from Captain Marvel Vol 10 19 001.jpg|left|160px|thumb|Spider-Woman turned into a Kree Accuser]]
+As Lauri's character was contrary to the accusation given, Carol needed Jessica's help to exonerate her, given her background with investigating and intelligence gathering to find the truth. By way of enchantments from Doctor Strange, Jess was granted a projection of Carol's Universal Weapon along with some of Carol's most trusted friends, giving their costumes a Kree Green tone editing. However, due to this transferral of portioned power, Carol was not as powerful as before, with Jess giving assurance to her friend that she wouldn't be let down.{{r|Captain Marvel Vol 10 19}}
+
+Given recent interactions, Carol had grown suspicious of [[Walter Lawson (Earth-616)|Wastrel]], and, after talking with [[Theodore Altman (Earth-616)|Hulkling]], she soon got confirmation of his escape from Kree custody, leading her, [[James Rhodes (Earth-616)|War Machine]], [[Jennifer Takeda (Earth-616)|Hazmat]], and Spider-Woman to arrest him as the real culprit behind the crime.{{r|Captain Marvel Vol 10 20}}
+
+Unfortunately, on returning to Earth, they were distracted by a Cotati attack from a garden house. Mid-battle, the spell wore off, leaving Jess Jess and the others without their additional powers. At this moment, Lauri-Ell took the Universal Weapon and changed the course of the battle, resulting in their victory. After the fight, Jess bid Carol a farewell as she mandated a movie watch party at her apartment with the others.{{r|Captain Marvel Vol 10 21}}
+
+===Order of the Web===
+[[File:Order of the Web (Earth-616) from Amazing Spider-Man The Sins of Norman Osborn Vol 1 1 001.jpg|right|thumb|Jess joins the Order of the Web]]
+After [[Julia Carpenter (Earth-616)|Madam Web]]'s warning about an unknown force bringing Spider-Man into conflict with [[Stanley Carter (Earth-616)|Sin-Eater]], Jess became a founding member of the [[Order of the Web (Earth-616)|Order of the Web]], racing to save Spider-Man from Norman. After the temporary abatement of Sin-Eater, Jess witnessed Peter throwing Norman for Sin-Eater to take while they escaped. Like the other Spiders, Jess was possessed by a demon swarm sent by Kindred to torture Spider-Man, whose sacrifice of Norman was a deal sealed with Kindred. Not in command of her faculties, Kindred had Jess and the others torture Peter before going on to attack New York where the spiders attacked the bridge Mary Jane and hundreds of people were endangered. Her and the others nearly killing innocents compelled Peter to sacrifice his life in exchange for Kindred freeing them.{{r|Amazing Spider-Man Vol 5 44}}{{r|Amazing Spider-Man Vol 5 48|52}}{{r|Amazing Spider-Man: The Sins of Norman Osborn Vol 1 1}}{{r|{{cl|Amazing Spider-Man Vol 5 50.LR}}-[[Amazing Spider-Man Vol 5 51.LR|51.LR]]}}
+
+[[File:Order of the Web (Earth-616) from Amazing Spider-Man Vol 5 51.LR 001.jpg|left|thumb]]
+With her demonic possession ended, Jess awoke with no memory of events and as the bridge gave way, trapped civilians ran away from the Order members in fright. Thankfully, the situation was saved by Doctor Strange's intervention, while Felicia brought Jess and the others to the Sanctum. After Strange used the Hand of the Vishanti to motion the Order of the Web into Peter's Astral plane, they found it in ruin and beset by demons left by Kindred's traumatizing Peter. While Strange held back the demons, Jess and the Order arrived at Kindred's cemetery where they were met by Sin-Eater empowered by Morlun's powers which Jess recognized on his utilization of the power. Once Julia allowed Sin-Eater to kill her to take her power, his vision with clairvoyance broke him and killed himself, but Jess and the others were too slow to react to Kindred's capturing them before they could savor their victory. At Kindred's dinner party for Peter and Mary Jane, Jess and the others were held hostage to attend and nearly killed in one of Kindred's tantrums. Saved Norman Osborn's timely distraction of Kindred, Jess helped Mary Jane evacuate her allies as Kindred was finally captured. Afterwards, Jess and the order agreed that they needed to continue patrolling given the effect on criminals with Sin-Eater's death and Kindred's likely long-term schemes.{{r|Amazing Spider-Man Vol 5 52|55}}{{r|{{cl|Amazing Spider-Man Vol 5 52.LR}}-[[Amazing Spider-Man Vol 5 54.LR|54.LR]]}}
+
+===Family Secrets===
+Working for Michael Marchand protecting his daughter, [[Rebecca Marchand (Earth-616)|Rebecca]], Jess felt unwell to the point of getting [[Linda Carter (Earth-616)|Carter's]] help, learning her radiation immunity and her powers were now killing her.<!--{{r|{{cl|Spider-Woman Vol 7 1}}-[[Spider-Woman Vol 7 2|2]]}}-->
+
+[[File:Spider-Woman Vol 7 1 New Costume Cover Textless.jpg|right|thumb|Spider-Woman dons a new suit for a new adventure]]
+Michael confessed responsibility, using her father's research to test a cure for Rebecca's cancer, but failed. Now also needing a cure, a reluctant Jess agreed to help Michael. Unsure her condition was transmittable to Gerry, she had Roger take him to an upstate farm for safety. Robbing a warehouse belonging to [[Octavia Vermis (Earth-616)|Octavia Vermis]], Jess greatly injured herself to save the last ''Latrodectus Aeternum'' spider needed for her cure.{{r|{{cl|Spider-Woman Vol 7 1}}-[[Spider-Woman Vol 7 2|2]]}}
+
+After Michael's building was attacked, evacuating him and Rebecca to a private jet that later crash-landed on Wundagore Mountain, Jess reunited with her mother [[Miriam Drew (Clone) (Earth-616)|Miriam]] alive; confirming Michael was her brother and Rebecca her niece. Enraged her family covertly experimented on her, their talk was cut short by Octavia's [[Life-Model Decoy|LMD]] army breaching the defenses. Miriam pushed Jess into the line of fire, but Michael thankfully saved her. Miriam aimed to kill Jess in a mad fit, revealing herself a clone, blaming Jessica for Rebecca's condition. As both brawled into berserker rages, they stopped when Octavia tried to abduct Rebecca. Miriam sacrificed herself to kill Octavia as Jess, Michael and Rebecca evacuated. As Jess and Michael agreed on finding a cure, Jess went her own path searching for [[Herbert Wyndham (Earth-616)|Wyndham]] and asking Carol for help.{{r|{{cl|Spider-Woman Vol 7 3}}-[[Spider-Woman Vol 7 5|5]]}}
+
+===Desperate for a Cure===
+Using temporary serums by Michael, Jess hunted Wyndham with Carol's aid, targeting some of his old bases and contacts. Despite the deleterious effects on her health, Jess continually refused Carol's offers for developing better serums. A lead from [[Sphinxor (Earth-616)|Sphinxor]] led them to the New Men on Counter-Earth, learning Wyndham did return to their reality but had gone into hiding. Angry and frustrated, Jess left Carol after returning to Earth, but soon found the planet under another [[King in Black (Event)|major event]].{{r|Spider-Woman Vol 7 6}}
+
+[[File:Spider-Woman Vol 7 7 Textless.jpg|left|thumb|Spider-Woman fights a Dragon of Knull]]
+With the symbiote dragons vulnerable to her Venom Blasts, Jess felled one while supercharged by the serum, but became incoherently hostile towards her friends soon after. Incapacitated by Carol and [[Daniel Rand (Earth-616)|Danny]] to be held in a Hulk Tank under Linda's clinic until the invasion ended, Jess was later surprised by the still-living Octavia Vermis. Using a dose of the serum to bribe Jess, with a promise of a cure, Octavia had Jess stealing tech from a Hydra warehouse, mutagen from [[Vincent Stegron (Earth-616)|Stegron]], then battling Rhodey for data from an Avengers Safe House server. Jess was then taken by Octavia to Wyndham's secret volcano lair, with an army of Miriam Drew clones as servants.{{r|{{cl|Spider-Woman Vol 7 7}}-[[Spider-Woman Vol 7 8|8]]}}
+
+After Wyndham explained his history with Miriam and the clone madness, he readied a laser array to cure her condition. But Octavia revealed her true motives, copied his access codes, and sent the clones into raging attacks while trying to convince Jess to kill Wyndham. The Miriam clones attacked Jess, unwittingly punched her into the array, and restoring her health. A cured Jess witnessed Octavia kill her daughter Ophelia for being "her weakness" and the two fought, with a motivated Jess overpowering Octavia, who Wyndham used the array to mutate her into a dinosaur slave. Jess thanked Whyndham before taking the technology to Michael and apologizing to her friends for her behavior while sick.{{r|Spider-Woman Vol 7 9}}{{r|Spider-Woman Vol 7 10}}
+
+===Back In Action===
+With Michael giving a generous payment for Rebecca's curing technology, Jess had Big Ronnie make her a new iconic suit based off her classic one.<!--{{r|{{cl|Spider-Woman Vol 7 11}}-[[Spider-Woman Vol 7 12|12]]}}-->
+
+[[File:Spider-Woman Vol 7 11 Textless.jpg|right|right|thumb|Spider-Woman: refreshed and back in action!]]
+She later used this new suit against criminal brothers, [[Espadas Gemelas de Toledo (Earth-616)|Los Espadas Gemelas De Toledo]], but was only able to arrest Luis before Jess returned home in excitement at being her best again. When visiting Luis in jail, Ray broke in to free him and kill Jess. After Luis had to cut Ray's hand off as wielding both swords drove him momentarily mad, Jess then subdued the brothers for the prison staff to incarcerate. But upon returning home, a crestfallen Roger ended their relationship feeling he was less than a partner to her. Roger left with his things as Jess could only cry not stopping him.{{r|{{cl|Spider-Woman Vol 7 11}}-[[Spider-Woman Vol 7 12|12]]}}
+
+| Powers                  = 
+'''Spider Physiology:''' Spider-Woman possesses several superhuman powers derived from the genetic experiment that granted her spider-like abilities, ultimately stemming from her status as [[Spider-Totems|a totemic avatar]].{{r|Amazing Spider-Man Vol 3 9}} [[Nicholas Fury (Earth-616)|Nick Fury]]'s intel classified her as Power Level 8.{{r|Secret War From the Files of Nick Fury Vol 1 1}}
+
+*'''Wall-Crawling:''' Spider-Woman's limbs can adhere to surfaces via electrostatic attraction. Spider-Woman can hold and carry a considerable amount of extra weight while sticking to walls without falling off; it's safe to assume that the weight she can carry is dozens of times her own, and the limits of how long she can do this before fatigue sets in are still unknown.{{citation}}
+
+*'''[[Superhuman Strength]]:''' Spider-Woman's muscular density and strength have been extraordinarily enhanced and enable her to lift about 7 tons.{{citation}}
+
+*'''[[Superhuman Speed]]:''' Spider-Woman is capable of running and moving at speeds much greater than even the finest human athlete.{{citation}}
+
+*'''[[Superhuman Stamina]]:''' Spider-Woman's musculature generates fewer fatigue toxins during physical activity than the musculature of an ordinary human. She can exert herself at peak capacity for several hours before fatigue begins to impair her.{{citation}}
+
+*'''[[Superhuman Durability]]:''' Spider-Woman's body is somewhat tougher and more resistant to injury than an ordinary human, although she is far from invulnerable. She is capable of withstanding impact forces that would severely injure or kill an ordinary human with only mild to moderate discomfort.{{citation}}
+
+*'''[[Superhuman Agility]]:''' Spider-Woman's agility, balance, and bodily coordination are enhanced to levels beyond the human body's natural limits.{{citation}}
+
+*'''[[Superhuman Reflexes]]:''' Spider-Woman's natural reaction time and reflexes are enhanced to levels beyond the human body's natural limits.{{citation}}
+
+*'''Superhuman Flexibility:''' Spider-Woman's body is extraordinarily limber and her tendons and connective tissues are twice as flexible as the average human being's, despite the augmented musculature and its enhanced strength.{{citation}}
+
+*'''Superhuman Hearing:''' Spider-Woman's hearing is superhumanly acute and enables her to detect sound at virtually any frequency, and she's been known to detect, sort out, and correctly identify sounds through thick steel doors, and across considerable distances.{{citation}}
+
+*'''Contaminant Immunity:''' Spider-Woman's metabolism rapidly creates powerful immunities to all forms of toxins, poisons, and drugs, after an initial exposure that usually makes her dizzy. Her body is totally immune to radiation.{{citation}}
+
+*'''[[Venom Blasts]]:''' Her body possesses an inordinate amount of bio-electricity that she has learned to channel and discharge through her hands, in controlled bursts of what she calls "Venom Blasts". These energy projections vary in power; they mostly affect the nervous system in humans. Spider-Woman can regulate them, from simply a stun, to potent enough to kill an average-sized man in the same way that a lightning bolt could kill him.{{r|Marvel Spotlight Vol 1 32}}
+
+*'''[[Healing Factor|Regenerative Healing Factor]]:''' She possesses a regenerative healing factor because, during a battle with [[James Howlett (Earth-616)|Wolverine]], she was stabbed by his claws in the shoulder, but made a complete recovery in a matter of minutes.{{citation}}
+
+*'''[[Immortality|Extended Longevity]]:''' Her regenerative healing factor also extend to her longer lifespans and slowed aging.{{citation}}
+
+*'''Pheromone Secretion:''' Her metabolism generates certain types of pheromones that can create fear, elicit attraction and/or repulsion on others, depending on unknown factors which might include gender and mood. This ability appears to be dormant at the moment.{{r|Spider-Gwen Vol 2 7}}
+
+*'''Self-Propelled Glide:''' Jessica has the ability to glide through the air, which most people confuse with flight, despite her constantly stating she can't fly, only glide.{{r|Doctor Strange Vol 4 21}} 
+
+| Abilities               = *'''Master Martial Artist:''' Jessica is a highly experienced fighter trained in armed and unarmed combat under the [[Anthony Masters (Earth-616)|Taskmaster]]. Her tactics integrate seven different martial arts.{{r|Spider-Woman: Origin Vol 1 2}}
+
+*'''Skilled Spy:''' She is also extensively trained in espionage, covert operations and stealth.{{citation}}
+
+*'''Skilled Acrobat:''' She is a superb athlete and an Olympic-level gymnast.{{citation}}
+
+*'''[[Multilingual]]:''' Due to her Hydra espionage training, she is fluent in several languages, including Russian, Japanese, French, Spanish, Portuguese, Korean and German.{{citation}}
+
+*'''Skilled Investigator:''' Jessica is a seasoned private detective.{{r|Spider-Gwen Vol 2 7}}
+
+| Strength                = 7 tons
+| Weaknesses              = 
+
+| Equipment               = 
+*'''Dimensional Travel Watch''': Jessica possesses a wristwatch-sized device that grants her access to alternate universes with the push of a button.{{r|Spider-Gwen Vol 2 7}}
+| Transportation          = 
+*'''Motorcycle''' Jessica's preferred mode of transportation is a classic American motorcycle.{{r|Spider-Gwen Vol 2 7}}
+| Weapons                 = {{Navigation
+| title                   = Former Weapons
+| body                    = '''[[Universal Weapon]] Projection:''' During the invasion of the [[Cotati]]'s [[Empyre (Earth-616)|Empyre]], Carol requested [[Stephen Strange (Earth-616)|Doctor Strange]] to create projections out of the pieces of her Universal Weapon and gave them to her most trusted allies, which included Spider-Woman.{{r|Captain Marvel Vol 10 19}} During another attack from the Cotati, Jessica lost her hammer after [[Lauri-Ell (Earth-616)|Lauri-Ell]] called back the pieces in order to defeat the alien plants.{{r|Captain Marvel Vol 10 20}}
+}}
+
+| Notes                   = 
+* She was a S.H.I.E.L.D. Agent Level Seven.{{r|New Avengers Vol 1 4}}{{r|New Avengers Vol 1 6}}{{r|Mighty Avengers Vol 1 7}}{{r|Avengers Vol 4 19}}
+* [[Natalia Romanova (Earth-616)|Black Widow]] believes Jessica leaving the Avengers was due to PTSD brought on by [[Spider-Verse]].{{r|Spider-Woman Vol 5 10}}
+| Trivia                  = * Spider-Woman was created in response to the animation company Filmation's proposal to create a Spider-Woman character for their ''Tarzan/Batman Adventure Hour''. Upon hearing about Filmation's plans, Marvel rushed the character into publication, forcing Filmation to rename their character as Web-Woman. Because of the rush, the creators used an origin that was originally developed for [[James Howlett (Earth-616)|Wolverine]], although this was later abandoned.<ref>Brian Cronin, [http://goodcomics.comicbookresources.com/2005/12/08/comic-book-urban-legends-revealed-28/ "Comic Book Urban Legends Revealed #28!"], ''Comics Should Be Good'', ComicBookResources.com: December 8, 2005.</ref>
+* Jessica Drew was born on December 7th, 30 years prior to publishing year.{{citation}}
+* Jessica's S.H.I.E.L.D e-mail address is jdrew@superop.shield.gov.{{r|New Avengers Most Wanted Files Vol 1 1}}
+* Jessica's New Avengers e-mail address is arachnophilia@newavengers.stark.net.{{r|New Avengers Most Wanted Files Vol 1 1}}
+* Spider-Woman is afraid of rats.{{r|Captain Marvel Vol 8 10}}
+* Jess used Instagram.{{r|Spider-Woman Vol 6 2}}
+* Jessica loves butter and once while pregnant ate 16 individually wrapped butter packs in one sitting.{{r|Spider-Gwen Vol 2 3}}{{r|Spider-Gwen Vol 2 7}}
+* Jessica is allergic to [[Flerken]].{{r|Absolute Carnage: Captain Marvel Vol 1 1}}
+| Wikipedia               = Spider-Woman (Jessica Drew)
+| Marvel                  = spider-woman-jessica-drew
+| Links                   =
+* [http://www.marveldirectory.com/individuals/s/spiderwomani.htm Marvel Directory]
+* {{cl|Official Handbook of the Marvel Universe Vol 2 4}}
+*[http://www.spiderfan.org/characters/jessica_drew.html Spider-woman's Profile at Spiderfan.org]
+}}
+[[it:Jessica Drew (Terra-616)]]
+
+[[Category:Flight]]
+[[Category:Pheromones]]
+[[Category:Wallcrawling]]
+[[Category:Electrokinesis]]
+[[Category:Hyperacusia]]
+[[Category:Superhuman Agility]]
+[[Category:Superhuman Reflexes]]
+[[Category:Toxic Immunity]]
+[[Category:Trained by Taskmaster]]
+[[Category:Multilingual]]
+[[Category:Drew Family]]
+[[Category:Human/Spider Hybrids]]
+[[Category:Gymnasts]]
+[[Category:S.H.I.E.L.D. Agents Level 7]]
+[[Category:Power Level 8]]
+[[Category:High Evolutionary Experiment]]
+[[Category:Doctor Octopus Experiment]]
+[[Category:Genetically Engineered]]
+[[Category:Spider-Verse participants]]
+[[Category:Spider-Geddon participants]]
+[[Category:Acrobats]]
+[[Category:Bounty Hunters]]
+[[Category:Interdimensional Travelers]]
+[[Category:Instagram Users]]
+[[Category:Regeneration]]
+[[Category:Totemic Avatars]]
+[[Category:Superhuman Senses]]
+[[Category:Experiments]]
+[[Category:Superhuman Strength]]
+[[Category:Superhuman Speed]]
+[[Category:Superhuman Stamina]]
+[[Category:Superhuman Durability]]
+[[Category:Advanced Longevity]]
+[[Category:Martial Arts]]
+[[Category:Fighting Ability - Master of several forms of combat]]

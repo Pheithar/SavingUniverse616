@@ -1,0 +1,49 @@
+{{Marvel Database:Character Template
+| Image                   = Madam Worm (Earth-616) from Winter Soldier The Bitter March Vol 1 1.NOW 0001.png
+| Name                    = 
+| CurrentAlias            = Madam Worm
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Grey
+| Hair                    = Red
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] [[Mutates|Mutate]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = German
+| Occupation              = Criminal
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Rick Remender; Roland Boschi
+| First                   = Winter Soldier: The Bitter March Vol 1 1.NOW
+
+| History                 = 
+
+| Powers                  = Can vomit up and control a swarm of tiny worms/maggots that devour someone from within.  Possibly can also control victims with the worms in their system telepathically.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Entomopathy]]

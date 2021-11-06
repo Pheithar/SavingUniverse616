@@ -1,0 +1,63 @@
+{{Marvel Database:Character Template
+| Image                   = Simon Trask (Earth-616) from Uncanny X-Men Vol 1 509 001.jpg
+| Name                    = Simon Trask
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{M|Humanity's Last Stand}}, {{m|Humanity Now! (Earth-616)|Humanity Now! Coalition}}, leader of the fake {{m|Mutant Liberation Front (Humanity's Last Stand) (Earth-616)|Mutant Liberation Front}}
+| Relatives               = Donald Trask Sr. (father, deceased)<br>
+[[Bolivar Trask (Earth-616)|Dr. Bolivar Trask]] (brother, deceased)<br>
+Donald Trask Jr. (brother, deceased)<br>
+[[Lawrence Trask (Earth-616)|Larry Trask]] (nephew, deceased)<br>
+[[Tanya Trask (Earth-616)|Tanya Trask (Madame Sanctity)]] (niece, displaced in time)<br>
+[[Donald Trask III (Earth-616)|Donald Trask III]] (nephew, deceased)<br>
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Blue
+| Hair                    = No Hair
+| Hair2                   = formerly [[:Category:Blond Hair|blond]][[Category:Blond Hair]][[Category:Infobox Eyes Update Needed]]
+| UnusualFeatures         = Technological wire in body, metallic Sentinel body
+
+| Origin                  = [[Homo sapiens|Human]] turned into a [[Bio-Sentinels|Bio]]-[[Sentinels|Sentinel]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Leader of Humanity Now! Coalition, politician, mass murderer
+| Education               = 
+| BaseOfOperations        = [[San Francisco]]
+
+| Creators                = Terry Kavanagh; Bryan Hitch; Bob McLeod
+| First                   = Uncanny X-Men Annual #1995
+
+| History                 = Brother of the late [[Bolivar Trask (Earth-616)|Bolivar Trask]], Simon Trask hates mutants even more than his brother, but unlike his brother, he didn't consider the Sentinels to be the right means to oppose the "mutant menace". Instead, he started a fanatic anti-mutant movement called [[Humanity's Last Stand]], and rallied baseline humans into joining the ranks of his ever growing organization. Simon Trask didn't stop there, though, he tried to stir up anti-mutant hysteria by creating a fake [[Mutant Liberation Front (Humanity's Last Stand) (Earth-616)|Mutant Liberation Front]] that performed acts of mutant terrorism. Actually though, the members of the group were Trask's own followers wearing technological armors that mimicked mutant powers. These efforts were stopped by the Punisher and the X-Cutioner. Simon Trask seemingly died when he blew up his own base, trying to become a martyr for his cause.
+
+Following M-Day and the events of [[Messiah Complex]], the [[X-Men (Earth-616)|X-Men]] relocated their base to [[San Francisco]]. Among the first opponents they faced was Simon Trask, now leader of the Humanity Now! coalition who leaked to the press the decimation of [[Cooperstown]], [[Alaska (State)|Alaska]], blaming mutants for the damage caused by the [[Marauders (Earth-616)|Marauders]] and [[Purifiers (Earth-616)|Purifiers]]. He announced the creation of [[Proposition X]], a mandate that would require all mutants to subject to birth control procedures, stating that the birth of a new mutant child will bring disaster.
+
+Unfortunately, despite positive thinking that Proposition X would never be formed, it did. Trask and his followers came to San Francisco to demand that all mutants subject to the proposal. Immediately, riots began breaking out, between pro-mutant and anti-mutant activists. Trask was initially injured, but once he was recovering in a hospital, he began to infect everyone he touches with what looks like a techno-organic strain. It caused his victims to transform into a biomechanical Sentinels, intent on eradicating mutants, good, evil or even government sponsored. However, his entire legion was decimated by the Dark X-Men and Trask was arrested. 
+
+[[File:Simon Trask (Earth-616) from Dark Avengers Vol 1 8 0001.png|thumb|left|Trask arrested by Osborn's X-Men]]
+However, Trask's actions lead to the X-Men establishing an independent nation out of the former Asteroid M.
+
+| Powers                  = '''[[Nano-Sentinels]]:'''{{r|Uncanny X-Men Vol 1 500}} Capable of infecting other [[Homo sapiens|humans]], transforming them into non-living, mindless [[Biosentinels]].{{r|Dark Avengers / Uncanny X-Men: Utopia Vol 1 1}}
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Trask Family]]
+[[Category:Bio-Sentinels]]

@@ -1,0 +1,109 @@
+{{Marvel Database:Character Template
+| Image                   = Jack Monroe (Earth-616) from Official Handbook of the Marvel Universe Master Edition Vol 1 6 0001.jpg
+| Name                    = [[Jack Monroe]]
+| CurrentAlias            = Nomad
+| Aliases                 = [[Bucky]], [[Scourge]]
+
+| Affiliation             = Formerly {{m|Secret Defenders}}, the [[Captain America (Steve Rogers)|Captain]]'s unnamed team; former partner of [[Captain America (Steve Rogers)|Captain America (Steve Rogers)]], [[William Burnside (Earth-616)|Captain America (William Burnside)]], [[Priscilla Lyons (Earth-616)|Vagabond]] 
+| Relatives               = [[Ed Monroe (Earth-616)|Ed Monroe]] (father; deceased);<br>[[Mary Ellen Monroe (Earth-616)|Mary Ellen Monroe]] (mother, deceased);<br>[[Jill Monroe (Earth-616)|Jill Coltrain]] (sister);<br>[[Bill Coltrain (Earth-616)|Bill Coltrain]] (brother-in-law; deceased);<br>
+[[Julia Winters (Earth-616)|Julia Winters]] (adopted daughter)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe: Golden Age 2004 Vol 1 1}}
+| Gender                  = Male
+| Height                  = 5'11"
+| Weight                  = 200 lbs (91 kg) 
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         =
+
+| Origin                  = [[Homo sapiens|Human]] Mutate. Enhanced by an imperfect variant of the [[Super-Soldier Serum]].
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Clutier]], [[Iowa (State)|Iowa]]
+| PlaceOfDeath            = [[Pittsburgh]], [[Pennsylvania (State)|Pennsylvania]]
+| KilledBy                = James Buchanan Barnes (Earth-616)
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = Adventurer, formerly government operative, Vigilante
+| Education               = High-school dropout
+| BaseOfOperations        = Mobile
+
+| Creators                = Russ Heath
+| First                   = Young Men Vol 1 24
+| Death                   = Captain America Vol 5 3
+
+| History                 = 
+===Origin===
+[[File:Jack Monroe (Earth-616) as youth.jpg|thumb|left|120px|Jack Monroe as a youth]]
+Jack was born on December 7, 1941 in [[Clutier]], [[Iowa (State)|Iowa]], on the day that [[Imperial Japan (Earth-616)|Imperial Japan]] launched their attack on [[Pearl Harbor]], signaling the [[United States of America|United States]]' official entry into [[World War II]]. Jack grew up in a town of [[National Socialist German Workers Party (Earth-616)|Nazi]] sympathizers,{{r|Nomad Vol 2 #23}} and he and his sister were beaten by their parents. In 1944, Jack discovered that his father secretly kept Nazi paraphernalia. Furious that the boy could jeopardize their family secret, Jack's father beat him.{{r|Nomad Vol 2 #18}} By 1949, Jack lived a relatively normal life outside of his abuse and the secret the town kept. He and his friends bullied an overweight boy named [[Bartholomew Ingrid (Earth-616)|Bartholomew Ingrid]], whom they teased by calling Ingrid Bergman. One day Bartholomew stood up to Jack by fighting back but Jack easily beat him. The young boy fled the fight vowing to get revenge against Jack.{{r|Nomad Vol 2 #23}} Not long after, Jack secretly grabbed a swastika armband from his father's collection and took it to school for show and tell. He was taken to the principal's office and the [[Federal Bureau of Investigation (Earth-616)|FBI]] was alerted. His parents were arrested and executed as traitors.{{r|Nomad Vol 2 #19}} The FBI uncovered the entire town's Nazi secret. Due to the trauma of the abuse and the arrest of his parents, Jack and his sister, like all the children in town, were separated from their families and placed into foster homes.{{r|Nomad Vol 2 #23}} Jack suppressed these memories.{{r|Nomad Vol 2 #18}}
+
+===Bucky===
+[[File:Jack Monroe (Earth-616) from Young Men Vol 1 24 0001.jpg|thumb|left|Monroe, as Bucky circa 1953]]
+Jack was relocated to a foster home, not much is known about his activities in the following years. By 1953, Jack was living in [[New York City]] where he attended the [[Lee School]]. He took an avid interest into the lives of [[Captain America (Steve Rogers)|Captain America]] and his partner [[James Buchanan Barnes (Earth-616)|Bucky]]. Jack idolized Cap's young sidekick so much that he began calling himself Bucky, who disappeared and were presumed dead in 1945. While attending the school he was taught by [[William Burnside (Earth-616)|William Burnside]], who had legally changed his name to Steve Rogers, and getting plastic surgery to resemble the original Captain America in a failed attempt to get the government backing him as the next Captain America. "Steve Rogers", learning of Jack's love of Captain America, confided in the boy and told him that he had also redeveloped the [[Glossary:Super Soldier Serum|Super Soldier Serum]] from Nazi documents. Jack tried to convince William to become the new Captain America, even making him a costume, but Burnside decided to honor the government's wishes that Captain America was not needed at that time.{{r|Captain America #155}} This changed on the day that the communist [[Albert Malik (Earth-616)|Red Skull]] attacked the [[United Nations Headquarters]] in New York City, "Rogers" decided that it was time for Captain America and Bucky to return.{{r|Young Men Vol 1 #24}} When they arrived at the UN Building, Burnside injected himself with the Super Soldier Serum and decided to give Jack an injection as well. The two were enhanced by the Super-Soldier Serum being given enhanced strength on top of being brought to their physical peaks.{{r|Captain America #155}} The pair then successfully defeated the Red Skull.{{r|Young Men Vol 1 #24}} However unknown to the two at the time, their Super Soldier treatment was incomplete without a needed bombardment of [[Vita-Rays]], the repercussions of which would not be realized until over a year into their careers as Captain America and Bucky.
+
+Believed to be the original Captain America and Bucky, the two heroes found themselves welcomed by both law enforcement and government. They were asked by the military to travel to [[Las Vegas]], [[Nevada (State)|Nevada]] to prevent a new experimental atomic bomb trigger from falling into communist hands, and prevented it from being taken by the [[Lupa Lupoff (Earth-616)|Executioner]].{{r|Young Men Vol 1 #25}} Next Captain America was contacted by Dr. Standish to give lectures about the dangers of communism. Cap and Bucky were unaware that Standish was really a communist spy seeking to inject Captain America with a drug that would make him a loyal communist. Deducing this, the Super Soldier Serum in Cap's body neutralized the drug and Cap played along with Standish, giving pro-communist lectures and even going so far as to destroy an American military base in Alaska to earn his trust and attacking Standish's leaders and sending them fleeing back to [[Russia]].{{r|Young Men Vol 1 #26}}
+
+The Red Skull soon returned to trouble Captain America and Bucky again, this time capturing the pair and trying to force Cap into showing him the location of a secret government facility. Instead, Cap tricked the Red Skull's minions into crashing their truck and the Red Skull was seemingly slain in the crash.{{r|Young Men Vol 1 27}} However this Red Skull, like his predecessor, would prove hard to kill. By this time Burnside and Monroe had left the Lee School and enlisted in the army where they met [[Elizabeth "Betsy" Ross (Earth-616)|Betsy Ross]] who was a retired government agent who worked with the previous [[Jeffrey Mace (Earth-616)|Captain America]] and was now a reporter. Ross was unimpressed by this new "Steve Rogers", but soon sought Captain America's help when she stood to face treason charges when she was accused of leaking government secrets. Captain America and Bucky revealed that it was really her photographer and editor who were the real communist spies, clearing Betsy's name. Deployed to a neutral country courting both sides of the Cold War, "Rogers" and "Bucky" exposed a plot by the Secretary of War to try and discredit the American Embassy for his communist benefactors. Relocated to Indochina on their tour of duty, they learned that communist agents were drugging American prisoners of war and forcing them to make pro-communist radio broadcasts. As Captain America and Bucky the pair smashed this operation.{{r|Captain America #76}} The pair were next relocated to [[Egypt]] where they were invited into the home of American loving millionaire Adu Bey, and as Captain America and Bucky exposed communist agents working out of Bey's family tomb.{{r|Men's Adventures #27}}
+
+Returning to the United States, the pair investigated communist activities along shipping routes and exposed a ship captain as a communist agent smuggling supplies to communist spies in [[South Africa]].{{r|Young Men Vol 1 #28}} Returning home they stopped communist spies from forcing the inventor of a new atomic sub to give over his plans by threatening his blind son. In New York's [[Chinatown]], the pair assisted Detective Wing search for the communist agent known as the [[Philip Wing (Earth-616)|Man With No Face]] who was blackmailing Chinese-Americans to send money back to communist [[China]] or their loved ones back home would face torture. Captain America clashed with the Man with No Face, learning that he was the detectives twin brother Philip. Preferring death over capture Philip Wing threw himself off a building to his death and Cap decided to keep his true identity a secret.{{r|Captain America #77}} Due to their heroics, Captain America and Bucky were awarded the key to New York City by the mayor.{{r|Captain America Vol 5 #38}} When news that North Korean prisoners of war were poisoning themselves to make America look bad, Captain America and Bucky traveled to [[Korea]] to administer an antidote and expose the plot.{{r|Captain America #77}}
+
+Stationed in Korea in their capacity in the military, "Steve Rogers" and "Bucky" were assigned to transport released prisoners of war home, including Tim Potter who unknown to them was drugged by his captors to weaken his courage. The pair sprang into action as Captain America and Bucky when they were attacked by gorilla forces but ended up being captured. Thankfully for them, Tim snapped out of drugged conditioning and helped rescue them.{{r|Men's Adventures #28}} While still in Korea, the pair failed to stop a communist spy from fleeing into China with a list of defectors from the Korean War. Sneaking into China as Captain America and Bucky, they recovered the list, apparently with the help of the mystical [[Green Dragon (Earth-616)|Green Dragon]].
+
+Returning State side, Captain America and Bucky came home to a parade being thrown in their honor in New York City. The celebration was marred when the Russians sent their operative [[Ivan Kronov (Earth-616)|Electro]] to try and kill the two heroes. The pair overloaded Electro's powers seemingly killing the foe. When communist agent Chuck Blaine used his public notoriety to plant a bomb in the UN Building that threatened to destroy half of New York City. Captain America and Bucky forced a confession out of Blaine and disarmed the bombs before they could go off.{{r|Captain America #78}} Not long after this, the Red Skull revived Electro and attacked the UN Building in an attempt to recover [[Adolf Hitler (Earth-616)|Adolf Hitler's]] strong box, which reportedly contained the plans to a secret weapon. Captain America and Bucky rushed to stop them, foiling the Red Skull and seemingly slaying Electro again.{{r|Captain America Annual #13}}
+
+By about 1955, the impurities in their Super Soldier treatment became apparent: Both Captain America and Bucky were becoming paranoid schizophrenics, beginning to see "communist spies" in just about anybody, in particular visible minorities attacking African-Americans in the Harlem and Watts area. Learning of this the United States government intervened and attempted convince Cap and Bucky to surrender, but they refused forcing the government to neutralize the pair and place them in cryogenic suspension.{{r|Captain America #155}}
+
+===Revival===
+Long forgotten by the government, Burnside and Monroe were kept in suspended animation until they were rediscovered in the modern age by a janitor who cleaned the government facility where they were being kept. Angry over the president's recent visit to China, the over-zealous patriot -- thinking that Burnside and Jack were the original Captain America and Bucky -- freed them to save the Untied States from what he viewed as communist subversion of the United States. The pair went after the revived original Captain America and his then partner the [[Samuel Wilson (Earth-616)|Falcon]]. With the assistance of [[Sharon Carter (Earth-616)|Sharon Carter]], the original Captain America and Falcon managed to defeat Burnside and Jack and returned them to cryogenic stasis. They were broken out a handful of times but easily recaptured. Eventually after extensive rehabilitation, Jack was allowed to go out in public again.
+
+===Nomad===
+He was taken in as a partner of Captain America and took the name of Nomad, one of Cap's old identities.{{r|Captain America Vol 1 282}} Later he struck out on his own as a vigilante. He usually associated with the homeless. Finding a small girl abandoned by a prostitute mother, he named her as his '[[Julia Winters (Earth-616)|Bucky]].' He continued to fight Neo-Nazi forces. On one occasion he learned a corrupt senator (Bart Ingrid) was a survivor from the same town Jack grew up in. He stopped the senator and [[Agent Axis (Earth-616)|Agent Axis]], but there was an explosion that knocked him into a coma. The story of his death was circulated, while Jack was really placed back into cryogenic suspension.{{r|Nomad Vol 2 #25}}
+
+===Scourge===
+[[File:Jack Monroe (Earth-616) from Thunderbolts Vol 1 38 0001.jpg|thumb|right|As Scourge]]
+Eventually, Jack awoke and was turned into the new Scourge, while nanites were used in controlling him. It seemed to be a scheme of [[Henry Gyrich (Earth-616)|Henry Peter Gyrich]] but it was later revealed that Gyrich himself was being controlled by a third party. The nanites allowed Jack relative cognitive freedom, but he could not contradict the mission parameters set out for him by his handler. As Scourge, Jack was outfitted with confiscated equipment from various super-villains, and trained in their use. He employed a Pym Particle delivery system in his costume and gauntlets, letting him store a large number of weapons and paraphernalia on his person.{{r|Thunderbolts #39}}{{r|Thunderbolts #49}}
+
+Scourge's mission parameters ordered him to eliminate the Thunderbolts in a particular order, per Gyrich's instructions. He began with a sniper execution of the youngest team member, Jolt.{{r|Thunderbolts #34}} After that, Scourge moved on to the Thunderbolts' erstwhile former leader, Baron Zemo. A prolonged battle in Zemo's private fortress finally concluded when Jack decapitated Zemo in a swordfight.{{r|Thunderbolts #38|39}}
+
+Next, Scourge infiltrated the Thunderbolts' Mount Charteris base, eliminating Techno and Atlas.{{r|Thunderbolts #45|47}} Before he could make a full getaway, however, Jack was captured by Hawkeye and the Thunderbolts, who managed to disable the nanites controlling him.{{r|Thunderbolts #48|49}} Scourge joined forces with the Thunderbolts and Redeemers in stopping Gyrich's overall plan. He vanished in the aftermath of the struggle, taking the Scourge holographic inducer with him.{{r|Thunderbolts #50}}
+
+Sometime after his time as Scourge but before he discovered his Super Soldier variant had began to degrade Jack visited people connected to the [[Thunderbolts (Earth-616)|Thunderbolts]] to try and learn why they became villains and if they truly could or had changed, during this road trip he also managed to convince [[M'Gula (Earth-616)|Rock Python]] not to go through with an [[Adamantium]] robbery he had been planning.{{r|Thunderbolts: From the Marvel Vault Vol 1 1}}
+
+===Death===
+[[Jane Foster (Earth-616)|Jane Foster]] revealed to Jack that he had a limited time left to live. The Super Soldier variant was he was injected with was degrading and his immune system was going haywire. 
+
+Jack spent the last year of his life frequenting a bar, mentally unstable. He spent many nights attacking innocent people under the delusion he was fighting drug dealers. He believed he tracked down his daughter Bucky living with her foster parents, but this may have been another delusion.{{r|Captain America Vol 5 #7}}
+
+He encountered the Winter Soldier, the original Bucky returned at last, and was shot and killed. Winter Soldier threw Jack's body into the trunk of his car, intending to use him as a scapegoat for a terrorist attack in [[Philadelphia (Pennsylvania)|Philadelphia]].{{r|Captain America Vol 5 #3}}
+
+| Powers                  = 
+| Abilities               = Jack was an excellent hand-to-hand combatant and marksman.
+| Strength                = Enhanced by Super-Soldier Serum variant. Nomad formerly possessed strength enabling him to lift 1,000 pounds. 
+| Weaknesses              =
+
+| Equipment               = Nomad wore a Kevlar bullet-resistant jacket. As Scourge and for a time afterward, he used an image inducer to conceal his identity.
+| Transportation          = Conventional motorcycles.
+| Weapons                 = Nomad carried two throwing discs, or "stun discs", which could render an enemy unconscious at fifty feet; he carried a sawed-off shotgun loaded with blanks and used other conventional weaponry as necessary. As Scourge, Jack had access to a wide array of advanced weapons, which he could teleport from storage.
+
+| Notes                   = * Jack Monroe is an early retcon. The character's original appearances from the 1950’s were written as James Buchanan Barnes, the first Bucky. It was Marvel editorial that decades later would distance the iconic Captain America and Bucky from the rabid anti-Communist stories from that era by creating Jack Monroe and the Grand Director as a result.
+
+==Recommended Readings:==
+* Captain America Vol 1 #153-156 – First appearance in modern age and origin.
+* Captain America Vol 1 #281-284 – Released by S.H.I.E.L.D. and becomes Captain America’s partner.
+* Captain America Vol 1 #324-325 - Meets Vagabond and defeats "The Slug".
+* Captain America Vol 1 #336-345 - Helps Steve Rogers in new identity of the Captain.
+* Nomad Vol 1 #1-4 – Declares war on drugs and adopts Bucky.
+* Nomad Vol 2 #25 – Refrozen in suspended animation.
+* Thunderbolts Vol 1 #48-50 – Teams with [[Thunderbolts]] to defeat plot against heroes.
+* Captain America Vol 5 #3 – The death of Jack Monroe.
+* Captain America Vol 5 #7 – A solitary tale chronicling the last days of Jack Monroe.
+
+| Trivia                  =
+| Marvel                  =
+| Wikipedia               =
+| Links                   = * OHMU #9, August 1986, MARVEL COMICS GROUP ©
+* Official Handbook of the Marvel Universe: Golden Age 2004
+}}
+[[Category:Weapons Expert]]
+[[Category:Super-Soldiers]]

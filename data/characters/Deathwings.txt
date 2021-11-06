@@ -1,0 +1,50 @@
+{{Marvel Database:Race Template
+| Image                   = Deathwings from Rom Vol 1 8 001.jpg
+| RealName                = Deathwings
+| Aliases                 = 
+| Identity                = 
+| Affiliation             = [[Dire Wraiths]]
+| Universe                = Earth-616
+| BaseOfOperations        = [[Black Sun (Dark Nebula)|The Black Sun]]
+
+| BodyType                = Giant winged avians similar to Pterodons
+| AvgHeight               = 
+| AvgWeight               = 
+| Eyes                    = Yellow
+| Hair                    = No
+| Skin                    = Black
+| NumberOfLimbs           = 4
+| NumberOfFingers         = 
+| NumberOfToes            = 
+| SpecialAdaptations      = Wings
+| UnusualFeatures         = 
+
+| Origin                  = 
+| GalaxyOfOrigin          = 
+| StarSystemOfOrigin      = 
+| HomePlanet              = 
+| PlaceOfBirth            = The Black Sun
+| Creators                = Bill Mantlo; Sal Buscema; John Romita Jr.
+| First                   = Rom #1
+
+| HistoryText             = Deathwings are large winged creatures that dwell in the heart of the [[Black Sun (Dark Nebula)|Black Sun]] located in the midst of the [[Dark Nebula]]. They appear as solid black Pterodon-looking creatures. Their chill breath will strip flesh from the bones of beings. They can be summoned by the [[Dire Wraiths]] though not controlled by them.  A number of them were able to thwart [[Galactus]] attempt to devour the Wraith's star system ([[Wraithworld]] and the Black Sun).
+
+| Habitat                 = 
+| Gravity                 = 
+| Atmosphere              = 
+| Population              = 
+
+| Powers                  = 
+| Abilities               = 
+| AvgStrength             = 
+| Weaknesses              = 
+
+| GovernmentType          = 
+| TechnologyLevel         = 
+| CulturalTraits          = 
+| Representatives         = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

@@ -1,0 +1,52 @@
+{{Marvel Database:Character Template
+| Image                   = Pinyon (Earth-616) from Fantastic Four Vol 1 129 0001.jpg
+| Name                    = Pinyon
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = [[Inhomo supremis|Inhumans]]
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = No
+| UnusualSkinColor        = Purple
+| UnusualFeatures         = Purple wings, claws, fangs
+
+| Origin                  = [[Inhomo supremis|Inhuman]] powered by [[Terrigenesis]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = 
+| Citizenship             = Attilan, New Attilan
+| Occupation              = Guardsman
+| Education               = 
+| BaseOfOperations        = [[Attilan]]
+
+| Creators                = Roy Thomas; John Buscema
+| First                   = Fantastic Four #129
+
+| History                 = Pinyon was an [[Inhomo supremis|Inhuman]] who gained buttefly-like wings after exposure to the [[Terrigen Mist]].
+
+He and [[Avius (Earth-616)|Avius]] and [[Flaidermaus (Earth-616)|Flaidermaus]] acted as air defense of their homeland of [[Attilan]] during a period it existed in the [[Himalayan Mountains]]. The trio prevented the [[Jonathan Storm (Earth-616)|Human Torch]] from reaching his former girlfriend [[Crystalia Amaquelin (Earth-616)|Crystal]] before he could learn that she had left him for another man.{{r|Fantastic Four #129}}
+
+| Powers                  = Pinyon is able to fly.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Flight]]

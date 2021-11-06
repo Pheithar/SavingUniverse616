@@ -1,0 +1,58 @@
+{{Marvel Database:Character Template
+| Image                   = Illich Lavrov (Earth-616) from Iron Man Vol 3 9.png
+| Name                    = Illich Lavrov
+| CurrentAlias            = Sibercat
+| Aliases                 = Siberian Tiger
+
+| Affiliation             = {{M|Winter Guard}}, formerly {{M|Siberforce}}
+| Relatives               =
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  =
+| Weight                  =
+| Eyes                    = Yellow
+| Hair                    = Blond
+| UnusualFeatures         = fur, pointed ears, fangs
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Union of Soviet Socialist Republics|Russia]] 
+
+| Identity                = Secret
+| Citizenship             = Russian, Soviet, (formerly)
+| Occupation              = Adventurer, former freedom fighter  
+| Education               =
+| BaseOfOperations        = [[Russia]]
+
+| Creators                = Bob Layton
+| First                   = X-Factor Annual #1
+
+| History                 = Siberian Tiger was a member of Father Garnoff's mutant underground in Russia. They worked with the original X-Factor to attack the [[Wolfgang Heinrich (Earth-616)|Doppelganger]]'s lab.{{r|X-Factor Annual #1}}
+
+Later on, they helped the original mutant Soviet Super-Soldiers escape government capture. A cyborg named [[Grigori Andreivitch (Earth-616)|Firefox]] killed most of Illich's teammates, leading him and Father Garnoff to join with their new allies in the Super-Soldiers, forming a group alternately called the Exiles or Siberforce.{{r|Soviet Super Soldiers #1}}
+
+Sometime after that, Sibercat was made a member of the [[Winter Guard (Earth-616)|Winter Guard]] when Siberforce and the People's Protectorate merged into a single group. The group battled the [[Mandarin]] when his 'Dragon of Heaven' entered Russian airspace.{{r|Iron Man Vol 3 #9|10}}
+
+| Powers                  = '''Feline Form:''' Sibercat's feline-like mutation gave him heightened strength, speed, agility, endurance, 'catlike' reflexes, enhanced senses, a healing factor, and claws.
+| Abilities               =
+| Strength                =
+| Weaknesses              = 
+
+| Equipment               =
+| Transportation          =
+| Weapons                 =
+
+| Notes                   =
+| Trivia                  = * First appeared in X-Factor Annual #1 as Siberian Tiger; re-named in Soviet Super Soldiers #1.
+* Actually, Illich is not a Russian personal name, it is a patronym indicating that his father was named Ilya.
+
+| Marvel                  =
+| Wikipedia               =
+| Links                   =
+}}
+[[Category:Depowered Mutants]]
+[[Category:Possible Depowered Mutants (Reference needed)]]
+[[Category:M-Day Depowered]]
+[[Category:Feline Form]]

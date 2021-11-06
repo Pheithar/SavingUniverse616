@@ -1,0 +1,105 @@
+{{Marvel Database:Character Template
+| Image                   = Robert Kelly (Earth-616) from All-New Official Handbook of the Marvel Universe Vol 1 6 0001.jpg
+| Name                    = [[Robert Edward Kelly]]
+| CurrentAlias            = [[Robert Kelly]]
+| Aliases                 = [[Senator Kelly]], Bob
+
+| Affiliation             = Formerly {{M|United States Senate (Earth-616)|United States Senate}}, {{m|Project Wideawake (Earth-616)|Project: Wideawake}}, {{M|United States Army (Earth-616)|U.S. Army}}{{r|All-New Official Handbook of the Marvel Universe A to Z Vol 1 6}}, {{M|National Security Agency (Earth-616)|N.S.A.}}
+| Relatives               = [[Sharon Kelly (Earth-616)|Sharon Kelly]] (wife, deceased)
+| MaritalStatus           = Widowed
+
+| CharRef                 = {{cl|All-New Official Handbook of the Marvel Universe A to Z Vol 1 6}}
+| Gender                  = Male
+| Height                  = 5'10"
+| Weight                  = 175 lbs (80 kg)
+| Eyes                    = Brown
+| Hair                    = Brown
+| Hair2                   = ([[:Category:Grey Hair|graying]][[Category:Grey Hair]][[Category:Infobox Eyes Update Needed]] temples)
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Boston]], [[Massachusetts (State)|Massachusetts]]
+| PlaceOfDeath            = [[Boston]], [[Massachusetts (State)|Massachusetts]]
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Politician, U.S. Senator from [[Massachusetts (State)|Massachusetts]], Chairman of Mutant affairs
+| Education               = Military training
+| BaseOfOperations        = Formerly [[Washington, DC|Washington]], [[District_of_Columbia|DC]]
+
+| Creators                = Chris Claremont; John Byrne
+| First                   = X-Men Vol 1 133
+| Death                   = X-Men Vol 2 108
+
+| Quotation           = I stand in the shadow of a man who said a house divided against itself cannot stand. I stand in the shadow of a man for whom the preservation of the union -- and the ideals and hopes and '''freedoms''' for which it '''stands''' -- was worth any price, even his own '''life'''. Now, as then, this land we love faces a clear and present '''danger''', to its liberty and its future. For '''Abraham Lincoln''', the challenge was slavery. For us, on this cusp of the 21st century, it is '''mutants'''!
+| Speaker                 = [[Robert Kelly (Earth-616)|Senator Robert Kelly]]
+| QuoteSource             = Uncanny X-Men Vol 1 388
+
+| History                 =
+===Early Life===
+'''Robert Kelly''' was born and raised in [[Boston]], [[Massachusetts (State)|Massachusetts]]. He later served his country by joining the [[United States Army (Earth-616)|US Army]].{{r|All-New Official Handbook of the Marvel Universe A to Z Vol 1 6}}
+
+===NSA===
+In the 1960s, a young Kelly worked for the [[National Security Agency (Earth-616)|N.S.A.]]. In 1962, he witnessed [[Adam Brashear (Earth-616)|Blue Marvel]] battle [[Conner Sims (Earth-616)|Anti-Man]] from the war room at the [[Pentagon]]. At the end of the fight, it was revealed that Blue Marvel was African-American. Kelly advised [[John F. Kennedy (Earth-616)|President John F. Kennedy]] and [[Robert F. Kennedy (Earth-616)|Robert Kennedy]] to ask Brashear to step back due to racial tensions across the country.{{r|Adam: Legend of the Blue Marvel Vol 1 3}}
+
+===Senator Kelly===
+He later ran for office and became a Senator for his home state of Massachusetts. As member of the [[United States Senate (Earth-616)|U.S. Senate]], Robert Kelly long regarded the growing number of [[Homo superior|mutants]] as a threat to national security. He cultivated a partnership with industrialist [[Sebastian Shaw (Earth-616)|Sebastian Shaw]], who supported Kelly's plans. Unbeknown to the Senator, Shaw was a mutant and the Black King of the [[Hellfire Club (Earth-616)|Hellfire Club]].{{r|X-Men #133}} Kelly was invited to a party at the club and Mastermind created an illusion and caused him to believe Cyclops fired randomly into a crowd.{{r|X-Men #134|135}}
+
+===[[Days of Future Past]]===
+To cope with this supposed danger, he promoted legislation such as the [[Mutant Registration Act]], requiring those with powers of genetic origin to disclose their abilities to the government. This proposal prompted the second [[Brotherhood of Evil Mutants (Earth-616)|Brotherhood of Mutants]] to attempt to assassinate Kelly in [[Washington, D.C.]]. The death of Kelly lead to [[Earth-811|Dystopian Future]] in which [[Sentinels]] conquered the planet. [[Katherine Pryde (Earth-811)|Kitty Pryde]] from that timeline sent her consciousness [[Time Travel|back in time]] to her younger self and working with the [[X-Men (Earth-616)|X-Men]] stopped the Brotherhood and saved Kelly's life.{{r|X-Men Vol 1 141}}{{r|Uncanny X-Men Vol 1 142}} The failed assassination attempt fueled the Senator's resolve to pass the Registration Act.{{r|Uncanny X-Men Vol 1 181}} 
+
+Senator Kelly and [[Henry McCoy (Earth-616)|Dr. Hank McCoy]] had lecture at [[Fontane College]] in Boston. Kelly discussed the importance of the "Mutant Registration Act" as a young mutant; [[Adrian Castorp (Earth-616)|Adrian Castorp]] attacked Kelly on stage. [[Robert Drake (Earth-616)|Iceman]] tried to stop him while Beast was shot by security. However the stress caused Adrian to collapse due to his powers causing nerve damage.{{r|Defenders #142}}
+
+===Wife's Death===
+Following one of his meetings with Shaw in New York, the Senator's limousine was demolished by debris from a fight involving the X-Men. Kelly survived -- but his wife, [[Sharon Kelly (Earth-616)|Sharon]], died in the wreckage. Kelly's grief strengthened his position that mutants were too dangerous to be allowed to run rampant, and he ordered the production of more Sentinels.{{r|Uncanny X-Men Vol 1 246|247}}
+
+===War on Drugs===
+Due to Kelly's stance on the drugs trade, the drug Lord; [[Señor Muerte (Terrorist) (Earth-616)|Señor Muerte]] ordered one of his lackeys [[Tamone (Earth-616)|Tamone]] to execute Kelly. However the mutant shape-shifter; Mystique working for [[Freedom Force (Earth-616)|Freedom Force]] disguised herself as Senor Muerte to reverse the order.{{r|Marvel Comics Presents #41}}
+
+When the [[Reavers (Earth-616)|Reavers]] went to New York to seek revenge against the Hellfire Club, the X-Men intervened. Kelly arrived at the end of the fight seeing nothing but destruction and blamed the X-Men. He however stopped when he saw [[Jean Grey (Earth-616)|Jean Grey]] had been killed.{{r|Uncanny X-Men #281}}
+
+===Chairman of Mutant Affairs===
+Kelly was appointed the Chairman of Mutant Affairs. He later gave a statement after the attack and destruction of [[Our Mother of the Sacred Heart School]] by the [[Acolytes (Earth-616)|Acolytes ]]{{r|Uncanny X-Men #298}} This lead to a heated Television debate between Kelly and Professor Charles Xavier. The two left the program on amicable terms.{{r|Uncanny X-Men #299}}
+
+Senator Kelly began working with [[Project Wideawake (Earth-616)|Project Wideawake]] in support of containing the Mutant threat. They were producing [[Sentinels]] on production lines as the countries new fighting force. When [[X-Factor (Earth-616)|X-Factor]] arrived to investigate the Acolytes attack on [[Cape Hayden]] the found Kelly and the project but left peacefully when [[Valerie Cooper (Earth-616)|Valerie Cooper]] revealed she knew all about it.{{r|X-Factor #92}}
+
+After Magneto's devastating attack on [[Westchester County]]; Ambassador [[Lenore St. Croix (Earth-616)|Lenore St. Croix]] came to Washington, D.C. to discuss the threat of [[Asteroid M]].{{r|Uncanny X-Men #305}} He later tried to clean up the public relations nightmare when [[James Madrox (Earth-616)|James Madrox]] of X-Factor was revealed to the [[Legacy Virus]] calling for Val Cooper to sort out the mess.{{r|X-Men Prime #1}} It was during this time that Kelly learned the news that [[Graydon Creed (Earth-616)|Graydon Creed]] was planning to run for President.{{r|Wolverine Vol 2 #95}}
+
+===Operation: Zero Tolerance===
+Kelly supported [[Operation Zero Tolerance|"Operation: Zero Tolerance"]]. However during an investigation into the project he learned people had gone missing.{{r|X-Men Vol 2 #46}} It was revealed the android known as [[Bastion (Earth-616)|Bastion]], programmed to exterminate mutants, was using the program to convert innocent humans into Sentinels and trampling on the rights of U.S. citizens. When he withdrew his support, the Senator became one of the Sentinels' targets. To save his life, he called on the X-Men.{{r|Uncanny X-Men #333}}
+
+Kelly later helped X-Factor again when they were trying to investigate [[Hound (Humanity's Last Stand) (Earth-616)|Hound program]]. He helped guide them to a secret research facility disguised as  a farm.{{r|X-Factor #123}} Kelly with the help of Gyrich used organizations equipment and resource to battle the invading [[Phalanx (Race)|Phalanx]]. {{r|Uncanny X-Men #344}}
+
+After a visit to his wife's grave he decided to go back to Washington and shutdown "Operation: Zero Tolerance".{{r|Wolverine Vol 2 #116}} He met with the [[National Security Council (Earth-616)|National Security Council]] to discuss his findings.{{r|X-Men Vol 2 #68}} He  wielded his political influence to enlist the worldwide intelligence and peacekeeping organization [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] to shut down Bastion.{{r|X-Men Vol 2 #69}}  One of the last things he had to do while shutting dismantling Operation: Zero Tolerance was to free Professor X. However when he got to his cell it was empty.{{r|X-Men Vol 2 #73}}
+	
+===Presidential Candidate===
+Kelly began to seriously consider running for president, [[Sage (Earth-616)|Tessa]] met with him at his wife's grave to persuade him to change his mind but she ultimately failed.{{r|X-Men Vol 2 102}} Senator Kelly later announced his candidacy for the office of [[Presidents of the United States of America]] and planned to run on an anti-mutant platform.{{r|X-Men Vol 2 #103}}
+
+Later in [[Washington, D.C.]], Senator Kelly met with [[Stewart Ward (Earth-616)|Senator Stewart Ward]] who agreed to support his presidential bid. Luckily Kelly did not shake his hand due to a cold saving him from being infected by the [[Z'nox (Race)|Z'nox]] virus. But sadly his assistant [[Susan Strong (Earth-616)|Susan Strong]] did.{{r|Amazing Spider-Man Vol 2 #20|21}}
+
+At a fundraiser in [[Hollywood]]; Mystique in the form of [[Valerie Cooper (Earth-616)| Dr. Valerie Cooper]] questioned Kelly about his platform. He told her that the rights of humans over mutants is their right to reclaim their own destiny. This was predicted in [[Destiny's Books]] and Mystique knew what she had to do to protect her people.{{r|X-Men Vol 2 #104}} Kelly visited [[Chicago (Illinois)|Chicago]] and met with the people as his number grew in the polls.{{r|X-Men Vol 2 #105}} As his campaign roared into the final week of the election he visited the state of [[Ohio (State)|Ohio]]. He met with the real Dr. Cooper and [[Sharon Carter (Earth-616)|Sharon Carter]] head of [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] who came to discuss the threat to his life. He brushed them off claiming these was just the risks of the job.{{r|X-Men Vol 2 #106}} He continued in his interviews to spout the threat and danger of mutants to the country.{{r|X-Men Vol 2 #107}}
+
+During the campaign; Mystique hired [[Clement Wilson (Earth-616)|Ruckus]] to assassinate Kelly during a campaign rally by but failed due to the intervention of the X-Men who teleported him away {{r|X-Men Forever #1}}  After another attack by the Brotherhood{{r|Uncanny X-Men #388}}, the Senator accepted [[Charles Xavier (Earth-616)|Professor Charles Xavier]]'s offer of assistance and added the X-Men's [[Nathaniel Summers (Earth-616)|Cable]] to his personal security team. As the evil mutant [[Kevin Tremain (Earth-616)|Post]] manoeuvred toward Kelly at a rally in [[Boston]], former Brotherhood member [[St. John Allerdyce (Earth-616)|Pyro]] used the final manifestation of his powers to kill the assassin and save Kelly's life. Pyro's selfless act finally prompted the Senator to re-evaluate his stance on mutants.{{r|Cable #87}}
+
+===Death===
+Ironically, an anti-mutant activist named [[Alan Lewis (Earth-616)|Alan Lewis]] believed the Senator betrayed the anti-mutant cause by toning down his rhetoric and assassinated him when he was speaking at a college rally despite him being guarded by Cable.{{r|X-Men Vol 2 #108}} Senator Kelly was buried at [[Arlington National Cemetery]].{{r|Uncanny X-Men Vol 1 389}}
+
+===Legacy===
+The [[Robert Kelly Correctional Facility]] was named after him.{{r|X-Men: Gold Vol 2 23}}
+
+| Powers                  = 
+| Abilities               = Kelly was a persuasive public speaker.
+| Strength                = Normal human male with moderate regular exercise.
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          =
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = * The fictional name of the character Robert Kelly was chosen by [[Chris Claremont]] in honor of his Bard College professor, the poet Robert Kelly. The latter has confirmed the coincidence between the two names in interviews among his students.
+| Links                   = * [http://www.marveldirectory.com/xoops/modules/wordbook/entry.php?entryID=579 Marvel Directory]
+}}
+[[Category:Politicians]]
+[[Category:Senators]]

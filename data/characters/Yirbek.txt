@@ -1,0 +1,58 @@
+{{Marvel Database:Race Template
+| Image                   = Yirbek from Official Handbook of the Marvel Universe Vol 2 15 0001.jpg
+| Name                    = Yirbek
+| Aliases                 = 
+| Identity                = Secret
+| Affiliation             = Skrulls
+| Universe                = Earth-616
+| BaseOfOperations        = Yirb, Kallu
+
+| BodyType                = Semi-Humanoid
+| AvgHeight               = 
+| AvgWeight               = 
+| Eyes                    = 2
+| Hair                    = None
+| Skin                    = Green
+| NumberOfLimbs           = 4
+| NumberOfFingers         = 5
+| NumberOfToes            = 5
+| SpecialAdaptations      = 
+| UnusualFeatures         = They have compound eyes
+
+| Origin                  = Alien
+| GalaxyOfOrigin          = [[Andromeda Galaxy]]
+| StarSystemOfOrigin      = Bek
+| HomePlanet              = [[Yirb]]
+| HomePlanet2             =, second form sun
+| PlaceOfBirth            = 
+| Creators                = Stan Lee; Larry Lieber; Paul Laiken; Jack Kirby; Don Heck
+| First                   = Avengers #14
+
+| HistoryText             = The Yirbek governed a small planet in the Andromeda Galaxy until they were defeated in a war by the Skrulls centuries ago. The Yirbek have served the Skrull empire ever since.
+
+The Yirbek fought a war with the [[Kallusians]] that lasted for several centuries, and ended with the [[Kallusians]] defeat. The Yirbek occupied [[Kallu]], but some of the [[Kallusians]] escaped into exile.
+
+The Yirbek sent out probes which located the surviving [[Kallusians]] within the [[Milky Way]] Galaxy. When the [[Kallusians]] realized that they had been discovered, they left their hiding place on Earth to face the Yirbek in another interstellar war. 
+
+The [[Skrull]] [[Raksor (Earth-616)|Raksor]] once adopted the shape and skills of a Yirbek while confronting the [[Kree]] [[Bel-Dann (Earth-616)|Bel-Dann]] in the [[Blue Area of the Moon|Blue Area]] of [[Earth]]'s [[Luna (Moon)|moon]].{{r|Fantastic Four Annual Vol 1 18}}
+
+| Habitat                 = 81% of surface covered by water and mostly tropical
+| Gravity                 = 150% [[Earth]] standard
+| Atmosphere              = 76% nitrogen, 23% oxygen
+| Population              = 4.3 billion
+
+| Powers                  = 
+| Abilities               = 
+| AvgStrength             = 
+| Weaknesses              = 
+
+| GovernmentType          = Military dictatorship under the rule of the [[Skrulls|Skrull Empire]]
+| TechnologyLevel         = The Yirbek possess vessels capable of warp flight, and containing weaponry roughly similar to that of the [[Kallusians]].
+| CulturalTraits          = Obsessive in hatred, but subservient to their [[Skrulls|masters]]
+| Representatives         = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Skrull Empire Races]]

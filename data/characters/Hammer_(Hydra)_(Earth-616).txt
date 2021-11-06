@@ -1,0 +1,50 @@
+{{Marvel Database:Character Template
+| Image                   = Hammer (Hydra) (Earth-616) from Amazing Spider-Man Vol 1 520 0001.png
+| Name                    = 
+| CurrentAlias            = Hammer
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra (Earth-616)|Hydra}}, {{M|Hydra Four (Earth-616)|Hydra Four}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Yellow
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Hydra Agent
+| Education               = 
+| BaseOfOperations        = Mobile
+
+| Creators                = J. Michael Straczynski; Mike Deodato Jr.
+| First                   = Amazing Spider-Man Vol 1 519
+
+| History                 = Hydra's version of [[Thor Odinson (Earth-616)|Thor]], fighting alongside [[Tactical Force (Karl) (Earth-616)|Tactical Force]], [[Bowman (Earth-616)|Bowman]] and [[Militant (Earth-616)|Militant]] against [[Spider-Man (Peter Parker)|Spider-Man]] and the [[New Avengers (Earth-616)|New Avengers]].{{r|Amazing Spider-Man Vol 1 519|520}}
+
+| Powers                  = Similar to those of [[Thor Odinson (Earth-616)#Powers|Thor]]
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = Mjolnir-type Technological Hammer
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Hydra (Earth-616)/Members]]
+[[Category:Hydra Four (Earth-616)/Members]]

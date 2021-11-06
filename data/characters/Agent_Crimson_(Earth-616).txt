@@ -1,0 +1,54 @@
+{{Marvel Database:Character Template
+| Image                   = Agent Crimson (Earth-616) - She-Hulk Vol 2 16 001.jpg
+
+| Name                    = 
+| CurrentAlias            = Agent Crimson
+| Aliases                 = [[Crimson]]
+
+| Affiliation             = [[Cyttorak (Earth-616)|Cytorrak]]; {{M|Hulkbusters (S.H.I.E.L.D.) (Earth-616)|Hulkbusters}}; {{M|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}'s {{m|S.H.I.E.L.D. Magic-Ops Division|Magic-Ops Division}} (Leader){{r|She-Hulk Vol 2 16}} 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Red
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] [[Magician]] and [[Agents of S.H.I.E.L.D.|Agent of S.H.I.E.L.D.]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Head of [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.'s Magic-Ops Division]]{{r|She-Hulk Vol 2 16}}
+| Education               = 
+| BaseOfOperations        = [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] [[S.H.I.E.L.D. Helicarrier|Helicarrier]] and [[Gamma Base]], [[New Mexico (State)|New Mexico]]
+
+| Creators                = Dan Slott; Rick Burchett
+| First                   = She-Hulk Vol 2 16
+
+| History                 = Agent Crimson is a follower of [[Cyttorak (Earth-616)|Cytorrak]] and the head of [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]]'s {{m|S.H.I.E.L.D. Magic-Ops Division|Magic-Ops Division}}.{{r|She-Hulk Vol 2 16}}
+
+Along with [[Jennifer Walters (Earth-616)|Agent She-Hulk]], [[Clay Quartermain (Earth-616)|Agent Quartermain]], and [[Agent Cheesecake (Earth-616)|Agent Cheesecake]], [[Crimson]] was recruited to be a member of [[Hulkbusters (S.H.I.E.L.D.) (Earth-616)|S.H.I.E.L.D.'s Hulkbusters Squad]].{{r|She-Hulk Vol 2 16}} He aided in the capturing of the [[Emil Blonsky (Earth-616)|Abomination]] in [[Reno (Nevada)|Reno]], a [[Wendigo (Project: Achilles) (Earth-616)|Wendigo]] in [[Canada]], and [[Samuel Sterns (Earth-616)|The Leader]] in [[New Mexico (State)|New Mexico]].{{r|She-Hulk Vol 2 #16|19}} However, during The Leader trial, Agent Crimson fell under his mind control and freed the captured villain.{{r|She-Hulk Vol 2 19}}
+
+| Powers                  = Agent Crimson is talent [[Magician]] drawing on the [[Mystic|mystical powers]] of [[Cyttorak (Earth-616)|Cytorrak]] and the [[Crimson Cosmos]]. Crimson has demonstrated the following abilities:
+* Summoning and controlling the [[Crimson Bands of Cyttorak]]{{r|She-Hulk Vol 2 16}}
+* Manipulating/disabling electronics{{r|She-Hulk Vol 2 17}}
+* Cloaking spells{{r|She-Hulk Vol 2 18}}
+* [[Glossary:Energy Blasts|Energy projections and discharges]]{{r|She-Hulk Vol 2 18}}
+* Tapping into his own life force energy{{r|She-Hulk Vol 2 18}}
+| Abilities               = 
+| Strength                = 
+
+| Equipment               = [[File:Amulet of Cyttorak from She-Hulk Vol 2 19 001.jpg|200px|thumb|left|The [[Amulet of Cyttorak]]]]
+* [[Amulet of Cyttorak]]{{r|She-Hulk Vol 2 #16|19}}
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * Some of Agent Crimson's remarks about [[Beefcake (LMD) (Earth-616)|Agent Beefcake]] seem to suggest he is attracted to males. However, this has not been confirmed.{{r|She-Hulk Vol 2 18}}
+| Trivia                  = 
+| Links                   = * [http://www.marvunapp.com/Appendix5/crimsonsh.htm Agent Crimson at the Marvel Appendix]
+}}

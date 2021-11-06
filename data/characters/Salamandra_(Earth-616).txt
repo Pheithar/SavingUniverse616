@@ -1,0 +1,61 @@
+{{Marvel Database:Character Template
+| Image                   = Salamandra (Earth-616) from Fantastic Four Vol 1 514 001.jpg
+| Name                    = Salamandra
+| CurrentAlias            = 
+| Aliases                 = Salamandra Wittman, Dragon's Daughter, Fire Maiden, Sally
+
+| Affiliation             = {{M|Frightful Four (Earth-616)|Frightful Four}}
+| Relatives               = [[Bentley Wittman (Earth-616)|The Wizard]] (ex-husband)<br>
+[[Cole Wittman (Earth-616)|Cole Wittman]] (daughter)<br>
+[[Bentley Wittman (Clone) (Earth-616)|Bentley-23]] (cloned "son")
+| MaritalStatus           = Divorced
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Dragons of K'un-Lun|Dragon]] transformed into a a human woman
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[K'un-Lun]]
+
+| Identity                = Secret
+| Citizenship             = K'un-Lun
+| Occupation              = Criminal
+| Education               = 
+| BaseOfOperations        = formerly [[K'un-Lun]]
+
+| Creators                = Paco Medina; Karl Kesel
+| First                   = Fantastic Four #514
+
+| History                 = Salamandra is the ex-wife of the [[Bentley Wittman (Earth-616)|The Wizard]] and mother of [[Cole Wittman (Earth-616)|Cole Wittman]]. She is considered the "Dragon's Daughter" apparently a woman that was given human form from an ancient dragon from [[K'un-Lun]].
+
+When the Wizard met Salamandra and sought a romance with her but she rejected his advances. Eventually they struck a deal and Salamandra was artificially inseminated to carry a child. Due to the unnatural way she was produced, the child developed gravity based powers due to her father's use in anti-gravity fields.
+
+Cole rapidly aged into adulthood and the Wizard eventually decided to use them for his [[Frightful Four (Earth-616)|Frightful Four]] scheme against the [[Fantastic Four (Earth-616)|Fantastic Four]] by having Cole become a love interest for [[Jonathan Storm (Earth-616)|Johnny Storm]].
+
+The plan failed and they both turned against the Wizard and he decided to save his daughter from certain death.
+
+| Powers                  = Superhumanly strong and durable, Salamandra is also highly resistant to fire damage. She can also teleport over unknown distances, produce blasts of an unidentified energy type, which encompasses her in a blue flame when she teleports, and can transform into a red dragon-like creature, which increases her strength and toughness, and give her a prehensile tail.
+| Abilities               = She has martial arts training allowing her to strike an opponents pressure points, partially paralysing them.
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Pyrokinesis]]
+[[Category:Shapeshifters]]
+[[Category:Scaly Skin]][[Category:Infobox Skin Color Update Needed]]
+[[Category:Superhuman Strength]]
+[[Category:Superhuman Durability]]
+[[Category:Teleporters]]
+[[Category:Prehensile Tail]]

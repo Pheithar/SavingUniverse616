@@ -1,0 +1,51 @@
+{{Marvel Database:Character Template
+| Image                   = Chancellor Cassandra (Earth-616) from Winter Soldier The Bitter March Vol 1 1.NOW 001.png
+| Name                    = Cassandra
+| CurrentAlias            = Chancellor Cassandra
+| Aliases                 = 
+
+| Affiliation             = {{m|Hydra}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Green
+| Hair                    = White
+| UnusualSkinColor        = Grey
+| UnusualFeatures         = Dark grey skin and a third eye on her forehead.
+
+| Origin                  = [[Homo sapiens|Human]] [[Mutates|Mutate]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = Chancellor of Hydra
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Rick Remender; Roland Boschi
+| First                   = Winter Soldier: The Bitter March Vol 1 1.NOW
+
+| History                 = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Multiple Eyes]]
+[[Category:Precogs]]

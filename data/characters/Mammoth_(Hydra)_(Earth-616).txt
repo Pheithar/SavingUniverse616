@@ -1,0 +1,46 @@
+{{Marvel Database:Character Template
+| Image                   = Mammoth (Hydra) (Earth-616) Aurora Comic Scene Model Book Vol 1 182.jpg
+| RealName                = [[Mammoth]]
+| CurrentAlias            = 
+| Aliases                 = 
+| Identity                = No Dual
+| Affiliation             = {{M|Hydra (Earth-616)|Hydra}}
+| Relatives               = 
+| Universe                = Earth-616
+| BaseOfOperations        = 
+
+| Gender                  = Agender
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = None
+| UnusualFeatures         = Giant robot
+
+| Citizenship             = 
+| MaritalStatus           = 
+| Occupation              = Weapon
+| Education               = 
+
+| Origin                  = [[Robots|Robot]]
+| PlaceOfBirth            = 
+| Creators                = Len Wein; Herb Trimpe
+| First                   = Aurora Comic Scene Model Book #182
+
+| HistoryText             = Once engaged in battle with the [[Bruce Banner (Earth-616)|Hulk]].
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Metal Body]]

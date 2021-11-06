@@ -1,0 +1,78 @@
+{{Marvel Database:Team Template
+| Image                   = Caterpillars (Earth-616) Team Black from Secret Warriors Vol 1 17 0001.jpg
+| Name                    = Caterpillars
+| Aliases                 = 
+
+| Status                  = Defunct
+
+| Identity                = Secret
+| Reality                 = Earth-616
+| BaseOfOperations        = [[:Category:Fury Secret Base|Fury's secret bases]]
+
+| Leaders                 = Formerly:
+[[Nicholas Fury (Earth-616)|Nick Fury]];<br>
+Team White: [[Daisy Johnson (Earth-616)|Daisy Johnson]];<br>
+Team Black: [[Alexander Pierce (Earth-616)|Alexander Pierce]]
+| CurrentMembers          = 
+| FormerMembers           = 
+Team White:<br>
+[[Alexander Aaron (Earth-616)|Alex Aaron]] (deceased(, [[Daisy Johnson (Earth-616)|Daisy Johnson]], [[Eden Fesi (Earth-616)|Eden Fesi]], [[Jerry Sledge (Earth-616)|Jerry Sledge]], [[James Taylor James (Earth-616)|J.T. James]] (deceased), [[Sebastian Druid (Earth-616)|Sebastian Druid]], [[Yo Yo Rodriguez (Earth-616)|Yo Yo Rodriguez]]
+<br>Team Black:<br>
+[[Aaron Downing (Earth-616)|Aaron Downing]], [[Ahmed Noor (Earth-616)|Ahmed Noor]], [[Alexander Pierce (Earth-616)|Alexander Pierce]], [[Ben Huth (Earth-616)|Ben Huth]], [[Cornell Gray (Earth-616)|Cornell Gray]], [[Ellis Love (Earth-616)|Ellis Love]], [[Lauren Wolfe (Earth-616)|Lauren Wolfe]], [[Robert Gomorra (Earth-616)|Robert Gomorra]]
+<br>Team Grey {{g|All deceased}}:<br>
+[[Bryan Cole (Earth-616)|Bryan Cole]], [[Carlos Ayala (Earth-616)|Carlos Ayala]], [[Jennifer Monroe (Earth-616)|Jenny Monroe]], [[Lynn Richards (Earth-616)|Lynn Richards]], [[Malcolm Monroe (Earth-616)|Malcolm Monroe]], [[Mikel Fury (Earth-616)|Mikel Fury]], [[Red Webo (Earth-616)|Red Webo]],  [[Robert Martin (Caterpillars) (Earth-616)|Robert Martin]], [[Sandra Murphy (Earth-616)|Sandra Murphy]]
+| Allies                  = 
+| Enemies                 = [[Hydra (Earth-616)|Hydra]]; [[Leviathan (Earth-616)|Leviathan]]
+
+| Origin                  = Nick Fury's secret teams of super-powered agents
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Brian Michael Bendis; Jonathan Hickman
+| First                   = Secret Warriors #1
+| Last                    = Secret Warriors #28
+
+| HistoryText             = With [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] and the superhero community possibly compromised during the [[Secret Invasion]] of Earth, [[Nicholas Fury (Earth-616)|Nick Fury]] felt his only option was to personally develop and cultivate a potential pool of talent from which to select agents. He created a list of potential super-powered agents that no one knew about, thus they hadn't been exposed or exploited. Nick Fury organized them into three teams, White, Grey, and Black, each led by an established agent he could trust.{{r|Secret Warriors #11|12}}
+
+==Members==
+* [[Secret Warriors (Earth-616)|Team White]] (Nick Fury's personal hammer):
+** [[Daisy Johnson (Earth-616)|Daisy Johnson]] - Seismic waves (daughter of [[Calvin Zabo (Earth-616)|Mister Hyde]]) - {{g|captain}}.
+** [[Jerry Sledge (Earth-616)|Jerry Sledge]] - Enhanced Strength (son of [[Carl Creel (Earth-616)|Absorbing Man]]).
+** [[Yo Yo Rodriguez (Earth-616)|Yo Yo Rodriguez]] - Enhanced Speed (daughter of [[John Horton (Earth-616)|Griffin]]).
+** [[Eden Fesi (Earth-616)|Eden Fesi]] - Universal Shaper.
+** [[Sebastian Druid (Earth-616)|Sebastian Druid]] - Mystic (son of [[Anthony Druid (Earth-616)|Doctor Druid]]) - {{g|"decommissioned", re-join}}.
+** Deceased members:
+*** [[James Taylor James (Earth-616)|J.T. James]] - Pyrotechnic (descendant of [[Carter Slade (Earth-616)|Carter Slade]]) - killed by [[Nicholas Fury (Earth-616)|Nick Fury]].
+*** [[Alexander Aaron (Earth-616)|Alex Aaron]] - Demigod, God of Fear (son of [[Ares (Earth-616)|Ares]]) - killed by [[Tomi Shishido (Earth-616)|Gorgon]].
+
+* Team Black (Recon, tasked with [[Hydra (Earth-616)|HYDRA]]):
+** [[Alexander Pierce (Earth-616)|Alexander Pierce]] - {{g|captain}}.
+** [[Ellis Love (Earth-616)|Ellis Love]] - Telepath.
+** [[Ben Huth (Earth-616)|Ben Huth]] - Flight.
+** [[Ahmed Noor (Earth-616)|Ahmed Noor]] - Atom Smasher.
+** [[Cornell Gray (Earth-616)|Cornell Gray]] - Parasitic Brain.
+** [[Lauren Wolfe (Earth-616)|Lauren Wolfe]] - Polymorph.
+** [[Robert Gomorra (Earth-616)|Bobby Gomorra]] - Wielder of the [[Amulet of Abbadon]].
+** [[Aaron Downing (Earth-616)|Aaron Downing]] - Shadow Machine.
+
+* Team Grey (Attack and Response, tasked with [[Leviathan (Earth-616)|Leviathan]]). All members of the Team Grey died on their mission on the [[Hydra (Earth-616)|HYDRA]]'s base.{{r|Secret Warriors #24}}
+** [[Mikel Fury (Earth-616)|Mikel Fury]] - son of [[Nicholas Fury (Earth-616)|Nick Fury]] - {{g|captain}}
+** [[Sandra Murphy (Earth-616)|Sandra Murphy]] - Wielder of the [[Mace of Aeshma]].
+** [[Bryan Cole (Earth-616)|Bryan Cole]] - Cybernetic Organism (possible relation to [[Wade Cole (Earth-616)|Wade Cole]]).
+** [[Carlos Ayala (Earth-616)|Carlos Ayala]] - Telekinetic (possible relation of [[Hector Ayala (Earth-616)|Hector Ayala]]).
+** [[Red Webo (Earth-616)|Red Webo]] - Wielder of the [[Creation Engine]]
+** [[Jennifer Monroe (Earth-616)|Jenny Monroe]] - Temporal Control (daughter of [[Gardner Monroe (Earth-616)|Gardner Monroe]]).
+** [[Malcolm Monroe (Earth-616)|Malcolm Monroe]] - Temporal Control (son of [[Gardner Monroe (Earth-616)|Gardner Monroe]]).
+** [[Lynn Richards (Earth-616)|Lynn Richards]] - Power Leech. Mutated S.H.I.E.L.D. Agent created by [[Marvin Flumm (Earth-616)|Mentallo]]
+** [[Robert Martin (Caterpillars) (Earth-616)|Robert Martin]] - Organic Builder (possible relation of [[Chip Martin (Earth-616)|Chip Martin]]).
+
+The original list included [[Layla Miller (Earth-616)|Layla Miller]] with her power listed as "Causality". She declined to join saying that it wouldn't work. Layla chose to remain affiliated with [[X-Factor]], saying the mutants would need her.
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = Various high-powered weaponry
+
+| Notes                   = 
+* Every member on Team Black seems to have spent time in the [[Raft]], the [[Cube]], or [[Project P.E.G.A.S.U.S. (Earth-616)|Project P.E.G.A.S.U.S.]] - all correctional facilities.
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:S.H.I.E.L.D. Projects]]

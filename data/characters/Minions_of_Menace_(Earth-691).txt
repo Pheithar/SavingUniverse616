@@ -1,0 +1,34 @@
+{{Marvel Database:Team Template
+| Image                   = Minions of Menace (Earth-691) from Thor Annual Vol 1 6 001.jpg
+| Name                    = Minions of Menace
+| Aliases                 = Intimidators
+
+| Status                  = 
+
+| Identity                = 
+| Reality                 = Earth-691
+| BaseOfOperations        = Mobile throughout the known universe
+
+| Leaders                 = [[Brahl (Earth-691)|Brahl]], (formerly) [[Michael Korvac (Earth-691)|Korvac]]
+| CurrentMembers          = [[Dumog (Earth-691)|Dumog]], [[Grott (Earth-691)|Grott]], [[Teju (Earth-691)|Teju]], [[Tork (Earth-691)|Tork]]
+| FormerMembers           = 
+| Allies                  = 
+| Enemies                 = [[Guardians of the Galaxy (Earth-691)|Guardians of the Galaxy]], [[Thor Odinson (Earth-616)|Thor]], [[Galactic Guardians (Earth-691)|Galactic Guardians]]
+
+| Origin                  = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Len Wein; Sal Buscema
+| First                   = Thor Annual #6
+| Last                    = 
+
+| HistoryText             = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * http://www.marvunapp.com/Appendix4/intimidators_e691.htm
+}}

@@ -1,0 +1,60 @@
+{{Marvel Database:Race Template
+| Image                   = Z'Nox from All-New Official Handbook of the Marvel Universe A to Z Vol 1 12 001.jpg
+| Name                    = Z'nox
+| Aliases                 = The Z'nox, Z'noxx{{r|Uncanny X-Men Vol 1 341}}
+| Identity                = Public
+| Affiliation             = 
+| Universe                = Earth-616
+| BaseOfOperations        = 
+
+| BodyType                = Reptilian 
+| AvgHeight               = 6' 1"
+| AvgWeight               = 
+| Eyes                    = 2
+| Hair                    = None 
+| Skin                    = Brown 
+| NumberOfLimbs           = 4
+| NumberOfFingers         = 5
+| NumberOfToes            = 5
+| SpecialAdaptations      = The Z'nox appear to have a baleen-like covering over their mouths. They have also evolved away from all positive emotions, such as compassion. 
+| UnusualFeatures         = 
+
+| Origin                  = Alien
+| GalaxyOfOrigin          = [[Andromeda Galaxy]]
+| StarSystemOfOrigin      = [[Huz'deyr]]
+| HomePlanet              = [[Z'nox (planet)|Z'nox]]
+| PlaceOfBirth            = 
+| Creators                = Dennis O'Neil; Neal Adams; 
+| First                   = X-Men #65
+
+| HistoryText             = Known as interstellar pirates, the Z'nox looted and plundered the many planets and worlds with the reach of their capabilities. Coming across a gravity drive large enough to move their entire planet, the Z'nox were then able to destroy worlds with the massive gravitational stress imposed by their approaching planet.{{r|X-Men Vol 1 65}}
+
+When [[Charles Xavier (Earth-616)|Professor Xavier]] of the [[X-Men (Earth-616)|X-Men]] learned of their planet's path toward Earth, he went into seclusion to devise a counter-attack to the impending threat. Months later, in a feat linking the compassionate minds of the world, funnelled through [[Jean Grey (Earth-616)|Jean Grey]] and blasted through the optic beam of [[Scott Summers (Earth-616)|Cyclops]], the Z'nox were overwhelmed and overcome by the sudden barrage of kindness and warmth. Unable to handle the "mental corrosion" of this counter-attack, the Z'nox planet reversed its course and left the solar system.{{r|X-Men Vol 1 65}} All Z'nox left behind on Earth presumably committed suicide.{{Citation}}
+
+Shortly thereafter, the [[Fantastic Four (Earth-616)|Fantastic Four]] and X-Men traveled to the Z'nox world, when Reed Richards became concerned that Xavier's plan had not truly neutralized the Z'nox. On the Z'nox world, Reed was able to use the gravity drive to open a portal to an empty dimension between our reality and the Negative Zone, where he sent and trapped the hostile planet. He also fused their gravity drive so they could never return to attack other worlds.{{r|X-Men: The Hidden Years Vol 1 8|9}}
+
+During the ''[[Maximum Security]]'' incident, [[Peter Parker (Earth-616)|Spider-Man]] uncovered a plot by the Z'nox to unleash an alien pathogen on Earth. This discovery revealed the fact that not all of the Z'nox committed suicide in their earlier visit to Earth.{{Citation}}
+
+The Z'Nox were later conquered by the [[Shi'ar (Race)|Shi'ar]]. Their homeworld was assaulted by a Shi'ar armada and the [[Imperial Guard (Earth-616)|Imperial Guard]], led by [[Gabriel Summers (Earth-616)|Emperor Vulcan]] himself who personally assaulted the citadel where the Z'Nox king was located.{{r|X-Men: Kingbreaker Vol 1 1}}
+
+| Habitat                 = 67% of surface is covered by water in an arid environment
+| Gravity                 = 120% [[Earth]] standard
+| Atmosphere              = 74% nitrogen, 19% oxygen
+| Population              = 4.6 billion
+
+| Powers                  = 
+| Abilities               = 
+| AvgStrength             = 
+| Weaknesses              = 
+
+| GovernmentType          = World-wide military dictatorship 
+| TechnologyLevel         = Very high, with warp-drive starships, force fields, and vastly powerful weaponry. The Z'nox can shift their entire planet through hyperspace from one location in real space to another.
+| CulturalTraits          = Inhumane, amoral, cruel, decadent, and lacking in all positive emotions.
+| Representatives         = 
+
+| Notes                   = 
+
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Shi'ar Empire Races]]

@@ -1,0 +1,57 @@
+{{Marvel Database:Character Template
+| Image                   = Pierre Fresson (Earth-616) from Amazing Spider-Man Family Business Vol 1 1 001.jpg
+| Name                    = Pierre Fresson
+| CurrentAlias            = [[Cyclone]]
+| Aliases                 = 
+
+| Affiliation             = {{M|Qeng Enterprises}}, The {{m|Maggia}}, {{M|Army of Evil (Earth-616)|Army of Evil}}; formerly {{m|Sinister Six (Earth-616)|Sinister Sixteen}}, {{M|Masters of Evil (Earth-616)}}, {{M|Thunderbolts (Earth-616)}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #3}}
+| Gender                  = Male
+| Height                  = 5'8"
+| Weight                  = 169 lbs
+| Eyes                    = Blue
+| Hair                    = Blond
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = French
+| Occupation              = Criminal Mercenary
+| Education               = 
+| BaseOfOperations        = [[France]]; formerly [[Symkaria]], [[Mount Charteris]]
+
+| Creators                = Kurt Busiek; Mark Bagley
+| First                   = Thunderbolts #3
+
+| History                 = After the murder of the original [[André Gerard (Earth-616)|Cyclone]] in the [[Bar with No Name]] massacre, the designs for his costume fell in the hands of a European-based family of the world-wide criminal organization, the [[Maggia]]. Maggia technicians managed to duplicate Cyclone's costume, and the Maggia leaders give it to their member Pierre Fresson.
+
+Presumably, Cyclone used his new identity for Maggia operations before he was approached by the new [[Justine Hammer (Earth-616)|Crimson Cowl]] to join her incarnation of the [[Masters of Evil (Earth-616)|Masters of Evil]]. That group soon came into conflict with the [[Thunderbolts (Earth-616)|Thunderbolts]], members of the former Masters of Evil who were, at the time, only pretending to be heroes. Since then the two groups had clashed repeatedly, and Cyclone in particular was used to spy on the Thunderbolts when the team truly decided to become heroes. Eventually, the Masters of Evil were summarily defeated by the Thunderbolts during a worldwide blackmail scheme, and many of the Masters were arrested, but Cyclone escaped.
+
+Through unrevealed circumstances, Pierre Fresson was later seen among the Maggia leaders assembled by the [[Grim Reaper]], who tried to claim leadership of the scattered, fractious families on behalf of [[Luchino Nefaria (Earth-616)|Count Nefaria]]. Fresson was present as speaker for the European families, but when the [[Avengers (Earth-616)|Avengers]] invaded the meeting place, Fresson used his Cyclone-powers to escape. Fresson next appeared once more in the Crimson Cowl's employ. The Masters of Evil were confronted by [[Clinton Barton (Earth-616)|Hawkeye]] and his allies [[Melissa Gold (Earth-616)|Songbird]] and [[Samuel Smithers (Earth-616)|Blackheath]] who were searching for the legacy of criminal industrialist [[Justin Hammer (Earth-616)|Justin Hammer]]. Their search ended with Hammer's daughter, Justine, who turned out to be the Crimson Cowl. Hawkeye convinced Fresson and other members of the Masters of Evil to side with him against Crimson Cowl and their former allies, pointing out the dangers of the super-weapon, a biological toxin that had been ingested by every single villain, including Cyclone, and would instantly kill them anywhere on the Earth. Hoping to throw off suspicion, Hawkeye made the villains reinvent their costumed identities, although Fresson refused to abandon his name and costume of Cyclone.{{r|Thunderbolts #65}}
+
+The group ultimately defeated the Cowl and her Masters of Evil, and Blackheath managed to release an antidote into the atmosphere. The Thunderbolts immediately fought against the Elite Agents of SHIELD who caught up with them and wanted the remains of Blackheath's body, although he soon revived himself. The Thunderbolts were aided by the arrival of the true [[Citizen V]], who needed the team's immediate help with his agency's ship-- the engines of which were made of alien technology that had began distorting, threatening to suck the Earth into the null space of a white hole. Fresson refused, as Hawkeye claimed that no one would have to help if they chose not to. Of course, this meant that they chose to remain in their villainous status quo, and Fresson was immediately remanded to [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|SHIELD]] custody.{{r|Thunderbolts Vol 1 #73}}
+
+Cyclone was recruited by the [[Leland Owlsley (Earth-616)|Owl]] to join [[Frederick Myers (Earth-616)|Boomerang's]] small army as the Sinister Sixteen.{{r|Superior Foes of Spider-Man Vol 1 #12}}
+
+| Powers                  =
+| Abilities               =
+| Strength                = Normal human male with moderate regular exercise.
+| Weaknesses              =
+
+| Equipment               =* '''[[Cyclone's Suit]]:''' Cyclone's costume contains mechanisms that allow him to create high-velocity winds about himself. The limits of the speed and force of the wind remain unknown, but they are sufficient enough to allow the, him to lift and propel himself through the air at fantastic speeds, and even lift others and tear down buildings.
+| Transportation          = Conventional vehicles and flight under his own power.
+| Weapons                 = Combat applications of the Cyclone costume.
+
+| Notes                   =
+| Trivia                  =
+| Links                   =
+}}
+[[Category:Flight]]
+[[Category:Aerokinesis]]
+[[Category:Armor Users]]

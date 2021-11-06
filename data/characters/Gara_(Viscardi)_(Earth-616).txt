@@ -1,0 +1,68 @@
+{{Marvel Database:Character Template
+| Image                   = Gara (Viscardi) (Earth-616) from Guardians of the Galaxy & X-Men Black Vortex Alpha Vol 1 1 002.jpg
+| Name                    = Gara
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{m|Elders of the Universe (Earth-616)|Elders of the Universe}} (tentatively, see [[#Notes|notes]])
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Grey
+| Eyes2                   = (after [[Black Vortex]] exposure); formerly grey or [[:Category:Blue Eyes|blue]], with white or black corneas{{r|Guardians of the Galaxy & X-Men: Black Vortex Alpha #1}}[[Category:Variable Eyes]][[Category:Blue Eyes]]
+| Hair                    = None
+| UnusualSkinColor        = Grey
+| UnusualSkinColor 2      = , with [[:Category:Red Skin|red sparks]] (after [[Black Vortex]] exposure); formerly grey with [[:Category:Purple Skin|purple stripes]] and circular purple spot on forehead[[Category:Red Skin]][[Category:Purple Skin]]
+| UnusualFeatures         = Fangs (after [[Black Vortex]] exposure)
+
+| Origin                  = [[Viscardi (Race)|Viscardi]] elevated to a [[Glossary:Cosmic Beings|Cosmic Entity]] by the [[Black Vortex]]{{r|Legendary Star-Lord Vol 1 11}}<br>([[Glossary:Elder of the Universe|Elder of the Universe]])
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Viscardi (Planet)|Viscardi]]
+
+| Identity                = No Dual
+| Citizenship             = Viscardi
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = [[Viscardi (Planet)|Viscardi]]
+
+| Creators                = Sam Humphries; Ed McGuinness
+| First                   = Guardians of the Galaxy & X-Men: Black Vortex Alpha Vol 1 1
+
+| Quotation               = The Vortex '''elevates''' you to a cosmic entity. But there is no accounting for what it does to your '''heart.'''
+| Speaker                 = [[Gara (Viscardi) (Earth-616)|Gara]]
+| QuoteSource             = Legendary Star-Lord Vol 1 11
+
+| History                 = [[File:Gara (Viscardi) (Earth-616) from Guardians of the Galaxy & X-Men Black Vortex Alpha Vol 1 1 001.jpg|thumb|left|Original appearance]]
+===Early Years===
+Gara was a [[Viscardi (Race)|Viscardi]] who confronted the [[Celestials (Race)|Celestial]] [[Godhead (Earth-616)|Godhead]] after one of her species' numerous attempts at leaving their [[Viscardi (Planet)|planet]] failed, trying to explain to him what ambition felt like for her species and how they only wanted to be closer to him, and to know the cosmos. The Godhead acknowledged Gara's speech, and raised his hand, creating before her the [[Black Vortex]].{{r|Guardians of the Galaxy & X-Men: Black Vortex Alpha #1}}
+
+One year after this event, every Viscardi had succumbed to the Black Vortex's power, and fought each other until Gara was the sole survivor of her species. After killing [[Adron (Earth-616)|the other last remaining Viscardi]], Gara once again confronted the Godhead, asking him if the annihilation of her species is what he sought. The Godhead merely departed the planet with no reply.{{r|Guardians of the Galaxy & X-Men: Black Vortex Alpha #1}}
+
+===Modern Days===
+Twelve billion years into the future, Gara was on a mission to find the Black Vortex and destroy it. In her mission to find the Vortex, Gara was caught in the middle of a between the [[Guardians of the Galaxy (Earth-616)|Guardians of the Galaxy]] and the [[X-Men (Earth-616)|X-Men]] against [[J'son (Earth-616)|Mister Knife]] and his [[Slaughter Lords (Earth-616)|Slaughter Lords]].{{r|Guardians Team-Up #3}}
+
+When the planet [[Spartax (Planet)|Spartax]] had been encased in amber by Mister Knife's ally [[Thane (Earth-616)|Thane]], the Guardians and the X-Men managed to retrieve the Vortex from them and planned to use it to save the planet. Gara interrupted the heroes when they were discussing how to proceed, and recovered the Vortex. The X-Man Magik convinced her to let one of them use the Vortex for a last time, and [[Katherine Pryde (Earth-616)|Kitty Pryde]] decided to be that person.{{r|Legendary Star-Lord #9}}
+
+After Kitty used her augmented phasing powers to save Spartax, Gara was given the Vortex. Before leaving with it to guard it, as it couldn't be destroyed, she allowed whoever wanted to use the Vortex to get rid of their cosmic powers. Finally, Gara rested at the center of a star, guarding the Black Vortex in her arms.{{r|Guardians of the Galaxy & X-Men: Black Vortex Omega #1}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * Gara has been referred by herself and others as an Elder of the Universe.{{r|Guardians Team-Up #3}}{{r|Legendary Star-Lord #11}} It is unknown if she is part of the group [[Elders of the Universe (Earth-616)|of the same name]], but as the only survivor of an early species, she would qualify as such.
+* Gara claims to be twelve billion years old.{{r|Legendary Star-Lord Vol 1 11}}
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Black Vortex users]]

@@ -1,0 +1,80 @@
+{{Marvel Database:Character Template
+| Image                   = Sentry 459 (Earth-616) from Avengers Vol 1 288 001.png
+| Name                    = Sentry 459
+| CurrentAlias            = Sentry
+| Aliases                 = 
+
+| Affiliation             = Agent of the [[Kree Empire]]; agent of the [[Super-Adaptoid (Earth-616)|Super-Adaptoid]], {{m|Heavy Metal (Earth-616)|Heavy Metal}}, {{M|Underground Legion}}
+| Relatives               = [[Sentry 213 (Earth-616)|Sentry 213]] might be considered an older "sibling" and [[Sentry 9168 (Earth-616)|Sentry 9168]] might be considered younger "sibling"
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = 
+| Height                  = 15'0"
+| Weight                  = 
+| Eyes                    = Black 
+| Hair                    = None
+| UnusualSkinColor        = Silver 
+| UnusualSkinColor 2      = Blue 
+| UnusualFeatures         = Robotic construction
+
+| Origin                  = [[Kree Sentries|Kree Sentry]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = Hala (Planet)
+| PlaceOfDeath            = 
+
+| Identity                = Secret 
+| Citizenship             = Kree Empire, [[:Category:Kree Sentries|Kree Sentry]][[Category:Kree Sentries]]
+| Occupation              = [[Kree Sentries|Sentry]] 
+| Education               = 
+| BaseOfOperations        = Originally, a small island in South Pacific.
+
+| Creators                = Stan Lee; Jack Kirby
+| First                   = Fantastic Four #64
+| Death                   = Blackwulf #10
+
+| History                 = The alien species known as the [[Kree]] developed and built the Sentries to watch over their military advanced bases and supply depots throughout the [[Kree Empire]] and beyond. 
+
+Some 80,000 years ago, in Kree year 1220, Kree scientist [[Bronnek]] developed the prototype Sentry. The [[Supreme Council]] of the Kree Empire began to mass-build Sentries for military purposes. Hundreds of thousands of Sentries were built, although only a few thousand are currently active. 
+
+Sentry 213 was the first Sentry sent to the Earth's system, and it was placed in a little surveillance/supply depot on the surface of [[Uranus (Planet)|Uranus]]. It was discovered by an exiled group of [[Eternals]], who proceeded to destroy the Sentry and invade the depot. 
+
+The second Sentry sent to the Earth system was Sentry 459, which escorted a team of Kree scientists wanting to research the most advanced life form of the system some 25,000 years ago. The Kree noticed that Earthlings could evolve to become advanced beings similar to the Eternals, so the Kree performed their own experiments, creating a genetically-advanced tribe that would become the [[Inhumans]]. The scientists left, but Sentry 459 was programmed to keep Inhumans under surveillance, monitoring their progress in civilization. The Kree wanted to one day use the Inhumans as an army.
+
+Millenia after that, Inhuman geneticist [[Randac (Earth-616)|Randac]] discovered the mutagenic [[Terrigen Mist]] that could genetically alter his kin. Sentry 459 activated for the first time and contacted its leaders. After which it returned to its hiding place and remained there for some millenia.{{r|Thor Vol 1 147}}
+
+During the mid-20th century, archaeologist [[Daniel Damian (Earth-616)|Daniel Damian]] discovered the advanced subterranean base of Sentry 459 on a small island in the South Pacific. The Sentry re-activated due to the alarm system and again contacted its masters. One of the surveillance devices attracted the attention of the [[Fantastic Four (Earth-616)|Fantastic Four]], who were on vacation nearby.  the Sentry fought them, but the Fantastic Four defeated the robot, freed Damian and his aide and escaped.{{r|Fantastic Four #64}} The Sentry was later placed under custody of the United States government and taken to [[Cape Canaveral]]. 
+
+Due to this defeat, the Kree sent their main agent [[Ronan (Earth-616)|Ronan the Accuser]] to Earth.{{r|Fantastic Four #65}}
+
+A Kree Senior Field Grade Officer, Colonel [[Yon-Rogg (Earth-616)|Yon-Rogg]], managed to get access to the Sentry and reactivated it. Yon-Rogg was the commander of a Kree reconnaissance mission on Earth, and also an enemy of one of his own Junior Field Grade Officers, [[Mar-Vell (Earth-616)|Captain Mar-Vell]].{{r|Marvel Super-Heroes Vol 1 13}} Yon-Rogg wanted the Sentry to fight and destroy Mar-Vell, but Mar-Vell defeated the Sentry. {{r|Captain Marvel Vol 1 1}}
+
+Ronan re-activated the Sentry after that, and used it in a scheme to invert the evolution in Earth. The scheme failed miserably and Ronan abandoned the Sentry on the Earth's [[North Pole]].{{r|Avengers Vol 1 89|91}}
+
+Kree agents [[Mac-Ronn (Earth-616)|Mac-Ronn]] and Tara found the Sentry and erased its previous programming and memories. They loaded the Sentry on their ship but, before they could escape with it, [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] shot down their ship. The Sentry fell near [[Mexico City]] and went on a rampage, until stopped by Mar-Vell.{{r|Captain Marvel Vol 1 47|49}}
+
+The Sentry 459 was eventually destroyed by Ronan.
+
+| Powers                  = * Auto-repair: A Sentry can repair itself unless it is destroyed.
+* Communications: A Sentry can transmit and receive data from the [[Kree]] at light-speed. As the Kree live in another galaxy, most of the communications is not urgent.
+* Energy Beam: Sentry 459 could shoot a powerful energy beam from his eyes.
+* Robot: Due to its nature, the sentry is protected by the sheer strength of its hull. It cannot be affected by emotional or mental attacks, nor by illusions. However, he is susceptible to attacks affecting machinery.
+
+| Abilities               = 
+| Strength                = [[Strength Scale#80 Tons|80 ton range]].
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * Sentry 459 was referred to as "the Sentry Sinister" in some captions and preview blurbs, but the name was not actually used in-universe.{{r|Avengers Vol 1 89}}
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * [[Gamer's Handbook of the Marvel Universe]]
+
+}}
+[[Category:Silver-Age Characters]]
+[[Category:Kree Technology]]
+[[Category:Machinesmith Experiment]]

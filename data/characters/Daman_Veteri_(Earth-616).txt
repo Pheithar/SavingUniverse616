@@ -1,0 +1,52 @@
+{{Marvel Database:Character Template
+| Image                   = Daman Veteri (Earth-616) from Indestructible Hulk Vol 1 3 001.jpg 
+| Name                    = Daman Veteri
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{m|Strategic Homeland Intervention, Enforcement and Logistics Division|S.H.I.E.L.D.}}, {{m|Temporal Irregularity Management and Eradication|T.I.M.E.}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Black
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = Human
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Molecular engineer, S.H.I.E.L.D. scientist, slave to [[Lyra (Earth-8009)|Lyra]]{{r|Hulk Vol 3 16}}
+| Education               = 
+| BaseOfOperations        = [[S.H.I.E.L.D. Helicarrier]]
+
+| Creators                = Mark Waid; Lenil Yu
+| First                   = Indestructible Hulk #3
+
+| History                 = Dr. Veteri is a Nobel prize-winning molecular engineer who decided to work with S.H.I.E.L.D., refusing offers from [[Oscorp]] and [[Horizon Labs (Earth-616)|Horizon Labs]], specifically along [[Bruce Banner (Earth-616)|Dr. Bruce Banner]], who had recently joined the spy organization.{{r|Indestructible Hulk #3}}
+
+After a mission involving the [[Enclave (Earth-616)|Enclave]], Daman and the rest of Banner's team remained in the [[Beehive]] in order to find a cure for the condition of their newly-manifested Inhuman teammate [[Randall Jessup (Earth-616)|Randall Jessup]], as they would be punished by S.H.I.E.L.D. if they returned, as they had previously escaped lockdown to help the Hulk during one of Banner's rage attacks.{{r|Indestructible Hulk Vol 1 20}}
+
+| Powers                  = 
+| Abilities               = Genius-level intellect
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Inventors]]
+[[Category:Nobel Prizes]]

@@ -1,0 +1,51 @@
+{{Marvel Database:Character Template
+| Image                   = Asti (Earth-616) from New Avengers Vol 4 14 001.png
+| Name                    = [[Asti]]
+| CurrentAlias            = [[Asti]] the [[All-Seeing]]
+| Aliases                 = 
+
+| Affiliation             = {{M|World Headquarters for International Scientific/Philosophical Experimentation and Research|W.H.I.S.P.E.R.}}, {{M|New Revengers}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = 
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = [[Demon]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Minion of [[Dormammu (Earth-616)|Dormammu]]
+| Education               = 
+| BaseOfOperations        = [[Dark Dimension]]
+
+| Creators                = Roy Thomas; Steve Ditko
+| First                   = Strange Tales #144
+
+| History                 = [[File:Asti (Earth-616) from Defenders Vol 1 10 0001.jpg|thumb|left|Asti stealing the Evil Eye from the Defenders and Avengers.]]
+A demonic creature that has served as a minion of [[Dormammu (Earth-616)|Dormammu]], Asti was once set upon [[Stephen Strange (Earth-616)|Doctor Strange]] who was able to defeat the creature.{{r|Strange Tales #144}}
+
+Later, during the ''[[Avengers/Defenders War]]'', Dormammu sent Asti to collect the completed [[Evil Eye]] from the two hero teams in order merge the [[Dark Dimension]] with [[Earth]]'s dimension. While Asti succeeded in its task, Dormammu's plot ultimately failed.{{r|Defenders #10}}
+
+Asti was later recruited by the [[Reed Richards (Earth-1610)|Maker]] to join his [[New Revengers (Earth-616)|New Revengers]].{{r|New Avengers Vol 4 7}}
+
+| Powers                  = Asti can fly at great speed,{{citation}} absorb magical energy,{{citation}} and travel between dimensions.{{citation}} It can also observe, detect, and locate items, beings,{{citation}} etc.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

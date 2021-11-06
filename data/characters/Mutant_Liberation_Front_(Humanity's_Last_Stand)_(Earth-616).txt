@@ -1,0 +1,34 @@
+{{Marvel Database:Team Template
+| Image                   = Mutant Liberation Front (Humanity's Last Stand) (Earth-616) from Punisher Vol 3 15 0001.jpg
+| Name                    = [[Mutant Liberation Front]] 
+| Aliases                 = <nowiki></nowiki>
+| Distinguish1            = Mutant Liberation Front 
+
+| Status                  = Defunct
+| Identity                = Secret
+| Reality                 = Earth-616
+| BaseOfOperations        = Formerly Humanity's Last Stand complex, East Buffolk, [[Oklahoma (State)|Oklahoma]]
+
+| Leaders                 = 
+| CurrentMembers          = 
+| FormerMembers           = [[Blastfurnace (Earth-616)|Blastfurnace]], [[Mark Randall (Earth-616)|Deadeye (Mark Randall)]], [[Jay Burnell (Earth-616)|Deadeye II (Jay Burnell)]], [[Michael Black (Earth-616)|Corpus Derelecti (Michael Black)]], [[Adam Fisher (Earth-616)|Corpus Derelicti II (Adam Fisher)]], [[Kylie Kopeikin (Earth-616)|Blindspot (Kylie Kopeikin)]], [[Kristine Calverly (Earth-616)|Burnout (Kristine Calverly)]], [[Megan O'Toole (Earth-616)|Burnout II (Megan O'Toole)]], [[Carol Peterson (Earth-616)|Thermal (Carol Peterson)]]
+| Allies                  = [[Humanity's Last Stand (Earth-616)|Humanity's Last Stand]]
+| Enemies                 = [[Frank Castle (Earth-616)|Punisher]], [[Carl Denti (Earth-616)|X-Cutioner]], [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]]
+
+| Origin                  = Humans posing as mutant terrorists to increase anti-mutant sentiment.
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = Humanity's Last Stand complex, East Buffolk, [[Oklahoma (State)|Oklahoma]]
+| Creators                = Jon Ostrander; Tom Lyle
+| First                   = Punisher Vol 3 12
+| Last                    = Punisher Vol 3 16
+
+| HistoryText             = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * http://www.marvunapp.com/Appendix/mutantlib.htm
+}}

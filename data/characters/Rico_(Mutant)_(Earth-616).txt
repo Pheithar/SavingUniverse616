@@ -1,0 +1,75 @@
+{{Marvel Database:Character Template
+| Image                   = Rico_(Mutant)_(Earth-616)_from_Nightcrawler_Vol_4_6_003.jpg
+| Name                    = Rico
+| Name2                   = (full name unknown)
+| CurrentAlias            = [[Scorpion Boy]]
+| CurrentAliasRef         = {{r|Nightcrawler Vol 4 6|'s recap page}}
+| Aliases                 = 
+
+| Affiliation             = Formerly {{M|X-Men (Earth-616)|X-Men}} (Jean Grey School member), [[Xavier Institute student body#Jean Grey School students|Jean Grey School student body]]
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = White
+| Hair                    = Red
+| UnusualFeatures         = Scorpion/ant form with mandibles, massive claws as arms, a tail with a dart, two set of legs, and insect-like wings
+| UnusualSkinColor        = Red
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Student
+| Education               = High school classes at Jean Grey School
+| BaseOfOperations        = Mobile; formerly [[Xavier's School for Gifted Youngsters|Jean Grey School for Higher Learning]], [[Westchester County]], [[New York (State)|New York]]
+
+| Creators                = Chris Claremont; Todd Nauck
+| First                   = Nightcrawler Vol 4 1
+
+| Quotation               = [[National Aeronautics and Space Administration (Earth-616)|NASA]] will love him.
+| QuoteSource             = Nightcrawler Vol 4 1
+| Speaker                 = [[Kurt Wagner (Earth-616)|Nightcrawler]]
+
+| History                 = Rico is a [[Homo superior|mutant]] student attending [[Jean Grey School for Higher Learning]]. He wants to become an astronaut.{{r|Nightcrawler Vol 4 1}}
+
+He seems to be used to moving across the School using his powers to walk on the ceiling, and that almost causes a collision with [[Kurt Wagner (Earth-616)|Nightcrawler]], freshly returned from the dead at that time. He was warned by [[Rachel Summers (Earth-811)|Rachel Summers]] before Rico could run into him.{{r|Nightcrawler Vol 4 1}}
+
+When the Trimegas assaulted the school, Rico bravely protected one of his fellow schoolmates by attacking the intruder, but was quickly overwhelmed, and as quickly saved by [[James Howlett (Earth-616)|Wolverine]]. He was teleported away by Nightcrawler and taken care of by [[Cecilia Reyes (Earth-616)|Cecilia Reyes]].{{r|Nightcrawler Vol 4 4}}
+
+Rico explains to Nightcrawler that most nights he likes to explore the school because he doesn't need much sleep. He finds Kurt working on the [[X-Men Blackbird|Blackbird]] late at night and eventually Kurt asks if he'd like to join him on a test-flight, just for fun.{{r|Nightcrawler Vol 4 5}} The two get caught up with a favor for [[Ororo Munroe (Earth-616)|Storm]] and Rico has his very fist chance at being a hero by helping save a group of scared humans and a young mutant named [[Ziggy Karst (Earth-616)|Ziggy Karst]] from the [[Crimson Pirates (Earth-616)|Crimson Pirates]].{{r|Nightcrawler Vol 4 6}}
+
+| Personality             = Rico was stated by [[Rachel Summers (Earth-811)|Rachel Summers]] to have a ''"wicked sense of humor"'',{{r|Nightcrawler Vol 4 1}} and by [[Kurt Wagner (Earth-616)|Nightcrawler]] to have ''"more courage than sense"''.{{r|Nightcrawler Vol 4 4}}
+
+| Powers                  = Rico is a [[Homo superior|mutant]] mutated in the form of a winged-ant/scorpion, granting him at least the following abilities:
+*'''Natural Weapons:''' Rico's mutant physiology has equipped him with two pincers and a stinger tail. The pincers are strong enough to crush small metal items,{{r|Nightcrawler Vol 4 6}} while the tail can be used as a clubbing weapon{{r|Nightcrawler Vol 4 12}} or additional limb with limited prehensibility.{{r|Nightcrawler Vol 4 6}} It is not yet known if his tail's stinger actually delivers venom, though by itself it can be used as an effective stabbling weapon if needed.
+* '''Wallcrawling:''' Rico is able to walk on ceilings and roofs at high speeds.{{r|Nightcrawler Vol 4 1}}
+* '''Flight:''' His wings, while apparently too small to carry his full weight, allow him to boost his jumps{{r|Nightcrawler Vol 4 4}} and his running speed.{{r|Nightcrawler Vol 4 12}}
+*'''Enhanced Endurance:''' Rico's unusual physiology allows him to go on comparably less sleep than a normal human male of his age.{{r|Nightcrawler Vol 4 5}}
+| Abilities               = Rico is stated to be trained at working in Zero-G.{{r|Nightcrawler Vol 4 1}} <!-- We should create a category for Zero-G trained characters ? -->
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Scorpion Form]]
+[[Category:Insect Form]]
+[[Category:Mutants activated after M-Day]]
+[[Category:Mandibles]]
+[[Category:Wallcrawling]]
+[[Category:Multiple Legs]]
+[[Category:Jean Grey School students]]
+[[Category:Flight]]

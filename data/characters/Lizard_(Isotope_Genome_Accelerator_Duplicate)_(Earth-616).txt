@@ -1,0 +1,54 @@
+{{Marvel Database:Character Template
+| Image                   = Lizard (Isotope Genome Accelerator Duplicate) (Earth-616) from Amazing Spider-Man Vol 5 70 001.jpg
+| Name                    = 
+| CurrentAlias            = Lizard 
+| Aliases                 = 
+
+| Affiliation             = {{m|Sinister Six}} 
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = None
+| UnusualFeatures         = Reptilian physiology- eyes, skin, appendages
+
+| Origin                  = Duplicate of a [[Homo sapiens|human]] [[Mutates|mutate]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Empire State University]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Nick Spencer; Federico Vicentini
+| First                   = Amazing Spider-Man Vol 5 70
+
+| Quotation               =
+| Speaker                 =
+
+| History                 = The creation of this duplicate of The Lizard was the result of the coerce separation of [[Curtis Connors (Earth-616)|Dr. Curt Connors]] at [[Empire State University]] involving the [[Isotope Genome Accelerator]] by [[Otto Octavius (Earth-616)|Doctor Octopus]] as part of [[Harold Osborn (Earth-616)|Kindred]]'s plan to reunite the [[Sinister Six (Earth-616)|Sinister Six]].{{r|Amazing Spider-Man Vol 5 70}}
+
+| Personality             =
+
+| Powers                  = Seemingly [[Curtis Connors (Earth-616)#Powers|those]] of [[Curtis Connors (Earth-616)|Curt Connors]].
+| Abilities               = Seemingly [[Curtis Connors (Earth-616)#Abilities|those]] of [[Curtis Connors (Earth-616)|Curt Connors]].
+| Strength                = Seemingly [[Curtis Connors (Earth-616)#Strength|that]] of [[Curtis Connors (Earth-616)|Curt Connors]].
+| Weaknesses              = Seemingly [[Curtis Connors (Earth-616)#Weaknesses|those]] of [[Curtis Connors (Earth-616)|Curt Connors]].
+
+| Equipment               = Seemingly [[Curtis Connors (Earth-616)#Equipment|those]] of [[Curtis Connors (Earth-616)|Curt Connors]].
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Clones of Curtis Connors]]

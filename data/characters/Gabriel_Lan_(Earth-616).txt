@@ -1,0 +1,76 @@
+{{Marvel Database:Character Template
+| Image                   = Gabriel Lan (Earth-616) from Official Handbook of the Marvel Universe Vol 2 16 0001.gif
+| Name                    = Gabriel Lan
+| CurrentAlias            = Air-Walker
+| Aliases                 =
+
+| Affiliation             = Former member of {{M|Nova Corps (Earth-616)|Nova Corps}}, {{M|Heralds of Galactus (Earth-616)|Heralds of Galactus}}
+| Relatives               =
+| MaritalStatus           =
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #4}}
+| Gender                  = Male
+| Height                  = 6'2"
+| Weight                  = 240 lbs
+| Eyes                    = Black
+| Hair                    = Black
+| UnusualFeatures         = Large flaming wings on his back
+
+| Origin                  = [[Xandarians|Xandarian]] transformed into Air-Walker by Galactus
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Xandar]], [[Tranta (System)|Tranta System]], [[Andromeda Galaxy]]
+| PlaceOfDeath            = Interstellar space between Segar and Jan SEC system, [[Milky Way]] galaxy
+
+| Identity                = Secret
+| Citizenship             = Xandarian
+| Occupation              = Former starship captain, Herald of [[Galan (Earth-616)|Galactus]]
+| Education               = 
+| BaseOfOperations        =
+
+| Creators                = Mark Gruenwald; Ralph Macchio; Keith Pollard
+| First                   = Thor #306
+| Death                   = Thor #306
+
+| History                 = Gabriel Lan was a captain of the [[Xandarians|Xandarian]] explorer-ship, the [[Way-Opener]], whose mission was to seek out and establish peaceful relationships with neighboring alien civilizations. Lan previously distinguished himself in [[Xandar]]'s military, the [[Nova Corps (Earth-616)|Nova Corps]], and welcomed his appointment to an exploration ship since he was filled with the wanderlust and love of open space.{{r|Thor #306}} [[File:Gabriel Lan and Pyreus Kril (Earth-616) from Thor Vol 1 306 0001.jpg|thumb|left|Gabriel Lan and Pyreus Kril as Xandarian officers.]]
+
+Returning from his seven-year tour of duty, Lan neared his home solar system when a spherical craft of an unidentified nature approached. A teleportation beam took him from the bridge of the Way-Opener and brought him aboard the spherical ship into the presence of [[Galan (Earth-616)|Galactus]] the World Devourer. Galactus announced that he was looking for a new herald to replace the defective [[Norrin Radd (Earth-616)|Silver Surfer]], and having scanned Lan's mind, deemed him an appropriate candidate. Hearing Galactus' offer of vast power and unlimited travel, Lan readily accepted and was transformed by a tiny fraction of Galactus' [[Power Cosmic|cosmic might]] into the Air-Walker, second of Galactus' great [[Heralds of Galactus (Earth-616)|heralds]].{{r|Thor #306}}
+
+Voluntarily putting all thoughts of his previous life behind, the Air-Walker served Galactus faithfully for years, seeking out new worlds to suit his master's appetites. He came to befriend Galactus, and would pass long hours listening to Galactus' tales of the wonders and mysteries of the universe.{{r|Thor #306}}
+
+One day, after Lan found a new world for Galactus to drain and was returning to Galactus' ship to tell him of it, the Air-Walker saw a fleet of warships in battle formation approaching. The ships contained members of the [[Ovoids]], a highly advanced civilization who feared Galactus' presence so close to their star system. The Air-Walker launched an attack on the Ovoid fleet and was struck down by Ovoidian weaponry designed to slay Galactus himself. Because Galactus was so weak from hunger, he was unable to retaliate with full force and decided to retreat from that space sector. His power still at a low ebb, Galactus could not afford to give up any of his personal energy to resuscitate the dying spark of life in his faithful herald.{{r|Thor #306}} 
+[[File:Way-Opener from Thor Vol 1 306 001.png|thumb|Gabriel Lan's Xandarian ship the Way-Opener.]]
+
+However, once his energies were renewed, Galactus transferred the consciousness of his herald, who laid down his life for him, to a [[Air-Walker (Automaton)|perfect robotic replica]].{{r|Fantastic Four #120}} 
+
+| Powers                  = The original Air-Walker possessed the vast cosmic power that Galactus granted to all of his heralds upon their initiation. His body was restructured to be a living battery of cosmic energy, the Air-Walker could utilize cosmic power for a variety of effects: heat, concussive force, magnetism, electricity, etc. Unlike most of the other heralds the Air-Walker utilized this cosmic energy without an accompanying visible manifestation (such as [[Pyreus Kril (Earth-616)|Firelord]]'s "cosmic flame"). The Air-Walker could also use cosmic energy to rearrange molecules, although he never became as adept at it as did the Silver Surfer. The cosmic energy augmented his strength, endurance, and durability. At maximum exertion, the Air-Walker could match the strength of the Thing. He could use his cosmic power to peak capacity for several earth months without resting before fatigue or the need to dream began to impair his function. His skin was treated to be immune to virtually all the conventional rigors of space. It took a force greater than the cosmic force invested in his creation by Galactus to kill him. Air-Walker did not need to eat or breathe since he absorbed life maintaining cosmic energies through his cells.
+
+The Air-Walker could fly through space at hyperlight velocities. While moving through planetary atmospheres, he would curtail his speed so as not to cause catastrophic side effects. The Air-Walker did not employ such conveyances as the Silver Surfer's surfboard or Firelord's baton in order to travel; he traveled and navigated by his own power.
+
+| Abilities               =
+| Strength                = Class 100
+| Weaknesses              =
+
+| Equipment               = Gabriel possessed the “[[Horn of Galactus]]”, a golden trumpet-like device that could summon Galactus across any distance.
+| Transportation          = Warp speed travel under his own power.
+| Weapons                 = '''[[Bow of Gabriel]]'''
+
+| Notes                   =
+* Air-Walker died sometime prior to his first appearance on [[Earth]].
+* When the [[Air-Walker (Automaton)]] first appeared on [[Earth]] it was mistaken for the biblical archangel Gabriel due to its imposing appearance, its "horn" and the coincidence that Air-Walker's first name was also Gabriel.
+
+| Trivia                  = * Going by the three stars on his uniform,{{r|Thor Vol 1 306}} Gabriel achieved the rank of Centurion in the [[Xandarians|Xandarian]] [[Nova Corps (Earth-616)|Nova Corps]].
+| Links                   =
+}}
+[[Category:Centurion (Nova)]]
+[[Category:Xandarians]]
+[[Category:Power Cosmic]]
+[[Category:Flight]]
+[[Category:Denarian (Nova)]]
+[[Category:Thermokinesis]]
+[[Category:Concussive Blasts]]
+[[Category:Magnetokinesis]]
+[[Category:Electrokinesis]]
+[[Category:Matter Manipulation]]
+[[Category:Superhuman Strength]]
+[[Category:Superhuman Stamina]]
+[[Category:Self Sustenance]]

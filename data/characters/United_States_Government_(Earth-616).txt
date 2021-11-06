@@ -1,0 +1,38 @@
+{{Marvel Database:Organization Template
+| Image                   = 
+| Name                    = United States Government
+| EditorialNames          = 
+| Aliases                 = 
+
+| OrganizationLeaders     = [[President of the United States of America]]
+| CurrentMembers          = Federal Executive Departments: [[United States Department of State (Earth-616)|United States Department of State]], [[United States Department of Treasury (Earth-616)|United States Department of Treasury]], [[United States Department of Justice (Earth-616)|United States Department of Justice]], [[United States Department of Agriculture (Earth-616)|United States Department of Agriculture]], [[United States Department of Commerce (Earth-616)|United States Department of Commerce]], [[United States Department of Labor (Earth-616)|United States Department of Labor]], [[United States Department of Defense (Earth-616)|United States Department of Defense]], [[United States Department of Health and Human Services (Earth-616)|United States Department of Health and Human Services]], [[United States Department of Housing and Urban Development (Earth-616)|United States Department of Housing and Urban Development]], [[United States Department of Transportation (Earth-616)|United States Department of Transportation]], [[United States Department of Energy (Earth-616)|United States Department of Energy]], [[United States Department of Education (Earth-616)|United States Department of Education]], [[United States Department of Veterans Affairs (Earth-616)|United States Department of Veterans Affairs]], [[United States Department of Homeland Security (Earth-616)|United States Department of Homeland Security]]
+| FormerMembers           = 
+
+| Identity                = Public
+| Affiliation             =
+| Allies                  = 
+| Enemies                 = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| Status                  = Active
+| BaseOfOperations        = [[Washington, D.C.]]
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+
+| Creators                = Joe Simon; Jack Kirby
+| First                   = Captain America Comics Vol 1 1
+
+| History                 = 
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[it:Governo degli Stati Uniti (Terra-616)]]
+[[Category:Historical Organizations]]
+[[Category:American Organizations]]
+[[Category:United States Government]]
+[[Category:Governments]]

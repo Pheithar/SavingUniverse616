@@ -1,0 +1,69 @@
+{{Marvel Database:Character Template
+| Image                   = Fallen One (Herald) (Earth-616) from Thanos Vol 1 11 001.jpg 
+| Name                    =
+| CurrentAlias            = Fallen One 
+| Aliases                 =
+
+| Affiliation             = {{M|Heralds of Galactus (Earth-616)|Heralds of Galactus}}
+| Relatives               =
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #4}}
+| Gender                  = Male
+| Height                  = 6'10"
+| Weight                  = 400 lbs
+| Eyes                    = White
+| Hair                    = Blue (with stellar patterns)
+| UnusualFeatures         = Skin apparently composed of [[Black Matter|dark matter]].
+| UnusualSkinColor        = Black
+
+| Origin                  = The first of [[Galan (Earth-616)|Galactus]]' heralds. ([[Aliens|Alien]])
+| Reality                 = Earth-616
+| PlaceOfBirth            =
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             =
+| Occupation              = Former herald of Galactus 
+| Education               =
+| BaseOfOperations        = Mobile 
+
+| Creators                = Keith Giffen; Ron Lim
+| First                   = Thanos #11
+| Death                   = Annihilation: Silver Surfer #4
+
+| History                 = The Fallen One was originally a Herald of the cosmic entity [[Galan (Earth-616)|Galactus]], and was his first attempt at creating a servant. Unlike later Heralds, the Fallen One was empowered by dark energy as opposed to cosmic radiation. The Fallen One, however, proved to be very cruel and was eventually imprisoned by Galactus. The Fallen One managed to escape and repeatedly attacked Galactus, who always defeated his former Herald. The hero [[Peter Quill (Earth-616)|Star-Lord]] eventually imprisoned the Fallen One in the inter-galactic prison the [[Kyln]]. The Fallen One escaped when the Kyln was destroyed in a conflict between [[Thanos (Earth-616)|Thanos]] and the entity [[Maker (Earth-616)|the Maker]]. Although the Fallen One found Galactus once again, Galactus simply teleported him back to Thanos to deal with. Thanos managed to defeat the Fallen One by tricking him into igniting a gas giant, which rendered him unconscious. Thanos then mentally enslaved him, forcing him to serve as Thanos' Herald.{{r|Thanos #11|12}}
+
+The Fallen One was at Thanos' side when [[Death (Earth-616)|Mistress Death]] appeared to him to encourage him to learn who was coming on [[Annihilation (Event)|Annihilation Day]].{{r|Annihilation: Prologue #1}}
+
+Thanos sent The Fallen one to investigate [[Seekers (Annihilus' Agents) (Earth-616)|The Seekers]] who the [[Norrin Radd (Earth-616)|Silver Surfer]] had just fought them off.{{r|Annihilation: Silver Surfer Vol 1 1}}
+
+After bringing the seekers to Thanos, the Fallen One was sent to locate the Maker, he found her corpse before he battled the [[Proemial Gods]] [[Tenebrous (Earth-616)|Tenebrous]] and [[Aegis (Proemial God) (Earth-616)|Aegis]], who killed him and presented his remains to Thanos in a gesture of contempt.{{r|Annihilation: Silver Surfer #3|4}}
+
+Thanos wanted obtain the power within and took the Fallen One's corpse and took it to the [[Dwarves of Nidavellir]]. They cremated the body and were able to transfer his power into an [[Herald's Urn|urn]].{{r|Yondu Vol 1 2}}
+
+| Powers                  = The Fallen One, unlike later Heralds, was granted control of [[Black Matter]], the "binding halo by which galaxies are made solvent". The Fallen One could use this matter to augment strength, reflexes and durability, project energy, control the electromagnetic spectrum, manipulate matter, and allow total immunity to the rigors of space. The Fallen One was also capable of traveling faster than the speed of light.
+
+He was stated to have a "Galactic" threat level by the [[Nova Corps (Earth-616)|Nova Corps]], even past his time as an Herald.{{r|Annihilation: The Nova Corps Files #1}}
+
+| Abilities               =
+
+| Strength                = Class 100 
+| Weaknesses              =
+
+| Equipment               =
+| Transportation          =
+| Weapons                 =
+
+| Notes                   =
+| Trivia                  =
+| Marvel                  =
+| Wikipedia               =
+| Links                   =* [http://www.marvunapp.com/Appendix2/fallenonethanos.htm Fallen One at Marvel Appendix]
+}}
+[[Category:Galactic Threat Level]]
+[[Category:Slaves]]
+[[Category:Flight]]
+[[Category:Self Sustenance]]
+[[Category:Superhuman Speed]]
+[[Category:Energy Manipulation]]

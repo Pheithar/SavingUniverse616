@@ -1,0 +1,44 @@
+{{Marvel Database:Team Template
+| Image                   = Quintronic Man (Earth-616) from Indestructible Hulk Vol 1 3 001.jpg
+| Name                    = Quintronic Man
+| Aliases                 = 
+
+| Status                  = Defunct
+| Identity                = Secret
+
+| Reality                 = Earth-616
+| BaseOfOperations        = A.I.M. facility
+
+| Leaders                 = [[Advanced Idea Mechanics (Earth-616)|A.I.M.]]
+| CurrentMembers          = 
+| FormerMembers           = [[Colin Thirty-Three (Earth-616)|Colin Thirty-Three]], [[Advanced Idea Mechanics (Earth-616)/Members#Van Dyke (Quintronic Man) (Earth-616)|Van Dyke]], [[Advanced Idea Mechanics (Earth-616)/Members#McCord (Quintronic Man) (Earth-616)|McCord]], [[Advanced Idea Mechanics (Earth-616)/Members#Stetson (Quintronic Man) (Earth-616)|Stetson]], unnamed A.I.M. agents, Professor Burke
+| Allies                  = 
+| Enemies                 = [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]], [[Bruce Banner (Earth-616)|Hulk]], [[Peter Parker (Earth-616)|Spider-Man]]
+
+| Origin                  = 
+| PlaceOfFormation        = Devil's Mouth, South Pacific
+| PlaceOfDissolution      = [[Long Island City]], [[Queens]]
+| Creators                = Len Wein; Sal Buscema
+| First                   = Incredible Hulk #213
+| Last                    = Civil War II: Amazing Spider-Man Vol 1 2
+
+| HistoryText             = The Quintronic Man was a project in which Professor Burke was working under the command of [[Advanced Idea Mechanics (Earth-616)|A.I.M.]] based from Iron Man. It's an exoskeleton which needed 5 men to operate, including himself. But Burke, the key agent on the project, left A.I.M. before it was finished.
+
+[[Colin Thirty-Three (Earth-616)|Colin Thirty-Three]] sent two agents to kidnap Professor Burke. In a apparently failed attempt to prevent A.I.M.'s mission from success, S.H.I.E.L.D. managed to change a face-covered Professor Burke with Bruce Banner, who as soon as he entered A.I.M.'s facility, started causing havoc.
+
+Colin decided that the project could've been finished without Burke, and used another A.I.M. agent to cover Burke's place. Other S.H.I.E.L.D. agents who supported Hulk were defenseless until the hero crashed on the scene. The Quintronic Man tried to kill Hulk using the lava of the volcano the A.I.M. base was in, but he survived, and crashed the suit's protection, allowing the lava to reach Thirty-Three and the other four agents, killing them and destroying the suit.{{r|Indestructible Hulk Vol 1 3}}
+
+Years later, five criminal scientists built a Quintronic Man in Long Island City. However, due to a malfunction in the power core, it was going to overheat and explode, taking a whole city block with it. Fortunately, the Inhuman precog [[Ulysses Cain (Earth-616)|Ulysses Cain]] saw the Quintronic Man explode in a vision and alerted [[Peter Parker (Earth-616)|Spider-Man]]. Going through the details of the vision with Ulysses, he was able to determine the cause and location of the explotion and went to stop it. After a brief fight with the Quintronic Man, Spider-Man was able to bring the core malfunction to the pilots' attention and had them drive the Quintronic Man into the river, where its core cooled down. The pilots were subsequently arrested.{{r|Civil War II: Amazing Spider-Man Vol 1 2}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = Various repulsor weapons systems
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Armor Users]]
+[[Category:Robots]]
+[[Category:A.I.M. Projects]]
+[[Category:Robots (Full Listing)]]

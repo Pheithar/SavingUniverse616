@@ -1,0 +1,79 @@
+{{Marvel Database:Character Template
+| Image                   = Ghost Rider Vol 6 11 Textless.jpg
+| Name                    = [[Steven Levins|Steven Mark "Steve" Levins]] {{r|Civil War: Battle Damage Report Vol 1 1}}
+| CurrentAlias            = [[Jack O'Lantern]]
+| Aliases                 = [[Steve Levins]]
+
+| Affiliation             = Formerly {{m|Jack O'Lanterns}}, {{m|New U Technologies}}, {{m|Thunderbolts}}, {{m|Radically Advanced Ideas in Destruction (Earth-616)|R.A.I.D.}}, {{m|Skeleton Crew}}
+| Relatives               = [[Martin Levins (Earth-616)|Martin Levins]] (father, deceased);<br>
+[[Phyllis Levins (Earth-616)|Phyllis Levins]] (mother, deceased);<br>
+[[Jack O' Lantern (Levins) (Earth-616)|Unnamed brother]] (allegedly deceased)
+| MaritalStatus           = Married 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 6'0"
+| Weight                  = 200 lbs.
+| Eyes                    = 
+| Hair                    = None
+| Hair2                   = As Jack O'Lantern, as Steve Levins unknown
+| UnusualFeatures         = His head is a flaming pumpkin
+
+| Origin                  = [[Homo sapiens|Human]] who sold his soul to [[Mephisto (Earth-616)|Mephisto]] for power and was later [[Glossary:Clone|cloned]] by [[Benjamin Reilly (Earth-616)|Miles Warren]].
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Sleepy Hollow (New York)|Sleepy Hollow]], [[Illinois (State)|Illinois]]
+| PlaceOfDeath            = 
+| KilledBy                = Frank Castle (Earth-616); Johnathon Blaze (Earth-616)
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Member of the [[New U Technologies (Earth-616)|New U Technologies]]; former bounty hunter for [[Mephisto (Earth-616)|Mephisto]], former Professional Criminal, Terrorist
+| Education               =
+| BaseOfOperations        = 
+
+| Creators                = Mark Gruenwald; Rik Levins
+| First                   = Captain America Vol 1 396
+
+| History                 = Steve Levins was a mercenary who fought [[Steven Rogers (Earth-616)|Captain America]] and [[Peter Parker (Earth-616)|Spider-Man]] as [[Jack O'Lantern]]. This incarnation of Jack O'Lantern was a member of the loosely-knit band of [[Johann Shmidt (Earth-616)|Red Skull]] minions called the [[Skeleton Crew (Earth-616)|Skeleton Crew]]. He was also a partner of Blackwing prior to joining the Skull's group. He also worked as an enforcer of the gangster The Golem and in this capacity, fought the villain The Hood when he interfered in Golem's machinations.{{Citation}}
+
+Levins resurfaced just before the Stamford incident that sparked the [[Civil War|superhuman civil war]]. He was hired by the terrorist organization [[Radically Advanced Ideas in Destruction (Earth-616)|R.A.I.D.]] and, along with [[Jackhammer (Earth-616)|Jackhammer]] and [[Lancaster Sneed (Earth-616)|Shockwave]], was ordered to flood the Thames Tunnel, but their plans were singlehandedly foiled by [[Joseph Chapman (Earth-616)|Union Jack's]] intervention.{{r|Union Jack Vol 2 2}} All the villains were arrested and Jack O'Lantern was most likely deported back to U.S.A. and then recruited into the Thunderbolts hero-hunting squad.
+
+While pursuing Spider-Man through the [[Manhattan]] sewers alongside the Jester,{{r|Civil War #5}} Jack O'Lantern was shot through the head and killed by the [[Frank Castle (Earth-616)|Punisher]]; however, he later reappeared, possessed by a fragment of [[Lucifer (Earth-616)|Lucifer]]'s soul, and exhibited the ability to detach, levitate, and explode his head, among other powers. The [[Johnathon Blaze (Earth-616)|Ghost Rider]] was able to eventually exorcise him by ripping his heart from his chest, setting it aflame, and putting it back in his chest, causing it to explode inside.{{r|Ghost Rider Vol 6 8|11}}
+
+Under unspecified circumstances, the [[Benjamin Reilly (Earth-616)|Jackal]] obtained the corpse of Steven Levins and resurrected him in a new [[Glossary:Clone|cloned]] body. Back as Jack O'Lantern, Levins stayed with the Jackal, serving him at [[New U Technologies (Earth-616)|New U Technologies]].{{r|Prowler Vol 2 1}} Jack O'Lantern later appeared aboard the ''[[Queen Kathleen]]'', a gambling ship owned by [[Lonnie Lincoln (Earth-616)|Tombstone]]. He came into conflict with [[Wade Wilson (Earth-616)|Deadpool]] when he stole twenty million dollars from the ship.{{r|Despicable Deadpool Vol 1 297}}
+
+When working as a mercenary for the [[Foreigner (Earth-616)|Foreigner]], Jack O'Lantern franchised his identity into a group of [[Jack O'Lanterns (Earth-616)|Jack O'Lanterns]]. Unbeknownst to him, the four additional Jacks were sleeper agents working for the [[Karl Fiers (Earth-616)|Finisher]].{{r|Giant-Size Amazing Spider-Man: Chameleon Conspiracy Vol 1 1}} The Jack O'Lanterns assisted the Foreigner when Spider-Man and [[Teresa Parker (Earth-616)|Teresa Parker]] attempted to disrupt a deal between him and the [[Dmitri Smerdyakov (Earth-616)|Chameleon]].{{r|Amazing Spider-Man Vol 5 32}} They were lated deployed to help the Foreigner's new partner, [[Nicholas Powell (Earth-616)|Chance]], steal a [[Web-Shooters|web-shooter]] off Spider-Man for a bet.{{r|Amazing Spider-Man Vol 5 40}}
+
+After Chance pressured one of his indebted patrons, college student and inventor [[Jamie Tolentino (Earth-616)|Jamie Tolentino]], into stealing a device called the [[Catalyst (Item)|Catalyst]] to power his own invention, a future-predicting artifact named the [[Clairvoyant (Item)|Clairvoyant]],{{r|Amazing Spider-Man Vol 5 68}} the Jack O'Lanterns revealed themselves as double agents and attempted to steal both devices on behalf of the Finisher.{{r|Amazing Spider-Man Vol 5 69}} Levins helped contain the Jacks' rampage, fighting his namesakes.{{r|Giant-Size Amazing Spider-Man: Chameleon Conspiracy Vol 1 1}}
+
+| Powers                  = '''Demonic Transformation:''' Steve Levins can transform to Jack O'Lantern any time at night or if he's really angry.{{Citation}}
+
+'''Superhuman Strength:''' As the Jack O'Lantern, Steve Levins is superhumanly strong and capable of lifting about 5 tons.{{Citation}}
+
+'''Superhuman Stamina:''' The mystical energy that empowers Jack O'Lantern prevents his muscles from producing fatigue toxins during physical activities, granting him limitless superhuman stamina.{{Citation}}
+
+'''Superhuman Durability:''' Jack O'Lantern's body is highly resistant to physical injury. He is capable of withstanding great impact forces, temperature and pressure extremes, powerful energy blasts, high caliber bullets, and falls from great heights without sustaining injury.{{Citation}}
+
+'''Fire Manipulation:''' Jack O'Lantern possesses the ability to generate and project fire at will.{{Citation}}
+
+'''Penance Scream:''' Once eye contact is made with somebody when Jack O'Lantern screams, the person he is looking at chokes to death.{{Citation}}
+| Abilities                = 
+| Strength                 = 
+| Weaknesses               = Overexposure to light and being in a church.{{Citation}}
+
+| Equipment               = [[Jack O'Lantern's Suit]]
+| Transportation          = [[Jack O'Lantern's Platform]]
+| Weapons                 = [[Pumpkin Bomb|Pumpkin Bombs]] and wristbands that can shoot out sleep gas.{{Citation}}
+
+| Notes                   = * His identity was first revealed in ''New Avengers Most Wanted'', a character compendium, where his name was noted to be [[Steven Levins|Steven Mark Levins]]. {{cl|Ghost Rider Vol 6 8}} confirmed the Levins identity for the first time in universe.
+* All transportation and weapons once belonged to the original [[Jack O'Lantern]], the second [[Jason Macendale Jr. (Earth-616)|Hobgoblin]], before he died.{{Citation}}
+| Trivia                  = 
+| Links                   = 
+}}
+[[pt-br:Steven Levins (Terra-616)]]
+[[Category:Pyrokinesis]]
+[[Category:Civil War casualties]]
+[[Category:New U Experiment]]
+[[Category:Cellular Degeneration]]
+[[Category:Formerly Deceased]]
+[[Category:Souls Sold to Mephisto]]

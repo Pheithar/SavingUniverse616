@@ -1,0 +1,61 @@
+{{Marvel Database:Character Template
+| Image                   = Praeter (Mike) (Earth-616) 0001.jpg
+| Name                    = Mike
+| CurrentAlias            = Praeter
+| Aliases                 = Pastor Mike
+
+| Affiliation             = {{M|Heralds of Galactus (Earth-616)|Heralds of Galactus}}
+| Relatives               = Unnamed wife (deceased)
+| MaritalStatus           = Widowed
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = None; White (formerly)
+| UnusualSkinColor        = Gold
+| UnusualFeatures         = 
+
+| Origin                  = Human who gained cosmic power from [[Galan (Earth-616)|Galactus]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Herald of Galactus; former preacher
+| Education               = 
+| BaseOfOperations        = Mobile throughout the galaxy; formerly [[Broxton]], [[Oklahoma (State)|Oklahoma]]
+
+| Creators                = Olivier Coipel; Matt Fraction
+| First                   = Mighty Thor Vol 2 1
+
+| Quotation               = I am '''the Praeter'''. I am the '''[[Heralds of Galactus (Earth-616)|Herald]] of [[Galan (Earth-616)|Galactus]]''', destined to explore the mysteries of the '''gods''' in all their splendor. And to introduce the '''gods''' to the mysteries of all that live in the sheltering '''shadow''' they cast.
+| Speaker                 = [[Praeter (Mike) (Earth-616)|Praeter]]
+| QuoteSource             = Mighty Thor Vol 2 6
+
+| History                 = 
+A preacher in [[Broxton]], [[Oklahoma (State)|Oklahoma]], Pastor Mike grew wary of the constant presence of [[Asgard]] so near the [[Broxton|city]], and the damage its presence invariably led to. Preaching against the city's presence, he eventually earned the ire of Asgardian [[Volstagg (Earth-616)|Volstagg]]. Mike later gathered a small group of his followers to take their complaints directly to Asgard itself, a gathering Volstagg deemed an assault on Asgard. Approaching the remains of Asgard, Mike bore witness to the arrival of [[Galan (Earth-616)|Galactus]], who sought the [[Galactus Seed]], an item that would finally sate his never ending hunger, but which the [[Asgardians]] needed for their own purposes. Seeing the giant entity, Mike believed him to be a god, and begged him to spare the [[Earth|planet]], to which Galactus simply responded "no." Though Galactus was eventually thwarted by the [[Destroyer (Enchanted Armor)|Destroyer]]'s presence and [[Loki Laufeyson (Earth-616)|Loki]]'s hiding of the Galactus Seed within [[Yggdrasil]], his then-herald the [[Norrin Radd (Earth-616)|Silver Surfer]] sought to ensure a compromise between Galactus and the Asgardians. Needing to stay on Earth to observe the Asgardians and ensure they never retrieved the Seed, the Surfer approached Mike about taking up his role as Herald, having observed Mike's courage in standing up to Galactus for the good of his people. Mike reluctantly accepted the task, becoming Praeter, [[Heralds of Galactus (Earth-616)|Herald of Galactus]].
+
+| Powers                  = 
+* Power Cosmic
+** Flight
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Clergy]]
+[[Category:Power Cosmic]]
+[[Category:Flight]]
+[[Category:Cosmic Beings]]

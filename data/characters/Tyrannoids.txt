@@ -1,0 +1,55 @@
+{{Marvel Database:Race Template
+| Image                   = Tyrannoids from Incredible Hulks Vol 1 627 001.jpg
+| Name                    = Tyrannoids
+| Aliases                 = 
+| Identity                = Secret
+| Affiliation             = [[Romulus Augustulus (Earth-616)|Tyrannus]] (King)
+| Universe                = Earth-616
+| BaseOfOperations        = 
+
+| BodyType                = Humanoid
+| AvgHeight               = 
+| AvgWeight               = 
+| Eyes                    = Red
+| Hair                    = None
+| Skin                    = Grey
+| NumberOfLimbs           = 4
+| NumberOfFingers         = 4
+| NumberOfToes            = 
+| SpecialAdaptations      = 
+| UnusualFeatures         = 
+
+| Origin                  = 
+| GalaxyOfOrigin          = Milky Way
+| StarSystemOfOrigin      = Sol
+| HomePlanet              = Earth
+| PlaceOfBirth            = 
+| Creators                = Stan Lee; Jack Kirby;
+| First                   = Incredible Hulk #5
+
+| HistoryText             = The Tyrranoids were a sub-species of [[Moloids]] that were named after their leader [[Romulus Augustulus (Earth-616)|Tyrannus]].
+
+| Habitat                 = 
+| Gravity                 = 
+| Atmosphere              = 
+| Population              = 
+
+| Powers                  = 
+| Abilities               = 
+| AvgStrength             = 
+| Weaknesses              = 
+
+| GovernmentType          = 
+| TechnologyLevel         = 
+| CulturalTraits          = 
+| Representatives         = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Subterraneans]]
+[[Category:Genus Homo]]
+[[Category:Deviant Mutates (Deviant Experiments)]]
+[[Category:Subterranean Races]]
+[[Category:Earth/Races]]

@@ -1,0 +1,162 @@
+{{Marvel Database:Character Template
+| Image                   = Erik Josten (Earth-616) from Thunderbolts Vol 3 2 002.png
+| Name                    = [[Erik Josten|Erik Stephan Josten]]
+| CurrentAlias            = [[Atlas]]
+| Aliases                 = Edward Jantzen,{{r|Thunderbolts Vol 1 15}} [[Goliath]],{{r|Iron Man Annual #7}} Intruder from Beyond,{{Citation}}  [[Power Man]],{{r|Avengers #21}} [[Shatterfist]],{{Citation}} [[Smuggler]]{{r|Peter Parker, The Spectacular Spider-Man #49}} 
+
+| Affiliation             = formerly {{m|Army of Evil (Earth-616)|Army of Evil}}, {{m|Masters of Evil}}, {{m|Thunderbolts}}, {{m|Revengers}}, {{m|Defenders (Initiative) (Earth-616)|Defenders}} ([[New Jersey (State)|New Jersey]] {{m|50-State Initiative|Initiative}} team), {{m|Maggia}}, [[Eric Williams (Earth-616)|Grim Reaper]]'s {{m|Lethal Legion (Grim Reaper) (Earth-616)|Lethal Legion}}, [[Mandarin (Earth-616)|Mandarin]]'s Minions, {{m|Emissaries of Evil (Egghead) (Earth-616)|Emissaries of Evil}}; former partner of [[Dallas Riordan (Earth-616)|Citizen V (Dallas Riordan)]] and [[Jacques Duquesne (Earth-616)|Swordsman]], [[Luchino Nefaria (Earth-616)|Count Nefaria]]'s {{m|Lethal Legion (Count Nefaria) (Earth-616)|Lethal Legion}}, {{m|United States Army (Earth-616)|US Army}}
+| Relatives               = [[Jonathan Josten (Earth-616)|Jonathan Josten]] (father, deceased);{{r|Thunderbolts: From the Marvel Vault #1}}<br>
+[[Martha Josten (Earth-616)|Martha Josten]] (mother, deceased);{{r|Thunderbolts: From the Marvel Vault #1}}<br>
+[[Conrad Josten (Earth-616)|Smuggler (Conrad Josten)]] (brother);<br>
+[[Carl Josten (Earth-616)|Carl Josten]] (brother, deceased);<br>
+[[Lindy Josten (Earth-616)|Lindy Josten]] (sister, deceased)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #1}}, {{cl|Giant-Man Vol 1 2}}
+| Gender                  = Male
+| Height                  = 6'4"; Variable
+| Weight                  = 225 lbs; Variable
+| Eyes                    = Brown; Blue (formerly)
+| Hair                    = Red; Brown (formerly)
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] [[Mutate]], infused with ionic energy and using [[Pym Particles]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Milwaukee]], [[Wisconsin (State)|Wisconsin]]
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Adventurer; former professional criminal, mercenary, dock worker, soldier
+| Education               = Military training
+| BaseOfOperations        = Mobile; formerly [[Thunderbolts Clubhouse]], [[North Pole]], [[Arctic Circle]]; [[Thunderbolts Clubhouse]], 40 miles south of Fort Sumner, [[New Mexico (State)|New Mexico]]; Thunderbolts Headquarters, [[Brooklyn Navy Yard]], [[Brooklyn]], [[New York City]] [[New York (State)|New York]]; [[Thunderbolts Mountain]], [[Colorado (State)|Colorado]]
+
+| Creators                = Stan Lee; Jack Kirby
+| First                   = Avengers #21
+| First2                  = (as Power Man)<br>{{sld|Peter Parker, The Spectacular Spider-Man #49}}(as Smuggler)<br>{{sld|Iron Man Annual #7}}(as Goliath)<br>{{sld|Incredible Hulk #449}}(as Atlas)
+| Quotation               = I'm not Power Man anymore. I'm Goliath. And where Goliath walks -- he walks alone!
+| Speaker                 = [[Erik Josten (Earth-616)|Goliath]]
+| QuoteSource             = Iron Man Annual Vol 1 7
+| Overview             =
+'''Erik Josten''' was an American soldier turned mercenary. On a delivery to [[South America]] he was [[Glossary:Mutate|mutated]] by [[Heinrich Zemo (Earth-616)|Baron Zemo]]'s [[Ionic Ray]] by [[Amora (Earth-616)|Amora, the Enchantress]] infusing him with ionic energy, he then joined the [[Masters of Evil (Earth-616)|Masters of Evil]] as [[Power Man]].{{r|Avengers Vol 1 21}} He took many other code names over the years such as the [[Smuggler]].{{r|Peter Parker, The Spectacular Spider-Man #49}} He was later mutated further by [[Karlin Malus (Earth-616)|Dr. Karlin Malus]] using [[Pym Particles]] to become [[Goliath]].{{r|Iron Man Annual #7}} He later became known as [[Atlas]] when he tried to become a hero and joined the [[Thunderbolts (Earth-616)|Thunderbolts]].{{r|Incredible Hulk #449}}
+
+| History                 =
+===Early Life===
+Erik Josten was born in [[Milwaukee]]{{r|All-New Official Handbook of the Marvel Universe A to Z Vol 1 1}} and raised on a farm 30 miles outside of [[Madison (Wisconsin)|Madison]], [[Wisconsin (State)|Wisconsin]] the son of Jonathan and Martha Josten. He was one brother from a large mid-western farming family which included [[Carl Josten (Earth-616)|Carl]] and [[Conrad Josten (Earth-616)|Conrad]]. Erik's sister [[Lindy Josten (Earth-616)|Lindy]] died in an accident and Erik blamed himself, thinking he could have prevented her death. Wracked with guilt, Josten ran away to join the [[United States Army (Earth-616)|US Army]].{{r|Thunderbolts #10}} When he was later discovered smuggling, Josten ran away from the army to become a soldier-for-hire.{{r|Thunderbolts #-1}}
+
+===Power Man===
+He was hired by Nazi scientist [[Heinrich Zemo (Earth-616)|Baron Heinrich Zemo]] to smuggle stolen technology into Zemo's secret South American stronghold. With this equipment, Zemo built a machine that could project an unknown form of mutagenic radiation ("ionic rays") capable of bestowing superhuman physical powers to a subject. Zemo's first subject was industrialist Simon Williams, who became known as [[Simon Williams (Earth-616)|Wonder Man]].{{r|Avengers #9}} When Zemo fled his South American base shortly thereafter, he left his "ionic ray" machine functional. Josten, who had been wounded by South American authorities in his latest smuggling venture, sought refuge in Zemo's now abandoned fortress and learned of Zemo's machine. There, Josten came to the mystical attention of the Enchantress, the Asgardian goddess who had been a former ally of Zemo. The Enchantress offered Josten the chance to submit to "ionic ray" treatment and he readily accepted. When the radiation treatment was through, Josten emerged with physical powers roughly equivalent to those of Wonder Man. The [[Amora (Earth-616)|Enchantress]] produced a costume for him and dubbed him Power Man. Traveling to the United States, Power Man assisted the Enchantress in her scheme to discredit and defeat the Avengers.{{r|Avengers #21}} When that plot failed and the Enchantress disappeared, the love-smitten Power Man surrendered to the [[Avengers (Earth-616)|Avengers]].{{r|Avengers #22}} The Avengers refused to press charges, however, and Power Man was released.
+
+Power Man soon met and allied himself with the criminal Swordsman and the Russian spy, the Black Widow, who at the time had been brainwashed by the Red Chinese. In battle with the Avengers, Power Man and the Swordsman were defeated but not taken into custody. Shortly thereafter, they were pitted unsuccessfully against [[Steven Rogers (Earth-616)|Captain America]] by the [[Johann Shmidt (Earth-616)|Red Skull]]. The Skull returned the two to where he found them and shortly afterwards the two partners were summoned by the [[Mandarin]] to aid him in his scheme of world conquest. Defeated by the Avengers in South America, Power Man and the Swordsman managed to escape while extradited back to the United States.{{r|Avengers Annual #1}}
+
+Later the two were contacted by the criminal [[Eric Williams (Earth-616)|Grim Reaper]] and invited to join his [[Lethal Legion (Grim Reaper) (Earth-616)|Lethal Legion]] for the express purpose of exacting revenge upon the Avengers. Although the Legion managed to capture most of the active Avengers, Power Man was defeated by the Vision. Vision donned Power Man's costume and infiltrated the Legion headquarters to rescue his comrades. The Avengers escaped and subdued their captors. This time the Avengers pressed charges and Power Man and most of his teammates were tried and imprisoned.{{r|Avengers #78|79}}
+
+===Smuggler===
+[[File:Erik Josten (Earth-616) from Peter Parker, The Spectacular Spider-Man Vol 1 49 cover 001.jpg|thumb|left]]
+When Josten was released, he learned that the name "Power Man" had been assumed by the hero-for-hire [[Luke Cage (Earth-616)|Luke Cage]]. Battling Cage for the right to the name, Josten lost{{r|Power Man #21}}. Inexplicably, the strength conferred upon him by Zemo's machine was on the wane. Disheartened by the defeat, Josten shelved his costume and took a job as a dockworker in order to renew contact in the smuggling profession. [[Luchino Nefaria (Earth-616)|Count Nefaria]], who offered him a chance to regain his former strength in exchange for special services, then sought him out. Josten performed Nefaria's errands and was subjected to a strength enhancing treatment. However, the bargain was all a scheme by Nefaria to steal the power of Josten and his other henchmen for himself. Josten managed to escape while the Avengers battled Nefaria.{{r|Avengers #164|165}} He returned to the docks where under the name the Smuggler he set up a successful smuggling operation for black market goods. [[Peter Parker (Earth-616)|Spider-Man]] stumbled upon Josten's business, however, and with Josten's strength now a fraction of what it had once been, Spider-Man managed to defeat him in combat.{{r|Peter Parker, The Spectacular Spider-Man #49}}
+
+===Goliath===
+[[File:Erik Josten (Earth-616) from Official Handbook of the Marvel Universe Master Edition Vol 1 12 001.jpg|thumb]]
+When he was finally set free, Josten left the East Coast and headed toward California. While in prison, Josten had heard of a criminal scientist in Los Angeles who specialized in the study of superhuman powers, Dr. Karl Malus. Arranging a meeting with Malus, Josten again made a bargain to renew his lost strength. Unlike Nefaria, how ever, Malus did not renege on the deal and not only enhanced Josten's strength to its original level but also subjected him to an extract of extract of the growth formula created by [[Henry Pym (Earth-616)|Dr. Henry Pym]], the original Giant-Man (as well as the original Ant-Man, Goliath, and Yellowjacket). Malus acquired it from a patient of his who had stolen it from Pym's one-time partner [[William Foster (Earth-616)|Dr. Bill Foster]] (also known as Black Goliath and the second Giant-Man). The [[Pym Particles|Pym Formula]] reacted with the strength-enhancing treatment to give Josten far more physical power than he had ever known. Josten decided to take the Goliath, deriving satisfaction from stealing a hero's name even as a hero once stole his. Exhilarated by his new-found power. Goliath rampaged throughout Los Angeles in a bid to make his might known to the world. He was challenged by a contingent of [[Avengers West Coast (Earth-616)|West Coast Avengers]] (including Wonder Man, whose power he once imitated, and Hawkeye, who had also used Pym's growth formula under the name of Goliath), who barely managed to subdue him by making him overextend his powers. Goliath was held in a special laboratory beneath the Avengers Compound in Los Angeles.{{r|Iron Man Annual #7}}
+
+Allies of the [[Eric Williams (Earth-616)|Grim Reaper]] later freed Goliath. Goliath joined the Reaper in his battle against the West Coast Avengers, the Vision, and the Scarlet Witch. But after the Reaper and his allies were defeated, Goliath was returned to captivity.{{r|West Coast Avengers Vol 2 1}} Josten became something of a stalker of Wonder Man, who he thought got the better deal in the ionic process. He was defeated by Wonder Man in Los Angeles.{{r|Wonder Man Vol 2 #1}} Later, Goliath attacked Hawkeye when Barton went back to his growing identity as Goliath II, once again challenging a hero for his name. He was beaten by Barton and Mockingbird.{{r|Avengers: West Coast Vol 1 92}}
+
+Josten was abducted by aliens of the extra-dimensional [[Kosmos (Dimension)|Kosmos]], from which stemmed the source of his size-changing powers. He was tortured there for an undefined period before being rescued by Baron Zemo, who was building another Masters of Evil. With the help of Zemo's associate, the Fixer, Josten's body was purged of the Pym Particles, which had reacted negatively with his ionically-charged body to produce a mental strain.{{r|Thunderbolts Annual #1997}} This caused Josten's powers to stem from his ionic treatments alone.{{r|Thunderbolts #6}}
+
+===Atlas===
+[[File:New Thunderbolts Vol 1 5 page 04 Erik Josten (Earth-616).jpg|thumb|left]]
+In gratitude, Josten offered Zemo his undying loyalty, and assumed the identity of Atlas when Zemo created the Thunderbolts, masquerading as heroes in order to carry out Zemo's plans of world domination.{{r|Thunderbolts #1}} During his time as a Thunderbolt, Josten had developed a relationship with the mayoral assistant Dallas Riordan, but when Zemo's true plans were revealed, Riordan rejected Josten. Against his loyalties, Josten ultimately betrayed Zemo with the other Thunderbolts and saved the world. Josten and other members decided they preferred fighting for justice, and the T-Bolts set out to make their way as a legitimate super-team.{{r|Thunderbolts #12}}
+
+Later, however, he was kidnapped and controlled by Count Nefaria, who had found that he could mentally dominate people such as Josten who were powered by ionic energy. Wholly transformed into a being of ionic energy by Nefaria, Josten fought the Avengers and the Thunderbolts before the two teams united to defeat Nefaria.{{r|Thunderbolts #42|44}} Josten's body was unaccustomed to the stresses that were unleashed by Nefaria's manipulation and was forced to be hospitalized. Josten then became the target of the latest Scourge (a.k.a. Nomad) who was hunting down and killing various members of the Thunderbolts. Josten was forced to fight Scourge, but his powers over-extended, threatening to destroy the immediate area. Scourge helped confine Josten with the help of size-altering Pym Particles, but Josten seemingly perished in the explosion.{{r|Thunderbolts #47}}
+
+However, since Josten was by this time a being comprised of ionic energy, he in fact did not die. His ionic essence was able to seek out Dallas Riordan, contacting her through their mutual love. With Riordan's help, Josten could suffuse her being with his energy, allowing Josten to share her body. When Josten is in control of her body, Riordan appears as a fully-charged ionic being.{{r|Thunderbolts #56|57}}
+
+Josten was thus able to return to the Thunderbolts in their latest attempt to stop the villain Graviton, a battle which sparked an alien invasion. Ultimately, Josten/Riordan and the rest of the Thunderbolts were shunted by Graviton to the world of Counter-Earth after he closed the aliens' dimensional portal.{{r|Thunderbolts #58}} After initially embarking on a plan to return to their native Earth, the Thunderbolts agreed to try to use their powers to help save the people of the war-torn and catastrophic world.{{r|Thunderbolts #62}}
+
+On Counter-Earth, the Thunderbolts were once again led by Baron Zemo, and they eventually encountered a spacecraft whose engines emitted a radiation that began eating the earth from the inside. The Thunderbolts embarked on a plan to combine their powers to punt the alien ship off Counter-Earth and sever its link between the real Earth. However, in order to complete this plan, the Thunderbolts needed to be inside the engine-spawned void and consume the ionic energies of Josten. In so doing, they reemerged from the void on the real Earth, forfeiting their roles and place on Counter-Earth. Moreover, Josten's energies seemed spent, and he bodily separated from Riordan, existing as separate beings. Josten's powers seemed lost completely, although Riordan's nervous system was repaired, allowing her to walk again and granting her superhuman abilities.{{r|Thunderbolts #74}}
+
+Immediately upon exiting the void, the Thunderbolts confronted their former teammates Hawkeye and Songbird, who had formed another version of the Thunderbolts on Earth and were also trying to plug the real Earth's counterpart to Counter-Earth's spacecraft. The two teams of Thunderbolts combined forces to plug the void and shunt the alien ship from Earth. Josten was later accosted by the Thunderbolts' Fixer, who had broken into a weapons cache in Iraq and had found canisters of Pym particles. Being shot with an infusion of the particles, Josten found his size-altering powers renewed.{{r|Thunderbolts #75}}
+
+Josten hesitantly followed Zemo in the Thunderbolts’ many acts of questionable heroism, where the ends justified the means. Zemo’s ultimate plan involved the creation of “the Liberator", a device that would drain abnormal uses energy throughout the world. The Thunderbolts hoped this would enable them to reduce global threats, eliminate superhuman terrorism, and stabilize the world’s status-quo. They were betrayed by Moonstone, however, who absorbed the powers that the Liberator had harnessed. Her emotional state combined with her near-cosmic power began to threaten the entire planet, and the Thunderbolts and the Avengers teamed up to defeat Moonstone. Afterward, the members of the Thunderbolts then agreed to go their separate ways, and Josten agreed to have the Pym particles purged from his system, returning him to normal.{{r|Avengers/Thunderbolts #1|6}}
+
+Later, when the Avengers formally disbanded, MACH-3 decided to re-form the Thunderbolts. He recruited Josten as a support member, even though his powers seemed to be gone. The team made their debut by saving Manhattan from the terrorist attacks of renegade Atlanteans, and during the battle Josten found his size-altering powers had returned.{{r|New Thunderbolts #1}}
+
+When Zemo attempted to take control of the Wellspring of Power, Josten, now going by the name Atlas, fell into a coma while stopping up the energies from spreading on Earth.{{r|Thunderbolts #109}}
+
+===Post Thunderbolts===
+Atlas eventually recovered from his coma and temporarily joined the Defenders.{{r|Last Defenders #3|4}}
+
+Atlas later joined up with Wonder Man's [[Revengers (Earth-616)|Revengers]].{{r|New Avengers Annual Vol 2 1}} Atlas' reason for joining the group was that he was rejected many times to join the Initiative.{{r|Avengers Annual Vol 3 1}}
+
+At some point, Atlas was captured by S.H.I.E.L.D. and incarcerated at [[Pleasant Hill]]. S.H.I.E.L.D. used the Kobik project on Atlas which turned him into an unnamed Pleasant Hill mailman.{{r|Avengers Standoff: Assault On Pleasant Hill Alpha #1}}
+
+Following the Pleasant Hill incident, Atlas joined up with [[James Buchanan Barnes (Earth-616)|Winter Soldier]]'s incarnation of the Thunderbolts with the goal to prevent [[S.H.I.E.L.D.]] from continuing the Kobik project.{{r|Thunderbolts Vol 3 #1}}
+
+Atlas was later approached by Baron Zemo and his third incarnation of the Masters of Evil in order to recruit him. When he resisted, the Masters of Evil attacked him as [[Helen Takahama (Earth-616)|Jolt]] showed up to help him. During the fight against the Masters of Evil, Atlas and the Thunderbolts were defeated and captured.{{r|Thunderbolts Vol 3 #10}}
+
+During the "Opening Salvo", Atlas, Moonstone, and Fixer defected to the Masters of Evil after Baron Zemo used Kobik's abilities to send Winter Soldier back in time. After Kobik shattered, Atlas assisted in searching for her fragments in order for Baron Zemo to put her back together.{{r|Thunderbolts Vol 3 #12}}
+
+He later joined Baron Zemo's [[Army of Evil (Earth-616)|Army of Evil]] along with the other Masters of Evil{{r|Captain America: Steve Rogers #13}} and aided in Hydra's takeover of the United States.{{r|Free Comic Book Day Vol 2017}}{{r|Secret Empire Vol 1 0}} After Hydra's takeover{{r|Secret Empire Vol 1 1}} Atlas and rest of the Army of Evil were all placed in stasis by Hydra out of fear of what they would do if they were allowed to remain free.{{r|Secret Empire Vol 1 9}} After Hydra's regime fell,{{r|Secret Empire Vol 1 10}} Atlas was likely awakened from stasis and taken into custody.
+
+| Powers                  = '''[[Pym Particles]]/Ionic Energy Form:''' When Erik's abilities are functioning properly, his body is charged with ionic energy which he can channel into augmented strength and durability and the power to grow to gigantic sizes.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}} As Power Man, Josten had phenomenal superhuman strength and resistance to physical injury due to his body being suffused with radiation from "ionic rays".{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}} As Goliath, Josten's invulnerability and strength returned to their normal levels, and he could also increase his size to upwards from 50 to 60 feet due to a formula based on the size-changing Pym Particles.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+*'''Immeasurable Strength:''' Erik's strength has only been active when he change sizes, increasing as he grows, though this limitation may be more psychological than physical. At larger sizes he is strong enough to lift well over 100 tons. At his normal size, Erik can physically lift 30 tons.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+*'''Invulnerability:''' Same as his strength, Erik's durability is incredibly resistant to most forms of injury.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+*'''Limitless Stamina:''' Erik's body is charged with ionic energy, grants him considerably almost limitless physical stamina in all activities.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+*'''Increased Perceptions and Reflexes:''' Josten also boasts superior physical reflexes to the most refined human specimen.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+*'''Energy Form (Latent):''' Due to being a creature of pure ionic energy, Josten also has the ability to shift between energy form and physical facsimile at will. He was fully converted into raw energy state by Count Nefaria while under his control.{{r|Thunderbolts #56|57}}
+**'''Adaptive Possession (Latent):''' In Ionic form, Josten was able to imbue his power as well as dynamistic state onto his old flame [[Dallas Riordan (Earth-616)|Dallas]] similarly to how Lucifer of the Quist could with his own host,{{r|Thunderbolts #42|44}} this also had the effect of restoring him to life once whence after he had died.{{r|Thunderbolts #74}}
+**'''Flight (Latent):''' With his full potential realized, Atlas can fly under his own power without need of propulsion assistance.{{r|Thunderbolts #57}} So far he's only been shown doing so while in an energized state and not his simulated human form.
+
+*'''Energy Manipulation (Latent):''' While hosting Dallas, the two of them exhibited some limited capacity to manipulate energy similarly to Simon and Nefaria. The Atlas amalgam could project ionic Force as energy blasts and protective force fields when in tandem with one another.{{r|Thunderbolts #66|74}}
+**'''Energy Transferal:''' While somewhat involuntary, Erik can shift his Ionic Energy between himself and Dallas since the two where in tandem for so long a time. When he utilizes his ionic force she lapses back into her paralysis. But he can willingly, with concentration, impart his dynamic force back into her in order to bestow her mobility and physical enhancement.
+
+*'''Pan-Dimensional Phasing (Latent):''' As a consequence of either his unstable energy form, overuse of the Pym Particles or combining the two in his powerset. Atlas suffered from infrequent shifts in trans spatial covariance that would cause him to warp between the Kosmosian home dimension and back whenever he pushed his powers too hard, i.e. growing too large too fast and his ionic structure dissipating into the aether by mistake.{{r|Wonder Man Vol 2 #25}} Or when the ionic portion of his powers changed in polarity which inversely affects the Pym particle's in his system enough to home in on their [[Kosmos (Dimension)|source dimension]].{{r|Avengers #382}}
+**'''Breach Creation (Latent):''' Through his size shifting, when Josten draws on more mass from the Kosmos Dimension; he temporarily weakens the hyperspace wall that cordons off the Earth-616 universe from the rest of the microverse. This can also have an effect on anyone and everyone who'ed been in hyperphase with the Kosmosian Mists/Pym Particles saturating their plane of existence, eventually resulting in small tears between the two worlds to form that allows traversal between the main universe and the Kosmosian home reality.{{r|Avengers #382}}
+
+*'''Immortality:''' Being an Ionic being, Josten is functionally immortal. Able to resurrect himself so long as he has a potent emotional tether to bind him to the physical world, effectively making him incredibly long lived as well as undying.
+**'''Self-Sustenance (Latent):''' As such given his non-corporeal state, Erik Josten does not need to eat, sleep or breath in order to thrive. Being able to shunt himself into outer-space without even a hint of discomfort within its cold, harsh vacuum.{{r|Thunderbolts #44}}
+**'''Healing Factor (Latent):''' Shown to have an impressive recovery capacity having been able to physically reintegrate himself after getting blown up in a massive ionic detonation.{{r|Thunderbolts #44}}
+
+*'''Size Alteration:''' Through his steady infusion of Pym Particles. Atlas could change his physical size by sheer force of will, alternatively growing stronger and more resilient with increased height. Once he was grown to unimaginable size by a race of cosmic scavengers in order to mine ionic energy and Pym Particles from his body.{{r|Avengers #379|382}}
+**'''Mass Particle Transference (Latent):''' While prisoner to the Kosmosian criminals within the origin point of the Pym Particles. Josten was used as an extra-dimensional funnel to channel his unique brand of growth particles into the earth which effected organic and non-biological abstracts differently, causing machinery to go haywire or affecting various people on Earth to react differently to exposure. Shifting between differing sizes or falling comatose due to tampering by outside forces.{{r|Avengers #382}}
+
+| Abilities               = 
+'''Hand-to-Hand Combat (Experience):''' Erik's military and mercenary training and experience have made him a skilled unarmed combatant and decent combat tactician, though he generally prefers to follow orders.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+'''Trained Piloted:''' Josten has some experience in piloting small aircraft.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+'''Trained Marksmen:''' Josten was trained in the use of firearms.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+| Strength                = In excess of [[Strength_Scale#100_Tons|100 Tons]] (at height of 60 feet); 20–30 tons at normal height.
+
+| Weaknesses              = '''[[Adamantium]]:''' Adamantium is one of the few materials that can harm him.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+'''Ionic Lock:''' Countermeasure device constructed by [[Giuletta Nefaria (Earth-616)|Madame Masque]] which temporarily seals an Ionic powered being's abilities, effectively cutting off their powers.{{r|Thunderbolts #44}}
+
+| Equipment               = '''[[Atlas' Suit]]:''' Atlas costume is composed of unstable molecules and changes size along with him.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   =* Josten has been shown to have a tattoo on his arm of an capital A within a circle, presumably standing for Atlas{{r|Avengers/Thunderbolts Vol 1 5}}
+| Trivia                  = 
+| Links                   = * The Unofficial Handbook to the Marvel Universe
+* {{cl|Official Handbook of the Marvel Universe Vol 2 5}}
+}}
+[[hu:Atlasz (Erik Josten)]]
+[[Category:Size Alteration]]
+[[Category:Shared body characters]]
+[[Category:Ionic Characters]]
+[[Category:Superhuman Strength]]
+[[Category:Flight]]
+[[Category:Energy Absorption]]
+[[Category:Interdimensional Travelers]]
+[[Category:Teleporters]]
+[[Category:Possession]]
+[[Category:Self-Resurrection]]
+[[Category:Immortals]]
+[[Category:Regeneration]]

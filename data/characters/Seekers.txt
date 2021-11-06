@@ -1,0 +1,13 @@
+{{DisambiguationFull
+|main         = Seekers (Earth-616)
+|main_name    = Seekers
+|main_title   = Seekers 
+|main_image   = Seekers (Earth-616) from Amazing Spider-Man Vol 1 355 0001.jpg
+|logo         = 
+|noimage      = No Image Team.jpg
+|description  = 
+
+| exclude1    = Seekers (Annihilus
+
+| Others1     = [[Seekers (Annihilus' Agents) (Earth-616)|Seekers<br>(Annihilus' Agents)]]; Seekers (Annihilus' Agents) (Earth-616) from Annihilation Silver Surfer Vol 1 1 001.jpg
+}}

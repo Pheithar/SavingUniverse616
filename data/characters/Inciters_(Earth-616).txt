@@ -1,0 +1,33 @@
+{{Marvel Database:Team Template
+| Image                   = 
+| Name                    = Inciters
+| Aliases                 = 
+
+| Status                  = 
+| Identity                = 
+| Reality                 = Earth-616
+| BaseOfOperations        = 
+
+| Leaders                 = 
+| CurrentMembers          = 
+| FormerMembers           = 
+| Allies                  = 
+| Enemies                 = [[X-Men (Earth-616)|X-Men]]
+
+| Origin                  = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = 
+| First                   = X-Men Unlimited #13
+| Last                    = 
+
+| HistoryText             = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

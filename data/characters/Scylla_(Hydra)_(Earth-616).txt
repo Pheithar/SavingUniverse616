@@ -1,0 +1,55 @@
+{{Marvel Database:Character Template
+| Image                   = Scylla (Hydra) (Earth-616) Iron Man Vol 3 36.jpg
+| Name                    = 
+| CurrentAlias            = [[Scylla]]
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra (Earth-616)|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Yellow
+| Hair                    = None
+| UnusualSkinColor        = Green
+| UnusualFeatures         = Serpent-like form with sharp teeth, elongated tail, tentacles and lobster-like appendages
+
+| Origin                  = [[Homo sapiens|Human]] [[Mutates|mutate]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Former Hydra agent
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Chuck Dixon; Paul Ryan
+| First                   = Iron Man Vol 3 36
+
+| History                 = 
+
+| Personality             = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * http://www.marvunapp.com/Appendix/scyllairon.htm
+}}
+[[Category:Reptilian Form]]
+[[Category:Fangs]][[Category:Infobox UnusualFeatures Update Needed]]
+[[Category:Underwater Breathing]]
+[[Category:Giant Monsters]]

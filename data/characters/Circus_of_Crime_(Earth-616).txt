@@ -1,0 +1,65 @@
+{{Marvel Database:Team Template
+| Image                   = Circus of Crime (Earth-616) from Amazing Spider-Man Vol 3 19.1 001.jpg 
+| Name                    = Tiboldt Circus
+| Title                   = [[Circus of Crime]]
+| Aliases                 = Masters of Menace,{{r|Amazing Spider-Man Vol 1 22}} Circus of Delights, Circus of Crime
+
+| Status                  = Active
+| Identity                = Secret
+| Reality                 = Earth-616
+| BaseOfOperations        = Mobile
+
+| Leaders                 = [[Maynard Tiboldt (Earth-616)|Ringmaster]]
+| CurrentMembers          = [[Bruce Olafsen (Earth-616)|Bruto the Strongman]], [[Clown (Spiral) (Earth-616)|Clown]], Fifi, [[Tomás Ramírez (Earth-616)|Fire-Eater]], [[Ernesto & Luigi Gambonno (Earth-616)|Great Gambonnos]], [[Mary Stenson (Earth-616)|Teena the Fat Lady]], Unnamed protege of [[Jacques Duquesne (Earth-616)|Swordsman]]
+| FormerMembers           = [[Antoro (Earth-616)|Antoro]], [[Bert]], [[William Foster (Earth-616)|Black Goliath]], [[Joseph Manfredi (Earth-616)|Blackwing (Joseph Manfredi)]], [[Blossom (Earth-616)|Blossom]], [[Bub]], [[Circus Crew (Earth-616)|Circus Crew]], [[Eliot Franklin (Clown) (Earth-616)|Clown]], [[Devil Dinosaur (Earth-78411)|Devil Dinosaur]], [[Draconus (Earth-616)|Dragon Man]], [[Clinton Barton (Earth-616)|Hawkeye (Clint Barton)]], [[Howard the Duck (Earth-616)|Howard the Duck]], [[Jack Pulver (Earth-616)|Human Cannonball]], [[Jack Baker (Earth-616)|Iron Jack Baker]], [[Rance Preston (Earth-616)|Live Wire]], [[Major Minor (Earth-616)|Major Minor]], [[Mike the Strong Man (Earth-616)|Mike]], [[Missing Link (Circus of Crime) (Earth-616)|Missing Link]], [[Moon-Boy (Earth-78411)|Moon Boy]], [[Omir (Earth-616)|Omir the Snake Charmer]], [[Zelda DuBois (Earth-616)|Princess Python]], [[Professor (Circus of Crime) (Earth-616)|Professor]], [[Kabir Mahadevu (Earth-616)|Rajah]], [[Rajar the Elephant]] and his trainer [[Rawal (Earth-616)|Rawal]], [[Rex the Dog-Faced Boy]], [[Spike (Circus of Crime) (Earth-616)|Spike]], [[Stilts (Earth-616)|Stilts]], [[Jacques Duquesne (Earth-616)|Swordsman]], [[Tarrax the Tamer (Earth-616)|Tarrax the Tamer]], [[Thor Odinson (Earth-616)|Thor]], [[Tommy Thumb (Earth-616)|Tommy Thumb]], [[Trapeze Trio (Earth-616)|Trapeze Trio]], [[Zandow (Earth-616)|Zandow the Strong Man]]
+| Allies                  = [[Masters of Evil (Earth-616)|Masters of Evil]], {{m|Army of Evil (Earth-616)|Army of Evil}}
+| Enemies                 = [[Thunderbolts (Earth-616)|Thunderbolts]], [[Thor Odinson (Earth-616)|Thor]], [[Secret Avengers (Black Ops Unit) (Earth-616)|Secret Avengers]], [[Bruce Banner (Earth-616)|Hulk]], [[Avengers (Earth-616)|Avengers]], [[Matthew Murdock (Earth-616)|Daredevil]], [[Clinton Barton (Earth-616)|Hawkeye]], [[Luke Cage (Earth-616)|Luke Cage]], [[Spider-Man (Peter Parker)|Spider-Man]], [[Howard the Duck]], [[Johnathon Blaze (Earth-616)|Ghost Rider]], [[Scott Summers (Earth-616)|Cyclops]], [[Mercs for Money (Earth-616)|Mercs for Money]]
+
+| Origin                  = [[Maynard Tiboldt (Earth-616)|Maynard Tiboldt]]'s father, [[Fritz Tiboldt (Earth-616)|Fritz]], ran a travelling circus and was also a [[National Socialist German Workers Party (Earth-616)|Nazi]] agent. Sent to [[America]] to murder US Government officials, under cover of his circus activities, Tiboldt and his gang fell foul of [[Captain America]] and were deported back to [[Germany]], where Fritz Tiboldt and his wife were subsequently murdered by their former employers.
+| PlaceOfFormation        = [[Austria]]
+| PlaceOfDissolution      = 
+| Creators                = Joe Simon; Jack Kirby; Stan Lee; Dick Ayers; 
+| First                   = Captain America Comics #5 
+| First2                  = (Golden Age)<br/>{{sld|Incredible Hulk Vol 1 3}}(Modern Age) 
+
+| HistoryText             = 
+=== Origin ===
+Tiboldt's Circus was originally a small [[Austria]]n travel circus managed for generations by members of the Tiboldt family. In the 1930's [[Fritz Tiboldt (Earth-616)|Fritz Tiboldt]], then manager and ringmaster of the circus, became active in [[National Socialist German Workers Party (Earth-616)|Nazi party]] activities.
+
+===World War II===
+During [[World War II]], he was asked by [[German]] intelligence to take his circus to the [[United States of America]], supposedly just to give performances in major cities, but actually in order to use the talents of the Nazi sympathizers among his performers to murder government high officials. Fritz Tiboldt brought with him [[Omir (Earth-616)|Omir the Snake Charmer]], [[Tommy Thumb (Earth-616)|Tommy Thumb]], the [[Trapeze Trio (Earth-616)|Trapeze Trio]], and [[Zandow (Earth-616)|Zandow the Strongman]]. However, Tiboldt, who came to be known as the "Ringmaster Of Death," was captured by [[Steven Rogers (Earth-616)|Captain America]], and both Tiboldt and the members of his circus who had aided him in his subversive activities ported.{{r|Captain America Comics #5}}
+
+===Post War===
+Fritz Tiboldt and his wife Lola continued to manage Tiboldt's Circus after the war. Eventually Fritz and Lola Tiboldt were murdered by [[National Socialist German Workers Party (Earth-616)|Nazis]] in vengeance for their cooperation with the Allies. Fritz's son, [[Maynard Tiboldt (Earth-616)|Maynard Tiboldt]], thereupon succeeded him as leader and ringmaster of the circus, and decided to move it to America, far from the scene of Hitler's rise to power and his parents' death.{{r|X-Force #-1}}
+
+===[[Keibler's Circus]]===
+Once in America, he took over the [[Keibler's Circus (Earth-616)|Keibler's Circus]] renaming it as Tiboldt's Circus.
+Unable to compete successfully with larger American circuses. Blaming Americans not only for ignoring his circus, but also for his father's humiliating capture in America years before, Tiboldt decided to turn to crime. If Americans would not enrich him and his performers willingly, they would be forced to do so. Tiboldt outlined his plans to the members of his troupe, a number of whom had accompanied him from [[Europe]], and others of whom had joined the troupe after it came to America. A good percentage of the troupe quit, refusing to turn to a life of crime. However, a surprising number of the circus members eagerly agreed to join Tiboldt in his criminal endeavors, and they became the first members of what is known as the Circus of Crime.{{r|Official Handbook of the Marvel Universe Vol 2 2}}
+
+===Modern Era===
+[[File:Circus of Crime (Earth-616) from Incredible Hulk Vol 1 3 0001.jpg|thumb|left]]
+The Circus of Crime's usual modus operandi was the following: They would give a performance before a large audience. At some point the Ringmaster would use the powerful mind-control device concealed in his hat to put the audience into a trance. The Circus members then robbed the audience, who would remember nothing about the thefts when the Ringmaster released them from the trance and the performance continued.{{r|Incredible Hulk #3}} The Circus of Crime performed under different names so that audiences would not suspect that they were the Circus of Crime.
+
+They clashed with superheroes on a regular basis, mostly with the [[Bruce Banner (Earth-616)|Hulk]] who was also one of the first they encountered. After a string of robberies, they tried to rob [[Richard Jones (Earth-616)|Rick Jones's]] town he summoned the Hulk (who at the time had a link with Rick) and stopped the circus.{{r|Incredible Hulk #3}}
+
+They also fought with [[Spider-Man (Peter Parker)|Spider-Man]],{{r|Amazing Spider-Man #16}}{{r|Amazing Spider-Man #22}} the [[Avengers (Earth-616)|Avengers]],{{r|Avengers #22}} and others. They brought [[William Foster (Earth-616)|Black Goliath]] under their control, but were defeated by [[Luke Cage (Earth-616)|Power Man]].{{r|Power Man #24|25}}
+
+Over the years the membership of the Circus of Crime varied, although there was a core group that participated in most of its criminal ventures. The Ringmaster and his accomplices were imprisoned by the law numerous times, but rarely for long, given the difficulties of proving the charges against them, since their victims usually had no memory of being robbed by them. Occasionally the Circus of Crime operated without the Ringmaster, either because he was in prison, or because some members had become dissatisfied with his leadership.{{r|Amazing Spider-Man #22}} However, he always returned as leader.
+
+The Circus of Crime returned to New York as the "Cirque de Nuit" to inaugurate the Hotel Metropol in a show where Ringmaster used his mind-control abilities to hypnotize the rich spectators of his show and stole from them. During this time, he has new members like Fifi and an unnamed protege of Swordsman. The two [[Hawkeye]]s, [[Clinton Barton (Earth-616)|Clint Barton]] and [[Katherine Bishop (Earth-616)|Katie Bishop]], used special glasses in order to be immune to Ringmaster's control and stopped the Circus, leaving most of their members heavily wounded. They escaped in the boat where the Circus took the loot, making them appear as they were the thieves.{{r|Hawkeye Vol 4 2}}
+
+Circus members Ringmaster, Clown, Fire-Eater, Great Gambonnos, Strongman, and Teena the Fat-Lady were among the villains that joined the [[Army of Evil (Earth-616)|Army of Evil]].{{r|Captain America: Steve Rogers #13}}
+
+| Equipment               = [[Ringmaster's Hat]]
+| Transportation          = No known transportation
+| Weapons                 = No known weapons
+
+| Notes                   = 
+| Trivia                  = * The Circus of Crime first appeared in the 1940's Captain America comic. Also, there were two different Circuses of Crime in the 19th century that were fought by [[Kid Colt]] and the [[West Coast Avengers]]
+* [[Matthew Murdock (Earth-616)|Matt Murdock]] once offered to defend them in court after having helped Spider-Man defeat them.{{r|Amazing Spider-Man #16}}
+| Links                   = 
+* [http://www.marvel.com/universe/Circus_of_Crime Circus of Crime on Marvel.com]
+*[http://en.wikipedia.org/wiki/Circus_of_Crime Circus of Crime on Wikipedia]
+}}
+[[Category:Criminal Organizations]]
+[[Category:Circuses]]

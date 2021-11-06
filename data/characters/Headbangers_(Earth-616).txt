@@ -1,0 +1,34 @@
+{{Marvel Database:Team Template
+| Image                   = Headbangers (Earth-616) from Alpha Flight Vol 1 94 001.jpg
+| Name                    = Headbangers
+| Aliases                 = Headlok's Headbangers
+ 
+| Status                  = Defunct
+| Identity                = Public
+| Reality                 = Earth-616
+| BaseOfOperations        = [[Tuktoyatuk]], [[Yukon]]
+
+| Leaders                 = [[Arthur Goddard (Earth-616)|Headlok]]
+| CurrentMembers          = 
+| FormerMembers           = [[Jeanne-Marie Beaubier (Earth-616)|Aurora]], [[Walter Langkowski (Earth-616)|Sasquatch]], [[James Hudson (Earth-616)|Vindicator]], [[Michael Twoyoungmen (Earth-616)|Shaman]], [[Reed Richards (Earth-616)|Mister Fantastic]], [[Susan Storm (Earth-616)|Invisible Woman]]
+| Allies                  = 
+| Enemies                 = [[Alpha Flight (Earth-616)|Alpha Flight]] and the [[Fantastic Four (Earth-616)|Fantastic Four]] 
+
+| Origin                  = Psionically controlled minions
+| PlaceOfFormation        = [[Tuktoyatuk]], [[Yukon]]
+| PlaceOfDissolution      = [[Tuktoyatuk]], [[Yukon]]
+| Creators                = Fabian Nicieza; Michael Bair
+| First                   = Alpha Flight Vol 1 93
+| Last                    = Alpha Flight Vol 1 94
+
+| HistoryText             = 
+The Headbangers were a collection of members of [[Alpha Flight (Earth-616)|Alpha Flight]] and the [[Fantastic Four (Earth-616)|Fantastic Four]] who were controlled by [[Arthur Goddard (Earth-616)|Headlok]]. He used them as pawns against the remaining members of Alpha Flight and the Fantastic Four. He lost control when [[Jeanne-Marie Beaubier (Earth-616)|Aurora]] used her own light powers on herself and freed her own mind and the other members eventually were freed as well.{{r|Alpha Flight Vol 1 93|94}} 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

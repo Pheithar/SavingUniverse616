@@ -1,0 +1,54 @@
+
+
+{{Marvel Database:Team Template
+| Image                   = X of Swords Stasis Vol 1 1 Textless.jpg
+| Name                    = Swordbearers of Arakko
+| Aliases                 = Champions of Arakko{{r|X of Swords: Creation Vol 1 1}}
+| Status                  = Defunct
+| Identity                = Public
+| Reality                 = 616
+| BaseOfOperations        = [[Starlight Citadel]], [[Otherworld]]; [[Arakko (Earth-616)|Arakko]]
+
+| Leaders                 = [[Annihilation (Earth-616)|Annihilation]], [[Genesis (Earth-616)|Genesis]]
+| CurrentMembers          = 
+| FormerMembers           = [[Genesis (Earth-616)|Annihilation]], [[Bei (Earth-616)|Bei the Blood Moon]]{{r|X of Swords: Stasis Vol 1 1}}, [[Death (First Horsemen) (Earth-616)|Death]], [[Isca (Earth-616)|Isca the Unbeaten]], [[Pogg Ur-Pogg (Earth-616)|Pogg Ur-Pogg]], [[Redroot (Earth-616)|Redroot the Forest]], [[Solem (Earth-616)|Solem]]{{r|Wolverine Vol 7 6}}, [[Summoner (Arakko) (Earth-616)|Summoner]], [[War (First Horsemen) (Earth-616)|War]], [[White Sword (Earth-616)|White Sword of the Ivory Spire]]
+| Allies                  = [[Horsemen of Apocalypse (Earth-616)|First Horsemen of Apocalypse]], [[One Hundred Champions (Earth-616)|One Hundred Champions]]
+| Enemies                 = [[Swordbearers of Krakoa (Earth-616)|Swordbearers of Krakoa]], [[X-Men (Earth-616)|X-Men]]
+
+| Origin                  = 
+| PlaceOfFormation        = [[Del Di'Lorr|Last Watchtower of Del Di'Lorr]], [[Dryador|Fiefdom of Amenth]]
+| PlaceOfDissolution      = 
+| Creators                = Jonathan Hickman; Tini Howard
+| First                   = X of Swords: Creation Vol 1 1
+| First2                  = (Mentioned)<br>{{sld|Wolverine Vol 7 6}} (First appearance)
+| Last                    = 
+
+| Quotation               = The [[Twilight Sword (Amenth)|Twilight Blade]]. [[Mercy (Sword)|Mercy]]. [[Vermilion|Vermilion. The Red Sword of War]]. [[Colony (Sword)|Colony]]. The [[Black Bone of Amduat]]. [[Seducer]]. [[Pogg Ur-Pogg (Sword)|Pogg Ur-Pogg]]. [[Purity (Sword)|Purity]]. [[Alluvium]]. [[Muramasa Blade|Muramasa]].
+| Speaker                 = [[Pestilence (First Horsemen) (Earth-616)|Pestilence]]
+| QuoteSource             = X of Swords: Creation Vol 1 1
+
+| Overview                = The '''Swordbearers of Arakko''' were chosen by [[Opal Luna Saturnyne (Earth-9)|Omniversal Majestrix Opal Luna Saturnyne]] to stand against the [[Swordbearers of Krakoa (Earth-616)|Swordbearers of Krakoa]].
+
+| HistoryText             = When the forces of [[Arakko (Earth-616)|Arakko]], led by the [[Horsemen of Apocalypse (Earth-616)|First Horsemen of Apocalypse]], entered [[Otherworld]] they ravaged [[Dryador]]. Using the [[External Gate]], [[En Sabah Nur (Earth-616)|Apocalypse]] led a group of [[Homo superior|mutants]] to Otherworld where they were almost immediately ambushed by First Horsemen of Apocalypse and [[Summoner (Arakko) (Earth-616)|Summoner]]. To end the fighting, [[Opal Luna Saturnyne (Earth-9)|Omniversal Majestrix Opal Luna Saturnyne]] offered the Horsemen and the [[X-Men (Earth-616)|X-Men]] the opportunity to enter a [[X of Swords|tournament of champions]]. With no alternatives, both sides accepted the offer and Saturnyne magically implanted the tournament weapons and champions into the minds of [[Lorna Dane (Earth-616)|Polaris]] and [[Pestilence (First Horsemen) (Earth-616)|Pestilence]].{{r|X of Swords: Creation Vol 1 1}}
+
+With only three days prepare for battle, the chosen swordbearers set out to gather their swords. [[War (First Horsemen) (Earth-616)|War]] and Pestilence travelled to [[Tower of Broken Will|The Tower of Broken Will]] to release [[Solem (Earth-616)|Solem]]. After being freed, Solem travelled to [[Hell]] and enlist the aid of [[James Howlett (Earth-616)|Wolverine]] to obtain the [[Muramasa Blade]].{{r|Wolverine Vol 7 6}}{{r|X-Force Vol 6 13}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = <br>
+* [[Muramasa Blade]]{{r|Wolverine Vol 7 6}}{{r|X-Force Vol 6 13}}
+* [[Twilight Sword (Amenth)|The Twilight Sword]]{{r|X of Swords: Creation Vol 1 1}}
+* [[Mercy (Sword)|Mercy]]
+* [[Vermilion|Vermilion, the Red Sword of War]]
+* [[Colony (Sword)|Colony]]
+* [[Black Bone of Amduat|The Black Bone of Amduat]]
+* [[Seducer]]
+* [[Pogg Ur-Pogg (Sword)|Pogg Ur-Pogg]]
+* [[Purity (Sword)|Purity]]
+* [[Alluvium]]
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:X of Swords]]

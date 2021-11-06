@@ -1,0 +1,50 @@
+{{Marvel Database:Character Template
+| Image                   = Sayuri Kyota (Earth-616) from Thunderbolts Vol 1 69 0001.jpg
+| Name                    = Sayuri Kyota
+| CurrentAlias            = M-80
+| Aliases                 = 
+
+| Affiliation             = {{m|Elite Agents of S.H.I.E.L.D. (Earth-616)|Elite Agents of}} {{M|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}} 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = S.H.I.E.L.D. agent
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Dan Jurgens; Greg Scott
+| First                   = Captain America Annual Vol 1 2000
+
+| History                 = Sayuri Kyota was one of the Elite Agents of S.H.I.E.L.D., specialized in the use of explosive. Her grandmother was killed in the Hiroshima bombing.{{r|Captain America Annual Vol 1 2000}}
+
+She was later assigned as security to the S.H.I.E.L.D. black ops hub known as [[The Torch]].{{r|Secret Warriors #1}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * http://www.marvunapp.com/Appendix2/eaosm80.htm
+}}

@@ -1,0 +1,98 @@
+{{Marvel Database:Character Template
+| Image                   = Kevin Tremain (Earth-616) from Cable Vol 1 87.png
+| Name                    = [[Kevin Tremain]]
+| CurrentAlias            = Post
+| Aliases                 = Emissary of Onslaught
+
+| Affiliation             = [[Onslaught (Psychic Entity) (Earth-616)|Onslaught]], {{m|Brotherhood of Evil Mutants (Earth-616)|Brotherhood of Evil Mutants}}, {{m|Dark Descendants (Earth-616)|Dark Descendants}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 8'3"
+| Height2                 = {{r|X-51 Vol 1 2}}
+| Weight                  = 2010 lbs
+| Weight2                 = (as Post);{{r|X-51 Vol 1 2}} 805 lbs (as Tremain)
+| Eyes                    = Red
+| Hair                    = Black
+| UnusualSkinColor        = Blue
+| UnusualSkinColor 2      = ; Covered with [[:Category:Grey Skin|Grey]][[Category:Grey Skin]][[Category:Infobox Skin Color Update Needed]] "plates"
+| UnusualFeatures         = Blue skin with grey "plates"
+
+| Origin                  = [[Homo Superior|Mutant]], formerly infected with the [[Techno-Organic Virus]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Henchman
+| Education               = 
+| BaseOfOperations        = Mobile
+
+| Creators                = Scott Lobdell; Andy Kubert
+| First                   = X-Men Vol 2 #50
+| Death                   = Cable #87
+
+| History                 = Tremain was a [[Homo Superior|mutant]] captured and studied by the [[Mandarin (Earth-616)|Mandarin]]. On a secret mission, the [[Six Pack (Earth-616)|Six Pack]] attacked the secret base in which Tremain was being held. Tremain had severe injuries, and [[Nathaniel Summers (Earth-616)|Cable]] tried to save him. Cable used his telekinesis to keep Tremain's body together, but was forced to give him a {{WP|blood transfusion}}. Although he survived this trauma, Cable seemed to think Post had later died.{{r|Cable #33}}
+
+Years later, Tremain resurfaced as Post, the lowest of [[Onslaught (Psychic Entity) (Earth-616)|Onslaught]]'s emissaries. Onslaught forced [[Gateway (Earth-616)|Gateway]] to teleport [[Scott Summers (Earth-616)|Cyclops]], [[Ororo Munroe (Earth-616)|Storm]], [[Robert Drake (Earth-616)|Iceman]], and [[James Howlett (Earth-616)|Wolverine]] to where Post could 'test' them. The four managed to defeat Post and were transported back to the Mansion.{{r|X-Men Vol 2 50}}
+
+Later, Post attacked Cable. Cable instantly recognized him as Tremain. Post defeated Cable{{r|Cable #33}} and left him for the [[Bruce Banner (Earth-616)|Hulk]] to finish off.{{r|Cable #34}}
+
+Post was later charged with ensuring the [[Sentinels]] would launch, and did so. He and his master [[Onslaught (Psychic Entity) (Earth-616)|Onslaught]] were eventually defeated by the heroes.
+
+Post later was one of the mutants attacking Senator [[Robert Kelly (Earth-616)|Robert Kelly]]. He was killed by [[St. John Allerdyce (Earth-616)|Pyro]], who then succumbed to the [[Legacy Virus]].{{r|Cable #87}}
+
+| Powers                  = Tremain was a mutant further altered by his exposure to Cable's [[Techno-Organic Virus|techno-organic virus]], possibly by the [[Mandarin (Earth-616)|Mandarin]], and lastly by [[Onslaught (Psychic Entity) (Earth-616)|Onslaught]].
+
+'''Superhuman Strength:''' He seemed to possess enhanced strength, the likes of which was never properly gauged. Exposure to Cable's techno-organic-laced blood possibly enhanced it to further levels.
+
+'''Superhuman Durability:''' Post also possessed heightened durability, once being able to resist the combined assault of Storm, Cyclops, and Iceman and recover almost perfectly unharmed. This aspect was also suspected to have been enhanced by T-O virus intake.
+
+'''Psionic Resistance/Inception:''' Onslaught provided Post with a psionic screen preventing others from reading his mind and hiding information about Onslaught. Tremain also telepathically communicated to Cable while attacking him once when the two were in battle, as well as being able to receive and transmit telepathic relays from Onslaught himself.
+
+'''Techno-Organics:''' Due to receiving a blood transfusion from [[Nathaniel Summers (Earth-616)|Cable]], Post was infected and radically altered by the introduction of the techno-organic virus streamed into his system, turning Tremain into a mutant cyborg much like his donor. The virus in his body had greatly enhanced much of his mutant physicality to even greater levels than originally perceived by him, as well as bestowing upon him entirely new gifts and abilities unique to his being.
+
+'''T-O Armor Platelets:''' Post's body was adorned with several armored detachable plates which had a number of mechanical and bionic features, enabling a host of unique powers and features at his beck and call.
+
+*'''Invisibility:''' The technology within the plates allowed him to cloak his presence. 
+
+*'''Teleportation:''' They enabled him to teleport from place to place at undisclosed distances. 
+
+*'''Sensory Array:''' He had bio-tech aspects which enabled them to act as scanners, data collectors, and transmission devices that recorded, stored, and projected various info feeds directly to and from his own brain.
+
+*'''Weapon Formation:''' He could construct energy blasters and other impressively fabricated ranged assault weapons from the plates on his person.
+
+*'''Adaption:''' He was able to study and counteract another mutant's power. For example, after an attack by [[Robert Drake (Earth-616)|Iceman]], Post conducted heat that traveled through the ice to Iceman's body.
+
+*'''Environmental Control:''' Post connected himself to the surrounding area when confronting the transported X-Men. While this apparently made him more powerful, [[Scott Summers (Earth-616)|Cyclops]], [[Ororo Munroe (Earth-616)|Storm]], Iceman, and [[James Howlett (Earth-616)|Wolverine]] were also able to harm him by attacking the area rather than directly attacking him.
+
+*'''Superhuman Intelligence:''' His alteration at the hands of the techno-organic virus infection has enhanced his intellectual and intuitive capacity tenfold. 
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+
+==References==
+{{Reflist}}
+[[Category:Teleporters]]
+[[Category:Superhuman Strength]]
+[[Category:Telepathic Immunity]]
+[[Category:Superhuman Durability]]
+[[Category:Invisibility]]
+[[Category:Power Negation]]
+[[Category:Techno-Organic Virus]]
+[[Category:Intuitives]]

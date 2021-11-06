@@ -1,0 +1,58 @@
+{{Marvel Database:Character Template
+| Image                   = Yuriko Takiguchi (Earth-616) from Uncanny X-Men Vol 1 506 001.jpg
+| Name                    = Yuriko Takiguchi 
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = Formerly {{m|X-Men}}; {{M|X-Club}}; {{m|Stark Industries (Earth-616)|Stark Industries}}; {{m|Godzilla Squad}}
+| Relatives               = [[Robert Takiguchi (Earth-616)|Robert]] (grandson)
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = White; Black (formerly) 
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = Japanese
+| Occupation              = [[Robotics engineer]]
+| Education               = 
+| BaseOfOperations        = Formerly [[Utopia (X-Men Base)|Utopia]], [[San Francisco Bay]], [[California (State)|California]], [[Graymalkin Industries]], Marin Headlands, [[San Francisco]], California
+
+| Creators                = Doug Moench; Herb Trimpe
+| First                   = Godzilla #1
+| Death                   = Uncanny X-Men #515
+
+| History                 = Yuriko Takiguchi was a robotics engineer for Stark Industries. Along with fellow scientist [[Tamara Hashioka (Earth-616)|Tamara Hashioka]], he developed the SJ3RX robotic construct, designed specifically to combat the menace of the giant, rampaging monster known as [[Godzilla (Earth-616)|Godzilla]]. Yuriko's grandson [[Robert Takiguchi (Earth-616)|Robert]] stole the SJ3RX and renamed it [[SJ3RX (Earth-616)|Red Ronin]].{{r|Godzilla #6}}
+
+In 2009, Yuriko was recruited by X-Club to help them discover how to reverse the effects of M-Day. They first went to 1906, to discover how the modern mutant population came to be, by taking blood samples from Doctor Nemesis' parents and then study them in the present. Takiguchi thought they were Russian agents trying to reclaim the island for Russia. In a panic, Takiguchi then unleashed the Leviathan.{{r|Uncanny X-Men #512}}
+
+During the events of Utopia, X-Club managed to reactivate [[Asteroid M]], which the X-Men declared a sanctuary for all mutantkind. However, Yuriko passed away soon after.{{r|Uncanny X-Men #515}}
+
+| Powers                  = * '''[[Robotics engineer|Robotic engineering]]'''
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * [http://uncannyxmen.net/characters/takiguchi-dr-yuriko uncannyxmen.net Character Profiles: Dr. Yuriko Takiguchi]
+}}
+[[Category:Robotics]]
+[[Category:Engineers]]
+[[Category:Utopians]]
+[[Category:Death by Natural Causes]]

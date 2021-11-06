@@ -1,0 +1,69 @@
+{{Marvel Database:Character Template
+| Image                   = Manphibian (Earth-616) from Marvel Monsters Vol 2 1 001.jpg
+| Name                    = 
+| CurrentAlias            = Manphibian
+| Aliases                 = 
+
+| Affiliation             = {{m|Deadpool, Inc.}}; formerly {{m|Howling Commandos (S.H.I.E.L.D.)|Howling Commandos}}, {{m|Special Threat Assessment for Known Extranormalities|S.T.A.K.E.}}, {{m|Strategic Homeland Intervention, Enforcement and Logistics Division|S.H.I.E.L.D.}}; {{m|Avengers of the Supernatural}}, {{m|Legion of Monsters}}
+| Relatives               = Unnamed mate (deceased), Unnamed children (deceased)
+| MaritalStatus           = Widowed
+
+| CharRef                 = {{cl|Marvel Monsters Vol 2 #1}}
+| Gender                  = Male
+| Height                  = 7'2" 
+| Weight                  = 425 lbs
+| Eyes                    = Red
+| Hair                    = No Hair
+| UnusualSkinColor        = Green
+| UnusualFeatures         = True to his name, the Manphibian possesses aquatic features which also allows him to function on land. These include clawed hands, a submerged jet capsule, a tough scaly hide, lungs that can be alternated with gill, scalloped fins on either side of his head, and a spiked fin running laterally down his spine.
+
+| Origin                  = [[Manphibians|Manphibian]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = An unnamed alien world
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Arms dealer, explorer, scientist, warrior
+| Education               = 
+| BaseOfOperations        = [[S.H.I.E.L.D. Helicarrier U.S.S. Deadpool]]
+
+| Creators                = Marv Wolfman; Tony Isabella; Dave Cockrum
+| First                   = Legion of Monsters Vol 1 1
+
+| History                 = The creature known only as Manphibian was born on an unknown alien world over a thousand years ago. A member of his species attacked Manphibian, murdering his mate in the process. The alien fled from his home world, and Manphibian pursued him across several star systems in the hopes of exacting revenge. He eventually chased him to the planet Earth where both aliens found themselves trapped underground for a millennium.
+
+Years passed, and in that time an industrialist named [[Aaron Fox (Earth-616)|Aaron Fox]] built an oil refinery overtop the ground where the Manphibian laid buried. Persistent drilling in Shaft #27 awakened the two aliens, and they climbed their way to the surface. The rogue alien continued to satisfy his murderous ways and attacked [[Beth Fox (Earth-616)|Beth Fox]], Aaron Fox's wife dragging her underwater. Manphibian battled his old adversary and rescued Beth, but the incident earned him the attention of Aaron Fox. Fox mobilized an attack helicopter and fired several missiles at the Manphibian. The missiles rained down destroying Shaft #27, and Manphibian was able to escape during the chaos. Manphibian was not the only creature to survive the carnage however. The alien who murdered his mate was still at large, and Manphibian spent the next several years scouring the Earth in search of him. It remains unknown whether he ever successfully satisfied his need for vengeance.{{r|Legion of Monsters Vol 1 1}}
+
+Manphibian and his mate had multiple offsprings that were simultaneously trapped on Earth. Due to the death of his mate, Manphibian had to raise them on his own.
+
+At some point, Manphibian was recruited by [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] in order to be part of [[Nicholas Fury (Earth-616)|Nick Fury]]'s [[Howling Commandos]]. Manphibian was with the Howling Commandos when they launched an assault on the forces of [[Merlin]].{{r|Nick Fury's Howling Commandos Vol 1 #1|6}}
+
+Manphibian joined the [[Legion of Monsters]] in fighting [[Hunter of Monster Special Force (Earth-616)|Hunter of Monster Special Force]]. During the war Manphibian's children were killed after being tortured by [[Robert Hellsgaard (Earth-616)|Robert Hellsgaard]].
+
+Manphibian was one of several beings (along with the [[Avengers Unity Division (Earth-616)|Avengers Unity Division]]) captured by [[Mojo (Mojoverse)|Mojo]] to appear in one of Mojo's films. He was paired up with Blade, Doctor Strange, Ghost Rider, Man-Thing, and Satana as the [[Avengers of the Supernatural (Earth-616)|Avengers of the Supernatural]].{{r|Uncanny Avengers Annual Vol 1 #1}}
+
+The Manphibian resurfaced a short time ago and was inducted into a S.H.I.E.L.D. Special Forces unit called the [[Howling Commandos (S.H.I.E.L.D.) (Earth-616)|Howling Commandos]] (not to be confused with the original [[Howling Commandos (WWII) (Earth-616)|Howling Commandos]] from World War II). The team was comprised of other powerful monsters including Warwolf, Vampire by Night, and the Living Mummy. As a member, the Manphibian participated in a mission to Afghanistan to stop the threat of a terrorist organization known as the Lords of the Living Lightning.{{r|Nick Fury's Howling Commandos Vol 1 2|6}}
+
+At some point, Manphibian came in contact with Deadpool and joined his crew.
+
+| Powers                  = 
+'''Known Powers:''' It is believed that all of the Manphibian's powers are common to members of his race. 
+* '''Amphibious:''' The Manphibian can function in both an oxygen-rich environment as well as underwater with little to no difficulty. 
+* '''Extended Lifespan:''' The Manphibian is at least a thousand years old. The average lifespan for members of his race is unknown.
+* '''Superhuman strength:''' The Manphibian has demonstrated a strength level greater than that of the average human. In one example, he has been showing pulling a fully grown tree up from its roots and wielding it as a melee weapon. The upper limits of Manphibian's strength is unknown.
+* '''Claws:''' The Manphibian has razor-sharp claws on the fingers of each hand, ideal for stabbing and slicing attacks, as well as defensive maneuvers.
+| Abilities               = The Manphibian was an accomplished scientist on his home world.
+| Strength                = [[Superhuman Strength|Superhuman]] 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = Manphibian has been featured in at least five movies, as [[Brandon Sharpe (Earth-616)|Striker]] was proposed to play in the '''Manphibian 5'''.{{r|Avengers Academy Vol 1 34}}
+| Trivia                  = * Manphibian has red eyes even though the cover to {{cl|Legion of Monsters Vol 1 1}} shows them as purple.{{r|Marvel Legacy: The 1970s Handbook Vol 1 1}}
+* Manphibian is an analog to the obscure DC Comics character known as [[w:c:DC:Devil Fish (Pre-Zero Hour)|Devil-Fish]]. Devil-Fish first appeared in Superboy and the Legion of Super-Heroes #202. Both Devil-Fish and Manphibian were original concepts designed by [[Dave Cockrum]]. Cockrum conceived both characters out of a personal love for the 1955 Universal Studios film, ''The Creature from the Black Lagoon''. Cockrum later re-imagined the Manphibian character for a resin model kit produced by Action Hobbies. <ref>''[http://www.nightscrawlers.com/forum/viewthread.php?tid=4680 Dave Cockrum forum at Nightcrawlers]''</ref>
+
+| Links                   = 
+* [http://www.marvunapp.com/Appendix/manphibi.htm Manphibian profile at the Marvel Appendix]
+}}
+[[Category:Arms Dealers]]

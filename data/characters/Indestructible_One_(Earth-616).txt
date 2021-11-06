@@ -1,0 +1,51 @@
+{{Marvel Database:Character Template
+| Image                   = Indestructible_One_(Earth-616)_from_Fantastic_Four_Vol_1_76_0001.jpg
+| Name                    = Indestructible One
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = Servant of the [[Psycho-Man (Earth-616)|Psycho-Man]]
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = 
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = 
+| Citizenship             = Microverse
+| Occupation              = Creation of Psycho-Man
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Stan Lee; Jack Kirby
+| First                   = Fantastic Four #76
+| Death                   = 
+
+| History                 = A creature created by the [[Psycho-Man (Earth-616)|Psycho-Man]], it was sent to capture the [[Norrin Radd (Earth-616)|Silver Surfer]] who was in the [[Microverse]] to escape [[Galan (Earth-616)|Galactus]]. The creature was eventually defeated by the [[Fantastic Four (Earth-616)|Fantastic Four]] and the Silver Surfer.{{r|Fantastic Four #76}}
+
+| Powers                  = The Indestructible One possessed super-human strength in proportion to the Microverse and was able to lift large rocks. It was also durable, able to withstand blows from the Thing. The creature could also become intangible at will.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Microverse Characters]]

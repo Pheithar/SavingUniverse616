@@ -1,0 +1,54 @@
+{{Marvel Database:Character Template
+| Image                   = Anton Trojak (Earth-616) from Official Handbook of the Marvel Universe Vol 2 6 0001.jpg
+| Name                    = [[Anton Trojak]]
+| CurrentAlias            = Annihil-Agent 47
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra (Earth-616)|Hydra}}, {{M|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = White
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = 
+| Citizenship             = 
+| Occupation              = Espionage Agent
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Jim Steranko
+| First                   = Strange Tales Vol 1 155
+| Death                   = 
+
+| History                 = At some point, HYDRA’s Annihil-Agent 47 assumed the identity of Dr. Anton Trojak, a scientist affiliated with S.H.I.E.L.D., and used this identity to infiltrate the S.H.I.E.L.D. Helicarrier, using HYDRA’s Epiderm-Mask Machine to create a mask that made him look like Trojak.  “Trojak” oversaw the transporting of the Q-Ray aboard the Helicarrier as he promised to deliver a demonstration to Nick Fury. 
+
+Later, he was contacted by the Supreme Hydra (Baron Strucker, who was impersonating S.H.I.E.L.D. agent John Bronson), and told to prepare a trap for Fury when he came to use A.U.T.O.F.A.C., the computer S.H.I.E.L.D. was using to determine the Supreme Hydra’s true identity.  “Trojak” set a booby trap so that when Fury stepped on the grid in front of A.U.T.O.F.A.C., he was jolted with electricity.  “Trojak” quickly set to work, installing his Aphonic Bomb to destroy A.U.T.O.F.A.C., and tied Fury to it so that he would share its fate.  He then departed to activate the Q-Ray, and attempted to tear the Helicarrier apart with it, but Fury managed to free himself and attacked “Trojak”. 
+
+Fury set the Q-Ray to overload as “Trojak” continued to pummel him.  Seeing the damage that the Q-Ray was doing, “Trojak” triumphantly declared HYDRA’s victory as he bested Fury in combat.  But just as he cried “Hail HYDRA!” the Q-Ray exploded, killing him.
+
+| Powers                  = 
+| Abilities               = “Trojak” was a brilliant scientist whose inventions included the Q-Ray and Aphonic Bomb.
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

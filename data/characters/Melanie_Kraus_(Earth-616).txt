@@ -1,0 +1,55 @@
+{{Marvel Database:Character Template
+| Image                   = Melanie Kraus (Earth-616) from Fury of S.H.I.E.L.D. Vol 1 2 0001.jpg
+| Name                    = [[Melanie Peters Kraus]]
+| CurrentAlias            = [[Kitty Drake]]
+| Aliases                 = [[Melanie Peters]]
+
+| Affiliation             = {{M|Hydra (Earth-616)|Hydra}}
+| Relatives               = [[Mick Peters (Earth-616)|Mick Peters]] (father, deceased);<br>[[Karl Kraus (Earth-616)|Karl Kraus]] (ex-husband)
+| MaritalStatus           = Divorced
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Blue
+| Hair                    = Blonde
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Terrorist
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Howard Chaykin; Corky C. Lehmkuhl
+| First                   = Fury of S.H.I.E.L.D. Vol 1 1
+| Death                   = Fury of S.H.I.E.L.D. Vol 1 3
+
+| History                 = The daughter Hydra boss [[Mick Peters (Earth-616)|Mick Peters]] was married by Karl Kraus in order to take over his cell. 
+
+Melanie, an obese woman didn't question his love for her until he left her after her father's death. Melanie then sought revenge, and combined extreme dieting with plastic surgery to create a new identity for herself, Kitty Drake. 
+
+Togehter with her tech-expert, Mycrosoft, Kitty planned to blow up Manhattan, to no avail as she was, however, stopped by Nick and Mikel Fury.{{r|Fury of S.H.I.E.L.D. #1|3}}
+
+| Powers                  = 
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

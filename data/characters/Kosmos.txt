@@ -1,0 +1,14 @@
+{{DisambiguationFull
+|main         = Maker (Earth-616)
+|main_name    = Kosmos
+|main_title   = 
+|main_image   =  Maker (Earth-616) from Official Handbook of the Marvel Universe Women of Marvel 2005 Vol 1 1 0001.jpg
+|logo         = 
+|noimage      = No Image Female.jpg
+|description  =
+
+| Others1        = [[Kosmos (Dimension)|Kosmos Dimension]]; Kosmos (Dimension) from Official Handbook of the Marvel Universe A-Z Update Vol 1 5 001.jpg
+| Others2        = [[Kosmosians]]; Kosmosians from Official Handbook of the Marvel Universe A-Z Update Vol 1 5 001.jpg
+| Others3        = [[Creatures from Kosmos]]; Creatures (Kosmos) from Official Handbook of the Marvel Universe Vol 2 15 001.jpg
+
+ }}

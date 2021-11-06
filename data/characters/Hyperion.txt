@@ -1,0 +1,45 @@
+{{DisambiguationFull
+|main         = Mark Milton (Earth-712)
+|main_name    = Mark Milton
+|main_title   = Hyperion
+|main_image   = Mark Milton (Earth-712) from Squadron Supreme New World Order Vol 1 1 001.jpg
+|logo         = [[File:Hyperion logo.png|center|400px]]
+|noimage      = No Image Male.jpg
+|description  = 
+
+{{Portal
+|Image Size   = 200px
+|Box1 Image   = Marcus Milton (Earth-13034) from Avengers Vol 5 3 001.jpg
+|Box1 Text    = [[Marcus Milton (Earth-13034)|Marcus Milton]]
+}}
+
+|alternative1 = Marcus Milton
+|alternative2 = Hyperion (Earth-12041)
+
+|exclude1     = Mark Milton (Mephisto's Simulacrum) (Earth-616)
+|exclude2     = Mark Milton (Zombie Clone) (Earth-616)
+|exclude3     = Marcus Milton (A.I.) (Earth-14831)
+|exclude4     = Mark Milton (Earth-TRN840)
+ 
+
+|includeComic1= Mark Milton (Earth-Unknown); Mark Milton (Earth-Unknown) from Spider-Man Deadpool Vol 1 6 001.jpg
+
+| Others1     = [[Hyperion (Grandmaster's Creation)|Hyperion<br>(Grandmaster's Creation)]]; Hyperion (Grandmaster's Creation) (Earth-616) from Official Handbook of the Marvel Universe Vol 1 5 0001.jpg
+| Others2     = [[Mark Milton (Mephisto's Simulacrum) (Earth-616)|Mark Milton<br>(Mephisto's Simulacrum)]]; Mark Milton (Mephisto's Simulacrum) (Earth-616) from Avengers Vol 8 18 002.jpg
+| Others3     = [[Mark Milton (Zombie Clone) (Earth-616)|Mark Milton<br>(Zombie Clone)]]; Marvel Zombies Supreme Vol 1 2 page 12 Hyperion (Zombie) (Earth-616).jpg
+| Others4     = Zhib-Ran (Earth-616); Zhib-Ran (Earth-616) from New Thunderbolts Vol 1 15 002.jpg
+| Others5     = [[Marcus Milton (A.I.) (Earth-14831)|A.I. Duplicate]]; Marcus Milton (A.I.) (Earth-14831) from Avengers Vol 5 31 001.jpg
+| Others6     = [[Hive_(Poisons)_(Earth-17952)/Members#Poison Hyperion|Hyperion<br>(Poison)]]; Hive (Poisons) (Earth-17952) Members-Poison Hyperion from Venomized Vol 1 2 001.png
+
+| Related1    = Blue Marvel; Mighty Avengers Vol 2 10 Textless.jpg
+| Related2    = [[Kallark|Gladiator]]; War of Kings Warriors Vol 1 1 Textless.jpg
+| Related3    = [[Hyperbrand (Connell) (Warp World) (Earth-616)|Hyperbrand]]; Hyperbrand (Connell) (Warp World) (Earth-616) from Secret Warps Ghost Panther Annual Vol 1 1 001.png
+| Related4    = [[KalAOL (Earth-3131)|Al]]; Marville Vol 1 1 Variant Textless.jpg
+| Related5    = [[Park Bench (Earth-9047)|Superbman]]; Park Bench (Earth-9047) 1.JPG
+| Related6    = [[Clark Kent (Earth-9602)|Super-Soldier]]; Clark Kent (Earth-9602) from Super Soldier Vol 1 1 0001.jpg
+| Related7    = [[Zoran (Earth-4290001)|Sun God]]; Zoran (Earth-4290001) from New Avengers Vol 3 16.NOW 003.jpg
+| Related8    = [[Gwendolyn Poole (Gwenperion) (Earth-TRN517)|Gwenperion]]; Gwendolyn Poole (Gwenperion) (Earth-TRN517) from Marvel Contest of Champions 001.png
+}}
+[[es:Hyperion]]
+[[pt-br:Hipérion]]
+[[fr:Hypérion]]

@@ -1,0 +1,55 @@
+{{Marvel Database:Character Template
+| Image                   = Gary Buser (Earth-616) from FF Fifty Fantastic Years Vol 1 1 0001.jpg
+| Name                    = [[Gary Buser]]
+| CurrentAlias            = [[Shellshock]]
+| Aliases                 = 
+
+| Affiliation             = Ally of [[Rance Preston (Earth-616)|Live Wire]]; formerly employed by [[Psycho-Man (Earth-616)|Psycho-Man]]
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = {{cl|FF: Fifty Fantastic Years #1}}
+| Gender                  = Male
+| Height                  = 5'9"
+| Weight                  = 185 lbs
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Titusville (Pennsylvania)|Titusville]], [[Pennsylvania (State)|Pennsylvania]]
+| PlaceOfDeath            = [[Bar with No Name]], [[Medina County]], [[Ohio (State)|Ohio]]
+| CauseOfDeath            = Shot by [[Scourge (Delazny) (Earth-616)|the first Scourge of the Underworld]]
+| KilledBy                = [[Scourge (Delazny) (Earth-616)]]
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Professional criminal
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Stan Lee; Jack Kirby
+| First                   = Fantastic Four Annual Vol 1 5
+| Death                   = Captain America Vol 1 319
+
+| History                 = Shellshock was a flunky of [[Psycho-Man (Earth-616)|Psycho-Man]] along with [[Ivan Karlovich (Earth-616)|Ivan Karlovich]] and [[Rance Preston (Earth-616)|Live Wire]]; Psycho-Man kept them under control using his [[Control-Box]]. Psycho-Man intended them to guard his secret base in the [[Caribbean Sea]], but the trio was defeated by the invading [[House of Agon (Earth-616)|Inhuman Royal Family]] and [[T'Challa (Earth-616)|Black Panther]]. Shellshock shot a hunter missile to track the Panther, but the Panther covered behind Shellshock himself, so that Shellshock was hit by his own slug.{{r|Fantastic Four Annual Vol 1 5}}
+
+When Shellshock left Psycho-Man’s employ, he kept the weapon designed for him and teamed up with fellow former flunky of Psycho-Man, Live Wire. They attempted to steal [[Alicia Masters (Earth-616)|Alicia Masters]]' statues, but were defeated by the [[Benjamin Grimm (Earth-616)|Thing]].{{r|Marvel Two-In-One Vol 1 70}} He tried to get revenge on him when the Thing was hospitalized, but another superhero friend of the Thing stopped him before he could reach his bed.{{r|Marvel Two-In-One Vol 1 96}}
+
+Shellshock was later present at the [[Bar with No Name]], and met his end there, thanks to the [[Scourge (Delazny) (Earth-616)|Scourge of the Underworld]].{{r|Captain America Vol 1 319}}
+
+| Powers                  = 
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = * Shellshock used a special handgun that fired assorted projectiles, including explosive projectiles, heat-seeking and guided projectiles, and an expanding yeast-putty which entangled opponents.{{r|Fantastic Four Annual #5}}{{r|Marvel Two-In-One #96}}
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

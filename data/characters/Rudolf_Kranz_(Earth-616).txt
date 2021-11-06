@@ -1,0 +1,51 @@
+{{Marvel Database:Character Template
+| Image                   = Rudolf Kranz (Earth-616) Uncanny X-Men Vol 1 161.jpg
+| Name                    = [[Rudolf Kranz]]
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{m|Hydra}}; formerly {{M|Waffen-SS}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Blond
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Germany]]
+
+| Identity                = No Dual
+| Citizenship             = German
+| Occupation              = Terrorist; former Major of the Waffen SS
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Chris Claremont; Dave Cockrum
+| First                   = Uncanny X-Men #161
+
+| History                 = Former Major of the [[National Socialist German Workers Party (Earth-616)|Waffen SS]], became leader of a [[Hydra (Earth-616)|Hydra]] squad. He participated in the abduction of [[Gabrielle Haller (Earth-616)|Gabrielle Haller]] but was captured and [[Charles Xavier (Earth-616)|Charles Xavier]] used his psychic powers to snatch from him information about where Hydra had been brought Gabrielle.{{r|Uncanny X-Men #161}}
+
+| Personality             = 
+
+| Powers                  = None
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Military Personnel]]

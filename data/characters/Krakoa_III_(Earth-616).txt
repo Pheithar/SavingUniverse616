@@ -1,0 +1,63 @@
+{{Marvel Database:Character Template
+| Title                   = [[Krakoa]]
+| Image                   = Krakoa III (Earth-616) from Generation X Vol 2 8 001.jpg
+| Name                    = Krakoa
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = Formerly {{M|X-Men}} (Jean Grey School member), {{M|Hellfire Club}}
+| Relatives               = [[Krakoa (Earth-616)|Krakoa]] ("grandparent");<br>[[Vega-Superior (Earth-616)|Vega-Superior]] ("Uncle");<br>[[Krakoas (Hellfire Academy) (Earth-616)|Krakoas]] ("siblings", deceased);<br>[[Maximilian von Katzenelnbogen (Earth-616)|Maximillian von Katzenelnbogen]] (creator)
+| MaritalStatus           = Single
+
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Red
+| Hair                    = None
+| UnusualSkinColor        = 
+| UnusualFeatures         =
+
+| Origin                  = Grandchild of [[Krakoa (Earth-616)|Krakoa]] grown in an artificial supergarden by [[Maximilian von Katzenelnbogen (Earth-616)|Maximillian von Katzenelnbogen]] of the Hellfire Club, used to attack the Jean Grey School for Higher Learning.
+| Reality                 = Earth-616
+| PlaceOfBirth            = Supergarden
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = X-Man
+| Education               = 
+| BaseOfOperations        = Formerly [[Jean Grey School for Higher Learning]], [[Westchester County]], [[New York]]
+
+| Creators                = Jason Aaron; Chris Bachalo
+| First                   = Wolverine and the X-Men #1
+| Last                    = 
+
+| History                 = [[Maximilian von Katzenelnbogen (Earth-616)|Maximillian von Katzenelnbogen]] grew this grandchild of [[Krakoa (Earth-616)|Krakoa]] in an artificial supergarden. This Krakoa was beaten and abused its entire life, trained to only hate and rage.{{r|Wolverine & the X-Men #3}}
+
+When [[James Howlett (Earth-616)|Wolverine]] split from [[Scott Summers (Earth-616)|Cyclops]] and returned to New York, he planned to build a new school. Naming this the [[Jean Grey School for Higher Learning]], he opened it up to any mutant who would come with him. Secretly, the [[Hellfire Club (Earth-616)|Hellfire Club]] had placed Krakoa on the campus, and the school was built atop it.{{r|Wolverine & the X-Men #2}}
+
+The Hellfire Club had Krakoa attack the school. When this happened, [[Quintavius Quire (Earth-616)|Kid Omega]] accessed his mind and discovered his origins. He had Krakoa open up to [[Rachel Summers (Earth-811)|Marvel Girl]], who relayed his apologies to Headmaster Wolverine. Krakoa told her that he was a mutant and asked to join the X-Men. He was allowed to stay as Logan found it good to have a school grounds which can fight back.{{r|Wolverine & the X-Men #3}}
+
+Krakoa was the solution for the school's money woes, as he could grow diamonds on trees.{{r|Wolverine & the X-Men #7}}
+
+| Powers                  = * Powers similar to [[Krakoa (Earth-616)#Powers|those]] of the original [[Krakoa (Earth-616)|Krakoa]].
+| Abilities               = 
+| Strength                = 
+| Weaknesses              =
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = * Krakoa is referred to as "He", although the X-Men admit the concept of "gender" may not strictly apply to Krakoa.{{r|Wolverine & the X-Men #3}}
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Rock Body]]
+[[Category:Telepaths]]
+[[Category:Jean Grey School faculty]]
+[[Category:Post-M-Day Mutants (Non-Human)]]
+[[Category:Mutants cloned/created after M-Day]]
+[[Category:Post-Secret Wars Mutants]]
+[[Category:Giant Monsters]]

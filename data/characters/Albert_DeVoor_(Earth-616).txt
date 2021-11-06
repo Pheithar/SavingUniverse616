@@ -1,0 +1,50 @@
+{{Marvel Database:Character Template
+| Image                   = Albert DeVoor (Earth-616) from She-Hulk Vol 2 21 0001.jpg
+| Name                    = [[Albert DeVoor|Albert E. DeVoor]]
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{m|Roxxon Energy Corporation (Earth-616)|Roxxon}}, {{m|Nth Command (Earth-616)|Nth Command}}; formerly {{m|I.T. (Earth-616)}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = White
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Former Nth Command Director
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Roy Thomas; John Buscema
+| First                   = Fantastic Four Vol 1 160
+
+| History                 = '''Albert DeVoor''' first appeared as a business representative for Interlocking Technologies, buying the [[Fantastic Four (Earth-616)|Fantastic Four]] from [[Reed Richards (Earth-616)|Reed Richards]] when they were running low on money. However, this was merely a part of a larger scheme by [[Arkon (Earth-616)|Arkon]] which involved pitting the armies of three worlds ([[Earth-616]], [[Earth-721|Earth-A]] and the [[Earth-6212|Fifth Dimension]]) against each other.{{r|Fantastic Four #160|163}}
+
+DeVoor later created a business model with his Earth-A counterpart for exotic tourism. People from his counterpart's reality would pay to visit the "World of Marvels" of Earth-616, since super-beings were virtually unheard of where they came from. Some lucky tourists also received super-powers upon traveling to Earth-616, if their 616 counterparts had powers to begin with. This led to a series of mishaps involving Earth-A doppelgangers acting out of character in Earth-616.{{r|She-Hulk Vol 2 #21}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * [http://www.marvunapp.com/Appendix/nthcommand.htm#devoor Albert DeVoor at the Marvel Appendix]
+}}

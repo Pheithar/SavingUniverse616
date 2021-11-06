@@ -1,0 +1,40 @@
+{{Marvel Database:Team Template
+| Image                   = Fantastic Foursome (Earth-616) from Fantastic Four Vol 1 382 0001.jpg
+| Name                    = Fearsome Foursome
+| Aliases                 = Klaw's [[Fearsome Four]]
+| Distinguish1            = Fearsome Four
+
+| Status                  = Defunct
+| Identity                = Public
+
+| Reality                 = Earth-616
+| BaseOfOperations        = Paibok's starship
+
+| Leaders                 = [[Ulysses Klaw (Earth-616)|Klaw]]
+| CurrentMembers          = 
+| FormerMembers           = [[Devos (Earth-616)|Devos]], [[Tara Richards (Earth-6311)|Huntara]], [[Ulysses Klaw (Earth-616)|Klaw]], [[Paibok (Earth-616)|Paibok]]
+| Allies                  = [[Skrull Empire]], [[Franklin Richards (Earth-6311)|Psi-Lord]]
+| Enemies                 = [[Fantastic Four (Earth-616)|Fantastic Four]], [[Spider-Man (Peter Parker)|Spider-Man]], [[William Baker (Earth-616)|Sandman]], [[Silvija Sablinova (Earth-616)|Silver Sable]], [[Matthew Murdock (Earth-616)|Daredevil]]
+
+| Origin                  = Formed by Klaw to conquer [[Fantastic Four (Earth-616)|Fantastic Four]]
+| PlaceOfFormation        = [[Empire State University]]
+| PlaceOfDissolution      = Paibok's starship
+| Creators                = Tom DeFalco; Paul Ryan
+| First                   = Fantastic Four Vol 1 377
+| Last                    = Fantastic Four Vol 1 382
+
+| HistoryText             =
+When the [[Jonathan Storm (Earth-616)|Johnny Storm]] went to trial for setting fire to [[Empire State University]], he was attacked in the courtroom by [[Paibok (Earth-616)|Paibok]] and [[Devos (Earth-616)|Devos]]. Simultaneously, [[Ulysses Klaw (Earth-616)|Klaw]] attempted to have his revenge upon the [[Fantastic Four (Earth-616)|Fantastic Four]] by manipulating [[Tara Richards (Earth-6311)|Huntara]] into joining them. Working together the attacked they FF.{{r|Fantastic Four Vol 1 377}}
+
+However the Fantastic Four four [[Spider-Man (Peter Parker)|Spider-Man]], [[William Baker (Earth-616)|Sandman]], [[Silvija Sablinova (Earth-616)|Silver Sable]] and [[Matthew Murdock (Earth-616)|Daredevil]]. They were winning until the but the [[Avengers (Earth-616)|Avengers]] arrived, they decided to retreat through a portal opened by Huntara. Daredevil attempted to pursue, but the dimension in which he found himself confused his senses, and he had to be pulled out by Spider-Man.{{r|Fantastic Four Vol 1 378}}
+
+On Paibok's starship they planned to destroy the FF at [[Four Freedoms Plaza]], where they lay in wait for the Fantastic Four's return. When the heroes returned, Huntara launched into battle with [[Franklin Richards (Earth-6311)|Psi-Lord]], leading the two of them away from the others. The remaining members of the Fantastic Four were taken out by knock-out gas delivered by Devos and Paibok. The two allies then teleported their captives to Paibok's ship, so that they could turn them over to the [[Skrull Empire]]. After they had disappeared, Klaw came out of hiding, and took the unconscious body of [[Carol Danvers (Earth-616)|Ms Marvel]] prisoner.{{r|Fantastic Four Vol 1 382}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

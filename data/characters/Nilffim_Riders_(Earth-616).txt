@@ -1,0 +1,35 @@
+
+{{Marvel Database:Team Template
+| Image                   = Nilffrim Riders (Earth-616) from Defenders Vol 1 71 0001.jpg
+| Name                    = Nilffim Riders
+| Aliases                 = 
+
+| Status                  = 
+
+| Identity                = 
+| Reality                 = Earth-616
+| BaseOfOperations        = [[Tunnel World]]
+
+| Leaders                 = [[Arisen Tyrk (Earth-616)|Arisen Tyrk]]
+| CurrentMembers          = 
+| FormerMembers           = 
+| Allies                  = 
+| Enemies                 = 
+
+| Origin                  = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Ed Hannigan; Herbert Trimpe
+| First                   = Defenders Vol 1 71
+| Last                    = 
+
+| HistoryText             = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

@@ -1,0 +1,59 @@
+{{Marvel Database:Race Template
+| Image                   = Kallusians (Earth-616) from Avengers Vol 1 14 001.png
+| Name                    = Kallusians
+| Aliases                 = The Kallu{{r|Avengers Vol 1 14}}
+| Identity                = Secret
+| Affiliation             = Neutral
+| Universe                = Earth-616
+| BaseOfOperations        = 
+
+| BodyType                = Humanoid
+| AvgHeight               = 6'
+| AvgWeight               = 
+| Eyes                    = 2
+| Hair                    = White
+| Hair2                   = Gray
+| Skin                    = Pink
+| NumberOfLimbs           = 4
+| NumberOfFingers         = 5
+| NumberOfToes            = 5
+| NumberOfToes2           = 
+| SpecialAdaptations      = 
+| UnusualFeatures         = 
+
+| Origin                  = Alien
+| GalaxyOfOrigin          = [[Andromeda Galaxy]]
+| StarSystemOfOrigin      = [[Kallu-Kan]]
+| HomePlanet              = [[Kallu]]
+| HomePlanet2             = , third from sun
+| PlaceOfBirth            = 
+| Creators                = Stan Lee; Larry Lieber; Larry Ivie
+| First                   = Avengers Vol 1 14
+
+| HistoryText             = The Kallusians were a race of aliens who were forced from their home planet by an interplanetary war.{{r|Avengers Vol 1 14}} Decimated and pursued by their foes, the [[Yirbek]],{{r|Avengers: Roll Call Vol 1 1}} they fled to Earth to repair their weapons and regroup their forces, but the amount of oxygen was too low for them and they started suffocating. They constructed a base under the [[North Pole]]. The Earth scientist [[Hjarmal Svenson (Earth-616)|Doctor Svenson]], performing in-site research, was discovered by them. Moved by their plight, Svenson offered to help them, constructing equipment to help them survive in the Earth's atmosphere, which was otherwise lethal to the Kallusians.{{r|Avengers Vol 1 14}}
+
+When the [[Janet Van Dyne (Earth-616)|Wasp]] was shot during the [[Avengers (Earth-616)|Avengers]]' battle against [[Luchino Nefaria (Earth-616)|Count Nefaria]]{{r|Avengers Vol 1 13}}, her lung was punctured and the only doctor skilled enough to save her was Doctor Svenson. The Avengers sought out Svenson, and discovered he had been replaced by a Kallusian impostor. Discovering their polar base, the Avengers clashed with the Kallusians, trying to free Svenson. At the same time, a fleet of star ships in pursuit of the Kallusians entered orbit around Earth. The Kallusians agreed to leave Earth and confront the enemy fleet light-years from there, while the Avengers remained on Earth with Svenson. Only [[Uatu (Earth-616)|The Earth's Watcher]] kept track of that battle,{{r|Avengers Vol 1 14}} and to most Earthlings, the result of it is unknown.{{r|Official Handbook of the Marvel Universe Vol 1 5}}
+
+The '''Kallusian Root-Digger''' was apparently a burrowing beast coming from the same planet. The [[Skrulls]] could impersonate such an animal, as done by [[Raksor (Earth-616)|Raksor]] in an attempt to escape the Inhumans by digging.{{r|Fantastic Four Annual Vol 1 18}}
+
+| Habitat                 = Arctic over much of the planet with 74% water surface covered
+| Gravity                 = 110% [[Earth]] standard
+| Atmosphere              = 47% nitrogen, 41% oxygen
+| Population              = 11,000
+
+| Powers                  = 
+| Abilities               = 
+| AvgStrength             = 
+| Weaknesses              = They need special oxygen mask to provide them with extra oxygen when in Earth.{{r|Avengers Vol 1 14}}
+
+| GovernmentType          = Democratic republics
+| TechnologyLevel         = Advanced interstellar starships with warp drive, teleportation, and weaponry of great power; their gear could destroy Earth. They also have warp-compliant interstellar starship and teleportation technology.
+| CulturalTraits          = Honest, courageous, perseverance
+| Representatives         = <br>
+* [[Ogor (Kallusian) (Earth-616)|Ogor]]
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * [http://www.marvunapp.com/Appendix2/kallusians.htm Kallusians at the Marvel Appendix]
+}}
+[[Category:Skrull Empire Races]]

@@ -1,0 +1,51 @@
+{{Marvel Database:Character Template
+| Image                   = Dennis Bowden (Earth-616) Fantastic Four Annual Vol 1 26.jpg
+| Name                    = [[Dennis Bowden]]
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = Formerly {{M|Hydra}}
+| Relatives               = Yvonne Bowden (wife, deceased);<br>[[Tamika Bowden (Earth-616)|Tamika Bowden]] (daughter)
+| MaritalStatus           = Widowed
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Scientist, inventor
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Tom DeFalco; Herb Trimpe
+| First                   = Fantastic Four Annual #26
+
+| History                 = [[Tamika Bowden (Earth-616)|Tamika Bowden]], a potential [[Olympic]] medal winner, was the victim of an unfortunate accident that confined her to a wheelchair for the rest of her life. Her father Dennis Bowden, a mechanical engineer who graduated with top honors from [[Massachusetts Institute of Technology|M.I.T.]], created an exo-skeleton for her so that she could walk gain. His creation worked so well that Tamika became stronger, faster, and more agile than she ever was.{{r|Fantastic Four Annual Vol 1 26}} 
+
+| Personality             = 
+
+| Powers                  = None
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:M.I.T. Student]]

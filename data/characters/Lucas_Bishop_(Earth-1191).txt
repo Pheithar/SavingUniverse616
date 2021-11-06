@@ -1,0 +1,238 @@
+{{Marvel Database:Character Template
+| Image                   = Lucas Bishop (Earth-1191) from Marauders Vol 1 19 cover 001.jpg
+| Name                    = [[Lucas Bishop]]
+| CurrentAlias            = [[Red Bishop]]
+| Aliases                 = Archbishop,{{Citation}} Bish,{{Citation}} [[Bishop]],{{r|Uncanny X-Men Vol 1 283}} Major,{{r|Cable Vol 2 5}} [[Sergeant]],{{r|New X-Men #140}} Captain Commander
+| EditorialNames          = [[Bishop the Last X-Man Vol 1|Bishop the Last X-Man]]
+
+| Affiliation             = {{m|X-Men (Earth-616)|X-Men}}, {{m|Great Captains of Krakoa (Earth-616)|Great Captains of Krakoa}}, {{m|Marauders (Pryde) (Earth-616)|Marauders (Pryde)}}, {{m|Hellfire Club (Earth-616)|Hellfire Trading Company}}; formerly {{m|X-Men (Age of X-Man) (Earth-616)|X-Men (Age of X-Man)}}, {{m|X-Force (Strike Team) (Earth-616)|X-Force}}, "Clean City", [[Nathaniel Summers (Stryfe) (Earth-4935)|Stryfe]], {{m|50-State Initiative (Earth-616)|50-State Initiative}}, {{m|X-Treme Sanctions Executive (Earth-616)|X.S.E.}} ([[Ororo Munroe (Earth-616)|Storm]]'s team), {{m|X-Treme X-Men (Earth-616)|X-Treme X-Men}}, {{m|X-Faces (Earth-9910)|X-Faces}}, {{m|Twelve (Mutants) (Earth-616)|The Twelve}}, {{m|Xavier Security Enforcers (Earth-1191)|X.S.E.}} ([[Hecat'e (Earth-1191)|Hecat'e]]'s team)
+| Relatives               = 
+[[Gateway (Earth-616)|Gateway]] (great-grandfather);<ref>Gateway is listed as Bishop's great-grandfather despite some comics stating just "grandfather". X-Men writer Chris Claremont has subsequently clarified that Gateway is indeed Bishop's great-grandfather (as corrected on [http://marvel.com/universe/OHOTMU:Data_Corrections_X-Men_2004 marvel.com])</ref><br>
+unnamed grandmother;<ref> Bishop's grandmother may be Storm, this has never been confirmed one way or the other in continuity or the handbooks, [[{{PAGENAME}}#Trivia|see trivia]] for more details</ref><br>
+[[Burnum Bishop (Earth-1191)|Burnum Bishop]] (father, deceased);<br>
+[[Kadee Bishop (Earth-1191)|Kadee Bishop]] (mother, deceased);<br>
+[[Shard Bishop (Earth-1191)|Shard]] (sister, deceased);<br>
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #1}}
+| Gender                  = Male
+| Height                  = 6' 6"
+| Weight                  = 275 lbs
+| Eyes                    = Brown
+| Eyes2                   = (red when using powers)
+| Hair                    = Black
+| Hair2                   = (formerly bald)
+| UnusualFeatures         = [[Glossary:Tattoo|"M" tattoo over right eye]]; Sometimes dyes hair Red; ''formerly'' had a Cybernetic arm & eye 
+
+| Origin                  = [[Homo Superior|Mutant]] [[Cyborgs|Cyborg]]
+
+| Reality                 = Earth-1191
+| Reality 2               = (currently displaced to [[Earth-616]])
+| PlaceOfBirth            = A mutant relocation camp in the [[Sheepshead Bay]] area of [[New York City|New York]] in an [[Earth-1191|alternate 21st Century Earth]].
+
+| Identity                = Secret
+| Citizenship             = American, Krakoan
+| Occupation              = Adventurer; formerly Commander in the X.S.E, sergeant,{{r|New X-Men #140}} detective{{r|New X-Men #140}}
+| Education               = 
+| BaseOfOperations        = [[Krakoa (Earth-616)|Krakoa]], [[Pacific Ocean]]; [[Marauder (Vehicle)|Marauder]]; formerly [[Xavier's School for Gifted Youngsters|Xavier Institute for Mutant Education and Outreach]], [[Central Park]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]; [[Middle East Side|District X]],[[Manhattan]], [[New York City]], [[New York (State)|New York]]; [[Xavier's School for Gifted Youngsters|Xavier Institute for Higher Learning]], [[Salem Center]], [[Westchester County]], [[New York (State)|New York]]; [[Las Vegas]], [[Nevada (State)|Nevada]]; Mutant Relocation Camp, [[Sheepshead Bay]], [[New York City]], [[New York (State)|New York]]
+
+| Creators                = John Byrne; Whilce Portacio
+| First                   = Uncanny X-Men #282
+| First2                  = {{g|cover and last page}}<br>{{sld|Uncanny X-Men #283}}{{g|1st full appearance}}
+
+| Quotation               = Remember <b>ME, X-Men?</b> The name is <b>BISHOP</b>...and I'm <b>back</b>.
+| Speaker                 = [[Lucas Bishop (Earth-1191)|Bishop]]
+| QuoteSource             = 
+
+| History                 = 
+===Early Life===
+[[File:Lucas Bishop (Earth-1191) from X-Factor Vol 3 27 0001.jpg|left|thumb|200px|Young Lucas Bishop]]
+The mutant known only as Bishop was born in the 21st Century A.D. of alternate timeline [[Earth-1191]] in which the mutant-hunting robots called the [[Sentinels]] had taken control of North America. In this timeline, Professor [[Charles Xavier (Earth-1191)|Charles Xavier]] and most of the members of the mutant team he founded, the [[X-Men (Earth-1191)|X-Men]], were killed by the Sentinels. Mutants were killed or were imprisoned within "mutant relocation camps."{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+Bishop and his sister [[Shard Bishop (Earth-1191)|Shard]] were both born in one of the American "mutant relocation camps", the children of Australian mutants [[Burnum Bishop (Earth-1191)|Burnum]] and [[Kadee Bishop (Earth-1191)|Kadee]]. Like other mutants they were branded with "M" tattoos over their right eyes for identification.{{r|X-Men: The Times and Life of Lucas Bishop Vol 1 1}}
+
+Eventually, "normal" human beings and mutants joined forces and overthrew the Sentinels in the "[[Summers Rebellion (Earth-1191)|Summers Rebellion]]." However, "normal" humans still resisted coexistence with mutants, and radical terrorist groups of mutants, such as the Exhumes, made war on "normal" humans.{{r|XSE #1}} Bishops parents were killed during the Summers Rebellion when he was seven, after being separated from his grandmother and sister Bishop made his way into [[Manhattan]] where he quickly met the [[Witness (LeBeau) (Earth-1191)|Witness]] who raised him for a time, teaching him how to be a thief.{{r|X-Men: The Times and Life of Lucas Bishop Vol 1 1|2}}
+
+Bishop was eventually reunited with his sister and grandmother in [[Las Vegas]], who was herself a mutant, until she died.{{r|X-Men: The Times and Life of Lucas Bishop Vol 1 2}} Their grandmother told them stories about the heroism of the X-Men and instructed them to follow Xavier's dream of peace between mutants and the rest of humanity.{{r|XSE #1}}
+
+One day, when Bishop and Shard were both still children, two [[Xavier Security Enforcers (Earth-1191)|X.S.E]] members were pursuing [[Virago (Earth-1191)|Virago]], a member of the Exhumes, a radical group of mutants who hated "normal" humans. When Virago took Shard as a hostage, Bishop leaped onto Virago's back, making her release his sister. Infuriated, Virago was about to murder Bishop when [[Sureshot (Earth-1191)|Sureshot]] shot her dead. Until then, Bishop had regarded the X.S.E as his enemies and the Exhumes as heroes, but from then onward he wanted to join the X.S.E.{{r|XSE #1}}
+
+Bishop, Shard, and their grandmother's friend [[Hancock (Earth-1191)|Hancock]] were attacked by criminal mutants called [[Billiboy (Earth-1191)|Billboy]] and [[Halftrak (Earth-1191)|Halftrack]]. The two criminals killed Hancock and were about to murder Shard. Bishop tried to save Shard, awakening his mutant powers in the process,{{r|X-Men: The Times and Life of Lucas Bishop Vol 1 2}} but it was two members of the X.S.E, [[Amazon (Earth-1191)|Amazon]] and [[Recoil (Earth-1191)|Recoil]], who stopped Billboy and Halftrack.{{r|Bishop #3}}
+
+Impressed by Bishop, Amazon and Recoil offered Bishop a position in the X.S.E. Bishop accepted on the condition that Shard be accepted in the X.S.E as well. By now Bishop's own superhuman power had manifested itself. Thus Bishop and Shard became cadets at the X.S.E Academy under Hecat'e's supervision. Among the other members of their class was Bishop's future enemy, [[Trevor Fitzroy (Earth-1191)|Trevor Fitzroy]].{{r|XSE #1}}
+
+[[File:Lucas Bishop (Earth-1191) from Marvel Masterpieces Trading Cards 1992 0001.jpg|left|thumb|200px|Bishop]]
+
+Eventually, Bishop and Shard became officers of the X.S.E. Shard, however, became Bishop's commanding officer. Bishop contented himself with a lower rank so that he could work the streets alongside his friends and fellow X.S.E officers, [[Malcolm (Earth-1191)|Malcolm]] and [[Randall (Earth-1191)|Randall]].{{r|XSE #2|3}}
+
+Some time after taking command of her own squad in the X.S.E., Shard fell victim to an ambush - set up by her criminal ex-boyfriend Trevor Fitzroy - by the creatures known as Emplates. Turned into one of them, Shard was forced to kill mutants to sup their energy to survive. In a subsequent encounter with the X.S.E., Bishop was forced to kill his own sister rather than let her live as the monster she had become. Shard's essence was transferred into a holographic matrix projector that Bishop wore on his wrist. In order to receive this technology, Bishop was forced to leave the X.S.E. and work for the mysterious Witness for a year.{{r|{{cl|XSE Vol 1 3}}-[[XSE Vol 1 4|4]]}}{{r|X-Men: The Times and Life of Lucas Bishop Vol 1 2}}
+
+After returning to the XSE, Bishop was hunting Fitzroy again and discovered remnants of the X-Men: A garbled message from [[Jean Grey (Earth-616)|Jean Grey]] warning about a traitor. Bishop confronted the only known survivor who called himself the Witness. Bishop did not trust him and wondered if he was the traitor.{{r|X-Men: The Times and Life of Lucas Bishop Vol 1 3}}{{r|Uncanny X-Men #287}}
+
+===Arrival in the Present===
+Fitzroy eventually turned criminal and was imprisoned. He broke free and escaped with other mutant criminals back through a [[Time travel|time portal]] to the X-Men's own time. Bishop, Malcolm, and Randall followed, even though they were aware they had no means to return to their own time. The three eventually found and killed the criminals known as the 'Lifers', but Malcolm and Randall were killed and Bishop himself was severely wounded. He was taken to the Institute to recover. During the fight that followed, Bishop defeated Fitzroy moments before he could complete his quest.{{r|Uncanny X-Men #282}}{{r|X-Men: The Times and Life of Lucas Bishop Vol 1 3}}
+
+While his methods initially caused conflict with [[Ororo Munroe (Earth-616)|Storm]], not to mention his accusations towards [[Remy LeBeau (Earth-616)|Gambit]], Bishop joined the X-Men.{{r|X-Men Vol 2 #8}} He tended to act brashly, such as shooting through walls rather than using the door when an intruder alarm sounded.{{r|X-Men Vol 2 #14}}
+
+During the quest to stop [[David Haller (Earth-616)|Legion]] from altering history, Bishop acted as a chronal anchor with [[Elizabeth Braddock (Earth-616)|Psylocke]] using her psychic knife to link them all. They were unsuccessful, triggering the [[Earth-295|Age of Apocalypse]].{{r|X-Men: Alpha #1}}
+
+===[[Age of Apocalypse]]===
+During the Age of Apocalypse, Bishop aged and saw the world change, retaining memories of the incident and beforehand. These memories of the 'real' timeline compelled [[Erik Lehnsherr (Earth-295)|Magneto]] and his X-Men to set things right. Using the [[M'kraan Crystal|M'Kraan Crystal]], [[Irene Adler (Earth-295)|Destiny]] and [[Illyana Rasputina (Earth-295)|Illyana Rasputin]] sent the [[Lucas Bishop (Earth-295)|elder Bishop]] to stop Legion.{{r|X-Men: Omega #1}} He briefly confronted his younger self, imploring him to 'remember this day.' The elder Bishop stopped Legion and both appeared to be destroyed by Legion's psionic energy. Bishop retained some of his elder self's memories.{{r|X-Men: Prime #1}}
+
+[[File:Lucas Bishop (Earth-1191) from Marvel Masterpieces (Trading Cards) 1996.jpg|left|thumb|200px|Bishop]]
+===Back in the present===
+Bishop managed to prevent the X-Men's death by [[Onslaught (Psychic Entity) (Earth-616)|Onslaught]], absorbing an incredible amount of psionic energy. In light of Gambit not being the 'traitor', the two made peace and learned to work together if not always agreeing on each other's methods.{{r|Onslaught X-Men #1}}
+
+While in space, Bishop was separated from the other X-Men and ended up with [[Cal'syee Neramani (Earth-616)|Deathbird]]. She apparently was to bring him to [[En Sabah Nur (Earth-616)|Apocalypse]] as part of [[Twelve (Mutants) (Earth-616)|The Twelve]].{{r|X-Men Vol 2 #91}}
+
+He remembered being ripped through time by a version of Fitzroy calling himself the Chronomancer. He also met the Witness again, who explained that he was not a future self of Gambit. Chronomancer also found Shard and reverted her to her normal form. The price of victory was high: Shard sacrificed her life for the ultimate good and Bishop found himself filled with chronal energy and hurled through time.{{r|{{cl|Bishop the Last X-Man Vol 1 1}}-[[Bishop the Last X-Man Vol 1 14|14]]}}
+
+Spiraling through time, Bishop emerged in the present, deep in space. Bishop crashed into a Shi'ar space station, where Professor Charles Xavier and his "[[Cadre K (Earth-616)|Cadre K]]" of mutant Skrull students were searching for Deathbird - the Shi'ar criminal who appeared to be Bishop's chronal anchor in the present day. A pan-galactic committee had transformed Earth into a prison planet, and Deathbird held a key to penetrate the panel's maximum-security energy barrier. Bishop almost killed Deathbird before she opened an airlock and was blown into space. He allowed himself to be captured and sent to Earth on a mission, where he reunited with the X-Men.{{r|X-Men Unlimited #29}}
+
+===[[X-Treme X-Men (Earth-616)|X-Treme X-Men]] & [[X-Treme Sanctions Executive (Earth-616)|X.S.E]]===
+[[File:X-Treme X-Men Vol 1 34 Textless.jpg|right|thumb|150px|X-treme Bishop]] 
+Bishop joined Storm's [[X-Treme X-Men (Earth-616)|X-Treme X-Men]] team to search for [[Irene Adler (Earth-616)|Destiny]]'s [[Destiny's Books|diaries]].{{r|X-Treme X-Men Vol 1 1}} Along the way he revealed his first name, Lucas. Bishop agreed to stay on with Storm's new [[X-Treme Sanctions Executive (Earth-616)|X.S.E]] team, whose goal was similar to those of the X.S.E of Bishop's own future.{{r|X-Treme X-Men #4}}
+
+===[[Mutant Town|District X]]===
+Bishop also became a consultant in mutant-related matters for the area of New York City known as [[Mutant Town|District X]], working with Officer [[Ismael Ortega (Earth-616)|Izzy Ortega]].{{r|District X #1|14}}
+
+===[[Decimation|Post-Decimation]]===
+Bishop was one of the few mutants to retain their powers following [[Decimation|M-Day]]. However, with the massive de-powering of mutants, there was no more need for police officers in Mutant Town. In light of [[Office of National Emergency (Earth-616)|O*N*E]]'s occupying the mansion, Bishop talked extensively with [[Valerie Cooper (Earth-616)|Val Cooper]], and frequently defended the O*N*E's actions and attitudes, making his fellow X-Men uncomfortable. When the 198 tired of their effective internment and fled, Bishop led a squad consisting of himself, [[Ruth Bat-Seraph (Earth-616)|Sabra]], and [[Maximus Jensen (Earth-616)|Mammomax]] after them, eventually finding them in an old bunker. Due to the circumstances, Bishop was forced to utilize his powers at dangerous limits in order to free them.{{r|Civil War: X-Men #4}} After this, Bishop left the X-Men. He was briefly seen assisting pro-superhuman registration forces during the [[Civil War|superhero civil war]].{{r|Civil War #6}}
+
+Despite this departure, Bishop still remained in contact with the X-Men, attending a funeral of another post M-Day casualty with them. While there Cannonball directly asked him why he'd never warned them about it. Bishop's response was that perhaps records of it just hadn't survived until his time, or that his universe had simply been an alternate rather than Earth-616's future. This would soon turn out to be a complete lie.{{r|X-Men: Endangered Species #1}}
+
+===[[Messiah Complex]]===
+When the [[Hope Summers (Earth-616)|first new mutant]] since M-Day was born, Bishop feared she was a threat, responsible for the events that led to [[Earth-1191|his future]]. His first response was to set off [[Nano-Sentinels]] inside the O*N*E's Sentinel Squad, killing the pilots, and causing their machines to attack the X-Men, levelling the mansion. The X-Men, unaware of Bishop's involvement, blamed [[Nathaniel Summers (Earth-616)|Cable]] for the act.{{r|X-Men Vol 2 205}}{{r|X-Factor Vol 3 27}} Bishop's next move was to travel to [[Dallas]] and attack [[Forge (Earth-616)|Forge]], before waiting for Cable to arrive with the mutant baby. When the chance came, Bishop attempted to kill the newborn, but his momentary hesitation allowed the [[Marauders (Earth-616)|Marauders]] to get the drop on him and abscond with the baby.{{r|Uncanny X-Men #494}}
+
+Bishop joined the X-Men on their mission to [[Muir Island]] to recover the baby, only for his duplicity to be discovered during the mission.{{r|X-Factor Vol 3 27}} He was set upon by [[Predator X]] in the battle, the creature savaging him and removing his arm, though Bishop was able to cauterize the wound using an unconscious [[Shiro Yoshida (Earth-616)|Sunfire]]. He witnessed Cable holding the child, planning to depart via time-travel. Panicking and firing wildly, Bishop missed Cable, instead managing to hit Professor Xavier in the head, apparently killing him.{{r|X-Men Vol 2 207}}
+
+Bishop escaped from the X-Men, attacked Forge in his [[Eagle Plaza|Dallas headquarters]], and stole time travel technology in the form of a cybernetic arm.{{r|Cable Vol 2 2}}
+
+===Chasing the Mutant Messiah===
+[[File:Cable Vol 2 20 Textless.jpg|left|thumb|200px|Bishop and his Arch Enemy Cable]]
+Now using a bionic arm, he eventually tracked Cable and the newborn mutant. Upon finding them, he shot Cable twice before being hindered by a local gang. With Cable severely weakened by severe blood loss, he made a risky attack before the gang could find heavier weapons. He later managed to track down Cable, slaying several mutated beasts in the process, and shot the Mutant Messiah.{{r|King-Size Cable Spectacular #1}} He also found that in the future generated by his choice, Cable would always be revered as a Messianic figure who tried his best to protect the Child, and saved humanity from the very beasts Bishop unwillingly saved Cable from. In his efforts to kill the child Bishop laid out several traps for Cable throughout the timestream, killing millions in the process, though he didn't see them as people who actually exist, but as people who wouldn't exist or come back to life if he were to kill [[Hope Summers (Earth-616)|Hope]].{{r|Cable Vol 2 9}}
+
+===[[Messiah War]]===
+After multiple failings at killing Hope, Bishop located and enlisted the aid of [[Nathaniel Summers (Stryfe) (Earth-4935)|Stryfe]], promising him that he would aid him in killing Apocalypse and Cable. Stryfe and Bishop traveled to a point in the future where Apocalypse was at his weakest and managed to defeat him.{{r|Cable Vol 2 14}} Stryfe built an empire using Celestial technology and Bishop became his right hand man, waiting for Cable and Hope to re-emerge. When they appeared along with [[X-Force (Earth-616)|X-Force]], Hope was kidnapped. Bishop betrayed Stryfe and his plot to kill Hope was foiled by Stryfe, who wanted to make her his heir. Both attempts were foiled by Apocalypse, X-Force, and Cable. Cable managed to rescue Hope and escaped yet again.{{r|X-Force Vol 3 16}} Bishop escaped into the "near future" of the 21st century, with one less eye, reconstructing his arm and vowing to find Hope once again.{{r|{{cl|X-Force Vol 3 14}}-[[X-Force Vol 3 17|17]]}}{{r|{{cl|Cable Vol 2 12}}-[[Cable Vol 2 15|15]]}} Cable tampered with Bishop's cybernetic arm and sent him to the future, in 6700 AD, where his arm exploded, leaving him no chance to return. As Bishop wandered the wasteland he pondered that he was as much a father to Hope as Cable and that whatever she would become would be because of him and he wondered if he did the right thing.{{r|Cable Vol 2 24}}
+
+===Return to the Present===
+Bishop realized the he was wrong when he tried to kill Hope and, while on the verge of death, he was saved by a group of humans called The Order. They nursed him back to health, gave him a home, and trained him to be a hunter so he could help them destroy monsters called [[Mummudrai|Revenants]] that possessed people and turned them into monsters. Bishop would kill one everyday, but when he came across a possessed father and his daughter, he killed the father but couldn't bring himself to kill the girl. She begged him not to kill her as she wasn't completely taken by the Revenants inside her and still human. Bishop spared the girl, Amber, who became his companion and friend. While on a hunt Bishop was lured into a trap by the queen of the Revenants, [[Cassandra Nova Xavier (Earth-TRN342)|Ghost Owl]]. Bishop was attacked and possessed by the [[Demon Bear (Earth-TRN342)|Demon Bear]] and the Ghost Owl who used him to travel back in time.{{r|Uncanny X-Force Vol 2 5}} Bishop found himself back in the present and was overjoyed with his return. However, his mind and body were taken over by the Demon Bear.{{r|Uncanny X-Force Vol 2 1}}
+
+He was quickly attacked by the [[Los Angeles Police Department (Earth-616)|Los Angeles Police Department]], and defeat them easily. He then attacked [[Ororo Munroe (Earth-616)|Storm]] and Psylocke in [[Rita Wayword (Earth-616)|Spiral]]'s flat, when the three of them and [[Eugene Judd (Earth-616)|Puck]] were called upon to fight for the fate of a young telepath, Ginny. Spiral protected and used her to produce TAO, a hive-mind drug.{{r|Uncanny X-Force Vol 2 2}}
+
+Bishop kidnapped Ginny and escaped into Los Angeles' sewer system. X-Force and Spiral chased after Bishop. Psylocke entered Bishop's mind and learned of his possession by the Demon Bear. With help from Storm, Psylocke freed Bishop from the Demon Bear's possession. Storm took the opportunity to erase Bishop's memory of his obsession with Hope, hoping to have her friend back. Bishop was left comatose.{{r|Uncanny X-Force Vol 2 6}}
+
+It was later revealed that Bishop had returned to the present due to the machinations of the [[Cassandra Nova Xavier (Earth-TRN342)|Revenant Queen]] of [[Earth-TRN342]]. She had hidden away in Bishop's mind when he traveled through time so she could ensure that her future where she ruled the world would come to pass.{{r|Uncanny X-Force Vol 2 5}} She planned to use Ginny as a sacrifice and used a possessed Bishop as a distraction to make off with Ginny.{{r|Uncanny X-Force Vol 2 1|4}} After awakening from his coma, Bishop revealed to X-Force what Nova did to him and helped them stop Nova's plan.{{r|Uncanny X-Force Vol 2 9|15}}
+
+Bishop was later targeted by Hope Summers so she could exact revenge for attempting to kill her, but both of them ended up getting held captive by Stryfe. Stryfe attempted to manipulate Hope into killing Bishop, even though Bishop was chained up and was remorseful for his actions, so Stryfe could get back at Bishop for betraying him during the [[Messiah War]]. After Cable's X-Force and Storm's X-Force arrived to rescue Bishop and Hope, Hope chose not to give into vengeance and spared Bishop's life as it would have undone all the lessons Cable had taught. Hope, however, did severely injure him. After Stryfe escaped, Bishop and Hope both made peace with one another, though it was an uneasy truce.{{r|Cable and X-Force #18|19}}{{r|Uncanny X-Force Vol 2 16|17}}
+
+Some time later, Bishop joined Psylocke, Archangel, Gambit, Mystique, Fantomex, [[James Howlett (Earth-21923)|Old Man Logan]], and Rogue in trying to stop the [[Shadow King (Multiverse)|Shadow King]] from escaping the Astral Plane through the targeting of psychics. During the fight against the Shadow King, Bishop was infected with a psychic infection the Shadow King spread using the energy of the reality-warping mutant [[Kevin MacTaggert (Earth-616)|Proteus]]. With help from the spirit of Charles Xavier, the Shadow King's plan was stopped.{{r|Astonishing X-Men Vol 4 1|6}} Bishop was later cured of the Shadow King's psychic infection.{{r|Astonishing X-Men Vol 4 7}}
+
+===[[X-Men Disassembled]]===
+Bishop was one of the many mutants that opposed the crazed [[Nathaniel Grey (Earth-295)|X-Man]] from remaking the world in his image. When X-Man realized that his vision of the world would never come about with the X-Men around, X-Man made his enemies vanish in an instant, including Glob.{{r|Uncanny X-Men Vol 5 1|10}}
+
+===[[Age of X-Man (Event)|Age of X-Man]]===
+Bishop and the other mutants that vanished were transported to a [[Age of X-Man (Plane)|reality]] created by [[Nathaniel Grey (Earth-295)|Nate Grey]] and a [[Life Seed]], a world where everyone on Earth was a mutant and relationships were strongly discouraged or illegal. The memories of their previous lives were also erased and new ones put in their place. Bishop was a member of that reality's [[X-Men (Age of X-Man) (Earth-616)|X-Men]] team. After a successful mission to help a young mutant named [[Luna (Age of X-Man) (Earth-616)|Luna]], Bishop and teammate, [[Jean Grey (Earth-616)|Marvel Girl]], relaxed together on a couch at Jean's house before becoming more intimate and spending the night together. Their forbidden love was soon discovered by [[Department X (Age of X-Man) (Earth-616)|Department X]] members [[Robert Drake (Earth-616)|Iceman]], [[Moneta (Age of X-Man) (Earth-616)|Moneta]], and [[Elizabeth Braddock (Earth-616)|Psylocke]]. Jean had her memory wiped again and all traces of Bishop were erased from the X-Men and society. The rest of the X-Men had no idea that Bishop had once been a part of their team, his position and house filled by [[Laura Kinney (Earth-616)|X-23]].{{r|Age of X-Man Alpha Vol 1 1}}
+
+As it was his "third offense of the guiding principles," Bishop was excommunicated and transported to the [[Danger Room Prison Complex]], a prison for other captured mutants who had "disturbed the status quo multiple times" and violated the guiding principles.{{r|Age of X-Man Alpha Vol 1 1}}{{r|Age of X-Man: Prisoner X Vol 1 1}} Bishop was eventually allowed to return to the real world by X-Man after realizing the flaws in his new world.{{r|Age of X-Man Omega Vol 1 1}}
+
+===[[Krakoa (Earth-616)|Krakoa]]===
+Bishop was named as one of the [[Great Captains of Krakoa (Earth-616)|Great Captains of Krakoa]]{{r|House of X Vol 1 6}} and when [[Scott Summers (Earth-616)|Cyclops]] stepped down as Captain Commander the role was given to him.{{r|Inferno Vol 2 1}}
+
+| Powers                  = 
+Bishop is an '''Alpha-[[Homo superior|mutant]]'''.{{r|X-Men Vol 2 97}}{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+'''Energy Absorption:''' Bishop can absorb the vast majority of types of energy, including magic,{{citation}} sounds, light, psionic, psychic,{{r|New X-Men #140}} etc, either environmental or directed towards him and he can project that energy from his body in different ways, whether in the form of concussive blasts, energy rays, explosions, fire, plasma, etc. In addition, Bishop can release the energy in the same way he received it, but with more force.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}} The nature of his powers makes it difficult to damage him with energy-based attacks, while also enabling him to work well with any energy-using teammates. Bishop can also store the absorbed energy within his personal reserves, whereupon the energy increases his strength, speed, stamina and recuperative abilities, as well as affording him a measure of invulnerability.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}} The upper limits of his ability to enhance his own physical abilities with absorbed energy is not exactly known, but is well into the level of being superhuman. He is learning to use his energy to temporarily increase his physical attributes in a manner similar to [[Sebastian Shaw (Earth-616)|Sebastian Shaw]] and [[Christoph Nord (Earth-616)|Agent Zero]]. The common powers he absorbed are listed:
+*'''Accelerated Healing:''' Bishop can heal at a faster rate than an average human; Bishop's regenerative factor increases proportionally to the amount of energy he absorbs, reaching superhuman limits. The limit of its regeneration is not known but the more energy it absorbs, it could increase incredibly.
+*'''Superhuman Strength:''' Bishop's strength reaches incredibly high levels the more energy he absorbs, his limit of strength is linked to how much energy he can absorb.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+*'''Superhuman Speed:''' Bishop's speed reaches incredibly high levels the more energy he absorbs, allowing him to run much faster than the best athletes.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+*'''Superhuman Stamina:''' Bishop has an incredibly higher stamina than a trained human, allowing him to fight for hours without getting tired while he can absorb energy. Stamina increases the more energy Bishop absorbs.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+*'''Enhanced reflexes and Senses:''' All of Bishop's senses and reflexes are increased as he absorbs energy.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+*'''Superhuman Endurance:''' His powers reduce the need for sleep, food, drinking, body evacuations, and oxygen.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+*'''Near-Invulnerability:''' Lately he has demonstrated the ability to absorb most of the energy from the attacks that are launched, regardless of type, making him almost invulnerable to all attacks.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+*'''Psionic Resistance:''' Due to its ability to absorb psionic energy, Bishop is highly resistant to any type of psychic influence, since his body begins to absorb it, causing it to lose power, speed and efficiency. Bishop was even able to absorb psionic energy from Onslaught.
+*'''Energy Conversion:''' Bishop can also utilize the absorbed in energy in different ways, such as taking it and shifting it into other energy forms. Having done so once by converting ambient energy into psychic energy, using it to hurl a truck with his mind.{{r|Cable Vol 2 2}} Doing so again when he was thrown from a tall building and converted the kinetic energy from his descent into sound and light based energy to break his fall.{{r|Astonishing X-Men Vol 4 4}}
+*'''Concussive Blasts:''' He can re-channel the absorbed energy through his body for bio-kinetic concussive blasts or in the same form that was absorbed but with twice the force/power, including [[Storm]]'s weather effects. This re-channeled energy is apparently able to damage beings normally immune to their own powers.
+*'''Energy Resistance:''' During the Civil War: X-Men story arc, Cyclops was controlled by another mutant to use his powers at their full magnitude to attack Bishop. Bishop attempted to absorb the incredible blast for a short time before he reached his limit and was forced to expel the energy into the air in a blast that would have killed everyone in the area. Other durability feats include Bishop preventing the X-Men's death at the hands of one of the most powerful beings in history, Onslaught, by absorbing a blast of an incredible amount of psionic energy aimed at killing them all. Plus taking and giving back a blast two-fold from the powerful mutant [[Absolon Mercator (Earth-616)|Mr. M]].
+*'''Poison Resistance:''' Bishop is also resistant to most poisons.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+*'''Other skills:''' He can "let his spirit go" as seen in X-Treme X-Men Annual #1. Bishop also has a kind of meaning that always lets him know where and when in time he is. It's unknown if this is a mutant talent, or an ability taught to Bishop sometime in his life.
+
+{{Navigation
+| title = Former Powers	
+| body =            
+'''Bete Noir:''' Having been host to an entity similar to the Phoenix Force called [[Bete Noir (Earth-616)|Le Bete Noir]]. Bishop was host to all but unlimited cosmological power, through it Lucas could strike at those around its host, corrupting them as both it and his powers grew. Corrupting/contaminating everything around him until he consumed every being on Earth.{{r|Gambit and Bishop Vol 1 Alpha}}
+*'''Absolute Energy Absorption'''
+*'''Cosmic Manipulation'''
+*'''Energy Empowerment'''
+*'''Ontopathogenesis'''
+*'''Planetary Parasitism'''
+
+'''Demon Bear Possession:''' Bishop was, for a time, possessed by the otherworldly Bull Revenant called the Demon Bear. Through their synergy Bishop is afforded a host of new powers while under its control. The possessing entity seemingly boosted his natural mutant abilities by providing him a constant source of energy for him to feed off of, perpetually enhancing and energizing his body as a result making him far stronger and tougher than he usually would be by imbibing on any outside physical energy. Meaning he could store the ambient forces the bear put out both to make himself physically stronger and tireless while also enabling an almost inexhaustible power supply.{{r|Uncanny X-Force Vol 2 2}} 
+*'''Teleportation'''
+*'''Energized Metabolism'''
+*'''Time Travel'''
+*'''Mummudrai Manifestation:''' Bishop could sporadically manifest the astral wraith as a tangible projection which acted on his behalf.
+}}
+
+| Abilities               = '''Skilled Combatant:''' Bishop is a trained police officer and skilled in the homicide branch. Bishop has also had many years of armed and unarmed combat training has made him a devastating unarmed combatant.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+'''Master Marksman:''' Bishop is a superb marksman with firearms both from his own time, some of which he brought with him from the future when he originally arrived in our present, and also both heavy duty military and conventional guns and weapons of the present time.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+'''Weapons Proficiency:''' Bishop often uses XSE guns through which he channels energy that he has absorbed.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+
+'''[[Multilingual]]:''' Bishop is fluent in Mandarin,{{r|Marauders Vol 1 1}} as well as French and Arabic.{{r|King-Size Cable Spectacular Vol 1 1}}
+
+| Strength                = When enhanced he can lift at least twice his body-weight; 550 lbs. When he is not reinforced by his ability to absorb energy, Bishop possesses the normal human strength of a man of his age, stature, and constitution that is dedicated to [[Scale Average#Above Average|regular intensive exercise]] with a cybernetic arm with which he can lift at least twice his body weight; 550 lbs. His ability to absorb energy can increase his strength to superhuman levels, the limit of which is not yet known.
+
+| Weaknesses              = 
+* Originally unlike [[Sebastian Shaw (Earth-616)|Sebastian Shaw]] and [[Christoph Nord (Earth-616)|Agent Zero]], Bishop was unable to absorb energy from inertial impacts such as hitting walls. This does not mean he was incapable of absorbing kinetic energy. Kinetic effects such as an exploding card from [[Remy LeBeau (Earth-616)|Gambit]] were able to be absorbed. It would seem that as of late he is learning to absorb inertial impact energy, which makes him almost invulnerable. It is unknown whether it is possible to increase this capacity in time with practice.
+* Some types of energy are more difficult to absorb than others. Bishop can overload himself by trying to absorb too much energy, although his upper limits are unknown, even to himself. When it is overloaded, it releases excess energy in an explosion around it until its body reaches an amount of energy that it can control.
+* Although he can absorb psionic energy from explosions or telekinetic attacks, Bishop is not completely immune to telepathic attacks, but his power sustains him and helps him reduce their speed and power significantly.
+* He is partially vulnerable to non-energy weapon attacks, so if he were to be shot by a projectile weapon or hit with a crowbar, it could harm him.
+* Because his ability is passive he cannot actively absorb or control the rate of the amount of energy he takes in, he must get it from an outside source. Though he's seemingly not as good at absorbing ambient energy at the same rate as he would direct energy, like Scott's optic blasts or Ororo's lightning. Needing to rely on an at hand amount of power to fuel his abilities.
+
+| Equipment               = Sunglasses that display information and allow communication with the rest of the X-Men.{{Citation}}
+
+{{Navigation
+| title = Former Equipment
+| body =
+'''Cybernetic Arm:''' After Bishop lost an arm, he resorted to breaking into Forge's laboratory to find a replacement. According to the sign which identified the cybernetic arm that was stolen by Bishop, it is a "nuclear-powered battle-ready arm". All of the capabilities have not yet been revealed at this time, however Bishop has been shown to be able to release four clawed tendrils from it, two of which he used to ensnare and strangle Cable. The arm had been modified to include Forge's time travel technology allowing Bishop to time-jump. Judging from the nature of the arm, not to mention its nuclear power source it is likely to have a considerable amount of superhuman strength and durability.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}} Bishop also tailored it with a short lived, non-lethal nanite dispersal system which shuts down electronics and neurological systems, he also can draw on its radioactive energy source to fuel his own mutant powers and has been shown to have two clawed tendrils in it, as well as allowing him to time-jump due to built-in time travel technology, the full extent of the technology/abilities of his cybernetic arm are unknown. Bishop's cybernetic grants him Cyberkinesis, allowing him to manipulate technology. (''Possibly Formerly'')<br>
+
+'''Bionic Eye:''' In the ensuing Messiah War between Stryfe, Cable, and X-Force, Bishop lost his right eye during the clash and had it replaced with a robotic one.{{r|X-Force Vol 3 #16}} (''Formerly'')
+}}
+
+| Transportation          = Bishop has several time travel devices, allowing instant travel to any time or place. This practically allows him the ability to teleport.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+| Weapons                 = X.S.E guns that fire laser beams and plasma charges. He is able to recharge them with his own stored energy. During his rampage throughout history while searching for Hope, he snagged a host of lethal armaments with which he'd use to corner Cable in the future: napalm that burns over water, tactical nukes, water taints, biological and chemical weaponry among others.
+| Notes                   = 
+===Books===
+Bishop plays a small part in the X-Men: The Last Stand novelization by Chris Claremont. He is mentioned as a NYPD Officer who is in charge of crowd control at Worthington Cure Clinics in the city of New York. He is also mentioned to be a former student at Xavier's School For Gifted Youngsters, and he is an acquaintance of Iceman.
+
+Bishop is a main character in the Spider-Man and X-Men novel trilogy Time's Arrow by Tom DeFalco with Jason Henderson (The Past), Adam-Troy Castro (The Present), and Eluki bes Shahar (The Future), in which he and Spider-Man travel through time and into parallel universes.
+
+| Trivia                  = The ability of knowing where and when he is, is not one of Bishop's mutant powers. Bishop's explanation is that this ability is due to training. Although being the great-grandson of Gateway, a mutant possessing extensive dealings with time travel, may have something to due with it.
+* In {{cl|X-Men: The Times and Life of Lucas Bishop #3}} Bishop's grandmother and [[Ororo Munroe (Earth-616)|Storm]] were drawn remarkably similarly. A close-up of Storm was placed near a panel featuring [[Remy LeBeau (Earth-616)|Gambit]] with the caption, "and yet some of them were painfully familiar." This was referring to the fact that Bishop had known Gambit in the future. It may have been trying to indicate that Storm and Bishop's grandmother were one in the same. This is not the first time the two were subtly linked. Bishop's grandmother also appears to have a rather intimate knowledge of the X-Men's history, aware of details that are not known to those not closely affiliated with the X-Men.
+| Marvel                  = Bishop_(Lucas_Bishop)
+| Wikipedia               = Bishop_(comics)
+| Links                   = * [[Bishop Comic Books]]
+* [http://uncannyxmen.net/characters/bishop uncannyxmen.net Spotlight On... Bishop]
+* [http://www.freewebs.com/xpeoplescerebro/bishop.htm {{PAGENAME}} at X-Peoples Central]
+}}
+[[Category:Post-M-Day Mutants (The 198)]]
+[[Category:Energy Absorption]]
+[[Category:Concussive Blasts]]
+[[Category:Power Mimicry]]
+[[Category:Time Travelers]]
+[[Category:Bishop Family]]
+[[Category:One Eye]]
+[[Category:One Arm]]
+[[Category:Energy Manipulation]]
+[[Category:High Threats]]
+[[Category:Weapons Expert]]
+[[Category:Alpha Class/Level Mutants]]
+[[Category:Indigenous Australian]]
+[[Category:Rave Users]]
+[[Category:Characters Displaced to Earth-616]]
+[[Category:Regeneration]]
+[[Category:Toxic Immunity]]
+[[Category:Age of X-Man participants]]
+[[Category:Multilingual]]

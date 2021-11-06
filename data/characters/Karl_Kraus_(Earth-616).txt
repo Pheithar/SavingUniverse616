@@ -1,0 +1,52 @@
+{{Marvel Database:Character Template
+| Image                   = Karl Kraus (Earth-616) 1.jpg
+| Name                    = Karl Kraus
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra}}
+| Relatives               = [[Melanie Kraus (Earth-616)|Kitty Drake]] (ex-wife)
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = Espionage Agent
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Gary Friedrich
+| First                   = Nick Fury, Agent of SHIELD Vol 1 14
+
+| History                 = Karl Kraus was the CEO of Kraus Techmatrix.{{r|Fury of S.H.I.E.L.D. Vol 1 #1}}.<br/>
+After the death of his [[Melanie Kraus (Earth-616)|ex-wife]]'s father, he allied with [[Hydra (Earth-616)|Hydra]] to seize the power in [[New York City]].{{r|Fury of S.H.I.E.L.D. Vol 1 #2}}
+
+| Powers                  = None, human.
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Millionaires]]
+[[Category:Businesspeople]]

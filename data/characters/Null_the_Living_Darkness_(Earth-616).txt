@@ -1,0 +1,68 @@
+{{Marvel Database:Character Template
+| Image                   = Null the Living Darkness (Earth-616) from Fear Itself Fellowship of Fear Vol 1 1 0001.jpg
+| Name                    = Null the Living Darkness
+| NameRef                 = {{r|Fear Itself: Fellowship of Fear #1}}
+| CurrentAlias            = 
+| Aliases                 = [[Kyle Richmond]], [[Over-Mind]], Adam Henderson
+
+| Affiliation             = Formerly [[Adam Henderson (Earth-616)|Adam Henderson]] (forced), [[Squadron Supreme (Earth-712)|Squadron Supreme of Earth-712]] (forced), former partner of the [[Grom (Earth-616)|Over-Mind]]
+| Relatives               = [[S'raphh]] (progenitors)
+| MaritalStatus           = 
+
+| CharRef                 = {{cl|Fear Itself: Fellowship of Fear #1}}
+| Gender                  = Agender
+| Height                  = Variable
+| Weight                  = Variable
+| Eyes                    = Black
+| Eyes2                   = (with [[:Category:Red Eyes|red]] sclera)
+| Hair                    = None
+| UnusualFeatures         = Tentacles and covered in multiple eyes
+
+| Origin                  = [[Demons|Demon]]; Collective unconscious of the Angelic [[S'raphh]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Luna (Moon)|Earth's moon]]
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Nihilist, destroyer
+| Education               = 
+| BaseOfOperations        = Formerly the [[Luna (Moon)|Moon]]; [[Christiansboro]], [[Virginia (State)|Virginia]]; the [[United States of America|United States]], [[Earth-712]]
+
+| Creators                = J.M. DeMatteis; 
+| First                   = Defenders Vol 1 103
+| Death                   = Defenders Vol 1 114
+
+| History                 = Null is a demonic entity created from the collective negative impulses of a seemingly impossibly benign (and now extinct) angelic race called the [[S'raphh]] who once lived on [[Luna (Moon)|Earth's Moon]]. After achieving full consciousness, it dominated the town of [[Christiansboro]], [[Virginia (State)|Virginia]] until driven off by [[Isaac Christians (Earth-616)|the Gargoyle]].{{r|Defenders Vol 1 103}} It subsequently possessed the body of Adam Henderson, using him as a pawn, but was defeated again, this time by the [[Johnathon Blaze (Earth-616)|Ghost Rider]].<ref>{{cl|Ghost Rider Vol 2 71}}</ref> Somehow, Null then managed to travel to [[Earth-712]] where it took over the United States with the assistance of the [[Grom (Earth-616)|Over-Mind]] but was driven off and seemingly destroyed by the [[Defenders (Earth-616)|Defenders]] and the [[Squadron Supreme (Earth-712)|Squadron Supreme]].{{r|Defenders Vol 1 112|114}}
+
+| Powers                  = Originally incorporeal, Null's evolved form was solid but immensely durable and strong (at least Class 75). Null's magic allows it to fly, become intangible, teleport interdimensionally, move objects telekinetically, speak telepathically, shape-shift, cast illusions, shrink people, project concussive psychokinetic blasts, reanimate corpses and possess others
+| Abilities               = Super-Genius Intelligence{{r|Fear Itself: Fellowship of Fear #1}}
+| Strength                = 
+| Weaknesses              = As a being of hatred, Null is weakened by goodness and can be overwhelmed if exposed to a massive amount of goodness.{{r|Defenders Vol 1 114}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = * Null in german means the number zero.
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Red Eyes]][[Category:Infobox Eyes Update Needed]]
+[[Category:Gestalt Characters]]
+[[Category:Giant Monsters]]
+[[Category:Shapeshifters]]
+[[Category:Intangibility]]
+[[Category:Interdimensional Travelers]]
+[[Category:Telepaths]]
+[[Category:Telekinesis]]
+[[Category:Illusionists]]
+[[Category:Matter Manipulation]]
+[[Category:Possession]]
+[[Category:Flight]]
+[[Category:Multiple Eyes]][[Category:Infobox Eyes Update Needed]]
+[[Category:Necromancy]]
+[[Category:Psychic Vampires]]
+[[Category:Collective Unconsciouses]]

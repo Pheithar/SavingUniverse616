@@ -1,0 +1,281 @@
+{{Marvel Database:Character Template
+| Image                   = William Kaplan (Earth-616) from Incoming Vol 1 1 002.jpg
+| Name                    = [[Wiccan|William "Billy" Kaplan-Altman]]
+| NameRef                 = {{r|Empyre: Aftermath Avengers Vol 1 1}}
+| CurrentAlias            = [[Wiccan]]
+| Codenames               = [[Asgardian]],{{r|Young Avengers #1}} [[Demiurge]]{{r|New Avengers Vol 4 4}}
+| Nicknames               = Billiam,{{r|Death's Head Vol 2 3}} Spazgardian,{{r|Secret Invasion: Runaways/Young Avengers Vol 1 3}} [[Thor]] Jr.,{{r|Young Avengers Vol 1 1}} [[Wanda Maximoff|Wanda]] Junior{{r|Avengers: The Children's Crusade Vol 1 2}}
+| Aliases                 = [[William Maximoff|Billy Maximoff]],{{Citation}} Magic Lad,{{r|Young Avengers #6}} [[Warlock]] Boy,{{r|Young Avengers Vol 1 6}} Witch Boy{{r|Death's Head Vol 1 3}}
+
+| Affiliation             = Partner and husband of [[Theodore Altman (Earth-616)|Hulking]], Prince Consort and Court Wizard to the {{m|Kree/Skrull Alliance (Earth-616)|Alliance}}, {{m|Strikeforce}}, formerly {{m|New Avengers (A.I.M.) (Earth-616)|New Avengers}}, {{m|Avengers Idea Mechanics (Earth-616)|A.I.M. (Avengers Idea Mechanics)}}, {{m|Young Avengers}}, {{m|Secret Avengers (Civil War) (Earth-616)|Secret Avengers (Civil War)}}
+| Parents                 = [[Jeff Kaplan (Earth-616)|Jeff Kaplan]] (father);{{r|Young Avengers #3}}{{r|Avengers: The Children's Crusade #1}}<br>
+[[Rebbecca Kaplan (Earth-616)|Rebbecca Kaplan]] (mother);{{r|Young Avengers #3}}{{r|Avengers: The Children's Crusade #1}}
+| Siblings                = Two unnamed younger Kaplan brothers;{{r|Young Avengers #3}}<br>
+[[Thomas Shepherd (Earth-616)|Thomas Shepherd]] (reincarnated brother);{{r|Avengers: The Children's Crusade #6}}
+| Spouses                 = [[Theodore Altman (Earth-616)|Teddy Altman]] (husband){{r|Empyre Vol 1 4}}
+| Relatives               = [[:Category:Skrull Royal Family|Skrull Royal Family]] (in-laws)<br>
+[[:Category:Vell Family|Vell Family]] (in-laws)<br>
+{{Navigation
+| title              = Past incarnation relatives
+| body               = Quentin Keough (previous incarnation's maternal ancestor);<br> 
+Lenore Keough (previous incarnation's maternal ancestor);<br>
+[[Henry Pym (Earth-616)|Henry Pym]] (previous incarnation's "paternal great-grandfather");<br>
+[[Django Maximoff (Earth-616)|Django Maximoff]] (previous incarnation's "maternal adoptive grandfather/great uncle", deceased);<br>
+[[Marya Maximoff (Earth-616)|Marya Maximoff]] (previous incarnation's "maternal adoptive grandmother/great aunt", deceased);<br>
+[[Ultron (Earth-616)|Ultron]] (previous incarnation's "paternal grandfather");<br>
+[[Pietro Maximoff (Earth-616)|Pietro Maximoff]] (previous incarnation's "maternal uncle");<br>
+[[Ana Maximoff (Earth-616)|Ana Maximoff]] (previous incarnation's "maternal adoptive aunt/first cousin once removed", deceased);<br>
+[[Mateo Maximoff (Earth-616)|Mateo Maximoff]] (previous incarnation's "maternal adoptive uncle/first cousin once removed", deceased);<br>
+[[Vision (Earth-616)|Vision]] ("birth father", deceased);<br>
+[[Virginia (Earth-616)|Virginia]] ("step-mother", deceased);<br>
+[[Vivian (Synthezoid) (Earth-616)|Vivian]] ("half-sister");<br>
+[[Vivian 2.0 (Synthezoid) (Earth-616)|Vivian 2.0]] ("half-sister");<br>
+[[Vin (Earth-616)|Vin]] ("half-brother," deceased);<br>
+[[Wanda Maximoff (Earth-616)|Wanda Maximoff]] ("birth mother");<br>
+[[Natalya Maximoff (Earth-616)|Natalya Maximoff]] ("maternal grandmother");<br>
+[[Talia Wagner (Earth-2182)|Talia Wagner]] (alternate reality half-sister);<br>
+[[Mephisto (Earth-616)|Mephisto]] (previous incarnation's soul source);<br>
+[[Crystalia Amaquelin (Earth-616)|Crystalia Amaquelin Maximoff]] (previous incarnation's former "maternal aunt");<br>
+[[Alkhema (Earth-616)|Alkhema]] (previous incarnation's "paternal aunt");<br>
+[[Jocasta Pym (Earth-616)|Jocasta]] (previous incarnation's "paternal aunt/former grandmother");<br>
+[[Victor Mancha (Earth-616)|Victor Mancha]] (previous incarnation's "paternal uncle");<br>
+[[Simon Williams (Earth-616)|Simon Williams]] (previous incarnation's "paternal uncle");<br>
+[[William Maximoff (Earth-616)|William Maximoff]] (previous incarnation, deceased);<br>
+[[Thomas Maximoff (Earth-616)|Thomas Maximoff]] (previous incarnation's "brother", deceased);<br>
+[[Luna Maximoff (Earth-616)|Luna Maximoff]] (previous incarnation's "maternal cousin")
+}}
+| MaritalStatus           = Married {{r|Empyre Vol 1 4}}
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #13}}
+| Gender                  = Male
+| Height                  = 5'8"
+| Weight                  = 155 lbs
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Glossary:Magic|Magician]] and [[Homo superior|mutant]]{{r|Secret Invasion: Runaways/Young Avengers #3}}{{r|Avengers: The Children's Crusade #7}} reincarnated from a magical construct created by [[Wanda Maximoff (Earth-616)|Scarlet Witch]] as a "son"
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[New York City]], [[New York (State)|New York]]
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Adventurer, Court Wizard to the [[Kree/Skrull Alliance (Earth-616)|Alliance]], Student
+| Education               = Recently in unknown high school{{r|Original Sins Vol 1 4}}
+| BaseOfOperations        = [[Wiccan and Hulkling's Apartment]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]; formerly [[Barbuda|Avengers Island]]; [[Noh-Varr's Kree Ship]]; [[Bishop Publishing]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]; [[Avengers Mansion]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]
+
+| Creators                = Allan Heinberg; Jim Cheung
+| First                   = Young Avengers Vol 1 1
+| First2                  = (As Asgardian)<br>{{sld|Young Avengers Vol 1 6}}(As Wiccan)
+
+| Quotation               = See, I'm the child of [[Wanda Maximoff (Earth-616)|a witch]] and [[Vision (Earth-616)|an android]]. I'm their wish come true. Bigger than magic, living information, retro-reincarnated in human form. Now, my brother? He'd give you a physical fight. He'd warp time and space to punch you fifty times a second. But when I warp time and space... <span style="color:blue">I use my words. And I say I'm a bigger deal in this reality than you are.</span> Now sit tight, [[Asti (Earth-616)|you little pest]]... While we clean up the mess you made.
+| Speaker                 = [[William Kaplan (Earth-616)|Wiccan]]
+| QuoteSource             = New Avengers Vol 4 16
+
+| Overview                = '''Billy Kaplan''', also known by his superhero aliases '''Asgardian''' and '''Wiccan''', is a super-powered warlock and the reincarnated [[William Maximoff (Earth-616)|son]] of the [[Wanda Maximoff (Earth-616)|Scarlet Witch]]. He has spent time on numerous superhero teams, including the [[Young Avengers (Earth-616)|Young Avengers]] and the [[New Avengers (A.I.M.) (Earth-616)|New Avengers]]. He is married to [[Theodore Altman (Earth-616)|Hulkling]].
+
+| History                 = 
+===Origin===
+Billy Kaplan was the eldest of three sons born to Reform Jews [[Jeff Kaplan (Earth-616)|Jeff Kaplan]], a cardiologist, and [[Rebbecca Kaplan (Earth-616)|Rebecca Kaplan]], a psychologist.{{r|Young Avengers Vol 1 3}}
+
+Billy had trouble with bullies in school due to his sexuality and fanboyness. Once while sitting in front of [[Avengers Mansion]], he briefly met the [[Wanda Maximoff (Earth-616)|Scarlet Witch]], his favorite [[Avengers (Earth-616)|Avenger]]. She gave him some words of encouragement and told him that he "could take care of himself". Billy took her advice and stood up to his bully, [[John Kesler (Earth-616)|John Kesler]]. Unfortunately, Billy's [[Glossary:Electrokinesis|electrokinetic powers]] emerged for the first time and nearly killed Kesler.{{r|Young Avengers Special #1}}
+
+===Young Avengers===
+As he began to use his powers more and more, he sought out the Scarlet Witch for help, only to find out that the [[Avengers Disassembled|Avengers had disbanded]].{{r|Young Avengers Special #1}} However, Billy was one of the people listed in the [[Avengers Fail-Safe Program]] compiled by the [[Vision (Earth-616)|Vision]] to be used to form a new team of superheroes in the event of the destruction or disbanding of the Avengers. [[Nathaniel Richards (Iron Lad) (Earth-6311)|Iron Lad]], a younger version of [[Nathaniel Richards (Kang) (Earth-6311)|Kang the Conqueror]], found Billy using the Vision’s Fail-Safe Program and requested his help in preventing his future self from returning him to the future. Alongside his new boyfriend,[[Theodore Altman (Earth-616)|Teddy Altman]] Billy joined the [[Young Avengers (Earth-616)|Young Avengers]]. {{r|Last Annihilation: Wiccan & Hulkling Vol 1 1}} He chose to style himself after [[Thor Odinson (Earth-616)|Thor]], and adopted the superhero identity of the '''Asgardian.''' {{r|Young Avengers Vol 1 1}}
+
+After losing Iron Lad and recruiting [[Katherine Bishop (Earth-616)|Kate Bishop]] and [[Cassandra Lang (Earth-616)|Cassie Lang]], the girls made the suggestion that Billy change his code-name from Asgardian to '''Wiccan''' and Billy agreed.{{r|Young Avengers Vol 1 6}}
+
+Billy tried to tell his parents that he was an aspiring superhero, but they misread his intentions and assumed that he was revealing his relationship with Teddy (Hulking). Though his parents thought Teddy would make an excellent son-in-law, they were unaware that Billy was a practicing witch, dating a shapeshifter.{{r|Young Avengers Vol 1 8}} The nature of his heroic activities and the danger associated with them, became apparent when the [[Kl'rt (Earth-616)|Super Skrull]] nearly destroyed the Kaplan's upper west side home in his attempt to kidnap Hulkling. The altercation resulted in the death of [[Mary-Jo Altman (Earth-616)|Teddy's mother]].{{r|Young Avengers Vol 1 9}}
+
+Not long after Hulkling was captured by the [[Kree Sentries]], Wiccan and the other Young Avengers became desperate to rescue him. To locate reinforcements, the [[Vision (Jonas) (Earth-616)|Vision]], recommended using the Avengers Fail-Safe Program, which was the same program Iron Lad had used to locate the original Young Avengers.{{r|Young Avengers Vol 1 10}}
+
+[[File:William Kaplan (Earth-616), Cassandra Lang (Earth-616), and Thomas Shepherd (Earth-616) from Young Avengers Vol 1 10 001.jpg|thumb|left|Stature recognizing that Wiccan and Speed look like twins]]
+The team went to a high security detention facility for superpowered juvenile offenders to locate him. While there, they found [[Thomas Shepherd (Earth-616)|Tommy Shepherd]] being held, and released him from his cell. Stature noted that Tommy and Billy could be twins. The breakout did not go unnoticed, and the team ran into the armed officers of the facility.{{r|Young Avengers Vol 1 10}} Tommy helped them to save Hulkling by fighting off both [[Deviant Skrulls|Skrull]] and [[Kree]] forces, afterwards officially joining the Young Avengers under the name "'''Speed'''".{{r|Young Avengers Vol 1 12}}
+
+Along with the other Young Avengers, Wiccan was being served food by [[Edwin Jarvis (Earth-616)|Edwin Jarvis]] at the [[Stark Tower|Avengers Tower]] while he questioned the man about how [[Richard Jones (Earth-616)|Rick Jones]] had put an end to the [[Kree-Skrull War]] having no powers. The group came to the conclusion that Rick Jones, having been trained by Captain America himself, had been the first Young Avenger.{{r|New Avengers #18}}
+
+===Civil War===
+During the [[Civil War (Event)|Civil War]], [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] arrested the Young Avengers. However, [[Samuel Wilson (Earth-616)|Falcon]] and [[Steven Rogers (Earth-616)|Captain America]] intercepted the S.H.I.E.L.D bus which was transporting the prisoners, and Wiccan teleported the team out of the situation, into the [[Anti-Registration Underground (Earth-616)|Resistance Fighters base of operations]].
+
+When the [[Runaways (Earth-616)|Runaways]] tried to stay out of the conflict, they barely managed to escape from the government forces. Hearing of this development in the news, the Young Avengers decided to help the Runaways even though Captain America vetoed the plan. Wiccan used his magic to locate and teleport to the Runaways. However, the Runaways believed that the Young Avengers had come to capture them and a fight ensued until [[Elijah Bradley (Earth-616)|Patriot]] succeeded in convincing [[Nico Minoru (Earth-616)|Nico Minoru]] to stop the hostilities. The two teams were later attacked by [[Noh-Varr (Earth-200080)|Marvel Boy]], who captured Wiccan, [[Karolina Dean (Earth-616)|Karolina]], and Hulkling, and almost killed [[Xavin (Earth-616)|Xavin]]. The young heroes became the prisoners of [[Cube Warden (Earth-616)|the Warden]], who proceeded to practice vivisection on the unconscious Teddy. The boys were rescued by Xavin, whose Skrull physiology allowed him to recover from Noh-Varr's attack. Billy came close to killing the Warden, but Teddy stopped him.{{r|{{cl|Civil War: Young Avengers and Runaways Vol 1 1}}-[[Civil War: Young Avengers and Runaways Vol 1 4|4]]}}
+
+Wiccan was among the [[Secret Avengers (Earth-616)|Secret Avengers]] who took part in the first major battle of the Civil War, and was one of the first two casualties. [[Anthony Stark (Earth-616)|Tony Stark]] and [[Peter Parker (Earth-616)|Peter Parker]] realized that the two rebels with teleportation powers needed to be incapacitated to prevent an escape from the ambush. Wiccan and [[Tyrone Johnson (Earth-616)|Cloak]] were both shot with tranquilizer darts and rendered unconscious. This attack on two of his youngest followers infuriated Captain America. A violent battle ensued, by the end of which [[William Foster (Earth-616)|Goliath]] was dead, slain by [[Thor (Clone) (Earth-616)|the cyborg clone of Thor]]. Most of the Anti-Registration group escaped, but Wiccan was left behind and captured by the Pro-Registration side.
+
+Billy and the other imprisoned Anti-Registration heroes were eventually freed in a raid led by Captain America. Teddy's shape-shifting ability played a pivotal role in Captain America's plan allowing him to impersonate [[Henry Pym (Earth-616)|Yellowjacket]] in order to free the imprisoned heroes of [[Prison 42]].
+
+===Searching for the Scarlet Witch===
+[[File:William Kaplan (Earth-616) and Thomas Shepherd (Earth-616) searching Wundagore Mountain.jpg|thumb|left|Speed and Wiccan searching for the Scarlet Witch in [[Wundagore Mountain]]]]
+When Wiccan decided to begin searching for the Scarlet Witch, Tommy agreed to join him. The pair searched through [[Genosha]] and [[Wundagore]] in [[Transia]] before finally encountering [[Martin Preston (Earth-616)|Master Pandemonium]] in [[Cresskill]], [[New Jersey (State)|New Jersey]] at a former residence of the Scarlet Witch and the Vision. Master Pandemonium offered some information, but did not know the current whereabouts of the Scarlet Witch.{{r|Young Avengers Presents #3}}
+
+===Secret Invasion===
+When [[Secret Invasion|the Skrulls invaded Earth]], Wiccan joined the other Young Avengers and Runaways on the front-lines of the battle. Wiccan and Speed saved Hulkling from execution and later assisted Xavin to again rescue Hulkling.{{r|Secret Invasion: Runaways/Young Avengers #1|3}}
+
+===[[Dark Reign]]===
+Wiccan gathered the Young Avengers together at the Avengers Mansion to respond to wave of supernatural chaos caused by [[Chthon (Earth-616)|Chthon]]. The team was turned to stone by Chthon's magic, except for Vision and Stature, who arrived too late.{{r|Mighty Avengers #21}}
+
+After being disclaimed of his position of Sorcerer Supreme, [[Stephen Strange (Earth-616)|Doctor Strange]] visited Wiccan to discuss his potential candidacy and ability to assume his former role.{{r|New Avengers #51}} When the Hood found Strange and engaged him in magical combat to claim the [[Eye of Agamotto]], Wiccan aided him, contrary to Strange's orders to flee. Strange teleported away with Billy, and left him before seeking help with the New Avengers.{{r|New Avengers #52}}
+
+Wiccan, along with the other Young Avengers, helped rescue the fallen from [[Asgard (City)|Asgard]] during the [[Siege (Event)|Siege]]. Together, he and Hulkling also battled the [[Wrecking Crew (Earth-616)|Wrecking Crew]].{{r|Siege: Young Avengers #1}}
+
+===Children's Crusade===
+After Wiccan's powers overloaded during a battle with the [[Sons of the Serpent (Earth-616)|Sons of the Serpent]], the Avengers decided to keep him under observation. Hulkling and the other Young Avengers broke Wiccan out of holding and began the search for the Scarlet Witch. Accompanied by [[Max Eisenhardt (Earth-616)|Magneto]] and [[Pietro Maximoff (Earth-616)|Quicksilver]], the team traveled to Transia and then to [[Latveria]] before discovering a depowered and amnesiac Wanda engaged to [[Victor von Doom (Earth-616)|Doctor Doom]]. The rediscovery of Wanda did not go unnoticed though, as the Avengers soon arrived on the scene. A battle with Doom's [[Doombot|Doombot army]] soon broke out and was only stopped by the arrival of [[Nathaniel Richards (Iron Lad) (Earth-6311)|Iron Lad]].{{r|{{cl|Avengers: The Children's Crusade Vol 1 1}}-[[Avengers: The Children's Crusade Vol 1 4|4]]}}
+
+[[File:William Kaplan (Earth-616) 017.jpg|thumb|right|Wiccan powers overloading]]
+
+Iron Lad teleported the Young Avengers and Wanda into the time-stream. They all went into the past, and met the reanimated [[Jonathan Hart (Earth-616)|Jack of Hearts]], who was about to explode. After that Wanda remembered who she is, regained her powers and returned herself, the Young Avengers and [[Scott Lang (Earth-616)|Scott Lang]] into the present.{{r|Avengers: The Children's Crusade #5}} She then finally confirmed that Billy and Tommy were indeed her reincarnated sons.{{r|Avengers: The Children's Crusade #6}}
+
+Wanda's increased powers were revealed to be the result of her gaining a connection to the life force itself. A ritual intended to undo the Decimation was interrupted by Patriot, leading to the powers being transferred to Doctor Doom. He intended to usher the world into utopia, a utopia in which he would rule.{{r|Avengers: The Children's Crusade #7}} The Avengers and X-Men teamed up to defeat him, in the process, Stature was killed by Doom, and the villain escaped after losing his powers when they overloaded.{{r|Avengers: The Children's Crusade #8}}
+
+Iron Lad proposed to save Stature through the time-stream but Vision refused, ending with both of them battling each other and Iron Lad destroying Vision and then taking off to the time-stream, even after Wiccan warned that this was the moment in time where he became Kang the Conqueror.{{r|Avengers: The Children's Crusade #9}}
+
+In the aftermath of the battles, the Young Avengers disbanded and stayed in low profile during the major events that transpired in the world (the [[Spider-Island (Event)|spider infestation]], the X-Men's [[Schism (Event)|Schism]] and the resurrection of the [[Jonathan Storm (Earth-616)|Human Torch]]). Wiccan fell into a severe state of depression, but Hulkling brought him out of it by proposing to him. However, their moment of joy was interrupted by [[Carol Danvers (Earth-616)|Ms. Marvel]] who called them to the Avengers Mansion. After a few words from Captain America all the remaining Young Avengers were officially named as full-fledged Avengers.{{r|Avengers: The Children's Crusade #9}}
+
+===Return to Heroics===
+For a period of time, Wiccan and Hulkling retired from being super-heroes. However, they were unexpectedly brought back into the fray when Wiccan, in an attempt to patch an argument with Hulkling, accidentally let an interdimensional parasite called [[Mother (Interdimensional Parasite) (Earth-TRN287)|Mother]] masquerading as Hulkling's mother into their world.{{r|Young Avengers Vol 2 1}}
+
+[[File:William Kaplan (Earth-616) 034.jpg|thumb|left|Billy trying to manipulate reality to make up with Teddy]]
+The parasite's arrival had been a consequence of [[Loki Laufeyson (Ikol) (Earth-616)|Loki]]'s manipulations, who wanted to subsequently pose as an ally to Billy and ultimately control him, as Wiccan was destined to become the omnipotent [[Demiurge]].{{r|Young Avengers Vol 2 10}} Unaware of the full extent of Loki's intentions, Wiccan and Hulkling allied themselves with the trickster to escape Mother.{{r|Young Avengers Vol 2 2}}
+
+However, Loki betrayed Mother, and interfered with the spell, causing it to tie it Wiccan, Hulkling and himself and bring back their dead parents under Mother's influence.{{r|Young Avengers Vol 2 2}} They were soon joined by other young heroes, who became infected by the link of the spell, leading to the reformation of the [[Young Avengers (Earth-616)|Young Avengers]].{{r|Young Avengers Vol 2 3}} When they were cornered in [[Central Park]] by their resurrected parents and an army of mind-controlled adults only they could see, Loki convinced Wiccan to lend him his power for ten minutes to save them all with his better skill at magic than Wiccan. As soon as Loki was given Billy's powers, he teleported away, leaving the other young heroes to their deaths.{{r|Young Avengers Vol 2 4}}
+
+Loki ultimately decided to return and help the Young Avengers fend off the Mother's army and escape. Mother faded away after the Young Avengers escaped. Loki explained they couldn't go back to any place their parents were or had died (in the case of any deceased parent brought back by Mother) or Mother would return, as her powers were distance-based. The young heroes decided to stay together and travel through the universe.{{r|Young Avengers Vol 2 5}}
+
+[[File:William Kaplan (Earth-616) from Young Avengers Vol 2 8 001.png|thumb|right|Wiccan becomes the Demiurge]]
+In the next three months, Loki trained Billy to prepare him to fight Mother, with the ulterior motive of gaining his trust. The Young Avengers were joined by [[David Alleyne (Earth-616)|Prodigy]], who informed them Speed had been kidnapped by [[Patriot (Entity) (Earth-616)|a strange entity dressed as Patriot]].{{r|Young Avengers Vol 2 7}} The Young Avengers chased the entity through the [[Multiverse]], and were brought to [[Earth-TRN287|Mother's Dimension]]. They escaped, but accidentally left Prodigy and Hulkling behind.{{r|Young Avengers Vol 2 8}} Using numerous evil alternate version of themselves as a distraction, the Young Avengers distracted Mother and saved Hulkling and Prodigy. Back to Earth-616, Hulkling left the team to figure out if he really loved Wiccan or it was merely his reality-warping power.{{r|Young Avengers Vol 2 9}}
+
+An ally of Mother, [[Leah (Construct) (Earth-616)|Leah]], tricked Hulkling into returning to New York City, allowing Mother to come back, and threaten to unleash all of the evil version of the Young Avengers to the world.{{r|Young Avengers Vol 2 10}}
+
+[[File:Theodore Altman (Earth-616) and William Kaplan (Earth-616) 004.jpg|thumb|left|Love wins...literally]]
+Since Billy was still too weak to end the spell which had brought Mother, Loki suggested that he would be able to do it if his body was older, thus making Wiccan age him into a young adult. Unfortunately, Loki's powers didn't remain. The trickster had to resort to a second plan, to turn Wiccan temporarily into the Demiurge. Prodigy called all of the teenager heroes available to fight the army of alternate Young Avengers, while the real Young Avengers took care of Mother.{{r|Young Avengers Vol 2 11}}
+
+When the Young Avengers faced Mother, Billy tried to tap into the power of Demiurge, but failed.{{r|Young Avengers Vol 2 12}} Once Loki freed Hulkling, Hulkling comforted Billy, and reconciled with him. Their reunion allowed Billy to achieve his full potential, and finally destroy Mother, and get rid of the alternate Young Avengers.{{r|Young Avengers Vol 2 13}} Celebrating Mother's defeat, the Young Avengers threw a New Years' party, along with many young heroes that had come to their rescue.{{r|Young Avengers Vol 2 15}}
+
+===New Avengers===
+Eventually, both Billy and Teddy went onto full-time superheroics, joining [[Roberto Da Costa (Earth-616)|Roberto Da Costa]]'s team of [[New Avengers (A.I.M.) (Earth-616)|New Avengers]].{{r|New Avengers Vol 4 1}} After saving [[Paris]] from the Life-Minus entity by combining Wiccan's powers with those of his teammates [[Melissa Gold (Earth-616)|Songbird]] and [[Víctor Álvarez (Earth-616)|Power Man]],{{r|New Avengers Vol 4 2}} the New Avengers were at [[Hydrobase|Avengers Island]] when a group of aliens using both Kree and Skrull technology kidnapped Hulkling, but took Wiccan with him by accident. The aliens, who called themselves the [[Knights of the Infinite (Earth-616)|Knights of the Infinite]], were Kree/Skrull hybrids, like Hulkling, and wanted to take him to their base in the Forbidden Asteroids to verify that he was truly the chosen one. Hulkling pulled [[Excelsior (Star-Sword)|the sword Excelsior]] from a stone, passing the test, and the Knights knelt before him.{{r|New Avengers Vol 4 3}}
+
+[[File:New Avengers Vol 4 1 Solicit.jpg|thumb|right|Wiccan and Hulkling as New Avengers]]
+
+When Wiccan and Hulkling were taken to the Knights' home, [[Castle Tarnala]], they discovered the corpse of [[M'ryn (Earth-616)|M'ryn the Magus]] possessed by the evil wizard [[Moridun (Earth-616)|Moridun]]. While Wiccan tried to heal the wounded, Hulkling and the Knights tried damaging Moridun, but their efforts were all in vain. The creature soon absorbed enough power to grow in size and destroyed the castle from the inside out. Soon afterward, the rest of the New Avengers showed up and joined the brawl against Moridun, to no avail. Wiccan tried to use his powers to defeat Moridun, but failed and ended up hurt. While protecting Wiccan, Hulkling accidentally absorbed an energy blast from Moridun with Excelsior and realized he could use it against the evil wizard. The New Avengers distracted Moridun long enough to allow Hulkling to stab him in the face, seemingly killing the creature. Once the dust settled, Billy decided it was time to change his codename and chose Demiurge as his new one. However, unbeknownst to everyone, Moridun had managed to infect Wiccan, and remain inside his mind as sort of a subconsciousness.{{r|New Avengers Vol 4 4}}
+
+Many years into [[Earth-16364|the future]], [[Moridun (Earth-16364)|Moridun]] had killed [[William Kaplan (Earth-16364)|Demiurge]] after feeding off his body and powers until only he remained. Moridun then began using his new powers to wreak and destroy all of reality. The [[A.V.E.N.G.E.R.S. Initiative (Earth-16364)|Avengers]] of this future tried to stop Moridun but failed and three of their members were killed. To prevent their horrific future from taking place, the future Avengers traveled into the past and stopped Moridun from taking control of Demiurge.{{r|New Avengers Vol 4 5}} The future Avengers arrived on the Avengers Island of the New Avengers. The future [[Danielle Cage (Earth-16364)|Captain America]] explained the situation to the New Avengers. Then, Demiurge arrived and confronted the future Avengers, under the influence of Moridun. This led to a fight between the two Avengers teams over what to do about Demiurge. Hulkling was able to reach out to Demiurge in his mindspace, prompting the young hero to fight against Moridun's control and ultimately expel the evil wizard from his mind. Demiurge's victory over Moridun caused a temporal divergence that sent the future Avengers back to their future, a now peaceful one.{{r|New Avengers Vol 4 6}}
+
+===Wiccan's Kookie Quartet===
+When A.I.M. decided to rescue and shelter hacktivist [[Richard Jones (Earth-616)|Rick Jones]], [[Roberto Da Costa (Earth-616)|Sunspot]] decided to put to vote this decision, which would be considered an act of war against both S.H.I.E.L.D. and the [[United States of America|United States]]. The three members that opposed the idea, Billy, Hulkling and [[Doreen Green (Earth-616)|Squirrel Girl]], were all exiled from A.I.M. for their own safety, and had the name of "New Avengers" bequeathed to them so they could continue operating on their own.{{r|New Avengers Vol 4 8}} This new smaller incarnation of the New Avengers confronted the [[Parnival Plunder (Earth-616)|Plunderer]], an adventure after which [[Clinton Barton (Earth-616)|Hawkeye]] joined their ranks,{{r|New Avengers Vol 4 11}} and assisted numerous other heroes in fighting the [[Celestial Destructor (Earth-616)|Celestial Destructor]], with Billy helping [[Stephen Strange (Earth-616)|Doctor Strange]] and [[Wanda Maximoff (Earth-616)|Scarlet Witch]] to banish it.{{r|New Avengers Vol 4 12}} Billy and his team were soon pulled back into A.I.M.'s world when they [[Roberto Da Costa (Earth-616)|Sunspot]] requested their help.{{r|New Avengers Vol 4 12}} Once the New Avengers freed A.I.M. agent [[Melissa Gold (Earth-616)|Songbird]] from S.H.I.E.L.D. captivity,{{r|New Avengers Vol 4 15}} they assisted A.I.M. in fending off an attack from the [[New Revengers (Earth-616)|New Revengers]] at their [[Avenger Base Two]] in the [[Savage Land]].{{r|New Avengers Vol 4 16}}
+
+[[File:New Avengers Vol 4 11 Textless.jpg|thumb|left|The Kookie Quartet]]
+
+When Sunspot set out to shut down rogue A.I.M. splinter cells, he requested Wiccan's and Hulkling's help, and lured them to an empty luxurious apartment in [[Central Park]], under the pretense that said location housed the headquarters for one of the cells. When the two young heroes arrived there, they found a note from Sunspot, which revealed the apartment was a parting gift for their help. With Hawkeye having left the team after being put on trial for the murder of [[Bruce Banner (Earth-616)|Bruce Banner]],{{r|New Avengers Vol 4 13}} and Squirrel Girl deciding to rejoin A.I.M. to keep an eye on Sunspot, Hulkling and Wiccan decided to disband the New Avengers and focus on their personal lives for the time being.{{r|New Avengers Vol 4 18}}
+
+===Death's Head===
+While at a concert, Wiccan and Hulkling came across [[Death's Head (Styrakos)|Death's Head]] which led into a fight and Wiccan used a spell to lock him up in their bathroom. Back at the house, Death's Head attacked them and revealed [[Death's Head V (Earth-616)|another Death's Head bot]]{{r|Death's Head Vol 2 1}} that Wiccan stole from an A.I.M. lab under the control of [[Evelyn Necker (Earth-616)|Dr. Evelyn Necker]], in hopes of becoming an Avenger again. They call Kate Bishop for help to take "Vee" back into the lab. 
+
+Once they get to the lab,{{r|Death's Head Vol 2 2}} they are attacked by a security robot that Dr. Necker designed and the [[Fearmongers (Earth-616)|Fearmongers]],{{r|Death's Head Vol 2 3}} while she takes control of Vee but is saved by Billy, Teddy and Kate and they free all the Fearmongers to live a normal life.{{r|Death's Head Vol 2 4}}
+
+===Empyre===
+After being set up the [[Vridai]], Wiccan became part of a team called [[Strikeforce (Earth-616)|Strikeforce]]. Unable to visit Teddy due to the weird circumstances of the mission, Wiccan helped the team find a new home for the Vidrai, who had been left without one after the War of Realms. Along with Strikeforce, he made sure they had a chance for a new beginning at [[Wade Wilson (Earth-616)|Deadpool]]'s [[Staten Island|Monster Island]] and, in the end, was invited by the Avengers to become part of a Black Ops team, an offer he refused, claiming to miss Teddy.{{r|Strikeforce Vol 1 1|9}}
+
+While Billy was away for his continued adventure with Strikeforce, Hulkling had been approached by representatives of a [[Kree/Skrull Alliance (Earth-616)|Kree/Skrull Alliance]] to use him as a figurehead to cement this coalition, since he was the prophesized unifier of both warring species. The Alliance forbade Hulkling's relationship with Wiccan since he was an Earther,{{r|Lords of Empyre: Emperor Hulkling Vol 1 1}} prompting the two of them to set up a hasty wedding in secret before Teddy had to leave to space.{{r|Empyre Vol 1 5}} The Alliance's formation was prompted by the retaliation against both the Kree and the Skrull by the plant-based race called the [[Cotati]], who proceeded to invade the Earth to turn it into the centerpiece of their empire.{{r|Empyre Vol 1 1}}
+
+[[File:Theodore Altman (Earth-616) and William Kaplan (Earth-616) from Empyre Aftermath Avengers Vol 1 1 001.jpg|thumb|right|Wiccan and Hulkling's royal wedding]]
+
+During the Alliance's war against the Cotati, Hulkling was abducted by his own grandmother, former Skrull empress [[R'Klll (Earth-616)|R'Klll]], who impersonated him to authorize the deployment of a Sun-detonating weapon named the [[Pyre (Item)|Pyre]], which Teddy had refused to use. When Captain Marvel and the Human Torch tipped off Billy that something was wrong with Teddy,{{r|Empyre Vol 1 4}} he used magic to locate Hulkling and bring him to confront R'Klll.{{r|Empyre Vol 1 5}} Since R'Klll had triggered the Pyre already, Wiccan used his magic to assist Captain Marvel and the Human Torch in containing the detonation until the device was remotely disabled by Tony Stark. Hulkling defeated R'Klll, and Earth's heroes defeated the Cotati. In the aftermath of the war, Wiccan and Hulkling redid their wedding in the Alliance's flagship with a royal celebration, and Billy was formally inducted into the Alliance as prince consort and court wizard.{{r|Empyre: Aftermath Avengers Vol 1 1}}
+
+| Powers                  = Wiccan has a wide range of superpowers, derived from an unconfirmed source. His origins make it possible Wiccan is both [[Glossary:Magic|mage]] and [[Homo superior|mutant]].{{r|Secret Invasion: Runaways/Young Avengers #3}}{{r|Avengers: The Children's Crusade #7}} His abilities were first triggered when the Scarlet Witch (under the influence of the Life Force) used her powers to heal him.{{r|Young Avengers Special #1}} However, even accepting that Wiccan is the reincarnated son of the Scarlet Witch, where exactly his powers come from is unclear. If his was purely a spiritual reincarnation, then he would not necessarily inherit his mother's mutant genes. Recent questions about the Scarlet Witch's parentage make it even less certain she had an X-gene to pass on.{{r|Avengers & X-Men: AXIS #7}} Wiccan's power might also be a purely mystical birthright, or derived from Wanda's status as a nexus being.{{r|Avengers: West Coast #61|62}} Wiccan's destiny as the Demiurge resembles the fate that the Time Keepers worried about if Wanda ever had children.{{r|Avengers: Forever #8}}{{r|Young Avengers Vol 2 8}}
+
+Wiccan has demonstrated the following powers:
+* '''[[Glossary:Reality warper|Reality Warping]]:''' Quite similar to his spiritual mother The Scarlet Witch, Wiccan's main power is the superhuman ability to warp and manipulate reality, allowing him to tap into various forms of mystical energy within the universe. It was stated by [[Martin Preston (Earth-616)|Master Pandemonium]] that Billy's magic was similar to Wanda's, alluding that his magic could theoretically be Chaos Magic. As Wiccan has no standard spells and most of it being improvised on the spot, this mechanism also alludes some similarity to Wanda's magic, due to the fact that their spells work on the same basis, by only saying what they want to happen into reality. While generally his spells are very effective, the spells can be degraded by a lack of willingness to perform them or stress. Wiccan can use magic to increase the powers of himself or others for long periods of time. Some notable spells being: sensing locations of others, levitation, thought-casting, psychokinesis, astral projection, and illusion casting. Wiccan initially cast his magic through a unique form of self-taught spell casting involving stating repeatedly an effect or action he wants to happen (i.e. "I want him to be OK, I want him to be OK!," or "Groundintogluegroundintogluegroundintoglue"), and has managed to precede from this method ever since, being capable of using his abilities without the need to repeat the desired effects.{{r|New Avengers Vol 4 5}}{{r|New Avengers Vol 4 16}}{{r|New Avengers Vol 4 18}}{{r|Young Avengers Presents #3}} When accessing his Demiurge powers, His reality altering and mystical powers are greatly amplified to near cosmic levels, enabling him to view different timelines, wipe beings from existence, and even quite possibly rewrite the laws that form magic itself.{{r|Young Avengers Vol 2 10}} 
+** '''[[Clairvoyance]]:''' Wiccan has shown the ability to gain information by other means than his physical senses. with brief periods of intense concentration, can gain knowledge of a subject's location and its current state. It is notably highly difficult, though not impossible for him to locate those he is unfamiliar with, or only loosely associated with. He can also track down and sense or read someone's energy or those of the environment.{{r|Young Avengers #7}}{{r|Young Avengers Presents #3}}
+** '''[[Glossary:Energy Blasts|Concussive Force Blast]]:''' Can generate and manipulate energy to project blasts of concussive force with different shapes and intensities, including, beams, bursts, bolts and waves.{{Citation}}
+** '''Creation:''' Wiccan can use his reality warping abilities in order to warp existence and create anything from nothing. He had created clothing, decor, objects, and food from seemingly nothing to make his "room" in the Avenger's facility more comfortable.{{r|{{cl|Avengers: The Children's Crusade Vol 1 1}}-[[Avengers: The Children's Crusade Vol 1 #2|#2]]}}{{r|Young Avengers Vol 2 5}}
+** '''Erasure:''' Due to his reality warping powers Wiccan can disintegrate and erase anything from existence. He was able to erase The interdimensional parasite known as mother from existence. He has disintegrated a bunch of parents with a burst of energy.{{r|young Avengers Vol 2 #5}}
+** '''Elemental Manipulation:''' Billy has shown the ability to influence and control several elements and aspects of nature.
+*** '''[[Glossary:Electrokinesis|Electrokinesis]]:''' The primary form of elemental manipulation Wiccan is most used to is his electrokinetic powers. He can manipulate, generate, and discharge energy projections as either lightning or electricity from his hands or other parts of his body. Which gives him control over electric fields, electric charges, electric currents, electronics, and electromagnetism. This seems to not require the verbal components like his other "spells". Wiccan is capable of combining or performing his electrokinetic powers in unison with spells.{{r|Young Avengers #1}}
+*** '''[[Cryokinesis]]:''' Wiccan has the ability to control, generate, or absorb ice.{{Citation}}
+*** '''[[Glossary:Hydrokinesis|Hydrokinesis]]:''' Wiccan can manipulate and control water.{{Citation}}
+*** '''Photokinesis:''' Wiccan can project intense light and heat.{{Citation}}
+*** '''[[Pyrokinesis]]:''' Can generate and control fire.{{Citation}}
+** '''[[Flight]]:''' Wiccan can engage in self-propelled flight and has shown to be able to give others the ability to do so. He can also levitate.{{r|Young Avengers #2}}{{r|Young Avengers #7}}{{r|{{cl|Avengers: The Children's Crusade Vol 1 1}}-[[Avengers: The Children's Crusade Vol 1 4|4]]}}
+** '''[[Teleportation]]:''' Can teleport himself and others over undetermined distances with an untested maximum through his spells (e.g. I want to be someplace else) Thought he can teleport without a vocalized spell.{{r|{{cl|Avengers: The Children's Crusade Vol 1 1}}-[[Avengers: The Children's Crusade Vol 1 4|4]]}} Can also travel to and open gates or portals accessing other worlds, places and dimensions.{{r|Civil War #2}}
+*** '''Summoning:''' Wiccan has the ability to summon and transport anything or anyone to his location. He has able to combine his electrokinetic powers with his teleportation to summon a lighting in order to transport him along with his teammates to Wundagore Mountain. While he went as Asgardian, he used to summon his staff.
+*** '''Banishment:''' William has shown the ability to banish an object or being from a specific place to a certain place/area he chooses. When he Tried to banish the interdimensional parasite known as [[Mother (Interdimensional Parasite) (Earth-TRN287)|Mother]], he fails due to the strain after bringing her to their dimension, the same happens when he tries to banish [[Laufey (Earth-616)|Laufey]].
+** '''[[Glossary:Healing|Healing]]:''' Can quickly heal others through his spells (e.g. "I want to heal this man, I want to heal this man!"). However, the effectiveness of this healing can be greatly affected by his will to do it or if he has troubles focusing his mind on healing the target. When healing an enemy, the healing process could be considerably diminished than when healing someone he genuinely has an empathetic desire to heal. When trying to heal Teddy's [[Mary-Jo Altman (Earth-616)|Mother]], he fails due to the stress of the situation making it difficult for him to completely focus on the task.{{r|Young Avengers Vol 1 #9}}{{r|Avengers: The Children's Crusade #7}}
+** '''Mental Manipulation:''' Wiccan has shown the ability to influence and manipulate other's mind, achieving a variety of effects. He offered himself to erase [[Daniel DuBois (Earth-616)|Executioner]]'s mind after he confesses to know Kate's secret identity.{{r|Dark Reign}}
+** '''[[Force Field|Solid Energy Constructs]]:''' Wiccan can generate and manipulate energy to create solid constructs such as disks, orbs, shields, platforms, force fields, and other projectiles or constructions.{{r|Young Avengers #6}}
+** '''[[Telekinesis]]:''' Can levitate, propel and manipulate objects and matter with his mind.{{r|Young Avengers Vol 2 #1}}
+** '''[[Telepathy]]:''' Wiccan has shown to possess telepathic abilities. He was able to manifest the thoughts of someone's minds. He could read Teddy's mind and sense his doubts about his feeling. He also tried to detect Scarlet witch's mind, when he and Speed were looking for clues about their past.
+** '''Transmutation:''' Wiccan has shown the ability to turn, transmute and alter anything into anything else. He has changed his and his teammates street clothes into their hero uniforms. He has also transformed a bunch of frogs back into humans, right after the Enchantress had transmuted them. His transmutation powers allows him to transform himself into anyone of his desire.{{r|Dark Reign}}
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = If Wiccan can't hear his spells, they don't work at all.{{r|Civil War: Young Avengers and Runaways #3}}
+
+| Equipment               = 
+| Transportation          = [[Teleportation]] and [[Flight|Self-Propelled Flight]]
+| Weapons                 = Billy previously carried a [[Wiccan's Staff|staff]].
+
+| Notes                   = 
+| Trivia                  = 
+[[File:Wanda Maximoff (Earth-616), William Kaplan (Earth-616), and Thomas Shepherd (Earth-616) from Avengers The Children's Crusade Vol 1 9 001.jpg|thumb|right|Speed and Wiccan finally reunited with their mother, the [[Wanda Maximoff (Earth-616)|Scarlet Witch]]]]
+* Billy and [[Thomas Shepherd (Earth-616)|Tommy Shepherd]] are reincarnations of the [[Wanda Maximoff (Earth-616)|Scarlet Witch]] and the [[Vision (Earth-616)|Vision]]'s twin sons, [[Thomas Maximoff (Earth-616)|Thomas Maximoff]] and [[William Maximoff (Earth-616)|William Maximoff]].{{r|Avengers: The Children's Crusade #6}}
+** Wiccan first reached this conclusion after meeting Tommy, his identical twin except for the white hair.{{r|Young Avengers Vol 1 10}} After an encounter with the Super-Skrull who believed the two to be Thomas and William, Billy decided he and Tommy must be Wanda's children reincarnated. He based this on their names, appearances, Tommy's white hair and speed matching his "uncle" Pietro, and Billy's powers being similar to Wanda's.{{r|Young Avengers Vol 1 11}}
+** The Scarlet Witch has confirmed that Billy and Tommy are indeed her reincarnated children.{{r|Avengers: The Children's Crusade #6}}
+** Wiccan met his "father" [[Vision (Earth-616)|Vision]] for the first time in {{cl|Avengers Assemble Annual Vol 1 1}}.
+* Wiccan was one of the many possible [[:Category:Sorcerer Supreme Candidates|candidates]] for the title of [[Sorcerer Supreme]].{{r|New Avengers #53|54}}
+* As [[Asgardian]], Wiccan wore a winged helmet resembling those worn by Thor and other true [[Asgardians]].{{r|Young Avengers #1}}
+* Wiccan doesn't like the term "Warlock" being applied to him because it literally means "oath-breaker." He prefers mage, magician, witch, or spell-caster.{{r|Young Avengers Presents #6}}{{r|Young Avengers #11}}
+* [[James Bradley (Earth-616)|Doctor Nemesis]] and [[Víctor Álvarez (Earth-616)|Power Man]] have commented on a Jewish boy choosing the code-name Wiccan.{{r|Uncanny X-Men #526}}{{r|New Avengers Vol 4 3}}
+* According to his teammate and then-boyfriend, [[Theodore Altman (Earth-616)|Hulkling]], Billy Kaplan learned his spell-casting abilities from a self-help book belonging to [[Mary-Jo Altman (Earth-616)|Hulkling's mother]].{{r|Young Avengers #5}}
+[[File:Theodore Altman (Earth-616), William Kaplan (Earth-616), Theodore Altman (Earth-721), and William Kaplan (Earth-721) from She-Hulk Vol 2 21 001.jpg|right|thumb|Hulkling and Wiccan facing their [[Earth-721|Alpha]] counterparts]]
+* [[William Kaplan (Earth-721)|Wiccan]] is shown to be a member of the [[50-State Initiative (Earth-616)|Initiative]], along with [[Dorrek VIII (Earth-721)|Hulking]].{{r|{{cl|Avengers: The Initiative Vol 1 1}}-[[Avengers: The Initiative Vol 1 #2|#2]]}} However, it is later revealed most of the Young Avengers did not actually join The Initiative or even register. They were registered by their [[Earth-721|Earth-A]] counterparts; both Wiccan and Hulking are seen complaining about being registered to their "A Selves".{{r|She-Hulk Vol 2 21}} It's been subsequently shown that since registration, Billy has spent most of his time grounded at home with his parents pressuring him to register.{{r|Young Avengers Presents #1}}{{r|Young Avengers Presents #3}}
+* Billy is a fan of George R.R. Martin's book series ''A Song of Fire and Ice'', as well as its TV series version, ''Game of Thrones'', and Tyrion Lannister is his favorite character.{{r|Young Avengers Vol 2 3}}
+* ''[[Wikipedia:The Sound of Music (film)|The Sound of Music]]'' is one of Billy's favorite films.{{r|Avengers: The Children's Crusade #2}}
+* Wiccan's email is "actualwizard666@super-mail.com".{{r|Young Avengers Vol 2 10}}
+* Billy is a member of the [[The Forums|Forums]] social media network.{{r|Secret Warriors Vol 2 8}}
+* It's suggested that Billy will become the same [[Demiurge (Earth-616)|Demiurge]] that created Gaea, the mother of Thor,  in the distant past.{{r|Strikeforce Vol 1 6}}
+| Marvel                  = 
+| Wikipedia               = Wiccan_(comics)
+| Links                   =
+* [https://gayleague.com/wiccan/ Wiccan - GAY LEAGUE]
+}}
+[[ru:Уильям Каплан (616)]]
+[[es:William Kaplan (Tierra-616)]]
+[[Category:Adventurers]]
+[[Category:Astral Projection]]
+[[Category:Avengers Fail-Safe Program recruit]]
+[[Category:Clairvoyance]]
+[[Category:Cryokinesis]]
+[[Category:Electrokinesis]]
+[[Category:Elementals]]
+[[Category:Empaths]]
+[[Category:Energy Manipulation]]
+[[Category:Flight]]
+[[Category:Force Field]]
+[[Category:Healers]]
+[[Category:Homosexual Characters]]
+[[Category:Hydrokinesis]]
+[[Category:Illusionists]]
+[[Category:Jewish Characters]]
+[[Category:Matter Manipulation]]
+[[Category:Maximoff Family]]
+[[Category:Occultism]]
+[[Category:Photokinesis]]
+[[Category:Post-M-Day Mutants (Registration Status Unknown)]]
+[[Category:Post-Secret Wars Mutants]]
+[[Category:Power Bestowal]]
+[[Category:Pyrokinesis]]
+[[Category:Reality Warpers]]
+[[Category:Reincarnation]]
+[[Category:Royal Consorts]]
+[[Category:Skrull Royal Family]]
+[[Category:Social Network Users]]
+[[Category:Sorcerer Supreme Candidates]]
+[[Category:Summoning]]
+[[Category:Telekinesis]]
+[[Category:Telepaths]]
+[[Category:Teleporters]]
+[[Category:The Forums Users]]
+[[Category:Time Travelers]]
+[[Category:Transmutation]]
+[[Category:Twins]]
+[[Category:Vell Family]]
+[[Category:Vision Family]]

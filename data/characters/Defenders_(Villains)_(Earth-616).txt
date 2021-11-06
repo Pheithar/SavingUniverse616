@@ -1,0 +1,41 @@
+{{Marvel Database:Team Template
+| Image                   = Defenders (Villains) (Earth-616)-Defenders Vol 1 63 001.jpg
+| Name                    = [[Defenders]]
+| Aliases                 = "Defenders", False Defenders,  {{r|Defenders Vol 1 63}} New Defenders {{r|Defenders Vol 1 64}}
+| Title                   = Defenders
+
+| Status                  = Defunct
+
+| Identity                = Public
+| Reality                 = Earth-616
+| BaseOfOperations        = Mobile
+
+| Leaders                 = [[Sagittarius (LMD) (Earth-616)|Sagittarius]], [[Libra (LMD) (Earth-616)|Libra]]
+| CurrentMembers          = 
+| FormerMembers           = [[Sagittarius (LMD) (Earth-616)|Sagittarius]], [[Alexander Gentry (Earth-616)|Porcupine]], [[Frederick Dukes (Earth-616)|Blob]], [[Abner Jenkins (Earth-616)|Beetle]], [[David Cannon (Earth-616)|Whirlwind]], [[Georges Batroc (Earth-616)|Batroc]], [[Maxwell Dillon (Earth-616)|Electro]], [[Norton Fester (Earth-616)|Looter]], [[Samuel Smithers (Earth-616)|Plantman]], [[Libra (LMD) (Earth-616)|Libra]], [[Frederick Myers (Earth-616)|Boomerang]], [[Joe the Gorilla (Earth-616)|Joe the Gorilla]], [[Mortimer Toynbee (Earth-616)|Toad]], [[Bruno Horgan (Earth-616)|Melter]], [[Vincent Patilio (Earth-616)|Leap-Frog]], [[Herman Schultz (Earth-616)|Shocker]], [[Pecos (Earth-616)|Pecos]], [[Cap'n Skragg (Earth-616)|Cap'n Skragg]]
+| Allies                  = 
+| Enemies                 = [[Defenders (Earth-616)|Defenders]], [[Defenders for a Day (Earth-616)|Defenders for a Day]]
+
+| Origin                  = The [[Defenders (Earth-616)|Defenders]]' existence is exposed to the general public when [[Aaron English (Earth-616)|Dollar Bill]]'s documentary airs on television. [[Sagittarius (LMD) (Earth-616)|Sagittarius]] and [[Libra (LMD) (Earth-616)|Libra]] form a band of criminals to commit crimes, claiming to be Defenders in order to ruin the group's good name.
+| PlaceOfFormation        = Unrevealed
+| PlaceOfDissolution      = [[New York City]]
+| Creators                = David Kraft; Sal Buscema
+| First                   = Defenders #63 
+| Last                    = Defenders #65
+
+| HistoryText             = The [[Defenders (Earth-616)|Defenders]]' existence was exposed to the general public when [[Aaron English (Earth-616)|Dollar Bill]]'s documentary aired on television. [[Sagittarius (LMD) (Earth-616)|Sagittarius]] and [[Libra (LMD) (Earth-616)|Libra]] formed a band of criminals to commit crimes, claiming to be the Defenders in order to ruin the group's good name. 
+
+The villainous group split into two teams: Sagittarius leading [[Alexander Gentry (Earth-616)|Porcupine]], [[Frederick Dukes (Earth-616)|Blob]], [[Abner Jenkins (Earth-616)|Beetle]], [[David Cannon (Earth-616)|Whirlwind]], [[Georges Batroc (Earth-616)|Batroc]], [[Maxwell Dillon (Earth-616)|Electro]], [[Norton Fester (Earth-616)|Looter]], and [[Samuel Smithers (Earth-616)|Plantman]]; Libra commanding [[Frederick Myers (Earth-616)|Boomerang]], [[Joe the Gorilla (Earth-616)|Joe the Gorilla]], [[Mortimer Toynbee (Earth-616)|Toad]], [[Bruno Horgan (Earth-616)|Melter]], [[Vincent Patilio (Earth-616)|Leap-Frog]], [[Herman Schultz (Earth-616)|Shocker]], and [[Pecos (Earth-616)|Pecos]].
+
+Both squads run afoul of the real Defenders, whose ranks were bolstered by new [[Defenders for a Day (Earth-616)|"try out" members]], bandwagoning off the film's popularity. A group led by [[Hercules Panhellenios (Earth-616)|Hercules]] battled Sagittarius' team until [[Patricia Walker (Earth-616)|Hellcat]] knocked them out with a mental burst. Libra's group was also single-handedly bested by a furiously berserk and hallucinating [[Brunnhilde (Earth-616)|Valkyrie]].
+
+Following the battle, Sagittarius's group was taken into police custody, while Libra's team presumably escaped. They disbanded after their defeat, never reforming even though many members have worked together since.
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

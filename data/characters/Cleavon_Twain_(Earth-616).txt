@@ -1,0 +1,68 @@
+{{Marvel Database:Character Template
+| Image                   = Cleavon Twain (Earth-616) from Thunderbolts Vol 1 139 0001.jpg
+| Name                    = Cleavon Twain 
+| Name2                   = {{r|Thunderbolts #134}}
+| CurrentAlias            = Headsman
+| Aliases                 = [[Vassal]], [[Green Goblin]]
+
+| Affiliation             = {{m|Thunderbolts}}
+| Relatives               = [[Cody Twain (Earth-616)|Cody Twain]] (brother), unnamed father
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #5}}
+| Gender                  = Male
+| Height                  = 6'5"
+| Weight                  = 291 lbs
+| Eyes                    = 
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[New Orleans]], [[Louisiana (State)|Louisiana]]
+| PlaceOfDeath            = 
+| KilledBy                = Frank Simpson (Earth-616)
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Cover operative; Former criminal
+| Education               = 
+| BaseOfOperations        = The Cube
+
+| Creators                = Kurt Busiek; Pat Olliffe
+| First                   = Untold Tales of Spider-Man Vol 1 8
+| Death                   = Thunderbolts Vol 1 140
+
+| History                 = 
+===Origin===
+The Headsman is a criminal who first appeared to field test technology devised by [[Norman Osborn (Earth-616)|Norman Osborn]]. He was sent to help the [[Enforcers (Earth-616)|Enforcers]] escape from [[Peter Parker (Earth-616)|Spider-Man]], which he accomplished by forcing Spider-Man to flee. [[Harold Osborn (Earth-616)|Harry Osborn]] alerted Spider-Man to the criminals' meeting place, and the Headsman was forced to flee after the ensuing battle after Spider-Man damaged his power pack.{{r|Untold Tales of Spider-Man #8}} After repairing his pack, Headsman teamed with [[Francisco Lobo (Earth-616)|Lucky Lobo]] to kill Spider-Man. Believing he had killed Spider-Man, he left the hero buried under a pile of rubble. Facing Spider-Man again, he was assaulted by the Green Goblin, who revealed himself to Headsman as his employer. The Green Goblin destroyed the Headsman's equipment and knocked him out, allowing Spider-Man to turn him over to the police.{{r|Untold Tales of Spider-Man #18}}{{r|Spider-Man: Revenge of the Green Goblin #3}}
+
+===Thunderbolts===
+Years later, the Headsman joined Osborn's [[Thunderbolts (Earth-616)|Thunderbolts]] black ops team. He helped discredit [[Leonard Samson (Earth-616)|Doc Samson]] by attacking Air Force One disguised as the Green Goblin. Osborn saved the President in a staged attack by tossing the faux "Green Goblin" from the plane.{{r|Thunderbolts #128}} His teammate the [[Ghost (Earth-616)|Ghost]] revealed to him that the gravity-grip he used on his first mission was faulty and that he had fixed it, suggesting that Osborn had meant for him to die in his fall from the plane.{{r|Thunderbolts #132}}{{r|Secret Warriors #7}} The team's next objective was to kill [[Wade Wilson (Earth-616)|Deadpool]], at which they failed miserably.{{r|Deadpool Vol 4 #7|9}}{{r|Thunderbolts #130|131}} He battled new teammate [[Mister X (Earth-616)|Mister X]], but was spared from death by the [[Natalia Romanova (Earth-616)|Black Widow]].{{r|Thunderbolts #134}}
+
+The team battled [[Jessica Drew (Earth-616)|Spider-Woman]].{{r|Spider-Woman Vol 4 #6}} During an operation that pitted the team against the [[Agents of Atlas (Earth-616)|Agents of Atlas]], team leader [[Frank Simpson (Earth-616)|Scourge]] was imbued with a post-hypnotic suggestion by the [[Robert Grayson (Earth-616)|Uranian]] directing him to kill Osborn the next time he saw him.{{r|Thunderbolts #135|139}} Following the operation, the team gathered around a holographic recorder featuring an image of Osborn. Scourge's post-hypnotic suggestion was triggered and he shot at Osborn, but the bullet instead passed through the hologram and struck Headsman, killing him.{{r|Thunderbolts #140}}
+
+===Cody===
+After the fall of Norman Osborn's Dark Reign, [[Eric O'Grady (Earth-616)|Ant-Man]] paid a visit to Cleavon's brother, Cody, giving him the axe of Headsman and encouraging him to use it wisely by becoming a hero.{{r|Thunderbolts #143}}{{r|Thunderbolts #163.1}}
+
+| Powers            = None; Not enhanced by the Goblin Formula.{{r|Spider-Man: Back in Black Handbook Vol 1 1}}{{r|Official Handbook of the Marvel Universe A-Z #5}}{{r|Dark Reign Files #1}} 
+
+| Abilities               = 
+| Strength                = [[Strength Scale#Normal: able to lift one's own body weight|Average]]: Cleavon Twain possesses the strength level of a man his age, size and weight who engages in moderate regular exercise.{{r|Spider-Man: Back in Black Handbook Vol 1 1}}{{r|Official Handbook of the Marvel Universe A-Z #5}}{{r|Dark Reign Files #1}}
+| Weaknesses              = 
+| Equipment               = The Headsman wears a power pack which enhances his strength.{{r|Spider-Man: Back in Black Handbook Vol 1 1}}{{r|Official Handbook of the Marvel Universe A-Z #5}}{{r|Dark Reign Files #1}}
+| Transportation          = 
+
+*'''[[Goblin Glider|Headsman Glider]]''': Headsman rides a modified version of the "goblin glider", capable of great maneuverability and speeds of up to 90 miles per hour. It was capable of supporting about 400 lbs including Headsman's weight (and far more for very brief periods of time). Top speed and a full normal load would exhaust the fuel supply in about one hour. The main microprocessor assisted manual controls were behind the head of the glider, and later modifications added voice-activated radio-linked controls integrated into the Headsman's mask. The Headsman Glider was steered primarily, however, by the weight and attitude of its rider. The Headsman's boots are locked into the stirrups of the glider electromagnetically.{{r|Spider-Man: Back in Black Handbook Vol 1 1}}{{r|Official Handbook of the Marvel Universe A-Z #5}}{{r|Dark Reign Files #1}}
+
+| Weapons                 = 
+
+*'''[[Headsman's Axe]]''': Headsman uses an Axe developed from an unknown alloy. It is able to cut through various materials as strong as steel.{{r|Spider-Man: Back in Black Handbook Vol 1 1}}{{r|Official Handbook of the Marvel Universe A-Z #5}}{{r|Dark Reign Files #1}}
+
+| Notes                   = 
+| Trivia                  = * Headsman's name Cleavon Twain is derived from "cleave in twain," which means "cut in two," a reference to his use of his axe.
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Dark Reign casualties]]

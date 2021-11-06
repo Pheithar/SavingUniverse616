@@ -1,0 +1,69 @@
+{{Marvel Database:Character Template
+| Title                   = [[Ord|Ord of the Breakworld]]
+| Image                   = Ord (Breakworld) (Earth-616) from Astonishing X-Men Vol 3 4 0001.jpg
+| Name                    = Ord
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = Ally of [[Sentient World Observation and Response Department (Earth-616)|S.W.O.R.D.]], [[BeneTech Laboratories]], [[Kavita Rao (Earth-616)|Kavita Rao]], [[Weapon X (Earth-616)|Weapon X]]{{r|X-Men: Earth's Mutant Heroes #1}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| Gender                  = Male
+| Height                  = 7'5"
+| Weight                  = 341 lbs
+| Eyes                    = Red
+| Hair                    = Black
+| UnusualSkinColor        = Green
+| UnusualFeatures         = Small nose
+
+| Origin                  = [[Breakworldians|Breakworldian]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = Breakworld
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = Breakworldians
+| Occupation              = Warrior
+| Education               = 
+| BaseOfOperations        = S.W.O.R.D
+
+| Creators                = Joss Whedon; John Cassaday
+| First                   = Astonishing X-Men Vol 3 #1
+| Death                   = Giant-Size Astonishing X-Men #1
+
+| History                 = 
+Ord hailed from the Breakworld, a planet home to a warrior culture whose technology allowed them to see partial versions of the future. These "timeshadows" foretold that their planet would be destroyed by a mutant from [[Earth]], most likely a member of the heroic [[X-Men (Earth-616)|X-Men]]. For decades, Ord fought and won in many arena-style battles for the honor of being chosen to travel to Earth with a declaration of war. However, the spy agency [[Sentient World Observation and Response Department (Earth-616)|S.W.O.R.D.]] (Sentient Worlds Observation and Response Department), a sub-division of [[S.H.I.E.L.D.]] that handles extraterrestrial matters, was able to settle with him diplomatically by offering him a chance to eradicate the [[Mutant Genes|mutant gene]], while they would seek to identify the mutant that would be responsible for the Breakworld's destruction.{{r|Astonishing X-Men Vol 3 6}} 
+
+In order to fulfill his end of the bargain, Ord secretly replaced the body of [[Piotr Rasputin (Earth-616)|Colossus]], a former member of the X-Men, with another body, before it was due to be cremated. Using his advanced alien technology, Ord had Colossus restored to life and kept him prisoner for years while experimenting on him. Ultimately, Ord discovered the cure to the [[Legacy Virus]] still in Colossus' system and presented his findings to Benetech geneticist Doctor [[Kavita Rao (Earth-616)|Kavita Rao]], who was able to modify it into creating a [[Hope Serum|"cure"]] for the "mutant condition."{{r|Astonishing X-Men Vol 3 4}} As Rao appeared in front of the world media to announce the cure, Ord hoped to flush out the X-Men and staged a hostage situation at a charity gala. True to form, the X-Men arrived to save the hostages and confronted Ord. Making short work of the heroes, Ord was driven off by the timely arrival of the alien dragon [[Lockheed (Earth-616)|Lockheed]], ally of the X-Man [[Katherine Pryde (Earth-616)|Shadowcat]], who engulfed Ord's head in flame, causing him to flee.{{r|Astonishing X-Men Vol 3 2}}
+
+[[File:Ord (Breakworld) (Earth-616), Henry McCoy (Earth-616) and James Howlett (Earth-616) from Astonishing X-Men Vol 3 2 0001.jpg|right|thumb|250px|Ord escaping S.W.O.R.D]]
+Seeking revenge, Ord stole into the [[Xavier's School for Gifted Youngsters|Xavier Institute]] to find that the X-Men had left to investigate BeneTech. Wanting to leave the X-Men a message, Ord injected the young student [[Wing (Eddie) (Earth-616)|Wing]] with the "cure", removing the boy's powers and instructing him to tell the X-Men that the mutant abomination would never be a threat to the Breakworld.{{r|Astonishing X-Men Vol 3 5}} Ord then returned to BeneTech and confronted the X-Men; however, another timely arrival – Colossus, who had been found and freed by Shadowcat – saw him defeated once more.{{r|Astonishing X-Men Vol 3 5}} Head of S.H.I.E.L.D. [[Nicholas Fury (Earth-616)|Nick Fury]] and S.W.O.R.D.'s Special Agent [[Abigail Brand (Earth-616)|Abigail Brand]] arrived to defuse the situation, but while explanations were being made, mutants desperate to obtain the cure stormed the facility; allowing Ord to escape in the confusion. [[James Howlett (Earth-616)|Wolverine]] prevented him from leaving Earth in his spacecraft, and he was taken into custody by S.W.O.R.D.{{r|Astonishing X-Men Vol 3 6}}
+
+Later Ord escaped from [[Peak VII|the Peak]], a space station in orbit around the Earth, with the assistance of [[Danger (Earth-616)|Danger]] and attacked the X-Men while they were also fighting [[Cassandra Nova Xavier (Earth-616)|Cassandra Nova]]. Ord and Danger were apparently re-captured along with the X-Men where they were to be sent to the Breakworld. The Breakworld army captured and punished him for his failure.{{r|Astonishing X-Men Vol 3 #17|20}}
+
+[[File:Ord (Breakworld) from Astonishing X-Men Vol 3 2 0001.jpg|left|thumb|Ord]]
+
+| Powers                  = Ord possesses strength much greater than that of a human and is also capable of flight. It is unclear whether these attributes are shared by all members of his race, or if they are the product of alien technology.
+
+| Abilities               = Ord is a formidable hand-to-hand combatant, having decades of fighting experience.
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = Ord wears a suit of body armor. He also wields a circular weapon with barbed blades that he claims can cut through any substance on Earth.
+| Transportation          = Breakworld Spacecraft.
+| Weapons                 = Common Breakworld Weapons.
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * [[X-Men (Earth-616)|X-Men]]
+* [[Kavita Rao]]
+* [[Wing]]
+* [[Hisako]]
+* [[Danger]]
+}}
+[[Category:Superhuman Strength]]
+[[Category:Flight]]
+[[Category:Diplomatic Immunity]]

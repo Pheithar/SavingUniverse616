@@ -1,0 +1,67 @@
+{{Marvel Database:Character Template
+| Image                   = Shilpa Khatri (Earth-616) from X-Men Red Vol 1 6 004.jpg
+| Name                    = Shilpa Khatri
+| NameRef                 = {{r|X-Corp Vol 1 5}}
+| CurrentAlias            = Trinary
+| CurrentAliasRef         = {{r|X-Men: Red Vol 1 2}}
+| Aliases                 = 
+
+| Affiliation             = {{m|X-Corporation}}; formerly {{m|X-Men}}, {{m|X-Men (Jean Grey's)|X-Men (Red Team)}}
+| Parents                 = Unnamed father{{r|X-Men: Red Vol 1 2}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[India]]
+
+| Identity                = No Dual
+| Citizenship             = Indian, Krakoan
+| Occupation              = Adventurer; X-Corp board member, former thief, prisoner
+| Education               = 
+| BaseOfOperations        = [[Krakoa (Earth-616)|Krakoa]], [[Pacific Ocean]]; formerly [[Searebro]], [[X-Lantis]], [[Atlantis (Kingdom)|Atlantis]]; [[India]]
+
+| Creators                = Tom Taylor; Mahmud Asrar
+| First                   = X-Men: Red Vol 1 1
+
+| History                 = Trinary was a young [[Homo superior|mutant]] from [[India]] who used her technopathic abilities to top up the accounts of every working Indian woman from the accounts of the twenty-five highest-earning CEOs in the country. Trinary's father reported her, and she was eventually caught and imprisoned by the [[Indian Mutant Defense Force (Earth-616)|Indian Mutant Defense Force]]. However, in anticipation for her capture, Trinary recorded a message asking [[Jean Grey (Earth-616)|Jean Grey]] for help. The message reached its recipient in [[Wakanda]], resulting in Trinary's liberation from IMDF imprisonment by Jean Grey and her allies.{{r|X-Men: Red Vol 1 2}} Trinary took control of a [[Sentinels|Sentinel]] deployed by the IMDF and used it to escape with her rescuers. When they reached Wakanda, the mutant group was intercepted by [[Ororo Munroe (Earth-616)|Storm]], secretly under the influence of [[Cassandra Nova Xavier (Earth-616)|Cassandra Nova]].{{r|X-Men: Red Vol 1 3}} After Storm was incapacitated and the [[Nano-Sentinels|Sentinite]] controlling her was extracted from her brain with Trinary's help, Jean Grey decided to move her base of operations to [[Searebro]].{{Citation}}<!--
+
+Trinary was among the mutants that formed Jean Grey's own [[X-Men (Jean Grey's) (Earth-616)|X-Men]] team to pursue the surfaced enemy.{{r|X-Men: Red Vol 1 4}} -->
+
+===X-Men Disassembled===
+Trinary was one of the many mutants that fought a crazed [[Nathaniel Grey (Earth-295)|X-Man]] from remaking the world in his image. When X-Man felt that the world would never be improved with the X-Men around, X-Man made all his enemies vanish, including Trinary.{{r|Uncanny X-Men Vol 5 9|10}} While most of the X-Men were sent to a different plane of existence ruled by X-Man, Trinary wasn't one of them. Where she was during his time is unknown.{{r|Age of X-Man Alpha Vol 1 1}}
+
+===House of X===
+Trinary eventually returned and was living on the sovereign nation-state of Krakoa for mutants, created by [[Charles Xavier (Earth-616)|Charles Xavier]], [[Max Eisenhardt (Earth-616)|Magneto]], and [[Moira MacTaggert (Earth-TRN748)|Moira X]]. Moira and Charles Xavier tasked several technopath mutants such as [[Douglas Ramsey (Earth-616)|Cypher]], [[Sage (Earth-616)|Sage]], and Trinary with creating a system called "Sleeping Giant" to monitor for Nimrod technological thresholds being reached and/or the attempted creation of a "[[Mother Mold (Earth-616)|Mother Mold]]", a replicating, adaptive Sentinel factory that was self-aware and capable of creating other Sentinels. Xavier and Magneto then tasked the [[X-Men (Earth-616)|X-Men]] with destroying the Mother Mold and preventing the creation of Nimrod. With the help of Jean Grey and [[Monet St. Croix (Earth-616)|Monet St. Croix]], Trinary coordinated the communication between team members and X-Men base in Krakoa. The X-Men accomplished their goal, but the entire team was killed in the attack{{r|House of X Vol 1 4}} thought later resurrected.{{r|House of X Vol 1 5}}
+
+Trinary remained in Krakoa and aided [[Illyana Rasputina (Earth-616)|Magik]] in tracking down the creators of the anti-Mutant website Dox.{{r|New Mutants Vol 4 12}} Later, Monet St. Croix hired Trinary to be part of the board of the [[X-Corporation (Earth-616)|X-Corporation]].{{r|X-Corp Vol 1 1}}
+
+| Personality             = 
+
+| Powers                  = Trinary is a [[Homo superior|mutant]] who possess the following abilities:
+* '''Technopathy:''' She has the ability to psychically control all forms of technology, such as computers, cell phones, etc. She can only control technology that is in her line of sight. Her range is currently undetermined.{{r|X-Men: Red Vol 1 2}}
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Technopaths]]
+[[Category:Computer Hacking Skills]]
+[[Category:Mutants activated after M-Day]]

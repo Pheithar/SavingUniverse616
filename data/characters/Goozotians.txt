@@ -1,0 +1,50 @@
+{{Marvel Database:Race Template
+| Image                   = Goozotians from Defenders Vol 1 27 001.png
+| Name                    = Goozotians
+| Aliases                 = 
+| Identity                = Secret
+| Affiliation             = 
+| Universe                = Earth-691
+| BaseOfOperations        = 
+| BodyType                = Humanoid
+| AvgHeight               = 
+| AvgWeight               = 
+| Eyes                    = 
+| Hair                    = 
+| Skin                    = 
+| NumberOfLimbs           = 4
+| NumberOfFingers         = 5
+| NumberOfToes            = 5
+| SpecialAdaptations      = 
+| UnusualFeatures         = 
+
+| Origin                  = [[Goozotians]]
+| GalaxyOfOrigin          = 
+| StarSystemOfOrigin      = 
+| HomePlanet              = 
+| PlaceOfBirth            = 
+| Creators                = Steve Gerber; Sal Buscema
+| First                   = Defenders Vol 1 27
+
+| HistoryText             = The Goozotians were a race of drunkards ruled by the slack-jowled [[Goozot (Earth-691)|Emperor Goozot]].{{r|Defenders Vol 1 28}}
+
+| Habitat                 = 
+| Gravity                 = 
+| Atmosphere              = 
+| Population              = 
+
+| Powers                  = 
+| Abilities               = 
+| AvgStrength             = 
+| Weaknesses              = 
+
+| GovernmentType          = 
+| TechnologyLevel         = 
+| CulturalTraits          = 
+| Representatives         = <br>
+* [[Goozot (Earth-691)|Emperor Goozot]]
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

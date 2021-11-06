@@ -1,0 +1,50 @@
+{{Marvel Database:Character Template
+| Image                   = Geyr Kluge (Earth-616) from Captain America Steve Rogers Vol 1 18 001.jpg
+| Name                    = Geyr Kluge
+| CurrentAlias            = [[Key]]
+| Aliases                 = 
+
+| Affiliation             = {{M|Euroforce}}; Formerly {{M|EuroLab}}, {{M|Strategic Homeland Intervention, Enforcement and Logistics Division|S.H.I.E.L.D.}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Blue
+| Hair                    = Blond
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Berlin]], [[Germany]]
+
+| Identity                = Secret
+| Citizenship             = German
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = Mobile within Europe
+
+| Creators                = Xavier Marturet; Paco Diaz
+| First                   = Europa Vol 1 0
+
+| History                 = Key is an ex-[[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] officer and an expert field scientist with a good physical training. He was originally part of [[EuroLab (Earth-616)|EuroLab]], but, then, he joined [[Euroforce (Earth-616)|Euroforce]] alongside other [[Task Force (Earth-616)|Task Force]].{{r|Europa #0|3}}
+
+Years after, Key and his colleague [[Hughes Aït-Kaci (Earth-616)|Tiger]], recruited [[Dane Whitman (Earth-616)|Black Knight]] to lead a new incarnation of Euroforce, and Tiger became a member of the newly revamped team.{{r|Avengers World #12}}
+
+Some time later, Black Knight left to [[Weirdworld (Battleworld)|Weirdworld]] and Key returned to the team and was appointed new leader.{{r|Captain America: Steve Rogers #18}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

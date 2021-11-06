@@ -1,0 +1,56 @@
+{{Marvel Database:Race Template
+| Image                   = Carol Danvers and Gor-Tok (Earth-616) from Ms. Marvel Vol 1 8 0001.jpg
+| Name                    = Gortokians
+| Aliases                 = 
+| Identity                = Secret
+| Affiliation             = Formerly [[Deviants (Race)|Deviants]]
+| Universe                = Earth-616
+| BaseOfOperations        = [[Subterranea]]
+
+| BodyType                = Humanoid
+| AvgHeight               = 
+| AvgWeight               = 
+| Eyes                    = 2
+| Hair                    = Blonde
+| Skin                    = Yellow
+| NumberOfLimbs           = 4
+| NumberOfFingers         = 5
+| NumberOfToes            = 5
+| SpecialAdaptations      = Adapted eyes to see in the Dark
+| UnusualFeatures         = Yellow skin
+
+| Origin                  = Sub-species of humanity{{r|Heroic Age: Villains #1|;[[Gor-Tok (Earth-616)|Gor-Tok]]'s entry}} created as a slave race by the [[Deviants (Race)|Deviants]]
+| GalaxyOfOrigin          = Milky Way
+| StarSystemOfOrigin      = Sol
+| HomePlanet              = Earth
+| PlaceOfBirth            = [[Subterranea]]
+| Creators                = Roy Thomas; Don Heck
+| First                   = X-Men #41
+
+| HistoryText             = The [[Gortokians]] are a sub-species of humanity{{r|Heroic Age: Villains #1|;[[Gor-Tok (Earth-616)|Gor-Tok]]'s entry}} that were a slave race created by the [[Deviants (Race)|Deviants]] and used to construct underground cities. They rebelled against the Deviants and were destroyed in a failed invasion against the surface world. The only surviving member of the race was Prince [[Gor-Tok (Earth-616)|Gor-Tok]], also known as Grotesk.
+
+| Habitat                 = 
+| Gravity                 = 
+| Atmosphere              = 
+| Population              = 
+
+| Powers                  = 
+| Abilities               = 
+| AvgStrength             = 
+| Weaknesses              = 
+
+| GovernmentType          = Monarchy
+| TechnologyLevel         = Primitive
+| CulturalTraits          = 
+| Representatives         = [[Grotesk]]
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * [http://www.marvunapp.com/Appendix/groteskx.htm#Sub Gor-Tokians on Marvunapp]
+}}
+[[Category:Subterraneans]]
+[[Category:Genus Homo]]
+[[Category:Deviant Mutates (Deviant Experiments)]]
+[[Category:Subterranean Races]]
+[[Category:Gortokians]]
+[[Category:Earth/Races]]

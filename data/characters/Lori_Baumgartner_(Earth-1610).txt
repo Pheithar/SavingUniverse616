@@ -1,0 +1,71 @@
+{{Marvel Database:Character Template
+| Image                   = Lori Baumgartner (Earth-1610) from Spider-Man (2016) 234 012.jpg
+| Name                    = Lori Baumgartner
+| CurrentAlias            = [[Bombshell]]
+| Aliases                 = 
+
+| Affiliation              = {{M|Bombshells}}, {{m|Sinister Six (Earth-616)|Sinister Six}}
+| Relatives               = [[Lana Baumgartner (Earth-1610)|Lana Baumgartner]] (daughter)
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] [[Glossary:Mutate|experimented]] on by [[Roxxon Corporation (Earth-1610)|Roxxon]]
+
+| Reality                 = Earth-1610
+| Reality2                = (currently displaced to [[Earth-616|Prime Earth]])
+| PlaceOfBirth            = 
+
+| Identity                = Known to Authorities 
+| Citizenship             = American
+| Occupation              = Criminal
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Brian Michael Bendis; David Lafuente
+| First                   = Ultimate Comics Spider-Man #2
+
+| History                 = 
+===Origin and Crime Spree===
+Lori was a criminal in jail that was offered release in return for participating in Roxxon experiments. The experiment was successful and gave Lori superpowers, but unbeknownst to both Roxxon and herself, she was pregnant at the time. Years later, Lori and her daughter used their powers to go on a crime spree. Their attempts at robbery were foiled by [[Peter Parker (Earth-1610)|Spider-Man]] however.{{r|Ultimate Comics Spider-Man #2}}
+
+===Second Attempt at Thievery===
+A short time later the Bombshells attempt another heist on an armored truck, this time being foiled by Spider-Woman and The Human Torch. Lori went to jail, but her daughter was sent to juvenile detention, and let out on parole with the condition that she never uses her powers. She began going to school with Peter Parker.{{r|Ultimate Comics Spider-Man #9}}{{r|Cataclysm: Ultimate Spider-Man #1}}
+
+After Lana's boyfriend died, she visited her mother in prison. Lori advised her to find a distraction and not be alone with her thoughts. She encouraged Lana to stick by her friends, and to do right by herself.{{r|All-New Ultimates #1}}
+
+===Marvel Universe===
+As a consequence of the reality-ending phenomena known as [[Glossary:Incursion|incursions]], Lana's entire universe came to an end.{{r|Secret Wars Vol 1 1}} One of the few survivors of the universe was Lana's friend Miles Morales.{{r|Secret Wars Vol 1 2}} When he found himself in a world composed of the remnants of destroyed realities called [[Battleworld (Latverion)|Battleworld]], he helped the omnipotent being that was keeping it together, the [[Owen Reece (Earth-616)|Molecule Man]].{{r|Secret Wars Vol 1 6}}
+
+As a repayment to Miles' help, when the Molecule Man's native universe, [[Earth-616]], was brought back from its own destruction by [[Reed Richards (Earth-616)|Mister Fantastic]], the Molecule Man transported Miles, his family and his friends into it, doing so in such a way it was as if they had always lived their entire life there.{{r|Secret Wars Vol 1 9}} Lori and Lana were brought to Earth-616, and Lori was transferred to this reality while still being in prison.{{r|Spider-Man Vol 2 7}} Lana was liberated due to S.H.I.E.L.D.'s dissolution and she met up with Lana. Their reunion went awry quickly, since Lori intended to continue her life of crime, and reclaim Lana since she was still a minor.{{r|Spider-Man Vol 2 234}} After Lori joined the [[Sinister Six (Earth-616)|Sinister Six]] led by [[Aaron Davis (Earth-1610)|Iron Spider]], she forced Lana to help them carry out a heist to steal a decommissioned [[S.H.I.E.L.D. Helicarrier]].{{r|Spider-Man Vol 2 236}} She reluctantly agreed, but tipped Spider-Man off when they were carrying out the heist. Unfortunately, he failed to stop it, and the Sinister Six flew away on the Helicarrier cloaked.{{r|Spider-Man Vol 2 238}} Together with the [[Champions (Earth-616)|Champions]], Spider-Man tracked down the Sinister Six to [[Latveria]], where they planned to sell the Helicarrier. When they intercepted the meeting between the villains and their client,{{r|Spider-Man Vol 2 239}} Lana turned against her mother and knocked her out.{{r|Spider-Man Vol 2 240}}
+
+| Powers                  = * '''[[Energy Blasts]]:''' Due to the serum given to her by Roxxon, she is capable of destructive blasts of energy from her hands.
+* '''[[Flight]]:''' By directing her blast emissions the propulsion can allow her to fly for a short period of time.
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = None; she formerly had to be in the vicinity of her daughter to access to her abilities.
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * A news report called the Bombshells "mutants" when they first appeared on the scene, but later revelations about their origins proved that inaccurate and only one of them is a mutant.{{r|Ultimate Comics Spider-Man #2}}
+* She and her daughter's name have been mixed up in {{cl|Ultimate Comics Spider-Man Vol 2 26}}.
+* There has been some continuity errors in the flashbacks as Lana should be 17 as she was in Peter's class before his death, rather than 15.
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Concussive Blasts]]
+[[Category:Characters Displaced to Earth-616]]
+[[Category:Interdimensional Travelers]]
+[[Category:Flight]]
+[[Category:Long range Energy Projection]]

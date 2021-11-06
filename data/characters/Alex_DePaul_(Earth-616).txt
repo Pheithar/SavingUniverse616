@@ -1,0 +1,50 @@
+{{Marvel Database:Character Template
+| Image                   =Alex DePaul (Earth-616) from Thunderstrike Vol 1 5 0001.jpg
+| Name                    = Alex DePaul
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{M|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}, {{M|Warhawks}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = 
+| Citizenship             = American
+| Occupation              = S.H.I.E.L.D. Agent
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Ron Frenz; Tom DeFalco
+| First                   = Thunderstrike #5
+| Death                   = Hercules: Heart of Chaos #3
+
+| History                 = 
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = All standard issue S.H.I.E.L.D. equipment
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Government Agents]]
+[[Category:Suicide]]

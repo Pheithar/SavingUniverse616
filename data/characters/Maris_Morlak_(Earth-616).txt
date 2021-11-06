@@ -1,0 +1,66 @@
+{{Marvel Database:Character Template
+| Image                   = Maris Morlak (Earth-616) from Spider-Man Team Up Vol 1 7 001.png
+| Name                    = [[Maris Morlak|Dr. Maris Morlak]]
+| CurrentAlias            = [[Crucible]]
+| Aliases                 = 3X{{r|Marvel Comics #1000}}
+
+| Affiliation             = Formerly the {{m|Enclave (Earth-616)|Enclave}}; {{m|Scientists Guild (Earth-616)|Scientists Guild}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = {{cl|Marvel Encyclopedia #Fantastic Four}}
+| Gender                  = Male
+| Height                  = 5'7"
+| Weight                  = 153 lbs
+| Eyes                    = 
+| Hair                    = Bald
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Lithuania]]
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = Lithuanian
+| Occupation              = Scientist
+| Education               = 
+| BaseOfOperations        = Mobile
+
+| Creators                = Stan Lee; Jack Kirby
+| First                   = Fantastic Four #66
+| First2                  = (First actual appearance)<br>{{sld|Marvel Comics #1}}(Retroactively)
+| Death                   = 
+
+| History                 = Dr. Maris Morlak was once a brilliant nuclear physicist who joined the [[Scientists Guild (Earth-616)|Scientists Guild]], an organization dedicated to the creation of life itself in hopes of creating a better Earth. In 1939, Morlak, along with fellow Guild members [[Jerome Hamilton (Scientist) (Earth-616)|Jerome Hamilton]] and [[Carlo Zota (Earth-616)|Carlo Zota]] was present for the public debut of [[Phineas Horton (Earth-616)|Professor Horton]]'s android [[Human Torch (Android) (Earth-616)|Human Torch]].{{r|Marvel Comics #1}}{{r|Marvel Comics #1000}}
+
+In 1940, the Guild operated as a team of scientific adventurers called '''Three X'''. Each member used an alias, with Morlak's being 3X. Morlak was known as the "strong arm" of the group due to his hand-to-hand combat skills.{{r|Mystic Comics #1}} The Three X's visited private investigator [[Dennis Piper (Earth-616)|Leslie Lenrow]] (a.k.a. the Ferret) and obtained the [[Eternity Mask]], which they used the following year to empower Jerry Carstairs and turn him into the [[Jerry Carstairs (Earth-616)|Thunderer]].{{r|Marvel Comics #1000}}
+<!-- (Hidden because I couldn't fit it anywhere)
+The group was hired by the [[Baltimore]] police commissioner to find Maisie Leeds, a young lady who had been kidnapped by the [[Green Terror (3X's Foe) (Earth-616)|Green Terror]]. The group managed to track Leeds to [[South Africa]]. Despite being outnumbered by the Green Terror and his men they defeated them all and saved Leeds.{{r|Mystic Comics Vol 1 1}} -->
+
+Morlak and his comrades met geneticist [[Wladyslav Shinski (Earth-616)|Wladyslav Shinski]] and the four of them eventually formed the [[Enclave (Earth-616)|Enclave]]. Through the Enclave, Morlak was directly involved in the creation of the artificial super-beings [[Adam Warlock (Earth-616)|Adam Warlock]] and [[Ayesha (Earth-616)|Ayesha]].{{r|Fantastic Four #66|67}}{{r|Incredible Hulk Annual #6}}
+
+<!-- (Plagiarism: Enclave on the Marvel Appendix)
+As part of a plot to steal [[Reed Richards (Earth-616)|Reed Richard]]'s inventive genius and use it to kickstart [[Wladyslav Shinski (Earth-616)|Wladyslav Shinski]]'s genetics program, Morlak assumed an armored form called '''Crucible'''. After forcing the [[Monks of Doom (Earth-616)|Monks of Doom]] to build him a suit of armor similar to that worn by [[Doctor Doom (Victor Von Doom)|Doctor Doom]], Crucible slew most of the Monks and enslaved the rest. Wearing the armor, Morlak successfully stole Reed's skills, and then he and Shinski relocated to [[Genosha]]. They took control of their creation [[Kismet]], renaming her [[Ayesha]]. They also began experimenting on Genoshans in an effort to create their master race. However, when Reed Richards confronted Crucible, it soon became clear that Morlak was going insane. His mind was unable to handle the continual influx of ideas from Reed's genius. Shinski then slew Morlak and replaced him as Crucible. Soon after, both Shinski and Ayesha were consumed by a Black Hole Grenade.{{r|Fantastic Four Vol 3 #3|12}} -->
+
+| Powers                  = *'''Alchemy:''' Crucible's powers were based on the medieval art of alchemy. He was able to transmute elements and molecules into any other desired element or molecule. Crucible used this power and his scientific knowledge to great effect, including producing acids, explosions, dust clouds, and he could even animate of some of his transmutations.
+
+| Abilities               = Morlak possesses a high level of scientific genius.
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = *'''Body Armour:''' Crucible wore a suit of armor similar in design to Doctor Doom's. It afforded him some protection from physical and energy attacks.
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Transmutation]]
+[[Category:Genius Intelligence]]
+[[Category:Insanity]]
+[[Category:Armor Users]]
+[[Category:Physicists]]
+[[Category:Engineers]]
+[[Category:Inventors]]

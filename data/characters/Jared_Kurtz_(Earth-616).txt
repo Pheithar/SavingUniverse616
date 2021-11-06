@@ -1,0 +1,57 @@
+{{Marvel Database:Character Template
+| Image                   = Jared Kurtz (Earth-616) from Spider-Woman Origin Vol 1 2 001.jpg
+| Name                    = Jared Kurtz
+| NameRef                 = {{r|Official Handbook of the Marvel Universe Vol 2 6|; Hydra entry}}
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra (Earth-616)|Hydra}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Blond
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = Hydra Field Agent
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Archie Goodwin; Sal Buscema
+
+| First                   = Marvel Spotlight Vol 1 32
+| Death                   = Spider-Woman: Origin Vol 1 3
+
+| History                 = Jared was a [[Hydra (Earth-616)|HYDRA]] field agent, who on orders by his superior [[General Wyndham (Earth-616)|General Wyndham]] started a romantic relationship with [[Jessica Drew (Earth-616)|Jessica Drew]], in order to keep an eye on her, while she was briefly a part of the organization.{{r|Marvel Spotlight #32}}{{r|Spider-Woman: Origin #2|3}} When Kurtz was captured by [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] during a "goodwill mission", Drew, under her original codename "Agent Arachne", sneaked into a holding facility to free him, only to inadvertently kill him in the ensuing firefight.{{r|Marvel Spotlight #32}}
+
+It was only later that she learned that Jared was actually on a bombing mission in [[Morocco]] that killed several civilians, and that the entirety of HYDRA was nothing but a ruthless terrorist squad.{{r|Spider-Woman: Origin #3}}
+
+It was later further established, that he, in fact, didn't die at all at the hands of Jessica during his escape attempt but, was kept as a prisoner in a S.H.I.E.L.D. holding cell under psychic interrogation for 8 months before being freed by his fellow agents. He later confronted Jessica in the nightclub [[Excelsior (Nightclub)|Excelsior]] in [[London (England)|London]] and attempted to kill her for abandoning and betraying their organization, but she knocked him unconscious, strapped him on a plane, and crashed it into a nearby HYDRA facility before making her escape.{{r|Spider-Woman: Origin #3}}
+
+| Powers                  = 
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

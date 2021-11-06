@@ -1,0 +1,49 @@
+{{Marvel Database:Character Template
+| Image                   = Dutta_(Earth-616)_from_Fantastic_Four_Vol_1_284_0001.jpg
+| Name                    = 
+| CurrentAlias            = Dutta
+| Aliases                 = 
+
+| Affiliation             = [[Psycho-Man]]
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Sub-Atomica]]
+
+| Identity                = 
+| Citizenship             = Sub-Atomica
+| Occupation              = Soldier, ex-criminal
+| Education               = 
+| BaseOfOperations        = Sub-Atomica
+
+| Creators                = John Byrne; Al Gordon
+| First                   = Fantastic Four #284
+
+| History                 = Working for [[Psycho-Man]] when he had captured the [[Fantastic Four (Earth-616)|Fantastic Four]], Dutta was the jailer for [[Jennifer Walters (Earth-616)|She-Hulk]], torturing her (making her drink sewage) and keeping her in line. When [[Pearla (Earth-616)|Queen Pearla]] attempted to liberate She-Hulk, Dutta impaled her with his spear. The trauma enabled She-Hulk to overcome her psychological inhibitions and pummel him.{{r|Fantastic Four #284}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = A spear
+
+| Notes                   = 
+| Trivia                  = Apparently, [[Barry Dutter]], a rabid Marvel fan who sent hate mail any time She-Hulk was in a comic, is the reason Dutta exists.  Dutta was created by the direct inspiration from Barry Dutter.
+
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

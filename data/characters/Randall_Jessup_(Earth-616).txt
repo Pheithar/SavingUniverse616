@@ -1,0 +1,73 @@
+{{Marvel Database:Character Template
+| Title                   = [[Randall Jessup]]
+| Image                   = Randall Jessup (Earth-616) from Indestructible Hulk Vol 1 3 001.jpg
+| Name                    = [[Randall Hieronymous Jessup III]]
+| Aliases                 = 
+
+| Affiliation             = Formerly {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}, {{m|Temporal Irregularity Management and Eradication (Earth-616)|T.I.M.E.}}
+| Relatives               = Unidentified parents (deceased)
+| MaritalStatus           = Single
+
+| Gender                  = Male
+| Height                  = 5'9"
+| Height2                 = (by approximation)
+| Weight                  = 150 lbs.
+| Weight2                 = (by approximation)
+| Eyes                    = Blue
+| Hair                    = Blond
+| UnusualSkinColor        = Red 
+| UnusualSkinColor 2      = <nowiki> </nowiki>(in monster form)
+| UnusualFeatures         = In mutated form he possesses monstrous appearance with fangs, talons and six eyes
+
+| Origin                  = [[Human-Inhuman Hybrids|Nuhuman]] furtherly [[Glossary:Mutate|mutated]] by [[Gamma Bomb]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Renewable energies expert, S.H.I.E.L.D. scientist, slave to [[Lyra (Earth-8009)|Lyra]]{{r|Hulk Vol 3 16}}
+| Education               = 
+| BaseOfOperations        = Formerly the [[Beehive]]; [[S.H.I.E.L.D. Helicarrier]]; [[Manchester (Alabama)|Manchester]], [[Alabama (State)|Alabama]]
+
+| Creators                = Mark Waid; Lenil Yu
+| First                   = Indestructible Hulk Vol 1 3
+
+| History                 = Jessup was a M.Sc based on renewable energies and recently decided to work in [[Bruce Banner (Earth-616)|Dr. Bruce Banner]]'s lab crew, who had recently joined the spy organization [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]].{{r|Indestructible Hulk #3}}
+
+After [[Infinity (Event)|Thanos' invasion]], the [[Terrigen Mists]] were spread all over the surface of [[Earth]], activating the latent powers of numerous [[Inhumans (Race)|Inhuman]] descendants. Banner's team was put under lockdown because one of them was an Inhuman descendant, but they ignored it in order to help control the Hulk, who had stolen a Bomb which would've helped stop the spread of [[Terrigenesis]]. After the situation, Randall suffered from Terrigenesis and was turned into a monster.{{r|Indestructible Hulk Vol 1 18.INH}}
+
+[[File:Randall Jessup (Earth-616) from Indestructible Hulk Vol 1 19.INH 001.jpg|thumb|left|Randall's monster form]]
+Hulk managed to turn Jessup back to normal by "overloading" him with his rage, and while he attempted to treat him, Jessup was abducted by the [[Enclave (Earth-616)|Enclave]]'s leader [[Theodore Goodrich (Earth-616)|Ted Goodrich]].{{r|Indestructible Hulk Vol 1 19.INH}} He was taken to the [[Beehive]], where Goodrich gave him a tour, and Jessup noticed the instability of the Enclave's power source, which was dangerous enough to threaten the entire Earth. The Hulk arrived to save Jessup, who used the distraction to attempt to destroy the Beehive's power source. He transformed, and was fueled with power from numerous people including Hulk. In the end, he and Hulk destroyed the power source. The blast of the destruction caused Randall to transform back to normal.
+
+As the Enclave had left the base, Bruce decided his team could stay there to find a cure for Jessup's condition, as well to prevent them from returning to S.H.I.E.L.D., as they would be punished for escaping lockdown.{{r|Indestructible Hulk #20}}
+
+| Powers                  = '''Nuhuman/Gamma Mutate Physiology:''' Randall was revealed to have Inhuman lineage, but due to interaction with a [[chronoton]]-infused [[Gamma Bomb|gamma bomb]]; his Inhuman powerset also functions like a Hulk transformation:{{r|Indestructible Hulk Vol 1 18.INH}} 
+*'''Aggression Absorptive Transformation:''' In his monstrous form, Randall uses his eyes to absorb the anger of anyone and use it as energy with which he grows in power. The people whose anger is extracted become calm and happy for a period of time regardless of the situation in their environment.{{r|Indestructible Hulk Vol 1 19.INH}}
+**'''Superhuman Strength:''' Jessup's hulk form affords him strength comparable to that of the [[Bruce Banner (Earth-616)#Powers|Hulk]] himself.
+***'''Super Leap:''' He has incredibly pronounced lower bodily musculature enables him to jump incredible distances.
+**'''Superhuman Durability:''' His monster transformation is tough enough to battle countless monsters from another dimension. 
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = '''Dilatated Change Time''': Due to a sort of internal chemical inhibitor, Jessup can neither change into his monster state nor last in it for any longer than 5-10 minutes.{{r|Hulk Vol 3 16}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * [http://www.marvunapp.com/Appendix8/jessuprandall.htm Randall Jessup on Marvel Appendix]
+}}
+[[Category:Terrigen Bomb Activations]]
+[[Category:Psychic Vampires]]
+[[Category:Gamma Ray Exposure]]
+[[Category:Human/Inhuman Hybrids]]
+[[Category:Empaths]]
+[[Category:Energy Absorption]]
+[[Category:Superhuman Strength]]
+[[Category:Superhuman Durability]]
+[[Category:Leaping]]
+[[Category:Slaves]]

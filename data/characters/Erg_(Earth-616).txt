@@ -1,0 +1,77 @@
+{{Marvel Database:Character Template
+| Image                   = Erg (Earth-616) from X-Men The 198 Vol 1 5.png
+| Name                    = 
+| CurrentAlias            = Erg
+| Aliases                 = 
+
+| Affiliation             = Formerly [[X-Men (Earth-616)|X-Men]], {{m|198}}, {{m|Morlocks}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 6'6"
+| Weight                  = 192 lbs (87.1 kg)
+| Eyes                    = 
+| Hair                    = Black
+| UnusualFeatures         = One Eye
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = American, Krakoan
+| Occupation              = Adventurer; former drug dealer, refugee, painter
+| Education               = 
+| BaseOfOperations        = [[Krakoa (Earth-616)|Krakoa]], [[Pacific Ocean]]; formerly [[Madripoor]]; [[Utopia]], [[San Francisco Bay]], [[California (State)|California]]; [[Morlock Tunnels]], [[New York City]], [[New York]]
+
+| Creators                = Louise Simonson; June Brigman
+| First                   = Power Pack #12
+
+| History                 = 
+===Origin===
+Erg was a member of the [[Morlocks (Earth-616)|Morlocks]] who was able to absorb all forms of energy and project them in blasts from his left eye, which he called his "electric eye".
+
+===Mutant Massacre===
+Erg was one of the few Morlocks to survive the [[Marauders (Earth-616)|Marauders]]' attack during the '[[Mutant Massacre]]'.{{r|X-Factor Vol 1 #15}} Shortly after the Mutant Massacre, Erg became leader of the Morlocks.{{r|X-Factor Vol 1 #16}}
+
+===Post M-Day: The 198===
+Erg was one of the first mutants to seek a safe haven at the [[Xavier's School for Gifted Youngsters|Xavier Institute]] following [[Decimation|M-Day]], when most mutants lost their powers. Erg, [[Maximus Jensen (Earth-616)|Mammomax]], and [[Peter Quinn (Earth-616)|Peepers]] were running from members of the murderous [[Sapien League (Earth-616)|Sapien League]]. They had the Institute in sight when they were taken down by a shock grenade and tasers. The [[Leper Queen (Earth-616)|Leper Queen]] ordered her men to kill them now. The League members set up three x-shaped St. Andrew's crosses with braces to keep the crosses upright. Erg was tied to one of the crosses, and gasoline was poured on and a lit match tossed. Erg regained consciousness when the lower legs of the cross were blazing. He would have died if he hadn't been yanked off by [[James Howlett (Earth-616)|Wolverine]], who had been sitting in the Xavier estate woods, letting [[Piotr Rasputin (Earth-616)|Colossus]] sketch him.{{r|Decimation: House of M - The Day After Vol 1 1}}
+
+It was Erg's idea to have a "[[198 (Earth-616)|198]]" flag on the grounds. He claimed he had an uncle, unnamed, who was a Hell's Angel and that the Hell's Angels wear a 1% badge because the media said it was just one percent of bikers who caused the trouble when a biker gang tore up a town called Hollister back in the 1940's. He was one of a few mutants who attacked Sentinel Squad [[Office of National Emergency (Earth-616)|O*N*E (Office of National Emergency)]] because they wanted to leave the Xavier estate. [[Absolon Mercator (Earth-616)|Mister M]] ended that fight.{{r|X-Men: The 198 #1}}
+
+Erg was also one of the unfortunate mutants who accepted having an electronic tag inserted in order to be allowed to go out on a supervised group trip to [[Salem Center]]. [[Valerie Cooper (Earth-616)|Dr. Valerie Cooper]] told the mutants that the tags were "...a harmless tracking device, inserted under the skin with a simple and painless surgical process." That wasn't true, as Erg figured out too late. Later on, Mister M took the liberty of freeing the chipped mutants of their devices. Erg later appeared under the leadership of [[Masque (Earth-616)|Masque]].{{r|Uncanny X-Men #487}}
+
+[[File:X-Men (Earth-616) from New Mutants Vol 3 14 001.jpg|thumb|left|285px|Cyclops talking to the Utopians]]
+===Utopia===
+Erg was later seen on [[Utopia (X-Men Base)|Utopia]] during the [[Second Coming]] of the [[Hope Summers (Earth-616)|Mutant Messiah]], listening to [[X-Men (Earth-616)|X-Men]] leader [[Scott Summers (Earth-616)|Cyclops]] state to the non-X-Men Utopians that on that day, facing the [[Nimrod (Earth-10076)|Nimrods waves]], they were all X-Men.{{r|New Mutants Vol 3 #14}}
+
+===Madripoor===
+He then moved to [[Madripoor]] where a new mutant utopia was set up by [[Raven Darkholme (Earth-616)|Mystique]]'s [[Brotherhood of Evil Mutants (Earth-616)|Brotherhood]], leading a band of thugs and dealing [[Mutant Growth Hormone]] provided by the Brotherhood. After trying to beat up [[Max Eisenhardt (Earth-616)|Magneto]], he and his band were all taken down.{{r|Uncanny X-Men Vol 3 16}}
+
+| Powers                  = 
+'''Ambient Energy Absorption''': Erg is capable of absorbing all forms of ambient and directed energy (including kinetic).
+* '''''Electrical Optic Blast''''': Erg is able to use this absorbed ambient energy to fire electrical energy from his left eye. He is able to control which direction goes in midair, as shown when he stopped a train by sending it at the rails, even though it was going towards the train at first. The electrical energy is extremely hot, as it is able to melt steel.{{r|Uncanny X-Men Vol 1 488}}
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+| Equipment               = Eyepatch
+| Transportation          = Krakoan Gateways
+| Weapons                 = Knife
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Energy Absorption]]
+[[Category:Electrokinesis]]
+[[Category:One Eye]]
+[[Category:Optic Blasts]]
+[[Category:Post-M-Day Mutants (The 198)]]
+[[Category:Painters]]
+[[Category:Utopians]]
+[[Category:General Threats]]
+[[Category:Street Fighting]]
+[[Category:Thieves]]

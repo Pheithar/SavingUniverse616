@@ -1,0 +1,48 @@
+{{Marvel Database:Character Template
+| Image                   = Robert Rickard (Earth-616) from Nick Fury, Agent of SHIELD Vol 1 12 0001.jpg
+| Name                    = [[Robert Rickard]]
+| CurrentAlias            = [[Agent U]]
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra (Earth-616)|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Terrorist, spy
+| Education               = 
+| BaseOfOperations        = [[New York City]], [[New York (State)|New York]]
+
+| Creators                = Steve Parkhouse; Barry Smith
+| First                   = Nick Fury, Agent of SHIELD Vol 1 12
+
+| History                 = 
+
+| Powers                  = None
+| Abilities               = 
+| Strength                = Normal human.
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

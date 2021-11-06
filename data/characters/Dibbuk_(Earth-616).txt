@@ -1,0 +1,55 @@
+{{Marvel Database:Character Template
+| Image                   = Dibbuk (Earth-616) from Omega the Unknown Vol 1 10 0001.jpg
+| Name                    = Dibbuk
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = Former assistant to [[Thursday Rubinstein (Earth-616)|Ruby Thursday]]
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Yellow
+| Hair2                   = <!--(facial hair only)-->
+| UnusualSkinColor        = Red
+| UnusualFeatures         = Forked tail, yellow fin on head, pointed ears
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Steve Gerber; Mary Skrenes; Jim Mooney
+| First                   = Omega the Unknown Vol 1 10
+| Death                   = 
+
+| History                 =
+
+| Powers                  = The Dibbuk was superhumanly strong, could wallcrawl, and could teleport himself and a passenger. 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Teleporters]]
+[[Category:Superhuman Strength]]
+[[Category:Wallcrawling]]

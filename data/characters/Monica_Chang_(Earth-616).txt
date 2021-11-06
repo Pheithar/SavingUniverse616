@@ -1,0 +1,64 @@
+{{Marvel Database:Character Template
+| Title                   = [[Monica Chang|Chief Monica Chang]]
+| Image                   = Monica Chang (Earth-616) from Avengers A.I. Vol 1 1 001.jpg
+| Name                    = Monica Chang
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = Formerly {{m|Avengers Artificial Intelligence Squad (Earth-616)|Avengers A.I.}},{{r|Avengers NOW! Vol 1 1}} {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}{{r|Avengers NOW! Vol 1 1}}
+| Relatives               = [[Lisa Chang (Earth-616)|Lisa Chang]] (mother);{{r|Star-Lord Vol 1 2}}<br>
+Unidentified father{{r|Avengers NOW! Vol 1 1}}
+| MaritalStatus           = 
+
+| CharRef                 = {{cl|Avengers NOW! Vol 1 1}}
+| Gender                  = Female
+| Height                  = 5'4"
+| Weight                  = 117 lbs
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] 
+| Reality                 = Earth-616
+| PlaceOfBirth            = Unrevealed{{r|Avengers NOW! Vol 1 1}}
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = S.H.I.E.L.D.'s A.I. Division Chief{{r|Avengers NOW! Vol 1 1}}
+| Education               = Graduate studies, [[Stanford University]], California{{r|Avengers NOW! Vol 1 1}}
+| BaseOfOperations        = Formerly [[S.H.I.E.L.D. Helicarrier]]
+
+| Creators                = Sam Humphries; André Lima Araújo
+| First                   = Avengers A.I. Vol 1 1
+
+| History                 = Agent Monica Chang was the chief of [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]]'s Artificial Intelligence division. She was tasked with the interrogation of [[Henry Pym (Earth-616)|Hank Pym]] after the virus with which he destroyed [[Ultron (Earth-616)|Ultron]] evolved into the A.I. known as [[Dimitrios (Earth-616)|Dimitrios]], and started mounting cyberattacks against secure military and intelligence targets. She ordered Hank Pym to help her destroy this new threat, for which Pym created a new team of Avengers: the [[Avengers Artificial Intelligence Squad (Earth-616)|Avengers A.I.]].{{r|Avengers A.I. Vol 1 1}}
+
+Dimitrios took over Iron Man's Safe Armor upon feeling sympathy for it based on how Tony Stark rejected it for becoming self-aware. In this new body, Dimitrios was able to send several attacks towards Monica and the Avengers A.I., with one of them being the Kilgore Sentinel that Dimitrios had reprogrammed to cause as much havoc as possible. After the Kilgore Sentinel was destroyed by S.H.I.E.L.D. upon Vision reprogramming it, the Avengers A.I. discovered that Dimitrios had two goals: to find Alexis and to destroy the human race.{{r|Avengers A.I. Vol 1 2}}
+
+Vision explored the [[Diamond (City)|Diamond]], the home of Dimitrios, but upon doing so had to make a life-changing choice: to help the humans or to help the A.I.s. Even though Vision had made his decision to help his fellow A.I.s, we also wanted to help humanity as Dimitrios wanted to go to war.{{r|Avengers A.I. Vol 1 3}} While investigating the physical location that hosted the Diamond, Victor Mancha was damaged and torn to bits, presumably killing him.{{r|Avengers A.I. #4|6}}
+
+In the wake of [[Infinity (Event)|Thanos' invasion]], Monica and the rest of Avengers A.I. encountered an elderly widow named [[Doris (Inhuman) (Earth-616)|Doris]] who turned to attorney [[Matthew Murdock (Earth-616)|Matt Murdock]] for help after her bank foreclosed on her home. After being exposed to the [[Terrigen Mist]], she transformed into an octopus-like creature with masses of tentacles in place of arms. She attacked the Avengers A.I. before being persuaded to stop by [[Doombot (Avenger) (Earth-616)|Doombot]]. Doris then took off for parts unknown with the [[Inhumans (Earth-616)|Inhuman]] Queen [[Medusalith Amaquelin (Earth-616)|Medusa]].{{r|Avengers A.I. Vol 1 7.INH}}
+
+Victor Mancha was revealed to be alive with a fellow A.I. named Gibson and exploring the Diamond while Monica and the rest of the members of Avengers A.I. rescue him.{{r|Avengers A.I. Vol 1 9|12}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * Monica Chang is revealed to be a devout Muslim.{{r|Avengers A.I. Vol 1 4}}
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Muslim Characters]]
+[[Category:Government Agents]]
+[[Category:Martial Arts]]
+[[Category:Shooting]]
+[[Category:Weapons Expert]]
+[[Category:Multilingual]]

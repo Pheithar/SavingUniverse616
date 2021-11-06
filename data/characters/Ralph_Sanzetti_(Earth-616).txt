@@ -1,0 +1,52 @@
+{{Marvel Database:Character Template
+| Image                   = Ralph Sanzetti (Earth-616) Team America Vol 1 12.jpg
+| Name                    = [[Ralph Sanzetti]]
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra}}
+| Relatives               = Unnamed children
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Bald
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Terrorist
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Don Perlin; Jim Shooter
+| First                   = Team America #12
+| Death                   = Team America #12
+
+| History                 = A top [[Hydra (Earth-616)|Hydra]] agent and family friend of his leader sector [[Elsie Carson (Earth-616)|Elsie Carson]], he was ordered by the [[Supreme Hydra]] to kill her on sight but in reminder of their friendship Sanzetti granted her a few minutes to say goodbye to her family. Meanwhile the [[Thunderiders (Earth-616)|Team America]] intervened in aid of Carson and Sanzetti was killed in the gunfight that took place hit by [[Wolf (Thunderiders) (Earth-616)|Wolf]] of Team America{{r|Team America #12}}.
+
+| Personality             = 
+
+| Powers                  = None
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

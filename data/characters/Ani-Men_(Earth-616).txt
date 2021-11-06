@@ -1,0 +1,55 @@
+{{Marvel Database:Team Template
+| Image                   = Ani-Men (Earth-616) from X-Men Vol 1 94 0001.png
+| Name                    = Ani-Men
+| Aliases                 = The [[Organization]],{{r|Daredevil #10}} [[Unholy Three]]{{r|Daredevil #39}} 
+
+| Status                  = 
+| Identity                = Secret
+| Reality                 = Earth-616
+| BaseOfOperations        = Mobile
+
+| Leaders                 = 
+| CurrentMembers          = [[Frog-Man (Earth-616)|Frog-Man]], [[Cat-Man (Ray) (Earth-616)|Cat-Man]], [[Bird-Man (Earth-616)|Bird-Man]], [[Ape-Man (Earth-616)|Ape-Man]]
+| FormerMembers           = [[Francois Le Blanc (Earth-616)|Frog-Man (Francois Le Blanc)]], [[Townshend Horgan (Earth-616)|Cat-Man (Townshend Horgan)]], [[Henry Hawk (Earth-616)|Bird-Man (Henry Hawk)]], [[Gordon Keefer (Earth-616)|Ape-Man (Gordon Keefer)]], [[Veronica Dultry (Earth-616)|Dragonfly (Veronica Dultry)]], [[Roy McVey (Earth-616)|Ape-Man (Roy McVey)]], [[Achille DiBacco (Earth-616)|Bird-Man (Achille DiBacco)]], [[Sebastian Patane (Earth-616)|Cat-Man (Sebastian Patane)]], [[Giraffe-Man (Earth-616)|Giraffe-Man]], [[Great Horned Owl-Man (Earth-616)|Great Horned Owl-Man]], [[Pig-Man (Earth-616)|Pig-Man]], [[Rabbit-Woman (Earth-616)|Rabbit-Woman]]
+| Allies                  = 
+| Enemies                 = [[Avengers (Earth-616)|Avengers]], [[Matthew Murdock (Earth-616)|Daredevil]], [[Great Lakes Avengers]], [[X-Men (Earth-616)|X-Men]]
+
+| Origin                  = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Wally Wood; Bob Powell
+| First                   = Daredevil #10
+| Last                    = 
+
+| HistoryText             = 
+===First Line-Up===
+The Ani-Men were a group of criminals hand-picked by [[Abner Jonas (Earth-616)|the Organizer]] to orchestrate a crime wave that would benefit his reform party. Their original line-up consisted of [[Francois Le Blanc (Earth-616)|Frog-Man]], [[Townshend Horgan (Earth-616)|Cat-Man]], [[Henry Hawk (Earth-616)|Bird-Man]], and [[Gordon Keefer (Earth-616)|Ape-Man]], informally known collectively as "The Organization".{{r|Daredevil #10}} They were defeated by [[Matthew Murdock (Earth-616)|Daredevil]]{{r|Daredevil #11}} who later fought them on other occasions, during which the team operated without Frog-Man as "The [[Unholy Three]]". 
+
+In his bid to take control of NORAD, Count Nefaria returned Frog-Man to the team along with a new female member, [[Veronica Dultry (Earth-616)|Dragonfly]], and empowered them all with super powers. Now known as the Ani-Men, they succeeded in taking over the military base for Nefaria, only to be decisively defeated by the new team of [[X-Men (Earth-616)|X-Men]].{{r|X-Men #94|95}}
+
+Although losing Dragonfly, who was confined to [[Moira Kinross|Moira MacTaggert]]'s mutant research facility in Scotland, the four original Ani-Men continued working for Count Nefaria. During a battle against [[Anthony Stark (Earth-616)|Iron Man]], however, they were all apparently slain with a bomb set by [[Spymaster]].{{r|Iron Man #116}}
+
+===Second Line-Up===
+A second line-up of Ani-Men, who actually referred to themselves as the Unholy Three as well, consisted of [[Roy McVey (Earth-616)|Ape-Man]], [[Achille DiBacco (Earth-616)|Bird-Man]], and [[Sebastian Patane (Earth-616)|Cat-Man]].  Recruited by [[Death-Stalker]], for whom the original Unholy Three has worked for under a previous alias, they also fought Daredevil. Ape-Man and Cat-Man were later slain by Death-Stalker; Bird-Man escaped this fate, having already been captured, but was subsequently slain by [[Scourge (Delazny) (Earth-616)|Scourge]] in the "Bar with No Name" massacre in Ohio (he has since been resurrected by the [[Parker Robbins (Earth-616)|Hood]]).{{r|Punisher Vol 8 #5}}
+
+===Third Line-Up===
+The third (and current) line-up consists of [[Giraffe-Man (Earth-616)|Giraffe-Man]], [[Great Horned Owl-Man (Earth-616)|Great Horned Owl-Man]], [[Pig-Man (Earth-616)|Pig-Man]], and [[Rabbit-Woman (Earth-616)|Rabbit-Woman]]. In their only known appearance they attacked a modeling convention in [[Milwaukee]] citing animal rights issues as their motive. They blamed the modeling industry for everything from animal testing of cosmetics to the wearing of furs. The [[Great Lakes Avengers]] showed up on the scene to fight the Ani-Men, but were beating to it by the [[Avengers (Earth-616)|Avengers]]
+who quickly dispatched the criminals.{{r|G.L.A. Vol 1 1}}
+
+Their current whereabouts are unknown.
+
+===Fourth Lineup===
+Later, a new group of criminals surfaced wearing the Ani-Men costumes of Ape-Man, Cat-Man, and Frog-Man and robbed an armored car.{{r|Code of Honor #3}}
+
+Then, during the [[Civil War (Event)|Civil War]], A new Bird-Man, Ape-Man, and Cat-Man were amongst the criminals seen recruited by [[Hammerhead]].{{r|Civil War: War Crimes #1}}{{r|Iron Manual Mark 3 #1}}
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = The Ani-Men should not be confused with the [[Animen (Earth-616)|Animen]], a group of [[New Men]] sent by the [[High Evolutionary]] to sabotage one of the [[Miles Warren (Earth-616)|Jackal]]'s labs.
+| Trivia                  = 
+| Links                   = * [http://www.marvunapp.com/Appendix5/animendd.htm Ani-Men on Marvunapp]
+* [http://www.marvunapp.com/Appendix4/animencwwc.htm]
+* [http://www.marvunapp.com/Appendix5/animends.htm]
+}}

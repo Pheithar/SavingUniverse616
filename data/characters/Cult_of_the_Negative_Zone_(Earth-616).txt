@@ -1,0 +1,44 @@
+{{Marvel Database:Team Template
+| Image                   = Cult of the Negative Zone (Earth-616) Logo.png
+| Name                    = Cult of the Negative Zone
+| Aliases                 = The Other Side of Zero
+
+| Status                  = Defunct 
+| Identity                = Secret
+
+| Reality                 = Earth-616
+| BaseOfOperations        = [[Other Side of Zero]]
+
+| Leaders                 = [[Anti-Priest (Earth-616)|Anti-Priest]]
+| CurrentMembers          = 
+| FormerMembers           = [[Character Index/N#Natasha|Natasha]]
+| Allies                  = [[Annihilus (Earth-616)|Annihilus]]
+| Enemies                 = [[Fantastic Four (Earth-616)|Fantastic Four]], [[Future Foundation (Earth-616)|Future Foundation]]
+
+| Origin                  = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = Jonathan Hickman; Dale Eaglesham
+| First                   = Fantastic Four Vol 1 578
+
+| HistoryText             = The Cult of the [[Negative Zone]] was an espionage group connected to the [[Annihilation Wave (Earth-616)|Annihilation Wave]]. Based out of a spa/club/meeting-space called The Other Side of Zero, they recruited members to buy businesses in a rough circle around the [[Baxter Building]], with the ultimate aim of using hidden devices to augment the power of the portal to the Negative Zone to create a path for the Annihilation Wave to Earth.
+
+The cult's liturgy is based heavily on a notion of duality. They draw followers by positing that while an organism will eventually die in the positive-matter universe, in the Negative Zone, it can live forever.
+
+The Cult sent a follower to use [[Jonathan Storm (Earth-616)|Johnny Storm]] to gain access to the Baxter Building portal, but he stopped them. Later, Johnny Storm was presumed dead in the Negative Zone, only to return to Earth leading the Annihilation Wave.
+
+As Annihilus has joined the [[Galactic Council (Earth-616)|Galactic Council]] in a pact of noninterference with Earth, the cult is presumably without power and not doing anything at the moment for now.
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = The symbol of the cult is actually a stylized version of the [[Cosmic Control Rod]].{{r|Fantastic Four Vol 1 600}}
+| Links                   = 
+}}
+
+[[Cult]]
+[[Category:Negative Zone]]
+[[Category:Terrorist Organizations]]
+[[Category:Alien-Based Earth Religions]]

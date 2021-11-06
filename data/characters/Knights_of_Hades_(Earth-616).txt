@@ -1,0 +1,36 @@
+{{Marvel Database:Team Template
+| Image                   = Knights of Hades (Earth-616) from Fantastic Four Vol 1 276 001.jpg
+| Name                    = Knights of Hades
+| Aliases                 = 
+
+| Status                  = 
+
+| Identity                = 
+| Reality                 = Earth-616
+| BaseOfOperations        = 
+
+| Leaders                 = 
+| CurrentMembers          = 
+| FormerMembers           = 
+| Allies                  = [[Elspeth Cromwell (Earth-616)|Elspeth Cromwell]]
+| Enemies                 = [[Fantastic Four (Earth-616)|Fantastic Four]]
+
+| Origin                  = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+| Creators                = John Byrne
+| First                   = Fantastic Four Vol 1 276
+| Last                    = 
+
+| HistoryText             = 
+The Knights of Hades were a group of demon knights from [[Mephisto’s Realm]].  The spell-wielding exorcist Elspeth Cromwell unleashed them on Earth to attack a family of suspected witches, actually [[Reed Richards (Earth-616)|Mr. Fantastic]], [[Susan Storm (Earth-616)|Invisible Woman]], and their son [[Franklin Richards (Earth-616)|Franklin]].  Whatever control she had over them was lost when the blood of an innocent, Franklin, was shed in the ensuing conflict, at which point they simply went on a rampage.  Presumably, they were pulled back into the Netherworld, either when Mephisto pulled the Richardses and Cromwell into his realm, or when the demon-lord was defeated by Franklin Richards.  They have not been seen since.{{Citation}} 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Orders of Knights]]

@@ -1,0 +1,35 @@
+{{Marvel Database:Organization Template
+| Image                   = Cult of Khonshu (Earth-616) from Avengers Vol 8 34 001.jpg
+| Name                    = Cult of Khonshu
+| Aliases                 = Khonshu Church,{{r|Marc Spector: Moon Knight Vol 1 36}} Knights of the Moon
+
+| OrganizationLeaders     = Formerly [[Sandahl Swarn (Earth-616)|Nepthys]]
+| CurrentMembers          = [[Moon Wizards (Earth-616)|Moon Wizards]], [[Priests of Khonshu (Earth-616)|Moon Priests]], [[Werewolf Guard (Earth-616)|Werewolf Guard]]
+| FormerMembers           = [[Randall Spector (Earth-616)|Shadowknight]]
+
+| Identity                = Secret
+| Affiliation             =
+| Allies                  = [[Marc Spector (Earth-616)|Moon Knight]], [[Khonshu (Earth-616)|Khonshu]], [[Glossary:Mummy|Mummies]], [[Werewolves]], formerly [[Leila O'Toole (Earth-616)|Plasma]]
+| Enemies                 = [[Avengers (1,000,000 BC) (Earth-616)|Prehistoric Avengers]], [[Frank Castle (Earth-616)|Punisher]], [[Avengers (Earth-616)|Avengers]], [[Mephisto (Earth-616)|Mephisto]], [[Daniel Ketch (Earth-616)|Ghost Rider]], formerly [[Marc Spector (Earth-616)|Moonknight]]
+
+| Origin                  = 
+| Reality                 = Earth-616
+| Status                  = Active
+| BaseOfOperations        = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+
+| Creators                = Terry Kavanagh; Ron Garney
+| First                   = Marc Spector: Moon Knight Vol 1 35
+| History                 = 
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+| Notes                   = * It is unknown if [[Moon Knight (2620 BC) (Earth-616)|Moon Knight]] from the year 2620 BC was a member of the group.
+| Trivia                  = 
+| Links                   = 
+}}
+[[Cult]]
+[[Category:Egyptian Organizations]]
+[[Category:Egyptian Religion]]
+[[Category:Mystical Organizations]]

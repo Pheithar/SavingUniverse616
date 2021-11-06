@@ -1,0 +1,63 @@
+{{Marvel Database:Character Template
+| Image                   = Carl Denti (Earth-616) from X-Men Earth's Mutant Heroes Vol 1 1 0001.png
+| Name                    = [[Carl Denti]]
+| CurrentAlias            = X-Cutioner
+| Aliases                 = FBI guy,{{citation}} [[X]]{{citation}}
+
+| Affiliation             = {{m|Homines Verendi}}; {{m|Federal Bureau of Investigation (Earth-616)|FBI}}, CSA; formerly Firing Squad, {{m|Black Womb Project}}
+| Relatives               = James Denti (father, deceased),{{citation}} Emily Denti (mother),{{citation}} unidentified ex-wife{{citation}}
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|X-Men: Earth's Mutant Heroes #1}}
+| Gender                  = Male
+| Height                  = 6'1"
+| Weight                  = 210 lbs
+| Eyes                    = Brown
+| Hair                    = Brown; with temples of [[:Category:White Hair|White]][[Category:White Hair]]
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = Oskaloosa, [[Kansas (State)|Kansas]]{{citation}}
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = Vigilante, special agent, security consultant
+| Education               = MA in Psychology from Syracuse University{{citation}}, FBI Academy training{{citation}}, extensive self-training{{citation}}
+| BaseOfOperations        = Washington, D.C., United States
+
+| Creators                = Scott Lobdell; Jason Pearson
+| First                   = Uncanny X-Men Annual Vol 1 17
+
+| History                 = Carl Denti was a field agent for the [[Federal Bureau of Investigation (Earth-616)|FBI]] whose partner, [[Frederick Duncan (Earth-616)|Fred Duncan]], was a member of [[Charles Xavier (Earth-616)|Professor Charles Xavier's]] [[Mutant Underground|underground]]. Duncan would cache the technological equipment that the X-Men confiscated from alien races.{{citation}}
+
+After Duncan's apparent death (the circumstances of which have not been revealed), Denti inherited his caseload, and discovered that Duncan was involved with the mutant underground. Seeing the damage mutants had done without punishment, Denti took possession of some of the confiscated weapons and equipment. Calling himself the X-Cutioner, Denti began a vigilante campaign to punish mutants who had not been legally convicted for their crimes. During his assassination of the mutant criminal [[Edward Pasternak (Earth-616)|Tower]], the X-Cutioner first encountered the [[X-Men (Earth-616)|X-Men]] and used his teleportation device to escape.{{r|Uncanny X-Men Annual Vol 1 17}}
+
+Denti teleported into the [[Xavier's School for Gifted Youngsters|X-Mansion]] to kill the comatose [[Emma Frost (Earth-616)|Emma Frost]] who was in the Med-lab. He was stopped by [[Scott Summers (Earth-616)|Cyclops ]] and [[Nathaniel Summers (Earth-616)|Cable]].{{r|Uncanny X-Men Vol 1 310}}
+
+The X-Cutioner has continued his campaign against mutants, attacking the mutants [[Nathaniel Grey (Earth-295)|Nate Grey]] and [[Rogue (Anna Marie) (Earth-616)|Rogue]],{{r|X-Man Vol 1 11}} and [[Angelo Espinosa (Earth-616)|Skin]]{{r|Generation X Vol 1 16|17}} on separate occasions.
+
+While working in [[Washington, D.C.]], Denti, using both identities, assisted the [[Frank Castle (Earth-616)|Punisher]] in protecting the pro-mutant activist Reverend James Connover from a group calling themselves the [[Mutant Liberation Front (Humanity's Last Stand) (Earth-616)|Mutant Liberation Front]]. These terrorists turned out to be enhanced humans with anti-mutant sentiments, and had no connection to the [[Mutant Liberation Front (Earth-616)|Mutant Liberation Front]] that was formerly in the employ of [[Nathaniel Summers (Stryfe) (Earth-4935)|Stryfe]].{{r|Punisher Vol 3 #12|16}}
+
+After the [[Civil War]], he was listed as a potential recruit for the [[50-State Initiative (Earth-616)|Initiative]],{{r|Civil War: Battle Damage Report Vol 1 1}} but he eventually went back to killing mutants and associated himself with the anti-mutant organization [[Homines Verendi (Earth-616)|Homines Verendi]].{{r|Marauders Vol 1 6}}
+
+| Powers                  = 
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = The X-Cutioner possesses technological weaponry, primarily of alien nature, which he uses in combat. The [[Shi'ar]] armor is possibly a variation of the armor worn by the Shi'ar operative [[Davan Shakari (Earth-616)|Eric the Red]]. The armor grants Denti increased strength and resistance to physical attacks. The helmet of the armor is equipped with a high-level scanning and computer system, capable of seeing into the infrared spectrum, measuring vital signs, and DNA analysis.{{citation}}
+
+The X-Cutioner also possesses other technological items, including a teleportation device of unknown origin. The full extent of the alien armament that the X-Cutioner possesses has not been revealed.{{citation}}
+| Transportation          = 
+| Weapons                 = The X-Cutioner wields a Shi'ar power lance as his primary weapon, which uses the mental energy of the wielder to project blasts of psionic energy, causing great damage to both organic and inorganic objects.{{citation}}
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * [http://uncannyxmen.net/characters/x-cutioner uncannyxmen.net Character Profiles: X-Cutioner]
+* [http://www.marveldirectory.com/xoops/modules/wordbook/entry.php?entryID=718 Marvel Directory]
+
+}}
+[[Category:Armor Users]]
+[[Category:Teleporters]]

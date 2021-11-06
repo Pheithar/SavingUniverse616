@@ -1,0 +1,36 @@
+{{Marvel Database:Organization Template
+| Image                   = Chitauri Wave (Earth-616) from Mighty Captain Marvel Vol 1 5 001.png
+| Name                    = Chitauri Wave
+| Aliases                 = 
+
+| OrganizationLeaders     = 
+| CurrentMembers          = 
+| FormerMembers           = 
+
+| Identity                = No Dual
+| Affiliation             =
+| Allies                  = 
+| Enemies                 = [[Alpha Flight (Space Program) (Earth-616)|Alpha Flight]], [[Guardians of the Galaxy (Earth-616)|Guardians of the Galaxy]], [[Thunderbolts (Earth-616)|Thunderbolts]]
+
+| Origin                  = [[Chitauri]]
+| Reality                 = Earth-616
+| Status                  = Active
+| BaseOfOperations        = [[Earth Orbit]], [[Sol|Solar System]]
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+
+| Creators                = 
+| First                   = Thunderbolts Vol 3 #2
+
+| History                 = The Chitauri Wave was a fleet of [[Chitauri]] lured to [[Earth]] by the [[Hydra (Earth-616)|Hydra]] sleeper agent [[Steven Rogers (Earth-61311)|Captain America]] using a rejected plan created by the [[Ivan Kragoff (Earth-616)|Red Ghost]] for his Soviet superiors.{{r|Captain America: Steve Rogers Vol 1 8}} The plan consisted on hiding Chitauri queen eggs on Earth, with their presence driving the aliens into a frenzy to find them, ravaging anything in their path.{{r|Captain America: Steve Rogers Vol 1 10}}
+
+The amount of Chitauri swarms that attempted to enter the Earth began to grow in both number and frequency. At one point, the [[Alpha Flight (Space Program) (Earth-616)|Alpha Flight]] space initiative had to fend off the planet from four Chitauri waves in a single month.{{r|Captain America: Steve Rogers Vol 1 8}} After a gigantic Chitauri fleet was destroyed by [[Avril Kincaid (Earth-616)|Quasar]], it was expected that the next Chitauri fleet would be the largest single alien army to ever come to the Earth, and even bigger than the [[Annihilation Wave]].{{r|Civil War II: The Oath Vol 1 1}}
+
+Another Chitauri fleet was approaching the Earth as the Hydra-loyalist Captain America was putting into motion a plan of conquest. While Alpha Flight and numerous other heavy-hitter heroes were deployed in orbit to fight the aliens, Captain America activated the [[Planetary Defense Shield]], sealing the heroes off from Earth. The Chitauri Wave continued mobilizing despite not being able to enter Earth, wearing off Alpha Flight and the heroes that were left stranded.{{r|Secret Empire Vol 1 0}} The Planetary Defense Shield was eventually destroyed by Quasar, and [[Carol Danvers (Earth-616)|Captain Marvel]] destroyed the Chitauri queen eggs, whose location had previously been pin-pointed, putting an end to the Chitauri invasion.{{r|Secret Empire Vol 1 8}}
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

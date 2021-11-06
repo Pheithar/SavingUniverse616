@@ -1,0 +1,145 @@
+{{Marvel Database:Character Template
+| Image                   = John Jonah Jameson III (Earth-616) from Black Panther and the Agents of Wakanda Vol 1 4 004.jpg
+| Name                    = [[John Jonah Jameson III]]{{r|Amazing Spider-Man Vol 1 649}}
+| CurrentAlias            = [[Man-Wolf]]
+| Aliases                 = [[Carnage]],{{r|Amazing Spider-Man Vol 1 410}} Colonel John Jameson,{{r|Captain America #358}} [[John Jameson]],{{r|Amazing Spider-Man Vol 1 1}} Johnny,{{r|She-Hulk Vol 2 11}} Johnny Jameson,{{r|Sensational Spider-Man Vol 2 24}} L'Homme-Loup,{{r|Sensational Spider-Man Vol 2 26}} Mrs. She-Hulk,{{r|She-Hulk Vol 2 8}} [[Skywolf]],{{Citation}} [[Stargod]]{{r|Marvel Premiere #45}} [[Vanwolf]],{{Citation}} 
+
+| Affiliation             = [[Ravencroft Institute]] staff, {{m|Agents of Wakanda}}, {{m|United States Air Force (Earth-616)|USAF}}, {{m|Federal Bureau of Investigation (Earth-616)|FBI}} {{m|Aberrant Crimes Division (Earth-616)|ACD}} & {{m|Anti-Symbiote Task Force}}; formerly {{m|Cult of Knull (Earth-616)|Cult of Knull}} {{m|Howling Commandos (S.H.I.E.L.D.) (Earth-616)|S.H.I.E.L.D.'s Howling Commandos}}, [[Avengers (Earth-616)|Avengers]] {{m|Avengers Support Crew|support crew}}, {{m|National Aeronautics and Space Administration (Earth-616)|NASA}}
+| Relatives               = David Burnoll (paternal grand-uncle/step-grandfather; presumed deceased);<br>
+Betty Jameson (paternal grandmother, presumed deceased);<br>
+[[John Jonah Jameson Sr. (Earth-616)|John Jonah Jameson Sr.]] (paternal grandfather, deceased);<br>
+[[Maybelle Parker (Earth-616)|May Parker-Jameson]] (step-grandmother);<br>
+[[John Jonah Jameson (Earth-616)|J. Jonah Jameson]] (father);<br>
+[[Joan Jameson (Earth-616)|Joan Jameson]] (mother, deceased);<br>
+[[Marla Madison (Earth-616)|Marla Madison]] (step-mother, deceased);<br>
+Mrs. Franklin (aunt, deceased)<br>
+[[Jerry Franklin (Earth-616)|Jerry Franklin]] (uncle);<br>
+[[Martha Franklin (Earth-616)|Martha Franklin]] (cousin/adoptive sister, deceased);<br>
+[[Jennifer Walters (Earth-616)|Jennifer Walters]] (ex-wife);<br>
+[[Carnage IV (Symbiote) (Earth-616)|Dark Carnage]] (former symbiote);<br>
+[[Carnage (Symbiote) (Earth-616)|Carnage]] (former symbiote)
+| MaritalStatus           = Divorced
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe: Spider-Man 2005 Vol 1 1}}
+| Gender                  = Male
+| Height                  = 6'2"; 6'6" (Man-Wolf)
+| Weight                  = 200 lbs; 350 lbs (Man-Wolf)
+| Eyes                    = Brown; Red (Man-Wolf)
+| Hair                    = Auburn; White (Man-Wolf)
+| UnusualFeatures         = In wolf form: fangs, claws, fur
+
+| Origin                  = [[Homo sapiens|Human]] Mutate. Astronaut who contracted an extraterrestrial virus that led to his [[Glossary:Mutate|transformation]] into a [[Man-Wolves|Man-Wolf]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[New York City]], [[New York (State)|New York]]
+
+| Identity                = Known to Authorities
+| Citizenship             = American
+| Occupation              = USAF Colonel, prison warden[[Category:Prison Wardens]] of Ravencroft Institute; formerly adventurer, social worker, astronaut, test pilot, asylum security chief, private pilot to Captain America, monster hunter, pet to [[Demogoblin (Earth-616)|Demagoblin]]{{r|Absolute Carnage: Lethal Protectors Vol 1 2}}
+| Education               = Master of Science in Aeronautical Engineering
+| BaseOfOperations        = Mobile; formerly [[Queens]], [[New York City]], [[New York (State)|New York]]; [[Other Realm]]
+
+| Creators                = Stan Lee; Steve Ditko
+| First                   = Amazing Spider-Man Vol 1 1
+| First2                  = (as Jameson)<br>{{sld|Amazing Spider-Man Vol 1 124}}(as Man-Wolf)<br>{{sld|Amazing Fantasy Vol 1 18}}(Chronologically)
+
+| History                 = 
+===Spider-Man===
+'''Colonel John Jameson''' was the son of [[Joan Jameson (Earth-616)|Joan Jameson]] and [[John Jonah Jameson (Earth-616)|J. Jonah Jameson]],{{r|Official Handbook of the Marvel Universe Vol 2 6}} once the publisher of the famous newspaper [[Daily Bugle (The DB!) (Earth-616)|Daily Bugle]]. After he became one of the youngest applicants to ever be accepted into [[National Aeronautics and Space Administration (Earth-616)|NASA]]'s astronaut program, John went on a mission to orbit Earth. Unfortunately, the capsule he was piloting, lost the Guidance Packet, causing it to spin out of control. [[Peter Parker (Earth-616)|Peter Parker]], who was watching the flight in his civillian identity, realized what was happening and put his Spider-Man to jump to John's rescue. He installed a replacement unit, and John was able to land the craft safely. Despite the daring rescue, John's father had his newspaper descredit Spider-Man by accusing him of staging the whole thing to steal the spotlight.{{r|Amazing Spider-Man Vol 1 1}}{{r|Official Handbook of the Marvel Universe Vol 2 6}}{{r|She-Hulk Vol 1 4}}
+
+[[File:Jupiter Suit from She-Hulk Vol 1 9 001.jpg|180px|thumb|left|Wearing the Jupiter Suit]]
+On another space mission, Jameson contracted an unknown virus that increased his strenght to superhuman levels, so, upon his return, [[Anthony Stark (Earth-616)|Tony Stark]] designed the [[Jupiter Suit]] to help him keep his strength in check. When it appeared that Spider-Man was involved in a bank robbery, Jonah persuaded his son to use his strength to subdue the web-slinger and thus become a public hero. John agreed, but, after two encounters, Spider-Man managed to neutralize the virus in Jameson's body by a high dosage of electricity.{{r|Amazing Spider-Man Vol 1 42}}{{r|She-Hulk Vol 1 4}}
+
+===Man-Wolf===
+John Jameson was then sent on a secret mission to the Moon. While collecting lunar rock samples, he encountered a glittering red gemstone and decided to bring it along. Back on Earth, he talked with a colleague who worked in the quarantine center and arranged to accquire the unique [[Godstone|gemstone]]. He made it into a pendant and began wearing it around his neck. On the first night of a full moon after his return, the lunar luminescence reacted with the pendant and caused him to transform into a wolf-like humanoid creature, later called the Man-Wolf, and lose control over his actions.{{r|Amazing Spider-Man Vol 1 125}}
+
+[[File:John Jonah Jameson III (Earth-616) from Amazing Spider-Man Vol 1 125 001.jpg|right|thumb|200px|Jameson's first wolf form]]
+After regaining his senses, John realized he could not remove the pendant since it had somehow grafted itself to his skin, so, for the next few months, John would tranform into the Man-Wolf during the three nights of full moon. Soon, however, as the Man-Wolf attacked his own fiancée, [[Kristine Saunders (Earth-616)|Kristine Saunders]], and grappled with Spider-Man, the costumed crime fighter tore the pendant from Man-Wolf's throat and accidentaly hurt his throat, unaware it had attached itself. As Man-Wolf reverted to his human form, Spider-Man threw the pendant into the Hudson River.{{r|Amazing Spider-Man Vol 1 125}}{{r|Official Handbook of the Marvel Universe Vol 2 6}}
+
+With time, John made a full recovery, but was once again afflicted by the curse of the Man-Wolf when [[Michael Morbius (Earth-616)|Michael Morbius]] recovered the gemstone and exposed Jameson to it. Morbius was hoping to use him as his pawn in a scheme to cure himself of his vampiric affliction, but he was defeated by Spider-Man. Although, Morbius and the Man-Wolf both managed to escape.{{r|Giant-Size Super-Heroes Vol 1 1}}
+
+Jameson eventually found his way to Georgia, where he became involved in a skirmish between [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] and the original [[Hate-Monger (Earth-616)|Hate-Monger]]. S.H.I.E.L.D. Director [[Nicholas Fury (Earth-616)|Nick Fury]] then escorted Jameson to NASA headquarters, and they offered to drop changes against him if he agreed to assist on a secret mision. communications breakdown with an orbiting space station. Jameson accepted the deal and was sent to space again. He got to an orbiting space station and learned that the installation had been boarded by three extra-dimensional humanoids named [[Garth (Other Realm) (Earth-616)|Garth]], [[Lambert (Other Realm) (Earth-616)|Lambert]], and [[Gorjoon (Other Realm) (Earth-616)|Gorjoon]], who told him they had come from the gemstone's home dimension, so Jameson accompanied them the portal back to their dimension, on the Moon.{{r|Creatures on the Loose Vol 1 36|37}}
+
+Crash landing on the moon, Jameson, who'd been permanently transformed into the Man-Wolf due to the close proximity to the moon's rays, found the portal to "Other-Realm" and, to his amazement, he discovered that, in this dimension, he kept his human concious while transformed. As he learned that he had become the succesor of [[Stargod]], the former ruler of the "Other-Realm", Jameson helped free the denizens of that dimension from their would-be conqueror [[Arisen Tyrk (Earth-616)|Arisen Tyrk]]. Jameson then utilized the gem's full power to teleport him back to Earth.{{r|Marvel Premiere Vol 1 45|46}}
+
+Back home, Jameson found himself transforming into the savage Man-Wolf again and, with the gemstone's power having been expended in fulfilling its purpose, it was slowly turning into a malignant organism, sinking beneath the surface of his skin and poisoning him. To prevent the situation from getting worse, his father had John placed in cryogenic suspension, in hopes of slowing the process, however, an enemy of Jonah's, [[Spencer Smythe (Earth-616)|Spencer Smythe]], released John, hoping to hurt Jonah or his son. Man-Wolf disappeared, but, when he returned months later, Spider-Man enlisted the aid of Dr. [[Curtis Connors (Earth-616)|Curt Connors]] and the two gave John a radiation treatment that made the gemstone be rejected by his body, succesfuly freeing him from the curse.{{r|Peter Parker, The Spectacular Spider-Man Annual Vol 1 3}}
+
+===Avengers===
+John Jameson joined the support staff for the [[Avengers (Earth-616)|Avengers]], soon becoming [[Steven Rogers (Earth-616)|Captain America]]'s personal pilot, using the call-sign "Skywolf".{{r|Captain America #358}} During this time, he was temporarily transformed into Man-Wolf by [[Dredmund Cromwell (Earth-616)|Dredmund Druid]], who wanted the power of the Stargod.{{r|Captain America #406|408}} Jameson left Captain America's employ due to his attraction to Cap's then girlfriend, [[Rachel Leighton (Earth-616)|Diamondback]].{{citation}}
+
+===Ravencroft===
+Becoming aimless for a time, John considered becoming a costumed hero or private adventurer.{{r|Amazing Spider-Man Vol 1 375}}{{r|Amazing Spider-Man Annual #27}} He eventually assumed a position as chief of security for the [[Ravencroft Institute|Ravencroft Institute for the Criminally Insane]]. He worked closely with the director, [[Ashley Kafka (Earth-616)|Ashley Kafka]], and the two eventually began dating. John continued to be a pawn of Spider-Man's enemies as he was possessed by the [[Carnage (Symbiote) (Earth-616)|Carnage Symbiote]],{{r|Amazing Spider-Man Vol 1 410}} brainwashed by [[Maguire Beck (Earth-616)|Mad Jack]],{{r|Spectacular Spider-Man Vol 1 250}} and manipulated by [[Judas Traveller (Earth-616)|Judas Traveller]].{{r|Amazing Spider-Man Vol 1 403}} Both John and Ashley were fired by a director angry about the escape of the [[Dmitri Smerdyakov (Earth-616)|Chameleon]] and his subsequent wounding by the second [[Alexei Kravinoff (Earth-616)|Kraven the Hunter]].{{r|Spectacular Spider-Man Vol 1 246}} Via hypnotherapy, Kafka helped discover that Jack O'Lantern had caused him to attack his hospitalized father. This therapy also briefly unleashed John's Man-Wolf aspect before Ashley was able to help John suppress his changes once more.{{r|Spectacular Spider-Man Vol 1 247|249}}
+
+===Civil War===
+John helped Captain America while the latter was in hiding. He was also assisting [[Jennifer Walters (Earth-616)|She-Hulk]] in locating and signing up unregistered superheroes. John has also been registered as the Man-Wolf under the [[Superhuman Registration Act]]. During this time, the villain [[Vincent Stegron (Earth-616)|Stegron]] temporarily transformed him into the Man-Wolf again, as a side-effect of his latest mad scheme, to devolve the entire population of New York City. He attacked [[Mary Jane Watson (Earth-616)|Mary Jane]] and [[Maybelle Parker (Earth-616)|Aunt May]] in the Avengers Tower, but was subdued by [[Anthony Stark (Earth-616)|Tony Stark]]'s [[Guardsmen]] before he could harm them. [[Reed Richards (Earth-616)|Reed Richards]] subsequently cured him of this form.{{r|Sensational Spider-Man Vol 2 25|27}}
+
+===She-Hulk===
+John had been dating [[Jennifer Walters (Earth-616)| She-Hulk (Jennifer Walters)]] and the two had been living together for some time along with She-Hulk's co-worker, [[Augustus Pugliese (Earth-616)|Augustus Pugliese]]. Eventually they eloped in [[Las Vegas]].{{r|She-Hulk Vol 2 8|9}} However, John was forced into becoming the Man-Wolf once more after being injected by a mysterious substance courtesy of [[Alistaire Smythe (Earth-616)|Alistaire Smythe]].{{r|She-Hulk Vol 2 10}} After a brief rampage, John stopped fighting his situation after being rendered unconscious when he was shot in the chest with a silver bullet [[Matthew Hawk (Earth-616)|Two-Gun Kid]] who mistook him for a werewolf, and became the Stargod again to save himself. He retained his intelligence while in Man-Wolf form, had the Stargod's powers, and could switch between human and lupine forms at will.{{r|She-Hulk Vol 2 11}} She-Hulk and Stargod separated after she discovered that her feelings for John were influenced prior to their marriage by her former Avengers teammate, [[Eros (Earth-616)|Starfox]],{{r|She-Hulk Vol 2 13|14}} and when she learned that John had married She-Hulk in the hope of convincing her to return to being Jennifer Walters when he knew she did not want that. John also told her that he did not want to remain as Stargod because it rendered him arrogant and savage.{{r|She-Hulk Vol 2 20}} Dejected, John stayed as Stargod for a time and sought adventure in [[Other Realm]],{{r|She-Hulk Vol 2 14}} before finally returning to Earth.{{r|She-Hulk Vol 2 20}}
+
+He resumed his human form and tried to reconcile with Jennifer as she was unable to turn into She-Hulk at this time and he had given up the powers of Stargod. When Jennifer still rejected him, John realized their relationship was truly over and he signed the legal papers annulling their marriage.{{r|She-Hulk Vol 2 20}}
+
+===Revenge of the Spider-Slayer===
+When it came to John Jameson's next mission into space, [[Alistaire Smythe (Earth-616)|Alistaire Smythe]], [[MacDonald Gargan (Earth-616)|Scorpion]], and a new villain named [[Paula Crane (Earth-616)|Fly-Girl]] attacked the launch site with an army of cyborg minions (each one wanting revenge on J. Jonah Jameson) where they sabotaged the launch to hold John Jameson for ransom. John was eventually saved.{{r|Amazing Spider-Man Vol 1 652|654}}
+
+===Apogee 1===
+Soon after, John Jameson was attacked on the Apogee 1 Space Station by co-workers mind-controlled by [[Otto Octavius (Earth-616)|Doctor Octopus]], who wanted to take control of the station. With the help of Spider-Man and the [[Jonathan Storm (Earth-616)|Human Torch]], he was able to save the day and the station safely crashed into the ocean, its employees alive and well.{{r|Amazing Spider-Man Vol 1 680|681}}
+
+===Symbiote Task Force===
+John Jameson was later recruited by the FBI's [[Anti-Symbiote Task Force (Earth-616)|Symbiote Task Force]] as a specialist. Alongside them, he stopped [[Cletus Kasady (Earth-616)|Carnage]] from unleashing the [[Elder Gods]].{{r|Carnage Vol 2}} After [[Norman Osborn (Earth-616)|Norman Osborn]] lost the Carnage Symbiote, John oversaw him at Ravenloft, briefly allowing Spider-Man to visit his addled nemesis.{{r|Amazing Spider-Man Vol 1 800}}
+
+===Agent of Wakanda===
+John was later approached at an unknown point by Black Panther, or another messenger, to join the [[Agents of Wakanda (Earth-616)|Agents of Wakanda]]. He assisted [[Janet Van Dyne (Earth-616)|Wasp]] in protecting Morbius when they were attacked by [[Vampires]] in space.{{r|Avengers Vol 8 12}}
+
+===[[Absolute Carnage]]===
+Jameson was recruited into the [[Aberrant Crimes Division (Earth-616)|Aberant Crimes Division]] and sent to investigate strange goings-on in [[Doverton]], [[Colorado (State)|Colorado]]. Meeting with former sheriff [[Eric Morrell (Earth-616)|Eric Morrell]], Jameson learned that many of the people and animals that had been bonded to the Carnage symbiote when Cletus Kasady had attacked the town several years prior had had their spines torn out; and that a strange cult called the [[Cult of Knull (Earth-616)|Cult of Knull]] had taken over the old Last Chance church. Meeting with the cult's spokesperson [[Frances Barrison (Earth-616)|Sandra Deel]], Jameson resolved to get a warrant but awoke to find Morrell had been abducted. Arriving at the Church, Jameson saw the townspeople had been inducted into the cult and had Morrell bound in the center of the room. Sandra Deel revealed herself as the supervillain Shriek, accompanied by the [[Doppelganger (Spider-Man) (Earth-616)|Doppelganger]], and the leader of the cult unveiled himself to be Carnage, bonding Morrell to his [[Grendel (Symbiote) (Earth-616)|new symbiote]]. Jameson transformed into Man-Wolf, but the cultists revealed themselves to also be bonded to the symbiote and infected him with it.{{r|Web of Venom: Cult of Carnage Vol 1 1}}
+
+A few days later, Jameson awoke with amnesia to find Doverton in ruins and that [[Mercedes Knight (Earth-616)|Misty Knight]] had been sent to find him. Regaining his memories of what had happened, Jameson and Misty found that the cultists and populace of Doverton had been slaughtered by Carnage and his accomplices. Unknowingly infected by Carnage's symbiote, Jameson became a sleeper agent.{{r|Web of Venom: Cult of Carnage Vol 1 1}} While en-route back to New York, Jameson, who had been infected by Carnage, was activated and subdued Misty, imprisoning her in the depths of the [[Ravencroft Institute]]. When the time came, Jameson removed Misty's arm and sent her to be the meal of the newly resurrected to [[Demogoblin (Earth-616)|Demogoblin]], but Misty surprised everyone by remotely activating the new sonic beam function in her arm. This distraction allowed to pick up her arm and escape, but not before Demagoblin ripped the arm off, leaving her without her superpowers once more. Demagoblin and Jameson went after Misty and managed to find her, but Misty was able to make Jameson snap out of Carnage's control and turn on Demagoblin.{{r|Absolute Carnage: Lethal Protectors Vol 1 1|3}}
+
+===Return to Ravencroft===
+Jameson was able to get his old job as head of security back at Ravencroft Institute once it was rebuilt after Mayor [[Wilson Fisk (Earth-616)|Wilson Fisk]] was able to pull some strings.{{r|Ruins of Ravencroft: Carnage Vol 1 1}} While at Ravencroft, inmate [[Calvin Zabo (Earth-616)|Mister Hyde]] developed an unusual obsession with him and grabbed him while in his cell to get him to transform into Man-Wolf. Hyde was quickly subdued by staff member Misty Knight and taken to solitary.{{r|Ravencroft Vol 1 1}} When Mayor Fisk hired criminals to operate as Ravencroft staff members, Jameson confronted him, but Fisk was able to blackmail Jameson with video footage of him killing guards as Man-Wolf while under Carnage's control. Jameson then told Misty that due to the trauma of what he did under Carnage's control, he was too afraid to transform into Man-Wolf.{{r|Ravencroft Vol 1 2}}
+
+Ravencroft consultant Norman Osborn later freed Hyde and provided him with a shiv to kill Jameson, though Osborn's true goal was to get Jameson to transform into Man-Wolf,{{r|Ravencroft Vol 1 3}} which he eventually succeeded. A week later, Fisk appointed Jameson as the new warden of Ravencroft.{{r|Ravencroft Vol 1 5}}
+
+| Powers                  = '''Pseudo-Lycanthropy:''' As Man-Wolf, Jameson displayed the following abilities: 
+* '''Superhuman Strength:''' Man-Wolf possesses superhuman strength. At prime conditions during the three nights of the full moon, he could lift about 4 tons.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 6}}
+* '''Peak Human Speed:''' Man-Wolf's speed is at the peak of human potential, enabling him to sprint 35 mph.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 6}}
+* '''Superhuman Agility'''
+* '''Peak Human Stamina:''' Man-Wolf can physically exert himself for approximately half an hour before tiring.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 6}}
+* '''Peak Human Reflexes:''' Man-Wolf's reflexes were about twice as fast as a normal human.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 6}}
+* '''Superhuman Durability:''' Man-Wolf's musculature is so durable that he was able to survive great falls and concussive blows with minimal injury.{{citation}}
+* '''Regenerative Healing Factor:''' He is able to fully recover from gunshot wounds within a month.{{citation}}
+* '''Superhumanly Acute Senses:''' Man-Wolf possess the senses of a true wolf. He is able to see partially into the infrared range, enabling him to see in the dark. His hearing also enables him to track his quarry across any terrain.{{citation}}
+* '''Teeth and Claws:''' Man-Wolf's claws are hard and sharp enough to rend a variety of substances, such as wood, soft metals, and even cinder block.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 6}}
+* '''Self-Sustenance:''' In his werewolf form, John can survive in harsh environments such is the vacuum of space without air, sleep, food or water. He can also talk normally without using any device.{{r|Black Panther and the Agents of Wakanda Vol 1 4}}
+| Abilities               = John is a skilled pilot, experienced astronaut and has been trained in hand-to-hand combat by the US Air Force.{{citation}}
+| Strength                = John Jameson possesses the normal human strength of a man of his age, height, and weight who engages in [[Strength Scale#Above Average|intensive regular exercise]]. As Man-Wolf, his level of strength varied according to the amount of moonlight that filtered through Earth's atmosphere, at prime conditions during the three nights of the full moon, Man-Wolf could lift (press) about 4 tons.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 6}}
+
+| Weaknesses              = 
+
+| Equipment               = * [[Jupiter Suit]]
+* [[Godstone]]
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * Man-Wolf had no control over his transformations, assuming his lupine form for 12 hours for each of the three nights of the full moon.{{citation}}
+* Not a true supernatural werewolf,{{r|Amazing Spider-Man Vol 1 124}} Man-Wolf was not subject to the conventional limitations of lycanthropy, such as a weakness for silver.{{citation}}
+| Trivia                  = * Due to his pseudo-lycanthropy, John is immune to being turned into a vampire.{{r|Ravencroft Vol 1 4}}
+| Marvel                  = 
+| Wikipedia               = John Jameson (comics)
+| Links                   = * http://www.marvel.com/universe/Jameson%2C_John
+* [http://www.marveldirectory.com/xoops/modules/wordbook/entry.php?entryID=357 Marvel Directory]
+}}
+[[Category:Regeneration]]
+[[Category:Superhuman Agility]]
+[[Category:Superhuman Stamina]]
+[[Category:Powered by a Lifestone]]
+[[Category:Object-Based Powers]]
+[[Category:Jameson Family]]
+[[Category:Walters Family]]
+[[Category:Symbiotes-possessed]]
+[[Category:Superhuman Strength]]
+[[Category:Superhuman Speed]]
+[[Category:Superhuman Senses]]
+[[Category:Energy Senses]]
+[[Category:Astronauts]]
+[[Category:Ravencroft Institute Faculty]]
+[[Category:Pets]]

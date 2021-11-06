@@ -1,0 +1,49 @@
+{{Marvel Database:Character Template
+| Image                   = Ilse_Pterigil_(Earth-616)_from_Defenders_Vol_1_150_0002.jpg
+| Name                    = Ilse Pterigil
+| CurrentAlias            = Star-Thief
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = {{r|Official Handbook of the Marvel Universe A-Z #11}}
+| Gender                  = Female
+| Height                  = 4'8"
+| Weight                  = 87 lbs
+| Eyes                    = White
+| Hair                    = Black
+| UnusualSkinColor        = Yellow
+| UnusualFeatures         = 
+
+| Origin                  = [[Alien]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = Dreolln
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Princess
+| Education               = 
+| BaseOfOperations        = Dreolln
+
+| Creators                = Peter Gillis
+| First                   = Defenders #150
+
+| History                 = The [[Defenders (Earth-616)|Defenders]] encountered a being called the Star-Thief, who was responsible for making the stars disappear. The [[Henry McCoy (Earth-616)|Beast]] deduced that the reason the Star-Thief has only been stealing stars and not entire galaxies must be because he came from a planet in a large interstellar dust cloud, where other galaxies are not visible. Finding a planetary system in such a cloud, the Defenders and aliens headed there, but an interstellar fleet intercepted them. The Star-Thief appeared and tried to destroy the Defenders, but [[Cloud (Earth-616)|Cloud]] absorbed its star bolt and realized that it cannot use its full power because they are close to Star-Thief's home, where its real body was. Star-Thief fled, and Cloud was able to track its energy. The Defenders made their way through a major city to its largest building, where the planet's Queen resided. The Queen's daughter, the Princess, has been in a coma ever since she was struck in the eyes by a laser beam. The Defenders realized that the Princess was the Star-Thief, who has been subconsciously making the stars disappear because their light reminded her of the laser that blinded her and made her afraid.{{r|Defenders #150}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * http://www.marvunapp.com/Appendix/starthf2.htm
+}}

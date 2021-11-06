@@ -1,0 +1,56 @@
+{{Marvel Database:Race Template
+| Image                   = Ludberdites_from_Defenders_Strange_Heroes_Vol_1_1_0001.png
+| Name                    = Ludberdites
+| Aliases                 = 
+| Identity                = 
+| Affiliation             = 
+| Universe                = 
+| BaseOfOperations        = [[Zaar (Ludberdites)|Zaar]]
+
+| BodyType                = Semi-humanoid
+| AvgHeight               = 5'0"{{r|Defenders: Strange Heroes #1}}
+| AvgHeight2              = 
+| AvgWeight               = 140 lbs{{r|Defenders: Strange Heroes #1}}
+| AvgWeight2              = 
+| Eyes                    = 2
+| Hair                    = None
+| Skin                    = Red
+| NumberOfLimbs           = 4
+| NumberOfFingers         = 4
+| NumberOfToes            = 3
+| SpecialAdaptations      = Swift swimmers with undetermined enhanced strength
+| UnusualFeatures         = Fish-like features, scaled skin, yellow dorsal fins
+
+| Origin                  = Alien
+| GalaxyOfOrigin          = 
+| StarSystemOfOrigin      = 
+| HomePlanet              = [[Zaar (Ludberdites)|Zaar]]
+| PlaceOfBirth            = 
+| Creators                = Steve Gerber
+| First                   = Defenders #33
+| HistoryText             = The Ludberdites were a race of scientific philosophers from the planet [[Zaar (Ludberdites)|Zaar]] who felt that they were a superior race in the universe and, as such, owed it to other races to bring them enlightenment.
+
+After his encounter with the [[Defenders (Earth-616)|Defenders]], [[Nebulon (Earth-616)|Nebulon]] found himself and the [[Squadron Sinister (Earth-616)|Squadron Sinister]] transported to Zaar, the home of the Ludberdites. Nebulon used the technology of that world to send the Squadron Sinister back to Earth, though he chose to stay behind to learn more of the Ludberdites philosophy.{{r|Giant-Size Defenders #4}} Nebulon took a strong interest in the Ludberdites' ideas and decided to make it his mission to "enlighten" the people of Earth.{{r|Defenders #34}} He, along with the Ludberdites, kidnapped a sample of Earth's population and controlled their minds, offering a type of peace to the people of Earth.{{r|Defenders #33}}
+
+After this initial success, Nebulon and the Ludberdites started the Celesital Mind Control Movement, offering people the chance to reach their true potential.{{r|Defenders #34}} The group attracted worldwide attention with an especially large following in France. Nebulon was opposed by the Defenders and [[Stephen Strange (Earth-616)|Doctor Strange]] forced Nebulon to experience much of the history of humankind, after which he decided that humankind was beyond redemption and he and the Ludberdites departed from Earth.{{r|Defenders Annual #1}}
+
+| Habitat                 = 
+| Gravity                 = 
+| Atmosphere              = 
+| Population              = 
+
+| Powers                  = 
+| Abilities               = 
+| AvgStrength             = 
+| Weaknesses              = 
+
+| GovernmentType          = 
+| TechnologyLevel         = 
+| CulturalTraits          = A race of scientific-philosophers
+| Representatives         = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = * [http://www.marvunapp.com/Appendix4/ludberditesdef.htm Ludberdites at the Marvel Appendix]
+}}
+[[Category:Aquatic Races]]

@@ -1,0 +1,62 @@
+{{Marvel Database:Character Template
+| Image                   = Lorelei Travis (Earth-616) from District X Vol 1 1 0001.jpg
+| Name                    = Lorelei Travis
+| CurrentAlias            = Lorelei
+| Aliases                 = 
+
+| Affiliation             = Formerly {{m|198}}, [[Wildkat Klub]] ({{m|Kaufman Enterprises}})
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 5'11"
+| Weight                  = 65 kg
+| Eyes                    = Green
+| Hair                    = Pink
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Former exotic dancer
+| Education               = 
+| BaseOfOperations        = Formerly [[Utopia]], [[San Francisco Bay]]; [[San Francisco]], [[California (State)|California]]; [[Xavier Institute]], [[Westchester County]], [[New York (State)|New York]]; Wildkat Klub, [[Mutant Town]], [[New York City]]
+
+| Creators                = David Hine; David Yardin
+| First                   = District X #1
+
+| History                 = 
+===[[Mutant Town]]===
+Lorelei Travis was a mutant with prehensile hair. She was an exotic dancer at mob leader [[Daniel Kaufman (Earth-616)|Daniel Kaufman]]'s [[Wildkat Klub]] in the district of New York City commonly referred to as [[Mutant Town]]. Constantly exposed to the harassment of rivaling mutant gangs, bigoted humans, and capricious members of the police, Lorelei Travis nonetheless managed to become one of the Wildkat Klub's household names through the artistic use of her genetic mutation. During an investigation into Kaufman's businesses by Special Agent [[Lucas Bishop (Earth-1191)|Bishop]] and Detective [[Ismael Ortega (Earth-616)|Ismael Ortega]], Lorelei survived a bombing of the Wildkat Klub perpetrated by Kaufman's enemies, sustaining minor injuries.{{r|District X #5}}
+
+===[[M-Day]], [[Decimation]], the [[198]]===
+Lorelei was one of the few mutants to retain her powers after the effects of [[Decimation|M-Day]]. A group of militant [[Purity (Earth-616)|Purity]] members cut all of her hair out. Unlikely help came in the form of [[Mortimer Toynbee (Earth-616)|Toad]] who, after saving her, escorted her to the [[Xavier's School for Gifted Youngsters|Xavier Institute]] to join the other members remaining mutants. Her hair was restored by the healing powers of [[Absolon Mercator (Earth-616)|Mister M]], who she started a relationship with not long after. Lorelei was present at Mister M's death.{{r|X-Men: The 198 #5}}
+
+===Utopia===
+During San Francisco riots, [[Julian Keller (Earth-616)|Hellion]], Lorelei, [[Jeremiah Muldoon (Earth-616)|Jeremiah Muldoon]], [[Roberto Da Costa (Earth-616)|Sunspot]], [[Adam Neramani (Earth-616)|Adam X]], [[Ben Hammil (Earth-616)|Match]], and [[Dominikos Ioannis Petrakis (Earth-616)|Avalanche]] met in Avalanche's bar and chose to oppose the [[H.A.M.M.E.R. (Earth-616)|H.A.M.M.E.R.]] curfew.{{r|Uncanny X-Men #513}} They were all stopped and jailed by the [[X-Men (Osborn) (Earth-616)|Dark X-Men]] and H.A.M.M.E.R agents.{{r|Dark Avengers #7}}
+
+| Powers                  = '''Hair Manipulation''': Lorelei has prehensile hair, which gives her mental control over it. Her hair is especially lengthy and tends to be quite animated. Lorelei will generally use her power for more creative pursuit, as it seems impractical for anything more confrontational, since it doesn't seem to be especially durable. She can also cause it to grow at a highly accelerated rate.
+
+She was deemed a [[:Category:Low Threats|Low Threat]] by the [[Office of National Emergency (Earth-616)|O*N*E]].{{r|X-Men: The 198 Files #1}}
+| Abilities               = 
+| Strength                = Human
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Trichokinesis]]
+[[Category:Utopians]]
+[[Category:Post-M-Day Mutants (The 198)]]
+[[Category:Low Threats]]

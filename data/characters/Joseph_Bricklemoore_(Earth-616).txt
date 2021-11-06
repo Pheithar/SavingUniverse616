@@ -1,0 +1,58 @@
+{{Marvel Database:Character Template
+| Image                   = Joseph Bricklemoore (Earth-616) 001.png
+| Name                    = Joseph Bricklemoore
+| CurrentAlias            = Tri-Joey
+| Aliases                 = 
+
+| Affiliation             = Formerly {{M|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}} {{m|S.H.I.E.L.D. Mutant Task Force|Mutant Task Force}}, [[Xavier Institute student body#Jean Grey School students|Jean Grey School student body]] (undercover)
+| Relatives               = [[Josephine Bricklemoore (Earth-616)|Josephine Bricklemoore]] (twin sister)
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Black
+| UnusualFeatures         = Six arms, six legs, three faces
+| UnusualSkinColor        = Grey
+
+| Origin                  = [[MGH]] user
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Undercover agent posing as a student
+| Education               = [[Xavier's School for Gifted Youngsters|Jean Grey School for Higher Learning]]
+| BaseOfOperations  = 
+
+| Creators                = Jason Aaron; Pepe Larraz
+| First                   = Wolverine and the X-Men #38
+
+| History                 = Joseph and his twin sister [[Josephine Bricklemoore (Earth-616)|Josephine]] infiltrated the [[Xavier's School for Gifted Youngsters|Jean Grey School]] on behalf of [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] They used [[Mutant Growth Hormone|MGH]] injections to simulate mutant abilities. Joey actually enjoyed the eclectic studies and atmosphere, but Josephine was disgust by the mutant activities she saw. In the end, the Institute students mind wiped Joey and Josie to stop them from reporting back anything potentially incriminating to S.H.I.E.L.D.
+
+| Powers                  = Under the use of MGH, Joey demonstrated the follow abilites:
+* '''Multiple Arms'''
+* '''Multiple Legs'''
+* '''Multiple Faces'''
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Jean Grey School students]]
+[[Category:Multiple Arms]]
+[[Category:Multiple Legs]]
+[[Category:Multiple Heads]]
+[[Category:Multiple Eyes]]
+[[Category:MGH Users]]

@@ -1,0 +1,55 @@
+{{Marvel Database:Character Template
+| Image                   = Krassno Granitsky (Earth-616) from Maverick Vol 2 12 001.jpg
+| Name                    = Krassno Granitsky
+| CurrentAlias            = Red Guardian 
+| Aliases                 = 
+
+| Affiliation             = {{M|Winter Guard (Earth-616)|Winter Guard}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Red
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = Russian
+| Occupation              = Adventurer
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Jorge Gonzales; Leandro Fernández
+| First                   = Maverick Vol 2 10
+| Death                    = Captain America Vol 5 1
+
+| History                 = Krassno Granitsky became the fifth Red Guardian after [[Josef Petkus (Earth-616)|Josef Petkus]] gave up the identity in favor of the identity of Steel Guardian.
+
+Granitsky worked with [[Christoph Nord (Earth-616)|Maverick]] to battle [[Ivan Pushkin]].{{r|Maverick Vol 2 10}}
+
+He was later captured and executed by [[Aleksander Lukin (Earth-616)|Aleksander Lukin]].{{r|Captain America Vol 5 1}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+* Krassno Granitsky was the Russian name of Irish-born assassin [https://jamesbond.fandom.com/wiki/Red_Grant_(Literary) Red Grant] in Ian Fleming's 1957 [[James Bond]] novel ''From Russia, with Love''.
+| Marvel                  = 
+| Wikipedia               = Red_Guardian#Krassno_Granitsky
+| Links                   = 
+}}

@@ -1,0 +1,68 @@
+{{Marvel Database:Character Template
+| Image                   = Garabed Bashur (Earth-616) from Deadpool Vol 4 57.JPG 
+| Name                    = [[Garabed Bashur|Garabed "Gareb" Bashur]]
+| CurrentAlias            = [[Black Box]]
+| Aliases                 = [[Commcast]],{{r|Deadpool: The Circle Chase #3}} [[Gareb Bashur]]
+
+| Affiliation             = {{m|Executive Elite (Earth-616)|Executive Elite}}, {{M|Think Links (Earth-616)|Think Links}} 
+| Relatives               = Unidentified father;<br>Unnamed mother;<br>Two unnamed sisters;<br>Unnamed wife<br/>[[Manisha Bashur (Earth-616)|Manisha Bashur]] (daughter){{r|Women of Marvel Vol 2 1}}
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #1}}
+| Gender                  = Male
+| Height                  = 6'1"
+| Weight                  = 169 lbs
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[New Delhi]], [[India]]
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = Indian
+| Occupation              = Information broker; former mercenary 
+| Education               = 
+| BaseOfOperations        = Formerly [[Providence (Island)|Providence]]; [[India]]
+
+| Creators                = Fabian Nicieza; Joe Madureira
+| First                   = Deadpool: The Circle Chase Vol 1 2
+| Death                   = 
+
+| History                 = [[Image:Garabed Bashur (Earth-616) from All-New Official Handbook of the Marvel Universe A to Z Vol 1 2 0001.jpg|thumb|left|200px|Garabed Bashur]]Garabed Bashur, a native of [[India]], possessed the mutant ability to psychically retrieve, interpret, and store data from any form of electronic media (essentially a highly potent electronic form of telepathy) which manifested when he was thirteen. He was trained in this ability by [[Charles Xavier (Earth-616)|Professor Charles Xavier]] until Xavier rejected Bashur upon learning of his self-interested tendencies.{{r|Cable & Deadpool #23}}
+
+Bashur used the knowledge gathered by his power to amass a small fortune and became the leader of a small mercenary outfit, the [[Executive Elite (Earth-616)|Executive Elite]], under the alias of Commcast. The mercenary [[Wade Wilson (Earth-616)|Deadpool]] was hired to kill the Executive Elite, and although he was apparently successful, Bashur actually survived, a clone having been killed in his place.{{r|Deadpool: The Circle Chase #3}}
+
+Some time later, Professor X contemplated using Bashur to restore data that had been lost from his files when the [[Xavier's School for Gifted Youngsters|X-Mansion]]'s systems were compromised by the [[Phalanx (Race)|Phalanx]], although it is unknown if Bashur ever actually assisted Xavier. He later helped a target of one of [[Victor Creed (Earth-616)|Sabretooth]]'s murder sprees find someone who could protect him; in this case, that someone was [[Christoph Nord (Earth-616)|Maverick]].{{r|X-Men Unlimited #3}}
+
+[[Image:Garabed Bashur (Earth-616) from Deadpool The Circle Chase Vol 1 3 0001.jpg|thumb|left|200px|Commcast]]When his clone vats developed a problem preventing him from making additional clones of himself, Bashur created the Black Box identity, using robotic armor to protect himself during direct engagements. He became an information broker, selling information to the highest bidder. As Black Box, he crossed paths with Deadpool and attempted to brainwash him to kill his sometime ally [[Nathaniel Summers (Earth-616)|Cable]].{{r|Cable & Deadpool #13|15}}
+
+Black Box eventually joined forces with Cable, Deadpool, [[B.A.D. Girls, Inc. (Earth-616)|BAD Girls, Inc.]], [[Shen Kuei (Earth-616)|the Cat]], and [[Jack Hammer (Earth-616)|Weasel]] to search for the mysterious Dominus Objective, a computer virus which would help Bashur sort through the massive amounts of data that his power let him access. 
+
+After Weasel released the Objective into the [[Rand Corporation (Earth-616)|Rand Corporation]]'s computer system, Rand CEO [[Daniel Rand (Earth-616)|Daniel Rand]] and his sometime partner [[Luke Cage (Earth-616)|Luke Cage]] fought Cable and Deadpool. Eventually Cable and Deadpool tracked Bashur down, but after a fight involving hundreds of clones of [[Amie Zamborano (Earth-616)|Makeshift]] and [[Anastasia Summit (Earth-616)|Rive]], Bashur was eventually convinced to start working with Cable.{{r|Cable & Deadpool #20|23}}
+
+He was thought killed by [[Victor Creed (Earth-616)|Sabretooth]] during the destruction of [[Providence (Island)|Providence]] but somehow survived, albeit confined to special equipment, possibly to keep him alive. He hired [[Anthony Masters (Earth-616)|Taskmaster]] to retrieve data on Deadpool in order to take revenge on the Merc with a Mouth.{{r|Cable & Deadpool Vol 1 41}}{{r|Deadpool Vol 4 57|60}}
+
+| Powers                  = '''Electronic Telepathy''': Bashur can actively receive and store all forms of electronic data and transmissions in his mind. His power works passively, in a manner that does not interfere with the transmission of any data he might intercept. He can receive electronic signals over a great distance - even isolating himself in a rural area did not completely shut out the information.{{r|Cable & Deadpool #23}} Charles Xavier theorized that Bashur also functioned as a "universal back-up" for electronic information, able to not only sense electronic information being transmitted in the present, but retrieve lost information that had been transmitted in the past yet had been lost from its original source.{{r|X-Men Vol 2 #38}}
+
+| Abilities               = * '''Super-Genius Intelligence:''' Bashur has an infinite storage capacity in his mind, containing every piece of information he has been exposed to. Unfortunately, this data is streamed into his mind far faster than he can accurately scan it all consciously. Though the information is present in his mind, it takes a combination of meditation, effort, and sheer willpower for Bashur to locate and extract specific bits of information on command.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = * '''Exobody''': Protective armor with the ability to store large amounts of data as well as Bashur's consciousness. 
+* '''Dominus Objective''': The Dominus Objective was a viral router program acquired by Black Box to improve his abilities. It could be installed into any hard drive or computer system, allowing the Objective's true owner to remotely access that system's data without alerting said system. Bashur did not need the Objective to access information, but it also had a secondary function of filtering and prioritizing the information it accessed, which was highly useful for Bashur in focusing his talent on finding specific pieces of information in the Infonet.{{r|Cable & Deadpool #23}}
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = First appeared as Black Box in {{cl|Cable & Deadpool #13}}.
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Post-M-Day Mutants (The 198)]]
+[[Category:Technopaths]]
+[[Category:Severe Threats]]
+[[Category:Mutant Intelligence]]

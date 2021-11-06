@@ -1,0 +1,58 @@
+{{Marvel Database:Character Template
+| Image                   = Giuletta Nefaria (3rd Bio-Duplicate) (Earth-616) from Avengers Vol 1 393 0001.jpg
+| Name                    = [[Giuletta Nefaria]]
+| CurrentAlias            = [[Masque]]
+| Aliases                 = [[Bethany Cabe]],{{r|Iron Man #323}} [[Marianne Rodgers]],{{r|Iron Man #323}} [[Whitney Frost]]
+
+| Affiliation             = Formerly {{m|Avengers}}
+| Relatives               = [[Giuletta Nefaria (Earth-616)|Giuletta Nefaria]] (genetic template)
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 5'9"
+| Weight                  = 139 lbs
+| Eyes                    = Grey
+| Eyes2                   = (Variable)
+| Hair                    = Black
+| Hair2                   = (Variable)
+| UnusualFeatures         = 
+
+| Origin                  = [[Glossary:Clone|Clone]] of [[Giuletta Nefaria (Earth-616)|Madame Masque]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+| KilledBy                = Luchino Nefaria (Earth-616)
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = Mobile
+
+| Creators                = Terry Kavanagh; Heitor Oliveira; Adriana Melo
+| First                   = Iron Man Vol 1 320
+| Death                   = Avengers Vol 3 34
+
+| History                 = Masque was one in a series of bio-duplicates created by the agoraphobic [[Giuletta Nefaria (Earth-616)|Whitney Frost / Madame Masque]]. Too paranoid to leave her protective bunker, Madame Masque employed these "Masques" imprinted with her memories, personality, and appearance to act as her avatars out in the real world and among the Maggia family she ruled. However, this particular Masque escaped from Nefaria's bunker before the imprinting process was completed. She had only a partial copy of Whitney's memories and retained her sense of independence.{{r|Avengers Vol 3 #32|33}}
+
+Masque gravitated towards Tony Stark and Iron Man, becoming an associate of the [[Avengers (Earth-616)|Avengers]] during the [[Crossing]].{{r|Iron Man #320}}{{r|Avengers #395}} However, she was eventually sought out and recaptured by Madame Masque's agent, Benedict.{{r|Avengers #399}}
+
+During the Nefaria Protocols, Masque escaped from the bunker and attempted to use the "ionic lock" weapon against [[Luchino Nefaria (Earth-616)|Count Nefaria]]. The count mercilessly struck her down and killed her without realizing she wasn't his true daughter. This act of betrayal emboldened the original Madame Masque to strike out against her father.{{r|Avengers Vol 3 #34}}
+
+| Powers                  = * '''Empathic Bio-Duplication:''' 
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Clones of Giuletta Nefaria]]
+[[Category:Honorary Avengers]]

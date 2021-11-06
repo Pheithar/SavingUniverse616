@@ -1,0 +1,180 @@
+{{Marvel Database:Character Template
+| Image                   = Forge (Earth-616) from X-Force Vol 6 5 cover 001.jpg
+| Name                    = Unknown
+| Name2                   = {{r|All-New Official Handbook of the Marvel Universe A to Z #4}}
+| CurrentAlias            = Forge
+| Aliases                 = [[Maker]],{{r|Uncanny X-Men Vol 1 186}} Skitch{{r|Cable and X-Force #1}}
+
+| Affiliation             = Formerly {{m|X-Men (Earth-616)|X-Men}}, {{m|X-Force (Earth-616)|X-Force}}, {{m|X-Factor (Government) (Earth-616)|X-Factor}}, {{m|Muir Island X-Men (Earth-616)|Muir Island X-Men}}, {{m|Defense Advanced Research Projects Agency (Earth-616)|DARPA}},{{r|Astonishing X-Men Vol 3 29}} {{M|New Mutants (Forge) (Earth-616)|"New Mutants"}} (creator and leader), {{m|Stark Industries (Earth-616)|Stark Industries}}{{r|Fury #1}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #4}}
+| Gender                  = Male
+| Height                  = 6'0"
+| Weight                  = 179 lbs
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = Bionic right leg and hand.
+
+| Origin                  = [[Homo superior|Mutant]] [[Cyborgs|Cyborg]]; tribal shaman
+| Reality                 = Earth-616
+| PlaceOfBirth            = Unrevealed, presumably in the American West
+| PlaceOfDeath            = 
+
+| Identity                = Public
+| Citizenship             = Cheyenne, American, Krakoan
+| Occupation              = Cheyenne Shaman, magician, inventor, adventurer; former soldier, prison warden
+| Education               = 
+| BaseOfOperations        = [[Krakoa (Earth-616)|Krakoa]], [[Pacific Ocean]]; formerly [[Danger Room|Danger Room Prison Complex]], [[Age of X-Man (Plane)|Age of X-Man]]; [[Xavier's School for Gifted Youngsters|Xavier Institute for Mutant Education and Outreach]], [[Central Park]], [[Manhattan]], [[New York City]], [[New York]]; [[New Tian]], [[California (State)|California]]; [[Xavier's School for Gifted Youngsters|Jean Grey School for Higher Learning]], [[X-Haven]], [[Limbo (Demonic)|Limbo]] (formerly [[Salem Center]], [[North Salem]], [[Westchester County]], [[New York (State)|New York]]); [[Eagle Plaza]], [[Dallas]], [[Texas (State)|Texas]]; [[X-Factor (Government) (Earth-616)|X-Factor]] HQ, Embassy Row, [[Washington, D.C.]]
+
+| Creators                = Chris Claremont; John Romita Jr.
+| First                   = Uncanny X-Men Vol 1 184
+| First2                  = (Full)<br>{{sld|Uncanny X-Men Vol 1 183}}(Mention)
+
+| Quotation               = My power is in my mind. Deep inside. That is where I live. That is where '''I''' get to be a super hero... They don't understand what they don't see... But I see. I see it all. I see things before they are real. It always starts with a problem. An impractical, unattainable, unworkable problem that '''needs''' to be solved. Then... I solve it. I work it. I attain it. I move and shift and reshape. Make something out of nothing. I prepare my unfeasible solutions for birth. And when they've incubated and grown and developed, I bring them into the world. I am a midwife of the impossible. I am Forge. I make the impossible real.
+| Speaker                 = [[Forge (Earth-616)|Forge]]
+| QuoteSource             = Extraordinary X-Men Vol 1 18
+
+| History                 = 
+===Early Years===
+The man known as '''Forge''' was a [[Cheyenne People|Cheyenne Indian]], once the pupil of [[Naze (Earth-616)|Naze]], a shaman in his tribe. Forge developed considerable mystical powers as a result of the training Naze gave him and was also a [[Homo Superior|mutant]] with an unusual talent for inventing mechanical devices. Forge has explained that he was an intuitive genius and it was as natural as breathing for him.{{r|Uncanny X-Men #186}}
+
+Forge served in the [[Vietnam War]] and lost his right hand and right leg in a B-52 attack. During the war, Forge, using the souls of nine dead comrades, had opened a portal that released the [[Adversary (Earth-616)|Adversary]] to win a battle. Forge sank into a suicidal depression and tried to kill himself. Forge designed an artificial hand and leg to replace those that he had lost and, for reasons connected with the war that has not yet been made clear, Forge decided to give up the use of his ability to wield [[Glossary:M#Magic|magic]]. For the most part, Forge did not use his mystical abilities for at least ten years.{{r|Uncanny X-Men #227}}
+
+[[File:Forge (Earth-616) from X-Men Vol 2 5 001.jpg|left|thumb|Forge]]
+Forge concentrated instead on his career as an inventor, and when [[Anthony Stark (Earth-616)|Tony Stark]] ceased making advanced weaponry for the federal government, the Defense Department began commissioning new weaponry from Forge. The government commissioned Forge to devise a means of detecting and combating the shape-changing [[glossary:A#Alien|alien]] [[Dire Wraiths]].{{r|Uncanny X-Men #184}}
+
+Forge created a scanner device that could detect the presence of superhumanly powerful mutants and extraterrestrials in its wielder's vicinity and could even specifically differentiate between Dire Wraiths and other aliens. Forge also created a neutralizer device that could theoretically deprive any superhumanly powerful being the ability to use his or her superhuman abilities.{{r|Uncanny X-Men #184}}
+
+On presidential orders, [[Henry Gyrich (Earth-616)|Henry Gyrich]], an agent of the National Security Council, took possession of the only existing model of Forge's neutralizer in order to use it against [[Rogue (Anna Marie) (Earth-616)|Rogue]], a member of the mutant [[X-Men (Earth-616)|X-Men]] who was falsely suspected of killing an agent of the intelligence organization [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]].
+
+Forge was outraged, as the neutralizer was still untested and he did not know if it would remove a target's superhuman powers temporarily, permanently, or possibly even kill him or her. Forge physically attempted to prevent Gyrich from using the device on Rogue, but Gyrich instead shot Rogue's fellow X-Man [[Ororo Munroe (Earth-616)|Storm]] with it, as she attempted to protect her colleague. With her superhuman powers apparently entirely removed, Storm fell into a river, from which Forge rescued her.{{r|Uncanny X-Men #185}}
+
+===Relationship With Storm===
+Feeling guilt and responsibility for the loss of her powers, Forge brought Storm to his [[Eagle Plaza]] in [[Dallas]], [[Texas (State)|Texas]]. There Storm revived and she and Forge grew strongly attached to each other. However, when Storm learned that Forge had designed the neutralizer gun that had deprived her of her powers, she felt betrayed and furious at Forge.{{r|Uncanny X-Men #186}} 
+
+===Dire Wraiths===
+Storm left his building but returned on learning Forge was in danger from the Dire Wraiths. The Wraiths were aware that Forge's neutralizer could not, in its present stage of development, harm them and intended to kill him before he could improve it.{{r|Uncanny X-Men #187}}
+
+Together, Naze, [[Illyana Rasputina (Earth-616)|Magik]], and [[Jimaine Szardos (Earth-616)|Amanda Sefton]] joined with Forge, Storm, and the X-Men in defeating the Wraiths who came after Forge, but Storm's hatred of Forge persisted. Naze faked his demise at the barbed tongue of a Dire Wraith, letting it assume his identity, and then fell under the mental control of the Adversary, sparing Naze from this fate. Forge longed for Storm, going so far as to create holograms of her in his [[Eagle Plaza]].{{r|Uncanny X-Men #187}}
+
+Forge further improved his neutralizer so that it would negate the Wraiths' mystical abilities, and created several of these improved devices, but he was still guilt-ridden over Storm's loss of her powers. Fearing that people would use his neutralizers against other superhuman Earth beings, Forge did not want to give them the devices even for use against the Dire Wraiths. After joining forces with the Wraiths' greatest foe, the space knight [[Rom (Earth-616)|Rom]], to battle Wraiths in Dallas, Forge decided to construct a gigantic "neo-neutralizer" in Earth's orbit. Powered by Rom's own neutralizer, Forge's orbiting device could cast all the Dire Wraiths on Earth into other-dimensional [[Limbo (Temporal)|Limbo]].
+
+Gyrich intended to use the neo-neutralizer to eliminate the superhuman powers of every being on Earth. To thwart Gyrich's plan, Forge and ROM aimed the neo-neutralizer, not at Earth, but at the Wraith's homeworld, [[Wraithworld]], which was approaching Earth through hyperspace. The device negated Wraithworld's magic, the source of the Wraiths' own mystical powers; therefore, causing Wraithworld to cease to exist and depriving Wraiths throughout the universe of their mystical abilities. Thus, Forge was responsible for saving Earth from the Dire Wraiths.{{r|Rom #65}}
+
+Forge ensured that the neo-neutralizer could not be used against Earth's superhuman beings and destroyed all known specimens of the neutralizer. One neutralizer was used by Tony Stark to depower the superhuman criminal, known as the [[Neil Donaldson (Earth-616)|Termite]], and was subsequently destroyed.{{r|Iron Man #190}}
+
+===Fall of the Mutants===
+Forge was next seen atop a mountain, seemingly opening a dimensional portal filled with demons. Storm, who had been manipulated by the Adversary in Naze's guise, stabbed Forge in the chest and, only then, realized he had been attempting to close the portal, not open it.{{r|Uncanny X-Men #224}} The Adversary then trapped Forge and Storm in the other dimension and seized control of Dallas, warping time and space in order to foment chaos on Earth. Forge and [[Ororo Munroe (Earth-616)|Ororo Munroe]] spent a year on an alternate Earth, during which time they made peace and admitted their love for one another.{{r|Uncanny X-Men #225}}
+
+After a fight, Ororo left and, upon returning, Forge used components from his cybernetic leg to fashion a new device that restored Storm's ability to use her powers, which she then used to energize a portal back to their own world. Forge and Storm rejoined the X-Men and were captured in the Omniversal Guardian [[Roma (Otherworld)|Roma's]] [[Starlight Citadel]], that the Adversary had taken over. Forge was forced to use his mystical abilities again to banish the Adversary, using the souls of eight X-Men and [[Madelyne Pryor (Earth-616)|Madelyne Pryor-Summers]]. However, Roma restored the X-Men to life and freed the Adversary under the notion that there could be no order without chaos.{{r|Uncanny X-Men #227}}
+
+===Magik's Revenge===
+Forge was later sought out by one of the X-Men's younger siblings, Magik, in her Darkchylde form seeking revenge for her slain brother. After a lengthy battle, Darkchylde teleported Forge to her dimension, [[Limbo (Demonic)|Limbo]], where she was more powerful and Forge eventually decided that he was no better than her as a youth and gave up. After being stabbed by Darkchylde's [[Soulsword]] and influenced by the [[New Mutants (Earth-616)|New Mutants]], Darkchylde understood how evil she was becoming and withdrew her attack, returning Forge to Dallas and restoring his health.{{r|New Mutants #65}}
+
+===Mystique===
+Forge returned with the X-Men to completely restore their mansion to their previous level of technology.{{r|X-Men Vol 2 #1}} Forge proposed to Storm, but when she would not leave the X-Men for him, he retracted his offer.{{r|Uncanny X-Men #290}} He returned to Dallas with [[Raven Darkholme (Earth-616)|Mystique]], taking it upon himself (and fulfilling [[Irene Adler (Earth-616)|Destiny]]'s dying prophecy) to rehabilitate her as she was suffering from psychological damage after having been possessed by the [[Shadow King (Multiverse)|Shadow King]]. Forge and Mystique were attacked by the time-hopping mutant [[Trevor Fitzroy (Earth-1191)|Trevor Fitzroy]] and were rescued by the X-Men. Mystique left Forge soon afterward, claiming her sufferings were a ruse to enable her to steal sensitive information from Forge's computers.{{r|Uncanny X-Men #301}}{{r|X-Men Unlimited #4}}
+
+===X-Factor===
+Forge was then contacted by [[Valerie Cooper (Earth-616)|Valerie Cooper]] to become the government liaison to a new version of the mutant team [[X-Factor (Government) (Earth-616)|X-Factor]], modeled after the defunct government-sanctioned [[Freedom Force (Earth-616)|Freedom Force]].{{r|X-Factor #95}} Forge soon became an active member of the team, participating on many missions and supplying the team with its technology. During this time, he was reunited with Mystique and also fixed a holographic module that contained the mutant law enforcer from the future, [[Shard Bishop (Earth-1191)|Shard]].{{r|X-Factor #112}}{{r|X-Factor #119}}
+
+When team leader [[Alexander Summers (Earth-616)|Havok]] was MIA, Forge took his place. He later reclaimed his mystical heritage in another confrontation with the [[Adversary (Earth-616)|Adversary]] team, defeating him by using both his technological and magical abilities.{{r|X-Factor #121}}
+
+Later still, Forge divorced X-Factor from government sanction in order to take the team underground. Soon after, however, the team was nearly destroyed by the rampaging of its member [[Victor Creed (Earth-616)|Sabretooth]] and Forge quit the team, returning leadership to Havok.{{r|X-Factor #136}}
+
+===Genosha===
+[[File:Forge (Earth-616) from Uncanny X-Force Vol 2 16.jpg|thumb|left]]
+After a time, Forge was contacted by [[Charles Xavier (Earth-616)|Professor X]] to infiltrate [[Genosha]] with [[James Madrox (Earth-616)|Multiple Man]], since [[Max Eisenhardt (Earth-616)|Magneto]] had seized control over the country. In reality, Magneto's acolyte [[Bennet du Paris (Earth-616)|Exodus]] was posing as Magneto, and he captured Forge to force him to enhance his psionic powers. The X-Men rescued Forge, and he returned to his clandestine mission observing Genosha.{{r|Uncanny X-Men Annual #1999}} With the apparent demise of Magneto and the freedom of Genosha, Forge returned to the X-Men where he acted as a member of the team's support crew.{{r|X-Men Vol 2 #103}}
+
+===Allying With Mystique===
+Retiring from the X-Men to create a new high-tech headquarters in [[Baltimore]], Forge was contacted by Professor X once again. He needed Mystique’s help in order to track the murderer of one of his secret mutant operatives. They rescued Mystique from her sentence of state execution, setting her up as one of Professor X’s underground agents. Forge became her support technician, supplying her with technology and weapons, despite their rocky relationship and Forge’s continued feelings for her.{{r|Mystique #2}}
+
+===Nimrod===
+Forge also helped [[Samuel Guthrie (Earth-616)|Cannonball]] and [[Theresa Cassidy (Earth-616)|Siryn]] find [[Nathaniel Summers (Earth-616)|Cable]] with the aid of [[Wade Wilson (Earth-616)|Deadpool]].{{r|Cable & Deadpool #14}} Forge built a pair of special gauntlets for New X-Men team member [[Noriko Ashida (Earth-616)|Surge]]. Forge began working on a [[Nimrod (Earth-811)|Nimrod]] unit with the primary objective of protecting mutants and secondary objective of protecting humans. It seemed that Nimrod was trying to stop the objectives from being downloaded.{{r|New X-Men Vol 2 #32}}
+
+===Messiah Complex===
+After Forge sent [[James Madrox (Earth-616)|Madrox]] and [[Layla Miller (Earth-616)|Layla]] to the future, he went on a mission at [[Scott Summers (Earth-616)|Cyclops]]' behest to rendezvous with the other X-Men, who were on their way to confront Sinister's forces. He was shot by [[Lucas Bishop (Earth-1191)|Bishop]] during the latter's mad quest to murder the first mutant child following [[Decimation|M-Day]].{{r|X-Men Vol 2 #206}}
+
+===Trauma===
+Forge began to behave differently after Bishop attacked him, suffering an array of injuries including serious head trauma. Bishop stole several time-travel devices that Forge was reverse engineering. Throughout his recovery, Forge became obsessed with recreating his notes and research on these devices. Fixated to an unhealthy degree on this project, Forge shut himself off in his home at Eagle Plaza to devote all his time to this work. But before he began, he enhanced his home’s defense systems to ensure that he could never fall victim to such an attack again.{{r|X-Men Divided We Stand #2}}
+
+===Ghost Box===
+The X-Men confronted him at his complex on [[Wundagore Mountain]] over his apparent role in an inter-dimensional invasion of Earth.{{r|Astonishing X-Men Vol 3 29}} After following a trail of mysteriously genetically-created mutants and death, the X-Men finally tracked Forge down, who revealed his true madness. He endeavored to save the world from the Annexation, an invasion from a parallel world on the other side of the [[Ghost Boxes|Ghost Box]], the trans-dimensional teleporter. He planned to send his neo-mutants to the parallel universe that was home to the Ghost Boxes to destroy them before the Annexation could begin.
+
+[[File:Forge (Earth-616) from Extraordinary X-Men Annual Vol 1 1 001.jpg|thumb|right]]
+The X-Men tried to talk Forge down but he rebuked them and furthered his madness by forcibly opening the Ghost Box, risking all life on Earth. Thanks to the assistance of [[Abigail Brand (Earth-616)|Abigail Brand]] and [[Henry McCoy (Earth-616)|Beast]], a world-destroying laser was shot into the opening of the Ghost Box; before everything could be destroyed, Ororo offered Forge a chance to come back with them. Forge only screamed of his rejection by Ororo and she let him go. Forge remained in his complex as it was destroyed, and seemingly perished in the ensuing laser blast.{{r|Astonishing X-Men Vol 3 30}}
+
+===Cable's X-Force===
+Seemingly surviving the Ghost Box encounter, Forge was later approached by [[Nathaniel Summers (Earth-616)|Cable]] who used his telepathy to create a scenario which portrayed Forge's mind as a machine. Forge used his abilities to repair the machine construct, thus curing himself of his insanity. As he awoke, he found an injured Cable asking Forge for his help.{{r|Marvel NOW! Point One #1}} He then built Cable a bionic arm to replace his deteriorating left arm, turning it into a powerful weapon.{{r|Cable and X-Force #1}}
+
+===On the road with Dazzler===
+He left the [[X-Men (Earth-616)|X-Men]] because he needed time off. Then he started working with [[Alison Blaire (Earth-616)|Dazzler]] as her stage manager/set designer.<!-- {{r|Astonishing X-Men Vol 4 14}} -->
+
+===X-Men Disassembled===
+Forge was one of the many mutants that opposed the crazed [[Nathaniel Grey (Earth-295)|Nate Grey]] from remaking the world in his image. When Grey realized that his vision of the world would never come about with the X-Men around, Grey made his enemies vanish in an instant, including Forge.{{r|Uncanny X-Men Vol 5 9|10}}
+
+===Age of X-Man===
+Forge and the others were transported to another [[Age of X-Man (Plane)|reality]] created by Nate Grey and a [[Life Seed]] in an attempt to create a utopia where they and all other mutants would be at peace, altering their memories so they wouldn't resist.{{r|Age of X-Man Alpha Vol 1 1}}
+
+Forge acted as the warden of the Danger Room Prison Complex, home to "mutant criminals" such as [[Henry McCoy (Earth-616)|Beast]], [[Lucas Bishop (Earth-1191)|Bishop]], [[Danielle Moonstar (Age of X-Man) (Earth-616)|Mirage]], [[Lorna Dane (Earth-616)|Polaris]], and [[Gabrielle Kinney (Earth-616)|Honey Badger]].<!-- {{r|Age of X-Man: Prisoner X Vol 1 1}} -->
+
+Forge made it a priority to be the one to welcome Bishop and gave him a tour of the prison. As they walked, Forge told him that he would wear a [[Inhibitor Collar]] in order to dampen his abilities, but it could be removed after Bishop had proven that he could control himself and had served his mandated time.<!-- {{r|Age of X-Man: Prisoner X Vol 1 1}} -->
+
+He then went on about what their job entailed, that they were to rehabilitate and help him learn to become a productive member of society. Forge then took Bishop to his cell and locked it, as he left him with the notion that he would learn his place in things and he hoped his stay would be short and productive.{{r|Age of X-Man: Prisoner X Vol 1 1}}
+
+Forge eventually returned to the real world after Nate decided to release the mutants he trapped there after he was made to realize the flaws to his reality.{{r|Age of X-Man Omega Vol 1 1}}
+
+===House of X===
+Charles Xavier commissioned Forge with adding a new functionality into Cerebro, the ability to store every mutant’s thoughts and personality in order to resurrect them with the help of the [[Five (Earth-616)|"Five"]] in case of their death. Forge stressed the complexity of the task, and how much work Cerebro would need.{{r|Powers of X Vol 1 5}}
+
+| Powers                  = Forge is a [[Homo superior|mutant]] and Tribal Shaman.
+
+He has been stated to be a '''High Threat''' by the [[Office of National Emergency (Earth-616)|O*N*E]], while [[Nimrod (Earth-811)|Nimrod]] inversely classified him at a '''Low Threat Level'''.{{r|New X-Men Vol 2 31}}
+
+====Mutant Powers====
+
+'''Intuitive Genius:''' Superhuman intuitive talent for inventing mechanical devices. His [[Homo Superior|mutant]] ability functions as perception, as he possesses the ability to visually perceive "mechanical energy" (the kinetic energy and potential energy present in the components of mechanical systems) in action. This power allows Forge to instinctively know and understand the potential and functional operations of any machine or technological device in his visual range, a skill that, combined with his natural intelligence, allows him to conceive, design, and build mechanical devices; and operate, modify, and disassemble existing technology or create countermeasures for it.{{r|X-Factor #106}} Forge's superhuman talent does not mean that he is a greater inventor than geniuses such as [[Reed Richards (Earth-616)|Reed Richards]], [[Victor von Doom (Earth-616)|Victor von Doom]], or [[Anthony Stark (Earth-616)|Anthony Stark]], none of whom owe their talent for invention to mutation. But even a genius at invention must, for the most part, consciously work out the theoretical principles behind the invention and then design the invention itself through a series of logical steps. In Forge's case, however, many of these logical steps would be worked out by his subconscious mind. Hence, Forge himself might not be entirely aware of exactly how he figured out how to create an invention of his; he often has to take apart his own inventions to see how they work.{{r|Uncanny X-Men #301}} He has created fantastic futuristic devices including cybernetic systems, sophisticated holograms, and elaborate computer and fiber-optic systems.{{r|Uncanny X-Men #184}}{{r|Uncanny X-Men #188}}{{r|X-Men Vol 2 #1}}
+
+====Shaman Powers====
+
+'''Sorcery:''' He also has a high mystical aptitude and has developed several magical spells, including a so-called "spirit sight," the ability to open portals to other dimensions, the ability to steal and use others' souls to enhance his mystical spells, and to separate his mind from his body and travel in a spirit form (similar to Professor's X Astral Form). For the most part, he has not used these abilities in years, and hence is out of practice in wielding them.{{r|Uncanny X-Men #187}}
+
+| Abilities               = Forge is an accomplished athlete and trained soldier. Expertise in many areas of science and technology, extensive knowledge of Native American magic.
+| Strength                = Forge possesses the normal human strength of a man of his age, height, and build who engages in [[Strength Scale#Average Human|moderate regular exercise]].
+| Weaknesses              = {{Navigation
+| title                   = Former Weaknesses
+| body                    = Forge was mentally insane. Wolverine stated during the [[Manifest Destiny]] that he was crazy for about at least twenty years, according to a CIA agent. He was then approached by [[Nathaniel Summers (Earth-616)|Cable]] who used his telepathy to create a scenario which portrayed Forge's mind as a machine which was repaired by Forge, curing himself of his insanity.
+}}
+
+| Equipment               = Forge's right leg is cybernetic, a replacement he created for his original leg, which was lost during combat operations in Vietnam. It contains various devices which he has used in emergencies. He has also harvested it for parts.{{r|X-Men Unlimited #5}}
+| Transportation          = Forge has constructed and piloted several aerial vehicles. He once stole a [[Ghost boxes|Ghost Box]] from mutants invaders from an [[Earth-89149|alternate reality]], intending to use it as a channel to his own invading troops.{{r|Astonishing X-Men Vol 3 #30}}
+| Weapons                 = Forge sometimes employs devices of his own invention. Most notable among these was his neutralizer gun that could suppress superhuman mutant abilities. The only known examples of this device have been destroyed.{{r|Uncanny X-Men #185}}
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+* [http://www.marveldirectory.com/individuals/f/forge.htm Marvel Directory - Forge (profile)]
+* [http://www.freewebs.com/xpeoplescerebro/forge.htm Forge at X-Peoples Central]
+* [http://uncannyxmen.net/characters/forge uncannyxmen.net Spotlight On... Forge]
+}}
+[[Category:Post-M-Day Mutants (The 198)]]
+[[Category:Intuitives]]
+[[Category:One Hand]]
+[[Category:One Leg]]
+[[Category:Forge's Family]]
+[[Category:Inventors]]
+[[Category:Magicians]]
+[[Category:High Threats]]
+[[Category:Weapons Expert]]
+[[Category:Robotics]]
+[[Category:Engineers]]
+[[Category:Mutant Intelligence]]
+[[Category:Threat Level Low/Minimal]]
+[[Category:Post-Secret Wars Mutants]]
+[[Category:Vietnam War Characters]]
+[[Category:Photographic Memory]]
+[[Category:Hypercognitive]]
+[[Category:Insanity]]
+[[Category:Interdimensional Travelers]]
+[[Category:Age of X-Man participants]]

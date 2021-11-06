@@ -1,0 +1,73 @@
+{{Marvel Database:Character Template
+| Image                   = Foolkiller Vol 3 1 Textless.jpg
+| Name                    = Gregory P. Salinger
+| Name2                   = {{r|Foolkiller #1}}
+| CurrentAlias            = Foolkiller
+| Aliases                 = [[Deadpool]], Ian Byrd{{r|Foolkiller #2}}
+
+| Affiliation             = Formerly {{m|Mercs for Money}}, {{M|United States Army|US Army}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Defenders: Strange Heroes #1}}
+| Gender                  = Male
+| Height                  = 6'0"
+| Weight                  = 197 lbs
+| Eyes                    = Blue
+| Hair                    = Blond
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = Noblesville, [[Indiana (State)|Indiana]]
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = Mercenary, vigilante, psychologist; former mental hospital inmate, psychopatic killer, student, soldier, poet
+| Education               = Psychology graduate at [[Empire State University]], incomplete English literature degree studies at ESU, US Army training
+| BaseOfOperations        = Formerly [[Schaefer Theater]], [[New York City]], [[New York (State)|New York]]; [[Central Indiana State Mental Institution]], [[Indiana (State)|Indiana]]; [[Empire State University]], New York City
+
+| Creators                = Roger Stern; Lee Elias
+| First                   = Omega the Unknown #9
+
+| History                 = Greg Salinger became the second Foolkiller after [[Richard Rory (Earth-616)|Richard Rory]] told him about the first one, [[Ross G. Everbest (Earth-616)|Ross G. Everbest]].{{r|Omega the Unknown #8}} While Everbest focused on "fools" from an extremist Christian perspective, Salinger was more secular. He found that "fools" were people who lacked poetry in their souls.{{r|Amazing Spider-Man #225}}
+
+===Empire State University===
+Despite his lack of super-powers, Foolkiller proved moderately successful in his crusade, even against super-heroes. An encounter with the [[Defenders (Earth-616)|Defenders]] ended with Foolkiller completely demolishing their headquarters.{{r|Defenders #74|75}}
+
+Salinger later enrolled in [[Empire State University]]. He needed a science credit for his major, and developed a sincere liking for his T.A., [[Peter Parker (Earth-616)|Peter Parker]], who Salinger felt had a gift for explaining science in a poetic manner. Salinger and Parker soon crossed paths as Foolkiller and Spider-Man, however. While on the run from the web-slinger, Foolkiller hid in an alleyway with a homeless woman. When she heard what was going on, she remarked that "only a fool" would try to fight Spider-Man. Realizing she was right, Salinger almost disintegrated his own head before Spider-Man stopped him.{{r|Amazing Spider-Man #225}}
+
+===New Foolkiller===
+Salinger was committed to an institution for his crimes, and slowly overcame his suicidal tendencies, if not his hatred of fools. His doctors encouraged him to express himself, and he began writing about fools to newspapers and television programs. He eventually landed a TV interview from the institution, which led to secret correspondence with [[Kurt Gerhardt (Earth-616)|Kurt Gerhardt]].{{r|Foolkiller #1|2}}
+
+With Salinger's encouragement, Gerhardt became active as the new Foolkiller. Salinger had limited access to a computer at the institution, and the pair exchanged messages regularly through a private message board.{{r|Foolkiller #3|10}}
+
+===Mercs for Money===
+Foolkiller started working together with another vigilante named [[Yodman (Earth-616)|Yodman]]. Following Yodman's death during a mission to defeat the [[Grain Riper (Earth-616)|Grain Riper]], Salinger began experiencing something akin to a midlife crisis, realizing he was no longer young and that could get sidelined or entirely out of comission. Greg started visiting psychologist [[Andrea Mansoor (Earth-616)|Andrea Mansoor]], who helped him find his vocation of helping people as a volunteer, specifically to help rehabilitate criminals. Inspired by Mansoor, Foolkiller decided to study psychology.{{r|Deadpool Vol 6 7}}
+
+When [[Wade Wilson (Earth-616)|Deadpool]] founded the [[Mercs for Money (Earth-616)|Mercs for Money]], he employed the services of the Foolkiller, among numerous other vigilantes, to pose as him in order to extend his reach across the globe.{{r|Deadpool Vol 6 1}} Greg began to juggle his life as a vigilante, a mercenary, and a psychology student. He eventually graduated, with Deadpool and the Mercs going to his graduation.{{r|Deadpool Vol 6 7}}
+
+The Mercs for Money eventually became disgruntled by Deadpool, from the way he treated them to the delays in their paychecks.{{r|Deadpool Vol 6 14}} When they set out to create their own business, the Mercs discovered Deadpool had been skimming on them.{{r|Deadpool Vol 6 15}} After retrieving and burning their contracts from a safety deposit in Ho-Ho-Kus, [[New Jersey (State)|New Jersey]], the Mercs and Deadpool parted ways.{{r|Deadpool Vol 6 17}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = Normal human male with intensive regular exercise.
+| Weaknesses              = 
+
+| Equipment               = * ''' [[Deadpool's Suit]]:''' as a member of the [[Mercs for Money (Earth-616)|Mercs for Money]] he was provided with a version of Deadpool's suit.{{r|Deadpool Vol 6 1}}
+
+Used mobile computer systems and surveillance systems to locate and track his victims.
+| Transportation          = Armored truck fitted with surveillance equipment.
+| Weapons                 = Purification Gun, a form of laser pistol with a 30 yard range.
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Empire State University Student]]
+[[Category:Insanity]]
+[[Category:Athletic Skills]]
+[[Category:Shooting]]
+[[Category:Ravencroft Institute Patients]]

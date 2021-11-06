@@ -1,0 +1,47 @@
+{{Marvel Database:Character Template
+| Image                   = Ytitnedion_(Earth-616)_from_Defenders_Vol_1_82_0001.jpg
+| Name                    = Ytitnedion 
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualSkinColor        = 
+| UnusualFeatures         = Has a buzzard-like face
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Tunnelworld]]
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = [[Tunnelworld]]
+
+| Creators                = Ed Hannigan; Herb Trimpe
+| First                   = Defenders #79
+
+| History                 = When the [[Defenders (Earth-616)|Defenders]] entered [[Tunnelworld]] to investigate [[Lunatik (Tyrk Fragment) (Earth-616)|Lunatik]]'s origins, they joined with [[Aeroika (Earth-616)|Aeroika]] and the alien sorcerer [[Xhoohx (Earth-616)|Xhoohx]], liberating the cylindrical realm from the influence of the Unnameable and '''Ytitnedion'''.{{r|Defenders #79|83}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = Ytitnedion's name is "no identity" spelled backward.
+| Links                   = 
+}}

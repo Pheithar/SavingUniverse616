@@ -1,0 +1,20 @@
+{{DisambiguationFull
+|main         = Gabriel Lan (Earth-616)
+|main_name    = Gabriel Lan 
+|main_title   = Air-Walker
+|main_image   = Gabriel Lan (Earth-616) from Official Handbook of the Marvel Universe Vol 2 16 0001.gif
+|logo         = 
+|noimage      = No Image Male.jpg
+|description  = 
+
+|include1      = Gabriel Lan (Earth-93165); Gabriel Lan (Earth-93165) from What If? Vol 2 56 0001.jpg
+
+|exclude1      = Gabriel Lan (Heroes Reborn)
+
+| Others1      = [[Air-Walker (Automaton)|Galactus' Automaton]]; Air Walker (Automaton) (Earth-616) from Silver Surfer Vol 3 73.jpg
+| Others2      = [[Air-Walker (Automaton) (Earth-TRN430)|Galactus' Automaton<br>(Black End)]]; (Air-Walker) (Automaton) (Earth-TRN430) Marvel Adventures Fantastic Four Vol 1 48.jpg
+| Others3      = [[Arlo Samuelson (Earth-616)|Arlo Samuelson (Air-Walker)]];Arlo Samuelson (Earth-616) from Marvel Super-Heroes Vol 2 11 0001.jpg
+
+| Related1     = [[Gabriel Lan (Heroes Reborn) (Earth-616)|Gabriel Lan<br>(Heroes Reborn)]]; Gabriel Lan (Heroes Reborn) (Earth-616) from Iron Man Vol 2 11 0001.jpg
+| Related2     = Air-Walker (Earth-96943); Air-Walker (Earth-96943) 2099 Manifest Destiny Vol 1 1.jpg
+}}

@@ -1,0 +1,73 @@
+{{Marvel Database:Character Template
+| Image                   = Johnny Watts (Earth-616) from West Coast Avengers Vol 3 1 001.jpg
+| Name                    = [[Johnny Watts]]
+| NameRef                 = {{r|{{cite web|url=https://1979semifinalist.tumblr.com/post/174326102325/who-is-fuse-i-dont-think-ive-heard-of-him/|title=Who is Fuse, I don’t think I’ve heard of him before?|work=Tumblr|first=Kelly|last=Thompson|date=28 May 2018|28 May 2018}}}}
+
+| CurrentAlias            = [[Fuse]]
+| Aliases                 = 
+
+| Affiliation             = {{m|Hawkeye Investigations}}, {{m|Avengers West Coast|West Coast Avengers}}
+| Relatives               = [[Zobae (Earth-616)|Zobae]] (mother, deceased);<br>
+[[Ramone Watts (Earth-616)|Ramone Watts]] (sister)
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         = Tattoos
+
+| Origin                  = [[Homo sapiens|Human]] [[Glossary:Mutate|Mutate]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Vigilante
+| Education               = 
+| BaseOfOperations        = [[Hawkeye Investigations Office|West Coast Avengers HQ]], [[Venice (Los Angeles)|Venice]], [[Los Angeles]], [[California (State)|California]]
+
+| Creators                = Kelly Thompson; Leonardo Romero
+| First                   = Hawkeye Vol 5 2
+
+| History                 = '''Johnny Watts''' was secretly a vigilante operating in the [[Venice (Los Angeles)|Venice]] neighborhood of [[Los Angeles]], [[California (State)|California]] where his sister, [[Ramone Watts (Earth-616)|Ramone]], owned [[Ramone's Surf Shop|a surf shop]].{{r|Hawkeye Vol 5 3}}
+
+===Hawkeye Investigations===
+Johnny first encountered [[Katherine Bishop (Earth-616)|Kate Bishop]] while on patrol after she had rescued a girl from some fraternity members in an alleyway near the [[Venice Police Department]] during her investigation into [[Take Back Control (Earth-616)|T.B.C.]]'s connection to the disappearance of Ramone's girlfriend, [[Mikka Nguyen (Earth-616)|Mikka Nguyen]].{{r|Hawkeye Vol 5 2}} The siblings joined [[Hawkeye Investigations (Earth-616)|Hawkeye Investigations]] and helped Hawkeye rescue Mikka from [[Aggregate (Greg) (Earth-616)|Aggregate]] in neighboring [[Marina del Rey]].{{r|Hawkeye Vol 5 2|4}}
+
+He grew closer to Kate during investigations into the disappearances of both [[Rebecca Brown (Earth-616)|Rebecca Brown]],{{r|Hawkeye Vol 5 6}} as well as [[Liam Donnelly (Earth-616)|Liam Donnelly]],<!-- {{r|Hawkeye Vol 5 8|9}} --> unaware that Hawkeye's increasingly reckless behavior was a result of her having uncovered [[Derek Bishop (Earth-616)|her own father]]'s connections to both T.B.C. and her arch enemy, [[Giuletta Nefaria (Earth-616)|Madame Masque]].{{r|Hawkeye Vol 5 7|9}} Johnny, Ramone, and [[Quinn (Hawkeye Investigations) (Earth-616)|Quinn]] subsequently took it upon themselves to tip off [[Los Angeles Police Department (Earth-616)|LAPD]] [[Detective Rivera (LAPD) (Earth-616)|Detective Rivera]] to save Hawkeye from [[Clem (Fight Club) (Earth-616)|Clem]] and an underground fight club.{{r|Hawkeye Vol 5 9}}
+
+Johnny's feelings for Kate became increasingly complicated when she was secretly replaced by Whitney Frost in a cloned body of Kate Bishop, who subsequently took their relationship to a physical level during a night out at the [[Mad House Danceclub]] on the [[Sunset Boulevard|Sunset Strip]] in [[West Hollywood]].{{r|Hawkeye Vol 5 10}} Hawkeye eventually confronted Madame Masque in the [[Hollywood Hills]], with their ensuing fight in [[Griffith Park]] forcing Kate to reveal to her friends Derek Bishop's connection to Mikka's kidnapping. These events also forced Kate to admit she'd been harboring feelings for Johnny as well.{{r|Hawkeye Vol 5 11}}
+[[File:Johnny Watts (Earth-616) from Superior Spider-Man Vol 2 8 001.png|left|thumb|Fuse in battle]]
+Some time later, [[Clinton Barton (Earth-616)|Clint Barton]] arrived in Venice and caused damage to merchandise in Ramone's Surf Shop, while on the run from [[Eden Vale (Earth-616)|Eden Vale]], who blamed him for [[Lucy Vale (Earth-616)|her daughter]]'s death during [[Hydra (Earth-616)|Hydra]]'s attack on [[Las Vegas]].{{r|Hawkeye Vol 5 13}} After Kate was kidnapped by Eden, Johnny and the rest of Hawkeye Investigations helped Clint track down Kate's location to rescue her,{{r|Hawkeye Vol 5 14}} much to Johnny's relief.{{r|Hawkeye Vol 5 15}} During the subsequent battle between both Hawkeyes and the combined forces of Madame Masque and marksmen whom Eden Vale had summoned from the past to help her seek revenge, Johnny saved Kate's life by shielding her from falling concrete, thus revealing that he had been secretly harboring superpowers all along.{{r|Hawkeye Vol 5 16}}
+
+===West Coast Avengers===
+Kate next sought to reform the [[Avengers West Coast (Earth-616)|West Coast Avengers]] and naturally Johnny, now calling himself '''Fuse''', joined her endeavor, moving into the [[Hawkeye Investigations Office]] with Kate, which was being renovated to accommodate the new team's expanding roster.{{r|West Coast Avengers Vol 3 1}}
+
+| Personality             = 
+
+| Powers                  = '''Omni-Morph Duplication:''' Johnny can transform his body into any substance he touches, affording him superhuman strength and durability by taking on the substance's physical properties.{{r|West Coast Avengers Vol 3 1}}
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = Johnny's piercings are made of [[Vibranium]] so that he is almost never without something strong to duplicate.{{r|West Coast Avengers Vol 3 3}}
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * Johnny expressed an attraction to [[Noh-Varr (Earth-200080)|Marvel Boy]] and potential interest in starting a love triangle while dating [[Katherine Bishop (Earth-616)|Kate Bishop]].{{r|West Coast Avengers Vol 3 10}}
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Matter Absorption]]
+[[Category:Matter Manipulation]]
+[[Category:Superhuman Strength]]
+[[Category:Superhuman Durability]]
+[[Category:Media-Driven Characters]]
+[[Category:Vibranium]]
+[[Category:Bisexual Characters]]

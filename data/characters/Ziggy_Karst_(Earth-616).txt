@@ -1,0 +1,63 @@
+{{Marvel Database:Character Template
+| Image                   = Ziggy Karst (Earth-616) from Nightcrawler Vol 4 5 001.png
+| Name                    = Ziggy Karst
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = Formerly {{M|X-Men (Earth-616)|X-Men}} (Jean Grey School member), [[Xavier Institute student body#Jean Grey School students|Jean Grey School student body]] 
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Green
+| Hair                    = Black
+| UnusualFeatures         = [[Category:Red Hair]][[:Category:Red Hair|Red]] streaks in her hair
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Student
+| Education               = High School classes at Jean Grey School
+| BaseOfOperations        = Mobile; formerly [[Xavier's School for Gifted Youngsters|Jean Grey School for Higher Learning]], [[Salem Center]], [[Westchester County]], [[New York (State)|New York]]
+
+| Creators                = Chris Claremont; Todd Nauck
+| First                   = Nightcrawler Vol 4 5
+
+| History                 = Ziggy became a student at the [[Xavier's School for Gifted Youngsters|Jean Grey's School]] shortly after [[Kurt Wagner (Earth-616)|Nightcrawler's]] resurrection.{{r|Nightcrawler Vol 4 #8}}
+
+| Powers                  = *'''Technomorphing Modules:''' Ziggy's primary mutant ability shows in the form of numerous liquid metallic possibly Techno-Organic in nature, thumb sized little diodes which move, act and react to her mental commands both willfully and subconsciously even when not in her proximity. Ms. Karst can control them in a telekinetic fashion given how they orbit around or wherever she wishes them to be and alter the sub-molecular chemical chains within said little capsules with but a thought to accomplish more than simply shape-changing them into various mechanical constructs. Among the numerous features they possess Ziggy can make them do or change into:
+**'''Micro-Bombs:''' What is described as a big bang creates a small but potent explosion that can shatter solid matter and knock out most adversaries.
+**'''Avatar/Golem:''' Through focused concentration, Ziggy can amalgamate her instruments into liquid metal automatons to fight on her behalf.
+**'''Weaponized Constructs:''' One of the more modernized exports of her powers allows her to create any manner of pistol like energy guns with varying effects.
+***'''Variable Energy Generation:''' Another aspect of her modules is the procreation of the necessary energy needed for whatever kind of purpose it's user has in mind, Ziggy once re-calibrated the energy output of her blaster to assail astral projections. 
+**'''Molecular-Atomic Dissolution:''' Named the baby-bang by their creator, the modules emit a type of mechanical energy bond disruptor that weakens and shatters the building blocks holding base matter together which is somewhat akin to Anti-Metal's metallic coherence degrading effect.     
+        
+*'''Intuitive Genius:''' Superhuman intuitive talent manifested through the utilization of her nano-molecular metamorphic modules. The secondary aspect of her mutant ability functions as the ability to visually perceive "mechanical energy" (the kinetic energy and potential energy present in the components of mechanical systems) in action. This enables Ziggy to instinctively understand the functional applications of any machine or technological device as well as the potential capacity they possess for improvement upon their design, giving her an understanding and utilization of their mechanization plus how and in what way said machines can be improved upon.   
+| Abilities               = '''Super-Genius Intellect:''' A gifted child prodigy with a frantic capacity high enough for a government weapons inventive installation of Narwal to devout an entire wing towards the fruition of her research. Her natural mutant instinctive inventive capabilities coupled with her own naturally above average intellectual capacity make sway for vast inventive and comprehensive capacity. 
+| Strength                = 
+| Weaknesses              = Losing sight of her focus causes the modules to break back down in to harmless metal nodes. 
+
+| Equipment               = '''Modules''': Generated either form her mutant powers or possibly summoned from a pocket dimension of unknown origin can take the shape and form of most mechanical designs that their maker can imagine with her thoughts.   
+| Transportation          = 
+| Weapons                 = Module formed Energy Guns & Mini Bombs.
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Mutants activated after M-Day]]
+[[Category:Jean Grey School students]]
+[[Category:Technopaths]]
+[[Category:Intuitives]]
+[[Category:Engineers]]
+[[Category:Inventors]]
+[[Category:Scientists]]
+[[Category:Mutant Intelligence]]

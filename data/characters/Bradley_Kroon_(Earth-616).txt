@@ -1,0 +1,75 @@
+{{Marvel Database:Character Template
+| Image                   = Bradley Kroon (Earth-616) from Official Handbook of the Marvel Universe A-Z Update Vol 1 5 0001.jpg
+| Name                    = Bradley Kroon
+| NameRef                 = {{r|Avengers: Roll Call #1|; [[Avengers Academy (Earth-616)|Avengers Academy]]'s entry}}
+| CurrentAlias            = Icemaster
+| Aliases                 = 
+
+| Affiliation             = Formerly {{m|Masters of Evil (Earth-616)|Masters of Evil}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z Update #5}}
+| Gender                  = Male
+| Height                  = 6'2"
+| Weight                  = 300 lbs.
+| Eyes                    = White
+| Hair                    = None
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Professional Criminal
+| Education               = 
+| BaseOfOperations        = Mobile 
+
+| Creators                = Kurt Busiek; Mark Bagley
+| First                   = Thunderbolts Vol 1 24
+
+| BlockQuote          =
+{{Conversation
+|Hey! Wait for me!
+|[[Bradley Kroon (Earth-616)|Icemaster]]
+|Maybe if you hadn't eaten all the [[Glossary:Hostess Fruit Pie|fruit pies]] we boosted from the gas station...|Image2= Arthur Parks (Earth-616) from All-New, All-Different Avengers Vol 1 8.jpg
+|[[Arthur Parks (Earth-616)|Living Laser]]
+}}
+
+| History                 = 
+===Origin===
+Icemaster's origins are a mystery and the source of his [[Glossary:Cryokinesis|cryokinesis]] remains unrevealed.{{r|Official Handbook of the Marvel Universe A-Z Update #5}}{{r|Marvel Encyclopedia #Fantastic Four}}
+
+===First Exploit===
+Seeking to create another ice age, the Icemaster had frozen much of [[New York City]], only to face the [[Jonathan Storm (Earth-616)|Human Torch]] and was defeated<ref group="See Comment">The appearances in Hostess Fruit Pie adverts was initially uncertain whether the stories were canon to [[Earth-616]]. When Icemaster later appeared on Earth-616 the OHoTMU's profile on Icemaster canonized the adverts (sans mentioning Hostess). {{cl|Spider-Verse Vol 1 1}} had an appearance of a [[Peter Parker (Earth-51914)|Spider-Man]] who attempted to feed [[Morlun (Earth-001)|Morlun]] an unidentified snack cake before being killed. This reality was assigned to [[Earth-51914]] and the [http://www.marvunapp.com/master/earthteaz.htm Master List] of Universe designation notes: "Represents reality where the stories shown in Hostess cake ads took place as actually shown (specifically with the Hostess products influencing/motivating the heroes and/or villains)". It is unknown if this is a full retcon of the appearances. Since several characters including Icemaster appeared on 616 it is the wiki's current stance that the adverts depicted occurred on Earth-51914 but events similar to the advert's happened on Earth-616 just without the involvement of snack cakes.</ref>.{{r|Avengers #191}}
+
+===Masters of Evil===
+One of twenty-five villains who joined the second [[Justine Hammer (Earth-616)|Crimson Cowl]]'s [[Masters of Evil (Earth-616)|Masters of Evil]], Icemaster and the other Masters planned to extort billions from the world's governments through their weather-control technology, but their base was infiltrated by the Thunderbolts. The Icemaster, along with the Masters of Evil, was beaten by the [[Thunderbolts (Earth-616)|Thunderbolts]] and jailed.{{r|Thunderbolts Vol 1 #24|25}}
+
+===Fear Itself===
+[[File:Bradley Kroon (Earth-616) from Avengers Academy Vol 1 20 001.jpg|left|thumb|100px|De-powered]]
+Eventually imprisoned in the [[Raft]], he later escaped when [[Cain Marko (Earth-616)|Juggernaut]] became possessed by the Asgardian entity [[Kuurth (Earth-616)|Kuurth]] and destroyed the prison.{{r|Thunderbolts #158}}{{r|Herc #3}} Escaping through a New England town alongside [[Danielle Blunt (Earth-616)|Aftershock]], [[Jason Pierce (Earth-616)|Ember]], and [[David Cannon (Earth-616)|Whirlwind]], they were opposed by [[Robert Baldwin (Earth-616)|Speedball]]. When angry townsfolk attacked Speedball, thinking his departure would cause the villains to leave more quickly, the villains made their escape.{{r|Fear Itself: The Home Front #2}} Following the conclusion of the [[Cul Borson (Earth-616)|Serpent]]'s attack on Earth, Speedball gathered his fellow [[Avengers Academy (Earth-616)|Avengers Academy]] staff members, along with the students, and confronted Icemaster, Aftershock, and Ember. While the group had the villains on the ropes, it was ultimately the arrival of industrialist [[Jeremy Briggs (Earth-616)|Jeremy Briggs]] that led to the defeat of the villains.{{r|Avengers Academy #20}}
+
+Later incarcerated in an up state [[New York (State)|New York]] prison not designed to handle superpowered individuals, Icemaster was part of a large riot amongst the powered prisoners, including [[John Horton (Earth-616)|Griffin]], [[Chip Martin (Earth-616)|Schizoid Man]] and [[Edward Lansky (Earth-616)|Lightmaster]]. Initially opposed by a contingent of [[Guardsmen (Earth-616)|Guardsmen]], the villains were ultimately stopped by the only heroes able to respond to the incident: the [[X-Men (Earth-616)|X-Men]] [[Rogue (Anna Marie) (Earth-616)|Rogue]] and [[Calvin Rankin (Earth-616)|Mimic]].{{r|X-Men: Legacy #275}}
+
+| Powers                  = '''[[Cryokinesis]]:''' The Icemaster can generate and control ice. He can create blasts of cold, ice missiles and walls of ice from ambient moisture, as well as forming sleet, snow, and freezing rain.{{r|Official Handbook of the Marvel Universe A-Z Update #5}}{{r|Marvel Encyclopedia #Fantastic Four}}
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = <references group="See Comment" />
+| Trivia                  = * Initially, the ad company wanted the villain of the ad to be named "Iceman," unaware that Iceman was already the name of a superhero. Frank Miller, the ads artist, created Icemaster as a replacement.<ref>{{Cite web|url=https://www.cbr.com/marvel-hostess-secret-invasion/|title=The Hostess Comics ‘Secret Invasion’|work=CBR|last=Cronin|first=Brian|date=25 July 2018|accessdate=7 August 2018}}</ref>
+| Marvel                  = 
+| Wikipedia               = Icemaster
+| Links                   = * [http://www.marvunapp.com/Appendix/icmstr.htm Icemaster at the Marvel Appendix]
+}}
+[[Category:Cryokinesis]]
+[[Category:Unknown Origin]]
+[[Category:Elementals]]

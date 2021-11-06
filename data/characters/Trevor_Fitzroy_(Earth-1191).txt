@@ -1,0 +1,94 @@
+{{Marvel Database:Character Template
+| Image                   = Trevor Fitzroy (Earth-1191) from Uncanny X-Men Annual Vol 1 17 001.jpg
+| Name                    = [[Trevor Fitzroy]]
+| CurrentAlias            = [[Fitzroy]]
+| Aliases                 = [[White Rook]], [[Chronomancer]]
+
+| Affiliation             = {{m|Upstarts (Earth-616)|Upstarts}}; Formerly {{m|Hellfire Club (Earth-616)|Hellfire Club}}, {{M|Xavier Security Enforcers (Earth-1191)|X.S.E}} (trainee), {{m|Summers Rebellion (Earth-1191)|Summers Rebellion}}
+| Relatives               = [[Anthony Shaw (Earth-1191)|Anthony Shaw]] (father);<br>[[William Shaw (Earth-1191)|William Shaw]], (brother, deceased)
+| MaritalStatus           = Single
+
+| CharRef                 = [[Official Handbook of the Marvel Universe A-Z Vol 1 14|Official Handbook of the Marvel Universe A-Z hardcover Vol. 14]] 
+| Gender                  = Male
+| Height                  = 5'10"
+| Weight                  = 150 lbs
+| Eyes                    = Blue
+| Hair                    = Blond
+| Hair2                   = (dyed green)
+| UnusualFeatures         = Crystalline Hands 
+
+| Origin                  = [[Homo superior|Mutant]]
+
+| Reality                 = Earth-1191
+| Reality 2               = (currently displaced to the [[Earth-616|Prime Earth]])
+| PlaceOfBirth            = [[New York City|New York]] in an [[Earth-1191|alternate 21st Century Earth]].
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Professional Criminal, Formally Trainee 
+| Education               = 
+| BaseOfOperations        = Chronobase; formerly [[New York City]], [[New York (State)|New York]], [[Earth-616]]
+
+| Creators                = John Byrne; Jim Lee; Whilce Portacio
+| First                   = Uncanny X-Men #281
+| Death                   = Uncanny X-Men Vol 5 21
+| Death2                   = (Mentioned)
+
+| Quotation               = Surely you could sacrifice the few to spare the lives of the many?
+| Speaker                 = [[Trevor Fitzroy (Earth-1191)|Trevor Fitzroy]]
+| QuoteSource             = X-Force Vol 1 33
+
+| History                 = Trevor Fitzroy was the bastard son of Anthony Shaw, a wealthy man in the apocalyptic future of [[Earth-1191]]. As a youth, Fitzroy was not in control of his powers. He had a relationship of sorts with [[Ruby Summers (Earth-1191)|Ruby Summers]], and managed to save her life, as well as those of the time-displaced [[Jamie Madrox (Earth-616)|Jamie Madrox]] and [[Layla Miller (Earth-616)|Layla Miller]], when they were attacked by [[Sentinels]] but was killed in the process. Ruby begged Layla to save him using her power to bring people back from the dead but the terrible consequence of Layla's powers were that those she resurrected came back without souls.{{r|X-Factor Vol 3 #50}}
+
+Fitzroy joined the Academy for Xavier's Security Enforcers ([[XSE]]) and engaged in a relationship with [[Shard Bishop (Earth-1191)|Shard]]. He turned out to be a criminal though and was removed from the Academy. His wealthy father tried to protect his son for a while, but when Fitzroy was caught for murder, even he could no longer protect him. Fitzroy was captured and arrested by [[Lucas Bishop (Earth-1191)|Bishop]], Shard's brother and a XSE officer.{{r|Uncanny X-Men #287}}
+[[File:Trevor Fitzroy (Earth-1191) from X-Man Vol 1 17 001.jpg|frame|left|Trevor Fitzroy]]
+Fitzroy himself thought that he was merely a teleporter, but a secret group of XSE agents, known as the [[Xavier's Underground Enforcers]] (XUE) discovered that Fitzroy had the ability to [[Time travel|travel through time]]. The XUE recruited Shard and freed Fitzroy. They hoped to change the past to create a better present, but Shard stopped them, when she was reminded how dangerous Fitzroy was. Fitzroy was returned to prison.{{r|X-Factor #140|141}}
+
+===Upstarts===
+From prison, Fitzroy escaped to the present time with his minion [[Bantam (Earth-1191)|Bantam]]. There, he became involved with a group known as the [[Upstarts (Earth-616)|Upstarts]], a competition organized by the [[Gamesmaster (Earth-616)|Gamesmaster]] to assess who could kill more mutants (the more powerful the mutant, the most points they received). The Upstart with the most points would win the prize: control over the Hellfire Club and the other competitors. To enter the competition, one had to kill a member of the Hellfire Club's Inner Circle (though later members didn't have to). As part of this “game,” Fitzroy unleashed [[Sentinels]] on the [[Reavers (Earth-616)|Reavers]] and their leader [[Donald Pierce (Earth-616)|Donald Pierce]], killing them all. Pierce escaped and arrived at the Hellfire Club, followed by the Sentinels. The Sentinels killed Pierce and then killed most of the the [[Hellions (Earth-616)|Hellions]] and put their leader, the [[Emma Frost (Earth-616)|White Queen]], in a coma. The [[X-Men (Earth-616)|X-Men]], who had been negotiating with the White Queen, fought Fitzroy. Fitzroy was forced to open a large time portal, allowing prisoners from his own time to escape to the present. The prisoners attacked the X-Men, but stopped when three figures stepped through the portal: Bishop and fellow XSE agents [[Randall (Earth-1191)|Randall]] and [[Malcolm (Earth-1191)|Malcolm]]. They went after Fitzroy, eventually killing the escaped criminals. Malcolm and Randall were killed though and Bishop would remain in the present and join the X-Men.{{r|Uncanny X-Men Vol 1 281|283}}
+
+Later, Fitzroy captured [[Selene Gallio (Earth-616)|Selene]], but she managed to escape later. He also brought in [[Siena Blaze (Earth-616)|Siena Blaze]] to compete in the Upstart competition. Fitzroy clashed with the X-Men a second time when he tried to kill [[Forge (Earth-616)|Forge]], but managed to escape again.{{r|Uncanny X-Men #301|302}} When the Gamesmaster declared that the new target for the Upstart competition would be former members of the [[New Mutants (Earth-616)|New Mutants]] and Hellions, Fitzroy attacked [[X-Force (Earth-616)|X-Force]], demanding they turn over [[Julio Richter (Earth-616)|Rictor]] and [[James Proudstar (Earth-616)|Warpath]]. X-Force leader [[Nathaniel Summers (Earth-616)|Cable]] tricked Fitzroy into trying to absorb his life-energy, but as Cable's arm wasn't organic, Fitzroy's powers used his own life-energy to open a portal, seemingly killing him.{{r|X-Force #33}}
+
+Why the portal didn't drain his own life is still unknown. Fitzroy reappeared under the thrall of Selene as the [[White Rook]] of the Hellfire Club.{{r|X-Man #23}}
+
+===Chronomancer===
+Fitzroy increased his power levels substantially and journeyed to a future timeline in which Earth was reduced to medieval technology levels. There Fitzroy set himself up as the Chronomancer and took over, using time-jumping robots with futuristic weapons to keep control. Then he had Shard brought to that time, where he kept her captive, but before his goons got her, they transported Bishop to Fitzroy's realm as well. Bishop, however, remained on the loose, and Fitzroy began to modify Shard to make her human again. His powers increased dramatically, to the point where he could freeze people in a type of stasis and open many more portals than before. In addition, his energy powered the Chronotroopers and his entire fortress. In the final battle, Fitzroy used Shard as bait for Bishop, and he captured his rival when Shard betrayed him. Fitzroy tortured Bishop mentally and physically before leaving him to "assume his destiny as Master of Time."{{r|Bishop the Last X-Man Vol 1 1}}
+
+Fitzroy's plan was to become Time itself, a feat so ambitious that the [[Uatu (Earth-616)|Watcher]] came to observe. Unfortunately, Bishop had been freed by his companion [[Link (Earth-9910)|Link]], and arrived to stop Fitzroy from entering the giant portal he had created. A fight ensued, and Fitzroy emerged victorious and headed for the portal again. Bishop, drained of energy, had no chance until Shard arrived and turned herself into energy again, forcing Bishop to absorb her and blast her at Fitzroy. Bishop missed, but Fitzroy hesitated enough that Bishop caught him and held him half in, half out of the portal until it closed on itself, cutting Fitzroy in half.{{r|Bishop the Last X-Man Vol 1 14}}
+
+[[File:Trevor Fitzroy (Earth-1191) from Uncanny X-Men Vol 5 20 002.png|left|thumb|200px|Fitzroy draining Madrox' dupes]]
+===Return to the Upstarts===
+Fitzroy reappeared once again as a member of the mutant group the Upstarts. He helped kill the [[Nasty Boys (Earth-616)|Nasty Boys]] in order to lure out [[Scott Summers (Earth-616)|Cyclops]] and his ragtag team of X-Men to [[Washington Heights]]. After a brief moment of words, the two groups engaged each other in battle. Fitzroy started to drain the life energies from [[James Madrox (Bartender) (Earth-616)|Multiple Man]]'s dupes but was caught off guard by [[Alexander Summers (Earth-616)|Havok]], who fired a concussive blast at Fitzroy which knocked him off balance. Soon enough he became overwhelmed as they were outnumbered. Fitzroy fled the scene with [[Fabian Cortez (Earth-616)|Cortez]] and [[Siena Blaze (Earth-616)|Siena Blaze]] leaving [[Shinobi Shaw (Earth-616)|Shinobi]] behind as a scapegoat.{{r|Uncanny X-Men Vol 5 20}}
+
+After Fitzroy was apparently detained by [[Office of National Emergency (Earth-616)|O*N*E]], it was mentioned that they killed him. The only one that survived was [[Fabian Cortez (Earth-616)|Cortez]] because the [[X-Men (Earth-616)|X-Men]] saved him.{{r|Uncanny X-Men Vol 5 21}}
+
+| Powers                  = 
+*'''Life-Force Absorption''': He possesses crystalline hands capable of draining living beings of their life-force, converting it into energy and absorbing it into himself. Effectively killing his victims, thus disintegrating the body.
+**'''Temporal Wormholes''': With the resultant energies, Fitzroy could create portals that could teleport those passing through them across time and space. He must drain life-force for the portals to open; for every person drained, 1 person can pass though. The portals are one way. Trying to pass through the wrong way results in the traveler having his body terribly misshapen. As well he can put these portals into stasis to be used at another time. His portals can be used for simple teleportation, which he only needs to absorb a small amount of life-force for.
+**'''Time Alteration''': He has the ability to shift objects into different timeframes, and alter the flow of time to return people or objects into a previous incarnation.
+**'''Temporal Stasis''': He has the ability to freeze people in a type of stasis.
+
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = Omnium mesh bio-armor, which is extremely powerful, nearly indestructible, and may possibly be activated on his mental command.
+| Transportation          = 
+| Weapons                 = Time-jumping robots (chronotroopers) with futuristic weapon.
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = *http://www.marvunapp.com/master/
+}}
+[[Category:Time Travelers]]
+[[Category:Chronokinesis]]
+[[Category:Energy Absorption]]
+[[Category:Shaw Family]]
+[[Category:Stasis]]
+[[Category:Psychic Vampires]]
+[[Category:Soulless Characters]]
+[[Category:Characters Displaced to Earth-616]]
+[[Category:Interdimensional Travelers]]
+[[Category:Post-M-Day Mutants (Pre-M-Day Deaths)]]
+[[Category:Post-M-Day Mutants (Time/Reality Travelers)]]

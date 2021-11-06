@@ -1,0 +1,52 @@
+{{Marvel Database:Character Template
+| Image                   = 
+| Name                    = Craig Saunders Jr.
+| CurrentAlias            = Redeemer
+| Aliases                 = 
+
+| Affiliation             = {{M|Riot Squad}}, formerly {{M|Hulkbusters (Banner) (Earth-616)|Hulkbusters}}, {{M|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 6'3"
+| Height2                 = (5'7" as Saunders)
+| Weight                  = 450 lbs
+| Weight2                 = (155 lbs as Saunders)
+| Eyes                    = Blue
+| Hair                    = White
+| UnusualFeatures         = Mechanical exo-skeleton body suit fused to his body.
+
+| Origin                  = Armor-wearing [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = Former servant of the Leader, US Army demolitions expert, civilian adviser to S.H.I.E.L.D.
+| Education               = 
+| BaseOfOperations        = [[Freehold]]
+
+| Creators                = John Byrne
+| First                   = Incredible Hulk Vol 1 317
+| Death                   = Incredible Hulk Vol 1 345
+
+| History                 = Craig Saunders Jr had been fascinated by explosives every since childhood. As a teenager, he had hoped to patent a new type of explosive, but it failed to detonate. However, when he disposed of his failed experiment in the labratory sink, it created a huge explosion which ruined the science wing of his high school. Saunders parlayed his love of detonation by attending West Point, eventually graduating and being commissioned as a US Army officer; specializing in explosive ordinance disposal. His career had been very good until one day he had been traveling in a busy airport in a big city, when he saw terrorists plant a bomb, making it look like a carelessly unattended briefcase. Realizing it was too late to defuse the bomb, Saunders kicked it into a ladies' restroom in an attempt to contain the blast, only to realize too late a woman had emerged with her infant daughter, and both were killed by the bomb blast. Saunders' Army reputation had been permanently damaged as a result of the bad press of the incident. He was eventually recruited into the [[Hulkbusters (Banner) (Earth-616)|Hulkbusters]] by Bruce Banner to hunt down a now mindless Hulk, vowing to find a way to redeem himself of his failings through doggedly hunted the Hulk, and forming a friendship with fellow teammate [[Samuel John LaRoquette (Earth-616)|Sam LaRoquette]]. After Bruce Banner re-merged with the Hulk when he learned that the separation caused cellular degeneration, Craig found himself Hunting a [[Richard Jones (Earth-616)|New Hulk]] caused by an insane General [[Thaddeus Ross (Earth-616)|Ross]] due to his interference in the nutrient bath process. After Rick returned to normal the Hulkbusters begin hunting the new gray Hulk, after being recruited by S.H.I.E.L.D as an advisor alongside LaRoquette, where they were manipulated by the enhanced [[Samuel Sterns (Earth-616)|Leader]] into becoming his brainwashed pawn along with LaRoquette becoming Rock and Redeemer. After being attacked by the Hulk while guarding the Leader's stolen gamma bomb, the latter killed Saunders, by throwing him on rock spikes.
+
+| Powers                  =
+
+| Abilities               = Craig Saunders Jr. was a distinguished demolitions expert.
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = As a Hulkbuster, Saunders had access to advanced technology such as battlesuits, planes and large land vehicles outfitted with weapons powerful enough to threaten the Hulk. As Redeemer he wore an [[Redeemer Armor|armored mechanical battlesuit]] that granted him enhanced human strength and durability.
+| Transportation          = 
+| Weapons                 = He wielded a variety of powerful guns, rocket launchers and energy cannons.
+
+| Notes                   = 
+| Trivia                  = * The Redeemer was one of the candidates on [[Steven Rogers (Earth-616)|Steve Rogers]]' list of supervillains to enroll in [[Luke Cage (Earth-616)|Luke Cage]]'s [[Thunderbolts (Earth-616)|Thunderbolts]] roster{{r|Heroic Age: Villains #1}}.
+| Links                   = 
+* http://www.incrediblehulk.com/rockredeemer.html
+}}

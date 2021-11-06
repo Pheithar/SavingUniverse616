@@ -1,0 +1,159 @@
+{{Marvel Database:Character Template
+| Image                   = Jonothon Starsmore (Earth-616) from New Mutants Vol 4 1 Young Guns Variant cover.jpg 
+| Name                    = [[Jonothon Starsmore|Jonothon "Jono" Evan Starsmore]]
+| NameRef                 = {{r|Official Handbook of the Marvel Universe A-Z Vol 1 3}}
+| CurrentAlias            = [[Chamber]]
+| Codenames               = [[Decibel]]{{r|New Warriors Vol 4 3}}
+| Nicknames               = Blue Banshee,{{r|New Warriors Vol 4 8}} Blue Boy,{{r|New Warriors Vol 4 9}} "Walking Band-Aid"{{r|Generation X Vol 1 1}}
+| Aliases                 = 
+
+| Affiliation             = {{m|New Mutants}}; formerly {{m|X-Men}}, {{m|Morlocks}}, {{m|New Warriors}}, {{m|Weapon X}}, {{m|Generation X}}
+| Ancestors               = [[En Sabah Nur (Earth-616)|Apocalypse]] (ancestor);{{r|New Excalibur Vol 1 9}}<br>
+[[Jack Starsmore (Earth-616)|Jack Starsmore]] (great-grandfather);{{r|New Excalibur Vol 1 9}}
+| Relatives               = [[Clan Akkaba (Earth-616)|Clan Akkaba]]/[[:Category:Akkaba Family|Family]] (distant relatives)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z Vol 1 3}}
+| Gender                  = Male
+| Height                  = 5'9"
+| Weight                  = 140 lbs
+| Eyes                    = Brown (Currently); Red ("Apocalypse" form)
+| Hair                    = Brown
+| UnusualSkinColor        = Grey ("Apocalypse" form)
+| UnusualFeatures         = Missing half his face and most of his chest, formerly had grey skin, blue lips, facial markings and Akkaba tattoo ("Apocalypse" form)
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[England]]
+| PlaceOfDeath            = 
+| CauseOfDeath            = Killed by [[Kodiak Noatak (Earth-616)|Harpoon]]{{r|Uncanny X-Men Vol 5 18}} (presumably resurrected by “[[Five (Earth-616)|The Five]]”){{r|New Mutants Vol 4 1}}
+| KilledBy                = Kodiak Noatak (Earth-616)
+
+| Identity                = Secret
+| Citizenship             = British, Krakoan
+| Occupation              = Adventurer; formerly teacher, Weapon X agent, bartender,{{r|Wolverine: Black, White & Blood Vol 1 3}} student
+| Education               = High School (incomplete){{r|Official Handbook of the Marvel Universe A-Z Vol 1 3}}
+
+| BaseOfOperations        = '''[[Krakoa (Earth-616)|Krakoa]]''';{{r|New Mutants Vol 4 1}}<br>
+formerly:
+*[[Alley|The Alley]];{{r|Uncanny X-Men Vol 5 11}}
+*[[Xavier's School for Gifted Youngsters|Xavier Institute for Mutant Education and Outreach]], [[Central Park]], [[New York (State)|New York]];{{r|Generation X Vol 2 1}}
+*[[Xavier's School for Gifted Youngsters|Jean Grey School for Higher Learning]], [[Salem Center]], New York;{{r|Nightcrawler Vol 4 4}}
+*[[Utopia (X-Men Base)|Utopia]];{{r|New Mutants Vol 3 24}}
+*[[Murderworld|New Warriors HQ]];{{r|New Warriors Vol 4 6}}
+*[[Empire State University]];{{r|Chamber Vol 1 1|4}}
+*[[Massachusetts Academy]]{{r|Generation X Vol 1 2}}
+
+| Creators                = Scott Lobdell; Chris Bachalo
+| First                   = Generation X Vol 1 1
+| Death                   = 
+
+| Quotation               = Nobody wants to be alone… not even we monsters.
+| Speaker                 = [[Jonothon Starsmore (Earth-616)|Jono]]
+| QuoteSource             = Generation X Vol 1 3
+
+| History                 = 
+===Early Years===
+Jonothon Evan Starsmore was a native of [[London (England)|London]] and a mutant who possessed a furnace of psionic energy in his chest.{{r|Generation X Vol 1 1}} This power first manifested in an explosion that destroyed much of his chest and lower face and crippled his then-girlfriend [[Gayle Edgerton (Earth-616)|Gayle Edgerton]].{{r|Generation X Vol 1 12}}{{r|Weapon X Vol 2 16}} As a result of his disfigurement, Chamber could only speak via telepathy.{{r|Generation X Vol 1 42}}{{r|Generation X Vol 1 71}}
+
+===Generation X===
+Shortly after his mutant powers manifested, Jonothon accepted an invitation to join [[Xavier's School for Gifted Youngsters]]. At the airport, he was attacked by [[Marius St. Croix (Earth-616)|Emplate]], a vicious evil mutant who fed on mutant genetic material to survive, and the fledgling team of Generation X ([[Claudette and Nicole St. Croix (Earth-616)|M]], [[Paige Guthrie (Earth-616)|Husk]], [[Everett Thomas (Earth-616)|Synch]], [[Angelo Espinosa (Earth-616)|Skin]], and [[Jubilation Lee (Earth-616)|Jubilee]]) arrived to fight [[Marius St. Croix (Earth-616)|Emplate]] off.{{r|Generation X Vol 1 1}} Shortly after, Chamber convinced the crazed [[Monet St. Croix (Earth-616)|Penance]] to stop attacking the team, as he could sympathize with her freakish appearance; she came to live with the team.{{r|Generation X Vol 1 3}}
+
+[[File:Generation M Vol 1 1 Textless.jpg|left|thumb|180px|Chamber]]
+Some time later, Emplate captured Chamber with Gayle's help and then imprisoned both of them. Gayle blamed Jono for ruining her life, but the two managed to get over the pain after the rest of Generation X freed them.{{r|Generation X Vol 1 12|14}} Chamber later became romantically involved with Husk, although their relationship was awkward and strained, and was terminated on more than one occasion.{{r|{{cl|Generation X Vol 1 5}}-[[Generation X Vol 1 7|7]]}}{{r|Generation X Vol 1 44}}{{r|Generation X Vol 1 48}}
+
+Chamber grew even more depressed when he saw that Synch, who could duplicate a nearby mutant's powers, was more proficient with Chamber's own powers than Chamber himself was.{{r|Generation X Vol 1 49}}{{r|Generation X Vol 1 52}} When the school was outed as harboring mutant students, an anti-mutant group attacked the school. After Synch was killed preventing a bomb from killing nearby human students, the [[Generation X (Earth-616)|Generation X]] kids felt that their training was over, and they had to use their powers to help humanity.{{r|Generation X Vol 1 70}}
+
+===X-Men===
+When the students moved on from the [[Massachusetts Academy]], Jono was offered a position with the [[X-Men (Earth-616)|X-Men]]. He declined however and returned to London, where he hooked up with pop star [[Sugar Kane (Earth-616)|Sugar Kane]], creating a publicity blitz for the singer, but Chamber ditched her after she told him she was using him for her image and joined the X-Men.{{r|Uncanny X-Men Vol 1 395|398}}
+
+As an X-Man, Chamber investigated the apparent murders of mutant students of the pro-species-coexistence [[Students for Tolerance (Earth-616)|Students for Tolerance]] at [[Empire State University]]. He got to know a reptilian mutant, [[Amber (Mutant) (Earth-616)|Amber]], and also [[Walter (X-Men Students) (Earth-616)|Walter]], a paraplegic formerly hostile to the mutants but who later joined the new ESU-Xavier Institute exchange student program. The relationship with Amber quickly ended before it began when she came to believe he was only interested in her when she used her shapeshifting abilities to take on a more conventionally attractive form. After that he asked to be relieved from active duty with the X-Men, claiming that he still had much to learn.{{r|Chamber Vol 1 1|4}}
+
+Returning to the X-Men, Chamber saw [[Paige Guthrie (Earth-616)|Husk]] in the arms of [[Warren Worthington III (Earth-616)|Archangel]].{{r|Uncanny X-Men Vol 1 422}} After this, he destroyed a bar with his mutant powers, and the X-Men turned him over to the police after he punched Warren in the face. While in prison, locked in a power-dampening helmet, Chamber received a visit from [[Brent Jackson (Earth-616)|Brent Jackson]], who offered him an invitation to join the [[Weapon X (Team) (Earth-616)|Weapon X]] program. He accepted, though in reality he infiltrated the group on behalf of the X-Men. Weapon X restored his damaged body, but in the end, there was a rebellion in [[Neverland]].{{r|Weapon X Vol 2 15|21}} Chamber made sure to help as many of his fellow mutants as he could, but this happened during [[M-Day]]. Chamber, like many of the mutants in Neverland and those being held by Weapon X, lost his powers. His new device that held his mutation at bay got destroyed, leaving a gaping hole in his chest and no jaw.{{r|Generation M #1}}
+
+Probably due to his psi-powers replacing most of his lungs and heart, Cyclops was unsure if Chamber had lost his powers. When they found out, Beast made a machine to keep him alive and Cyclops left him to be cared for at a hospital on life support while things cooled down at the mansion, and he was visited by the reporter [[Sally Floyd (Earth-616)|Sally Floyd]],{{r|Generation M #1}} [[Frederick Slade (Earth-616)|Frederick Slade]] posing as a therapist, and by the English mutant [[Peter Wisdom (Earth-616)|Pete Wisdom]] of [[Excalibur (Earth-616)|Excalibur]].{{r|New Excalibur Vol 1 9}}
+
+[[File:Jonothon Starsmore (Earth-616) from New Excalibur Vol 1 9 0001.jpg|200px|left]] 
+Because of Wisdom's visit, he was moved to England by members of [[Clan Akkaba (Earth-616)|Clan Akkaba]], descendants of [[En Sabah Nur (Earth-616)|Apocalypse]], who used the blood of Apocalypse to heal the hole in his chest that had existed since his powers first manifested. He was also revealed as a fellow descendant of Apocalypse and was told that his powers would eventually return along with the cure, which granted him an Apocalypse look, with grey skin and blue lips.{{r|New Excalibur Vol 1 9}}
+
+He was offered membership in the Clan, but he rejected the offer, and left without opposition. He immediately ran into the new Excalibur team, who were looking for him since his abduction by the Clan. They offered to let him join them, but Jono said that he had had it with the X-Men and just wanted to live his own life.{{r|New Excalibur Vol 1 9}}
+
+===New Warriors===
+When the New Warriors leader [[Donyell Taylor (Earth-616)|Night Thrasher]] found Jono, he was about to commit suicide, unable to live with his Apocalypse-like appearance. Night Thrasher tried to help him by giving him purpose as part of a new incarnation of the [[New Warriors (Earth-616)|New Warriors]].{{r|New Warriors Vol 4 9}} To this purpose, he moved to New York, where he joined former teammate and fellow depowered mutant Jubilee on a fight against the constraints of the Registration Act.{{r|New Warriors Vol 4 1|3}}
+[[File:Jonothon Starsmore (Earth-616) from New Warriors Vol 4 3 001.jpg|200px|right|Technology-based powers]]
+
+He assumed the identity of '''Decibel''' and was equipped with a sonic harness capable of generating powerful sound waves and solid sound constructs.{{r|New Warriors Vol 4 6|7}} Together with the New Warriors, he apprehended numerous villains like the [[Paul Duval (Earth-616)|Grey Gargoyle]], [[Blanche Sitznski (Earth-616)|Anaconda]] and the [[Aleksei Sytsevich (Earth-616)|Rhino]], never missing the chance to publicly slam Tony Stark and the [[50-State Initiative (Earth-616)|Initiative]].{{r|New Warriors Vol 4 1|3}}
+
+Their perfect strike would be wrecked after their confrontation with the new [[Zodiac (Baal Abib) (Earth-616)|Zodiac]]. During the battle, [[Christine Cord (Earth-616)|Longstrike]] was killed, and [[Sofia Mantega (Earth-616)|Sofia Mantega]] was gravely injured, after a surprise appearance that gave the team a winning chance. In the aftermath of the tragedy, Night Thrasher decided to disband the team, not wanting anyone else to die on his watch. However, after a speech by Sofia, the team realized they had found a new family with one another. They decided to remain a team, with or without Night Thrasher. Surprisingly, he too was moved by their dedication and chose to remain with the Warriors and train them even harder.{{r|New Warriors Vol 4 4|6}}
+
+The following days, Night Thrasher became increasingly absent during key moments in their missions and still refused to reveal his true identity to the team, making Jubilee suspicious of him. Jono, who was the closest to Jubilee, tried to make her see all the good Thrasher had done for them, despite his mysteries, but to no avail. Jubilee would continue to advocate Thrasher couldn't be trusted, but never got the support of her teammates. This would soon change after their mission to take out the [[Samuel Saxon (Earth-616)|Machinesmith]], when Jubilee discovered that they'd been lied about the true reason for their attack. With the support of her team at last, they asked for Thrasher to come clean with them, but Jono's grave injuries sustained during the battle provided an excuse to delay this further.{{r|New Warriors Vol 4 9|13}}
+
+After Jono's recovery, the team followed Thrasher during one of his disappearances and found themselves in a confrontation with [[Counter Force (Earth-616)|Counter Force]]. In the climax of the battle, realizing there was no simpler way to end the conflict, Donyell finally revealed his true identity to both the former and current Warriors.{{r|New Warriors Vol 4 14|15}}
+
+They remained together for some time and travelled in time to try and stop the Civil War from happening, but after the death of two more members, the team disbanded and they parted ways,{{r|New Warriors Vol 4 20}} with Jono making his way to [[Utopia (X-Men Base)|Utopia]].{{r|Age of X: Alpha Vol 1 1}}{{r|New Mutants Vol 3 24}}
+
+===Repowered and back with the X-Men===
+After the events of [[Age of X]] Jono was repowered and returned to his old appearance.{{r|New Mutants Vol 3 24}} He was said to be taking the return of his power (and subsequent loss of his chest and lower face) very hard,{{r|X-Men: Legacy Vol 1 248}} but he stayed on Utopia and rejoined the X-Men.{{r|X-Men: Schism Vol 1 2}}
+
+[[File:Jonothon Starsmore (Earth-616) from X-Men Vol 3 40 0002.png|left|thumb|Old powers back]]
+After the X-Men [[Schism (Event)|Schism]], Jono chose to go with [[James Howlett (Earth-616)|Wolverine]] to start the [[Jean Grey School For Higher Learning|Jean Grey School]]. He gave classes about the physical change of mutations. One day, while doing so, the class was attacked by [[Michael Pointer (Earth-616)|Weapon Omega]], which forced Jono to defend his students.{{r|X-Men: Legacy Vol 1 264}}
+
+During the [[Avengers vs. X-Men (Event)|war between the Avengers and the X-Men]], Jono tried to remain neutral.{{r|Wolverine and the X-Men Vol 1 10}} And, even when his colleagues were charging into battle, his only concern was assuring his students' safety.{{r|X-Men: Legacy Vol 1 266|267}}
+
+When [[David Haller (Earth-616)|David Haller]] lost control over his power and sub-personas due to the mental shock caused by his father's death, he started to wreak havoc around [[Asia]]. Chamber was part of the team that was assembled to track him down and stop him. When the X-Men finally found Haller and engaged in battle with him, David used the power of his sub-persona named "The Skinsmith" to warp the skin around the hole in Chamber's chest and face causing the pressure from his power to build up. However, the pressure was stabilized by [[Beast (Earth-616)|Beast]] by creating a hole with a pen. Chamber and the rest of the team chased David into an ammo store. Chamber fired a blast at the hut causing the ammo to explode and seemingly incinerate David. David escaped however, by folding reality and escaping.{{r|{{cl|X-Men: Legacy Vol 2 2}}-[[X-Men: Legacy Vol 2 4|4]]}}
+
+Later, [[Ruth Aldine (Earth-616)|Blindfold]] recruited Chamber, along with [[Joanna Cargill (Earth-616)|Frenzy]] and [[Megan Gwynn (Earth-616)|Pixie]], to aid Legion in a fight against the [[Johann Shmidt (Clone) (Earth-616)|Red Skull]].{{r|X-Men: Legacy Vol 2 12}}
+
+When one of Legion's sub-personas went rogue and attacked the planet, infecting the human populace with overwhelming hatred and attempting to cause a nuclear war to wipe out the world, Chamber was one of a team of X-Men that responded to Legion's calls for aid. Chamber was killed by a blast of energy fired by the monster,{{r|X-Men: Legacy Vol 2 22}} but was revived not long afterwards.{{r|X-Men: Legacy Vol 2 24}}
+
+[[File:Jonothon Starsmore (Earth-616), Jubilation Lee (Earth-616) and Shogo Lee (Earth-616) from Generation X Vol 1 87 001.jpg|right|thumb|With Shogo and Jubilee]]
+Eventually, he became the mentor of a new generation of students, alongside his former teammate Jubilee. Bonding through misadventures involving [[Shogo Lee (Earth-616)|Shogo]] and their students, Jono and Jubilee grew closer and got romantically involved.{{r|Generation X Vol 2 1}}{{r|{{cl|Generation X Vol 2 6}}-[[Generation X Vol 2 7|7]]}}{{r|Generation X Vol 1 85|87}}
+
+===Morlock Affairs===
+After the mutant decimation caused by [[Nathaniel Grey (Earth-295)|Nate Grey]] and Jubilee's apparent death, Chamber looked after Shogo and decided to go underground, joining and leading the mutant community of [[Morlocks (Earth-616)|Morlocks]]. Dedicated to protecting his community, Jono refused [[Scott Summers (Earth-616)|Cyclops]]' offer to rejoin the X-Men. However, the Morlocks once again came under attack from the [[Marauders (Earth-616)|Marauders]], and with much of their number slaughtered, Jono rejoined the team to secure a safe haven for the surviving members, and also to pursue the Marauders. When the X-Men finally tracked down the Marauders, there was a short fight after the Marauders proclaimed their innocence. Chamber, not believing them, burned them to death. Their death was avenged by [[Kodiak Noatak (Earth-616)|Harpoon]], who struck Chamber with an energized harpoon. Though [[Hope Summers (Earth-616)|Hope Summers]] avenged this injury, Chamber succumbed to his wounds.{{r|Uncanny X-Men Vol 5 14|18}}
+
+===Krakoa===
+Following the foundation of a mutant state in [[Krakoa (Earth-616)|Krakoa]] by the hand of [[Charles Xavier (Earth-616)|Charles Xavier]] and his allies, Chamber resurfaced as a citizen of the nation, having been presumably reborn by the hand of [[Five (Earth-616)|The Five]],{{r|New Mutants Vol 4 1}} a group of mutants capable of combining their powers into a process of resurrection, brought together by Xavier as part of his plans for mutant ascension.{{r|House of X Vol 1 5}} Chamber joined the reformed [[New Mutants (Earth-616)|New Mutants]] and went on a mission to the [[Shi'ar Empire]] with the intent of bringing [[Samuel Guthrie (Earth-616)|Cannonball]] to Krakoa.{{r|New Mutants Vol 4 1}}
+
+| Powers                  = Chamber is a [[Homo superior|mutant]].
+
+[[File:Jonothon Starsmore (Earth-616) and Gayle Edgerton (Earth-616) from Weapon X Vol 2 16 001.jpg|200px|right|Jono's power manifestation]] 
+
+He was for a time depowered,{{r|Generation M #1}} but [[David Haller (Earth-616)|Legion]]'s [[Age of X|reality warping]] later recreated his old appearance along with his powers.{{r|New Mutants Vol 3 24}}
+
+He was stated by [[Peter Wisdom (Earth-616)|Pete Wisdom]] to be a '''potential [[Mutant Power Level Classification#Omega Level Mutants|Omega-Class]] [[Homo superior|mutant]]''', after his repoweration by [[En Sabah Nur (Earth-616)|Apocalypse]]'s blood.{{r|New Excalibur Vol 1 9}}
+
+'''Psionic Biokinesis:''' Chamber was a mutant who was naturally composed of pure psionic energy. In truth his physical body was just a shell for what he truly was.{{r|Generation X Vol 1 11}}{{r|Generation X Vol 1 50}}{{r|Official Handbook of the Marvel Universe A-Z Vol 1 3}} The initial emergence of his powers blew a hole in his chest and lower face, completely incinerating most of his internal organs.{{r|Weapon X Vol 2 16}}{{r|Official Handbook of the Marvel Universe A-Z Vol 1 3}} Because of this, Chamber no longer needed to eat, drink, or breathe.{{r|Generation X Vol 1 11}} Oddly enough, Chamber's blood did continue to flow through his extremities.{{r|New Excalibur Vol 1 9}}{{r|Generation X Vol 2 9}}
+* '''''Biokinetic Flame:''''' Chamber constantly created and unleashed psionic charges of energy that could strike with volatile force. This energy could be projected as a blast from his chest, a series of guided streams that struck specific targets, or as a massive eruption striking in all directions.{{r|Generation X Vol 1 1}}{{r|Uncanny X-Men Vol 1 395}}
+* '''''Telepathy:''''' After the manifestation of his powers and the loss of half his face, Chamber could only speak via telepathy.{{r|Generation X Vol 1 42}} Chamber was seemingly not capable of probing thoughts, however, after a lot of training, he could use his abilities to hear someone's thoughts, if they intended to communicate with him.{{r|Generation X Vol 1 71}}
+
+| Abilities               =
+| Strength                = 
+| Weaknesses              =
+| Equipment               = [[File:Jonothon Starsmore (Earth-616) and Sofia Mantega (Earth-616) from New Warriors Vol 4 7 001.jpg|250px|right|Creating solid constructs]]
+'''Sonic powers technology:''' Jonothon, as Decibel, used advanced technology to create sound-based energy powers of an unknown degree.{{r|New Warriors Vol 4 7}} He was shown flying, creating individual force fields around multiple targets (four shown),{{r|New Warriors Vol 4 4}} creating solid-sound energy constructs,{{r|New Warriors Vol 4 7}} and also energy blasts.{{r|New Warriors Vol 4 3}}
+| Transportation          =
+| Weapons                 =
+
+| Notes                   = * In the first Generation X novel he was able to fly by using a special device that harnessed his psionic energy. This device was omitted when the novel was adapted into the [[Generation X Annual Vol 1 1997|Generation X 1997 Annual]].
+| Trivia                  = * [[Martinique Wyngarde (Earth-616)|Martinique Wyngarde]] stated in {{cl|Uncanny X-Men Vol 1 404}} that Jono could do so much more than communicate through low-level telepathy, even obtain mind control powers, all he had to do was actually work on it.
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = * [http://uncannyxmen.net/characters/chamber uncannyxmen.net Spotlight On... Chamber]
+}}
+[[Category:Telepaths]]
+[[Category:Acoustikinesis]]
+[[Category:Force Field]]
+[[Category:Flight]]
+[[Category:Self Sustenance]]
+[[Category:Utopians]]
+[[Category:Repowered Mutants]]
+[[Category:Jean Grey School faculty]]
+[[Category:Concussive Blasts]]
+[[Category:Depowered Mutants Technology Users]]
+[[Category:Biological Manipulation]]
+[[Category:Akkaba Family]]
+[[Category:Potential Omega Level Mutants]]
+[[Category:Empire State University Student]]
+[[Category:Xavier Institute Student]]
+[[Category:Psionic Entities]]

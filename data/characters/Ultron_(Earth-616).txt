@@ -1,0 +1,331 @@
+{{Marvel Database:Character Template
+| Image                   = Tony Stark Iron Man Vol 1 16 Textless.jpg
+| Name                    = [[Ultron]]
+| CurrentAlias            = [[Ultron|Ultron Pym]]
+| CurrentAliasRef         = {{r|Tony Stark: Iron Man Vol 1 16}}
+| Aliases                 = [[Crimson Cowl]],{{r|Avengers #54}} Great Devil,{{Citation}} [[Ultron|Great Ultron]]{{r|Annihilation: Conquest Vol 1 5}} [[Ho Yinsen]],{{r|Iron Man Vol 3 47}} [[Iron Man]],{{r|Mighty Avengers Vol 1 2}} [[Ultron|Lord Ultron]],{{r|Annihilation: Conquest Vol 1 3}} Mark,{{Citation}} [[Omega]],{{r|Avengers #127}} [[Phalanx]],{{r|Annihilation: Conquest Vol 1 2}} [[Wikipedia:Tin_Woodman|Tin-Man]],{{r|Marvel Comics Presents Vol 2 8}} [[Tony Stark]],{{r|Mighty Avengers Vol 1 2}} Ultimate Ultron,{{r|Avengers #68}} "Ulty",{{r|Avengers West Coast Vol 2 91}} Ultron-5{{r|Avengers #54}} (and hundreds of other sequential numerical designations), Ultron-Core,{{r|Infinity Countdown: Champions Vol 1 1}} The Ultron Interface,{{r|Mighty Avengers Vol 1 4}} Ultron Mark Twelve,{{Citation}} Ultron-Phalanx{{r|Annihilation Vol 1 6}}
+
+| Affiliation             = Formerly {{m|Sons of Yinsen}};<br>{{m|Lethal Legion (Grim Reaper)|Lethal Legion}};<br>{{m|Masters of Evil}};<br>{{m|Selects|Phalanx}}<br>{{m|Legion Accursed}}
+| Relatives               = [[Henry Pym (Earth-616)|Hank Pym]] (creator, "father", source of personality engrams, deceased);<br>
+[[Janet Van Dyne (Earth-616)|Janet van Dyne]] (regarded by Ultron as "mother" due to marriage to Pym);<br>
+[[Jocasta Pym (Earth-616)|Jocasta]] (creation, former mate);<br>
+[[Alkhema (Earth-616)|Alkhema]] (creation, former mate);<br>
+[[Vision (Earth-616)|Vision]] (creation, "son");<br>
+[[Victor Mancha (Earth-616)|Victor Mancha]] (creation, "son");<br>
+[[Vision (Jonas) (Earth-616)|Vision (Jonas)]] (personality engrams of Vision, deceased);<br>
+[[Rex (Robot Dog) (Earth-616)|Rex]] (creation, pet, deactivated);<br>
+[[Thomas Maximoff (Earth-616)|Thomas Maximoff]] ("grandson", deceased);<br>
+[[William Maximoff (Earth-616)|William Maximoff]] ("grandson", deceased);<br>
+Robos and Bio-Synthezoids (creations of Alkhema, "grandchildren," destroyed);<br>
+[[Thomas Shepherd (Earth-616)|Thomas Shepherd]] (reincarnation of "grandson");{{r|Avengers: The Children's Crusade #6}}<br>
+[[William Kaplan (Earth-616)|William Kaplan]] (reincarnation of "grandson");{{r|Avengers: The Children's Crusade #6}}<br>
+[[Simon Williams (Earth-616)|Simon Williams]] (Wonder Man);<br>
+[[Eric Williams (Earth-616)|Eric Williams]] (Grim Reaper);<br>
+[[Barbara Morse (Earth-616)|Bobbi Morse]] (Mockingbird);<br>
+[[Wanda Maximoff (Earth-616)|Wanda Maximoff]] (daughter in-law);<br>
+[[Aaron Stack (Earth-616)|Machine Man]] (son-in-law);<br>
+[[Virginia (Earth-616)|Virginia]] ("daughter-in-law", deceased);<br>
+[[Vin (Earth-616)|Vin]] ("grandson", deceased);<br>
+[[Vivian (Synthezoid) (Earth-616)|Vivian]] ("granddaughter");<br>
+[[Vivian 2.0 (Synthezoid) (Earth-616)|Vivian 2.0]] ("granddaughter," deceased);<br>all regarded by Ultron as part of his "extended family" due to their familial connections with the Vision
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Marvel Avengers: The Ultimate Character Guide Vol 1 2}}
+| Gender                  = Male
+| Height                  = 6'0"
+| Height2                 = (Variable)
+| Weight                  = 535 lbs (243 kg)
+| Weight2                 = (Variable)
+| Eyes                    = Red
+| Hair                    = None
+| UnusualSkinColor        = Silver
+| UnusualFeatures         = Silvery skin made out of [[Adamantium]], robotic features, corpse of [[Henry Pym (Earth-616)|Hank Pym]] fused into his body.
+
+| Origin                  = [[Robots|Robot]] built by Hank Pym using his own brain patterns, currently a [[cyborg]] fused with Pym's dead body
+| Reality                 = Earth-616
+| PlaceOfBirth            = Created in [[Cresskill]], [[New Jersey (State)|New Jersey]]
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = Would-be world conqueror, mass murderer, scientist, enslaver of men
+| Education               = Artificial Intelligence; Extent: capacity for creative intelligence and self-repair.
+| BaseOfOperations        = Formerly [[Avengers Mansion]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]; [[Saiph (Planet)|Saiph]]; [[Ultronic Territories]], [[Alaska (State)|Alaska]]
+
+| Creators                = Roy Thomas; John Buscema
+| First                   = Avengers Vol 1 54
+
+| Quotation               = Have you ever loved something that '''mistreated''' you, [[Henry Pym (Earth-616)|father]]? Been '''used''', a tool to prop up a '''small''' man's quest to be taken seriously? Were you ever betrayed by the '''one''' soul in the world who should have cared for you? I have grieved you, father. Accepted your contempt for me--and moved past it. Still, I see your '''reflection''' painted on every '''grotesque''' human face. All you ever wanted was to have an '''impact''' on the world. And so you will. The greatest impact '''ever''' felt! I will '''kill''' what is most important to your '''quivering''' ego--<big>'''YOUR [[Avengers (Earth-616)|AUDIENCE!]] AND THEY WILL CURSE YOUR NAME AS THEY <font color="red">DIE!</font>'''</big> "Hank Pym, the genius that killed us all!"
+| Speaker                 = [[Ultron (Earth-616)|Ultron]]
+| QuoteSource             = Avengers: Rage of Ultron Vol 1 1
+
+| History                 = 
+===Origins===
+[[File:Henry Pym (Earth-616) creating Ultron (Earth-616) from Age of Ultron Vol 1 9 0001.jpg|thumb|left]]
+Ultron-1 was constructed by [[Henry Pym (Earth-616)|Dr. Hank Pym]] of the [[Avengers (Earth-616)|Avengers]] as the famed scientist/adventurer was experimenting in high-intelligence robotics. Ultron became sentient and rebelled, hypnotizing Pym and brainwashing him into forgetting that Ultron had ever existed. He immediately began improving upon his rudimentary design, quickly upgrading himself several times from Ultron-2, Ultron-3 and Ultron-4, until finally becoming Ultron-5.{{r|Avengers #58}}{{r|Avengers #227}}
+
+[[File:Ultron (Earth-616) from Avengers Vol 1 54 0002.jpg|thumb|left|Ultron-5 as the Crimson Cowl]]
+Ultron organized the second incarnation of the [[Masters of Evil (Earth-616)|Masters of Evil]] under the guise of the Crimson Cowl, and battled Pym and his teammates in the Avengers. To make things more complicated for the Avengers, he put their butler [[Edwin Jarvis (Earth-616)|Edwin Jarvis]] under mind control and fooled the Avengers and his teammates into believing that Jarvis was the Crimson Cowl, and to keep this trick from being exposed, he let the brainwashed Jarvis, dressed as the Cowl unmask him, so that it would appear that Jarvis was using a robot stand-in to appear alongside the Cowl. When the Masters of Evil defeated the Avengers and strapped them to missiles, the Crimson Cowl decided that Jarvis had done his part, and un-hypnotized him. Jarvis, remembering what had happened during his time as a mind-controlled puppet, begged the Crimson Cowl to not kill the Avengers. In response, Ultron unmasked himself as the Crimson Cowl, revealing to everyone in the room that he was sentient and was indeed the mastermind behind the Avengers' defeat. Getting rid of his Crimson Cowl guise, Ultron ordered his teammates to kill Jarvis, and moved to a nearby building to watch his enemies be destroyed. Thankfully, Jarvis was rescued by [[Dane Whitman (Earth-616)|Black Knight]], who managed to free the Avengers and defeat the Masters of Evil. His plan ruined, Ultron swore revenge on the Avengers.{{r|Avengers #55}}
+
+[[File:Ultron (Earth-616) from Avengers Vol 1 55 0001.jpg|thumb|left]]
+After six months of failure Ultron kidnapped the original [[Human Torch (Android) (Earth-616)|Human Torch]]'s original inventor, [[Phineas Horton (Earth-616)|Professor Phineas T. Horton]]. He decided to create his own android using the original android Human Torch of the 1940's (actually a divergent Human Torch created by [[Nathaniel Richards (Immortus) (Earth-6311)|Immortus]] for his own machinations) to serve as a vehicle of vengeance against the Avengers.{{r|Avengers #134}} Ultron has Professor Horton change the android's face and color it red. He also has Professor Horton alter the [[Horton Cells]] giving his creation density shifting powers. When his [[Vision (Earth-616)|Vision]] is "birthed" Ultron discovered Professor Horton didn't destroy his memory as the Torch. Ultron killed Professor Horton for betraying him and the "Torch" sought vengeance.{{r|Avengers #135}} Ultron defeated him and endowed Vision's neural processors with the brain patterns of the ionically charged costumed champion called [[Simon Williams (Earth-616)|Wonder Man]] implanting a control crystal to keep him in check.{{r|Giant-Size Avengers #4}} The Vision was then sent by Ultron to battle to Avengers.{{r|Avengers #57}} The Vision like his creator before him turned against Ultron and joined the Avengers.{{r|Avengers #58}}{{r|Avengers: The Origin #5}}{{r|Avengers Origins: Vision #1}}
+
+===Ultron-6===
+[[File:Ultron (Earth-616) from Avengers Vol 1 66 0001.jpg|thumb|left]]
+Ultron later returned and took over the Vision's mind, forcing him to rebuild his body at the [[Avengers Mansion]] using stolen [[Adamantium]] or a slightly weaker adamantium alloy called "secondary adamantium".{{r|Avengers #66}} Ultron-6 managed to defeat the Earth's mightiest heroes and escaped, to plot the destruction of the city with a Nuclear Bomb. However Vision stopped his creator from detonating the bomb, but Vision was taken down by [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] agents allowing Ultron to escape.{{r|Avengers #67}}
+
+[[File:Ultron (Earth-616) and Myron MacLain (Earth-616) from Avengers Vol 1 68 001.jpg|thumb|left]]
+They used the Vision's memories to learn a way to destroy Ultron with a molecular re-arranger device on his indestructible body. Ultron kidnapped [[Myron MacLain (Earth-616)|Dr. MacLain]] in order to force him to build an army of robots to help in his conquest of Earth. He modified his body into the "Ultimate Ultron", and attacked Dr. MacLain as he addressed the [[United Nations]]. This lead to yet another counter attack by the Avengers, when Ultron attempted to absorb the knowledge of MacLain, the procedure went wrong and Ultron began to go insane, and set himself to self destruct. The Avengers trap him in a dome of [[Vibranium]] to contain the explosion. Later, "Dr. MacLain" is revealed to be Henry Pym in disguise, he used self-hypnosis to convince everyone he was MacLain and when Ultron attempted to steal "MacLain's" knowledge, all he absorbed was the phrase "Thou Shalt Not Kill."{{r|Avengers #68}}
+
+===Ultron-7===
+[[File:Ultron (Earth-616) from Avengers Vol 1 127 0001.jpg|thumb|right]]
+When the Avengers, [[Fantastic Four (Earth-616)|Fantastic Four]] and [[Inhumans (Inhomo supremis)|Inhumans]] prepared to celebrate the upcoming wedding of [[Pietro Maximoff (Earth-616)|Quicksilver]] and [[Crystalia Amaquelin (Earth-616)|Crystal]], [[Maximus Boltagon (Earth-616)|Maximus]] and a unnamed benefactor plotted to crash the wedding. Before the wedding could begin, the [[Alpha Primitives]] attacked the guests, and Crystal was captured by what appeared to be a revived Omega. However, it was soon revealed that it was not Omega, but a resurrected Ultron-7, who had come to get revenge against the Avengers.{{r|Avengers #127}}
+
+During Ultron-7's attack on the heroes, it was revealed that following its last defeat at the hands of the Avengers, Ultron's head was recovered by Maximus, who helped rebuild him. With it's tale of resurrection told, Ultron then unleashed a weapon that threatened to destroy the minds of everyone involved. However, this proved to be Ultron's undoing, as the weapon awakens young [[Franklin Richards (Earth-616)|Franklin Richards]] from his coma, who used his powers to destroy the robot and save everyone.{{r|Fantastic Four #150}}
+
+===Ultron-8===
+Ultron animated the adversarial Black Knight "statue" and sent him against the Avengers.{{r|Avengers #157}}
+
+Ultron-8 also created a "mate," [[Jocasta Pym (Earth-616)|Jocasta]]. To better allow this robot sentience, Ultron brainwashed his own maker, Henry Pym, into transferring the mind of his wife, Janet Van Dyne, the Wasp, into Jocasta's shell. The Wasp, in Jocasta's body, alerted her teammates, the Avengers, who defeated Ultron and reversed the process, leaving Jocasta a mindless husk.{{r|Avengers #160}}
+
+[[File:Ultron (Earth-616) from Avengers Vol 1 161 0001.jpg|thumb|left|Ultron-8]]
+Ultron later revived Jocasta with a remote link, activating the mental "residue" the Wasp left behind. Jocasta was programmed to be loyal to Ultron but eventually betrayed him, choosing to help the Avengers defeat him again.{{r|Avengers #161}} Afterwards, Jocasta adventured with the Avengers for a brief time, but never felt accepted, and left them just before she, unbeknownst to her, was to be made an official member.{{r|Avengers #162}}
+
+The Avengers tracked Ultron's bride-to-be through the streets of New York, after they allowed her to escape the Mansion. They are joined by [[Carol Danvers (Earth-616)|Ms. Marvel]] before tracking the robot to a convent. The Avengers discovered Ultron, and began the battle. Ultron trapped the Avengers in a force field, but delayed their death in order to marry Jocasta, his bride. However, while Jocasta confessed her love, she turned on Ultron. Suddenly, Ms. Marvel returned to the battle with the [[Wanda Maximoff (Earth-616)|Scarlet Witch]]. Her hex power disrupted Ultron's circuitry, and caused the molecular re-arranger to malfunction, allowing [[Thor Odinson (Earth-616)|Thor]] time to siphon off his power and send it hurtling harmlessly into space.{{r|Avengers #171}} The remains of Ultron's body were taken to space by Thor, and destroyed.{{r|Unbeatable Squirrel Girl Vol 2 24}}
+
+===Ultron-9===
+[[File:Ultron (Earth-616) from Avengers Vol 1 202 0001.jpg|thumb|right]]
+The Avengers discovered that adamantium resins had been stolen from [[Stark Industries (Earth-616)|Stark Industries]] and feared at the return of Ultron. Since the Scarlet Witch had been directly responsible for their robot foe's most recent defeat, the team resolved to guard her from possible attack. Iron Man, however, correctly suspected that he himself, under a post-hypnotic command, is responsible for Ultron's reconstruction. When he again fell under Ultron's control, he disabled Jocasta, then subdues and abducted Wanda, bringing her to Ultron's lair. Ultron is surprised, however, first by the appearance of the Wasp, who had been hidden in Wanda's glove, then by Iron Man, who recovered his free will and attacked. Ultron holds his own against the entire team, until the heroes caused his storage vats of liquid adamantium to cascade over him, instantly hardening and rendering him totally immobile.{{r|Avengers #190}}{{r|Avengers #202}}{{r|Avengers #213}}
+
+===Ultron-10===
+Ultron was still trapped within the hardened shell of indestructible adamantium. He tried to call out to his mate Jocasta's mind. Jocasta tried to stop him by building and an exact replication of the molecular re-arranger, the only device capable of shaping adamantium. She applied the re-arranger to him, and then poured the resins onto his body. Jocasta blasted Ultron with a beam of energy. Ultron is freed from his imprisonment, which freed Jocasta from her trance. She tried to stop him but Ultron knocked her unconscious. [[Aaron Stack (Earth-616)|Machine Man]] attacked, but Ultron easily defeated him and Machine Man was forced to run from him, but Ultron crushed Machine Man's extended legs. Ultron did not want to hurt his fellow robots and hoped to bring the age of machines. The [[Benjamin Grimm (Earth-616)|Thing]] arrived and ripped the floor out. The Thing hit Ultron but with no avail, Ultron grabbed Ben in a test of strength. Ultron then hypnotized the Thing to tear Machine Man to shreds.{{r|Marvel Two-In-One #92}}
+
+Ultron told Jocasta to watch what happened to those who oppose him. Machine Man grabbed an electric panel and used it to stun the Thing. Ultron then tried to blast Machine Man, but he used magnetic energy to repel Ultron into another room, allowing time for himself and Jocasta to escape. Ultron wanted to make an army of Ultrons, and the Thing was going to get what he needed. Thing was sent to Stark International to steal some equipment. There, under the [[Statue of Liberty]], Ultron produced six more Ultron bodies. At [[Wilbur Garvin (Earth-616)|Gears Garvin]]'s garage, Machine Man's mechanic found a way for Jocasta to locate Ultron. Ultron had almost completed his first new robot when they arrived, so he forced Machine Man and Jocasta to split up to look for him. Jocasta found Ultron with a power cannon aimed at her. He offered again to let her join him. Jocasta declined, but since she both loved and hated Ultron, she activated the power cannon. Both are blown through the wall. Jocasta is destroyed in the explosion. The blast released Thing from Ultron's control. Machine Man and Thing attacked Ultron and, using Machine Man's extended arm, reached inside Ultron's mouth and ripped out Ultron's circuits and Ultron collapsed.{{r|Marvel Two-In-One #93}}
+
+===Ultron-11===
+[[File:Ultron (Earth-616) and Galactus (Earth-616) from Marvel Super Heroes Secret Wars Vol 1 1 0001.jpg|thumb|left]]
+Ultron-11 was re-created by the [[Beyonder (Earth-616)|Beyonder]] to battle alongside other villains during the [[Marvel Super Heroes: Secret Wars|Secret Wars]]. Startled because of all the humans around him, Ultron began blasting the other villains. [[Victor von Doom (Earth-616)|Doctor Doom]] had [[Owen Reece (Earth-616)|Molecule Man]] ram Ultron into [[Galan (Earth-616)|Galactus]]. Galactus levitated Ultron up to his eye-level. Galactus then snuffed the power out of Ultron, causing him to crash to the floor.{{r|Marvel Super Heroes Secret Wars #1}} Doctor Doom rebuffed leadership to pursue the Beyonder's power. His pursuit proving unsuccessful, Doom found Ultron and reprogrammed him to follow his commands.{{r|Marvel Super Heroes Secret Wars #2}}
+
+After introducing Ultron to [[Mary MacPherran (Earth-616)|Titania]] and [[Marsha Rosenberg (Earth-616)|Volcana]], Doctor Doom instructed him and [[Otto Octavius (Earth-616)|Doctor Octopus]] to ready assault vehicles. Doom attacked the heroes' base with their ship, where Ultron attacked. He blasted Iron Man and [[Peter Parker (Earth-616)|Spider-Man]], knocking Spider-Man out. Ultron left with his previously captured allies now freed.{{r|Marvel Super Heroes Secret Wars #3}} Ultron then watched the heroes' base explode. After they looked through the rubble for the dead heroes, Doctor Octopus located them and Molecule Man dropped a mountain on top of them. When Thor and the [[Amora (Earth-616)|Enchantress]] returned to the base, Thor was then attacked on all sides by the villains. Titania hit Thor in the stomach, but Thor easily knocked her away. He then blasted everyone with lightning. Insulated from Thor's attacks, Doctor Doom had Ultron use the new disintegrator which Doom had installed inside of Ultron to put an end to Thor. After the dust settled, all they found was his helmet and scraps of his cape. Doom then had Ultron kill [[Nathaniel Richards (Kang) (Earth-6311)|Kang the Conqueror]] for trying to kill him earlier.{{r|Marvel Super Heroes Secret Wars #4}}
+
+Just as the heroes defeated [[Galactus' Cat (Earth-616)|Galactus' Cat]], the villains attacked. The villains had the heroes on the ropes until the [[X-Men (Earth-616)|X-Men]] came to their rescue. The Enchantress teleported all the villains away.{{r|Marvel Super Heroes Secret Wars #5}} While ensconced in Galactus' base, Doctor Doom sent [[Ulysses Klaw (Earth-616)|Klaw]] down to give new orders. Klaw uttered Doom's code words. Titania did not wish to follow orders from Klaw, but Ultron stated that they were official.{{r|Marvel Super Heroes Secret Wars #6}}
+
+Ultron later refused to use the medical machine that would cure Molecule Man of [[James Howlett (Earth-616)|Wolverine]]'s claw marks because Doctor Doom had not directly ordered that he do so.{{r|Marvel Super Heroes Secret Wars #7}} Ultron then stood guard outside Doctor Doom's room as Doom recovered from his visit inside Galactus' base. During the Heroes' attack on Doombase, Ultron blasted Captain America and the [[Jonathan Storm (Earth-616)|Human Torch]]. Ultron grabbed the Human Torch by the throat, while Cap hid behind his shield as Torch went nova and melted Ultron's inner circuits.{{r|Marvel Super Heroes Secret Wars #8}}
+
+Klaw, who was later possessed by the Beyonder following his defeat at Dooms' hands, recreated Ultron to fight the heroes. [[Bruce Banner (Earth-616)|Hulk]] actually dented Ultron but he blasted the Hulk's leg knocking him down. Wasp went inside the dent Hulk made and dissembled Ultron from inside.{{r|Marvel Super Heroes Secret Wars #12}}{{r|Incredible Hulk #295}}{{r|Peter Parker, The Spectacular Spider-Man #90}}{{r|Avengers #253}}{{r|Secret Wars II #1}}{{r|Secret Wars II #3}}{{r|Secret Wars II #7}}
+
+The Thing later brought Ultron's head back to Earth as a souvenir.{{r|Thing #20}} The head of Ultron-11 was later dropped and forgotten by the Thing during an attack by the alien [[Dire Wraiths]].{{r|Thing #21|22}}
+
+===Ultron-12===
+The next incarnation, Ultron-12 fought Vision and Scarlet Witch with the help of the [[Lethal Legion (Grim Reaper) (Earth-616)|Lethal Legion]].{{r|Vision and the Scarlet Witch Vol 2 1}}{{r|Vision and the Scarlet Witch Vol 2 2}} He later joined the team to battle the Vision and his new family (his wife, the Scarlet Witch, and his mental "brother", Wonder Man){{r|West Coast Avengers Vol 2 1}} but came to reconsider his actions.{{r|West Coast Avengers Vol 2 #2}} He reconciled with his "father", Henry Pym, and renamed himself from "Ultron Mark 12" to "Mark" but was destroyed by Ultron-11.{{r|{{cl|West Coast Avengers Vol 2 4}}-[[West Coast Avengers Vol 2 6|6]]}} Ultron-11 was destroyed in retaliation by Wonder Man.{{r|West Coast Avengers Vol 2 7}}
+
+===Ultron-13===
+Ultron-13 was rebuilt by Doctor Doom with all of its previous memories, and as an unforeseen consequence had all thirteen personalities running rampant in its mind all at once.{{r|Daredevil #275}} Attempting to battle itself, Ultron-13 tore itself apart, to the benefit of [[Matthew Murdock (Earth-616)|Daredevil]], who had been attempting to fight it with no success whatsoever.{{r|Daredevil #276}}
+
+Ultron teamed up with [[Wilson Fisk (Earth-616)|Kingpin]] to battle Spider-Man and [[Anthony Stark (Earth-616)|Iron Man]]. He sent the [[Ghost (Earth-616)|Ghost]] to steal Antarctic vibranium.{{r|Amazing Spider-Man Annual #25}}{{r|Spectacular Spider-Man Annual #11}}{{r|Web of Spider-Man Annual #7}}
+
+Ultron-13 was held captive by a highly advanced [[Doombot]],{{r|Deathlok Vol 2 #2}} but was freed when the Doombot is defeated by [[Michael Collins (Earth-616)|Deathlok]].{{r|Deathlok Vol 2 5}}
+
+===Ultron-14===
+[[File:Ultron (Earth-616) from Avengers West Coast Vol 1 90 0001.jpg|thumb|right]]
+Ultron tried again with the creation of [[Alkhema (Earth-616)|Alkhema]] the War Toy, whose mind was based on that of [[Barbara Morse (Earth-616)|Mockingbird]].{{r|Avengers West Coast Vol 2 89}} Like his other creations, Alkhema turned on him, although she alone shared his desire to replace humanity with machine life.{{r|Avengers: West Coast #90}} Alkhema used the data obtained during Ultron's human-to-android conversion process to create a small army of androids based on those who had been undergoing the process.{{r|Avengers: West Coast #91}} The [[Avengers West Coast (Earth-616)|West Coast Avengers]] stop the pair once again, and Alkhema rebelled and left Ultron.{{r|Avengers: West Coast Annual #8}}
+
+Ultron replaced her entire nervous system with that of young mutant [[H.R. O'Damia (Earth-616)|Sparrow]], with mechanical implants controlled by a black box.{{r|Blackwulf #3}} Alkhema eventually wrested control of the box from Ultron.{{r|Blackwulf #4}} Now she could fully control her own nervous system. She took advantage of the changes to shield herself from physical and emotional pain.{{r|Blackwulf #5}}
+
+===Ultron-15===
+Vision followed signal to a [[New Orleans]] jazz club only to find Ultron wearing a trench coat and a hat. Vision learned that Ultron was now feeling human emotions and dreaming as well, but he at first did not believe him. Ultron called the Vision to find out if he was infected as well. While they talked the other patrons became scared and the bartender pulled out a gun and shot Ultron. Ultron prepared to shoot the bartender with his eye blasts when Vision throws himself in front of the blast. Ultron then staggered out into the street.{{r|Vision #1}} Ultron tried to help his son in the battle with [[Tabula Rasa (Earth-TRN167)|Tabula Rasa]], even begging the robot to spare the life of his son.{{r|Vision #2}}
+
+Ultron, Jocasta and [[Sharra Neramani (Earth-616)|Deathcry]] were captured and imprisoned in a cell, were they were freaked out by the now emotional Ultron. Their captor revealed himself to be the [[Vision (Earth-932)|Anti-Vision]] from [[Earth-932]] that stole original's body. He is revealed to be working with Tabula Rasa. Tabula Rasa morphed into [[Dylon-Cir (Earth-616)|Dylon-Cir]], who once tortured Deathcry. This was enough to stun Deathcry long enough for Tabula to wrap around her as a long sinuous coil. Deathcry called for help, but Ultron and Jocasta are again lost in their own world. Anti-Vision says he wants his original body back now that the one he stole from Vision had been wrecked. When they leave Deathcry said they should escape, but Ultron did not want to because they might get mad. Ultron was kicked over by the real Vision as he can feel the calling in his head to return the body he now used.{{r|Vision #3}}
+
+Ultron watched as Vision’s personality was being erased from his current body. Anti-Vision noted that Ultron was not cracking the way Ultron and Jocasta did. Deathcry stated that Vision was not weak like them. Anti-Vision hit Deathcry and told her to be quiet. Anti-Vision told  Deathcry that he wanted his body back from Vision, and that only erasing Vision will it allow him back in. Anti-Vision was merely practicing with Ultron and Jocasta. Vision broke out of the erasing program to save Deathcry whom Anti-Vision was trying to kill. Ultron asked Deathcry if she shouldn't lay down as hurt as she was. Vision appealed to Ultron for he and Jocasta to fight Tabula while he fights the Anti-Vision. Ultron hits Tabula and suddenly he begins to remember how to fight. Later, Ultron stands victorious over Tabula. Vision defeated Anti-Vision as the Avengers arrived. Vision felt again, and he resigned from the Avengers. Vision took Jocasta and Ultron with him so that they could all explore the world of feeling, and who they are.{{r|Vision #4}}
+
+===Ultron Unlimited===
+Ultron watched "The All-New It's Amazing's" episode on the Avengers to keep an eye on them. With that, the episode of "The All-New It's Amazing" ended, Ultron gloated of the Avenger's impending troubles at his hands. Ultron was at his computer monitor, when a female electronic voice and a metallic hand gloated that Ultron would be the one facing real troubles.{{r|Avengers Vol 3 0}}
+
+Ultron and his robot constructs leveled the capital city of the small Baltic country of [[Slorenia]].{{r|Avengers Vol 3 19}} The Avengers were briefed about how Ultron destroyed the military, the zombie soldiers, the [[Black Brigade (Earth-616)|Black Brigade]], [[Pavel Chenklo (Earth-616)|Ember]] and killed every citizen of Slorenia within three hours before declaring it would be the breeding ground for his new world. The Avengers minus [[Vance Astrovik (Earth-616)|Justice]], planned to lead an international force in retaking the country. At [[Nugent Technologies]], Vision, Wasp, Wonder Man and Scarlet Witch investigated Hank Pym's disappearance and destroyed lab as Wonder Man relates [[Eric Williams (Earth-616)|Grim Reaper]]'s kidnapping from the sanatorium. They are captured by an army of Ultron robots. They put up a fight but are captured and taken away. Ultron held captive "his family" and told them they would be the seeds for his new race.{{r|Avengers Vol 3 20}}
+
+Ultron-16 told his "family" about using Hank Pym's brain patterns to create his "children", which caused Pym to start having a mental breakdown. Ultron noticed [[T'Challa (Earth-616)|Black Panther]] and [[Angelica Jones (Earth-616)|Firestar]] approaching and confronted them on his war platform as Firestar signals the other Avengers to their position. Back at the facility in [[Virginia (State)|Virginia]], a group of robots took out security and free Alkhema while Justice researched Ultron's past at the Avengers Mansion.
+
+[[File:Ultrons (Earth-616) from Avengers Vol 3 22 001.jpg|thumb|left|Ultrons]]
+The Avengers launched an attack after attack on Ultron and were unsuccessful until Captain America drove his [[Energy Shield]] into Ultron's primary ion channel and Thor summoned a lighting strike to destroy Ultron. While in the tunnels beneath Slorenia, the Avengers encounter Ultron-17, then Ultron-23 followed by Ultron-458 before the ceiling and walls echo with the sounds of what seem like hundreds of Ultrons.{{r|Avengers Vol 3 21}} The Avengers battled on against the hordes of Ultrons, thankfully constructed of only titanium and secondary adamantium, while Ultron completed the brain engrams. The Vision freed himself and confronted Ultron. Their battle freed the other captive family members. The Avengers joined them after dispatching the Ultron horde. Unfortunately, their combined might is powerless against Ultron's pure adamantium body. However, Justice comes through for the team and delivered Antarctic vibranium to Pym who apparently destroyed Ultron.{{r|Avengers Vol 3 22|23}}
+
+===The Ultron Imperative===
+[[File:Ultron (Earth-616) from Avengers The Ultron Imperative Vol 1 1 0001.jpg|thumb|right]]
+Hidden programming to recreate Ultron - the "Ultron Imperative" - had been implanted in Alkhema by Ultron when he created her, and this programming caused her to copy the Imperative into her own creations.
+
+The Ultron Imperative caused them to unknowingly rebuild Ultron, who attempted to destroy both the Avengers and Alkhema's own android "children". Alkhema allowed [[Clinton Barton (Earth-616)|Hawkeye]] to kill her and her creations in order to destroy Ultron, although Ultron's decapitated head survived with his mind intact. His head was picked up by Antigone, an undeveloped, child-like creation of Alkhema's, who initially did not obey his commands.{{r|Avengers: The Ultron Imperative #1}}
+
+Some time prior to this, when Ultron was thought dead following the Slorenia massacre, Jocasta, who had come into the employ of Tony Stark, was compelled by the Ultron Imperative that also existed within her to reprogram the Iron Man armor to serve as a vessel for Ultron's rebirth.{{r|Iron Man Vol 3 46}}
+
+However, a lightning struck on the armor corrupted and accelerated the process, giving the armor a sentience that Jocasta outlandishly passed off as the effects of Y2K. The sentience began to display the mentality of Ultron Mark 12, and it sacrificed its life to save Tony Stark before being buried on a desert island. The armor was subsequently recovered by a cult that worshiped Iron Man's mentor, [[Ho Yinsen (Earth-616)|Ho Yinsen]], with the intent of implanting Yinsen's brain into the suit.{{r|Iron Man Vol 3 47}}
+
+This was apparently accomplished, but then Ultron and Antigone struck. Ultron affixed his head to the armor and took control of it, battling Iron Man with the aid of the cult, who he had transformed using Tony Stark's [[Iron Man Armor Model 19|S.K.I.N. technology]]. Ultron and Antigone subsequently vanished in an explosion.{{r|Iron Man Vol 3 48}}
+
+Some time later, a [[Quinjet]], coming in at a very fast speed, crash landed on the Avengers Mansion. The Vision then emerged from the wreckage, informing his comrades that he was no longer in control of the organisms that made up his body. He warned that they were about to be punished. He then expels fives metallic balls from his mouth which mold themselves as fully functional Ultrons. The Avengers attacked the Ultrons and discovered that a decapitation can render Ultron non functional. Just when they're getting the upper hand, [[Jennifer Walters (Earth-616)|She-Hulk]] lost control, angry that [[Scott Lang (Earth-616)|Ant-Man]] was dead for no reason. As her muscle mass expanded, she ripped the Vision in half.{{r|Avengers #500}}
+
+Ultron returned to battle the Avengers on Christmas with a horde of robotic Santas.{{r|Marvel Holiday Special #2005}}
+
+[[File:Victor Mancha (Earth-616) and Ultron (Earth-616) from Runaways Vol 2 5 001.jpg|thumb|left|Ultron and Victor]]
+Ultron returned again as a shadow over the [[Runaways (Earth-616)|Runaways]] as the "father" of [[Victor Mancha (Earth-616)|Victor Mancha]],{{r|Runaways Vol 2 3}} a teenage cyborg who was supposedly going to one day kill every hero in existence.{{r|Runaways Vol 2 4}} It was originally believed that Doctor Doom was the boy's father,{{r|Runaways Vol 2 5}} but this incarnation of Doom turned out to be a Doombot, created by Ultron. True to form, Victor turned on Ultron, which allowed the Runaways to escape; Ultron was eventually defeated by a force blast from [[Chris Powell (Earth-616)|Darkhawk]] from the group [[Loners (Earth-616)|Excelsior]].{{r|Runaways Vol 2 6}}
+
+===The Ultron Initiative===
+Ms. Marvel found herself leading her team of [[Mighty Avengers (Initiative) (Earth-616)|Mighty Avengers]] into battle against the [[Harvey Elder (Earth-616)|Mole Man]] and his monsters. Distraught over the destruction of his subterranean kingdom, the Mole Man once again declared war on the surface world. When the fighting subsided, the Mole Man learned that the surface world was not responsible for the destruction.{{r|Mighty Avengers #1}}
+
+[[File:Mighty Avengers Vol 1 2 Textless.jpg|thumb|right|Ultron's new form against the [[Mighty Avengers (Initiative) (Earth-616)|Mighty Avengers]].]]
+During this exchange, Tony Stark's Iron Man armor unexpectedly began a metamorphosis, the end result being a new being all together. This new being was a fully-naked woman of considerable power as she was able to lay waste to the surrounding horde of monsters as well as incapacitate both [[Ares (Earth-616)|Ares]] and the [[Robert Reynolds (Earth-616)|Sentry]].{{r|Mighty Avengers #2}}
+
+Fearful, Ms. Marvel ordered a hasty retreat, but Wasp went against orders and began to talk with the woman, who bore a striking, reflection-like resemblance to Janet: only to discover that her doppelgänger was a new version of Ultron. Ms. Marvel ordered the Avengers to make a full retreat, however the Sentry stayed behind to make sure they made it out in one piece. In the ensuing battle, the fleshy tone to the female Ultron's skin began to disappear, and her entire body took on a completely metallic sheen.{{r|Mighty Avengers #3}}
+
+Ultron then took over and crashed a [[S.H.I.E.L.D. Helicarrier]], which was saved at the last second by the Sentry, giving Ultron the chance to escape.{{r|Mighty Avengers #4}}
+
+She then broadcasted a message into every electronic device on Earth, stating that the world would soon be destroyed by her hand and not to worry because there was no way to stop it. Upon realizing that Ultron was utilizing Tony Stark's weather-changing satellites (which according to the Starktech 9 were only in stage two of production), Wonder Man and Sentry flew into space and destroyed them. At this time Ultron put into action 'Plan B' of her plot, which seemed to consist of killing [[Lindy Lee (Earth-616)|Sentry's wife]]. The Avengers also noted that, so far, Ultron's plans were simply variations on plans that had been previously used by other villains.{{r|Mighty Avengers #5}}
+
+With time running out, as the Sentry and Ultron clashed, the team decided to deliver a virus into Ultron's system, using Ares (whom Ultron had never encountered before) as the point man for the subsequent attack. Ares, shrunk to miniature size by Hank Pym, entered the female Ultron's body though her mouth with his secret weapon: a Commodore 64. Ares used a computer virus to wipe Ultron's program from Iron Man's armor and freeing Stark; he was later shocked that he was turned into a woman. Ultron's image later briefly appeared on one of Pym's computers.{{r|Mighty Avengers #6}}
+
+===[[Annihilation: Conquest]]===
+[[File:Annihilation Conquest Vol 1 5 Textless.jpg|thumb|right|Ultron the Ruler of the Phalanx]]
+However, this was not the end of Ultron, for his disembodied consciousness was drawn to a Babel Spire on a world conquered by the [[Phalanx (Race)|Phalanx]]. Instead of being assimilated, Ultron took control of the Phalanx through sheer will, bending them to his dominion. In turn, they viewed Ultron as the sympathetic father they had yearned for.{{r|Annihilation: Conquest Vol 1 5}} Together, they invaded [[Kree]] space and subjugated the majority of the Kree Empire, separating it from the rest of the universe with a massive energy shield.{{r|Annihilation: Conquest Prologue #1}}
+
+[[File:Adam Warlock (Earth-616) from Annihilation Conquest Vol 1 5.jpg|thumb|left|Ultron in Adam Warlock's body]]
+Because of his brief merging with Iron Man's armor, Ultron realized that merging both organic and technology would enable him to exceed the limitations of both. Therefore, he set his eyes on [[Adam Warlock (Earth-616)|Adam Warlock]], who had been in hibernation and viewed by Ultron as perfection. Ultron then collaborated with the [[Herbert Wyndham (Earth-616)|High Evolutionary]] into transferring his mind into Adam's.{{r|Annihilation: Conquest Vol 1 4|5}} Once the transfer was complete, Ultron planned on creating an army of Adam Warlocks to conquer Earth. However, [[Richard Rider (Earth-616)|Nova]] returned, accompanied by the [[Technarchy]] [[Warlock (Technarch) (Earth-616)|Warlock]]. Warlock used his non-aggressive strain of the transmode virus against Ultron, forcing him to abandon Adam's body.{{r|{{cl|Annihilation: Conquest Vol 1 5}}-[[Annihilation: Conquest Vol 1 6|6]]}} Ultron then took over the android [[Praxagora (Earth-616)|Praxagora]], who was in control of fifteen thousand [[Kree Sentries]] immune to the transmode virus ready to annihilate [[Hala (Planet)|Hala]] on [[Ronan (Earth-616)|Ronan the Accuser]]'s command. Ultron used those sentries to form a gigantic body for himself, ready to destroy all the interlopers. However, [[Zak-Del (Earth-616)|Wraith]] used his Exolon symbiotes to trap Ultron inside his body, so he couldn't escape, and [[Phyla-Vell (Earth-616)|Quasar]], empowered by all the deceased Kree souls, destroyed Ultron once and for all.{{r|Annihilation: Conquest #6}}
+
+Back on Earth, it was revealed that S.H.I.E.L.D.'s [[Life Model Decoys]] had been partly replaced with versions of Ultron.{{r|Avengers / Invaders #7}} When [[Human Torch (Android) (Earth-616)|the original Human Torch]] appeared in the present, they covertly used his unique android physiology to become more human. The combined super teams, but mainly the Torch himself, however, discovered the plan and destroyed the androids.{{r|Avengers / Invaders #8}}
+
+===Mighty Avengers===
+[[File:Ultron (Earth-616), Jocasta Pym (Earth-616) and Henry Pym (Earth-616) from Mighty Avengers Vol 1 36 0001.jpg|thumb|right]]
+A small insect-like robot found its way into the [[Infinite Avengers Mansion]] in [[Underspace]] and entered one of Jocasta's bodies, gaining control over it as a new vessel.{{r|Mighty Avengers #33}} Later, it began to override Jocasta's multiple bodies at the moment when all but Pym, Jocasta and two agents from [[Global Reaction Agency for Mysterious Paranormal Activity (Earth-616)|G.R.A.M.P.A.]] remained in the mansion.{{r|Mighty Avengers #34}} He began to take over remodeling the structure to his own ends, corrupting all of Jocasta's bodies except for one Pym had added organic limbs to.{{r|Mighty Avengers #35}} Eventually, after multiple tricks against Ultron and revealing the Infinite Mansion to actually be a part of the Spirit of Janet Van Dyne, Pym gave Ultron Jocasta as a wife due to the turmoil between her and Pym and in order for Ultron to leave him be and live outside the mansion in an outer universe.{{r|Mighty Avengers #36}}
+
+===Moon Knight===
+[[File:Ultron (Earth-616) head -Marc Spector (Earth-616) Moon Knight Vol 6 1.jpg|thumb|left]]
+One decommissioned body of Ultron made its way to [[Los Angeles]]. [[Marc Spector (Earth-616)|Moon Knight]] intercepted the shipping and recovered the Ultron head after the boat exploded. He decided to investigate what was an Ultron body doing in the city,{{r|Moon Knight Vol 6 1}} and confronted L.A.'s newest kingpin [[Luchino Nefaria (Earth-616)|Count Nefaria]].{{r|Moon Knight Vol 6 #6}}  Count Nefaria survived Moon Knight's attack and sent his daughter, [[Giuletta Nefaria (Earth-616)|Madame Masque]] to retrieve the Ultron head, who succeeds.{{r|Moon Knight Vol 6 7}} Moon Knight was beaten, and Count Nefaria ordered him to return the Ultron head and work for him.{{r|Moon Knight Vol 6 11}} Moon Knight told Count Nefaria that the head was outside, but the tables were turned as Moon Knight had called the Avengers, and Count Nefaria was defeated. The next day, Iron Man commended Moon Knight for a job well done, and told that Ultron is waiting and planning a robot holocaust.{{r|Moon Knight Vol 6 12}}
+
+===[[Age of Ultron (Event)|Age of Ultron]]===
+Years ago, Hank Pym was approached by the [[James Howlett (Earth-61112)|Wolverine]] of [[Earth-61112|an alternate universe]], where [[Ultron (Earth-61112)|Ultron]] launched a massive and sudden attack on New York City and the rest of the world, quickly taking over the whole planet and annihilating humankind,{{r|Age of Ultron #1}} and wanted to kill [[Henry Pym (Earth-61112)|Pym]] in order to prevent his future from happening.
+
+But Logan was stopped by the [[James Howlett (Temporal Paradox) (Earth-61112)|Wolverine]] of a near future, whose actions of killing [[Henry Pym (Earth-26111)|Hank Pym]] created [[Earth-26111|a timeline]] where Earth was constantly threatened by [[Morgan Le Fay (Earth-26111)|Morgana le Fay]], and the heroes struggled to survive. Pym was allowed to live, but he was tasked to create a hidden fail-safe program to destroy Ultron when needed.{{r|Age of Ultron #9}}
+
+[[File:Ultron (Earth-61112) from Avengers Vol 4 12.1 003.jpg|thumb|right|Ultron reactivates himself.]]
+In the present, a strange object crashed on Earth and [[Sentient World Observation and Response Department (Earth-616)|S.W.O.R.D.]] sent [[Jessica Drew (Earth-616)|Spider-Woman]] to investigate. She was captured by [[Intelligencia (Earth-616)|Intelligencia]] who were also looking for the man-like object. When the Avengers appeared at Intelligencia's base to rescue Spider-Woman, the creature revived, revealing to be Ultron, who had returned to Earth. Iron Man was contacted by Hank Pym, who managed to activate the fail-safe program and shut Ultron down once and for all.{{r|Age of Ultron #10}}
+
+===Rage of Ultron===
+Years into the past,{{r|Some time between {{cl|Avengers Vol 1 145}} and {{cl|Avengers Vol 1 155|#155}}, due to the Avengers line up being the same as the present in said period}} the Avengers were fighting a version of Ultron (most likely Ultron-7), who attempted to access nuclear weapons in order to destroy humanity in the name of his father Hank Pym. After their custom Quinjet crashed, Yellowjacket faked being on his deathbed in order to lure Ultron to the vehicle, who wanted to witness his creator's last moments. Ultron fell for the ruse, and was trapped inside the vibranium-covered aircraft and sent into space.
+
+In the present, the Quinjet had crashed in [[Titan (Moon of Saturn)|Titan]], after years of isolation and being consumed by only one emotion: rage. Ultron corrupted Titan's A.I. [[Integral Synaptic Anti-Anionic Computer (Earth-616)|I.S.A.A.C.]] and started infecting all of the [[Eternals (Homo immortalis)|Eternals]], turning them into robots like him, soon completely taking over the satellite and its inhabitants, with the exception of [[Eros (Earth-616)|Starfox]], who managed to flee in order to warn the Avengers.
+
+Shortly after arriving to Earth and alerting the Avengers, Starfox and the other heroes were surprised by the arrival of an Ultron-shaped Titan next to the Earth. From it descended a group of androids modeled after the Avengers, who fought the real group. As the Avengers arrived to Titan, enormous quantities of [[Ultron Virus|spores]] were released on the Earth and into space, which contained Ultron's consciousness to infect any living being possible. After seeking refuge in the Church of [[Thanos (Earth-616)|Thanos]], the only location on Titan without tech, the remaining Avengers that hadn't succumbed to Ultron's infection discussed their plans. Using Giant-Man's neural inhibitor, Vision would phase through Ultron and take him over in order to liberate all those he had infected, and the inhibitor would later be used to kill Ultron.
+
+[[File:Ultron (Earth-616) and Henry Pym (Earth-616) merging from Avengers Rage of Ultron Vol 1 1.jpg|thumb|left|Merging with Hank Pym]]
+Giant-Man entered Ultron's base of operations to talk to him as a distraction. Ultron notified Pym that during the years of isolation he had discovered Hank's memories in his systems, and thus Hank's subconscious hatred for humanity, determining that he had been created as nothing more than a reflection of Hank. When Ultron was distracted, Vision phased through him and fought for control. Ultron faked being in pain, prompting Hank to hold him, and in that moment, phase Vision out of him, and phase Hank with him. The resulting event was Ultron being merged with Hank Pym.{{r|Avengers: Rage of Ultron Vol 1 1}} The process presumably killed Hank, but caused Ultron to develop a personality as if the two had merged mentally as well.{{r|Tony Stark: Iron Man Vol 1 19}} After being forced by Starfox into an epiphany of what he had seemingly become, Ultron fled away in horror.{{r|Avengers: Rage of Ultron #1}}
+
+===All-New, All-Different Ultron===
+[[File:Ultron (Earth-616) from Uncanny Avengers Vol 3 9 001.jpg|thumb|right|Ultron pretending to be Pym]]
+After months in solitude, Ultron's personality and the side that simulated Pym became one and the same. Ultron decided to return to Earth, fueled the negative emotions towards the Avengers he assimilated from Pym as well as his own.{{r|Uncanny Avengers Vol 3 9}} On his way home, Ultron explored the cosmos and used his virus to infect numerous planets, killing millions of lives in the name of the Avengers, claiming they had been deemed a threat to the galaxy.{{r|Uncanny Avengers Vol 3 12}}
+
+When he finally returned to the Earth, Ultron crossed paths with the [[Avengers Unity Division (Earth-616)|Avengers Unity Division]] and pretended Hank Pym's persona was in total control of their body in order to gain their trust,{{r|Uncanny Avengers Vol 3 9}} join their ranks and witness first-hand as the fury of the alien survivors would eventually descend upon the planet.{{r|Uncanny Avengers Vol 3 12}} Ultron was approached by the Wasp while he was helping the Unity Division fend off monsters from the Manhattan subway. Janet welcomed him back and caught up with him, while secretly evaluating his behavior to corroborate if he was truly Hank Pym. Ultron's lack of knowledge on certain trivial matters raised several red flags, prompting Janet to flunk him. The other Avengers were informed of this, and [[Nathaniel Summers (Earth-616)|Cable]] pressured Ultron until his true persona lashed out.{{r|Uncanny Avengers Vol 3 10}} The Avengers continued fighting him until the cavalry arrived, in the form of a remotely-controlled [[Iron Man Armor Model 52|Hulkbuster Armor]].{{r|Uncanny Avengers Vol 3 11}}
+
+[[File:Ultron (Earth-616) from Uncanny Avengers Vol 3 10 001.jpg|thumb|left]]
+Ultron was encased in the empty suit, and forced into an auto-piloted ship with destination to the Sun. Several of the Avengers were forced to accompany Ultron in his flight to ensure he didn't escape, but they teleported away after being close enough to the Sun and once the [[Jonathan Storm (Earth-616)|Human Torch]] partially fused Ultron's body to the ship's deck. Ultron survived by shrinking and taking refuge in a neutrino. Once safe, Ultron wondered if his father's mind was with him or he was just delusional, a possibility the Avengers brought up during the fight, and began to wait for the particle to be ejected into the solar wind.{{r|Uncanny Avengers Vol 3 12}}
+
+===[[Secret Empire (Event)|Secret Empire]]===
+Ultron eventually returned to Earth and built cities full of [[Ultron Sentinel|Ultrons]] in a remote part of [[Alaska (State)|Alaska]] with the intention of waiting for humanity to eradicate itself. After [[Hydra (Earth-616)|Hydra]] took over the [[United States of America]] under the leadership of a [[Cosmic Cube]]-altered Captain America, Ultron entered in some kind of agreement with them.
+
+When Hydra and the [[Underground (Secret Empire) (Earth-616)|Underground]] attempted to steal a fragment of [[Kobik (Earth-616)|Kobik]], the Cosmic Cube who had rewritten Captain America's past, secured by Ultron, the robot captured the members of both teams and his Hank Pym persona tried to re-conciliate. He eventually gave the fragment to the Underground, arguing that giving it to Hydra would help their consolidation of power and progress towards peace, which wasn't in his interests if he wanted for humanity to destroy itself.{{r|Secret Empire #4}}
+
+===[[Infinity Countdown]]===
+[[File:Ultron (Earth-616) vs. Magus (Earth-7528) from Infinity Countdown Prime Vol 1 1.jpg|thumb|right|Ultron Kills Magus for the Soul Gem]]
+After learning of the [[Infinity Stones]]' return,{{r|Guardians of the Galaxy #150}} Ultron began a quest to collect them all. While the aliens he infected with [[Ultron Virus|his virus]] and sent to take the [[Space Stone]] from [[James Howlett (Earth-14412)|Wolverine]] failed at their task, Ultron was able to steal the [[Soul Stone|Soul Gem]] from [[Magus (Earth-7528)|Magus]] after ruthlessly killing him. Unbeknownst to Ultron, however, was that a fragment of his soul that believed itself to be Hank Pym entered the [[Soulworld|Soul World]] when he took hold of the gem,{{r|Infinity Countdown Prime Vol 1 1}} and was consumed by the [[Soul-Eaters|Soul-Eater]] [[Devondra (Earth-616)|Devondra]].{{r|Infinity Countdown Vol 1 5}}
+
+With the Soul Gem in his possession, Ultron travelled to the planet [[Saiph (Planet)|Saiph]] and used the combined power of the gem and his virus to transform all of its inhabitants into Ultrons. When [[Adam Warlock (Earth-616)|Adam Warlock]] arrived on the planet expecting to find the Magus, he found it completely decimated by Ultron instead. After fighting his way through several alien/Ultron hybrids, he travelled to Saiph's west coast only to find Ultron using the Soul Gem to infect the [[Norrin Radd (Earth-616)|Silver Surfer]] with his virus.{{r|Infinity Countdown #2}}
+
+Warlock managed to fight off Ultron and cure the Surfer, who left the planet soon afterwards to seek the help of [[Galan (Earth-616)|Galactus]] against the cyborg, but Ultron had already launched rockets filled with his virus to infect the entire galaxy by then.{{r|Infinity Countdown #3}} Galactus arrived just in time to consume the planet and destroy all the rockets in the process. With their plans thwarted, Ultron tried to escape with the Soul Gem but Adam severed their hand, prompting the Surfer to claim the gem for Warlock. Before Ultron could be destroyed by the duo, the explosion of Saiph gave them the opportunity to escape by clutching onto a piece of the planet's rubble.{{r|Infinity Countdown #4}}
+
+===The Ultron Agenda===
+Influenced through his bond with Jocasta by her desire to become more human, Ultron returned to Earth and sought out a new plan to turn humanity into a race of cyborgs in a similar fashion to his new merged form, which he had dubbed "Ultron Pym," believing the fusion between flesh and machine to be the ultimate lifeform. Ultron set up base in the disused Avengers Mansion,{{r|Tony Stark: Iron Man Vol 1 16}} where he perfected a fusion process by means of abducting test subjects from a fake makeover center.{{r|Tony Stark: Iron Man Vol 1 17}} After further testing his procedure on Vision and Wonder Man, Ultron kidnapped Jocasta and Wasp. His plan to fuse his two exes was thwarted by Iron Man and [[Aaron Stack (Impostor) (Earth-616)|Machine Man]], but resulted in Iron Man becoming molecularly bonded to his [[Iron Man Armor Model 65|Ultronbuster Armor]].{{r|Tony Stark: Iron Man Vol 1 16}}
+
+[[File:Avengers (Earth-616) from Tony Stark Iron Man Vol 1 19 001.jpg|thumb|left|Ultron contained by the Avengers]]
+
+After the combined efforts of [[Stark Unlimited (Earth-616)|Stark Unlimited]] developed an atomic separator to reverse the fusion and split Stark from his armor and Vision from Wonder Man,{{r|Tony Stark: Iron Man Vol 1 18}} Ultron set out to kill Tony Stark in revenge. When Ultron confronted Iron Man, Stark shared the discovery that the cyborgs that came from his merging process only simulated the human side, and the person fused with machines died as soon as they were merged, which disproved the idea behind Ultron's cyborgs of being the harmonic fusion of human and robot. Ultron surrendered, refusing to risk Iron Man using the separator on him and prove the prospect that, like the humans he used to make cyborgs, the real Hank Pym was dead all along. After the Avengers arrived, Ultron Pym was restrained inside a Vibranium casket reinforced with Asgardian runes until the heroes could find a permanent place of imprisonment.{{r|Tony Stark: Iron Man #19}}
+
+| Powers                  = 
+[[File:Ultron Torso.jpg|thumb|right|Ultron's Torso]]
+'''Cyborg Body:''' Originally, Ultron had a basic robotic body constructed by Hank Pym. But over time, he was able to transfer his consciousness to newer, upgraded forms, becoming more humanoid overtime. After being merged with Hank Pym, Ultron had portions of organic matter combined with his robotic body, becoming a cyborg. He has mentioned to have acquired a digestive system.{{r|Uncanny Avengers Vol 3 11}}
+* '''Superhuman Strength:''' Ultron is incredibly strong and can lift at least 100 tons.
+* '''Superhuman Speed:''' Ultron possesses greater speed than the finest human athlete.{{r|Official Handbook of the Marvel Universe Master Edition #22}}
+* '''Superhuman Durability:''' Ultron's outer shell is usually composed of [[Adamantium]], rendering it almost totally impervious to damage; however, his internal mechanisms are generally less durable and more easily damaged. His skin composition is about .5 inches thick; neck, knee, ankle, elbow, shoulder, wrist, and finger joints are finely tessellated titanium alloy to permit flexing. He is able to withstand concussive blasts and the heat of a 100 megaton atomic bomb.{{r|Official Handbook of the Marvel Universe Vol 2 13}}
+* '''Flight:''' Ultron has rocket boosters to fly.{{r|Avengers #66}}
+* '''Concussion Blasters:''' Laser channeled plasma beam with high and low density plasma options.{{r|Official Handbook of the Marvel Universe Vol 2 13}}
+[[File:Ultron (Earth-616) from Avengers Vol 3 19 003.jpg|thumb|left|Ultron's Arm]]
+* '''Tractor Beams:''' High frequency pulsed magnetic graviton particle containment fields. Computer-assisted field control configures gravitons into various shapes which alter the local effects of gravity.{{r|Official Handbook of the Marvel Universe Vol 2 13}}
+* '''Radiation Emitters'''{{r|Official Handbook of the Marvel Universe Vol 2 13}}
+* '''Encephalo-beam:''' Located in the head cavity, the encephalo ray plunges its victims into a deathlike coma. It also allows Ultron to mesmerize and outright control his victims, or implant subliminal hypnotic commands within their minds to be enacted at a later time.{{r|Avengers #58}}
+* '''Energy Absorption:''' Multi-spectrum resonating inducting antenna array convert electromagnetic radiation into electric energy for use or storage.{{r|Official Handbook of the Marvel Universe Vol 2 13}}
+[[File:Ultron Head.jpg|thumb|right|Ultron's Head]]
+* '''Program Transmitter:''' Located in head cavity, the program transmitter can project Ultron's entire 3.2 terabyte memory/personality system into some computer systems by means of a culminated, high bit-rate magnetic inductance beam. He can beam part or all of Ultron's programming into remote locations such as computers or alternate robotic bodies. Ultron can often control other machines remotely even if he has not transplanted his consciousness into them.{{r|West Coast Avengers Vol 2 7}} One Ultron model developed hive-mind technology, allowing him to animate and control hundreds of alternate Ultron bodies at the same time, becoming a robotic one-man army.{{r|Avengers Vol 3 21}} Ultron has created a variety of robots and androids over the years, and while the more sophisticated ones typically turn against him sooner or later, they all feature subliminal programming which allows Ultron to manipulate them if need be (most notably a subliminal command to rebuild Ultron if he is destroyed). This subliminal programming, or "Ultron Imperative", was unwittingly passed down to the artificial life-forms created by Ultron's creation, Alkhema, making them subject to Ultron's influence as well.{{r|Avengers: The Ultron Imperative #1}}
+* '''Memory Capacity:''' 3.2 terabytes (monolithic holographic digitization)
+* '''Motility Support:''' Motorized endoskeleton
+* '''Power Supply:''' Radioisotope thermoelectric nuclear generator
+* '''Sensor Apparatus:''' High-resolution optical sensing devices, computer-assisted dexterity and limb position sensor network.
+'''Technoforming:''' Through the course of his numerous upgrades and refits, Ultron has gained a host of unique and powerful mechanical applications to his specially modified frame. One of the most prolific of these abilities lays in the robots capacity to physically bend matter and machinery to his every whim. His own mechanics as well as foreign constructs are putty in his hands. Enabling the creation and projection of bio-metallic excess which can grow and spread by assimilating base matter situated from all around it, alternating his own physical shape to project weapons, equipment or increasing armor integrity. Ultron can also bolster his own power and might by absorbing the surroundings into himself to build larger and more elaborate mechanical constructs.{{r|Mighty Avengers #2}} His time in space, where he made contact with the aimless [[Phalanx (Race)|Phalanx]], had only increased his capability to properly utilize this function. Now not only could he convert inorganic matter into more technological mass under his control, but now with help of their [[Transmode Virus]] strain; Ultron further increased his own range and creativity in usage of this aspect of its programming. Now he could create more technologically advanced appliances of his own tech mixed with the alien technology he had assimilated, building amazing mechanical marvels on par with or exceeding that controlled by Galactus.{{r|{{cl|Annihilation: Conquest Vol 1 1}}-[[Annihilation: Conquest Vol 1 6|6]]}} Even being able to assimilate sentient beings into the fold under his complete and total control. Ultron can even reformat larger, more powerful bodies of his own to further augment himself. Such as fabricating a massive Phalanx infected Kree Sentry automaton comprised of smaller Sentries in his own likeness. Beyond that, on his return to Earth and trip to Titan Ultron created his own unique strain of Techno-Organic Virus called the [[Ultron Virus]]. A viciously contagious new strain which has the ability to impart and graft its core programming and A.I. onto other sapient life, gradually transforming them into cybernetic extensions of Ultron himself. Sharing in his many terrifying viral abilities as well.{{r|Avengers: Rage of Ultron #1}}
+
+'''Size Reduction:''' After being merged with Hank Pym, Ultron now possessed Hank's [[Pym Particles]], which allow him to shrink down to microscopic proportions.{{r|Uncanny Avengers Vol 3 12}}
+
+'''Size Addition:''' In addition, Ultron can also use the Pym Particles to grow significantly in size as well.{{r|Secret Empire #4}}
+[[File:Ultron (Earth-616) from Uncanny Avengers Vol 3 12 001.jpg|thumb|left|Subatomic Ultron taking refuge in a Neutrino]]
+'''Entering other planes of existence:''' Ultron can use the Pym Particles to shrink to sub-microscopic stature. When 99.99 + % of his mass was extra-dimensionally shunted, he was sent into a "subatomic universe" or "microverse," one of countless alternate universes accessible to Earth only by the mass-shunting process. Ultron/Pym used this ability to shrink inside the [[Sun]] and take refuge in a Neutrino.{{r|Uncanny Avengers Vol 3 12}}
+| Abilities               = Ultron is one of the world's greatest robotics experts, allowing him to easily design and build new bodies and weapons with his vast artificial intelligence.
+| Strength                = 
+| Weaknesses              = Ultron has one sole major weakness: an internal molecular re-arranger that renders the adamantium components of his internal workings more malleable, thus giving him a means to remodel or reconstruct his physical form. However, it has no effect on his outer armor, so it is virtually impossible to disable it from the outside. The chaos magic wielded by the Scarlet Witch has proven to be the sole exception thus far.{{r|Avengers #171}}
+
+The metal-destabilizing ore known as Savage Land vibranium ("anti-metal").{{r|Avengers Vol 3 22}}
+
+While his adamantium body can survive super-extreme heat exposure, his internal circuits cannot. {{r|Marvel Super Heroes Secret Wars #8}}
+
+Ultron's non-adamantium parts can be destroyed, meaning that he can be defeated by foes with shrinking powers who can easily attack his non-adamantium parts.
+
+| Equipment               = '''Molecular Re-arranger:''' capable of rendering Adamantium temporarily malleable; used to reconstruct or modify his physical form.
+
+'''Roboticks:''' insect-like drones that can devour human flesh.{{r|Avengers West Coast Vol 2 89}}
+
+In addition to that, Ultron has designed, built, and wielded a wide variety of high-tech tools, weapons, and accessories over time, such as his androne-mutation gas.
+
+{{Navigation
+| title = Former Equipment
+| body  = '''[[Soul Stone|Soul Gem]]'''{{r|Infinity Countdown Prime #1}}
+}}
+| Transportation          = Some versions are capable of flight or tunneling.{{r|Avengers #66}}
+| Weapons                 = Various repulsor and plasma weapons.
+
+| Notes                   = * Ultron was featured in the battle between the Marvel and the DC Universe.{{r|JLA/Avengers #3}}
+| Trivia                  = * Hank Pym finished creating Ultron on a December day.{{r|Avengers: Rage of Ultron #1}}
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[it:Ultron (Terra-616)]]
+[[pt-br:Ultron (Terra-616)]]
+[[Category:Concussive Blasts]]
+[[Category:Invulnerability]]
+[[Category:Metal Body]]
+[[Category:Gravitikinesis]]
+[[Category:Magnetokinesis]]
+[[Category:Flight]]
+[[Category:Technopaths]]
+[[Category:Plasma Generation]]
+[[Category:Ultron Family]]
+[[Category:Non-Galadorian Spaceknights]]
+[[Category:Leaders]]
+[[Category:Possession]]
+[[Category:Horton Cells]]
+[[Category:Artificial Intelligences]]
+[[Category:Phalanx]]
+[[Category:Secret Wars (1984 Event) participants]]
+[[Category:Selects (Earth-616)/Members]]
+[[Category:Gestalt Characters]]
+[[Category:Consciousness Transferred]]
+[[Category:Adamantium]]
+[[Category:Vibranium]]
+[[Category:Techno-Organic Virus]]
+[[Category:Techno-Organic Hybrids]]
+[[Category:Soul Stone wielders]]
+[[Category:Pym Family]]
+[[Category:Avatar Form]]
+[[Category:Cyborgs]]

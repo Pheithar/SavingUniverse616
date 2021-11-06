@@ -1,0 +1,87 @@
+{{Marvel Database:Character Template
+| Image                   = Anthony_Davis_(Earth-616)_The_Lethal_Foes_of_Spider-Man_Vol_1_1.jpg
+| Name                    = Anthony Davis
+| CurrentAlias            = Strikeback
+| Aliases                 = [[Ringer]]
+
+| Affiliation             = {{m|Advanced Idea Mechanics (Earth-616)|A.I.M.}}
+| Relatives               = [[Leila Davis (Earth-616)|Beetle (Leila Davis)]] (wife)
+| MaritalStatus           = Married
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 5'8"
+| Weight                  = 145 lbs
+| Weight2                 = (297 lbs. as Strikeback)
+| Eyes                    = Brown
+| Hair                    = Black
+| Hair2                   = ; [[:Category:Dyed Hair|Dyed]][[Category:Dyed Hair]] [[:Category:Blond Hair|Blond]][[Category:Blond Hair]][[Category:Infobox Eyes Update Needed]]
+| UnusualFeatures         = sometimes dyed hair blonde
+
+| Origin                  = [[Homo sapiens|Human]] [[Cyborgs|Cyborg]]
+| Reality                 = Earth-616
+| PlaceOfBirth            =
+| PlaceOfDeath            = [[Bar with No Name]], [[Medina County]], [[Ohio (State)|Ohio]]
+| CauseOfDeath            = Shot by [[Scourge (Delazny) (Earth-616)|the first Scourge of the Underworld]]
+| KilledBy                = [[Scourge (Delazny) (Earth-616)]]
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Professional criminal
+| Education               = Masters Degree in Engineering
+| BaseOfOperations        = Mobile, originally in [[New York City|New York]]
+
+| Creators                = David Kraft; Keith Giffen
+| First                   = Defenders #51
+| First2                  = {{g|as Ringer}}<br>{{sld|Lethal Foes of Spider-Man Vol 1 3}}{{g|as Strikeback}}
+| Death                   = Thunderbolts #56
+
+| History                 = 
+[[File:Anthony_Davis_(Earth-616)_from_Defenders_Vol_1_51.jpg|thumb|left|First Ringer uniform.]]
+===Origin===
+Anthony Davis aka the Ringer was a minor criminal who tinkered with a suit with ring-shaped weapons. He was easily stopped by [[Kyle Richmond (Earth-616)|Nighthawk]] after breaking into a safe. During the fight, Nighthawk damaged Davis' teeth, and it took extensive dental work to repair his mouth while he served time.{{r|Defenders Vol 1 #51}}
+
+===Spider-Man===
+Disillusioned and wary of superheroes, he asked the [[Phineas Mason (Earth-616)|Tinkerer]] to upgrade the armor design. Ringer intended to sell the new armor rather than continue committing crimes. While the Tinkerer was working on it, the N.Y.P.D. surrounded the workshop. Ringer managed to sneak in and put his armor on, but was surprised by the [[Abner Jenkins (Earth-616)|Beetle]], who had also come to get armor upgrades. Beetle forced him to battle [[Spider-Man (Peter Parker)|Spider-Man]]. A modified version of Ringer's own explosive ring was wrapped around his torso to make him comply. Ringer was easily beaten and the device triggered. However, it did no damage. Beetle had simply used Ringer to gain data on Spider-Man for use in his own suit.{{r|Peter Parker, The Spectacular Spider-Man #58}}
+
+===Scourge===
+Vowing to get away from superheroes, Ringer moved to the Midwest. Ringer was one of many criminals called to a [[Bar with No Name]] in Ohio by [[Gary Gilbert (Earth-616)|Firebrand]] to meet about the threat of [[Scourge (Delazny) (Earth-616)|Scourge]]. However, Scourge was secretly the bartender. All who showed up were killed.{{r|Captain America #319|320}}{{r|Amazing Spider-Man #364}}
+
+===Strikeback===
+[[Leila Davis (Earth-616)|Leila Davis]] blamed both Spider-Man and Beetle for Davis' death. When she joined a group of other villains in attempting to kill Spidey, she was saved during the fight by her husband, who appeared as the cyborg Strikeback.{{r|Lethal Foes of Spider-Man #1}}{{r|Lethal Foes of Spider-Man #3}} Davis revealed that he had not actually died in the Scourge's massacre, but was barely alive when [[Advanced Idea Mechanics (Earth-616)|A.I.M.]] agents investigated the murder, seeking information on the technology used by the dead criminals. AIM created a new cyborg body for him, and he worked for the organization for some time before striking out on his own. As Strikeback, Davis was a much more skilled fighter than he was as the Ringer, defeating the team.{{r|Lethal Foes of Spider-Man #4}}{{r|Amazing Spider-Man #414}}
+
+===She-Hulk===
+Appeared in the gallery during the Tinkerer's court case.{{r|Sensational She-Hulk #59}}
+
+===Death===
+When [[Vincent Stegron (Earth-616)|Stegron]] damaged his cybernetic systems, which caused them to slowly break down. He however had time to enjoy a short retirement with his wife before dying. However she was later killed in battle with [[Franklin Hall (Earth-616)|Graviton]].{{r|Thunderbolts #56}}
+
+===Proto-Husk===
+[[Arnim Zola (Earth-616)|Arnim Zola]] created a proto-husk version of the Ringer, but this version was killed by [[Wade Wilson (Earth-616)|Deadpool]].{{r|Deadpool Vol 3 0}}
+
+| Powers                  = * '''Cybernetic Enhancement:''' A.I.M. scientist cybernetically enhanced his body, giving him enhanced strength, speed and durability.{{r|Official Handbook of the Marvel Universe #10}}{{r|Official Handbook of the Marvel Universe Vol 2 #19}}{{r|Official Handbook of the Marvel Universe Master Edition #19}}{{r|Official Handbook of the Marvel Universe A-Z #9}}
+
+| Abilities               =
+| Strength                =
+| Weaknesses              =
+
+| Equipment               = * '''Ringer Suit:''' Ringer used an armored suit with various ring-based weapons.{{r|Official Handbook of the Marvel Universe #10}}{{r|Official Handbook of the Marvel Universe Vol 2 #19}}{{r|Official Handbook of the Marvel Universe Master Edition #19}}{{r|Official Handbook of the Marvel Universe A-Z #9}}
+** Exploding rings
+** Freezing rings
+** Constrictor rings that could crush a victim
+** A series of interlocking rings that could be used as a whip, lasso or for climbing
+** Tinkerer added a 'matter condenser' that could form solid ring weapons from material such as soot and smog.
+
+| Transportation          =
+| Weapons                 =
+
+| Notes                   = * The Ringers early appearance is re-printed in [[Astonishing Spider-Man #49]].{{r|Astonishing Spider-Man #49}}
+* The Ringer is featured in the battle between the Marvel and DC Universe.{{r|JLA/Avengers #4}}
+| Trivia                  =
+| Links                   =
+}}
+[[Category:Armor Users]]
+[[Category:Engineers]]
+[[Category:Inventors]]
+[[Category:Thrown Weapons]]
+[[Category:Advanced Idea Mechanics Experiment]]

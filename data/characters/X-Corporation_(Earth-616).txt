@@ -1,0 +1,71 @@
+{{Marvel Database:Organization Template
+| Image                   = X-Corporation (Earth-616) from X-Corp Vol 1 1 001.jpeg
+| Name                    = X-Corporation
+| Aliases                 = X-Corp,{{r|New X-Men #129}} Xavier Corporation{{r|New X-Men #129}}
+
+| OrganizationLeaders     = [[Warren Worthington III (Earth-616)|Angel]] (Chairman), [[Charles Xavier (Earth-616)|Professor X]] (Council Liaison), formerly [[Scott Summers (Earth-616)|Cyclops]]
+| CurrentMembers          = Board of Directors: ([[Warren Worthington III (Earth-616)|Angel]], [[Selene Gallio (Earth-616)|Black Priestess]], [[Monet St. Croix (Earth-616)|M]], [[Jason Wyngarde (Earth-616)|Mastermind]], [[Shilpa Khatri (Earth-616)|Trinary]])<br> Members: [[James Madrox (Earth-616)|Multiple Man]], [[Sofia Mantega (Earth-616)|Wind Dancer]], [[Jumbo Carnation (Earth-616)|X-Jumbo]]
+| FormerMembers           = 
+''Paris''<br>
+[[Samuel Guthrie (Earth-616)|Cannonball]], [[Laynia Petrovna (Earth-616)|Darkstar]], [[Holly (X-Corporation) (Earth-616)|Holly]], [[Monet St. Croix (Earth-616)|M]], [[James Madrox (Earth-616)|Multiple Man]], [[Julio Richter (Earth-616)|Rictor]], [[Ruth Bat-Seraph (Earth-616)|Sabra]], [[Theresa Cassidy (Earth-616)|Siryn]]
+<br>''Los Angeles''<br>
+[[Manuel de la Rocha (Earth-616)|Empath]], [[Amara Aquilla (Earth-616)|Magma]], [[Sally Blevins (Earth-616)|Skids]], [[Skitz (Earth-616)|Skitz]], [[Stringfellow (Earth-616)|Stringfellow]], [[Roberto Da Costa (Earth-616)|Sunspot]]
+<br>''Hong Kong''<br>
+[[Neena Thurman (Earth-616)|Domino]], [[Gloria Muñoz (Earth-616)|Risque]]
+<br>''Mumbai''<br>
+[[Maria Callasantos (Earth-616)|Feral]], [[Heather Cameron (Earth-616)|Lifeguard]], [[Shiro Yoshida (Earth-616)|Sunfire]], [[Lucia Callasantos (Earth-616)|Thornn]], [[Neal Shaara (Earth-616)|Thunderbird]], [[James Proudstar (Earth-616)|Warpath]]
+<br>''Singapore''<br>
+[[Heather Cameron (Earth-616)|Lifeguard]], [[Neal Shaara (Earth-616)|Thunderbird]]
+
+| Identity                = Public
+| Affiliation             =
+| Allies                  = [[X-Men (Earth-616)|X-Men]], [[Krakoa (Earth-616)|Krakoa]], [[Quiet Council of Krakoa (Earth-616)|Quiet Council]], [[Xavier Institute student body]]
+| Enemies                 = [[U-Men (Earth-616)|U-Men]], anti-mutant extremists, [[Fenris (Earth-616)|Fenris]]
+
+| Origin                  = Professor Xavier created the X-Corporation to act as an international extension of the X-Men, championing mutant rights around the world.
+| Reality                 = Earth-616
+| Status                  = Active
+| BaseOfOperations        = [[Krakoa (Earth-616)|Krakoa]]; Mobile; Formerly offices in major cities around the world including [[Amsterdam]],{{r|New X-Men Annual Vol 1 2001}} [[Hong Kong]],{{r|New X-Men Annual Vol 1 2001}} [[Los Angeles]],{{r|X-Treme X-Men Vol 1 31}} [[Melbourne]],{{r|New X-Men Annual Vol 1 2001}} [[Mumbai]],{{r|New X-Men Annual Vol 1 2001}}{{r|New X-Men Vol 1 133}} [[Nairobi]],{{r|Excalibur Vol 3 5}} [[Salem Center]],{{r|New Mutants Vol 2 13}}{{r|New X-Men Vol 1 155|156}} [[Paris (France)|Paris]],{{r|New X-Men Vol 1 128}} and [[Singapore]]{{r|Excalibur Vol 3 5}}
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+
+| Creators                = Grant Morrison; Leinil Francis Yu
+| First                   = New X-Men Annual Vol 1 2001
+| History                 = 
+{{Conversation
+|Hello, and welcome to [[X-Corporation (Earth-616)|X-Corp]].     
+|[[Warren Worthington III (Earth-616)|Angel]]|Image1=Warren Worthington III (Earth-616) from Age of X-Man Nextgen Vol 1 3 001.png
+|We're ''Simply Superior.''
+|[[Monet St. Croix (Earth-616)|Penance]]|Image2=Monet St. Croix (Earth-616) from Uncanny X Men Vol 1 404 0001.jpg
+}}{{r|X-Corp Vol 1 1}}
+
+[[File:X-Corporation (Earth-616) from New X-Men Vol 1 129 001.jpg|thumb|left|100px|Paris offices]]
+
+===Formation===
+Shortly after revealing to the world that he was a [[Homo Superior|mutant]], [[Charles Xavier (Earth-616)|Professor Charles Xavier]] organized the '''X-Corporation''', a nonprofit organization dedicated to investigate mutants rights violation and act as an international extension of the [[X-Men (Earth-616)|X-Men]].{{r|New X-Men Annual Vol 1 2001}}
+
+With [[Cerebra (Mutant Detector)|Cerebra]] connections to monitor mutant activity, X-Corp offices were opened in many major cities around the world including [[Amsterdam]],{{r|New X-Men Annual Vol 1 2001}} [[Hong Kong]],{{r|New X-Men Annual Vol 1 2001}} [[Los Angeles]],{{r|X-Treme X-Men Vol 1 31}} [[Melbourne]],{{r|New X-Men Annual #2001}} [[Mumbai]],{{r|New X-Men Annual Vol 1 2001}}{{r|New X-Men Vol 1 133}} [[Nairobi]],{{r|Excalibur Vol 3 5}} [[Salem Center]],{{r|New Mutants Vol 2 13}}{{r|New X-Men Vol 1 155|156}} [[Paris (France)|Paris]],{{r|New X-Men Vol 1 128}} and [[Singapore]].{{r|Excalibur Vol 3 5}}
+
+[[File:X-Corporation (Earth-616) from X-Treme X-Men Vol 1 33 001.jpg|thumb|right|100px|Los Angeles offices]]
+At some time, [[Trolls (Earth-616)|Trolls]] working for [[Stripmine (Earth-616)|Stripmine]] were responsible for the bombings of the X-Corp headquarters in [[Mumbai]], [[Singapore]], and [[Nairobi]].{{r|Excalibur Vol 3 5}}
+
+===Closure===
+In the aftermath of [[Decimation|M-Day]], anti-mutant violence began to rise and the [[Paris (France)|Paris]] X-Corp offices were destroyed by a car bomb. [[Scott Summers (Earth-616)|Cyclops]] ordered that all X-Corp branches cease activity, and the [[Xavier's School for Gifted Youngsters|Xavier Institute]] began offering a refuge for all remaining mutants.{{r|Decimation: House of M - The Day After Vol 1 1}}
+
+===Rebirth===
+With the newly founded nation of [[Krakoa (Earth-616)|Krakoa]] being the wealthiest nation in the world due to their advancements in medicine, finance, and technology, the need for X-Corp to manage mutant business was acknowledged.{{r|Empyre: X-Men Vol 1 1}} With [[Warren Worthington III (Earth-616)|Angel]] and [[Monet St. Croix (Earth-616)|Monet]] as head CXOs of the company, they handle the affairs of dealing with different human corporations throughout the world and the [[United Nations (Earth-616)|United Nations]]' laws regarding mutant innovation.{{r|X-Corp Vol 1 1}}
+
+| Equipment               = 
+| Transportation          = * [[X-Corporation Headquarters|X-Corp Office]]
+* [[Gateways|Krakoan Gates]]
+| Weapons                 = 
+| Notes                   = * [[Mutantes Sans Frontières]] is similar in principle but extends its purview far wider then just mutants.{{r|X-Men Vol 2 #165}}
+* The [[X-Corporation Headquarters|new mobile HQ]] has the ability to fly, sail, and is capable of teleportation in conjunction with the Krakoan gates.{{r|X-Corp Vol 1 1}}
+| Trivia                  = 
+| Links                   = 
+* [http://www.uncannyxmen.net/db/pov/showquestion.asp?faq=6&fldAuto=56 Uncannyxmen.net]
+* [http://en.wikipedia.org/wiki/X-Corporation Wikipedia.org]
+}}
+[[Category:Companies]]
+[[Category:Mutant Organizations]]
+[[Category:Krakoan Organizations]]

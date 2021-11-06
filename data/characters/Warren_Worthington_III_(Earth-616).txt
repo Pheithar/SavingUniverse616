@@ -1,0 +1,423 @@
+{{Marvel Database:Character Template
+| Image                   = Astonishing X-Men Vol 4 5 Character Variant Textless.jpg
+| Name                    = Warren Kenneth Worthington III
+| NameRef                 = {{r|X-Men: The 198 Files Vol 1 1}}
+| CurrentAlias            = [[Angel]]/[[Archangel]]
+| Aliases                 = "Gabriel",{{r|Uncanny X-Men #352}} [[Apocalypse]],{{r|Uncanny X-Force #15}} [[Dark Angel of Death]],{{r|X-Force #17}} [[Dark Angel]],{{r|Official Handbook of the Marvel Universe: X-Men 2005 Vol 1 1}} [[Death]],{{r|X-Factor #24}} [[Avenging Angel]],{{r|X-Men #55}} Savior of the Chosen,{{r|Uncanny X-Force #14}} "[[Angel of Death]]",{{r|X-Force Vol 3 6}} W. W.,{{r|X-Men Vol 1 3}} "Overgrown Mosquito",{{r|X-Men Vol 1 3}} "Little Sparrow",{{r|X-Men Vol 1 3}} [[Horseman of Life]],{{r|Uncanny X-Men Vol 5 5}} "Little Mr. Modest",{{r|X-Men Vol 1 4}} "the one with wings",{{r|X-Men Vol 1 4}} "arrogant one",{{r|X-Men Vol 1 6}} Bird Man{{r|Giant-Size Hulk Vol 1 1}} Wing Man,{{r|Giant-Size Hulk Vol 1 1}} Fourth Horseman,{{r|X-Force Vol 3 7}} [[Pretty Boy]],{{r|X-Force Vol 3 8}} [[Michael (Angel) (Earth-616)|Michael The Archangel]],{{r|Angel: Revelations #4}} '[[Hellspawn]]',{{r|Angel: Revelations #5}} '[[Abomination]]',{{r|Angel: Revelations #5}} '[[Spawn of Satan]]',{{r|Angel: Revelations #5}} 'Son of Darkness'{{r|Angel: Revelations #5}}
+
+| Affiliation             = [[X-Corporation (Earth-616)|X-Corp]] Formerly {{m|X-Men (Earth-616)|X-Men}} (founding member), {{m|X-Men (Age of X-Man) (Earth-616)|X-Men (Age of X-Man)}}, {{m|Horsemen of Salvation}}, {{m|Sleepers (Earth-616)|Sleepers}}, {{m|X-Men (Magneto's) (Earth-616)|X-Men (Magneto's)}}, [[Worthington Industries (Earth-616)|Worthington Industries]], {{m|X-Men (New Charles Xavier School) (Earth-616)|X-Men}} ([[Xavier Institute student body#New Charles Xavier School students|New Charles Xavier School student body]]), [[Xavier Institute student body#Jean Grey School students|Jean Grey School student body]], [[Scott Summers (Earth-616)|Cyclops]]' & [[James Howlett (Earth-616)|Wolverine]]'s {{m|X-Force (Strike Team)|X-Force}} (co-leader with Wolverine), {{m|Clan Akkaba}}, {{m|Mutantes Sans Frontières}}, {{m|Hellfire Club}}, {{m|X-Club}} (founding member), Death's Champions, {{m|Secret Defenders}}, {{m|Renegades (Hulk Allies) (Earth-616)|Renegades}}, {{m|X-Factor|X-Factor/X-Terminators}} (founding member), {{m|Horsemen of Apocalypse}}, {{m|Defenders}}, {{m|Champions of Los Angeles}} (founder)
+| Relatives               = [[Wallace Worthington (Earth-616)|Wallace Worthington]] (paternal ancestor, deceased);<br> 
+[[Warren Worthington (Earth-616)|Warren K. Worthington Sr.]] (paternal grandfather, deceased);<br>
+[[Warren Worthington Jr. (Earth-616)|Warren K. Worthington Jr.]] (father, deceased);<br>
+[[Kathryn Worthington (Earth-616)|Kathryn Worthington]] (mother, deceased);<br>
+[[Burtram Worthington (Earth-616)|Burtram "Burt" Worthington]] (paternal uncle);<br>
+Mimi (maternal aunt);{{r|X-Men First Class #8}}<br>
+unnamed distant cousin;{{r|X-Factor #21}}<br>
+[[Eimin (Earth-616)|Eimin]] (daughter, deceased);<br> 
+[[Uriel (Mutant) (Earth-616)|Uriel]] (son, deceased);{{r|Uncanny X-Force #18}}{{r|Uncanny Avengers #5}}<br>
+[[Warren Worthington III (Clone) (Earth-616)|Archangel]] (clone, deceased);{{r|Uncanny X-Men Vol 4 1}}<br>
+[[Death-Flight (Earth-616)|Death-Flight]] (clones, deceased){{r|Uncanny X-Men Vol 4 6}}
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #1}}
+| Gender                  = Male
+| Height                  = 6'0"
+| Weight                  = 150 lbs
+| Eyes                    = Blue; [[:Category:Yellow Eyes|Yellow]][[Category:Yellow Eyes|Yellow]] (in Archangel form)
+| Hair                    = Blond
+| UnusualSkinColor        = Blue
+| UnusualFeatures         = A pair of either feathered or metal wings coming out of his back and blue skin
+
+| Origin                  = [[Homo superior|Mutant]] (purportedly [[Cheyarafim]] throwback);{{r|Marvel Zombies: The Book of Angels, Demons & Various Monstrosities #1|; [[Angels (Monotheism)|Angels]]' entry}} later granted [[Techno-Organic Virus|Techno-Organic]] wings by [[En Sabah Nur (Earth-616)|Apocalypse]] on his [[Celestials|Celestial]] [[Prosh (Earth-616)|Ship]], then reborn from the Celestial Seed
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Centerport]], [[Long Island]], [[New York (State)|New York]]
+
+| Identity                = Public
+| Citizenship             = American, Krakoan
+| Occupation              = Adventurer; former teacher, multi-Millionaire, chairman and principal stockholder of [[Worthington Industries (Earth-616)|Worthington Industries]], terrorist, agent of [[En Sabah Nur (Earth-616)|Apocalypse]], vigilante, dean of the Summers Institute
+| Education               = College Graduate from Xavier's School
+| BaseOfOperations        = [[X-Corporation (Earth-616)|X-Corp/Mobile]], [[Krakoa (Earth-616)|Krakoa]], [[Pacific Ocean]]; formerly [[Xavier's School for Gifted Youngsters|Summers Institute for Higher Learning]], [[Salem Center]], [[North Salem]], [[Westchester County|Westchester]], [[New York (State)|New York]], [[Age of X-Man (Plane)|Age of X-Man]][[Category:Summers Institute faculty]]; [[Xavier's School for Gifted Youngsters|Xavier Institute for Mutant Education and Outreach]], [[Central Park]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]; [[New Tian]], [[California (State)|California]]; [[War Room X]], [[Savage Land]], [[Antarctica]]; [[Green Ridge]], [[Colorado (State)|Colorado]]; [[Xavier's School for Gifted Youngsters|Jean Grey School for Higher Learning]], [[Salem Center]], [[North Salem]], [[Westchester County]], [[New York (State)|New York]]; [[Utopia (X-Men Base)|Utopia]], [[San Francisco Bay]], [[California (State)|California]]; [[Cavern-X]], [[Sedona]], [[Arizona (State)|Arizona]]; [[Graymalkin Industries]], Marin Highlands, [[San Francisco]], [[California (State)|California]]; [[Prosh (Earth-616)|Apocalypse's flying fortress/X-Factor's Ship]]; [[X-Factor Complex]], [[New York City]], [[New York (State)|New York]]; [[Angel's Aerie|Defenders Mansion]], [[Rocky Mountains]], [[Colorado (State)|Colorado]]; [[Champions Headquarters]], [[Los Angeles]], [[California (State)|California]]; [[St. Joe's Preparatory School]], [[Vermont (State)|Vermont]]; apartments in [[New York City]], [[New York (State)|New York]] and [[Los Angeles]], [[California (State)|California]]; estate in the [[New Mexico (State)|New Mexican Rockies]]
+
+| Creators                = Stan Lee; Jack Kirby
+| First                   = X-Men Vol 1 1
+| First2                  = (as Angel){{sld|X-Factor Vol 1 23}}(as Archangel)
+
+| Quotation               = Savior... killer... harbinger of hope or destruction. I am unsure who-- or what-- I am. But I'd like to find out.
+| Speaker                 = [[Warren Worthington III (Earth-616)|Archangel]]
+| QuoteSource             = Uncanny X-Men Vol 4 10
+
+| History                 = 
+<center>''This is an abridged version of Warren Worthington III's history. For a complete history see '''[[Warren Worthington III (Earth-616)/Expanded History|Warren Worthington III's Expanded History]]'''''</center>
+
+[[File:Warren Worthington III (Earth-616) as the Avenging Angel from X-Men Vol 1 55.jpg|left|thumb|150px|Angel]]
+===Early Life===
+Warren Kenneth Worthington III is the [[Homo superior|mutant]] son of the wealthy [[Warren Worthington Jr. (Earth-616)|Warren K. Worthington Jr.]] and his wife [[Kathryn Worthington (Earth-616)|Kathryn]], neither of whom were aware{{r|X-Men: The Hidden Years #15}} that their son had developed a pair of large feathered wings extending from his back enabling him to fly.{{r|X-Men #54}} On the other hand, [[Doctor Stuart (Earth-616)|Doctor Stuart]] who delivered him and immediately spotted the distortion of his shoulder blades and guessed what he would become.{{r|X-Men: The Hidden Years #15}} Warren attended many boarding schools, such as [[Fairburn Boys School]]. At some point, Warren began dating {{a|[[Amanda Cobb (Earth-616)|Amanda Cobb]]}}. Warren first began his superhero career after a fire broke out in his dorm at [[Phillips Academy]] in [[Exeter (New Hampshire)|Exeter]], [[New Hampshire (State)|New Hampshire]]. Warren disguised himself with a wig and a nightshirt and lowered two students to safety with a rope. Warren also saved a fellow student [[Cameron Hodge (Earth-616)|Cameron Hodge]] from a bully and made a lifelong "friend".{{r|X-Factor #1}} 
+
+===Angel: Revelations===
+Warren broke up with his girlfriend {{a|[[Amanda Cobb (Earth-616)|Amanda Cobb]]}} in fear she would find out about his wings. An evil priest known as the hunter, obsessed with killing mutants, tracked Warren down but was eventually defeated by Warren. {{r|Angel: Revelations Vol 1 1-5}}
+
+===X-Men===
+Warren briefly became a costumed superhero known as the Avenging Angel.{{r|X-Men Vol 1 55}} He caught the attention of [[Charles Xavier (Earth-616)|Professor X]], who recruited him as the third of five founding members of the [[X-Men (Earth-616)|X-Men]], along with [[Scott Summers (Earth-616)|Cyclops]], [[Robert Drake (Earth-616)|Iceman]], [[Henry McCoy (Earth-616)|Beast]], and [[Jean Grey (Earth-616)|Marvel Girl]].{{r|X-Men Vol 1 1}} At [[Xavier's School for Gifted Youngsters]] the X-Men were tutored by Professor X and trained in the use of their powers in the [[Danger Room]].{{r|X-Men Vol 1 2}} During his time in class, Warren was a carefree student, often flying-off during Prof. Xavier's lessons and in public. Warren would conceal his mutation with a harness that Xavier created. Though Warren was initially attracted to Marvel Girl, he spent much of his time dating [[Candace Southern (Earth-616)|Candy Southern]].{{r|X-Men Vol 1 31|32}}{{r|Ka-Zar Vol 1 2}}
+
+===Iron Man===
+
+When the Angel had another personality shift following exposure to radiation unleashed by a test by [[Stark Industries]], the armored hero [[Anthony Stark (Earth-616)|Iron Man]] dealt with the danger posed by the Angel until he reverted back to normal.{{r|Tales of Suspense #49}}
+
+===Time-Displacement===
+Beast from the future traveled to their time in order to inform them that the future was in a bad state, and that only the original X-Men could help fix it. Despite Warren's reluctance, the team accompanied Beast to a future where [[Scott Summers (Earth-616)|Cyclops]] had killed [[Charles Xavier (Earth-616)|Charles Xavier]], and [[Jean Grey (Earth-616)|Jean Grey]] was dead as well (with the school now named after her). After the team had confronted the future Cyclops and helped save the life of the future Beast, the team (under Jean's leadership) decided to stay. Warren was the most reluctant on this decision, believing it could only lead to disaster (and also didn't want to know anything about his future self). Despite this, he agreed to stay until the problems in the time were solved.{{r|All-New X-Men #1}}
+
+[[File:All-New X-Men Vol 1 29 Textless.jpg|thumb|left]]
+Later, Warren did meet his future self and was incredibly confused as to how he had become this way (particularly about his metal wings). Meeting his future self, and the fact that no one was willing to explain to him why he had come to be that way, Warren panicked and attempted to return to his time alone. Jean Grey used her powers to alter Warren's emotions and calm him down, to the dismay of the other [[X-Men (Time-Displaced) (Earth-616)|X-Men]].{{r|All-New X-Men #8}}
+
+Despite this, Warren continued to doubt the mission of his fellow X-Men, and the future School, doubting the truth of future Beast's statements of impending mutant genocide at the hands of future Cyclops. When future Cyclops and his [[X-Men (New Charles Xavier School) (Earth-616)|X-Men]] came to the School to look for recruits, Warren decided to join them,{{r|All-New X-Men #10}} telling the others that they were the only ones fighting for mutantkind in this future.{{r|All-New X-Men #11}}
+
+The rest of the team later joined Cyclops' team as well, following the conflict between [[James Howlett (Earth-616)|Wolverine]]'s X-Men and the future versions of the [[X-Men (Earth-13729)|X-Men]] and [[Brotherhood of Evil Mutants (Earth-13729)|Brotherhood]] at [[Cape Citadel]].{{r|X-Men: Battle of the Atom #2}} Not long after becoming members of Cyclops's school, the young X-Men invited [[Laura Kinney (Earth-616)|X-23]] into their ranks after saving her from the mutant-hating religious group named [[Purifiers (Earth-616)|Purifiers]].{{r|All-New X-Men Vol 1 #19|21}} X-23 and Angel hit it off, and started an amorous relationship.{{r|All-New X-Men Vol 1 30}}
+
+====Black Vortex====
+After retrieving the [[Black Vortex]] from his father, [[J'son (Earth-616)|Mister Knife]], [[Peter Quill (Earth-616)|Star-Lord]] and [[Katherine Pryde (Earth-616)|Kitty Pryde]] gathered both the Guardians of the Galaxy and the X-Men at [[Spartax (Planet)|Spartax]] to decide what to do with such a powerful item. The heroes were tracked down by Mister Knife's cosmically-empowered [[Slaughter Lords (Earth-616)|Slaughter Lords]] and overpowered.{{r|Guardians of the Galaxy & X-Men: Black Vortex Alpha #1}}
+
+[[File:Unbelievable Gwenpool Vol 1 14 ResurrXion Variant Textless.jpg|thumb|right]]
+
+[[Gamora Zen Whoberi Ben Titan (Earth-7528)|Gamora]] submitted to the Black Vortex in order to face the Slaughter Lords, and be able to escape to Spartax's moon with her allies.{{r|Guardians of the Galaxy Vol 3 24}} Beast and Angel submitted to the Black Vortex, and accompanied Gamora in a journey to attempt to empower the entire universe.{{r|Legendary Star-Lord #9}} However, at the first planet they stopped they were assaulted by the [[Accuser Corps (Earth-616)|Accuser Corps]], who took the Vortex from them. In retaliation, they attacked [[Hala (Planet)|Hala]].{{r|All-New X-Men #38}} A cosmically-empowered Ronan managed to force them to flee to a distant planet.{{r|Guardians Team-Up #3}}
+
+Magik and Rocket Raccoon later tracked them down and talked sense into them, so they could help them fight J'son and his Slaughter Lords.{{r|Guardians of the Galaxy Vol 3 25}} After J'son recovered the Vortex and used its power on [[Thane (Earth-616)|Thane]] to encase the entirety of Spartax in an amber construct,{{r|Legendary Star-Lord #10}} the heroes got the Vortex back and used it on X-Man [[Katherine Pryde (Earth-616)|Kitty Pryde]] so she could use her now-enhanced phasing powers to phase Spartax through the amber construct and save the planet. Before getting rid of the Vortex, some of the cosmically empowered heroes decided to remove their cosmic powers, Angel wasn't one of them, and he retained a set of fiery wings.{{r|Guardians of the Galaxy & X-Men: Black Vortex Omega #1}}
+
+====Road Trip====
+Some time after returning to Earth, the young X-Men decided to part ways and lay low for a while with the emergence of a new weave of anti-mutant hysteria and the beginning of the [[M-Pox]] crisis. Angel and X-23, going by the alias of [[Wolverine]], went vacationing to [[Vail]], [[Colorado (State)|Colorado]]. They were called in months later by Beast to reunite the X-Men (minus Jean Grey and with the additions of [[Evan Sabahnur (Earth-616)|Genesis]] and [[Idie Okonkwo (Earth-616)|Oya]]), in order to go on a road trip, and help out people across the globe wherever it was needed, with the help of a teleporter [[Bamf]] named [[Pickles (Earth-616)|Pickles]].{{r|All-New X-Men Vol 2 1}}
+
+Once he discovered a way to travel through time, Beast assembled his time-displaced friends to show them an unfortunate side discovery. Travelling to their past, the young mutants found what seemed to be a divergent version of themselves already existing in the period they believed was available for them to return to.{{r|All-New X-Men Vol 2 19}} The time-displaced X-Men assumed they could stay in the present with no consequences until the collapse of the timestream forced them into a time-hopping adventure that resulted in the young heroes discovering that the divergent versions of themselves in the past were in reality the [[Brotherhood of Evil Mutants (Earth-13729)|Brotherhood of Evil Mutants]] from an alternate future impersonating them to take advantage of the void they left.{{r|X-Men: Blue Vol 1 19}} The young X-Men returned to the future, but with the knowledge that they would ultimately have to return to the exact moment they had left to prevent the Brotherhood from carrying out their plan.{{r|X-Men: Blue Vol 1 20}}
+
+When the time-traveller mutant-hunter [[Roderick Campbell (Earth-811)|Ahab]] targeted the younger displaced X-Men, threatening to bring forth a dystopian future if he killed one of the five original X-Men, a younger version of the time-travelling warrior [[Nathaniel Summers (Earth-616)|Cable]] set out to send the young mutants to the past on his own. In the process, he captured Angel and cut off his cosmic wings, replacing them with a pair of regular wings extirpated from [[Calvin Rankin (Earth-616)|Mimic]] so that he could undo the changes Warren had endured while time-displaced. Defeating Ahab in the process, the young X-Men agreed to return to their original time. Before doing so, Jean Grey sealed off the memories of her and her friends' time-displacement, causing them only to resurface on their older selves as soon as their younger selves returned to the past.{{r|Extermination Vol 1 5}}
+
+===Further adventures===
+During one of the X-Men's battles with [[Max Eisenhardt (Earth-616)|Magneto]] the team was defeated and captured, but Warren escaped. On his way to get help from the [[Avengers (Earth-616)|Avengers]] he was was attacked by [[Red Raven (Earth-616)|Red Raven]]. After alerting the Avengers, the X-Men returned home. There, they were ordered to disband by [[Frederick Duncan (Earth-616)|Fred Duncan]] of the [[Federal Bureau of Investigation (Earth-616)|FBI]]. Returning to live with his parents, Warren continued to sneak out at night and secretly satisfy his need to fight crime and see Candy. While Warren was out on a date with Candy, his father was killed by men working for the villain [[Burtram Worthington (Earth-616)|Dazzler]]. Overcome with grief, Warren blamed his own absence for his father's murder.{{r|Ka-Zar #2}} Candy was kidnapped by Dazzler's organization as well and when Warren went to rescue her, the Dazzler removed Angel's mask and revealed his identity to both the Dazzler and Candy. Dazzler admitted to actually being Warren's own uncle, Burtram Worthington, having only used [[Worthington Industries (Earth-616)|Worthington Industries]] for his campaign of diamond smuggling. Burtram was seemingly killed in the following battle from a great fall. Warren and the X-Men reunited the X-Men soon after.{{r|X-Men #49}}
+
+[[File:Warren Worthington III (Earth-616) From X-Men Vol 1 1 0001.jpg|left|thumb|250px|Angel taking-off his harness.]]
+
+[[Karl Lykos (Earth-616)|Sauron]], a flying pterodactyl-man, used his hypnotic gaze on Warren, making him attack his fellow X-Men. When Warren's mind cleared, the X-Men had left him behind after following Sauron to the [[Savage Land]]. Warren followed and was nearly killed by the flying reptiles there. He was saved by Magneto, who was calling himself the Creator. Warren did not recognize his old enemy without his helmet on and briefly believed the Creator and his mutate creations were allies. [[Kevin Plunder (Earth-616)|Ka-Zar]] and the other X-Men defeated Magneto and his [[Savage Land Mutates (Earth-616)|Mutates]].{{r|X-Men Vol 1 59|63}}
+
+When Professor Xavier sent the X-Men back to the Savage Land to make sure that Magneto actually perished in their last encounter with him, Warren befriend the Savage Land native [[Avia (Savage Land) (Earth-616)|Avia]], a bird-woman. Angel and Avia were captured by sailors who sold them to a man named [[Stefan Krueger (Earth-616)|Stefan Krueger]]. The X-Men and Candy Southern came to their rescue, clashing with the [[Brotherhood of Evil Mutants (Earth-616)|Brotherhood of Evil Mutants]] in the process.{{r|X-Men: The Hidden Years Vol 1 2|13}}
+
+[[File:Warren Worthington III (Earth-616) from X-Men Vol 1 49 0001.jpg|thumb|right|Angel's second uniform]]
+Candy revealed that Burtram had survived the fall and intended to steal the Worthington family fortune. The X-Men, with Candy, were able to stop the Dazzler's plot, but not before Warren's mother was poisoned by Burtram and his partner, Warren's childhood doctor. His mother died in Warren's arms.{{r|X-Men: The Hidden Years Vol 1 14|15}}
+
+===All New All Different X-Men===
+
+Warren was among the original X-Men that were rescued by Prof. Xavier's new team of X-Men from the island-being [[Krakoa (Earth-616)|Krakoa]].{{r|Giant-Size X-Men #1}} Not longer after, Warren and the other original members left the team, leaving Cyclops and Prof. Xavier with a brand new team of X-Men.{{r|X-Men #94}}
+
+===Champions of Los Angeles===
+Warren decided to start a college career in [[Los Angeles]] and stopped hiding his identity. He inherited his parents' vast wealth{{r|Champions #5}} as well as membership in the [[Hellfire Club (Earth-616)|Hellfire Club]] from his father. Around this time, Warren also set-up a scholarship fund for his original school, Phillips Academy, for mutant students. 
+
+While meeting with Iceman on the campus of [[University of California, Los Angeles|UCLA]], Warren and Bobby Drake were attacked by harpies trying to locate [[Aphrodite Ourania (Earth-616)|Venus]]. The two young heroes were joined by [[Johnathon Blaze (Earth-616)|Ghost Rider]], [[Natalia Romanova (Earth-616)|Black Widow]], and [[Hercules Panhellenios (Earth-616)|Hercules]].{{r|Champions #1}} After a battle with the [[Cephalus (Earth-616)|Huntsman]], Hercules and Venus were kidnapped and taken to [[Mount Olympus]].{{r|Champions #2}} They defeated [[Hades (Earth-616)|Pluto]] and decided to stick together as a team, as the [[Champions of Los Angeles (Earth-616)|Champions of Los Angeles]].{{r|Champions #3}} Warren bankrolled the group, and they bought a surplus of Avengers' [[Quinjet]]s, the "Champjet", for team usage.{{r|Champions Vol 1 11}} The team was volatile and disbanded after a brief stint.{{r|Peter Parker, The Spectacular Spider-Man Vol 1 17}}
+
+===Master Mold===
+Warren and Candy moved away to [[Colorado (State)|Colorado]] for some time. Bobby took his girlfriend, [[Teresa Sue Bottoms (Earth-616)|Terri]], to Warren's [[Angel's Aerie|cabin style mansion]] and was attacked by [[Master Mold (Earth-616)|Master Mold]]. After Bobby was captured, Warren flew after him. After battling [[Leonard Samson (Earth-616)|Doc Samson]] over [[Gamma Base]], Master Mold awoke the [[Bruce Banner (Earth-616)|Hulk]]. The Angel and the Hulk were also captured and taken to the [[Sentinel Space Station]] where the Hulk broke free and tore Master Mold into pieces.{{r|Incredible Hulk Annual #7}}
+
+===Toad the Assassin===
+While at a bar in [[New York (State)|New York]], Warren ran into the [[Benjamin Grimm (Earth-616)|Thing]] and the [[Jonathan Storm (Earth-616)|Human Torch]]. Warren and Thing were drugged and kidnapped by [[Mortimer Toynbee (Earth-616)|Toad]] who had become a hired assassin and was hoping to test his death castle on Warren. After surviving the castle's traps, Warren felt pity on Toad, who did not have the money to pay his contractor. Warren offered to pay Toad to work for him and opened a theme park over the castle called Toadland.{{r|Marvel Two-In-One #68}}
+
+===Dark Phoenix Saga===
+Hearing of the problems the X-Men were having with the Hellfire Club, Warren arranged for the X-Men to be invited to a [[Hellfire Club Building (New York)|Hellfire Club]] party. During the party, the [[Phoenix Force (Earth-616)|Phoenix]] (who was posing as Jean Grey) fell under [[Jason Wyngarde (Earth-616)|Mastermind]] and the Hellfire Club's control and transformed into the Black Queen. Warren joined the X-Men while they battled the Hellfire Club's [[Hellfire Club (Earth-616)#Inner Circle Lineups|Inner Circle]] and Phoenix underwent another transformation into the Dark Phoenix. Soaring through the universe, she devoured an entire [[D'bari (Race)|star]] and the five billion inhabitants of one of its planets. When Phoenix returned to [[Earth]] she threatened to kill everyone, but Professor Xavier was able to keep her under control and helped her will herself back to normal. Warren and the X-Men were then teleported away by the [[Shi'ar Empire|Shi'ar]]. The Shi'ar Empire had witnessed Dark Phoenix consuming the star and the X-Men were forced to battle with the [[Imperial Guard (Earth-616)|Imperial Guard]] over Phoenix's fate. The battle triggered her transformation into Dark Phoenix once more and Phoenix understood that she would never be able to fully control the dark hunger inside and sacrificed herself on the [[Luna (Moon)|Moon]].{{r|X-Men Vol 1 132|137}}
+
+===A Short Return===
+Back on Earth, Warren attended Jean's funeral. Cyclops left for a time so Angel rejoined the team to ensure they were not shorthanded.{{r|X-Men Vol 1 138|139}} The X-Men stopped the attempted assassination of [[Robert Kelly (Earth-616)|Senator Robert Kelly]] by [[Raven Darkholme (Earth-616)|Mystique]]'s Brotherhood of Evil Mutants.{{r|Uncanny X-Men Vol 1 142}} [[Miss Locke (Earth-616)|Miss Locke]] kidnapped Candy in order to force the X-Men to travel to [[Latveria]] where they defeated a [[Doombot]] to rescue her boss, [[Arcade (Earth-616)|Arcade]]. Warren eventually left the X-Men again due to the constant conflict between him and [[James Howlett (Earth-616)|Wolverine]].{{r|Uncanny X-Men Vol 1 145|147}}
+
+===The Avengers===
+Warren was reunited with Iceman and Beast after he and a group of heroes were manipulated to join the Avengers. Warren felt compelled to display his skill by battling [[Greer Grant (Earth-616)|Tigra]]. It was revealed that [[Heather Douglas (Earth-616)|Moondragon]] was manipulating all of them to strengthen the Avengers. After Moondragon reconsidered, Warren departed.{{r|Avengers Vol 1 211}} Later while Warren and Candy were in his cabin-style mansion, the couple was attacked by Ghost Rider. Aided by the Avengers, Warren was able to calm down his former teammate.{{r|Avengers Vol 1 214}}
+
+===Sauron's Return===
+After [[Tanya Anderssen (Earth-616)|Tanya Anderssen]], [[Karl Lykos (Earth-616)|Dr. Karl Lykos']] girlfriend, asked him to check if Sauron was alive or not, Warren later found himself in the Savage Land once again aiding [[Peter Parker (Earth-616)|Spider-Man]] in battling the Savage Land Mutates, where [[Brainchild (Earth-616)|Brainchild]] experimented on him. After Warren and Spider-Man were transformed, Dr. Lykos absorbed their mutant energy and was permanently transformed into Sauron. After Spider-Man left, Warren called the X-Men and they were captured while Warren escaped. Seeking to rescue his friends, Warren and Ka-Zar entered Sauron's citadel and Warren distracted Sauron while Ka-Zar rescued the X-Men.{{r|Marvel Fanfare #1|4}}
+
+===Morlocks===
+[[File:Uncanny X-Men Vol 1 169.jpg|right|thumb|200px|Kidnapped by the Morlocks.]]
+Warren was kidnapped by the underground mutant community called the [[Morlocks (Earth-616)|Morlocks]]. Their leader [[Callisto (Earth-616)|Callisto]] wanted to marry him. He was released after the X-Man [[Ororo Munroe (Earth-616)|Storm]] defeated Callisto in a duel for leadership of the Morlocks.{{r|Uncanny X-Men #169|170}}
+
+===Dazzler===
+Warren found himself pursuing [[Alison Blaire (Earth-616)|Alison Blaire]], aka the Dazzler, who he had been infatuated with since he first met her when they were manipulated by Moondragon into joining the Avengers. Warren wanted to ask her out and butt-in on a date of hers. Alison thought he was a jerk at first until Warren revealed himself as Angel and took her for a flight, which led to a romantic evening. However, after stopping [[Otto Octavius (Earth-616)|Dr. Octopus]] from escaping custody, Alison decided she didn't want to get involved with Warren. Warren later attempted to reunite Alison with her [[Katherine Blaire (Earth-616)|mother]], but her friend [[Vanessa Tooks (Earth-616)|Vanessa Tooks]] beat him to the act. When the Sisterhood of Evil Mutants (Mystique, [[Rogue (Anna Marie) (Earth-616)|Rogue]], and [[Irene Adler (Earth-616)|Destiny]]) sought revenge on the X-Men, they attacked Angel so Rogue could absorb his knowledge of the X-Men’s whereabouts from his mind. Alison defeated the trio of villains. Warren began to lay-low, returning to Los Angeles. After getting a call that Alison had been blackmailed to kill a man in Los Angeles, Warren flew to her aid in time to save them from a bullet that the angry blackmailer had fired at them.{{r|Dazzler #27}}
+
+===Defenders===
+After recovering from the bullet wound in his arm, Warren joined his former teammates Beast and Iceman to reorganize the [[Defenders (Earth-616)|Defenders]] into a more formal combat organization. After the founding Defenders ([[Stephen Strange (Earth-616)|Dr. Strange]], [[Namor McKenzie (Earth-616)|Prince Namor]], the Hulk, and the [[Norrin Radd (Earth-616)|Silver Surfer]]) were convinced to leave the team, Warren funded the team and provided his Colorado penthouse as a headquarters.{{r|Defenders Vol 1 125}} They obtained governmental clearance, thanks to the help of [[Nicholas Fury (Earth-616)|Nick Fury]]. Later, Candy was asked to lead the squad.{{r|Defenders Vol 1 130}} 
+
+Moondragon, who was possessed by the [[Dragon of the Moon (Earth-616)|Dragon of the Moon]], seemingly killed most of the members of the Defenders in a climactic battle and the team disbanded.{{r|Defenders Vol 1 151|152}}
+
+[[File:Warren Worthington III (Earth-616) from Official Handbook of the Marvel Universe Vol 2 1 0001.jpg|right|thumb|150px|Prototype X-Factor uniform. The final design would feature the white portions forming a large X across the body.{{r|X-Factor Vol 1 1}}{{r|Official Handbook of the Marvel Universe Vol 2 6}}]]
+===X-Factor===
+When he learned that Jean Grey was still alive, Warren joined his former teammates and founding members of the X-Men in the formation of [[X-Factor (Earth-616)|X-Factor]]. X-Factor intended to seek out and aid other mutants under the pretense of hunting down those perceived menaces to society. The public assumed they were humans hunting mutants, when in fact they were training young mutants in the use of their powers at the [[X-Factor Complex]]. The media referred to their non-human guises as X-Terminators. Once again, Warren funded the group and appointed Candy as the Vice President of Worthington Industries. Warren asked his best friend and former college roommate Cameron Hodge to act as the team's PR adviser, unaware that Cameron actually despised mutants and was the leader of the anti-mutant group the [[Right (Earth-616)|Right]]. Hodge waited for the most propitious moment to strike.{{r|X-Factor #1}} The team went-on to battle [[En Sabah Nur (Earth-616)|Apocalypse]] and his [[Alliance of Evil (Earth-616)|Alliance of Evil]].{{r|X-Factor Vol 1 5|6}}
+
+Reporter [[Patricia Tilby (Earth-616)|Trish Tilby]] used a tip from Mystique to reveal that Warren, a mutant, was financially backing X-Factor. Candy walked-in on Warren comforting Jean, and walked out on him angrily. As the [[Marauders (Earth-616)|Marauders]] began to [[Mutant Massacre|massacre]] the Morlocks, Warren had no time to follow her and set things straight.{{r|X-Factor Vol 1 10}}
+
+When Warren attempted to rescue X-Factor's young charge [[Arthur Maddicks (Earth-616)|Artie]] his wings were pinned to the wall by the Marauder [[Kodiak Noatak (Earth-616)|Harpoon]], after being beaten by [[Michael Baer (Earth-616)|Blockbuster]] and [[Vertigo (Savage Land Mutate) (Earth-616)|Vertigo]].{{r|X-Factor #10}} He was rescued by [[Thor Odinson (Earth-616)|Thor]]. Hodge planted false evidence that Warren's wings were infected to the point that amputation was necessary. Although Warren objected, Hodge had a court order issued to go through with the amputation.{{r|X-Factor #14}} 
+
+Distraught by these experiences, Warren attempted to fly one more time in his private jet. Hodge sabotaged his jet and it exploded. It had appeared that Warren had committed suicide and was believed dead, although he had actually been teleported away by Apocalypse.{{r|X-Factor #15}}
+===Death, Horseman Of Apocalypse===
+Warren was brainwashed and began to serve Apocalypse. Apocalypse warped his body and mind into his own "Angel of Death" upon his [[Celestials (Race)|Celestial]] [[Prosh (Earth-616)|Ship]] and placed him into his team of [[Horsemen of Apocalypse (Earth-616)|Horsemen]] as Death. Warren's skin turned blue. He grew a set of bio-metallic wings from his back that could retract and also fire dart-blades with a neurotoxin. Warren's new wings could fly higher, faster, and were razor sharp.{{r|X-Factor #19}}
+
+Apocalypse had the Horsemen battle each other to find the leader, and Death beat them all.{{r|X-Factor Vol 1 23}} As Death, Warren fought the rest of X-Factor and captured them. After X-Factor's defeat, the Horsemen were sent into [[Manhattan]] to incite chaos.{{r|X-Factor Vol 1 24}} Warren was shocked back to his senses after Iceman faked his own death at Warren's hands by having him destroy an ice sculpture of Bobby. After their defeat of Apocalypse, his sentient Ship crash-landed on their Complex and X-Factor began living in it. X-Factor was approached by the media, and finally revealed the truth of X-Factor's mutant origins.{{r|X-Factor Vol 1 25}}
+===Hunting Down Cameron Hodge===
+Unable to face anyone, Warren left the team. Cameron Hodge and the Right kidnapped Candy Southern, eventually killing Candy. Worthington decapitated Hodge in retaliation.{{r|X-Factor #34}} 
+===Inferno===
+Death later returned to X-Factor as the somber and brooding "Archangel", as Beast called him, to help fight the invading demons. Teaming up with the X-Men, they were able to stop the villainous [[Nathaniel Essex (Earth-616)|Mr. Sinister]]. Warren was left struggling with the urge to kill due to the influence of his wings.{{r|X-Factor #35}}
+===Archangel===
+
+Continually fighting an inward battle against his killer instincts, Warren eventually learned to control his wings through concentration. Warren was attacked by [[Caliban (Earth-616)|Caliban]], a former teammate who had taken his place as the Horseman Death, trying to prove himself in the eyes of Apocalypse.{{r|X-Factor #53}} Later, Warren encountered a resurrected Cameron in [[Genosha]].{{r|Uncanny X-Men #272}} Warren met a widowed mother and beat cop named [[Charlotte Jones (Earth-616)|Charlotte Jones]]. Together they began an awkward relationship. It was with Charlotte's help that X-Factor freed Warren from the [[Ravens (Earth-616)|Ravens]], a cult of near-immortal psychic vampires. It was during this battle that Warren's survival was made public knowledge, allowing him to regain control over his family's remaining business holdings and his personal fortune.{{r|X-Factor #56|59}}
+
+===Gold Team===
+After defeating the [[Shadow King (Multiverse)|Shadow King]] on [[Muir Island]], Warren and his fellow X-Factor founders returned to the X-Men. Warren often adventured with the X-Men's "Gold Team" led by [[Ororo Munroe (Earth-616)|Storm]].{{r|Uncanny X-Men Vol 1 281}}
+
+The team journeyed to a [[Void (Dimension)|void]] where Warren was seduced by the [[Triumvirate (of the Void)|Triumvirate]] leader, [[Sha-Har-A-Zath (Earth-616)|Sha-Har-A-Zath]], into battling his comrades.{{r|Uncanny X-Men #285}} Soon after, the X-Men returned to the [[Alley|Morlock Tunnels]] to stop a young mutant, [[Brain Cell (Kevin) (Earth-616)|Brain Cell]], from mentally influencing the Morlocks to incite chaos. After the battle, Warren made his way back to the spot where his wings had been injured by the Marauders. There, Jean helped him see that his destructive behavior was not the fault of his wings but instead his own repressed violent tendencies. Warren began to see it was up to him to get his life under control.{{r|Uncanny X-Men #293}}
+
+===X-Cutioner's Song===
+When Prof. Xavier was shot by [[Nathaniel Summers (Stryfe) (Earth-4935)|Stryfe]],{{r|Uncanny X-Men #294}} Warren allied himself with the new [[X-Factor (Government) (Earth-616)|X-Factor]] and [[X-Force (Earth-616)|X-Force]] to track down Apocalypse and the [[Mutant Liberation Front (Earth-616)|Mutant Liberation Front]]. While engaged in battle, Warren accidentally decapitated [[Haruo Tsuburaya (Earth-616)|Kamikaze]]. Warren once again blaming his wing’s lust for blood.{{r|X-Factor #85}} When Beast and [[Moira MacTaggert (Earth-TRN748)|Dr. Moira MacTaggert]] had exhausted all of their resources, Apocalypse stepped-in to save Prof. Xavier. Warren, surprisingly, vouched for Apocalypse's genius but promised he would kill Apocalypse after torturing him and at a time of his own choosing.{{r|Uncanny X-Men #296}} However, Warren decided to leave him to die alone after a wounded Apocalypse asked him to end his misery.{{r|X-Force #18}}
+
+===Phalanx Candy===
+Warren soon fell out of touch with Charlotte Jones. Warren later found Candy Southern alive in his Colorado home. Cameron Hodge had turned himself and Candy into techno-organic beings called the [[Phalanx (Race)|Phalanx]]. Candy sacrificed herself to destroy Hodge.
+
+===Return to Hellfire===
+Warren's childhood friend [[Shinobi Shaw (Earth-616)|Shinobi Shaw]] invited him to a Hellfire Club party. [[Elizabeth Braddock (Earth-616)|Psylocke]] agreed to accompany him, due to the fact that both of their fathers had once been members. Warren refused to join Shinobi's new Inner Circle. Afterward, Warren became romantically involved with Psylocke{{r|X-Men Vol 2 29}} and together they battled her enemy, [[Rita Wayword (Earth-616)|Spiral]].{{r|X-Men Vol 2 32}} 
+
+===Crimson Dawn=== 
+[[Victor Creed (Earth-616)|Sabretooth]] gravely injured Psylocke{{r|Uncanny X-Men #328}} and damaged one of Warren's wings.{{r|Sabretooth Special #1}} Warren helped Wolverine search for a mystical cure for Psylocke. Eventually, with the assistance of Dr. Strange and [[Gomurr (Earth-616)|Gomurr the Ancient]], they revived her with help from the mysterious [[Crimson Dawn]].{{r|Uncanny X-Men #330}} Warren and Psylocke left the X-Men and went to his Aerie to recuperate. After Psylocke was alerted to the presence of [[Onslaught (Psychic Entity) (Earth-616)|Onslaught]] on the [[Astral Plane]],{{r|Uncanny X-Men #334}} followed by the [[Cain Marko (Earth-616)|Juggernaut]] attempting to warn them, the two briefly returned to aid the X-Men.{{r|Uncanny X-Men #334}}
+
+===Regaining Original Wings===
+A short time later, Warren regained his original, feathered wings, when his techno-organic ones "molted" away. As this process was happening he was visited by [[Ozymandias (Earth-616)|Ozymandias]], which left him unsure whether Apocalypse had released his hold on him or was continuing to use him in some way. He retained his blue features.{{r|Uncanny X-Men #338}} 
+
+===Gambit's Trial===
+After meeting [[Maggott (Japheth) (Earth-616)|Maggott]], Psylocke and Warren were captured by [[Nanny (Magneto's Robot) (Earth-616)|Nanny]]. There, Magneto (disguised as Erik the Red) held a mock trial for [[Remy LeBeau (Earth-616)|Gambit]] for his part in the Massacre of the Morlocks. Warren was outraged that Gambit had played a part in the Massacre that had once cost him his wings and refused to defend him.{{r|Uncanny X-Men #350}} Later Warren was slammed by his teammates for his and Psylocke's lack of commitment to the team.{{r|Uncanny X-Men #352}} He returned to the Morlock Tunnels where he was attacked by [[Emil Blonsky (Earth-616)|Abomination]] and aided by [[Marrow (Sarah) (Earth-616)|Marrow]].{{r|X-Men Vol 2 74}}
+
+===New Powers===
+[[File:Warren Worthington III (Earth-616) from Uncanny X-Men Vol 1 338 0001.jpg|left|thumb|150px|Techno-organic wings molting to reveal feathered ones]]
+Warren joined a splinter X-Men group to assist the [[Mannites (Earth-616)|Mannites]] in their battle with the latest bearer of the name Death, who was eventually discovered to be Wolverine. This prompted Warren and Psylocke to rejoin the X-Men and they became involved in stopping the latest plan of Apocalypse to gain ultimate power. During a fight with the brainwashed Wolverine, Angel became more and more ruthless until he was overcome by a transformation that left him with glowing wings and hair as well as psionic abilities. Warren used these abilities to track down the first Horseman known as [[Abraham Kieros (Earth-616)|War]], who had somehow once again become a paraplegic. Warren explained that he had become the embodiment of hope and used his new-found psionic powers to heal the former War.
+
+Warren divided his time between running his fortune, Worthington Industries, and working with the X-Men. Over time, his new abilities disappeared and his relationship with Psylocke officially ended when Psylocke began dating the new X-Man [[Neal Shaara (Earth-616)|Neal Shaara]].
+
+===Returning to the X-Men===
+Eventually, Warren returned to the X-Men full-time. Warren helped the X-Men defeat the threats of the [[X-Corps (Earth-616)|X-Corps]] and the [[Vanisher (Earth-616)|Vanisher]]'s mutant drug cartel. Warren became the leader of the X-Men's active away team and even took the opportunity to address the G8 summit about mutant rights. This move and the cause that he promoted helped turn the X-Men from an outlaw band of heroes to a recognized global rights group.{{r|Uncanny X-Men #402}}
+
+In a battle with the plant-being, [[Thomas Cassidy (Earth-616)|Black Tom Cassidy]], Worthington was entrapped in Black Tom's life-draining vines and began to enter cardiac arrest. Warren was saved by his teammates, whereupon his blue skin reverted to its former pink color. This was later pointed to as a signal that his healing abilities had begun to manifest themselves more strongly. After rescuing [[Miranda Leevald (Earth-616)|Stacy X]], Warren became the object of her constant flirtation, while at the same time dealing with the fact that [[Paige Guthrie (Earth-616)|Husk]], an X-Man much younger than him, also had a crush on him.{{r|Uncanny X-Men #413}}
+
+===Lobo Technology===
+Warren was forced to confront his cavalier attitude toward his fortune when he discovered Lobo Technology, a division of Worthington Industries that had been taken over by [[Maximus Lobo (Earth-616)|Maximus Lobo]] and a community of mutant werewolves. Lobo fought the X-Men and nearly killed Worthington and Husk. The two barely escaped and only survived from the brink of death with the help of Worthington's healing powers. Maximus Lobo revealed that he was involved in the murder of Worthington's father, in part, so that he could create a dominate subspecies of mutant werewolves operating out of Lobo Tech. Lobo ultimately defeated himself by allowing Lobo Tech to explode rather than concede defeat to the X-Men.
+
+===Healing Blood & Husk===
+Stacy X left the X-Men, saying goodbye to Warren in a nude video of her and while he watched this, Paige walked in on him.{{r|Uncanny X-Men #422}} Unsure if his healing powers were genuine, Warren used his blood at a local children's hospital to heal as many children as he could while the doctors confirmed that like blood types could be healed by him.{{r|Uncanny X-Men #427}}
+
+Warren and Husk developed a romantic relationship after their ordeal, but it started off uneasy and continued in fits and starts. They committed themselves to each other when the X-Men helped Husk's brother [[Joshua Guthrie (Earth-616)|Jay Guthrie]] deal with mutant bigotry in his hometown. During this time, Warren apologized to Wolverine for not liking him all these years and commended his service with the X-Men.{{r|Uncanny X-Men #439}}
+
+===Mutantes Sans Frontières===
+Warren and Paige took time-off from the X-Men's active roster and Warren founded the [[Mutantes Sans Frontières (Earth-616)|Mutantes Sans Frontières]], a global outreach effort in [[Zanzibar]]. They were attacked by the [[Weaponeers (Earth-616)|Weaponeers]], hired by [[Ophelia Sarkissian (Earth-616)|Viper]] for [[Courtney Ross (Earth-616)|Courtney Ross]], during the gala reception.{{r|Excalibur Vol 3 11}}
+
+===Wings Over The World===
+[[File:X-Men Unlimited Vol 2 8 Textless.jpg|left|thumb|150px|Wing Over The World]]
+After being asked to improve the X-Men's public image, Warren, with help from [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]], created "Wings Over The World", a dome using anti-gravity units that allowed people with disabilities to use metal wings to glide through the air in the facility.{{r|X-Men Unlimited Vol 2 8}} Warren also joined the remaining members of the original X-Men to rescue the [[198 (Earth-616)|198]].{{r|Civil War: X-Men #2}}
+
+===World War Hulk===
+[[File:Incredible Hulk Vol 2 109 Textless.jpg|right|thumb|150px|Champions reassembled]]
+Warren was one of the original Champions assembled by [[Amadeus Cho (Earth-616)|Amadeus Cho]] to help a recently returned and angry Hulk.{{r|Incredible Hulk Vol 2 106}} It was later revealed that Amadeus simply needed Warren's money and Warren left the group.{{r|Incredible Hulk Vol 2 107}}
+
+===Messiah Complex/San Francisco===
+Warren supported Cyclops' team sent to [[Cooperstown]], [[Alaska (State)|Alaska]], after a mutant birth was detected for the first time since [[M-Day]].{{r|X-Men: Messiah Complex #1}} Warren returned to active duty and was sent to question the [[Acolytes (Earth-616)|Acolytes]]{{r|Uncanny X-Men #492}} and later battle the Marauders.{{r|X-Men Vol 2 205}} When the city of [[San Francisco]] was being taken over by the illusions of a mutant known as [[Martinique Wyngarde (Earth-616)|Goddess]], Warren was taken into the illusion and battled against Cyclops and [[Emma Frost (Earth-616)|Emma Frost]]. When he was freed from the mind-controlling illusions, Warren saved the mayor of San Francisco, [[Sadie Sinclair (Earth-616)|Sadie Sinclair]], from being run over by a truck.{{r|Uncanny X-Men #499}} At her invitation, the X-Men reformed at their new headquarters in the Marin Highlands of San Francisco, [[Graymalkin Industries]], which was funded by Warren.{{r|Uncanny X-Men #500}}
+
+===X-Force===
+While Cyclops was secretly using Warren's Aerie in Colorado for [[X-Force (Strike Team) (Earth-616)|X-Force]], Warren was attacked by a brainwashed [[Rahne Sinclair (Earth-616)|Wolfsbane]] and his wings were ripped off. It was learned that Warren's feathered wings were not human, but still techno-organic and when his wings regrew, he reverted to his Archangel persona with blue skin and techno-organic wings.{{r|X-Force Vol 3 4}} He murdered hundreds of winged [[Purifiers (Earth-616)|Purifiers]], members of the [[Choir (Earth-616)|Choir]], during a raid of their base in retaliation for taking his wings before passing out and reverting to his Angel form.{{r|X-Force Vol 3 6}}
+
+After joining Cyclops' secret black ops team, X-Force, Warren gained the ability to switch back and forth between his Angel and Archangel personae. X-Force used Warren's home as a temporary base to maintain secrecy. Like all members of X-Force, Warren remained a member of the X-Men, while secretly going on missions with X-Force when ordered.{{r|Uncanny X-Men #504}}{{r|X-Force Vol 3 7}} He initially tried to keep his transformation from his other X-Men secret, but during a recruiting mission with Beast, Warren was forced to transform into his Death/Archangel form to save them.{{r|Uncanny X-Men #507}}
+
+Angel's old nemesis, Cameron Hodge, was resurrected by the Purifiers much to Warren's dismay. Warren also fought against [[Selene Gallio (Earth-616)|Selene]] on [[Necrosha]]. He was later sent into the future to find [[Nathaniel Summers (Earth-616)|Cable]].{{r|X-Force / Cable: Messiah War #1}} Warren was again sent into the future to stop an endless wave of [[Nimrod (Sentinel)|Nimrods]] flooding into the dome created by [[Bastion (Earth-616)|Bastion]], encasing the X-Men's new base of [[Utopia (X-Men Base)|Utopia]] and much of the [[San Francisco Bay|San Francisco Bay Area]].{{r|X-Force Vol 3 27}}
+
+[[File:Warren Worthington III (Earth-616) from Uncanny X-Men Vol 1 492 001.jpg|right|thumb|200px|Return as Angel]]
+===Heroic Age===
+Cyclops ordered the disbanding of X-Force. Wolverine, however, believed there was still a need for X-Force and decided to run it in secret. Warren joined the re-formed X-Force.{{r|X-Men: Second Coming #2}} Warren and Psylocke rekindled their relationship after joining the team, as she was helping him to control his Death/Archangel persona. Warren and Wolverine became leaders of the squad with Wolverine leading in the field and Warren supplying the funding. Warren also built a new secret bunker in Sedona, [[Arizona (State)|Arizona]], [[Cavern-X]], which was the base of operations for X-Force, but seconded as an emergency base for the X-Men should they need it. 
+
+The team's first mission was to stop the resurrection of Apocalypse.{{r|Uncanny X-Force #1}} The team was attacked by the Final Horsemen of Apocalypse and [[Jeb Lee (Earth-616)|Famine]] left Warren weak and starving. [[Wade Wilson (Earth-616)|Deadpool]] attempted to revive Warren by feeding him everything in his pouches and even cut into his own flesh for him. When the team got to Apocalypse, no one was willing to kill the child, not even Archangel. While X-Force argued among themselves, [[Charlie Cluster-7 (Earth-616)|Fantomex]] killed Apocalypse.
+
+As Angel, Warren was sent to watch over a new mutant manifestation, [[Laurie Tromette (Earth-616)|Laurie Tromette]], and fought with the X-Men against the [[Vampires]] that had invaded San Francisco, and secretly enjoyed their deaths as Death/Archangel. Warren was among the X-Men that were not on Utopia while Cyclops ordered a quarantine and led a small group of X-Men, consisting of [[Jean-Paul Beaubier (Earth-616)|Northstar]], Dazzler, [[Megan Gwynn (Earth-616)|Pixie]], and Storm, to safeguard San Francisco. The team defeated the [[Han, Chang, Lin, Sun, and Ho Tao-Yu (Earth-616)|Collective Man]] and captured [[Lobe (Earth-616)|Lobe]]'s imitation [[X-Men (Lobe) (Earth-616)|X-Men]]. 
+
+===[[Dark Angel Saga|Age of Archangel]]===
+Apocalypse's death triggered an Ascension Protocol within the [[Death Seed]] that Apocalypse had planted in Warren to turn him into Archangel. He began to become, in essence, a new Apocalypse. X-Force became aware of this after Warren tried to kill a reporter to whom Shadow King had delivered files on the secret team. To prevent his ascension, X-Force traveled to the [[Earth-295|Age of Apocalypse]] under the direction of [[Henry McCoy (Earth-295)|Dark Beast]]. They sought to claim a [[Life Seed]] to destroy the Death Seed within Warren. Teaming up with the [[X-Men (Earth-295)|X-Men]] of that universe, they managed to claim a Life Seed and return to their world but not without unfortunate casualties for the X-Men.
+
+However, they had been tricked. Dark Beast had been working for the ascended Archangel all along. They returned to find Cavern-X overrun by [[Clan Akkaba (Earth-616)|Clan Akkaba]], with Archangel at its head. The Life Seed was crucial in his plans to scour all life from the world, replacing it with new life grown from the Life Seed. As a test run, a small town in [[Montana]] was destroyed and regrown as [[Tabula Rasa (Location)|Tabula Rasa]]. 
+
+[[File:Warren Worthington III (Earth-616) Elizabeth Braddock (Earth-616) Uncanny X-Force Vol 1 18.png|thumb|left|The fate of Warren Worthington]]
+Psylocke surrendered herself, hoping to appeal to whatever was left of Warren. When X-Force's actions led to the demise of the Final Horseman of Death, Archangel gathered a Death Seed from the [[Tiamut (Earth-616)|Dreaming Celestial]] and transformed Psylocke into his own Death. Betsy was freed from the Archangel's control by [[Jean Grey (Earth-295)|Jean Grey]] from the Age of Apocalypse. She stabbed him with a Celestial Life Seed, which led to the death of Archangel and Warren as a person. All his memories were erased and he became a new person. His body has also returned to its normal form, but with Techno-Organic wings.{{r|Uncanny X-Force #18}}
+
+===Jean Grey School for Higher Learning===
+Warren was sent to the Jean Grey School for Higher Learning by Wolverine, hoping that would bring back some of his memory. Instead, Warren began to believe himself to be a real Angel. He was enrolled in the school as a student to help change his childish behavior. When the Worthington Industries board of directors noted Warren's strange behavior they decided that he was mentally unfit to run the company. His personal accounts were frozen leaving the Jean Grey School without funding.
+
+When Wolverine's legs were damaged Warren tried to fix them with a "miracle." When he failed he wanted to try it again but Wolverine wouldn't allow him, so he and a few other students went to the casino on [[Sin (Planet)|Planet Sin]]. There they took the device that damaged their headmaster's legs so it could be used to heal him. While doing so he forged a friendship with [[Evan Sabahnur (Earth-616)|Evan]], a clone of Apocalypse. 
+
+Warren tried to prove that he truly was a real angel by flying to heaven but he failed and accepted the fact that he was mutant. While falling he was saved by Evan and revealed that he could see the essence of people when he looked at them. Evan asked him what he saw when he looked at him and despite seeing only the image of Apocalypse, Warren told him that he could see nothing but goodness in him. Warren left the school with Bobby and [[Rachel Summers (Earth-811)|Rachel]] to help his fellow mutants in the battle against the Avengers. After the battle, he returned to join the stand against Cyclops and has since regained all of his memories.
+
+===The Archangel's Return===
+Tired of Archangel's powers and personality, Warren contacted [[Clan Akkaba (Earth-616)|Clan Akkaba]].{{r|Uncanny X-Men Vol 4 8}} They cut off his "tainted" wings, and Warren, now "cured and pure," became some sort of prophet in [[Green Ridge]], [[Colorado (State)|Colorado]];{{r|Uncanny X-Men Vol 4 7}} however, Akkaba secretly used his wings to create an [[Death-Flight (Earth-616)|army of Archangels]] and [[Warren Worthington III (Clone) (Earth-616)|one of those clones]] escaped and became a member of [[X-Men (Magneto's) (Earth-616)|Magneto's X-Men]].{{r|Uncanny X-Men Vol 4 1}}
+
+[[File:Warren Worthington III (Earth-616) from Astonishing X-Men Vol 4 5 001.jpg|thumb|left|Warren switching between Angel and Archangel]]
+The real Warren was later found in Green Ridge by Psylocke and Magneto.{{r|Uncanny X-Men Vol 4 6|8}} Clan Akkaba revealed their true intentions in helping Warren, when their army of cloned Archangels led by the escaped clone attacked Green Ridge. In the end, Angel, realizing that Archangel needed his humanity, merged with all his clones, creating a new being. This new Archangel was unsure of who or what he now was, but was determined to find out. He swore off all violence and returned with Magneto's X-Men to their base in the Savage Land.{{r|Uncanny X-Men Vol 4 9|10}}
+
+Angel was one of the numerous mutants called by Psylocke when she was attacked by the [[Shadow King (Multiverse)|Shadow King]] in [[London (England)|London]]. As she and some of the mutants she summoned ventured into the [[Astral Plane]] to stop him, Angel decided to stay in the real world to watch over their bodies{{r|Astonishing X-Men Vol 4 1}} and keep local authorities at bay.{{r|Astonishing X-Men Vol 4 3}} When the Shadow King took over the bodies of Gambit and Logan, Psylocke had Angel reluctantly switch to his Archangel persona to stop them.{{r|Astonishing X-Men Vol 4 5}} In the Astral Plane, the Shadow King was fighting against the late Charles Xavier, whose spirit he had managed to capture after his passing. Following the Shadow King's defeat, Xavier returned to the land of the living in the body of [[Charlie Cluster-7 (Earth-616)|Fantomex]].{{r|Astonishing X-Men Vol 4 6}} Xavier used his telepathic powers on Archangel to subdue his bloodlust and allow Warren to possess full control over his actions even when in his Archangel form.{{r|Astonishing X-Men Vol 4 7}}
+
+===Age of X-Man===
+When [[Nathaniel Grey (Earth-295)|X-Man]] tried to convert the world into a utopia through force, he created the [[Horsemen of Salvation (Earth-616)|Horsemen of Salvation]] to help him. One of them was Warren who was turned into X-Man's Horseman of Life. Warren and the Horsemen battled the X-Men who tried to stop X-Man. When X-Man realized that he would never be able to carry out his vision with the X-Men around, he eliminated his enemies in an instant as well as Warren and the other Horsemen on [[Quadra Island]].{{r|{{cl|Uncanny X-Men Vol 5 3}}-{{cl|Uncanny X-Men Vol 5 10|10}}}} He was sent by X-Man to a [[Age of X-Man (Plane)|different reality]] created by X-Man to be a utopia for all mutants could live in peace.{{r|Age of X-Man Alpha Vol 1 1}}
+
+In the reality created by [[Nathaniel Grey (Earth-295)|Nate Grey]] and a [[Life Seed]], a world where everyone on Earth was a mutant and relationships were strongly discouraged or illegal, Warren was the dean of the Summers Institute for Higher Learning in [[Westchester County]]. Like its mainstream reality counterpart, [[Xavier's School for Gifted Youngsters]], the Summers Institute taught mutant children how to control their mutant abilities.{{r|Age of X-Man Alpha Vol 1 1}}{{r|Age of X-Man: Nextgen Vol 1 1}}
+
+Warren was seen in several instances monitoring the hallways of the institute and encouraging students to get to class. When rebellious students graffitied over notices on a bulletin board, he was seen removing the notices.{{r|Age of X-Man: Nextgen Vol 1 3}}
+
+Fearing the threat of the mutant drug Unveil and its impact upon her friends, Pixie interrupted a meeting between [[Shiro Yoshida (Earth-616)|Sunfire]] and Warren to express her concerns about [[Victor Borkowski (Earth-616)|Anole]] and [[Hisako Ichiki (Earth-616)|Armor]]. Warren immediately called in [[Department X (Age of X-Man) (Earth-616)|Department X]] to deal with the issue. [[Frederick Dukes (Earth-616)|Blob]] and [[Elizabeth Braddock (Earth-616)|Psylocke]] arrived to investigate and were let into Anole's room by Warren and Sunfire. Warren commented that Anole had always been a good student and he wasn't sure what had gotten into him.{{r|Age of X-Man: Nextgen Vol 1 4}}
+
+A week later, a televised interview with Warren played on the convenience store TV where a disguised Armor bought supplies for her and her fugitive cohorts. Warren assured the students that they weren't in any danger, but implored the public to be on the lookout for the missing students and to call Department X if spotted.{{r|Age of X-Man: Nextgen Vol 1 4}}
+
+After Nate Grey transformed all of the mutants back into their mainstream counterparts, Warren was shown in his office sitting across from an open portal back to reality.{{r|Age of X-Man Omega Vol 1 1}}
+
+===House of X===
+Warren lived on the sovereign Mutant nation state of [[Krakoa (Earth-616)|Krakoa]], created by Charles Xavier, Magneto, and [[Moira MacTaggert (Earth-TRN748)|Moira X]]. He later joined Cyclops' team ([[James Howlett (Earth-616)|Wolverine]], [[Raven Darkholme (Earth-616)|Mystique]], [[Paige Guthrie (Earth-616)|Husk]], [[Monet St. Croix (Earth-616)|Penance]], [[Jean Grey (Earth-616)|Marvel Girl]], and [[Kurt Wagner (Earth-616)|Nightcrawler]]) on a mission to destroy Mother Mold before the creation of Nimrod. Archangel and Husk were both confused at some of Cyclops' methods. The team was spotted as they neared their destination, and subsequently their Shi'ar ship was blown up in a kamikaze attack by [[Erasmus Mendel (Earth-616)|Captain Mendel]].{{r|House of X Vol 1 3}} The explosion killed both Archangel and Husk, but the survivors continued on to destroy Mother Mold, at the cost of their lives.{{r|House of X Vol 1 4}}
+
+The team was later resurrected by a group of mutants known as “[[Five (Earth-616)|The Five]]” ([[Eva Bell (Earth-616)|Eva Bell]], [[Kevin MacTaggert (Earth-616)|Proteus]], [[Hope Summers (Earth-616)|Hope Summers]], [[Joshua Foley (Earth-616)|Elixir]], and [[Fabio Medina (Earth-616)|Goldballs]]). Merging their powers, The Five were able transfer the deceased X-Men’s minds into cloned bodies. They were later proclaimed as the heroes of Krakoa.{{r|House of X Vol 1 5}} Warren was later seen drinking alongside [[Robert Drake (Earth-616)|Iceman]] and [[Henry McCoy (Earth-616)|Beast]] at the celebration following the announcement of Krakoa as a sovereign nation under the [[United Nations (Earth-616)|United Nations]] and the first meeting of the [[Quiet Council of Krakoa (Earth-616)|Quiet Council of Krakoa]].{{r|House of X Vol 1 6}}
+
+===Empyre===
+Warren helped fight off the invading [[Empyre (Earth-616)|Empyre]] while also contending with [[Zombies|Mutant Zombies]].{{r|Empyre: X-Men Vol 1 1}}
+
+===X of Swords===
+Warren kept a close eye on Apocalypse, worried about what he was planning. The two did find some common ground however, as Apocalypse was proud he decided to show up as Archangel, how he made Warren.{{r|X of Swords: Creation Vol 1 1}}
+
+===X-Corp===
+Warren is one of the chairmen of X-Corp.{{r|X-Corp Vol 1 1}}
+
+| Powers                  = Warren is a [[Homo superior|mutant]] and possibly a [[Cheyarafim]].{{r|Uncanny X-Men #431}} Initially, he only had the ability of winged flight, but later gained a healing factor, possibly coming from either his possible [[Cheyarafim]] legacy, a [[Secondary Mutation]] or Apocalypse's manipulation. During his life he has been transformed by both [[Death Seed]] and [[Life Seed]], that gave him various abilities. 
+
+Archangel originally lacked his wings and only retained some vestige of his mutant powers partial to the Life Seed, but after undergoing a merger with his cloned self he had regained his powers. He can also switch between his Angel and Archangel personas gaining the following:
+
+====Angel====
+'''[[Glossary:Wings|Wings]]:''' Angel possessed the superhuman ability to fly by means of his natural wings, which spanned sixteen feet from wingtip to wingtip. He later lost his wings, due to infection and amputation, but has regrown identical techno-organic wings. Fully feathered like a bird's, the wings have a very flexible skeletal structure, enabling him to press them to the back of his torso and legs with only the slightest bulge visible under his clothing. Angel flies by flapping his wings, as a bird does. The strength in his natural wings can easily break a man's arm or leg, or even put someone through a wall.
+* '''[[Flight]]:''' Angel's normal cruising speed averages around 70 miles per hour (112 kph), though he is capable of diving swoops that reach up to 180 miles per hour (290 kph). He can fly at 150 miles per hour (240 kph) without the help of a tail wind for up to half an hour at a time before tiring to an appreciable degree. Though he generally flies beneath the height of the clouds (6,500 feet/1981 meters), he can reach a height of 10,000 feet (3000 meters) with little effort. With severe strain he can attain the highest recorded altitude of a bird in flight (African geese at 29,000 feet (8840 meters) above sea level), but can only remain at that altitude for several minutes.{{r|Official Handbook of the Marvel Universe Vol 2 1}}
+
+'''Aerial Adaptation:''' Angel's entire anatomy is naturally adapted to flying. His bones are hollow, his body processes food more efficiently than a normal human body and does not store any excess fat, and he possesses a greater proportionate muscle mass than normal. As a result, his strength, speed, agility, flexibility, endurance, reflexes, coordination, balance, eyesight and hearing are at their peak. Elements of his anatomy are comparable to those of birds, especially birds of prey. His eyes can withstand high-speed winds which would damage the average human eye. He can breathe at high velocities or altitudes, and he can cope with the reduced temperatures at high altitudes for prolonged periods of time, giving him a greater-than-normal capacity to endure low temperatures in areas such as the Arctic.
+
+He shares some quality with birds including the sense of direction,{{r|Avengers Vol 1 53}} while his eyesight is on par with the one of an eagle (or keener),{{r|X-Men Vol 2 101}} allowing him to spot movement and details even from higher distances than the average human (or mutant) could.{{r|X-Men Vol 2 40}} His enhanced, avian eyes allow him to "see everything" even in the dark.{{r|X-Men Vol 2 74}}
+
+'''Peak Human Strength:''' Due to his body's natural mutation, Angel possesses greater physical strength than an ordinary human equal to him in body weight and can lift about 500 lbs.
+
+'''Superhuman Stamina:''' Angel's musculature produces less fatigue toxins during physical activity than the musculature of an ordinary human. He can physically exert himself at peak capacity for several hours before the build up of fatigue toxins in his blood begins to impair him. His physical stamina while in flight is considerably greater. The Angel can fly non-stop under his own power for a maximum of approximately twelve hours. Contrary to some reports, he couldn't make a transatlantic flight solely on his own power. During his one attempt to do so, he hitched a ride on an airplane for part of the way.
+
+'''Superhuman Durability:''' The tissues of Angel's body are somewhat harder and more durable than that of an ordinary human, though he is far from invulnerable. While he can be injured in ways comparable to an ordinary human, his body is structured to withstand the friction caused by flying at high speeds. He can also withstand impact forces that would severely injure or kill an ordinary human with only mild to moderate discomfort.
+
+====Archangel====
+'''Techno-Organic Wings:''' Angel was given techno-organic wings by [[En Sabah Nur (Earth-616)|Apocalypse]] as part of his conversion to the [[Horsemen of Apocalypse (Earth-616)|Horseman]] [[Death]]. Their feathers could be launched as flechettes which hit like bullets and able to pierce steel, due in part to their incredible endurance and composition. Archangel could use them to torpedo himself through most anything blasting through and rending it apart. Eventually, those wings molted revealing feathered wings underneath, although, it was later told that those simply appeared organic. Later, after his apparent organic wings were lost for a second time, the techno-organic wings regrew and his blue skin color returned. After killing those who took his organic wings, he reverted to his original Angel form. It's since been revealed that under stress his Archangel abilities can return, though he lacks complete control over this more aggressive form. During his time in the [[X-Force (Strike Team) (Earth-616)|X-Force]], he has demonstrated the ability to become Archangel but still lacking control. He later lost control entirely. Merging back with his archangel persona has returned his wingspan to him.{{r|Uncanny X-Men Vol 4 10}}
+* '''Flight:''' The wings enabled him to fly approximately at Mach 1, possibly even faster considering he had little trouble out-flying a fighter jet which can travel a speed of Mach 2.35 (2,903 kph) and later still showed out flying the [[X-Men Blackbird|Blackbird]] while above sea level at Mach 4.2 (roughly 5,189 kph).{{r|X-Force Vol 3 21}}
+* '''Wing Blades:''' His T.O. wings have razor sharp edges running along them, most likely mono-molecular in sharpness, making them very deadly bladed weapons for him to use. It's suggested they can cleave semblances with the toughness of diamond being sharp enough cleave stone, tear through tempered steel slice and can easily cleave grown men clean in two.{{r|X-Force Vol 3 21}}
+* '''Wing Shielding:''' Due to their metallic trans organic nature, they made decent shields to protect his body by covering up in them. Able to resist an arrow barrage, bullet fire, flash flames, a missile strike and lastly can tank a bio-nuclear microwave blast from the mutant [[William Rolfson (Earth-616)|Holocaust]].{{r|Uncanny X-Force #17}}
+* '''Poisonous Plumage:''' Warrens new wings came with dischargeable flechettes which carried a potent neurotoxin paralyzing their mark on contact.
+
+'''Regenerative Healing Factor:''' Even before the lion-share of his powers were purged from him, Warren still had the ability to regrow damaged and destroyed tissue due in part to both his mutations and the T.O. factor of his wings. Every time they had been extracted new ones would regrow in their place.{{r|Uncanny X-Men Vol 4 10}}
+
+'''Hypersonic Scream:''' Both the Archangel entity and his cloned Death-Flight legion could emit an intense acoustic shrieking which could cause disorientation and internal bleeding.{{r|Uncanny X-Men Vol 4 10}}
+
+'''Energy Halo:''' A possible extension of his original power-set Archangel is accommodated by a surrounding wreath of bright energy.{{r|Uncanny X-Men Vol 4 6}}
+
+{{Navigation
+| title  = Former Powers
+| body   = 
+
+====After [[Life Seed]] Resurrection====
+After Psylocke stabbed him with a Celestial [[Life Seed]], Angel returned to his normal form, but with techno-organic wings instead of regular ones, and gain several new abilities.{{r|Wolverine and the X-Men #4}}
+
+'''Techno-Organic Wings:'''
+* '''Speed Boost:''' The Life Seed also allows Warren to ramp up his speed exponentially, able to fly all the way from Brazil to the United States in mere hours.{{r|Wolverine & the X-Men #20}}
+
+'''Essence Reading:''' After his metamorphosis by the Celestial Life Seed, he appears to have gained the ability to see the true essence of whomever he looks upon. He has demonstrated this ability twice, when looking at himself he sees himself as something more than a mutant (initially believing himself to be an angel),{{r|Wolverine and the X-Men #10}} and when looking at [[Evan Sabahnur (Earth-616)|Evan Sabahnur]], he saw the face of [[En Sabah Nur (Earth-616)|Apocalypse]].{{r|Wolverine and the X-Men #10}} He can also use this ability to sense the life energy of other living beings.{{r|Wolverine and the X-Men #4}}
+
+'''Resurrection:''' After his metamorphosis by the Celestial Life Seed, he has seemingly gained the ability to raise the dead.{{r|Wolverine & the X-Men #4}} 
+
+'''Energy Manipulation:''' After his metamorphosis, Warren displayed the following abilities:
+* '''Energy Blasts:''' He was able to fire energy blasts.{{r|Wolverine & the X-Men #12}}
+* '''Energy Constructs:''' He also acquired the ability to create weapons out of pure solid energy like a sword.{{r|Wolverine & the X-Men #20}} 
+
+===Others===
+'''Life-Force Manipulation:''' Angel temporarily had his wings and hair empowered with 'life-force energy' due to Apocalypses modifications. He had the ability to heal all kinds of injuries both physical and mental in nature. After healing the former Horseman [[Abraham Kieros (Earth-616)|War]], his wings returned to normal.
+
+'''Psionics:''' A side effect of his life energy powers gave him mid-high grade mental abilities also attributed to his former masters modifications. After he had healed Abraham Kieros of his quadriplegia, he lost his psychic abilities along with the use of his life wings.
+* '''Psi-Talons:''' Warren could elongate the tips of his fingers into claws of psi-energy to; in Psylocke's own words "rip through the fabric of ones psyche" during a later confrontation with Apocalypse.
+* '''Mental Blocks:''' Warrens psychic powers allowed him to partially shield his mind from telepathic intrusion by Psylocke. Whose weakened psi-powers were enhanced using Cerebro at the time.
+* '''Limited Telepathic Communication:''' through the psychic link Warren shared with Elizabeth by her psychic intrusion into his mind. Warren could speak with and interact with her mind as a two-way communique. He demonstrated by saving her from being overcome by the Shadow king entity sealed inside of her psyche.
+
+'''Enhanced Avian Physiology:''' Angel underwent a physiological structure change when he came in contact with the Extraterrestrial entity. First, his wings molted away to nothing only to come back larger and stronger than ever before, his peak human abilities were also largely enhanced to match his new wingspan enabling him to hold up a falling plane for a brief time.{{r|X-Men First Class Vol 2 6|7}}
+
+'''[[Character Index/Unnamed Symbiotes#Angel's Symbiote|Symbiote]]:''' While on Ulgriath, Warren bonded to a symbiote that escaped from [[Haze Mancer (Earth-616)|Haze Mancer]]'s collection, which adapted to their unique powers. Warren's symbiote transformed his wings into bat-like appendages, letting him use them to grab opponents.{{r|X-Men: Blue Vol 1 21}}{{r|X-Men: Blue Vol 1 22}} Warren later immolated the symbiote using his cosmic wings in order to save himself from being consumed by a [[Poisons|Poison]] that had latched onto it.{{r|Venom Vol 1 163}}
+
+'''Black Vortex Empowerment:''' As result of being under the cosmic power of the corrupting [[Black Vortex]] Warren gained a whole new list of abilities of a similar yet radicalized variation of his future selves celestial tech powers, growing powerful enough to shatter the Kree home-world's defenses with ease.{{r|All-New X-Men #38}} 
+* '''Cosmic Wings:''' Having been altered by the vortex had infused Warrens wingspan with celestial energies enabling him faster than light travel through space.
+** '''Cosmic Energy:''' Angel can discharge enough cosmic energy from his wings in order to eviscerate planetary fleets.
+* '''Celestial Tech-like Armor:''' His transformation enables the cladding of otherworldly materials onto himself enabling the better channeling of his new cosmic power.
+* '''Energy Swords:''' These new powers allows him to conjure a pair of energized blades with which he can apparently cleave through anything.
+* '''Self-Sustenance:''' Angel does not need to breath while he is flying through the cosmos in his empowered form.
+}}
+| Abilities               = '''Expert Combatant:''' Archangel is a skilled combatant, especially in aerial hand-to-hand combat.{{r|All-New X-Men #8}}
+
+'''Business Sense:''' He is a talented businessman whose wealth ranks him in the lower part of the Fortune 500 list. 
+
+'''Swordsmanship:''' He aced in his fencing class without ever picking up a sword, and using only his wings. He proved himself to being a match for the new [[Silver Samurai]]. However, he is perfectly capable of using a real sword as well.{{r|Wolverine & the X-Men #20}} 
+| Strength                = He is at peak physical strength for his age.
+| Weaknesses              = He has a weakness for beautiful women.
+
+Formerly '''Mental Burn-Out:''' As powerful as the Black Vortex enhancement makes Angel, it affects his mind in the form of cumulative stress, which causes Warren to go berserk regularly after a period of time.{{r|All-New X-Men Vol 2 11}}
+
+| Equipment               = [[Image Inducer]]
+| Transportation          = Wings and [[X-Men Blackbird]]; formerly [[X-Men Stratojet]], [[X-Copter]], [[Charles Xavier (Earth-616)|Professor Xavier's]] Rolls Royce, [[Sentinel Air Transport]], Champjet, [[X-Factor Plane]], and various aircrafts constructed by [[Prosh (Earth-616)|Ship]].
+| Weapons                 = Wing blades
+
+| Notes                   = * Angel was a member of the [[Hellfire Club (Earth-616)|Hellfire Club]], a position he inherited from his [[Warren Worthington Jr. (Earth-616)|father]], though he doesn't often officially associate with them, and is not a member of the Inner Circle.{{r|X-Men #132}}
+* He is possibly a representative of the subspecies known as the [[Cheyarafim]], having wings and Neyaphem-burning blood, but [[Azazel (Earth-616)|Azazel]] refuted this allegation, on the basis that Warren was a recent mutant, stating that his power set was a mere coincidence,{{r|Uncanny X-Men #431}} although Azazel was curious about Warren's lineage.{{r|Uncanny X-Men #433}}
+* After being stabbed with the Celestial Life Seed, both his Archangel and Warren Worthington personas were destroyed. The seed used Archangel as "soil" to grow a new person, resulting in the new Angel.{{r|Uncanny X-Force #18}}
+*Warren did not have a particularly high opinion of his teammate [[Scott Summers (Earth-616)|Cyclops]]. He considered Cyclops a boor, who "couldn't convince a drowning man to take a life preserver".{{r|X-Men Vol 1 3}}
+* [[Namor McKenzie (Earth-616)|Namor]] has remarked that Warren stands out for his arrogance.{{r|X-Men Vol 1 6}}
+* Warren can selectively bring out different aspects of his Archangel form, such as just forming his metallic wings in use for defense.{{r|X-Corp Vol 1 1}}
+
+===Relationships===
+* Angel used to be involved in a long love triangle with [[Scott Summers (Earth-616)|Cyclops]] over [[Jean Grey (Earth-616)|Jean Grey]] when they were teenagers.{{r|X-Men #1|31}}
+* Wanda briefly dated Angel.{{r|New X-Men Vol 2 44}}
+* During his time-displacement, Angel dated [[Laura Kinney (Earth-616)|Laura Kinney]].{{r|All-New X-Men Vol 1 30}} They apparently broke up off-panel before Warren returned to the past.
+* Angel formerly dated [[Candace Southern (Earth-616)|Candy Southern]]{{r|X-Men #31}} who was later killed by [[Cameron Hodge (Earth-616)|Cameron Hodge]]. 
+* Angel was in a long-term relationship with [[Elizabeth Braddock (Earth-616)|Psylocke]], but they eventually broke up when Betsy showed feelings for Neal Shaara.{{r|X-Men Vol 2 109}} Angel reignited his relationship with Psylocke, partly due to the fact that she was helping to control his transformations into Archangel, but they once again broke up after Angel lost his memory after being resurrected.{{r|Uncanny X-Force #19}}
+* Angel also used to date [[Paige Guthrie (Earth-616)|Husk]].{{r|Uncanny X-Men #440}}
+| Trivia                  = 
+* <!-- comparison to biblical Angels -->Angel has once impersonated the Angel [[Michael (Angel) (Earth-616)|Michael]],{{r|Angel: Revelations #4}} and has been compared to the Angel [[Raphael (Angel) (Earth-616)|Raphael]].{{r|Avengers Vol 7 2.1}}
+* Warren has used the email address 'wworthington@xmen.cerebo.x'{{r|Uncanny X-Men Vol 1 495}}
+* At one point Warren's parents lived at 4739 Anderson Lane, [[Fort Washington]], [[New York (State)|New York]], 10016.{{r|Angel: Revelations Vol 1 1}}
+** The real world zip code for this address actually matches Midtown, [[Manhattan]].
+| Links                   = 
+}}
+[[it:Warren Worthington III (Terra-616)]]
+[[Category:Flight]]
+[[Category:Regeneration]]
+[[Category:Healers]]
+[[Category:Superhuman Stamina]]
+[[Category:Post-M-Day Mutants (The 198)]]
+[[Category:Millionaires]]
+[[Category:Worthington Family]]
+[[Category:Utopians]]
+[[Category:Episcopalian Characters]]
+[[Category:Xavier Institute Student]]
+[[Category:Jean Grey School students]]
+[[Category:Jean Grey School faculty]]
+[[Category:Apocalypse Experiment]]
+[[Category:Techno-Organic Virus]]
+[[Category:Fencing]]
+[[Category:High Threats]]
+[[Category:Energy Manipulation]]
+[[Category:Transformed by the Death Seed]]
+[[Category:Apocalypse Succession]]
+[[Category:Mutants activated at birth]]
+[[Category:Businesspeople]]
+[[Category:Winged Characters]]
+[[Category:Post-Secret Wars Mutants]]
+[[Category:Blood-Based Powers]]
+[[Category:Gestalt Characters]]
+[[Category:Horsemen of Death]]
+[[Category:Floating Super-Hero Poker Game participants]]
+[[Category:Shapeshifters]]
+[[Category:Black Vortex users]]
+[[Category:Symbiotes-possessed]]
+[[Category:X-Men (New Charles Xavier School) (Earth-616)/Members]]
+[[Category:Age of X-Man participants]]
+[[Category:X-Men (Time-Displaced) (Earth-616)/Members]]
+[[Category:Time Travelers]]
+[[Category:Angels of Heaven (Full Listing)]]

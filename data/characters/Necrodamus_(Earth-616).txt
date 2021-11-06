@@ -1,0 +1,71 @@
+{{Marvel Database:Character Template
+| Image                   = Necrodamus (Earth-616) from Avengers Vol 1 128 001.png
+| Name                    = Necrodamus 
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = Formerly {{m|Legion of the Unliving (Grim Reaper) (Earth-616)|Legion of the Unliving}}, servant of the [[Nameless One (Undying Ones Leader) (Earth-616)|Nameless One]]
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 5'0"
+| Height2                 = , 6'4" (strengthened form)
+| Weight                  = 120 lbs
+| Weight2                 = , 300 lbs (strengthened form)
+| Eyes                    = Black
+| Hair                    = Bald
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] sorcerer{{r|Spirits of Vengeance #2|'s recap}}
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = Magician
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Steve Englehart; Sal Buscema
+| First                   = Defenders Vol 1 1
+
+| History                 = 
+===Origin===
+Necrodamus was born with a shriveled body, so he turned to black magic to gain the power his physical frame lacked. He learned that through the sacrifice of innocents he could gain godlike form.{{r|Fantastic Four #324}}
+
+===Attempts at reaching godhood===
+During his first known attempt to do this, Necrodamus tried to sacrifice the [[Namor McKenzie (Earth-616)|Sub-Mariner]] to the [[Nameless One (Undying Ones Leader) (Earth-616)|Nameless One]] while the stars were in a certain alignment. Necrodamus was defeated in this plot by the [[Defenders (Earth-616)|Defenders]] who were able to delay him until after the alignment of the stars was past and Necrodamus had transformed back into a shriveled husk of a man.{{r|Defenders #1}}
+
+When he tried to perform similar sacrifice in the surface world among the air-breathers, he was defeated by the [[Wanda Maximoff (Earth-616)|Scarlet Witch]], who swept his soul into Limbo.{{r|Avengers #128}}
+
+===Return from Limbo===
+He spent many years lost in that trackless realm until the demonic Masters of [[Limbo (Otherplace)|Limbo]] unleashed a demon invasion (the so-called "[[Inferno (Event)|Inferno]]") on [[Manhattan]]. The nexus of energy created by the Masters of Limbo in their attempt to spread their domain into the plane of Earth's existence gave Necrodamus back his bearings and his way back to Earth-- first as only a spirit, but eventually his form became more substantial and he regained his full sorcerous powers.{{r|Fantastic Four #323|324}}
+
+Necrodamus used his sorcery to kidnap the hero [[Mantis (Brandt) (Earth-616)|Mantis]] away from her captor, the [[time-travel]]ing villain [[Nathaniel Richards (Kang) (Earth-6311)|Kang the Conqueror]] while the latter was busy fighting the [[Fantastic Four (Earth-616)|Fantastic Four]]. Necrodamus planned to sacrifice Mantis when the planets aligned themselves, but Kang and the [[Jonathan Storm (Earth-616)|Human Torch]] combined powers to keep [[Mercury (Planet)|Mercury]] from joining the other planets in alignment and ruined Necrodamus' spell. Mantis was saved and Necrodamus disappeared once more into the ethereal void of Limbo.{{r|Fantastic Four #324}}
+<!-- 
+===Second return from Limbo===
+...{{r|Spirits of Vengeance #1}} -->
+
+| Powers                  = Among Necrodamus' sorcerous abilities are the ability to fly, teleport and to create magical bolts of energy and protective shields. The full range and extent of his magic remains unrevealed, but Necrodamus claims that if he ever succeeds in the ritual known as the Rite of Power that he would become a god.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = Necrodamus has, on occasion, used a demonic dagger to carry out his sacrifices.
+
+| Notes                   = 
+| Trivia                  = * A portmanteau of [https://en.wikipedia.org/wiki/Nostradamus Nostradamus] and the Greek root 'nekro-' pertaining to corpses and death.
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+'''References:'''
+* http://www.marvunapp.com/Appendix3/necrodamusdef.htm
+* Gamers' Handbook of the Marvel Universe
+* Unofficial Handbook of the Marvel Universe
+}}
+[[Category:Flight]]
+[[Category:Teleporters]]

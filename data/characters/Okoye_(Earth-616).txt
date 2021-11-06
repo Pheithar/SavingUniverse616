@@ -1,0 +1,64 @@
+{{Marvel Database:Character Template
+| Image                   = Okoye (Earth-616) from Empyre Vol 1 3 001.jpg
+| Name                    = Okoye
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{M|Agents of Wakanda}} (Director), {{M|Dora Milaje}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Black
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Wakanda]]
+
+| Identity                = No Dual
+| Citizenship             = Wakandan
+| Occupation              = Driver, body guard, skilled warrior, Field Director of the Agents of Wakanda[[Category:Government Agents]]
+| Education               = 
+| BaseOfOperations        = [[Upanga]], [[Birnin Zana (Earth)|Birnin Zana]], [[Wakanda]]
+
+| Creators                = Christopher Priest; Mark Texeira
+| First                   = Black Panther Vol 3 1
+
+| Overview            = '''Okoye''' was a warrior who hailed from the [[Africa|African]] nation of [[Wakanda]]. She was a member of the [[Dora Milaje (Earth-616)|Dora Milaje]] or "Adored Ones," an elite force, dubbed the "wives-in-training" for the [[Black Panther|King of Wakanda]]. They served as his personal valets and bodyguards. Each member of the Dora Milaje was chosen from a different tribe of Wakanda, a political tradition to ensure peace among the tribes, as each held a role in the palace and a chance to become the next queen.{{r|Black Panther Vol 3 1}}
+
+| History                 = 
+Although long inactive, the order of Dora Milaje was reactivated by [[T'Challa (Earth-616)|King T'Challa]] to smooth over political discord in the kingdom, so Okoye and her friend [[Nakia Shauku (Earth-616)|Nakia]] were chosen from their tribes to train in [[Birnin Zana (Earth)|the capital]]. [[Monica Lynne (Earth-616)|Monica Lynne]] remembered seeing the girls in their early teens from her time in Wakanda.{{r|Black Panther Vol 3 8}}
+
+The role of wives-in-training was purely ceremonial, as King T'Challa did not harbor any romantic affection towards the girl, seeing them more like his children. Okoye accepted this truth early on, but her partner Nakia dreamed of marrying the king. Nakia's obsession turned violent, and she abandoned the Dora Milaje to become the villainous Malice.{{r|Black Panther Vol 3 11|12}} Okoye later worked alongside the new recruit for the Dora Milaje, the Chicago-raised [[Ce'Athauna Asira Davin (Earth-616)|Queen Divine Justice]].{{r|Black Panther Vol 3 25}}
+
+After a brain aneurysm caused T'Challa to go into hiding, Okoye accompanied him. They encountered a man named [[Kevin Cole (Earth-616)|Kasper Cole]] who was improperly using the garb of the Black Panther as an urban vigilante. T'Challa chose to test Kasper to see if he was worthy of the role. Okoye was part of this test, a test of character to see if Kasper would abandoned his pregnant girlfriend due to his attraction to Okoye.{{r|Black Panther Vol 3 62}}
+
+===Blessed by Anansi===
+Okoye and a squad of Dora Milaje traveled to [[New York City]] to capture Malice who used the substance [[Mimic-27 (Earth-616)|Mimic-27]] to attack a group of locals. [[Peter Parker (Earth-616)|Spider-Man]] arrived to help the people and, along with the Dora Milaje, drive off Malice. Okoye greeted Spider-Man recognizing him as being blessed by [[Kwaku Anansi (Earth-616)|Anansi]]. They next traveled to an underwater [[Advanced Idea Mechanics (Earth-616)|A.I.M.]] facility while tracking Malice, but were attacked by [[Morris Bench (Earth-616)|Hydro-Man]] whom they defeated with ease by freezing him in the water. After the fight, Spidey convinced them to see some of the tourist sites of New York.{{r|Amazing Spider-Man: Wakanda Forever Vol 1 1}}
+
+===Agents of Wakanda===
+Following the appointment of King T'Challa as chairman of the [[Avengers (Earth-616)|Avengers]], he opted to create a secret group of intelligence-gatherers to support the main team. T'Challa sought Okoye's help to screen each potential member of the [[Agents of Wakanda (Earth-616)|Agents of Wakanda]], and she became the director of the unit herself.{{r|Avengers Vol 8 12}} 
+
+| Powers                  ='''Chi Dragon Empowerment'''{{r|Iron Fist: Heart of the Dragon Vol 1 5}} 
+| Abilities               = * '''Master Martial Artist:''' As a general of the [[Dora Milaje (Earth-616)|Dora Milaje]], she is a seasoned unarmed and armed-combat expert.{{r|Black Panther Vol 3 1}}
+* '''Master Tactician and Strategist:''' She is an accomplished strategist.{{r|Amazing Spider-Man: Wakanda Forever Vol 1 1}}
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+| Wikipedia               = Okoye (character)
+}}
+[[Category:Martial Arts]]
+[[Category:Strategists]]
+[[Category:Chi Manipulation]]

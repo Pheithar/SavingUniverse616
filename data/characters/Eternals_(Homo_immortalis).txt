@@ -1,0 +1,307 @@
+{{Marvel Database:Race Template
+| Image                   = Eternals Vol 4 1 Textless.jpg
+| Title                   = [[Eternals]]
+| Name                    = [[Eternals (Homo immortalis)]]{{r|Eternals Vol 3 7}}{{r|Thor & Hercules: Encyclopaedia Mythologica Vol 1 1}}
+| Aliases                 = 
+{{Navigation
+| body = [[Eternals]], [[Titans]],{{r|Captain Marvel Vol 1 29}} "Forever People";{{r|Incredible Hercules Vol 1 119}}
+----
+'''[[Eternals of Earth]]''' (post-Kronos accident): Earth Eternals,{{r|Thor & Hercules: Encyclopaedia Mythologica Vol 1 1}} Earthbound Eternals,{{r|Incredible Hercules Vol 1 120}} Earth-born Eternals;{{r|Official Handbook of the Marvel Universe Vol 1 10|; [[Eros (Earth-616)|Starfox]]'s entry}}
+----
+'''Eternals of Titan:'''{{r|Annihilation: The Nova Corps Files Vol 1 1}} [[Titans (Eternals)|Titanians]],{{r|Annihilation: The Nova Corps Files Vol 1 1}} [[Titans (Eternals)|Titans]],{{r|Captain Marvel Vol 1 27}} [[Titan (Moon of Saturn)|Titan]]-born Eternals;{{r|Official Handbook of the Marvel Universe Vol 1 10|; [[Eros (Earth-616)|Starfox]]'s entry}}
+----
+'''Eternals of Uranus:''' [[Uranians]]{{r|Quasar Vol 1 12}}
+}}
+| Identity                = Secret
+| Affiliation             = 
+| Universe                = Earth-616
+| BaseOfOperations        = '''[[Olympia]]'''<br>
+Formerly:
+*[[Titan (Moon of Saturn)]];
+*[[Uranus (Planet)|Uranus]];
+*[[Titanos]]
+
+| BodyType                = Humanoid
+| AvgHeight               = Variable
+| AvgWeight               = Variable
+| Eyes                    = Variable
+| Hair                    = Variable
+| Skin                    = Variable
+| NumberOfLimbs           = 4
+| NumberOfFingers         = 5
+| NumberOfToes            = 5
+| SpecialAdaptations      = 
+| UnusualFeatures         = 
+
+| Origin                  = Offshoot of humanity created by [[Nezarr (Earth-616)|Nezarr the Calculator]] of the [[Celestials (Race)|Celestials]]{{r|What If? Vol 1 23}} while experimenting on ''[[Homo erectus]]''{{r|Marvel Fact Files Vol 1 8}}
+| GalaxyOfOrigin          = Milky Way
+| StarSystemOfOrigin      = Sol
+| HomePlanet              = Earth
+| PlaceOfBirth            = Earth
+| Creators                = Martin A. Burnstein; Jack Kirby
+| First                   = Red Raven Comics Vol 1 1
+| First2                  = {{g|[[:Category:Olympian Eternals|Olympian Eternal]] [[Makkari (Earth-616)|Mercury]] & the [[William Carmody (Earth-616)|Eternal Brain]]}} {{g|Retcon}}{{r|Marvel Universe Vol 1 7}}<br>{{sld|Marvel Boy Vol 1 1}}{{g|Uranianian Eternals}} {{g|Retcon}}{{r|Agents of Atlas Vol 1 3}}<br>{{sld|Iron Man Vol 1 55}}{{g|Titanian Eternals}} {{g|Retcon}}{{r|What If? Vol 1 25}}<br>{{sld|Eternals Vol 1 1}}{{g|Eternals of Earth}} {{g|Before retcon}}
+
+| Overview                = The '''Eternals''' are an evolutionary offshoot of humanity gifted with amazing powers and abilities to look after the human race throughout the ages.{{r|Eternals Vol 1 1}}{{r|Thor & Hercules: Encyclopaedia Mythologica Vol 1 1}}{{r|Eternals Vol 5 1}} One million years ago, the mysterious, epic beings known as [[Celestials (Race)|Celestials]] created one hundred Eternals, and left.<ref name="CBR">{{cite web|url=https://www.cbr.com/eternals-kieron-gillen-interview/|title=INTERVIEW: Eternals' Kieron Gillen Hypes the Return of Marvel's Cosmic Angels|last=Richards|first=Dave|work=CBR|date=6 October 2020|accessdate=25 May 2021}}</ref> Since then, the Eternals have lived secluded on Earth, rarely interfering with humanity,{{r|New Eternals: Apocalypse Now Vol 1 1}} and being reborn whenever they perish.{{r|Eternals Vol 5 1}}
+
+After two devastating civil wars, the remaining Eternals of Earth chose a path of peace and dedicated their lives to bettering themselves and their society.{{r|What If? Vol 1 25}}{{r|Eternals Vol 5 2}}{{r|Eternals: Thanos Rises Vol 1 1}} The best example of what they can accomplish when working together is the power of the [[Uni-Mind (Earth-616)|Uni-Mind]], which is created when several Eternals join their will and intelligence together to temporarily become one powerful entity.{{r|Eternals Vol 1 12}}
+
+Throughout the millennia, the Eternals built great cities, including their current home, [[Olympia]],{{r|Eternals Vol 5 1}}{{r|Official Handbook of the Marvel Universe Vol 1 4}} which provided the setting for their meeting with the [[Olympian]]s, the gods of Ancient Greece. After noticing the similarities between both species, they formed an alliance and the Eternals acted as the gods' representatives on Earth for a while.{{r|Official Handbook of the Marvel Universe Vol 1 12|; [[Zeus Panhellenios (Earth-616)|Zeus]]'s entry}} Recently, the Eternals went mad and turned against each other, while some committed suicide.{{r|Avengers Vol 8 4}} They have since been revived and are slowly beginning to return to their peaceful ways.{{r|Eternals Vol 5 1}}
+
+| HistoryText             = 
+===Origins: The First Host===
+{{MessageBox
+| Message = For the full presentation of this event, please consult the '''[[First Host]]''' page.
+}}
+About '''one million years ago''',{{r|Thor & Hercules: Encyclopaedia Mythologica Vol 1 1}} the ''"evolutionary borderline between apes and humans"'' emerged:{{r|X-Men Annual Vol 1 13}} '''''[[Homo erectus]]'''''.{{r|Marvel Fact Files Vol 1 8}}
+
+The [[Celestials (Race)|Celestials]], intrigued by the versatility of human genes, sent their [[First Host]] to perform genetic tests and experiment on this species.{{r|Official Handbook of the Marvel Universe Vol 2 2}}{{r|History of the Marvel Universe Vol 2 1}}
+
+When the first host got to Planet Earth, the celestial [[Gammenon (Earth-616)|Gammenon the Gatherer]] collected a few specimens, which [[Ziran (Earth-616)|Ziran the Tester]] mutated to create one hundred grotesques [[Deviants (Homo descendus)|Deviants]] (''Homo descendus''). After Ziran was done with its brood, [[Nezarr (Earth-616)|Nezarr the Calculator]] performed his own tests and created 100 superior Eternals (Homo immortalis).{{r|What If? Vol 1 23}}{{r|Eternals Vol 5 1}} The Celestial known as [[Tiamut (Earth-616)|Tiamut the Communicator]] also helped design a few specimens, including the Deviant [[Tantalus (Deviant) (Earth-616)|Tantalus]]{{r|Official Handbook of the Marvel Universe A-Z Update Vol 1 4}} and the Eternal [[Makkari (Earth-616)|Makkari]].{{r|Eternals Vol 3 6}}
+
+[[File:Homo erectus from New Eternals Apocalypse Now Vol 1 1 001.jpg|200px|thumb|left|Proto-humans being collected by the Celestials.]]
+As these creations were released back on Earth, the Eternals were given three principles:{{r|Eternals Vol 5 1}}
+* Protect Celestials.
+* Protect the [[Machine (Eternals) (Earth-616)|machine]].
+* Correct excess deviation.
+
+With this in mind, the Eternals, led by [[Kronos (Earth-616)|Kronos]] secluded themselves to secretly protect the Earth. While the Deviants established an empire in the Kingdom of [[Lemuria (Deviant)|Lemuria]].{{r|History of the Marvel Universe Vol 2 1}}
+
+===Uranos War===
+{{MessageBox
+| Message = For the full presentation of this event, please consult the '''[[Uranosian War]]''' page.
+}}
+Starting out as nomadic people,{{r|Official Handbook of the Marvel Universe Vol 1 4}} the Eternals eventually established themselves, creating the city of [[Titanos]]{{r|What If? Vol 1 24}} in North America.{{r|Eternals Vol 5 1}}<ref group="note">Previously, Kronos' entry in {{cl|Official Handbook of the Marvel Universe A-Z Update Vol 1 2}} had established the city to be in Northern [[Asia]].</ref> 
+
+Around 600,000 years ago,{{r|Eternals: Thanos Rises Vol 1 1}} a civil war erupted between two factions of the Eternals: the side of Kronos, who cherished peace and non-interference, and the side of his brother [[Uranos (Earth-616)|Uranos]], who wanted to use their powers to dominate the planet.{{r|What If? Vol 1 24}} Kronos' side prevailed, with the help of [[Oceanus (Eternal) (Earth-616)|Oceanus]], and Uranos and his followers were banished.{{r|Captain Marvel Vol 1 29}}{{r|What If? Vol 1 24}}
+
+[[File:Uranosian War from Captain Marvel Vol 1 29 001.jpg|thumb|right|180px|The War.]]
+When the two dozen exiles landed on Planet [[Uranus (Planet)|Uranus]], they conquered the [[Kree]] outpost there to make of it their new home.{{r|What If? Vol 1 26}} As Uranos built a spaceship to return to [[Earth]], [[Astron (Earth-616)|Astron]] refused to follow his ways any longer and, along with three sympathizers, remained on Uranus,{{r|What If? Vol 1 27}} where they created their own colony.{{r|Official Handbook of the Marvel Universe Vol 1 12|; Uranians' entry}}<ref group="note">Titan's entry in {{cl|Official Handbook of the Marvel Universe Vol 1 11}} had previously established Uranos' exile as taking place around 750,000 years ago, but, with the dates established in {{cl|Eternals: Thanos Rises Vol 1 1}} that is no longer possible.</ref>
+
+The spaceship was then destroyed by a Kree fleet investigating the invasion of their outpost, thus leaving only seven Eternals alive. Those that survived decided to abandon their plans for revenge and, instead, created a colony on Saturn's moon [[Titan (Moon of Saturn)|Titan]].{{r|What If? Vol 1 27|28}}
+
+Meanwhile, the surviving Eternals on Uranus encountered the native [[Uranians]]. Recognizing them as exiles, the Uranians allowed the remaining Eternals to live with them, under the condition that, if they ever left their enclosed environment, they would face destruction.{{r|Agents of Atlas Vol 1 3}}
+
+At some point, the Titanians fell to warlike tendencies once more.{{r|Official Handbook of the Marvel Universe Vol 1 11|; Titan' entry}} As a result, the colony of Titan was ravaged by yet another civil war, thereby causing the death of all its residents save for the woman [[Sui-San (Earth-616)|Sui-San]], who lived in isolation.{{r|Captain Marvel Vol 1 29}}
+
+===Second Host===
+{{MessageBox
+| Message = For the full presentation of this event, please consult the '''[[Great Cataclysm]]''' pages.
+}}
+
+Back on Earth, unlike the Eternals, the Deviants had "bred like rabbits", and took over the world, enslaving humanity. The Eternals fought against them, but, when they realized their numbers couldn't compare to the millions of Deviants, they had no alternative but to call the Celestials.{{r|Amazing Spider-Man Annual Vol 1 23}}{{r|Eternals Vol 3 1}}
+
+When the [[Second Host]] of Celestials finally arrived on Earth, they were attacked by the Deviants, led by Emperor [[Phraug (Earth-616)|Phraug]]. Seeing a world fallen into chaos, the Celestials soon delivered their judgment and wiped out most of the Deviants.{{r|Amazing Spider-Man Annual Vol 1 23}}{{r|Eternals Vol 3 1}} In the process, they caused Lemuria and Atlantis to sink all the way to the bottom of the ocean floor.{{r|Amazing Spider-Man Annual Vol 1 23}} In a general way, all of civilization, both Deviant and Human, had been wiped off the face of the Earth.{{r|Thor Annual Vol 1 7}}<ref group="note">{{cl|Official Handbook of the Marvel Universe A-Z Vol 1 4}} previously established that Kronos' death took place before the coming of the Second Host, but {{cl|History of the Marvel Universe Vol 2 1}} changed that order, in accordance to the dates established for the Second Host and Kronos' Ascension in {{cl|Amazing Spider-Man Annual Vol 1 23}} and Kronos' entry in {{cl|Official Handbook of the Marvel Universe A-Z Update Vol 1 2}}, respectively. With the retcons of {{cl|Eternals: Thanos Rises Vol 1 1}}, it is not yet known when the Second Host is now meant to have happened.</ref>
+
+[[File:Great Cataclysm from Eternals Vol 1 2 001.jpg|thumb|left|180px|The Great Cataclysm]]
+The Eternal [[Utnapishtim (Earth-616)|Utnapishtim]] built an [[Utnapishtim's Ark|ark]] in order to save some human beings as well as animals from the flooding. Later, [[Ikaris (Earth-616)|Ikaris]] came to guide them to a mountain top, where the survivors could disembark to restart society.{{r|Amazing Spider-Man Annual Vol 1 23}}{{r|Captain America Annual Vol 1 11}}
+
+For reasons unknown, when the second host departed, they punished one of their own, Tiamut, by trapping its essence and leaving it in the care of [[Valkin (Earth-616)|Valkin]] beneath the Pyramid of the Four Winds. From then on, that Celestial became known only as the Dreaming Celestial, as he laid to rest for thousands of years.{{r|Eternals Vol 1 9}}{{r|Amazing Spider-Man Annual Vol 1 23}}{{r|Official Handbook of the Marvel Universe A-Z Update Vol 1 4}}{{r|Eternals Vol 3 6}}
+
+===Death of Kronos===
+[[File:Kronos (Earth-616) from What If? Vol 1 24 001.jpg|180px|thumb|right|Kronos Ascending.]]
+Around 500,000 years ago{{r|Eternals: Thanos Rises Vol 1 1}} Kronos managed to isolate the cosmic energy that empowered the Eternals, but the volatile containment tube shattered and exploded. The explosion transformed Kronos into a cosmic entity, but also killed all the other Eternals and brought the city of Titanos to the ground, almost destroying The Machine, the artificial intelligence that serves the Eternals.{{r|What If? Vol 1 24}}{{r|Eternals Vol 5 1}}
+
+After being reborn in the [[Activation Chamber]],{{r|Eternals Vol 5 1}} the Eternals contained the anomaly generated by the explosion{{r|Eternals Vol 5 1}} and discovered that Kronos' experiment had increased their powers.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 4}} With their new abilities, the Eternals then discovered they could join their will and intelligence into one powerful entity, which they called the [[Uni-Mind (Earth-616)|Uni-Mind]].{{r|What If? Vol 1 25}}
+
+===Titan Schism===
+{{MessageBox
+| Message = For the full presentation of this event, please consult the '''[[Titan Schism]]''' page.
+}}
+Despite being more unified than ever before, the Eternals still disagreed on the core goals of their society. The majority of the Eternals, led by one of Kronos' sons, [[Zuras (Earth-616)|Zuras]], believed that they shouldn't tinker with their cosmic potential and no new Eternals should be created. Another son of Kronos, [[A'Lars (Earth-616)|A'Lars]], and a small fraction of their numbers believed they should keep expanding The Machine and create new Eternals, via biological and technological methods.{{r|History of the Marvel Universe Vol 2 1}}{{r|Eternals Vol 5 2}}
+
+[[File:Uni-Mind (Earth-616) from Avengers Vol 1 248 0001.jpg|thumb|left|180px|The Uni-Mind.]]
+Around 200,000 years ago war erupted once more, but eventually an agreement was reached: one solitary Llarsite was allowed to found a colony as an experiment. A'Lars was chosen and adopted the name "Mentor", before settling on the lost colony of Titan.{{r|Eternals: Thanos Rises Vol 1 1}}
+ 
+There, he located Sui-San, and together they used technology to found a new species of Eternal-derived beings, the [[Titans (Eternals)|Titans]]. They developed Titan into a wonder of science, building the supercomputer ISAAC to help them run the environment. As they flourished, some Eternals of Earth started believing that the Zurasian faction had been overly conservative. Little did they know that Sui-San had just given birth to [[Thanos (Earth-616)|Thanos]], who would one day become one of the Universe's greatest menaces.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 4}}{{r|History of the Marvel Universe Vol 2 1}}{{r|Eternals Vol 5 2}}
+
+With Titanos destroyed, Zuras led his Eternals to create new cities: their capital, [[Olympia]], in the mountains of [[Greece]]; [[Oceana]], in the [[Pacific Ocean]]; and [[Polaria]], in [[Siberia]].{{r|Official Handbook of the Marvel Universe A-Z Vol 1 4}}{{r|Eternals Vol 5 1}}
+
+===Antiquity===
+As Humanity began to develop new civilizations, the Eternals started to mingle with their genetic cousins. They taught them to plant grain, showed them how to work metal and introduced them to writing.{{r|Eternals Vol 3 1}}
+[[File:Makkari (Earth-616) from Eternals Vol 3 1 001.jpg|200px|thumb|right|Makkari teaching the Egyptians how to write.]]
+
+At the end of the [[Hyborian Age]], the [[Olympian]] gods sought worshippers. [[Zeus Panhellenios (Earth-616)|Zeus]] lay [[Mount Olympus]] near the Eternals' city of Olympia, thereby deciding that the Olympians would be worshipped by the people of the land now known as [[Greece]].{{r|Official Handbook of the Marvel Universe Vol 1 12|; [[Zeus Panhellenios (Earth-616)|Zeus]]'s entry}}
+
+While meeting with the Eternals, the Olympians soon noticed the physical similarities between them, as seen with the comparison of Zuras with Zeus and of [[Athena Parthenos (Earth-616)|Athena]] with [[Thena (Earth-616)|Azura]]. As a result, they decided to form a pact: the Eternals themselves would act as the gods' representatives on Earth (and Azura herself took on the name of Thena in order to seal the pact). However, an unintended consequence of this treaty was that, over the years, many humans would come to think that the Eternals were the real Olympian gods.{{r|Official Handbook of the Marvel Universe Vol 1 12|; [[Zeus Panhellenios (Earth-616)|Zeus]]'s entry}}
+
+===Mayas, Inca, and Aztecs Empires===
+Around '''1000 AD''',{{r|Official Handbook of the Marvel Universe A-Z Vol 1 4}}<!-- that date is about the following fight between Thor+Eternals vs Dromedan, but the story began with the influence of the Polar Eternals on South American inhabitants --> [[Virako (Earth-616)|Virako]] and a group of Polar Eternals traveled through America in order to bring civilization to its inhabitants while posing as gods to the ancestors of the Aztec, Incas, and Mayas. Virako assumed the roles of [[Quetzalcoatl]] and [[Kukulcan]], while his fellow Eternals remained in each empire in order to watch over them and push them forward to progress.{{r|Thor Annual Vol 1 7}} In South America, a new Eternal city was founded and given the name [[Celestia]].{{r|Eternals Vol 5 1}}
+
+Around that time, the Eternals were also involved in a clash with the Deviants and mutates [[Dromedan (Earth-616)|Dromedan]], [[Tutinax (Earth-616)|Tutinax]], [[Thunder (Deviant) (Earth-616)|Thunder]], and the [[World-Devouring Worm (Earth-616)|World-Devouring Worm]], while gaining the assistance of the [[Asgardians|Asgardian]] thunder god [[Thor Odinson (Earth-616)|Thor Odinson]]. The battle ended in the death of the Eternal [[Virako (Earth-616)|Virako]], who would be remembered as [[Viracocha]]. In order to safeguard themselves and the Celestials' goals, the Eternals erased Thor's memory of the encounter, resulting in the thunder god not having his memories restored until many centuries later.{{r|Thor Annual Vol 1 7}}<ref group="note">Virako should have been reborn at the time. However, his resurrection is only seen happening in the present, in {{cl|New Eternals: Apocalypse Now Vol 1 1}}. It is unknown if he was reborn and died again after [[Sprite (Earth-616)|Sprite]] had erased the Eternals' memory of the reactivation chamber, or if his revival was delayed for any unspecified reasons.</ref> 
+
+At some point in the century that followed, there was also a conflict known as the Eternals/[[Inhumans (Inhomo supremis)|Inhumans]] War (or the legendary War of Eterninhuma), during which the Eternals created the [[Time Sword]], later destroyed by the Inhumans in retaliation.{{r|Cable Vol 3 3}}
+
+===Third Host and Deviant-Eternal Truce===
+{{MessageBox
+| Message = For the full presentation of this event, please consult the '''[[Third Host]]''' page.
+}}
+Soon after, the [[Celestials (Race)|Celestials]] came to [[Earth]] for the [[Third Host]]. The Eternals all left the Inca land, save for [[Ajak (Earth-616)|Ajak]], who was left to deal with the Celestials.{{r|Thor Annual Vol 1 7}} With the arrival of the [[Glossary:Third Host|Third Host]], the Eternals worked with the Celestials in their cultivation process, while making the final preparations for their next scheduled visit. To this end, the Polarian Eternal [[Ajak (Earth-616)|Ajak]] was assigned to be the communicator for the Celestials and was then placed in suspended animation within the Temple of the Space Gods, and Ikaris was charged with attuning his senses to detect the Celestials upon their next arrival on Earth.{{r|Eternals Vol 1 1}}{{r|Official Handbook of the Marvel Universe A-Z Vol 1 4}}
+
+Following these events, the Deviants made a truce with the Eternals, with both sides agreeing to not interfere with humanity until the [[Fourth Host]] arrived.{{r|All-New Official Handbook of the Marvel Universe A to Z #3|; [[Deviants (Homo descendus)|Deviants]]' entry}}{{r|X-Force Vol 1 97}}
+
+===20th century===
+In 1906, during [[1906 San Francisco Earthquake|San Francisco Earthquake]], the Dreaming Celestial's chamber was damaged. The Eternals arrived and formed a Uni-Mind to fix it. The eternally 11-year-old [[Sprite (Earth-616)|Sprite]], apparently affected by the [[Eternals (Homo immortalis)#Mahd Wy'ry|Mahd Wy'ry]], then realized he could use the Celestials powers to change his Eternal life allowing him to finally grow up. To accomplish this, one of his first steps was to make the Eternals forget about the Reactivation Chamber.{{r|Eternals Vol 3 4}}{{r|Official Handbook of the Marvel Universe A-Z Update Vol 1 1|; Sprite's entry}}
+[[File:Zuras (Earth-616) from Eternals Vol 3 4 001.jpg|200px|thumb|left|Eternals' Reactivation Chamber.]]
+
+In the 1930s, with the outbreak of [[World War II]], Earth scientist [[Matthew Grayson (Earth-616)|Matthew Grayson]] made contact with the Uranian Eternals,{{r|Marvel Boy Vol 1 1}} who provided him with the knowledge to build a rocket to escape [[National Socialist German Workers Party (Earth-616)|Nazi]] [[Germany]] with his infant son [[Robert Grayson (Earth-616)|Robert]]. The Eternals on Uranus then welcomed the Grayson family with open arms, raising Robert as one of their own. The Uranian Eternals were secretly plotting to re-establish ties with the planet Earth in an attempt to be reunited with their planet of origin and influence the society into what they viewed as a utopia. Monitoring the progress of the war on Earth, the Uranian Eternals waited for the ideal opportunity to begin their agenda, and upon witnessing the activities of Earth's super-soldier [[Steven Rogers (Earth-616)|Captain America]] decided to groom Robert into the image of a super-hero the people of Earth could relate to; in other words, their ambassador to Earth.{{r|Marvel Boy: The Uranian Vol 1 1}}
+
+Activity by the earthbound Eternals during this period was at first minimal in the 1940s until the Deviant warlord [[Kro (Earth-616)|Kro]] began involving himself in the affairs of humans by posing as Pluto. He initially interacted with the Nazis during the War, prompting Zuras to send Makkari to deal with him as Mercury.{{r|Red Raven Comics Vol 1 1}}{{r|Official Handbook of the Marvel Universe: Golden Age 2004 Vol 1 1}} Makkari later renamed himself Hurricane and continued to battle Kro and other menaces during the war.{{r|Captain America Comics Vol 1 1|11}}{{r|Marvels Project Vol 1 6}}{{r|Avengers / Invaders Vol 1 10|12}}{{r|Official Handbook of the Marvel Universe: Golden Age 2004 Vol 1 1}}
+
+[[File:Marvel Boy The Uranian Vol 1 2 Textless.jpg|180px|thumb|right|Robert, the Uranian]]
+In 1950, the Uranian Eternals dispatched Robert to Earth to establish himself as a super-hero. This was fraught with complications due to the rise of the [[Cold War (Event)|Cold War]], but thanks to some publicity from [[Timely Comics]] and the new name Marvel Boy, the Uranian soon became a renowned super-hero.{{r|Marvel Boy: The Uranian Vol 1 1}}
+
+Marvel Boy also came to the defense of his adopted people, such as when Uranus was invaded by the [[Satanians]], who attempted to sow dissent among the masses,{{r|Astonishing Vol 1 3}} or when fighting corruption among the Uranian police force,{{r|Astonishing Vol 1 4}} and even preventing a plot from Uranian dissidents to steal a new atomic formula.{{r|Astonishing Vol 1 5}} However, these stories were adapted by Timely Comics into comic books about Marvel Boy's exploits and may be false.{{r|Marvel Boy: The Uranian Vol 1 1}}
+
+Eventually, Marvel Boy determined that the human race needed to find its own way, with no tampering by the Uranian Eternals. Unbowed, the Uranian Eternals planned for the return of Marvel Boy and began grooming the Eternal [[Thelius (Earth-616)|Thelius]] to be their Marvel Boy replacement.{{r|Marvel Boy: The Uranian Vol 1 3}}{{r|FF: Fifty Fantastic Years Vol 1 1}} Soon, the native Uranians learned of this plan and, after considering it to be in violation of their pact with the Eternals, wiped them all out. The dying Eternals sent a distress call to Marvel Boy, who came in answer to it, while learning the truth of his adopted people along the way. He arrived too late to save them and was absorbed into the Uranian hive mind, which resulted in his biology being adapted into a hybrid form. Meanwhile, his doppelganger, Thelis — with an incomplete transfer of his memories — was rushed to completion and was released. Marvel Boy, being bonded to the Uranians, was unable to stop Thelis as he flew to Earth, which he would not reach until the modern age.{{r|Agents of Atlas Vol 1 3}}
+
+In the meantime, the human race finally split the atom. A concerned group of Eternals, Humans, and Deviants then formed the secret [[Damocles Foundation (Earth-616)|Damocles Foundation]] to study the next dominant species on Earth, and determined this to be the [[Homo superior|Mutants]].{{r|X-Force Vol 1 93}}
+[[File:First Line (Earth-616) from Official Handbook of the Marvel Universe Teams 2005 Vol 1 1 001.jpg|180px|thumb|left|Pixie and the First Line]]
+
+By the 1960s the Eternal [[Pixie (First Line) (Earth-616)|Pixie]] had joined the superhero team, [[First Line (Earth-616)|First Line]],{{r|Marvel: The Lost Generation Vol 1 3}} and she also convinced Makkari to join for a while.{{r|Marvel: The Lost Generation Vol 1 5}} In addition to them, other members of the Eternals continued to infiltrated the world of normal humans. [[Sersi (Earth-616)|Sersi]] and [[Kingo Sunen (Earth-616)|Kingo Sunen]] got into show business{{r|Eternals Vol 1 3}}{{r|Eternals Vol 1 11}} while Valkin, [[Druig (Earth-616)|Druig]], [[Aginar (Earth-616)|Aginar]], and [[Zarin (Eternal) (Earth-616)|Zarin]] joined the [[Komitet Gosudarstvennoy Bezopasnosti (Earth-616)|KGB]].{{r|Eternals Vol 1 11}}
+
+At some point, the Eternals also helped the Inhuman King [[Blackagar Boltagon (Earth-616)|Black Bolt]], who was worried that his city [[Attilan]] would be discovered by Humans and attacked. Zuras, who had been monitoring Black Bolt for decades, took the Eternals to the [[Himalayas]] and made them use their transmutation powers to created the foundations for a whole city away from the humans' sight. With this work done, the Eternals bid farewell to Black Bolt and told him that building the city was now up to him.{{r|What If? Vol 1 29}}
+
+===Modern Age===
+====Fourth Host====
+{{MessageBox
+| Message = For the full presentation of this event, please consult the '''[[Fourth Host]]''' page.
+}}
+When the Fourth Host of Celestials was approaching Earth, Ikaris (under the guise of cameraman Ike Harris) led archaeologist [[Daniel Damian (Earth-616)|Daniel Damian]] and his daughter [[Margo Damian (Earth-616)|Margo]] to the Celestials' beacon and revealed the true history of Earth to them. They were then attacked by a force of Deviants led by Kro.{{r|Eternals Vol 1 1}} Ikaris fought them off and reawakened Ajak, who activated the beacon.{{r|Eternals Vol 1 2}} When the Deviants reacted by attacking [[New York City]], capturing Ikaris and Sersi, Zuras ordered Makkari and Thena to defend the city.{{r|Eternals Vol 1 5}} Thena then reached a truce with Kro, and together they decided to reveal their races' existence to humanity via [[Samuel Holden (Earth-616)|Samuel Holden]], an anthropology Professor at City College.{{r|Eternals Vol 1 6}}
+
+[[File:Defenders Vol 5 1 Kirby 100th Anniversary Variant Textless.jpg|180px|thumb|right|Revealing themselves to mankind]]
+[[Odin Borson (Earth-616)|Odin]] of [[Asgard]], who feared the Celestials, got the combined Pantheons of Earth to lent him their power so he could attack the Fourth Host. Empowered by the [[Council of Godheads (Earth-616)|Skyfathers]] and the united life essence of the [[Asgardian]] people, Odin possessed the [[Destroyer (Enchanted Armor)|Destroyer]] armor and grew to the size of the Celestials, wielding the [[Odinsword]] in defense of Earth. Despite some initial reluctance, The Eternals, led by Zuras, formed the Uni-Mind and joined the Destroyer in confronting the Fourth Host. During the battle, the Celestials struck the Uni-Mind, causing it to dismantle back into individual Eternals.{{r|Thor Vol 1 300}}
+
+In the aftermath of the confrontation, the Celestials judged in Earth's favor and departed, but Zuras, who had deliberately taken the brunt of the Celestials' assault, perished as a result of the Uni-Mind's dissolution.{{r|Thor Vol 1 300|301}}<!-- 
+
+====Under Thena's Rule====
+...{{r|Avengers Vol 1 246|248}}{{r|Eternals Vol 2 #1|8}}
+
+====Under Ikaris' Rule====
+...{{r|Eternals Vol 2 #8|12}}{{r|Silver Surfer Annual #1}}
+... -->
+
+===Sprite's Plan===
+Years later, Sprite's plans finally came to fruition, as he tapped into the power of the Dreaming Celestial and wiped the memories of his fellow Eternals to give them new lives as human beings, so that no one would interfere with his plans. Sprite pretended to be a child actor named Colin in a show called ''That's So Sprite''.{{r|Eternals Vol 3 4}}
+[[File:Eternals (Homo immortalis) from Eternals Vol 3 4 001.jpg|200px|thumb|left|Sprite's plan in motion.]]
+
+Eventually, the other Eternals saw through the illusion and discovered that Sprite was responsible for rewriting everyone's lives. After his plan was thwarted, Sprite was murdered by the revived Zuras for what he had done to his fellow Eternals. Nonetheless, the Dreaming Celestial had been awakened and now stood in San Francisco unmovable, judging the Human Race, with Makkari being the only one capable of communicating with him.{{r|Eternals Vol 3 6|7}}
+
+As Sersi and Makkari rekindled their relationship, Makkari's recurring sessions with the [[Tiamut (Earth-616)|Dreaming Celestial]] became a source of constant worry for Sersi, who felt her loved one slowly fading away.{{r|Eternals Vol 4 2}} After having enough of it, she finally decided to confront the Celestial, determined to find the reason for this deadly bond. And, despite almost getting killed, the Celestial revealed that Makkari had been chosen as his link to humanity before the arrival of [[Horde (Race)|The Horde]], and she too was part of its grand plan: She was the one who had to protect Makkari.{{r|Eternals Vol 4 4}}
+
+[[File:Tiamut (Earth 616) from Eternals Vol 4 5 001.jpg|thumb|right|350px|The Dreaming Celestial standing in [[Golden Gate Park]], overlooking [[San Francisco]].]]
+Unfortunately, Sersi failed in her mission and Makkari was killed, with no way of being revived thanks to the destruction of the Reactivation Chamber. Makkari's death triggered a countdown to global annihilation and, with no other alternative presenting itself, Sersi then pushed her powers to the limit by transmuting her own body into a perfect replica of Makkari and then replacing his conscious with her own.{{r|Eternals Vol 4 6}}
+
+Thanks to Sersi, the connection with the Celestial was restored, which eventually led to the Horde's defeat by intervention of [[Fulcrum (Earth-616)|The Fulcrum]], a cosmic entity above even the Celestials themselves.{{r|Eternals Vol 4 6|9}}
+
+===Dark Celestials===
+When the countless bodies of Celestials rained down on the Earth to herald the arrival of the [[Dark Celestials (Horde)|Dark Celestials]], the Eternals learned a dark truth that drove them mad: that the true purpose of their kind was to cultivate humankind, since the [[Glossary:First Host|First Host]] of Celestials allowed humanity to thrive because they saw in their genetic makeup the potential to act as antibodies against the [[Horde (Race)|Horde]]. In their madness, the Eternals either turned against each other or committed suicide.{{r|Avengers Vol 8 4}}
+
+===Only Death is Eternal===
+The Eternals were eventually once again reborn in the Reactivation Chamber. Sprite was resurrected as a female and, due to her crimes, she was imprisoned in the [[Exclusion]] and was only restored to her last safe backup. By the time Ikaris was resurrected, the other Eternals had decided that Sprite was to be freed and Zuras appointed Ikaris to look after the trickster.{{r|Eternals Vol 5 1}}
+
+[[Phastos (Earth-616)|Phastos]] was the first to be resurrected. While looking through the Resurrection Machines, he discovered a shocking truth: every time an Eternal was resurrected, one human life was taken in return. Shocked by this revelation, Phastos vowed to end it by ending the Eternals. So, he rescued Thanos from a black hole and blackmailed the Mad Titan into helping him with his scheme.{{r|Eternals Vol 5 5|6}} Phastos then sabotaged the Resurrection Machines so Eternals could no longer come back to life and had Thanos began killing Eternals including the Prime Eternal Zuras to frame Thanos for the sabotage.{{r|Eternals Vol 5 1|4}}
+
+Phastos' plan started falling apart when his treachery was uncovered, and his sabotage of the Resurrection Machines threatened to make Earth uninhabitable for humans. Phastos tried repairing the Resurrection Machines but failed. The machines were eventually repaired when Ikaris sacrificed himself to do so. When confronted with his treachery, Phastos revealed what he learned about the Eternals' resurrection process. When the issue was debated with the Prime Eternal Zuras after his resurrection, it was determined that most Eternals would never agree to change it as Eternals didn't care about the lives of individual humans. So, several Eternals met with the Deviants of [[Lemuria (Pacific Ocean)|Lemuria]], asking them how to become like them.{{r|{{cl|Eternals Vol 5 5|Eternals Vol 5 #5}}-[[Eternals Vol 5 6|6]]}}
+
+==Biology==
+While being resurrected via the [[Activation Chamber]], Eternals can take advantage of the process to switch appearance (including sex). According to Ikaris, this is "common" every twenty or twenty-five thousand years.{{r|Eternals Vol 5 1}}
+
+===Reproduction===
+The Eternals cannot procreate among themselves, but are capable of breeding with other species.{{r|Eternals: Thanos Rises Vol 1 1}} There have been cases of crossbreeding with Humans{{r|New Eternals: Apocalypse Now Vol 1 1}} and Deviants,{{r|New Eternals: Apocalypse Now Vol 1 1}}{{r|Eternals: The Herod Factor Vol 1 1}} which sometimes produce offsprings with extended livespans and enhanced abilties. Referred to as "[[Nephilites]]", these offsprings are not, however, part of the [[Machine (Eternals) (Earth-616)|Machine]] and are not considered True Eternals.{{r|Eternals: Thanos Rises Vol 1 1}}
+
+On Titan, [[Sui-San (Earth-616)|Sui-San]] and [[A'Lars (Earth-616)|Mentor]] managed to reproduce with the aid of the [[Quantum Bands]].{{r|Eternals: Thanos Rises Vol 1 1}}
+
+===Diseases===
+====Deviant Syndrome====
+There exists a genetic predisposition among the Eternals known as '''Deviant Syndrome'''.{{r|All-New Official Handbook of the Marvel Universe A to Z #11}}{{r|Thanos Vol 2 13|; [[Marvel Legacy]]}} That syndrome is considered a mutation,{{r|Thanos Vol 2 13|; [[Marvel Legacy]]}} and those affected mutants{{r|Thanos Vol 2 14}} and deviants.{{r|Thanos Vol 2 14}}
+
+====Mahd Wy'ry====
+The '''Mahd Wy'ry''', also known as the '''Eternal madness''', was an illness caused by extreme longevity of the Eternals. Despite their nigh-indestructible bodies, the Eternals still possessed a human mind, which after years of accumulating knowledge would sometimes drive the affected Eternal mad, much like old age senility in humans.{{r|Official Handbook of the Marvel Universe A-Z Update Vol 1 1|; Sprite's entry}}{{r|Avengers Vol 1 361}}
+
+The only "cure" for the Mahd Wy'ry was to kill the affected Eternal and revive them with the last safe backup.{{r|Avengers Vol 1 361}}{{r|Eternals Vol 5 1}} The disease itself usually takes centuries in order to drive an Eternal mad, but the process can be accelerated, which was the case for [[Sersi (Earth-616)|Sersi]], where it occurred within a few months.{{r|Avengers Vol 1 374}}
+
+It was postulated that the [[Uni-Mind]]'s purpose was to wash away those anxieties and fears of the Eternals regarding the overweight of experience on their soul.{{r|Avengers Vol 1 361}}
+
+===Uni-Mind===
+The [[Uni-Mind]] is a merger of Eternals (and also other species).
+{{MessageBox
+| Message = Please consult the [[Uni-Mind#Uni-Mind|Uni-Mind for more details]].
+}}
+
+===Gann Josin===
+In the culture of the [[Eternals (Earth-616)|Eternals]], a ''Gann Josin''{{r|Avengers Vol 1 361}} (or '''Gan-Josin'''){{r|Avengers Vol 1 371}} is both a title attributed to an Eternal's chosen life-mate and the bond itself.{{r|Avengers Vol 1 361}}
+
+When comparing this bond to the collective consciousness that makes up an [[Uni-Mind]], the Gann Josin can be seen as an intimate version of it since, like the Uni-Mind, it creates a mental union,{{r|Avengers Vol 1 371}} but on a much smaller level since it can only be formed between two people. As a result, this bond makes the Eternal and its chosen partner lifelong soulmates while also creating a telepathic/empathic bond between them.{{r|Avengers Vol 1 361}}
+
+The Eternal known as [[Sersi (Earth-616)|Sersi]] took fellow Avenger [[Dane Whitman (Earth-616)|Dane Whitman]] as her intended ''Gann Josin'', in the hopes of helping her control her emotion while being affected by the Mahd Wy'ry.{{r|Avengers Vol 1 361}}
+
+According to [[Sprite (Earth-616)|Sprite]], few Eternals choose humans for the Gann Josin.{{r|Avengers Vol 1 361}}
+
+The people affected by the Gann Josin have distinctive full-red eyes.{{r|Avengers Vol 1 361}}{{r|Avengers Vol 1 374}}
+
+For a human to break a Gann Josin is an astounding act.{{r|Avengers Vol 1 374}}
+
+* ''See [[:Category:Gann Josin|the list of characters involved in a Gann Josin]].''
+
+==Alternate Universe Eternals==
+===Earth X (Earth-9997)===
+The past history of the Eternals of [[Earth-9997]] mostly mirrors that of their [[Earth-616]] counterparts. However, it's been revealed that, at least on Earth-9997, the [[Celestials (Race)#Earth X (Earth-9997)|Celestials]]' intentions for the Eternals was not exactly as beneficial as they had thought. The Celestials' method of reproduction is to impregnate the planet with a portion of their energy (or embryo) as well as imbibe [[Vibranium]] into the planet's core. Eventually, after centuries of gestation, the new Celestial would be born while destroying the planet in the process. In order to protect the Celestial growing within the planet, they would manipulate the DNA of the dominant species to act as unknowing anti-bodies. On Earth, it would be the pre-historic version of man that would be manipulated in such a fashion.{{citation}}
+
+[[Image:Eternals (Earth-9997) Earth X Vol 1 0.jpg|thumb|left|Eternals of Earth X]]
+Their first attempt yielded the [[Deviants (Homo descendus)#Earth X (Earth-9997)|Deviants]], unstable creatures who were born in new and more horrifying forms within each generation, making them, as a result, naturally evil. In order to counteract these creatures, the Celestials created the Eternals, god-like beings who were immortal and had fantastic powers. They would act as the shepherds of humanity as well as its defenders against the Deviants and other invaders while baseline humanity went through the Celestials' natural evolutionary course to gain super-powers.{{citation}}
+
+In the following years, the Eternals (who were mistaken for the Gods of popular myth) grew disinterested in humanity and became reclusive, thereby allowing the Deviants to take control of the Earth. This would prompt the Celestials to come again and free humanity from the Deviant rule by smashing their empire and sending them underground, while making the loss of said empire a defeat that the Deviants would not be able to recover from.{{citation}}
+
+In the modern age, the Celestials have interacted with humanity in much the same way they have on Earth-616. In recent history, the Eternals found it fit to leave the Earth for good; however, their reasoning for doing so remains unrevealed. They would take up residence on an as yet unidentified planet. However, (due to poor luck), the planet the Eternals chose to reside on would also have it to be another world impregnated by the Celestials, and, due to the Celestial birth occurring on that world, the planet would soon be destroyed. As a result, the Eternals found themselves encased in Vibranium and left floating in space. As they are immortal, they saw this as a fate worse than death.{{citation}}
+
+Their bodies were found by the [[House of Agon (Earth-9997)|Inhuman Royal Family]], who believed that Vibranium was the cause of the planet's destruction and decided to return to Earth to warn its heroes. It would not be until years later when [[Nathaniel Summers (Earth-9997)|Cable]] (now consumed entirely by the [[Techno-Organic Virus]] and living below [[Sentinel City (Savage Land)|Sentinel City]]) would ask [[Iron Maiden (Karen) (Earth-9997)|Iron Maiden]] (who had full control over Vibranium) to go into space and free the Eternals. This is because one in particular, [[Sersi (Earth-9997)|Sersi]], had the ability to use her powers to restore Cable to his original form. Whether or not Iron Maiden was successful remains to be seen.{{citation}}
+
+| Habitat                 = Earth standard
+| Gravity                 = Earth standard
+| Atmosphere              = Earth standard
+| Population              = About 100
+
+| Powers                  = 
+* All Eternals can join the [[Uni-Mind]],{{r|Official Handbook of the Marvel Universe A-Z Vol 1 4}} even their Titan cousins.{{r|Avengers Vol 1 247}}
+* All possess enhanced physical attributes; i.e. strength, speed, durability, reflexes, etc. to varying degrees.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 4}}
+* All Eternals are extremely long-lived, and even virtually immortal.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 4}}
+* Eternals choose to specialize in particular powers and attributes.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 4}}
+
+| Abilities               = 
+| AvgStrength             = An average Eternal can lift about 15 tons without using any form of telekinesis,{{r|Thor & Hercules: Encyclopaedia Mythologica Vol 1 1}} although some are able to lift up to 100 tons.{{r|Official Handbook of the Marvel Universe Master Edition Vol 1 11|; Gilgamesh's entry}}
+| Weaknesses              = 
+
+| GovernmentType          = The [[Prime Eternal]] leads the Eternals of Earth from [[Olympia]]. Formerly, Mentor led the Titan colony.{{r|History of the Marvel Universe Vol 2 1}}{{r|Eternals Vol 5 2}}
+| TechnologyLevel         = Highly Advanced
+| CulturalTraits          = The various "generations of Eternals" are simply large waves of reboots that affected the Eternals' population. There are familial relationships, but they’re static family relationships, since the Eternals of Earth have never procreated between them.<ref name="CBR" />
+| Representatives         = 
+{{Seealso|:Category:Eternals of Earth}}
+*[[Ajak]]
+*[[Ikaris]]
+*[[Kingo Sunen]]
+*[[Kronos]] (Chronos)
+*[[Legba (Eternal) (Earth-616)|Legba]]
+*[[Makkari]]
+*[[Mentor]] (A'Lars)
+*[[Phastos]]
+*[[Pixie (First Line) (Earth-616)|Pixie]]
+*[[Sersi]]
+*[[Sui-San]]
+*[[Sprite (Eternal)|Sprite]]
+*[[Starfox]] (Eros)
+*[[Thanos]]
+*[[Thena]]
+*[[Uranos]]
+*[[Valkin]]
+*[[Vampiro (Eternal) (Earth-616)|El Vampiro]]
+*[[Zuras]]
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Genus Homo]]
+[[Category:Eternals by Species or Race]]
+[[Category:Pre-Cataclysmic Age Races]]
+[[Category:Earth/Races]]
+[[Category:Power Cosmic]]

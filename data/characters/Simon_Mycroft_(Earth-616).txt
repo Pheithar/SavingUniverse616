@@ -1,0 +1,49 @@
+{{Marvel Database:Character Template
+| Image                   = Simon Mycroft (Earth-616) from Fury of S.H.I.E.L.D. Vol 1 2 001.png
+| Name                    = Simon Mycroft
+| CurrentAlias            = 
+| Aliases                 = Doctor Simon Mycroft
+
+| Affiliation             = Formerly {{m|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = Red
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = [[Manhattan]], [[New York City]], [[New York (State)|New York]]
+
+| Creators                = Howard Chaykin; Corky C. Lehmkuhl
+| First                   = Fury of S.H.I.E.L.D. Vol 1 #1
+
+| History                 = Doctor Simon Mycroft was a former employee of [[Karl Kraus (Earth-616)|Karl Kraus]].{{r|Fury of S.H.I.E.L.D. Vol 1 #2}}
+For the love of [[Melanie Kraus (Earth-616)|Melanie Kraus]], he designed and gave her a micro-neutron bomb.{{r|Fury of S.H.I.E.L.D. Vol 1 #3}}
+
+| Powers                  = None, human.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

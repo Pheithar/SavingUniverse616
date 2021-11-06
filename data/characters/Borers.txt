@@ -1,0 +1,54 @@
+{{Marvel Database:Race Template
+| Image                   = Borers_from_Fantastic_Four_Annual_Vol_1_6.jpg
+| Name                    = Borers
+| Aliases                 = 
+| Identity                = Public
+| Affiliation             = 
+| Universe                = Earth-616
+| BaseOfOperations        = [[Negative Zone]]
+
+| BodyType                = Reptilian
+| AvgHeight               = 
+| AvgWeight               = 
+| Eyes                    = 2
+| Hair                    = 
+| Skin                    = Green
+| NumberOfLimbs           = 4
+| NumberOfFingers         = 8
+| NumberOfToes            = 8
+| SpecialAdaptations      = Horned beak with serrated jaws 
+| UnusualFeatures         = Green scales
+
+| Origin                  = 
+| GalaxyOfOrigin          = [[Negative Zone]]
+| StarSystemOfOrigin      = 
+| HomePlanet              = 
+| PlaceOfBirth            = 
+| Creators                = Stan Lee; Jack Kirby; 
+| First                   = Fantastic Four Annual Vol 1 #6
+
+| HistoryText             = The Borers are a race of creatures that are native to the [[Negative Zone]]. The origin of their species are unknown, but as these creatures can bore through anything they have are often used by [[Annihilus (Earth-616)|Annihilus]], ruler of the Negative Zone, against his enemies. The first time these creatures have been seen was when the [[Fantastic Four (Earth-616)|Fantastic Four]] ventured into the Negative Zone to retrieve the [[Cosmic Control Rod]] of Annihilus, the only thing that could save the [[Susan Storm (Earth-616)|Invisible Girl]] and her [[Franklin Richards (Earth-616)|unborn son]] during the process of child birth. When they succeeded in recovering the Cosmic Control Rod, Annihilus unleashed these beasts against his foes, but the FF managed to escape. Reed later relinquished the Cosmic Control Rod back to Annihilus after siphoning the required energies from it in order to save the life of his wife. {{r|Fantastic Four Annual #6}}
+
+Annihilus unleashed the Borers against the Fantastic Four the next time they encroached in his realm while trying to prevent [[Victor von Doom (Earth-616)|Doctor Doom]] from stealing the Cosmic Control Rod. When they learned Doom succeeded, they fought off the Borers, rescued their ally [[Richard Jones (Earth-616)|Rick Jones]] and returned to Earth. {{R|Fantastic Four: World's Greatest Comics Magazine #9}} 
+
+A number of Borers were transported to Earth by the techno-wizard known as [[Yandroth (Earth-616)|Yandroth]]. They were handled by the Fantastic Four before being returned where they belonged following Yandroth's defeat at the hands of the [[Defenders (Earth-616)|Defenders]]. {{r|Defenders Vol 2 #1}}
+
+| Habitat                 = Negative Zone standard
+| Gravity                 = Negative Zone standard
+| Atmosphere              = Negative Zone standard
+| Population              = 
+
+| Powers                  = 
+| Abilities               = Due to their sharp horns and serrated beaks the Borers can cleave through virtually anything.
+| AvgStrength             = 
+| Weaknesses              = These creatures do not appear to have a very high level of intelligence and are subservient to Annihilus. 
+
+| GovernmentType          = Borers appear to operate in a pack of five or more.
+| TechnologyLevel         = Not applicable.
+| CulturalTraits          = Not applicable.
+| Representatives         = 
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Negative Zone Races]]

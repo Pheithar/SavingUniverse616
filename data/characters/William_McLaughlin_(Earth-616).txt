@@ -1,0 +1,50 @@
+{{Marvel Database:Character Template
+| Image                   = William_McLaughlin_(Earth-616)_from_Fantastic_Four_Vol_1_226.jpg
+| Name                    = William McLaughlin
+| Name2                   = {{r|Marvel Encyclopedia Vol 1 Fantastic Four}}
+| CurrentAlias            = Samurai Destroyer
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = {{cl|FF: Fifty Fantastic Years #1}}
+| Gender                  = Male
+| Height                  = 6'3" (McLaughlin); 100'0" (Samurai Destroyer)
+| Weight                  = 195 lbs (McLaughlin); 500 tons (Samurai Destroyer)
+| Eyes                    = Brown (McLaughlin); Yellow (Samurai Destroyer)
+| Hair                    = Brown (McLaughlin); None (Samurai Destroyer)
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Public
+| Citizenship             = United States of America
+| Occupation              = Criminal; former explorer
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Doug Moench
+| First                   = Fantastic Four #226
+
+| History                 = William McLaughlin claims that he was an adventurer who accidentally stumbled upon the ruins of the [[Sanctuary of Light]], former home of the [[Followers of the Light (Earth-616)|Followers of the Light]], creators of the [[Shogun Warriors (Earth-616)|Shogun Warrior]] robots. Inside he learned all about the organization and how they constructed three robots and gave them to [[Genji Odashu (Earth-616)|Genji Odashu]], [[Ilongo Savage (Earth-616)|Ilongo Savage]] and [[Richard Carson (Earth-616)|Richard Carson]], who were heroes at the time. McLauighlin later discovered a fourth unfinished robot and used spare parts to complete it. Calling his robot the [[Samurai Destroyer (Earth-616)|Samurai Destroyer]], he then set about to use the robot for his own personal gain. Seeing the Shogun Warriors as opposition, he first tracked down the secret hiding places of their robots and destroyed them.
+
+With the Samurai Destroyer, William then began stealing vast amounts of gold from all over the globe and stashing his spoils within the ruins of the Sanctuary of Light. The thefts attracted the attention of the [[Fantastic Four (Earth-616)|Fantastic Four]] as well as the Shogun Warriors, and the two groups worked together. They tracked the Samurai Destroyer to Tokyo where a battle broke out between the FF and the robot. Ultimately, the Fantastic Four's leader [[Reed Richards (Earth-616)|Mister Fantastic]] incapacitated the robot by destroying it's navigational systems. With his robot incapacitated, William tried to kill his foes by setting the Destroyer to self destruct. But the Fantastic Four and their allies were contained in a force field put up by the [[Susan Storm (Earth-616)|Invisible Girl]]. With his robot destroyed, McLaughlin was turned over to the Japanese authorities. {{r|Fantastic Four #226}} His subsequent fate is unknown.
+
+| Powers                  = Samurai Destroyer had superhuman strength, being able to lift 100 tons. He also had an extremely durable casing, withstanding heavy-round tank artillery. Its boots were equipped with high-powered rockets to fly, its fingertips could emit powerful concussive bolts and its laser-sword projected an energy aura to more easily cut through objects.
+
+| Abilities               = 
+| Strength                = He could lift over 100 tons.
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

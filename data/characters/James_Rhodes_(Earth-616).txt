@@ -1,0 +1,298 @@
+{{Marvel Database:Character Template
+| Image                   = James Rhodes (Earth-616) from Tony Stark Iron Man Vol 1 18 001.jpg
+| Name                    = [[James Rupert Rhodes|James Rupert "Jim" Rhodes]]
+| CurrentAlias            = [[War Machine]]
+| EditorialNames          = Formerly All-New Iron Man, [[Iron Man 2.0 Vol 1|Iron Man 2.0]]
+| Aliases                 = Commander Rhodes,{{r|Avengers: The Initiative #3}} [[Electro]],{{r|Iron Man #228}} [[Hulk|Hulk Machine]],{{r|World War Hulks: Captain America vs Wolverine #1}} [[Iron Man]],{{r|Iron Man #170}} [[Iron Man 2.0]],{{r|Iron Man 2.0 #1}} [[Iron Patriot]],{{r|Gambit Vol 5 13}} The Mighty Atom,{{r|Iron Man: Legacy Vol 1 9}} "The Pilot",{{r|Secret Avengers Vol 2 #6}} [[Rhodey]],{{r|Avengers: The Initiative #2}} Shellshock,{{r|Invincible Iron Man Vol 2 #28}} "Whiskey Mike",{{r|Avengers: The Initiative #1}} Var Machine{{r|Avengers: The Initiative #17}}
+
+| Affiliation             = {{m|United States Armed Forces (Earth-616)|U.S. Armed Forces}}, {{m|Force Works}}, {{m|Space Friends}}; formerly {{m|Deathloks}}, {{m|Stark Unlimited}}, {{m|Stark Resilient (Earth-616)|Stark Resilient}}, {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}}, {{m|Avengers}}, {{m|Secret Avengers (S.H.I.E.L.D.) (Earth-616)|Secret Avengers (S.H.I.E.L.D.)}}, {{m|Secret Avengers (Black Ops Unit) (Earth-616)|Secret Avengers (Black Ops)}}, {{m|50-State Initiative}}, {{m|Office of National Emergency}}, {{m|Sentinel Squad O*N*E}}, {{m|Crew}}, {{m|Avengers West Coast}} (founding member), Rhodes Salvage Company, {{m|Worldwatch}}, {{m|Secret Defenders}}, {{m|United States Marine Corps (Earth-616)|U.S. Marines}}, {{m|United States Navy (Earth-616)|U.S. Navy}},{{r|Invincible Iron Man Vol 3 8}} {{m|Iron Legion}}, {{m|Stark Industries|Stark Enterprises}}; former leader of the [[War Machine Drones (Earth-616)|War Machine Drones]] and [[Iron Patriot Drones (Earth-616)|Iron Patriot Drones]]
+| Relatives               = [[Terrence Rhodes (Earth-616)|Terrence Rhodes]] (father, deceased);<br>
+[[Roberta Rhodes (Earth-616)|Roberta Rhodes]] (mother);<br>
+Joshua Rhodes (uncle);<br>
+[[Jeanette Rhodes (Earth-616)|Jeanette Rhodes]] (sister, deceased);<br>
+[[Lila Rhodes (Earth-616)|Lila Rhodes]] (niece)
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #13}}
+| Gender                  = Male
+| Height                  = 6'1"
+| Height2                 = (6'6" in armor)
+| Weight                  = 240 lbs
+| Weight2                 = (470 lbs in armor)
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         = While Rhodes had the Warwear, his body was covered in several 'mandalas', but these were not noticeable while he was clothed. Formerly scarred.
+
+| Origin                  = [[Homo sapiens|Human]], former [[Glossary:Cyborg|Cyborg]], briefly turned into a semi-[[Deathlok]]{{r|2020 Force Works Vol 1 3}}
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Philadelphia (Pennsylvania)|Philadelphia]], [[Pennsylvania (State)|Pennsylvania]]
+| PlaceOfDeath            = 
+| KilledBy                = Thanos (Earth-616)
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = Adventurer, pilot; formerly Direct Command Officer for [[Sentinel Squad O*N*E (Earth-616)|Sentinel Squad O*N*E]], Lieutenant, United States Marines Corp, CEO of [[Stark Industries]], head of [[Worldwatch]]
+| Education               = High school graduate; learned aviation engineering in US Marines
+| BaseOfOperations        = [[Stark Unlimited HQ]], [[Washington Square Park]], [[Greenwich Village]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]; formerly [[S.H.I.E.L.D. Helicarrier]]; [[Stark Tower|S.H.I.E.L.D. Station: Golgotha]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]; [[Avengers Compound]], [[Los Angeles]], [[California (State)|California]]
+
+| Creators                = David Michelinie; John Byrne; Bob Layton
+| First                   = Iron Man Vol 1 118
+| First2                  = (As James Rhodes)<br>{{sld|Iron Man Vol 1 170}}(As Iron Man)<br>{{sld|Avengers West Coast Vol 2 94}}(As War Machine)
+
+| Quotation               = [[Anthony Stark (Earth-616)|He]] doesn't want to talk with '''James Rhodes--'''fine. He'll just have to '''take a meeting--with <big>[[War Machine]]!</big>'''
+| Speaker                 = [[James Rhodes (Earth-616)|War Machine]]
+| QuoteSource             = Iron Man Vol 1 309
+
+| Overview                = A skilled military pilot, '''Jim Rhodes''' is one of the few people [[Anthony Stark (Earth-616)|Tony Stark]] trusts to use the technology of the [[Iron Man Armor]], flying high in his own suit as '''War Machine.''' An aviator engineer for [[Stark Industries (Earth-616)|Stark Industries]],{{r|Iron Man Vol 1 118}} Rhodes was also the personal pilot and eventually confidant of Tony Stark. When Tony was overwhelmed by his relapsing alcoholism, Rhodey donned the Iron Man suit himself.{{r|Iron Man Vol 1 169}} Although he stepped up to the mark, the lack of proper calibrations in the armor affected Rhodey's psyche and he had to step down,{{r|Iron Man Vol 1 193}} paving the way for Tony to return as Iron Man.{{r|Iron Man Vol 1 200}} Later on, after Stark was seemingly assassinated, Rhodey reluctantly heeded Tony's will and became Iron Man again, wearing a new armor made specifically for him.{{r|Iron Man Vol 1 284}} Once he learned that Stark had survived in secret,{{r|Iron Man Vol 1 289}} Rhodey temporarily cut ties with him,{{r|Iron Man Vol 1 291}} and went solo, adopting the alias of War Machine.{{r|Avengers West Coast Vol 2 94}}
+
+Both as War Machine and during a temporary retirement, Rhodey has been invaluable both as an ally to Tony Stark and as a member of the government, at one point becoming the command officer of [[Sentinel Squad O*N*E (Earth-616)|Sentinel Squad O*N*E]].{{r|Sentinel Squad O*N*E Vol 1 1}} Rhodey was once turned into a [[Glossary:Cyborg|cyborg]] by Stark after losing all of his limbs to a terrorist explosion during active duty,{{r|War Machine Vol 2 1}} but ultimately regained his humanity when his mind was transferred to a healthy clone body.{{r|War Machine Vol 2 12}} A cherished member of the superhuman community, Rhodey's death at the hands of the Mad Titan [[Thanos (Earth-616)|Thanos]] once sparked a [[Civil War II|civil war]] between Iron Man and Rhodey's girlfriend, [[Carol Danvers (Earth-616)|Captain Marvel]].{{r|Civil War II Vol 1 1}} Rhodey would then manage to cheat death when Stark discovered a way to use the biomechanical enhancements inherent to piloting an Iron Man-like armor to reboot Rhodes' biological systems.{{r|Invincible Iron Man Vol 1 600}} Rhodey temporarily resorted to piloting an advanced combat vehicle named the [[Manticore (Vehicle)|Manticore]] to combat a phobia for suiting up,{{r|Tony Stark: Iron Man Vol 1 2}} ultimately overcoming that fear and resurfacing as War Machine once more.{{r|Tony Stark: Iron Man Vol 1 17}}
+
+| History                 = 
+===Early Life===
+James "Rhodey" Rhodes was born and raised in [[Philadelphia (Pennsylvania)|Philadelphia]], [[Pennsylvania (State)|Pennsylvania]]. As a child he suffered racist abuse from white children in the {{WP|Grays Ferry, Philadelphia|Grays Ferry}} area of south Philadelphia, who attacked him while urging him to stay out of their park and keep to 'his own'. He would go on to be targeted by black gang members as a teen, who believed Rhodes thought he was better than as he focused on his education, rather than joining up with them. He later joined the [[United States Marine Corps (Earth-616)|United States Marines]] becoming a pilot stationed overseas.{{r|Iron Man: Director of S.H.I.E.L.D. #34}}<ref group="note">Noticing how Stark's place of origin as Iron Man has been changed from Vietnam to Siancong, it is implied Rhodey's history suffered similar changes.</ref>
+
+===Meeting Tony Stark===
+On a mission he was blasted out of the sky by enemy rockets, Rhodey managed to land in one piece and was attempting to get his craft airworthy when inventor [[Anthony Stark (Earth-616)|Tony Stark]], clad in his [[Iron Man Armor]], happened to be passing by. Stark had just completed his [[Iron Man Armor MK I|original armor]], had avenged his fellow prisoner [[Ho Yinsen (Earth-616)|Professor Yinsen]], and was trying to make his way to the American defense perimeter. Attacked by enemies, Iron Man proved to Rhodey they were on the same side, and Rhodes allowed him to drain the helicopter's batteries to recharge his armor. The two then trekked through the jungle together, finally discovering a hidden enemy rocket base. Stealing an enemy helicopter, they destroyed the base, and flew to the nearest American encampment. Before leaving Siancong for the [[United States of America|United States]], Stark offered Rhodes a job as a pilot as soon as his military stint was over. Rhodey initially declined.{{r|Iron Man #144}}
+
+===Stark Industries===
+After a succession of other jobs, Rhodey finally accepted Stark's offer and became his personal pilot and chief aviation engineer.{{r|Iron Man Vol 1 118}} While working at [[Stark Industries (Earth-616)|Stark Industries]], Rhodey aided Iron Man in his battles against such foes as the [[Roxxon Energy Corporation (Earth-616)|Roxxon Oil Company]],{{r|Iron Man Vol 1 #120|121}} [[Justin Hammer (Earth-616)|Justin Hammer]],{{r|Iron Man Vol 1 #122|127}} and the [[Dreadnought (Robot)|Dreadnoughts]].{{r|Iron Man Vol 1 #129}}
+
+===New Iron Man===
+When devastating personal problems caused Tony Stark to abuse alcohol and become incapable of using the Iron Man armor responsibly, Rhodes put it on in order to defend Stark International from the criminal [[Jonathan Darque (Earth-616)|Magma]]. He offered to return it but Stark insisted that Rhodes take on the responsibility of being Iron Man for a while to enable Stark to enjoy himself. Reluctantly Rhodes agreed.{{r|Iron Man #169|170}}
+
+[[File:James Rhodes (Earth-616) from Iron Man Vol 1 199 Cover.jpg|thumb|left|Rhodey in battle, armored as Iron Man]]
+
+Rhodey issued notice to the Avengers that Iron Man would be on a leave of absence for the foreseeable future, unaware that several of the Avengers knew Iron Man was Tony Stark. When Cap and Wasp arrived seeking answers, Rhodey was forced to explain the real reason why Stark was no longer available.{{r|Avengers #232}} Although he was unable to help Stark from being swindled out of proprietorship of Stark International by Obadiah Stane, he did prevent Stane from taking custody of all of Stark's [[Iron Man Armor|Iron Man armors]].{{r|Iron Man #173|175}}
+
+With Morley Erwin and his sister [[Clytemnestra Erwin (Earth-616)|Clytemnestra]], Rhodes embarked upon a brief career as a mercenary in order to obtain funds with which they could begin a new business venture. By the time they succeeded in raising sufficient capital, Tony Stark had recovered from his several months-long alcohol binge, and offered to join them. The four moved out to Silicon Valley, [[California (State)|California]], where they founded [[Circuits Maximus (Earth-616)|Circuits Maximus]], a small electronics design firm.{{r|Iron Man #184}}
+
+Stark still was not interested in resuming his Iron Man role and gave his blessing to Rhodes to continue. Rhodes was initiated into the established ranks of superhuman champions when he became one of those who participated in the first [[Marvel Super Heroes: Secret Wars|Secret Wars]].{{r|Marvel Super Heroes Secret Wars #1|12}} Soon afterwards, he was invited to join the newly-founded [[Avengers West Coast (Earth-616)|West Coast Avengers]] by chairman [[Clinton Barton (Earth-616)|Hawkeye]], who believed him to be the original Iron Man. After proving his worth to the group, Rhodes revealed to them he was Iron Man's replacement.{{r|West Coast Avengers #1|4}}
+
+===Side-Effects===
+Soon after first donning the armor, Rhodes began to get severe headaches because the cybernetics in the helmet had never been properly re-calibrated for his brain patterns. Working in close proximity with Stark again, Rhodes began to fantasize that Stark secretly disapproved of him keeping the armor and wanted it back. This led to increasingly hostile and irrational behavior on Rhodes' part. As work therapy, Stark began to construct a new set of armor based on his original armor's design. When Rhodes finally began to endanger the lives of innocents by his behavior, Stark donned the unsophisticated new armor and managed to stop Rhodes rampage. Ashamed of his behavior, Rhodes went off to look for a cure for his headaches when adjusting the helmet to his brain patterns did not end them.{{r|Iron Man #188|192}}
+
+[[File:James Rhodes (Earth-616) from Iron Man Vol 1 188 001.png|thumb|right|150px|Rhodes suffering from a severe headache]]
+
+Stark went to the West Coast Avengers to tender Rhodes' resignation, and was invited by Hawkeye to use the laboratory facilities to create a new state-of-the-art set of armor. Rhodes returned to Circuits Maximus after the Indian mystic [[Michael Twoyoungmen (Earth-616)|Shaman]] helped him cure his headaches, and briefly joined forces with Stark battling Obadiah Stane's latest machinations against them. Rhodes was injured in an explosion Stane engineered that destroyed Circuits Maximus and killed Morley Erwin. Consequently, he could not assist Stark in his final assault on Stane, an assault that ended in Stane's death.{{r|Iron Man #195|200}}
+
+Rhodes joined Stark in his new business venture, Stark Enterprises, but even after his bones mended, he was reluctant to put the Iron Man armor on again. Stark had resumed his responsibilities as Iron Man using the new state-of the-art armor, and Rhodes not only felt a second armored Avenger would be superfluous, he also felt contrite about his irrational period.{{r|West Coast Avengers Vol 2 Annual #1}} After several months of only occasionally wearing his older model suit, Rhodey nearly died while re-entering Earth's atmosphere after a space station battle, and almost burned alive inside his suit. Jim suffered PTSD from the incident, and could not put the armor back on without re-experiencing his near-death, leading to his permanent resignation as the substitute Iron Man, although he remained with Stark Enterprises.{{r|Iron Man #215|216}}
+
+===War Machine===
+Several years later, Tony Stark was fatally injured and placed in cryogenic sleep, but he was announced as dead to the public, including Rhodey. James was named CEO of Stark Enterprises, and Tony's last wish was for him to continue his legacy as Iron Man, using the latest battlesuit of Stark's creation, the [[Iron Man Armor Model 11|War Machine Armor]]. However, when he discovered that Stark was not dead, Rhodes became furious and resigned, severing his friendship with Stark. The two would occasionally team up to battle the evil that was trying to take over, but the friendship of old was no longer the same. Around this time Jim became romantically involved with [[Rae LaCoste (Earth-616)|Rae LaCoste]].{{r|Iron Man #284|292}} During this time, Rhodey had also taken Tony's place in the Avengers West Coast. Despite cutting ties with Stark, Rhodes remained with the Avengers, revealing his identity to them and adopting "War Machine" as his superhero alias.{{r|Avengers West Coast Vol 2 94}}
+
+[[File:James Rhodes (Earth-616) from X-Force Vol 1 20.jpg|thumb|300px|right|As War Machine]]
+
+War Machine went solo for some time. Jim traveled to the small African nation of [[Imaya]] in an attempt to free peace activist [[Vincent Cetewayo (Earth-616)|Vincent Cetewayo]]. [[Nathaniel Summers (Earth-616)|Cable]] and [[Michael Collins (Earth-616)|Deathlok (Michael Collins)]] also traveled to the war-torn country, and [[Nicholas Fury (Earth-616)|Nick Fury]] quickly sent a [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] team to hope the situation would stabilize. In the resulting revolution the country's dictator was overthrown, but Cetewayo had been murdered by a mysterious ''[[Advisor (Earth-616)|Advisor]]'', who warned Jim that he is present in every conflict. Jim continued to adventure and worked for Cetewayo's company ''[[Worldwatch (Earth-616)|Worldwatch]]'', which investigates human rights abuses. One of the S.H.I.E.L.D. agents present, [[Bathsheva Joseph (Earth-616)|Sheva Joseph]], left to work with Rhodes. Jim continued to adventure, but could not find someone capable of repairing the armor.{{r|{{cl|War Machine Vol 1 1}}-[[War Machine Vol 1 7|7]]}} Returning to Stark, the two had a confrontation about each other's recent actions. This was interrupted by the Mandarin. After Mandarin was defeated, the armor was fixed.<ref>[[Hands of the Mandarin]] crossover.</ref>
+
+While visiting family and friends in [[Philadelphia (Pennsylvania)|Philly]], Rhodey stumbled onto a group of armor wearers who hunt for sport. Tracking the leader [[Laslo Maqzel (Earth-616)|Locomotive Breath]] to [[Slorenia]], he discovered that atrocities were occurring and alerted both Worldwatch and [[Force Works (Earth-616)|Force Works]].{{r|War Machine #12|14}}
+
+Soon after that, he was contacted by Sheva, who was investigating some Neo-Nazi activity. Rhodey and Nick Fury answered her call to find a rabid faction that was attempting to send modern weapons to [[World War II|WWII]] era [[Germany]] ([[Earth-95615]]). Rhodey followed, meeting a younger Fury, the [[Howling Commandos (Earth-95615)|Howling Commandos]] as well as [[Steven Rogers (Earth-95615)|Cap]] and [[James Buchanan Barnes (Earth-95615)|Bucky Barnes]]. The "Zeitkrieg" was halted, although the War Machine armor was lost when time shifted.{{r|War Machine #15|17}}
+
+===Alien Armor===
+On vacation, Jim suddenly acquired a new alien armor, the [[Eidolon Warwear]]. A mysterious woman named [[Skye (Earth-616)|Skye]] said only that he would need it. Hearing that something terrible had happened, Rhodes returned to the [[Avengers (Earth-616)|Avengers]]. Rhodes joined the [[Natalia Romanova (Earth-616)|Black Widow]], the [[Jonathan Walker (Earth-616)|US Agent]] and Hawkeye to find a way to stop Tony Stark. A confrontation changed little, and Rhodey helped Force Works to disable some weapons.{{r|War Machine #18|22}}
+
+[[File:James Rhodes (Earth-616) with Eidolon Warwear.jpg|thumb|left|Rhodey's alien armor]]
+He went into space to disable the [[Starcore|STARCORE]] satellite. There he found another Eidolon wearer named [[Dirge (Warwear User) (Earth-616)|Dirge]], apparently having been sent by [[Nathaniel Richards (Kang) (Earth-6311)|Kang]]. A dying Skye explained a bit more about the Eidolon's history, and the other wearer was destroyed. Eventually, Stark broke Kang's control and sacrificed his life to save his friends. After Tony's death, Rhodes returned to Stark Enterprises, which was soon bought out by Fujikawa; his attitude about Stark changed for the better as well.{{r|War Machine #24}}{{r|Avengers #395}}
+
+Sheva Joseph began to rapidly age and soon died, as a side effect of their earlier time travel. Jim's Eidolon was discovered while he was being examined for the same condition, and he briefly got into a quarrel with S.H.I.E.L.D. who wanted to quarantine him and study the armor.{{r|War Machine #25}}
+
+As War Machine, Jim Rhodes discovered that Fujikawa was trying to gain access to some of Tony Stark's old technology. In order to save that technology from falling into another person's hands and to preserve the legacy of his old friend, he purged the computers of Fujikawa in order to destroy all the information about Stark's armor technology. In doing so, he sacrificed his alien costume by downloading it into the computers and sending it on a "search and destroy" mission.{{r|Tales of the Marvel Universe #1}}
+
+===Retirement===
+No longer wishing for any superhero identity, Rhodes returned to civilian life to start up his own salvage company. Upon Stark and the other heroes' return from [[Counter-Earth (Heroes Reborn)|Counter-Earth]], the two renewed their friendship, also dealing with the new War Machine, [[Parnell Jacobs (Earth-616)|Parnell Jacobs]].{{r|Iron Man Vol 3 #1}}{{r|{{cl|Iron Man Vol 3 11}}-{{cl|Iron Man Vol 3 12|12}}}}
+
+Rhodes had heavily invested in Grace & Tumbalt due to its stated purpose of improving urban ethnic neighborhoods. While investigating the death of his sister [[Jeanette Rhodes (Earth-616)|Jeanette]], he learned the company was corrupt, using their resources to fuel gangs and drugs. This led to his membership in the [[Crew (Earth-616)|Crew]].{{r|Crew #1|7}}
+
+===The Initiative===
+James was hired by [[Office of National Emergency (Earth-616)|ONE]] and served as a Direct Command Officer and combat instructor for [[Sentinel Squad O*N*E (Earth-616)|Sentinel Squad ONE]].{{r|Sentinel Squad O*N*E #1}} Post-[[Civil War]], Rhodey participated in the [[50-State Initiative (Earth-616)|Initiative]] recruitment and training program. Through as yet unknown circumstances, Jim Rhodes was critically injured at some point following the Civil War and had his arms, legs and parts of his face replaced with cybernetic prosthetics.{{r|Avengers: The Initiative Vol 1 11}}
+
+===Secret Invasion===
+During the [[Secret Invasion|Skrull invasion]], Rhodey received a holographic distress signal from Tony Stark. Believing that the message was sent posthumously, Rhodey followed Stark's instructions and took command of a space satellite that he had constructed in secrecy. The control pod of the station enabled Rhodey to transform the entire satellite into a giant suit of hi-tech [[Satellite Armor|armor]]. With this armor, he was able to successfully repel a [[Deviant Skrulls|Skrull]] armada approaching Earth. This also led to his capture when he abandoned the Satellite armor and took the fighting to Earth, where the [[Winter Guard (Earth-616)|Winter Guard]] didn't offer him assistance against the Skrulls as he did not have permission to be operating in [[Russia]].{{r|Iron Man: Director of S.H.I.E.L.D. Vol 1 #33|34}}
+
+Shortly before being vivisected, Rhodey was able to trigger a laser in his eye and escape his bonds, getting enough of his armor back on to keep himself alive and defend against the Skrulls still onboard the ship he had been taken to. Rhodey, with help from [[Suzi Endo (Earth-616)|Suzi Endo]], used the Skrull ships to destroy one another and return to the Russian air base Tatishchevo where he had been captured and continued aiding the Winter Guard in defending Russia's nuclear arsenal from the Skrulls. Despite [[Boris Vadim (Earth-616)|Crimson Dynamo]]'s previous denials, he chose to ignore his commands and aid Rhodey when he saw the help he was offering without their aid. Working alongside the Winter Guard they took down the Skrulls air support and their [[Super-Skrulls (Earth-616)|Super-Skrulls]] on the ground, with Rhodey risking his own life to prevent a detonating Super-Skrull from setting off the warheads before being aiding in his escape from Russia by Crimson Dynamo.{{r|Iron Man: Director of S.H.I.E.L.D. Vol 1 35}} 
+
+===Dark Reign===
+<!-- rambly wikipedia cut and paste -- editors, feel free to cut it down to the fundamentals -->
+Despite protest from Suzi Endo, Rhodes left the satellite to face [[Anton Aubuisson (Earth-616)|Anton Aubuisson]], a corrupt former French Special Forces soldier who now represented the Roxxon Energy Corporation in negotiations with the Anunquit tribe in western [[Canada]]. While his presence was legally sanctioned, Aubuisson killed the Anunquit representatives that refused Roxxon's construction of a oil pipeline on their land using polar bears enhanced with [[Sakaar]]ian control disks and exoskeleton upgrades via [[Ultimo (Earth-616)|Ultimo]] technology from [[Eaglestar International (Earth-616)|Eaglestar International]], a corrupt paramilitary defense contracting firm. Rhodes destroyed the pipeline and the bears killed Aubuisson after Rhodes destroyed his Sakaarian control staff. After the mission was complete, Endo left the satellite.{{r|Dark Reign: New Nation #1}}
+
+In [[Santo Marco (Country)|Santo Marco]], Rhodes destroyed a retrofitted [[Sentinels|Sentinel]] used by Eaglestar mercenaries in an attempt to exterminate Santo Marcan people who were of the same tribe as the rebel leaders that opposed Santo Marco's dictator President Augustine. After the battle, Rhodes found Parnell Jacobs, who was believed to have been killed by [[Stuart Clarke (Earth-616)|Stuart Clarke]],{{r|Punisher War Journal Vol 2 17}} among the group of Santo Marcans and forcibly recruited him to be his "one-man pit crew" at the satellite and to help reconfigure Rhodes' bionics to reduce the stress on his system. Jacobs accepted after finding out from Rhodes that [[Glenda Sandoval (Earth-616)|Dr. Glenda Sandoval]], a medic with Eaglestar, was raped and tortured while in forced imprisonment at Eaglestar. In the secret War Machine R&D facilities in the [[Colorado (State)|Colorado]] mountains , a team under the direction of [[Bethany Cabe (Earth-616)|Bethany Cabe]] developed a clone body, labeled "J. Rhodes, Repro Bod 2.0", for him to take over because the cybernetics in Rhodes were not meant to be a permanent fix. The facility was attacked and the clone body was taken by [[Norman Osborn (Earth-616)|Norman Osborn]].{{r|War Machine Vol 2 1}} Rhodes, along with support from Jacobs and Cabe, invaded the Eaglestar regional headquarters in the occupied nation of [[Aqiria]].{{r|War Machine Vol 2 2}} Rhodes attacked Eaglestar mercenaries, but chose not to kill. With help from former S.H.I.E.L.D. agent [[Jacob Oh (Earth-616)|Jake Oh]], he found Sandoval locked in a box rigged with explosives at an Eaglestar quarantine unit. Blinding the mercenaries with a flash pulse while Oh's men tended to Sandoval, Rhodes pursued Eaglestar CEO [[Davis Harmon (Earth-616)|Davis Harmon]]. Harmon used his code to release Sandoval, but Rhodes was ready to kill him after learning that the CEO was personally responsible for the rape of Sandoval along with the order to experiment on her with something unknown. Before he could act, the [[Dark Avengers (Earth-616)|Dark Avenger]] [[Ares (Earth-616)|Ares]], having been sent to Aqiria by Norman Osborn to take care of Harmon, disobeyed Osborn's orders to hold position and intervened by fighting Rhodes.
+
+Rhodes managed to hold his own against the god of war and followed Harmon to another Eaglestar quarantine unit. Harmon told Rhodes that he couldn't be prosecuted since Eaglestar was a private multinational agency free of government jurisdiction, but Sandoval killed him. Ares opened the unit and it was revealed that the experiments conducted at Eaglestar created test subjects infected with a virus laced with the same Ultimo technology found in the enhanced bears that Rhodes faced in Canada. Sandoval was infected with the virus and attacked Rhodes and Ares.{{r|War Machine Vol 2 3}} Suzi Endo, who stated that she would never work with Rhodes again after what happened in Santo Marco, assisted Rhodes and suggested that he attack the infected before they reach Makazan, the capital of Aqiria. The infected survived Rhodes' attack with Ares now among the infected.{{r|War Machine Vol 2 4}} Despite being ten minutes from organ failure, Rhodes refused Cabe's offer to put him in stasis for a new body and integrated the EVAC shuttle sent for him into his armor. Rhodes was infected with the virus via a kiss from Sandoval and used the armor's technology to absorb the virus from all of the infected. With the virus rebuilding his organs and being suppressed, Rhodes took control of the satellite and had it knock him down before he could infect the city's infrastructure while the satellite's EMP blast with Endo's code destroyed the virus. Norman Osborn offered pardons to Endo, Cabe, and Jacobs while he offered Rhodes the clone body, but Rhodes refused Osborn's offer. He deduced that the Ultimo technology was developed at an Army base in the United States where Ultimo was last seen.
+
+[[File:War Machine Vol 2 8 Textless.jpg|thumb|right|War Machine's Stane Tech Armor]]
+
+Rhodes headed to the U.S. with Sandoval and Oh as the medical team, Cabe and Jacobs handling security and hardware, Endo as the technology expert.{{r|War Machine Vol 2 5}} After Rhodes and his team visited Rhodes' mother [[Roberta Rhodes (Earth-616)|Roberta]] at the [[Navajo Nation (Earth-616)|Navajo Nation]] and was confronted by [[Jason Strongbow (Earth-616)|American Eagle]], Rhodes tricked Eagle into fighting Oh in a copy of the War Machine armor while he attacked Mackelroy Army Base.{{r|War Machine Vol 2 6}} There he searched for evidence of Ultimo technology to use against Norman Osborn only to find the head of Ultimo that began attacking the base as well. With help from American Eagle, Rhodes was able to take it down.{{r|War Machine Vol 2 7}} Rhodes learned that Ultimo's brain was split into three components and sent to three private companies for research and development. While Cabe and Oh tracked down two components at Roxxon and Transcore facilities in their new War Machine support armor, Rhodes went after Ultimo's neural net that was held in a liquid state by who he believed to be Tony Stark. Rhodes' old Avengers teammates Ronin, [[Barbara Morse (Earth-616)|Mockingbird]], [[Greer Grant (Earth-616)|Tigra]], and [[Simon Williams (Earth-616)|Wonder Man]] tried to stop him from hijacking Stark's jet, but Stark drank the liquid neural net and merged with Ultimo as its new host. During the battle between Rhodes and Ultimo, it was revealed that the "Tony Stark" that Rhodes was after was really Tony's cousin [[Morgan Stark (Earth-616)|Morgan Stark]] impersonating Tony. When Rhodes used his armor's power to absorb Ultimo's technology in an attempt to stop it, Ultimo breached his armor and tapped into his neural net to give Ultimo the capability to kill.{{r|War Machine Vol 2 8}} With Ultimo out in the open and destroying parts of the American Midwest, Norman Osborn arrived in his [[Iron Patriot Armor Model 1|Iron Patriot Armor]] and attacked Rhodes while he was trying to communicate with Ultimo. Rhodes incorporated Osborn's Iron Patriot armor and used it to blast the liquid metal form of Ultimo enough to reconnect with it. He tried to reason with Ultimo by showing it the lives he saved and also used Osborn to show Osborn's human side to Ultimo: the birth of his son [[Harold Osborn (Earth-616)|Harry]]. After interfacing with Rhodes and Osborn, Morgan Stark was separated from Ultimo and the Ultimo system itself purged its extermination programming to become a clean slate. But Osborn let Rhodes tap into his neural net so he could take the clean slate Ultimo orb as his new weapon.{{r|War Machine Vol 2 9}}
+
+Rhodes and Sandoval tricked Osborn into thinking that his health was failing from the Ultimo battle and Rhodes merged with the [[H.A.M.M.E.R. (Earth-616)|H.A.M.M.E.R.]] transport vehicle. He freed the Ultimo orb and asked Endo to take the orb off-planet to keep it away from Osborn and to tap into its code to teach it right from wrong. After Endo escaped with the orb, Rhodes asked Tigra, Ronin, Mockingbird, and Wonder Man to evacuate the civilians and informed them of his plan being set in motion. Rhodes fought Osborn and denied Sandoval's transmission to the other Team War Machine members to help Rhodes when Osborn found a way to jam his assimilation technology. The other heroes along with Endo and Oh formed strike teams to confront certain criminal targets and upload proof of their targets' crimes. While Rhodes was defeated by Osborn and his H.A.M.M.E.R, agents, Rhodes plan was carried out during the battle: a security breach of a H.A.M.M.E.R. satellite exposing the deeds of a the "Bainesville Ten", a group of high ranking government officials and industry captains responsible for worldwide crimes such as torture and assassinations.
+
+To distract from the indictment of the group, Osborn arranged to have Rhodes put on trial at The Hague for war crimes and crimes against humanity while he attempted to thwart the prosecution of the Bainesville Ten.{{r|War Machine Vol 2 10}} Rhodes was intent on foiling Osborn's scheme by quickly getting himself convicted. On the side, he had his team retrieve his clone body and have his mind transferred wirelessly. Unfortunately, Osborn had anticipated their move and gave the order to kill Rhodes. He fabricated a story to the public that Rhodes' cyborg body was manufactured by Tony Stark and that H.A.M.M.E.R. recovered the "real" one, absolved of all charges. However, Rhodes was transferred to his new body before his cyborg one. He revealed to Osborn that he also had Endo use liquid drops of Ultimo to infect the Bainesville Ten, causing them to forever see the people who were killed, tortured, and raped on their orders. Rhodes then left to embrace his second chance at life.{{r|{{cl|War Machine Vol 2 11}}-{{cl|War Machine Vol 2 12|12}}}}
+
+===Heroic Age===
+Rhodes went to [[Broxton]], [[Oklahoma (State)|Oklahoma]], where Tony Stark was left in a persistent vegetative state, in order to reboot his brain. Following recorded instructions from Stark, Rhodes extracted wires from [[Virginia Potts (Earth-616)|Pepper Potts]]' Rescue suit to use to connect the [[Captain America's Shield]] to the implant on Stark's chest, which would be started by [[Thor Odinson (Earth-616)|Thor]]'s lightning.{{r|Invincible Iron Man Vol 2 #21}}
+
+After the [[Siege (Event)|Siege]] on [[Asgard]], Steve Rogers asked a handful of heroes to join his specific superhero teams. Rogers asked Rhodes to be a member of Rogers' strike force known as the [[Secret Avengers (Black Ops Unit) (Earth-616)|Secret Avengers]]. Rhodes accepted Rogers' offer.{{r|Secret Avengers #1}}
+
+[[File:Iron Man 2.0 Vol 1 1 Textless.jpg|thumb|left|Human again]]
+
+Rhodey then (with Tony Stark's permission) went to work for the U.S. government as "Iron Man 2.0". This was an attempt by Stark to keep the government from building their own Iron Man without his permission. He considered Rhodey the only person he trusted to pilot the government-owned suit. After Rhodes' War Machine armor was severely damaged, Stark upgraded it. The new armor has phasing and invisibility abilities.{{r|Iron Man 2.0 Vol 1 3}}
+
+===[[Avengers vs. X-Men]]===
+To prevent the arrival of the [[Phoenix Force (Earth-616)|Phoenix]] to Earth, Rhodey, using a new version of the JRXL-1000 armor, joined some of the Avengers in a suicide mission to destroy the powerful cosmic force, which was coming to Earth in search of a new host.{{r|Avengers vs. X-Men #1}} The mission was a failure as the Phoenix Force wasn't defeated, and the heroes returned Earth at the same moment the Phoenix did.{{r|Avengers vs. X-Men #3}}
+
+===Long Way Down===
+Rhodey helped Iron Man when the Mandarin attacked the Three Gorges Dam in [[China]].{{r|Invincible Iron Man #513}} As part of Tony's plan of letting Mandarin win this battle, Rhodey faked his death after fighting the [[Christopher Colchiss (Earth-616)|Melter]], [[David Cannon (Earth-616)|Whirlwind]], and the [[Arthur Parks (Earth-616)|Living Laser]].{{r|Invincible Iron Man #515}}
+
+[[File:James Rhodes (Earth-616) from Invincible Iron Man Vol 1 521 001.jpg|thumb|left|Iron Man Armor, Model 39]]
+
+When Stark had to quit being Iron Man and get his armor out of his body, he gave Rhodey a new one to keep fighting against Mandarin's forces.{{r|Invincible Iron Man #517}} After Tony was kidnapped by the Mandarin, Rhodey kept fighting in his place. Rhodey's activities as the new Iron Man in a new high-tech suit had got Rescue's attention and caused a conflict with her. She finally discovered that Rhodey was the new Iron Man, and after the conflict with the Mandarin was over and Tony rescued from his claws, Tony took Rhodey's armor from him.{{r|Invincible Iron Man #527}}
+
+===Secret Avengers===
+After [[Advanced Idea Mechanics (Earth-616)|A.I.M.]] stole a fleet of [[Iron Patriot Drones (Earth-616)|Iron Patriot Drones]], the drones' low-level A.I. was grown considerably, creating a sentient army which A.I.M. used to incriminate the United States in numerous international attacks.{{r|Secret Avengers Vol 2 4}}
+
+[[File:James Rhodes (Earth-616) from Secret Avengers Vol 2 6 001.jpg|thumb|The Iron Patriot Armor]]
+
+S.H.I.E.L.D. Intel came to the conclusion the androids could be reasoned with, and agent [[Phillip Coulson (Earth-616)|Phil Coulson]] asked Rhodey to talk to them, as he had experience and military training.{{r|Secret Avengers Vol 2 4}} Using holographic communication, S.H.I.E.L.D. hacked into A.I.M.'s network and allowed Rhodes to talk to the suits, who recognized him as "the Pilot", and Tony Stark as "the Maker". Rhodey managed to make the Iron Patriot army understand their actions of abruptly attacking tactical points of enemies of the US were unacceptable, and stated he could teach them better if he could just show them, for what the androids sent Rhodes a different version of the [[Iron Patriot Armor Model 2|Iron Patriot Armor]].{{r|Secret Avengers Vol 2 6}} With the army of droids at his command, Iron Patriot helped the [[Secret Avengers (S.H.I.E.L.D.) (Earth-616)|Secret Avengers]] in their assault on [[Barbuda|A.I.M. Island]].{{r|Secret Avengers Vol 2 7}} Rhodey later left the team based on the lack of transparency of Maria Hill involving the assault on A.I.M. Island and the information that [[Barbara Morse (Earth-616)|Mockingbird]] had been kidnapped.{{r|Secret Avengers Vol 2 16}} Rhodes continued to operate as the Iron Patriot and moved to [[Georgia]] with his father [[Terrence Rhodes (Earth-616)|Terrence]] and his niece [[Lila Rhodes (Earth-616)|Lila]].{{r|Iron Patriot #1}}
+
+Soon after Steve Rogers had declared the [[Illuminati (Earth-616)|Illuminati]] enemies of the Avengers, Rhodey became an Avenger once again, under the authority of S.H.I.E.L.D., as the pilot of a fleet of [[War Machine Drones (Earth-616)|War Machine Drones]].{{r|Avengers Vol 5 39}} He would deploy the suits in attempts to capture the Illuminati.{{r|Avengers Vol 5 35}}{{r|Avengers Vol 5 39}}
+<!--
+===War Machines===
+Rhodes was enlisted by Iron Man to help him investigate [[Giuletta Nefaria (Earth-616)|Madame Masque]]'s assault on [[Tokyo]]'s [[Stark Tower]]. With the initial investigation bearing barely any results, Jim decided to move on to investigating a group of tech ninjas that had been on Madame Masque's trail.
+
+As War Machine, Rhodes confronted one person of interest, but he was taken off-guard by his two escorts, who were members of the tech ninjas.{{r|Invincible Iron Man Vol 3 6}} Rhodey was captured and stripped of his suit by one ninja identified as [[Tomoe (Earth-616)|Tomoe]], who donned the suit for herself after making adjustments, and set out to interrogate Rhodes for having walked into their world.{{r|Invincible Iron Man Vol 3 7}} -->
+
+===The Second Civil War===
+War Machine was one of the numerous heroes together with the [[Ultimates (Earth-616)|Ultimates]], [[A-Force (Earth-616)|A-Force]], and the [[House of Agon (Earth-616)|Inhumans]] who set an ambush for [[Thanos (Earth-616)|Thanos]] at a [[Project P.E.G.A.S.U.S. (Earth-616)|Project P.E.G.A.S.U.S.]] [[Project P.E.G.A.S.U.S. Facility|facility]] after a new [[Inhumans (Inhomo supremis)|Inhuman]] [[Extra-Sensory Perception|precog]] named [[Ulysses Cain (Earth-616)|Ulysses Cain]] foresaw his arrival in search for a [[Cosmic Cube]]. The deploy was initially successful until Rhodey was thrown off-balance by Thanos a moment before firing a missile, causing the explosive to hit [[Jennifer Walters (Earth-616)|She-Hulk]] instead. War Machine was then caught off-guard by the Mad Titan, who punched Rhodes with such force his armor couldn't brace for the impact, and it killed him.{{r|Free Comic Book Day Vol 2016 Civil War II}} Rhodes' body was taken to the [[Triskelion]]'s morgue,{{r|Civil War II Vol 1 1}} and it was later buried at [[Arlington National Cemetery|Arlington Cemetery]], with a memorial being held in his hometown of [[Philadelphia (Pennsylvania)|Philadelphia]].{{r|Captain America: Sam Wilson Vol 1 10}}
+
+[[File:James Rhodes (Earth-616) vs. Thanos (Earth-616) from Civil War II Vol 1 1 001.jpg|thumb|left|300px|Rhodes' death at the hands of Thanos]]
+
+Rhodey's death was one of the many factors that sparked the [[Civil War II|second superhuman civil war]] over making use of Ulysses' visions, with Iron Man opposing the idea, while Captain Marvel endorsed it. In the end of the conflict, Tony was fatally injured in battle against Carol. The different genetic modifications Stark had subjected himself to in order to run the Iron Man Armor saved his life. Instead of dying, Tony fell into a coma.{{r|Civil War II Vol 1 8}} When Tony's biological system rebooted itself and he woke up, he theorized something similar could happened to Rhodes. Stark exhumed Rhodey's body and performed the necessary procedures to kick-start his biological systems, which returned him to life.{{r|Invincible Iron Man Vol 1 600}}
+
+===Stark Unlimited===
+Jim joined Stark's new endeavor, the think tank known as [[Stark Unlimited (Earth-616)|Stark Unlimited]], and served as a liaison with the [[United States Armed Forces (Earth-616)|Armed Forces]]. Tony additionally gifted Rhodey a new War Machine Armor.{{r|Tony Stark: Iron Man Vol 1 2}} However, minor deviations in Rhodey's genetic code from the process that returned him to life caused him to develop a pathological fear for armoring up.{{r|Iron Man 2020 Vol 2 6}} He found an alternative in the [[Manticore (Vehicle)|Manticore]], a multi-purpose weaponized vehicle which allowed Rhodey to fight more comfortably.{{r|Tony Stark: Iron Man Vol 1 2}}
+
+[[File:James Rhodes (Earth-616) from Tony Stark Iron Man Vol 1 11 002.jpg|thumb|right|Rhodey aboard the Manticore]]
+
+When [[Ultron (Earth-616)|Ultron]] returned and set out to transform humanity into cyborgs, Jim joined Iron Man's efforts to stop him. Rhodey was confronted with a dark reflection of his past, in the form of Ultron's cyborg brute test subjects, causing him to panic when fighting them. His mettle was further put to the test when Tony had to withdraw from battle after being accidentally subjected to Ultron's bonding process, merging him to his [[Iron Man Armor Model 65|armor]]. With no backup available, Rhodey called his armor and gathered the strength to suit up again as War Machine.{{r|Tony Stark: Iron Man Vol 1 16}} In the aftermath of Ultron's attack, Tony was delegitimized as a human being due to his body having been artificially regrown in the procedure that woke him from his coma, which allegedly entailed that he was an artificial construct of the real, late Tony Stark. Stark Unlimited was seized by his adoptive brother [[Arno Stark (Earth-616)|Arno]]. Displeased with the new management, Rhodey resigned.{{r|Tony Stark: Iron Man Vol 1 18}}
+
+During the subsequent [[Iron Man 2020 (Event)|robot revolution]], Rhodey continued getting accustomed to wearing the War Machine Armor. He joined the reinstanted Force Works, which was set up by [[Maria Hill (Earth-616)|Maria Hill]] as a task force to neutralize A.I.-related acts of terrorism.{{r|2020 Force Works Vol 1 1}} After Tony desisted from the idea that he wasn't the real Tony Stark, he reclaimed his life from his brother. In the aftermath, Tony found out the true root of Rhodey's armor phobia. Using a restoration bio-pod and DNA obtained from Rhodey's living relatives, Stark Unlimited managed to correct the aberrations in his body, putting an end to Rhodey's psychological problems.{{r|Iron Man 2020 Vol 2 6}}
+
+| Powers                  = Rhodes has no powers of his own.
+
+{{Navigation
+| title = Former Powers
+| body  = 
+'''Cybernetics:''' After being injured overseas, Jim Rhodes was rebuilt as a cyborg by Tony Stark. His body upgrades included artificial limbs made of vibranium and titanium cyberware, surgically implanted life support in his chest cavity, bionic replacement eye, and cerebral governing circuitry implanted in his brain. Together, these cybernetics provided him with a number of new features:
+* '''Eidetic Memory:''' Rhodey possessed computer-like data storage and retrieval memory, allowing him to recall everything he had seen or experienced since the cybernetic upgrade in perfect detail.{{Citation}}
+* '''War Machine Super-Armor:''' The War Machine suit was now an exo-frame built around Rhodey's existing cybernetic components. Under normal circumstances, it could appear as a normal set of StarkTech armor, disguising the extent of Rhodey's injuries. It maintained the basic War Machine weapon systems on the wrists and shoulders. On command, the exo-frame could expand itself with a number of additional retractable armaments popping out from inside the armor and Jim's cybernetic body.{{Citation}}
+* '''Technoforming:''' Jim Rhodes was also capable of assimilating machinery and technology, incorporating outside systems into his War Machine frame at will. This was accomplished through magna-locks and invasive computer programs to physically and cybernetically link systems to his own. In ideal circumstances, War Machine could duplicate the versatility of Stark's [[Modular Armor]] but with any weapon or device handy instead of pre-constructed interchangeable modules. In hazardous conditions, War Machine could also rebuild him when damaged by using raw materials, such as cannibalizing the hydraulics of a motorcycle to create new legs, or slapping his disembodied torso onto a tank and co-opting it.{{Citation}}
+* '''Power Supply:''' Like the original Iron Man, this War Machine relied on his armor to survive. What was left of his organic body relied upon the cybernetic life support, which in turn drew power from the War Machine exo-frame. Rhodey needed to keep his suit charged in order to maintain his health.{{Citation}}
+}}
+| Abilities               = '''Skilled Engineer:''' Rhodes served several tours in Southeast Asia, studying while in the service to become an aviation engineer.{{Citation}}
+
+'''Skilled Aviator:''' He is a skilled helicopter pilot and is capable of maneuvering most if not all Stark-designed armors.{{Citation}}
+
+'''Skilled Combatant:''' Rhodes military training made him a very skilled hand to hand combat.{{Citation}} He also trained in boxing as a young man.{{r|Iron Man: Director of S.H.I.E.L.D. #34}}
+
+'''Skilled Marksman:''' Aside from his armor's weaponry, he is a very good marksman.{{Citation}}
+
+'''Skilled Survivalist:''' With intense military training, he can survive in harsh condition and environments.{{Citation}}
+
+| Strength                = Without the armor, James Rhodes possesses the normal human strength of a man of his age, height, and build who engages in moderate regular exercise.
+
+| Weaknesses              = {{Navigation
+| title = Former Weaknesses
+| body = '''Post-Traumatic Stress Disorder:''' When Rhodey was brought back to life after his death at the hands of [[Thanos (Earth-616)|Thanos]], the process caused minor deviations in Rhodey's genetic code.{{r|Iron Man 2020 Vol 2 6}} Because of this, he developed a pathological fear of suiting up, and has described that armor feels like a coffin to him. The last time he wore the War Machine Armor before switching to the [[Manticore (Vehicle)|Manticore]], he became agitated and ejected out of the suit as soon as he came under fire.{{r|Tony Stark: Iron Man Vol 1 2}} After discovering the root of Rhodey's phobia, Tony had him undergo a procedure that corrected the aberrations in his body, doing away with his fear of armoring up.{{r|Iron Man 2020 Vol 2 6}}
+}}
+
+| Equipment               = 
+'''Armor:''' War Machine wears a sophisticated suit of body armor containing various offensive weaponry. He first operated as Iron Man using the [[Iron Man Armor Model 4]]. Rhodey later received his own identity with the [[War Machine Armor]], which has also gone through multiple variations. Compared to Iron Man's armor, the War Machine armor is bulkier and most of the time physically stronger, but slower as a tradeoff. Due to being an early Stark design and updated less than Stark's, his suit generally has less cutting-edge technology than Iron Man's. His armors include the [[Iron Man Armor Model 11|Iron Man Armor Model 11 MK II]], the [[War Machine Armor Model 4]], and the [[War Machine Armor Model 9]]. Its standard features in most models include:
+* '''Superhuman Strength:''' He is capable of lifting between 85-100 tons when wearing his armor.
+* '''Superhuman Speed:''' Even when not traveling for extended distances, the armor enables the wearer to move and react at high speeds.
+* '''Superhuman Durability:''' His armor is very durable, capable of withstanding tremendous amounts of punishment. It can withstand high caliber bullets with ease. He can also withstand rockets, torpedoes, and such, although he does take damage.
+* '''Flight:''' The armor can fly and travel at supersonic speeds.
+[[File:Iron Man Director of S.H.I.E.L.D. Vol 1 33 Textless.jpg|thumb|right|War Machine Armor (Initiative)]]
+* '''Power Cells:''' The armor is powered by a combination of solar converters, electrical batteries, and an on-board generator that uses beta particle absorption as a fuel source.
+* '''Energy Conversion Power Recharge:''' The armor is also able to convert nearby energy sources, such as heat or kinetic energy into electricity, or even drain electrical energy directly into the batteries for recharge.
+* '''Self-Contained Life-Support System & Environmental Protection:''' The armor can be completely sealed for operations in vacuum or underwater, providing its own life support, and is shielded against radiation.
+* '''Repulsor Rays:''' The armor can fire particle beams from either or both the palm gauntlets which can repel physical and energy-based attacks, traveling as a single stream or as a wide-field dispersal.
+* '''Unibeam:''' A powerful searchlight capable of projecting beams in virtually every light spectrum.
+* '''Lasers'''
+* '''Magnetism'''
+* '''Gatling Gun:''' A powerful automatic machine gun added to his right shoulder, which fires many bullets simultaneously.
+* '''Rocket Launcher:''' An automatic missile launcher added to his left shoulder, which fires a variety of missiles of any type.
+* '''Miniature Heat Seeking Missiles:''' A small version of the heat seeking missile designed to hit the targets emitting heat signatures.
+
+Other armor systems Jim Rhodes has used include the [[Iron Patriot Armor Model 2|Iron Patriot Armor]], [[Eidolon Warwear]], [[Holo Armor]], and [[War Machine (Sentinel)|Sentinel Squad Armor]].
+
+{{Navigation
+| title = Former Equipment
+| body  = [[Avengers Identicard]]
+}}
+| Transportation          = {{Navigation
+| title = Former Transportation
+| body  = 
+'''[[Manticore (Vehicle)|Manticore]]:''' A multi-purpose submersible tank with flight capabilities and a wide arrange of weapons.{{r|Tony Stark: Iron Man Vol 1 2}} It was destroyed by [[Ultron (Earth-616)|Ultron]], forcing Rhodes to become War Machine again.{{r|Tony Stark: Iron Man Vol 1 16}}
+}}
+| Weapons                 = 
+{{Navigation
+| title                   = Former Weapons
+| body                    = '''[[Subatomic Outgoing Broad-Isotope Gun]]:''' While fighting [[Ultimo (Earth-616)|Ultimo]] during the robot revolution, [[M.O.D.O.K. Superior (Earth-616)|M.O.D.O.K.]] outfitted War Machine with a weapon of his creation which used War Machine's arc reactor to deliver a final blow to Ultimo.{{r|2020 Force Works Vol 1 3}}
+
+'''[[Universal Weapon]] Projection:''' During the invasion of the [[Cotati]]'s [[Empyre (Earth-616)|Empyre]], at Carol's request, [[Stephen Strange (Earth-616)|Doctor Strange]] created projections out of the pieces of her Universal Weapon and gave to Carol's most trusted allies, which included War Machine, in order to help her solving a mystery.{{r|Captain Marvel Vol 10 19}} During another attack from the Cotati, James lost his hammer after [[Lauri-Ell (Earth-616)|Lauri-Ell]] called back the pieces in order to defeat the alien plants.{{r|Captain Marvel Vol 10 20}}
+}}
+
+| Notes                   = * While [[Iron Man Armor Model 11|second armor]] worn by Rhodey when filling in for [[Anthony Stark (Earth-616)|Iron Man]] was referred to as "the War Machine," Rhodey went by "Iron Man" until Tony Stark resurfaced from his apparent death. He was first referred to as War Machine in the cover of {{cl|Iron Man Vol 1 291}}. He officially adopted the alias in-universe in {{cl|Avengers West Coast Vol 2 94}}.
+* Jim's parents once told Rae he had a son, but it may have been an attempt to dissuade their relationship.{{r|War Machine #12|13}}
+* Rhodes' switch of aliases from War Machine to Iron Patriot was inspired by the ''[[Iron Man 3 (film)|Iron Man 3]]'' film.
+* [[Nicholas Fury (Earth-616)|Nick Fury]]'s intel classified Jim Rhodes as Power Level 7 while wearing the [[Mandroid Armor|Mandroid X Armor]], and Power Level 8 with the [[War Machine Armor]].{{r|Secret War From the Files of Nick Fury #1}}
+| Trivia                  = * Rhodey's birthday is on September 7.{{r|Invincible Iron Man Vol 1 599}}
+* Rhodey is Baptist.{{r|War Machine Vol 2 3}}
+* Jim Rhodes was the pilot that took Red-Wolf and Father Janes' team away from Bengal's village.{{r|Daredevil Vol 1 258}}
+* Jim's blood type is AB Positive.{{r|Iron Man #216}}
+* Rhodes died by the hand of Thanos on June 8.{{r|Invincible Iron Man Vol 1 599}}
+* Among Rhodey's decorations are the Purple Heart and the Medal of Freedom.{{r|Invincible Iron Man Vol 1 599}}
+* Rhodey's favorite movies are [[w:c:expendables:The Expendables|''The Expendables'']], [[w:c:expendables:The Expendables 2|''The Expendables 2'']] and [[w:c:expendables:The Expendables 3|''The Expendables 3'']].{{r|Tony Stark: Iron Man Vol 1 4}}
+| Marvel                  = war-machine-james-rhodes
+| Wikipedia               = War Machine
+| Links                   = 
+}}
+[[ru:Джеймс Роудс (616)]]
+[[es:James Rhodes (Tierra-616)]]
+[[pt-br:James Rhodes (Terra-616)]]
+[[it:James Rhodes (Terra-616)]]
+==References==
+{{Reflist}}
+[[Category:Armor Users]]
+[[Category:Sentinels Pilots]]
+[[Category:Blood Type AB+]]
+[[Category:Power Level 7]]
+[[Category:Power Level 8]]
+[[Category:Secret Wars (1984 Event) participants]]
+[[Category:Rhodes Family]]
+[[Category:Weapons Expert]]
+[[Category:Consciousness Transferred]]
+[[Category:Military Personnel]]
+[[Category:Multilingual]]
+[[Category:Camp Hammond Staff]]
+[[Category:Secret Wars (1984 Event) casualties]]
+[[Category:Businesspeople]]
+[[Category:Shared Identities: Successors]]
+[[Category:Civil War II casualties]]
+[[Category:Vietnam War Characters]]
+[[Category:Iraq War Characters]]
+[[Category:Presidential Medal of Freedom]]
+[[Category:Phobias]]
+[[Category:Government Liaisons]]
+[[Category:Post-Traumatic Stress Disorder]]
+[[Category:Baptist Characters]]
+[[Category:Deathloks]]
+[[Category:Formerly Deceased]]
+[[Category:Adventurers]]
+[[Category:Pilots]]
+[[Category:Scarred]]
+[[Category:Cyborgs]]
+[[Category:Engineers]]
+[[Category:Shooting]]
+[[Category:Normal Strength]]
+[[Category:Fighting Ability - Experienced fighter]]
+[[Category:Boxers]]

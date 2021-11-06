@@ -1,0 +1,268 @@
+{{Marvel Database:Character Template
+| Image                   = Unstoppable Wasp Vol 1 1 Torque Variant Textless.jpg
+| Name                    = [[Nadia Van Dyne]]
+| Name2                   = <br>([[:Category:Name legally changed|legally changed]] from solely [[Nadia Van Dyne|Nadia]])
+| NameRef                 = {{r|Unstoppable Wasp Vol 1 8}}
+| CurrentAlias            = [[Wasp]]
+| Aliases                 = Baby Wasp,{{r|Unstoppable Wasp Vol 1 1}} [[Nadia Pym]],{{r|All-New Wolverine Vol 1 20|21}} Wicked Wasp{{r|Champions Vol 2 26}}
+| EditorialNames          = All-New, All-Different Wasp; [[Unstoppable Wasp Vol 1|Unstoppable Wasp]]
+
+| Affiliation              = {{m|Avengers World}}, {{m|Pym Laboratories (Earth-616)|Pym Labs}} ({{m|Genius In action Research Labs (Earth-616)|G.I.R.L.}}), {{m|Champions (Earth-616)|Champions}}; formerly {{m|Black Widow Ops Program (Earth-616)|Black Widow Ops Program}}, {{m|Avengers (Earth-616)|Avengers}}, {{m|Underground (Secret Empire) (Earth-616)|Underground}}, {{m|Red Room (Secret Empire) (Earth-616)|Red Room}}
+| Relatives               = [[Angela Pym (Earth-616)|Angela Pym]] (paternal great grandmother, deceased);<br>
+[[Brad Pym (Earth-616)|Brad Pym]] (paternal grandfather);<br>
+[[Doris Pym (Earth-616)|Doris Pym]] (paternal grandmother);<br>
+[[Janos Trovaya (Earth-616)|Janos Trovaya]] (maternal grandfather, deceased);<br>
+[[Henry Pym (Earth-616)|Hank Pym]] (father, deceased);<br>
+[[Maria Trovaya (Earth-616)|Maria Pym]] (mother, deceased);<br>
+[[Janet Van Dyne (Earth-616)|Janet Van Dyne]] (step-mother);<br>
+[[William Grant Nelson (Earth-616)|William Grant Nelson]] (genetic half-brother);<br>
+[[Ultron (Earth-616)|Ultron]] & [[Dimitrios (Earth-616)|Dimitrios]] ("brothers");<br>
+[[Vision (Earth-616)|Vision]] ("nephew");<br>
+[[Victor Mancha (Earth-616)|Victor Mancha]] ("nephew");<br>
+[[Alkhema (Earth-616)|Alkhema]] & [[Jocasta Pym (Earth-616)|Jocasta]] ("nieces");<br>
+[[Vivian (Synthezoid) (Earth-616)|Vivian]] ("great-niece");<br>
+[[Vin (Earth-616)|Vin]] ("great-nephew", deceased);<br>
+[[Vivian 2.0 (Synthezoid) (Earth-616)|Vivian 2.0]] ("great-niece," deceased);<br>
+[[William Kaplan (Earth-616)|William Kaplan]] ("great-nephew" via previous incarnation);<br>
+[[Thomas Shepherd (Earth-616)|Thomas Shepard]] ("great-nephew" via previous incarnation)
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Female
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         = Insect-like wings coming out of her back
+
+| Origin                  = [[Homo sapiens|Human]] who was born into captivity and followed in her [[Henry Pym (Earth-616)|father]]'s footsteps by mastering the [[Pym Particles|Pym Particle]], ultimately escaping to become the new [[Wasp]].
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Public
+| Citizenship             = Russian
+| Occupation              = Adventurer and scientist; former spy
+| Education               = [[Red Room Academy (Moscow)|Red Room Academy]]
+| BaseOfOperations        = [[Hank Pym's Laboratory|Pym Residence]], [[Cresskill]], [[New Jersey (State)|New Jersey]]; [[Pym Laboratories (Location)|Pym Labs]], [[Cresskill]], [[New Jersey (State)|New Jersey]]; [[Champions Mobile Bunker]]; formerly [[Mount|The Mount]], [[Nevada (State)|Nevada]]; [[Red Room Academy (Moscow)|Red Room Academy]], [[Moscow]], [[Russia]]
+
+| Creators                = Mark Waid; Alan Davis
+| First                   = Free Comic Book Day Vol 2016 Civil War II
+
+| Quotation               = All those years in a cage. This is what it's like to '''fly.''' To be '''free.'''
+| Speaker                 = [[Nadia Van Dyne (Earth-616)|Wasp]]
+| QuoteSource             = Free Comic Book Day Vol 2016 Civil War II
+
+| History                 = 
+===Early Life===
+'''Nadia''' was the daughter of [[Henry Pym (Earth-616)|Hank Pym]] and his first wife, [[Maria Trovaya (Earth-616)|Maria Trovaya]], who was kidnapped during their honeymoon and subsequently killed by foreign agents, Nadia was raised in the [[Red Room Academy (Moscow)|Red Room]] in [[Moscow]], [[Russia]], where she was being trained to become a Red Room agent herself.
+
+[[File:Black Widow Ops Program (Earth-616) from All-New, All-Different Avengers Vol 1 9 001.jpg|left|thumb]]
+Her earliest memory is of a [[James Buchanan Barnes (Earth-616)|man with a star on his arm]]. When Nadia started to read, she showed great aptitude for science, so her handlers, believing her skills to be genetic, informed her of her famous heritage and began encouraging her to emphasize her studies more. Learning of her parentage only increased Nadia's drive to escape the Red Room, and she was eventually able to obtain a black market [[Pym Particles|Pym Particle]] sample.{{r|All-New, All-Different Avengers Vol 1 9}} Nadia had a young friend named [[Ying Liu (Earth-616)|Ying]], who helped her in her study of Pym Particles and learned a way to use them; however, she disappeared suddenly and Nadia was told she was reassigned to another project. Nadia attempted to impress her superiors into bringing her back, but they never did.{{r|All-New, All-Different Avengers Vol 1 14}} After studying the Pym Particles enough to master their size-changing properties, Nadia used them escape the Red Room.{{r|All-New, All-Different Avengers Vol 1 9}}
+
+===Becoming the All-New, All-Different Wasp===
+After her escape, Nadia immediately made her way to the front door of [[Hank Pym's Laboratory|Hank Pym's home]] in [[Cresskill]], [[New Jersey (State)|New Jersey]], where she discovered that Hank had seemingly sacrificed his life to stop [[Ultron (Earth-616)|Ultron]] shortly beforehand. Crushed that her father passed before she could even meet him, Nadia decided to shrink down and break into his lab in order to learn as much about him as she could. Using old [[Ant-Man's Suit|Ant-Man suit pieces]] and materials laying around, she crafted [[Wasp's Suit|a new costume]] and decided to become the new [[Wasp]], vowing to earn the admiration of her father's allies.{{r|Free Comic Book Day Vol 2016 Civil War II}}
+
+Nadia decided that she wanted to meet her stepmother, [[Janet Van Dyne (Earth-616)|Janet Van Dyne]], the original Wasp, and the team that her family helped found, the [[Avengers (Earth-616)|Avengers]], and thus went to introduce herself to the current iteration of the team. Arriving at the [[Stark Industries New Jersey Airfield|Avengers Hangar]], Nadia was at first mistaken to be the one responsible for firing energy blasts at their headquarters. After Nadia introduced herself to the team, the [[Vision (Earth-616)|Vision]], still suffering from the after-effects of [[Nathaniel Richards (Mister Gryphon) (Earth-6311)|Mr. Gryphon]]'s control, started to pop in and out of the [[Glossary:Timestream|timestream]]. The energy blasts that were attacking the Avengers earlier were time-displaced from the moment he tried to hit Nadia when she arrived at their headquarters.
+
+As the Avengers tried to figure out a way to help their friend, the Vision's solar powers started to go superthermal, transforming him into a living bomb that would destroy the entire hangar and everyone inside it. Ignoring [[Anthony Stark (Earth-616)|Tony Stark]]'s order to retreat, Nadia flew inside the Vision to plant explosives, which she detonated, causing his temperatures to normalize and seemingly saving his life. Having earned their trust, Nadia was taken by [[Edwin Jarvis (Earth-616)|Edwin Jarvis]] on a road trip in which he would introduce her to her extended family tree.{{r|All-New, All-Different Avengers Vol 1 9}}
+
+Jarvis and Nadia next went to [[Long Island]] and meet Janet in [[Southampton (New York)|Southampton]], though they had to rush due to the threat of a [[Microverse]] bomb. Together, Nadia and Janet defused the weapon, saving [[Barack Obama II (Earth-616)|the President of the United States]]. Realizing how out of touch Nadia was with the real world, Janet took her out for a day out before admitting that, while she'd fight to the death to keep the name, she was fine with sharing it as long as Nadia used it for good.{{r|All-New, All-Different Avengers Vol 1 12}}
+
+Returning to [[Van Dyne Estate|Janet's home]], the two Wasps had to deal with [[World Headquarters for International Scientific/Philosophical Experimentation and Research (Earth-616)|W.H.I.S.P.E.R.]] agents disguised as members of the Russian Consulate; however, news of [[Bruce Banner (Earth-616)|Bruce Banner]]'s death at the hands of [[Clinton Barton (Earth-616)|Hawkeye]] was soon revealed, devastating Nadia. She decided to try to stop the impending [[Civil War II|Civil War]] by using her Microverse-based lab to construct a device so that [[Ulysses Cain (Earth-616)|Ulysses]] could focus his powers; however, the device went critical and Janet, having raced in to stop her, was forced to pull her out. Devastated further, Janet had to tell Nadia that not everything can be fixed by applying science and this was something that had to be fixed through personal means, despite the fact that it felt like she was losing her friends. While Nadia slept, Janet admitted to Jarvis that her innocence and drive was a refreshing thing and that she was proud to have her as a Wasp.{{r|All-New, All-Different Avengers Vol 1 14}}
+<!--
+===[[Civil War II]]===
+...{{r|Civil War II Vol 1 3}}
+
+...{{r|Civil War II: The Fallen Vol 1 1}}
+
+...{{r|Civil War II: The Oath Vol 1 1}}
+
+===[[Immune]]===
+...{{r|All-New Wolverine Vol 1 20}}
+
+...{{r|All-New Wolverine Vol 1 21}} -->
+===Establishing G.I.R.L.===
+[[File:Unstoppable Wasp Vol 1 6 Textless.jpg|left|240px|thumb]]
+In the aftermath of the second superhuman Civil War, Nadia joined the Avengers and [[Kamala Khan (Earth-616)|Ms. Marvel]] accompanied her to the United States Citizenship and Immigration Services in an effort to help sort her naturalization issues. After the meeting with [[Deborah Forrester (Earth-616)|Deborah Forrester]], the pair assisted [[Barbara Morse (Earth-616)|Mockingbird]] in taking down [[Monica Rappaccini (Earth-616)|Monica Rappaccini]], and although the Scientist Supreme escaped, Nadia gleefully spent time with Bobbi, whose work on [[Project Gladiator (Earth-616)|Project: Gladiator]] and adventures in the [[Savage Land]] had inspired her as a child. After mentioning that [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]]'s list of most intelligent [[Homo sapiens|humans]] listed women no higher than 27th, Nadia was prompted to start [[Genius In action Research Labs (Earth-616)|G.I.R.L.]], an enterprise to assess the [[Earth]]'s greatest female scientific minds and convince S.H.I.E.L.D. that their list was outdated and in need of revision.{{r|Unstoppable Wasp Vol 1 1}}
+
+Nadia established her residence at Hank's former home, researching young women geniuses in the tri-state area to recruit into her G.I.R.L. initiative, with Jarvis helping her keep her schedule of affairs in order. Nadia traveled to Washington Heights and recruited sisters [[Alexis Miranda (Earth-616)|Alexis]] and [[Taina Miranda (Earth-616)|Taina]], but could not recruit [[Lunella Lafayette (Earth-616)|Moon Girl]] even after a superhero team-up, the aftermath of which led Nadia to find her Red Room friend, Ying; who vanished after explaining her orders from [[Mother (Red Room) (Earth-616)|Mother]] to bring Nadia back into the Red Room. After Nadia got a new phone and first met [[Amber Silverstein (Earth-616)|Amber]], she and Jarvis travelled for Brownsville and recruited [[Priscilla LaShayla Smith (Earth-616)|Shay Smith]], but found trouble convincing [[Priya Aggarwal (Earth-616)|Priya Aggarwal]] to join; as Priya wanted to be "normal" as her brother's exceptionalism led to his loneliness.{{r|{{cl|Unstoppable Wasp Vol 1 2}}-[[Unstoppable Wasp Vol 1 3|3]]}}
+
+When the shop Priya worked at was being robbed by [[Marian Pouncy (Earth-616)|Poundcakes]], Nadia talked her down until Jarvis encountered [[Hellen Feliciano (Earth-616)|Letha]] outside and fighting broke out. When Nadia lost her composure and utilized her assassin training to subdue both criminals, Priya agreed to join in gratitude. The next day, after an awkward first encounter, Nadia's [[Matthew Murdock (Earth-616)|lawyer]] stated that there was no DNA of Hank left to verify she is his daughter, complicating her naturalization case. So he petitions Asylum for her that she is protected while Nadia detail events of the Red Room until her lineage is proven.{{r|Unstoppable Wasp Vol 1 4}}
+<!--
+
+...{{r|Unstoppable Wasp Vol 1 5}}
+
+...{{r|Unstoppable Wasp Vol 1 6}}
+
+...{{r|Unstoppable Wasp Vol 1 7}}
+
+...{{r|Unstoppable Wasp Vol 1 8}} -->
+
+<!--
+
+...{{r|Unstoppable Wasp Vol 2 1}}
+
+...{{r|Unstoppable Wasp Vol 2 2}}
+
+...{{r|Unstoppable Wasp Vol 2 3}}
+
+...{{r|Unstoppable Wasp Vol 2 4}}
+
+...{{r|Unstoppable Wasp Vol 2 5}}
+
+...{{r|Unstoppable Wasp Vol 2 6}}
+
+...{{r|Unstoppable Wasp Vol 2 7}}
+
+...{{r|Unstoppable Wasp Vol 2 8}}
+
+...{{r|Unstoppable Wasp Vol 2 9}}
+
+...{{r|Unstoppable Wasp Vol 2 10}}
+ -->
+===[[Kang War]]===
+After [[Samuel Alexander (Earth-616)|Sam Alexander]], [[Miles Morales (Earth-1610)|Miles Morales]], and Kamala Khan left the Avengers to found the [[Champions (Earth-616)|Champions]],{{r|Champions Vol 2 1}} Nadia stayed with the team, who also recruited [[Hercules Panhellenios (Earth-616)|Hercules]] to bolster their ranks. They were then invited by [[Peter Parker (Earth-616)|Peter Parker]] to [[Parker Industries (Earth-616)|Parker Industries]]' main headquarters, the [[Baxter Building]], where Peter offered them a new base of operations outside of the old hangar; however, Nadia finally realized that Peter was connected to Spider-Man and grew immediately distrustful of the businessman due to her distrust of Spider-Man.{{r|Avengers Vol 7 1}}
+
+After being rescued from having been erased from time by Hercules, Nadia took [[Nathaniel Richards (Infant) (Earth-6311)|the infant Kang]] and used [[Kang Armor|his adult self's time-travelling tech]] to escape into the timestream to return the baby to [[Earth-6311|its proper place in history]].{{r|Avengers Vol 7 2}} During her chase, she was plucked out by the [[Priests of Pama (Earth-17383)|Priests of Pama]] from [[Earth-17383|the 26th Century]], who had evolved into paradox eaters after [[Nathaniel Richards (Kang) (Earth-6311)|Kang]]'s attack on [[Priests of Pama (Earth-616)|the group]] searching for his younger self in [[Earth-616|the past]]. They attempted to convince Nadia to sacrifice the baby to them so that all of his future crimes would be undone; however, Nadia refused and instead plunged herself back into the timestream to rescue the Avengers murdered by Kang and drawing the attacking time-travelers to the Priests. The Avengers were then able to successfully return the child to his time and was thanked by the Avengers for her work, though the Vision told her a shocking secret.{{r|Avengers Vol 7 3}}<!--
+
+...{{r|Avengers Vol 7 4}}
+
+...{{r|Avengers Vol 7 5}}
+
+...{{r|Avengers Vol 7 6}}
+
+===Sir Isaac Newton and the Word of God===
+...{{r|Doctor Strange and the Sorcerers Supreme Vol 1 6}}
+
+...{{r|Doctor Strange and the Sorcerers Supreme Vol 1 7}}
+
+...{{r|Doctor Strange and the Sorcerers Supreme Vol 1 8}}
+
+===[[Monsters Unleashed]]===
+...{{r|Monsters Unleashed Vol 2 1}}
+
+...{{r|Avengers Vol 7 1.MU}}
+
+===Road to War===
+...{{r|Guardians of the Galaxy: Mother Entropy Vol 1 5}}
+
+...{{r|Avengers Vol 7 7}}
+
+...{{r|Avengers Vol 7 8}}
+
+...{{r|Captain America: Sam Wilson Vol 1 19}}
+
+===[[Secret Empire (Event)|Secret Empire]]===
+...{{r|Secret Empire Vol 1 0}}
+
+...{{r|U.S.Avengers Vol 1 7}}
+
+...{{r|Free Comic Book Day Vol 2017 Secret Empire}}
+
+...{{r|Secret Empire: Brave New World Vol 1 1}}
+
+...{{r|Secret Empire Vol 1 1}}
+
+...{{r|Champions Vol 2 11}}
+
+...{{r|Secret Empire Vol 1 2}}
+
+...{{r|Secret Empire Vol 1 3}}
+
+...{{r|Secret Empire: Uprising Vol 1 1}}
+
+...{{r|Secret Empire Vol 1 4}}
+
+...{{r|Secret Empire Vol 1 5}}
+
+...{{r|Secret Empire Vol 1 6}}
+
+...{{r|Secret Empire Vol 1 7}}
+
+...{{r|Secret Empire Vol 1 9}}
+
+...{{r|Secret Empire Vol 1 10}}
+
+...{{r|Avengers Vol 7 11}}
+
+===[[Worlds Collide]]===
+...{{r|Avengers Vol 1 672}}
+
+...{{r|Champions Vol 2 13}}
+
+...{{r|Avengers Vol 1 673}}
+
+...{{r|Champions Vol 2 14}}
+
+...{{r|Avengers Vol 1 674}}
+
+...{{r|Champions Vol 2 15}}
+
+===[[Marvel Legacy]]===
+...{{r|Marvel Legacy Vol 1 1}}
+
+...{{r|Avengers Vol 1 675}}
+
+===Encounter with A.I.M.===
+With the USAvengers defunct after HYDRA's short-lived coup, classic A.I.M. returned under Monica Rappaccini to reclaim her role as Scientist Supreme. Nadia had to postpone her driving practice with Jarvis and went to intercept "Seeker", assaulting a bank in the Financial District. With Janet preoccupied gaining sponsorship for G.I.R.L., Nadia had drone assistance by Tai, Ying, Priya, and Shay to dispatch A.I.M. agents. Learning Seeker was [[Amber Silverstein]], who Nadia failed to recruit, Amber admitted to joining A.I.M. due to a forewarning by A.I.M. about Hank Pym possibly returning, and stole was an item meant as a countermeasure.{{r|Unstoppable Wasp Vol 2 1}} -->
+
+| Personality             = 
+
+| Powers                  = [[File:Nadia Pym (Earth-616) from Unstoppable Wasp Vol 1 4 001.jpg|right|thumb|200px|Nadia altering her helmet size.]]
+'''Size Manipulation:''' Because of the [[Pym Particles]] in her bloodstream, Nadia could reduce herself in size, usually down to a few inches, at which size she is not easy to notice,{{r|Free Comic Book Day Vol 2016 Civil War II}} though she has no issue shrinking further.{{r|All-New, All-Different Avengers Vol 1 14}} In addition to being able to shrink, Nadia can grow in size as well. Though she seldom enlarges herself, she has exhibited unique combat skills based upon this power, such as throwing her helmet and increasing its mass prior to impact.{{r|Unstoppable Wasp Vol 1 4}}
+*'''Entering Other Planes of Existence:''' Nadia can use the Pym Particles in her bloodstream to shrink to sub-microscopic stature. When 99.99 + % of her mass is extra-dimensionally shunted, she is sent into a "subatomic universe," one of countless alternate universes accessible to [[Earth]] only by the mass-shunting process, known as the [[Microverse]].{{r|All-New, All-Different Avengers Vol 1 14}}
+
+'''[[Glossary:Bioelectricity|Wasp's Sting]]:''' Nadia can generate powerful bio-electric blasts from her hands.{{r|All-New, All-Different Avengers Vol 1 9}}
+
+| Abilities               =
+* '''[[Genius Intelligence]]:''' Nadia has a great aptitude for science. Her handlers at the Red Room, believing her skills to be genetic, informed her of her famous heritage and began encouraging her to emphasize more on her studies.{{r|All-New, All-Different Avengers Vol 1 9}}
+* '''[[Martial Arts]]:''' Nadia, like all the students of the Red Room Academy, is trained in multiple forms of hand-to-hand combat,{{r|All-New, All-Different Avengers Vol 1 9}} including Krav Maga.{{r|Unstoppable Wasp Vol 1 4}}
+* '''Multilingual:''' Nadia can speak fluent English, Russian, {{r|Unstoppable Wasp Vol 1 1}} Spanish, French, Italian, Japanese, and Mandarin Chinese.{{r|{{cite web|url=http://princelesscomic.tumblr.com/post/157556872716/what-languages-does-nadia-know|title=What languages does Nadia know?|work=Tumblr|first=Jeremy|last=Whitley|date=21 February 2017|accessdate=21 May 2018}}}}
+* '''Graceful Dancer:''' Nadia was taught various types of dance in the Red Room.{{r|Unstoppable Wasp Vol 1 1}}
+* '''Acrobatics:''' Nadia is an accomplished athlete, gymnast, acrobat, and aerialist capable of numerous complex maneuvers and feats.{{r|Unstoppable Wasp Vol 1 4}}
+* '''Tactician:''' Nadia is a very effective strategist and tactician, capable of devising a plan to easily overpower multiple assailants with minimal effort.{{r|Unstoppable Wasp Vol 1 4}}
+
+| Strength                = 
+| Weaknesses              = '''Mental Difficulties:''' Nadia suffers from Bipolar Disorder, signified by Manic episodes of incredible highs followed by near-or-at suicidal lows. Janet first noticed the symptoms upon spotting a set of notes, though only had Hank's situations as reference.{{r|Unstoppable Wasp Vol 2 4}} Upon the end of her manic episode, Nadia requested Janet to take her for help, which she agreed to.{{r|Unstoppable Wasp Vol 2 5|6}}
+
+| Equipment               = '''[[Wasp's Suit]]:''' Using pieces of old [[Ant-Man's Suit|Ant-Man suits]] and materials laying around [[Hank Pym's Laboratory]], Nadia crafted her own costume.{{r|Free Comic Book Day Vol 2016 Civil War II}}
+* '''[[Bio-Synthetic Wings]]:''' She installed a pair of wings on the suit's back to allow her to fly like the original Wasp,{{r|Free Comic Book Day Vol 2016 Civil War II}} though unlike their predecessor's, they can also function at her normal height.{{r|Unstoppable Wasp Vol 1 1}}
+
+{{Navigation 
+| title = Former Equipment
+| body  = '''[[Kang Armor]]:''' Nadia utilized armor taken from a fallen paradoxical incarnation of [[Nathaniel Richards (Kang) (Earth-6311)|Kang]] to travel through time, ultimately saving the [[Avengers (Earth-616)|Avengers]] from the [[Nathaniel Richards (Scarlet Centurion) (Earth-6311)|Scarlet Centurion]]'s assassination of their infant selves and returning the [[Nathaniel Richards (Infant) (Earth-6311)|infant Kang]] to [[Earth-6311|3000 AD]].{{r|Avengers Vol 7 2|3}}
+}}
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * At some point, Nadia received combat training from the [[James Buchanan Barnes (Earth-616)|Winter Soldier]] while a student at the Red Room.{{r|All-New, All-Different Avengers Vol 1 9}}
+* Nadia exhibited a massive distrust towards [[Peter Parker (Earth-616)|Spider-Man]], something [[Janet Van Dyne (Earth-616)|Janet Van Dyne]] had in the early days as well. Peter had sheepishly suggested that it was because spiders and wasps were just natural enemies;{{r|Avengers Vol 7 1}} however, Nadia seemed to prefer [[Miles Morales (Earth-1610)|Miles Morales]] among the two, as she stated she liked him "better anyway." She also called him "Spider-Man Two," much to his obvious dismay.{{r|Civil War II: The Oath Vol 1 1}} She eventually learned to trust Spider-Man, though ironically still doesn't trust his alter ego, Peter Parker.{{r|Avengers Vol 7 11}}
+
+| Trivia                  = * In Russian, the name Nadia translates to "[[Hope Pym|Hope]],"{{r|Unstoppable Wasp Vol 1 1}} the name of Hank Pym and Janet Van Dyne's daughter in several alternate realities.
+* Nadia is a member of the [[The Forums|Forums]] social media network.{{r|Secret Warriors Vol 2 8}}
+* Nadia has been confirmed by writers [[Jeremy Whitley]] and [[Sam Maggs]] to be Asexual on Twitter.<ref>{{cite web|url=https://twitter.com/booyouwiccan/status/1254534265003544578|title=Nadia finally being acknowledged as ace!! Thank you, @SamMaggs!! #UWU|work=Twitter|date=26 April 2020|accessdate=19 May 2021}}</ref><ref>{{cite web|url=https://twitter.com/jrome58/status/1269361206239903750|title=Nope! To be completely transparent, I had half baked early ideas on about Nadia and Ying a thing, but when it was made clear to me that that was not an option, I made the decision to write Nadia as ace. All decisions that were made before issue 1 was finished.|last=Whitley|first=Jeremy|work=Twitter|date=26 June 2020|accessdate=19 May 2021}}</ref><ref>{{cite web|url=https://twitter.com/jrome58/status/1387398108728995843|title=Was thinking about Nadia being an ace character and how I think it's important because she's a character who's shown to be caring and passionate, not playing into the stereotype that aces are robotic and don't feel. Then I thought about how surprisingly horny Marvel robots are.|last=Whitley|first=Jeremy|work=Twitter|date=28 April 2021|accessdate=19 May 2021}}</ref>
+
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Pym Family]]
+[[Category:Van Dyne Family]]
+[[Category:Size Alteration]]
+[[Category:Electrokinesis]]
+[[Category:Genius Intelligence]]
+[[Category:Martial Arts]]
+[[Category:Multilingual]]
+[[Category:Acrobats]]
+[[Category:Gymnasts]]
+[[Category:Athletic Skills]]
+[[Category:Strategists]]
+[[Category:Flight]]
+[[Category:Time Travelers]]
+[[Category:Interdimensional Travelers]]
+[[Category:Social Network Users]]
+[[Category:The Forums Users]]
+[[Category:Bipolar Disorder]]
+[[Category:Entomopathy]]
+[[Category:Winged Characters]]
+[[Category:Asexual Characters]]

@@ -1,0 +1,66 @@
+{{Marvel Database:Character Template
+| Image                   = Simon Maddicks (Earth-616) from All-New Official Handbook of the Marvel Universe Update Vol 1 3 0001.jpg
+| Name                    = Simon Maddicks
+| CurrentAlias            = [[Killer Shrike]]
+| Aliases                 = Harold Simmons{{r|Peter Parker, The Spectacular Spider-Man Vol 1 57}}
+
+| Affiliation             = Formerly {{m|Roxxon Energy Corporation (Earth-616)|Roxxon Oil Company}}, {{m|Masters of Evil}}, {{m|Air Force}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 6'5"
+| Weight                  = 250 lbs (114 kg)
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] [[Mutate]] and [[Cyborgs|Cyborg]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Williamsburg (Virginia)|Williamsburg]], [[Virginia (State)|Virginia]] 
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = American
+| Occupation              = Mercenary
+| Education               = 
+| BaseOfOperations        = Mobile
+
+| Creators                = John Warner; John Buscema
+| First                   = Rampaging Hulk #1
+| Death                   = 
+
+| History                 = Simon Maddicks, a military man turned mercenary was selected by the [[Roxxon Oil]] Company to be a special agent in covert operations. Sent to the Mutagenics Laboratory of Roxxon's subsidiary [[Brand Corporation (Earth-616)|Brand Corporation]], Maddicks underwent extensive conditioning to increase his strength and endurance, and surgery to implant a miniature anti-gravity generator in the base of his spine. Given a special battlesuit with electrical offensive weaponry, Maddicks was assigned the code name Killer Shrike. For his first mission, he was sent to infiltrate the subversive organization called the [[Conspiracy (Earth-616)|Conspiracy]], which Roxxon learned about through major purchases of technology from the Brand Corporation.{{Citation}}
+
+For his initiation, the Conspiracy sent Killer Shrike to capture the monster called [[Goram (Earth-616)|Goram]]. Instead, he found himself engaged in battle with the adventurer [[Ulysses Bloodstone (Earth-616)|Ulysses Bloodstone]] and was defeated. Injured by the short-circuiting of his electrical weaponry, the Shrike was taken to a [[New York City]] hospital by Bloodstone's agents. There he lay comatose for several weeks. Upon awakening he had temporary amnesia, but was soon contacted by one of the Brand scientists, Dr. Stephen Weems, who operated upon him. Weems, calling himself the [[Stephen Weems (Earth-616)|Modular Man]], had been the victim of a microwave experiment that backfired, and sought the Shrike's help to acquire more power. In return, Weems promised to disclose to the Shrike knowledge of his past. In battle with [[Spider-Man (Peter Parker)|Spider-Man]] and the [[Henry McCoy (Earth-616)|Beast]], Weems was killed before he could uphold his end of the bargain.{{r|Marvel Team-Up Vol 1 90}} The Shrike escaped and was soon contacted by agents of the Brand Corporation. They helped restore his memory, and assigned him to undercover work as bodyguard to Brand president James Melvin. With Brand's public dissolution, Killer Shrike became a free agent.{{Citation}}
+
+Shrike tried to get upgraded by the [[Phineas Mason (Earth-616)|Tinkerer]], but when Shrike threatened him with his upgraded weapons to avoid paying, the Tinkerer helped Spider-Man to catch the Shrike thanks to a special failsafe Mason includes in his products for such situations, which left Shrike immobilized.{{r|Amazing Spider-Man Vol 1 310}} He briefly worked for Air Command as a member of their Air Force mercenary group.{{r|New Warriors #35}} Shrike was later caught by the [[Avengers (Earth-616)|Avengers]] and detained by [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]]. After leading them to a location, Shrike was electrocuted but survived. Discoveries of passports and other schematics in the building led to [[Nicholas Fury (Earth-616)|Nick Fury]] conducting a 'secret war' in [[Latveria]].{{r|Secret War #1|2}}
+
+Sometime later, he joined the [[Shadow Council (Earth-616)|Shadow Council]]'s [[Masters of Evil (Earth-616)|Masters of Evil]].{{r|Secret Avengers #29}}
+
+| Powers                  = * ''Enhanced reflexes''
+* ''Enhanced agility''
+* ''Enhanced endurance''
+* ''Enhanced resistance''
+
+'''Flight:''' Simon can fly by means of a surgically-implanted anti-gravity generator located at the base of his spine. This generator, activated by neural link, emits a steady stream of [[Glossary:A#Anti-Graviton|anti-gravitons]] (theoretical particles that are of the opposite charge to gravitons), and enables him to fly. Killer Shrike can attain speeds up to about 120 miles per hour and can support up to 550 pounds (including his own weight) while in flight, although this diminishes his speed and endurance.
+
+| Abilities               = Killer Shrike has had extensive training in hand-to-hand combat and a number of Oriental martial arts such as kung fu. He is also proficient at the use of hand weapons such as knives and guns.
+| Strength                = Killer Shrike possesses superhuman strength enabling him to lift (press) approximately [[Strength_Scale#4_Ton|4 ton]]. 
+| Weaknesses              = 
+
+| Equipment               = Killer Shrike wears a head-to-toe body suit made of insulated steel alloy mesh capable of protecting him from flight turbulence and small caliber firearms. <br>
+| Transportation          = 
+| Weapons                 = His major weapons system is the twin power-blasters worn on each wrist. Each bracelet has two curved titanium talons, capable of slashing flesh, wood, cinder block, and light metals. The bracelets can discharge a high-frequency lightning-like bolt of electricity with a maximum charge of 50,000 volts individually, or 120,000 volts combined. His maximum range of normal bolts is about 35 feet, or about 50 feet for double-handed bolts.
+
+| Notes                   = Killer Shrike was accidentally drawn in place of his Air Command comrade [[Oriole (Earth-616)|Oriole]] in {{cl|New Warriors #54}}. 
+| Trivia                  = 
+| Links                   = * [http://www.marveldirectory.com/xoops/modules/wordbook/entry.php?entryID=376 Marvel Directory]
+
+}}
+[[Category:Flight]]
+[[Category:Armor Users]]
+[[Category:Enhanced by Roxxon]]
+[[Category:Martial Arts]]
+[[Category:Shooting]]

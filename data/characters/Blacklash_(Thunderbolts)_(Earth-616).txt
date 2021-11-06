@@ -1,0 +1,52 @@
+{{Marvel Database:Character Template
+| Image                   = Blacklash (Thunderbolts) (Earth-616) from Thunderbolts Vol 1 104 001.jpg 
+| Name                    = 
+| CurrentAlias            = Blacklash
+| Aliases                 = 
+
+| Affiliation             = {{m|Thunderbolts (Earth-616)}} Army's Epsilon Squad
+| Relatives               = [[Whiplash (Thunderbolts) (Earth-616)|Whiplash]] (wife)
+| MaritalStatus           = Married
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]], technology user
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Assassin
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Fabian Nicieza; Tom Grummett
+| First                   = Thunderbolts Vol 1 104
+| Last                    = 
+| Death                   = 
+
+| History                 = When Blacklash and his partner [[Whiplash (Thunderbolts) (Earth-616)|Whiplash]] first appeared, their conversation with [[Andreas von Strucker (Earth-616)|Swordsman]] showed that they have known him for some time.{{r|Thunderbolts Vol 1 104}}
+
+| Powers                  = None
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = Wields an electrified whip
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+
+}}

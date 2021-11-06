@@ -1,0 +1,55 @@
+{{Marvel Database:Character Template
+| Image                   = Gustav Hauptmann (Earth-616) from Fantastic Four Vol 1 87 001.png
+| Name                    = Gustav Hauptmann 
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = Formerly {{m|National Socialist German Workers Party (Earth-616)|Nazis}}
+| Relatives               = [[Gert Hauptmann (Earth-616)|Gert Hauptmann]] (brother)
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = 
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = 
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = 
+
+| Creators                = Stan Lee; Jack Kirby
+| First                   = Fantastic Four #85
+| Death                   = Fantastic Four #87
+
+| History                 =  Scientist Gustav Hauptmann originally worked for [[Adolf Hitler (Earth-616)|Adolf Hitler]] and later on the [[Johann Shmidt (Earth-616)|Red Skull]]. {{r|Fantastic Four #87}} Surviving until the modern age, Gustav was later captured by [[Latveria|Latverian]] monarch [[Victor von Doom (Earth-616)|Doctor Doom]] to use his inventive genius. He actually loved working for Doom, gleefully capturing anyone whom he felt threatened his new master. {{r|Fantastic Four #85}}
+
+Early on in his career working with Doctor Doom, Gustav experimented in [[Zorba Fortunov (Earth-616)|Zorba Fortunov]], prince of Latveria's late king [[Vladimir Fortunov (Earth-616)|King Vladimir]]. These experiments cost Zorba his right eye, which was replaced with a cumbersome cybernetic device. {{R|Fantastic Four #198}}
+
+Gustav was then involved in one of Doom's schemes against his rivals the [[Fantastic Four (Earth-616)|Fantastic Four]], unleashing his army of [[Invincible Robots|Killer Robots]] upon his foes. {{R|Fantastic Four #85}} However, the Fantastic Four proved capable of destroying these robots. {{R|Fantastic Four #86}} When the group entered the castle, Doom sent Gustav to face off against the male members of the team. But when Gustav attempted to roast [[Reed Richards (Earth-616)|Mister Fantastic]] with a flamethrower, Doom used a sonic device to kill Hauptmann. Doom had killed his loyal assistant due to the fact that his weapon could have destroyed some priceless works of art. Doom later allowed the Fantastic Four to go free shortly after killing Gustav. {{r|Fantastic Four #87}} Gustav was survived by his brother [[Gert Hauptmann (Earth-616)|Gert Hauptmann]], who succeeded him as Doctor Doom's lead scientist. {{R|Fantastic Four #197}} However, he too died at the hands of Doctor Doom. {{r|Fantastic Four #258}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = How Hauptmann managed to maintain a relative vitality in the modern age is as yet unexplained. However, given the amount of Nazi scientists who were either able to to cheat the aging process and exist in the modern age through various means (biological mutation, time travel, suspended animation, etc.) it seems likely that Hauptmann used one of these techniques to prologue his life into a [[Glossar:Modern Age|modern age]].  
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Inventors]]

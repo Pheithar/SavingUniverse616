@@ -1,0 +1,56 @@
+{{Marvel Database:Character Template
+| Image                   = Giant Amoeba (Earth-616)- Defenders Vol 1 63 001.jpg
+| Name                    = 
+| CurrentAlias            = Giant Amoeba
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = 
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = None
+| UnusualFeatures         = 
+
+| Origin                  = Mutated Amoeba
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Khystym]], [[Siberia]], [[Union of Soviet Socialist Republics|Soviet Union]]
+| PlaceOfDeath            = 
+
+| Identity                = Public
+| Citizenship             = 
+| Occupation              = 
+| Education               = 
+| BaseOfOperations        = [[Khystym]], [[Siberia]], [[Union of Soviet Socialist Republics|Soviet Union]]
+
+| Creators                = David Kraft; Sal Buscema
+| First                   = Defenders Vol 1 63
+| Death                   = Defenders Vol 1 65
+
+| History                 = The area of [[Khystym]] was irradiated by a devastating nuclear explosion.  Kyshtym used to be the name of a town. During the [[Cold War (Event)|Cold War]], the government of the [[Union of Soviet Socialist Republics|Soviet Union]] contacted scientific experiments in the area. [[Sergei Krylov (Earth-616)|Sergei Krylov]] was a young geneticist who was employed there. He contacted experiments in genetic engineering, but was also placed in the forefront of nuclear research. In 1957, Krylov was responsible for a fatal mistake with radioactive waste disposal. The fatal error destroyed the town of Kyshtym. {{r|Defenders Vol 1 63}}
+
+The Soviet Union created the Forbidden Zone in part to hide another result of Krylov's experiments. He had accidentally created a Giant Amoeba which fed on atomic energy. Two decades later, Sergei Krylov returned to the area as the Presence. He attempted to destroy the creature, but was defeated and swallowed by the amoeba. {{r|Defenders Vol 1 63}} [[Tania Belinskaya (Earth-616)|Red Guardian]] was send to stop the menace of the giant monster. She joined forces with the Presence, and together they destroyed the Amoeba. {{r|Defenders Vol 1 65}}
+
+| Powers                  = 
+*The Giant Amoeba fed on radiation, and could actually swallow and absorb radioactive beings such as the [[Sergei Krylov (Earth-616)|Presence]] and [[Tania Belinskaya (Earth-616)|Red Guardian]]. 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+*The Amoeba had the primitive intelligence of an animal. It could neither speak, nor communicate. 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Giant Monsters]]
+[[Category:Amoebas]]

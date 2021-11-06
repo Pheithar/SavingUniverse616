@@ -1,0 +1,46 @@
+{{Marvel Database:Character Template
+| Image                   = Koyami Sazaki (Counter-Earth) (Earth-616) from Thunderbolts Vol 1 72 001.jpg
+| Name                    = Koyami Sazaki
+| CurrentAlias            = Anomaly
+| Aliases                 = 
+
+| Affiliation             = 
+| Relatives               = Unnamed parents
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = White
+| Hair                    = None
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]] [[Mutates|Mutate]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Tokyo]]
+
+| Identity                = Public
+| Citizenship             = Japanese 
+| Occupation              = Radioactivity Scientist
+| Education               = Graduate Physics Student
+| BaseOfOperations        = [[Tokyo]]
+
+| Creators                = Fabian Nicieza; Patrick Zircher
+| First                   = Thunderbolts #64
+
+| History                 = Koyami Sazaki was a 23 year old graduate physics student on Counter-Earth who was investigating a radiological anomaly before it destroyed that earth's Tokyo. Koyami was transformed into Anomaly and was unhinged by the loss of his parents. [[Helmut Zemo (Earth-616)|Helmut Zemo]] offered Anomaly the chance to save Counter-Earth at the expense of the original Earth. Eventually Helmut saw the error of his ways, and Anomaly was defeated by the [[Thunderbolts (Earth-616)|Thunderbolts]] and [[Young Allies (Heroes Reborn) (Earth-616)|Young Allies]] and sucked into the anomaly that was eating away at both Earths. Helmut speculated that Anomaly could reconstruct himself and would be back.
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}

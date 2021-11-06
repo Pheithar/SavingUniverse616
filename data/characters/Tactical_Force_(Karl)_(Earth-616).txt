@@ -1,0 +1,50 @@
+{{Marvel Database:Character Template
+| Image                   = Tactical Force (Karl) from Amazing Spider-Man Vol 1 520 0001.jpg
+| Name                    = Karl
+| Name2                   = (surname unknown)
+| CurrentAlias            = [[Tactical Force]]
+| Aliases                 = 
+
+| Affiliation             = {{m|Hydra (Earth-616)|Hydra}} {{m|Hydra Four (Earth-616)|Four}}
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+
+| Identity                = Secret
+| Citizenship             = German
+| Occupation              = Hydra Agent[[Category:Terrorists]]
+| Education               = 
+| BaseOfOperations        = Mobile
+
+| Creators                = J. Michael Straczynski; Mike Deodato Jr.
+| First                   = Amazing Spider-Man Vol 1 519
+
+| History                 = [[Hydra (Earth-616)|Hydra]]'s version of an [[Anthony Stark (Earth-616)|Iron Man]] analog, fighting alongside [[Hammer (Hydra) (Earth-616)|Hammer]], [[Bowman (Earth-616)|Bowman]], and [[Militant (Earth-616)|Militant]] against [[Spider-Man (Peter Parker)|Spider-Man]] and the [[New Avengers (Earth-616)|New Avengers]] in [[New York City]].{{r|Amazing Spider-Man Vol 1 519|520}}
+
+| Powers                  = Tactical Force has no powers of his own but they are derived from his Armor.
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = Similar armor to the [[Iron Man Armor]]. Color scheme bearing a striking resemblance to [[Harold Stark (Earth-9602)|Iron Lantern]].
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[Category:Armor Users]]

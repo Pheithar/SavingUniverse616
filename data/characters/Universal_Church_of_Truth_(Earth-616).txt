@@ -1,0 +1,55 @@
+{{Marvel Database:Organization Template
+| Image                   = Universal Church of Truth (Earth-616) from Strange Tales Vol 1 178 001.png
+| Name                    = Universal Church of Truth
+| Aliases                 = UCT
+
+| OrganizationLeaders     = [[Matriarch (UCT) (Earth-616)|Matriarch]]; formerly [[Magus (Earth-7528)|Magus]]
+| CurrentMembers          = [[Cardinals of the Universal Church of Truth (Earth-616)|Cardinals of the Universal Church of Truth]]
+| FormerMembers           = [[Magus (Earth-7528)|Magus]]
+
+| Identity                = Public
+| Affiliation             =
+| Allies                  = [[Great Old Ones|Many-Angled Ones]] and forces of the [[Cancerverse]]
+| Enemies                 = [[Guardians of the Galaxy (Earth-616)|Guardians of the Galaxy]]
+
+| Origin                  = 
+| Reality                 = Earth-616
+| Status                  = Active
+| BaseOfOperations        = 
+| PlaceOfFormation        = 
+| PlaceOfDissolution      = 
+
+| Creators                = Jim Starlin
+| First                   = Strange Tales #178
+
+| History                 = The '''Universal Church of Truth''' was a religious empire composed of diverse alien species from all across the universe. The central object of its worship was [[Adam Warlock (Earth-616)|Adam Warlock]]'s evil self, the [[Magus (Earth-7528)|Magus]],{{r|Strange Tales #181}} himself a servitor of the [[Great Old Ones|Many-Angled Ones]].{{r|Thanos Imperative: Ignition #1}}
+
+The Church would generally show up at a planet offering true peace and harmony through faith. If accepted, the Church would peacefully take over. If not accepted, the Church would "purify" the planet, subjugating the population and exterminating any that would not willingly convert.{{r|Guardians of the Galaxy #15|16}}
+
+The [[Guardians of the Galaxy (Earth-616)|Guardians of the Galaxy]] worked numerous times to stop the Church from resurrecting the Magus, breaking open space-time fissures like the [[Fault]], or simply conquering planets.{{r|Guardians of the Galaxy Vol 2 1}}{{r|Guardians of the Galaxy Vol 2 3}}
+
+===The Fault===
+In order to prevent the [[Fault]]'s expansion and the end of universe, Adam Warlock cast a spell to graft his unanchored timeline onto the only inert timestream with a stable, quiescent future he was aware of: [[Earth-7528]]. The spell was successful in stopping the Fault's spread but left Warlock weakened, enabling the Magus to take over his body.{{r|Guardians of the Galaxy Vol 2 17}}<!-- 
+
+to be completed -->
+
+He decided to petition the help of the [[Great Old Ones|Many-Angled Ones]], the dark gods from beyond the Fault.{{r|Guardians of the Galaxy Vol 2 23}} Obeying its new masters, Magus (leading the Universal Church of Truth) and the [[Wendell Vaughn (Earth-10011)|Quasar]] from the Cancerverse soon work together to reopen to Fault allowing the evil denizens of Cancerverse to enter our universe, describing that event as "a beautiful moment of transcendence! A sacred beat in the heart of the Universe as everything stands still and changes". When they were approached by [[Mar-Vell (Earth-10011)|Lord Mar-Vell]] they bowed to him. Mar-Vell then asked Magus if Thanos has been killed to which Magus replied no, so Mar-Vell killed him.{{r|Thanos Imperative: Ignition #1}}
+
+==Structure==
+The head of the Church was the [[Matriarch (UCT) (Earth-616)|Matriarch]], ruling from a central planet generally called "Homeworld". The planet was usually a center for religious pilgrimage, and overcrowded quickly, so the Church shifted from one planet to another every few years. The most recent homeworld was also known as [[Sacrosanct]].{{r|Guardians of the Galaxy Vol 2 1}}
+
+Doctrine was enforced through the Church's [[Black Knights (Universal Church of Truth) (Earth-616)|Black Knights]], and matters of law were subject to a ''Grand Inquisitor''. Major battles were led by [[Cardinals of the Universal Church of Truth (Earth-616)|Cardinals]].
+| Equipment               = The Church made use of [[Faith Generator]]s, which could channel the energy of belief from its followers, for use in powering its spaceships, its Cardinals, and other uses.
+| Transportation          = [[Templeships]] were the standard vehicle for Church star travel, powered by Faith Generators and acting as battleships for their conflicts.
+
+Many other spaceships and battleships were also used, utilising more standard weapons and energy sources.
+| Weapons                 = 
+| Notes                   = * The original incarnation of the UCT had only one "Homeworld" for its entire 5,000-year existence and that planet was the one where the Magus had founded the church.{{r|Warlock Vol 1 9}} However, once Adam Warlock had retroactively prevented the Magus from establishing the UCT, that planet had only ever been known by its original name of Sirus X.{{r|Warlock Vol 1 12}}
+* It has not been revealed if the UCT that was brought back into existence after Warlock grafted the inert timeline of Earth-7528 to the damaged Earth-616 timeline was ever based on Sirus X. Due to how quickly it spread, the reborn UCT was known for having a series of homeworlds. At the time of the [[War of Kings]], the planet known as [[Sacrosanct]] (formerly G5 Deneb) had been the homeworld for sixteen years and was the fifth homeworld that the UCT had had in as many decades.{{r|Guardians of the Galaxy Vol 2 2}}
+| Trivia                  = 
+| Links                   = * Appendix to the Handbook of the Marvel Universe - [http://www.marvunapp.com/Appendix/uct.htm Universal Church of Truth]
+}}
+[[Category:Governments]]
+[[Category:Kree Religions]]
+[[Category:Interplanetary Organizations]]
+[[Category:Universal Church of Truth]]

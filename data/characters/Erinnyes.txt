@@ -1,0 +1,51 @@
+{{Merge To|Furies (Earth-616)}}{{Marvel Database:Race Template
+| Image                   = Erinnyes from Avengers Vol 1 50 001.jpg
+| Name                    = Erinnyes
+| Aliases                 = 
+| Identity                = 
+| Affiliation             = 
+| Universe                = Earth-616
+| BaseOfOperations        = [[Olympus]]
+
+| BodyType                = 
+| AvgHeight               = 
+| AvgWeight               = 
+| Eyes                    = White
+| Hair                    = Green
+| Skin                    = 
+| NumberOfLimbs           = 6
+| NumberOfFingers         = 
+| NumberOfToes            = 
+| SpecialAdaptations      = 
+| UnusualFeatures         = 
+
+| Origin                  = 
+| GalaxyOfOrigin          = 
+| StarSystemOfOrigin      = 
+| HomePlanet              = Earth
+| PlaceOfBirth            = 
+| Creators                = Roy Thomas; John Buscema
+| First                   = Avengers Vol 1 #50
+
+| HistoryText             = 
+One of the dread Erinnyes, whose fearsome fangs drip the venom of death, attacked [[Hercules Panhellenios (Earth-616)|Hercules]] on his journey to find the lost [[Olympians]], but it was quickly defeated by the son of [[Zeus Panhellenios (Earth-616)|Zeus]]{{r|Avengers Vol 1 #50}}. 
+| Habitat                 = 
+| Gravity                 = 
+| Atmosphere              = 
+| Population              = 
+
+| Powers                  = 
+| Abilities               = 
+| AvgStrength             = 
+| Weaknesses              = 
+
+| GovernmentType          = 
+| TechnologyLevel         = 
+| CulturalTraits          = 
+| Representatives         = 
+
+| Notes                   = 
+| Trivia                  = 
+| Links                   = 
+}}
+[[Category:Olympian Races]]

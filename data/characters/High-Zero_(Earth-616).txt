@@ -1,0 +1,52 @@
+{{Marvel Database:Character Template
+| Image                   = High-Zero (Earth-616) Namor the Sub-Mariner Annual Vol 1 4.jpg
+| Name                    = 
+| CurrentAlias            = High-Zero
+| Aliases                 = 
+
+| Affiliation             = {{M|Hydra}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = 
+| Hair                    = 
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = Secret
+| Citizenship             = 
+| Occupation              = Terrorist
+| Education               = 
+| BaseOfOperations        = Mobile
+
+| Creators                = Nelson Yomtov; Karl Bollers; Bill Wylie
+| First                   = Namor the Sub-Mariner Annual #4
+| Death                   = Namor the Sub-Mariner Annual #4
+
+| History                 = High-Zero, along with [[Alan Desmond (Earth-616)|Agent-13]], was chosen personally by [[Wolfgang von Strucker (Earth-616)|Baron Strucker]] to implement his plan "Project: Blue Face" to eliminate the race of [[Homo mermanus|Atlanteans]] using a toxin. When High-Zero found that Agent-13 was trying to take possession of the toxin he tried to kill Agent-13 by strangling him but Agent-13 managed to grab High-Zero's gun and kill him.{{r|Namor the Sub-Mariner Annual #4}}
+
+| Personality             = 
+
+| Powers                  = None
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

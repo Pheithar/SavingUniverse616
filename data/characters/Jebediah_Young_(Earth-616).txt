@@ -1,0 +1,52 @@
+{{Marvel Database:Character Template
+| Image                   = Jebediah Young (Earth-616) from X-Force Vol 3 9 001.jpg 
+| Name                    = Jebediah Young
+| CurrentAlias            = 
+| Aliases                 = 
+
+| Affiliation             = {{m|Facility}}, {{M|H.A.M.M.E.R.}}; Formerly {{M|Strategic Homeland Intervention, Enforcement and Logistics Division|S.H.I.E.L.D.}}
+| Relatives               = 
+| MaritalStatus           = 
+
+| CharRef                 = 
+| Gender                  = Male
+| Height                  = 
+| Weight                  = 
+| Eyes                    = Brown
+| Hair                    = Bald
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = 
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Agent the Facility, infiltrated agent into H.A.M.M.E.R. (formerly into S.H.I.E.L.D.)
+| Education               = 
+| BaseOfOperations        = Mobile
+
+| Creators                = Craig Kyle; Christopher Yost; Mike Choi
+| First                   = X-Force Vol 3 7
+| Death                   = X-Force Vol 3 19
+
+| History                 = Jebediah Young was an operative of [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] working with [[Alisande Morales (Earth-616)|Alisande Morales]] to track down [[Laura Kinney (Earth-616)|X-23]].{{r|X-Force Vol 3 #7}}
+
+During their investigation, Young revealed he was actually loyal to X-23's former handlers, the Facility, and kidnapped Morales. He offered Ali a position with the Facility "or else", but she broke his neck and ultimately rescued X-23 and escaped the Facility with her.{{r|X-Force Vol 3 19}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = 
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}

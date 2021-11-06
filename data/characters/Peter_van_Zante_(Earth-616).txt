@@ -1,0 +1,87 @@
+{{Marvel Database:Character Template
+| Image                   = Peter van Zante (Earth-616) from Avengers The Initiative Vol 1 26 0001.png
+| Name                    = [[Peter van Zante]]
+| CurrentAlias            = [[Aqueduct]]
+| Aliases                 = [[Water Wizard]]
+
+| Affiliation             = Formerly {{M|Masters of Evil (Earth-616)|Masters of Evil}}; {{M|Force of Nature (Earth-616)|Force of Nature}} ({{M|50-State Initiative (Earth-616)|Oregon Initiative}}); {{M|Thunderbolts (Earth-616)|Thunderbolts}}, One-time operative of the [[Charles Delazny Jr. (Earth-616)|Enforcer]], [[Moondark (Earth-616)|Moondark]] and [[Justin Hammer (Earth-616)|Justin Hammer]]
+| Relatives               = 
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #1}}
+| Gender                  = Male
+| Height                  = 5'10"
+| Weight                  = 210 lbs
+| Eyes                    = Brown
+| Hair                    = Red
+| UnusualFeatures         = Blue stripe painting over the upper face, Iroquois hair-style 
+
+| Origin                  = [[Homo sapiens|Human]] [[Glossary:Mutate|mutate]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Chicago (Illinois)|Chicago]], [[Illinois (State)|Illinois]]
+
+| Identity                = Public
+| Citizenship             = American
+| Occupation              = Criminal, mercenary; former registred "hero", soldier
+| Education               = 
+| BaseOfOperations        = Formerly [[Oregon (State)|Oregon]]
+
+| Creators                = Jim Shooter; Don Heck
+| First                   = Ghost Rider Vol 2 23
+
+| Quotation               = Are [[Justin Hammer (Earth-616)|you]] crazy? I almost got skragged in [[Vietnam War|'Nam]], buddy, and then I only had an army to fight! The only thing my water-forming powers are going to make -- is a surf-scooter to get me the blazes outta here!
+| Speaker                 = [[Peter van Zante (Earth-616)|Water Wizard]]
+| QuoteSource             = Iron Man Vol 1 127
+
+| History                 = 
+===Early years===
+'''Peter van Zante''' was a soldier in the [[Vietnam War]] when he was wounded by an explosion of enemy rocket shells. Airlifted to a hospital ship in the midst of a storm, van Zante was placed under an experimental device designed to keep him alive until the ship stopped rocking enough so surgeons could operate on him. The ship was struck by lightning, however, and this created a power surge in the experimental device irradiating him. He recovered rapidly without surgery, and was discharged from the army. Soon after, he learned that he could mentally influence water.
+
+For years he practiced with his power in secret, not quite certain what to do with it, achieving mastery over greater and greater quantities of water at a time. Finally, van Zante was approached by a petty criminal called the Mole, who convinced him to become his criminal partner. Adopting the name Water Wizard, van Zante began his career as a costumed criminal.
+
+===As the Water Wizard===
+Soon after adopting the Identity of the '''Water Wizard''', van Zante was contacted by the [[Los Angeles]] crime boss known as the [[Charles Delazny Jr. (Earth-616)|Enforcer]], who involved him in a feud with [[Johnathon Blaze (Earth-616)|Johnny Blaze]], the original Ghost Rider. After a series of defeats by the Ghost Rider, the Water Wizard ditched the Enforcer and fled to [[Chicago (Illinois)|Chicago]], where he joined the sorcerer [[Moondark]] in another attack against Blaze. This time, the Water Wizard was so seriously burned by the powers of the Ghost Rider that he went into shock and was placed in a mental institution.
+
+The Water Wizard was later freed by Blaze in order to help a town ravaged by drought, but was then kidnapped by Arabian criminals. Working with these new employers, the Water Wizard attacked rival oil companies, learning he could manipulate other liquids as well as water. The Water Wizard was stopped by Blaze and the [[Abdul Qamar (Earth-616)|Arabian Knight]].
+
+Freed from custody by the criminal businessman, [[Justin Hammer (Earth-616)|Justin Hammer]], the Water Wizard was employed to raid a rival business, owned by [[Anthony Stark (Earth-616)|Anthony Stark]]. The Water Wizard fled rather than continue to battle Stark's secret alter ego, Iron Man.{{r|Iron Man #126}}
+
+The Water Wizard laid low for some time to avoid Hammer and the law. He narrowly avoided being killed by the criminal-killer known as the [[Scourge]] of the Underworld when he was due to attend a meeting of super criminals at the [[Bar with No Name]]. A flat tire made Water Wizard late for the meeting, and when he arrived late he found that the other attendees had all been murdered by the Scourge. This encounter left him shaken enough that he contacted and surrendered to [[Steven Rogers (Earth-616)|Captain America]].{{r|Captain America #320}}
+
+===[[Project Earth]]/[[Force of Nature (Earth-616)|Force of Nature]]===
+When he got out of jail, the Water Wizard was approached by the group of radical environmentalists known as [[Project Earth]]. Taking the new code name '''Aqueduct''' to reflect mankind's lack of ecological consciousness, van Zante joined [[Force of Nature (Earth-616)|Force of Nature]], the superhuman terrorist extension of Project: Earth. Force of Nature engaged in several ecological terrorist attacks, before being stopped by the fledgling superhero team, the [[New Warriors (Earth-616)|New Warriors]]. Remanded into Brazilian custody, Aqueduct and the other Force of Nature members were freed by Project: Earth.{{r|New Warriors #7|9}}
+
+Force of Nature later resurfaced fighting eco-wars in the nation of Trans-Sabal.{{r|New Warriors #29|30}} They eventually ended up in prison and were held at the Vault along with Vance Astrovik, Marvel Boy.{{r|New Warriors #36}}
+
+===Masters of Evil===
+Van Zante eventually returned to purely criminal activities. He joined the Crimson Cowl's Masters of Evil during her weather domination scheme.{{r|Thunderbolts #24|25}}
+
+===[[Dark Reign]]===
+He later joined the [[50-State Initiative (Earth-616)|Initiative]], when [[Force of Nature (Earth-616)|Force of Nature]] was made the team of [[Oregon (State)|Oregon]].{{r|Avengers: The Initiative #26}}
+
+He participated in the sanctioned offensive of the Initiative against the seceding [[Heavy Hitters (Earth-616)|Heavy Hitters]],{{r|Avengers: The Initiative #28}} and later in the [[Siege (Event)|assault]] with [[H.A.M.M.E.R. (Earth-616)|H.A.M.M.E.R.]] on [[Asgard]].{{r|Siege Vol 1 #1}}
+
+| Powers                  = '''Hydrokinesis''': Aqueduct possesses the ability to psionically manipulate any liquids within about 500 feet of himself. The maximum volume of water he can manipulate at the same time is unknown, although it appears to be many gallons. By psionically increasing the available energy in ordinary water molecules' force of attraction, he can assemble large volumes of water by subliminally stacking the molecules, and making the volume take on certain shapes. He has been observed to direct firehose-like jets of water with sufficient force to stun a man at 25 feet.
+
+Aqueduct can use his psionic powers for about one half hour before mental fatigue impairs his control over the phenomena. He apparently has more difficulty controlling small quantities of liquids than large ones. He has not yet been observed to be able to stop the six pints of blood in a human body from circulating, for example. He also cannot change the temperature of a volume of liquid, and thus convert it to ice or steam.<br>
+
+<div style="float:right;">
+
+
+</div>
+
+| Abilities               = Armed forces training.
+| Strength                = Aqueduct has the normal human strength of a man his age, height, and build.
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 =
+
+| Notes                   = 
+| Trivia                  = 
+| Wikipedia               = 
+| Marvel                  = 
+| Links                   = 
+}}
+[[Category:Hydrokinesis]]
+[[Category:Vietnam War Characters]]

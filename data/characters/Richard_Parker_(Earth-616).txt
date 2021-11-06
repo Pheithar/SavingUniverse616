@@ -1,0 +1,66 @@
+{{Marvel Database:Character Template
+| Title                   = [[Richard Parker]]
+| Image                   = Richard Parker (Earth-616) from Untold Tales of Spider-Man Vol 1 -1 0001.jpg
+| Name                    = [[Richard Laurence Parker]]
+| CurrentAlias            = 
+| Aliases                 = [[Richie Parker]]{{r|Amazing Spider-Man Family Vol 1 7}}
+
+| Affiliation             = {{m|Central Intelligence Agency (Earth-616)|CIA}}; formerly {{m|United States Armed Forces (Earth-616)|United States Armed Forces}}
+| Relatives               = [[Peter Parker I (Earth-616)|Peter Parker I]] (father, presumed deceased);{{r|1939 Daily Bugle Vol 1 1}}<br>
+[[Ann Parker (Earth-616)|Ann Parker]] (mother, presumed deceased);{{r|1939 Daily Bugle Vol 1 1}}<br>
+[[William Fitzpatrick (Earth-616)|William Fitzpatrick]] (father-in-law, deceased);<br>Unnamed mother-in-law (deceased);<br>[[Benjamin Parker (Earth-616)|Ben Parker]] (brother, deceased);<br>
+[[Maybelle Parker (Earth-616)|May Parker]] (sister-in-law);<br>
+[[Mary Parker (Earth-616)|Mary Parker]] (wife, deceased);<br>
+[[Peter Parker (Earth-616)|Peter Parker]] (son);<br>
+[[Teresa Parker (Earth-616)|Teresa Parker]] (daughter);<br>
+[[May Parker (Earth-616)|May Parker]] (granddaughter, deceased)
+| MaritalStatus           = Married
+
+| Gender                  = Male
+| Height                  = 5'11"
+| Weight                  = 175 lbs
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo sapiens|Human]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Queens]], [[New York City]]
+| PlaceOfDeath            = 
+
+| Identity                = No Dual
+| Citizenship             = American
+| Occupation              = Soldier, CIA Agent
+| Education               = 
+| BaseOfOperations        = [[Queens]], [[New York City]], [[New York (State)|New York]]
+
+| Creators                = Stan Lee; Larry Lieber
+| First                   = Amazing Spider-Man Annual Vol 1 5
+| Death                   = Amazing Spider-Man Annual Vol 1 5
+
+| History                 = Richard Parker was born and raised in [[Queens]], [[New York City]]. He lived there with his older brother [[Benjamin Parker (Earth-616)|Ben Parker]]. Richard was recruited into the [[Central Intelligence Agency]] by [[Nicholas Fury (Earth-616)|Nick Fury]] Richard married another agent, [[Mary Parker (Earth-616)|Mary Fitzpatrick]], and the two of them had a son, [[Peter Parker (Earth-616)|Peter Parker]], and a daughter, [[Teresa Parker (Earth-616)|Teresa Parker]],{{r|Peter Parker: The Spectacular Spider-Man Vol 1 302}} though the later was born in secret.
+
+At an unknown point, Richard and Mary found the parts of [[Master Matrix (Earth-616)|Master Matrix]], an advanced [[Life-Model Decoy]] capable of controlling other LMDs, in a [[Hydra (Earth-616)|Hydra]] weapons depot on an uncharted island. They rebuilt him, but Mary believed that Matrix was alive and that [[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]] should set him free.{{r|Spider-Man/Deadpool Vol 1 33}}
+
+While Peter was still an infant, Richard and Mary were assigned to infiltrate the [[Algeria|Algerian]]-based spy ring controlled by the Communist agent, the [[Albert Malik (Earth-616)|Red Skull]]. The moment the Red Skull learned that Richard and Mary Parker were double agents, he had them killed by one of his agents, the [[Karl Fiers (Earth-616)|Finisher]], in an airplane crash overseas, and framed for treason.{{r|Amazing Spider-Man Annual #5}} While Richard and Mary were on assignment, Ben and his wife [[Maybelle Parker (Earth-616)|May]] took care of Peter. Ben and May had never had children of their own, but after Richard and Mary died, they became Peter’s surrogate parents and raised him as if he were their own son.{{r|Marvel Graphic Novel Vol 1 46}}
+
+| Powers                  = 
+| Abilities               = 
+| Strength                = 
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = 
+| Trivia                  = * Like his older brother Ben, Richard believed in power and responsibility and was known as a young man to stand up to bullies and try to help them rather than just fighting back.{{r|Amazing Spider-Man Vol 2 #26}}
+* According to [[Emile Chigaru (Earth-616)|Emile Chigaru]], Richard had an odd habit in which he always made quick jokes during intense situations, much like his son.{{r|Amazing Spider-Man: Family Business Vol 1 1}}
+| Marvel                  = 
+| Wikipedia               = 
+| Links                   = 
+}}
+[[it:Richard Parker (Terra-616)]]
+[[Category:Parker Family]]
+[[Category:Deceased Characters]]
+[[Category:Central Intelligence Agency members]]

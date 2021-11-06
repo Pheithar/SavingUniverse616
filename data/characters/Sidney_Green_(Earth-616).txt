@@ -1,0 +1,75 @@
+{{Marvel Database:Character Template
+| Image                   = Sidney Green (Earth-616) from X-Men Earth's Mutant Heroes Vol 1 1 0001.jpg
+| Name                    = Sidney Green
+| Name2                   = {{R|X-Men: Earth's Mutant Heroes #1}}
+| CurrentAlias            = Onyxx
+| Aliases                 = 
+
+| Affiliation             = Formerly X-Men-In-Training, {{M|Chevaliers}}
+| Relatives               =
+| MaritalStatus           = Single
+
+| CharRef                 = {{cl|X-Men: Earth's Mutant Heroes #1}}
+| Gender                  = Male
+| Height                  = 6'11"
+| Weight                  = 375 lbs
+| Eyes                    = Red
+| Hair                    = None
+| UnusualFeatures         = Second pair of eyes and skin made of organic rock
+
+| Origin                  = [[Homo Superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[New Jersey (State)|New Jersey]]
+| PlaceOfDeath            = [[Utopia (X-Men Base)|Utopia]]
+
+| Identity                = Secret
+| Citizenship             = American, Krakoan
+| Occupation              = Student
+| Education               = Various high school level courses at [[Xavier's School for Gifted Youngsters|Xavier Institute]]
+| BaseOfOperations        = [[Krakoa (Earth-616)|Krakoa]], [[Pacific Ocean]]; formerly, [[Utopia (X-Men Base)|Utopia]]; [[Graymalkin Industries]]; [[Xavier's School for Gifted Youngsters|Xavier Institute]]
+
+| Creators                = Peter Milligan; Salvador Larroca
+| First                   = X-Men Vol 2 #171
+| Death                   = 
+
+| History                 = Growing up in a number of orphanages and foster homes in [[New Jersey (State)|New Jersey]], Sidney Green was a boorish, clumsy child, often the target of cruel bullying by children and adults alike. An inveterate bed-wetter, Green carried around with him the funk of uncleanliness, which further ostracized him and made him miserable. Green's attempts to curb his nightly emissions by avoiding liquids led to dizziness and dehydration. Once his mutation manifested, a blissful drought beneath the waist set in, and there was a lack of sodden sheets. When Green joined Xavier's he was put in [[Chevaliers (Earth-616)|Gambit's Squad]]. As a student at the [[Xavier's School for Gifted Youngsters|Xavier Institute]], Green had regained some confidence, forwarding audacious advances to aesthetically stirring female student Foxx. When Foxx was exposed as [[Raven Darkholme (Earth-616)|Mystique]], Green sensed betrayal and attacked her. Within days, Green was able to walk again. Yet, the experience of being smashed in the head with a flush-lavatory triggered unfortunate memories of his childhood, perhaps permanently traumatizing him.{{r|X-Men Vol 2 #171|174}}
+
+===[[Decimation|M-Day]]===
+[[File:X-Force_Vol_3_23_page_18_Sidney_Green_(Earth-616).jpg|thumb|left|200px|{{death}}]]
+
+Sidney retained his powers post [[Decimation|M-Day]] and remained a resident at the school. Onyxx was critically injured by Reverend [[William Stryker (Earth-616)|William Stryker]] during his attack on the institute and barely survived.
+
+Onyxx was seen captured alongside his fellow students in [[Limbo]].
+
+Following the events of [[X-Men: Messiah Complex|Messiah Complex]], Onyxx joined the [[X-Men (Earth-616)|X-Men]] in [[San Francisco]] and was seen training with [[Piotr Rasputin (Earth-616)|Colossus]] and [[Santo Vaccarro (Earth-616)|Rockslide]] in [[Manifest Destiny]].
+
+===[[Necrosha]]===
+During the attack of [[Inner Circle (Selene) (Earth-616)|Selene's Inner Circle]] on [[Utopia (X-Men Base)|Utopia]], Onyxx was killed by [[Kevin Ford (Earth-616)|Wither]].{{r|X-Force Vol 3 23}}
+
+===Krakoa===
+Onyxx was resurrected thanks to [[Five (Earth-616)|The Five]] and later became a citizen of [[Krakoa (Earth-616)|Krakoa]].{{r|X-Factor Vol 4 5}}
+
+| Powers                  = Onyxx was a [[Homo Superior|mutant]] with a craggy granite body with the following abilities:
+*'''Superhuman Strength'''
+*'''Resistance to Physical Injury'''
+
+| Abilities               =
+| Strength                = Could lift 5 tons.
+
+| Equipment               =
+| Transportation          =
+| Weapons                 =
+
+| Notes                   =
+* Onyxx's real name has only been revealed in the X-Men: 198 Files reference material.
+| Trivia                  = * Onyxx was originally planned to be killed off in [[New X-Men Vol 2]], but writers [[Christopher Yost]] and [[Craig Kyle]] were not allowed to. As Yost bluntly put it: "I hated that character." Later, however, he was killed of in [[X-Force Vol 3|X-Force Vol 3]].<ref>[http://www.comicbookresources.com/?page=article&id=26613 X-Position: Craig Kyle & Christopher Yost5]</ref>
+| Links                   =
+}}
+[[Category:Post-M-Day Mutants (The 198)]]
+[[Category:X-Men (Earth-616)/Members]]
+[[Category:Utopians]]
+[[Category:Xavier Institute Student]]
+[[Category:Multiple Eyes]][[Category:Infobox Eyes Update Needed]]
+[[Category:Necrosha casualties]]
+[[Category:Significant Threats]]
+[[Category:Formerly Deceased]]

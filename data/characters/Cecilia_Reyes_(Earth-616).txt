@@ -1,0 +1,94 @@
+{{Marvel Database:Character Template
+| Title                   = [[Cecilia Reyes|Dr. Cecilia Reyes]]
+| Image                   = Cecilia_Reyes_(Earth-616)_from_X-Men_Battle_of_the_Atom_(video_game)_001.jpg
+| Name                    = [[Cecilia Reyes|Cecilia "Cel" Reyes]]
+| NameRef                 = {{r|NYX: No Way Home #4}}
+| CurrentAlias            = Dr. Cecilia Reyes
+| Aliases                 = Forcefield ([[Sentient World Observation and Response Department (Earth-616)|S.W.O.R.D.]] code name),{{r|X-Men Vol 4 21}} "Cecelia"{{r|NYX: No Way Home #4}}{{r|NYX: No Way Home #5}} (presumably misspelled), "Doc Reyes",{{r|NYX: No Way Home #4}} "Doc",{{r|Uncanny X-Men #351}} 'Celia,{{r|Uncanny X-Men #351}}, "Mutie doctor"{{r|Uncanny X-Men #351}}
+
+| Affiliation             = {{M|X-Men|X-Men}}; formerly [[Weapon X (Earth-616)|Weapon X]] (prisoner)
+| Relatives               = [[Alejandro Reyes (Earth-616)|Alejandro Reyes]] (father, deceased);<br>[[Maria Reyes (Earth-616)|Maria Reyes]] (mother, deceased);<br>[[Miguel Reyes (Earth-616)|Miguel Reyes]] (brother)
+| MaritalStatus           = Single
+
+| Gender                  = Female
+| Height                  = 5'7"
+| Weight                  = 120 lbs (63 kg)
+| Eyes                    = Brown
+| Hair                    = Brown
+| UnusualFeatures         = 
+
+| Origin                  = [[Homo superior|Mutant]]
+| Reality                 = Earth-616
+| PlaceOfBirth            = [[Bronx]], [[New York City]], [[New York (State)|New York]]
+
+| Identity                = No Dual
+| Citizenship             = American, Krakoan
+| Occupation              = Medical doctor (trauma surgeon) and adventurer
+| Education               = M.D. in Emergency Medicine
+| BaseOfOperations        = [[Krakoa (Earth-616)|Krakoa]], [[Pacific Ocean]]; formerly [[Xavier's School for Gifted Youngsters|Xavier Institute for Mutant Education and Outreach]], [[Central Park]], [[Manhattan]], [[New York City]], [[New York (State)|New York]]; [[Xavier's School for Gifted Youngsters|Jean Grey School for Higher Learning]], [[Salem Center]], [[North Salem]], [[Westchester County]], [[New York (State)|New York]]; [[Utopia (X-Men Base)|Utopia]], [[San Francisco Bay]], [[California (State)|California]]; [[New York City]], [[New York (State)|New York]]
+
+| Creators                = Scott Lobdell; Carlos Pacheco
+| First                   = X-Men Vol 2 65
+
+| Quotation               = I've lived the past few years as a Puerto Rican woman in the middle of a bunch of white male doctors. I know how to handle myself around bigots. 
+| Speaker                 = [[Cecilia Reyes (Earth-616)|Cecilia Reyes]]
+| QuoteSource             = Uncanny X-Men Vol 1 351
+
+| History                 = 
+===Origin===
+Puerto Rican<!-- seemingly cultural/ethnic, not legal status --> '''Cecilia Reyes''' was born in the [[Bronx]], [[New York City]].{{r|All-New Official Handbook of the Marvel Universe A to Z #9}}
+
+At six, she saw her father [[Alejandro Reyes (Earth-616)|Alejandro Reyes]] gunned down in a drive-by shooting. She dedicated her life to becoming a doctor. Soon after achieving her goal, her mutant powers activated, and she contacted [[Charles Xavier (Earth-616)|Charles Xavier]] who invited her to join [[Xavier's School for Gifted Youngsters]] and his [[X-Men (Earth-616)|X-Men]].{{r|All-New Official Handbook of the Marvel Universe A to Z #9}} She rejected the offer and asked [[Charles Xavier (Earth-616)|Professor X]] to keep her status as a [[Homo superior|mutant]] secret,{{r|X-Men Vol 2 66}} preferring to continue her trauma surgeon career at the [[Our Mother of Mercy Hospital]] in the [[South Bronx]].{{r|All-New Official Handbook of the Marvel Universe A to Z #9}}
+
+===[[Operation: Zero Tolerance]]===
+Three years later, during the [[Operation: Zero Tolerance]] crisis, Cecilia was attacked by [[Prime Sentinels]] while working. She survived by using her defensive shield and with [[Robert Drake (Earth-616)|Iceman]]'s help. Banding together with [[Ruth Bat-Seraph (Earth-616)|Sabra]], [[Marrow (Sarah) (Earth-616)|Marrow]], and [[Charlotte Jones (Earth-616)|Charlotte Jones]], the group faced [[Bastion]] until S.H.I.E.L.D. interfered.{{r|X-Men Vol 2 #67|69}}
+
+Returning to an abandoned X-Mansion, Cecilia used what little tools she had to remove a bomb from [[Scott Summers (Earth-616)|Cyclops']] chest. Attempting to save her career, she returned to work to have a unique last day. She treated a wounded [[Matthew Murdock (Earth-616)|Daredevil]], learning his secret identity in the process, and a [[Legacy Virus]]-ravaged [[St. John Allerdyce (Earth-616)|Pyro]] tricked her into releasing him from custody. The hospital fired her, and she reluctantly joined the X-Men.{{r|Uncanny X-Men #351}}
+
+Later, she was caught during the X-Men's battle with the [[Neo]], a villainous group of mutants who claimed to have evolved beyond the level of other mutants. Reyes was trapped in the Neo's fortress below New York City and used a street drug called [[Rave]] to make her mutant powers more destructive, ensuring her survival. The X-Men rescued her, and Xavier used his telepathy and helped her kick her addiction to Rave.{{r|X-Men Vol 2 #106}}
+
+===[[Neverland]]===
+Dr. Reyes was abducted by the Weapon X program and taken to [[Neverland]], the mutant concentration camp.{{r|Weapon X Vol 2 5}} While many mutants perished, including her fellow X-Man [[Maggott (Japheth) (Earth-616)|Maggott]],{{r|Weapon X Vol 2 #5}} she was kept alive due to her medical skills.{{r|NYX: No Way Home #4}}
+
+The camp was eventually abandoned by Weapon X, and Reyes disappeared.{{r|NYX: No Way Home #4}}
+
+===[[M-Day]]===
+Cecilia's older brother, [[Miguel Reyes (Earth-616)|Colonel Miguel Reyes]], was assigned to head [[Sentinel Squad O*N*E (Earth-616)|Sentinel Squad O*N*E*]] security on the Xavier School grounds, with the purpose of finding out the fate of his sister,  who had been missing since [[M-Day]].{{r|X-Men: The 198 Files #1}}
+
+Dr. Reyes eventually resurfaced working as an unlicensed doctor in [[New York City]].{{r|NYX: No Way Home #4}} 
+
+===Back to X-Men===
+She later moved to [[Utopia (X-Men Base)|Utopia]] with the X-Men and began work as a doctor there.{{r|Uncanny X-Men #522}}
+
+| Powers                  = Cecilia Reyes is a [[Homo superior|mutant]].
+
+'''Psioplasmic Bio-Field''': generates a psioplasmic bio-field, increasing her durability. The field extends six inches from any point on her body. This field constantly surrounds her body at every given moment, completely invisible, and only takes on a glass-like translucency when subconsciously activated by a threat. 
+
+The field reacts to kinetic impact, energy signatures, certain psionic forces, temperature changes, etc. The bio-field is an extension of Cecilia's body, and so she feels the attack as its effect is dispersed over the field. Her power is subconscious, meaning it protects her from harm whether she wants it to or not, or is aware of the incoming threat or not. 
+
+Eventually Cecilia learned how to manifest the field at will, as a weapon. Surrounding her fists with psioplasmic force can increase the bludgeoning power behind her punches; she formed spikes to kill the Neo known as [[Jaeger]];{{r|X-Men Vol 2 101}} she could expel the field outward in a hammer-like ram, etc.{{r|X-Men Vol 2 106}}
+
+| Abilities               = Cecilia is a capable medical doctor and surgeon, making her the only member of the X-Men who is a true doctor of medicine.
+| Strength                = Dr. Reyes possesses the normal human strength of a woman of her age, height and build who engages in moderate regular exercise.
+| Weaknesses              = 
+
+| Equipment               = 
+| Transportation          = 
+| Weapons                 = 
+
+| Notes                   = * Cecilia Reyes first used her powers offensively in {{cl|X-Men Vol 2 100}} on accident. Part of her "shield" jumped out at [[Jaeger (Earth-616)|Jaeger]], killing him.
+* After taking an extremely addictive and illegal drug called "[[Rave]]" to temporarily boost her powers,{{r|X-Men Vol 2 101}} Dr. Reyes became addicted.{{r|X-Men Vol 2 106}}
+* She hates [[Patricia Tilby (Earth-616)|Trish Tilby]],{{r|NYX: No Way Home #4}} possibly due to her romantic relationship with [[Henry McCoy (Earth-616)|Beast]].
+| Trivia                  = 
+| Wikipedia               = Cecilia Reyes
+| Links                   = * [http://uncannyxmen.net/characters/reyes-cecilia uncannyxmen.net Spotlight On... Cecilia Reyes]
+}}
+[[Category:Force Field]]
+[[Category:Utopians]]
+[[Category:Jean Grey School faculty]]
+[[Category:Neverland]]
+[[Category:Drug Addicts]]
+[[Category:Rave Users]]
+[[Category:Post-M-Day Mutants (Unregistered)]]
+[[Category:Xavier Institute Student]]
+[[Category:Reyes Family]]
