@@ -1,0 +1,34 @@
+/* DTU FONT */
+@font-face {
+    font-family: "NeoSans Black";
+    src: url("./fonts/NeoSans_Black.otf") format("opentype");
+}
+
+
+/* This is so bad, but I can't find another way to make header flush */
+* {
+    margin: 0 auto;
+    padding: 0;
+    width: 150vh;
+}
+
+header {
+    background-color: #cccccc;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border-bottom: 2px dashed black;
+}
+
+header > .title {
+    padding: 10px;
+    font-family: "NeoSans Black";
+    box-sizing: border-box;
+}
+
+/* Content */
+.content {
+    background-color: #dddddd;
+    height: 1000px;
+}
