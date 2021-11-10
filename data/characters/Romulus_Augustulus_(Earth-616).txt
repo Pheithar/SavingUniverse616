@@ -1,7 +1,7 @@
 {{Marvel Database:Character Template
 | Image                   = Romulus Augustulus (Earth-616) from Incredible Hulks Vol 1 629.jpg
 | Name                    = Romulus Augustulus
-| NameRef                 = {{r|Official Handbook of the Marvel Universe A-Z #12}}
+| NameRef                 = {{r|Official Handbook of the Marvel Universe A to Z Vol 1 12}}
 | CurrentAlias            = Tyrannus
 | CurrentAliasRef         = {{r|Marvel Atlas #1|; [[Italy]]'s entry}}
 | Aliases                 = Romulus Augustilus,{{r|Marvel Atlas #1|; [[Italy]]'s entry}}<!-- possibly an error --> [[Des]],{{r|Incredible Hulk #241}} [[Tyrone|Dr. Tyrone]],{{r|Spectacular Spider-Man Annual Vol 1 9}} [[Abomination]]{{r|Incredible Hulk Annual #15}}, Romulus Augustus{{r|Incredible Hulks Vol 1 627}}

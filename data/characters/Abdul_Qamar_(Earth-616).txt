@@ -1,5 +1,5 @@
 {{Marvel Database:Character Template
-| Image                   = Abdul Qamar (Earth-616) from Official Handbook of the Marvel Universe A-Z Vol 1 1 002.jpg
+| Image                   = Abdul Qamar (Earth-616) from Official Handbook of the Marvel Universe A to Z Vol 1 1 002.jpg
 | Name                    = Abdul Qamar 
 | CurrentAlias            = Arabian Knight
 | Aliases                 = Arabian Night ({{m|Pantheon (Earth-616)|Pantheon}} code-name){{r|Incredible Hulk Annual #20}}
@@ -14,7 +14,7 @@
 Unidentified son
 | MaritalStatus           = Married
 
-| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #1}}
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A to Z Vol 1 1}}
 | Gender                  = Male
 | Height                  = 5'10"
 | Weight                  = 170 lbs

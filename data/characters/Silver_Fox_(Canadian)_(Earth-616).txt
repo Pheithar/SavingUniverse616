@@ -1,7 +1,7 @@
 {{Marvel Database:Character Template
 | Image                   = Silver Fox (Earth-616) from Wolverine Weapon X Files Vol 1 1 001.jpg
 | Name                    = [[Silver Fox]]
-| Name2                   = (apparently){{r|Official Handbook of the Marvel Universe A-Z #10}}
+| Name2                   = (apparently){{r|Official Handbook of the Marvel Universe A to Z Vol 1 10}}
 | CurrentAlias            = 
 | Aliases                 = Zora de Plata,{{r|Wolverine Vol 2 49}} [[Fox]]{{r|Wolverine Vol 2 50}}
 

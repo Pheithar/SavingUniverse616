@@ -1,7 +1,7 @@
 {{Marvel Database:Character Template
 | Image                   = Mary MacPherran (Earth-616) from Gamma Flight Vol 1 1 cover 001.jpg
 | Name                    = [[Mary MacPherran]]
-| NameRef                 = {{r|Official Handbook of the Marvel Universe A-Z Vol 1 12}}
+| NameRef                 = {{r|Official Handbook of the Marvel Universe A to Z Vol 1 12}}
 | CurrentAlias            = [[Titania]]
 | Codenames               = [[Skirn]],{{r|Fear Itself Vol 1 2}} [[Thunder Girl]]{{r|Amazing Spider-Man Vol 1 429}}
 | Impersonations          = [[Spider-Woman]]{{r|She-Hulk Vol 1 10}}
@@ -15,7 +15,7 @@
 | Children                = [[Jerry Sledge (Earth-616)|Jerry Sledge]] (step-son)
 | MaritalStatus           = Married
 
-| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z Vol 1 12}}
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A to Z Vol 1 12}}
 | Gender                  = Female
 | Height                  = 6'6"
 | Weight                  = 545 lbs

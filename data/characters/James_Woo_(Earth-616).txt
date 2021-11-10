@@ -16,7 +16,7 @@
 | Eyes                    = Brown
 | Hair                    = Black
 | UnusualFeatures         = 
-| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #13}}
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A to Z Vol 1 13}}
 
 | Origin                  = [[Homo sapiens|Human]]
 | Reality                 = Earth-616

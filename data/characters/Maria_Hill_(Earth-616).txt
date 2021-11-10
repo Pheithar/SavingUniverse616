@@ -10,7 +10,7 @@ Unnamed mother (deceased);<br>
 Unnamed stepmother
 | MaritalStatus           = Single
 
-| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #5}}
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A to Z Vol 1 5}}
 | Gender                  = Female
 | Height                  = 5'10"
 | Weight                  = 135 lbs

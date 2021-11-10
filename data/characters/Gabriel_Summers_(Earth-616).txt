@@ -1,7 +1,7 @@
 {{Marvel Database:Character Template
 | Image                   = Uncanny X-Men Vol 1 477 Textless.jpg
 | Name                    = [[Gabriel Summers|Gabriel "Gabe" Summers]]
-| NameRef                 = {{r|Official Handbook of the Marvel Universe A-Z #13}}
+| NameRef                 = {{r|Official Handbook of the Marvel Universe A to Z Vol 1 13}}
 | CurrentAlias            = [[Vulcan]]
 | Aliases                 = [[Vulcan|Emperor Vulcan]],{{r|Uncanny X-Men Vol 1 485}} Kid Vulcan,{{r|X-Men: Deadly Genesis #4}} Vulcan the Great, Vulcan the Kingbreaker,{{r|X-Men: Kingbreaker #1}} Prince Vulcan{{r|Uncanny X-Men Vol 1 485}}
 
@@ -22,7 +22,7 @@ unnamed paternal great-grandfather, deceased;<br>
 [[Deathbird's Child (Earth-616)|Unborn child]];{{r|X-Men Vol 4 #18|20}}<br>
 [[Lilandra Neramani (Earth-616)|Lilandra Neramani]] (sister-in-law, deceased);<br>
 [[D'ken Neramani (Earth-616)|D'Ken Neramani]] (brother-in-law, deceased);<br>
-[[Nathaniel Summers (Earth-616)|Nathan Summers]] (nephew, deceased);<br>
+[[Nathan Summers (Earth-616)|Nathan Summers]] (nephew, deceased);<br>
 [[Adam Neramani (Earth-616)|Adam Neramani]] (nephew, half-brother);<br>
 [[Aliya Dayspring (Earth-4935)|Aliya Dayspring]] (niece, deceased);<br>
 [[Hope Summers (Earth-80521)|Hope Summers]] (niece, deceased);<br>
@@ -32,7 +32,7 @@ unnamed paternal great-grandfather, deceased;<br>
 [[Nathaniel Grey (Earth-295)|Nathaniel Grey]] (alternate reality nephew)
 | MaritalStatus           = Married
 
-| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #13}}
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A to Z Vol 1 13}}
 | Gender                  = Male
 | Height                  = 6'0"
 | Weight                  = 178 lbs
@@ -47,7 +47,7 @@ unnamed paternal great-grandfather, deceased;<br>
 | Identity                = Public
 | Citizenship             = American, Krakoan, Shi'ar Empire
 | Occupation              = Adventurer; formerly Majestor of the Shi'ar Empire and terrorist
-| Education               = Tutoring by [[Moira MacTaggert (Earth-TRN748)|Dr. Moira MacTaggert]] and [[Charles Xavier (Earth-616)|Professor Charles Xavier]]{{r|Official Handbook of the Marvel Universe A-Z #13}}
+| Education               = Tutoring by [[Moira MacTaggert (Earth-TRN748)|Dr. Moira MacTaggert]] and [[Charles Xavier (Earth-616)|Professor Charles Xavier]]{{r|Official Handbook of the Marvel Universe A to Z Vol 1 13}}
 | BaseOfOperations        = [[Krakoa (Earth-616)|Krakoa]], [[Pacific Ocean]]; [[Summer House]], [[Blue Area of the Moon]]; formerly Imperial Palace, [[Chandilar]], [[Shi'ar Empire]]; [[Shi'ar]] prison near [[Phygim]]; Shi'ar Warbird; [[Krakoa (Earth-616)|Krakoa]], deep space; [[Muir Island]]; MacTaggert Research Center, [[New York]]
 
 | Creators                = Ed Brubaker; Trevor Hairsine
@@ -113,7 +113,7 @@ While floating through the fault, Vulcan was pulled away by tentacles, into the 
 Later on they let him go back into his universe, with him believing himself to be healthy and whole. A changed man with a whole new and different personality and outlook on life. While trapping his usual persona deep within his mind, only to be unleashed through great emotional turmoil or when they deemed fit to their mysterious plans.{{r|X-Men Vol 5 10}} 
 
 ===Krakoa===
-Vulcan eventually resurfaced in the mutant-nation of Krakoa, and established residence in the [[Summer House]], a Krakoan habitat on the [[Blue Area of the Moon]], albeit with a vastly different attitude and demeanor than he had before. Gabriel lived with his two brothers [[Alexander Summers (Earth-616)|Havok]] and Cyclops, his niece and nephew [[Nathaniel Summers (Earth-616)|Cable]] and [[Rachel Summers (Earth-811)|Prestige]], his sister-in-law Jean Grey-Summers, as well as Wolverine. Gabriel had the habit of bringing various "acquaintances" with him from time-to-time (among them the resurrected [[Suzanne Chan (Earth-616)|Sway]] and [[Petra (Earth-616)|Petra]]) from the mainland.{{r|X-Men Vol 5 1}} During this time, Gabriel experienced a nightmare about the [[Fault]], which was connected to a looming Brood invasion on Krakoa over a Brood's King Egg that [[Rahne Sinclair (Earth-616)|Rahne Sinclair]] had brought back to the mutant island.{{r|X-Men Vol 5 8}}
+Vulcan eventually resurfaced in the mutant-nation of Krakoa, and established residence in the [[Summer House]], a Krakoan habitat on the [[Blue Area of the Moon]], albeit with a vastly different attitude and demeanor than he had before. Gabriel lived with his two brothers [[Alexander Summers (Earth-616)|Havok]] and Cyclops, his niece and nephew [[Nathan Summers (Earth-616)|Cable]] and [[Rachel Summers (Earth-811)|Prestige]], his sister-in-law Jean Grey-Summers, as well as Wolverine. Gabriel had the habit of bringing various "acquaintances" with him from time-to-time (among them the resurrected [[Suzanne Chan (Earth-616)|Sway]] and [[Petra (Earth-616)|Petra]]) from the mainland.{{r|X-Men Vol 5 1}} During this time, Gabriel experienced a nightmare about the [[Fault]], which was connected to a looming Brood invasion on Krakoa over a Brood's King Egg that [[Rahne Sinclair (Earth-616)|Rahne Sinclair]] had brought back to the mutant island.{{r|X-Men Vol 5 8}}
 
 ===Empyre===
 Vulcan started to have even more visions of his time in the Fault, and of the interdimensional aliens. After multiple nights of partying and drinking with Sway and Petra, in the Summer house on the [[Blue Area of the Moon]] he tried to shrug off these visions with margaritas with his friends. He decided to take a walk to discover what they meant. While walking, he discovered and greeted a small [[Cotati]] [[Empyre]] outpost while they were plotting to fire upon the Earth. He showed them kindness and preached non-violence against the Earth, especially [[Krakoa (Earth-616)|Krakoa]], but understood why they would want the destroy the rest of the world, due to the humans living on it. While trying to remain peaceful after they were trying to kill him, Vulcans original persona was unleashed causing great destruction to the small outpost, killing everyone there, except one that would perish after mentioning to his fellow soldiers a single word repeatedly: "Krakoa".{{r|X-Men Vol 5 10}}

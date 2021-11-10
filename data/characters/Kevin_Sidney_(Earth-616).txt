@@ -6,10 +6,10 @@
 | Aliases                 = Number Two,{{r|X-Men #37}} [[Professor X]],{{r|X-Men #41}} [[Charles Xavier]],{{r|X-Men #41}} Elvis{{r|Sensational She-Hulk #35}}
 
 | Affiliation             = Formerly {{m|X-Men}}, {{m|X-Humed}}, {{m|Factor Three}}
-| Relatives               = None, orphan{{r|Official Handbook of the Marvel Universe A-Z #2}}
+| Relatives               = None, orphan{{r|Official Handbook of the Marvel Universe A to Z Vol 1 2}}
 | MaritalStatus           = Single
 
-| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #2}}
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A to Z Vol 1 2}}
 | Gender                  = Male
 | Height                  = 5'11"
 | Weight                  = 180 lbs
@@ -21,12 +21,12 @@
 
 | Origin                  = [[Homo superior|Mutant]]
 | Reality                 = Earth-616
-| PlaceOfBirth            = Unrevealed{{r|Official Handbook of the Marvel Universe A-Z #2}}
+| PlaceOfBirth            = Unrevealed{{r|Official Handbook of the Marvel Universe A to Z Vol 1 2}}
 
 | Identity                = Secret
 | Citizenship             = American, Krakoan
-| Occupation              = Adventurer; former substitute teacher, subversive{{r|Official Handbook of the Marvel Universe A-Z #2}}
-| Education               = Unrevealed{{r|Official Handbook of the Marvel Universe A-Z #2}}
+| Occupation              = Adventurer; former substitute teacher, subversive{{r|Official Handbook of the Marvel Universe A to Z Vol 1 2}}
+| Education               = Unrevealed{{r|Official Handbook of the Marvel Universe A to Z Vol 1 2}}
 | BaseOfOperations        = [[Krakoa (Earth-616)|Krakoa]], [[Pacific Ocean]]; formerly [[Xavier's School for Gifted Youngsters]], [[Salem Center]], [[North Salem]], [[Westchester County]], [[New York (State)|New York]]
 
 | Creators                = Roy Thomas; Werner Roth
@@ -67,14 +67,14 @@ Changeling was presumably resurrected by the [[Five (Earth-616)|Five]] in [[Krak
 
 '''Telekinesis''': Possesses telekinetic abilities enabling him to manipulate matter on a low level with the energy of his thoughts.
 
-| Abilities               = Skilled actor, photographic memory{{r|Official Handbook of the Marvel Universe A-Z #2}}
+| Abilities               = Skilled actor, photographic memory{{r|Official Handbook of the Marvel Universe A to Z Vol 1 2}}
 | Strength                = 
 
 | Equipment               = A Siri ray-gun while under the employ of the Mutant Master.
 | Transportation          = Krakoan Gateways; duplicate of Professor X's wheelchair
 | Weapons                 = 
 
-| Notes                   = * The name "[[Kevin Sidney]]" was given for the Changeling in [[Official Handbook of the Marvel Universe: Book of the Dead 2004 Vol 1 1|2004's Book of the Dead]], and was later redacted in {{cl|Official Handbook of the Marvel Universe A-Z #2}}. A logical explanation for the difference in spelling would be that the 616 Changeling was only ever ''told'' his name, and never saw it in print.
+| Notes                   = * The name "[[Kevin Sidney]]" was given for the Changeling in [[Official Handbook of the Marvel Universe: Book of the Dead 2004 Vol 1 1|2004's Book of the Dead]], and was later redacted in {{cl|Official Handbook of the Marvel Universe A to Z Vol 1 2}}. A logical explanation for the difference in spelling would be that the 616 Changeling was only ever ''told'' his name, and never saw it in print.
 * Although the Changeling seemed destined for obscurity for many years, he was revived in alternate continuities as [[Morph]], first in the [[X-Men animated series]], later in the [[Age of Apocalypse]] and ''[[Exiles]]''.
 | Trivia                  = * Changeling was buried in Professor X's form, complete with Charles' brown suit. When he was reanimated to become a member of the Black Talon's Exhumed, he was suddenly wearing an X-Men uniform matching his teammates. Given that he was able to shape-shift his clothes into those matching Elvis Presley's while a member of this team, it is likely both the Professor's clothes and the X-Men uniform were the result of Changeling's ability.
 * [[Merlyn (Otherworld)|Merlyn]] once used magic to trick [[Excalibur (Earth-616)|Excalibur]] into thinking the Changeling's ghost was haunting them, though it wasn't true.

@@ -4,7 +4,7 @@
 | EditorialNames          = 
 | Aliases                 = 
 
-| OrganizationLeaders     = [[Arthur Nagan (Earth-616)|King of the Gorilla Men]]
+| Leaders                 = [[Arthur Nagan (Earth-616)|King of the Gorilla Men]]
 | CurrentMembers          = 
 | FormerMembers           = 
 

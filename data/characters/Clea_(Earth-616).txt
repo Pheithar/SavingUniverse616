@@ -16,12 +16,12 @@
 [[Victor Strange (Earth-616)|Victor Strange]] (brother-in-law, deceased)
 | MaritalStatus           = Widowed
 
-| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #2}}
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A to Z Vol 1 2}}
 | Gender                  = Female
 | Height                  = 5'8" 
 | Weight                  = 190lbs (86.2kg)
 | Eyes                    = Blue
-| Hair                    = White<!-- Official Handbook of the Marvel Universe A-Z #2 states her hair is white, not silver -->
+| Hair                    = White<!-- Official Handbook of the Marvel Universe A to Z Vol 1 2 states her hair is white, not silver -->
 | UnusualFeatures         = [[:Category:Flaming Body|Flaming]][[Category:Flaming Body]] Head. While she ruled the Dark Dimension, the Flames of Regency appeared on Clea's head.
 
 | Origin                  = [[Faltine]]/[[Mhuruuks|Mhuruuk]] Hybrid

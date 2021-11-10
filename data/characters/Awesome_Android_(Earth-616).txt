@@ -10,7 +10,7 @@
 [[Byte (Gammadroid) (Earth-616)|Byte]] (brother, deceased)
 | MaritalStatus           = Single
 
-| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #1}}
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A to Z Vol 1 1}}
 | Gender                  = Male
 | Height                  = 15'1" (Variable)
 | Weight                  = 1421 lbs (Variable)
@@ -102,7 +102,7 @@ He later joined the [[A.I. Army (Earth-616)|A.I. Army]], a group of artificial l
 
 | Notes                   = 
 | Trivia                  = 
-* Awesome Andy is a [[Wikipedia:New York Mets|New York Mets]] fan.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1| Awesome Android's Profile}}
+* Awesome Andy is a [[Wikipedia:New York Mets|New York Mets]] fan.{{r|Official Handbook of the Marvel Universe A to Z Vol 1 1| Awesome Android's Profile}}
 | Links                   = 
 
 }}

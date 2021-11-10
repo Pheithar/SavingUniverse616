@@ -3,14 +3,14 @@
 | Name                    = Magistrates
 | Aliases                 = [[Genoshan Magistrates]]
 
-| OrganizationLeaders     = [[Tam Anderson (Earth-616)|Tam Anderson]]
+| Leaders                 = [[Tam Anderson (Earth-616)|Tam Anderson]]
 | CurrentMembers          = 
 | FormerMembers           = [[Punchout]], [[Hawkshaw (Earth-616)|Hawkshaw]], [[Cormick Grimshaw (Earth-616)|Pipeline]], [[Wipeout (Earth-616)|Wipeout]], [[Alexander Summers (Earth-616)|Havok]], [[Tam Anderson (Earth-616)|Tam Anderson]], [[Character Index/M#Meg|Meg]], [[Character Index/M#Mollo|Mollo]], [[Character Index/T#Tyr|Tyr]]
 
 | Identity                = Public
 | Affiliation             =
 | Allies                  = [[Press Gang (Earth-616)|Press Gang]]
-| Enemies                 = [[Nathaniel Summers (Earth-616)|Cable]], [[Excalibur (Genoshan) (Earth-616)|Excalibur]], [[New Mutants (Earth-616)|New Mutants]], [[X-Factor (Earth-616)|X-Factor]], [[X-Force (Earth-616)|X-Force]], [[X-Men (Earth-616)|X-Men]]
+| Enemies                 = [[Nathan Summers (Earth-616)|Cable]], [[Excalibur (Genoshan) (Earth-616)|Excalibur]], [[New Mutants (Earth-616)|New Mutants]], [[X-Factor (Earth-616)|X-Factor]], [[X-Force (Earth-616)|X-Force]], [[X-Men (Earth-616)|X-Men]]
 
 | Origin                  = 
 | Reality                 = Earth-616

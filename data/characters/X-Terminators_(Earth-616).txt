@@ -10,7 +10,7 @@
 | BaseOfOperations        = Mobile
 
 | Leaders                 = 
-| CurrentMembers          = [[Nathaniel Summers (Earth-616)|Cable]], [[Tabitha Smith (Earth-616)|Boom Boom]], [[Takeshi Matsuya (Earth-616)|Wiz Kid]], [[Lila Cheney (Earth-616)|Lila Cheney]], [[Samuel Guthrie (Earth-616)|Cannonball]], [[Khora (Earth-616)|Khora of the Burning Heart]]
+| CurrentMembers          = [[Nathan Summers (Earth-616)|Cable]], [[Tabitha Smith (Earth-616)|Boom Boom]], [[Takeshi Matsuya (Earth-616)|Wiz Kid]], [[Lila Cheney (Earth-616)|Lila Cheney]], [[Samuel Guthrie (Earth-616)|Cannonball]], [[Khora (Earth-616)|Khora of the Burning Heart]]
 | FormerMembers           = [[Russell Collins (Earth-616)|Rusty Collins]], [[Leech (Earth-616)|Leech]], [[Arthur Maddicks (Earth-616)|Artie Maddicks]], [[Julio Richter (Earth-616)|Rictor]], [[Sally Blevins (Earth-616)|Skids]]
 | Allies                  = [[X-Men (Earth-616)|X-Men]], [[X-Factor (Earth-616)|X-Factor]]
 | Enemies                 = [[N'astirh (Earth-616)|N'astirh]], [[Dormammu (Earth-616)|Dormammu]]
@@ -27,7 +27,7 @@ Rusty attempted to turn himself over to the military to obey the law following h
 
 Following the end of Inferno, the X-Terminators disbanded when Artie, Leech, and Taki returned to St. Simons. Rusty, Skids, Boom-Boom, and Rictor all joined the New Mutants, serving with the team for a time.{{r|X-Factor Vol 1 40}}{{r|New Mutants Vol 1 76}}
 
-In the present day, [[Nathaniel Summers (Earth-616)|Cable]] formed a team to assist him in a mission on [[Breakworld]] which, although [[Tabitha Smith (Earth-616)|Boom-Boom]] declared the team an [[X-Force (Strike Team) (Earth-616)|X-Force]] reunion, [[Takeshi Matsuya (Earth-616)|Wiz Kid]] dubbed the All-New X-Terminators since X-Force was taken. The team successfully managed to obtain the necessary Breakworld technology, turn it into a gun, and appropriate it for Krakoa's use, and Cable noted that he would call on these allies again.{{r|Cable: Reloaded Vol 1 1}}
+In the present day, [[Nathan Summers (Earth-616)|Cable]] formed a team to assist him in a mission on [[Breakworld]] which, although [[Tabitha Smith (Earth-616)|Boom-Boom]] declared the team an [[X-Force (Strike Team) (Earth-616)|X-Force]] reunion, [[Takeshi Matsuya (Earth-616)|Wiz Kid]] dubbed the All-New X-Terminators since X-Force was taken. The team successfully managed to obtain the necessary Breakworld technology, turn it into a gun, and appropriate it for Krakoa's use, and Cable noted that he would call on these allies again.{{r|Cable: Reloaded Vol 1 1}}
 
 | Equipment               = 
 | Transportation          = 

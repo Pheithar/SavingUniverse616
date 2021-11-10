@@ -4,7 +4,7 @@
 {{Marvel Database:Character Template
 | Image                   = Amazing Spider-Man Vol 5 17 ComicXposure Exclusive Virgin Variant.jpg
 | Name                    = [[Greer Grant Nelson]]
-| NameRef                 = {{r|Official Handbook of the Marvel Universe A-Z Vol 1 12}}
+| NameRef                 = {{r|Official Handbook of the Marvel Universe A to Z Vol 1 12}}
 | CurrentAlias            = [[Tigra]]
 | Codenames               = [[Cat]]{{r|The Cat Vol 1 1}}
 | Nicknames               = Tiger-Woman{{r|West Coast Avengers Vol 2 1}}
@@ -18,7 +18,7 @@
 | Relatives               = 
 | MaritalStatus           = Widowed 
 
-| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z Vol 1 12}}
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A to Z Vol 1 12}}
 | Gender                  = Female
 | Height                  = 5'10"
 | Weight                  = 180 lbs
@@ -120,26 +120,26 @@ Arriving for Nadia's birthday with her family and friends, Greer introduced hers
 
 | Powers                  = '''Feline Physiology:''' Tigra's feline physiology grants her a number of superhuman physical capabilities.
 
-*'''Superhuman Strength:''' Tigra possesses superhuman strength sufficient to lift about 10 tons. Her physical strength also extends, to a lesser degree, to her powerful leg muscles allowing her to perform a standing jump of 12 feet in height.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 12}}
+*'''Superhuman Strength:''' Tigra possesses superhuman strength sufficient to lift about 10 tons. Her physical strength also extends, to a lesser degree, to her powerful leg muscles allowing her to perform a standing jump of 12 feet in height.{{r|Official Handbook of the Marvel Universe A to Z Vol 1 12}}
 
-*'''Superhuman Speed:''' Tigra can run and move at speeds superior to that of even the finest human athlete and reach 70mph.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 12}}
+*'''Superhuman Speed:''' Tigra can run and move at speeds superior to that of even the finest human athlete and reach 70mph.{{r|Official Handbook of the Marvel Universe A to Z Vol 1 12}}
 
-*'''Superhuman Stamina:''' Tigra is capable of performing at peak condition for more then 90 minutes straight without growing tired.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 12}}
+*'''Superhuman Stamina:''' Tigra is capable of performing at peak condition for more then 90 minutes straight without growing tired.{{r|Official Handbook of the Marvel Universe A to Z Vol 1 12}}
 
-*'''Superhuman Durability'''{{r|Official Handbook of the Marvel Universe A-Z Vol 1 12}}
+*'''Superhuman Durability'''{{r|Official Handbook of the Marvel Universe A to Z Vol 1 12}}
 
-*'''Superhuman Agility'''{{r|Official Handbook of the Marvel Universe A-Z Vol 1 12}}
+*'''Superhuman Agility'''{{r|Official Handbook of the Marvel Universe A to Z Vol 1 12}}
 
-*'''Superhuman Reflexes'''{{r|Official Handbook of the Marvel Universe A-Z Vol 1 12}}
+*'''Superhuman Reflexes'''{{r|Official Handbook of the Marvel Universe A to Z Vol 1 12}}
 
-*'''Superhuman Senses:''' Tigra's senses are about ten times as keen as an average human's, and about five times that of an average cat's. Tigra's eyesight extends into the infrared portion of the electromagnetic spectrum. She has superhuman visual acuity. Her vertically-slit pupils allow a greater range of vision above and below her, which allows her to more easily detect the movements of an opponent. Tigra's hearing is sufficiently acute as to detect a ball of tissue paper being dropped at a distance of 40 feet. With her highly developed sense of smell, she can selectively sort through various odors so as to follow a quarry's trail. She can detect subtle alterations in the composition of perspiration that reflect mood or emotions, and is highly sensitive to pheromones.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 12}}
+*'''Superhuman Senses:''' Tigra's senses are about ten times as keen as an average human's, and about five times that of an average cat's. Tigra's eyesight extends into the infrared portion of the electromagnetic spectrum. She has superhuman visual acuity. Her vertically-slit pupils allow a greater range of vision above and below her, which allows her to more easily detect the movements of an opponent. Tigra's hearing is sufficiently acute as to detect a ball of tissue paper being dropped at a distance of 40 feet. With her highly developed sense of smell, she can selectively sort through various odors so as to follow a quarry's trail. She can detect subtle alterations in the composition of perspiration that reflect mood or emotions, and is highly sensitive to pheromones.{{r|Official Handbook of the Marvel Universe A to Z Vol 1 12}}
 
-*'''Fangs and Claws:''' Tigra's fangs and claws are extremely sharp and tough, enabling her to rend through a variety of substances including a variety of metals.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 12}}
+*'''Fangs and Claws:''' Tigra's fangs and claws are extremely sharp and tough, enabling her to rend through a variety of substances including a variety of metals.{{r|Official Handbook of the Marvel Universe A to Z Vol 1 12}}
 
 *'''Empathy:''' Tigra has the ability to enhance and control the emotions of others to a degree. This even allows her to restore and sense people's repressed memories.{{r|Avengers: The Initiative Vol 1 29}}
 
-| Abilities               = Tigra is a good hand-to-hand combatant and pilot. Her senses also afford her impressive tracking skills.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 12}}
-| Strength                = Class 10{{r|Official Handbook of the Marvel Universe A-Z Vol 1 12}}
+| Abilities               = Tigra is a good hand-to-hand combatant and pilot. Her senses also afford her impressive tracking skills.{{r|Official Handbook of the Marvel Universe A to Z Vol 1 12}}
+| Strength                = Class 10{{r|Official Handbook of the Marvel Universe A to Z Vol 1 12}}
 | Weaknesses              =
 | Equipment               = * '''[[Cat's Head Amulet]]:''' Tigra wears a cat's head amulet around her throat which serves as a talisman for her change from feline form to human and vice versa.{{r|Giant-Size Creatures Vol 1 1}}
 ''Formerly'' 

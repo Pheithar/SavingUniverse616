@@ -1,5 +1,5 @@
 {{Marvel Database:Character Template
-| Image                   = MacDonald Gargan (Earth-616) from Amazing Spider-Man Vol 5 17 001.jpg
+| Image                   = Avengers Vol 8 17 Spider-Man Villains Variant Textless.jpg
 | Name                    = [[Scorpion|MacDonald "Mac" Gargan]]
 | NameRef                 = {{r|Amazing Spider-Man #19}}
 | CurrentAlias            = [[Scorpion]]
@@ -17,7 +17,7 @@
 [[Venom (Symbiote) (Earth-616)|Venom]] (former symbiote)
 | MaritalStatus           = Single
 
-| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z Vol 1 12}}
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A to Z Vol 1 12}}
 | Gender                  = Male
 | Height                  = 6'2"
 | Weight                  = 220 lbs

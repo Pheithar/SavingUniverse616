@@ -1,7 +1,7 @@
 {{Marvel Database:Character Template
 | Image                   = Darkhawk Vol 1 51 Mora Variant Textless.jpg
 | Name                    = [[Christopher Powell|Christopher "Chris" Powell]]
-| Name2                   = {{r|Official Handbook of the Marvel Universe A-Z Vol 1 3}}
+| Name2                   = {{r|Official Handbook of the Marvel Universe A to Z Vol 1 3}}
 | CurrentAlias            = [[Darkhawk]]
 | Aliases                 = Bucket-Head,{{r|New Warriors #23}} D.H.{{r|The Loners Vol 1 1}} Drughawk,{{r|The Loners Vol 1 1}} Edge-Man,{{r|Darkhawk #1}} [[Christopher Powell (Earth-398)|Falconer]],{{r|Avengers Vol 3 2}} The Powell{{r|Darkhawk Annual Vol 1 3}}
 
@@ -12,7 +12,7 @@
 [[Miranda Cruz (Earth-616)|Miranda Cruz]] (fiancée)
 | MaritalStatus           = Engaged
 
-| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #3}}
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A to Z Vol 1 3}}
 | Gender                  = Male
 | Height                  = 5'9"; 6'1" (as Darkhawk)
 | Weight                  = 150 lbs; 180 lbs (as Darkhawk)

@@ -3,7 +3,7 @@
 | Name                    = [[Hellfire Club|Hellfire Trading Company]]
 | Aliases                 = Hellfire Club,{{r|X-Men Vol 1 #129}} Council of the Chosen, Lords Cardinal,{{Citation}} Sacred Ones,{{Citation}} Leaders of Hell,{{Citation}} Order of the Friars of St. Francis of Wycombe{{r|Marvel Frontier Comics Unlimited Vol 1 1}}
 
-| OrganizationLeaders     = [[Emma Frost (Earth-616)|White Queen]]<br>'''[[Lord Imperial]]:''' ''vacant''
+| Leaders                = [[Emma Frost (Earth-616)|White Queen]]<br>'''[[Lord Imperial]]:''' ''vacant''
 <br>Formerly: [[Elias Bogan (Earth-616)|Elias Bogan]], [[Gordon Phillips (Earth-616)|Gordon Phillips]], [[Roberto Da Costa (Earth-616)|Roberto Da Costa]], [[Sebastian Shaw (Earth-616)|Sebastian Shaw]]
 | CurrentMembers          = 
 [[Hellfire Club (Earth-616)/Members]]
@@ -40,7 +40,7 @@
 | Identity                = Public
 | Affiliation             =
 | Allies                  = [[Christopher Aaronson (Earth-616)|Christopher Aaronson]], [[Vance Astrovik (Earth-616)|Vance Astrovik]], [[Candra (Earth-616)|Candra]], [[E.V.A. (Earth-616)|E.V.A.]], [[Charlie Cluster-7 (Earth-616)|Fantomex]], [[Adrienne Frost (Earth-616)|Adrienne Frost]], [[Glitch (Earth-616)|Glitch]],{{r|Iron Man: Kiss & Kill Vol 1 1}} [[Paul Hark (Earth-616)|Paul Hark]], [[Alice Hayes (Earth-616)|Alice Hayes]], [[Gene Hayes (Earth-616)|Gene Hayes]],{{r|Runaways Vol 3 10}} [[Hellions (Earth-616)|Hellions]], [[Robert Kelly (Earth-616)|Robert Kelly]], [[X-Men (Magneto's) (Earth-616)|Magneto's X-Men]], [[Marauders (Pryde) (Earth-616)|Marauders]], [[Nemesis (Earth-295)|Nemesis]], [[Claudine Renko (Earth-616)|Claudine Renko]], [[Mitchell Tanner (Earth-616)|Mitchell Tanner]], [[X-Men (Earth-616)|X-Men]]
-| Enemies                 = [[Nathaniel Summers (Earth-616)|Cable]], [[Carol Danvers (Earth-616)|Captain Marvel]], [[Wade Wilson (Earth-616)|Deadpool]], [[Excalibur (Earth-616)|Excalibur]], [[Homines Verendi (Earth-616)|Homines Verendi]], [[Barbara Morse (Earth-616)|Mockingbird]], [[New Mutants (Earth-616)|New Mutants]], [[Reavers (Earth-616)|Reavers]], [[Someday Enterprises (Earth-616)|Someday Enterprises]], [[Upstarts (Earth-616)|Upstarts]], [[X-Men (Earth-616)|X-Men]]
+| Enemies                 = [[Nathan Summers (Earth-616)|Cable]], [[Carol Danvers (Earth-616)|Captain Marvel]], [[Wade Wilson (Earth-616)|Deadpool]], [[Excalibur (Earth-616)|Excalibur]], [[Homines Verendi (Earth-616)|Homines Verendi]], [[Barbara Morse (Earth-616)|Mockingbird]], [[New Mutants (Earth-616)|New Mutants]], [[Reavers (Earth-616)|Reavers]], [[Someday Enterprises (Earth-616)|Someday Enterprises]], [[Upstarts (Earth-616)|Upstarts]], [[X-Men (Earth-616)|X-Men]]
 
 | Origin                  = The Hellfire Club began in [[England]] as a social club for the social elite and wealthy in the 1760s.
 | Reality                 = Earth-616

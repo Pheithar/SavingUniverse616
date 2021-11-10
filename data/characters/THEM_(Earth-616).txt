@@ -3,7 +3,7 @@
 | Name                    = THEM
 | Aliases                 = 
 
-| OrganizationLeaders     = [[Wolfgang von Strucker (Earth-616)|Grand Imperator]]
+| Leaders                 = [[Wolfgang von Strucker (Earth-616)|Grand Imperator]]
 | CurrentMembers          = 
 | FormerMembers           = 
 

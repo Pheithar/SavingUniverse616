@@ -10,7 +10,7 @@
 | Relatives               = 
 | MaritalStatus           = Single
 
-| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #1}}
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A to Z Vol 1 1}}
 | Gender                  = Male
 | Height                  = 6'7" (Bill); 5'9" (Walters)
 | Weight                  = 480 lbs (Bill); 132 lbs (Walters)

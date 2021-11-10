@@ -1,7 +1,7 @@
 {{Marvel Database:Character Template
 | Image                   = Delilah (Earth-616) from Official Handbook of the Marvel Universe Spider-Man Back in Black Vol 1 1 0001.jpg
 | Name                    = possibly [[Delilah]]
-| NameRef                 = {{r|Official Handbook of the Marvel Universe A-Z #3}}
+| NameRef                 = {{r|Official Handbook of the Marvel Universe A to Z Vol 1 3}}
 | CurrentAlias            = Delilah
 | Aliases                 = 
 
@@ -9,7 +9,7 @@
 | Relatives               = 
 | MaritalStatus           = 
 
-| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #3}}
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A to Z Vol 1 3}}
 | Gender                  = Female
 | Height                  = 5'9"
 | Weight                  = 125 lbs 

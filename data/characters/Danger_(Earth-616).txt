@@ -17,7 +17,7 @@
 | Eyes                    = Metallic Blue
 | Hair                    = None; blue wires instead of hair
 | UnusualFeatures         = Danger is an artificial being constructed of metal alloys. While Danger has no actual gender, it has taken physical shape resembling that of a humanoid female
-| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #3}}
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A to Z Vol 1 3}}
 
 | Origin                  = [[Non-Human Mutants#Robotic beings|Robotic Mutant]] [[Glossary:Artificial Intelligence|Artificial Intelligence]]{{r|Astonishing X-Men Vol 3 9}}{{r|Heroic Age: X-Men #1}}{{r|Nation X #3}} ([[Danger Room]] and <nowiki>Shi'ar</nowiki> tech mutated){{r|Origins of Marvel Comics: X-Men #1}}
 | Reality                 = Earth-616

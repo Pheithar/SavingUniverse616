@@ -3,7 +3,7 @@
 | Name                    = [[United Nations|The United Nations]]
 | Aliases                 = UN,{{r|Dazzler #3}} U.N.
 
-| OrganizationLeaders     = [[Secretary-General of the United Nations]]; [[António Guterres (Earth-616)|António Guterres]] {{r|Punisher Vol 12 1}}
+| Leaders                 = [[Secretary-General of the United Nations]]; [[António Guterres (Earth-616)|António Guterres]] {{r|Punisher Vol 12 1}}
 | CurrentMembers          = [[United Nations Security Council (Earth-616)|Security Souncil]], [[:Category:United Nations Member States|Assembly]]
 | FormerMembers           = [[Ban Ki-moon (Earth-616)|Ban Ki-moon]]
 

@@ -3,7 +3,7 @@
 | Name                    = Chitauri Wave
 | Aliases                 = 
 
-| OrganizationLeaders     = 
+| Leaders                 = 
 | CurrentMembers          = 
 | FormerMembers           = 
 

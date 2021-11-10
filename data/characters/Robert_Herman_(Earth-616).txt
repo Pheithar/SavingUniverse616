@@ -1,7 +1,7 @@
 {{Marvel Database:Character Template
 | Image                   = Robert Herman (Earth-616) from New Mutants Vol 4 11 001.jpg
 | Name                    = [[Robert Herman]]
-| Name2                   = {{r|Official Handbook of the Marvel Universe A-Z #13}}
+| Name2                   = {{r|Official Handbook of the Marvel Universe A to Z Vol 1 13}}
 | CurrentAlias            = [[Glob Herman]]
 | Aliases                 = [[Glob]], [[Inhuman Torch]]{{r|New X-Men #137}}
 

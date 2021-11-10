@@ -3,12 +3,15 @@
 | Name                    = [[Karla Sofen|Dr. Karla Sofen]]
 | NameRef                 = {{r|Incredible Hulk Vol 1 228}}
 | CurrentAlias            = [[Moonstone]]
-| Aliases                 = [[Meteorite]],{{r|Incredible Hulk #449}} Kate Sorenson,{{r|Thunderbolts #15}} [[Ms. Marvel]],{{r|Avengers: The Initiative #25}} [[Captain Marvel]],{{r|Dark Avengers #185}} Miss Moon (by [[Kobik (Earth-616)|Kobik]]){{r|Thunderbolts Vol 3 3}}, Dr. Sophien{{r|Strikeforce Vol 1 6}}
+| Codenames               = [[Captain Marvel]],{{r|Dark Avengers #185}} [[Meteorite]],{{r|Incredible Hulk #449}} [[Ms. Marvel]]{{r|Avengers: The Initiative #25}}
+| Nicknames               = Miss Moon{{r|Thunderbolts Vol 3 3}}
+| Aliases                 = Dr. Sophien,{{r|Strikeforce Vol 1 6}} Kate Sorenson{{r|Thunderbolts #15}}
 
 | Affiliation             = [[Ravencroft Institute]]; formerly {{m|Thunderbolts}}, {{M|Army of Evil}}, {{M|Masters of Evil}}, {{m|Dark Avengers}} ({{m|H.A.M.M.E.R.}}/{{m|50-State Initiative|Initiative}}), {{M|Femizons}}, the {{m|Corporation}}, former ally of [[Johann Fennhoff (Earth-616)|Doctor Faustus]], former partner of [[Marcus Daniels (Earth-616)|Blackout (Marcus Daniels)]]
-| Relatives               = Unnamed maternal grandparents (possibly deceased);<br>
-[[Marion Sofen (Earth-616)|Marion Sofen]] (mother, deceased);<br>
+| Grandparents            = Unnamed maternal grandparents (possibly deceased)
+| Parents                 = [[Marion Sofen (Earth-616)|Marion Sofen]] (mother, deceased);<br>
 [[Karl Sofen (Earth-616)|Karl Sofen]] (father, deceased)
+| Relatives               = 
 | MaritalStatus           = Single
 
 | CharRef                 = {{cl|Official Handbook of the Marvel Universe: Women of Marvel 2005 Vol 1 1}}
@@ -168,7 +171,7 @@ Moonstone's next scheme began by stealing the digital consciousness of [[Ghost (
 
 '''Expert Hypnotist:''' She is particularly skilled in using hypnosis. Like her predecessor, Doctor Faustus, Moonstone has perfect pitch and modulation in her voice, and was even able to use these talents to cause [[Thaddeus Ross (Earth-616)|Thunderbolt Ross]] to suffer a complete nervous breakdown.{{citation}}
 | Strength                = Class 10. Karla can lift around 10 tons.{{citation}}
-| Weaknesses              =If the stone is removed from her body, Karla will die in 72 hours without its support. 
+| Weaknesses              = If the stone is removed from her body, Karla will die in 72 hours without its support.{{citation}}
 
 | Equipment               =
 | Transportation          =

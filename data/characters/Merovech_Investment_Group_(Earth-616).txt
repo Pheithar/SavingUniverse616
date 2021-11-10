@@ -3,7 +3,7 @@
 | Name                    = Merovech Investment Group
 | Aliases                 = 
 
-| OrganizationLeaders     = Formerly [[Wolfgang von Strucker (Earth-616)|Baron Wolfgang von Strucker]]
+| Leaders                 = Formerly [[Wolfgang von Strucker (Earth-616)|Baron Wolfgang von Strucker]]
 | CurrentMembers          = 
 | FormerMembers           = Hilary{{r|New Thunderbolts #1}}
 

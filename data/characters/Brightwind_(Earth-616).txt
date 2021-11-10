@@ -21,6 +21,8 @@
 | Origin                  = [[Glossary:Mutate|Mutated]] [[Valkyrior Steeds|Horse]]
 | Reality                 = Earth-616
 | PlaceOfBirth            = 
+| CauseOfDeath            = Killed by [[Reignfire (Earth-616)|Reignfire]],{{r|X-Force Vol 1 43}} resurrected by [[Hela (Earth-616)|Hela]]{{r|Dark Avengers / Uncanny X-Men: Exodus Vol 1 1}}
+| KilledBy                = Reignfire (Earth-616)
 
 | Identity                = No Dual
 | Citizenship             = 
@@ -33,7 +35,7 @@
 
 | History                 = [[Danielle Moonstar (Earth-616)|Dani Moonstar]]'s [[Asgardian]] horse. By saving Brightwind from a snare and bonding with the horse, Dani was chosen to become one of the [[Valkyrior (Earth-616)|Valkyrior]].{{r|New Mutants Special Edition #1}}
 
-When Moonstar fell from grace in Asgard, she returned to Earth and her horse became known as Darkwind.{{r|X-Force #27}}
+When Moonstar fell from grace in Asgard, she returned to Earth and her horse became known as Darkwind.{{r|X-Force #27}} They infiltrated [[Reignfire (Earth-616)|Reignfire's]] [[Mutant Liberation Front (Earth-616)|Mutant Liberation Front]], but were discovered and Reignfire killed Brightwind.{{r|X-Force Vol 1 43}} Brightwind's spirit returned to Asgard.{{r|Marvel Pets Handbook Vol 1 1}} He was returned to Dani when she made a deal with [[Hela (Earth-616)|Hela]] to gain enough power to confront [[Ares (Earth-616)|Ares]]{{r|Dark Avengers / Uncanny X-Men: Exodus Vol 1 1}}
 
 | Powers                  = Flight
 | Abilities               = 

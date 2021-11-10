@@ -20,7 +20,7 @@
 | UnusualSkinColor 2      = /[[:Category:Purple Skin|Purple]][[Category:Purple Skin]]
 | UnusualFeatures         = One eye
 
-| Origin                  = [[Celestials (Race)|Celestial]] turned into a [[Dark Celestials (Horde)|Dark Celestial]] by the [[Horde (Race)|Horde]]
+| Origin                  = [[Celestials|Celestial]] turned into a [[Dark Celestials (Horde)|Dark Celestial]] by the [[Horde (Race)|Horde]]
 | Reality                 = Earth-616
 | PlaceOfBirth            = 
 
@@ -37,7 +37,7 @@
 | Speaker                 = [[Zgreb (Earth-616)|The Fallen]]
 | QuoteSource             = Marvel Legacy Vol 1 1
 
-| History                 = Zgreb the Aspirant was a [[Celestials (Race)|Celestial]] that came to [[Earth]] a million years ago in search of its fellow Celestial, the [[Progenitor (Celestial) (Earth-616)|Progenitor]]. Upon finding the Progenitor, the Fallen became inflicted with the same [[Horde (Race)|Horde]] that affected it,{{r|Avengers Vol 8 5}} causing it to become deranged. It was eventually defeated by the [[Avengers (1,000,000 BC) (Earth-616)|Avengers]] of the Stone Age and buried deep underground in what would become the modern-day country of [[South Africa]], bound by powerful spells. 
+| History                 = Zgreb the Aspirant was a [[Celestials|Celestial]] that came to [[Earth]] a million years ago in search of its fellow Celestial, the [[Progenitor (Celestial) (Earth-616)|Progenitor]]. Upon finding the Progenitor, the Fallen became inflicted with the same [[Horde (Race)|Horde]] that affected it,{{r|Avengers Vol 8 5}} causing it to become deranged. It was eventually defeated by the [[Avengers (1,000,000 BC) (Earth-616)|Avengers]] of the Stone Age and buried deep underground in what would become the modern-day country of [[South Africa]], bound by powerful spells. 
 
 In modern times, a team of archaeologists uncovered the underground cavern where Zgreb had been sealed into, leading to their deaths at the hands of the Celestial. Later, [[Loki Laufeyson (Ikol) (Earth-616)|Loki]], the [[Asgardians|Asgardian]] God of Mischief,{{r|Marvel Legacy Vol 1 1}} released Zgreb from its prison{{r|Free Comic Book Day Vol 2018 Avengers}} and used it bring about the Final Host of [[Dark Celestials (Horde)|Dark Celestials]],{{r|Avengers Vol 8 1}} so that a threat of their magnitude would reassemble the modern-day [[Avengers (Earth-616)|Avengers]].{{r|Avengers Vol 8 8}} Some of Earth's heroes attempted to fend off the invaders to no avail.{{r|Avengers Vol 8 2}}
 
@@ -45,7 +45,7 @@ In modern times, a team of archaeologists uncovered the underground cavern where
 
 Despite their combined strength, the Avengers failed to overpower the Dark Celestials, and in the middle of the battle, the Horde revived the bodies of the Celestials they had infected and felled. After learning of the connection between the Progenitor's death, the Horde and the genetic makeup of humankind, Iron Man rallied the Avengers to join their energies to form a [[Uni-Mind]], since he had been passed on the secrets on how to summon it by [[Ikaris (Earth-616)|Ikaris]] while investigating the Dark Celestials' arrival. Using the Ghost Rider as a conduit for the Uni-Mind, the Avengers rendered the Horde dormant, reviving the zombified Celestials. The Avengers and the Celestials combined their forces and defeated the Dark Celestials.{{r|Avengers Vol 8 6}} The Dark Celestials were subsequently apprehended by the Celestials and teleported away from Earth.{{r|Avengers Vol 8 8}}
 
-| Powers                  = Seemingly [[Celestials (Race)#Powers|those]] of an average [[Celestials (Race)|Celestial]]. It possessed enough durability to withstand the flames of the [[Phoenix Force (Earth-616)|Phoenix Force]] whose host claimed could melt a supernova as well as a blow from a flying [[Mjolnir]].{{r|Marvel Legacy Vol 1 1}}
+| Powers                  = Seemingly [[Celestials#Powers|those]] of an average [[Celestials|Celestial]]. It possessed enough durability to withstand the flames of the [[Phoenix Force (Earth-616)|Phoenix Force]] whose host claimed could melt a supernova as well as a blow from a flying [[Mjolnir]].{{r|Marvel Legacy Vol 1 1}}
 | Abilities               = 
 | Strength                = Likely beyond Class 100.
 | Weaknesses              = 

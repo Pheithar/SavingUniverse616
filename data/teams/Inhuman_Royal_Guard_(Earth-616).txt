@@ -20,7 +20,7 @@
 | Origin                  = 
 | PlaceOfFormation        = 
 | PlaceOfDissolution      = 
-| Creators                = 
+| Creators                = Paul Jenkins; Jae Lee
 | First                   = Inhumans Vol 2 1
 | Last                    = 
 

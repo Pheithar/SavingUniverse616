@@ -9,12 +9,10 @@
 | MaritalStatus           = Married
 
 | CharRef                 = {{cl|Defenders: Strange Heroes Vol 1 1}}
-| Gender                  = Female
-| Gender2                 = ; formerly [[:Category:Male/Female Characters|Male/Female]][[Category:Male/Female Characters]] when merged with Stakar
+| Gender                  = Female; formerly [[:Category:Male/Female Characters|Male/Female]][[Category:Male/Female Characters]] when merged with Stakar
 | Height                  = 6'0"
 | Weight                  = 149 lbs 
-| Eyes                    = Gold
-| Eyes2                   = ; sometimes [[:Category:White Eyeballs|White Eyeballs]][[Category:White Eyeballs]] with [[:Category:No visible Irises or Pupils|no visible irises or pupils]][[Category:No visible Irises or Pupils]]; Formerly [[:Category:Blue Eyes|Blue]][[Category:Blue Eyes]][[Category:Infobox Eyes Update Needed]]
+| Eyes                    = Gold; sometimes White Eyeballs with no visible irises or pupils; Formerly [[:Category:Blue Eyes|Blue]][[Category:Blue Eyes]]
 | Hair                    = Blonde
 | UnusualFeatures         = 
 
@@ -28,7 +26,7 @@
 | Education               = Unknown
 | BaseOfOperations        = Mobile
 
-| Creators                = Steve Gerber; Sal Buscema;
+| creators                = Steve Gerber; Sal Buscema;
 | First                   = Defenders Vol 1 29
 
 | Quotation               = [[Loki Laufeyson (Earth-691)|Your]] '''attitude''' is reminiscent of '''another''' man I knew... I showed my '''ex-husband''' no mercy, nor shall '''you''' receive any!

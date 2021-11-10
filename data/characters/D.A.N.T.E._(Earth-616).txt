@@ -3,7 +3,7 @@
 | Name                    = D.A.N.T.E.
 | Aliases                 = 
 
-| OrganizationLeaders     = [[Emil Stein (Earth-616)|Emil Stein]]
+| Leaders                 = [[Emil Stein (Earth-616)|Emil Stein]]
 | CurrentMembers          = [[Beck (Assassin) (Earth-616)|Beck]]
 | FormerMembers           = 
 

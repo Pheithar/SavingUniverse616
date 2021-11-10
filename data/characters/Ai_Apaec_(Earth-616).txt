@@ -1,7 +1,8 @@
 {{Marvel Database:Character Template
-| Name                    = [[Ai Apaec]]
+| Name                    = [[Ai Apaec]]{{r|Osborn Vol 1 1}}
 | CurrentAlias            = [[Spider-Man]]
-| Aliases                 = The Decapitator,{{r|Osborn #1}}, [[Dark Spider-Man]]{{r|Dark Avengers #175}}
+| CurrentAliasRef            ={{r|New Avengers Vol 2 18}}
+| Aliases                 = [[Ai Apaec|The Decapitator]],{{r|Osborn #1}} [[Dark Spider-Man]]{{r|Dark Avengers #175}}
 
 | Affiliation             = {{M|Dark Avengers (Earth-616)}}, [[Apu]]
 | Relatives               = 
@@ -99,7 +100,7 @@ The Dark Avengers have been captured by Spider-Man's gang, who demand to know wh
 
 The Dark Avengers battled Dr. Strange, when Misty Knight called for [[Captain America's Shield]], Dr. Strange conjured up a deadly spell, only for it to deflect off the shield and kill [[Clea (Earth-13584)|Clea]]. Enraged, Strange readied an even more powerful spell, but Ai Apaec hit him with all the poison he had, killing the Sorcerer Supreme.{{r|Dark Avengers #189}}
 
-Skaar, meanwhile, learned from [[Reed Richards (Earth-13584)|Reed Richards]] and a captured AIM agent that AIM was behind the Dark Earth, having twisted reality. [[Karla Sofen (Earth-616)|Moonstone]] and Skaar were freed, and the united Dark Avengers go after AIM. They escape the pocket dimension as it collapses, returning to New York of Earth-616. Skaar abandons them, and Toxic Doxie stepped on a still-shrunken Ai Apaec, possibly killing him. But due his god like status this has still not been confirmed.{{r|Dark Avengers #190}}
+Skaar, meanwhile, learned from [[Reed Richards (Earth-13584)|Reed Richards]] and a captured AIM agent that AIM was behind the Dark Earth, having twisted reality. [[Karla Sofen (Earth-616)|Moonstone]] and Skaar were freed, and the united Dark Avengers go after AIM. They escape the pocket dimension as it collapses, returning to New York of Earth-616. Skaar abandons them, and Toxic Doxie stepped on a still-shrunken Ai Apaec, possibly killing him. But due to his god like status this has still not been confirmed.{{r|Dark Avengers #190}}
 
 | Powers                  = 
 [[File:Ai Apaec (Earth-616) from Osborn Vol 1 1 001.jpg|right|thumb|300px]]

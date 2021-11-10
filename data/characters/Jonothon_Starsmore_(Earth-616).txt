@@ -1,7 +1,7 @@
 {{Marvel Database:Character Template
 | Image                   = Jonothon Starsmore (Earth-616) from New Mutants Vol 4 1 Young Guns Variant cover.jpg 
 | Name                    = [[Jonothon Starsmore|Jonothon "Jono" Evan Starsmore]]
-| NameRef                 = {{r|Official Handbook of the Marvel Universe A-Z Vol 1 3}}
+| NameRef                 = {{r|Official Handbook of the Marvel Universe A to Z Vol 1 3}}
 | CurrentAlias            = [[Chamber]]
 | Codenames               = [[Decibel]]{{r|New Warriors Vol 4 3}}
 | Nicknames               = Blue Banshee,{{r|New Warriors Vol 4 8}} Blue Boy,{{r|New Warriors Vol 4 9}} "Walking Band-Aid"{{r|Generation X Vol 1 1}}
@@ -13,7 +13,7 @@
 | Relatives               = [[Clan Akkaba (Earth-616)|Clan Akkaba]]/[[:Category:Akkaba Family|Family]] (distant relatives)
 | MaritalStatus           = Single
 
-| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z Vol 1 3}}
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A to Z Vol 1 3}}
 | Gender                  = Male
 | Height                  = 5'9"
 | Weight                  = 140 lbs
@@ -32,7 +32,7 @@
 | Identity                = Secret
 | Citizenship             = British, Krakoan
 | Occupation              = Adventurer; formerly teacher, Weapon X agent, bartender,{{r|Wolverine: Black, White & Blood Vol 1 3}} student
-| Education               = High School (incomplete){{r|Official Handbook of the Marvel Universe A-Z Vol 1 3}}
+| Education               = High School (incomplete){{r|Official Handbook of the Marvel Universe A to Z Vol 1 3}}
 
 | BaseOfOperations        = '''[[Krakoa (Earth-616)|Krakoa]]''';{{r|New Mutants Vol 4 1}}<br>
 formerly:
@@ -123,7 +123,7 @@ He was for a time depowered,{{r|Generation M #1}} but [[David Haller (Earth-616)
 
 He was stated by [[Peter Wisdom (Earth-616)|Pete Wisdom]] to be a '''potential [[Mutant Power Level Classification#Omega Level Mutants|Omega-Class]] [[Homo superior|mutant]]''', after his repoweration by [[En Sabah Nur (Earth-616)|Apocalypse]]'s blood.{{r|New Excalibur Vol 1 9}}
 
-'''Psionic Biokinesis:''' Chamber was a mutant who was naturally composed of pure psionic energy. In truth his physical body was just a shell for what he truly was.{{r|Generation X Vol 1 11}}{{r|Generation X Vol 1 50}}{{r|Official Handbook of the Marvel Universe A-Z Vol 1 3}} The initial emergence of his powers blew a hole in his chest and lower face, completely incinerating most of his internal organs.{{r|Weapon X Vol 2 16}}{{r|Official Handbook of the Marvel Universe A-Z Vol 1 3}} Because of this, Chamber no longer needed to eat, drink, or breathe.{{r|Generation X Vol 1 11}} Oddly enough, Chamber's blood did continue to flow through his extremities.{{r|New Excalibur Vol 1 9}}{{r|Generation X Vol 2 9}}
+'''Psionic Biokinesis:''' Chamber was a mutant who was naturally composed of pure psionic energy. In truth his physical body was just a shell for what he truly was.{{r|Generation X Vol 1 11}}{{r|Generation X Vol 1 50}}{{r|Official Handbook of the Marvel Universe A to Z Vol 1 3}} The initial emergence of his powers blew a hole in his chest and lower face, completely incinerating most of his internal organs.{{r|Weapon X Vol 2 16}}{{r|Official Handbook of the Marvel Universe A to Z Vol 1 3}} Because of this, Chamber no longer needed to eat, drink, or breathe.{{r|Generation X Vol 1 11}} Oddly enough, Chamber's blood did continue to flow through his extremities.{{r|New Excalibur Vol 1 9}}{{r|Generation X Vol 2 9}}
 * '''''Biokinetic Flame:''''' Chamber constantly created and unleashed psionic charges of energy that could strike with volatile force. This energy could be projected as a blast from his chest, a series of guided streams that struck specific targets, or as a massive eruption striking in all directions.{{r|Generation X Vol 1 1}}{{r|Uncanny X-Men Vol 1 395}}
 * '''''Telepathy:''''' After the manifestation of his powers and the loss of half his face, Chamber could only speak via telepathy.{{r|Generation X Vol 1 42}} Chamber was seemingly not capable of probing thoughts, however, after a lot of training, he could use his abilities to hear someone's thoughts, if they intended to communicate with him.{{r|Generation X Vol 1 71}}
 

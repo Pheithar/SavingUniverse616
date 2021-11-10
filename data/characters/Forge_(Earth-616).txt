@@ -9,7 +9,7 @@
 | Relatives               = 
 | MaritalStatus           = Single
 
-| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #4}}
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A to Z Vol 1 4}}
 | Gender                  = Male
 | Height                  = 6'0"
 | Weight                  = 179 lbs
@@ -91,7 +91,7 @@ After a time, Forge was contacted by [[Charles Xavier (Earth-616)|Professor X]] 
 Retiring from the X-Men to create a new high-tech headquarters in [[Baltimore]], Forge was contacted by Professor X once again. He needed Mystique’s help in order to track the murderer of one of his secret mutant operatives. They rescued Mystique from her sentence of state execution, setting her up as one of Professor X’s underground agents. Forge became her support technician, supplying her with technology and weapons, despite their rocky relationship and Forge’s continued feelings for her.{{r|Mystique #2}}
 
 ===Nimrod===
-Forge also helped [[Samuel Guthrie (Earth-616)|Cannonball]] and [[Theresa Cassidy (Earth-616)|Siryn]] find [[Nathaniel Summers (Earth-616)|Cable]] with the aid of [[Wade Wilson (Earth-616)|Deadpool]].{{r|Cable & Deadpool #14}} Forge built a pair of special gauntlets for New X-Men team member [[Noriko Ashida (Earth-616)|Surge]]. Forge began working on a [[Nimrod (Earth-811)|Nimrod]] unit with the primary objective of protecting mutants and secondary objective of protecting humans. It seemed that Nimrod was trying to stop the objectives from being downloaded.{{r|New X-Men Vol 2 #32}}
+Forge also helped [[Samuel Guthrie (Earth-616)|Cannonball]] and [[Theresa Cassidy (Earth-616)|Siryn]] find [[Nathan Summers (Earth-616)|Cable]] with the aid of [[Wade Wilson (Earth-616)|Deadpool]].{{r|Cable & Deadpool #14}} Forge built a pair of special gauntlets for New X-Men team member [[Noriko Ashida (Earth-616)|Surge]]. Forge began working on a [[Nimrod (Earth-811)|Nimrod]] unit with the primary objective of protecting mutants and secondary objective of protecting humans. It seemed that Nimrod was trying to stop the objectives from being downloaded.{{r|New X-Men Vol 2 #32}}
 
 ===Messiah Complex===
 After Forge sent [[James Madrox (Earth-616)|Madrox]] and [[Layla Miller (Earth-616)|Layla]] to the future, he went on a mission at [[Scott Summers (Earth-616)|Cyclops]]' behest to rendezvous with the other X-Men, who were on their way to confront Sinister's forces. He was shot by [[Lucas Bishop (Earth-1191)|Bishop]] during the latter's mad quest to murder the first mutant child following [[Decimation|M-Day]].{{r|X-Men Vol 2 #206}}
@@ -106,7 +106,7 @@ The X-Men confronted him at his complex on [[Wundagore Mountain]] over his appar
 The X-Men tried to talk Forge down but he rebuked them and furthered his madness by forcibly opening the Ghost Box, risking all life on Earth. Thanks to the assistance of [[Abigail Brand (Earth-616)|Abigail Brand]] and [[Henry McCoy (Earth-616)|Beast]], a world-destroying laser was shot into the opening of the Ghost Box; before everything could be destroyed, Ororo offered Forge a chance to come back with them. Forge only screamed of his rejection by Ororo and she let him go. Forge remained in his complex as it was destroyed, and seemingly perished in the ensuing laser blast.{{r|Astonishing X-Men Vol 3 30}}
 
 ===Cable's X-Force===
-Seemingly surviving the Ghost Box encounter, Forge was later approached by [[Nathaniel Summers (Earth-616)|Cable]] who used his telepathy to create a scenario which portrayed Forge's mind as a machine. Forge used his abilities to repair the machine construct, thus curing himself of his insanity. As he awoke, he found an injured Cable asking Forge for his help.{{r|Marvel NOW! Point One #1}} He then built Cable a bionic arm to replace his deteriorating left arm, turning it into a powerful weapon.{{r|Cable and X-Force #1}}
+Seemingly surviving the Ghost Box encounter, Forge was later approached by [[Nathan Summers (Earth-616)|Cable]] who used his telepathy to create a scenario which portrayed Forge's mind as a machine. Forge used his abilities to repair the machine construct, thus curing himself of his insanity. As he awoke, he found an injured Cable asking Forge for his help.{{r|Marvel NOW! Point One #1}} He then built Cable a bionic arm to replace his deteriorating left arm, turning it into a powerful weapon.{{r|Cable and X-Force #1}}
 
 ===On the road with Dazzler===
 He left the [[X-Men (Earth-616)|X-Men]] because he needed time off. Then he started working with [[Alison Blaire (Earth-616)|Dazzler]] as her stage manager/set designer.<!-- {{r|Astonishing X-Men Vol 4 14}} -->
@@ -144,7 +144,7 @@ He has been stated to be a '''High Threat''' by the [[Office of National Emergen
 | Strength                = Forge possesses the normal human strength of a man of his age, height, and build who engages in [[Strength Scale#Average Human|moderate regular exercise]].
 | Weaknesses              = {{Navigation
 | title                   = Former Weaknesses
-| body                    = Forge was mentally insane. Wolverine stated during the [[Manifest Destiny]] that he was crazy for about at least twenty years, according to a CIA agent. He was then approached by [[Nathaniel Summers (Earth-616)|Cable]] who used his telepathy to create a scenario which portrayed Forge's mind as a machine which was repaired by Forge, curing himself of his insanity.
+| body                    = Forge was mentally insane. Wolverine stated during the [[Manifest Destiny]] that he was crazy for about at least twenty years, according to a CIA agent. He was then approached by [[Nathan Summers (Earth-616)|Cable]] who used his telepathy to create a scenario which portrayed Forge's mind as a machine which was repaired by Forge, curing himself of his insanity.
 }}
 
 | Equipment               = Forge's right leg is cybernetic, a replacement he created for his original leg, which was lost during combat operations in Vietnam. It contains various devices which he has used in emergencies. He has also harvested it for parts.{{r|X-Men Unlimited #5}}

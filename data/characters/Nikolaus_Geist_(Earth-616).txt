@@ -9,7 +9,7 @@
 | Relatives               = 
 | MaritalStatus           = Single
 
-| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #4}}
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A to Z Vol 1 4}}
 | Gender                  = Male
 | Height                  = 6'0"
 | Weight                  = 118 lbs
@@ -63,7 +63,7 @@ Somehow he survived again and returned to Hydra as the head scientist of the inf
 | Strength                = 
 | Weaknesses              = 
 
-| Equipment               = Geist was encased in a robotic exoskeleton which kept him alive.{{r|All-New Official Handbook of the Marvel Universe A to Z #4}}{{r|Official Handbook of the Marvel Universe A-Z #4}}
+| Equipment               = Geist was encased in a robotic exoskeleton which kept him alive.{{r|All-New Official Handbook of the Marvel Universe A to Z #4}}{{r|Official Handbook of the Marvel Universe A to Z Vol 1 4}}
 | Transportation          = 
 | Weapons                 = His cybernetic left arm had several attachments which could be used by removing his hand. These attachments included straight razors, pistols and dart guns, among others.
 

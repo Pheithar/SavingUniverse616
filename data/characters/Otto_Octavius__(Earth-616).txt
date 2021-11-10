@@ -1,7 +1,7 @@
 {{Marvel Database:Character Template
 | Image                   = Amazing Spider-Man Vol 4 20 Textless.jpg
 | Name                    = [[Otto Octavius|Dr. Otto Gunther Octavius]]
-| NameRef                 = {{r|Official Handbook of the Marvel Universe A-Z #3}}
+| NameRef                 = {{r|Official Handbook of the Marvel Universe A to Z Vol 1 3}}
 | CurrentAlias            = [[Doctor Octopus]]
 | CurrentAliasRef         = {{r|Superior Spider-Man Vol 2 11}}
 | Codenames               = [[Doctor Octopus]],{{r|Amazing Spider-Man #697}} [[Master Planner]],{{r|Amazing Spider-Man Vol 1 32}} [[Master Programmer]],{{r|Official Handbook of the Marvel Universe: Spider-Man 2004 Vol 1 1}} [[Superior Octopus]],{{r|Amazing Spider-Man Vol 4 25}} [[Superior Spider-Man]]{{r|Spider-Geddon Vol 1 2}} [[Venom]]{{r|Superior Spider-Man Vol 1 23}}
@@ -24,7 +24,7 @@
 [[Otto Octavius (Clones) (Earth-616)|Ottos Octavius]] (clones, deceased)
 | MaritalStatus           = Single
 
-| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #3}}
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A to Z Vol 1 3}}
 | Gender                  = Male
 | Height                  = 5'9" (original body); 5'10" (Parker's body)
 | Weight                  = 245 lbs (original body); 167 lbs (Parker's body)

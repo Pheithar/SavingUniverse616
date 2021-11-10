@@ -1,7 +1,7 @@
 {{Marvel Database:Character Template
 | Image                   = Gregori Anatolovich (Earth-616) from Amazing Spider-Man Annual Vol 1 1996 001.jpg
 | Name                    = Gregori Anatolovich 
-| Name2                   = {{r|Official Handbook of the Marvel Universe A-Z #5}}
+| Name2                   = {{r|Official Handbook of the Marvel Universe A to Z Vol 1 5}}
 | CurrentAlias            = Deadmaker
 | Aliases                 = 
 

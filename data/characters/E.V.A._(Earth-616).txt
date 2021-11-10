@@ -4,7 +4,7 @@
 | CurrentAlias            = 
 | Aliases                 = EVA
 
-| Affiliation             = Formerly [[Hellfire Club (Earth-616)|Hellfire Club]], [[Nathaniel Summers (Earth-616)|Cable]]'s {{m|X-Force}}, [[James Howlett (Earth-616)|Wolverine]]/[[Warren Worthington III (Earth-616)|Archangel]]'s {{m|X-Force (Strike Team)|X-Force}}, {{m|X-Men}}, {{m|Weapon Plus}}
+| Affiliation             = Formerly [[Hellfire Club (Earth-616)|Hellfire Club]], [[Nathan Summers (Earth-616)|Cable]]'s {{m|X-Force}}, [[James Howlett (Earth-616)|Wolverine]]/[[Warren Worthington III (Earth-616)|Archangel]]'s {{m|X-Force (Strike Team)|X-Force}}, {{m|X-Men}}, {{m|Weapon Plus}}
 | Relatives               = Unnamed [[Mother (Earth-616)|Mother]]; [[Charlie Cluster-7 (Earth-616)|Fantomex]] ("lover",{{r|X-Force Vol 4 4}} host, origin); [[Charlie Cluster-7 (Cluster) (Earth-616)|Cluster]] "sister" host (formerly)
 | MaritalStatus           = 
 

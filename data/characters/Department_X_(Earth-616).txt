@@ -3,7 +3,7 @@
 | Name                    = Department X
 | Aliases                 = Отдел X
 
-| OrganizationLeaders     = 
+| Leaders                 = 
 | CurrentMembers          = [[Vasily Karpov (Earth-616)|Vasily Karpov]]
 | FormerMembers           = [[James Buchanan Barnes (Earth-616)|Winter Soldier]]
 

@@ -1,13 +1,13 @@
 {{Marvel Database:Character Template
 | Image                   = Giant-Size X-Men Fantomex Vol 1 1 Gist Variant Textless.jpg
 | Name                    = Charlie Cluster-7 
-| NameRef                 = {{r|New X-Men #144}}{{r|Official Handbook of the Marvel Universe A-Z #4}}
+| NameRef                 = {{r|New X-Men #144}}{{r|Official Handbook of the Marvel Universe A to Z Vol 1 4}}
 | CurrentAlias            = [[Fantomex]]
 | CurrentAliasRef         = {{r|New X-Men #128}}
 | Aliases                 = [[Jean-Phillipe]],{{r|New X-Men #129}}{{r|Uncanny X-Force #5}} Weapon XIII,{{r|New X-Men #130}} "[[Jean-Phillipe Charles]]",{{r|Uncanny X-Men #519}}{{r|Uncanny X-Men #520}} Uncle Cluster,{{r|Uncanny X-Force #18}} Man Made of Mirrors,{{r|Uncanny X-Force #22}} "Le Fantomex" (by himself),{{r|X-Force Vol 4 4}} "Fanto",{{r|X-Force Vol 4 4}} "Mex" (by E.V.A.),{{r|X-Force Vol 4 4}} "[[Wikipedia:Astérix|Astérix]]" (by Cable){{r|X-Force Vol 4 4}}
 | EditorialNames          = Mutant Man of Mystery{{r|Uncanny X-Men #519}}
 
-| Affiliation             = Formerly [[Hellfire Club (Earth-616)|Hellfire Club]], {{m|X-Men (Magneto's) (Earth-616)|Magneto's X-Men}}, [[Nathaniel Summers (Earth-616)|Cable]]'s {{m|X-Force}}, [[James Howlett (Earth-616)|Wolverine]]/[[Warren Worthington III (Earth-616)|Archangel]]'s {{m|X-Force (Strike Team) (Earth-616)|X-Force}}; {{m|X-Men}}; {{m|Weapon Plus}}
+| Affiliation             = Formerly [[Hellfire Club (Earth-616)|Hellfire Club]], {{m|X-Men (Magneto's) (Earth-616)|Magneto's X-Men}}, [[Nathan Summers (Earth-616)|Cable]]'s {{m|X-Force}}, [[James Howlett (Earth-616)|Wolverine]]/[[Warren Worthington III (Earth-616)|Archangel]]'s {{m|X-Force (Strike Team) (Earth-616)|X-Force}}; {{m|X-Men}}; {{m|Weapon Plus}}
 | Relatives               = [[Mother (Earth-616)|Unnamed mother]] (possibly{{r|Uncanny X-Force #35}} deceased{{r|Uncanny X-Force #5}});<br>
 [[E.V.A. (Earth-616)|E.V.A.]] (External Nervous System);<br>
 [[Charlie Cluster-7 (Cluster) (Earth-616)|Lady Fantomex (Cluster)]] (former female clone with one of his brains/"sister"/lover);<br>
@@ -16,7 +16,7 @@
 [[Evan Sabahnur (Earth-616)|Genesis (Evan Sabahnur)]] (creation/"nephew")
 | MaritalStatus           = Single
 
-| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #4}}
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A to Z Vol 1 4}}
 | Gender                  = Male
 | Height                  = 5'9"
 | Weight                  = 174 lbs
@@ -117,7 +117,7 @@ E.V.A. and the rest of X-Force managed to recover his body and E.V.A. deposited 
 Fantomex, Cluster, and Psylocke worked as thieves in Paris, six months after their reconstitution, Cluster learning the job from Fantomex. During this time a love triangle emerged between Fantomex, Psylocke, and Cluster, until Weapon XIII kidnapped Fantomex. While trying to rescue Fantomex, Weapon XIII professed his love for Psylocke, this lead to all three of them agreeing to become one again.{{r|Uncanny X-Force Vol 2 7|9}} Fantomex was even offered a spot by Wolverine in the [[Jean Grey School]], which he turned down.{{r|Wolverine and the X-Men Vol 2 1}}
 
 ===Cable's X-Force===
-Fantomex and E.V.A. joined [[Nathaniel Summers (Earth-616)|Cable]]'s new [[X-Force (Earth-616)|X-Force]] team and went on several missions with them in the hopes he'd be reunited with his still as of yet dissociated parts of himself.{{r|X-Force Vol 4 #1|6}} After a time, he slowly went insane and plotted against the team wanting to be the best there is.{{r|X-Force Vol 4 #7}} Eventually turning on them he also revealed that team member MeMe was really Hope using her powers to impersonate the [[MeMe (Mutant) (Earth-616)|real one]].{{r|X-Force Vol 4 #11}} Using her to copy the imperfect Volga Effect onto himself in digital form in order to complete his flawed being only to find it useless, until Domino shot him in the head did the serum take full effect giving him full control over it bestowing upon himself a wide range of new abilities.{{r|X-Force Vol 4 #12}}
+Fantomex and E.V.A. joined [[Nathan Summers (Earth-616)|Cable]]'s new [[X-Force (Earth-616)|X-Force]] team and went on several missions with them in the hopes he'd be reunited with his still as of yet dissociated parts of himself.{{r|X-Force Vol 4 #1|6}} After a time, he slowly went insane and plotted against the team wanting to be the best there is.{{r|X-Force Vol 4 #7}} Eventually turning on them he also revealed that team member MeMe was really Hope using her powers to impersonate the [[MeMe (Mutant) (Earth-616)|real one]].{{r|X-Force Vol 4 #11}} Using her to copy the imperfect Volga Effect onto himself in digital form in order to complete his flawed being only to find it useless, until Domino shot him in the head did the serum take full effect giving him full control over it bestowing upon himself a wide range of new abilities.{{r|X-Force Vol 4 #12}}
 
 For a time, Fantomex would travel across the globe deposing every branch of super spy agency, super people coalitions, super anything that stood in his path to being the best which unbeknownst to him was a clever ploy by Nathan himself to demolish any threats to the mutant nation agenda.{{r|X-Force Vol 4 #13}} Hope Summers eventually copied his god-like powers and instead of fighting him directly, she implanted a thought into his mind: that in order to be perfect you need inadequacies and personal faults. Fantomex couldn't comprehend being perfect through imperfection so he had a mental break down, having E.V.A purge himself of all flaws afflicting him along with his almighty attributes. Psylocke then used her psychic blades to scramble his brains seemingly clipping his connection to his core mutant power, wherein the rest of X-Force proceeded to paste the now depowered perfectionist.{{r|X-Force Vol 4 #15}}
 
@@ -157,7 +157,7 @@ After being killed, he was cloned in a way that his three brains each received a
 {{Navigation 
 | title = Former Powers
 |body =
-'''Self-Power Bestowal/[[Super-Soldier Serum|Volga Effect]]:''' After having pirated a copy of Hope Summer's affliction who in turn had copied the fatal chemical augment from her stricken [[Nathaniel Summers (Earth-616)|father]], Fantomex managed to fabricate a digitized version of what ails them both.{{r|X-Force Vol 4 #8}} Rewriting it to enabling him use of its empowering effects without self-destructing but also bestowing and developing whole new powers on the fly onto himself whenever he pleases.{{r|{{cl|X-Force Vol 4 11}}-{{cl|X-Force Vol 4 15|15}}}}
+'''Self-Power Bestowal/[[Super-Soldier Serum|Volga Effect]]:''' After having pirated a copy of Hope Summer's affliction who in turn had copied the fatal chemical augment from her stricken [[Nathan Summers (Earth-616)|father]], Fantomex managed to fabricate a digitized version of what ails them both.{{r|X-Force Vol 4 #8}} Rewriting it to enabling him use of its empowering effects without self-destructing but also bestowing and developing whole new powers on the fly onto himself whenever he pleases.{{r|{{cl|X-Force Vol 4 11}}-{{cl|X-Force Vol 4 15|15}}}}
 * '''''Techno-Organic Wings:''''' Fabricated a pair of jet black aerial extremities resembling those of a former [[Warren Worthington III (Earth-616)|comrade]] after having re-purposed the ''Surrogate Phy/Psi. Nervous System'' as Doctor Nemesis calls it, beyond being able to use them as razor blades due to near monomolecular sharpness coupled with the discharging of razor flechettes.{{r|{{cl|X-Force Vol 4 11}}-[[X-Force Vol 4 12|12]]}}
 ** '''''Flight:'''''{{r|X-Force Vol 4 #15}}
 ** '''''Enhanced Speed:''''' Having been ported into the sun itself and making it back to earth within mere moments showcasing he has escape velocity to virtual light speed motion.{{r|X-Force Vol 4 #15}}
@@ -186,7 +186,7 @@ He speaks English. He does uses often French words and a French accent, but in f
 ** After the [[Second Coming]], [[Steven Rogers (Earth-616)|Steve Rogers]] stated he wasn't technically a mutant, but a [[Homo sapiens|Human]] [[Mutate]]/[[Cyborgs|Cyborg]], "''product of a "mating" between his human mother and a machine"''.{{r|Heroic Age: X-Men #1}}
 ** Fantomex referred himself as a mutant/sentinel dichotomy,{{r|Uncanny X-Force #5}} seemingly feeling himself both, at least symbolically.
 ** He was later among the mutants dragged into [[David Haller (Earth-616)|Legion]],{{r|X-Men: Legacy Vol 2 23}} although similar argument has also been rejected as an artist error for [[Eugene Judd (Earth-616)|Puck]] being raptured by the [[Wanda Maximoff (Earth-616)|Scarlet Witch]].<ref>[[Stuart Vandal]]'s [http://www.cxpulp.com/showthread.php?7238-Things-people-keep-getting-wrong-(Round-2)-redux&p=68606&viewfull=1#post68606 answer on Cxpulp.com] and [[Tom Brevoort]]'s [http://brevoortformspring.tumblr.com/post/71007957351/why-was-puck-raptured-in-last-weeks-uncanny-avengers statement on Brevoortformsping tumblr]</ref>
-** When joining [[Nathaniel Summers (Earth-616)|Cable]]'s [[X-Force (Earth-616)|X-Force]] in [[X-Force Vol 4|''X-Force'' Volume 4]], he was stated to be a mutant.<ref>[[X-Force Vol 4|''X-Force'' Volume 4]]'s resumes</ref>
+** When joining [[Nathan Summers (Earth-616)|Cable]]'s [[X-Force (Earth-616)|X-Force]] in [[X-Force Vol 4|''X-Force'' Volume 4]], he was stated to be a mutant.<ref>[[X-Force Vol 4|''X-Force'' Volume 4]]'s resumes</ref>
 * Fantomex was shown as a single individual, suggesting that [[Charlie Cluster-7 (Earth-616)|Fantomex]], [[Charlie Cluster-7 (Cluster) (Earth-616)|Lady Fantomex]], and [[Charlie Cluster-7 (Jean-Phillipe) (Earth-616)|Evil Fantomex]] were recombined.{{r|Wolverine and the X-Men Vol 2 1}}
 | Trivia                  = * Fantomex is based on French pulp fiction villain [[wikipedia:Fantômas|Fantômas]] and the Italian comic anti-hero [[wikipedia:Diabolik|Diabolik]].<ref>{{cite web|url=http://www.cbr.com/comic-book-urban-legends-revealed-66/|title=Comic Book Urban Legends Revealed #66|work=CBR|first=Brian|last=Cronin|date=31 August 2006|accessdate=7 March 2017}}</ref>
 ** Fantomex's name is similar to that of Fantômas.

@@ -2,12 +2,12 @@
 | Message = For the beings commonly known as '''Skrulls''', please consult the [[Deviant Skrulls]].
 }}<!-- 
 {{MessageBox
-| Message = For Skrulls from before the [[Celestials (Race)|Celestials]]' experiments, please scroll down past the disambiguation article or follow [[Skrulls#History|this link]].
+| Message = For Skrulls from before the [[Celestials]]' experiments, please scroll down past the disambiguation article or follow [[Skrulls#History|this link]].
 }} -->
 {{DisambiguationFull
 | Main Character = [[Deviant Skrulls]]; Secret Invasion Vol 1 5 Textless.jpg
 
-| description     = A long time ago, the [[Celestials (Race)|Celestials]] visited [[Skrullos]] and experimented on the genetics of a native life form, creating three branches among that species: the '''[[Prime Skrulls|Prime]]''' (or "Normals"), the '''[[Eternal Skrulls|Eternals]]''' and the '''[[Deviant Skrulls|Deviants]]'''.
+| description     = A long time ago, the [[Celestials]] visited [[Skrullos]] and experimented on the genetics of a native life form, creating three branches among that species: the '''[[Prime Skrulls|Prime]]''' (or "Normals"), the '''[[Eternal Skrulls|Eternals]]''' and the '''[[Deviant Skrulls|Deviants]]'''.
 
 The Deviant Skrulls became the dominant species, waging war against their cousin races and exterminating them. They are commonly known as '''Skrulls''', and the '''[[Skrull Empire]]'''.
 

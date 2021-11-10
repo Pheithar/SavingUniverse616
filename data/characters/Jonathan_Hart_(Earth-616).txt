@@ -1,7 +1,7 @@
 {{Marvel Database:Character Template
 | Image                   = Marvel Zombies Supreme Vol 1 4 Textless.jpg
 | Name                    = [[Jonathan Hart]]
-| NameRef                 = {{r|Official Handbook of the Marvel Universe A-Z #5}}
+| NameRef                 = {{r|Official Handbook of the Marvel Universe A to Z Vol 1 5}}
 | CurrentAlias            = [[Jack of Hearts]]
 | Aliases                 = [[Jack Hart]]{{r|Official Handbook of the Marvel Universe Master Edition #12}}<!-- listed as real name in that old handbook -->
 

@@ -8,7 +8,7 @@
 | Relatives               = 
 | MaritalStatus           = 
 
-| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #2}}
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A to Z Vol 1 2}}
 | Gender                  = Male
 | Height                  = 5'0
 | Weight                  = 100 lbs
@@ -65,7 +65,7 @@ Comtemplator was attacked by the [[Magus (Earth-7528)|Magus]] and decapitated so
 * '''Telepathy:''' The Contemplator has developed fantastic psionic skills including telepathy.
 * '''Teleportation'''
 
-| Abilities               = * '''Super-Genius Intelligence:'''{{r|Official Handbook of the Marvel Universe A-Z Vol 1 2}}
+| Abilities               = * '''Super-Genius Intelligence:'''{{r|Official Handbook of the Marvel Universe A to Z Vol 1 2}}
 * Philosophy and meditation.
 | Strength                = The Contemplator possesses the normal human strength of a man of his apparent age, height, and build who engages in [[Strength Scale#Below_Average|minimal regular exercise]]. 
 | Weaknesses              = 

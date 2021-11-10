@@ -3,7 +3,7 @@
 | Name                    = Salem's Seven
 | Aliases                 = 
 
-| OrganizationLeaders     = 
+| Leaders                 = 
 | CurrentMembers          = [[Brutacus (Earth-616)|Brutacus]], [[Hydron (Salem's Seven) (Earth-616)|Hydron]], [[Reptilla (Earth-616)|Reptilla]], [[Thornn (Salem's Seven) (Earth-616)|Thornn]], [[Vakume (Earth-616)|Vakume]], [[Vertigo (Salem's Seven) (Earth-616)|Vertigo]]
 | FormerMembers           = [[Gazelle (Scratch) (Earth-616)|Gazelle]]
 

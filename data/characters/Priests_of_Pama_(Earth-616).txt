@@ -3,7 +3,7 @@
 | Name                    = Priests of Pama
 | Aliases                 = 
 
-| OrganizationLeaders     = 
+| Leaders                 = 
 | CurrentMembers          = [[L'ai Sau (Earth-616)|L'ai Sau]], [[Om-Fad (Earth-616)|Om-Fad]], [[Son-Dar (Earth-616)|Son-Dar]], Straker, [[Teress (Earth-616)|Teress]], [[Dark Harvest (Earth-616)|Dark Harvest]]
 | FormerMembers           = 
 

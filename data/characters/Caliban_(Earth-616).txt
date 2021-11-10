@@ -1,15 +1,15 @@
 {{Marvel Database:Character Template
 | Image                   = Caliban (Earth-616) from Uncanny X-Men Vol 1 487.png
 | Name                    = Unknown
-| Name2                   = {{r|Official Handbook of the Marvel Universe A-Z #2}}
+| Name2                   = {{r|Official Handbook of the Marvel Universe A to Z Vol 1 2}}
 | CurrentAlias            = [[Caliban]]
 | Aliases                 = Cal,{{r|X-Men Vol 2 206}} [[Death]],{{r|Uncanny X-Men #294}} Hellhound,{{r|X-Factor #24}} [[Hound]],{{citation}} [[Pestilence]],{{r|Cable #73}} Test Subject 22-C{{citation}} 
 
-| Affiliation             = Formerly {{m|X-Men}}, [[Scott Summers (Earth-616)|Cyclops]]'s {{m|X-Force (Strike Team)|X-Force}}, {{m|198}}, [[Nathaniel Summers (Earth-616)|Cable]]'s {{m|X-Force}}, {{m|Horsemen of Apocalypse}}, {{m|X-Factor}}, {{m|Morlocks}}
+| Affiliation             = Formerly {{m|X-Men}}, [[Scott Summers (Earth-616)|Cyclops]]'s {{m|X-Force (Strike Team)|X-Force}}, {{m|198}}, [[Nathan Summers (Earth-616)|Cable]]'s {{m|X-Force}}, {{m|Horsemen of Apocalypse}}, {{m|X-Factor}}, {{m|Morlocks}}
 | Relatives               = 
 | MaritalStatus           = Single
 
-| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #2}}
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A to Z Vol 1 2}}
 | Gender                  = Male
 | Height                  = 6'8" (currently); 5'8" (originally)
 | Weight                  = 275 lbs (currently); 150 lbs (originally)
@@ -55,7 +55,7 @@ After hearing of Angel's apparent suicide, Caliban and Leech attended the funera
 ===Horseman of Apocalypse===
 While operating under Apocalypse, Caliban sensed the mental anguish of the mutant [[Moloids|Moloid]], [[Val-Or (Earth-616)|Val-Or]] and informed his master, alerting Apocalypse to the [[Herbert Wyndham (Earth-616)|High Evolutionary's]] plans. Apocalypse used advanced genetic engineering methods to increase Caliban's size and strength. Apocalypse renamed Caliban "Hellhound," and he joined Apocalypse's cause.{{r|X-Factor #50}}
 
-Still later, Caliban took the name "'''Death'''". Caliban and the other Horsemen were manipulated by Mister Sinister into serving him. Caliban attacked his former allies Cyclops and [[Jean Grey (Earth-616)|Jean Grey]], and brought them to Sinister, who turned them over to the terrorist [[Nathaniel Summers (Stryfe) (Earth-4935)|Stryfe]]. Alongside the other Horsemen, Caliban then battled the X-Men but was defeated by them.{{r|Uncanny X-Men #294|295}}
+Still later, Caliban took the name "'''Death'''". Caliban and the other Horsemen were manipulated by Mister Sinister into serving him. Caliban attacked his former allies Cyclops and [[Jean Grey (Earth-616)|Jean Grey]], and brought them to Sinister, who turned them over to the terrorist [[Nathan Summers (Stryfe) (Earth-4935)|Stryfe]]. Alongside the other Horsemen, Caliban then battled the X-Men but was defeated by them.{{r|Uncanny X-Men #294|295}}
 
 He kidnapped the young X-Man [[Jubilation Lee (Earth-616)|Jubilee]], holding her hostage in exchange for [[Victor Creed (Earth-616)|Sabretooth]], who was being rehabilitated by [[Charles Xavier (Earth-616)|Xavier]]. Shadowcat accompanied Sabretooth into the Morlock tunnels. There, she was left to die after they encountered a giant subterranean squid. After rescuing Pryde, Caliban faced Sabretooth in a brief yet ferocious fight, which resulted in his face being scarred before he fled.{{r|Uncanny X-Men Annual Vol 1 18}}
 

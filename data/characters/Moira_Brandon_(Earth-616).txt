@@ -7,7 +7,7 @@
 | Relatives               = 
 | MaritalStatus           = Single
 
-| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #2}}
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A to Z Vol 1 2}}
 | Gender                  = Female
 | Height                  = 5'0"
 | Weight                  = 98 lbs

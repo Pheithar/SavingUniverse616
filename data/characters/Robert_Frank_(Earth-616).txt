@@ -1,6 +1,6 @@
 {{Marvel Database:Character Template
 | Image                   = Robert Frank (Earth-616) from What If? Vol 1 4 0001.jpg
-| Name                    = [[Robert L. "Bob" Frank]]<ref>{{cl|Official Handbook of the Marvel Universe A-Z Vol 1 13}}</ref>
+| Name                    = [[Robert L. "Bob" Frank]]<ref>{{cl|Official Handbook of the Marvel Universe A to Z Vol 1 13}}</ref>
 | CurrentAlias            = [[Whizzer]]
 | Aliases                 = [[Jack Robinson]]{{r|All Winners Comics #8}}
 

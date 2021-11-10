@@ -2,7 +2,8 @@
 | Image                   = Secret Empire Vol 1 10 Civil Warrior Variant Textless.jpg
 | Name                    = Steven "Steve" Rogers
 | CurrentAlias            = [[Supreme Hydra|Hydra Supreme]]
-| Aliases                 = Bizarro Steve Rogers,{{r|Despicable Deadpool Vol 1 291}} [[Captain America]],{{r|Captain America: Steve Rogers Vol 1 1}} Captain Octopushead,{{r|Secret Empire Vol 1 3}} [[Commander Steve Rogers]],{{r|Captain America: Sam Wilson Vol 1 7}} Hydra Cap,{{r|Secret Empire Vol 1 3}} Stevil Rogers{{r|Despicable Deadpool Vol 1 292}}
+| Aliases                 = Bizarro Steve Rogers,{{r|Despicable Deadpool Vol 1 291}} Captain Octopushead,{{r|Secret Empire Vol 1 3}} [[Commander Steve Rogers]],{{r|Captain America: Sam Wilson Vol 1 7}} Hydra Cap,{{r|Secret Empire Vol 1 3}} Stevil Rogers{{r|Despicable Deadpool Vol 1 292}}
+| Codenames                 = [[Captain America]]{{r|Captain America: Steve Rogers Vol 1 1}}
 | EditorialNames          = [[Civil Warrior]]{{r|Secret Empire Vol 1 10|'s [[:File:Secret Empire Vol 1 10 Civil Warrior Variant.jpg|Civil Warrior Variant]]}}
 
 | Affiliation             = {{m|Hydra (Earth-616)|Hydra}} ([[Earth-616|Prime Marvel Universe]]); formerly {{m|Hydra (Earth-61311)|Hydra}} ([[Earth-61311|Kobik's Timeline]]), {{m|Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.}} ([[Earth-616|Prime Marvel Universe]]), {{m|Avengers Unity Division (Earth-616)|Avengers Unity Division}} ([[Earth-616|Prime Marvel Universe]])

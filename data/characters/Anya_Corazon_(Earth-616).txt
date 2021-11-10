@@ -1,7 +1,7 @@
 {{Marvel Database:Character Template
 | Image                   = Spider-Girl Vol 2 1 Del Mundo Variant Textless.jpg
 | Name                    = [[Araña|Aña "Anya" Sofia Corazon]]
-| NameRef                 = {{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+| NameRef                 = {{r|Official Handbook of the Marvel Universe A to Z Vol 1 1}}
 | CurrentAlias            = [[Spider-Girl]]
 | CurrentAliasRef         = {{r|Young Allies Vol 2 5}}
 | Codenames               = [[Araña]]{{r|Amazing Fantasy Vol 2 1}}
@@ -16,7 +16,7 @@
 | Relatives               = 
 | MaritalStatus           = Single
 
-| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #1}}
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A to Z Vol 1 1}}
 | Gender                  = Female
 | Height                  = 5'3"
 | Weight                  = 115 lbs; 123 lbs (with carapace)
@@ -26,7 +26,7 @@
 
 | Origin                  = [[Homo sapiens|Human]] [[Glossary:Mutate|augmented]] by [[Magic]][[Category:Magic-Based Mutates]]
 | Reality                 = Earth-616
-| PlaceOfBirth            = [[Fort Greene]], [[Brooklyn]], [[New York City]]{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}1q
+| PlaceOfBirth            = [[Fort Greene]], [[Brooklyn]], [[New York City]]{{r|Official Handbook of the Marvel Universe A to Z Vol 1 1}}1q
 
 | Identity                = Public
 | Citizenship             = American
@@ -44,7 +44,7 @@
 
 | History                 = 
 ===Early Life===
-Anya, or '''Araña''' as she would be called, was a teenage gymnast from [[Brooklyn]] whose father [[Gilberto Corazon (Earth-616)|Gilberto Corazon]] was an investigative reporter. She moved to [[Mexico]] when she was very young, but she returned with her father to the [[United States of America|United States]] after [[Sofia Corazon (Earth-616)|her mother]] was killed.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+Anya, or '''Araña''' as she would be called, was a teenage gymnast from [[Brooklyn]] whose father [[Gilberto Corazon (Earth-616)|Gilberto Corazon]] was an investigative reporter. She moved to [[Mexico]] when she was very young, but she returned with her father to the [[United States of America|United States]] after [[Sofia Corazon (Earth-616)|her mother]] was killed.{{r|Official Handbook of the Marvel Universe A to Z Vol 1 1}}
 
 ===Spider Society===
 It was at an average day at school that she saw her friend Lynn being bullied by an older boy. Anya defended her friend, and the two started to fight. A teacher broke their conflict up, but that night the two went down to a bridge to resume their battle. When she got there, Anya discovered a stranger being attacked by a strange group. This [[Sisterhood of the Wasp (Earth-616)|Sisterhood of the Wasp]] attempted to kill the man, but Anya leaped in the way of the killing blow.{{r|Amazing Fantasy Vol 2 1}}

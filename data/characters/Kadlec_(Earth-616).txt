@@ -1,7 +1,7 @@
 {{Marvel Database:Character Template
 | Image                   = Kadlec (Earth-616) from Official Handbook of the Marvel Universe Vol 2 6.jpg
 | Name                    = Kadlec
-| Name2                   = {{r|Official Handbook of the Marvel Universe A-Z #5|; 2012 printing updates section}}
+| Name2                   = {{r|Official Handbook of the Marvel Universe A to Z Vol 1 5|; 2012 printing updates section}}
 | CurrentAlias            = Seeker
 | Aliases                 = 
 

@@ -4,7 +4,7 @@
 | EditorialNames          = 
 | Aliases                 = [[Project Armageddon]]{{r|Domino Vol 2 2}}
 
-| OrganizationLeaders     = [[Steven Lang (Earth-616)|Steven Lang]]; formerly [[General (Project Armageddon) (Earth-616)|The General]]
+| Leaders                 = [[Steven Lang (Earth-616)|Steven Lang]]; formerly [[General (Project Armageddon) (Earth-616)|The General]]
 | CurrentMembers          = [[Character Index/C#Charlie|Charlie]]
 | FormerMembers           = [[General (Project Armageddon) (Earth-616)|The General]], 
 ----

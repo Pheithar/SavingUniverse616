@@ -8,7 +8,7 @@
 | Relatives               = 
 | MaritalStatus           = Single
 
-| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #2}}
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A to Z Vol 1 2}}
 | Gender                  = Male
 | Height                  = 6'1" (Reed); 8' (Brute)
 | Weight                  = 180 lbs (Reed); 900 lbs (Brute)

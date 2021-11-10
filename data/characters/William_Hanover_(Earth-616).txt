@@ -1,7 +1,7 @@
 {{Marvel Database:Character Template
 | Image                   = William Hanover (Earth-616) from New X-Men Vol 1 140 001.png
 | Name                    = William Hanover
-| Name2                   = <ref>{{cl|Official Handbook of the Marvel Universe A-Z Vol 1 13}}, X-Men entry</ref>
+| Name2                   = <ref>{{cl|Official Handbook of the Marvel Universe A to Z Vol 1 13}}, X-Men entry</ref>
 | CurrentAlias            = Longneck
 | Aliases                 = 
 

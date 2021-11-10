@@ -10,7 +10,7 @@
 [[Dancing Water (Earth-616)|Dancing Water]] (daughter, deceased)
 | MaritalStatus           = Married
 
-| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #1}}
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A to Z Vol 1 1}}
 | Gender                  = Male
 | Height                  = 5'11"
 | Weight                  = 195 lbs
@@ -111,7 +111,7 @@ Avalanche was himself invulnerable to the effects of generating these intense vi
 
 | Notes                   = '''O*N*E Danger Rating:''' Severe.
 | Trivia                  = * Avalanche once attempted to blackmail the state of California into paying him an enormous sum of money to prevent him from using his power to generate an devastating earthquake.{{r|Incredible Hulk #263}}<!-- can be added to the history text -->
-| Wikipedia               = Avalanche %28comics%29
+| Wikipedia               = Avalanche (comics)
 | Links                   = 
 * [http://marvel.com/universe/Avalanche {{PAGENAME}} at Marvel.com]
 }}

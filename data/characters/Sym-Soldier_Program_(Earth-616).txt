@@ -3,7 +3,7 @@
 | Name                    = Sym-Soldier Program
 | Aliases                 = 
 
-| OrganizationLeaders     = Formerly [[Brad Dodge (Earth-616)|General Brad Dodge]], [[Nicholas Fury (Earth-616)|Nick Fury]]
+| Leaders                 = Formerly [[Brad Dodge (Earth-616)|General Brad Dodge]], [[Nicholas Fury (Earth-616)|Nick Fury]]
 | CurrentMembers          = 
 | FormerMembers           = [[Cal Henricksen (Earth-616)|Cal Henricksen]], [[Eugene Thompson (Earth-616)|Corporal Eugene "Flash" Thompson]] and the [[Venom (Symbiote) (Earth-616)|Venom Symbiote]];<br>[[Rex Strickland (Earth-616)|Rex Strickland]] and the [[Tyrannosaurus (Symbiote) (Earth-616)|Tyrannosaurus Symbiote]],<br>unnamed soldiers and their symbiotes
 

@@ -3,9 +3,9 @@
 | Name                    = [[Scott Edward Harris Lang]]
 | NameRef                 = {{r|FF Vol 2 12}}
 | CurrentAlias            = [[Ant-Man]]
-| Codenames               = [[Myrmidon]],{{r|Fantastic Four Unlimited #9}}{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}} [[Nova]]{{r|Guardians of the Galaxy Vol 1 146}}
+| Codenames               = [[Myrmidon]],{{r|Fantastic Four Unlimited #9}}{{r|Official Handbook of the Marvel Universe A to Z Vol 1 1}} [[Nova]]{{r|Guardians of the Galaxy Vol 1 146}}
 | EditorialNames          = [[Astonishing Ant-Man Vol 1|Astonishing Ant-Man]]
-| Nicknames               = Scottie{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+| Nicknames               = Scottie{{r|Official Handbook of the Marvel Universe A to Z Vol 1 1}}
 | Aliases                 = 
 
 | Affiliation             = formerly {{m|Cosmic Avengers}}, {{m|Avengers}}; {{m|Guardians of the Galaxy}}, {{m|Nova Corps}}, partner of [[Cassandra Lang (Earth-616)|Stinger]], {{M|Underground (Secret Empire)|Underground}}, {{m|Ant-Man Security Solutions}}, {{m|Future Foundation}} (leader), {{m|Fantastic Four}} (leader), {{m|Heroes for Hire (Oracle Inc.) (Earth-616)|Heroes For Hire}}, {{m|Stark Industries}}, {{m|Electrolang, Inc.}}
@@ -17,7 +17,7 @@
 Trina (ex-sister-in-law) {{r|Ant-Man Vol 1 1}}
 | MaritalStatus           = Divorced
 
-| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #1}}
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A to Z Vol 1 1}}
 | Gender                  = Male
 | Height                  = 6'0"
 | Weight                  = 190 lbs
@@ -128,19 +128,19 @@ Still ashamed by his actions during Hydra's empire, Ant-Man stowed away on the s
 <!-- ===Trapped in the Microverse===
 For Cassie's birthday, Scott planned to return home to celebrate. He contacted [[Nadia Pym (Earth-616)|Nadia Pym]] to teleport him back to earth. Nadia initially refused in doing so, mad at Scott for stealing the ant-man costume from her father. But Scott convinced her into doing so. At the last minute, when the teleporter was ready, Scott forgot gift for Cassie and grabbed it. Nadia had to get him and shrunk both of them beyond molecules. They got stuck in the [[Microverse]].{{r|Ant-Man and the Wasp Vol 1 1}} -->
 
-| Powers                  = '''[[Pym Particles]]:''' Ant-Man carried a supply of Pym Particles in his belt, allowing him to reduce himself to the size of an ant, approximately one-half inch in height, by means of a rare group of sub-atomic particles, the source of which is as yet unknown, which he is able to contain in magnetic-field "canisters" (the shape of the magnetic lines of force were made visible by the confined particles, whose concentration caused them to behave like a gas).{{r|Official Handbook of the Marvel Universe Vol 2 1}}{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+| Powers                  = '''[[Pym Particles]]:''' Ant-Man carried a supply of Pym Particles in his belt, allowing him to reduce himself to the size of an ant, approximately one-half inch in height, by means of a rare group of sub-atomic particles, the source of which is as yet unknown, which he is able to contain in magnetic-field "canisters" (the shape of the magnetic lines of force were made visible by the confined particles, whose concentration caused them to behave like a gas).{{r|Official Handbook of the Marvel Universe Vol 2 1}}{{r|Official Handbook of the Marvel Universe A to Z Vol 1 1}}
 * These particles, whose wavelength is in the mental range when released, allow Ant-Man to will himself and other objects to reduce in size or enlarge. The mechanics involved having most of the mass of the nucleus of each affected atom convert into energetic particles which take up orbit around the nucleus - thus, although gravitation do not affect these particles, the mass of the original volume remains intact.{{r|Official Handbook of the Marvel Universe Vol 2 1}}
-* This means a punch delivered by the half-inch high Ant-Man would feel like the blow of a normal-sized man.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}} Ant-Man's reducing particle has no time limit to its potency.{{r|Official Handbook of the Marvel Universe Vol 2 1}}
+* This means a punch delivered by the half-inch high Ant-Man would feel like the blow of a normal-sized man.{{r|Official Handbook of the Marvel Universe A to Z Vol 1 1}} Ant-Man's reducing particle has no time limit to its potency.{{r|Official Handbook of the Marvel Universe Vol 2 1}}
 | Abilities               = '''Electrical Engineer:''' Scott has a masters degree in electrical engineering.{{r|Official Handbook of the Marvel Universe Vol 2 1}}
 
 '''Master Thief:''' Scott is a skilled thief, even before gaining the Ant-Man suit he was able to infiltrate and hack advanced security systems.{{r|Official Handbook of the Marvel Universe Vol 2 1}}
-| Strength                = Scott possessed the normal human strength of a man of his age, height, and build who engaged in moderate regular exercise. At small size, his strength is equal to an ant's.{{r|Official Handbook of the Marvel Universe Vol 2 1}} As Myrmidon, he possessed superhuman strength (at least Class 10, strong enough to incapacitate the Thing with one blow) and durability as well as extendable blades on his wrists.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}}
+| Strength                = Scott possessed the normal human strength of a man of his age, height, and build who engaged in moderate regular exercise. At small size, his strength is equal to an ant's.{{r|Official Handbook of the Marvel Universe Vol 2 1}} As Myrmidon, he possessed superhuman strength (at least Class 10, strong enough to incapacitate the Thing with one blow) and durability as well as extendable blades on his wrists.{{r|Official Handbook of the Marvel Universe A to Z Vol 1 1}}
 | Weaknesses              = 
 
 | Equipment               = '''[[Ant-Man's Suit]]:''' {{r|Official Handbook of the Marvel Universe Vol 2 1}}
-* '''[[Ant-Man's Helmet]]:''' Ant-Man also wore a cybernetic helmet designed by Henry Pym permitting him rudimentary communication and control of insects, allowing him to lead hundreds of ants to overwhelm any single opponent.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 1}} He could broadcast to a range of about one mile (1.6 km), depending on the materials surrounding him. His helmet also contained sound amplification equipment which also shifted the frequency of his voice so that he could be heard by normal-sized humans despite his diminutive size, as well as providing its own oxygen supply.{{r|Official Handbook of the Marvel Universe Vol 2 1}} 
+* '''[[Ant-Man's Helmet]]:''' Ant-Man also wore a cybernetic helmet designed by Henry Pym permitting him rudimentary communication and control of insects, allowing him to lead hundreds of ants to overwhelm any single opponent.{{r|Official Handbook of the Marvel Universe A to Z Vol 1 1}} He could broadcast to a range of about one mile (1.6 km), depending on the materials surrounding him. His helmet also contained sound amplification equipment which also shifted the frequency of his voice so that he could be heard by normal-sized humans despite his diminutive size, as well as providing its own oxygen supply.{{r|Official Handbook of the Marvel Universe Vol 2 1}} 
 
-When exposed to the "[[Horton Cells]]" while travelling Android [[Human Torch (Android) (Earth-616)|Human Torch]]'s body developed pyrokinetic powers. However the exposure was temporary.{{r|Heroes for Hire Vol 1 13}}
+When exposed to the "[[Horton Cells]]" while travelling Android [[Jim Hammond (Earth-616)|Human Torch]]'s body developed pyrokinetic powers. However the exposure was temporary.{{r|Heroes for Hire Vol 1 13}}
 
 | Transportation          = '''[[Ant-Man's Ants]]:''' Ant-Man customarily rode flying ants for transportation.{{r|Marvel Premiere #47}}
 | Weapons                 = '''Ant-Man's Wrist Gauntlets''' Ant-Man's wrist gauntlets enabled him to fire bio-electric blasts of adjustable force. His original helmet was able to fire 'disruptor' blasts of concussive force that Lang said were less powerful than the stings of [[Janet Van Dyne (Earth-616)|The Wasp]].{{r|Iron Man #131}}

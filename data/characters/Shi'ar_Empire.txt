@@ -3,7 +3,7 @@
 | Name                    = Shi'ar Empire
 | Aliases                 = Imperium{{r|New Mutants #51}}
 
-| OrganizationLeaders     = [[Xandra Neramani (Earth-616)|Majestrix Xandra Neramani]]; formerly [[D'ken Neramani (Earth-616)|Majestor D'Ken]], [[Lilandra Neramani (Earth-616)|Majestrix Neramani]], [[Cal'syee Neramani (Earth-616)|Majestrix Deathbird]], [[T'Korr (Earth-616)|Majestor T'Korr]], [[Gabriel Summers (Earth-616)|Majestor Vulcan]], [[Kallark (Earth-616)|Gladiator (Kallark)]]
+| Leaders                 = [[Xandra Neramani (Earth-616)|Majestrix Xandra Neramani]]; formerly [[D'ken Neramani (Earth-616)|Majestor D'Ken]], [[Lilandra Neramani (Earth-616)|Majestrix Neramani]], [[Cal'syee Neramani (Earth-616)|Majestrix Deathbird]], [[T'Korr (Earth-616)|Majestor T'Korr]], [[Gabriel Summers (Earth-616)|Majestor Vulcan]], [[Kallark (Earth-616)|Gladiator (Kallark)]]
 | CurrentMembers          = [[Imperial Guard (Earth-616)|Imperial Guard]], [[Shi'ar Imperial Fleet (Earth-616)|Shi'ar Imperial Fleet]]
 | FormerMembers           = [[Araki (Earth-616)|Araki]] (deceased), [[Shi'ar Death Commandos (Earth-616)|Shi'ar Death Commandos]]
 

@@ -3,7 +3,7 @@
 | Name                    = Orchis
 | Aliases                 =
 
-| OrganizationLeaders     = '''Central Column:''' 
+| Leaders                 = '''Central Column:''' 
 * [[Killian Devo (Earth-616)|Doctor Killian Devo]] (Director)
 '''Research/Development:'''
 * [[Zaha Gehry (Earth-616)|Zaha Gehry]] (Head of Engineering)

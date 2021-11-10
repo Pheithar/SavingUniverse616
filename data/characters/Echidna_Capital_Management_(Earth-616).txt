@@ -3,7 +3,7 @@
 | Name                    = Echidna Capital Management
 | Aliases                 = 
 
-| OrganizationLeaders     = [[John Allen Adams (Earth-616)|John Allen Adams]]
+| Leaders                 = [[John Allen Adams (Earth-616)|John Allen Adams]]
 | CurrentMembers          = Augustus Karma
 | FormerMembers           = 
 

@@ -1,4 +1,4 @@
-[https://www.marvel.com/characters/black-bolt/in-comics]{{Marvel Database:Character Template
+{{Marvel Database:Character Template
 | Image                   = IVX Vol 1 1 Inhumans Variant Textless.jpg
 | Name                    = [[Blackagar Boltagon]]
 | CurrentAlias            = [[Black Bolt]]
@@ -31,7 +31,7 @@
 | CharRef                 = {{cl|Marvel Avengers: The Ultimate Character Guide #2}}
 | Gender                  = Male
 | Height                  = 6'2" 
-| Weight                  = 210 lbs (95,25 kg){{r|Black Bolt | Marvel 101}}
+| Weight                  = 220 lbs
 | Eyes                    = Blue
 | Hair                    = Black
 | UnusualFeatures         = 

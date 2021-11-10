@@ -27,7 +27,37 @@
 | Creators                = Stan Lee; Jack Kirby;
 | First                   = Incredible Hulk #5
 
-| HistoryText             = The Tyrranoids were a sub-species of [[Moloids]] that were named after their leader [[Romulus Augustulus (Earth-616)|Tyrannus]].
+| Overview             = The '''Tyrranoids''' were a sub-species of [[Moloids]] that were named after their leader [[Romulus Augustulus (Earth-616)|Tyrannus]].
+
+
+| HistoryText             = 
+===6th cenytury===
+When Tyrannus a former [[Roman Empire|Roman]] Emperor was trapped beneath the Earth; he discovered a group of Moloids and tricked them into worshiping him as a [[god]]. Now known as Tyrranoids he ruled them in peace for the next 1000 years.{{r|Incredible Hulk #5}}
+
+===19th century===
+In 1862, Tyrannus lead an invasion of Tyrannoid, bursting through the ground interrupting a battle of the [[American Civil War (Event)|American Civil War]].{{r|Ruins of Ravencroft: Sabretooth Vol 1 1}} 
+
+===Modern Age===
+The Tyrannoids helped Tyrannus when he attempted to conquer the surface world. They kidnapped [[Elizabeth Ross (Earth-616)|Betty Ross]] and holding her hostage, thus preventing her [[Thaddeus Ross (Earth-616)|father]] from resisting. The [[Bruce Banner (Earth-616)|Hulk]] and [[Richard Jones (Earth-616)|Rick Jones]] followed but they too were captured by Tyrannus and his forces and used Betty as a tool against them, they eventually freed her and the trio escaped.{{r|Incredible Hulk Vol 1 5}} 
+
+When [[Harvey Elder (Earth-616)|Mole Man]] stole the [[Fountain of Youth]] causing Tyrannus to age rapidly. The Tyrannoids teleported the Hulk to Subterranea in hopes of recapturing the fountain saving their master. He was successful and was able to restore his youth and they returned the Hulk to the surface.{{r|Tales to Astonish #80|81}}
+
+<!--
+{{r|Tales to Astonish Vol 1 80|81}}
+{{r|X-Men Vol 1 34}
+{{r|Incredible Hulk Vol 1 127}}
+{{r|Nova Vol 1 5}}
+{{r|Incredible Hulk Annual Vol 1 15}}
+{{r|Fantastic Four Vol 1 313}}
+{{r|X-Factor Annual Vol 1 3}}
+{{r|Avengers Annual Vol 1 20}}
+{{r|Incredible Hulk Annual Vol 1 17}}
+{{r|West Coast Avengers Annual Vol 2 6}}
+{{r|Warlock and the Infinity Watch Vol 1 35}}
+{{r|Hulk Vol 1 3|11}}
+{{r|Incredible Hulks Vol 1 627|630}}
+{{r|X-Men: Gold Annual Vol 1 1}}
+-->
 
 | Habitat                 = 
 | Gravity                 = 

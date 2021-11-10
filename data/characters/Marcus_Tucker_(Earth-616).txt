@@ -1,7 +1,7 @@
 {{Marvel Database:Character Template
 | Image                   = Marcus Tucker (Earth-616) from New X-Men Vol 1 117 0001.png
 | Name                    = Marcus Tucker
-| Name2                   = <ref>{{cl|Official Handbook of the Marvel Universe A-Z Vol 1 13}}, X-Men entry</ref>
+| Name2                   = <ref>{{cl|Official Handbook of the Marvel Universe A to Z Vol 1 13}}, X-Men entry</ref>
 | CurrentAlias            = Forearm
 | Aliases                 = 
 

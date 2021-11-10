@@ -3,7 +3,7 @@
 | Name                    = [[Maggia]]
 | Aliases                 = Five Families,{{r|Amazing Spider-Man: Venom Inc. Alpha Vol 1 1}} Syndicate,{{r|Marvel Super Action Vol 1 1}} Undermob{{r|Amazing Spider-Man Annual Vol 1 42}}
 
-| OrganizationLeaders     = 
+| Leaders                 = 
 {{Navigation
 | title                   =<br>Global Maggia
 | body                    = Formerly [[Luchino Nefaria (Earth-616)|Count Nefaria]], [[Giuletta Nefaria (Earth-616)|Madame Masque]]

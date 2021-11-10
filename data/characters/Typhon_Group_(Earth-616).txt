@@ -3,7 +3,7 @@
 | Name                    = Typhon Group
 | Aliases                 = TYPH
 
-| OrganizationLeaders             = 
+| Leaders                         = 
 | CurrentMembers          = 
 | FormerMembers           = 
 

@@ -1,7 +1,7 @@
 {{Marvel Database:Character Template
 | Image                   = Frank Payne (Earth-616) from Venom Vol 2 37 001.jpg
 | Name                    = [[Frank Payne]]
-| NameRef                 = {{r|Official Handbook of the Marvel Universe A-Z #2}}
+| NameRef                 = {{r|Official Handbook of the Marvel Universe A to Z Vol 1 2}}
 | CurrentAlias            = [[Constrictor]]
 | Aliases                 = [[Frank Schlichting]],{{r|Nick Fury, Agent of S.H.I.E.L.D. Vol 3 36}} Con Man{{r|Hood Vol 1 6}}
 
@@ -15,7 +15,7 @@ Mia Payne (daughter);<br>
 [[Rachel Leighton (Earth-616)|Rachel Leighton]] (fiancée)
 | MaritalStatus           = Engaged; (and previously divorced)
 
-| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #2}}
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A to Z Vol 1 2}}
 | Gender                  = Male
 | Height                  = 5'11"
 | Weight                  = 190 lbs
@@ -107,7 +107,7 @@ Constrictor decided to retire from his criminal life and live peacefully with [[
 * Constrictor was one of the candidates on [[Steven Rogers (Earth-616)|Steve Rogers]]' list of supervillains to enroll in [[Luke Cage (Earth-616)|Luke Cage]]'s [[Thunderbolts (Earth-616)|Thunderbolts]] roster.{{r|Heroic Age: Villains #1}}
 * Constrictor was awarded the [[Wikipedia:Purple_Heart|Purple Heart]].{{r|Avengers: The Initiative Vol 1 12}}
 | Links                   = 
-* http://en.wikipedia.org/wiki/Constrictor_%28comics%29
+* http://en.wikipedia.org/wiki/Constrictor_(comics)
 * {{cl|Official Handbook of the Marvel Universe Vol 2 3}} (February 1986)
 }}
 [[Category:Camp Hammond Staff]]

@@ -4,7 +4,7 @@
 | CurrentAlias            = Doctor Nemesis
 | Aliases                 = [[Doctor Death]],{{r|Invaders Vol 2 #1}} [[Nemesis]]{{citation}}
 
-| Affiliation             = Formerly {{m|X-Men}}, {{m|Agents of Wakanda (Earth-616)|Agents of Wakanda}}, [[Hope Summers (Earth-616)|Hope]]'s {{m|X-Force}} (formerly [[Nathaniel Summers (Earth-616)|Cable]]'s), {{m|X-Club}}, {{m|Battle-Axis}}
+| Affiliation             = Formerly {{m|X-Men}}, {{m|Agents of Wakanda (Earth-616)|Agents of Wakanda}}, [[Hope Summers (Earth-616)|Hope]]'s {{m|X-Force}} (formerly [[Nathan Summers (Earth-616)|Cable]]'s), {{m|X-Club}}, {{m|Battle-Axis}}
 
 | Relatives               = 
 [[John Price (Earth-616)|John Price]] (maternal grandfather, deceased);<br>
@@ -13,7 +13,7 @@
 [[Nicola Bradley (Earth-616)|Dr. Nicola Bradley]] (father, deceased);<br>
 Mary Strong (former fiancée);<br>
 Ex-wife (unknown if Mary Strong or other);{{r|X-Men: Schism #4}}<br>
-[[Human Torch (Android) (Earth-616)|Human Torch (Jim Hammond)]] & [[Volton (Earth-616)|Volton]] ("sons"/creations)
+[[Jim Hammond (Earth-616)|Human Torch (Jim Hammond)]] & [[Volton (Earth-616)|Volton]] ("sons"/creations)
 | MaritalStatus           = Divorced
 
 | CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z Update #4}}
@@ -48,7 +48,7 @@ Ex-wife (unknown if Mary Strong or other);{{r|X-Men: Schism #4}}<br>
 James Bradley was born on December 1st,{{r|Uncanny X-Men #512}} 1906 in [[San Francisco]],{{r|Uncanny X-Men #509}} where his mother [[Catherine Price (Earth-616)|Catherine Price]] died during childbirth. His father, [[Nicola Bradley (Earth-616)|Dr. Nicola Bradley]], created a power source for the [[Sentinel (Prototype) (Earth-616)|first sentinel]], and was impaled during its subsequent rampage.{{r|Uncanny X-Men #512}} James was presumably raised by his maternal grandparents, [[John Price (Earth-616)|John]] and [[Mary Price (Earth-616)|Mary Price]].
 
 ===World War II===
-During [[World War II|WWII]], Dr. James Bradley worked with the late [[Phineas Horton (Earth-616)|Phineas Horton]] in the creation of the [[Human Torch (Android) (Earth-616)|Human Torch, aka Jim Hammond]]. The two ultimately parted ways and James struck out on his own, taking an unfinished android prototype they created together. Bradley activated the android and told him that he was Guy Newton, a young inventor who came up with the way to generate electricity in his body. Taking his word for it, the android began adventuring as a costumed hero named [[Volton (Earth-616)|Volton]].{{citation}}
+During [[World War II|WWII]], Dr. James Bradley worked with the late [[Phineas Horton (Earth-616)|Phineas Horton]] in the creation of the [[Jim Hammond (Earth-616)|Human Torch, aka Jim Hammond]]. The two ultimately parted ways and James struck out on his own, taking an unfinished android prototype they created together. Bradley activated the android and told him that he was Guy Newton, a young inventor who came up with the way to generate electricity in his body. Taking his word for it, the android began adventuring as a costumed hero named [[Volton (Earth-616)|Volton]].{{citation}}
 
 Needing to earn money, Bradley became a doctor at Mercy Hospital in [[New York City]]. Somewhere along the way, he decided to become a superhero. Wearing a surgeon's mask and armed with a hypodermic needle gun of his own design, he fought crime as '''Doctor Nemesis'''.{{citation}}
 
@@ -99,7 +99,7 @@ When the X-Men turned over the Phoenix Five and joined the Avengers, Bradley was
 At the end of the conflict, he postulated on joining the faculty staff of the [[Jean Grey School For Higher Learning]], but wasn't selected by [[Katherine Pryde (Earth-616)|Kitty Pryde]].{{r|Wolverine and the X-Men #19}}
 
 ===X-Force===
-He then retired into a well-guarded laboratory to perform science on his own, until [[Nathaniel Summers (Earth-616)|Cable]] came to him, suffering from the depletion of his telepathic powers, and recruited him into his [[X-Force (Earth-616)|X-Force]], banding with [[Neena Thurman (Earth-616)|Domino]], [[Hope Summers (Earth-616)|Hope]], and especially [[Forge (Earth-616)|Forge]], in order to help Cable.{{r|Cable and X-Force #1}}
+He then retired into a well-guarded laboratory to perform science on his own, until [[Nathan Summers (Earth-616)|Cable]] came to him, suffering from the depletion of his telepathic powers, and recruited him into his [[X-Force (Earth-616)|X-Force]], banding with [[Neena Thurman (Earth-616)|Domino]], [[Hope Summers (Earth-616)|Hope]], and especially [[Forge (Earth-616)|Forge]], in order to help Cable.{{r|Cable and X-Force #1}}
 
 <!-- ...{{r|Cable and X-Force #2}}{{r|Cable and X-Force #3}}{{r|Cable and X-Force #4}}{{r|Cable and X-Force #5}}{{r|Cable and X-Force #7}}{{r|Cable and X-Force #8}} ...{{r|Cable and X-Force #10}} ...{{r|Cable and X-Force #13}}{{r|Cable and X-Force #14}}{{r|Cable and X-Force #15}}{{r|Cable and X-Force #16}}{{r|Cable and X-Force #17}}
 

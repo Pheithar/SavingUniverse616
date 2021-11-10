@@ -37,7 +37,7 @@ unnamed son
 | Identity                = Public
 | Citizenship             = American
 | Occupation              = Professional criminal; former electrical engineer, inventor, businessman
-| Education               = MS in electrical engineering{{r|Official Handbook of the Marvel Universe A-Z Vol 1 13}}
+| Education               = MS in electrical engineering{{r|Official Handbook of the Marvel Universe A to Z Vol 1 13}}
 | BaseOfOperations        = [[New York City]], [[New York (State)|New York]]
 
 | Creators                = Stan Lee; Steve Ditko
@@ -132,7 +132,7 @@ Early into the tournament and under Kraven's orders, Arcade provided Adrian with
 
 '''[[Superhuman Strength]]:''' With the use of his magnetic technology, Toomes can provide himself with super-strength, being able to lift a water tank easily.{{r|Amazing Spider-Man Vol 1 675}}
 | Abilities               = 
-'''[[Genius Intelligence]]:''' Toomes is intellectually brilliant in the fields of electronics and mechanical engineering, with a great talent for invention. He has earned a Master of Science degree in electrical engineering.{{r|Official Handbook of the Marvel Universe A-Z Vol 1 13}}
+'''[[Genius Intelligence]]:''' Toomes is intellectually brilliant in the fields of electronics and mechanical engineering, with a great talent for invention. He has earned a Master of Science degree in electrical engineering.{{r|Official Handbook of the Marvel Universe A to Z Vol 1 13}}
 | Strength                = Augmented by his Flying Harness, the Vulture's strength is enhanced to some level of peak human.{{r|Amazing Spider-Man Vol 1 241}} He can lift (press) approximately 700 lbs.{{Citation}} Without his harness, he possesses the normal human strength for a man his age, height, and build who engages in minimal regular exercise.{{Citation}}
 | Weaknesses              = 
 

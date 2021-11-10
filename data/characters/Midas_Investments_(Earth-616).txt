@@ -3,7 +3,7 @@
 | Name                    = Midas Investments
 | Aliases                 = 
 
-| OrganizationLeaders     = Formerly Mr. Zachary
+| Leaders                 = Formerly Mr. Zachary
 | CurrentMembers          = 
 | FormerMembers           = [[Austin Cao (Earth-616)|Austin Cao]], Mr Randall
 

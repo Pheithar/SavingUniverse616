@@ -1,7 +1,7 @@
 {{Marvel Database:Character Template
 | Image                   = X-51 Vol 1 12 Textless.jpg
 | Name                    = [[Aaron Stack]]
-| Name2                   = (legal name);<br>Z2P45-9-X-51 (model number){{r|Official Handbook of the Marvel Universe A-Z #6}}
+| Name2                   = (legal name);<br>Z2P45-9-X-51 (model number){{r|Official Handbook of the Marvel Universe A to Z Vol 1 6}}
 | CurrentAlias            = [[Machine Man]]
 | Aliases                 = [[Jack Kubrick (LMD) (Earth-616)|Jack Kubrick]],{{r|X-51 Vol 1 1}} Metal Human,{{r|Marvel Comics Presents Vol 1 9}} Metal Demon,{{r|Marvel Comics Presents Vol 1 10}} Mister Machine,{{r|2001, A Space Odyssey Vol 2 9}} Sentinel Supreme,{{r|Machine Man / Bastion Annual Vol 1 '98}} [[X-51 (Earth-398)|Sir MacHinery]],{{r|Avengers Vol 3 2}} [[X-51]],{{r|2001, A Space Odyssey Vol 2 8}}
 | Affiliation             = Formerly {{m|Avengers West Coast (Earth-616)|West Coast Avengers}}, {{m|Avengers}}, {{m|Heavy Metal}}, unnamed Government Lab, {{m|Delmar Insurance Company}}
@@ -9,7 +9,7 @@
 [[X-Model Robots]] (brothers, mostly deceased)
 | MaritalStatus           = Single
 
-| CharRef                 = Official Handbook of the Marvel Universe A-Z Vol 1 6
+| CharRef                 = Official Handbook of the Marvel Universe A to Z Vol 1 6
 | Gender                  = Male
 | Height                  = 6'0"
 | Weight                  = 850 lbs
@@ -58,17 +58,17 @@ As a last ditch effort at survival, X-51 transferred his consciousness from his 
 
 [[File:X-51 Vol 1 1.jpg|thumb|left|Aaron as the Machine Sentinel]]
 
-The [[Brotherhood of Evil Mutants (Earth-616)|Brotherhood of Mutants]], looking for weapons and devices, excavated the wreckage where X-51 had been lost. They confronted "Kubrick", also on scene, and blew his head off. The LMD's headless body collapsed near the inert original head of Machine Man. The two interfaced, bringing X-51 back online and letting him access the full power of his futuristic Sentinel tech, re-configuring the LMD body into a more powerful form. However, he was also now vulnerable to the Sentinel protocols, reverting to an aggressive mutant-hunting posture whenever in the presence of ''homo superior''.{{r|X-51 #2|8}} Machine Man's new status fascinated the [[Celestials (Race)|Celestials]], who sent a Monolith to observe him. The Monolith offered him a chance to accompany the Celestials, and he agreed.{{r|X-51 Vol 1 12}} Following X-51's departure, an [[Aaron Stack (Impostor) (Earth-616)|impostor]] surfaced, who apparently believed himself to be original Machine Man.{{r|Marvel Comics Vol 1 1001}}
+The [[Brotherhood of Evil Mutants (Earth-616)|Brotherhood of Mutants]], looking for weapons and devices, excavated the wreckage where X-51 had been lost. They confronted "Kubrick", also on scene, and blew his head off. The LMD's headless body collapsed near the inert original head of Machine Man. The two interfaced, bringing X-51 back online and letting him access the full power of his futuristic Sentinel tech, re-configuring the LMD body into a more powerful form. However, he was also now vulnerable to the Sentinel protocols, reverting to an aggressive mutant-hunting posture whenever in the presence of ''homo superior''.{{r|X-51 #2|8}} Machine Man's new status fascinated the [[Celestials]], who sent a Monolith to observe him. The Monolith offered him a chance to accompany the Celestials, and he agreed.{{r|X-51 Vol 1 12}} Following X-51's departure, an [[Aaron Stack (Impostor) (Earth-616)|impostor]] surfaced, who apparently believed himself to be original Machine Man.{{r|Marvel Comics Vol 1 1001}}
 
 | Powers                  = '''Z2P45-9-X-Robot:''' Machine Man is the fifty-first model of Z2P45-9-X range of robots designed by Dr. Abel Stack. His robotic form provides him with various abilities.{{r|Official Handbook of the Marvel Universe #6}}
 *'''Superhuman Strength:''' As the Machine Man, Aaron could lift 2 tons and an extended limb could lift a few hundred pounds.{{r|Official Handbook of the Marvel Universe Vol 2 #7}}
 *'''Superhuman Durability:''' As the Machine Man, Aaron's titanium alloy construction makes him very durable. 
 *'''Wave-Modifying Coating:''' A special 'wave modifying' coating provides some protection from energy attacks.
 *'''Limb Extension:''' Machine Man can extend his limbs up to 100 feet.{{r|Official Handbook of the Marvel Universe Master Edition #24}}
-*'''Flight:''' As the Machine Man, Aaron can fly using anti-gravity units and hover using a propeller attachment.{{r|Official Handbook of the Marvel Universe A-Z #6}}
+*'''Flight:''' As the Machine Man, Aaron can fly using anti-gravity units and hover using a propeller attachment.{{r|Official Handbook of the Marvel Universe A to Z Vol 1 6}}
 
 '''Machine Sentinel:''' In addition to his earlier capabilities, Aaron acquired the following powers from absorbing Sentinel nanotechnology:
-*'''Flight:''' As the Machine Sentinel, Aaron has absorbed and adapted technology for flight using his nanites and can now form a jetpack for personal use. With his jetpack, Aaron is capable of flight speeds in an atmosphere up to Mach 25 (19,250 mph), he can achieve escape velocity from Earth's gravitational pull (25,000 mph), and can reach sub-light speed while traveling in space (176,700 mps/95% lightspeed).{{r|Official Handbook of the Marvel Universe A-Z #6}}
+*'''Flight:''' As the Machine Sentinel, Aaron has absorbed and adapted technology for flight using his nanites and can now form a jetpack for personal use. With his jetpack, Aaron is capable of flight speeds in an atmosphere up to Mach 25 (19,250 mph), he can achieve escape velocity from Earth's gravitational pull (25,000 mph), and can reach sub-light speed while traveling in space (176,700 mps/95% lightspeed).{{r|Official Handbook of the Marvel Universe A to Z Vol 1 6}}
 *'''Superhuman Strength:''' As the Machine Sentinel, Aaron can now lift well beyond 100 tons.{{r|Official Handbook of the Marvel Universe Vol 2 #7}}
 *'''Nano-Technological Self-Augmentation:''' The Prime-Sentinel nanites in his body not only gave Stack an upgrade to his self-repair systems bolstering it to a mechanical [[Healing Factor]]. These nanites also allows him to adapt technology and weapons appropriate for the present situation or opponent. The nanites were responsible for the fusion of Machine Man's damaged body and the remains of the Jack Kubrick Life-Model-Decoy, this resulted in Aaron becoming the Machine Sentinel.{{r|Marvel Avengers: The Ultimate Character Guide #1}}
 *'''X-Gene Disruptor-Field:''' Aaron possesses the standard weapons and technology of a Prime-Sentinel, including the X-Gene Disruptor-Field. The X-Gene Disruptor-Field is a device used to disable or weaken the powers of any mutants in his vicinity.{{r|Heroic Age: Heroes #1}}

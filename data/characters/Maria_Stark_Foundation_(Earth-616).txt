@@ -3,7 +3,7 @@
 | Name                    = Maria Stark Foundation
 | Aliases                 = 
 
-| OrganizationLeaders     = [[Arno Stark (Earth-616)|Arno Stark]]
+| Leaders                 = [[Arno Stark (Earth-616)|Arno Stark]]
 | CurrentMembers          = [[Maxwell Caton (Earth-616)|Max Caton]],[[Janice Imperato (Earth-616)|Janice Imperato]]
 | FormerMembers           = [[Harold Hogan (Earth-616)|Happy Hogan]], [[Anthony Stark (Earth-616)|Tony Stark]], [[Sanford Chesney (Earth-616)|Sanford Chesney]]
 

@@ -8,7 +8,7 @@
 | Relatives               = 
 | MaritalStatus           = Single
 
-| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #3}}
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A to Z Vol 1 3}}
 | Gender                  = Male
 | Height                  = 5'8"
 | Weight                  = 169 lbs

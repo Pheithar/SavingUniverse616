@@ -10,7 +10,7 @@
 | Impersonations          = 
 | Aliases                 = "Female Archer",{{r|Young Avengers Vol 1 7}} [[Taskmistress]],{{r|Young Avengers Vol 1 6}} [[Weapon Woman]]{{r|Young Avengers Vol 1 6}}
 
-| Affiliation             = {{m|Hawkeye Investigations}}, {{m|Avengers West Coast|West Coast Avengers}}; formerly {{m|Babysitters Club}}, {{m|New York City Police Department|NYPD}}'s {{m|Deadpool Task Force}}, {{M|Young Avengers}}, {{M|Secret Avengers (Civil War) (Earth-616)|Secret Avengers}}, partner of [[Clinton Barton (Earth-616)|Hawkeye (Clint Barton)]]
+| Affiliation             = {{m|Hawkeye Investigations}}, {{m|Avengers West Coast|West Coast Avengers}} (leader); formerly {{m|Babysitters Club}}, {{m|New York City Police Department|NYPD}}'s {{m|Deadpool Task Force}}, {{M|Young Avengers}}, {{M|Secret Avengers (Civil War) (Earth-616)|Secret Avengers}}, partner of [[Clinton Barton (Earth-616)|Hawkeye (Clint Barton)]]
 | Parents                 = [[Derek Bishop (Earth-616)|Derek Bishop]] (father)<br>
 [[Eleanor Bishop (Earth-616)|Eleanor Bishop]] (mother)<br>
 [[Heather Bishop (Earth-616)|Heather Bishop]] (step-mother)
@@ -18,7 +18,7 @@
 | Relatives               = [[Lucky (Earth-616)|Lucky]] (pet)
 | MaritalStatus           = Single
 
-| CharRef                 = {{cl|Official Handbook of the Marvel Universe A-Z #5}}
+| CharRef                 = {{cl|Official Handbook of the Marvel Universe A to Z Vol 1 5}}
 | Gender                  = Female
 | Height                  = 5'5"
 | Weight                  = 120 lbs
