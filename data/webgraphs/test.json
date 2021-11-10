@@ -1,0 +1,22 @@
+{
+    "nodes": [
+        {
+            "name": "node 1",
+            "team": "X-Men",
+            "id": "1234",
+            "mentions": 123
+        },
+        {
+            "name": "node 2",
+            "team": "Avengers",
+            "id": "1337",
+            "mentions": 123
+        }
+    ],
+    "links": [
+        {
+            "source": "1234",
+            "target": "1337"
+        }
+    ]
+}
