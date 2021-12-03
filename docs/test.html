@@ -11,12 +11,13 @@
 
   <!-- JQuery -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <!-- Papa Parse -->
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.1/papaparse.min.js"></script>
 
   <!-- Stylesheets -->
   <link rel="stylesheet" href="./css/style.css">
 
-  <!-- JS -->
-  <script src="js/script.js"></script>
+
 
 
 
@@ -29,27 +30,38 @@
   </header>
   <div class="content">
 
+    <ul id="character-list">
+      <input type="text" id="search-character" placeholder="Search for names..">
+    </ul>
+
     <div class="card">
       <!-- <img src="./images/wolverine.webp" alt="wolverine" class="card__image"> -->
-      <img src="https://static.wikia.nocookie.net/marveldatabase/images/1/16/James_Howlett_%28Earth-616%29_from_Wolverine_Vol_7_1_Silva_Variant_cover_001.jpg/revision/latest/scale-to-width-down/781?cb=20191123041154" alt="" class="card__image">
+      <img src="https://marvel.fandom.com/wiki/%27Spinner_(Earth-616)?file=%2527Spinner_%2528Earth-616%2529_from_Marvel_Comics_Presents_Vol_2_1_001.jpg" alt="" class="card__image">
       <div class="card__right">
         <div class="card__title">
-          <h1>James Howlett</h1>
-          <h3>Wolverine</h3>
+          <h1 class="card__title__name">James Howlett</h1>
+          <h3 class="card__title__alias ">Wolverine</h3>
         </div>
         <ul class="card_content">
-          <li>Number of teams: <b>31</b></li>
-          <li>Number of quotes: <b>337</b></li>
-          <li>Lexical Richness: <b>0.210238</b></li>
-          <li>General Sentiment: <b>Negative</b></li>
-          <li>Number of Links: <b>217</b></li>
-          <li>Degree: <b>671</b></li>
+          <li>Number of teams: <b class="card__num-teams">31</b></li>
+          <li>Number of quotes: <b class="card__num-quotes">337</b></li>
+          <li>Lexical Richness: <b class="card__richness">0.210238</b></li>
+          <li>General Sentiment: <b class="card__sentiment">Negative</b></li>
+          <li>Number of Links: <b class="card__num-links">217</b></li>
+          <li>Degree: <b class="card__degree">671</b></li>
         </ul>
       </div>
     </div>
+
+
 
   </div>
 
   <!-- <img src="./images/The_Marvel_Universe.png" alt="all_characters"> -->
 </body>
+
+<!-- JS -->
+<script src="js/script.js"></script>
+<script src="js/list.js"></script>
+
 </html>

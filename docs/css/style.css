@@ -32,6 +32,7 @@ header > .title {
   background-color: #dddddd;
   height: 1000px;
   padding: 20px;
+  position: relative;
 }
 
 .card{
@@ -72,4 +73,25 @@ header > .title {
 .card_content {
   list-style: none;
   margin: 15px 10px 10px 10px;
+}
+
+#character-list {
+  position: absolute;
+  top: 0;
+  left: 0;
+  list-style: none;
+  display: inline-block;
+  margin: 35px;
+  /* border: 2px solid red; */
+}
+
+#character-list > li {
+  padding: 5px 15px;
+  border: 1px solid #68e540;
+  margin: 5px;
+}
+
+#character-list > li:hover {
+  background-color: #5fb3d3;
+  cursor: pointer;
 }
