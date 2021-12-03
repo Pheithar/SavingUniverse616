@@ -46,8 +46,6 @@ function setCharacter(id) {
 
 function searchCharacter() {
   filter = $("#search-character").val().toLowerCase();
-
-
 }
 
 
