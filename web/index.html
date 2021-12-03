@@ -13,13 +13,18 @@
     <link rel="stylesheet"
         href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
     <!--=============== SWIPER CSS ===============-->
-
+    <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
 
     <!--=============== CSS ===============-->
     <link rel="stylesheet" href="assets/css/teams.css">
 
-    <!--=============== MAIN CSS ===============-->
+    <!--=========== SWIPER JS ===========-->
+    <script src="assets/js/swiper-bundle.min.js" defer></script>
+
+    <!--=============== MAIN JS ===============-->
+    <!-- This is dependent on SWIPER.js so needs to be loaded after swiper -->
     <script src="assets/js/main.js" defer></script>
+
 
 
 </head>
@@ -47,7 +52,7 @@
                         <a href="#about" class="nav__link">About</a>
                     </li>
 
-                    <a href="#" class="button button--ghost">Support</a>
+                    <a href="#" class="button button--hero">Support</a>
                 </ul>
 
                 <div class="nav__close" id="nav-close">
@@ -89,13 +94,13 @@
                                     #1 Most spideries boy
                                 </h3>
                                 <h1 class="home__title">
-                                    Does things with weps
+                                    Does things with webs
                                 </h1>
                                 <p class="home__description">
                                     Born in New York this hero seeks justice.
                                 </p>
 
-                                <div class="home__butons">
+                                <div class="home__buttons">
                                     <a href="#" class="button">Investigate</a>
                                     <a href="#" class="button--link button--flex">
                                         Teams
@@ -132,7 +137,7 @@
                                     Born in New York this hero seeks justice.
                                 </p>
 
-                                <div class="home__butons">
+                                <div class="home__buttons">
                                     <a href="#" class="button">Investigate</a>
                                     <a href="#" class="button--link button--flex">
                                         Teams
@@ -169,7 +174,7 @@
                                     Born in New York this hero seeks justice.
                                 </p>
 
-                                <div class="home__butons">
+                                <div class="home__buttons">
                                     <a href="#" class="button">Investigate</a>
                                     <a href="#" class="button--link button--flex">
                                         Teams
@@ -180,6 +185,51 @@
                         </div>
                     </section>
                 </div>
+                <div class="swiper-pagination"></div>
+            </div>
+        </section>
+
+        <!--=========== CATAGORY ===========-->
+        <section class="section catagory">
+            <h2 class="section__title">
+                Most Connected
+                <br>
+                Catagory
+            </h2>
+
+            <div class="catagory__container container grid">
+                <div class="category__data">
+                    <img src="assets/img/heroes/peter_parker.png" alt="" class="category__img">
+                    <h3 class="catagory__title">Spideys</h3>
+                    <p class="catagory__description">Choose the character you think is the most connected</p>
+                </div>
+                <div class="category__data">
+                    <img src="assets/img/heroes/peter_parker.png" alt="" class="category__img">
+                    <h3 class="catagory__title">Spideys</h3>
+                    <p class="catagory__description">Choose the character you think is the most connected</p>
+                </div>
+                <div class="category__data">
+                    <img src="assets/img/heroes/peter_parker.png" alt="" class="category__img">
+                    <h3 class="catagory__title">Spideys</h3>
+                    <p class="catagory__description">Choose the character you think is the most connected</p>
+                </div>
+            </div>
+        </section>
+
+        <!--=========== ABOUT ===========-->
+        <section class="section about" id="about">
+            <div class="about__container container grid">
+                <div class="about__data">
+                    <h2 class="section__title about__title">
+                        About Universe 616
+                    </h2>
+                    <p class="about__description">
+                        Universe 616 is one of many marvel universes. The number 616 refers to the index of the universe in the big Marvel "MULTIVERSE", you heard that right, the marvel lore trancends one universe. This is among other things how they solved having characters with multiple arcs. As an example we all know of the belowed spiderpig, a different version of Spiderman, that occurs in another multiverse, making it very plausible. Who knows maybe we are also in a Marvel universe, where superpowers are just not present?
+                    </p>
+                    <a href="#" class="button">Know more</a>
+
+                </div>
+                <img src="assets/img/multiverse2.png" alt="" class="about__img">
             </div>
         </section>
     </main>
