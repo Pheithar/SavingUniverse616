@@ -9,7 +9,7 @@
 * {
     margin: 0 auto;
     padding: 0;
-    width: 150vh;
+    /* width: 150vh; */
 }
 
 header {
@@ -29,6 +29,69 @@ header > .title {
 
 /* Content */
 .content {
-    background-color: #dddddd;
-    height: 1000px;
+  background-color: #dddddd;
+  height: 1000px;
+  padding: 20px;
+  position: relative;
+}
+
+.card{
+  display: flex;
+  border: 2px solid #000;
+  padding: 0;
+  width: 640px;
+  overflow: hidden;
+  background-color: #68e540;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  top: 0;
+  transition: all ease 0.5s;
+  position: relative;
+}
+
+.card:hover {
+  background-color: #5fb3d3;
+  box-shadow: 0 16px 30px 0 rgba(0, 0, 0, 0.2), 0 20px 60px 0 rgba(0, 0, 0, 0.19);
+  top: -10px;
+}
+
+.card__image {
+  margin: 0;
+  width: 320px;
+  object-fit: cover;
+}
+
+.card__right {
+  width: 100%;
+}
+
+.card__title {
+  margin-top: 15px;
+  text-align: center;
+  clip: rect(0, 10px, 20px, 0);
+}
+.card_content {
+  list-style: none;
+  margin: 15px 10px 10px 10px;
+}
+
+#character-list {
+  position: absolute;
+  top: 0;
+  left: 0;
+  list-style: none;
+  display: inline-block;
+  margin: 35px;
+  /* border: 2px solid red; */
+}
+
+#character-list > li {
+  padding: 5px 15px;
+  border: 1px solid #68e540;
+  margin: 5px;
+}
+
+#character-list > li:hover {
+  background-color: #5fb3d3;
+  cursor: pointer;
 }
