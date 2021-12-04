@@ -18,6 +18,9 @@
     <!--=============== CSS ===============-->
     <link rel="stylesheet" href="assets/css/teams.css">
 
+    <!--=============== POPUP CSS ===============-->
+    <link rel="stylesheet" href="assets/css/popup.css">
+
     <!--=========== SWIPER JS ===========-->
     <script src="assets/js/swiper-bundle.min.js" defer></script>
 
@@ -118,11 +121,7 @@
                                 </p>
 
                                 <div class="home__buttons">
-                                    <a href="#" class="button">Investigate</a>
-                                    <a href="#" class="button--link button--flex">
-                                        Teams
-                                        <i class='bx bx-right-arrow-alt button__icon' ></i>
-                                    </a>
+                                    <button class="button" id="open-modal-button">Investigate</button>
                                 </div>
                             </div>
                         </div>
@@ -155,10 +154,8 @@
                                 </p>
 
                                 <div class="home__buttons">
-                                    <a href="#" class="button">Investigate</a>
-                                    <a href="#" class="button--link button--flex">
-                                        Teams
-                                        <i class='bx bx-right-arrow-alt button__icon' ></i>
+                                    <a href="#" class="button">
+                                        Investigate
                                     </a>
                                 </div>
                             </div>
@@ -192,11 +189,7 @@
                                 </p>
 
                                 <div class="home__buttons">
-                                    <a href="#" class="button">Investigate</a>
-                                    <a href="#" class="button--link button--flex">
-                                        Teams
-                                        <i class='bx bx-right-arrow-alt button__icon' ></i>
-                                    </a>
+                                    <a href="#" onclick= class="button">Investigate</a>
                                 </div>
                             </div>
                         </div>
@@ -274,7 +267,11 @@
                     <input id="searchbar" type="text" class="search__searchbar" placeholder="Enter character name">
                     <button class="button">Search</button>
                 </form>
-                <div id="match-list"></div>
+                <div id="match-list" class=searchbar__result>
+                    <div class="searchbar__elem">
+                        <h4 class="searchbar__elem-title">test</h4>
+                    </div>
+                </div>
             </div>
         </section>
 
@@ -321,6 +318,30 @@
                 </div>
             </div>
         </footer>
+
+        <!--=========== MODALS ===========-->
+        <section class="modal container">
+            <div class="modal__container" id="modal-container">
+                <div class="modal__content">
+                    <div class="modal__close close-modal" title="Close">
+                        <i class='bx bx-x'></i>
+                    </div>
+    
+                    <img src="assets/img/wiki_imgs/'Spinner.jpg" alt="" class="modal__img">
+    
+                    <h1 class="modal__title">Spinner</h1>
+                    <p class="modal__description">Click the button to close</p>
+    
+                    <button class="modal__button modal__button-width">
+                        View Graph
+                    </button>
+    
+                    <button class="modal__button-link close-modal">
+                        Close
+                    </button>
+                </div>
+            </div>
+        </section>
     </main>
 </body>
 </html>

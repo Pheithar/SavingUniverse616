@@ -12,6 +12,10 @@ const searchStates = async searchText => {
         return name.match(regex) 
     });
 
+    if (matches.length > 5) {
+        matches = matches.slice(0, 5)
+    }
+
     if(searchText.length == 0) {
         matches = []
     }
@@ -24,7 +28,7 @@ const outputHTML = matches => {
     if(matches.length > 0) {
         const html = matches.map(match => `
             <div class="searchbar__elem">
-                <h4>${match}</h4>
+                <h4 class="searchbar__elem-title">${match}</h4>
             </div>
         `).join('');
         matchlist.innerHTML = html

@@ -33,7 +33,7 @@ navLink.forEach(n => n.addEventListener('click', linkAction))
 /*==================== HOME SWIPER ====================*/
 let homeSwiper = new Swiper(".home-swiper", {
     spaceBetween: 50,
-    loop: "true",
+    // loop: "true",
 
     pagination: {
         el: ".swiper-pagination",
@@ -93,3 +93,28 @@ sr.reveal('.home-swiper, .search__container, .footer_links, .footer__content')
 sr.reveal('.category__data, .footer__social-link', {interval: 100})
 sr.reveal('.about__data, .footer__description', {origin: "left"})
 sr.reveal('.about__img, .footer__logo', {origin: "right"})
+
+/*==================== POPUP INFORMATION CARD ====================*/ 
+/*==================== SHOW MODAL ====================*/ 
+const showModal = (openButton, modalContent) => {
+    const openBtn = document.getElementById(openButton),
+                    modalContainer = document.getElementById(modalContent);
+
+    if (openBtn && modalContainer) {
+        openBtn.addEventListener('click', () => {
+            modalContainer.classList.add('show-modal')
+        })
+    }
+}
+
+showModal('open-modal-button', 'modal-container')
+
+/*==================== CLOSE MODAL ====================*/ 
+const closeBtn = document.querySelectorAll(".close-modal")
+
+function closeModal() {
+    const modalContainer = document.getElementById("modal-container")
+    modalContainer.classList.remove("show-modal")
+}
+
+closeBtn.forEach(b => b.addEventListener('click', closeModal))
