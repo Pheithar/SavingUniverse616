@@ -42,12 +42,14 @@ function setCharacter(id) {
   $(".card__sentiment").text(character_list[id].sentiment)
   $(".card__num-links").text(character_list[id].num_links)
   $(".card__degree").text(character_list[id].degree)
+
+  var filename = character_list[id].name.replaceAll(" ", "_")
+
+  $(".card__image").attr("src", "assets/images/"+filename+".jpg")
 }
 
 function searchCharacter() {
   filter = $("#search-character").val().toLowerCase();
-
-
 }
 
 
