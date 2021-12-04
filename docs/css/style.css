@@ -40,6 +40,7 @@ header > .title {
   border: 2px solid #000;
   padding: 0;
   width: 640px;
+  height: 400px;
   overflow: hidden;
   background-color: #68e540;
   border-radius: 10px;
@@ -55,10 +56,17 @@ header > .title {
   top: -10px;
 }
 
+.card__image__container {
+  width: 600px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+}
 .card__image {
   margin: 0;
-  width: 320px;
-  object-fit: cover;
+  /* width: 320px; */
+  height: 400px;
+  /* object-fit: cover; */
 }
 
 .card__right {
@@ -75,14 +83,30 @@ header > .title {
   margin: 15px 10px 10px 10px;
 }
 
-#character-list {
+.characters {
   position: absolute;
   top: 0;
   left: 0;
+  /* display: inline-block; */
+  width: 20%;
+}
+
+#search-character {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 35px;
+}
+
+#character-list {
+  position: absolute;
+  top: 30px;
+  left: 25px;
   list-style: none;
   display: inline-block;
   margin: 35px;
-  /* border: 2px solid red; */
+  max-height: 500px;
+  overflow: scroll;
 }
 
 #character-list > li {

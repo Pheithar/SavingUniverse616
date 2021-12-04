@@ -2,4 +2,4 @@
 **/.ipynb_checkpoints/*
 /data/character_content/*.json
 /data/character_quotes/*.json
-
+/docs/assets/images/
