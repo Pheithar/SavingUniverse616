@@ -19,8 +19,7 @@
   --container-color: linear-gradient(270deg, hsl(14, 97%, 22%) 0%, hsl(17, 100%, 34%) 100%);
 
 /* RED GRADIANT */
-  --body-color: linear-gradient(90deg, hsl(360, ))
-
+  /* --body-color: linear-gradient(90deg, hsl(360, )) */
   /*========== Font and typography ==========*/
   --body-font: 'Poppins', sans-serif;
   --biggest-font-size: 2rem;
