@@ -32,7 +32,7 @@ navLink.forEach(n => n.addEventListener('click', linkAction))
 
 /*==================== HOME SWIPER ====================*/
 let homeSwiper = new Swiper(".home-swiper", {
-    spaceBetween: 30,
+    spaceBetween: 50,
     loop: "true",
 
     pagination: {
@@ -40,7 +40,7 @@ let homeSwiper = new Swiper(".home-swiper", {
         clickable: true,
     },
     autoplay: {
-        delay: 1000,
+        delay: 10000,
       },
 });
 

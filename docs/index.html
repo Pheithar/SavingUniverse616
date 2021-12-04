@@ -29,6 +29,8 @@
     <!--=========== SCROLL REVEAL ===========-->
     <script src="assets/js/scrollreveal.min.js" defer></script>
 
+    <!--=========== AUTO COMPLETE SEARCHBAR ===========-->
+    <script src="assets/js/autocomplete.js" defer></script>
 
     <!--=============== MAIN JS ===============-->
     <!-- This is dependent on SWIPER.js so needs to be loaded after swiper -->
@@ -52,7 +54,11 @@
                         <a href="#home" class="nav__link">Home</a>
                     </li>
                     <li class="nav__item">
-                        <a href="#Connected" class="nav__link">Most connected</a>
+                        <a href="#Connected" class="nav__link">Characters</a>
+                    </li>
+
+                    <li class="nav__item">
+                        <a href="#Teams" class="nav__link">Teams</a>
                     </li>
                     
                     <li class="nav__item">
@@ -95,20 +101,20 @@
                                         Peter Parker
                                     </h4>
                                     <span class="home__details-subtitle">
-                                        The Incredible Spiderman
+                                        The Amazing Spiderman
                                     </span>
                                 </div>
                             </div>
 
                             <div class="home__data">
                                 <h3 class="home__subtitle">
-                                    #1 Most spideries boy
+                                    Most quotes
                                 </h3>
                                 <h1 class="home__title">
                                     Does things with webs
                                 </h1>
                                 <p class="home__description">
-                                    Born in New York this hero seeks justice.
+                                    Sometimes student, sometimes scientist and sometimes photographer, Peter Parker is a full-time super hero better known as the web-slinging and wall-crawling Spider-Man.
                                 </p>
 
                                 <div class="home__buttons">
@@ -124,28 +130,28 @@
                     <section class="swiper-slide">
                         <div class="home__content grid">
                             <div class="home__group">
-                                <img src="assets/img/heroes/peter_parker.png" alt="Peter Parker" class="home__img">
+                                <img src="assets/img/heroes/wolverine.png" alt="Peter Parker" class="home__img">
                                 <div class="home__indicator"></div>
 
                                 <div class="home__details-img">
                                     <h4 class="home__details-title">
-                                        Peter Parker
+                                        James Howlett
                                     </h4>
                                     <span class="home__details-subtitle">
-                                        The Incredible Spiderman
+                                        Wolverine
                                     </span>
                                 </div>
                             </div>
 
                             <div class="home__data">
                                 <h3 class="home__subtitle">
-                                    #1 Most spideries boy
+                                    Most amount of teams
                                 </h3>
                                 <h1 class="home__title">
-                                    Does things with weps
+                                    Has metal in hands
                                 </h1>
                                 <p class="home__description">
-                                    Born in New York this hero seeks justice.
+                                    Cursed with a berserker fury, the violent mutant known as Wolverine has a reputation both an outstanding superhero and as a lethal killer. 
                                 </p>
 
                                 <div class="home__buttons">
@@ -203,9 +209,7 @@
         <!--=========== CATAGORY ===========-->
         <section class="section catagory" id="Connected">
             <h2 class="section__title">
-                Most Connected
-                <br>
-                Catagory
+                Remarkable Characters
             </h2>
 
             <div class="category__container container grid">
@@ -224,7 +228,19 @@
                     <h3 class="catagory__title">Spideys</h3>
                     <p class="catagory__description">Choose the character you think is the most connected</p>
                 </div>
+                <div class="category__data">
+                    <img src="assets/img/heroes/peter_parker.png" alt="" class="category__img">
+                    <h3 class="catagory__title">Spideys</h3>
+                    <p class="catagory__description">Choose the character you think is the most connected</p>
+                </div>
             </div>
+        </section>
+
+        <!--=========== TEAMS ===========-->
+        <section class="section teams" id="Teams">
+            <h2 class="section__title">
+                Remarkable Teams
+            </h2>
         </section>
 
         <!--=========== ABOUT ===========-->
@@ -240,7 +256,7 @@
                     <a href="#" class="button">Know more</a>
 
                 </div>
-                <img src="assets/img/multiverse2.png" alt="" class="about__img">
+                <img src="assets/img/pngegg.png" alt="" class="about__img">
             </div>
         </section>
 
@@ -255,9 +271,10 @@
                 </p>
 
                 <form action="" class="search__form">
-                    <input type="text" class="search__searchbar" placeholder="Enter character name">
+                    <input id="searchbar" type="text" class="search__searchbar" placeholder="Enter character name">
                     <button class="button">Search</button>
                 </form>
+                <div id="match-list"></div>
             </div>
         </section>
 
