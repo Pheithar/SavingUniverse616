@@ -81,6 +81,21 @@
     border-radius: .75rem;
 }
 
+.modal__question {
+    background-color: var(--first-color);
+    border-radius: 50%;
+    display: inline-flex;
+    justify-self: center;
+    align-self: center;
+    transition: .3s;
+    color: white;
+}
+
+.modal__question:hover {
+    background-color: white;
+    color: black;
+}
+
 .modal__close {
     display: inline-flex;
     background-color: var(--first-color);
