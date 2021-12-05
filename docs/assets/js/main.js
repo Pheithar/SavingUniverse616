@@ -33,15 +33,15 @@ navLink.forEach(n => n.addEventListener('click', linkAction))
 /*==================== HOME SWIPER ====================*/
 let homeSwiper = new Swiper(".home-swiper", {
     spaceBetween: 50,
-    // loop: "true",
+    loop: "true",
 
     pagination: {
         el: ".swiper-pagination",
         clickable: true,
     },
-    autoplay: {
-        delay: 10000,
-      },
+    // autoplay: {
+    //     delay: 10000,
+    //   },
 });
 
 /*==================== CHANGE BACKGROUND HEADER ====================*/
@@ -96,25 +96,93 @@ sr.reveal('.about__img, .footer__logo', {origin: "right"})
 
 /*==================== POPUP INFORMATION CARD ====================*/ 
 /*==================== SHOW MODAL ====================*/ 
-const showModal = (openButton, modalContent) => {
-    const openBtn = document.getElementById(openButton),
-                    modalContainer = document.getElementById(modalContent);
+// const showModal = (openButton) => {
+//     const openBtn = document.getElementById(openButton),
+//                     modalContainer = document.getElementById("modal-container");
 
-    if (openBtn && modalContainer) {
-        openBtn.addEventListener('click', () => {
-            modalContainer.classList.add('show-modal')
-        })
-    }
-}
+//     if (openBtn && modalContainer) {
+//         openBtn.addEventListener('click', () => {
+//             modalContainer.classList.add('show-modal')
+//         })
+//     }
+// }
 
-showModal('open-modal-button', 'modal-container')
 
-/*==================== CLOSE MODAL ====================*/ 
-const closeBtn = document.querySelectorAll(".close-modal")
+let modalShown = false
+
 
 function closeModal() {
     const modalContainer = document.getElementById("modal-container")
     modalContainer.classList.remove("show-modal")
+    modalShown = false
 }
+
+const showModal = async (character_id) => {
+    if (modalShown) {
+        return
+    }
+
+    $.getJSON("assets/data/test.json", function(characters) {
+        modalContainer = document.getElementById("modal-container")
+        char = characters.find(el => el.id == character_id)
+
+        html = `
+        <div class="modal__content">
+                    <div class="modal__close close-modal" title="Close" onclick="closeModal()">
+                        <i class='bx bx-x'></i>
+                    </div>
+
+                    <div class="modal__description">
+                        <div class="modal__intro">
+                            <img src="assets/img/wiki_imgs/${char.filename}.jpg" alt="" class="modal__img">
+                            <h1 class="modal__title">${char.name.replace("(Earth-616)", "")}</h1>
+                            <h1 class="modal__alias">[${char.alias}]</h1>
+                        </div>
+
+                        <div class="modal__stats">
+                            <div class="modal__stat">
+                                # Teams: ${char.number_teams}
+                            </div>
+                            <div class="modal__stat">
+                                # Quotes: ${char.number_quotes}
+                            </div>
+                            <div class="modal__stat">
+                                Lexical richness: ${char.lexical_richness}
+                            </div>
+                            <div class="modal__stat">
+                                Overall Category: ${char.overall_category}
+                            </div>
+                            <div class="modal__stat">
+                                # Links: ${char.number_links}
+                            </div>
+                            <div class="modal__stat">
+                                Degree: ${char.degree}
+                            </div>
+                        </div>
+                    </div>
+    
+                    <div class="modal__buttons">
+                        <button class="modal__button modal__button-width">
+                            View Graph
+                        </button>
+        
+                        <button class="modal__button-link close-modal" onclick="closeModal()">
+                            Close
+                        </button>
+                    </div>
+                </div>
+        `
+
+        modalContainer.innerHTML = html
+        modalContainer.classList.add("show-modal")
+        modalShown = true
+    });
+}
+// showModal("0")
+
+/*==================== CLOSE MODAL ====================*/ 
+const closeBtn = document.querySelectorAll(".close-modal")
+
+
 
 closeBtn.forEach(b => b.addEventListener('click', closeModal))
