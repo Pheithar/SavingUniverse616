@@ -141,21 +141,28 @@ const showModal = async (character_id) => {
 
                         <div class="modal__stats">
                             <div class="modal__stat">
-                                # Teams: ${char.number_teams}
+                            <i class='bx bx-question-mark modal__question' title="Number of teams the person is a part of"></i>
+                                Teams: ${char.number_teams}
                             </div>
                             <div class="modal__stat">
-                                # Quotes: ${char.number_quotes}
+                            <i class='bx bx-question-mark modal__question' title="Number of quotes by ${char.name.replace("(Earth-616)", "")} this person on the wiki"></i>
+                                Quotes: ${char.number_quotes}
                             </div>
                             <div class="modal__stat">
+                            <i class='bx bx-question-mark modal__question' title="Lexical richness of person"></i>
                                 Lexical richness: ${char.lexical_richness}
+
                             </div>
                             <div class="modal__stat">
+                            <i class='bx bx-question-mark modal__question' title="Catagory from: [Positive, Neutral, Negative]"></i>
                                 Overall Category: ${char.overall_category}
                             </div>
                             <div class="modal__stat">
-                                # Links: ${char.number_links}
+                            <i class='bx bx-question-mark modal__question' title="Num of unique characters linked to in description"></i>
+                                Links: ${char.number_links}
                             </div>
                             <div class="modal__stat">
+                            <i class='bx bx-question-mark modal__question' title="Total number of in- and out-going links"></i>
                                 Degree: ${char.degree}
                             </div>
                         </div>
