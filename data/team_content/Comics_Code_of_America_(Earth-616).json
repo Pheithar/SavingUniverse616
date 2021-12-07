@@ -1,0 +1,17 @@
+{
+    "pageid": 1020002,
+    "ns": 0,
+    "title": "Comics Code of America (Earth-616)",
+    "revisions": [
+        {
+            "slots": {
+                "main": {
+                    "contentmodel": "wikitext",
+                    "contentformat": "text/x-wiki",
+                    "*": "{{Marvel Database:Organization Template\n| Image                   = No Image Available At All.png\n| Name                    = [[Comics Code of America]]\n| Aliases                 = \n\n| Leaders                 = \n| CurrentMembers          = \n| FormerMembers           = \n\n| Identity                = Public\n| Affiliation             =\n| Allies                  = \n| Enemies                 = \n\n| Origin                  = Federal agency\n| Reality                 = Earth-616\n| Status                  = <!-- Jen Walters mentions them in present and not past -->\n| BaseOfOperations        = \n| PlaceOfFormation        = \n| PlaceOfDissolution      = \n\n| Creators                = Dan Slott\n| First                   = She-Hulk #2\n| First2                  = (Mentioned)\n| History                 = The Comics Code of America was a federal agency whose seals was beared by all [[Marvel Comics]] published before 2002, making them legal documents that could be used as admissible records in a court of law.{{r|She-Hulk #2}}\n| Equipment               = \n| Transportation          = \n| Weapons                 = \n| Notes                   = * The Comics Code of America was approved by the [[Wikipedia:Comics Code Authority|Comics Code Authority]].\n| Trivia                  = \n| Links                   = \n}}\n[[Category:United States Government (Earth-616)/Members]]"
+                }
+            }
+        }
+    ],
+    "page_id": "1020002"
+}
