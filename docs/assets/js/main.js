@@ -91,8 +91,8 @@ const sr = ScrollReveal({
 
 sr.reveal('.home-swiper, .search__container, .footer_links, .footer__content')
 sr.reveal('.category__data, .footer__social-link', {interval: 100})
-sr.reveal('.about__data, .footer__description', {origin: "left"})
-sr.reveal('.about__img, .footer__logo', {origin: "right"})
+sr.reveal('.about__data, .footer__description, .dataset__img', {origin: "left"})
+sr.reveal('.about__img, .footer__logo, .dataset__data', {origin: "right"})
 
 /*==================== POPUP INFORMATION CARD ====================*/ 
 /*==================== SHOW MODAL ====================*/ 
@@ -117,79 +117,181 @@ function closeModal() {
     modalShown = false
 }
 
-const showModal = async (character_id) => {
+var characters
+$.getJSON({
+    url: "assets/data/test.json",
+    async: false,
+    dataType: "json",
+    success: function (json) {
+        characters = json
+    } 
+});
+
+function createStatsHTML(character_id) {
+    char = characters.find(el => el.id == character_id)
+
+    return `
+    <div class="modal__content">
+                <div class="modal__close close-modal" title="Close" onclick="closeModal()">
+                    <i class='bx bx-x'></i>
+                </div>
+
+                <div class="modal__description">
+                    <div class="modal__intro">
+                        <img src="assets/img/wiki_imgs/${char.filename}.jpg" alt="" class="modal__img">
+                        <h1 class="modal__title">${char.name.replace("(Earth-616)", "")}</h1>
+                        <h1 class="modal__alias">[${char.alias}]</h1>
+                    </div>
+
+                    <div class="modal__stats">
+                        <div class="modal__stat">
+                        <i class='bx bx-question-mark modal__question' title="Number of teams the person is a part of"></i>
+                            Teams: ${char.number_teams}
+                        </div>
+                        <div class="modal__stat">
+                        <i class='bx bx-question-mark modal__question' title="Number of quotes by ${char.name.replace("(Earth-616)", "")} this person on the wiki"></i>
+                            Quotes: ${char.number_quotes}
+                        </div>
+                        <div class="modal__stat">
+                        <i class='bx bx-question-mark modal__question' title="Lexical richness of person"></i>
+                            Lexical richness: ${char.lexical_richness}
+
+                        </div>
+                        <div class="modal__stat">
+                        <i class='bx bx-question-mark modal__question' title="Catagory from: [Positive, Neutral, Negative]"></i>
+                            Overall Category: ${char.overall_category}
+                        </div>
+                        <div class="modal__stat">
+                        <i class='bx bx-question-mark modal__question' title="Num of unique characters linked to in description"></i>
+                            Links: ${char.number_links}
+                        </div>
+                        <div class="modal__stat">
+                        <i class='bx bx-question-mark modal__question' title="Total number of in- and out-going links"></i>
+                            Degree: ${char.degree}
+                        </div>
+                    </div>
+                </div>
+
+                <div class="modal__buttons" onclick="changeModalToGraph(${char.id})">
+                    <button class="modal__button modal__button-width">
+                        View Graph
+                    </button>
+    
+                    <button class="modal__button-link close-modal" onclick="closeModal()">
+                        Close
+                    </button>
+                </div>
+            </div>
+    `
+}
+
+function createGraphData(character_id) {
+    char = characters[character_id]
+    nodes = [char["name"], char["teams"]].flat()
+    nodes.forEach(function(part, index, arr) {
+        arr[index] = part.replace("(Earth-616)", "")
+    })
+    
+    g_nodes = []
+    for (var i = 0; i < nodes.length; i++) {
+        g_nodes.push({
+            id: i,
+            label: nodes[i],
+            color: {
+                background: "white"
+            }
+        })
+    }
+    
+    g_edges = []
+    for (var i = 1; i < nodes.length; i++) {
+        g_edges.push({
+            from: 0,
+            to: i
+        })
+    }
+    return {
+        nodes: g_nodes,
+        edges: g_edges,
+        
+    }
+}
+
+function createGraphHTML(character_id) {
+    return `
+    <div class="modal__content">
+        <div class="modal__close close-modal" title="Close" onclick="closeModal()">
+            <i class='bx bx-x'></i>
+        </div>
+
+        <div class="modal__graph-container" id="graph__container"></div>
+        <div class="modal__buttons">
+                    <button class="modal__button modal__button-width" onclick="changeModalToStats(${character_id})">
+                        View Stats
+                    </button>
+    
+                    <button class="modal__button-link close-modal" onclick="closeModal()">
+                        Close
+                    </button>
+                </div>
+    </div>
+    `
+}
+
+function sleep(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+  }
+
+async function changeModalToStats(character_id){
+    modalContainer = document.getElementById("modal-container")
+    modalContainer.classList.remove("show-modal")
+    await sleep(600)
+    modalContainer.innerHTML = ""
+    statsHTML = createStatsHTML(character_id)
+    modalContainer.innerHTML = statsHTML
+    modalContainer.classList.add("show-modal")
+}
+
+async function changeModalToGraph(character_id){
+    modalContainer = document.getElementById("modal-container")
+    modalContainer.classList.remove("show-modal")
+    await sleep(600)
+
+    data = createGraphData(character_id)
+    var options = {
+       nodes: {
+           shape: "circle",
+           widthConstraint: 40,
+           font: {
+               size: 10
+           },
+       },
+       layout: {
+        clusterThreshold: 100,
+       },
+       physics:{
+            stabilization: false
+        }
+    }
+    html = createGraphHTML(character_id)
+    modalContainer.innerHTML = html
+    
+    graphContainer = document.getElementById("graph__container")
+    var network = new vis.Network(graphContainer, data, options)
+    modalContainer.classList.add("show-modal")
+
+}
+
+const showModal = (character_id) => {
     if (modalShown) {
         return
     }
-
-    $.getJSON("assets/data/test.json", function(characters) {
-        modalContainer = document.getElementById("modal-container")
-        char = characters.find(el => el.id == character_id)
-
-        html = `
-        <div class="modal__content">
-                    <div class="modal__close close-modal" title="Close" onclick="closeModal()">
-                        <i class='bx bx-x'></i>
-                    </div>
-
-                    <div class="modal__description">
-                        <div class="modal__intro">
-                            <img src="assets/img/wiki_imgs/${char.filename}.jpg" alt="" class="modal__img">
-                            <h1 class="modal__title">${char.name.replace("(Earth-616)", "")}</h1>
-                            <h1 class="modal__alias">[${char.alias}]</h1>
-                        </div>
-
-                        <div class="modal__stats">
-                            <div class="modal__stat">
-                            <i class='bx bx-question-mark modal__question' title="Number of teams the person is a part of"></i>
-                                Teams: ${char.number_teams}
-                            </div>
-                            <div class="modal__stat">
-                            <i class='bx bx-question-mark modal__question' title="Number of quotes by ${char.name.replace("(Earth-616)", "")} this person on the wiki"></i>
-                                Quotes: ${char.number_quotes}
-                            </div>
-                            <div class="modal__stat">
-                            <i class='bx bx-question-mark modal__question' title="Lexical richness of person"></i>
-                                Lexical richness: ${char.lexical_richness}
-
-                            </div>
-                            <div class="modal__stat">
-                            <i class='bx bx-question-mark modal__question' title="Catagory from: [Positive, Neutral, Negative]"></i>
-                                Overall Category: ${char.overall_category}
-                            </div>
-                            <div class="modal__stat">
-                            <i class='bx bx-question-mark modal__question' title="Num of unique characters linked to in description"></i>
-                                Links: ${char.number_links}
-                            </div>
-                            <div class="modal__stat">
-                            <i class='bx bx-question-mark modal__question' title="Total number of in- and out-going links"></i>
-                                Degree: ${char.degree}
-                            </div>
-                        </div>
-                    </div>
-    
-                    <div class="modal__buttons">
-                        <button class="modal__button modal__button-width">
-                            View Graph
-                        </button>
-        
-                        <button class="modal__button-link close-modal" onclick="closeModal()">
-                            Close
-                        </button>
-                    </div>
-                </div>
-        `
-
-        modalContainer.innerHTML = html
-        modalContainer.classList.add("show-modal")
-        modalShown = true
-    });
+    modalContainer = document.getElementById("modal-container")
+    html = createStatsHTML(character_id)
+    modalContainer.innerHTML = html
+    modalContainer.classList.add("show-modal")
+    modalShown = true
 }
-// showModal("0")
-
-/*==================== CLOSE MODAL ====================*/ 
-const closeBtn = document.querySelectorAll(".close-modal")
 
 
-
-closeBtn.forEach(b => b.addEventListener('click', closeModal))
+// showModal("8131")

@@ -378,10 +378,12 @@ button{
   background-color: transparent;
   border-radius: 3rem;
   padding: .75rem 1.5rem;
+  transition: .3s;
 }
 
 .button--hero:hover {
-  background: none;
+  background: white;
+  color: var(--first-color);
 }
 
 .button--link {
@@ -427,7 +429,7 @@ button{
   margin-bottom: var(--mb-2);
 }
 
-@keyframes hover {
+@keyframes hover_rotate {
   0% {
     transform: translateY(-1rem)
     rotateZ(5deg)
@@ -445,9 +447,65 @@ button{
 .about__img {
   width: 200px;
   justify-self: center;
+  animation: hover_rotate 6s ease-in-out infinite;
+}
+
+/*=============== DATASET ===============*/
+
+@keyframes hover {
+  0% {
+    transform: translateY(-1rem)
+    rotateZ(-35deg)
+  }
+  50% {
+    transform: translateY(1rem)
+    rotateZ(-35deg)
+  }
+  100% {
+    transform: translateY(-1rem)
+    rotateZ(-35deg)
+  }
+}
+
+.dataset__img {
+  width: 200px;
+  justify-self: center;
+  transform: rotateZ(-35deg);
   animation: hover 6s ease-in-out infinite;
 }
 
+.dataset__link {
+  color: white;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+/*=============== WordClouds ===============*/
+.section__description {
+  text-align: center;
+  margin-top: calc(var(--mb-2) * -1);
+}
+
+.section__addendum {
+  text-align: center;
+  margin-bottom: var(--mb-1);
+}
+
+/*=============== Network ===============*/
+.network__description {
+  text-align: center;
+  margin-top: -3rem;
+}
+
+.emphazise {
+  font-weight: bold;
+  text-align: center;
+}
+
+.network__img {
+  background-color: rgba(255, 255, 255, .5);
+  border-radius: .75rem;
+}
 
 /*=============== SEARCH ===============*/
 .search_description {
@@ -711,12 +769,21 @@ button{
     align-items: center;
   }
 
-  .about__title,
-  .about__data {
-    text-align: initial;
+  .about__title {
+    text-align: left;
   }
 
-  .about__img {
+  .dataset__title {
+    text-align: right;
+  }
+
+  .dataset__container {
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+  }
+
+  .about__img,
+  .dataset__img {
     width: 250px;
   }
 
@@ -793,7 +860,8 @@ button{
     width: 200px;
   }
 
-  .about__img {
+  .about__img,
+  .dataset__img {
     width: 350px;
   }
 

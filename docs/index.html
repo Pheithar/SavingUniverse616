@@ -29,6 +29,9 @@
         <i class='bx bx-up-arrow-alt scrollup__icon'></i>
     </a>
 
+    <!--=========== DATA VIZ ===========-->
+    <script src="assets/js/node_modules/vis-network/dist/vis-network.min.js"></script>
+
     <!--=========== JQUERY ===========-->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
@@ -51,7 +54,7 @@
         <nav class="nav container">
             <a href="#" class="nav__logo">
                 <img src="assets/img/logo_preview_rev_1.png" alt="" class="nav__logo-img">
-                Universe 616
+                Earth-616
             </a>
 
             <div class="nav__menu" id="nav-menu">
@@ -59,23 +62,28 @@
                     <li class="nav__item">
                         <a href="#home" class="nav__link">Home</a>
                     </li>
-                    <li class="nav__item">
-                        <a href="#Connected" class="nav__link">Characters</a>
-                    </li>
+                    
 
                     <li class="nav__item">
-                        <a href="#Teams" class="nav__link">Teams</a>
+                        <a href="#welcome" class="nav__link">About</a>
                     </li>
-                    
+                 
                     <li class="nav__item">
-                        <a href="#about" class="nav__link">About</a>
+                        <a href="#dataset" class="nav__link">Dataset</a>
                     </li>
+                 
+                 
+                    <li class="nav__item">
+                        <a href="#Connected" class="nav__link">Wordclouds</a>
+                    </li>
+
+                   
 
                     <li class="nav__item">
                         <a href="#search" class="nav__link">Search</a>
                     </li>
 
-                    <a href="#" class="button button--hero">Notebook</a>
+                    <a href="https://nbviewer.org/github/Pheithar/SavingUniverse616/blob/main/notebooks/Saving%20Universe%20616.ipynb" target="_blank" class="button button--hero">Notebook</a>
                 </ul>
 
                 <div class="nav__close" id="nav-close">
@@ -164,95 +172,219 @@
                             </div>
                         </div>
                     </section>
-                    <section class="swiper-slide">
-                        <div class="home__content grid">
-                            <div class="home__group">
-                                <img src="assets/img/heroes/peter_parker.png" alt="Peter Parker" class="home__img">
-                                <div class="home__indicator"></div>
-
-                                <div class="home__details-img">
-                                    <h4 class="home__details-title">
-                                        Peter Parker
-                                    </h4>
-                                    <span class="home__details-subtitle">
-                                        The Incredible Spiderman
-                                    </span>
-                                </div>
-                            </div>
-
-                            <div class="home__data">
-                                <h3 class="home__subtitle">
-                                    #1 Most spideries boy
-                                </h3>
-                                <h1 class="home__title">
-                                    Does things with weps
-                                </h1>
-                                <p class="home__description">
-                                    Born in New York this hero seeks justice.
-                                </p>
-
-                                <div class="home__buttons">
-                                    <a href="#" class="button">Investigate</a>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
+                    
                 </div>
                 <div class="swiper-pagination"></div>
+            </div>
+        </section>
+
+         <!--=========== ABOUT ===========-->
+         <section class="section about" id="welcome">
+            <div class="about__container container grid">
+                <div class="about__data">
+                    <h2 class="section__title about__title">
+                        About Earth-616
+                    </h2>
+                    <p class="about__description">
+                        Welcome to Earth-616, one of the many Marvel Universes. To accommodate for multiple storylines and avoid conflicts in the stories, i.e. in one story, Spiderman is the hero and suddenly turns into a villain, Marvel decided in an early stage to introduce the multiverse. In all of its essence, The Multiverse is multiple timelines for the marvel characters. You might remember Spiderpig (actually Spider-Ham or Peter Porker), an augmentation of Spiderman where he is a pig. This is, in fact, canon in the marvel universe and happened on Earth-8311. To distinguish between the universes, marvel uses an index system in the Earth-#Number syntax. The central universe is Earth-616, which we explored in this project.
+                    </p>
+                </div>
+                <img src="assets/img/earth.png" alt="" class="about__img">
+            </div>
+        </section>
+
+        <!--=========== DATASET ===========-->
+        <section class="section dataset" id="dataset">
+            <div class="dataset__container container grid">
+                <img src="assets/img/dataset.png" alt="" class="dataset__img">
+
+                <div class="dataset__data">
+                    <h2 class="section__title dataset__title">
+                        The data sets
+                    </h2>
+                    <p class="about__description">
+                        This project works with three data sets: The characters, the characters' quotes and the teams each character is a part of.  All data is retrieved from the <a target="_blank" href="https://marvel.fandom.com/wiki/Marvel_Database" class="dataset__link">Marvel Fandom Wiki</a>. After preprocessing the data sets, we are left with two: The characters and the teams. 
+                        <br>  
+                        The key attributes of the data set consist of the name of the characters, the alter egos, the links to other characters, which teams they are allied to and the quotes from the characters.
+                        <br>
+                        The quotes from the characters will be used for text analysis. Here we will first look at the general words of the teams with the most text.  Lastly, we will create a network consisting of all the characters and see how that looks.
+                        <br>
+                        As some might be interested in the characters in the data set, how many teams they are a part of, whether they are positive or negative, or other small stats, we have implemented a search function for the characters at the bottom of the page.
+                    </p>
+                    <a download="MarvelDataset" href="./assets/data/test.json" class="button">Download Data Set (.json)</a>
+                </div>
+                
             </div>
         </section>
 
         <!--=========== CATAGORY ===========-->
         <section class="section catagory" id="Connected">
             <h2 class="section__title">
-                Remarkable Characters
+                Team wordclouds
             </h2>
+            <h3 class="section__description">
+                Shown in no particular order are the 20 teams with most words.
+            </h3>
+            <h4 class="section__addendum">
+                (Descriptions of the teams are retrieved from the marvel wiki)
+            </h4>
 
             <div class="category__container container grid">
                 <div class="category__data">
-                    <img src="assets/img/heroes/peter_parker.png" alt="" class="category__img">
-                    <h3 class="catagory__title">Spideys</h3>
-                    <p class="catagory__description">Choose the character you think is the most connected</p>
+                    <img src="assets/img/wordclouds/50-State Initiative (Earth-616).png" alt="" class="category__img">
+                    <h3 class="catagory__title">50-State Initiative</h3>
+                    <p class="catagory__description">"In the aftermath of the Civil War, the pro-registration side stood victorious over the anti-registration and Tony Stark was appointed Director of S.H.I.E.L.D. The 50-States Initiative was launched, which called for one S.H.I.E.L.D. sponsored superhuman team for each state. "</p>
                 </div>
                 <div class="category__data">
-                    <img src="assets/img/heroes/peter_parker.png" alt="" class="category__img">
-                    <h3 class="catagory__title">Spideys</h3>
-                    <p class="catagory__description">Choose the character you think is the most connected</p>
-                </div>
-                <div class="category__data">
-                    <img src="assets/img/heroes/peter_parker.png" alt="" class="category__img">
-                    <h3 class="catagory__title">Spideys</h3>
-                    <p class="catagory__description">Choose the character you think is the most connected</p>
-                </div>
-                <div class="category__data">
-                    <img src="assets/img/heroes/peter_parker.png" alt="" class="category__img">
-                    <h3 class="catagory__title">Spideys</h3>
-                    <p class="catagory__description">Choose the character you think is the most connected</p>
-                </div>
+                    <img src="assets/img/wordclouds/Avengers (Earth-616).png" alt="" class="category__img">
+                    <h3 class="catagory__title">Avengers</h3>
+            <p class="catagory__description">"The Avengers are Earth's foremost major organization of costumed superhuman crimefighters, adventurers and heroes dedicated to safeguarding the world from any threat beyond the power of conventional peacekeeping forces or any which any of them can't handle alone.  "</p>
+        </div>
+
+    
+
+        <div class="category__data">
+            <img src="assets/img/wordclouds/Avengers (Heroes Reborn) (Earth-616).png" alt="" class="category__img">
+            <h3 class="catagory__title">Avengers (Heroes Reborn)</h3>
+            <p class="catagory__description">"During the Onslaught event, a group of heroes seemingly sacrificed their lives in order to try and stop the menace. Among the heroes were members of the Avengers, Earth's mightiest heroes. "</p>
+        </div>
+
+    
+
+        <div class="category__data">
+            <img src="assets/img/wordclouds/Avengers Unity Division (Earth-616).png" alt="" class="category__img">
+            <h3 class="catagory__title">Avengers Unity Division</h3>
+            <p class="catagory__description">"After the war between the Avengers and the X-Men, Captain America realized that the Avengers should have done more to help the mutant population. As a result, he formed a new sub-team of Avengers in hopes of unifying mutants and humans as one.  "</p>
+        </div>
+
+    
+
+        <div class="category__data">
+            <img src="assets/img/wordclouds/Defenders (Earth-616).png" alt="" class="category__img">
+            <h3 class="catagory__title">Defenders</h3>
+            <p class="catagory__description">"While trying to defend Earth from the extra-dimensional, demonic beings called the Undying Ones, Sorcerer Supreme Dr. Strange manipulated Prince Namor into aiding him, and then teamed with the monstrous Hulk to ward off the demons.[ "</p>
+        </div>
+
+    
+
+        <div class="category__data">
+            <img src="assets/img/wordclouds/Fantastic Four (Earth-616).png" alt="" class="category__img">
+            <h3 class="catagory__title">Fantastic Four</h3>
+            <p class="catagory__description">"The Fantastic Four (FF) are a superhero team of adventurers who accidentally received powers from "cosmic radiation" during a short trip to space.  "</p>
+        </div>
+
+    
+
+        <div class="category__data">
+            <img src="assets/img/wordclouds/Future Foundation (Earth-616).png" alt="" class="category__img">
+            <h3 class="catagory__title">Future Foundation</h3>
+            <p class="catagory__description">"Reed Richards has become discouraged by Earth's scientists' view of and applications of science which causes more problems. Richards decided to leave the Singularity Conference body, to put together a new group of free-thinking individuals to plan for a better future for all of humanity and Earth.  "</p>
+        </div>
+
+    
+
+        <div class="category__data">
+            <img src="assets/img/wordclouds/Guardians of the Galaxy (Earth-616).png" alt="" class="category__img">
+            <h3 class="catagory__title">Guardians of the Galaxy</h3>
+            <p class="catagory__description">"A group of heroes who opposed the Phalanx conquest of the Kree system (and many who had opposed Annihilus incursion into their universe), who banded together in an attempt to prevent any further catastrophes from ever occurring.  "</p>
+        </div>
+
+    
+
+        <div class="category__data">
+            <img src="assets/img/wordclouds/Heroes for Hire (Knight & Wing) (Earth-616).png" alt="" class="category__img">
+            <h3 class="catagory__title">Heroes for Hire (Knight & Wing)</h3>
+            <p class="catagory__description">"During the Civil War; Misty Knight and Colleen Wing were contacted by Iron Man, Reed Richards, and Spider-Man to reform Heroes for Hire in order to track down superhumans refusing to comply with the Superhuman Registration Act.  "</p>
+        </div>
+
+    
+
+        <div class="category__data">
+            <img src="assets/img/wordclouds/Hive (Symbiotes) (Earth-616).png" alt="" class="category__img">
+            <h3 class="catagory__title">Hive (Symbiotes)</h3>
+            <p class="catagory__description">"To facilitate his deicidal crusade, the dark god Knull created a species of amorphous symbiotic predators from the "living abyss", using them to conquer planets and consume entire civilizations. "</p>
+        </div>
+
+    
+
+        <div class="category__data">
+            <img src="assets/img/wordclouds/Illuminati (Earth-616).png" alt="" class="category__img">
+            <h3 class="catagory__title">Illuminati</h3>
+            <p class="catagory__description">"The Illuminati were a covert think-tank originally consisting of Mister Fantastic, Iron Man, Professor X, Doctor Strange, Black Bolt, and Namor.  "</p>
+        </div>
+
+    
+
+        <div class="category__data">
+            <img src="assets/img/wordclouds/Marvel Knights (Earth-616).png" alt="" class="category__img">
+            <h3 class="catagory__title">Marvel Knights</h3>
+            <p class="catagory__description">"The Marvel Knights moniker was used as a nickname for Daredevil's unnamed superhero team. The team initially formed to capture the Punisher. "</p>
+        </div>
+
+    
+
+        <div class="category__data">
+            <img src="assets/img/wordclouds/Mighty (Earth-616).png" alt="" class="category__img">
+            <h3 class="catagory__title">Mighty</h3>
+            <p class="catagory__description">"In order to retaliate against the Worthy, Captain America brought Ms. Marvel, Iron Fist, Doctor Strange, Iron Man, Black Widow, Hawkeye, Red She-Hulk, Spider-Man, and Wolverine to Asgard to bless certain items in order to match the strength of the Worthy. "</p>
+        </div>
+
+        <div class="category__data">
+            <img src="assets/img/wordclouds/New Avengers (Earth-616).png" alt="" class="category__img">
+            <h3 class="catagory__title">New Avengers</h3>
+            <p class="catagory__description">"In a fit of madness, the Scarlet Witch lost her grip on reality and control over her powers. The subsequent results killed or injured several of her teammates in the Avengers, and Avengers Mansion was severely damaged. "</p>
+        </div>
+
+        <div class="category__data">
+            <img src="assets/img/wordclouds/Secret Avengers (Civil War) (Earth-616).png" alt="" class="category__img">
+            <h3 class="catagory__title">Secret Avengers (Civil War)</h3>
+            <p class="catagory__description">"The Secret Avengers were founded by Captain America in response to the Superhuman Registration Act, set up precisely for those who wanted to fight against Iron Man's initiative for superhuman registration.  "</p>
+        </div>
+
+        <div class="category__data">
+            <img src="assets/img/wordclouds/Secret Defenders (Earth-616).png" alt="" class="category__img">
+            <h3 class="catagory__title">Secret Defenders</h3>
+            <p class="catagory__description">"With the Defenders disbanded, Dr. Strange organized his own "Secret Defenders" project, recruiting whichever heroes he required for a given mission, with no ongoing members.  "</p>
+        </div>
+
+        <div class="category__data">
+            <img src="assets/img/wordclouds/Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616).png" alt="" class="category__img">
+            <h3 class="catagory__title">Strategic Homeland Intervention, Enforcement and Logistics Division</h3>
+            <p class="catagory__description">"The Strategic Homeland Intervention, Enforcement, and Logistics Division is a combined military, scientific research, and espionage agency with a mandate to protect the populace of the world from threats beyond the scope of standard national security agencies. "</p>
+        </div>
+
+        <div class="category__data">
+            <img src="assets/img/wordclouds/United States Army (Earth-616).png" alt="" class="category__img">
+            <h3 class="catagory__title">United States Army</h3>
+            <p class="catagory__description">"The United States Army is the main branch of the United States Armed Forces responsible for land-based military operations.  "</p>
+        </div>
+
+        <div class="category__data">
+            <img src="assets/img/wordclouds/X-Force (Strike Team) (Earth-616).png" alt="" class="category__img">
+            <h3 class="catagory__title">X-Force (Strike Team)</h3>
+            <p class="catagory__description">"After the birth of the first mutant baby since M-Day was missing from the hospital, Cyclops secretly reorganized X-Force with all of the best mutant trackers including Wolverine, Caliban, Hepzibah, Warpath, Wolfsbane, and X-23. "</p>
+        </div>
+
+        <div class="category__data">
+            <img src="assets/img/wordclouds/X-Men (Earth-616).png" alt="" class="category__img">
+            <h3 class="catagory__title">X-Men</h3>
+            <p class="catagory__description">"The X-Men are a team created by Professor Charles Xavier as a response to the emergence of naturally occurring super-humans known as mutants among the baseline human society.  "</p>
+        </div>
+
+
             </div>
         </section>
 
-        <!--=========== TEAMS ===========-->
-        <section class="section teams" id="Teams">
-            <h2 class="section__title">
-                Remarkable Teams
-            </h2>
-        </section>
-
-        <!--=========== ABOUT ===========-->
-        <section class="section about" id="about">
-            <div class="about__container container grid">
-                <div class="about__data">
-                    <h2 class="section__title about__title">
-                        About Universe 616
-                    </h2>
-                    <p class="about__description">
-                        Universe 616 is one of many marvel universes. The number 616 refers to the index of the universe in the big Marvel "MULTIVERSE", you heard that right, the marvel lore trancends one universe. This is among other things how they solved having characters with multiple arcs. As an example we all know of the belowed spiderpig, a different version of Spiderman, that occurs in another multiverse, making it very plausible. Who knows maybe we are also in a Marvel universe, where superpowers are just not present?
-                    </p>
-                    <!-- <a href="#" class="button">Know more</a> -->
-
-                </div>
-                <img src="assets/img/pngegg.png" alt="" class="about__img">
+        <!--=========== Network ===========-->
+        <section class="section network" id="network">
+            <div class="network__container container grid">
+                <h2 class="section__title network__title">
+                    Final Character Network
+                </h2>
+                <p class="network__description">
+                    Below you will see the final network of the characters modelled using <span class="emphazise">forceatlas2</span>.
+                </p>
+                <img src="assets/img/networkimgs/character_network.png" alt="" class="network__img">
             </div>
         </section>
 
@@ -263,7 +395,7 @@
                     Search for a character
                 </h2>
                 <p class="search__description">
-                    Contains all characters at least part of one team present in Universe 616
+                    Contains all characters at least part of one team present in Earth-616
                 </p>
 
                 <form action="" class="search__form">
@@ -323,8 +455,9 @@
 
         <!--=========== MODALS ===========-->
         <section class="modal container">
-            <!-- This where content goes -->
-            <div class="modal__container" id="modal-container"></div>
+            <div class="modal__container" id="modal-container">
+                
+            </div>
         </section>
     </main>
 </body>
